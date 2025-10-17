@@ -1,0 +1,2373 @@
+
+================================================================================
+PAGE 1 (digital_extraction)
+================================================================================
+
+ 
+A ‘Perfect Storm’ of Cumulative and Acute Heat Stress and a 
+Warming Trend Lead to Bleaching Events in Tutuila, 
+American Samoa 
+Joy Smith, Ariel Halperin, Hannah Barkley 
+ 
+ 
+U.S. DEPARTMENT OF COMMERCE 
+National Oceanic and Atmospheric Administration 
+National Marine Fisheries Service 
+Pacific Islands Fisheries Science Center 
+NOAA Technical Memorandum NMFS-PIFSC-129 
+https://doi.org/10.25923/yphg-pq04 
+July 2022 
+ 
+
+
+================================================================================
+PAGE 2 (digital_extraction)
+================================================================================
+
+ii 
+A ‘Perfect Storm’ of Cumulative and Acute Heat Stress and a Warming 
+Trend Lead to Bleaching Events in Tutuila, American Samoa 
+Joy Smith1,2, Ariel Halperin1,2, Hannah Barkley1 
+1 Pacific Islands Fisheries Science Center 
+National Marine Fisheries Service 
+1845 Wasp Boulevard 
+Honolulu, HI 96818 
+2 Cooperative Institute for Marine and Atmospheric Research 
+University of Hawaii 
+1000 Pope Road 
+Honolulu, Hawaii 96822 
+NOAA Technical Memorandum NMFS-PIFSC-129 
+September 2021 
+ 
+U.S. Department of Commerce 
+Gina Raimondo, Secretary 
+National Oceanic and Atmospheric Administration 
+Richard W. Spinrad, Ph.D., NOAA Administrator 
+National Marine Fisheries Service 
+Janet Coit, Assistant Administrator for Fisheries  
+ 
+
+
+================================================================================
+PAGE 3 (digital_extraction)
+================================================================================
+
+iii 
+About this report 
+The Pacific Islands Fisheries Science Center of NOAA’s National Marine Fisheries Service uses 
+the NOAA Technical Memorandum NMFS-PIFSC series to disseminate scientific and technical 
+information that has been scientifically reviewed and edited. Documents within this series reflect 
+sound professional work and may be referenced in the formal scientific and technical literature. 
+Recommended citation 
+Smith J, Halperin A, Barkley H. 2022. A ‘perfect storm’ of cumulative and acute heat stress and 
+a warming trend lead to bleaching events in Tutuila, American Samoa. U.S. Dept. of Commerce, 
+NOAA Technical Memorandum NMFS-PIFSC-129, 51 p. doi:10.25923/yphg-pq04 
+Acknowledgments 
+The authors thank the crew and scientist involved in collecting the NCRMP ecological surveys. 
+Furthermore, we thank Thomas Oliver for guidance on calculating DHW adjusted to depth from 
+in situ temperature loggers. We also thank Courtney Couch for providing the NCRMP ecological 
+survey data. NOAA’s Coral Reef Conservation Program funded this study through Project No. 
+743, which collected the data as part of the National Coral Reef Monitoring Program (NCRMP), 
+and Project No. 31282 which facilitated data analyses. 
+Copies of this report are available from 
+Pacific Islands Fisheries Science Center 
+National Marine Fisheries Service 
+National Oceanic and Atmospheric Administration  
+1845 Wasp Boulevard, Building #176 
+Honolulu, Hawaii 96818 
+Or online at 
+https://repository.library.noaa.gov/ 
+Cover: Reef at American Samoa prior to and during bleaching event.  
+Photo credit: XL Catlin Seaview Survey 
+ 
+ 
+
+
+================================================================================
+PAGE 4 (digital_extraction)
+================================================================================
+
+iv 
+Table of Contents  
+List of Tables ................................................................................................................................. vi 
+List of Figures ............................................................................................................................... vii 
+Introduction ..................................................................................................................................... 1 
+Methods........................................................................................................................................... 3 
+In situ temperature recorder deployment .................................................................................... 3 
+Determining trend through time series analysis.......................................................................... 4 
+Heat stress metrics ...................................................................................................................... 5 
+Cumulative thermal stress ............................................................................................................... 5 
+Acute heating .................................................................................................................................. 6 
+Heating rates ................................................................................................................................... 6 
+Measures of temperature variability ............................................................................................... 6 
+Ecological surveys ...................................................................................................................... 7 
+Statistical analysis ....................................................................................................................... 8 
+Time series analysis and temperature trend .................................................................................... 8 
+Heat stress metrics from full temperature time series (2012–2018) ............................................... 8 
+Heat stress metrics from bleaching year (2015) ............................................................................. 9 
+Results ........................................................................................................................................... 11 
+Time series analysis .................................................................................................................. 11 
+Trends and detrended seasonality ................................................................................................. 11 
+Cross-correlation analysis ............................................................................................................. 13 
+Heat stress metrics .................................................................................................................... 14 
+Cumulative heating ....................................................................................................................... 16 
+Temperature variability ................................................................................................................. 18 
+Linking heating metrics from 2015 bleaching event to NCRMP benthic surveys ................... 23 
+Dominant coral taxa at the ecological sites around Tutuila, American Samoa ............................ 23 
+Discussion ..................................................................................................................................... 29 
+Concurrent heat stress metrics led to bleaching events ............................................................ 29 
+Temporal patterns were the main drivers in patterns for heat stress ......................................... 29 
+Measuring multiple heating metrics during peak bleaching is key to accurately linking heat 
+stress to coral bleaching ............................................................................................................ 30 
+Key Findings ................................................................................................................................. 34 
+
+
+================================================================================
+PAGE 5 (digital_extraction)
+================================================================================
+
+v 
+Concluding Remarks ..................................................................................................................... 39 
+Literature Cited ............................................................................................................................. 40 
+
+
+================================================================================
+PAGE 6 (digital_extraction)
+================================================================================
+
+vi 
+List of Tables  
+Table 1. The number of benthic surveys within 3 nautical miles of each site where a temperature 
+logger was deployed. .......................................................................................................... 8 
+Table 2. Generalized linear model results (F and p-values) examining the temporal (year) and 
+spatial (site and depth) differences in heating metrics across year, site, depth, and their 
+interactions (year*site*depth) for the entire temperature time series (2012–2018). ........ 15 
+Table 3. Generalized linear model results (F and p-values) examining the spatial differences in 
+heating metrics across site, depth, and the interaction between site and depth just for the 
+2014-2015 period when the massive bleaching event occurred in American Samoa. 
+Heating metrics include cumulative heat stress (long-term accumulated time above the 
+temperature bleaching threshold), acute heat stress (short-term spike in temperature 
+above the bleaching threshold), warming trend, heating rates, and measures of 
+temperature variability ...................................................................................................... 16 
+Table 4. Hard coral genera observed at survey sites and their acronym. Dominant genera are in 
+bold. .................................................................................................................................. 23 
+Table 5. GAMLSS model output (Likelihood Ratio Test (LRT) and p-value) testing the 
+significance of depth, sector, and the interaction between the two for all hard corals 
+combined and the dominant genera. ................................................................................. 25 
+Table 6. GAMLSS results (likelihood ratio test (LRT) and p-values) examining the impact of 
+heat stress types on bleaching prevalence of all hard corals and the dominant coral 
+genera. ............................................................................................................................... 27 
+Table 7. GAMLSS results (likelihood ratio test (LRT) and p-values) examining the impact of 
+temperature variability metrics on bleaching prevalence of all hard corals and the 
+dominant coral genera. ...................................................................................................... 28 
+Table 8. Presence/absence of each heat stressor for each year. Green represents a presence, and 
+grey an absence, of each heat stress for each year. Asterisks (*) mark the years that 
+incurred a massive bleaching event. Bold outline around bleaching year indicates that 
+multiple heat stressors collectively led to the mass bleaching events. A green box in the 
+cumulative heat stress row indicates the presence of a long-term heat stress event 
+(measured as DHW). A green box in the acute heat stress row indicates the presence of a 
+short-term heat stress event (last on a few hours and measured as DHH). ....................... 29 
+ 
+ 
+
+
+================================================================================
+PAGE 7 (digital_extraction)
+================================================================================
+
+vii 
+List of Figures 
+Figure 1. Map of Tutuila, American Samoa. Black points represent the location of the 
+temperature loggers. Sectors included are the Northwest (NW), North (N), Northeast 
+(NE), Southwest (SW), Southeast (SE), and Southeast Island (SE Island). ....................... 4 
+Figure 2. Temperature time series from shallow (5 m), middle (15 m), and deep (25 m) reefs at 
+six sites located around Tutuila, America Samoa. Plots show (a) hourly temperature data 
+(°C) from 2012–2018, (b) trend, and the difference in temperature from trend due to (c) 
+daily, (d) weekly, and (e) yearly periodicities. The leftover noise in the data unexplained 
+by the trend or defined periodicities is show as (f) the remainder. ................................... 12 
+Figure 3. Cross-correlation matrix comparing temperature time series between sites for different 
+depths. Scatterplots of two pairs of time series temperature values are plotted against each 
+other and the estimated correlation is displayed in the counterpart matrix box. Red lines 
+indicate the Lowess fit between two time series. Cross-correlations were made between 
+sites (NW, N, NE, SW, SE, SE Island) for (a) shallow, (b) middle, and (c) deep reefs. No 
+data were collected at the SE Island site for the shallow reefs. ........................................ 13 
+Figure 4. Cross-correlation matrix comparing temperature time series between depth strata for all 
+sites. Scatterplots of two pairs of time series temperature values are plotted against each 
+other and the estimated correlation is displayed in the counterpart matrix box. Red lines 
+indicate the Lowess fit between two time series. Cross-correlations were made between 
+depth strata (shallow 5 m, middle 15 m, and deep 25 m) for six sites (NW, N, NE, SW, 
+SE, SE Island) around Tutuila, American Samoa. No data were collected at the SE Island 
+site for the shallow reefs. .................................................................................................. 14 
+Figure 5. Bleaching thresholds (MMM+1) applied to temperature time series for shallow, mid, 
+and deep reefs at the Northeast site. Bleaching was observed in the austral summers of 
+2015 and 2017. .................................................................................................................. 17 
+Figure 6. Periodograms of power spectral density analysis applied to all sites at each depth show 
+the frequencies at which high variation in the temperature time series occurred. The 
+frequency y-axis for the periodograms were converted to cycles per unit time by 
+extracting the frequency data from the PSD and dividing by the length of the sample 
+interval. The spectral density was then multiplied by 2 so that the area under the curve of 
+the periodogram equals the variance of the time series. ................................................... 20 
+Figure 7. Daily temperature ranges: (a) histogram of daily temperature range for warming and 
+cooling seasons, (b) temperature range for months of year and depth strata, and (c) 
+temperature range for reefs and years. .............................................................................. 21 
+Figure 8. Boxplots of coefficient of variation (CV) values for shallow (5 m), mid (15 m), and 
+deep (25 m) reefs. Deep reef CV values are significantly different from middle and 
+shallow reefs (*), but the CV of middle and shallow reefs are not significantly different 
+from each other (n.s.). ....................................................................................................... 22 
+Figure 9. Histogram of bleaching prevalence for the dominant coral taxa. .................................. 24 
+Figure 10. Bleaching prevalence (%) for all hard corals at shallow, mid, and deep reefs for all 
+sites and sectors combined. The blue line represents the fitted smoothing penalized spline 
+(p-spline). .......................................................................................................................... 25 
+
+
+================================================================================
+PAGE 8 (digital_extraction)
+================================================================================
+
+1 
+Introduction 
+Coral reefs are the most diverse ecosystems on the planet despite evolving in nutrient depleted 
+water and within a narrow range in temperature, salinity, and water quality. Corals are 
+predominantly limited to tropical, shallow waters in the euphotic zone due to their light-
+dependent symbiotic relationship with photosynthetic algae called zooxanthellae. Primarily of 
+the dinoflagellate genus Symbodinium, zooxanthellae translocate fixed carbon needed for 
+productivity, respiration, and growth (Schmitz and Kremer 1977; Muscatine et al. 1989; Lesser 
+2013). Environmental changes catalyze the breakdown of coral-symbionts by triggering corals to 
+expel their zooxanthellae, causing coral tissue to pale and, in extreme cases, reveal their 
+underlying skeleton and appear white. This phenomenon is called coral bleaching. Coral 
+bleaching and the expulsion of zooxanthellae may have evolved as an adaptive mechanism to 
+rapid environmental or physiological changes (Buddemeier and Fautin 1993; Stat et al. 2006). 
+However, repercussions of mass coral bleaching are generally detrimental and include nutritional 
+deprivation (Porter et al. 1989), reduced growth (Cantin et al. 2010), impaired reproduction 
+(Szmant and Gassman 1990), coral mortality (Lesser and Farrell 2004), reef degradation (Eakin 
+et al. 2019), shifts in coral assemblages (Hughes et al. 2018b), and habitat regime shifts from a 
+hard coral framework to a macroalgae dominated reef (Ostrander et al. 2000). Coral recovery 
+capacity is variable spatially and is in part dependent on species-specific responses and the 
+severity of bleaching experienced(Baker et al. 2008), but is also determined by the underlying 
+drivers that initially caused the bleaching event. 
+Environmental stressors, site-level factors, depth, and thermal variability strongly influence 
+bleaching onset and severity. Mass coral bleaching is primarily linked to elevated seawater 
+temperatures but is also associated with increased solar irradiance (both PAR and UV portions of 
+the spectrum)(Lesser and Farrell 2004) and oxidative stress (Lesser 1997; Downs et al. 2002). 
+Furthermore, enriched nutrients (Wooldridge 2009) and ocean acidification(Anthony et al. 2008) 
+can also influence the degree to which corals bleach during heat stress events. Bleaching severity 
+also depends on coral taxa susceptibly to thermal stress, with faster growing and branching taxa 
+(e.g., Acropora and Pocillopora) more likely to experience rapid bleaching and high mortality 
+than slower growing, mounding taxa (e.g., Porites) (Baird and Marshall 2002). Variability in 
+bleaching level and coral taxa susceptibility to bleaching highlight the need for more nuanced 
+research linking multiple drivers to response variables. 
+Mass bleaching events have been occurring at unprecedented rates in recent decades and are 
+associated with anthropogenic global warming and elevated temperature stages of the El Niño-
+Southern Oscillation (ENSO) (Glynn 2000; Hughes et al. 2017). Global warming has caused the 
+trajectory of water temperatures to gradually and continuously increase at a rate of 0.005 °C yr-1 
+in the upper ocean with mean temperatures 1–2 °C warmer compared to 50 years ago 
+(Roemmich et al. 2015; Hughes et al. 2018a). Asymmetric differences between hemispheres 
+indicate that net heat gain has been confined to the southern hemisphere during the last two 
+decades, making coral reefs in the southern hemisphere especially vulnerable to anthropogenic 
+warming (Rathore et al. 2020). Inter-decadal variability in seawater temperature and carbon 
+storage capacity are associated with ENSO and are correlated with atmospheric patterns in the 
+tropical Pacific, with decreased sea surface temperatures associated with la Niña and increased 
+temperatures associated with El Niño (Winguth et al. 1994; Enfield and Mayer 1997). Prior to 
+the 1980s, mass bleaching events were rare. After the 1980s, global warming increased the 
+
+
+================================================================================
+PAGE 9 (digital_extraction)
+================================================================================
+
+2 
+thermal stress during El Niño-Southern Oscillation phases, and global bleaching events 
+coincided with cyclic El Niño events (Barkley et al. 2018; Claar et al. 2018) and rapid shifts 
+from El Niño to La Niña (Dalton et al. 2020). In the last decade, however, global warming has 
+exceeded even the cooler la Niña events from 30 years ago, and mass bleaching events are 
+occurring at greater frequencies even outside of El Niño (Hughes et al. 2018a) resulting in less 
+time for reefs to recover between events.  
+In an effort to predict future bleaching events, various temperature predictor variables have been 
+calculated primarily from sea surface temperatures (SST) derived from satellite data. The most 
+extensively used thermal stress metric is degree heating weeks (DHW), which calculates 
+accumulated heat stress in an area by adding temperature values exceeding the bleaching 
+threshold (maximum monthly mean temperature + 1 °C) over a three month period(Liu et al. 
+2003, 2014). Satellite-derived products like DHW have proven reliable as a mass bleaching 
+index and have the advantage that the data are publicly available through the U.S. National 
+Oceanic and Atmospheric Administration’s (NOAA) Coral Reef Watch Program. However, 
+limitations of satellite-derived products include calculations extended over large spatial areas 
+(typically 5 km or 50 km). Satellite-derived SST also ignores daily temperature variability as 
+well as temperature variability that may occur between reefs in an area that large. Furthermore, 
+surface temperatures are generally a few degrees different than the water temperature at depth 
+where corals actually exist. Recently, a depth-biased method to calculate DHW was developed to 
+account for the temperature differences between corals at depths versus satellite-derived at sea 
+surface, but this method requires in situ temperature at reef depth (Venegas et al. 2019). In situ 
+temperature logger deployment and maintenance are generally cost prohibitive and loggers cover 
+less area compared to satellite data its major advantages are (a) depth specific temperature data 
+co-located at a given reef, and (b) high sampling frequencies (e.g., data could be collected every 
+5 minutes). High frequency temperature data can provide informative measures to predict 
+bleaching prevalence that may be overlooked if only satellite-derived metrics are evaluated. For 
+example, additional heating metrics like acute heat stress (high heat stress on the order of hours 
+or days), heating rates, and temperature variability over different time scales (e.g., diurnal, tidal, 
+seasonal) can be calculated from in situ temperature logger data and used as bleaching metrics 
+(Safaie et al. 2018).  
+To better understand vertical thermal structure of reefs at depth and identify predictors of mass 
+bleaching events using high frequency time series data, we used long-term (2012–2018) in situ 
+temperature data collected at multiple reefs and depths around the island of Tutuila in American 
+Samoa. Located in the central South Pacific, Tutuila is 1 of 5 volcanic islands and 2 atolls that 
+comprise American Samoa. Lying just a few kilometers from shore, Tutuila contains shallow 
+fringing reefs and a deep offshore bank (Birkeland et al. 2008). American Samoa experienced 
+severe bleaching in 1994, 2003, 2015 and 2017 (Coward et al. 2020). The objectives of our study 
+are to (1) conduct a time series analysis on in situ temperature data (2012–2018) and calculate 
+heating metrics and (2) determine whether heating metrics predicted coral bleaching prevalence 
+during the 2015 bleaching event. 
+
+
+================================================================================
+PAGE 10 (digital_extraction)
+================================================================================
+
+3 
+Methods 
+Subsurface temperature recorders (STR) were deployed at 6 sites and at 3 depths through 
+NOAA’s Pacific Reef Assessment and Monitoring Program from 2012 to 2018. We performed a 
+time series analysis on the in situ temperature data using the following steps: 
+1. Applied the time series analysis to determine trends and associated periodicities that may 
+be drivers of mass bleaching events.  
+2. Compared the temperature time series between sites and depth strata to observe any 
+potential differences in temporal patterns.  
+3. Calculated multiple metrics for five heat stress types: cumulative heat stress, acute heat 
+stress, heating rates, trends, and temperature variability. 
+During the deployment of the STR time series (2012–2018), two massive bleaching events 
+occurred during the austral summer months of 2015 and 2017. Unfortunately, the extent of 
+bleaching during peak thermal stress was not quantitatively measured for either year. However, 
+the beginning of bleaching in 2015 happened to occur during the regularly scheduled monitoring 
+surveys. Thus, we assessed the relationship between thermal stress metrics and bleaching 
+prevalence at the beginning of the 2015 bleaching event through the following steps:  
+4. Determined the spatial variation in heating metrics between sites and depths calculated 
+just for the 2015 period when the mass bleaching event occurred.  
+5. Determined if bleaching prevalence of hard corals varied between depth (shallow: 0–6 m, 
+middle: 6–18 m, and deep: 18–25 m) and island sector (northeast, northwest, southeast, 
+southwest)).  
+6. Determined if bleaching prevalence of hard corals and dominant coral genera varied with 
+heating metrics from the 2014–2015 heating period. 
+In situ temperature recorder deployment 
+Sea-Bird SBE56 temperature sensors were deployed in 4 sectors (Northwest, Northeast, 
+Southwest, Southeast) circumnavigating Tutuila, American Samoa, at multiple sites at three 
+different depths (5 m, 15 m, and 25 m) from 2012 through 2018. Two additional sites were added 
+in 2015 for a total of 6 sites (Figure 1). Measurements were taken every 5 minutes and averaged 
+per hour, resulting in hourly temperature data over 6 years.  
+
+
+================================================================================
+PAGE 11 (digital_extraction)
+================================================================================
+
+4 
+ 
+Figure 1. Map of Tutuila, American Samoa. Black points represent the location of the temperature 
+loggers. Sectors included are the Northwest (NW), North (N), Northeast (NE), Southwest (SW), 
+Southeast (SE), and Southeast Island (SE Island).  At each point, a temperature logger was 
+deployed at depths of 5 m, 15 m, and 25 m. 
+Determining trend through time series analysis 
+Hourly seawater temperature records were analyzed using a detrended fluctuation analysis 
+(DFA) to reveal long-range correlations in temperature time series. Most time series statistical 
+analyses require the data to be stationary; however, DFA allows for the detection of intrinsic 
+self-similarity embedded in nonstationary time series (Király and Jánosi 2005). Stationary time 
+series require that (a) the mean value of the time-series stays constant through time, i.e., the trend 
+component is nullified, (b) the variance does not increase over time, and (c) seasonal effect is 
+minimal. With global warming causing an increasing temperature trend and the temperature time 
+series being seasonally dependent, the first and third constraints are automatically violated. 
+Whether or not a time series data set is stationary or non-stationary can be statistically tested 
+with an Augmented Dickey-Fuller (ADF) test in which results of p < 0.05 indicate a stationary 
+time series data set, while p-values > 0.05 indicate a non-stationary time series data set. An ADF 
+was applied to all temperature time series at 6 sites across the three depths and results indicated 
+that all temperature time series were nonstationary (p-value > 0.05 for all sites and depths). 
+Consequently, applying a statistical method designed for nonstationary time series data is 
+relevant for this study and is within the scope of the DFA. 
+Before the DFAs were applied to each temperature time series, they were tested to determine if 
+they were additive or multiplicative time series. An additive time series adds the trend, 
+seasonality, and residual add together to make the time series, whereas a multiplicative time 
+series multiplies the three components to make the time series. Distinguishing between an 
+
+
+================================================================================
+PAGE 12 (digital_extraction)
+================================================================================
+
+5 
+additive and multiplicative time series is completed by first plotting the detrended time series of 
+the additive model. If the noise from the additive model were to steadily increase, then the best 
+fit model would be multiplicative. However, in the case of our time series data, the noise variable 
+after detrending does not steadily increase making additive time series model was the best fit for 
+our time series data. DFAs were then applied to all additive time series models, and temperature 
+time series were decomposed for trends, seasonality (daily, weekly, annual), and remainder (i.e., 
+error).  
+Temperature time series are highly autocorrelated, thus, we avoid linear regression modelling 
+and utilize other time series statistical analysis instead (e.g., DFA analysis). Temperature time 
+series were cross-correlated to look at the relationship between two different time series. Cross-
+correlations were calculated between sites for each depth, and similarly between depths for each 
+site. The results are presented using a correlation matrix with a scatterplot of two time series 
+plotted against each other, fitted with a Lowess regression, and shown with the correlation value. 
+Heat stress metrics 
+Cumulative thermal stress 
+Cumulative heat stress was determined by first calculating the maximum monthly mean (MMM) 
+which was then used to calculate degree heating week (DHW). DHW is the integral of time spent 
+above the bleaching threshold of MMM+1 °C. If MMM is calculated from a short time series 
+that includes temperatures from a bleaching event, then the MMM will be skewed high. 
+Therefore, to determine a more accurate MMM that has not been influenced by rare bleaching 
+events, we used a longer climatological data set acquired from satellite. To then account for 
+temperature differences between satellite data and reefs at depth, we applied the methods 
+developed by Venegas et al. (2019) to all in situ temperature time series data(Venegas et al. 
+2019). Historical sea surface temperatures (SST) from satellite data were downloaded through 
+the NOAA’s Coral Reef Watch (CRW) for years 1985–2020 (the longest available time series). 
+Specifically, the ‘CRW Daily Global 5 km Satellite Coral Bleaching Heat Stress Monitoring’ 
+(version 3.1) data sets were downloaded through ERRDAP using the closest 5 km grid (i.e., 
+nearest neighbor) to each in situ subsurface temperature recorder (STR) location. The daily mean 
+SST were used to calculate the maximum monthly mean temperature from the satellite data 
+(MMMsatellite). Next, the MMM was calculated from the in situ temperature data for each site and 
+depth (MMMin situ). Then, the mean offset for in situ temperature data to account for warming 
+temperatures and depth was calculated. This was completed by determining the MMMsatellite from 
+the years 2012–2018, then determining the MMMin situ for each year, calculating the difference in 
+MMM between the satellite data and STR, and averaging them.  
+Offset = mean((MMMsatellite 2012 - MMMin situ 2012) + (MMMsatellite 2013 - MMMin situ 2013) , … , (MMMsatellite 2018 - MMMin situ 2018) ÷ 8) 
+The offset was then applied to each in situ temperature time series: 
+MMMin situ corrected = MMMsatellite - offset 
+And finally, a depth-biased DHW was calculated for each STR site at all depths: 
+DHWdepth-biased = ʃ (MMMin situ corrected +1 °C) dt 
+
+
+================================================================================
+PAGE 13 (digital_extraction)
+================================================================================
+
+6 
+The trapezoid integration for DHW at depth was calculated using the ‘AUC’ function in the R 
+package ‘DescTools.’ DHW at depth values were calculated each year the temperature climbed 
+above the bleaching threshold. Additionally, the DHW at depth was also calculated only for the 
+30 days prior to the ecological surveys. For this study, only DHWdepth-biased was calculated 
+(henceforth just called DHW), not the DHW traditionally calculated via satellite data. 
+Acute heating 
+Acute heating stress, for this study, is defined as any short-term spike in the temperature time 
+series away from the normal seasonal cycle that occurred in the austral summer months. 
+Specifically, any time the temperature rose above the bleaching threshold (MMM +1) for an 
+intense, but relatively short period (lasting a few hours to a few days), it was considered to be an 
+acute stress event. Acute heat stress was initially treated as binary to indicate the presence or 
+absence of an acute thermal stress event per annum. Acute heat stress was also quantified by the 
+number of events per year and also by the duration of the acute stress event (hours above the 
+bleaching threshold during this short-term temperature spike).  
+Heating rates 
+The heating rate (°C hr-1) for each warming period was calculated for each year for all sites and 
+depths. The warming period is the period in which the temperature increased throughout the 
+year, meanwhile the cooling period was the time in which temperature decreased. The exact 
+dates in which the cooling period ended and the warming period started varied slightly from year 
+to year, but generally the warming period occurred from September to March, and the cooling 
+period occurred between April and August.  
+Measures of temperature variability 
+Temperature time series show complex periodic behavior, and one technique that can be applied 
+to identify underlying periodicities is called a power spectral density (PSD) analysis. Essentially, 
+the covariance of the time series can be represented by a function known as the spectral density. 
+PSD analyses were applied to the time series temperature data to observe any possible 
+underlying periodicities. The temperature data were first transformed to the frequency domain 
+via the non-parametric Daniell-Kernal method, which calculates the smooth spectral density by 
+using centered moving averages(Shumway and Stoffer 2017). The spectral density represents the 
+covariance of the time series. Periodograms are used to present the squared correlation between 
+temperature time series data and sine and cosine waves (Venables and Ripley 2002). 
+Periodograms were calculated using a fast Fourier transform for all temperature time series from 
+all sites and depth strata(Bloomfield 2013). The frequency axis for the periodograms were 
+converted to cycles per unit time by extracting the frequency data from the PSD and dividing by 
+the length of the sample interval. The spectral density was then multiplied by 2 so that the area 
+under the curve of the periodogram equals the variance of the time series. Periodograms were 
+applied to the entire time series of a site (all data that were collected between 2012 and 2018), 
+and PSD was calculated for the warming and cooling cycles for each time series. Furthermore, a 
+few additional metrics were calculated from the PSD output just for the 2014–2015 time period. 
+Specifically, the peaks for the power spectral density plots for variability in the temperature time 
+series due to tides (12 hr), daily (24 hr), and interval waves (48 hr) were quantified and 
+compared between sites and depths. 
+
+
+================================================================================
+PAGE 14 (digital_extraction)
+================================================================================
+
+7 
+Daily temperature ranges were calculated for the warming and cooling seasons of each year for 
+the entire time series. In 2015, daily temperature ranges and daily mean temperatures were 
+calculated for the 30 days prior to the ecological surveys. The intent was to determine if the daily 
+temperature means and ranges may have been extra warm at the beginning of the bleaching event 
+when bleaching prevalence in corals was being recorded.  
+The coefficient of variation (CV) was calculated for all sites and depths each year. It is a measure 
+of relative variability and is the ratio of standard deviation to the mean; a high CV value suggests 
+more variation relative to its mean compared to a low CV value. CV is a useful calculation to 
+determine the variance of the historical mean temperature and the current mean temperature, and 
+thus a method to evaluate inter-annual variability in seawater temperatures.  
+Ecological surveys 
+As a regular part of NOAA’s National Coral Reef Monitoring Program (NCRMP), bleaching 
+surveys were collected at sites using a stratified random sampling design. These surveys were 
+conducted during February and March of 2015, which coincided with the beginning of the 
+thermal stress event. American Samoan coral reefs were exposed to hot water anomalies from 
+January to June of 2015; peak heat occurred from mid-March to late April. Thus, the full extent 
+of coral bleaching was not captured in these ecological surveys, but they may provide a glimpse 
+into how corals react to the early stages of heat stress. Only the NCRMP benthic survey sites that 
+were within 3 nautical miles of the STR were used in this study. The total number of NCRMP 
+benthic survey sites that fit within the 3 nautical miles of the STR are included in Table 1. 
+Bleaching surveys were conducted using the Rapid Ecological Assessment methods (Winston et 
+al. 2019). Random sites are selected across three depth categories (shallow, 0–6 m; mid > 6–18 
+m and deep > 18–25 m) on the forereef. Surveys at each site were conducted within four 
+segments (1 m × 2.5 m) along an 18-m belt transect. Adult coral colonies (≥ 5 cm) abundance by 
+genus and bleaching extent and severity were recorded. The four segments were pooled together, 
+and site-level bleaching prevalence was calculated by dividing the number of corals displaying 
+any loss of pigmentation (paled to fully bleached) by the total number of colonies multiplied by 
+100. Bleaching prevalence was calculated for all hard corals combined, along with the dominant 
+coral genera. 
+In addition to the recorded bleaching in 2015, jurisdictional partners in American Samoa also 
+observed bleaching during the austral summers of 2015 and 2017. Unfortunately, the full extent 
+of bleaching around the whole of Tutuila was not surveyed by any institute or agency, so 
+quantitative information is not available. However, qualitative information from locals observing 
+mass bleaching and occasionally photographing devastated reefs suggests that mass bleaching 
+events occurred in both 2015 and 2017. 
+ 
+
+
+================================================================================
+PAGE 15 (digital_extraction)
+================================================================================
+
+8 
+Table 1. The number of benthic surveys within 3 nautical miles of each site where a temperature 
+logger was deployed. 
+Site 
+Depth 
+Number of benthic 
+surveys within 3 
+nautical miles to the 
+STR 
+Northwest (NW) 
+deep 
+3 
+mid 
+3 
+shallow 
+2 
+Northeast (NE) 
+deep 
+5 
+mid 
+7 
+shallow 
+5 
+Southwest (SW) 
+deep 
+6 
+mid 
+6 
+shallow 
+6 
+Southeast (SE) 
+deep 
+5 
+mid 
+6 
+shallow 
+5 
+Statistical analysis 
+Time series analysis and temperature trend 
+As previously described, temperature time series analysis was conducted via detrended 
+fluctuation analysis (DFA). DFAs were applied to all additive time series models, and 
+temperature time series were decomposed for trends, seasonality (daily, weekly, annual), and 
+remainder (i.e., error). All DFAs were conducted in R version 4.0.3 using the ‘mstl’ function in 
+the R package ‘forecast’. Since temperature data were recorded hourly, the seasonality variables 
+set in each model were defined as 24, 168, and 8,766 for daily, weekly, and yearly periodicity. 
+The time series analysis identified years that were warmer than the previous years, and they were 
+identified as having a warming trend.  
+Heat stress metrics from full temperature time series (2012–2018) 
+A series of generalized linear models (GLMs) were applied to the heating metrics to determine if 
+they varied by site, depth, or years. Specifically, GLMs with a binomial distribution and logit 
+link were applied to test for differences in presence/absence of acute and cumulative heat stress 
+events between site, depth, and year. GLMs with a Gaussian distribution and identity function 
+tested for differences in heating rates between sites, depth, and years. Additionally, GLMs with a 
+gamma distribution and log link function were used to determine if daily temperature ranges 
+were significantly different between sites, depths, years, months, and heating versus cooling 
+seasons. GLMs with a Gaussian distribution and identity link function were applied to test for 
+differences in CV values between site, depth, year, and warming versus cooling seasons 
+For all GLMs, model assumptions of independence, homogeneity of variance, and normality of 
+error were evaluated through diagnostic leverage, Cook’s distance, dfbetas (Cohen and Cohen 
+
+
+================================================================================
+PAGE 16 (digital_extraction)
+================================================================================
+
+9 
+2008). Checks for all GLMs indicated that no influential data points or outliers were present in 
+the data and model assumptions were met. 
+Heat stress metrics from bleaching year (2015)  
+In addition to the GLMs applied to the heating metrics across the full time series (2012–2018), 
+additional GLMs were applied to the heating metrics calculated during the 2015 bleaching events 
+to test for spatial differences between sites. Specifically, GLMs with a Gaussian distribution and 
+identity function were applied to acute stress and cumulative (DHW) heat stress, and the number 
+of acute heat stress events experienced, between site and depth for the 2015 bleaching season 
+only. Additionally, GLMs with a Gaussian distribution and identity function tested for 
+differences in heating rates between sites and depth. GLMs with a gamma distribution and log 
+link function were used to determine if daily temperature ranges were significantly different 
+between sites and depths. Furthermore, the peaks from the periodograms produced by the 
+spectral analysis that were associated with 24-hr (daily), 12-hr (tidal), and 48-hr (internal wave) 
+cycling were quantified, and GLMs were applied to the quantified peaks to determine which of 
+these parameters varied with depth and site. 
+Heat stress metrics associated with bleaching from ecological surveys 
+Ecological data (i.e., bleaching prevalence data) were only used from NRCMP survey sites 
+within 3 nautical miles of the temperature logger at the same depth. A series of univariate 
+distributional regression models was used to assess the association between bleaching prevalence 
+and heating metrics. While exploring the ecological survey data, generalized additive models for 
+location, scale, and shape (GAMLSS) were used to test for differences in bleaching prevalence 
+for all hard coral genera combined and separately for the dominant coral genera.  
+The primary advantage of applying GAMSLSS (as opposed to Generalized Linear Models 
+(GLMs) or Generalized Additive Models (GAMs)) is that these univariate distributional 
+regression models allow for flexibility in the distributions and have over 100 continuous, 
+discrete, and mixed models for the response data. Bleaching prevalence data are notoriously 
+skewed to data values of either 0 (0% bleaching prevalence) or 1 (100% bleaching prevalence). 
+GAMLSS allow for data that are bounded by 0 and 1, but also have values in between. 
+Additionally, GAMLSS allow for the distribution parameters (mu, sigma, tau, and nu), not just 
+the mean values, to be modelled in terms of both fixed and random effects. The optimal 
+GAMLSS were chosen following steps in Stasinopoulos et al. (2017) by testing for the best 
+model family to fit the data (zero-inflated, one-inflated, inflated at zero and one), determining the 
+significant variables, determining the best fit distribution parameters (mu, sigma, tau, and nu), 
+and applying AIC (Stasinopoulos et al. 2017). 
+While determining the best-fit model, the variance of inflation factor (VIF) was calculated 
+between the heating metrics to determine the amount of multi-collinearity between multiple 
+regression variables. Cumulative heating stress (DHW) and acute heat stress (short-term spike in 
+temperature) were highly correlated (r2=93%, VIP > 10), but when either DHW or acute heat 
+stress were removed from the VIF calculation with the rest of the heating metrics (trend, heating 
+rates, etc.), there was no collinearity (low VIP value of 1.6). Despite the strong relationship 
+between cumulative and acute heat stress, neither metric was removed from the optimal due to 
+the ecological relevance that both metrics have on the physiology of a coral. Corals 
+
+
+================================================================================
+PAGE 17 (digital_extraction)
+================================================================================
+
+10 
+physiologically react to both short-term heat stress and long-term heat stress; thus, both 
+predictors were retained in the models. This was justified by comparing the AIC values among 
+the three models: (1) bleaching prevalence ~ cumulative + acute + other metrics, (2) bleaching 
+prevalence ~ cumulative + other metrics, and (3) bleaching prevalence ~ acute + other metrics), 
+in which both parameters are kept or one or the other is removed. The AIC values were within 2 
+units of each other and thus the models were not significantly different from each other. Due to 
+their ecological relevance, both cumulative and acute heat stress metrics were kept in the models, 
+despite being highly correlated. All the other heating metrics did not exhibit multi-collinearity. 
+GAMLSS were initially applied to bleaching prevalence data to test for differences between 
+depth, site, and the interactions between the two for all hard corals and the dominant coral 
+genera. GAMLSS were also applied to determine whether bleaching prevalence varied according 
+to heat stress metrics. Heating metrics were only applied to ecological sites that fell within a 3 
+nautical mile radius of the temperature logger and at the same depth. Five types of heat stress 
+were identified: cumulative heat stress, acute heat stress, warming trend, heating rates, and 
+variability. Several heating metrics were calculated for each type of heat stress. For example, 
+acute heat stress is one type of heat stress, measured by multiple metrics such as its presence or 
+absence, the number of acute heat stress events, and we also quantified how long the acute heat 
+stress events lasted. Initially, we chose one heating metric from each type of heat stress and used 
+GAMLSS to determine if each heating stress type impacted the bleached prevalence of all hard 
+corals combined, as well as the dominant coral genera. This particular analysis cumulative heat 
+stress: DHW; acute heat stress: hours above the bleaching threshold; increasing trend, heating 
+rate, variability: mean daily temperature range for the 2014–2015 warming season. Trend was 
+removed in the GAMLSS analysis because all reefs and sites experienced a warming trend in 
+2015 so there were no differences in trend. Bleaching prevalence was the response variable in the 
+models. Furthermore, GAMLSS were also applied to bleaching prevalence data with only 
+temperature variability metrics included in the model. Specifically, we tested to see if bleaching 
+prevalence varied according to the diurnal, tidal, or internal wave period, as well as the daily 
+temperature ranges for the entire warming period linked to the 2015 bleaching event, and also the 
+temperature range for the 30 days prior to the ecological survey.  
+
+
+================================================================================
+PAGE 18 (digital_extraction)
+================================================================================
+
+11 
+Results 
+Time series analysis 
+Trends and detrended seasonality 
+Temperature time series were detrended to decompose the trend from the data and also observe 
+seasonality periodicities. In the case that less than two years of data were available, then the 
+trend could not be determined. However, daily and weekly periodicities could still be evaluated. 
+Daily, weekly, and yearly time factors were the strongest variables controlling the temperature 
+time series (Figure 2).  
+The time series analysis revealed a few key patterns. Firstly, overall patterns in each temperature 
+logger were similar between site and depth, with acute heat stress (spikes in temperature above 
+the bleaching threshold, MMM+1°C, lasting for a few hours to a few days with high peaks) 
+occurring in austral summers of 2015, 2016, and 2017 for most sites at all depths (Figure 2c). 
+The acute heat stress also occurred in 2018 for the middle and deep reefs, but not for the shallow 
+reefs. Secondly, all sites and depths showed an overall increasing temperature trend through 
+time, with the exception of 2016 when the mean annual temperature decreased in between the 
+two massive bleaching events, and in 2018 when temperature decrease following the second 
+massive bleaching event (Figure 2b). Thirdly, daily temperature variability is only high while 
+waters are warm; however, during cooling seasons the daily temperature has less range (Figure 
+2c). The highest daily ranges only occur for a few days and coincide with the acute heat stress 
+period. Fourthly, measurements from week to week indicate that the biggest variability in 
+temperature occurred in the few weeks prior to the highest seasonal temperatures reached each 
+year (Figure 2d). In other words, daily variability is greater during warming periods, but in the 
+beginning of the warming season, the first few weeks have lower variability. However, at the end 
+of the heating season, the week-to-week variability is highest right before the peak seasonal 
+temperature is met. This is true for 2013–2016, but not for 2017 or 2018. And finally, when 
+looking at the periodicity due to yearly cycles, every single annual pattern had a double high 
+peak in which there was an initial heating rate increase, followed by a slight decrease, and then 
+another increase in temperatures during the warming period (Figure 2e). 
+
+
+================================================================================
+PAGE 19 (digital_extraction)
+================================================================================
+
+12 
+ 
+Figure 2. Temperature time series from shallow (5 m), middle (15 m), and deep (25 m) reefs at six 
+sites located around Tutuila, America Samoa. Plots show (a) hourly temperature data (°C) from 
+2012–2018, (b) trend, and the difference in temperature from trend due to (c) daily, (d) weekly, and 
+(e) yearly periodicities. The leftover noise in the data unexplained by the trend or defined 
+periodicities is show as (f) the remainder.  
+
+
+================================================================================
+PAGE 20 (digital_extraction)
+================================================================================
+
+13 
+Cross-correlation analysis 
+Temperature time series were highly correlated when compared between sites and depths (Figure 
+3). In fact, temperature patterns were nearly identical between shallow, middle, and deep reefs 
+for the same site, especially at the Northwest, Northeast, Southeast, and Southeast Island sites 
+where cross correlation values were all above 0.90 (i.e., at least 90% similar temperature time 
+series between depths). No distinct geographic patterns were observed, except that the Northeast 
+and Southeast sites were highly correlated for shallow, middle, and deep reefs (correlation 
+coefficient = 0.80, 0.89, 0.89, respectively). Upon investigation for cross-correlations between 
+sites that had correlation coefficients of ~0.50, the lower values were due to differences in time 
+period (i.e., one logger may have only collected half the data), and when equal time periods were 
+applied, then the time series were highly cross-correlated. Although temperature time series are 
+shown to have similar patterns between sites and depth strata at the reefs around Tutuila, further 
+analyses explored potential differences in variability and other metrics between sites and depths. 
+Together, these results suggest that there is very little temperature structure across depth, and 
+temperature patterns are fairly consistent even across a variety of oceanographic conditions at the 
+island level.  
+ 
+Figure 3. Cross-correlation matrix comparing temperature time series between sites for different 
+depths. Scatterplots of two pairs of time series temperature values are plotted against each other 
+and the estimated correlation is displayed in the counterpart matrix box. Red lines indicate the 
+Lowess fit between two time series. Cross-correlations were made between sites (NW, N, NE, SW, 
+SE, SE Island) for (a) shallow, (b) middle, and (c) deep reefs. No data were collected at the SE 
+Island site for the shallow reefs. 
+
+
+================================================================================
+PAGE 21 (digital_extraction)
+================================================================================
+
+14 
+ 
+Figure 4. Cross-correlation matrix comparing temperature time series between depth strata for all 
+sites. Scatterplots of two pairs of time series temperature values are plotted against each other and 
+the estimated correlation is displayed in the counterpart matrix box. Red lines indicate the Lowess 
+fit between two time series. Cross-correlations were made between depth strata (shallow 5 m, 
+middle 15 m, and deep 25 m) for six sites (NW, N, NE, SW, SE, SE Island) around Tutuila, 
+American Samoa. No data were collected at the SE Island site for the shallow reefs. 
+Heat stress metrics  
+A summary of how the heating metrics varied by year, site, and depth for the full time series 
+(years 2012–2018) can be found in Table 2. Furthermore, a summary of how the heating metrics 
+varied by site and depth for the bleaching event of 2015 are found in Table 3. 
+ 
+ 
+
+
+================================================================================
+PAGE 22 (digital_extraction)
+================================================================================
+
+15 
+Table 2. Generalized linear model results (F and p-values) examining the temporal (year) and spatial (site and depth) differences in 
+heating metrics across year, site, depth, and their interactions (year*site*depth) for the entire temperature time series (2012–2018).  
+Heating metrics include cumulative heat stress (long-term accumulated time above the temperature bleaching threshold), acute heat stress 
+(short-term spike in temperature above the bleaching threshold), warming trend, heating rates, and measures of temperature variability. 
+Type of Heat 
+Stress 
+Heating Metric 
+Year 
+Site 
+Depth 
+Year*Site*Depth 
+F 
+p-value 
+F 
+p-value 
+F 
+p-value 
+F 
+p-value 
+Cumulative 
+stress 
+presence/absence 
+7.67 
+0.007 * 
+0.02 
+0.885 
+1.25 0.292 
+0.52 
+0.598 
+DHW 
+40.25 < 0.001 * 
+161.6 < 0.001 * 68.4 < 0.001 * 
+35.8 
+<0.001 * 
+Acute stress  
+presence/absence 
+6.1 
+0.02 
+1.5 
+0.21 
+0.17 0.84 
+0.11 
+0.89 
+number of acute 
+stress events 
+during summer 
+13.7 
+0.0005 * 
+0.06 
+0.809 
+0.33 0.717 
+0.16 
+0.849 
+hours above 
+bleaching 
+threshold 
+1.07 
+0.304 
+5.45 
+0.023 * 
+0.83 0.439 
+3.63 
+0.033 * 
+Warming trend presence/absence 
+4.62 
+0.03 * 
+0.0 
+1.0 
+0.0 
+1.0 
+0.0 
+1.0 
+Heating rates 
+warming  
+10.4 
+< 0.001 * 
+2.5 
+0.04 * 
+4.1 
+0.02 
+2.1 
+0.05 
+Variability 
+daily 
+temperature 
+range 
+12.3 
+< 0.001 * 
+10.8 
+0.001 * 
+11.3 0.003 
+0.73 
+0.484 
+  
+CV 
+6.9 
+< 0.001 * 
+11.5 
+<0.001 * 
+6.8 
+0.002 * 
+2.6 
+0.002 * 
+Asterisk (*) indicates a significant result. 
+ 
+ 
+
+
+================================================================================
+PAGE 23 (digital_extraction)
+================================================================================
+
+16 
+Table 3. Generalized linear model results (F and p-values) examining the spatial differences in 
+heating metrics across site, depth, and the interaction between site and depth just for the 2014-2015 
+period when the massive bleaching event occurred in American Samoa. Heating metrics include 
+cumulative heat stress (long-term accumulated time above the temperature bleaching threshold), 
+acute heat stress (short-term spike in temperature above the bleaching threshold), warming trend, 
+heating rates, and measures of temperature variability 
+Type of Heat Stress 
+Heating Metric 
+Site 
+Depth 
+Site*Depth 
+Cumulative stress 
+presence/absence 
+No significant difference detected because 
+cumulative stress occurred at all sites and 
+all depths in 2015 
+DHW 
+p = 0.004 * 
+p = 0.003 * 
+p = 0.019 * 
+Acute stress  
+presence/absence 
+No significant difference detected because 
+acute stress occurred at all sites and all 
+depths in 2015 
+number of acute stress events 
+during summer 
+p < 0.001 * 
+p < 0.001 * 
+p < 0.001 * 
+days above bleaching threshold 
+p = 0.031 * 
+p = 0.032 * 
+p = 0.065 
+Warming Trend 
+presence/absence 
+No significant difference detected because 
+trend was warming for all sites and reefs 
+Heating rates 
+warming  
+p = 0.087 
+p = 0.106 
+p > 0.05 
+Variability 
+Tides: Peak of PSD at 12 hr 
+p = 0.111 
+p = 0.327 
+p = 0.113 
+Daily: Peak of PSD at 24 hr 
+p = 0.006 * 
+p = 0.0009 * 
+p = 0.005 * 
+Internal Waves: Peak of PSD at 48 
+hr 
+p = 0.009 * 
+p = 0.005 * 
+p = 0.0173 
+Daily Temperature Range (2014-
+2015) 
+p = 0.008 * 
+p = 0.016 * 
+p = 0.62 
+Daily Temperature Range (30 days 
+prior to ecological survey) 
+p < 0.001 * 
+p < 0.001 * 
+p <0.001 * 
+Daily Temperature Mean (30 days 
+prior to ecological survey) 
+p < 0.001 * 
+p < 0.001 * 
+p < 0.001 * 
+Asterisk (*) indicates a significant result. 
+Cumulative heating 
+(a) Full time series (2012–2018) 
+Cumulative stress (i.e., depth-corrected DHW) varied significantly by year (p < 0.001) and was 
+only detected in 2015 and 2017 (Figure 5; shows only the NE site which has the longest 
+temperature time series data available). For the years DHW was present, it also varied to a lesser 
+extent by depth (p < 0.001) with shallow reefs having slightly higher cumulated heat stress, and 
+site, with the Southwest sector experiencing slightly higher levels of cumulated stress.  
+
+
+================================================================================
+PAGE 24 (digital_extraction)
+================================================================================
+
+17 
+ 
+Figure 5. Bleaching thresholds (MMM+1) applied to temperature time series for shallow, mid, and 
+deep reefs at the Northeast site. Bleaching was observed in the austral summers of 2015 and 2017. 
+(b) Bleaching year (2015) 
+All reefs at all sites and depths experienced cumulative heat stress events (measured as depth-
+corrected DHW). When the values of depth-corrected degree heating weeks (DHW) were 
+compared between sites, the Southwest site in Fagatele Bay had slightly more cumulative stress 
+than the other sites. All of the other sites had similar cumulative heat stress exposure to each 
+other. When the values of DHW were compared between depths, then the shallow reefs 
+experienced higher values while the mid and shallow reefs were exposed to similar levels of 
+DHW. 
+
+
+================================================================================
+PAGE 25 (digital_extraction)
+================================================================================
+
+18 
+Acute heat stress 
+(a) Full time series (2012–2018) 
+The presence or absence of acute heat stress was significantly different between years (p(1,6) = 
+0.02), but not between sites (p(1,2) = 0.21) or depth (p(2,0.17) = 0.84); acute stress events occurred 
+primarily in the austral summer months of 2015, 2016, and 2017. However, when the number of 
+hours above the threshold were evaluated, acute stress did vary spatially with shallow reefs 
+experiencing slightly longer acute stress events (up to 52 hours of an acute heat stress in the 
+shallow reefs compared to only a few hours (< 10 hr) in the deeper middle and deep reefs). 
+Furthermore, the Southeast sector of Tutuila experienced slightly longer acute heat stress events 
+than the other sectors (average acute heat stress event lasted 27 hours in the SE Sector, while the 
+SW, NW, and NE Sectors experienced acute heat events that lasted an average of 19, 13, and 10 
+hours, respectively). Also, the number of acute stress events that occurred varied; one event 
+occurred in 2015 and 2016, and three events occurred in the summer months of 2017.  
+(b) Bleaching year (2015) 
+All reefs at all sites and depths experienced acute stress events in 2015. The Southeast site had 
+more hours above the threshold, while all the other sites experienced relatively equal hours 
+above the bleaching threshold. The Southeast site in Fagatele Bay, experienced more hours of 
+intense short-term heat because there were two acute heat stress events while only one event 
+occurred at. The two acute heat stress events occurred in the shallow reefs and not the mid or 
+deep reefs. 
+Heating rates 
+(a) Full time series (2012–2018) 
+Heating rates were significantly different between depths (p(2,4) = 0.02) with shallow reefs 
+generally warming more rapidly than mid and deep reefs. Heating rates were also significantly 
+different between years (p(5,10) < 0.001), with the heating rate increasing each year except in 
+2018. In 2017, seawater temperature rose rapidly in the first few weeks of the warming season, 
+and then continued to warm but at a slightly slower rate (Figure 2a). 
+(b) Bleaching year (2015) 
+Heating rates did not vary by site nor by depth for this one year. Heating rates in 2015 were 
+greater than heating rates in 2014. 
+Temperature variability 
+(a) Full time series (2012–2018) 
+The power spectral density analysis showed that high temperature variation (i.e., peaks in the 
+dendrograms) occurred at multiple frequencies (Figure 6). The PSD also revealed that reefs at 
+different depths exhibit different drivers for temperature variation. Expectedly, 24 diurnal light 
+cycles was a significant peak for all three depths, especially in the shallow waters where the 
+strongest frequency for both warming and cooling seasons was at 24 hours. The PSD also 
+allowed us to observe the influence of tides on the reefs at each depth, with semidiurnal tides 
+
+
+================================================================================
+PAGE 26 (digital_extraction)
+================================================================================
+
+19 
+occurring every 12 hours and influencing the water temperature at all reefs and at all depths but 
+becoming increasingly important with depth. Furthermore, in the shallow reefs, the diurnal cycle 
+had a stronger influence on temperature variation than semidiurnal tides. However, for some mid 
+water reefs, the diurnal daylight cycles and semidiurnal tides had almost a similar influence on 
+the temperature variation, i.e., 24 hr and 12 hr frequency peaks were nearly the same height, at 
+least for reefs at the North, Northeast, and Southeast Island sites during the warming season. 
+Interestingly, the deep reefs at all sites except the North site were also influenced by internal 
+waves occurring at a frequency of every 48 hours, which was not observed at shallow or middle 
+reefs. Furthermore, these internal waves only appear during the warming season and are not 
+detectable during the cooling months. In general, the PSD analysis confirmed the cross-
+correlation analysis showing similar large-scale temporal patterns, and yet the PSD analysis also 
+provided additional information on fine-scale temporal patterns, revealing that they differ 
+slightly by depth. 
+Daily temperature ranges were significantly different (p(df,F) = values) between depth (p(2,11) = 
+0.003), year (p(5,12) < 0.001), periods of heating versus cooling (p(1,7) )<0.001), and site (p(5,10) < 
+0.001). Temperature ranges were more variable during the heating part of year compared to the 
+cooling periods (Figure 7a). The greatest temperature ranges were observed in the austral 
+summer months of January, February, and March. Unexpectedly, however, the deeper reefs 
+experienced the greatest temperature ranges (Figure 7b), not the shallow reefs. There were also 
+significant differences between sites; the reefs at Southwest Fagatele had higher daily 
+temperature ranges than the other sites, but there was no apparent spatial pattern. Furthermore, 
+daily temperature ranges were also statistically different between years, but there was no 
+relationship between daily temperature ranges and the massive bleaching events; the 2014–2015 
+year had high variability in daily temperature, but the 2016–2017 year did not. 
+
+
+================================================================================
+PAGE 27 (digital_extraction)
+================================================================================
+
+20 
+ 
+Figure 6. Periodograms of power spectral density analysis applied to all sites at each depth show the 
+frequencies at which high variation in the temperature time series occurred. The frequency y-axis 
+for the periodograms were converted to cycles per unit time by extracting the frequency data from 
+the PSD and dividing by the length of the sample interval. The spectral density was then multiplied 
+by 2 so that the area under the curve of the periodogram equals the variance of the time series. 
+
+
+================================================================================
+PAGE 28 (digital_extraction)
+================================================================================
+
+21 
+ 
+Figure 7. Daily temperature ranges: (a) histogram of daily temperature range for warming and 
+cooling seasons, (b) temperature range for months of year and depth strata, and (c) temperature 
+range for reefs and years. 
+
+
+================================================================================
+PAGE 29 (digital_extraction)
+================================================================================
+
+22 
+Coefficient of variation (CV) values differed significantly between sites (p(5,12) < 0.001), depth 
+(p(2,7)–0.002), and year (p(5,7) < 0.001), but not between warming and cooling seasons (p(1,0.009) = 
+0.93). The interactive effect between sites, depth, and year was also significant (p(20,2) < 0.01). 
+Due to the interaction effect, no consistent pattern was evident between sites and years. 
+However, post-hoc Tukey tests reveal that deep reefs varied more from their long-term mean 
+compared to the middle and shallow reefs (Figure 8). On average, deep reefs vary ± 72.3% from 
+their long term mean temperature, whereas mid and shallow reefs vary ± 63.8% and ± 62.0%, 
+respectively, from their long term temperature. 
+ 
+Figure 8. Boxplots of coefficient of variation (CV) values for shallow (5 m), mid (15 m), and deep 
+(25 m) reefs. Deep reef CV values are significantly different from middle and shallow reefs (*), but 
+the CV of middle and shallow reefs are not significantly different from each other (n.s.). 
+(b) Bleaching year (2015) 
+Tides (measured by peak in PSD at 12 hr) had similar influences on reefs at all sites and depths 
+(Table 3). Daily fluctuations (measured by peak in PSD at 24 hr) were greater at shallow depths 
+compared to the mid and deep reefs, and Southwest site in Fagatele showed greater daily 
+fluctuations compared to the other sites. Internal tides (measured by peak in PSD at 48 hr) 
+occurred more at the deep reefs compared to the mid and shallow reefs. The Southwest site in 
+Fagatele was exposed to more internal waves compared to the other sites. For the warming 
+period prior to the mass bleaching event, daily temperature ranges varied between site and depth. 
+Unexpectedly, the deeper reefs experienced greater daily temperature ranges than the shallow 
+reefs. Also, Southeast Island Aunuu experienced high daily temperature ranges, while the 
+Southeast experienced lower daily temperature ranges. Daily temperature means and ranges 30 
+days prior to the ecological survey date varied between site and depth, as well as day, since the 
+ecological surveys were conducted on different days over a month long period. 
+
+
+================================================================================
+PAGE 30 (digital_extraction)
+================================================================================
+
+23 
+Linking heating metrics from 2015 bleaching event to NCRMP benthic surveys 
+Dominant coral taxa at the ecological sites around Tutuila, American Samoa 
+Table 4 provides a list of all the coral genera (with acronym) recorded in the survey sites in 
+2015. The topmost abundant coral taxa present are in bold. 
+Table 4. Hard coral genera observed at survey sites and their acronym. Dominant genera are in 
+bold. 
+Genera 
+Acronym 
+Genera 
+Acronym 
+Acanthastrea 
+ACA 
+Hydnophora 
+HYD 
+Acropora 
+ACR 
+Isopora 
+ISO 
+Alveopora 
+ALV 
+Leptoria 
+LEA 
+Astreopora 
+AST 
+Leptastrea 
+LEP 
+Coeloseris 
+COE 
+Leptoseris 
+LET 
+Coscinaraea 
+COS 
+Lobophyllia 
+LOB 
+Ctenactis 
+CTE 
+Merulina 
+MER 
+Cyphastrea 
+CYP 
+Montastrea 
+MON 
+Cycloseris 
+CYC 
+Montipora 
+MOT  
+Diploastrea 
+DIP 
+Pachyseris 
+PAC 
+Echinophyllia 
+ECL 
+Pavona 
+PAV 
+Echinopora 
+ECP 
+Platygyra 
+PLA 
+Favia 
+FAA 
+Pocillopora 
+POC 
+Favites 
+FAV 
+Porites 
+POR 
+Fungia 
+FUN 
+Psammorcora 
+PSA 
+Gardineroseris 
+GAR 
+Sandalolitha 
+SAN 
+Galaxea 
+GAL 
+Stylocoeniellla 
+STC 
+Goniastrea 
+GON 
+Stylophora 
+STY 
+Goniopora 
+GOP 
+Symphyllia 
+SYM 
+Herpolitha 
+HER 
+Turbinaria 
+TUR 
+Regardless of bleaching, coral assemblage varied with depth, and the pattern was not necessarily 
+the same between sectors. At the NE and SE sectors around Tutuila, most of the coral genera 
+present were the same in the shallow and middle reefs; they were also present in the deep reefs, 
+along with additional genera. In the SW Sector (of Fagatele), the coral genera in the deep reefs 
+varied from the middle and shallow reefs, with some overlap in genera between the shallow and 
+middle reefs. At this location, the shallow reefs also had quite a few genera not found in either 
+the middle or deep reefs. Coral assemblage varied with sector for all depths, although there was 
+more overlap in coral genera in the middle reefs. 
+Spatial patterns of bleaching prevalence dominant hard coral taxa  
+In general, the percentage of coral colonies that bleached was fairly low for all dominant coral 
+genera (Figure 9). This is likely due to the ecological surveys being conducted early on in the 
+
+
+================================================================================
+PAGE 31 (digital_extraction)
+================================================================================
+
+24 
+bleaching event. These plots do not necessarily portray the full extent to which bleaching 
+occurred in American Samoa the months after the surveys were conducted. 
+ 
+Figure 9. Histogram of bleaching prevalence for the dominant coral taxa. 
+The spatial variations between depth and sector in bleaching prevalence of all hard coral and 
+dominant coral genera were explored through GAMLSS. Bleaching prevalence varied by depth 
+for all hard corals (Table 5; Figure 10). It appears that the bleaching prevalence of most 
+dominant coral genera did not vary by depth; the overall trend of hard corals was driven by a few 
+genera (Leptastrea and Montastrea). Since the ecological surveys were conducted at the 
+beginning of the bleaching event, this may suggest that Leptastrea and Montastrea were the first 
+two coral genera to respond to heat stress. Bleaching prevalence did not differ across sectors in 
+any taxa, except for Pocillopora which experienced the most bleaching in the Southwest Sector 
+in Fagatele Bay. Bleaching prevalence was significantly impacted by the interaction of both 
+depth and sector for Galaxea. 
+
+
+================================================================================
+PAGE 32 (digital_extraction)
+================================================================================
+
+25 
+Table 5. GAMLSS model output (Likelihood Ratio Test (LRT) and p-value) testing the significance 
+of depth, sector, and the interaction between the two for all hard corals combined and the dominant 
+genera. 
+Coral 
+Depth  
+Sector 
+Depth*Sector 
+LRT p-value 
+LRT 
+p-value 
+LRT 
+p-value 
+hard corals 
+4.15 
+0.045 * 
+3.94 
+0.247 
+0.70 
+0.863 
+Acropora 
+0.01 
+0.917 
+0.05 
+0.924 
+0.31 
+0.957 
+Porites 
+0.59 
+0.466 
+0.06 
+0.997 
+4.21 
+0.247 
+Pocillopora 
+3.79 
+0.051 
+9.44 
+0.024 * 
+1.87 
+0.600 
+Pavona 
+3.34 
+0.067 
+2.72 
+0.437 
+2.32 
+0.509 
+Galaxea 
+1.44 
+0.231 
+3.97 
+0.264 
+8.77 
+0.033 * 
+Isopora 
+0.15 
+0.703 
+0.99 
+0.369 
+5.77 
+0.056 
+Leptastrea 
+3.21 
+0.036 * 
+0.86 
+0.564 
+2.55 
+0.467 
+Montastrea 
+9.72 
+0.002 * 
+2.3 
+0.513 
+0.74 
+0.864 
+Asterisk (*) indicates a significant result. 
+Bleaching prevalence was greater in shallow reefs for all hard corals. It remained fairly low at 
+the deeper depths and reached values of up to 18%. Shallow reefs reached bleaching prevalence 
+levels of up to 27%.  
+ 
+Figure 10. Bleaching prevalence (%) for all hard corals at shallow, mid, and deep reefs for all sites 
+and sectors combined. The blue line represents the fitted smoothing penalized spline (p-spline). 
+ 
+ 
+
+
+================================================================================
+PAGE 33 (digital_extraction)
+================================================================================
+
+26 
+Associations between heating metrics of 2015 and bleaching prevalence 
+Only one metric for each heat stress type was used in the GAMLSS models to examine impacts 
+of heat stress on bleaching prevalence. The GAMLSS results for heat stress impacts on coral 
+bleaching prevalence are found in Table 6.  
+Temperature variability (daily temperature range for the warming season of 2014–2015) was the 
+only heat stress type that influenced the bleaching prevalence of all hard corals. All heating rates 
+were high in 2014–2015, but heating rate did not vary between site and depth, and thus heating 
+rate had no detectable impact on bleaching prevalence for corals when examining data just for 
+one year. In other words, heating rates vary with time, but our bleaching data are spatial not 
+temporal, and thus heating rates appeared to have no influence on the bleaching prevalence. 
+Cumulative heat stress, acute heat stress, and temperature variability impacted the bleaching 
+prevalence of a few coral genera. 
+All reefs at all sites and depths were exposed to high heat stress in the austral summer of 2014–
+2015. Thus, all reefs experienced cumulative heat stress, acute stress, increased warming trend, 
+and high heating rates most of which varied by year (Figure 2, Figure 5, Figure 7), although there 
+are some spatial differences observed even just for the austral summer of 2015. Most of the 
+spatial differences in heat stress occurred through the variability parameters. Temperature 
+variability was the only parameter to influence the bleaching prevalence of all the hard corals 
+combined. Thus, we ran additional GAMLSS tests to examine the variability metrics on 
+bleaching prevalence. 
+The mean daily temperature range was the primary variability parameter linked to changes in 
+bleaching prevalence of corals (Table 7). Despite many of the variability metrics differing 
+between site and depth (Table 3), these metrics did not seem to best predict bleaching prevalence 
+for most coral general (Table 7). 
+
+
+================================================================================
+PAGE 34 (digital_extraction)
+================================================================================
+
+27 
+Table 6. GAMLSS results (likelihood ratio test (LRT) and p-values) examining the impact of heat stress types on bleaching prevalence of 
+all hard corals and the dominant coral genera. 
+Coral 
+Cumulative heat 
+stress: DHW 
+Acute heat stress: 
+days above 
+threshold 
+Increasing 
+trend 
+Variability: daily 
+temperature range 
+Heating rate 
+LRT 
+p-value 
+LRT 
+p-value 
+LRT 
+p-value 
+LRT 
+p-value 
+LRT 
+p-value 
+All hard corals 
+0.24 
+0.626 
+0.04 
+0.850 
+Not applicable 
+due to no 
+variation in 
+trend - all sites 
+and depths 
+experience a 
+warming trend 
+in the year of 
+2014-2015 
+4.95 
+0.026 * 
+1.80 
+0.180 
+Acropora 
+2.31 
+0.129 
+0.49 
+0.480 
+0.97 
+0.324 
+0.02 
+0.890 
+Porites 
+2.99 
+0.084 
+1.31 
+0.252 
+1.83 
+0.176 
+0.18 
+0.669 
+Pocillopora 
+4.04 
+0.044 * 
+0.50 
+0.478 
+3.10 
+0.078 
+3.03 
+0.081 
+Pavona 
+0.54 
+0.4632 
+2.34 
+0.126 
+0.19 
+0.663 
+0.38 
+0.541 
+Galaxea 
+4.09 
+0.043 * 
+4.94 
+0.026 * 
+1.09 
+0.297 
+2.04 
+0.154 
+Isopora 
+0.63 
+0.426 
+0.65 
+0.420 
+0.48 
+0.490 
+0.24 
+0.622 
+Leptastrea 
+16.36 
+< 0.001 * 
+16.86 
+< 0.001 * 
+14.982 
+< 0.001 * 
+0.32 
+0.573 
+Montastrea 
+7.97 
+0.005 * 
+8.10 
+0.004 * 
+6.04 
+ 0.014 * 
+0.05 
+0.829 
+Asterisk (*) indicates a significant result. 
+
+
+================================================================================
+PAGE 35 (digital_extraction)
+================================================================================
+
+28 
+Table 7. GAMLSS results (likelihood ratio test (LRT) and p-values) examining the impact of temperature variability metrics on bleaching 
+prevalence of all hard corals and the dominant coral genera. 
+Coral 
+Tide: PSD 
+peak at 12 hr 
+Daily: PSD 
+peak at 24 hr 
+Internal 
+Wave: PSD 
+peak at 48 hr 
+CV for 2015 
+Mean daily 
+temperature 
+range for 2015  
+Mean daily 
+temperature 
+range for 30 
+days prior to 
+survey 
+Mean 
+temperature for 
+30 days prior to 
+survey 
+LRT 
+p-value 
+LRT 
+p-value 
+LRT 
+p-value 
+LRT 
+p-value 
+LRT 
+p-value 
+LRT 
+p-value 
+LRT 
+p-value 
+All hard corals 
+0.84 
+0.369 
+0.05 
+0.824 
+2.87 
+0.090 
+0.23 
+0.630 
+5.50 
+0.019 * 
+0.54 
+0.464 
+0.16 
+0.691 
+Acropora 
+0.11 
+0.741 
+0.26 
+0.613 
+0.18 
+0.668 
+0.24 
+0.627 
+0.25 
+0.614 
+3.71 
+0.053 
+3.57 
+0.059 
+Porites 
+5.34 
+0.021 * 
+1.32 
+0.249 
+2.59 
+0.107 
+0.13 
+0.715 
+1.53 
+0.215 
+0.49 
+0.485 
+0.17 
+0.681 
+Pocillopora 
+0.62 
+0.431 
+1.98 
+0.16 
+2.38 
+0.122 
+0.90 
+0.343 
+5.68 
+0.017 * 
+0.0003 
+0.986 
+1.33 
+0.249 
+Pavona 
+1.16 
+0.281 
+0.80 
+0.37 
+0.43 
+0.512 
+0.71 
+0.400 
+0.06 
+0.807 
+0.26 
+0.610 
+0.44 
+0.507 
+Galaxea 
+5.05 
+0.025 * 
+4.56 
+0.032 * 
+3.67 
+0.055 
+14.02 
+0.002 * 
+0.95 
+0.329 
+0.67 
+0.673 
+0.40 
+0.396 
+Isopora 
+0.51 
+0.475 
+0.56 
+0.454 
+0.79 
+0.373 
+0.82 
+0.365 
+0.0008 
+0.978 
+0.008 
+0.930 
+0.04 
+0.851 
+Leptastrea 
+0.20 
+0.655 
+2.66 
+0.103 
+0.19 
+0.660 
+9.64 
+0.001 * 
+24.61 
+< 0.001 * 
+0.57 
+0.448 
+0.46 
+0.496 
+Montastrea 
+0.24 
+0.624 
+0.24 
+0.627 
+1.66 
+0.200 
+0.01 
+0.914 
+7.65 
+0.005 * 
+0.22 
+0.636 
+0.48 
+0.488 
+Asterisk (*) indicates a significant result. 
+
+
+================================================================================
+PAGE 36 (digital_extraction)
+================================================================================
+
+29 
+Discussion 
+Concurrent heat stress metrics led to bleaching events  
+A ‘perfect storm’ of increased warming trend, increased heating rates, and the impact of 
+cumulative and acute heat stress events caused the massive bleaching events of 2015 and 2017 in 
+Tutuila. This conclusion comes from time series analyses linking heating metrics to observed, 
+though not quantified, bleaching events that occurred during those years. A conglomerate of 
+heating stressors cumulatively led to mass bleaching events, one metric independently did not 
+predict mass bleaching (Table 8). This suggests that only using one heating metric will 
+inaccurately predict bleaching events. For example, if cumulative heat stress (i.e., DHW) was the 
+only metric used to predict mass bleaching, then the reefs in American Samoa should have had 
+another massive bleaching event in 2016.  
+Table 8. Presence/absence of each heat stressor for each year. Green represents a presence, and 
+grey an absence, of each heat stress for each year. Asterisks (*) mark the years that incurred a 
+massive bleaching event. Bold outline around bleaching year indicates that multiple heat stressors 
+collectively led to the mass bleaching events. A green box in the cumulative heat stress row indicates 
+the presence of a long-term heat stress event (measured as DHW). A green box in the acute heat 
+stress row indicates the presence of a short-term heat stress event (last on a few hours and 
+measured as DHH). 
+Stressor 
+2013 
+2014 
+2015* 
+2016 
+2017* 
+2018 
+Increased warming trend 
+  
+  
+  
+  
+  
+  
+Cumulative heat stress 
+  
+  
+  
+  
+  
+  
+Acute heat stress 
+  
+  
+  
+  
+  
+  
+Increased heating rate 
+  
+  
+  
+  
+  
+  
+Decreased daily temperature range 
+  
+  
+  
+  
+  
+  
+Temporal patterns were the main drivers in patterns for heat stress 
+Heat stress varied greatly over time, primarily from year to year, for warming trend, heat rates, 
+acute stress, and cumulative stress. For temperature variability metrics, temperature ranges were 
+greater during warming months compared to the cooling months, but in general there was no 
+distinct pattern in temperature variability that changed from year to year. Overall, the patterns in 
+temperature time series were similar across reefs and sites (Figure 3 and Figure 4); thus, if a hot 
+anomaly occurred in a given year, then generally the entire island and all depths experienced that 
+hot anomaly, though to slightly varying degrees of severity. 
+Temporal patterns were the main drivers in patterns for heat stress; however, small spatial 
+differences were observed for some metrics between depth and site. For example, during the 
+beaching event of 2015, all sites and all depths experienced an increased warming trend, 
+cumulative heat stress, acute heat stress, and increased heating rates. The degree to which each 
+site and depth experienced each heat stressor varied slightly, though shallow reefs generally 
+experienced warmer waters for longer periods of time. Fagatele, in the Southwest sector of 
+Tutuila, experienced slightly warmer conditions compared to other sites around the island. 
+Spatial variations were more prominent in the metrics for temperature variability, with depth 
+being the largest gradient. 
+
+
+================================================================================
+PAGE 37 (digital_extraction)
+================================================================================
+
+30 
+Warming trends are expected to increase globally due to climate change, with uneven ocean 
+warming affecting regional changes in global climate sensitivity (Xie 2020). The southern 
+hemisphere has absorbed 90% of the net ocean heat gain in recent years compared to the 
+northern hemisphere (Rathore et al. 2020), making corals in the southern hemisphere, like those 
+at Tutuila in American Samoa, more vulnerable to future conditions. Not only are waters 
+warming faster, but the intensity of the heatwave is increasing with new all-time high 
+temperature records observed regularly(Cheng et al. 2021). Ocean warming is exacerbated by 
+increasingly stronger and more frequent el Nino events (Claar et al. 2018), which compounds 
+stress on corals. Ocean warming has resulted in the longest global coral bleaching event lasting 
+from 2014–2017 (Eakin et al. 2019). Global reefs are currently experiencing annual trends that 
+exceed summertime trends at most locations, and winter periods are shortening allowing less 
+time for corals to recover from high temperatures(Heron et al. 2016; Lough et al. 2018).  
+Reefs in Tutuila, American Samoa, were experiencing an increased warming trend for the years 
+when massive bleaching events occurred. Detrended fluctuation analysis of the temperature time 
+series revealed that the warming trend was not linear, but instead had a few peaks. For example, 
+the temperature increased compared to the previous year in 2013, 2015, and 2017. The trend in 
+the water temperature for 2014 remained similar to the previous year and did not increase. 
+Meanwhile, in 2016, the trend decreased between the two peaks of 2015 and 2017. Thus, 
+warming trend alone did not predict mass bleaching events or bleaching would have occurred in 
+2013.  
+Even though the trend did not increase in 2016, the heating rate did increase from the prior year. 
+In fact, the heating rates progressively increased from year to year. Thus, the combined effects of 
+increased warming trend and heating rates exacerbated any other heat stress on the reefs and 
+amplified any acute or cumulative stress that the corals were experiencing in Tutuila. 
+Not only is the temperature trend expected to increase under future climate change conditions, 
+but cumulative and acute heat stress events are expected to increase in frequency, intensity, and 
+duration (Skirving et al. 2019). Reefs in Tutuila experienced both short-term (lasting for a few 
+hours) and long-term (lasting for multiple weeks) heat stress events in 2015 and 2017, which 
+were associated with observed massive bleaching events. Temperature data from the 2015 
+bleaching event indicated that cumulative and acute stress were present at all sites and depths, 
+but the degree of heat stress slightly varied between site and depth, with shallow reefs having 
+longer and more frequent periods of heat stress. Fagatele, in the southwest of Tutuila, 
+experienced more cumulative and acute heat stress compared to the other sites (i.e., shallow reefs 
+in Fagatele experienced two acute heat stress events instead of one like the deeper reefs there). 
+All other sites and depths only experienced one acute and one cumulative heat stress event. 
+Oceanographic differences and low residence times in the shallow bay may explain why Fagatele 
+was exposed to more heat stress than the other sites. 
+Measuring multiple heating metrics during peak bleaching is key to accurately linking heat 
+stress to coral bleaching 
+Cumulative heat stress is often measured through the metric degree heating week (DHW), which 
+can have different definitions based on the time over which cumulative heat stress is calculated 
+and whether or not hot anomalies are included in the calculation for the bleaching threshold. 
+Currently, the most widely used definition of DHW is based on the NOAA Coral Reef Watch 
+
+
+================================================================================
+PAGE 38 (digital_extraction)
+================================================================================
+
+31 
+(CRW) calculation that uses satellite sensor data to monitor global sea surface temperatures. In 
+this satellite-derived definition, DHW is calculated over a 12-week period and is the sum of the 
+temperature anomalies exceeding the bleaching threshold, i.e., the maximum monthly plus 1 °C 
+(MMM + 1°C) for either 5 km or 50 km gridded regions (Liu et al. 2014). DHW is a highly 
+effective metric used for predicting mass coral bleaching and has been validated for historical 
+mass bleaching events (Kayanne 2017). This study calculated DHW corrected at depth, as 
+opposed to DHW calculated at the sea surface just using satellite data and has identified a few 
+issues with any definition of DHW. For example, using only one heating metric can lead to an 
+erroneous prediction for bleaching, e.g., reefs in Tutuila experienced cumulative heat stress in 
+2016, but did not bleach.  
+The bleaching threshold is usually defined as MMM + 1 °C, but this term gets applied in a 
+general sense to all corals globally. However, bleaching susceptibility in corals is highly 
+variable. When observed in the field, it can appear as patchy even within a single coral colony 
+experiencing different levels of bleaching. Bleaching thresholds for corals measured in situ 
+varies by site, between coral taxa, and also by the age of the coral(Edmunds 2004; Shuail et al. 
+2016). In the case of Tutuila reefs, depth-corrected DHW varied slightly between depth (shallow 
+reefs experiencing greater DHW values) and site (Fagatele in the southwest of Tutuila 
+experienced higher DHW values compared to the other sites), but DHW did not impact the 
+overall bleaching prevalence of all hard corals. DHW, however, did impact the bleaching 
+prevalence of just a few select taxa (Leptastrea, Montastrea, Galaxea, Pocillopora). The 
+bleaching threshold of these taxa may be lower compared to other coral species in the 
+community, highlighting the need to further examine the underlying mechanisms that drive such 
+patchiness in bleaching during heat waves. 
+Bleaching thresholds may also shift through time. Corals may shift their thermal tolerance due to 
+adaptation or through natural selection of heat-tolerant symbionts(Rowan 2004; Berkelmans and 
+Van Oppen 2006). Additionally, successive heatwave exposure may also change the coral 
+community response through selective mortality(Fox et al. 2021). The ability of the past to 
+influence the present trajectory of an ecosystem has been termed ‘ecological memory’, and 
+evidence from the successive bleaching events in 2016 and 2017 on the Great Barrier Reef 
+suggests that the extent of bleaching during the second heat wave was contingent on the 
+physiological and ecological responses of the corals from the previous year’s heatwave (Hughes 
+et al. 2019). Understanding how bleaching thresholds may or may not shift through time and 
+how coral communities respond will be imperative to best predict future bleaching events. 
+Historical temperature exposure impacts coral tolerance through yet another mechanism. Not 
+only does repetitive exposure to acute and cumulative heat stress alter bleaching thresholds and 
+heat tolerance for some coral species, but exposure to large ranges in temperature variability can 
+mean that some corals are subject to less bleaching(Carilli et al. 2012). Daily or tidal fluctuations 
+in temperature can sufficiently increase the tolerance of some corals and reduce their likelihood 
+to bleach (Safaie et al. 2018). Safaie et al. (2018) observed that high temperature variability 30 
+days prior to a bleaching event was the main metric out of 20 variables with the highest 
+predictive power to best explain when bleaching events may occur (Safaie et al. 2018). This was 
+not observed for reefs in Tutuila, however. Temperature variability 30 days prior to the 
+ecological survey was not correlated with bleaching prevalence on hard corals. Nonetheless, the 
+temperature range throughout the entire warming period was a main predictor for bleaching 
+
+
+================================================================================
+PAGE 39 (digital_extraction)
+================================================================================
+
+32 
+prevalence for hard corals. This pattern was primarily driven by the taxa Leptastrea, Montastrea, 
+and Pocillopora.  
+One advantage of using in situ temperature loggers for this study is the capacity to collect 
+information on finely-scaled temporal patterns. For example, temperatures at the shallow reefs in 
+Tutuila were driven by diurnal periods, while reefs at depth experienced variable temperatures 
+due to internal waves. The statistical results, however, revealed that internal waves did not 
+significantly explain any differences observed in bleaching prevalence. Specifically, in Tutuila, 
+temperature variability was driven by daily cycles in the shallow reefs, and internal waves 
+influenced the temperature variability for deeper reefs. Reefs in the shallow, middle, and deep 
+reefs were all influenced by tides. Despite differences observed in the influence of diurnal cycles 
+and internal waves on temperature variability, these two parameters were not significant at 
+predicting bleaching prevalence for hard corals when all genera were combined. Galaxea was an 
+exception and bleaching prevalence was significantly impacted by tidal and daily temperature 
+fluctuations. Bleaching prevalence in Porites was also impacted by tidal influences on 
+temperature variability. Temperature variability due to internal waves had no impact on 
+bleaching prevalence in any coral genera. This observation is contrary to some studies that 
+suggest internal waves will help mitigate heat stress by pulsating cool temperatures onto deeper 
+reefs exposed to internal waves(Wall et al. 2015; Wyatt et al. 2020).We suggest that some of the 
+observations linking heating metrics to bleaching prevalence in this study might portray a 
+different assumption if bleaching data from the peak event were used here. This result may 
+suggest that internal waves are not important at the beginning of a heat wave, but the next step 
+would be to determine if internal waves become more important to Tutuila reefs after long-term 
+heat stress exposure.  
+Deeper reefs (~20–25 m), in general, have been hypothesized to be a refugia for corals from heat 
+stress. One of the conditions of the deep reef refugia hypothesis is that they must be at or below 
+the first thermocline during the annual thermal maximum (Riegl and Piller 2003). The deep reefs 
+in Tutuila were not below the thermocline and experienced high temperature values and ranges 
+in temperature. However, the deep reefs in Tutuila did experience slightly less bleaching 
+prevalence than the shallow reefs. Thus, depth did mitigate bleaching to some capacity, but was 
+not a complete refugia because severe heat stress was still recorded on deep reefs.  
+Although not quantified, multiple observations recorded mass bleaching events in 2015 and 
+2017(Coward et al. 2020); thus, the temporal analysis linking heating metrics calculated through 
+time to observed bleaching events revealed that many heat stressors simultaneously are 
+associated with accurately predicting bleaching events. However, the spatial analysis using 2015 
+ecological survey data did not reveal compelling evidence that multiple heat stressors caused 
+bleaching for all the hard corals combined, potentially due the timing of the surveys during the 
+early stages of heat stress. Given the low bleaching prevalence, statistical analyses linking 
+heating metrics to bleaching prevalence are limited under this framework and should be repeated 
+with bleaching prevalence data collected during the peak bleaching event. Only then can the full 
+extent to which all the heating metrics impacted coral communities and specific coral genera be 
+understood. Nonetheless, a few coral genera, Leptastrea and Montastrea, seemed to have 
+bleached more than the rest of the hard corals and were sensitive to cumulative heat stress (DHW 
+corrected at depth), acute heat stress (short term spikes in the temperature that would last for a 
+few days), and temperature variability (mean daily temperature range). Galaxea and Pocillopora 
+
+
+================================================================================
+PAGE 40 (digital_extraction)
+================================================================================
+
+33 
+also had increased bleaching prevalence due to cumulative and acute heat stress. Since these 
+corals were some of the first genera to bleach, perhaps they can serve as forecasters of mass 
+bleaching.  
+The time series for in situ temperature data (2012–2018) will allow further studies to associate 
+this with time series of ecological data instead of just a single time point for benthic data as was 
+completed here. Matched temperature and ecological time series data would help illuminate the 
+full extent to which the benthos is impacted by vertical thermal structure through time and 
+changing temperature. 
+The long-term in situ temperature data collected at these reefs provide detailed information on 
+multiple types of heat stress to which reefs throughout Tutuila have been exposed throughout 
+time. These heating metrics could be combined with other anthropogenic stressors to the reefs, 
+like carbonate chemistry variables indexing ocean acidification, and measured variables of water 
+quality to determine how multi-stressors may impact reef communities over time. Urgent effort 
+at the global scale is needed to combat climate change, but local efforts of monitoring can be 
+used to prevent or lessen coral reef loss.  
+
+
+================================================================================
+PAGE 41 (digital_extraction)
+================================================================================
+
+34 
+Key Findings 
+The time series analysis revealed a few key patterns: 
+• Overall patterns in each time series data were similar between site and depth.  
+• Acute heat stress (spikes in temperature for a few days) occurred in austral summers of 
+2015, 2016, and 2017 for most sites at all depths. The acute heat stress also occurred in 
+2018 for the middle and deep reefs, but not for the shallow reefs.  
+• For all sites and depths, the overall trend is that temperature is increasing through time, 
+with the exception of 2016 and 2018.  
+• Daily temperature variability is only high while waters are warm. The highest daily 
+ranges only occur for a few days and coincide with the acute heat stress period.  
+• Weekly measurements indicate that the biggest variability in temperature occurs in the 
+few weeks prior to the highest seasonal temperatures reached each year. In other words, 
+daily variability is already greater during warming, but the first few weeks of the 
+warming season start with low variability. However, at the end of the heating season, the 
+week-to-week variability is highest right before the peak seasonal temperature is met. 
+This was true for 2013–2016, but not for 2017 or 2018.  
+• When looking at the periodicity due to yearly cycles, every singly annual pattern has a 
+double high peak in which there is an initial heating rate increase, followed by a slight 
+decrease, and then another increase in temperatures during the warming period. 
+• Temperature time series were highly correlated when compared between sites. 
+• No distinct geographic patterns were observed, except that the Northeast and Southeast 
+sites were highly correlated for shallow, middle, and deep reefs (correlation coefficient = 
+0.80, 0.89, 0.89, respectively).  
+• Temperature patterns were nearly identical between shallow, middle, and deep reefs for 
+the same site, especially at the Northwest, Northeast, Southeast, and Southeast Island 
+sites where cross correlation values were all above 0.90 (i.e., at least 90% similar 
+temperature time series between depths). 
+Summary of results for heating parameters calculated for the entire temperature time 
+series (2012–2018): 
+Cumulative heat stress 
+• Cumulative heat stress (DHW) varied primarily through time (years) and less so spatially 
+(little difference between sites).  
+• Cumulative heat stress impacted reefs at all sites and at all depths. Shallow and middle 
+reefs had more cumulative heat than the deeper reefs, but the deeper reefs still 
+experienced cumulative heat stress. 
+Acute heat stress 
+• The presence or absence of acute heat stress was significantly different between years 
+(p(1,6) < 0.05), but not between sites (p(1,2) = 0.17) or depth (p(2,0.4) = 0.81). 
+
+
+================================================================================
+PAGE 42 (digital_extraction)
+================================================================================
+
+35 
+• Acute stress events primarily occurred in the austral summer months of 2015, 2016, and 
+2017.  
+• One acute stress event occurred both in 2015 and 2016, while three acute stress events 
+occurred in the summer months of 2017. 
+Heating rates 
+• Heating rates were significantly different between depths (p(2,4) < 0.05). 
+• Shallow reefs generally warm at a faster rate than mid and deep reefs. 
+• Heating rates were also significantly different between years (p(5,10) < 0.001).  
+• Heating rate progressively increased each year except in 2018. 
+• Seawater temperature steadily increased throughout each warming season, except in 2017 
+when seawater warmed rapidly in the first few weeks, and then continued to warm but at 
+a slightly slower rate.  
+Temperature variability 
+(1) Power spectral density (PSD)  
+• The power spectral density analysis showed that high temperature variation, i.e., peaks in 
+the dendrograms, occurs at multiple frequencies, 
+• The PSD also revealed that reefs at different depths exhibit different drivers for 
+temperature variation.  
+• Expectedly, diurnal temperature cycles drive most of the temperature variability in the 
+shallow reefs for both warming and cooling seasons.  
+• The PSD also allowed us to observe the influence of tides on the reefs at each depth; 
+semidiurnal tides occur every 12 hours and influence the water temperature at all reefs 
+and at all depths but become increasingly important with depth. 
+• In the shallow reefs the diurnal cycle has a stronger influence on temperature variation 
+than semidiurnal tides.  
+• At some mid water reefs (at North, Northeast, and Southeast Island sites), the diurnal 
+daylight cycles and semidiurnal tides have almost a similar influence on the temperature 
+variation, i.e., 24 hr and 12 hr frequency peaks are nearly the same height during the 
+warming season.  
+• Interestingly, the deep reef sites are influenced by a third driver of temperature variation, 
+internal waves occur every 48 hours. Shallow and middle reefs are not exposed to these 
+waves.  
+• Deep reefs at all sites except the North site were exposed to internal waves that 
+influenced the variability in temperature.  
+• The internal waves only appear during the warming season and are not detectable during 
+the cooling months.  
+
+
+================================================================================
+PAGE 43 (digital_extraction)
+================================================================================
+
+36 
+(2) Daily temperature ranges  
+• Daily temperature ranges were significantly different (p(df,F) = values) between depth 
+(p(2,127) < 0.001), year (p(5,238) < 0.001), periods of heating versus cooling (p(1,2982) <0.001), 
+and site(p(5,393) < 0.001).  
+• Temperature ranges were more variable during the heating part than the cooling periods, 
+with the greatest temperature ranges observed in the austral summer months of January, 
+February, and March.  
+• Unexpectedly, the deeper reefs experienced the greatest temperature ranges, not the 
+shallow reefs.  
+• There were significant differences between sites; the reefs at Southwest Fagatele had 
+higher daily temperature ranges than the other sites, but there was no apparent spatial 
+pattern.  
+• Daily temperature ranges were also statistically different between years, but there was no 
+relationship between daily temperature ranges and the massive bleaching events since the 
+2014–2015 year had high temperature variability in daily temperature, but the 2016–2017 
+year did not. 
+(3) The coefficient of variation (CV)  
+• Coefficient of variation (CV) values differed significantly between sites (p(5,8) < 0.001), 
+depth (p(2,6) < 0.01), and year (p(5,4) < 0.01), but not between warming and cooling 
+seasons (p(1,0.009) = 0.93). 
+• The interactive effect between sites, depth, and year was also significant (p(20,2) < 0.01). 
+Due to the interaction effect, no consistent pattern was evident between sites and years.  
+• Deep reefs varied more from their long-term mean compared to the middle and shallow 
+reefs. 
+•  On average, deep reefs vary ±72.3% from their long term mean temperature, whereas 
+mid and shallow reefs vary ±63.8% and ±62.0%, respectively, from their long term 
+temperature. 
+Summary of heating metrics just for the bleaching event of 2015: 
+Cumulative heat stress 
+• All reefs at all sites and depths experienced cumulative heat stress events. 
+• When the values of degree heating week (DHW) were compared between sites, the 
+Southeast site had slightly more cumulative stress than the other sites, which all had 
+similar cumulative heat stress exposure to each other. 
+• When the values of degree heating week (DHW) were compared between depths, the 
+shallow reefs experienced higher values of DHW while the mid and shallow reefs were 
+exposed to similar levels of DHW. 
+Acute heat stress 
+• All reefs at all sites and depths experienced acute stress events in 2015. 
+
+
+================================================================================
+PAGE 44 (digital_extraction)
+================================================================================
+
+37 
+• When acute stress was measured in hours above the bleaching threshold (sometimes 
+lasting over a few days), then the Southeast site had more hours above the threshold, 
+while all the other sites experienced relatively equal hours above the bleaching threshold.  
+• The Southeast site experienced more hours above the threshold because it experienced 
+two acute heat stress events; meanwhile, all other sites each experienced only one acute 
+stress event. 
+• The two acute heat stress events occurred in the shallow reefs and not the mid or deep 
+reefs. 
+Heating rates 
+• Heating rates did not vary by site or by depth 
+Variability 
+• Tides (measured by peak is PSD at 12 hr) have similar influence on reefs at all sites and 
+depths. 
+• Daily fluctuations (measured by peak in PSD at 24 hr) are greater at shallow depths 
+compared to the mid and deep reefs, and Southwest Fagatele has greater daily 
+fluctuations than the other sites. 
+• Internal tides (measured by peak at the PSD at 48 hr) occur more at the deep reefs 
+compared to the mid and shallow reefs, and the site at Southwest in Fagatele Bay are 
+exposed to more internal waves. 
+• For the warming period prior to the massive bleaching event, daily temperature ranges 
+varied between site and depth. Unexpectedly, the deeper reefs experienced greater daily 
+temperature ranges than the shallow reefs. Also, Southeast Island Aunuu experienced 
+high daily temperature ranges, while the Southeast experience lower daily temperature 
+ranges. 
+• Daily temperature means and ranges 30 days prior to the ecological survey date varied 
+between site and depth as well as day, since the ecological surveys were conducted on 
+different days over a month-long period. 
+Summary of results for coral bleaching: 
+• In general, bleaching prevalence was fairly low for all dominant coral genera. This is 
+likely due to the ecological surveys being conducted in the early days of the bleaching 
+event.  
+• Bleaching prevalence varied by depth for all hard corals. 
+• It appears that the bleaching prevalence of most of the dominant coral genera did not vary 
+by depth, so the overall trend of hard corals was driven by a few genera (Leptastrea and 
+Monastrea).  
+• Since the ecological surveys were conducted at the beginning of the bleaching event, this 
+may suggest that Leptastrea and Monastrea were the first two coral genera to react to 
+heat stress. 
+• Bleaching prevalence did not differ across sectors, except for Pocillopora. 
+
+
+================================================================================
+PAGE 45 (digital_extraction)
+================================================================================
+
+38 
+• Bleaching prevalence was significantly impacted by the interaction of both depth and 
+sector for Galaxea. 
+Summary of results linking heating parameters of 2015 to coral bleaching: 
+• Temperature variability (daily temperature range for the warming season of 2014–2015) 
+was the only heat stress type that influenced the bleaching prevalence of all hard corals. 
+• All heating rates were high in the 2014–2015 year, but heating rate did not vary between 
+site or depth. Thus, heating rate has no detectable impact on bleaching prevalence for 
+coral when examining data for just one year. In other words, heating rates vary with time, 
+but we have spatial, not temporal, data for bleaching prevalence; thus, heating rates 
+appear to have no influence on the bleaching prevalence.  
+• Cumulative heat stress, acute heat stress, and temperature variability impacted the 
+bleaching prevalence of a few coral genera. 
+• Since the ecological surveys were conducted at the beginning of the bleaching event, this 
+may indicate that Leptastrea and Monastrea were the first coral genera to react to heat 
+stress. 
+• The mean daily temperature range was the primary variability parameter that was best 
+linked to changes in bleaching prevalence of corals. 
+• Despite many of the variability metrics varying between site and depth, this does not 
+seem to the best predictor for bleaching prevalence 
+ 
+ 
+ 
+
+
+================================================================================
+PAGE 46 (digital_extraction)
+================================================================================
+
+39 
+Concluding Remarks 
+A ‘perfect storm’ of heat stress events caused observed bleaching events of 2015 and 2017 
+Massive bleaching events were observed in American Samoa during 2015 and 2017 (Coward et 
+al. 2020). A conglomerate of heating stressors cumulatively led to bleaching events in 2015 and 
+2017 at coral reefs in Tutuila, American Samoa. One metric independently did not predict mass 
+bleaching. Instead, multiple stressors including cumulative and acute heat stress, a warming 
+trend, and increased heating rates, collectively led to the mass bleaching events of 2015 and 
+2017. Temperature variability between years was not the strongest predictor for bleaching. Only 
+using one heating metric can inaccurately predict bleaching events. For example, if cumulative 
+heat stress (i.e., DHW) was the only metric used to predict mass bleaching, then the reefs in 
+American Samoa should have had another massive bleaching event in 2016. Fortunately, 2016 
+did not have a massive bleaching event, likely due to the trend not increasing that year.  
+Certain coral genera may be the beacon of bleaching events 
+Since the ecological surveys were conducted at the very beginning of the bleaching event before 
+it was widespread, the coral genera that had the most bleaching prevalence (Leptastrea and 
+Monastrea) may be the genera that first react to heat stress, and therefore may be the warning 
+that a mass bleaching event is imminent.  
+The way forward 
+This study has highlighted that most heating metrics vary through time and not necessarily 
+though space and depth. This limits the scope of scientific questions unless you have co-located 
+temporal and spatial data. For example, in the case of the 2015 bleaching event in American 
+Samoa, even though there was some variation in heat stress spatially, most of the variation in 
+heat stress occurred from year to year. Meaning that during a hot year where reefs experience a 
+bleaching event, all the reefs are exposed to cumulative heat stress, acute heat stress, increasing 
+trend, and increased heat rates. That makes it difficult to answer questions like, “how do corals 
+react to cumulative heat stress?” if you only have ecological data from one point in time when 
+everything is hot. To answer this question, you need ecological data from when it was not hot for 
+comparison. The next step is to link time series temperature data with time series ecological data. 
+
+
+================================================================================
+PAGE 47 (digital_extraction)
+================================================================================
+
+40 
+Literature Cited 
+Anthony KRN, Kline DI, Diaz-Pulido G, Dove S, Hoegh-Guldberg O. 2008. Ocean acidification 
+causes bleaching and productivity loss in coral reef builders. ProcNatl Acad Sci U.S.A. 105 
+(45): 17442–46. https://doi.org/10.1073/pnas.0804478105. 
+Baird AH, Marshall PA. 2002. Mortality growth and reproduction corals GBR. Mar 
+EcolProg.237: 133–41. 
+Baker AC, Glynn PW, Riegl B. 2008. Climate change and coral reef bleaching: An ecological 
+assessment of long-term impacts, recovery trends and future outlook. Estuar Coast Shelf 
+Sci. 80 (4): 435–71. https://doi.org/10.1016/j.ecss.2008.09.003. 
+Barkley HC, Cohen AL, Mollica NR, Brainard RE, Rivera HE, Decarlo TM, Lohmann GP, 
+Drenkard EJ, Alpert AE, Young, CW, et al. 2018. Repeat bleaching of a central Pacific 
+coral reef over the past six decades (1960–2016). Commun Biol. 1–10. 
+https://doi.org/10.1038/s42003-018-0183-7. 
+Berkelmans R, van Oppen MJH. 2006. The role of zooxanthellae in the thermal tolerance of 
+corals: A ‘nugget of hope’ for coral reefs in an era of climate change. Proc Royal Soc B. 
+273 (1599): 2305–12. https://doi.org/10.1098/rspb.2006.3567. 
+Birkeland C, Craig P, Fenner D, Smith L, Kiene WE, M. Riegl BM. 2008. Geologic setting and 
+ecological functioning of coral reefs in American Samoa. Coral Reefs of the U.S.A. 741–65. 
+https://doi.org/10.1007/978-1-4020-6847-8_20. 
+Bloomfield P. 2013. Fourier Analysis of Time Series: An Introduction. 2nd ed. Wiley 
+(Interscience). 
+Buddemeier RW, Fautin DG. 1993. Coral bleaching as an adaptive mechanism.” BioScience. 43 
+(5): 320–26. https://doi.org/10.2307/1312064. 
+Cantin NE,. Cohen AL, Karnauskas KB, Tarrant AM, McCorkle DC. 2010. Ocean warming 
+slows coral growth in the central Red Sea. Science 329: 322–25. 
+Carilli J, Donner SD, Hartmann AC. 2012. Historical temperature variability affects coral 
+response to heat stress. PLoS ONE 7 (3): 1–9. 
+https://doi.org/10.1371/journal.pone.0034418. 
+Cheng L, Abraham J, Trenberth KE, Fasullo J, Boyer T, Locarnini R, Zhang B, Yu F, Wan L, 
+Chen X, et al. 2021. Upper ocean temperatures hit record high in 2020. Adv Atmos Sci. 38 
+(4): 523–30. https://doi.org/10.1007/s00376-021-0447-x. 
+Claar DC, Szostek L, McDevitt-Irwin JM, Schanze JJ, Baum JK. 2018. Global patterns and 
+impacts of El Niño events on coral reefs: A meta-analysis. PLoS ONE 13 (2): 1–22. 
+https://doi.org/10.1371/journal.pone.0190957. 
+Cohen Y, Cohen JY. 2008. Statistics and Data with R: An Applied Approach Through Examples. 
+
+
+================================================================================
+PAGE 48 (digital_extraction)
+================================================================================
+
+41 
+Chichester, West Sussex, UK: John Wiley & Sons Ltd. https://doi.org/10.1111/j.1751-
+5823.2010.00109_8.x. 
+Coward G, Lawrence A, Ripley N, Brown V, Sudek M, Brown E, Moffitt I, Fuiava B, Vargas-
+Ángel B. 2020. A new record for a massive porites colony at Ta’u Island, American Samoa. 
+SciRep.10 (1): 1–6. https://doi.org/10.1038/s41598-020-77776-7. 
+Dalton SJ,Carroll AG, Sampayo E, Roff G, Harrison PL, Entwistle K, Huang Z, Salih A, 
+Diamond SL. 2020. Successive marine heatwaves cause disproportionate coral bleaching 
+during a fast phase transition from El Nino to La Nina. Sci Total Environ. 715: 136951. 
+Downs CA, Fauth JE, Halas JC, Dustan P, Bemiss J, Woodley CM. 2002. Oxidative Stress and 
+Seasonal Coral Bleaching. Free Radic Biol Med. 33 (4): 533–43. 
+https://doi.org/10.1016/S0891-5849(02)00907-3. 
+Eakin CM, Sweatman HPA, Brainard RE. 2019. The 2014–2017 global-scale coral bleaching 
+event: Insights and impacts. Coral Reefs. 38 (4): 539–45. https://doi.org/10.1007/s00338-
+019-01844-2. 
+Edmunds PJ. 2004. Juvenile coral population dynamics track rising seawater temperature on a 
+Caribbean reef. Mar Ecol ProgSer. 269: 111–19. https://doi.org/10.1038/s41558-019-0576-
+8. 
+Enfield DB, Mayer DA. 1997. Tropical Atlantic sea surface temperature variability and its 
+relation to El Niño-Southern Oscillation. J GeophysRes Oceans. 102 (1): 929–45. 
+https://doi.org/10.1029/96jc03296. 
+Fox MD, Cohen AL, Rotjan RD, Mangubhai S, Sandin SA, Smith JE, Thorrold SR, Dissly L, 
+Mollica NR, Obura D. 2021. Increasing coral reef resilience through successive marine 
+heatwaves. Geophys Res Lett 48 (17): 1–11. https://doi.org/10.1029/2021gl094128. 
+Glynn PW. 2000. El Nino-Southern Oscillation mass mortalities of reef corals - a model of high 
+temperature marine extinctions. GeoSocSpec Publ. 178 (1): 117. 
+Heron SF, Maynard JA, van Hooidonk R, Eakin CM. 2016. Warming Trends and Bleaching 
+Stress of the World’s Coral Reefs 1985-2012. SciRep. 6 (November): 1–14. 
+https://doi.org/10.1038/srep38402. 
+Hughes TP, Anderson KD, Connolly SR, Heron SF, Kerry JT, Lough JM, Baird AH, Baum JK, 
+Berumen ML, Wilson SK, et al. 2018. Spatial and temporal patterns of mass bleaching of 
+corals in the anthropocene. Science. 359 (6371): 80–83. 
+https://doi.org/10.1126/science.aan8048. 
+Hughes TP, Kerry JT, Connolly SR, Baird AH, Eakin CM, Heron SF, Hoey AS, Hoogenboom 
+MO, Jacobson M, Liu G, et al. 2019. Ecological memory modifies the cumulative impact of 
+recurrent climate extremes. Nat Clim Chang NAT CLIM CHANGE. 9 (1): 40–43. 
+https://doi.org/10.1038/s41558-018-0351-2. 
+
+
+================================================================================
+PAGE 49 (digital_extraction)
+================================================================================
+
+42 
+Hughes TP, Kerry JT, Baird AH, Connolly SR, Dietzel A, Eakin CM, Heron SF, Hoey AS, 
+Hoogenboom MO, Liu G, et al. 2018. Global warming transforms coral reef assemblages. 
+Nature. 556: 492–95. 
+Hughes TP, Kerry JT, Álvarez-Noriega M, Álvarez-Romero JG, Anderson KD, Baird AH, 
+Babcock RC, Beger M, Bellwood DR, Berkelmans R, et al. 2017. Global warming and 
+recurrent Mass Bleaching of Corals. Nature. 543: 373–77. 
+https://doi.org/10.1038/nature21707. 
+Kayanne H.. 2017. Validation of degree heating weeks as a coral bleaching index in the 
+Northwestern Pacific. Coral Reefs. 36 (1): 63–70. https://doi.org/10.1007/s00338-016-1524-
+y. 
+Király A, Jánosi IM. 2005. Detrended fluctuation analysis of daily temperature records: 
+Geographic dependence over Australia. Meteorol Atmos Phys. 88 (3–4): 119–28. 
+https://doi.org/10.1007/s00703-004-0078-7. 
+Lesser MP. 1997. Oxidative stress causes coral bleaching during exposure to elevated 
+temperatures. Coral Reefs. 16 (3): 187–92. https://doi.org/10.1007/s003380050073. 
+Lesser, MP. 2013. Using energetic budgets to assess the effects of environmental stress on 
+corals: Are we measuring the right things? Coral Reefs. 32 (1): 25–33. 
+https://doi.org/10.1007/s00338-012-0993-x. 
+Lesser MP, Farrell JH. 2004. Exposure to solar radiation increases damage to both host tissues 
+and algal symbionts of corals during thermal stress. Coral Reefs. 23 (4): 367–77. 
+https://doi.org/10.1002/lno.11162. 
+Liu G., Heron SF, Eakin CM, Muller-Karger FE, Vega-Rodriguez M, Guild LS, De La Cour JL, 
+Geiger EF, Skirving WJ, Burgess TFR, et al. 2014. Reef-scale thermal stress monitoring of 
+coral ecosystems: New 5-km global products from NOAA Coral Reef Watch. Remote Sens. 
+6 (11): 11579–606. https://doi.org/10.3390/rs61111579. 
+Liu G, Strong AE, Skirving W. 2003. Remote sensing of sea surface temperatures during 2002 
+Barrier Reef coral bleaching. Eos 84 (15): 2002–4. https://doi.org/10.1029/2003EO150001. 
+Lough JM, Anderson KD, Hughes TP. 2018. Increasing thermal stress for tropical coral reefs: 
+1871–2017. Sci Rep. 8 (1): 6079. https://doi.org/10.1038/s41598-018-24530-9. 
+Muscatine L, Porter JW, Kaplan IR. 1989. Resource partitioning by reef corals as determined 
+from stable isotope composition. Mar Biol. 100: 185–93. 
+Ostrander GK, Armstrong KM, Knobbe ET, Gerace D, Scully EP. 2000. Rapid transition in the 
+structure of a coral reef community: The effects of coral bleaching and physical disturbance. 
+PNAS U.S.A. 97 (10): 5297–5302. https://doi.org/10.1073/pnas.090104897. 
+Porter JW, Fitt WK, Spero HJ, Rogers CS,White MW. 1989. Bleaching in reef corals: 
+Physiological and stable isotopic responses. PNAS U.S.A. 86 (23): 9342–46. 
+
+
+================================================================================
+PAGE 50 (digital_extraction)
+================================================================================
+
+43 
+https://doi.org/10.1073/pnas.86.23.9342. 
+Rathore S, Bindoff NL, Phillips HE, Feng M. 2020. Recent hemispheric asymmetry in global 
+ocean warming induced by climate change and internal variability. NatCommun. 11 (1). 
+https://doi.org/10.1038/s41467-020-15754-3. 
+Riegl B, Piller WE. 2003. Possible refugia for reefs in times of environmental stress. Int J Earth 
+Sci. 92 (4): 520–31. https://doi.org/10.1007/s00531-003-0328-9. 
+Roemmich D, Church J, Gilson J, Monselesan D, Sutton P, Wijffels S. 2015. Unabated planetary 
+warming and its ocean structure since 2006. Nat Clim Chang NAT CLIM CHANGE 5 (3): 
+240–45. https://doi.org/10.1038/nclimate2513. 
+Rowan R. 2004. Thermal adaptation in reef coral symbionts. Nature. 430 (August):2004–2004. 
+Safaie A, Silbiger NJ,McClanahan TR, Pawlak G, Barshis DJ, Hench JL, Rogers JS, Williams 
+GJ, Davis. KA 2018. High frequency temperature variability reduces the risk of coral 
+bleaching. Nat Commun. 9 (1): 1–12. https://doi.org/10.1038/s41467-018-04074-2. 
+Schmitz K, Kremer BP. 1977. Carbon fixation and analysis of assimilates in a coral-
+dinoflagellate symbiosis. Mar Biol. 42: 305–13. 
+Shuail D, Wiedenmann J, D’Angelo C, Baird AH, Pratchett MS, Riegl B, Burt JA, Petrov P, 
+Amos C. 2016. Local bleaching thresholds established by remote sensing techniques vary 
+among reefs with deviating bleaching patterns during the 2012 event in the Arabian/Persian 
+Gulf. MarPollutBull. 105 (2): 654–59. https://doi.org/10.1016/j.marpolbul.2016.03.001. 
+Shumway RH, Stoffer DS. 2017. Time Series Analysis and Applications. 4th ed. Springer 
+International Publishing. https://doi.org/10.1007/978-3-319-52452-8. 
+Skirving WJ, Heron SF, Marsh BL, Liu G, De La Cour JL, Geiger EF, Eakin CM. 2019. The 
+relentless march of mass coral bleaching: A global perspective of changing heat stress. 
+Coral Reefs. 38 (4): 547–57. https://doi.org/10.1007/s00338-019-01799-4. 
+Stasinopoulos MD, Rigby R, Heller G, Voudouris V, De Bastiani F. 2017. Flexible Regression 
+and Smoothing Using GAMLSS in R. Chapman and Hall/CRC. 
+Stat M, Carter D, Hoegh-Guldberg O. 2006. The evolutionary history of symbiodinium and 
+scleractinian hosts-symbiosis, diversity, and the effect of climate change.” Perspect Plant 
+Ecol Evol. 8 (1): 23–43. https://doi.org/10.1016/j.ppees.2006.04.001. 
+Szmant AM, Gassman NJ. 1990. The effects of prolonged ‘bleaching’ on the tissue biomass and 
+reproduction of the reef coral Montastrea Annularis. Coral Reefs. 8: 217–24. 
+Venables WN, Ripley BD. 2002. Modern Applied Statistics with S. 4th ed. Spinger-Verlag New 
+York. https://doi.org/10.1007/978-0-387-21706-2. 
+Venegas RM, Oliver T, Liu G, Heron SF, Clark SJ, Pomeroy N, Young C, Eakin CM, Brainard 
+
+
+================================================================================
+PAGE 51 (digital_extraction)
+================================================================================
+
+44 
+RE. 2019. The rarity of depth refugia from coral bleaching heat stress in the western and 
+central Pacific Islands. Sci Rep. 1–12. https://doi.org/10.1038/s41598-019-56232-1. 
+Wall M, Putchim L, Schmidt GM, C. Jantzen C, Khokiattiwong S, Richter C. 2015. Large-
+amplitude internal waves benefit corals during thermal stress. Proc Royal Soc B..282 
+(1799). https://doi.org/10.1098/rspb.2014.0650. 
+Winguth AE, Heinmann M, Kurz KD, Maier‐Reimer E, U. Mikolajewicz U, Segschneider J. 
+1994. El Niño‐Southern Oscillation related fluctuations of the marine carbon cycle. Global 
+Biogeochem Cy. 8 (1): 39–63. https://doi.org/10.1029/93GB03134. 
+Winston M, Couch C, Ferguson M, Huntington B, Swanson D, Vargas-Ángel B. 2019. 
+Ecosystem sciences division standard operating procedures: Data collection for rapid 
+ecological assessment benthic surveys, 2018 Update. NOAA Technical Memorandum 
+NMFS-PIFSC (71): 65. https://doi.org/10.25923/w1k2-0y84. 
+Wooldridge SA. 2009. Water quality and coral bleaching thresholds: formalising the linkage for 
+the inshore reefs of the Great Barrier Reef, Australia. Mar Poll Bull. 58: 745–51. 
+https://doi.org/10.1016/j.marpolbul.2008.12.013. 
+Wyatt ASJ, Leichter JL, Toth LT, Miyajima T, Aronson RB, Nagata T. 2020. Heat accumulation 
+on coral reefs mitigated by internal waves. Nat Geosci. 13 (1): 28–34. 
+https://doi.org/10.1038/s41561-019-0486-4. 
+Xie SP. 2020. Ocean warming pattern effect on global and regional climate change. AGU Adv. 1 
+(1). https://doi.org/10.1029/2019av000130. 
+ 
+

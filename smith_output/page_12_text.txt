@@ -1,0 +1,40 @@
+5 
+additive and multiplicative time series is completed by first plotting the detrended time series of 
+the additive model. If the noise from the additive model were to steadily increase, then the best 
+fit model would be multiplicative. However, in the case of our time series data, the noise variable 
+after detrending does not steadily increase making additive time series model was the best fit for 
+our time series data. DFAs were then applied to all additive time series models, and temperature 
+time series were decomposed for trends, seasonality (daily, weekly, annual), and remainder (i.e., 
+error).  
+Temperature time series are highly autocorrelated, thus, we avoid linear regression modelling 
+and utilize other time series statistical analysis instead (e.g., DFA analysis). Temperature time 
+series were cross-correlated to look at the relationship between two different time series. Cross-
+correlations were calculated between sites for each depth, and similarly between depths for each 
+site. The results are presented using a correlation matrix with a scatterplot of two time series 
+plotted against each other, fitted with a Lowess regression, and shown with the correlation value. 
+Heat stress metrics 
+Cumulative thermal stress 
+Cumulative heat stress was determined by first calculating the maximum monthly mean (MMM) 
+which was then used to calculate degree heating week (DHW). DHW is the integral of time spent 
+above the bleaching threshold of MMM+1 °C. If MMM is calculated from a short time series 
+that includes temperatures from a bleaching event, then the MMM will be skewed high. 
+Therefore, to determine a more accurate MMM that has not been influenced by rare bleaching 
+events, we used a longer climatological data set acquired from satellite. To then account for 
+temperature differences between satellite data and reefs at depth, we applied the methods 
+developed by Venegas et al. (2019) to all in situ temperature time series data(Venegas et al. 
+2019). Historical sea surface temperatures (SST) from satellite data were downloaded through 
+the NOAA’s Coral Reef Watch (CRW) for years 1985–2020 (the longest available time series). 
+Specifically, the ‘CRW Daily Global 5 km Satellite Coral Bleaching Heat Stress Monitoring’ 
+(version 3.1) data sets were downloaded through ERRDAP using the closest 5 km grid (i.e., 
+nearest neighbor) to each in situ subsurface temperature recorder (STR) location. The daily mean 
+SST were used to calculate the maximum monthly mean temperature from the satellite data 
+(MMMsatellite). Next, the MMM was calculated from the in situ temperature data for each site and 
+depth (MMMin situ). Then, the mean offset for in situ temperature data to account for warming 
+temperatures and depth was calculated. This was completed by determining the MMMsatellite from 
+the years 2012–2018, then determining the MMMin situ for each year, calculating the difference in 
+MMM between the satellite data and STR, and averaging them.  
+Offset = mean((MMMsatellite 2012 - MMMin situ 2012) + (MMMsatellite 2013 - MMMin situ 2013) , … , (MMMsatellite 2018 - MMMin situ 2018) ÷ 8) 
+The offset was then applied to each in situ temperature time series: 
+MMMin situ corrected = MMMsatellite - offset 
+And finally, a depth-biased DHW was calculated for each STR site at all depths: 
+DHWdepth-biased = ʃ (MMMin situ corrected +1 °C) dt 

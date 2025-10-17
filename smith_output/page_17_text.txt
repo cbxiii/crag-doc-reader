@@ -1,0 +1,30 @@
+10 
+physiologically react to both short-term heat stress and long-term heat stress; thus, both 
+predictors were retained in the models. This was justified by comparing the AIC values among 
+the three models: (1) bleaching prevalence ~ cumulative + acute + other metrics, (2) bleaching 
+prevalence ~ cumulative + other metrics, and (3) bleaching prevalence ~ acute + other metrics), 
+in which both parameters are kept or one or the other is removed. The AIC values were within 2 
+units of each other and thus the models were not significantly different from each other. Due to 
+their ecological relevance, both cumulative and acute heat stress metrics were kept in the models, 
+despite being highly correlated. All the other heating metrics did not exhibit multi-collinearity. 
+GAMLSS were initially applied to bleaching prevalence data to test for differences between 
+depth, site, and the interactions between the two for all hard corals and the dominant coral 
+genera. GAMLSS were also applied to determine whether bleaching prevalence varied according 
+to heat stress metrics. Heating metrics were only applied to ecological sites that fell within a 3 
+nautical mile radius of the temperature logger and at the same depth. Five types of heat stress 
+were identified: cumulative heat stress, acute heat stress, warming trend, heating rates, and 
+variability. Several heating metrics were calculated for each type of heat stress. For example, 
+acute heat stress is one type of heat stress, measured by multiple metrics such as its presence or 
+absence, the number of acute heat stress events, and we also quantified how long the acute heat 
+stress events lasted. Initially, we chose one heating metric from each type of heat stress and used 
+GAMLSS to determine if each heating stress type impacted the bleached prevalence of all hard 
+corals combined, as well as the dominant coral genera. This particular analysis cumulative heat 
+stress: DHW; acute heat stress: hours above the bleaching threshold; increasing trend, heating 
+rate, variability: mean daily temperature range for the 2014–2015 warming season. Trend was 
+removed in the GAMLSS analysis because all reefs and sites experienced a warming trend in 
+2015 so there were no differences in trend. Bleaching prevalence was the response variable in the 
+models. Furthermore, GAMLSS were also applied to bleaching prevalence data with only 
+temperature variability metrics included in the model. Specifically, we tested to see if bleaching 
+prevalence varied according to the diurnal, tidal, or internal wave period, as well as the daily 
+temperature ranges for the entire warming period linked to the 2015 bleaching event, and also the 
+temperature range for the 30 days prior to the ecological survey.  

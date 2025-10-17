@@ -1,0 +1,26 @@
+4 
+ 
+Figure 1. Map of Tutuila, American Samoa. Black points represent the location of the temperature 
+loggers. Sectors included are the Northwest (NW), North (N), Northeast (NE), Southwest (SW), 
+Southeast (SE), and Southeast Island (SE Island).  At each point, a temperature logger was 
+deployed at depths of 5 m, 15 m, and 25 m. 
+Determining trend through time series analysis 
+Hourly seawater temperature records were analyzed using a detrended fluctuation analysis 
+(DFA) to reveal long-range correlations in temperature time series. Most time series statistical 
+analyses require the data to be stationary; however, DFA allows for the detection of intrinsic 
+self-similarity embedded in nonstationary time series (Király and Jánosi 2005). Stationary time 
+series require that (a) the mean value of the time-series stays constant through time, i.e., the trend 
+component is nullified, (b) the variance does not increase over time, and (c) seasonal effect is 
+minimal. With global warming causing an increasing temperature trend and the temperature time 
+series being seasonally dependent, the first and third constraints are automatically violated. 
+Whether or not a time series data set is stationary or non-stationary can be statistically tested 
+with an Augmented Dickey-Fuller (ADF) test in which results of p < 0.05 indicate a stationary 
+time series data set, while p-values > 0.05 indicate a non-stationary time series data set. An ADF 
+was applied to all temperature time series at 6 sites across the three depths and results indicated 
+that all temperature time series were nonstationary (p-value > 0.05 for all sites and depths). 
+Consequently, applying a statistical method designed for nonstationary time series data is 
+relevant for this study and is within the scope of the DFA. 
+Before the DFAs were applied to each temperature time series, they were tested to determine if 
+they were additive or multiplicative time series. An additive time series adds the trend, 
+seasonality, and residual add together to make the time series, whereas a multiplicative time 
+series multiplies the three components to make the time series. Distinguishing between an 

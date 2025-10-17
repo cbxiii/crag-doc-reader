@@ -1,0 +1,43 @@
+6 
+The trapezoid integration for DHW at depth was calculated using the ‘AUC’ function in the R 
+package ‘DescTools.’ DHW at depth values were calculated each year the temperature climbed 
+above the bleaching threshold. Additionally, the DHW at depth was also calculated only for the 
+30 days prior to the ecological surveys. For this study, only DHWdepth-biased was calculated 
+(henceforth just called DHW), not the DHW traditionally calculated via satellite data. 
+Acute heating 
+Acute heating stress, for this study, is defined as any short-term spike in the temperature time 
+series away from the normal seasonal cycle that occurred in the austral summer months. 
+Specifically, any time the temperature rose above the bleaching threshold (MMM +1) for an 
+intense, but relatively short period (lasting a few hours to a few days), it was considered to be an 
+acute stress event. Acute heat stress was initially treated as binary to indicate the presence or 
+absence of an acute thermal stress event per annum. Acute heat stress was also quantified by the 
+number of events per year and also by the duration of the acute stress event (hours above the 
+bleaching threshold during this short-term temperature spike).  
+Heating rates 
+The heating rate (°C hr-1) for each warming period was calculated for each year for all sites and 
+depths. The warming period is the period in which the temperature increased throughout the 
+year, meanwhile the cooling period was the time in which temperature decreased. The exact 
+dates in which the cooling period ended and the warming period started varied slightly from year 
+to year, but generally the warming period occurred from September to March, and the cooling 
+period occurred between April and August.  
+Measures of temperature variability 
+Temperature time series show complex periodic behavior, and one technique that can be applied 
+to identify underlying periodicities is called a power spectral density (PSD) analysis. Essentially, 
+the covariance of the time series can be represented by a function known as the spectral density. 
+PSD analyses were applied to the time series temperature data to observe any possible 
+underlying periodicities. The temperature data were first transformed to the frequency domain 
+via the non-parametric Daniell-Kernal method, which calculates the smooth spectral density by 
+using centered moving averages(Shumway and Stoffer 2017). The spectral density represents the 
+covariance of the time series. Periodograms are used to present the squared correlation between 
+temperature time series data and sine and cosine waves (Venables and Ripley 2002). 
+Periodograms were calculated using a fast Fourier transform for all temperature time series from 
+all sites and depth strata(Bloomfield 2013). The frequency axis for the periodograms were 
+converted to cycles per unit time by extracting the frequency data from the PSD and dividing by 
+the length of the sample interval. The spectral density was then multiplied by 2 so that the area 
+under the curve of the periodogram equals the variance of the time series. Periodograms were 
+applied to the entire time series of a site (all data that were collected between 2012 and 2018), 
+and PSD was calculated for the warming and cooling cycles for each time series. Furthermore, a 
+few additional metrics were calculated from the PSD output just for the 2014–2015 time period. 
+Specifically, the peaks for the power spectral density plots for variability in the temperature time 
+series due to tides (12 hr), daily (24 hr), and interval waves (48 hr) were quantified and 
+compared between sites and depths. 

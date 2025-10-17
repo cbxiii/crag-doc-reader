@@ -1,0 +1,107 @@
+15 
+Table 2. Generalized linear model results (F and p-values) examining the temporal (year) and spatial (site and depth) differences in 
+heating metrics across year, site, depth, and their interactions (year*site*depth) for the entire temperature time series (2012–2018).  
+Heating metrics include cumulative heat stress (long-term accumulated time above the temperature bleaching threshold), acute heat stress 
+(short-term spike in temperature above the bleaching threshold), warming trend, heating rates, and measures of temperature variability. 
+Type of Heat 
+Stress 
+Heating Metric 
+Year 
+Site 
+Depth 
+Year*Site*Depth 
+F 
+p-value 
+F 
+p-value 
+F 
+p-value 
+F 
+p-value 
+Cumulative 
+stress 
+presence/absence 
+7.67 
+0.007 * 
+0.02 
+0.885 
+1.25 0.292 
+0.52 
+0.598 
+DHW 
+40.25 < 0.001 * 
+161.6 < 0.001 * 68.4 < 0.001 * 
+35.8 
+<0.001 * 
+Acute stress  
+presence/absence 
+6.1 
+0.02 
+1.5 
+0.21 
+0.17 0.84 
+0.11 
+0.89 
+number of acute 
+stress events 
+during summer 
+13.7 
+0.0005 * 
+0.06 
+0.809 
+0.33 0.717 
+0.16 
+0.849 
+hours above 
+bleaching 
+threshold 
+1.07 
+0.304 
+5.45 
+0.023 * 
+0.83 0.439 
+3.63 
+0.033 * 
+Warming trend presence/absence 
+4.62 
+0.03 * 
+0.0 
+1.0 
+0.0 
+1.0 
+0.0 
+1.0 
+Heating rates 
+warming  
+10.4 
+< 0.001 * 
+2.5 
+0.04 * 
+4.1 
+0.02 
+2.1 
+0.05 
+Variability 
+daily 
+temperature 
+range 
+12.3 
+< 0.001 * 
+10.8 
+0.001 * 
+11.3 0.003 
+0.73 
+0.484 
+  
+CV 
+6.9 
+< 0.001 * 
+11.5 
+<0.001 * 
+6.8 
+0.002 * 
+2.6 
+0.002 * 
+Asterisk (*) indicates a significant result. 
+ 
+ 

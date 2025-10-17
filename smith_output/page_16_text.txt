@@ -1,0 +1,43 @@
+9 
+2008). Checks for all GLMs indicated that no influential data points or outliers were present in 
+the data and model assumptions were met. 
+Heat stress metrics from bleaching year (2015)  
+In addition to the GLMs applied to the heating metrics across the full time series (2012–2018), 
+additional GLMs were applied to the heating metrics calculated during the 2015 bleaching events 
+to test for spatial differences between sites. Specifically, GLMs with a Gaussian distribution and 
+identity function were applied to acute stress and cumulative (DHW) heat stress, and the number 
+of acute heat stress events experienced, between site and depth for the 2015 bleaching season 
+only. Additionally, GLMs with a Gaussian distribution and identity function tested for 
+differences in heating rates between sites and depth. GLMs with a gamma distribution and log 
+link function were used to determine if daily temperature ranges were significantly different 
+between sites and depths. Furthermore, the peaks from the periodograms produced by the 
+spectral analysis that were associated with 24-hr (daily), 12-hr (tidal), and 48-hr (internal wave) 
+cycling were quantified, and GLMs were applied to the quantified peaks to determine which of 
+these parameters varied with depth and site. 
+Heat stress metrics associated with bleaching from ecological surveys 
+Ecological data (i.e., bleaching prevalence data) were only used from NRCMP survey sites 
+within 3 nautical miles of the temperature logger at the same depth. A series of univariate 
+distributional regression models was used to assess the association between bleaching prevalence 
+and heating metrics. While exploring the ecological survey data, generalized additive models for 
+location, scale, and shape (GAMLSS) were used to test for differences in bleaching prevalence 
+for all hard coral genera combined and separately for the dominant coral genera.  
+The primary advantage of applying GAMSLSS (as opposed to Generalized Linear Models 
+(GLMs) or Generalized Additive Models (GAMs)) is that these univariate distributional 
+regression models allow for flexibility in the distributions and have over 100 continuous, 
+discrete, and mixed models for the response data. Bleaching prevalence data are notoriously 
+skewed to data values of either 0 (0% bleaching prevalence) or 1 (100% bleaching prevalence). 
+GAMLSS allow for data that are bounded by 0 and 1, but also have values in between. 
+Additionally, GAMLSS allow for the distribution parameters (mu, sigma, tau, and nu), not just 
+the mean values, to be modelled in terms of both fixed and random effects. The optimal 
+GAMLSS were chosen following steps in Stasinopoulos et al. (2017) by testing for the best 
+model family to fit the data (zero-inflated, one-inflated, inflated at zero and one), determining the 
+significant variables, determining the best fit distribution parameters (mu, sigma, tau, and nu), 
+and applying AIC (Stasinopoulos et al. 2017). 
+While determining the best-fit model, the variance of inflation factor (VIF) was calculated 
+between the heating metrics to determine the amount of multi-collinearity between multiple 
+regression variables. Cumulative heating stress (DHW) and acute heat stress (short-term spike in 
+temperature) were highly correlated (r2=93%, VIP > 10), but when either DHW or acute heat 
+stress were removed from the VIF calculation with the rest of the heating metrics (trend, heating 
+rates, etc.), there was no collinearity (low VIP value of 1.6). Despite the strong relationship 
+between cumulative and acute heat stress, neither metric was removed from the optimal due to 
+the ecological relevance that both metrics have on the physiology of a coral. Corals 

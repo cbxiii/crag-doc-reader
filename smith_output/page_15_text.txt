@@ -1,0 +1,59 @@
+8 
+Table 1. The number of benthic surveys within 3 nautical miles of each site where a temperature 
+logger was deployed. 
+Site 
+Depth 
+Number of benthic 
+surveys within 3 
+nautical miles to the 
+STR 
+Northwest (NW) 
+deep 
+3 
+mid 
+3 
+shallow 
+2 
+Northeast (NE) 
+deep 
+5 
+mid 
+7 
+shallow 
+5 
+Southwest (SW) 
+deep 
+6 
+mid 
+6 
+shallow 
+6 
+Southeast (SE) 
+deep 
+5 
+mid 
+6 
+shallow 
+5 
+Statistical analysis 
+Time series analysis and temperature trend 
+As previously described, temperature time series analysis was conducted via detrended 
+fluctuation analysis (DFA). DFAs were applied to all additive time series models, and 
+temperature time series were decomposed for trends, seasonality (daily, weekly, annual), and 
+remainder (i.e., error). All DFAs were conducted in R version 4.0.3 using the ‘mstl’ function in 
+the R package ‘forecast’. Since temperature data were recorded hourly, the seasonality variables 
+set in each model were defined as 24, 168, and 8,766 for daily, weekly, and yearly periodicity. 
+The time series analysis identified years that were warmer than the previous years, and they were 
+identified as having a warming trend.  
+Heat stress metrics from full temperature time series (2012–2018) 
+A series of generalized linear models (GLMs) were applied to the heating metrics to determine if 
+they varied by site, depth, or years. Specifically, GLMs with a binomial distribution and logit 
+link were applied to test for differences in presence/absence of acute and cumulative heat stress 
+events between site, depth, and year. GLMs with a Gaussian distribution and identity function 
+tested for differences in heating rates between sites, depth, and years. Additionally, GLMs with a 
+gamma distribution and log link function were used to determine if daily temperature ranges 
+were significantly different between sites, depths, years, months, and heating versus cooling 
+seasons. GLMs with a Gaussian distribution and identity link function were applied to test for 
+differences in CV values between site, depth, year, and warming versus cooling seasons 
+For all GLMs, model assumptions of independence, homogeneity of variance, and normality of 
+error were evaluated through diagnostic leverage, Cook’s distance, dfbetas (Cohen and Cohen 
