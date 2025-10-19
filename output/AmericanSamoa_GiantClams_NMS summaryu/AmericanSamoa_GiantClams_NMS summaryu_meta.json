@@ -1,0 +1,367 @@
+{
+  "table_of_contents": [
+    {
+      "title": "American\tSamoa\tGiant\tClams",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          118.93359375,
+          77.73046875
+        ],
+        [
+          320.94140625,
+          77.73046875
+        ],
+        [
+          320.94140625,
+          104.80078125
+        ],
+        [
+          118.93359375,
+          104.80078125
+        ]
+      ]
+    },
+    {
+      "title": "Climate\tChange\tVulnerability\tAssessment Summary",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          118.93409729003906,
+          100.130615234375
+        ],
+        [
+          417.76171875,
+          100.130615234375
+        ],
+        [
+          417.76171875,
+          114.46875
+        ],
+        [
+          118.93409729003906,
+          114.46875
+        ]
+      ]
+    },
+    {
+      "title": "Species\tDescription",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          261.25421142578125,
+          200.93060302734375
+        ],
+        [
+          374.0599060058594,
+          200.93060302734375
+        ],
+        [
+          374.0599060058594,
+          214.8505859375
+        ],
+        [
+          261.25421142578125,
+          214.8505859375
+        ]
+      ]
+    },
+    {
+      "title": "Species\tVulnerability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.71875,
+          404.5078125
+        ],
+        [
+          193.11734008789062,
+          404.5078125
+        ],
+        [
+          193.11734008789062,
+          419.09063720703125
+        ],
+        [
+          71.71875,
+          419.09063720703125
+        ]
+      ]
+    },
+    {
+      "title": "Sensitivity",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          564.99609375
+        ],
+        [
+          132.08203125,
+          564.99609375
+        ],
+        [
+          132.08203125,
+          579.69140625
+        ],
+        [
+          71.12109375,
+          579.69140625
+        ]
+      ]
+    },
+    {
+      "title": "Exposure\u2020\nModerate\t\nExposure Low High Mod\tConfidence",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          68.1328125,
+          87.78515625
+        ],
+        [
+          531.9140625,
+          87.78515625
+        ],
+        [
+          531.9140625,
+          130.32421875
+        ],
+        [
+          68.1328125,
+          130.32421875
+        ]
+      ]
+    },
+    {
+      "title": "Adaptive\tCapacity\u2021",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.12109375,
+          406.0575256347656
+        ],
+        [
+          182.15354919433594,
+          406.0575256347656
+        ],
+        [
+          182.15354919433594,
+          425.77734375
+        ],
+        [
+          71.12109375,
+          425.77734375
+        ]
+      ]
+    },
+    {
+      "title": "Literature\tCited",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.822265625,
+          313.62890625
+        ],
+        [
+          162.79861450195312,
+          313.62890625
+        ],
+        [
+          162.79861450195312,
+          328.8506164550781
+        ],
+        [
+          70.822265625,
+          328.8506164550781
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Picture",
+          7
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          158
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\AmericanSamoa_GiantClams_NMS summaryu"
+}

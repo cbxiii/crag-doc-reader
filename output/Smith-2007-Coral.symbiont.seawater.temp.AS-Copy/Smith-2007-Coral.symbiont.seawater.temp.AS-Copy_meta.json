@@ -1,0 +1,60 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Coral symbiont diversity along a seawater temperature gradient",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          141.046875,
+          73.50152587890625
+        ],
+        [
+          473.5343017578125,
+          73.50152587890625
+        ],
+        [
+          473.5343017578125,
+          85.50152587890625
+        ],
+        [
+          141.046875,
+          85.50152587890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Smith-2007-Coral.symbiont.seawater.temp.AS-Copy"
+}

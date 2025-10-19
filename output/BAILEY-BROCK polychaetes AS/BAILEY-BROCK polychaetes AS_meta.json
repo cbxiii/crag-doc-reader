@@ -1,0 +1,524 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FINAL REPORT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          258.7200012207031,
+          102.77972412109375
+        ],
+        [
+          353.05712890625,
+          102.77972412109375
+        ],
+        [
+          353.05712890625,
+          115.73968505859375
+        ],
+        [
+          258.7200012207031,
+          115.73968505859375
+        ]
+      ]
+    },
+    {
+      "title": "Building a Polychaete Species Database for Water \nManagement Purposes in American Samoa",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          103.44000244140625,
+          217.028564453125
+        ],
+        [
+          513.1885375976562,
+          217.028564453125
+        ],
+        [
+          513.1885375976562,
+          259.1015625
+        ],
+        [
+          103.44000244140625,
+          259.1015625
+        ]
+      ]
+    },
+    {
+      "title": "Problem and Research Objectives",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          89.6484375,
+          73.5574951171875
+        ],
+        [
+          284.3519592285156,
+          73.5574951171875
+        ],
+        [
+          284.3519592285156,
+          85.5574951171875
+        ],
+        [
+          89.6484375,
+          85.5574951171875
+        ]
+      ]
+    },
+    {
+      "title": "Methodology",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          89.349609375,
+          556.4374237060547
+        ],
+        [
+          164.83200073242188,
+          556.4374237060547
+        ],
+        [
+          164.83200073242188,
+          569.25
+        ],
+        [
+          89.349609375,
+          569.25
+        ]
+      ]
+    },
+    {
+      "title": "Study Area",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          89.05078125,
+          584.0374298095703
+        ],
+        [
+          149.4720001220703,
+          584.0374298095703
+        ],
+        [
+          149.4720001220703,
+          596.0374298095703
+        ],
+        [
+          89.05078125,
+          596.0374298095703
+        ]
+      ]
+    },
+    {
+      "title": "Principal Findings and Significance",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          89.05078125,
+          72.703125
+        ],
+        [
+          292.751953125,
+          72.703125
+        ],
+        [
+          292.751953125,
+          85.5574951171875
+        ],
+        [
+          89.05078125,
+          85.5574951171875
+        ]
+      ]
+    },
+    {
+      "title": "Publications Cited in Synopsis",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          89.05078125,
+          344.953125
+        ],
+        [
+          265.6319580078125,
+          344.953125
+        ],
+        [
+          265.6319580078125,
+          358.6775207519531
+        ],
+        [
+          89.05078125,
+          358.6775207519531
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          3
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          259
+        ],
+        [
+          "TableCell",
+          126
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          30
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          283
+        ],
+        [
+          "TableCell",
+          184
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          333
+        ],
+        [
+          "TableCell",
+          196
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "TableCell",
+          64
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          9
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\BAILEY-BROCK polychaetes AS"
+}

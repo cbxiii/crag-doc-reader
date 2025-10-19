@@ -1,0 +1,339 @@
+#### REPORT
+
+![](_page_0_Picture_2.jpeg)
+
+# High-resolution physical and biogeochemical variability from a shallow back reef on Ofu, American Samoa: an end-member perspective
+
+David A. Koweek<sup>1</sup> · Robert B. Dunbar<sup>1</sup> · Stephen G. Monismith<sup>2</sup> · David A. Mucciarone<sup>1</sup> · C. Brock Woodson<sup>2,3</sup> · Lianna Samuel<sup>2</sup>
+
+Received: 12 November 2014/Accepted: 2 May 2015 © Springer-Verlag Berlin Heidelberg 2015
+
+Abstract Shallow back reefs commonly experience greater thermal and biogeochemical variability owing to a combination of coral community metabolism, environmental forcing, flow regime, and water depth. We present results from a high-resolution (sub-hourly to sub-daily) hydrodynamic and biogeochemical study, along with a coupled long-term (several months) hydrodynamic study, conducted on the back reefs of Ofu, American Samoa. During the high-resolution study, mean temperature was 29.0 °C with maximum temperatures near 32 °C. Dissolved oxygen concentrations spanned 32-178 % saturation, and pH<sub>T</sub> spanned the range from 7.80 to 8.39 with diel ranges reaching 0.58 units. Empirical cumulative distribution functions reveal that pH<sub>T</sub> was between 8.0 and 8.2 during only 30 % of the observational period, with approximately even distribution of the remaining 70 % of the time between pH<sub>T</sub> values less than 8.0 and greater than 8.2. Thermal and biogeochemical variability in the back reefs is partially controlled by tidal modulation of wave-driven flow, which isolates the back reefs at low tide and brings offshore water into the back reefs at high tide. The ratio of net community calcification to net community production
+
+Communicated by Biology Editor Prof. Brian Helmuth
+
+Published online: 19 May 2015
+
+was  $0.15 \pm 0.01$ , indicating that metabolism on the back reef was dominated by primary production and respiration. Similar to other back reef systems, the back reefs of Ofu are carbon sinks during the daytime. Shallow back reefs like those in Ofu may provide insights for how coral communities respond to extreme temperatures and acidification and are deserving of continued attention.
+
+**Keywords** Physical–biological interactions · Coral metabolism · Diel cycle · Coastal ecosystems
+
+#### Introduction
+
+The combined stresses of ocean acidification (OA) and sea surface warming from climate change are expected to contribute to a variety of changes in coral reef communities. Coral bleaching (Glynn 1993; Hughes et al. 2003; van Hooidonk et al. 2013), increased dissolution and bioerosion (Andersson and Gledhill 2013; Dove et al. 2013; Reyes-Nivia et al. 2013), decreased biodiversity (Fabricius et al. 2011), and shifts toward algal-dominated reefs (Hoegh-Guldberg et al. 2007; Kroeker et al. 2010, 2013) are all anticipated in the high CO<sub>2</sub> ocean of the future. However, the paradigm of coral reefs as passive responders to their biogeochemical environments is rapidly changing. Highresolution sensor technology has brought a refined understanding of the role of coral community metabolism in shaping the timescales and magnitudes of biogeochemical variability (Hofmann et al. 2011; Price et al. 2012; Smith et al. 2013).
+
+The extent to which coral reefs are capable of controlling their own biogeochemical environments is a complex function of coral community metabolism, environmental
+
+![](_page_0_Picture_17.jpeg)
+
+ <sup>□</sup> David A. Koweek dkoweek@stanford.edu
+
+Department of Earth System Science, Stanford University, 473 Via Ortega, Room 140, Stanford, CA 94305, USA
+
+Department of Civil and Environmental Engineering, Stanford University, Stanford, CA 94305, USA
+
+Present Address: College of Engineering, University of Georgia, Athens, GA 30605, USA
+
+forcing (e.g., sunlight, water temperature), and hydrodynamics. When diel cycle community metabolism is large, biogeochemical variability is large. Conversely, biogeochemical variability can be modulated in well-flushed environments with low residence time. Shallow back reefs (1-3 m depth) with limited circulation provide an endmember perspective for studying the maximum extent to which coral reef communities are capable of exerting biogeochemical control over their environment. Due to their geomorphology, many back reefs are isolated from offshore waters during low tide by an exposed reef crest. This results in shallow, stagnant pools of water, which can be modified quickly by physical and biogeochemical forcing. The shallow water volumes and long residence times result in extremely large biogeochemical ranges with diel cycle pH variability often exceeding 0.6 units (Kayanne et al. 1995; Ohde and van Woesik 1999; Shaw et al. 2012).
+
+Located approximately 100 km east of Tutuila, the island of Ofu is part of the Manu'a group of islands of American Samoa and has an extensive shallow back reef system. Of u is ringed with a fringing reef 80-180 m wide and a shallow back reef that is 1-3 m deep and 40-90 m wide (Craig et al. 2001). Ofu's back reefs have been known to experience high temperatures, with mean summer temperatures of approximately 29 °C and maximum summer temperatures of 34.5 °C (Craig et al. 2001). More recent work has explored the phenotypic plasticity (Smith et al. 2007), photophysiology (Smith and Birkeland 2007), genetic mechanisms (Barshis et al. 2010, 2013), and acclimatization potential (Palumbi et al. 2014) associated with thermal tolerance in Ofu's lagoons. While the thermal tolerance of back reef coral communities in Ofu is a subject of great scientific interest, to date, hydrodynamic and biogeochemical variability have not yet been documented in the back reef pools.
+
+We present results from a short, high-resolution physical and biogeochemical pilot field study of Pool 100 on Ofu conducted between November 13 and 20, 2011. Located on the southern coast of Ofu, adjacent to the study sites of Craig et al. (2001), Smith et al. (2007), and Palumbi et al. (2014) and closer to sources of electrical power and laboratory facilities, Pool 100 is another shallow back reef abutting the island of Ofu. We discuss the physical drivers of the observed thermal and biogeochemical variability using shortterm coupled hydrodynamic-biogeochemical observations (November 13-20, 2011) and longer-term hydrodynamic observations from an adjacent back reef pool, Pool 300 (November 2011–February 2012). We further utilize the biogeochemical observations to gain insights into extreme biogeochemical exposure by the reef community and to infer coral community metabolic processes.
+
+#### Methods
+
+#### Study site
+
+Pool 100 (14.185°S, 169.666°W) is a shallow lagoon with mean water depth of approximately 1.5 m and a tidal range of greater than 1 m (Figs. 1, 2). An extensive ecological survey conducted in the adjacent back reef pools northeast of Pool 100 revealed 85 coral species, including *Acropora*, *Montipora*, *Pocillopora*, and *Porites* spp., resulting in 25 % live coral cover (Craig et al. 2001). A brief ecological survey conducted during November 2011 in Pool 100 revealed a mixed coral reef community featuring similar levels of live coral cover (23 %) to those reported by Craig et al. (2001) a decade earlier. Pool 100 also contains crustose coralline algae and non-calcifying algae, each of which also covered approximately 23 % of the benthic environment.
+
+#### Water sampling and analysis
+
+We employed a custom-made pumping system to sample water from eight discrete locations defining a three-dimensional sampling box in the lagoon (Fig. 1b). The pumping setup has been described previously (Teneva et al. 2013; Koweek et al. 2015) and is briefly summarized here. Eight sections of polypropylene tubing 75 m in length (3/8" ID, ½" OD) were deployed from the beach to define four corners of the three-dimensional sampling box in the lagoon. In each corner, one tube was placed 10 cm above the bottom and another tube was placed just below the surface. From November 13 to 16, 2011, the box was 14 m wide in the crossshore direction with an alongshore length of 20 m and expanded from November 16 to 20, 2011, to 45 m in length in the alongshore direction. The sampling box face defined by the four closest sampling nodes was approximately 10 m from the mean water line on the beach. Water from all eight tubes was continuously pumped at an aggregate rate of 16 L min<sup>-1</sup> (2 L min<sup>-1</sup> tube<sup>-1</sup>) using an impeller pump. Equal lengths of tubing and constant pumping rates ensured the same residence time for water in all of the tubes (2.7 min). Upon reaching the beach, a custom manifold sequentially introduced each tube to a suite of beachside analytical instruments. Sampling intervals through the analytical instruments were adjusted to as short as 2 min per tube, which provided complete spatial resolution of the study area in as little as 16 min.
+
+A peristaltic pump operating at 2 L min<sup>-1</sup> moved water past the manifold and through the analytical instrument block. Immediately after introduction to the manifold, the water flowed past an in-line Honeywell DuraFET III pH probe and through a Sea Bird Electronics SBE45 thermosalinograph before being introduced to a free-surface interface cup. Inside the cup, an Aanderaa 3830 Oxygen
+
+![](_page_1_Picture_10.jpeg)
+
+<span id="page-2-0"></span>Fig. 1 a Island of Ofu. Orange circles marks location of Pool 100. Red circles show offshore sites sampled in 2010 and 2012 by NOAA CRED. Yellow circles show ADPs deployed on the Pool 300 back reef and fore reef for longer-term observations. b Bathymetric map of Pool 100 near low tide. Tube locations are shown as white triangles in all four corners of Pool 100. Moving clockwise from the northernmost corner of the study area, tubes 1–2, tubes 3–4, tubes 5–6, and tubes 7–8. White squares show the locations of the ADVs. White ellipses at the upstream and downstream edges show the locations of the ADPs and thermistor chains
+
+![](_page_2_Figure_2.jpeg)
+
+Optode measured dissolved oxygen concentration (O2). Discrete samples were taken from the free-surface interface cup for total alkalinity titrations in a shore-based laboratory. The total volume of the beachside analytical instrumentation and tubing is approximately 2 L, creating a flushing time of approximately 1 min.
+
+Total alkalinity (TA) was measured in a shore-based laboratory using a custom titration setup. Approximately 25 g of seawater was filtered through a 0.2-lm PVDF filter onto a balance and weighed to the nearest 0.1 mg. A Keithley digital multimeter was used to read a Thermo Ross Orion 8102 pH electrode to the nearest 0.1 mV. Hydrochloric acid (\*0.1 N) provided by the laboratory of A. Dickson at Scripps Institution of Oceanography was manually dispensed volumetrically using a Metrohm Dosimat 765. The temperatures of the hydrochloric acid and the sample were recorded throughout the titration. TA calculations from raw titration data follow Dickson et al. [\(2003](#page-11-0)). Certified reference material (CRM) Batch 114, also provided by the laboratory of A. Dickson, was analyzed before and after sets of samples to monitor titration accuracy. The laboratory was not temperature controlled, resulting in environmental temperatures sometimes reaching 36 C and with temperature changes during an individual titration averaging 1–2 C. Largely because of the lack of environmental control, as well as electrical power instabilities and outages, the precision of the titrations was reduced relative to what can be obtained in a high-quality laboratory setting. We estimate the instrumental precision at ±8.5 lmol kg-<sup>1</sup> (1 SD; n = 15 CRM analysis over 3 d). Despite the poor instrumental precision, the diel ranges in TA were much greater than the instrumental precision, allowing us to resolve diel biogeochemical variability.
+
+The manual titrations were slower and more labor intensive than automated instrumentation, decreasing our coverage of the spatial and temporal TA dynamics in this pilot study. We completed several cycles of TA measurements from all eight tubes on November 16–17, 2011 before beginning a higher temporal resolution effort from tube 4 spanning 28 h on November 17–18, 2011. Switching from sampling all eight tubes to sampling only from tube 4 allowed us to increase the temporal resolution of the measurements in order to better constrain a TA diel cycle
+
+![](_page_2_Picture_7.jpeg)
+
+<span id="page-3-0"></span>Fig. 2 Hydrodynamic data from the short-term study. a Depth in the sampling box, **b** Depth-averaged along-reef velocities (positive u toward the northeast) measured by the upstream ADP (black) and local velocities measured by the three ADVs (red, blue, green), c Low-pass-filtered near-bottom (black), mid-water column (blue). and near-surface (red) temperatures from the downstream thermistor profile,  $\mathbf{d} H_{\text{eff}}$  (black) computed from the depth-averaged temperature; red dashed lines mark maximum and minimum possible surface heat fluxes without advection. Gray vertical bars show sundown to sunrise for reference
+
+![](_page_3_Figure_2.jpeg)
+
+in Pool 100, but came at the expense of spatially distributed TA measurements.
+
+#### Carbon system calculations
+
+pH was originally calibrated to and measured on the NBS scale. The DuraFET III probe was immediately post-calibrated on site upon the conclusion of the field sampling with a Tris buffer (DelValls and Dickson 1998) provided by the laboratory of A. Dickson. pH data are reported here on the total hydrogen ion scale (pH<sub>T</sub>) at in situ temperature. Salinity data were post-calibrated upon return from the field using an IAPSO salinity standard (OSIL). In situ temperature, salinity, pH<sub>T</sub>, and TA were used to calculate DIC, pCO<sub>2</sub>, and  $\Omega_{\text{aragonite}}$  in CO2SYS (van Heuven et al. 2011). Calculations were made using the carbonate system dissociation constants from Mehrbach et al. (1973) as refit by Dickson and Millero (1987), and K<sub>SO4</sub> for the bisulfate ion from Dickson (1990). Carbon system calculations in CO2SYS were performed with concentrations of silica and phosphate set to zero.
+
+We used a Monte Carlo simulation (1000 iterations) to estimate the error on the calculated DIC, pCO<sub>2</sub>, and  $\Omega_{\rm aragonite}$ . We used the TA precision reported above, assumed an instrumental precision of 0.01 units on the pH measurements, and assumed no error on the corresponding temperature and
+
+salinity measurements. Estimated precisions (1 SD) of DIC, pCO<sub>2</sub>, and  $\Omega_{\text{aragonite}}$  are 10 µmol kg<sup>-1</sup>, 13 µatm, and 0.065 units, respectively.
+
+#### Offshore carbon system chemistry
+
+We used offshore temperature, salinity, pressure, DIC, and TA collected by NOAA Coral Reef Ecosystem Division (CRED) research cruises in 2010 and 2012 (Fig. 1a) to compare against the Pool 100 diel cycle variability. CRED samples were collected approximately 1 m below the surface and at 12-15 m depth (depth of benthic substrate). We averaged all data across depths from three offshore sites on the southern fore reef of Ofu closest to Pool 100 (Fig. 1a). We assume a reasonably well-mixed shallow fore reef environment because we found no significant differences between surface and bottom salinity-normalized TA (p > 0.05) or between surface and bottom salinity-normalized DIC (p > 0.05). Since we did not have direct offshore measurements during our study period in November 2011, we intentionally included all data from both depths at all three sites over the two sampling cruises in 2010 and 2012 in order to better estimate the interannual mean and standard deviation of the offshore carbon system chemistry.
+
+![](_page_3_Picture_10.jpeg)
+
+#### <span id="page-4-0"></span>Temperature and flow measurements
+
+We deployed Sea Bird Electronics SBE 56 temperature loggers, three Nortek 10 MHz acoustic Doppler velocimeters (ADV), and two Nortek 2 MHz acoustic Doppler profilers (ADP) to measure temperature and flows inside Pool 100. An ADP and three temperature loggers were placed at the center of the upstream (southwest) and downstream (northeast) faces of the sampling box based on the predominant alongshore current direction (toward the northeast; Fig. 1b). Both ADPs were oriented with the x-axis in the alongshore direction. Temperature loggers were placed at 0.1 meters above bottom (mab), midwater ( $\sim 1$  mab), and surface ( $\sim 1.5-2$  mab) to evaluate the level of stratification on the back reef. ADPs were set to record average velocity profiles at 10 cm vertical resolution every minute. The ADVs were deployed at approximately equally spaced intervals along the sampling box parallel to the beach near the midpoint in the cross-shore direction by attaching their cabled heads to dead coral via cable ties (Fig. 1b). They were set to sample at 64 Hz and were later averaged in 10-min windows to produce mean velocities.
+
+In addition to the short-term study, we conducted a set of simpler long-term observations using the two ADPs. One ADP was deployed in an adjacent back reef pool northeast of the study site (Pool 300), and another ADP was deployed on the bottom in 17 m of water on the fore reef off of Pool 300 (Fig. 1a). Pool 300 was chosen for the ADP deployments because of its proximity to Pool 100, as well as its ability to provide some hydrodynamic context to the thermal tolerance studies which have been conducted there (Craig et al. 2001; Smith et al. 2007; Palumbi et al. 2014). The instruments were deployed from late November 2011 through February 2012. Both ADPs were programmed to measure mean velocity profiles every 300 s and to measure a burst of 2048 wave velocities/ bottom pressures at 2 Hz hourly. Unfortunately, the ADP inside of the lagoon malfunctioned, so that it only yielded temperature data. The ADP outside of the lagoon only covered the lower half of the water column. Its data cannot be used to compute transport of ocean water into the back reef, but it did provide both pressure and temperature data.
+
+We estimated wave-driven flows over the reef crest during the longer-term observations from November 2011 until February 2012. We used the ADP pressure data, corrected for frequency-dependent attenuation, to compute wave height spectra from which the shoreward wave energy flux,  $F_{\rm w}$ , could be calculated directly. Then, we computed the mean water level setup inshore of wave breaking on the outer edge of the shallow reef crest as:
+
+$$\eta_{\rm R} \simeq A \left(\frac{F_{\rm w}}{\rho}\right)^{2/5} - Bh_{\rm R}$$
+(1)
+
+where  $\rho$  is seawater density, the constants A and B depend on the constant  $\gamma=0.9$ , the ratio of wave height to depth at breaking, and  $h_{\rm R}$  is the water depth over the reef flat (from Eq. 5 in Monismith et al. 2013). Assuming a friction-pressure gradient momentum balance on the reef flat characterized by drag coefficient  $C_{\rm D}$  acting over a reef flat of width  $L_{\rm R}$ , the wave-induced cross-reef flow rate will be:
+
+$$q_{\rm w} = \left(\frac{g\eta_{\rm R}h_{\rm R}^3}{C_{\rm D}L_{\rm R}}\right)^{1/2} \tag{2}$$
+
+Equation 2 implies that the wave-forced flow depends both on the waves and on the tidal variation in depth over the reef flat. The along-reef flow will vary linearly with  $q_{\rm w}$  since the along-reef flow is the integral along the reef of the cross-reef flow (Monismith 2014).
+
+#### Estimates of heat exchange and transport time
+
+The temperature data can be used to estimate the possible role of advection in determining temperature by computing changes in heat content:
+
+$$\frac{\partial}{\partial t} \int_{0}^{h} \rho c_{\rm p} T \, dz = H_{\rm s} + H_{\rm A} = H_{\rm eff} \tag{3}$$
+
+where  $c_{\rm p}$  is the heat capacity at constant pressure, T is the temperature, h is the water depth,  $H_{\rm s}$  is the total surface heat flux, and  $H_{\rm A}$  is the heat flux associated with the horizontal advection of heat. If advection were negligible, the effective heat flux would be equal to the surface heat flux ( $H_{\rm s}=H_{\rm eff}$ ). Even without surface heat flux measurements, comparing  $H_{\rm eff}$  to maximum possible heating (ca. 1000 W m<sup>-2</sup>) and cooling (ca. -200 W m<sup>-2</sup>) heat fluxes can be used to identify when advection is important. For a well-mixed water column, Eq. 3 becomes:
+
+$$\frac{\partial T}{\partial t} = \frac{H_{\text{eff}}}{\rho c_{\text{p}} h(t)} \tag{4}$$
+
+so that in the absence of advection, the greatest heating rates should take place when low water coincides with the time of maximum solar insolation. This behavior can be expressed by the dimensionless heating rate, R:
+
+$$R = \frac{Q_{\rm sw}(t)}{\bar{Q}_{\rm sw}} \frac{\bar{h}}{h(t)} \tag{5}$$
+
+where  $Q_{\rm sw}$  is the diurnally varying shortwave radiation and overbars refer to long-term averages. Since we did not measure shortwave radiation, we used the clear-sky
+
+![](_page_4_Picture_17.jpeg)
+
+<span id="page-5-0"></span>shortwave radiation model incorporated into the MATLAB Air–Sea toolbox to compute  $Q_{\rm sw}$  (Pawlowicz et al. 2001). Equation 5 provides an upper bound on heating by solar insolation because the sky over Ofu is often cloudy.
+
+Equation 4 can also be used to estimate the travel time,  $\tau$ , for water parcels that have entered the reef from offshore. If horizontal mixing is ignored, Eq. 4 can be interpreted to represent a Lagrangian change,  $\Delta T$ , in temperature, such that:
+
+$$\tau = \frac{\rho c_{\rm p} \Delta T h_{\rm R}}{\langle \tilde{H} \rangle} \tag{6}$$
+
+where  $\langle \tilde{H} \rangle$  is the actual net surface heat flux over time  $\tau$ . Our data generally showed that the rise in water temperature on any day tended to be later and the subsequent decline after reaching a daily maximum tended to be earlier than what would be predicted using clear-sky radiation alone. By defining an offset ( $\sim 100$ –300 W m<sup>-2</sup>) that reflects the effects of latent, sensible, and long-wave heat fluxes, we estimated a value of  $\langle \tilde{H} \rangle$  ( $\sim 600$ –800 W m<sup>-2</sup>) for the heating portion of the day, which enabled us to estimate  $\tau$ .
+
+#### Community metabolism
+
+Time series estimates of net community calcification (NCC) and net community production (NCP) during this study were not possible because we were unable to continuously measure cross-reef transport throughout the duration of the study and thus were unable to separate advective and biological fluxes in Pool 100. Poor instrumental precision also prevented us from using control volume approaches within Pool 100. We were, however, able to combine high-resolution TA measurements and calculated DIC collected November 17–18, 2011 from tube 4 in Pool 100 along with an estimate of the Lagrangian transport time from Eq. 6 in order to provide one set of NCC and NCP estimates across the reef flat from offshore into Pool 100:
+
+$$NCC = -\frac{1}{2}\rho h \frac{\Delta sTA}{\tau}$$
+ (7a)
+
+$$NCP = -\rho h \frac{\Delta s DIC}{\tau} - NCC$$
+ (7b)
+
+where  $\Delta sTA$  and  $\Delta sDIC$  correspond to the differences between offshore and Pool 100 TA and DIC, respectively (*s* denotes salinity normalization to 35.5).
+
+We employed TA-DIC diagrams to resolve the balance between organic and inorganic carbon metabolism integrated over the course of the entire study (Suzuki and Kawahata 2003; Albright et al. 2013; Lantz et al. 2014). Plots of sTA versus sDIC show that the data fall between
+
+two end-member pathways: one in which the carbon metabolism is entirely inorganic and one in which the carbon metabolism is entirely organic. We used a type II major axis regression to determine the best-fit slope for the sTA–sDIC relationship ( $m_{\text{bestfit}}$ ). We derived an expression for the NCC/NCP ratio by re-arranging Eq. 5 from Suzuki and Kawahata (2003):
+
+$$\frac{\text{NCC}}{\text{NCP}} = \frac{m_{\text{bestfit}}}{2 - m_{\text{bestfit}}} \tag{8}$$
+
+We note that the NCC/NCP ratio can be calculated without direct measurements of NCC or NCP (and hence is independent of flow regime measurements).
+
+Equations 7a, 7b, and 8 assume that the  $CO_2$  flux due to air/sea gas exchange is negligible. To test this assumption, we computed the air/sea exchange of  $CO_2$  using locally measured wind speed data at the time of the study (E. Stoutenberg and G. Masters, unpublished data), assumed atmospheric  $pCO_2 = 400~\mu atm$ , and used the Ho et al. (2006) gas transfer velocity parameterization. Calculated air/sea gas exchange never exceeded  $\pm 1~mmol~C~m^{-2}~h^{-1}$  during the study, justifying its omission from the TA–DIC diagram.
+
+#### Results
+
+## Hydrodynamics
+
+Currents were predominantly oriented alongshore with net flow toward the northeast. Flow was strongly dependent on tidal position (Fig. 2a) and presumably offshore wave forcing (which was not measured), and ranged from nearly zero at low tide up to 15 cm s<sup>-1</sup> at high tide (Fig. 2b). Note that the magnitude is too large and the phasing of the observed currents is not consistent with the observed flows being purely tidal. The basic circulation pattern for the Ofu back reefs is one with wave-driven flow over the shallow reef crest supplying an along-reef flow in the lagoon that is strongest near reef passes and weakest in between reef passes according to the model by Monismith (2014). In this model, the wave-driven flow is strongest at high tide because frictional resistance across the reef flat is minimal.
+
+Temperature variation with depth (Fig. 2c) was minimal during the short-term study period suggesting that the back reef water column was well mixed as expected for such a shallow region. The effective heat flux,  $H_{\rm eff}$ , was often far outside the range expected for surface heat exchanges, notably during daytime high tides with strong along-reef flows, which indicates strong cross-reef flows (Fig. 2d). The effective heat flux makes clear the importance of wave-driven flows for determining water temperatures and biogeochemistry in the shallow Ofu lagoons.
+
+![](_page_5_Picture_19.jpeg)
+
+<span id="page-6-0"></span>The longer-term study (Fig. 3) shows that the temperature difference between nearby Pool 300 and offshore (Fig. 3e) varies with amplitude and timing of the tides (Fig. 3a, b) through the time variation of the heating potential R (Fig. 3c) and with cross-reef flow (Fig. 3d). When R is large (e.g., December 10, 2011, December 23, 2011, January 22, 2012, and February 8, 2012), Pool 300 warms considerably relative to offshore, reaching temperatures over 32 °C, which is approximately 3 °C warmer than the offshore ocean. The effects of cross-reef flow are less obvious, although the periods of high  $q_w$  and small values of R correspond to the smallest temperature differences between Pool 300 and the fore reef. This is most notable at the beginning of the record, December 1-4, 2011, and again on January 1, 2012, January 15, 2012, and February 2, 2012. On the other hand, the limitations of using clearsky radiation to estimate heating are clear from the fact that there are several periods (e.g., January 7-10, 2012) where the lagoon cools relative to the ocean, presumably reflecting periods of low insolation and possibly large cooling.
+
+We estimated the Lagrangian transit time,  $\tau$ , for 2 days in the Pool 300 long-term data set. The first day, January
+
+13, 2012, had the largest temperature increase,  $\sim 4$  °C. For this period, the best offset was  $\sim 150$  W m<sup>-2</sup>, so that  $\langle \tilde{H} \rangle \approx 522$  W m<sup>-2</sup>. Taking h=1.5 m, we find that  $\tau \simeq 13$  h. This is longer than the entire heating period, implying little flow through the system that day. In contrast, December 31, 2011, was a day with a much smaller temperature rise (0.6 °C).  $\langle \tilde{H} \rangle \approx 366$  W m<sup>-2</sup>, and the flow is evidently stronger since  $\tau \simeq 2.9$  h. On November 18, 2011, one of the days with carbon system data, the temperature rise was approximately 2 °C in Pool 100. Taking  $\langle \tilde{H} \rangle$  to be 500 W m<sup>-2</sup>, we estimate that  $\tau \simeq 7$  h.
+
+#### Physical and biogeochemical variability
+
+Temperatures ranged from 27.2 to 31.8 °C in Pool 100 during the short-term study (Fig. 2c). The maximum and minimum temperatures were both observed on November 14, 2011, resulting in a maximum diel temperature range of 4.6 °C. During more modulated temperature extremes (e.g., November 17, 2011), diel temperature ranges only reached 2 °C. Salinity was nearly constant at 35.5 for the duration of the short-term study, except for brief periods
+
+![](_page_6_Figure_6.jpeg)
+
+**Fig. 3** Longer-term hydrodynamic observations and calculations. **a** Tidal variations in depth (*black*). *Red lines* mark depth maxima and minima. **b** Time of high (*black circles*) and low (*red circles*) water. The *blue dashed lines* mark times of sunrise and sunset.
+
+**c** Dimensionless potential heating rate, R. **d** Wave-induced cross-shore transport,  $q_w$ . **e** Temperatures in Pool 300 (*black*) and on the adjacent fore reef (red)
+
+![](_page_6_Picture_9.jpeg)
+
+<span id="page-7-0"></span>where near-surface (tubes 2 and 4) salinities were as low as 32.1 (Fig. 4a). We attribute these low-salinity events to submarine groundwater discharge (SGD) that, because of their buoyancy, were only observed near the surface. Given that the low-salinity anomalies were only observed on the downstream side of the study area, the SGD point was likely located within the sampling box or just downstream of the sampling box. We cannot definitively identify the chemical signature of the SGD and its effects on the carbonate chemistry of Pool 100. However, since the SGD events coincided with low tides and were intermittent and brief, we can conclude that the SGD effects on Pool 100 biogeochemistry are minor compared to the roles of coral community metabolism and hydrodynamics in establishing the physical and biogeochemical variability of Pool 100.
+
+Physical and biogeochemical ranges of Pool 100 greatly exceeded offshore variability (Table [1;](#page-8-0) Fig. 4). Maximum pHT diel range was 0.58. Since sTA was not measured continuously throughout the study, sTA ranges, along with those of calculated sDIC, pCO2, and Xaragonite, reflect observed maxima and minima, not true maxima and minima throughout the study.
+
+The high-resolution pH, O2, and temperature time series provide an opportunity to analyze the physical and biogeochemical variability probabilistically. We calculated the empirical cumulative distribution functions (ecdf) on the pHT, O2, and temperature time series to quantify their distributions over the course of the short-term study in Pool 100 (Fig. [5\)](#page-8-0). Table [2](#page-9-0) summarizes the cumulative probabilities of occurrences for pHT, O2, and temperature across a range of the observed values.
+
+Ecdfs provide a powerful tool for quantifying the biogeochemical variability in coral reef ecosystems. The reef community in Pool 100 on Ofu spent far more time outside of pHT 8.0–8.2 than within it. Only 30 % of the time during the study period featured pHT within the range 8–8.2. The other 70 % was split approximately evenly between pHT values less than 8.0 (34 %) and those above 8.2 (36 %). The coral communities in Ofu's back reefs have long been shown to withstand extreme temperatures, but this analysis shows
+
+![](_page_7_Figure_6.jpeg)
+
+Fig. 4 Time series of a salinity, b O2 concentration, c O2 percent of saturation, d pHT, e sTA, f sDIC, g pCO2, and h Xaragonite. The legend at the bottom corresponds to data collected from each of the eight tubes. Black horizontal dashed lines across a and d–h show the mean
+
+of all offshore values. Blue lines show high tides and orange lines show low tides. Gray vertical bars show sundown to sunrise for reference
+
+![](_page_7_Picture_9.jpeg)
+
+<span id="page-8-0"></span>Table 1 Pool 100 physical and biogeochemical ranges during the short-term study in November 2011 along with offshore water chemistry from NOAA CRED research cruises in 2010 and 2012
+
+|                      | Pool 100 minimum | Pool 100 maximum | Offshore mean ± SD |
+|----------------------|------------------|------------------|--------------------|
+| Temperature (C)      | 27.23            | 31.84            | 29.43 ± 0.15       |
+| Salinity             | 32.14            | 35.64            | 35.46 ± 0.12       |
+| O2 (lmol kg-1<br>)   | 64               | 327              |                    |
+| O2 (% saturation)    | 32               | 178              |                    |
+| pHT                  | 7.80             | 8.39             | 8.06 ± 0.01        |
+| sTA (lmol kg-1<br>)  | 2221             | 2375             | 2324 ± 10          |
+| sDIC (lmol kg-1<br>) | 1640             | 2118             | 1967 ± 14          |
+| pCO2 (latm)          | 140              | 674              | 376 ± 16           |
+| Xaragonite           | 2.69             | 6.49             | 4.06 ± 0.10        |
+
+that the reef community also experienced extreme pHT values, both high and low, for the majority of its diel cycle.
+
+Similarly, large deviations from mean values were observed in the ecdf of the O2 time series. Only 17 % of the observations fell between 80 and 120 % of saturation. Nine percent occurred at O2 above 140 % of saturation, whereas 22 % of the time series occurred with O2 below 60 % of saturation. O2 reached levels as low as 32 % of saturation on the night of November 19–20, 2011.
+
+Our temperature data are generally consistent with previous studies documenting the thermal variability in the back reefs of Ofu (Craig et al. [2001;](#page-11-0) Smith and Birkeland [2007;](#page-12-0) Barshis et al. [2010\)](#page-11-0). Temperatures were as high as 31–32 C during daytime low tides and as low as 27–28 C during nighttime low tides. The coldest waters were observed during nighttime low tides due to radiative heat loss. The temperature ecdf revealed that 57 % of the temperature observations were below the summertime mean temperature of 29 C (Craig et al. [2001\)](#page-11-0). Our highest recorded temperature was 31.84 C, which falls short of the summertime thermal maximum of 34.5 C recorded by Craig et al. ([2001](#page-11-0)). Twenty-one percent of the temperature observations were above 30 C.
+
+## Community metabolism
+
+We used our estimate of s ^ 7 h on November 18, 2011, in order to provide one estimate of NCC and NCP across the reef flat from offshore into Pool 100. The NCC and NCP rate estimates are upper bound estimates because the timing of the maximum temperature in Pool 100 (used to calculate DT and hence s) corresponds to the timing of the
+
+Fig. 5 Empirical cumulative distribution functions of a pHT, b O2 percent of saturation, and c Depth-averaged temperature from the downstream thermistor profile. Colors in a and b correspond with tube number from which the water was sampled
+
+![](_page_8_Figure_10.jpeg)
+
+![](_page_8_Picture_11.jpeg)
+
+<span id="page-9-0"></span>**Table 2** Empirical cumulative probabilities for pH<sub>T</sub>, O<sub>2</sub>, and temperature from Pool 100 in November 2011<sup>a</sup>
+
+| $pH_T$ | $P(pH_T < x)$ | O2 (percent saturation) | $P(O_2 < x)$  | T (°C) | P(T < x) |  |
+|--------|---------------|-------------------------|---------------|--------|----------|--|
+| 7.9    | 0.070 (0.005) | 60                      | 0.215 (0.004) | 28     | 0.172    |  |
+| 8.0    | 0.336 (0.006) | 80                      | 0.501 (0.004) | 29     | 0.568    |  |
+| 8.1    | 0.510 (0.004) | 100                     | 0.568 (0.004) | 30     | 0.793    |  |
+| 8.2    | 0.641 (0.011) | 120                     | 0.672 (0.003) | 31     | 0.944    |  |
+| 8.3    | 0.934 (0.005) | 140                     | 0.909 (0.006) | 32     | 1        |  |
+|        |               |                         |               |        |          |  |
+
+<sup>&</sup>lt;sup>a</sup> Values reported for  $pH_T$  and  $O_2$  are mean from n=8 tubes with the standard deviation of the estimate in parenthesis. Temperature data are depth-averaged from the downstream thermistor profile inside the sampling area
+
+maximum observed  $\Delta sTA$  and  $\Delta sDIC$ . We calculated values of 9 mmol C m<sup>-2</sup> h<sup>-1</sup> for NCC and 34 mmol C m<sup>-2</sup> h<sup>-1</sup> for NCP.
+
+Our temporally integrated assessment of reef metabolism using TA–DIC diagrams revealed a reef system dominated by production/respiration. The sTA–sDIC regression of all data collected throughout the study (Fig. 6) has a slope  $\pm 95$  % confidence interval of 0.264  $\pm$  0.016. Using this value for  $m_{\rm bestfit}$  in Eq. 8, we calculated the NCC/NCP ratio as 0.15  $\pm$  0.01 (mean  $\pm$  95 % confidence interval).
+
+#### **Discussion**
+
+Hydrodynamic forcing plays an important role in the observed biogeochemical variability in Pool 100. Tides modulate the wave-driven flow over the fore reef into the back reefs by controlling the water depth of the reef crest (Lowe et al. 2009). This modulation of the wave-driven flow changes the residence time in the back reefs. During high tides, wave-driven advection through the pools is stronger, thus reducing residence time in the back reefs (Monismith 2014; Fig. 2). The effects of biogeochemical fluxes resulting from coral community metabolism are diminished in these deeper, high flow environments. Conversely, during low tides the reef crest is exposed and wave-driven flow does not flush the back reefs. When the timing of low tides corresponds with the maximum in cumulative solar irradiance, greater biogeochemical maxima result from the combination of maximum metabolic rates and a shallow, stagnant pool of water on the back reef.
+
+The study period occurred during a neap tide as determined from the NOAA CO-OPS tidal model of Pago Pago harbor in Tutuila (NOAA 2011). Tidal amplitudes approximately double from neap to spring tides in Pago Pago harbor and in Pool 300 (Fig. 3a). The diminished amplitude of neap tides relative to spring tides ensures that the tidal forcing on the biogeochemistry will be near minimum since extreme low tides are avoided. We predict greatest biogeochemical variability when spring low tides occur
+
+![](_page_9_Figure_9.jpeg)
+
+**Fig. 6** TA–DIC diagram using data collected over the entire study period. *Black lines* show the organic (P/R; production/respiration) and inorganic (C/D; calcification/dissolution) metabolic pathways. *Red dashed line* is  $m_{\text{bestfit}} = 0.264$  from a type II major axis linear regression, and the *gray shading* is the 95 % confidence interval on  $m_{\text{bestfit}} (\pm 0.016)$ 
+
+just prior to sunrise and again in the mid-to-late afternoon (e.g., February 10–11, 2012), assuming that the strength and diel cycle timing of coral community metabolism remain unchanged.
+
+The p $H_T$ ,  $O_2$ , and temperature time series exhibit truncated daily maxima and minima instead of smooth sinusoidal oscillations. This behavior results in reduced extreme value exposure for the coral community with respect to pH,  $O_2$ , temperature, and all other co-varying physical and biogeochemical variables. Falter et al. (2013) first described the phenomenon of truncated daily maxima in a model of a simulated reef environment, attributing it to re-entrainment of channel outflow water into the cross-reef flow of a cross-shore flow-dominated reef ecosystem. Pool 100 primarily experiences alongshore flow set up by the back reef frictional balance and resulting sea surface height gradient, but the flow regime also contains a cross-shore component during higher tides (Monismith 2014). The p $H_T$  and  $O_2$  time series provide some of the first observational
+
+![](_page_9_Picture_13.jpeg)
+
+evidence to support the model predictions of truncated maxima and minima in reef environments experiencing cross-reef flow (Falter et al. [2013](#page-11-0)).
+
+Much of the biogeochemical variabilities in Pool 100 can be explained by the NCC/NCP ratio, which acts as the primary regulator of coral reef carbon biogeochemistry by controlling the relative consumption of TA and DIC in the ecosystem and thus determines the pH, pCO2, and Xaragonite of the ecosystem (Andersson and Gledhill [2013\)](#page-11-0). The NCC/NCP ratio of 0.15 ± 0.01 reflects a back reef system dominated by photosynthesis and respiration. The NCC/ NCP ratio in Ofu is lower than those reported for similar shallow back reef environments experiencing high diel cycle temperature and biogeochemical variability. Shaw et al. ([2012\)](#page-12-0) estimated an average NCC/NCP of 0.24 over an entire year on Lady Elliot Island, Great Barrier Reef, Australia; Kayanne et al. ([1995\)](#page-12-0) estimated a ratio of approximately 0.9 over several days for the Shiraho reef on Ishigaki Island in Japan; and Ohde and van Woesik ([1999\)](#page-12-0) estimated integrated diel cycle NCC/NCP of 0.48 and 0.77 on two separate days on Rukan-sho on Okinawa Island in Japan.
+
+Coral reef ecosystems with low values of NCC/NCP are subject to larger carbon system variability than those with high values of NCC/NCP. The calcification/dissolution metabolic pathway acts as a counter balance against the production/respiration metabolic pathway. Calcification decreases Xaragonite, increases pCO2, and decreases pH by consuming TA (Ware et al. [1992\)](#page-12-0). Primary production, on the other hand, increases Xaragonite, decreases pCO2, and increases pH by consuming DIC. Thus, primary production-induced increases in pH (and Xaragonite) during the daytime are partially offset by calcification-induced decreases in pH (and Xaragonite). The reverse processes for both the inorganic and organic metabolic pathways result in similarly modulated biogeochemical extremes during night times. There exists a balance of NCC and NCP that results in static Xaragonite (or pCO2 or pH) over a diel cycle. The NCC/NCP ratio in coral reefs needed to maintain static Xaragonite over diel cycles is approximately 0.9 (Andersson and Gledhill [2013\)](#page-11-0). Since the NCC/NCP ratio in Pool 100 deviates from 0.9, diel cycle variability in Xaragonite results (Fig. [4](#page-7-0)). In general, lowering the NCC/NCP ratio below 0.9 increases biogeochemical variability. This variability is further amplified in back reefs, such as Pool 100, due to their shallow depths and frequently long residence times.
+
+The NCC/NCP ratio in Pool 100 suggests that, like the other shallow back reef environments discussed above, Pool 100 in Ofu experiences net CO2 fluxes from the atmosphere to the reef during daytime due to the high organic production in the ecosystem. Due to the seawater buffering of CO2 released by calcium carbonate precipitation, only 0.6 mol of CO2 is released for each mole of calcium carbonate precipitated (Ware et al. [1992](#page-12-0); Frankignoulle et al. [1994](#page-11-0)). Therefore, reef NCC/NCP must exceed 1.67 in order for the CO2 released by calcification to exceed that fixed by primary production (Gattuso et al. [1999](#page-11-0)).
+
+TA–DIC regressions are useful, but incomplete, metrics for assessing coral reef community metabolism and associated carbon fluxes. The diagrams are incapable of estimating absolute mass fluxes of carbon into and out of the reef ecosystems (NCC and NCP). Without knowing flux directionality, we cannot determine whether the reef community is net calcifying or dissolving, and net producing or respiring when integrated over a diel cycle or longer time periods. We are left only with the relative changes of TA and DIC. Furthermore, without the absolute mass fluxes, we cannot definitively state why we are observing the given NCC/NCP ratio. The low NCC/NCP observed in Pool 100 could result from several causes, including low NCC due to shallow waters limiting vertical accretion of reef-building corals and/or high NCP rates in warmer waters. Differentiating the metabolic processes, and how each responds to environmental variability, is crucial for accurately predicting net reef accretion, net food production, and competition between corals and macroalgae in reef systems. All of these processes will help shape the trajectory of reefs in the warmer and more acidic ocean of the future.
+
+Estimating NCC and NCP requires high-precision measurements of biogeochemical tracers, such as TA, DIC, and O2, along with accurate characterizations of the flow regime in these shallow, rugose environments. Unfortunately, instrument failures during this pilot study prevented us from making the high-precision, high-throughput carbon system measurements (TA and DIC) necessary to employ control volume approaches toward estimating NCC and NCP (Falter et al. [2008](#page-11-0); Teneva et al. [2013\)](#page-12-0). Although we were able to provide upper bound estimates on NCC and NCP across the reef flat, it is hard to extrapolate these metabolic rates to broader conclusions about long-term carbon fluxes on the reef given that previous studies have demonstrated NCC and NCP variability over the course of a diel cycle and between consecutive days (McMahon et al. [2013](#page-12-0); Koweek et al. [2015](#page-12-0)). Unfortunately, the longer-term hydrodynamic measurements in Pool 300, while potentially suitable for continuous estimates of transport across the reef flat, occurred after the high-resolution study in Pool 100 and without biogeochemical measurements, precluding direct estimates of NCC and NCP there as well.
+
+The pilot study results presented here fall short of providing some of the quantitative and mechanistic linking of coral reef ecosystem function parameters that coral reef scientists desire. Nonetheless, our measurements have provided insight into the physical–biogeochemical coupling on Ofu, a site that has attracted, and will continue to
+
+![](_page_10_Picture_9.jpeg)
+
+<span id="page-11-0"></span>attract, much attention because of its potential to serve as natural laboratory to investigate coral response to extreme environmental conditions. Global model projections of coral reefs under the combined stresses of climate change and OA have traditionally forecast the simplification and demise of reef systems globally (Hoegh-Guldberg et al. 2007; Silverman et al. [2009;](#page-12-0) Ricke et al. [2013](#page-12-0)). However, field-based studies have highlighted the heterogeneity and biogeochemical variability present in coral reef ecosystems (Shamberger et al. [2011](#page-12-0); Falter et al. 2012; Albright et al. 2013; McMahon et al. [2013](#page-12-0); Lantz et al. [2014;](#page-12-0) Koweek et al. [2015\)](#page-12-0) that suggests a significantly more nuanced view of the fate of coral reefs. Shallow back reef systems, such as Pool 100 in Ofu, may serve as an important window into the future for understanding how coral communities respond to extreme temperatures and acidification. As such, they may provide an important first glance into the fate of reef systems in a high CO2 world and are deserving of continued attention.
+
+Acknowledgments This manuscript benefitted greatly from the thoughtful comments of two anonymous reviewers and Heidi Hirsh. Helpful conversations with Andreas Andersson, Stephen Palumbi, and Lupita Ruiz-Jones improved this manuscript. Tim Clark, Carlo Caruso, and the rest of staff at the National Park Service of American Samoa provided logistical assistance. Steve Litvin provided able field assistance. We thank Doug Fenner for help with the ecological survey. Eric Stoutenberg and Gil Masters were kind to share wind speed data with us. Chip Young of NOAA CRED provided offshore carbon chemistry data. This study was supported by the Woods Institute for the Environment at Stanford University and a grant to RBD from the Betty and Gordon Moore Foundation. DK was partially supported by an NSF Graduate Research Fellowship. This study was conducted under Permit Number NPSA-2011-SCI-0010 issued by the National Park Service. Data from this study have been deposited at the NOAA National Centers for Environmental Information and can be obtained there.
+
+# References
+
+- Albright R, Langdon C, Anthony KRN (2013) Dynamics of seawater carbonate chemistry, production, and calcification of a coral reef flat, central Great Barrier Reef. Biogeosciences 10:6747–6758
+- Andersson AJ, Gledhill D (2013) Ocean acidification and coral reefs: effects on breakdown, dissolution, and net ecosystem calcification. Ann Rev Mar Sci 5:321–348
+- Barshis DJ, Stillman JH, Gates RD, Toonen RJ, Smith LW, Birkeland C (2010) Protein expression and genetic structure of the coral Porites lobata in an environmentally extreme Samoan back reef: does host genotype limit phenotypic plasticity? Mol Ecol 19:1705–1720
+- Barshis DJ, Ladner JT, Oliver TA, Seneca FO, Traylor-Knowles N, Palumbi SR (2013) Genomic basis for coral resilience to climate change. Proc Natl Acad Sci U S A 110:1387–1392
+- Craig P, Birkeland C, Belliveau S (2001) High temperatures tolerated by a diverse assemblage of shallow-water corals in American Samoa. Coral Reefs 20:185–189
+
+- DelValls TA, Dickson AG (1998) The pH of buffers based on 2-amino-2-hydroxymethyl-1,3-propanediol (''tris'') in synthetic sea water. Deep Sea Res Part I Oceanogr Res Pap 45:1541–1554
+- Dickson AG (1990) Standard potential of the reaction: AgCl(s) ? 1/2 H2(g) = Ag(s) ? HCl(aq), and the standard acidity constant of the ion HSO4 - in synthetic sea water from 273.15 to 318.15 K. J Chem Thermodyn 22:113–127
+- Dickson AG, Millero FJ (1987) A comparison of the equilibrium constants for the dissociation of carbonic acid in seawater media. Deep Sea Res Part A Oceanogr Res Pap 34:1733–1743
+- Dickson AG, Afghan JD, Anderson GC (2003) Reference materials for oceanic CO2 analysis: a method for the certification of total alkalinity. Mar Chem 80:185–197
+- Dove SG, Kline DI, Pantos O, Angly FE, Tyson GW, Hoegh-Guldberg O (2013) Future reef decalcification under a businessas-usual CO2 emission scenario. Proc Natl Acad Sci U S A 110:15342–15347
+- Fabricius KE, Langdon C, Uthicke S, Humphrey C, Noonan SHC, De'ath G, Okazaki R, Muehllehner N, Glas MS, Lough JM (2011) Losers and winners in coral reefs acclimatized to elevated carbon dioxide concentrations. Nat Clim Chang 1:165–169
+- Falter JL, Lowe RJ, Atkinson MJ, Cuet P (2012) Seasonal coupling and de-coupling of net calcification rates from coral reef metabolism and carbonate chemistry at Ningaloo Reef, Western Australia. J Geophys Res 117:C05003. doi:[10.1029/2011JC007268](http://dx.doi.org/10.1029/2011JC007268)
+- Falter JL, Lowe RJ, Zhang Z, McCulloch M (2013) Physical and biological controls on the carbonate chemistry of coral reef waters: effects of metabolism, wave forcing, sea level, and geomorphology. PLoS One 8:e53303
+- Falter JL, Lowe RJ, Atkinson MJ, Monismith SG, Schar DW (2008) Continuous measurements of net production over a shallow reef community using a modified Eulerian approach. J Geophys Res 113:C07035. doi[:10.1029/2007JC004663](http://dx.doi.org/10.1029/2007JC004663)
+- Frankignoulle M, Canon C, Gattuso J-P (1994) Marine calcification as a source of carbon dioxide: Positive feedback of increasing atmospheric CO2. Limnol Oceanogr 39:458–462
+- Gattuso J-P, Frankignoulle M, Smith SV (1999) Measurement of community metabolism and significance in the coral reef CO2 source-sink debate. Proc Natl Acad Sci 96:13017–13022
+- Glynn PW (1993) Coral reef bleaching: ecological perspectives. Coral Reefs 12:1–17
+- van Heuven S, Pierrot D, Rae J, Lewis E, Wallace DWR (2011) MATLAB program developed for CO2 System Calculations. ORNL/CDIAC-105b. Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. DoE, Oak Ridge, TN
+- Ho DT, Law CS, Smith MJ, Schlosser P, Harvey M, Hill P (2006) Measurements of air-sea gas exchange at high wind speeds in the Southern Ocean: implications for global parameterizations. Geophys Res Lett 33:L16611. doi:[10.1029/2006GL026817](http://dx.doi.org/10.1029/2006GL026817)
+- Hoegh-Guldberg O, Mumby PJ, Hooten AJ, Steneck RS, Greenfield P, Gomez E, Harvell CD, Sale PF, Edwards AJ, Caldeira K, Knowlton N, Eakin CM, Iglesias-Prieto R, Muthiga N, Bradbury RH, Dubi A, Hatziolos ME (2007) Coral reefs under rapid climate change and ocean acidification. Science 318:1737–1742
+- Hofmann GE, Smith JE, Johnson KS, Send U, Levin LA, Micheli F, Paytan A, Price NN, Peterson B, Takeshita Y, Matson PG, Crook ED, Kroeker KJ, Gambi MC, Rivest EB, Frieder CA, Yu PC, Martz TR (2011) High-frequency dynamics of ocean pH: a multi-ecosystem comparison. PLoS One 6:e28983
+- van Hooidonk R, Maynard JA, Planes S (2013) Temporary refugia for coral reefs in a warming world. Nat Clim Chang 3:508–511
+- Hughes TP, Baird AH, Bellwood DR, Card M, Connolly SR, Folke C, Grosberg R, Hoegh-Guldberg O, Jackson JBC, Kleypas JA, Lough JM, Marshall P, Nystro¨m M, Palumbi SR, Pandolfi JM,
+
+![](_page_11_Picture_27.jpeg)
+
+- <span id="page-12-0"></span>Rosen B, Roughgarden J (2003) Climate change, human impacts, and the resilience of coral reefs. Science 301:929–933
+- Kayanne H, Suzuki A, Saito H (1995) Diurnal changes in the partial pressure of carbon dioxide in coral reef water. Science 269:214–216
+- Koweek D, Dunbar RB, Rogers JS, Williams GJ, Price NN, Mucciarone DA, Teneva L (2015) Environmental and ecological controls of coral community metabolism on Palmyra Atoll. Coral Reefs 34:339–351
+- Kroeker KJ, Kordas RL, Crim RN, Singh GG (2010) Meta-analysis reveals negative yet variable effects of ocean acidification on marine organisms. Ecol Lett 13:1419–1434
+- Kroeker KJ, Kordas RL, Crim RN, Hendriks IE, Ramajo L, Singh GS, Duarte CM, Gattuso J-P (2013) Impacts of ocean acidification on marine organisms: quantifying sensitivities and interaction with warming. Glob Chang Biol 19:1884–1896
+- Lantz CA, Atkinson MJ, Winn CW, Kahng SE (2014) Dissolved inorganic carbon and total alkalinity of a Hawaiian fringing reef: chemical techniques for monitoring the effects of ocean acidification on coral reefs. Coral Reefs 33:105–115
+- Lowe RJ, Falter JL, Monismith SG, Atkinson MJ (2009) Wave-Driven Circulation of a Coastal Reef-Lagoon System. J Phys Oceanogr 39:873–893
+- McMahon A, Santos IR, Cyronak T, Eyre BD (2013) Hysteresis between coral reef calcification and the seawater aragonite saturation state. Geophys Res Lett 40:4675–4679
+- Mehrbach C, Culberson CH, Hawley JE, Pytkowicz RM (1973) Measurement of the apparent dissociation constants of carbonic acid in seawater at atmospheric pressure. Limnol Oceanogr 18:897–907
+- Monismith SG (2014) Flow through a rough, shallow reef. Coral Reefs 33:99–104
+- Monismith SG, Herdman LMM, Ahmerkamp S, Hench JL (2013) Wave transformation and wave-driven flow across a steep coral reef. J Phys Oceanogr 43:1356–1379
+- NOAA (2011) Tidal model for Pago Pago, American Samoa. tidesandcurrents.noaa.gov
+- Ohde S, van Woesik R (1999) Carbon dioxide flux and metabolic processes of a coral reef, Okinawa. Bull Mar Sci 65:559–576
+- Palumbi SR, Barshis DJ, Traylor-Knowles N, Bay RA (2014) Mechanisms of reef coral resistance to future climate change. Science 344:895–898
+
+- Pawlowicz R, Beardsley B, Lentz S, Dever E, Anis A (2001) Software simplifies air-sea data estimates. Eos (Washington DC) 82:2–2
+- Price NN, Martz TR, Brainard RE, Smith JE (2012) Diel variability in seawater pH relates to calcification and benthic community structure on coral reefs. PLoS One 7:e43843
+- Reyes-Nivia C, Diaz-Pulido G, Kline DI, Hoegh-Guldberg O, Dove SG (2013) Ocean acidification and warming scenarios increase microbioerosion of coral skeletons. Glob Chang Biol 19:1919–1929
+- Ricke KL, Orr JC, Schneider K, Caldeira K (2013) Risks to coral reefs from ocean carbonate chemistry changes in recent earth system model projections. Environ Res Lett 8:034003. doi:[10.](http://dx.doi.org/10.1088/1748-9326/8/3/034003) [1088/1748-9326/8/3/034003](http://dx.doi.org/10.1088/1748-9326/8/3/034003)
+- Shamberger K, Feely RA, Sabine CL, Atkinson MJ, DeCarlo E, Mackenzie FT, Drupp P, Butterfield D (2011) Calcification and organic production on a Hawaiian coral reef. Mar Chem 127:64–75
+- Shaw EC, McNeil BI, Tilbrook B (2012) Impacts of ocean acidification in naturally variable coral reef flat ecosystems. J Geophys Res 117:C03038. doi:[10.1029/2011JC007655](http://dx.doi.org/10.1029/2011JC007655)
+- Silverman J, Lazar B, Cao L, Caldeira K, Erez J (2009) Coral reefs may start dissolving when atmospheric CO2 doubles. Geophys Res Lett 36:L05606. doi:[10.1029/2008GL036282](http://dx.doi.org/10.1029/2008GL036282)
+- Smith JE, Price NN, Nelson CE, Haas AF (2013) Coupled changes in oxygen concentration and pH caused by metabolism of benthic coral reef organisms. Mar Biol 160:2437–2447
+- Smith LW, Birkeland C (2007) Effects of intermittent flow and irradiance level on back reef Porites corals at elevated seawater temperatures. J Exp Mar Bio Ecol 341:282–294
+- Smith LW, Barshis DJ, Birkeland C (2007) Phenotypic plasticity for skeletal growth, density and calcification of Porites lobata in response to habitat type. Coral Reefs 26:559–567
+- Suzuki A, Kawahata H (2003) Carbon budget of coral reef systems: an overview of observations in fringing reefs, barrier reefs and atolls in the Indo-Pacific regions. Tellus B Chem Phys Meteorol 55:428–444
+- Teneva L, Dunbar RB, Mucciarone DA, Dunckley JF, Koseff JR (2013) High-resolution carbon budgets on a Palau back-reef modulated by interactions between hydrodynamics and reef metabolism. Limnol Oceanogr 58:1851–1870
+- Ware JR, Smith SV, Reaka-Kudla ML (1992) Coral reefs: sources or sinks of atmospheric CO2? Coral Reefs 11:127–130
+
+![](_page_12_Picture_28.jpeg)

@@ -1,0 +1,398 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SCIENCE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          160.5,
+          109.87841796875
+        ],
+        [
+          395.25,
+          109.87841796875
+        ],
+        [
+          395.25,
+          143.52197265625
+        ],
+        [
+          160.5,
+          143.52197265625
+        ]
+      ]
+    },
+    {
+      "title": "FRIDAY, JUNE 24, 1921",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          129.0,
+          167.30706243602864
+        ],
+        [
+          225.2783203125,
+          167.30706243602864
+        ],
+        [
+          225.2783203125,
+          177.16552734375
+        ],
+        [
+          129.0,
+          177.16552734375
+        ]
+      ]
+    },
+    {
+      "title": "The Coral Reefs of Tutuila, Samoa: Profes-\nsor W. M. Davis...... 559\nA Novel Magneto-optical Effect: Dr. Elihu\n...... 565\nEdward Bennett Rosa: Dr. S. W. STRATTON. 569\nScientific Events:-\nThe Harpswell Laboratory; Presentation to\nDr. Frederick Belding Power; Medallion of\nthe Wisconsin Academy of Sciences..... 569\nScientific Notes and News...... 571\nUniversity and Educational News..... 573\nDiscussion and Correspondence:-\nNewton's Corpuscular Theory of Light:\nDr. J. M. Schaeberle. German Surtaxes\non Scientific Publications: Dr. C. STUART\nGAGER ..... 574\nQuotations:-\nCentenary of the French Academy of Medi-\ncine ..... 575\nSpecial Articles:-\nResistance to Stem Rust in Kanred Wheat:\nRUTH F. ALLEN..... 575\nThe Rochester Meeting of the American Chem-\nical Society: Dr. Charles L. Parsons... 576",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          79.98046875,
+          195.81678607983622
+        ],
+        [
+          276.19921875,
+          195.81678607983622
+        ],
+        [
+          276.19921875,
+          615.60546875
+        ],
+        [
+          79.98046875,
+          615.60546875
+        ]
+      ]
+    },
+    {
+      "title": "THE CORAL REEFS OF TUTUILA, SAMOA",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          294.75,
+          166.0703125
+        ],
+        [
+          469.5,
+          166.0703125
+        ],
+        [
+          469.5,
+          185.31320368474923
+        ],
+        [
+          294.75,
+          185.31320368474923
+        ]
+      ]
+    },
+    {
+      "title": "A NOVEL MAGNETO-OPTICAL EFFECT",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          274.5,
+          456.90583418628455
+        ],
+        [
+          467.25,
+          456.90583418628455
+        ],
+        [
+          467.25,
+          465.15864892528145
+        ],
+        [
+          274.5,
+          465.15864892528145
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          85
+        ],
+        [
+          "Span",
+          60
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          109
+        ],
+        [
+          "Span",
+          59
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          122
+        ],
+        [
+          "Span",
+          76
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          119
+        ],
+        [
+          "Span",
+          63
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          108
+        ],
+        [
+          "Span",
+          76
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          109
+        ],
+        [
+          "Span",
+          65
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          112
+        ],
+        [
+          "Span",
+          50
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565"
+}

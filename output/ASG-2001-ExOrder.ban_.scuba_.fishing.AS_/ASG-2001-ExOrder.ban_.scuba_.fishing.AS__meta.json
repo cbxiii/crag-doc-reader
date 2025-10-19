@@ -1,0 +1,179 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TERRITORY OF AMERICAN SAMUA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          206.708984375,
+          145.5
+        ],
+        [
+          390.42997542997546,
+          145.5
+        ],
+        [
+          390.42997542997546,
+          156.1376953125
+        ],
+        [
+          206.708984375,
+          156.1376953125
+        ]
+      ]
+    },
+    {
+      "title": "Section 3: Order",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          138.203125,
+          246.0
+        ],
+        [
+          224.06633906633908,
+          246.0
+        ],
+        [
+          224.06633906633908,
+          255.75
+        ],
+        [
+          138.203125,
+          255.75
+        ]
+      ]
+    },
+    {
+      "title": "Section 4: Rules",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          138.63636363636365,
+          372.75
+        ],
+        [
+          222.56756756756758,
+          372.75
+        ],
+        [
+          222.56756756756758,
+          382.5
+        ],
+        [
+          138.63636363636365,
+          382.5
+        ]
+      ]
+    },
+    {
+      "title": "Section 5. Effective Date",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          139.3857493857494,
+          428.87109375
+        ],
+        [
+          257.03931203931205,
+          428.87109375
+        ],
+        [
+          257.03931203931205,
+          439.5
+        ],
+        [
+          139.3857493857494,
+          440.25
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          56
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Span",
+          17
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\ASG-2001-ExOrder.ban_.scuba_.fishing.AS_"
+}

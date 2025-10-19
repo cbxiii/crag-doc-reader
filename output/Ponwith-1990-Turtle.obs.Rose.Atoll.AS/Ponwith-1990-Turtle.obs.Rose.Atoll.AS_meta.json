@@ -1,0 +1,524 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TURTLE OBSERVATIONS FROM ROSE ATOLL\n18 OCTOBER TO 28 NOVEMBER, 1990",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          179.85257985257985,
+          135.75
+        ],
+        [
+          427.8992628992629,
+          135.75
+        ],
+        [
+          427.8992628992629,
+          158.25
+        ],
+        [
+          179.85257985257985,
+          158.25
+        ]
+      ]
+    },
+    {
+      "title": "Submitted by:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          255.8544921875,
+          405.0
+        ],
+        [
+          349.2137592137592,
+          405.0
+        ],
+        [
+          349.2137592137592,
+          418.5
+        ],
+        [
+          255.8544921875,
+          418.5
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          278.02211302211305,
+          113.25
+        ],
+        [
+          330.4791154791155,
+          114.75
+        ],
+        [
+          330.4791154791155,
+          123.75
+        ],
+        [
+          278.02211302211305,
+          122.9765625
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          261.53562653562653,
+          215.7890625
+        ],
+        [
+          347.7149877149877,
+          215.7890625
+        ],
+        [
+          347.7149877149877,
+          225.0
+        ],
+        [
+          261.53562653562653,
+          225.0
+        ]
+      ]
+    },
+    {
+      "title": "METHODS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          276.5233415233415,
+          361.5
+        ],
+        [
+          328.23095823095827,
+          361.5
+        ],
+        [
+          328.23095823095827,
+          370.5
+        ],
+        [
+          276.5233415233415,
+          370.5
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS AND DISCUSSION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          223.31695331695332,
+          633.0
+        ],
+        [
+          378.4398034398035,
+          633.0
+        ],
+        [
+          378.4398034398035,
+          642.75
+        ],
+        [
+          223.31695331695332,
+          642.75
+        ]
+      ]
+    },
+    {
+      "title": "RECOMMENDATIONS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          251.7936117936118,
+          546.43359375
+        ],
+        [
+          356.70761670761675,
+          544.5
+        ],
+        [
+          356.70761670761675,
+          554.94140625
+        ],
+        [
+          251.7936117936118,
+          556.5
+        ]
+      ]
+    },
+    {
+      "title": "ROSE ISLAND SAMPLING GRID",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          72.69041769041769,
+          108.75
+        ],
+        [
+          469.4140625,
+          108.75
+        ],
+        [
+          469.4140625,
+          132.0
+        ],
+        [
+          72.69041769041769,
+          132.0
+        ]
+      ]
+    },
+    {
+      "title": "ROSE ISLAND SAMPLING GRID",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          87.67813267813268,
+          126.0
+        ],
+        [
+          483.3538083538084,
+          127.5
+        ],
+        [
+          483.3538083538084,
+          150.0
+        ],
+        [
+          87.67813267813268,
+          148.5
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          10
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          49
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          54
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          3
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          66
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Span",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          12
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          11
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          4
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Span",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Ponwith-1990-Turtle.obs.Rose.Atoll.AS"
+}

@@ -1,0 +1,590 @@
+{
+  "table_of_contents": [
+    {
+      "title": "scientific reports",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.032745591939545,
+          52.37841796875
+        ],
+        [
+          270.9773299748111,
+          52.37841796875
+        ],
+        [
+          270.9773299748111,
+          80.67041015625
+        ],
+        [
+          39.032745591939545,
+          80.67041015625
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          95.162109375,
+          133.048828125
+        ],
+        [
+          139.978515625,
+          133.048828125
+        ],
+        [
+          139.978515625,
+          145.283203125
+        ],
+        [
+          95.162109375,
+          145.283203125
+        ]
+      ]
+    },
+    {
+      "title": "OPEN A new record for a massive Porites\ncolony at Ta'u Island, American\nSamoa",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          93.82871536523929,
+          131.13720703125
+        ],
+        [
+          538.9521410579345,
+          131.13720703125
+        ],
+        [
+          538.9521410579345,
+          212.25
+        ],
+        [
+          93.82871536523929,
+          212.25
+        ]
+      ]
+    },
+    {
+      "title": "Method",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          155.693359375,
+          545.3410797119141
+        ],
+        [
+          193.525390625,
+          545.3410797119141
+        ],
+        [
+          193.525390625,
+          556.3410797119141
+        ],
+        [
+          155.693359375,
+          556.3410797119141
+        ]
+      ]
+    },
+    {
+      "title": "Results and discussion",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          155.693359375,
+          527.4013671875
+        ],
+        [
+          261.597900390625,
+          527.4013671875
+        ],
+        [
+          261.597900390625,
+          538.4013671875
+        ],
+        [
+          155.693359375,
+          538.4013671875
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          155.111328125,
+          241.88726806640625
+        ],
+        [
+          208.64500427246094,
+          241.88726806640625
+        ],
+        [
+          208.64500427246094,
+          252.88726806640625
+        ],
+        [
+          155.111328125,
+          252.88726806640625
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          153.65625,
+          144.13623046875
+        ],
+        [
+          250.9632110595703,
+          144.13623046875
+        ],
+        [
+          250.9632110595703,
+          155.296875
+        ],
+        [
+          153.65625,
+          155.296875
+        ]
+      ]
+    },
+    {
+      "title": "Author contributions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          154.8203125,
+          214.296875
+        ],
+        [
+          256.0980224609375,
+          214.296875
+        ],
+        [
+          256.0980224609375,
+          225.296875
+        ],
+        [
+          154.8203125,
+          225.296875
+        ]
+      ]
+    },
+    {
+      "title": "Competing interests",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          153.947265625,
+          265.2747802734375
+        ],
+        [
+          253.474609375,
+          265.2747802734375
+        ],
+        [
+          253.474609375,
+          276.2748107910156
+        ],
+        [
+          153.947265625,
+          276.2748107910156
+        ]
+      ]
+    },
+    {
+      "title": "Additional information",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          154.529296875,
+          295.2748107910156
+        ],
+        [
+          265.3105163574219,
+          295.2748107910156
+        ],
+        [
+          265.3105163574219,
+          306.2748107910156
+        ],
+        [
+          154.529296875,
+          306.2748107910156
+        ]
+      ]
+    },
+    {
+      "title": "Terms and Conditions",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          34.921875,
+          25.998046875
+        ],
+        [
+          142.57199096679688,
+          25.998046875
+        ],
+        [
+          142.57199096679688,
+          39.4814453125
+        ],
+        [
+          34.921875,
+          39.4814453125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          333
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "ListItem",
+          31
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Coward 2020 Ta_u (1)"
+}

@@ -1,0 +1,374 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Genomic basis for coral resilience to climate change",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          37.5,
+          50.25
+        ],
+        [
+          525.75,
+          50.25
+        ],
+        [
+          525.75,
+          72.25927734375
+        ],
+        [
+          37.5,
+          72.25927734375
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          40.84716796875,
+          351.35595703125
+        ],
+        [
+          71.25,
+          351.35595703125
+        ],
+        [
+          71.25,
+          358.5
+        ],
+        [
+          40.84716796875,
+          358.5
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          295.07080078125,
+          292.5
+        ],
+        [
+          338.25,
+          292.5
+        ],
+        [
+          338.25,
+          300.75
+        ],
+        [
+          295.07080078125,
+          300.75
+        ]
+      ]
+    },
+    {
+      "title": "Conclusions",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          37.1337890625,
+          625.86474609375
+        ],
+        [
+          85.5,
+          625.86474609375
+        ],
+        [
+          85.5,
+          635.25
+        ],
+        [
+          37.1337890625,
+          635.25
+        ]
+      ]
+    },
+    {
+      "title": "Materials and Methods",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          295.5,
+          239.25
+        ],
+        [
+          391.5,
+          239.25
+        ],
+        [
+          391.5,
+          247.5
+        ],
+        [
+          295.5,
+          247.5
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          139
+        ],
+        [
+          "Span",
+          65
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          148
+        ],
+        [
+          "Span",
+          122
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          125
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          151
+        ],
+        [
+          "Span",
+          113
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          821
+        ],
+        [
+          "Line",
+          163
+        ],
+        [
+          "ListItem",
+          70
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Barshis coral resilience"
+}

@@ -1,0 +1,199 @@
+![](_page_0_Picture_1.jpeg)
+
+![](_page_0_Picture_2.jpeg)
+
+## GOVERNMENT OF AMERICAN SAMOA 66799 OFFICE OF MARINE RESOURCES
+
+IN TABLE PETER TO
+
+September 28, 1933
+
+ORIGINAL
+
+FINAL REPORT
+
+DEPARTMENT OF MARINE & WILDLIFE RESOURCES
+P. O. BOX 3730
+PAGO PAGO, AMERICAN SAMOA 96799
+
+Project Number:
+
+F-4-D
+
+Project Title:
+
+Design and Implementation of Second
+
+Generation Fish Aggregation Device
+
+System in American Samoa
+
+Period:
+
+January 1, 1981 - September 30, 198**13** 
+
+Date Submitted:
+
+October 05, 1983
+
+Project Director:
+
+Henry Sesepasara
+
+Managers:
+
+Ray Tulafono, Feb. 1982 - Feb. 1983
+
+Tasi Mauga, March 1983 - August 1983
+
+Author:
+
+Richard C. Wass
+
+In October, 1979 ten fish aggregation devices (FAD's) were deployed in the waters surrounding American Samoa under a program funded by the National Marine Fisheries Service (NMFS) and the Pacific Tuna Development Foundation (PTDF). Because of the success of this program as well as other FAD projects in Hawaii, Western Samoa, etc., the project described herein was implemented. Its objectives were 1) to re-establish six aggregation devices in the waters around Tutuila Island; 2) to "beef up" the materials from which the FAD's were constructed, thereby giving them life expectancies of five to ten years; and 3) to reap the benefits accruing from the system.
+
+Tage 2...
+
+Most of the FAD's deployed by this program were designed and prefabricated by Ala-Pac, Inc. of Seattle, Washington which was contracted to provide eight float. (three toroid buoys and five spar buoys) and six complete mooring systems. The foam-filled fiberglass floats were 3 ft diameter toroids (doughnut-shaped) and 3 ft by 3 ft cylinders with aluminium cores. The latter were donated by NMFS. A tower with a light and radar reflector was mounted on each float. Moorings consisted of a 60 ft chain float bridle, a stainless steel ball-bearing swivel, several lengths of 1 inch hard-lay polypropylene line connected with thimbles and shackles, a 60 ft anchor chain and an anchor constructed from railroad car wheels or concrete.
+
+An amendment to project F-4-D allowed the purchase of an additional \$25,000 worth of materials which were used primarily to purchase more line and hardware for mooring systems. Additionally FAD's were fabricated from materials remaining from the NMFS/PTDF project, buoys donated by the Marine Railway, salvaged floats and longline from a derelict fishing vessel, and line and hardware purchased with local (American Samoa Government) funds.
+
+The report which follows is not limited to the FAD's purchased with U.S. Fish and Wildlife Service (USFWS) funds. Rather, it covers all FAD's deployed in American Samoa during the report period.
+
+## FAD Deployment
+
+The six FAD locations around Tutuila Island are designated by letters and illustrated in Figure 1 which also lists the depth at each position. Distance from shore varies from 3.0 to 7.4 miles and depth varies from 500 to 1,050 fms.
+
+Thirteen FAD's were deployed around Tutuila Island and two in the Manu'a Islands during the report period. The location and period of deployment for each is depicted in Figure 2. Each has a numerical subscript which identifies it individually when combined with the letter designating its location. The details of each deployment including the factors responsible for 10. 1035
+
+FINAL REPORT Page 3.....
+
+are summarized as follows:
+
+FAD A<sub>2</sub> - Deployed by the 54 ft Office of Marine Resources (OMR) vessel "SAUSAUIMOANA" on November 10, 1981 and never seen again. The float was donated by the Marine Railway and the mooring line and hardware remained from the first generation FAD project funded by NMFS and PTDF. No USFWS funds were used.
+
+FAD A<sub>3</sub> - Deployed July 22, 1982 by the "SAUSAUIMOANA". The float was one of the spar buoys donated by NMFS and shipped to Samoa by Ala-Pac, Inc. This company also provided the mooring system. The FAD was reported missing August 24 and never recovered. The spar buoys consisted of two foam-filled fiberglass shells bolted together by flanges on their edges. It is speculated that the flanges broke off alowing the two halves to separate and drift free from the aluminium core which was attached to the mooring system.
+
+FAD A<sub>4</sub> - Deployed June 9, 1983 by the 32 ft OMR vessel "MASIMASI". This FAD was designated "temporary". It was not expected to have a long life as it was constructed from salvaged materials. The float was a 3 ft diameter foam-filled fiberglass sphere which drifted ashore near the airport and the mooring line consisted of three strands of used longline woven together. No USFWS funds, were, thus, used for materials. It was last seen on August 10. This FAD was deployed without benefit of a fathometer and it appeared to have too much slack in the mooring. It is speculated that the line was cut by chafing the bottom.
+
+FAD B<sub>2</sub> - Deployed during August, 1981 by the tuna purse seiner "WHITE STAR". The float was a toroid and, along with the mooring system, was funded by USFWS. Underwater inspection revealed that the swivel (valued at over \$200) was removed from the mooring system prior to deployment. Several hundred feet of slack was excised from the mooring line by the crew of the "SAUSAUIMOANA" four weeks after deployment. The FAD remained in position for the next ten months with no further modification before it broke loose July 19, 1982. Its recovery revealed that the failure
+
+FINAL REPORT Page 4.....
+
+was due to electrolysis of the steel shackle used to connect two bronze thimbles linking sections of the mooring line.
+
+FAD  $B_3$  - Deployed March 8, 1983 by the "SAUSAUIMOANA". The float was the toroid recovered from  $B_2$  and the mooring system was one provided by Ala-Pac. The mooring was set without a counterweight and too much slack as it was observed floating at the surface on at least one occasion. It was cut by a propellor on April 29. The float and a short length of line were recovered for re-use.
+
+FAD C<sub>2</sub> - Deployed in May, 1981 by the tuna purse seiner "CAPTAIN SOUZA". The toroid float was funded by the USFWS and the mooring was fabricated from materials which remained from the earlier PTDF FAD project. This FAD was deployed with too much slack and no counterweight on the mooring line. While floating on the surface in July, it was tangled in the propellor of a local fishing boat, the "OLIVIA C", and cut. The float was recovered but the mooring was lost. A few months later the mooring line was found floating on the surface and a small float was attached. The "SAUSAUIMOANA" went out the next day to attach a larger float but the small float and line had disappeared and were never seen again.
+
+FAD C<sub>3</sub>- Deployed in August, 1981 by the "SAUSAUIMOANA". The toroid recovered from C<sub>2</sub> was moored with another system funded by the USFWS. This FAD remained in position for over thirteen months and had the longest lifespan of any deployed by OMR to date. It broke loose on September 26. 1982 as the result of electrolysis of a steel shackle connecting two bronze thimbles. The shackle that broke was at the lower end of the system so the float and most of the mooring line were recovered. The two other connecting shackles in higher positions on the line were also badly electrolyzed and about to give way. The rest of the system was in perfect condition and appeared functional for at least another year.
+
+FAD C<sub>4</sub> - Deployed March 15, 1983 by the "SAUSAUIMOANA". The toroid recovered from C<sub>3</sub> was moored with a system funded by the USFWS. A portion of the mooring line was observed floating on the surface on April 25. About a week later, the "SAUSAUIMOANA" attempted to remove some of the slack from the system but was unsuccessful due to the strong wind and current. The float June 16 last seen May 1, 1983. Again, the loss was likely due to the slack line which was probably cut by a propellor or keel.
+
+FAD E<sub>2</sub> - Deployed in September, 1981 by the "SAUSAUIMOANA". The float was a spar buoy and the mooring system was funded by the USFWS. The float was discovered floating free only two weeks after deployment. Failure was attributed to a bad splice that worked loose because it was not seized. Care must be taken when splicing hard-lay prolypropylene line because it has a relatively low coefficient of friction. Extra tucks must be taken in the splice and it should be seized with synthetic line and rubber strips to prevent the splice from working loose during the pull-and-release motion of ocean swells.
+
+FAD  $E_3$  - Deployed July 6, 1982 by the "SAUSAUIMOANA". Again, the float was a spar buoy and the mooring system was funded by the USFWS. This FAD remained in position for four or five months. The date of its loss was not documented and the float was never recovered.
+
+FAD E<sub>4</sub> - Deployed by the "SAUSAUIMOANA" August 24, 1983. This is another "temporary" FAD. The float is a spar buoy and the mooring consists of three woven strands of salvaged longline attached to a drum of concrete. It is the only functioning FAD in American Samoa at the date of this writing.
+
+FAD  $F_2$  - Deployed July 22, 1982 by the "SAUSAUIMOANA". The float was a spar buoy and the mooring system was funded by the USFWS. It was reported missing on August 24 and never recovered. Its failure may be due to the cause outlined under FAD  $A_3$ .
+
+FINAL REPORT Page 6.....
+
+FAD G<sub>2</sub> - Deployed in June, 1981 by the tuna purse seiner "PACIFIC PRINCESS". The float was a toroid purchased by the USFWS and the mooring system was fabricated from materials remaining from the earlier PTDF FAD project. The float with about 100 m of line still attached was recovered on Taema Bank about a month later. The line appeared to have been cut and may have been floating near the surface because of too much slack in the system.
+
+Manu'a FAD's - Two FAD's were deployed by the "SAUSAUIMOANA" at 80 fm and about three miles apart on the submarine bank between Olosega and Ta'u, Manu'a Islands on November 16, 1981. The floats were donated by the Marine Railway and the relatively short lengths of mooring line were left over from the earlier PTDF project. Manu'a fishermen reported the floats to be in position for 6-8 weeks before they disappeared due to unknown causes.
+
+A 625 fm length of jacketed 7/16 inch diameter wire rope purchased with USFWS funds remains from Project F-4-D and will be used to moor a toroid float in position B pending the receipt of non-corrosive connectors which are expected to arrive within a few weeks. Other unused materials include an anchor constructed from railroad car wheels, two of the original toroid floats and one spar buoy. They will, no doubt, be used as components for future FAD's.
+
+## FAD Loss
+
+The factors responsible for the loss of the FAD's described above are summarized in Table I. The major cause appears to be related to the mooring line floating on or near the surface where it was cut by a boat keel or propellor. The problem could be solved by the elimination of slack or scope from the mooring, the use of negatively buoyant line, or the use of a counterweight to sink the line. Electrolysis was the second most important cause of failure. Care should be taken to ensure that dissimilar metals
+
+are not allowed in contact with one another. If they must be used, the more active metal should be protected with a sacrificial anode.
+
+The mooring system recommended by the South Pacific Commission study will eliminate most of the causes of failure and should be used if possible for all future FAD deployments. The upper section consists of a negatively buoyant length of nylon line of insufficient length to reach the bottom where it would be subject to abrasion. The lower section consists of a length of buoyant polypropylene line which has sufficient buoyancy to lift at least ten feet of anchor chain off the bottom but which is not long enough to reach the surface where it could be fouled or cut by a boat. Lines will be skillfully and properly spliced to eliminate the need for metal connectors subject to electrolysis and corrosion.
+
+## FAD Benefits
+
+An assessment of the benefits of the FAD program in terms of increased catches, decreased fuel consumption, the likelihood of a pleasing recreational experience, etc, was not an objective of the present project. Some data are available, however, which indicate increased fishing success in the vicinity of FAD's around Tutuila.
+
+One source of data is Job III-I of Project F-2-R and also funded by USFWS. The objective of this job is to measure long-term trends in the pelagic sport fish resource through standardized monthly trolling surveys. Portions of the surveys, which have been continuous since 1975, are periodically conducted in the vicinities of FAD's. A total of 13.25 hours of survey effort has been expended around FAD's B and C since 1981 and 125.75 hours have been expended elsewhere. A total of 374 lbs of fish were caught near the FAD's for an average catch of 28.2 lbs/hr. A total of 1977 lbs were caught elsewhere for an average of 15.7 lbs/hr. Catch rate in the vicinity of FAD's was, thus, almost twice as great as in other areas. The FAD
+
+catches were dominated by blue marlin, yellowfin and dolphin.
+
+Another source of trolling data is Job III-2 of project F-2-R. The major objective of this job is to test three FAD drape configurations to determine which is the most attractive to pelagic gamefish. A total of 13.2 hrs of trolling effort was expended around FAD's B and C resulting in a catch of 216 lbs. The catch rate was, therefore, 16.4 lbs/hr with yellowfin and dolphin the dominant species. Catch rate was considerably less than that experienced around the FAD's during the monthly trolling surveys described under Job III-1 above. This may be due to the fact that fewer lines and smaller lures were used during the survey directed at the FAD's.
+
+Commercial and recreational trollers are a third source of data. Several of the most active fishermen were asked to provide the following for their effort within a one-half mile radius of each FAD: date, time began and time stopped fishing, and number and weight of catch by species. The data from 36 visits to FAD's A, B and C made between April 2 and August 17, 1983 are summarized in Table II. They indicate an average catch of 3.2 fish weighing 25.6 lbs per hour and 1.9 fish and 15.1 lbs per visit. Dolphin and skipjack were the most commonly caught species. The 545 lbs caught during these 36 visits is an unknown, but probably small, percentage of the total FAD catch landed during the survey period.
+
+In addition to trolling surveys, Job III-2 also involved SCUBA diving to make visual observations of the fishes attracted to FAD's. Observations were generally made by two divers for about 15 minute periods. They were conducted to depths of about 60 ft at the bottom of the drape and/or on the mooring line at the swivel between the chain float bridle and the polypropylene line. Between September 9, 1981 and June 10, 1983, 12 dives were made on FAD B and 12 dives on FAD C. Amongst the smaller fishes, the dominant species observed were young bigeyed trevally (Caranx sexfasciatus = lupotā), bigeye scad (Selar crumenophthalmus = atule), and rainbow runner (Elegatis bipin-
+
+FINAL REPORT Page 9.....
+
+nulatus = samani). The most prominent larger species were
+yellowfin tuna (Thunnus albacares = asiasi), silky sharks
+(Carcharhinus falciformis = malie), and dolphin (Coryphaena
+hippurus = masimasi). Table III gives a complete list of all
+species observed.
+
+![](_page_10_Figure_0.jpeg)
+
+Figure 2. Location and period of deployment for all FAD's in American Samoa from May, 1981 to present.
+
+TABLE I. Cause of failure for FAD's deployed in American Samoa since 1981.
+
+| Cause of Failure                                                                   | FAD's Lost for<br>this reason            | FAD's that may have been lost for this reason | Total          |
+|------------------------------------------------------------------------------------|------------------------------------------|-----------------------------------------------|----------------|
+| Mooring line float-<br>ing on or near sur-<br>face and cut by<br>propellor or keel | B <sub>3</sub> , C <sub>2</sub>          | C <sub>4</sub> , G <sub>2</sub>               | 4              |
+| Electrolysis of shackles                                                           | B <sub>2</sub> , C <sub>3</sub>          |                                               | 2              |
+| Float broke apart                                                                  |                                          | A <sub>3</sub> , F <sub>2</sub>               | 2              |
+| Bad Splice                                                                         | E <sub>2</sub>                           |                                               | 1              |
+| Mooring line abraded by bottom                                                     |                                          | A <sub>4</sub>                                | 1              |
+| Unknown                                                                            | A <sub>2</sub> , E <sub>3</sub> , Manu'a | , Manu'a                                      | <u>4</u><br>14 |
+
+TABLE II, Catch and effort data collected from commercial and recreational fishermen fishing within a onehalf mile radius of the listed FAD between April 2 and August 17, 1983.
+
+|     | Pounds<br>Per Vist                                                     | 0.06  | 17.8      | 11.3         | 15.1                |
+|-----|------------------------------------------------------------------------|-------|-----------|--------------|---------------------|
+|     | Fish Pounds<br>per Visit Per Visi                                      | 0.6   | 1.1       | 1.8          | 1.9                 |
+|     | Pounds<br>per Hour                                                     | 270.0 | 29.1      | 19.1         | 25.6                |
+|     | Total Fish<br>Pounds per Hour                                          | 27.0  | 1.8       | 3.1          | 3,2                 |
+|     | Total<br>Pounds                                                        | 06    | 160       | 295          | 545                 |
+| . • | Yellowfin Number Total<br>No. Lbs. Fish Pounds                         | 6     | 10        | 48           | 29                  |
+|     | lowfin<br>Lbs.                                                         | 09    | 40        | .9           | 106                 |
+|     | Yel<br>No.                                                             | ю     | 1         | 7            | 2                   |
+|     | Wahoo<br>No. Lbs.                                                      |       | 12        | 63           | 5 75                |
+|     | No                                                                     |       | 7         | 4            |                     |
+|     | Dolphin<br>No. Lbs.                                                    |       | 4 84      | 7 106        | 21.25 46 174 11 190 |
+|     | sck<br>SS.                                                             | 30    | 24        | .20          | 74                  |
+|     | Skipje<br>No. Li                                                       | 6 30  | 4         | 15.43 36 120 | 46                  |
+|     | Effort (hrs.)                                                          | , 33  | 5,49      | 15.43        | 21.25               |
+|     | Visits With Effort Skipjack Dolphin No. Catch (hrs.) No. Lbs. No. Lbs. | 0     | <b>ਰਾ</b> | 18           | 22                  |
+|     | No.                                                                    | 1     | 6         | 26           | OTAL 36             |
+|     | ۲.<br>د د                                                              | A A   | ф         | ပ            | TOT                 |
+
+TABLE III. Fishes observed around FADs B and C during SCUBA dives.
+
+| arves.                              | ·                                       |
+|-------------------------------------|-----------------------------------------|
+| Scientific Name                     | Common Name                             |
+| Gamefishes                          |                                         |
+| 1. Acanthocybium solandri           | Wahoo, paala                            |
+| 2. Coryphaena hippurus              | Dolphin, masimasi                       |
+| 3. Elegatis bipinnulatus            | Rainbow runner, samani                  |
+| 4. Euthynnus affinis                | Little tuna, kawakawa,<br>atualo        |
+| 5. <u>Katsuwonus</u> <u>pelamis</u> | Skipjack, atu                           |
+| 6. Makaira nigricans                | Blue Marlin, sa'ula-oso                 |
+| 7. <u>Seriola rivoliana</u>         | Amberjack, tafala, kahala               |
+| 8. Sphyraena barracuda              | Barracuda, saosao                       |
+| 9. Thunnus albacares                | Yellowfin tuna, asiasi                  |
+| Baitfishes and Miscellaneous        | ,                                       |
+| 1. Canthidermis maculatus           | Oceanic triggerfish, sumu-<br>ya'a      |
+| 2. Caranx sexfasciatus              | Bigeye trevally, malauli-<br>matalapo'a |
+| 3. Decapterus macarellus            | Opelu, atuleau                          |
+| 4. Kyphosus vaigiensis              | Rudderfish, nanue                       |
+| 5. Psenes cyanophrys                | Man-o-war fish                          |
+| 6. Selar crumenophthalmus           | Bigeye scad, atule                      |
+| Sharks                              |                                         |
+| 1. Carcharhinus falciformis         | Silky shark                             |
+| 2. Carcharhinus longimanus          | Oceanic whitetip, apoapo                |

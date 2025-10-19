@@ -1,0 +1,1461 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Ridge to Reef Management Implications for the Development of an\nOpen-Source Dissolved Inorganic Nitrogen-Loading Model in\nAmerican Samoa",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.023597717285156,
+          106.0029296875
+        ],
+        [
+          487.56500244140625,
+          106.0029296875
+        ],
+        [
+          487.56500244140625,
+          157.82965087890625
+        ],
+        [
+          51.023597717285156,
+          157.82965087890625
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.345703125,
+          241.3778076171875
+        ],
+        [
+          88.31559753417969,
+          241.3778076171875
+        ],
+        [
+          88.31559753417969,
+          251.34039306640625
+        ],
+        [
+          50.345703125,
+          251.34039306640625
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.63671875,
+          490.1946105957031
+        ],
+        [
+          117.68523406982422,
+          490.1946105957031
+        ],
+        [
+          117.68523406982422,
+          502.14971923828125
+        ],
+        [
+          50.63671875,
+          502.14971923828125
+        ]
+      ]
+    },
+    {
+      "title": "Methods and Model Inputs",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          306.1417236328125,
+          228.67034912109375
+        ],
+        [
+          452.8203125,
+          228.67034912109375
+        ],
+        [
+          452.8203125,
+          243.3251953125
+        ],
+        [
+          306.1417236328125,
+          243.3251953125
+        ]
+      ]
+    },
+    {
+      "title": "Study Location",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.23828125,
+          257.0325927734375
+        ],
+        [
+          375.0223388671875,
+          257.0325927734375
+        ],
+        [
+          375.0223388671875,
+          267.9915771484375
+        ],
+        [
+          303.23828125,
+          267.9915771484375
+        ]
+      ]
+    },
+    {
+      "title": "Modeling Framework",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          306.1417236328125,
+          505.57568359375
+        ],
+        [
+          404.802734375,
+          505.57568359375
+        ],
+        [
+          404.802734375,
+          517.1002502441406
+        ],
+        [
+          306.1417236328125,
+          517.1002502441406
+        ]
+      ]
+    },
+    {
+      "title": "Step 1. Island-Wide Water Discharge Rates from All Three Hydrologic Pathways",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.7556675062972,
+          630.5507109004739
+        ],
+        [
+          545.7078085642318,
+          630.5507109004739
+        ],
+        [
+          545.7078085642318,
+          653.88818359375
+        ],
+        [
+          304.7556675062972,
+          653.88818359375
+        ]
+      ]
+    },
+    {
+      "title": "Step 2. Measured DIN Fluxes",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          305.857421875,
+          593.2782135009766
+        ],
+        [
+          439.65191650390625,
+          593.2782135009766
+        ],
+        [
+          439.65191650390625,
+          604.2372131347656
+        ],
+        [
+          305.857421875,
+          604.2372131347656
+        ]
+      ]
+    },
+    {
+      "title": "Water Sampling and Nutrient Concentrations",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          306.1417236328125,
+          618.9942016601562
+        ],
+        [
+          490.0703125,
+          618.9942016601562
+        ],
+        [
+          490.0703125,
+          628.9568023681641
+        ],
+        [
+          306.1417236328125,
+          628.9568023681641
+        ]
+      ]
+    },
+    {
+      "title": "Observed DIN Loads",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          305.857421875,
+          406.70068359375
+        ],
+        [
+          388.58538818359375,
+          406.70068359375
+        ],
+        [
+          388.58538818359375,
+          417.20697021484375
+        ],
+        [
+          305.857421875,
+          417.20697021484375
+        ]
+      ]
+    },
+    {
+      "title": "Step 3. Identification of Terrestrial DIN Sources",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.984375,
+          665.5212936401367
+        ],
+        [
+          525.0576171875,
+          665.5212936401367
+        ],
+        [
+          525.0576171875,
+          678.9583969116211
+        ],
+        [
+          304.984375,
+          678.9583969116211
+        ]
+      ]
+    },
+    {
+      "title": "Step 4. Model Calibration Process",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          306.1417236328125,
+          356.69873046875
+        ],
+        [
+          461.7781677246094,
+          356.69873046875
+        ],
+        [
+          461.7781677246094,
+          372.71240234375
+        ],
+        [
+          306.1417236328125,
+          372.71240234375
+        ]
+      ]
+    },
+    {
+      "title": "Watershed Prioritization Ranking",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          306.1417236328125,
+          643.1113128662109
+        ],
+        [
+          459.8046875,
+          643.1113128662109
+        ],
+        [
+          459.8046875,
+          654.0703125
+        ],
+        [
+          306.1417236328125,
+          654.0703125
+        ]
+      ]
+    },
+    {
+      "title": "Sensitivity Testing",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.40234375,
+          232.14453125
+        ],
+        [
+          390.63232421875,
+          232.14453125
+        ],
+        [
+          390.63232421875,
+          243.103515625
+        ],
+        [
+          304.40234375,
+          243.103515625
+        ]
+      ]
+    },
+    {
+      "title": "Management Decision-Making Framework",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          305.56640625,
+          493.21630859375
+        ],
+        [
+          500.56756591796875,
+          493.21630859375
+        ],
+        [
+          500.56756591796875,
+          504.6278381347656
+        ],
+        [
+          305.56640625,
+          504.6278381347656
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          50.927734375,
+          241.1427001953125
+        ],
+        [
+          88.83758544921875,
+          241.1427001953125
+        ],
+        [
+          88.83758544921875,
+          253.0977783203125
+        ],
+        [
+          50.927734375,
+          253.0977783203125
+        ]
+      ]
+    },
+    {
+      "title": "Modeled DIN Loads",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          50.927734375,
+          269.20263671875
+        ],
+        [
+          141.31150817871094,
+          269.20263671875
+        ],
+        [
+          141.31150817871094,
+          280.4641418457031
+        ],
+        [
+          50.927734375,
+          280.4641418457031
+        ]
+      ]
+    },
+    {
+      "title": "Exploration of Correlation Relationships",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          304.984375,
+          655.5837097167969
+        ],
+        [
+          491.234375,
+          655.5837097167969
+        ],
+        [
+          491.234375,
+          666.5427093505859
+        ],
+        [
+          304.984375,
+          666.5427093505859
+        ]
+      ]
+    },
+    {
+      "title": "Watershed Prioritization-Ranking Results",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          49.47265625,
+          543.5018005371094
+        ],
+        [
+          239.8307647705078,
+          543.5018005371094
+        ],
+        [
+          239.8307647705078,
+          554.4608001708984
+        ],
+        [
+          49.47265625,
+          554.4608001708984
+        ]
+      ]
+    },
+    {
+      "title": "Identification of Tutuila DIN Hotspots",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          306.1417236328125,
+          528.5513000488281
+        ],
+        [
+          480.7578125,
+          528.5513000488281
+        ],
+        [
+          480.7578125,
+          541.9884033203125
+        ],
+        [
+          306.1417236328125,
+          541.9884033203125
+        ]
+      ]
+    },
+    {
+      "title": "Implications for Water-Quality Monitoring",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          50.63671875,
+          57.54833984375
+        ],
+        [
+          245.03515625,
+          57.54833984375
+        ],
+        [
+          245.03515625,
+          68.77276611328125
+        ],
+        [
+          50.63671875,
+          68.77276611328125
+        ]
+      ]
+    },
+    {
+      "title": "The Importance of Different Sources and Hydrologic\nPathways",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          304.40234375,
+          169.55517578125
+        ],
+        [
+          544.2666015625,
+          169.55517578125
+        ],
+        [
+          544.2666015625,
+          193.27008056640625
+        ],
+        [
+          304.40234375,
+          193.27008056640625
+        ]
+      ]
+    },
+    {
+      "title": "Assumptions and Limitations of the DIN-Loading\nModel",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          49.47265625,
+          232.14453125
+        ],
+        [
+          277.276611328125,
+          232.14453125
+        ],
+        [
+          277.276611328125,
+          255.575927734375
+        ],
+        [
+          49.47265625,
+          255.575927734375
+        ]
+      ]
+    },
+    {
+      "title": "Data Availability",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          306.1417236328125,
+          517.93505859375
+        ],
+        [
+          382.9765625,
+          517.93505859375
+        ],
+        [
+          382.9765625,
+          529.5159301757812
+        ],
+        [
+          306.1417236328125,
+          529.5159301757812
+        ]
+      ]
+    },
+    {
+      "title": "Compliance with Ethical Standards",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          50.29219143576826,
+          509.0890995260663
+        ],
+        [
+          212.42821158690174,
+          509.0890995260663
+        ],
+        [
+          212.42821158690174,
+          520.25244140625
+        ],
+        [
+          50.29219143576826,
+          520.25244140625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          50.29219143576826,
+          603.5592417061611
+        ],
+        [
+          109.59193954659949,
+          603.5592417061611
+        ],
+        [
+          109.59193954659949,
+          612.94775390625
+        ],
+        [
+          50.29219143576826,
+          612.94775390625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          209
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          305
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          88
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          350
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          250
+        ],
+        [
+          "TableCell",
+          209
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          170
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          218
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          85
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          190
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          275
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          310
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          157
+        ],
+        [
+          "Span",
+          45
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          213
+        ],
+        [
+          "Span",
+          83
+        ],
+        [
+          "ListItem",
+          36
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Shuler Comeros 2020 DIN model for AS"
+}

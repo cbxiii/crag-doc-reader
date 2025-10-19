@@ -1,0 +1,786 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Marine Pollution Bulletin",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          218.84375,
+          86.068359375
+        ],
+        [
+          378.3173803526448,
+          86.068359375
+        ],
+        [
+          378.3173803526448,
+          96.923828125
+        ],
+        [
+          218.84375,
+          96.923828125
+        ]
+      ]
+    },
+    {
+      "title": "Nutrient thresholds to protect water quality and coral reefs",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.27959697732997,
+          164.7705078125
+        ],
+        [
+          395.58186397984883,
+          164.7705078125
+        ],
+        [
+          395.58186397984883,
+          177.9521484375
+        ],
+        [
+          35.27959697732997,
+          177.9521484375
+        ]
+      ]
+    },
+    {
+      "title": "Keywords:\nTotal maximum daily loads\nWater-quality standards\nDissolved inorganic nitrogen\nCoral reefs\nMixed-regression modeling",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.794921875,
+          306.6534466477809
+        ],
+        [
+          119.025390625,
+          306.6534466477809
+        ],
+        [
+          119.025390625,
+          357.63739376770536
+        ],
+        [
+          35.794921875,
+          357.63739376770536
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          201.91939546599497,
+          286.40982058545796
+        ],
+        [
+          258.2166246851385,
+          286.40982058545796
+        ],
+        [
+          258.2166246851385,
+          293.9074598677998
+        ],
+        [
+          201.91939546599497,
+          293.9074598677998
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.66796875,
+          433.05566406249994
+        ],
+        [
+          97.58186397984886,
+          433.05566406249994
+        ],
+        [
+          97.58186397984886,
+          443.1104815864022
+        ],
+        [
+          36.66796875,
+          443.1104815864022
+        ]
+      ]
+    },
+    {
+      "title": "2. Materials and methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          37.58741760253906,
+          495.08691406249994
+        ],
+        [
+          136.33059692382812,
+          495.08691406249994
+        ],
+        [
+          136.33059692382812,
+          506.8877258300781
+        ],
+        [
+          37.58741760253906,
+          506.8877258300781
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Water-quality data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.958984375,
+          705.9931640625
+        ],
+        [
+          118.46479797363281,
+          705.9931640625
+        ],
+        [
+          118.46479797363281,
+          716.1395568847656
+        ],
+        [
+          36.958984375,
+          716.1395568847656
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Coral-assemblage data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.984375,
+          309.380859375
+        ],
+        [
+          399.1494445800781,
+          309.380859375
+        ],
+        [
+          399.1494445800781,
+          318.6123962402344
+        ],
+        [
+          304.984375,
+          318.6123962402344
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Environmental data",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.693359375,
+          693.5869140625
+        ],
+        [
+          389.68170166015625,
+          693.5869140625
+        ],
+        [
+          389.68170166015625,
+          705.6515808105469
+        ],
+        [
+          304.693359375,
+          705.6515808105469
+        ]
+      ]
+    },
+    {
+      "title": "2.4. Data analyses",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          36.376953125,
+          298.525390625
+        ],
+        [
+          101.60244750976562,
+          298.525390625
+        ],
+        [
+          101.60244750976562,
+          308.1246032714844
+        ],
+        [
+          36.376953125,
+          308.1246032714844
+        ]
+      ]
+    },
+    {
+      "title": "2.5. DIN thresholds",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          36.66796875,
+          519.8374633789062
+        ],
+        [
+          104.5107421875,
+          519.8374633789062
+        ],
+        [
+          104.5107421875,
+          528.4287109375
+        ],
+        [
+          36.66796875,
+          528.4287109375
+        ]
+      ]
+    },
+    {
+      "title": "3. Results",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          306.5926513671875,
+          173.6875
+        ],
+        [
+          345.32257080078125,
+          173.6875
+        ],
+        [
+          345.32257080078125,
+          182.607421875
+        ],
+        [
+          306.5926513671875,
+          182.607421875
+        ]
+      ]
+    },
+    {
+      "title": "4. Discussion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          35.794921875,
+          541.6103515625
+        ],
+        [
+          89.10932159423828,
+          541.6103515625
+        ],
+        [
+          89.10932159423828,
+          550.3759918212891
+        ],
+        [
+          35.794921875,
+          550.3759918212891
+        ]
+      ]
+    },
+    {
+      "title": "5. Conclusions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          306.439453125,
+          433.05566406249994
+        ],
+        [
+          364.060546875,
+          433.05566406249994
+        ],
+        [
+          364.060546875,
+          443.7359924316406
+        ],
+        [
+          306.439453125,
+          443.7359924316406
+        ]
+      ]
+    },
+    {
+      "title": "CRediT authorship contribution statement",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          305.56640625,
+          622.2509765625
+        ],
+        [
+          468.5307312011719,
+          622.2509765625
+        ],
+        [
+          468.5307312011719,
+          632.4082336425781
+        ],
+        [
+          305.56640625,
+          632.4082336425781
+        ]
+      ]
+    },
+    {
+      "title": "Declaration of competing interest",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          36.958984375,
+          131.81640625
+        ],
+        [
+          166.751953125,
+          131.81640625
+        ],
+        [
+          166.751953125,
+          140.7684326171875
+        ],
+        [
+          36.958984375,
+          140.7684326171875
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          37.25,
+          197.724609375
+        ],
+        [
+          111.43037414550781,
+          197.724609375
+        ],
+        [
+          111.43037414550781,
+          206.021240234375
+        ],
+        [
+          37.25,
+          206.021240234375
+        ]
+      ]
+    },
+    {
+      "title": "Appendix A. Supplementary data",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          36.0859375,
+          321.787109375
+        ],
+        [
+          165.19190979003906,
+          321.787109375
+        ],
+        [
+          165.19190979003906,
+          331.53839111328125
+        ],
+        [
+          36.0859375,
+          331.53839111328125
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          36.66796875,
+          374.513671875
+        ],
+        [
+          78.80077362060547,
+          374.513671875
+        ],
+        [
+          78.80077362060547,
+          383.8652648925781
+        ],
+        [
+          36.66796875,
+          383.8652648925781
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          109
+        ],
+        [
+          "Span",
+          57
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Reference",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          269
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          293
+        ],
+        [
+          "Line",
+          128
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          189
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          301
+        ],
+        [
+          "Line",
+          137
+        ],
+        [
+          "ListItem",
+          40
+        ],
+        [
+          "Reference",
+          38
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Houk_etal_2020_NutrientThresholds_DIN_AS"
+}

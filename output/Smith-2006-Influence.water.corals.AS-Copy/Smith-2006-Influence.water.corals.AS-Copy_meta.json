@@ -1,0 +1,417 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Influence of water motion on resistance of corals to high \ntemperatures: Evidence from a field transplant experiment",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          96.8203125,
+          120.65625
+        ],
+        [
+          518.9183349609375,
+          120.65625
+        ],
+        [
+          518.9183349609375,
+          153.9305419921875
+        ],
+        [
+          96.8203125,
+          153.9305419921875
+        ]
+      ]
+    },
+    {
+      "title": "Lance W. SMITH",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          269.3399963378906,
+          215.1954345703125
+        ],
+        [
+          345.1085510253906,
+          215.1954345703125
+        ],
+        [
+          345.1085510253906,
+          224.6224365234375
+        ],
+        [
+          269.3399963378906,
+          224.6224365234375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          79.48828125,
+          592.83984375
+        ],
+        [
+          133.65135192871094,
+          592.83984375
+        ],
+        [
+          133.65135192871094,
+          602.4395446777344
+        ],
+        [
+          79.48828125,
+          602.4395446777344
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          79.48828125,
+          78.50390625
+        ],
+        [
+          117.39071655273438,
+          78.50390625
+        ],
+        [
+          117.39071655273438,
+          89.19903564453125
+        ],
+        [
+          79.48828125,
+          89.19903564453125
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          315.861328125,
+          425.77734375
+        ],
+        [
+          347.71893310546875,
+          425.77734375
+        ],
+        [
+          347.71893310546875,
+          435.33782958984375
+        ],
+        [
+          315.861328125,
+          435.33782958984375
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          79.48828125,
+          518.58984375
+        ],
+        [
+          124.80931091308594,
+          518.58984375
+        ],
+        [
+          124.80931091308594,
+          529.5390014648438
+        ],
+        [
+          79.48828125,
+          529.5390014648438
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          78.890625,
+          68.91241455078125
+        ],
+        [
+          160.2373809814453,
+          68.91241455078125
+        ],
+        [
+          160.2373809814453,
+          78.33941650390625
+        ],
+        [
+          78.890625,
+          78.33941650390625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          80.04000091552734,
+          165.12890625
+        ],
+        [
+          124.013671875,
+          165.12890625
+        ],
+        [
+          124.013671875,
+          175.7193603515625
+        ],
+        [
+          80.04000091552734,
+          175.7193603515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          160
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          244
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          125
+        ],
+        [
+          "Span",
+          51
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "FigureGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          216
+        ],
+        [
+          "TableCell",
+          152
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          244
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Smith-2006-Influence.water.corals.AS-Copy"
+}

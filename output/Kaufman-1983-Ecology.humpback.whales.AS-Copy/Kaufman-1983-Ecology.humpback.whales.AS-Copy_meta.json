@@ -1,0 +1,117 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ECOLOGY OF HUMPB WHALES IN AMERICAN",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          146.1206896551724,
+          160.5419921875
+        ],
+        [
+          409.404296875,
+          159.85380116959064
+        ],
+        [
+          409.404296875,
+          171.8212890625
+        ],
+        [
+          146.1206896551724,
+          171.8615984405458
+        ]
+      ]
+    },
+    {
+      "title": "DEMOGRAPHICS OF HUMPBACK WHALES OFF SOUTHWEST MAUI, HAWAII",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          101.5234375,
+          473.55750487329436
+        ],
+        [
+          455.5968169761273,
+          472.056530214425
+        ],
+        [
+          455.5968169761273,
+          483.3138401559454
+        ],
+        [
+          101.5234375,
+          484.81481481481484
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          21
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          58
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Kaufman-1983-Ecology.humpback.whales.AS-Copy"
+}

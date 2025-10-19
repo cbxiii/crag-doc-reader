@@ -1,0 +1,258 @@
+# Environmental versus Genetic Influences on Growth Rates of the Corals Pocillopora eydouxi and Porites lobata (Anthozoa: Scleractinia)<sup>1</sup>
+
+L. W. Smith,2,3 H. H. Wirshing,<sup>4</sup> A. C. Baker,<sup>4</sup> and C. Birkeland<sup>3</sup>
+
+Abstract: Reciprocal transplant experiments of the corals Pocillopora eydouxi Milne Edwards & Haime and Porites lobata Dana were carried out for an 18 month period from September 2004 to March 2006 between two back reef pools on Ofu Island, American Samoa, to test environmental versus genetic effects on skeletal growth rates. Skeletal growth of P. eydouxi showed environmental but not genetic effects, resulting in doubling of growth in Pool 300 compared with Pool 400. There were no environmental or genetic effects on skeletal growth of P. lobata. Pool 300 had more frequent and longer durations of elevated seawater temperatures than Pool 400, characteristics likely to decrease rather than increase skeletal growth. Pool 300 also had higher nutrient levels and flow velocities than Pool 400, characteristics that may increase skeletal growth. However, higher nutrient levels would be expected to increase skeletal growth in both species, but there was no difference between the pools in P. lobata growth. P. eydouxi is much more common in high-energy environments than P. lobata; thus the higher flow velocities in Pool 300 than in Pool 400 may have positively affected skeletal growth of P. eydouxi while not having a detectable effect on P. lobata. The greater skeletal growth of P. eydouxi in Pool 300 occurred despite the presence of clade D zooxanthellae in several source colonies in Pool 300, a genotype known to result in greater heat resistance but slower skeletal growth. Increased skeletal growth rates in higher water motion may provide P. eydouxi a competitive advantage in shallow, high-energy environments where competition for space is intense.
+
+Skeletal growth in reef-building scleractinian corals occurs by the formation and precipitation of aragonite (Barnes 1970), a process greatly enhanced by symbiotic dino-
+
+Pacific Science (2008), vol. 62, no. 1:57–69 *:* 2008 by University of Hawai'i Press All rights reserved
+
+flagellates (Symbiodinium spp.), known as zooxanthellae, that provide up to 95% of the corals' carbon requirements for growth, reproduction, and maintenance (Muscatine 1990). Annual skeletal growth rates, measured as linear extension, usually range from a few millimeters for massive species to several centimeters or more for branching species (reviewed in Buddemeier and Kinzie 1976, Harriott 1999). Intraspecific variability in skeletal growth rate may also be considerable, even for massive species such as Porites lobata Dana on the Great Barrier Reef (Lough and Barnes 2000) and the Hawaiian Islands (Grigg 1982). Intraspecific variability may be controlled by the environment (Foster 1979), by genetic differences between individuals or populations (Willis and Ayre 1985), or by both (Via and Lande 1985).
+
+Environmental versus genetic control of phenotypic characteristics, such as skeletal growth rates, can be tested with reciprocal
+
+<sup>1</sup> The U.S. Geological Survey's (USGS) Global Climate Change Program, the National Park of American Samoa, the American Samoa Coral Reef Advisory Group, and the American Museum of Natural History's Lerner-Gray Fund provided financial support. Manuscript accepted 30 January 2007.
+
+<sup>2</sup> Corresponding author: phone: 808-221-8297; fax: 808-956-4238; e-mail: lancesmi@hawaii.edu.
+
+<sup>3</sup> Hawai'i Cooperative Fishery Research Unit, (USGS) Department of Zoology, University of Hawai'i
+
+at Ma¯noa, Honolulu, Hawai'i 96822. <sup>4</sup> Division of Marine Biology and Fisheries, Rosenstiel School of Marine and Atmospheric Science, University of Miami, 4600 Rickenbacker Causeway, Miami, Florida 33149-1098.
+
+![](_page_1_Figure_2.jpeg)
+
+Figure 1. Map of study area, showing transplant sites in back reef pools.
+
+transplant experiments (Schluter 2000, Doughty and Resnick 2004). Reciprocal transplant experiments of zooxanthellate corals have shown environmental control of skeletal growth rates that were attributed to different habitats (Potts 1984, Smith et al. 2007) and genetic control that was attributed to genetic differentiation of transplanted populations (Raymundo 2001). A series of shallow (1–2 m) back reef pools on the fringing reef of Ofu Island, American Samoa, support 50–80 species per pool of reef-building corals that tolerate elevated seawater temperatures (Craig et al. 2001). The smallest pool (Pool 300) (Figure 1) is exposed to greater fluctuations of environmental conditions, such as higher seawater temperatures and lower salinity, than are the other pools (Smith and Birkeland 2003). Although coral species diversity is lower in Pool 300 than in Pool 400 (Craig et al. 2001), skeletal growth rates of some species are higher in Pool 300 (Smith 2004). Do corals grow well in the fluctuating conditions of Pool 300 because these populations have sufficient plasticity to cope with a range of environmental conditions, or have Pool 300 corals or zooxanthellae undergone environmental selection or some other process resulting in genetic differentiation? These questions were tested with two coral reciprocal transplant experiments between the two pools.
+
+The spatial (LaJeunesse et al. 2004) and temporal (Baker et al. 2004) variability of zooxanthella genotypes, and dependence of coral skeletal growth rates on them (Little et al. 2004), pose potential confounding factors for coral reciprocal transplant experiments. Thus, zooxanthella genotypes of all source colonies were tested at the beginning and end of the reciprocal transplant experiments. This is the first study of reef-building corals to test for environmental versus genetic control of skeletal growth rates while accounting for zooxanthella genotype.
+
+# materials and methods
+
+Study Site, Species Selection, and Experimental Design
+
+The study site was the southeast-facing fringing reef on Ofu Island (14 S) within the National Park of American Samoa. Pool 300 and Pool 400 are approximately 1 km apart (Figure 1) and are separated from one another by reef flat and rubble <0.5 m mean low tide depth. The pools were previously known as Pool A (Pool 300) and Pool B (Pool 400 [Craig et al. 2001]). Pool 300 is much smaller and slightly shallower (0.1 ha, 1.25 m mean low tide depth) than Pool 400 (1.5 ha, 1.5 m mean low tide depth). Seawater temperatures at 1 m low tide depth (shaded,A10 cm above substrate) have been continuously recorded every 30 min since 1999 in the pools. The local long-term mean summer temperature is a useful baseline for estimating coral bleaching thresholds ( Jokiel 2004). Based on the 1999–2006 temperature data, mean summer (November–March) seawater temperature in the back reef area was 29.4 C. No streams enter the back reef and turbidity is usually low, resulting in high irradiance levels during sunny weather, though turbidity sporadically increases after storms. The reef is exposed to prevailing southeast trade winds much of the year, as well as storm swells generated in the Southern Ocean during the austral winter, frequently resulting in water velocities >30 cm sec-<sup>1</sup> in the back reef area (Craig et al. 2001, Smith and Birkeland 2003, Smith 2004).
+
+Pocillopora eydouxi (a hermaphroditic spawner) and Porites lobata (a gonochoric spawner) were selected for reciprocal transplant experiments because of their contrasting skeletal growth forms, growth rates, and abundances in the two pools. Massive Porites species make up a sixfold greater proportion of total substrate cover in Pool 400 (3.1%) than in Pool 300 (0.5% [Craig et al. 2001]). P. eydouxi has the opposite pattern, making up 0.5% cover in Pool 300 and <0.1% cover in Pool 400 (Craig et al. 2001). Each species was reciprocally transplanted between Pool 300 and Pool 400. The reciprocal transplant experiment design utilized four replicate groups per species that were transplanted within and between the two sites: from Pool 300 to Pool 300 (Native 1 [N1]), from Pool 300 to Pool 400 (Translocated 1 [T1]), from Pool 400 to Pool 400 (Native 2 [N2]), and from Pool 400 to Pool 300 (Translocated 2 [T2]). Comparison of the N and T groups quantifies variability by transplant site (N1 versus T1, N2 versus T2 ) and by source population (N1 versus T2, N2 versus T1 ). Variability by transplant site indicates environmental control, and variability by source population indicates genetic control, assuming the absence of confounding factors. A reaction norm links an N group to its corresponding T group (N1 and T1, N2 and T2 ), and the two reaction norms together illustrate the interplay of environmental and genetic control on each skeletal characteristic (Schluter 2000, Trussell 2000, DeWitt and Scheiner 2004).
+
+### Coral Transplantation and Skeletal Growth Measurement
+
+For P. eydouxi, 14 source colonies (seven per pool) were selected to each provide two 5 cm–long branches for transplanting: one for the native site and one for the translocation site. Thus each of the four reciprocal transplant experiment groups contained seven branches, giving a total of 28 transplants for this species. In Pool 300, only three colonies could be positively identified as P. lobata based on surface morphology and corallite skeletal characteristics (Veron 2000, Fenner 2005), thus six source colonies (three per pool) were utilized for the reciprocal transplant experiment. A pneumatic drill was used to remove eight cores (35 mm diameter, 5 cm long) from each source colony: four cores for the native site, and four cores for the translocation site, thus providing 12 cores in each of the four reciprocal transplant experiment groups and a total of 48 transplants for this species. More transplants were used for P. lobata than for P. eydouxi to test source colony effects. Holes were filled with marine epoxy, and tissue grew over the epoxy within 6 months. All transplants were placed near the seaward edges of the pools.
+
+To minimize confounding factors associated with variability in source colony characteristics, transplant size, transplant shape, handling stress, microenvironmental conditions, competition, predation, and disease, the following procedure was used for coral transplantation: (1) source colonies were >10 m from one another to reduce the likelihood of selecting clones; (2) the tops of all source colonies were at 0.75–1.25 m low tide depth, and transplant branches or cores were removed from the center portion of the tops of the source colonies; (3) transplants were approximately the same length, weight, and shape and were handled and transported in the same manner; (4) transplant cores were removed from source colonies in the morning and transplanted in the late afternoon; (5) within each pool, individual transplant attachment sites were prepared by drilling shallow 35 mm holes in dead coral substrate at 1.0 m low tide depth; (6) the two groups to be transplanted within each site (the N and T groups) were mixed, then each transplant was randomly assigned an individual attachment site; (7) transplants were attached with marine epoxy (Sea Goin' Poxy Putty) no less than 25 cm apart, mapped, and photographed; and (8) all transplants were surveyed for survival in September 2004, May 2005, and February 2006. Those with bleaching, overgrowth, or other tissue death were considered mortalities and removed from the experiment because of potential effects on skeletal results. During each survey, all surviving transplants were checked for signs of competition, predation, or disease.
+
+Skeletal growth rates of the transplants were determined with the buoyant weight method to measure percentage increase in skeletal mass ( Jokiel et al. 1978) and the alizarin dye method to measure upward linear extension (Barnes 1970). Transplants were removed from source colonies early in the morning, placed in plastic bags with dissolved alizarin (100 mg liter-1 ) anchored to the back reef substrate, left for 6 hr, transferred to a nearby weighing station, buoyant weighed (Ohaus Dial-O-Gram mechanical balance, accurate to 0.01 g), and finally transplanted near the end of the day. For each species, all transplants were removed from source colonies, stained, weighed, and transplanted within 48 hr in early September 2004. In early March 2006, surviving transplants were removed without fracturing the skeleton, cleaned by removing epoxy and encrusting organisms by hand and by removing tissue with bleach, buoyant weighed, sliced with a band saw, sanded to reveal the alizarin mark, and a single measurement taken with calipers on the upper central portion of each sliced transplant to determine upward linear extension. Buoyant weight results were used to calculate increase in skeletal mass and normalized to initial size with the equation: % mass increase ¼ ð½final weight–initial weight/ initial weightÞ 100.
+
+### Environmental Data Collection and Statistical Analyses
+
+Environmental data were collected between September 2004 and April 2006 on seawater temperature, photosynthetically active radiation, water flow, turbidity, salinity, dissolved oxygen, and dissolved nutrients from the two transplant sites. Shaded seawater temperatures were recorded simultaneously at the two sites for the duration of the 18-month experiment. The loggers were tested indoors against one another and a calibrated thermometer, deployed for 6 months, then retrieved and tested again. Loggers always read <0.1 C of one another and the calibrated thermometer. Turbidity, salinity, and dissolved oxygen were recorded simultaneously at the two sites during a 10-day period near the beginning of the experiment. Seawater temperatures, turbidity, salinity, and dissolved oxygen were recorded every 30 min at 1 m low tide depth approximately 10 cm above the substrate. Photosynthetically active radiation data were collected from the two sites during clear weather on 20 and 21 January 2005, between 1100 hours and 1300 hours on the upper surfaces of coral colonies at approximately 1 m depth at low tide.
+
+Water flow was measured at a central point within each transplant area in both pools during two 3-day periods of contrasting conditions: a calm period resulting from small surf breaking on the reef crest (average height of breaking wave faces 0.5–1.5 m), and a rough period resulting from large surf (2–3 m). During both periods, southeast trade winds were 20–40 km/hr. Flow velocity was measured during the calm period with fluorescein dye and during the rough period with two mechanical flowmeters. Sampling was stratified into three sampling periods per day corresponding with maximum flood, high tide, and maximum ebb tides. During the calm period, a two-person team sampled flow velocity by injecting dye at one end of a 1 m measuring rod positioned horizontally 10 cm above the substrate and timing the movement of the dye along the rod. During each sampling period, 10 measurements were made in each pool in <10 min, and both pools were sampled within 30 min of one another. During the rough period, the flowmeters were anchored 10 cm above the substrate, and readings were taken at the beginning and end of six 10-min periods during each of the three sampling periods per day.
+
+Nutrient samples were collected simultaneously in the two pools every 4 hr from the water column (50 cm above substrate) and substrate (from within sediment) for a 48-hr period. From each sample, 140 ml was drawn through a filter (GF/F) (0.7 mm pore size), 90 ml was used to twice wash a new plastic bottle, then the final 50 ml was stored in the bottle and frozen for shipment to the laboratory for analysis. Each sample was analyzed for concentrations of dissolved inorganic nitrogen (DIN: NH4 þ NOx) and phosphate (PO4).
+
+Statistical analyses were performed with Minitab 14 (Minitab 2004). All data were assessed for normality and homogeneity of variances (Levene's test) before testing. For each species, a three-way analysis of variance (ANOVA) was used to test effects of transplant site, source population, and source colony on skeletal growth rate, as measured by mass increase and linear extension. Because the two measures of skeletal growth rate are dependent, P values of <.05 were multiplied by a factor of two to obtain final P values (Bonferroni correction).
+
+### Zooxanthella Sampling
+
+To infer spatial and temporal variability in symbiont genotypes of the transplants, zooxanthella genotypes of source colonies were determined at the beginning and end of the reciprocal transplant experiment. Transplants could not be sampled because removal of skeletal material would affect skeletal growth results. Zooxanthella samples were taken
+
+![](_page_4_Figure_7.jpeg)
+
+Figure 2. Skeletal growth results (left) and reaction norms (right) for Pocillopora eydouxi ( black circles) and Porites lobata (white circles) in (a) mass gained and ( b) linear extension.
+
+using a 13 mm punch from the top of each source colony in September 2004 and March 2006, respectively. Samples were preserved in 95% ethanol, and total DNA was extracted using established methods (Baker et al. 1997). Using primers with a Guanine-Cytosine clamp (GC clamp), the internal transcribed spacer-2 (ITS-2) region of nuclear ribosomal DNA was amplified using the polymerase chain reaction (PCR). PCR product was then run on an acrylamide Denaturing-Gradient Gel Electrophoresis (DGGE) gel with a 35–75% chemical gradient (formamide and urea) from low to high following methods in La Jeunesse (2001). The diagnostic bands
+
+| TABLE 1                                                                                                                                                                 |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Three-Way ANOVAs (Transplant Site, Source Population, or Source Colony) for P. eydouxi and P. lobata Skeletal<br>Growth, Measured by Mass Increase and Linear Extension |
+
+|                   |    | MS       |           | F            |           | P        |           |
+|-------------------|----|----------|-----------|--------------|-----------|----------|-----------|
+| Species           | df | Mss Inca | Lin Ext b | Mss Inc a    | Lin Ext b | Mss Inca | Lin Ext b |
+| P. eydouxi        |    |          |           |              |           |          |           |
+| Transplant site   | 1  | 706067   | 1,449.23  | 11.43        | 59.32     | .008c    | .001c     |
+| Source population | 1  | 41795    | 10.05     | 0.68<br>0.41 | .422      | .530     |           |
+| Source colony     | 6  | 90898    | 29.10     | 1.47         | 1.19      | .246     | .357      |
+| Population  Site  | 1  | 81053    | 0.02      | 1.31         | 0.00      | .268     | .975      |
+| Error             | 17 | 61765    | 24.43     |              |           |          |           |
+| P. lobata         |    |          |           |              |           |          |           |
+| Transplant site   | 1  | 19148    | 1.896     | 1.64         | 0.22      | .214     | .643      |
+| Source population | 1  | 9428     | 11.266    | 0.81         | 1.32      | .379     | .264      |
+| Source colony     | 2  | 2234     | 2.286     | 0.19         | 0.27      | .827     | .768      |
+| Population  Site  | 1  | 132      | 0.009     | 0.01         | 0.00      | .916     | .974      |
+| Error             | 22 | 11672    | 8.564     |              |           |          |           |
+
+<sup>a</sup> Mass increase (%).
+
+were excised and reamplified using PCR primers not containing the GC clamp. The PCR products from the cut bands were then sequenced, and the edited sequences run through a Basic Local Alignment Search Tool (BLAST) search in GenBank for a Symbiodinium type match.
+
+# results
+
+#### Survival and Skeletal Growth
+
+Overall survival of P. eydouxi was 96%, with only one transplant mortality in group N2. P. lobata survival was 42–50% for the reciprocal transplant experiment groups in Pool 300 (5/12 for N1 and 6/12 for T2 ) and 58– 83% for those in Pool 400 (7/12 for N2 and 10/12 for T1 ). P. eydouxi grew more in Pool 300 than in Pool 400, whereas growth of P. lobata was similar between the pools (Figure 2). For P. eydouxi, mass increase and linear extension were affected by transplant site but not by source population or source colony. In contrast, neither skeletal mass nor linear extension of P. lobata were affected by transplant site, source population, or source colony (Table 1). There were no significant interactions between transplant site and source population for either species. For each species, results of the two skeletal growth measurement methods were consistent with one another.
+
+The nearly overlapping reaction norms for each species indicate the absence of genetic effects, suggesting that the transplanted corals are part of the same population, as might be expected from broadcast-spawning species in such close proximity. The strong effect of transplant site on P. eydouxi indicates environmental control of skeletal growth results, as illustrated by the steeply sloped reaction norms for this species (Figure 2). No signs of competition, predation, or disease were observed on any of the surviving transplants in 2004, 2005, or 2006, suggesting that skeletal characteristics were not affected by biotic environmental factors. Thus, abiotic environmental differences between the pools are the most likely explanation for the P. eydouxi skeletal growth results, assuming that they were not confounded by variability in zooxanthella genotype (see below).
+
+Seawater temperature, photosynthetically active radiation, turbidity, salinity, and dissolved oxygen at the two transplant sites
+
+<sup>b</sup> Linear extension (mm).
+
+<sup>c</sup> Bonferroni corrected.
+
+![](_page_6_Figure_2.jpeg)
+
+Figure 3. Frequency and duration of summer (November–March) seawater temperatures exceeding 1, 2, 3, 4, and 5 C above the local summer mean (29.4 C) during the reciprocal transplant experiment period.
+
+were within measurement error of one another (Appendix). However, during the summers (November 2004 to March 2005, November 2005 to February 2006) the frequency and duration of maximum daily temperatures were greater in Pool 300 than in Pool 400 (Figure 3). Flow velocities were similar between the two pools during calm conditions but nearly twice as high in Pool 300 as in Pool 400 during rough conditions. During both conditions, mean velocity was always higher in Pool 300 than in Pool 400, though the difference was much greater during rough than calm conditions (Figure 4). Mean dissolved inorganic nitrogen concentrations were greater in Pool 300 than in Pool 400, whereas mean phosphate concentrations were nearly the same in the two pools (Appendix). For all abiotic environmental factors, daily fluctuations were higher in Pool
+
+![](_page_6_Figure_5.jpeg)
+
+Figure 4. Difference in mean flow speed between the two pools (300 minus 400) at maximum flood (F), high (H), and maximum ebb (E) tides during 3-day periods of rough (22–24 April 2006) and calm (20–22 March 2006) conditions.
+
+300 than in Pool 400 (Appendix). In summary, the available data show that Pool 300 had more widely fluctuating physical environmental conditions than Pool 400, and that Pool 300 had higher summer seawater temperatures, higher flow velocities during rough conditions, and higher nutrient concentrations than Pool 400.
+
+Zooxanthella genotypes showed both spatial and temporal variability for P. eydouxi but not for P. lobata (Table 2). Zooxanthella genotypes in P. eydouxi source colonies varied between the pools, with a mix of genotypes in clades C and D (sensu Rowan & Powers 1991, Baker 2003) in Pool 300 but only clade C in Pool 400. A higher number of genotypes was found in Pool 300 source colonies than in Pool 400 source colonies. In Pool 300, only Source Colonies 2 and 7 had the same genotypes at the beginning and end of the reciprocal transplant experiment, and there was no change for Pool 400 genotypes. Porites lobata source colonies in both pools all had genotype C15 (clade C) zooxanthellae at the beginning and end of the reciprocal transplant experiment (Table 2).
+
+#### discussion
+
+Skeletal growth rate of P. eydouxi transplants responded to transplant site (Table 1), indi-
+
+| TABLE 2                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------|
+| Zooxanthellae Genotypes (LaJeunesse 2001, LaJeunesse et al. 2004) Found in Source Colonies at the Beginning |
+| (September 2004) and End (March 2006) of the Reciprocal Transplant Experiment                               |
+
+|            |               | F              | Pool 300             | Pool 400       |            |  |
+|------------|---------------|----------------|----------------------|----------------|------------|--|
+| Species    | Source Colony | September 2004 | March 2006           | September 2004 | March 2006 |  |
+| P. eydouxi | 1             | C1, C1c        | C1, C1c, C42, D, D1a | C1c            | C1c        |  |
+| ,          | 2             | C1, C1c        | C1, C1c              | C1c            | C1c        |  |
+|            | 3             | Dla            | C1, C1c, C42, D, D1a | C1c            | C1c        |  |
+|            | 4             | C1, C1c, D1a   | C1, C1c, C42, D, D1a | C1c            | C1c        |  |
+|            | 5             | C1, C1c        | C1, C1c, C42, D, D1a | C1c            | C1c        |  |
+|            | 6             | Dla            | C1, C1c              | C1c            | C1c        |  |
+|            | 7             | C1, C1c        | C1, C1c              | C1c, C42       | C1c, C42   |  |
+| P. lobata  | 1             | C15            | C15                  | C15            | C15        |  |
+|            | 2             | C15            | C15                  | C15            | C15        |  |
+|            | 3             | C15            | C15                  | C15            | C15        |  |
+
+cating environmental control. Competition, predation, and disease did not appear to affect the transplants; thus growth rate variability was likely a response to abiotic differences between the two back reef pools. Abiotic factors most likely to affect skeletal growth are photosynthetically active radiation, seawater temperature, nutrients, and flow (Buddemeier and Kinzie 1976, Jokiel 1978, Lough and Barnes 2000). There were no differences in transplant depth or photosynthetically active radiation (Appendix) at the two sites; thus the observed higher skeletal growth of P. eydouxi in Pool 300 than in Pool 400 was likely due to one or more of the other three factors. The higher daily maximum seawater temperatures (Figure 3) in Pool 300 than in Pool 400 would be expected to have no effect because of their short duration or to reduce skeletal growth because temperatures were several degrees above mean summer maximum (Jokiel 2004).
+
+Coral reef waters usually contain low levels of inorganic nutrients: typically 0.3–1.0 µmol liter<sup>-1</sup> dissolved inorganic nitrogen and <0.3 µmol liter<sup>-1</sup> phosphorus (Crossland 1983). Zooxanthellate corals may be nitrogen limited, as shown by increased zooxanthellate (Falkowski and Dubinsky 1993) and skeletal (Meyer and Schultz 1985) growth with slight increases in dissolved inorganic nitrogen concentrations. However, the difference between nitrogen limitation and excess can be small,
+
+with concentrations of <5 μmol liter<sup>-1</sup> dissolved inorganic nitrogen often resulting in decreased skeletal growth (reviewed in Ferrier-Pages et al. 2000). Dissolved inorganic nitrogen concentrations were 0.54–0.58 μmol liter<sup>-1</sup> in Pool 400 and approximately double in Pool 300 (Appendix). Thus nitrogen may be limiting in the pools, and the higher concentrations in Pool 300 may have contributed to the higher skeletal growth of *P. eydouxi*. However, if this were the case, higher skeletal growth of *P. lobata* would be expected in Pool 300 than in Pool 400, but there was no difference in growth of this species between the pools (Table 1, Figure 2).
+
+Velocity of water flow was higher in Pool 300 than in Pool 400 during all flow sampling periods, especially during rough conditions (Figure 4). Flow reduces damage by ultraviolet radiation (Kuffner 2002) and photoinhibition (Nakamura et al. 2005) from high irradiance levels, even if flow is intermittent (Smith and Birkeland 2007), as in these back reef pools. In a study of Pocillopora meandrina, a species morphologically and ecologically similar to P. eydouxi, skeletal growth of P. meandrina was higher in the high flow treatment (estimated at 20-40 cm sec<sup>-1</sup>) than in the moderate ( $\approx 15-30$ cm sec<sup>-1</sup>) or low ( $\approx 5-10$  cm sec<sup>-1</sup>) flow treatments. It was concluded that optimal water velocity for P. meandrina skeletal growth
+
+was greater than the high flow treatment ( Jokiel 1978). The higher mean flow velocities during rough conditions in Pool 300 (39.8 cm sec-1 ) than in Pool 400 (21.0 cm sec-1 ) (Appendix) would likely benefit P. eydouxi skeletal growth in Pool 300. Because of tidal flow, southeast trade winds, frequent storms, and Southern Oceanic swell, rough conditions are the norm in the back reef pools (Smith and Birkeland 2003, 2007).
+
+Porites lobata showed no variance in skeletal growth rate between the pools (Table 1) or any zooxanthella genotype differences (Table 2). Host or symbiont genetic differentiation was not expected between the two adjacent pools (Figure 1) because P. lobata is a broadcast spawner (Richmond and Hunter 1990), and Porites are not known to have high spatial or temporal variability in zooxanthella genotypes (Baker et al. 2004). Due to the greater abundance of massive Porites in Pool 400 than in Pool 300 (Craig et al. 2001) and the scarcity of these species on the shallow high-energy forereef (L.W.S., pers. obs.), it was thought that the relatively calm Pool 400 would be a more favorable growth environment for P. lobata than Pool 300. However, P. lobata survival was low, especially in the reciprocal transplant experiment groups in Pool 300 (42 and 50%), resulting in small sample sizes. Thus, two possible explanations for P. lobata results are as follows: (1) the small sample sizes and low growth rates reduced statistical power below that necessary to detect variance of skeletal growth rates between the pools; or (2) the environments of the pools are not different enough to produce variance in skeletal growth rates of this species.
+
+The occurrence of clade D zooxanthella in Pool 300 but not in Pool 400 source colonies of P. eydouxi is consistent with previous findings that clade D is more common in shallow habitats with elevated seawater temperatures (Fabricius et al. 2004, van Oppen et al. 2005). It has been suggested that clade D increases heat tolerance but decreases skeletal growth compared with clade C (Little et al. 2004, Berkelmans and van Oppen 2006). If this were the case, then in the absence of environmental differences between the pools, mean growth of P. eydouxi transplants from
+
+Pool 300 (Groups N1 and T1 ) should be less than mean growth of transplants from Pool 400 (Groups N2 and T2 ). That is, a source population effect would be expected because of the difference in zooxanthellae genotypes between the source colonies. But despite these differences (Table 2), source population had no effect on skeletal growth rates (Table 1), indicating the greater importance of environmental factors than zooxanthella genotype on skeletal growth in this experiment.
+
+Several facets of the P. eydouxi zooxanthella genotype results hint at the complexity of this symbiosis. First, although a larger proportion of clade D was found in the Pool 300 source colony samples taken in the summer (March) than in the winter (September), as expected because of elevated summer seawater temperatures, not all source colonies followed this pattern: Source Colony 6 switched from clade D in the winter to clade C in the summer, and Source Colonies 2 and 7 had clade C at both sampling periods (Table 2). Second, zooxanthella results showed up to five genotypes per source colony in Pool 300 during the summer, suggesting that the increase in clade D symbionts was not substituting for existing genotypes. Third, in spite of finding multiple genotypes in some source colonies, zooxanthella diversity may have been underestimated in some or all samples because of resolution issues with DGGE (Apprill and Gates 2007). Although Pocillopora species maternally transmit zooxanthellae to larvae (Glynn et al. 1991), the genetic diversity of zooxanthellae in P. eydouxi (Table 2) and P. meandrina (Magalon et al. 2006) suggests this genus is characterized by considerable symbiosis flexibility.
+
+This study demonstrated environmental control of P. eydouxi skeletal growth rate, with approximately doubled growth in the pool with higher water motion (Pool 300). Throughout most of its range, P. eydouxi is common in most reef environments and often dominant where water motion is high, such as shallow forereefs (Veron 2000, Mumby et al. 2001, Fisk and Birkeland 2002). Shallow, high-energy reef environments provide high-quality habitat (high photosynthetically active radiation, high water motion, low sedimentation) for many sessile species, resulting in keen competition for space (Sheppard 1982, Potts 1984). Thus, increased skeletal growth with higher water motion may provide P. eydouxi a competitive advantage in shallow, high-energy environments where competition for space is greatest, while still allowing adequate growth in lower-energy environments where competition is reduced.
+
+#### acknowledgments
+
+We thank P. Craig of the National Park of American Samoa for the seawater temperature data and many different forms of assistance and D. Barshis, L. Basch, R. Bradley, G. DiDonato, G. Garrison, C. Hawkins, M. Malae, G. Piniak, M. Speicher, C. Squair, F. Tuilagi, and J. Zamzow for logistical support and field assistance.
+
+# Literature Cited
+
+- Apprill, A. M., and R. D. Gates. 2007. Recognizing diversity in coral symbiotic dinoflagellate communities. Mol. Ecol. 16:1127– 1134.
+- Baker, A. C., R. Rowan, and N. Knowlton. 1997. Symbiosis ecology of two Caribbean acroporid corals. Proc. 8th Int. Coral Reef Symp., Panama 2:1295–1300.
+- Baker, A. C. 2003. Flexibility and specificity in coral-algal symbiosis: Diversity, ecology and biogeography of Symbiodinium. Ann. Rev. Ecol. Syst. 34:661–689.
+- Baker, A. C., C. J. Starger, T. R. McClanahan, and P. W. Glynn. 2004. Coral reefs: Corals' adaptive response to climate change. Nature (Lond.) 430:741.
+- Barnes, D. J. 1970. Coral skeletons: An explanation of their growth and structure. Science (Washington, D.C.) 170:1305– 1308.
+- Berkelmans, R., and M. J. H. van Oppen. 2006. The role of zooxanthellae in the thermal tolerance of corals: A ''nugget of hope'' for coral reefs in an era of climate change. Proc. R. Soc. Lond. B Biol. Sci. 273:2305–2312.
+- Buddemeier, R. W., and R. A. Kinzie III.
+
+- 1976. Coral growth. Oceanogr. Mar. Biol. Annu. Rev. 14:183–225.
+- Craig, P., C. Birkeland, and S. Belliveau. 2001. High temperatures tolerated by a diverse assemblage of shallow-water corals in American Samoa. Coral Reefs 20:185– 189.
+- Crossland, C. J. 1983. Dissolved nutrients in coral reef waters. Pages 56–68 in D. J. Barnes, ed. Perspectives in coral reefs. Aust. Inst. Mar. Sci. Publ. 200.
+- DeWitt, T. J., and S. M. Scheiner. 2004. Phenotypic variation from single genotypes. Pages 1–9 in T. J. DeWitt and S. M. Scheiner, eds. Phenotypic plasticity: Functional and conceptual approaches. Oxford University Press, New York.
+- Doughty, P., and D. N. Resnick. 2004. Patterns and analysis of adaptive phenotypic plasticity in animals. Pages 126–150 in T. J. DeWitt and S. M. Scheiner, eds. Phenotypic plasticity: Functional and conceptual approaches. Oxford University Press, New York.
+- Fabricius, K. E., J. C. Mieog, P. L. Colin, D. Idip, and M. J. H. van Oppen. 2004. Identity and diversity of coral endosymbionts (zooxanthellae) from three Palauan reefs with contrasting bleaching, temperature and shading histories. Mol. Ecol. 13:2445–2448.
+- Falkowski, P. G., and Z. Dubinsky. 1993. Population control in symbiotic corals. BioScience 43:606–611.
+- Fenner, D. 2005. Corals of Hawai'i. Mutual Publishing, Honolulu.
+- Ferrier-Pages, C., J. P. Gattuso, S. Dallot, and J. Jaubert. 2000. Effect of nutrient enrichment on growth and photosynthesis of the zooxanthellate coral Stylophora pistillata. Coral Reefs 19:103–113.
+- Fisk, D., and C. Birkeland. 2002. Status of coral communities in American Samoa: A re-survey of long-term monitoring sites. Department of Marine and Wildlife Research, Pago Pago.
+- Foster, A. B. 1979. Phenotypic plasticity in the reef corals Montastrea annularis and Siderastrea sideria. J. Exp. Mar. Biol. Ecol. 39:25–54.
+- Glynn, P. W., N. J. Gassman, C. M. Eakin, J.
+
+- Cortes, D. B. Smith, and H. M. Guzman. 1991. Reef coral reproduction in the East Pacific: Costa Rica, Panama, and the Galapagos Islands (Ecuador). I. Pocilloporidae. Mar. Biol. (Berl.) 109:355–368.
+- Grigg, R. W. 1982. Darwin point: A threshold for atoll formation. Coral Reefs 1:29– 34.
+- Harriott, V. J. 1999. Coral growth in subtropical eastern Australia. Coral Reefs 18:281–291.
+- Jokiel, P. L. 1978. Effects of water motion on reef corals. J. Exp. Mar. Biol. Ecol. 35:87– 97.
+- ———. 2004. Temperature stress and coral bleaching. Pages 401–425 in E. Rosenberg and Y. Loya, eds. Coral health and disease. Springer-Verlag, Heidelberg.
+- Jokiel, P. L., J. E. Maragos, and L. Franzisket. 1978. Coral growth: Buoyant weight technique. Pages 529–541 in Coral reefs: Research methods. UNESCO, Paris.
+- Kuffner, I. B. 2002. Effects of ultraviolet radiation and water motion on the reef coral Porites compressa Dana: A transplantation experiment. J. Exp. Mar. Biol. Ecol. 270:147–169.
+- LaJeunesse, T. C. 2001. Investigating the biodiversity, ecology, and phylogeny of endosymbiotic dinoflagellates in the genus Symbiodinium using the ITS region: In search of a 'species' level marker. J. Phycol. 37:866–880.
+- LaJeunesse, T. C., R. Bhagooli, M. Hidaka, L. M. De Vantier, T. J. Done, G. W. Schmidt, W. K. Fitt, and O. Hoegh-Guldberg. 2004. Closely related Symbiodinium spp. differ in relative dominance in coral reef host communities across environmental, latitudinal, and biogeographic gradients. Mar. Ecol. Prog. Ser. 284:147– 161.
+- Little, A. F., M. J. H. van Oppen, and B. L. Willis. 2004. Flexibility in algal symbioses shapes growth in reef corals. Science (Washington, D.C.) 304:1492–1494.
+- Lough, J. M., and D. J. Barnes. 2000. Environmental controls on the massive coral Porites. J. Exp. Mar. Biol. Ecol. 245:225– 243.
+- Magalon, H., E. Baudry, A. Huste, M. Adjer-
+
+- oud, and M. Veuille. 2006. High genetic diversity of the symbiotic dinoflagellates in the coral Pocillopora meandrina from the South Pacific. Mar. Biol. (Berl.) 148:913– 922.
+- Meyer, J. L., and E. T. Schultz. 1985. Tissue condition and growth rate of corals associated with schooling fish. Limnol. Oceonogr. 30:157–166.
+- Minitab. 2004. Minitab Release 14.12.0, Minitab Inc., State College, Pennsylvania.
+- Mumby, P. J., J. R. M. Chisholm, A. J. Edwards, C. D. Clark, E. B. Roark, S. Andrefouet, and J. Jaubert. 2001. Unprecedented bleaching-induced mortality in Porites spp. at Rangiroa Atoll, French Polynesia. Mar. Biol. (Berl.) 139:183–189.
+- Muscatine, L. 1990. The role of symbiotic algae in carbon and energy flux in reef corals. Coral Reefs 25:1–29.
+- Nakamura, T., R. van Woesik, and H. Yamasaki. 2005. Photoinhibition of photosynthesis is reduced by water flow in the reef-building coral Acropora digitifera. Mar. Ecol. Prog. Ser. 301:109–118.
+- Potts, D. C. 1984. Natural selection in experimental populations of reef-building corals (Scleractinia). Evolution 38:1059– 1078.
+- Raymundo, L. J. 2001. Mediation of growth by conspecific neighbors and the effect of site in transplanted fragments of the coral Porites attenuata Nemenzo in the central Philippines. Coral Reefs 20:263–272.
+- Richmond, R. H., and C. L. Hunter. 1990. Reproduction and recruitment of corals: Comparisons among the Caribbean, the Tropical Pacific, and the Red Sea. Mar. Ecol. Prog. Ser. 60:185–203.
+- Rowan, R., and D. A. Powers. 1991. Molecular genetic identification of symbiotic dinoflagellates (zooxanthellae). Mar. Ecol. Prog. Ser. 71:65–73.
+- Schluter, D. 2000. The ecology of adaptive radiation. Oxford University Press, Oxford, United Kingdom.
+- Sheppard, C. R. C. 1982. Coral populations on reef slopes and their major controls. Mar. Ecol. Prog. Ser. 7:83–115.
+- Smith, L. W. 2004. Influence of water motion on resistance of corals to high
+
+- temperatures: Evidence from a field transplant experiment. Proc. 10th Int. Coral Reef Symp., Okinawa, Japan 1:724–728.
+- Smith, L. W., D. Barshis, and C. Birkeland. 2007. Phenotypic plasticity for skeletal growth, density and calcification of Porites lobata in response to habitat type. Coral Reefs 26: in press.
+- Smith, L. W., and C. Birkeland. 2003. Managing NPSA's coral reefs in the face of global warming: Research project report for year 1. Hawai'i Cooperative Fishery Research Unit, Department of Zoology, University of Hawai'i at Ma¯noa, Honolulu.
+- ———. 2007. Effects of intermittent flow and irradiance level on back reef Porites corals at elevated seawater temperatures. J. Exp. Mar. Biol. Ecol. 341:282–294.
+- Trussell, G. C. 2000. Phenotypic clines, plas-
+
+- ticity, and morphological trade-offs in an intertidal snail. Evolution 54:151–166.
+- van Oppen, M. J. H., A. J. Mahiny, and T. J. Done. 2005. Geographic distribution of zooxanthellae types in three coral species on the Great Barrier Reef sampled after the 2002 bleaching event. Coral Reefs 24:482–487.
+- Veron, J. E. N. 2000. Corals of the world. Vols. 1–3. Australian Institute of Marine Science. Odyssey Publishing.
+- Via, S., and R. Lande. 1985. Genotypeenvironment interaction and the evolution of phenotypic plasticity. Evolution 39:505–522.
+- Willis, B. L., and D. J. Ayre. 1985. Asexual reproduction and genetic determination of growth form in the coral Pavona cactus: Biochemical genetic and immunogenic evidence. Oecologia (Berl.) 65:516–525.
+
+Appendix Environmental Data
+
+|                     |               |              |        |                                |           |      |       | Results |             |       |
+|---------------------|---------------|--------------|--------|--------------------------------|-----------|------|-------|---------|-------------|-------|
+| Factor a            | Dates         | Periodicity  | N/pool | Units                          | Error     | Pool | Mean  | SD      | Total Range | MDR   |
+| Summer temperatures | Nov–Mar       | 1<br>2x hr   | 12,960 | C                              | G0.2C     | 300  | 29.46 | 0.90    | 26.77–34.31 | 5.29  |
+|                     |               |              |        |                                |           | 400  | 29.34 | 0.69    | 27.19–33.03 | 4.34  |
+| Winter temperatures | Apr–Oct       | 1<br>2x hr   | 13,000 | C                              | G0.2C     | 300  | 28.48 | 0.71    | 25.33–32.67 | 5.07  |
+|                     |               |              |        |                                |           | 400  | 28.53 | 0.60    | 26.11–31.51 | 3.01  |
+| PAR                 | 20–21 Jan '05 | 1<br>4x min  | 400    | 1<br>sec<br>2<br>mmol quanta m | G5%       | 300  | 1,396 | 333     | 104–2,250   | 2,146 |
+|                     |               |              |        |                                |           | 400  | 1,411 | 324     | 224–2,120   | 1,896 |
+| Calm flow           | 20–22 Mar '06 | 1<br>30x day | 90     | 1<br>cm sec                    | G10%      | 300  | 17.8  | 7.7     | 8.1–41.7    | 30.5  |
+|                     |               |              |        |                                |           | 400  | 14.2  | 6.0     | 5.7–31.3    | 24.0  |
+| Rough flow          | 22–24 Apr '06 | 1<br>18x day | 54     | 1<br>cm sec                    | G5%       | 300  | 39.8  | 11.6    | 21.0–68.9   | 38.3  |
+|                     |               |              |        |                                |           | 400  | 21.0  | 6.3     | 12.0–35.8   | 25.8  |
+| Turbidity           | 14–23 Sep '04 | 1<br>2x hr   | 480    | NTU                            | G0.1 NTU  | 300  | 0.14  | 0.26    | 0.0–2.0     | 2.0   |
+|                     |               |              |        |                                |           | 400  | 0.10  | 0.15    | 0.0–1.9     | 1.9   |
+| Salinity            | 14–23 Sep '04 | 1<br>2x hr   | 480    | ppt                            | G0.01 ppt | 300  | 35.65 | 0.28    | 32.90–35.84 | 2.43  |
+|                     |               |              |        |                                |           | 400  | 35.66 | 0.14    | 34.44–35.81 | 1.90  |
+| Dissolved oxygen    | 14–23 Sep '04 | 1<br>2x hr   | 480    | % saturation                   | G1%       | 300  | 100.9 | 36.6    | 23.2–212.3  | 184.4 |
+|                     |               |              |        |                                |           | 400  | 101.3 | 30.2    | 34.4–187.2  | 147.8 |
+| Water column DIN    | 1–2 Apr '06   | 1<br>6x day  | 13     | 1<br>mmol liter                | N/A       | 300  | 1.07  | 0.71    | 0.54–2.73   | 2.00  |
+|                     |               |              |        |                                |           | 400  | 0.58  | 0.18    | 0.32–0.97   | 0.64  |
+| Substrate DIN       | 1–2 Apr '06   | 1<br>6x day  | 13     | 1<br>mmol liter                | N/A       | 300  | 1.06  | 0.56    | 0.34–2.11   | 1.50  |
+|                     |               |              |        |                                |           | 400  | 0.54  | 0.16    | 0.31–0.85   | 0.40  |
+| Water column PO4    | 1–2 Apr '06   | 1<br>6x day  | 13     | 1<br>mmol liter                | N/A       | 300  | 0.22  | 0.04    | 0.13–0.29   | 0.16  |
+|                     |               |              |        |                                |           | 400  | 0.21  | 0.03    | 0.11–0.25   | 0.13  |
+| Substrate PO4       | 1–2 Apr '06   | 1<br>6x day  | 13     | 1<br>mmol liter                | N/A       | 300  | 0.22  | 0.04    | 0.16–0.28   | 0.10  |
+|                     |               |              |        |                                |           | 400  | 0.22  | 0.02    | 0.18–0.25   | 0.07  |
+
+ Instruments used: Seawater temperature: Onset Water Temp Pro temperature loggers; PAR: light sensor on a Walz Diving Pulse-Amplitude Modulation Fluorometer (Diving-PAM); Rough flow: General Oceanics Model 2030R flowmeter with standard rotor; Turbidity, Salinity, Dissolved oxygen: YSI Sonde 6600 water quality loggers; Nutrients: laboratory analysis. MDR, maximum daily range; PAR, photosynthetically active radiation; NTU, nephelometric turbidity unit; DIN, dissolved inorganic nitrogen.

@@ -1,0 +1,369 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHRONOLOGY OF TRIPS TO ROSE ATOLL SUBSEQUENT TO THE WRECK OF THE JIN SHIANG FA ON 14 OCTOBER 1993.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          141.0,
+          72.75
+        ],
+        [
+          465.75,
+          72.75
+        ],
+        [
+          465.75,
+          115.5
+        ],
+        [
+          141.0,
+          115.5
+        ]
+      ]
+    },
+    {
+      "title": "TRIP REPORT",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          264.75,
+          52.59375
+        ],
+        [
+          342.158203125,
+          52.59375
+        ],
+        [
+          342.158203125,
+          63.421875
+        ],
+        [
+          264.75,
+          63.421875
+        ]
+      ]
+    },
+    {
+      "title": "Background:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.33984375,
+          243.0
+        ],
+        [
+          130.5,
+          243.0
+        ],
+        [
+          130.5,
+          254.84765625
+        ],
+        [
+          66.33984375,
+          254.84765625
+        ]
+      ]
+    },
+    {
+      "title": "Methods:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          65.443359375,
+          423.0
+        ],
+        [
+          113.25,
+          423.0
+        ],
+        [
+          113.25,
+          434.671875
+        ],
+        [
+          65.443359375,
+          434.671875
+        ]
+      ]
+    },
+    {
+      "title": "NIGHTLY SURVEYS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          100.705078125,
+          437.25
+        ],
+        [
+          215.25,
+          437.25
+        ],
+        [
+          215.25,
+          447.75
+        ],
+        [
+          100.705078125,
+          447.75
+        ]
+      ]
+    },
+    {
+      "title": "Results:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.25,
+          136.125
+        ],
+        [
+          110.25,
+          136.125
+        ],
+        [
+          110.25,
+          147.0
+        ],
+        [
+          68.25,
+          147.0
+        ]
+      ]
+    },
+    {
+      "title": "Summary:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          66.75,
+          176.25
+        ],
+        [
+          120.75,
+          176.25
+        ],
+        [
+          120.75,
+          187.171875
+        ],
+        [
+          66.75,
+          187.171875
+        ]
+      ]
+    },
+    {
+      "title": "Literature Cited",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          65.7421875,
+          452.84765625
+        ],
+        [
+          145.5,
+          452.84765625
+        ],
+        [
+          145.5,
+          463.5
+        ],
+        [
+          65.7421875,
+          463.5
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          27
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          68
+        ],
+        [
+          "Span",
+          26
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          56
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck"
+}

@@ -1,0 +1,948 @@
+# Preliminary Assessment and Recommendations for Long-term Monitoring of Reef Fish Populations in the Proposed National Park on Ofu Island, American Samoa.
+
+Alan Friedlander
+Hawaii Cooperative Fisheries Research Unit
+and Department of Zoology
+University of Hawaii
+2538 The Mall
+Honolulu, Hawaii 96822
+
+6 September 1993
+
+Draft Report to the National Park Service Pago Pago, American Samoa Preliminary Assessment and Recommendations for Long-term Monitoring of Reef Fish Populations in the Proposed National Park on Ofu Island, American Samoa.
+
+## INTRODUCTION
+
+The coral reefs of Ofu Island, American Samoa contain a high diversity of reef fishes and coral (Itano and Buckley, 1988). The U.S. Congress has authorized the Department of the Interior to enter into a lease agreement with the Governor of American Samoa to establish the National Park of American Samoa (Congressional Record, 1988), a park which would include the marine inshore area along the southern coast of the island of Ofu. A fringing reef along the southern shore provides a natural lagoon habitat which is uncommon in American Samoa. This area supports a local subsistence fishery and provides excellent opportunities for SCUBA diving and snorkeling. This area covers approximately \_\_ km of shoreline out to the reef edge.
+
+The subsistence shoreline fisheries in American Samoa accounts for the majority of the total catch and value of the domestic fishery resources (Ponwith, 1991). Principal fishing methods include rod/reel, handlining, free diving, gillnetting, reef gleaning, and throw netting (Craig et al., 1992). Jacks (Carangidae), surgeonfishes (Acanthuridae), mullet (Mugilidae), octopus (Octopus sp), and groupers (Serranidae) account for the majority of the species catch by weight.
+
+Samoa has experienced substantial population growth and extensive coastal development in recent years (Wass, 1982). Increased fishing effort and improved gear
+
+efficiency as well as habitat loss have placed tremendous pressures on the coastal marine resources. The nearshore ecosystem has deteriorated because of land clearing, coastal road development, increased cannery waste and expanded fishing effort. Per capita catch per unit effort for reef-resident species has declined by over 50% since 1979 (Ponwith, 1991). Reef fishes are vulnerable to overfishing due to their slow growth, long life spans, and small home ranges (Munro, 1983; Ralston, 1987). Additionally, reduction of live coral cover and reef structural heterogeneity by habitat alteration and destructive fishing techniques can reduce the amount of habitat available for reef fishes, particularly juveniles (Russ, 1991).
+
+Marine parks, reserves and other protected areas have been established in a number of locations worldwide in an attempt to protect reef fish populations from fishing and habitat degradation (Bohnsack, 1990; Polunin, 1990; Roberts and Polunin, 1991). The Great Barrier Reef Marine Park Authority has established special use zones within the park to accommodate a wide variety of activities ranging from commercial fishing to scientific research (Craik, 1981;, Murdoch, 1989). Protective management of marine reserves in the Philippines was shown to increase fish abundance in the reserve and export biomass to the adjacent non-reserve fishing areas (Alcala, 1988). Densities of target species, primarily piscivorous predators, increased following protection from spearfishing in Looe Key Reef, Florida (Bohnsack, 1982; Clark et al., 1989). Approximately 200 coral reef habitats worldwide are now under some form of protective status (WCMC/IUCN, 1991).
+
+Monitoring programs have been developed throughout the tropics in order to develop research and management strategies for coral reef areas. The U.S. National Park Service has established long-term monitoring programs at the four National Park Service units which
+
+have coral reef ecosystems (Virgin Islands National Park, Buck Island Reef National Monument, Fort Jefferson National Monument, and Biscayne National Park) (Rogers, 1988). The objectives of these programs are to develop standardized assessment methods, establish baseline information on coral and reef fish populations and determine natural rates of change (Rogers, 1991). Long-term monitoring of coral reef fishes within the Virgin Islands National Park-Biosphere Reserve, St. John, U.S. Virgin Islands has revealed differences in fish assemblages between habitat types and locations as well as documenting the effects and recovery of fish assemblages following a major hurricane (Beets and Friedlander, 1990).
+
+The research team involved in this investigation included Cynthia Hunter (Hawaii Institute of Marine Biology), William Macgruder (Bishop Museum), Karin Meier (Coriel, Inc.), and Alan Friedlander (Hawaii Cooperative Fisheries Research Unit). The purpose of this study is to identify fish species and estimate species abundance in select locations around Ofu Island as well as develop recommendations for long-term monitoring of these resources within and surrounding the proposed park area.
+
+#### **METHODS**
+
+The survey of nearshore coral reef resources in the proposed national park on Ofu, American Samoa was conducted from 7-12 September, 1992. Ten meter long permanent transects were established by the research team using stainless steel eyebolts at six locations for monitoring of corals and macro invertebrates (Hunter, 1992). Stations were located along the southeast (Sites C, E, G, H, and K) and northeast shores (Site N) (Figure 1).
+
+These sites were located in back reef/lagoon habitats with a high percentage of live coral cover bisected by numerous sand channels. These habitats consisted of a mosaic of microhabitats including coral rubble, *Acropora* thickets, and micro atolls. Sites C and E are those described by Itano and Buckley (1988) (Table 1). Additional sites were selected based on previous studies and habitat descriptions. Three offshore sites were included in the study. The site in front of Ofu Village (Site OV) consisted of a steep reef slope with spur and groove formations. This site was previously censused by Itano and Buckley (1988). Another site was selected offshore from the airport (Site OA) which was flat featureless substrate of consolidated limestone in 9 to 17 m of water. The third location (Site G/H) was offshore from sites G and H in 5-17 m of water on a reef slope.
+
+Visual censuses were determined to be the best non-destructive method to obtain information on the reef fish assemblages. All visual censuses were referenced to the permanent transect pins when possible to facilitate repeatability in the future. Precise locations of censuses appear in Appendix I.
+
+Stationary point counts were conducted at all locations and consisted of counting all fishes within a defined area for a specified period of time (Bohnsack and Bannerot, 1986). The method is simple, fast, objective, repeatable, and easy to use. Stationary counts require less time than belt transects to set up and can be repeated easily with large sample sizes obtained at a minimum of effort (Thresher and Gunn, 1986). The stationary point count method was recently used to assess the shallow water reef fish stocks of Western Samoa (Samoilys and Carlos, 1991) as well as Fiji and Australia (Samoilys and Carlos, 1992). A fiberglass measuring tape was laid out and all species observed within a 10 m diameter
+
+cylinder (78.5 square meters) were counted during a 15 minute time period (Kimmel, 1992; Kimmel, 1993). Preprinted data sheets were developed from previous visual census data obtained by Wass (n.d.) and Itano and Buckley (1988). These consisted of 2 sheets of Nalgene polypaper containing 119 common species most likely to be encountered along with a brief description of each species to aid in identification. A double wide clip board was used to reduce handling time underwater. Lengths were estimated to the nearest cm for all species. A ruler attached to the clipboard aided in length estimations. The author has extensive prior experience with this method and had previously verified length estimates. Some small wrasses (Labridae) were not easily identified to species and were pooled as juveniles. Several species of parrotfishes (Scaridae) form mixed schools when feeding and are extremely difficult to identify to species in the field (Randall *et al.*, 1990; Myers, 1991). Therefore, these individuals were grouped into a single taxon (Scaridae).
+
+Each census was analyzed to obtain community information on fish abundance, species richness, species diversity, evenness, and size class distributions. Species diversity (H') was calculated using the Shannon-Weiner diversity index (H' = -  $\Sigma$  p<sub>i</sub> ln p<sub>i</sub>) and evenness (J') was calculated using H'/H'<sub>max</sub> (Zar, 1984). Comparisons of community data among sites were performed using a Kruskal-Wallis single factor analysis of variance by rank (Zar, 1984). Dunn's multiple comparison procedure for unequal sample sizes (Hollander and Wolfe, 1973) was used to identify differences between sites. Mean length of fishes among sites were analyzed using a one way analysis of variance with 95% confidence intervals calculated for comparisons among sites. Data were Ln(X+1) transformed to conform to the assumptions of homogeneity of variances and normal distributions. Inshore and offshore
+
+censuses were pooled and community parameters compared using Mann-Whitney tests (Hollander and Wolfe, 1973).
+
+Similarities of fish assemblages among sites were compared using the Bray-Curtis similarity coefficient:
+
+$$D = \sum_{i=1}^{s} \left| \frac{X_{1_{j}} - X_{2_{j}}}{(X_{1_{j}} + X_{2_{j}})} \right|$$
+
+where  $x_{1j}$ ,  $x_{2j}$  are the abundances of species j in sites 1 and 2, and s is the number of species. A flexible clustering strategy of  $\beta = -0.1$  was used in the analysis (Ludwig and Reynolds, 1988; Gauch, 1991). The 25 most abundant species were used in these analyses as rare species provide little information on the basic patterns of community structure (Ludwig and Reynolds, 1988). An index of relative dominance (IRD) was calculated by multiplying the relative frequency of occurrence and the relative abundance of each species over all censuses pooled (Bohnsack *et al.*, 1992).
+
+## **RESULTS**
+
+A total of 288 species of fishes from 47 families were observed during all stationary point counts and subsequent random searches (Appendix II). Thirty-four censuses were conducted at the nine different sites during the study. The majority of the censuses (73.5%) were conducted in the shallow back reef/lagoon habitat were water depth averaged less than 2 m.
+
+The total number of species observed during stationary point counts was 173 with a mean of 28.4 (S.D. = 6.1) per census (Table 2). The offshore airport site (Site OA) had the highest mean abundance of fishes per census (mean = 342.0, S.D. = 52.0) but the lowest mean diversity (mean = 1.713, S.D. = 0.340) and evenness (mean = 0.539, S.D. = 0.108) of any sites censused. The blackfin dartfish (*Ptereleotris evides*) was numerically dominant and extremely abundant at this site which yielded a high mean abundance of fish but low diversity and evenness.
+
+The two other offshore locations, Site G/H and Ofu Village (Site OV), had the highest number of species per census (mean = 38.0, S.D. = 3.0; mean = 35.0, S.D. = 1.7; respectively) along with the inshore park site OE (mean = 35.3, S.D. = 2.5). Comparisons of community statistics among sites appear in Table 3.
+
+Mean length of fishes were significantly different among sites (ANOVA, F = 315.11 d.f. = 8, P < 0.001). The offshore site G/H had the largest mean fish lengths observed during visual censuses (Figure 2) while the offshore airport site (OA) had the smallest mean fish size (mean = 4.607, S.D. = 2.270) followed by the backreef site N on the northeast end of the island. Fish were most numerous in the 5-10 cm size class for all sites combined, followed by those in 10-15 cm size class and those less than 5 cm (Table 4).
+
+Cluster analysis showed that most replicate censuses conducted at sites were more similar to one another than those from other locations (Figure 3). The inshore sites E, H, and G clustered together as one group. Another group was formed with censuses conducted at inshore sites K and N. The inshore site C in front of the airport appeared to be unique relative to the other back reef areas. The three offshore forereef census locations had
+
+distinctive fish assemblage structures compared to the inshore back reef areas with censuses conducted at the offshore airport site (OA) having the greatest dissimilarity among sites.
+
+Eleven of the 25 most abundant species observed during visual censuses were damselfishes (Pomacentridae) (Table 5). The wrasses (Labridae - 4 species), surgeonfishes (Acanthuridae - 4 species), and parrotfishes (Scaridae - 3 species) followed in abundances. The south seas demoiselle (Chrysiptera taupou) was the most abundant species observed when all censuses were combined, this was followed by the blackfin dartfish (P. evides), the dusky gregory (Stegastes nigricans), the lined bristletooth (Ctenochaetus striatus), and the bullethead parrotfish (Scarus sordidus), respectively.
+
+Relative frequency of occurrence, relative abundance, and an index of relative dominance (IRD) were calculated for all species. The top 25 species as ordered by IRD appear in Table 6. These indices gave similar trends to those observed by ordering based on individual abundance by species.
+
+Abundance of fishes and number of species were significantly higher on offshore than inshore sites (W= 362.5, P = 0.0036; W = 385.5, P = 0.0438, respectively) (Table 6). Species diversity and evenness were not significantly different between these habitats (W = 415.0, P = 0.3904; W = 456.5, P = 0.4701, respectively). The average size of fishes was significantly larger on the inshore sites (t = 15.01, P < 0.001).
+
+This initial survey has identified differences in diversity, abundance, and size of fishes among habitats within and adjacent to the boundaries of the proposed national park on Ofu, American Samoa. The sampling strategy employed recorded a large number of commercially and recreationally important species which can be used to evaluate changes in the reef fish community over time.
+
+Wass (1984) identified 991 species of fish from American Samoa. He collected in a wide variety of habitats and depths using ichthyocides and other destructive methods. In a two year study around the island of Tutuila, American Samoa, Wass (n.d.) observed 356 species of fishes in transects and subsequent 20 minute searches in surveys conducted at 57 sites around the island. The lower number of species observed during the present study on Ofu Island (288 species) resulted from sampling in a restricted number of habitats and primarily in shallow water (<5 m). Using only visual census techniques underestimates cryptic and nocturnal species (Sale and Douglas, 1981). Despite these shortcomings, non-destructive visual assessment is the best method for repeated censusing of fishes.
+
+The majority of the back reef sites appeared similar to one another in fish assemblage structure based on cluster analysis. Several of the back reef sites had species richness and diversity comparable to the two rich offshore locations, Ofu Village (OV) and Site G/H. These inshore sites were dominated by small damselfishes (Pomacentridae) and wrasses (Labridae) while more commercially and recreationally important species such as groupers (Serranidae), snappers (Lutjanidae) and large parrotfishes (Scaridae) were present at the
+
+offshore sites.
+
+The Offshore Airport (OA) and backreef site N were observed to have the smallest fish censused. The Offshore Airport site was composed mainly of small individuals (< 5 cm) and dominated by the blackfin dartfish (*P. evides*), the white-belly damselfish (*Amblyglyphidodon leucogaster*), and the south seas demoiselle (*C. taupou*). Site N was a shallow coral rubble habitat were small wrasses (Labridae) were abundant. Although the offshore Ofu Village site (OV) contained a number of large important fisheries species, the overall size of fishes was similar to the inshore locations due to the presence of large numbers of planktivorous damselfishes (primarily, the midget chromis, *Chromis acares* and the pale-tail chromis, *C. xanthura*). Overall mean fish length was greater on the inshore sites compared to the offshore locations due primarily to the high abundance and small size of fishes at the Offshore Airport site.
+
+Groupers, primarily the peacock grouper (*Cephalopholis argus*) and the dwarf spotted grouper (*Epinephelus merra*), were commonly observed in the back reef areas. These individuals were typically small (<15 cm) and appeared extremely wary of divers, quickly taking refuge in the reef. This behavior is frequently associated with species subjected to heavy fishing pressure. Groupers (Serranidae) are extremely vulnerable to fishing due to their curious and sedentary behavior. The abundance and size of large predatory species commonly targeted by fishers is a good indicator of fishing pressure (Bohnsack, 1982; Russ, 1985; Russ and Alcala, 1989)
+
+Information on the status of the fish stock and the fishery is necessary in developing proper management strategies. The Great Barrier Reef Marine Park Authority (GBRMPA, 1978) considered commercial and recreational fishing to have the most important impact on the Great Barrier Reef fish populations. Fish stocks are dependent on recruitment, growth rates, natural mortality, and fishing mortality. All these factors need to be considered when managing fish resources. The levels of harvest as well as the abundance of fishes need to be monitored in order to effectively manage these stocks. The questions to be addressed include the present condition of the stocks, trends, and possible causes. Long-term monitoring should be formulated to best address these management objectives including biological as well as physical and chemical factors which may influence population abundance.
+
+Visual censusing - Censusing has to be conducted with the financial resources available. Initial sampling should be as comprehensive as possible in order to detect seasonal changes, recruitment events, and other natural fluctuations. At a minimum, quarterly sampling at permanent sites is recommended. Once these natural variations are identified, the sampling program can be scaled back as needed by personnel and financial constraints. A stratified random sampling design should be established based on mapping and identification of important and unique habitats. This should be expanded to other sites as necessary and stratified by microhabitat. Sample size should be determined statistically based on preliminary samples for which variances can be measured (Kimmel, 1992, Bohnsack et
+
+al., 1992). Visual censuses should be conducted in habitats on a proportional basis to the overall microhabitat variation. Two or more observers should be used during visual censusing to increase sample size, reduce spatial variability, and improve statistical power. When possible, the same person/persons should conduct the monitoring to reduce observer bias over time. Censuses of offshore populations should be included to track changes in the larger fisheries-related species and to determine differences in assemblage structure among locations.
+
+<u>Data analysis</u> - The primary objective of data analysis should be to establish baseline information on existing conditions, including natural fluctuations. All previous data should be entered on electronic medium and incorporated in baseline estimates. Base-line data should be analyzed to examine variations among seasons, locations, and years. Long-term monitoring will help to detect changes in fisheries species resulting from habitat degradation and/or fishing pressure.
+
+Fisheries sampling - Sampling of fishing activity will provide information on relative abundance of the resources, species composition, and trends in the fishery. This data set should include information on catch and effort by species, area, and gear type. Additional information on individual species, such as length, weight, age and growth, and reproductive state will help to develop stock assessment models that are needed for effective management of the resources.
+
+Due to the small area covered by the proposed park, comprehensive sampling of
+
+fishing effort, catch, and species composition could be performed under a modest sampling program. Interviews with fishers should be conducted on a regular basis to obtain catch and effort information. Monitoring of fishing effort could be accomplished in conjunction with other activities such as ranger patrols or during biological sampling trips through direct observations. Positive interaction with the local fishing community is essential in obtaining cooperation and accuracy in fisheries data collection.
+
+### CONCLUSIONS
+
+One of the goals of the National Park of American Samoa should be to effectively monitor and manage the shallow-water reef fishes within its jurisdiction. The park should function as a protected area and provide a framework for demonstration of successful fisheries management strategies (Beets and Rogers, 1991). Management of the resources should include some types of restrictions on fishing effort within the park area. These restrictions, however, should not adversely affect the local community. Management options include gear restrictions (minimum mesh size, banning of destructive gears such as poisons, chemicals, and explosives), closed seasons once spawning periodicity of target species is known, restrictions to insure spawning success, and closed areas that can act as refuges and accumulate fish through high survival of recruits as well as immigration and retention (Parrish et al., 1990).
+
+Limiting fishing within the park should be based on high quality data and should only be undertaken with the participation and cooperation of the local fishers (Beets and Rogers,
+
+1991). Management strategies should attempt to respect local cultures and traditions while ensuring conservation of the natural resources. The most effective marine reserves have had local involvement, public input, and education programs (Alcala, 1988; Kenchington, 1988; Bohnsack, 1990). Fisheries management was traditionally practiced throughout Oceania prior to the arrival of European culture (Johannes, 1978, 1981; Titcomb, 1972). Principles of conservation were very strong in these cultures. Traditional village fisheries management practices included closed fishing areas and seasons along with prohibition of wanton waste. Management strategies were patterned as much as possible after local customs and beliefs in order to elicit public support (Johannes, 1978). Westernization and changes in traditional cultural norms will require public education at all levels to sustain the fisheries and the resources.
+
+The establishment of a National Marine Sanctuary at Fagatele Bay on Tutuila and the associated public education program has helped to identify the cultural, historical, and biological links between Samoans and their marine environment (Thomas, 1988). Traditional social structure and use patterns were incorporated into the sanctuary process by respecting lineage and hierarchial social structure (Friske, 1992). This has made the implementation of the sanctuary at Fagatele Bay more acceptable to all parties concerned.
+
+It is essential that local fishers be integrated into the management process (Rogers and Teytaud, 1988; Koester, 1986; Moore, 1992). Their incorporation into the research process, information exchange and management strategies will help to insure accuracy of information, sensitivity to cultural needs and cooperation with regulations for the National Park of American Samoa.
+
+### Literature Cited
+
+- Alcala, A.C. 1988. Effects of marine reserves on coral reef fish abundance and yields of Philippine coral reefs. Ambio 17, 194-199.
+- Allen, G.R. 1991. Damselfishes of the world. Mergus Publishers Hans A. Baensch. Melle, Germany. 271 pp.
+- Beets, J. and Friedlander, A. 1990. Long-term monitoring of fisheries in the Virgin Islands National Park: impact of Hurricane Hugo. Report to the National Park Service, 23 pp.
+- Beets, J. and Rogers, C.S. 1991. Shallow-water fisheries in the Virgin Islands National Park: are they declining? FY 91 Proposal to the National Park Service. 7 pp.
+- Bohnsack, J.A. 1982. Effects of piscivorous predator removal on coral reef fish community plandement structure. In "Gutshop'81. Fish Food Habit Studies" (G.M. Caillet and C.A. Simenstad, eds.). pp 258-267. Washington Sea Grant Publication. University of Washington, Seattle.
+  - Bohnsack, J.A.)1990. The potential of marine fishery reserves for reef fish management in the U.S. southern Atlantic. NOAA Tech. Memo. NMFS-SEFC-261, 40 p.
+  - Bohnsack, J.A. and Bannerot, S.P. 1986. A stationary visual technique for quantitatively assessing community structure of coral reef fishes. NOAA Tech. Rep. NMFS 41, 1-15.
+  - Bohnsack, J.A., Harper, D.E., McClellan, D.B., Hulsbeck, M.W., Rutledge, T.N., Pickett, M.H. and Eklund, A. 1992. Quantitative visual assessment of fish community structure in Biscayne National Park. Draft Final Report. NOAA/NMFS-SEFS, 45 p.
+  - Clark, J.R., Causey, B. and Bohnsack, J.A. 1989. Benefits from coral reef protection: Looe Key Reef, Florida. In "Coastal Zone '89: Proceedings of the Sixth Symposium on Coastal and Ocean Management, Charleston 11-14 July 1989" (O.T. Magoon, H. Converse, D. Miner, L.T. Tobin and D. Clark, eds.), pp. 3076-86. American Society of Civil Engineers, New York.
+  - Craig, P., Ponwith, B., Aitaoto, F. and Hamm, D. 1992. The commercial, subsistence and recreational fisheries of American Samoa. Report to the Dept. Marine and Wildlife Resources, American Samoa. 26 p.
+  - Craik, G.J.S. 1981. Recreational fishing on the Great Barrier Reef. Proc. Int. Coral Reef Symp., 4th 1, 159-172.
+
+- Congressional Record, 1988. An act to establish the national park of American Samoa. Public Law 100-571, October 31, 1988. H.R. 4818. 5 pp.
+- Fiske, S.J. 1992. Sociocultural aspects of establishing marine protected areas. Ocean and Coastal Manag. 18, 25-46.
+- Gauch, H.G. Jr. 1991. Multivariate analysis in community ecology. Cambridge University Press, Cambridge, U.K. 298 pp.
+- GBRMPA, 1978. Workshop on reef fish assessment and monitoring. Workshop Series No.2. Great Barrier Reef Marine Park Authority, Australia. 64 pp.
+- Hollander, M. and Wolfe, D.A. 1973. Nonparametric statistical methods. John Wiley and Sons, New York. 503 pp.
+- Hunter, C.L. 1992. Of u reef survey: general reef characteristics, corals, and macro-invertebrates. Draft report to National Park Service, American Samoa. 41 p.
+- Itano, D. and Buckley, T. 1988. The coral reefs of the Manu'a Islands, American Samoa. Report to the Department of Marine and Wildlife Resources, American Samoa Government. 26 pp.
+- IUCN/WCMC. 1990. Draft list of protected areas with coral habitats. Protected Areas Data Unit, World Conservation Monitoring Centre, Cambridge, U.K. and Commission on National Parks and Protected Areas, IUCN, Gland, Switzerland.
+- Johannes, R.E. 1978. Traditional marine conservation methods in Oceania and their demise. Annu. Rev. Ecol. Syst. 9, 349-364.
+- Johannes, R.E. 1981. Words of the lagoon: fishing and marine lore in the Palau District of Micronesia. University of California Press. Berkeley, California. 245 pp.
+- Kenchington, R.A. 1988. Managing reefs and interreefal environments and resources for sustained exploitative, extractive and recreational uses. Proc. Int. Coral Reef Symp., 1, 81-87.
+- Kimmel, J.J. 1992. NPS coral reef assessment Program: preliminary assessment of fishes in the Dry Tortugas, Florida. Report to the National Park Service, 4 pp.
+- Kimmel, J.J. 1993. Suggested modifications to diver-oriented point counts for fishes. Amer. Soc. Ichth. Herpetol., 73rd Annual Meeting, Austin, Tx (abstract).
+
+- Koester, S. 1986. Socioeconomic and cultural role of fishing and shellfishing in the Virgin Islands Biosphere Reserve. Biosphere Reserve Research Report no. 12, VIRMC/NPS, 24 pp.
+- Ludwig, J.A. and Reynolds, J.F. 1988. Statistical ecology: a primer on methods and computing. John Wiley and Sons, New York. 377 pp.
+- Myers, R.F. 1991. Micronesian reef fishes: a practical guide to the identification of the coral reef fishes of the tropical central and western Pacific. Coral Graphics. Barrigada, Guam. 298 pp.
+- Moore, D. R. 1992. Self-regulation by artisanal fishermen in the Caribbean. Proc. Gulf Caribb. Fish. Instit. 41:304-309.
+- Munro, J.L (ed.). 1983. Caribbean Coral Reef Fishery Resources. ICLARM Stud. Rev. 7, 1-276.
+- Murdoch, L. 1989. Discover the Great Barrier Reef Marine Park. Bay Books. Kensington, Australia. 96 p.
+- Parrish, J.D., Smith, G.C. and Norris, J.E. 1990. Resources of the marine waters of Kaloko-Honokohau National Historical Park. Technical Report no. 74. Cooperative National Park Resources Studies Unit, University of Hawaii at Manoa. 115 pp.
+- Polunin, N.V.C. 1990. Marine regulated areas: an expanded approach for the tropics. Resource Manage. Optimiz. 7, 283-99.
+- Ponwith, B. 1991. The shoreline fishery of American Samoa: a 12-year comparison. Dept. Marine and Wildlife Resources (American Samoa), Biol. Rept. Ser. No. 22. 51 p.
+- Ralston, S. 1987. Mortality rates of snappers and groupers. *In* "Tropical Snappers and Groupers: Biology and Fisheries Management" (J.J. Polovina and S. Ralston, eds.), pp. 375-404. Westview, Boulder, Colorado.
+- Randall, J.E., Allen, G.R. and Steene, R.C. 1990. Fishes of the great barrier reef and coral sea. University of Hawaii Press, Honolulu. 507 pp.
+- Roberts, C.M. and Polunin, N.V.C. 1991. Are marine reserves effective in management of reef fisheries? Reviews in Fish Biol. and Fisheries, 1, 65-91.
+- Rogers, C.S. 1988. Recommendations for long-term assessment of coral reefs: U.S. National Park Service initiates regional program. Proc. Int. Coral Reef Symp., 6th 2, 399-403.
+
+- Rogers, C.S. 1991. U.S. National Park Service coral reef assessment programme. Reef Encounters 10: 8-9.
+- Rogers, C.S. and Teytaud, R. 1988. Marine and terrestrial ecosystems of the Virgins Islands National Park and Biosphere Reserve. Biosphere Reserve Report no. 29, VIRMC/NPS. 112 pp.
+- Russ, G.R., 1985. Effects of protective management on coral reef fishes in the central Philippines. Proc. Int. Coral Reef Symp., 5th 4, 219-224.
+- Russ, G.R. 1991. Coral reef fisheries: Effects and yield. *In* "The Ecology of Fishes on Coral Reefs" (P. Sale, ed.), pp. 601-635. Academic Press, San Diego.
+- Russ, G.R. and Alcala, A.C. 1989. Effects of intense fishing pressure on an assemblage of coral reef fishes. Mar. Ecol. Prog. Ser. 56, 13-27.
+- Sale, P.F. and Douglas, W.A. 1981. Precision and accuracy of visual census techniques for fish assemblages on coral patch reefs. Environ. Biol. Fishes 6, 333-339.
+- Samoilys, M. and Carlos, G. 1991. A survey of reef fish stocks in Western Samoa: applications of underwater visual census methods for fisheries personnel. A report prepared for the Forum Fisheries Agency, Honaira, Solomon Islands and the Fisheries Division, Dept. of Agriculture, Apia, Western Samoa. 26 p.
+- Samoilys, M. and Carlos, G. 1992. Development of an underwater visual census method for assessing shallow water reef fish stocks in the south west Pacific. Final Report, Australian Centre for International Agricultural Research Project PN 8545.
+
+  100 p.
+- Thomas, W.J. Fagatele Bay: a sanctuary in Samoa. Oceanus 31, 18-24.
+- Thresher, R.E. and Gunn, J.S. 1986. Comparative analysis of visual census techniques for highly mobile, reef-associated piscivores (Carangidae). Envir. Biol. Fishes 17(2),93-116.
+- Titcomb, M. 1972. Native use of fish in Hawaii. University of Hawaii Press, Honolulu. 175 pp.
+- Wass, R.C. 1982. The shoreline fishery of American Samoa-Past and present. *In* "Ecological Aspects of Coastal Zone Management" (J.L. Munro, ed.), Proc. Semin. Mar. Coastal Processes Pac. pp. 51-83. UNESCO, Jakarta, Indonesia.
+- Wass, R.C. n.d.. Characterization of inshore Samoan fish communities. Report to the Department of Marine and Wildlife Resources, American Samoa Government. 42 pp.
+
+- Wass, R.C. 1984. An annotated checklist of the fishes of Samoa. NOAA Tech. Rep. NMFS SSRF-781, 1-43.
+- Zar, J.H. 1984. Biostatistical analysis. Prentice-Hall, Inc. Englewood Cliffs, N.J. 718 pp.
+
+Table 1. Locations of visual censuses conducted during September, 1992 on Ofu Island, American Samoa. Asterisks denote location codes within proposed national park.
+
+| Location<br>Code | Depth<br>(m) | Number of censuses | Habitat type                                | Distance from shore (m) |
+|------------------|--------------|--------------------|---------------------------------------------|-------------------------|
+| <u>Inshore</u>   |              |                    |                                             |                         |
+| С                | 2            | 5                  | Back reef lagoon                            | 40                      |
+| E*               | 2            | 4                  | Back reef lagoon                            | 90                      |
+| H*               | 2            | 1 5                | Back reef lagoon                            | 75                      |
+| G*               | 2            | 5                  | Back reef lagoon                            | 80                      |
+| K*               | 2            | 3                  | Back reef lagoon                            | 10                      |
+| N                | 2            | 3                  | Back reef lagoon                            | 100                     |
+| <u>Offshore</u>  |              |                    |                                             |                         |
+| OA               | 9-17         | 3                  | Flat landscape<br>consolidated<br>limestone |                         |
+| G/H              | 5-17         | 3                  | Reef slope                                  |                         |
+| OV               | 9-17         | 3                  | Reef slope spur and groove                  | ;                       |
+
+Table 2. Reef fish community statistics for visual censuses conducted on Ofu Island, American Samoa. Numbers are mean values for censuses performed at each location. Standard deviations are in parentheses. Diversity is the Shannon-Weiner diversity index (H' =  $-\Sigma$  p<sub>i</sub> log p<sub>i</sub>). Evenness (J') = H'/H'<sub>max</sub>. Asterisks denote location codes within proposed national park boundaries.
+
+| Location<br>Code | No. of<br>Censuses | Total Number of Species | Abundance of Fishes | Species<br>Richness | Diversity<br>(H') | Evenness (J') |
+|------------------|--------------------|-------------------------|---------------------|---------------------|-------------------|---------------|
+| Code             | Censuses           | Of Opecies              | 1 101110            |                     |                   |               |
+| С                | 5                  | 62                      | 111.8               | 25.8                | 2.535             | 0.783         |
+| C                |                    |                         | (13.3)              | (4.6)               | (0.154)           | (0.045)       |
+| E*               | 4                  | 71                      | 184.5               | 35.3                | 2.676             | 0.751         |
+| L                | •                  |                         | (13.8)              | (2.5)               | (0.145)           | (0.031)       |
+| G*               | 5                  | 53                      | 162.0               | 24.4                | 2.323             | 0.731         |
+| J                | J                  |                         | (76.8)              | (4.2)               | (0.252)           | (0.086)       |
+| H*               | 5                  | 51                      | 166.0               | 23.2                | 2.114             | 0.672         |
+| 11               |                    | <b>5.</b>               | (26.0)              | (2.7)               | (0.241)           | (0.063)       |
+| K*               | 3                  | 49                      | 161.7               | 30.3                | 2.470             | 0.725         |
+| IX.              | 3                  | •                       | (9.9)               | (3.8)               | (0.087            | (0.027)       |
+| N                | 3                  | 37                      | 149.0               | 24.7                | 2.176             | 0.678         |
+| 14               | 3                  |                         | (19.5)              | (1.2)               | (0.287)           | (0.079)       |
+| Offshore         | <b>:</b> :         |                         |                     |                     |                   |               |
+| AO               | 3                  | 43                      | 342.0               | 24.0                | 1.713             | 0.539         |
+| AO               | 3                  | 13                      | (52.0)              | (1.0)               | (0.340)           | (0.108)       |
+| G/H              | 3                  | 64                      | 187.3               | 38.0                | 2.854             | 0.748         |
+| 0/11             | 3                  | 01                      | (78.1)              | (3.0)               | (0.234)           | (0.057)       |
+| OV               | 3                  | 65                      | 34.7                | 35.0                | 2.596             | 0.730         |
+| · · ·            | 3                  | 00                      | (46.5)              | (1.7)               | (0.057)           | (0.024)       |
+| Total            | 34                 | 173                     | 181.2               | 28.4                | 2.382             | 0.715         |
+| ·                | <b>.</b>           | - · -                   | (71.4)              | (6.1)               | (0.361)           | (0.087        |
+
+Table 3. Kruskal-Wallis Rank Sums statistics for reef fish community statistics. Dunn's multiple comparison procedure ( $\alpha = 0.1$ ). Underlined medians are not significantly different. Asterisks denote location codes within proposed national park.
+
+## Number of fishes
+
+| Location  | С     | G*    | N    | G/H   | K*   | H*    | E*   | OV    | OA    |
+|-----------|-------|-------|------|-------|------|-------|------|-------|-------|
+| Avg. Rank | 4.8   | 13.8  | 12.5 | 17.7  | 16.0 | 18.1  | 23.4 | 26.8  | 33.0  |
+|           | _     |       |      | 3     |      | 5     | 4    | 3     | 3     |
+| Median    | 108.0 | 140.0 |      | 157.0 |      | 164.0 |      | 261.0 | 314.0 |
+
+H = 20.98 d.f. = 8 p = 0.008
+
+## Number of species
+
+| Location  | H*   | G*   | C    | N | OA   | K*_ | E*   | OV   | G/H  |
+|-----------|------|------|------|---|------|-----|------|------|------|
+| Avg. Rank |      |      | 13.5 |   |      |     | 28.2 | 28.5 | 31.3 |
+| N         |      |      |      |   |      |     |      |      | 3    |
+| Median    | 22.0 | 24.0 |      |   | 24.0 |     |      | 36.0 | 38.0 |
+| Wicdian   | 22.0 | 2    | 20.0 |   |      |     |      |      |      |
+
+H = 23.44 d.f. = 8 p = 0.003
+
+## **Species diversity**
+
+| Location | OA   | Н*   | N    | G*   | K*   | OV   | <u>C</u> _ | E*   | G/H  |
+|----------|------|------|------|------|------|------|------------|------|------|
+|          |      | 8.4  | 10.3 | 15.0 | 17.7 | 25.3 | 21.3       | 26.9 | 31.0 |
+| U        |      | _    |      |      |      |      |            |      | 3    |
+| Median   | 1.60 | 2.16 |      | 2.33 |      |      |            | 2.67 | 2.87 |
+
+H = 23.48 d.f. = 8 p = 0.003
+
+## **Evenness**
+
+| Location  | OA    | H*    | N     | K*    | OV    | G*    | E*_   | G/H   | C     |
+|-----------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| Avg. Rank | 3.7   | 10.4  | 13.2  | 16.0  | 16.3  | 19.4  | 22.2  | 26.2  | 26.2  |
+| N         | 3     | 5     | 3     | 3     | 3     | 5     | 4     | 3     | 5     |
+| Median    | 0.512 | 0.671 | 0.656 | 0.735 | 0.729 | 0.750 | 0.757 | 0.772 | 0.761 |
+
+H = 16.2 d.f. = 8 p = 0.041
+
+Table 4. Mean abundance of fishes by size class from visual census data. Standard deviations are in parentheses. Asterisks denote location codes within proposed national park.
+
+| Location        | <5 cm          | 5-10 cm         | 10-15 cm       | 15-20 cm     | 20-25 cm  | > 25 cm      |
+|-----------------|----------------|-----------------|----------------|--------------|-----------|--------------|
+| Inshore         |                |                 |                |              |           |              |
+| C .             | 10.4           | 69.2            | 28.6           | 2.8          | 0.8       | 0.0          |
+|                 | (10.9)         | (9.3)           | (14.3)         | (2.3)        | (0.8)     | (0.0         |
+| E*              | 0.0            | 79.0            | 83.0           | 10.8         | 10.8      | 1.0          |
+|                 | (0.0)          | (36.4)          | (36.0)         | (4.3)        | (20.2)    | (0.8)        |
+| H*              | 4.6<br>(4.5)   | 115.6<br>(32.0) | 43.2<br>(16.7) | 2.6<br>(1.5) | 0.0       | 0.0 (0.0)    |
+| G*              | 24.4           | 55.6            | 54.6           | 17.0         | 0.8       | 9.6          |
+|                 | (54.0)         | (16.8)          | (7.1)          | (18.4)       | (1.1)     | (19.8)       |
+| K*              | 55.3           | 46.3            | 46.3           | 13.7         | 0.0       | 0.0          |
+|                 | (12.0)         | (23.9)          | (11.9)         | (15.9)       | (0.0)     | (0.0)        |
+| N               | 31.7<br>(28.0) | 111.3<br>(20.2) | 5.7<br>(3.5)   | 0.3<br>(0.6) | 0.0 (0.0) | 0.0<br>(0.0) |
+| <u>Offshore</u> |                |                 |                |              |           |              |
+| OA              | 247.0          | 75.7            | 15.3           | 4.0          | 0.0       | 0.0          |
+|                 | (32.4)         | (41.2)          | (3.8)          | (1.7)        | (0.0)     | (0.0)        |
+| G/H             | 7.7            | 52.7            | 48.7           | 73.0         | 5.3       | 0.0          |
+|                 | (11.6)         | (28.9)          | (9.9)          | (57.7)       | (4.9)     | (0.0)        |
+| OV              | 74.7           | 79.0            | 63.3           | 13.7         | 3.3       | 0.7          |
+|                 | (28.4)         | (25.2)          | (11.0)         | (4.7)        | (1.2)     | (0.6)        |
+| Grand mean      | 42.5           | 76.8            | 44.2           | 13.8         | 2.3       | 1.6          |
+|                 | (72.3)         | (33.6)          | (26.2)         | (25.4)       | (7.2)     | (7.7)        |
+
+Table 5. Mean abundance of the 25 most common species based on total number of individuals by location. Species are listed in phylogenetic order. Common names from Randall et al. (1990). Asterisks denote location codes within proposed national park.
+
+| Location code                                   | С    | E*         | H*   | G*   | K*   | N          | OA    | G/H  | OV     |
+|-------------------------------------------------|------|------------|------|------|------|------------|-------|------|--------|
+| Mulloides vanicolensis                          | _    | 0.8        | _    | 9.0  | 10.0 | -          | _     | -    | -      |
+| Yellowfin goatfish                              | _    | 0.0        |      | 7.0  | 20.0 |            |       |      |        |
+| Amblyglyphidodon leucogaster                    | -    | -          | •    | -    | _    | -          | 41.7  | -    | -      |
+| White-belly damsel                              |      |            |      |      |      |            |       |      |        |
+| Chromis acares                                  | _    | -          | -    | -    | -    | -          | -     | 5.3  | 48.3   |
+| Midget chromis                                  |      |            |      |      |      |            |       |      |        |
+| Chromis viridis                                 | -    | -          | 2.6  | 26.0 | -    | -          | -     | -    | •      |
+| Blue-green chromis                              |      |            |      |      |      |            |       |      |        |
+| Chromis xanthura                                | -    | -          | •    | -    | •    | -          | -     | -    | 20.3   |
+| Pale-tail chromis                               |      |            |      |      |      | 160        |       |      |        |
+| Chrysiptera glauca                              | 1.0  |            | 3.4  | -    | 10.0 | 16.0       | -     | •    | •      |
+| Grey damsel                                     |      | 1          | • •  | 0.4  | 0.2  | 4.7        | 6.0   |      | 0.3    |
+| Chrysiptera leucopoma                           | 3.6  | 0.5        | 2.8  | 0.4  | 8.3  | 4.7        | 6.0   | -    | 0.3    |
+| Surge demoiselle                                | 20.0 | 2.0        | 7.0  | 10.4 | 28.7 | 31.3       | 35.7  | 17.0 | _      |
+| Chrysiptera taupou                              | 29.8 | 2.8        | 7.0  | 10.4 | 26.7 | 31.3       | 33.7  | 17.0 | _      |
+| South sea demoiselle  Plectroglyphidodon dickii | 0.4  |            |      | _    | _    | _          |       | 10.7 | 7.7    |
+| Dick's damsel                                   | 0.4  | -          | -    | -    |      |            |       | 10   |        |
+| Pomacentrus vaiuli                              | 1.2  | _          | 1.6  | 1.6  | 3.0  | 3.7        | 1.3   | 2.7  | 0.3    |
+| Princess damsel                                 | 1.2  |            |      |      |      |            |       |      |        |
+| Stegastes albifasciatus                         | 7.2  | 1.8        | 4.8  | 5.0  | 19.0 | 24.3       | -     | -    | -      |
+| Whitebar gregory                                |      |            |      |      |      |            |       |      |        |
+| Stegastes nigricans                             | 5.0  | 1.8        | 44.0 | 19.2 | 0.3  | 0.3        | -     | 0.3  | -      |
+| Dusky gregory                                   |      |            |      |      |      |            |       |      |        |
+| Halichoeres trimaculatus                        | 6.8  | 0.3        | 6.2  | 3.8  | 5.7  | 12.7       | -     | -    | •      |
+| Threespot wrasse                                |      |            |      |      |      |            |       |      |        |
+| Stethojulis bandanensis                         | 2.0  | •          | 3.6  | 0.4  | 2.7  | 14.3       | •     | -    | -      |
+| Bluelined wrasse                                |      |            |      |      |      |            |       |      | 0.4.77 |
+| Thalassoma amblycephalum                        | -    | -          | -    | -    | 12.0 | 0.3        | 31.7  | -    | 24.7   |
+| Blunthead wrasse                                |      |            | 4.0  | 2.4  | 2.0  | <i>(</i> ) |       |      |        |
+| Thalassoma hardwicke                            | 2.2  | 0.3        | 6.8  | 3.4  | 3.0  | 6.3        | -     | -    | -      |
+| Sixbar wrasse                                   |      | 0.3        | 2.0  | 2.4  |      |            |       | 13.0 | 2.0    |
+| Scarus oviceps                                  | -    | 0.3        | 2.0  | 2.4  | -    | -          | -     | 13.0 | 2.0    |
+| Egghead parrotfish Scarus sordidus              | 4.6  | 1.8        | 15.0 | 23.0 | _    | _          | 0.3   | 26.0 | -      |
+| Bullethead parrotfish                           | 7.0  | 1.0        | 15.0 | 23.0 |      |            | 0.5   | 2010 |        |
+| Scarus species                                  | 7.8  | 1.0        | 28.6 | 8.6  | 2.3  | 1.7        | 0.0   | 7.3  | -      |
+| Juvenile parrotfish                             | 7.0  | 1.0        | 20.0 | 0.0  | 2.5  |            |       |      |        |
+| Valenciennea strigata                           | 6.6  | -          | -    | _    | -    | 1.0        | 5.0   | -    | -      |
+| Blueband goby                                   | 0.0  |            |      |      |      |            |       | •    |        |
+| Ptereleotris evides                             | -    | -          | -    |      | -    | -          | 166.7 | •    | -      |
+| Twotone dartfish                                |      |            |      |      |      |            |       |      |        |
+| Acanthurus nigricans                            | 0.2  | -          | -    | . •  | -    | -          | -     | 6.3  | 21.7   |
+| Whitecheek surgeonfish                          |      |            |      |      |      |            |       |      |        |
+| Acanthurus nigrofuscus                          | 0.4  | · <b>-</b> | 0.2  | 4.0  | 7.7  | 6.0        | 0.7   | 0.3  | 2.0    |
+| Brown surgeonfish                               |      |            |      |      |      |            |       |      | ı      |
+| Acanthurus triostegus                           | 1.2  | 0.3        | 9.8  | 1.0  | -    | 0.7        | -     | . •  | •      |
+| Convict surgeonfish                             |      |            |      |      |      |            |       |      |        |
+| Ctenochaetus striatus                           | 9.2  | 2.0        | 6.0  | 15.4 | 9.0  | 1.7        | 6.7   | 15.3 | 20.3   |
+| Lined bristletooth                              |      |            |      |      |      |            |       |      |        |
+
+Table 6. Index of relative dominance (IRD = relative frequency \* relative abundance), frequency of occurrence, and abundance for the top 25 species observed during visual censuses conducted at Ofu Island, American Samoa. Species are ordered by IRD. Common names from Randall et al. (1990). Relative frequency based on 34 visual point counts, relative abundance based on N = 6161.
+
+| SPECIES                   | Frequency of occurrence | Relative<br>frequency | Frequency<br>rank | Abundance | Relative<br>abundance | Abundance<br>rank | IRD   | IRD<br>rank |
+|---------------------------|-------------------------|-----------------------|-------------------|-----------|-----------------------|-------------------|-------|-------------|
+| Chrysiptera taupou        | 30                      | 88.24%                | 2                 | 686       | 11.13%                | 1                 | 98.25 | 1           |
+| South sea demoiselle      | 50                      |                       |                   |           |                       |                   |       |             |
+| Ctenochaetus striatus     | 31                      | 91.18%                | 1                 | 395       | 6.41%                 | 4                 | 58.46 | 2           |
+| Lined bristletooth        | 31                      | 31.1070               | -                 |           |                       |                   |       |             |
+| Stegastes nigricans       | 20                      | 58.82%                | 11                | 421       | 6.83%                 | 3                 | 40.20 | 3           |
+| Dusky gregory             | 20                      | 30.0270               |                   |           |                       |                   |       |             |
+| Scarus sordidus           | 20                      | 58.82%                | 10                | 362       | 5.88%                 | 5                 | 34.56 | 4           |
+| Bullethead parrotfish     | 20                      | 00.0270               |                   |           |                       |                   |       |             |
+| Scarus species            | 22                      | 64.71%                | 8                 | 307       | 4.98%                 | 6                 | 32.24 | 5           |
+| Juvenile parrotfish       |                         | •                     |                   |           |                       |                   |       |             |
+| Stegastes albifasciatus   | 22                      | 64.71%                | 9                 | 286       | 4.64%                 | 7                 | 30.04 | 6           |
+| Whitebar gregory          |                         |                       |                   |           |                       |                   |       |             |
+| Halichoeres trimaculatus  | 22                      | 64.71%                | 6                 | 149       | 2.42%                 | 10                | 15.65 | 7           |
+| Threespot wrasse          |                         | V                     |                   |           |                       |                   |       |             |
+| Chrysiptera leucopoma     | 23                      | 67.65%                | 4.                | 114       | 1.85%                 | 13                | 12.52 | 8           |
+| Surge demoiselle          | -                       |                       |                   |           |                       |                   |       |             |
+| Thalassoma hardwicke      | 25                      | 73.53%                | 3                 | 100       | 1.62%                 | 16                | 11.93 | 9           |
+| Sixbar wrasse             |                         |                       |                   |           |                       |                   |       |             |
+| Thalassoma amblycephalum  | 8                       | 23.53%                | 41                | 206       | 3.34%                 | 8                 | 7:87  | 10          |
+| Blunthead wrasse          |                         |                       |                   |           |                       |                   |       |             |
+| Stethojulis bandanensis   | 18                      | 52.94%                | 13                | 84        | 1.36%                 | 18                | 7.22  | 11          |
+| Bluelined wrasse          |                         |                       |                   |           |                       |                   |       |             |
+| Ptereleotris evides       | 3                       | 8.82%                 | 102               | 500       | 8.12%                 | 2                 | 7.16  | 12          |
+| Twotone dartfish          |                         |                       |                   |           |                       |                   |       |             |
+| Acanthurus nigrofuscus    | 19                      | 55.88%                | 12                | 78        | 1.27%                 | 20                | 7.07  | 13          |
+| Brown surgeonfish         |                         |                       |                   |           |                       |                   |       |             |
+| Scarus oviceps            | 17                      | 50.00%                | 15                | 80        | 1.30%                 | 19                | 6.49  | 14          |
+| Egghead parrotfish        |                         |                       |                   |           |                       |                   |       |             |
+| Pomacentrus vaiuli        | 22                      | 64.71%                | 7                 | 58        | 0.94%                 | 24                | 6.09  | 15          |
+| Princess damsel           |                         |                       |                   |           |                       |                   |       |             |
+| Chrysiptera glauca        | 11                      | 32.35%                | 23                | 101       | 1.64%                 | 15                | 5.30  | 16          |
+| Grey damsel               |                         |                       |                   |           |                       |                   |       |             |
+| Halichoeres hortulanus    | 23                      | 67.65%                | 5                 | 44        | 0.71%                 | 28                | 4.83  | 17          |
+| Checkerboard wrasse       |                         |                       |                   |           |                       |                   | .,    |             |
+| Acanthurus triostegus     | 12                      | 35.29%                | 18                | 78        | 1.27%                 | 21                | 4.47  | 18          |
+| Convict surgeonfish       |                         |                       |                   |           |                       |                   |       | _           |
+| Acanthurus nigricans      | 10                      | 29.41%                | 28                | 88        | 1.43%                 | 17                | 4.20  | 19          |
+| Whitecheek surgeonfish    |                         |                       |                   |           |                       |                   |       |             |
+| Chromis acares            | 5                       | 14.71%                | 56                | 161       | 2.61%                 | 9                 | 3.84  | 20          |
+| Midget chromis            |                         |                       |                   |           |                       |                   |       |             |
+| Chromis viridis           | 5                       | 14.71%                | 58                | 143       | 2.32%                 | 11                | 3.41  | 21          |
+| Blue-green chromis        |                         |                       |                   |           |                       | 100               |       |             |
+| Valenciennea strigata     | 12                      | 35.29%                | 21                | 58        | 0.94%                 | 25                | 3.32  | 22          |
+| Blueband goby             |                         |                       |                   |           |                       |                   |       |             |
+| Acanthurus lineatus       | 13                      | 38.24%                | 17                | 50        | 0.81%                 | 26                | 3.10  | 23          |
+| Striped surgeonfish       |                         |                       |                   |           |                       |                   |       |             |
+| Plectroglyphidodon dickii | 9                       | 26.47%                | 36                | 61        | 0.99%                 | 23                | 2.62  | 24          |
+| Dick's damsel             |                         |                       |                   |           |                       |                   |       |             |
+| Chaetodon citrinellus     | 17                      | 50.00%                | 14                | 32        | 0.52%                 | 35                | 2.60  | 25          |
+| Speckled butterflyfish    |                         |                       |                   |           |                       |                   |       |             |
+
+Table 7. Comparison of reef fish community statistics for inshore and offshore sites. Results of Mann-Whitney tests except for t-test results for average length of fishes (Ln(X+1) transformation).
+
+|                                                           | Inshore                    | Offshore                   |
+|-----------------------------------------------------------|----------------------------|----------------------------|
+| Number of censuses                                        | 25                         | 9                          |
+| Number of fishes $W = 362.5$ $P = 0.0036**$               | 157                        | 262                        |
+| Number of species median $W = 385.5$ $P = 0.0438*$        | 26                         | 35                         |
+| Species Diversity  median $W = 415.0$ $P = 0.3904$ ns     | 2.435                      | 2.613                      |
+| Evenness median $W = 456.5$ $P = 0.4701$ ns               | 0.740                      | 0.729                      |
+| Average size  mean S.D.                                   | N = 3864<br>2.200<br>0.489 | N = 2297<br>2.001<br>0.541 |
+| t = 15.01  P < 0.001*** $ns = not significant (P > 0.05)$ |                            |                            |
+
+<sup>\* =</sup> P < 0.05
+
+<sup>\*\* =</sup> P < 0.01
+
+<sup>\*\*\* =</sup> P < 0.001
+
+Figure 1. Locations of visual censuses conducted on Ofu Island, American Samoa. Asterisks denote location codes within proposed national park.
+
+![](_page_27_Figure_1.jpeg)
+
+![](_page_27_Figure_2.jpeg)
+
+Figure 2. Mean length of fishes (cm) from visual census data. Codes for locations are given in Table 1. Error bars are standard deviations for each site. Asterisks denote location codes within proposed national park.
+
+![](_page_28_Figure_1.jpeg)
+
+Figure 3. Dendrogram for cluster analysis of 34 stationary point counts conducted on Ofu Island, American Samoa. Bray-Curtis similarity coefficients with a flexible clustering strategy of Beta = -0.1. Details of location codes and number of censuses are given in Appendix I.
+
+![](_page_29_Figure_1.jpeg)
+
+Appendix I. Locations of individual censuses conducted on Ofu Island, American Samoa. Censuses are referenced into sites where permanent transect are present. The second letter of the transect code refers to the east (E) or west (W) end of the transect. Asterisks denote location codes within proposed national park.
+
+| Location code         | Census<br>Number | Location relative to transect |
+|-----------------------|------------------|-------------------------------|
+| <u>Inshore</u>        |                  |                               |
+| С                     | 1                | At transect                   |
+| С                     | 2                | 10m 315° from CE              |
+| С                     | 3                | 10m 210° from CE              |
+| C<br>C                | 4                | 10m 30° from CW               |
+| C                     | 5                | 10m 90° from CW               |
+| E*                    | , 6              | 15m 210° from EE              |
+| E*                    | 7                | 10m 50° from EE               |
+| E*                    | <b>8</b> ·       | At transect                   |
+| E*                    | 9                | 10m 40° from EW               |
+| H*                    | 10               | 10m 270° from HW              |
+| H*                    | 11               | 10m 180° from HW              |
+| H*                    | 12               | 10m 150° from HE              |
+| H*                    | 13               | 10m 130° from HW              |
+| H*                    | 14               | At transect                   |
+| G*                    | 15               | At transect                   |
+| G*                    | 16               | 10m 150° from GE              |
+| G*                    | 17               | 15m 230° from GW              |
+| G*                    | 18               | 10m 120° from GE              |
+| G*                    | 19               | 10m 10° from GE               |
+| K*                    | 20               | 10m 150° from KE              |
+| K*                    | 21               | 10m 180° from KE              |
+| <b>K*</b>             | 22               | 10m 260° from KW              |
+| N                     | 23               | 10m 70° from NE               |
+| N                     | 24               | 10m 100° from NE              |
+| N                     | 25               | At transect                   |
+| Offshore              |                  |                               |
+| Offshore airport (OA) | 26               | N/A                           |
+| Offshore airport (OA) | 27               | N/A                           |
+| Offshore airport (OA) | 28               | N/A                           |
+| G/H                   | 29               | N/A                           |
+| G/H                   | 30               | N/A                           |
+| G/H                   | 31               | N/A                           |
+| Ofu Village (OV)      | 32               | N/A                           |
+| Ofu Village (OV)      | 33               | N/A                           |
+| Ofu Village (OV)      | 34               | N/A                           |
+
+Appendix II. Fish species observed during underwater stationary point counts and subsequent searches at Ofu, American Samoa. Phylogenetic order based on Randall et al. (1990). Scientific and common names from Randall et al. (1990), Myers (1991) and Allen (1991). Samoan names from Wass (1984). Families are listed in capital letters with numbers of species in parentheses.
+
+| FAMILY / Species            | Common name             | Samoan Name                |
+|-----------------------------|-------------------------|----------------------------|
+| CARCHARCHINIDAE (N=2)       | REQUIEM SHARKS          | Malie                      |
+| Carcharhinus amblyrhynchos  | Grey reef shark         | Malie-aloalo               |
+| Carcharhinus melanopterus   | Blacktip reef shark     | Apeape, malie-alamata      |
+| NOVITODIMIDIDIDI (N=1)      | EAGLE RAYS              |                            |
+| MYLIOBATIDIDAE (N=1)        | Spotted eagle ray       | Fai-pe'a, fai-manu         |
+| Aetobatus narinari          | spocced eagle lay       | rai pe a, rai mana         |
+| MURAENIDAE (N=4)            | MORAYS                  | Pusi                       |
+| Echidna nebulosa            | Starry moray            | Ai'aigua                   |
+| Gymnothorax flavimarginatus | Yellowmargin moray      | Tafi-laotalo, pusi-gatala  |
+| Gymnothorax meleagris       | Whitemouth moray        | Puali'i, 'ai'aiivi         |
+| Gymnothorax undulatus       | Undulated moray         | Pusi-pulepule              |
+| CONGRIDAE (N=1)             | CONGER EELS             | •                          |
+| •                           | Black-edged conger      | I'aui, pusi-solasulu       |
+| Conger cinereus             | Black edged conger      | radia, past rolling        |
+| CLUPEIDAE (N = 1)           | HERRINGS                | Pelupelu                   |
+| Spratelloides gracilis      | Silver sprat            | Poi, nefu                  |
+| SYNODONTIDAE (N=3)          | LIZARDFISHES            | Ta'oto                     |
+|                             | Slender lizardfish      |                            |
+| Saurida gracilis            | Twospot lizardfish      |                            |
+| Synodus binotatus           | Reef lizardfish         |                            |
+| Synodus variegatus          | Reel Hizaldiish         |                            |
+| ANTENNARIIDAE (N=1)         | FROGFISHES              | La'otale, nofu             |
+| Antennarius coccineus       | Freckled anglerfish     |                            |
+| HOLOCENTRIDAE (N=10)        | SOUIRRELFISHES          | Malau                      |
+| Myripristis adusta          | Shadowfin soldierfish   | Malau-tuavela, malau-'uo   |
+| <b>2 2</b>                  | Bigscale soldierfish    | Malau-ugatele, malau-      |
+| Myripristis berndti         | bigscare soldieriish    | va'ava'a                   |
+| Myripristis hexagona        | Doubletooth soldierfish |                            |
+| Myripristis kuntee          | Epaulette soldierfish   | Malau-pu'u                 |
+| Myripristis murdjan         | Blotcheye soldierfish   |                            |
+| Neoniphon sammara           | Spotfin squirrelfish    | Malau-tui, malau-pe'ape'a  |
+| Sargocentron diadema        | Crown squirrelfish      | Malau-tui, malau-          |
+|                             |                         | talapu'u, malau-tusitusi,  |
+|                             | 0-11                    | mala-pauli<br>Malau-tianiu |
+| Sargocentron microstoma     | Smallmouth squirrelfish | marau-cranru ;             |
+
+| Appendix | II. | continued. |
+|----------|-----|------------|
+|          | ~   | _ 4        |
+
+| Appendix II. continued.       |                          |                                                   |
+|-------------------------------|--------------------------|---------------------------------------------------|
+| FAMILY / Species              | Common name              | Samoan Name                                       |
+| Sargocentron spiniferum       | Sabre squirrelfish       | Tamalau, mu-malau, malau-<br>toa                  |
+| Sargocentron tiere            | Tahitian squirrelfish    |                                                   |
+| AULOSTOMIDAE (N=1)            | TRUMPETFISHES            |                                                   |
+| Aulostomus chinesis           | Trumpetfish              | Taoto-ena, taoto-sama,<br>'au'aulauti, taotito    |
+| FISTULARIIDAE (N=1)           | FLUTEMOUTHS              |                                                   |
+| Fistularia commersonii        | Smooth flutemouth        | Taoto-ama, taotao                                 |
+| SCORPAENIDAE (N=3)            | SCORPIONFISHES           | La'otale, nofu, i'atala                           |
+| Pterois volitans              | Red firefish             | Sausau-lele                                       |
+| Scorpaenopsis diabolus        | False stonefish          |                                                   |
+| Scorpaenopsis macrochir       | Flasher scorpionfish     |                                                   |
+| CARACANTHIDAE (N=1)           | CROUCHERS                |                                                   |
+| Caracanthus maculatus         | Spotted croucher         | Tapua                                             |
+| SERRANIDAE (N=11)             | GROUPERS                 | Gatala, 'ata'ata, vaolo                           |
+| Cephalopholis argus           | Peacock rockcod          | Gatala-uli, loi                                   |
+| Cephalopholis leopardus       | Leopard rockcod          | Gatala-sina, mata'ele                             |
+| Cephalopholis minitatus       | Coral cod                |                                                   |
+| Cephalopholis urodeta         | Flagtail rockcod         | Mata'ele                                          |
+| Epinephelus fuscoguttatus     | Flowery cod              | Gatala-aloalo                                     |
+| Epinephelus hexagonatus       | Hexagon rockcod          | Gatala-a'au                                       |
+| Epinephelus maculatus         | Trout cod                | Gatala-puleuli                                    |
+| Epinephelus merra             | Dwarf spotted rockcod    | Gatala-aloalo, gatala-<br>pulepule<br>Gatala-tane |
+| Epinephelus tauvina           | Greasy rockcod           |                                                   |
+| Variola louti                 | Coronation trout         | Papa-tuauli, velo, papa<br>Taili, tusiloa         |
+| Grammistes sexlineatus        | Sixline soapfish         | Talli, Cusiloa                                    |
+| KUHLIIDAE (N=1)               | FLAGTAILS                |                                                   |
+| Kuhlia mugil                  | Fiveband flagtail        | Safole                                            |
+| PRIACANTHIDAE (N=1)           | BIGEYES                  | Matapula                                          |
+| Heteropriacanthus cruentatus  | Glasseye                 |                                                   |
+| APOGONIDAE (N=4)              | CARDINALFISHES           | Fo                                                |
+| Apogon kallopterus            | Iridescent cardinalfish  | Fo-aialo                                          |
+| Apogon nigrofasciatus         | Blackstripe cardinalfish | Fo-tuauli                                         |
+| Apogon taeniophorus           | Reef-flat cardinalfish   |                                                   |
+| Cheilodipterus quinquelineata | Five-lined cardinalfish  | Fo-tusiloloa '                                    |
+| CARANGIDAE (N=4)              | JACKS                    | Lupo, lupota, ma'lauli,<br>ulua, sapo'anae        |
+| Caranx ignobilis              | Giant trevally           | Sapo'anae                                         |
+
+| Appendix : | II. | continued. |
+|------------|-----|------------|
+|------------|-----|------------|
+
+| FAMILY / Species          | Common name               | Samoan Name                                        |
+|---------------------------|---------------------------|----------------------------------------------------|
+| Caranx melampygus         | Bluefin trevally          | Malauli-apamoana,                                  |
+| D                         | Mackerel scad             | atugaloloa<br>Atuleau, namuauli                    |
+| Decapterus macarellus     | Double-spotted queenfish  | Lai                                                |
+| Scomberoides lysan        | Double-spotted queeniisn  | naı                                                |
+| LUTJANIDAE (N=9)          | SNAPPERS                  | Mu, palu                                           |
+| Aphareus furca            | Small-toothed jobfish     | Palu-aloalo                                        |
+| Aprion virescens          | Green jobfish             | Asoama, utu                                        |
+| Lutjanus argentimaculatus | Mangrove jack             | Mu-taiva                                           |
+| Lutjanus bohar            | Red bass                  | Mu-a'a, mu-mea                                     |
+| Lutjanus fulvus           | Yellow-margined seapearch |                                                    |
+| Lutjanus gibbus           | Paddletail                | Mala'i                                             |
+| Lutjanus kasmira          | Bluestripe seapearch      | Savane                                             |
+| Lutjanus monostigmus      | Onespot seapearch         | Taiva, feloitega                                   |
+| Macolor niger             | Black and white seapearch | Matala'oa                                          |
+| CAESIONIDAE (N=2)         | FUSILIERS                 | Atule-toto, ulisega                                |
+| Pterocaesio marri         | Marr's fusilier           |                                                    |
+| Pterocaesio tile          | Neon fusilier             | ,                                                  |
+|                           |                           |                                                    |
+| GERREIDAE (N=1)           | SILVER BIDDIES            | Matu                                               |
+| Gerres species            | Silver biddy species      | •                                                  |
+| derres species            |                           |                                                    |
+| HAEMULIDAE (N=1)          | GRUNTS                    |                                                    |
+| Plectorhinchus orientalis | Oriental sweetlip         | Mutumutu, ava'ava-moana                            |
+| LETHRINIDAE (N=2)         | EMPERORS                  | Mata'ele'ele, ulamalosi, filoa                     |
+| Gnathodentex aurolineatus | Gold-liner sea bream      | Mumu, tolai                                        |
+| Monotaxis grandoculus     | Big-eye bream             | Mu-matavaivai, matamu, matamu, loalia, mata matamu |
+| NEMIPTERIDAE (N=1)        | CORAL BREAMS              |                                                    |
+| Scolopsis lineatus        | Lined monocle bream       |                                                    |
+| beolopsis lineacus        |                           |                                                    |
+| MULLIDAE (N=7)            | GOATFISHES                |                                                    |
+| Mulloides flavolineatus   | Yellowstripe goatfish     | I'asina, vete, a fulu,<br>afolu                    |
+| Mulloides vanicolensis    | Yellowfin goatfish        | arolu I'asina, vete, afulu, afolu                  |
+| Parupeneus bifasciatus    | Doublebar goatfish        | Matulau-moana                                      |
+| Paraupeneus cyclostomus   | Goldsaddle goatfish       |                                                    |
+| Paraupeneus indicus       | Indian goatfish           | Ta'uleia                                           |
+| Parupeneus multifasciatus | Manybar goatfish          | Matulau, moana                                     |
+| Paraupeneus pleurostigma  | Sidespot goatfish         | Matulau-ilamutu                                    |
+| rataupeneus pieuroscigma  | bracopor goderron         |                                                    |
+| PEMPHERIDAE (N=1)         | SWEEPERS                  |                                                    |
+|                           |                           | •                                                  |
+
+| Appendix II. continued |
+|------------------------|
+| FAMILY / Species       |
+| Pempheris oualensis    |
+|                        |
+| KYPHOSIDAE (N=2)       |
+
+| Common na |
+|-----------|
+|-----------|
+
+#### Samoan Name
+
+Tifitifi
+
+| Copper | sweeper | Manifi |
+|--------|---------|--------|
+| COPPCI | Sweeper | +      |
+
+| KYPHOSIDAE (N=2)     | SEA CHUBS       |
+|----------------------|-----------------|
+| Kyphosus cinerascens | Topsail drummer |
+
+Long-finned drummer Kyphosus vaigiensis
+
+Nanue, mata-mutu, mutumutu
+
+CHAETODONTIDAE (N=23) Chaetodon auriga Chaetodon citrinellus Chaetodon ephippium Chaetodon lineolatus Chaetodon lunula Chaetodon ornatissimus Chaetodon oxycephalus Chaetodon pelewensis
+
+Chaetodon quadrimaculatus Chaetodon rafflesi Chaetodon reticulatus Chaetodon trifascialis Chaetodon trifasciatus Chaetodon ulietensis
+
+Chaetodon unimaculatus Chaetodon vagabundus Forcipiger flavissimus Forcipiger longirostris Hemitaurichthys polylepis Heniochus acuminatus Heniochus chrysostomus Heniochus monoceros Heniochus varius
+
+POMACANTHIDAE (N=7) Apolemichthys trimaculatus Centropyge bicolor Centropyge bispinosus Centropyge flavissimus Centropyge loriculus Pomacanthus imperator
+
+Pygoplites diacanthus
+
+POMACENTRIDAE (N=42) Abudefduf septemfasciatus Abudefduf sexfasciatus Abudefduf sordidus Abudefduf vaigensis
+
+BUTTERFLYFISHES Threadfin butterflyfish Speckled butterflyfish Saddled butterflyfish Lined butterflyfish Racoon butterflyfish Ornate butterflyfish Spotnape butterflyfish
+
+Dot-and-dash butterflyfish Fourspot butterflyfish Latticed butterflyfish Reticulated butterflyfish Tifitifi-maona Chevroned butterflyfish Redfin butterflyfish Double-saddled butterflyfish Teardrop butterflyfish
+
+Vagabond butterflyfish Forcepsfish Longnose butterflyfish Pyramid butterflyfish Longfin bannerfish Pennant bannerfish Masked bannerfish Humphead bannerfish
+
+ANGELFISHES Three-spot angelfish Bicolor angelfish Two-spined angelfish Lemmonpeel angelfish Flame angelfish Emperor angelfish
+
+Regal angelfish
+
+DAMSELFISHES Banded sergeant Scissor-tail sergeant Blackspot sergeant Indo-pacific sergeant Si'u, i'usamasama Tifitifi-moamanu
+
+Tifitifi-tuauli Tifitifi-laui'a Tifitifi-laumea Tifitifi-'ava'ava
+
+Tifitifi-tusiloloa
+
+Tifitifi-segasega Tifitifi-pule Tifitifi-sae'u Tifitifi-manifi Tifitifi-gutu'uli
+
+Tifitifi-pulesama Tifitifi-matapua'a
+
+Gutumanu Gutumanu Alosina Laulaufau-laumea Laulaufau-laumea Laulaufau-laumea Laulaufau-laumea
+
+Tu'u'u
+
+Tu'u'u-matamalu Tu'u'u-alomu Tu'u'u-sama, tu'u'u-lega Tu'u'u-tusiuli Tu'u'u-vaolo, tu'u'umoana Tu'u'u-moana
+
+Tu'u'u Mutu Mamo Mutu Mamo
+
+| Appendix | II. | continued. |
+|----------|-----|------------|
+|----------|-----|------------|
+
+| Appendix II. continued.          | •                         | Compan Nows                         |
+|----------------------------------|---------------------------|-------------------------------------|
+| FAMILY / Species                 | Common name               | Samoan Name                         |
+| Amblyglyphidodon leucogaster     | White-belly damsel        | Tu'u'u-mamo                         |
+| Amphiprion chrysopterus          | Orange-fin anemonefish    | Tu'u'u-lumane                       |
+| Amphiprion clarkii               | Clark's anemonefish       |                                     |
+| Amphiprion melanopus             | Red-and-black anemonefish |                                     |
+| Chromis acares                   | Midget chromis            | Tu'u'u-fo                           |
+| Chromis agilis                   | Agile chromis             | m 1t                                |
+| Chromis amboinensis              | Ambon chromis             | Tu'u'u-paleval                      |
+| Chromis atripectoralis           | Black-tail chromis        | Tu'u'u-segasega                     |
+| Chromis iomelas                  | Half-and-half chromis     | Tu'u'u-i'usina                      |
+| Chromis margaritifer             | Bicolor chromis           | Tu'u'u-i'usina                      |
+| Chromis ternatensis              | Ternate chromis           |                                     |
+| Chromis vanderbilti              | Vanderbilt's chromis      | Tu'u'u-fo                           |
+| Chromis viridis                  | Blue-green chromis        | I'alanumoana, tu'u-                 |
+|                                  |                           | segasega                            |
+| Chromis xanthura                 | Pale-tail chromis         | Tu'u'u-i'usina                      |
+| Chrysiptera biocellata           | Twospot demoiselle        | Tu'u'u-ulavapua                     |
+| Chrysiptera caeruleolineatus     | Blueline demoiselle       |                                     |
+| Chrysiptera glauca               | Grey damsel               |                                     |
+| Chrysiptera leucopoma            | Surge demoiselle          | Tu'u'u-tulisegasega,                |
+|                                  |                           | tu'u'u-alamu                        |
+| Chrysiptera taupou               | South seas demoiselle     | Tu'u'u-mo'o, vaiuli-sama            |
+| Dascyllus aruanus                | Humbug dascyllus          | Mamo                                |
+| Dascyllus reticulatus            | Reticulated dascyllus     | Tu'u'u-koko                         |
+| Dascyllus trimaculatus           | Three-spot dascyllus      | Tu'u'u-pulelua                      |
+| Neopomacentrus metallicus        | Metallic demoiselle       | Tu'u'u-segi, pipi                   |
+| Plectroglyphidodon dickii        | Dick's damsel             | Tu'u'u-i'usina                      |
+| Plectroglyphidodon imparipennis  | Brighteye damsel          |                                     |
+| Plectroglyphidodon johnstonianus | Johnston damsel           | Tu'u'u-i'uuli                       |
+| Plectroglyphidodon lacrymatus    | Jewel damsel              | Tu'u'u-lau, i'usamasama             |
+| Plectroglyphidodon leucozonus    | Whiteband damsel          | Tu'u'u-si'ugutusina                 |
+| Plectroglyphidodon phoenixensis  | Phoenix damsel            | Tu'u'u-popouli                      |
+| Pomacentrus brachialis           | Charcoal damsel           | Tu'u'u-faga                         |
+| Pomacentrus coelestis            | Neon damsel               | Tu'u'u-segasega                     |
+| Pomacentrus pavo                 | Blue damsel               | Tu'u'u-segasega, teatea             |
+| Pomacentrus vaiuli               | Princess damsel           | Tu'u'u-vaiuli                       |
+| Pomachromis richardsoni          | Richardson's reef-damsel  | Tu'u'u-malaumataputa                |
+| Stegastes albifasciatus          | Whitebar gregory          | Tu'u'u-pa, ulavapuna                |
+| Stegastes fasciolatus            | Pacific gregory           | Tu'u'u-palea                        |
+| Stegastes lividus                | Bluntsnout gregory        | Tu'u'u-moi                          |
+| Stegastes nigricans              | Dusky gregory             | Tu'u'u-moi                          |
+|                                  |                           |                                     |
+| CIRRHITIDAE (N=5)                | HAWKFISHES                |                                     |
+| Amblycirrhitus bimacula          | Twinspot hawkfish         | La'o                                |
+| Cirrhitus pinnulatus             | Stocky hawkfish           | Ulutu'i                             |
+| Paracirrhites arcatus            | Arc-eye hawkfish          | Lausiva                             |
+| Paracirrhites forsteri           | Blackside hawkfish        | Lausiva                             |
+| Paracirrhites hemistictus        | Halfspotted hawkfish      | Lausiva, a'a                        |
+|                                  |                           | · · · · · · · · · · · · · · · · · · |
+
+DIODONTIDAE (N=1)
+
+Diodon hystrix
+
+Tauta, tautu
+
+LEFTEYED FLOUNDERS BOTHIDAE (N=1) Flowery flounder Ali Bothus mancus BALISTIDAE (N=11) TRIGGERFISHES Sumu Sumu-aimaunu Orange-lined triggerfish Balistapus undulatus Sumu-laulau, umu Titan triggerfish Balistoides viridescens Black triggerfish Sumu-uli Melichthys niger Sumu-'apa'apasina, sumu-Pinktail triggerfish Melichthys vidua si'umumu Redtooth triggerfish Sumu-pe'a Odonus niger Sumu-laulau, umu Pseudobalistes fuscus Yellow-spotted triggerfish Whitebanded triggerfish Sumu-uo'uo Rhinecanthus aculeatus Wedge-tail triggerfish Sumu-aloalo Rhinecanthus rectangulus Sumu-pa'epa'e Scimtar triggerfish Sufflamen bursa Flagtail triggerfish Sumu-gasemoana Sufflamen chrysopterus Bridled triggerfish Sumu-gase'ele'ele Sufflamen fraenatus MONACANTHIDAE (N=5) LEATHERJACKETS Pa'umalo Pa'umalo Cantherhinus dumerilii Yelloweye leatherjacket Honeycomb leatherjacket Pa'umalo, falala, aimeo Cantherhinus pardalis Pa'umalo-gutuumi Oxymonacanthus longirostris Beaked leatherjacket Gill-blotch leatherjacket Pervagor janthinosoma Pa'umalo, falala Pervagor melanocephalus Black-headed leatherjacket OSTRACIIDAE (N=1) Moamoa BOXFISHES Moamoa-uli, moamoa-sama Spotted boxfish Ostracion meleagris TETRAODONTIDAE (N=5) Sue **PUFFERS** Sue-vaolo Stars and stripes puffer Arothron hispidus Guineafowl puffer Sue-puleuli, sue-lega Arothron meleagris Sue-uli, sue-lega Blackspotted puffer Arothron nigropunctatus Canthigaster amboinensis Ambon toby Sue-lape Solander's toby Sue-mimi Cantigaster solandri
+
+PORCUPINEFISHES
+
+Porcupinefish
+
+GOBIIDAE (N=4)
+Amblyeleotris fasciata
+Gobiodon citrinus
+Valenciennea sexguttata
+Ciennea strigata
+
+MICHRODESMIDAE (N=2)
+Nemateleotris magnifica
+Ptereleotris evides
+
+ACANTHURIDAE (N=25)
+
+Acanthurus achilles
+
+Acanthurus blochii Acanthurus guttatus Acanthurus lineatus Acanthurus maculiceps
+
+Acanthurus mata Acanthurus nigricans Acanthurus nigricauda Acanthurus nigrofuscus Acanthurus nigroris Acanthurus olivaceus Acanthurus thompsoni Acanthurus triostegus Acanthurus xanthopterus Ctenochaetus binotatus Ctenochaetus hawaiiensis Ctenochaetus striatus Ctenochaetus strigosus Naso annulatus Naso brevirostris Naso lituratus Naso tuberosos Naso unicornis
+
+ZANCLIDAE (N=1)
+Zanclus cornutus
+
+Zebrasoma scopas
+
+Zebrasoma veliferum
+
+SIGNIDAE (N=3)
+Siganus argenteus
+Siganus punctatus
+Siganus spinus
+
+GOBIES
+
+Red-banded prawn goby Fourbar goby Sixspot goby Blueband goby
+
+DARTFISHES Fire dartfish
+
+Twotone dartfish
+
+SURGEONFISHES
+
+Achilles tang
+
+Ringtail surgeonfish
+Whitespotted surgeonfish
+Striped surgeonfish
+White-freckled
+
+surgeonfish
+Elongate surgeonfish
+Whitecheek surgeonfish
+Blackstreak surgeonfish
+
+Brown surgeonfish
+Bluelined surgeonfish
+Orangeband surgeonfish
+Thompson's surgeonfish
+Convict surgeonfish
+Yellowfin surgeonfish
+
+Twospot bristletooth
+Black bristletooth
+Lined bristletooth
+Goldring bristletooth
+Whitemargin unicornfish
+
+Spotted unicornfish
+Orangespine unicornfish
+Humpnose unicornfish
+Bluespine unicornfish
+
+Brushtail tang Sailfin tang
+
+MORRISH IDOL Morrish idol
+
+RABBITFISHES
+Forktail rabbitfish
+Goldspotted rabbitfish
+Spiny rabbitfish
+
+Mano'o Mano'o-popo
+
+Mano'o-ulutu'i, moemimi
+
+Mano'o-sina Mano'o-sina
+
+Mano'o-sugale
+
+Ma'ulu
+
+Pone, palagi, ume, 'ili'ilia, umelei
+
+Maikolama, kolama, pone-
+
+i'umumu
+
+Maogo Alogo
+
+Ponepone Ponepone
+
+Pone-apasama, afinamea
+
+Pone-i'usina
+
+Manini
+
+Pone, pala'ia, logoulia
+
+Ume-ulutao
+Ili'ilia, umelei
+Ume-uluto'i
+Ume-isu
+Pitopito, pe'ape
+
+Pitopito, pe'ape'a Iliu
+
+Pe'ape'a, laulaufau
+
+Lo
+
+Loloa, 'ofe'ofe, malava Tito, loele'ele
+
+Anefe, pa'ulu
+
+| FAMILY / Species           | Common name              | Samoan Name                                                  |
+|----------------------------|--------------------------|--------------------------------------------------------------|
+| MUGILIDAE (N=2)            | MULLETS                  | 'anae                                                        |
+| Crenimugil crenilabis      | Warty-lipped mullet      |                                                              |
+| Liza vaigiensis            | Diamond-scale mullet     | Fuitogo, 'afa, 'anaeafa                                      |
+| SPHYRAENIDAE (N=1)         | BARRACUDAS               | Sapatu                                                       |
+| Sphymaena barracuda        | Great barracuda          | Saosao                                                       |
+| LABRIDAE (N=42)            | WRASSES                  | Sugale                                                       |
+| Anampses caeruleopunctatus | Bluespotted wrasse       | Sugale-mafalaugutu                                           |
+| Anampses meleagrides       | Spotted wrasse           | Sugale-tatanu                                                |
+| Anampses twistii           | Yellowbreasted wrasse    | Sugale-tatanu                                                |
+| Bodianus loxozonus         | Blackfin hogfish         | Sugale-a'a                                                   |
+| Chelinus digrammus         | Cheeklined maori wrasse  | Lalafi-gutu'umi                                              |
+| Chelinus fasciatus         | Redbreasted maori wrasse | Lalafi-pulepule                                              |
+| Chelinus oxycephalus       | Snooty maori wrasse      |                                                              |
+| Chelinus trilobatus        | Tripletail maori wrasse  | Lalafi-matamumu                                              |
+| Chelinus undulatus         | Humphead maori wrasse    | Lalafi, tagafa, malakea                                      |
+| Chelinus unifasciatus      | Ringtail maori wrasse    | Lalafi                                                       |
+| Cirrhilabrus species       | Cirrhilabrus species     | ·                                                            |
+| Coris aygula               | Clown coris              | Sugale-uluto'i                                               |
+| Coris gaimard              | Yellowtail coris         | Sugale-mumu, sugale-<br>tala'ula                             |
+| Epibulus insidiator        | Slingjaw wrasse          | Lapega, lalafi-tua'au                                        |
+| Gomphosus varius           | Bird wrasse              | Gutusi'o, gutu'umi,<br>sugale-lupe                           |
+| Halichoeres biocellatus    | Biocellate wrasse        | -                                                            |
+| Halichoeres hortulanus     | Checkerboard wrasse      | Sugalea'au, sugale-<br>pagota, ifigi                         |
+| Halichoeres margaritaceus  | Pink-belly wrasse        | Sugale-uluvela                                               |
+| Halichoeres marginatus     | Dusky wrasse             | Sugale-lalafi                                                |
+| Halichoeres melanurus      | Tailspot wrasse          |                                                              |
+| Halichoeres miniatus       | Circle-cheek wrasse      |                                                              |
+| Halichoeres nebulosus      | Nebulous wrasse          |                                                              |
+| Halichoeres ornatissimus   | Ornate wrasse            |                                                              |
+| Halichoeres trimaculatus   | Threespot wrasse         | Lape, sugale-pagota                                          |
+| Hemigymnus fasciatus       | Barred thicklip          | Sugale-gutumafia                                             |
+| Hemigymnus melapterus      | Blackeye thicklip        | Sugale-laugutu, sugale-<br>uli, sugale-aloa, sugale-<br>lupe |
+| Labrichthys unilineatus    | Tubelip wrasse           | Sugale-tafuti, atamamala                                     |
+| Labroides bicolor          | Bicolor cleaner wrasse   | Sugale-i'usina                                               |
+| Labroides dimidiatus       | Cleaner wrasse           | Sugale-mo'otai                                               |
+| Macropharyngodon meleagris | Blackspotted wrasse      | Sugale-puletasi                                              |
+| Novaculichthys taeniourus  | Rockmover wrasse         | Sugale-la'o, sugale-<br>taili, sugale-gasufi                 |
+| Pseudochelinus hexataenia  | Sixstripe wrasse         | Sugale-tusitusi                                              |
+| Pseudochelinus octotaenia  | Eightstripe wrasse       | Sugale-tusitusi                                              |
+| Stethojulis bandanensis    | Bluelined wrasse         | Lape-a'au                                                    |
+| Stethojulis strigiventer   | Stripebelly wrasse       | Lape-a'au                                                    |
+
+| Appendix | II. | continued |
+|----------|-----|-----------|
+|          | _   |           |
+
+| Appendix II. continued.    |                         |                                                         |
+|----------------------------|-------------------------|---------------------------------------------------------|
+| FAMILY / Species           | Common name             | Samoan Name                                             |
+| Stethojulis trilineata     | Three-ribbon wrasse     | Lape-a'au                                               |
+| Thalassoma amblycephalum   | Bluntheaded wrasse      | Sugale-aloama                                           |
+| Thalassoma hardwicke       | Sixbar wrasse           | Sugale-a'au, lape-ele'ele                               |
+| Thalassoma lutescens       | Sunset wrasse           | Sugale-samasama                                         |
+| Thalassoma purpureum       | Surge wrasse            | Uloulo-gatala, patagaloa                                |
+| Thalassoma quinquevittatum | Fivestripe wrasse       | Lape-moana                                              |
+| Thalassoma trilobatum      | Ladder wrasse           | Uloulo-gatala, pata'ota'o                               |
+| SCARIDAE (N=20)            | PARROTFISHES            | Fuga, laea, galo                                        |
+| Calotomus carolinus        | Stareye parrotfish      | - mg., , g                                              |
+| Cetoscarus bicolor         | Bicolor parrotfish      | Fuga-sina, mamanu, laea-                                |
+| Celoscalus Dicoloi         | Dicoror pariodizin      | mamanu, laea-usi                                        |
+| Hipposcarus longiceps      | Longnose parrotfish     | Ulapokea, laea-ulapokea                                 |
+| Scarus altipinnis          | Minifin parrotfish      | Laea-sina                                               |
+| Scarus dimidiatus          | Yellowbarred parrotfish | Fuga-alosama                                            |
+| Scarus forsteni            | Whitespot parrotfish    | Fuga-alomu                                              |
+| Scarus frenatus            | Bridled parrotfish      | Laea-mea, laea-si'umoana                                |
+| Scarus frontalis           | Reefcrest parrotfish    |                                                         |
+| Scarus ghobban             | Bluebarred parrotfish   | Fuga-alova                                              |
+| Scarus globiceps           | Globehead parrotfish    | -                                                       |
+| Scar microrhinos           | Steephead parrotfish    | Fugausi, laea, ulumato,                                 |
+| Jear microminos            |                         | galo                                                    |
+| Scar niger                 | Swarthy parrotfish      | Fuga-pala, laea-pala                                    |
+| Scarus oviceps             | Egghead parrotfish      | Fuga-alosina, laea-<br>tuavela                          |
+| Scarus psittacus           | Palenose parrotfish     | Fuga-matapua'a, fugausi-<br>matapua'a, laea-matapua'a 🦜 |
+| Scarus pyrrhurus           | Redtail parrotfish      |                                                         |
+| Scarus rivulatus           | Surf parrotfish         | -                                                       |
+| Scarus rubroviolaceus      | Ember parrotfish        | Laea-mea, laea-mala                                     |
+| Scarus schlegeli           | Schlegel's parrotfish   | Fuga-matapua'a, laea-tusi                               |
+| Scarus sordidus            | Bullethead parrotfish   | Fuga-gutumu, fugausi-<br>tuavela, laea-tuavela          |
+| Scarus spinus              | Greensnout parrotfish   | Fuga-a'au                                               |
+| PINGUIPEDIDAE (N=2)        | SANDPERCHES             |                                                         |
+| Parapercis clathrata       | Latticed sandperch      | Ta'oto                                                  |
+| Parapercis millipunctata   | Redbarred sandperch     | Ta'oto                                                  |
+| raraperers militabaneers   |                         |                                                         |
+| BLENNIDAE (N=9)            | BLENNIES                | Mano'o                                                  |
+| Meiacanthus atrodorsalis   | Yellowtail fangblenny   | Mano'o-si'umaga                                         |
+| Meiacanthus ditrema        | Doublepore fangblenny   |                                                         |
+| Plagiotremus rhinorhynchos | Bluestripe fangblenny   | Mano'o-to'ito'i                                         |
+| Plagiotremus tapeinosoma   | Piano fangblenny        | Mano'o-to'ito'i                                         |
+| Cirripectes polyzona       | Barred blenny           | Mano'o-la'o                                             |
+| Cirripectes stigmaticus    | Reticulated blenny      | Mano'o-la'o                                             |
+| Cirripectes variolosus     | Red-speckled blenny     |                                                         |
+| Exallias brevis            | Shortbodied blenny      | Mano'o-lau, mano'o-gatala                               |
+| Istiblennius chrysospilos  | Goldspotted rockskipper | Mano'o-a'au                                             |
+| • •                        |                         |                                                         |

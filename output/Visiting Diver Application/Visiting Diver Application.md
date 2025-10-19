@@ -1,0 +1,14 @@
+![](_page_0_Picture_0.jpeg)
+
+## Visiting Diver Application Name Date of Birth (MM/DD/YYYY) Job title Emergency Contact Relationship to applicant Phone numbers of emergency contact (home and mobile) Please attach the following supporting documents: 1. Diving medical clearance from a physician. 2. Copy of highest diving certifications. 3. Proof of valid liability coverage. 4. Proof of active diver status from a university, government agency, or AAUS organizational member (if applicable). 5. List of personnel equipment intended for use (including manufacturer's names, models, serial numbers, and proof of service). \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date of most recent dive (MM/DD/YYYY). \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date of last diving medical (MM/DD/YYYY). \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Number of dives completed in the last 12 months. Please list any SCUBA specialties or other relevant certifications below:
+
+![](_page_1_Picture_0.jpeg)
+
+| If authorized as a visiting CRAG diver, I agree to adhere to the standards, procedures, and guidelines<br>in the CRAG Dive Safety Manual: |                           |
+|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+|                                                                                                                                           |                           |
+| Applicant signature                                                                                                                       | Date                      |
+| For the DSO:                                                                                                                              |                           |
+| This is to verify that the above individual is authorized as a visiting                                                                   | diver under the CRAG dive |
+| program.                                                                                                                                  |                           |
+| DSO Signature                                                                                                                             | Date                      |

@@ -1,0 +1,168 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Invasive didemnid tunicate spreading across coral reefs\nat remote Swains Island, American Samoa",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          73.3359375,
+          81.1083984375
+        ],
+        [
+          458.6416015625,
+          81.1083984375
+        ],
+        [
+          458.6416015625,
+          115.75537109375
+        ],
+        [
+          73.3359375,
+          115.75537109375
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          73.044921875,
+          428.32958984375
+        ],
+        [
+          117.64881896972656,
+          428.32958984375
+        ],
+        [
+          117.64881896972656,
+          438.7425537109375
+        ],
+        [
+          73.044921875,
+          438.7425537109375
+        ]
+      ]
+    },
+    {
+      "title": "B. Vargas-A\u00b4 ngel (&)  J. Asher",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          73.3359375,
+          568.4792785644531
+        ],
+        [
+          173.4453125,
+          568.4792785644531
+        ],
+        [
+          173.4453125,
+          578.95947265625
+        ],
+        [
+          73.3359375,
+          578.95947265625
+        ]
+      ]
+    },
+    {
+      "title": "L. S. Godwin",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          73.626953125,
+          604.45068359375
+        ],
+        [
+          115.19843292236328,
+          604.45068359375
+        ],
+        [
+          115.19843292236328,
+          613.7083282470703
+        ],
+        [
+          73.626953125,
+          613.7083282470703
+        ]
+      ]
+    },
+    {
+      "title": "R. E. Brainard",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.462890625,
+          632.25927734375
+        ],
+        [
+          118.21629333496094,
+          632.25927734375
+        ],
+        [
+          118.21629333496094,
+          640.75634765625
+        ],
+        [
+          72.462890625,
+          640.75634765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          214
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Vargas-Angel Godwin Brainard 2008 Swains Diplosoma"
+}
