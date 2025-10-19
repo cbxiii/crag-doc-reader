@@ -1,0 +1,371 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Short Report",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          263.2177734375,
+          60.48114013671875
+        ],
+        [
+          331.7822265625,
+          60.48114013671875
+        ],
+        [
+          331.7822265625,
+          73.181640625
+        ],
+        [
+          263.2177734375,
+          73.181640625
+        ]
+      ]
+    },
+    {
+      "title": "Background and Objective of Research",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.70025634765625,
+          258.421142578125
+        ],
+        [
+          253.6922607421875,
+          258.421142578125
+        ],
+        [
+          253.6922607421875,
+          270.525390625
+        ],
+        [
+          56.70025634765625,
+          270.525390625
+        ]
+      ]
+    },
+    {
+      "title": "Materials and Methods",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.90966796875,
+          564.4211120605469
+        ],
+        [
+          174.35513305664062,
+          564.4211120605469
+        ],
+        [
+          174.35513305664062,
+          576.4211120605469
+        ],
+        [
+          54.90966796875,
+          576.4211120605469
+        ]
+      ]
+    },
+    {
+      "title": "Identification",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          61.591796875,
+          60.36114501953125
+        ],
+        [
+          130.4171905517578,
+          60.36114501953125
+        ],
+        [
+          130.4171905517578,
+          72.36114501953125
+        ],
+        [
+          61.591796875,
+          72.36114501953125
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Findings",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          54.619140625,
+          131.5625
+        ],
+        [
+          168.41644287109375,
+          131.5625
+        ],
+        [
+          168.41644287109375,
+          144.421142578125
+        ],
+        [
+          54.619140625,
+          144.421142578125
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          54.90966796875,
+          710.3411560058594
+        ],
+        [
+          155.11683654785156,
+          710.3411560058594
+        ],
+        [
+          155.11683654785156,
+          722.3411560058594
+        ],
+        [
+          54.90966796875,
+          722.3411560058594
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.78125,
+          64.921142578125
+        ],
+        [
+          114.37319946289062,
+          64.921142578125
+        ],
+        [
+          114.37319946289062,
+          76.921142578125
+        ],
+        [
+          55.78125,
+          76.921142578125
+        ]
+      ]
+    },
+    {
+      "title": "Our studies related to this survey.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.2001953125,
+          330.42108154296875
+        ],
+        [
+          224.21768188476562,
+          330.42108154296875
+        ],
+        [
+          224.21768188476562,
+          342.4736328125
+        ],
+        [
+          55.2001953125,
+          342.4736328125
+        ]
+      ]
+    },
+    {
+      "title": "In prep",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.78125,
+          348.4810791015625
+        ],
+        [
+          97.79049682617188,
+          348.4810791015625
+        ],
+        [
+          97.79049682617188,
+          360.974609375
+        ],
+        [
+          55.78125,
+          360.974609375
+        ]
+      ]
+    },
+    {
+      "title": "Published",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          56.07177734375,
+          402.4810791015625
+        ],
+        [
+          110.38813781738281,
+          402.4810791015625
+        ],
+        [
+          110.38813781738281,
+          414.4810791015625
+        ],
+        [
+          56.07177734375,
+          414.4810791015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Umezawa-2004-Pre.study.flora.Stegastes.AS"
+}

@@ -1,0 +1,516 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Or Fagatele Bay:\n\nA Sanctuary in Samoa",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.71744471744472,
+          44.25
+        ],
+        [
+          526.0687960687961,
+          56.25
+        ],
+        [
+          525.3194103194104,
+          140.44921875
+        ],
+        [
+          38.96805896805897,
+          140.44921875
+        ]
+      ]
+    },
+    {
+      "title": "The Site",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          313.992628992629,
+          509.30859375
+        ],
+        [
+          351.46484375,
+          509.30859375
+        ],
+        [
+          351.46484375,
+          518.25
+        ],
+        [
+          313.992628992629,
+          518.25
+        ]
+      ]
+    },
+    {
+      "title": "Traditional Culture and Fagatele Bay",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.67578125,
+          412.5
+        ],
+        [
+          239.8034398034398,
+          412.5
+        ],
+        [
+          239.8034398034398,
+          423.0
+        ],
+        [
+          72.67578125,
+          423.0
+        ]
+      ]
+    },
+    {
+      "title": "Cooperative Planning Effort",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          328.828125,
+          538.5
+        ],
+        [
+          458.62407862407866,
+          538.5
+        ],
+        [
+          458.62407862407866,
+          548.75390625
+        ],
+        [
+          328.828125,
+          548.75390625
+        ]
+      ]
+    },
+    {
+      "title": "Sanctuary Designation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          55.5,
+          709.5
+        ],
+        [
+          151.505859375,
+          713.8828125
+        ],
+        [
+          151.505859375,
+          732.0
+        ],
+        [
+          54.75,
+          727.8046875
+        ]
+      ]
+    },
+    {
+      "title": "American Samoa",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          240.75,
+          25.13671875
+        ],
+        [
+          409.5,
+          25.13671875
+        ],
+        [
+          409.5,
+          44.47265625
+        ],
+        [
+          240.75,
+          44.47265625
+        ]
+      ]
+    },
+    {
+      "title": "Sanctuary Education Program",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          76.43734643734643,
+          120.65625
+        ],
+        [
+          211.32678132678134,
+          120.65625
+        ],
+        [
+          211.32678132678134,
+          131.484375
+        ],
+        [
+          76.43734643734643,
+          131.484375
+        ]
+      ]
+    },
+    {
+      "title": "Pacific Marine Resource Management",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          332.72727272727275,
+          124.5234375
+        ],
+        [
+          505.08599508599514,
+          124.5234375
+        ],
+        [
+          505.08599508599514,
+          135.75
+        ],
+        [
+          332.72727272727275,
+          135.75
+        ]
+      ]
+    },
+    {
+      "title": "Uniquely Samoan",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          332.72727272727275,
+          555.0
+        ],
+        [
+          415.1597051597052,
+          555.0
+        ],
+        [
+          415.1597051597052,
+          564.75
+        ],
+        [
+          332.72727272727275,
+          564.75
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          27
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          64
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          94
+        ],
+        [
+          "Span",
+          29
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          74
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          97
+        ],
+        [
+          "Span",
+          39
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Span",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          149
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Thomas-1988-Fagatele.Bay.AS"
+}

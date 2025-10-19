@@ -1,0 +1,204 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ACANTHASTER AS A RECURRING PHENOMENON IN SAMOAN HISTORY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          207.0,
+          334.5458984375
+        ],
+        [
+          1023.0,
+          332.9137529137529
+        ],
+        [
+          1023.75,
+          355.2783203125
+        ],
+        [
+          207.0,
+          356.1577311577311
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgement",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          500.25,
+          314.755859375
+        ],
+        [
+          732.75,
+          314.755859375
+        ],
+        [
+          732.75,
+          341.142578125
+        ],
+        [
+          500.25,
+          341.142578125
+        ]
+      ]
+    },
+    {
+      "title": "References cited",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          487.5,
+          461.88034188034186
+        ],
+        [
+          732.75,
+          462.7099609375
+        ],
+        [
+          732.75,
+          487.2119140625
+        ],
+        [
+          487.5,
+          487.2119140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          47
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          56
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          23
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          7
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Flanigan and Lamberts 1981"
+}

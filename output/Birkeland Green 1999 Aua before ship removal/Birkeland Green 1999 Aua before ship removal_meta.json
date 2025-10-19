@@ -1,0 +1,372 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Resurvey of the Aua Transect Prior to the Ship Removal",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          95.90625,
+          16.9833984375
+        ],
+        [
+          438.16552734375,
+          16.9833984375
+        ],
+        [
+          438.16552734375,
+          31.0721435546875
+        ],
+        [
+          95.90625,
+          31.0721435546875
+        ]
+      ]
+    },
+    {
+      "title": "Charles Birkeland and Alison (ilreen",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          170.15625,
+          47.953125
+        ],
+        [
+          363.43292236328125,
+          47.953125
+        ],
+        [
+          363.43292236328125,
+          62.0194091796875
+        ],
+        [
+          170.15625,
+          62.0194091796875
+        ]
+      ]
+    },
+    {
+      "title": "Distance from shore (m) \n271 259 247 233 213 183 160 140 122",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          173.52000427246094,
+          75.47607421875
+        ],
+        [
+          429.5141906738281,
+          75.47607421875
+        ],
+        [
+          429.5141906738281,
+          101.56884765625
+        ],
+        [
+          173.52000427246094,
+          101.56884765625
+        ]
+      ]
+    },
+    {
+      "title": "Percent living coral cover",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          18.7890625,
+          51.697265625
+        ],
+        [
+          133.42172241210938,
+          51.697265625
+        ],
+        [
+          133.42172241210938,
+          64.0330810546875
+        ],
+        [
+          18.7890625,
+          64.0330810546875
+        ]
+      ]
+    },
+    {
+      "title": "Number of colonies per m2",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          17.7734375,
+          162.0020751953125
+        ],
+        [
+          145.5225067138672,
+          162.0020751953125
+        ],
+        [
+          145.5225067138672,
+          174.00418090820312
+        ],
+        [
+          17.7734375,
+          174.00418090820312
+        ]
+      ]
+    },
+    {
+      "title": "Distance from shore (m)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          162.24609375,
+          184.376953125
+        ],
+        [
+          274.33258056640625,
+          184.376953125
+        ],
+        [
+          274.33258056640625,
+          196.5130615234375
+        ],
+        [
+          162.24609375,
+          196.5130615234375
+        ]
+      ]
+    },
+    {
+      "title": "Distance froqi shore (m)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          161.23046875,
+          294.046875
+        ],
+        [
+          274.60650634765625,
+          294.046875
+        ],
+        [
+          274.60650634765625,
+          306.43304443359375
+        ],
+        [
+          161.23046875,
+          306.43304443359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          320
+        ],
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          360
+        ],
+        [
+          "Span",
+          233
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          120
+        ],
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          256
+        ],
+        [
+          "Span",
+          72
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Birkeland Green 1999 Aua before ship removal"
+}

@@ -1,0 +1,243 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ACANTHASTER IN THE CULTURES OF HIGH ISLANDS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          142.333984375,
+          23.7509765625
+        ],
+        [
+          406.1307901907357,
+          23.7509765625
+        ],
+        [
+          406.1307901907357,
+          36.73753814852492
+        ],
+        [
+          142.333984375,
+          35.2666015625
+        ]
+      ]
+    },
+    {
+      "title": "Charles Birkeland 1/",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          208.31062670299727,
+          68.73388671875
+        ],
+        [
+          326.025390625,
+          68.73388671875
+        ],
+        [
+          326.025390625,
+          84.72126144455747
+        ],
+        [
+          208.935546875,
+          87.72024415055951
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          190.224609375,
+          234.81787109375
+        ],
+        [
+          291.0,
+          234.81787109375
+        ],
+        [
+          291.0,
+          246.78759765625
+        ],
+        [
+          190.224609375,
+          246.78759765625
+        ]
+      ]
+    },
+    {
+      "title": "References Cited",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          186.75,
+          415.2120582120582
+        ],
+        [
+          288.0,
+          415.2120582120582
+        ],
+        [
+          288.0,
+          429.501953125
+        ],
+        [
+          186.75,
+          429.501953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          52
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          56
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          52
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          26
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\1981 COTS in culture and language"
+}

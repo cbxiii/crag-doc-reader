@@ -1,0 +1,203 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Fagatele Bay \nNational Marine Sanctuary",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          141.64453125,
+          42.17852783203125
+        ],
+        [
+          383.16033935546875,
+          42.17852783203125
+        ],
+        [
+          383.16033935546875,
+          85.078125
+        ],
+        [
+          141.64453125,
+          85.078125
+        ]
+      ]
+    },
+    {
+      "title": "Examples of Research and Monitoring Activities in the Sanctuary:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          403.23846435546875
+        ],
+        [
+          386.32574462890625,
+          403.23846435546875
+        ],
+        [
+          386.32574462890625,
+          414.21844482421875
+        ],
+        [
+          70.5234375,
+          414.21844482421875
+        ]
+      ]
+    },
+    {
+      "title": "Examples of Endangered and Threatened Species in the Sanctuary:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          521.0164184570312
+        ],
+        [
+          388.4908752441406,
+          521.0164184570312
+        ],
+        [
+          388.4908752441406,
+          531.9963989257812
+        ],
+        [
+          70.5234375,
+          531.9963989257812
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Regulation of Activities and Uses in \nthe Fagatele Bay National Marine Sanctuary",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          279.984375,
+          37.0546875
+        ],
+        [
+          512.5322265625,
+          37.0546875
+        ],
+        [
+          512.5322265625,
+          61.220638275146484
+        ],
+        [
+          279.984375,
+          61.220638275146484
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "TableCell",
+          105
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Fagatele_Bay from Marine Conservation Biol Inst"
+}

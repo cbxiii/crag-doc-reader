@@ -1,0 +1,226 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CORAL REEF TROUBLES IN AMERICAN SAMOA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          125.693359375,
+          15.873046875
+        ],
+        [
+          386.611328125,
+          15.873046875
+        ],
+        [
+          386.611328125,
+          59.25
+        ],
+        [
+          125.693359375,
+          59.25
+        ]
+      ]
+    },
+    {
+      "title": "Sedimentation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          257.03931203931205,
+          171.28125
+        ],
+        [
+          329.72972972972974,
+          171.28125
+        ],
+        [
+          329.72972972972974,
+          180.75
+        ],
+        [
+          257.03931203931205,
+          180.75
+        ]
+      ]
+    },
+    {
+      "title": "Eutrophication",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          251.04422604422606,
+          365.080078125
+        ],
+        [
+          325.23341523341526,
+          365.080078125
+        ],
+        [
+          325.23341523341526,
+          376.154296875
+        ],
+        [
+          251.04422604422606,
+          376.154296875
+        ]
+      ]
+    },
+    {
+      "title": "Pollution",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          418.1572481572482,
+          87.486328125
+        ],
+        [
+          466.11793611793615,
+          87.486328125
+        ],
+        [
+          466.11793611793615,
+          97.5
+        ],
+        [
+          418.1572481572482,
+          97.5
+        ]
+      ]
+    },
+    {
+      "title": "Overfishing",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          412.1621621621622,
+          267.2578125
+        ],
+        [
+          472.98828125,
+          267.2578125
+        ],
+        [
+          472.98828125,
+          279.0703125
+        ],
+        [
+          412.1621621621622,
+          279.0703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          142
+        ],
+        [
+          "Span",
+          55
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          107
+        ],
+        [
+          "Span",
+          36
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Craig-1995-Coral.reef.troubles.AS"
+}

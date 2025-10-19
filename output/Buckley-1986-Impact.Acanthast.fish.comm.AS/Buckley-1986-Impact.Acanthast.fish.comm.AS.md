@@ -1,0 +1,731 @@
+# THE IMPACT OF ACANTHASTER PLANCI CORAL KILLS ON THE SAMOAN REEF FISH COMMUNITY
+
+Dept. of Marine and Wildlife Resources biological report series no. 9 Pago Pago, AS
+
+Troy Buckley
+FISH 499 (University of Washington)
+Fall 1986
+Dr. Bruce Miller
+
+# The Impact of Acanthaster planci Coral Kills on the
+
+Samoan Reef Fish Community
+
+ABSTRACT-Effects of Acanthaster planci coral kills on the reef fish community was examined at Cape Larsen on Tutuila Island, American Samoa. Three areas that had been visually censused in the late 1970s by Richard Wass were chosen as study sights. Cape Larsen was surveyed 3 times before A. planci reduced the live coral cover from 70% to less than 20% (visually estimated). The pointquarter method was used and compared to the visual estimates made in the late 1970s at each location. The visual estimates were approximately 40% higher than estimates by the point-quarter method. The fish communities at Cape Larsen and Sita Bay were recensused by wass in 1985. censused the 3 transects in 1987. The pre A. planci data were pooled and compared to the pooled post A. planci data for Cape Larsen. consequences of pooling the data are discussed. Comparisons of 51 species were made. Five species showed significant changes in abundance. Two species closely associated with branching Acropora and pocillopora corals were reduced in abundance, one algal grazer increased in abundance, and two labrids changed (one up, one down) in abundance. The ref fish community structure seems to have changed little after the A. planci coral kill:
+
+### INTRODUCTION
+
+Acanthaster planci is the coralivorous starfish responsible for killing many live coral stands throughout the Pacific Ocean. In November 1977, a dramatic population increase of A. planci was detected by Richard Wass on Tutuila Island, American Samoa (Birkeland 1982)(Figure 1). Tutuila reefs are characteristically fringing reefs because of the steep topography. Despite the removal of 486,933 crown-of-thorns starfish in less than one year after the outbreak (Birkeland 1982)(Figure 2), most of the live coral habitat surrounding Tutuila was destroyed.
+
+Wass began assessing the reef fish community in American Samoa with transects in February 1977. Some of the transects he established were repeated during and after the A. planci outbreak, providing a rare opportunity to assess the resultant changes in the reef fish community. Wass (in Birkeland et al. 1985) found the coral associated damselfishes (pomacentridae) were reduced in American Samoa, and Williams (1986) found coralivorous butterflyfishes (chaetodontidae) of the Great Barrier Reef were reduced in number following A. planci perturbations.
+
+This paper examines the influence of <u>A. planci</u> coral kills on the American Samoan reef fish community, after eight years, by comparing transect data taken before and after the 1978 disturbance. Methods used in collecting and analyzing the data are scrutinized and discussed.
+
+![](_page_3_Figure_0.jpeg)
+
+Figure 1. General location of American Samoa. Distances are shown in kilometers.
+
+![](_page_3_Figure_2.jpeg)
+
+Figure 2. <u>Acanthaster planci</u>. Numbers removed from the ocean for bounty (open numbers) or observed in surveys (numbers in parentheses) at Tutuila, American Samoa. (from Birkeland, 1982)
+
+# METHODS AND MATERIALS
+
+The transect locations are illustrated in Figure 3.
+
+The Cape Larsen transect is located on a reef front along the 25 ft depth contour where the reef slope abruptly steepens. The Sita Bay transect is located on the upper edge of the sloping reef front at a depth of 15-20 ft. The Asili Point transect is located on a steeply sloping reef front along the 25 ft contour. The transect corridor encompasses 1 m on either side of the depth contour and 2 m above the reef for 100 m.
+
+Live coral cover was estimated for each transect.
+
+In the transects Wass censused, the live coral cover and the genus composition were visually estimated. In the transects I censused, the live coral cover and the genus composition was estimated by the point-quarter method recommended by Birkeland and Amesbury (Attachment A). Twenty points (80 coral colonies) were sampled along each transect.
+
+At Cape Larsen, along the 20 ft depth contour, I sampled at least 8 points (32 coral colonies) in each of two 30 m long replicates with the point-quarter method. This location was previously sampled in April 1982 and April 1985 by Birkeland et al. (1985) with the same procedure, and is slightly different than the transect established by Wass.
+
+![](_page_5_Figure_0.jpeg)
+
+Figure 3. Tutuila Island, American Samoa. Transect locations given by the numbers: 1. Cape Larsen, 2. Sita Bay, 3. Asili Point.
+
+The fish cersusing for each 100 m X 2 m X 2 m transect was conducted by a scuba equipped observer following a weighted line laid about 10 minutes before along the depth contour. Holes and crevices within the transect corridor were inspected for secretive and nocturnal species. Approximately 30 minutes were required to enumerate the fishes on each transect. Data were recorded on a tape recorder through a microphone in the mouthpiece of a regulator. Wass waited 10-30 minutes, then spent 15-20 minutes seeking and listing species on an underwater slate that were not recorded during the census. I immediately began a 15-20 minute search, recording additional species on the tape recorder. Extremely diver wary species were recorded when entering the water. The 15-20 minute searches were conducted within 20 m of the transect line and in the same depth range.
+
+Wass censused the Cape Larsen transecf five times:
+
+June 10, 1977; June 14, 1977; August 26, 1977;
+
+January 4, 1979; April 9, 1985. I censused the Cape
+
+Larsen transect once: February 19, 1987. Wass censused
+
+the Sita Bay transect twice: June 17, 1977; April 10,
+
+1985. I censused the Sita Bay transect once:
+
+February 19,1987. Wass censused the Asili Point
+
+transect once: March 9, 1978. I censused the Asili
+
+Point transect once: February 18, 1987.
+
+A. planci coral kill was compared using the Two Sample t' test because "the t' test is robust enough to stand considerable departures from its theoretical assumptions especially if the sample sizes are equal or nearly equal, and especially when two-tabled hypotheses are considered" (Zar 1974). The data did not strictly meet the assumptions of the t' test - the variances were heterogenous and the data was not independent - but the sample sizes were equal and two-tabled hypotheses were tested.
+
+Similar to Williams (1986), analyses were attempted only when a species occurs in the transect corridor at least 2 out of 3 times before or after the A. plancicoral kills. If a species was being analyzed and it was not counted in the transect corridor, but was recorded as present ("P" in Tables 1, 2 and 3) in the following 15-20 minute search, then a value of 0.5 was given for each present status recorded. The large number of comparisons led to a high probability of rejecting the hypothesis that the means were equal when they were equal (a Type I error)(Williams 1986). The number of comparisons was multiplied by 0.05 to calculate the expected differences due to a Type I error and was subtracted from the observed differences to estimate the number of actual differences.
+
+# RESULTS
+
+The percent live coral cover for the 20 ft depth contour at Cape Larsen increases from 7.58% in April 1982 to 22.34% in April 1985 to 24.70% in October 1986. The percent live coral cover visually estimated by Wass in the late 1970's compared to the point-quarter estimates in 1986 for each transect are respectively: Cape Larsen, 10-20% versus 7.8%; Sita Bay, 70% versus 52%; Asili Point, 70% versus 57%. Cape Larsen's live coral cover is composed mostly of encrusting colonies of Montipora (21% by area) and Acropora (20%) with some Pocillopora (18%) colonies. Sita Bay's live coral cover is 51% branching and table Acropora. Asili Point's live coral cover is dominated by branching and table Acropora (93%).
+
+The results from the fish censusing at Cape Larsen, Sita Bay and Asili Point are in Tables 1, 2 and 3 respectively. There were 51 species abundant enough to be tested for changes occurring after the A. planci coral kill at Cape Larsen. Five species (10% of the comparisons) differed significantly in abundance, but 2.5 differences were expected due to Type I errors (Table 4). Only 2.5 differences are actual differences.
+
+### DISCUSSION
+
+The point-quarter method was compared with 1m<sup>2</sup> plots for sampling live coral cover by Colgan (1981). He demonstrated "sampling time was reduced without a reduction in the quality of the data." The point-quarter method also yields consistent information when applied by different researchers. The estimate I made in October1986 is consonant with the increase in live coral cover shown by Birkeland et al. (1985) with their estimates of April 1982 and April 1985 (Figure 4).
+
+My point-quarter data is considerably lower than visual estimates made by Wass (Figure 5). Even with a conservative assumption that the live coral cover has remained static over the last seven years, ther is a 40% inflation of the point-quarter data for percent live coral cover by the visual estimate used by Wass.
+
+By duplicating the methods used by Wass when censusing fishes I was able to achieve a similar Total Number of Species and On-Transect Species at all three stations, but the On-Transect Individuals total is extremely low at Cape Larsen and Sita Bay. By pooling my Cape Larsen transect data with the other post A. planci transect data, population reductions in a species would be more apparent and population increases would be less apparent. I had considered doubling the
+
+![](_page_10_Figure_0.jpeg)
+
+Figure 4. percent live coral cover estimated with the point-quarter method by Birkeland et al. in April 1982 and April 1985, and by the author in October 1986.
+
+![](_page_11_Figure_0.jpeg)
+
+Figure 5. Comparison of the visual estimate and the point-quarter estimate. The points are plotted by the result from each method for the same location. The 45 line represents the case of identical estimates.
+
+number of each species enumerated on the transect to make the On-Thinsect Individuals total 402 (similar to the lowest total achieved by Wass). I think this would confuse the analyses more because a majority of the difference appears to be in schooling species that I did not detect in the transect corridor. This could be caused by swimming the transect too rapidly, misjudging the width of the transect, or by not observing down the transect corridor sufficiently; the later case being most likely.
+
+Another problem with pooling the data for Cape Larsen is the temporal inconsistencies. The three transects conducted prior to A. planci coral kills were in the months of June and August. The three transects conducted post A. planci were in the months of January, February and April. Seasonal variations could show up that with the lack of replicate data in the control area might not be corrected. There is also the unique position of the January 4, 1979 census at Cape Larsen. It was recorded more than six years before the next post A. planci census, and so soon after the disturbance that it may be best to leave it as an intermediate census. Pooling it with the later transects may have made some of the long term changes in the community structure less apparent. However, when the transect data is scrutinized closely side by side, the census from 1979 and 1987 resemble each other much more than either one resembles the 1985 census.
+
+To show that the changes detected at Cape Larsen are caused by the coral kill, they must be shown not to occur at a control area. The best control location is Sita Bay. It is in the general area and subject to similar weather conditions and fishing pressures as Cape Larsen. Because there are no replicates, I wanted to use an additional control location; Asili Point. It differs in several respects from Sita Bay, but when looking at census data side by side, it serves as another reference to check against the changes at Cape Larsen.
+
+In the calculations of the t' test, "P" was assigned a value of 0.5. If a species met the criteria to be tested (occurring in the transect 2 out of 3 times pre or post A. planci) it would be closely associated with the reef. Several species closely associated with the reef did not enter the transect corridor during the census, but were observed in the area. I believe this is a design flaw in the transect dimensions that I will discuss later. Why not assign a value of 0.5 to every species detected as present? Many species are consistently in the area, but are not closely associated with the reef in the transect corridor (e.g. Variola louti; first page of Table 1).
+
+The t' test results in Table 4 indicate five significant changes. plectroglyphidodon dickii, a pomacentrid
+
+closely associated with <u>Acropora</u> and <u>Pocillopora</u> corals (Amesbury and Myers 1982), was significantly (P < 9.01) reduced in numbers. Wass (in Birkeland et al. 1985) notes that the reduction in numbers of <u>P</u>. <u>dickii</u> and probably <u>plectroglyphidodon johnstonianus</u> are likely to be the results of <u>A</u>. <u>planci</u> coral kills. The populations of these two species also appear to be reduced at both Asili Point and Sita Bay, where no coral damage occurred. Williams (1986) found no significant change in the populations of <u>P</u>. <u>dickii</u> on reefs affected by <u>A</u>. <u>planci</u>.
+
+Paracirrhites arcatus, a cirrhitid closely associated with branching Acropora, Pocillopora and Stylophora corals (Amesbury and Myers 1982), was significantly (P < 0.05) reduced in numbers. At Sita Bay and Asili Point it appears there was no significant change.
+
+Two labrids showed significant changes. Bodianus axillaris significantly (P < 0.05) reduced in number, and Halichoeres hortulanus significantly increased in number. B. axillaris feeds primarily on benthic invertebrates (Amesbury and Myers 1982), and it appears there was no significant change at Sita Bay (it was not recorded at Asili Point). H. hortulanus primarily feeds on sand-dwelling invertebrates and small fishes (Amesbury and Myers 1982). It does not appear to have significantly changed in number at Sita Bay or Asili Point. Williams (1986) found no significant changes in population for H. hortulanus on A. planci affected reefs.
+
+Naso lituratus, an algal grazing acanthurid (Amesbury and Myers 1982), increased in number significantly (P < 0.05). Williams (1986) found a significant (P < 0.01) increase in N. lituratus populations on 1 of 2 reefs affected by A. planci.
+
+Distinguishing between changes in a reef fish community because of a disturbance or because of temporal variations are made more difficult with a sampling technique that introduces more variability to the data. The transect corridor in this study is too small. Better quantifiable and analyzable data could be achieved by widening the transect corridor and by splitting the 100 m long transect into two 50 m replicate transects starting from the midpoint. At the Office of Marine and Wildlife Resources in American Samoa, two replicate censuses are taken along a 50 m long, 10 m wide and 5 m high corridor starting at a common point and extending in opposite directions. Transect locatins are censused several times a year in an attempt to detect seasonal Variations. For tropical ecosystems where species are numerous and abundances are high, the waterproof tape recorder with the regulator microphone seems to work very well. It is time efficient and frees the eyes for constant observation.
+
+The exact impact of extensive A. planci coral kills on a reef fish community is difficult to assess. More knowledge of spacial and temporal variations within a reef fish community is needed to detect changes that
+
+are caused by <u>A. planci</u> coral destruction. Generally, coralivorous fishes are reduced in number by starvation because their food source is destroyed (Sano et al.1984, Birkeland et al. 1985, Williams 1986), and algal grazers increase in number with the level of algae covered substrate (Birkeland et al. 1985).
+
+The effects of A.planci coral kills, and subsequent algal increase, on the higher inverebrate community could explain some of the changes detected in the labrids. Juvenile fish recruitment patterns may change post A. planci, and habitat changes may increase or decrease the chances of specific juveniles against predation following recruitment. Many detailed studies of specific recruitment and feeding patterns would be needed to illuminate the less visible interactions.
+
+Species like <u>paracirrhites arcatus</u> that are very territorial and habitat specific will increase competition for space. Other species may have a resulting decrease in space competition.
+
+The analyses show only a few species are detectably affected. Species diversity remains high, and the reef fish community has changed only slightly. Wass (in Birkeland et al. 1985) notes that fishes targeted by local fishermen appear as large and as plentiful as ever.
+
+Though A. planci destroyed nearly all the live coral covering Tutuila reefs, this impact did not extend heavily into the reef fish community.
+
+### ACKNOWLEDGMENTS
+
+I extend my gratitude to Fa'asega Kuresa and Lei Ve'ave'a for their help with equipment and field assistance. A special thanks to Nancy Arthur for her diving assistance on a moments notice. I am especially indebted to Ray Buckley and Dave Itano without whose counsel and expert field work this project could never have been completed.
+
+# LITERATURE CITED
+
+Amesbury, S. S. and R. F. Myers. 1982. Guide to the coastal resources of Guam: Vol. 1 The fishes. Univ. Guam Mar. Lab. Contrib. 173.
+
+Birkeland C. 1982. Terrestrial runoff as a cause of outbreaks of Acanthaster planci (Echinodermata: Asteroidea). Mar. Blol. 69:175-185.
+
+Birkeland, C., R. H. Randall, R. C. Wass, B. Smith and S. Wilkins. 1985. Biological resource assessment of the Fagatele Bay National Marine Sanctuary. NOAA Sanctuary Division.
+
+colgan, M. W. 1981. Succession and recovery of a coral reef after predation by Acanthaster planci(L.). Proc. Fourth Int. Coral Reef Symp. 2:333-338.
+
+Sano, M., M. Shimizu and Y. Nose. 1984. Changes in structure of coral reef fish communities by destruction of Hermatypic corals: observational and experimental views. Pac. Sci. 38:51-79.
+
+Williams, D. McB. 1986. Temporal variation in the structire of reef slope fish communities (central Great Barrier Reef): short-term effects of Acanthaster planci infestation. Mar. Ecol. Prog. Ser. 28:157-164.
+
+Zar, J. H. 1974. Biostatistical analysis. Prentice-Hall, Englewood Cliffs, NJ.
+
+TABLE 1. Fishes enumerated or observed during repetitive transects conducted at Cape Larsen before and after an extensive coral kill by Acanthaster planci late in 1978. The columns are headed by transect dates.
+
+|                                | JUN        | JUN |     |   |           |            |
+|--------------------------------|------------|-----|-----|---|-----------|------------|
+|                                | 10<br>1977 |     |     |   | 9<br>1985 | 19<br>1987 |
+|                                | _A         | В   | С   | D | E         | F          |
+| Saurida gracilis               | P          |     |     |   |           |            |
+| Synodus sp.                    | P          |     |     | 1 |           |            |
+| Flammeo sammara                |            |     |     | 1 | ₽         |            |
+| Flammeo opercularis            | ×          |     |     |   |           | P          |
+| Myripristis berndti            | 4          | 8   | 2   | 4 | 2         | P          |
+| Sargocentron diadema           |            |     |     |   | P         |            |
+| Sargocentron lacteoguttum      |            |     | 1   |   |           |            |
+| Sargocentron microstoma        | P          | Р   | 4   |   |           |            |
+| Sargocentron tiere             | 1          | 2   | 3   | Р | 5         | 1          |
+| Aulostomus chinensis           |            |     |     |   | 1         |            |
+| Pterois volitans               |            |     |     |   | P         |            |
+| Caracanthus Maculatus          |            |     |     |   | P         |            |
+| Anthias pascalus               |            |     |     |   |           |            |
+| Cephalopholis argus            | 3          | 4   | 3   | 4 | P         | 1          |
+| Cephalopholis leopardus        |            | 1   | P   | • | ,         | ,          |
+| Cephalopholis urodelus         | 5          | 5   | P   | 2 | ,8        | 3          |
+| Epinephelus tauVina            |            |     |     | 1 | 1         |            |
+| Variola louti                  | P          | P   | P   | P | P         | Р          |
+| Cheilodipterus quinquelineatus |            |     | P   |   |           |            |
+| Caranx melampygus              | 1          |     | . 1 |   |           | P          |
+
+|                            | A    | В  | C | D  | E        | F   |
+|----------------------------|------|----|---|----|----------|-----|
+| Elegatis bipinnulatus      |      |    |   |    |          | P   |
+| Caesio xanthonotus         | 8    | •  |   | 1  |          |     |
+| Pterocaesio tile           |      |    |   | Р  |          | P   |
+| Aphareus furcatus          | Р    | P  | P | P  | Р        | P   |
+| Lutjanus bohar             | Р    | Р  | Р | Р  | P        | P   |
+| Lutjanus fulvus            | P    | Р  | 1 | P  |          | Р   |
+| Lutjanus monostigma        |      |    | P | P  | •        | Р   |
+| Macolor niger              | P    | Р  | Р | P  | 1        | , b |
+| Plectorhynchus orientalis  |      |    |   | P  | Р        |     |
+| Plectorhyncus lineatus     | þ    |    |   |    |          | Р   |
+| Gnathodentex aureolineatus | 12   | 8  | Р | Р  | Р        |     |
+| Monotaxis grandoculis      | P    | P  | Р | P  | P.       | Р   |
+| Mulloides flavolineatus    | . 13 | 11 | 2 | 1  | 4        | Р   |
+| Mulloides vanicolensis     |      |    |   | P  | <b>.</b> |     |
+| Parupeneus bifasciatus     | P    | Р  | P | 1  | 2        | 1   |
+| Parupeneus pleurostigma    |      |    |   |    |          | P   |
+| Parupeneus chryserydros    | P    | P  | 2 | P  | 6        |     |
+| Parupeneus indicus         |      |    |   |    |          | 2   |
+| Parupeneus trifasciatus    | Р    | 1  | 1 | Р  | 2        | 1   |
+| Pempheris oualensis        | P    | 3  | 5 | 2  | 5        | .2  |
+| Kyphosus cinerascens       | 1    | Р  | P | ·P | . 2      | P   |
+| Chaetodon auriga           |      |    |   |    | <i>;</i> | P   |
+| Chaetodon citrinellus      |      |    |   |    |          | P   |
+
+|                         | A  | В   | С  | D  | . Е | F  |
+|-------------------------|----|-----|----|----|-----|----|
+| Chaetodon ephippium     | P  | Р   | P  | P  |     |    |
+| Chaetodon lunula        |    | Р   | P  | P  |     | ŀ  |
+| Chaetodon melannotus    | Р  |     |    | 1  | · P | P. |
+| Chaetodon ornatissimus  | 1  | P   | P  | Р  | Р   | Р  |
+| Chaetodon pelewensis    | Р  | Р   | P  | Р  | Р   | P  |
+| Chaetodon rafflesii     |    |     | P  |    |     |    |
+| Chaetodon reticulatus   | 4  | 5   | 9  | 2  | 4   | 2  |
+| Chaetodon semeion       |    |     | Р  |    |     | Р  |
+| Chaetodon trifascialis  | 1  | . 1 | P  | P  |     |    |
+| Chaetodon trifasciatus  | Р  | Р   | 1  | Р  | 1   |    |
+| Chaetodon vagabundus    | Р  | Р   | 2  | Р  |     | Р  |
+| Forcipiger flavissimus  |    | Р   | Р  |    | Р   | 1  |
+| Forcipiger longirostris |    |     | P  | P  |     |    |
+| Heniochus chrysostomus  |    |     | 2  |    |     |    |
+| Heniochus varius        | Р  | Р   | 2  | 2  |     |    |
+| Centropyge flavissimus  | 2  | 7   | 2  | P  | 5   | 4  |
+| Centropyge loriculus    |    |     |    |    | Р   | Р  |
+| Pomacanthus imperator   |    |     |    |    | Р   |    |
+| Pygoplites diacanthus   | Р  | Р   | 2  | Р  | 2   | Р  |
+| Amphiprion chrysopterus | Р  | P   |    |    |     |    |
+| Chromis acares          | 35 | 47  | 24 | 16 | 3   | 20 |
+| Chromis agilis          |    |     |    |    | Р   |    |
+| Chromis atripectoralis  |    |     |    |    |     | P  |
+
+|                                  | Α   | В   | С   | D   | Е  | Fj  |
+|----------------------------------|-----|-----|-----|-----|----|-----|
+| Chromis iomelas                  | 1   | P   | 5   | P   | P  | P   |
+| Chromis margaritifer             | 7   | 6   | 12  | 7   | 1  | . 8 |
+| Chromis vanderbilti              | 1   | P   | P   |     |    |     |
+| C. weberi                        | Р   | P   | P   | 4   |    | ľ   |
+| Chromis xanthura                 | 20  | 14  | P   | 24  |    | P   |
+| Chrysiptera cyanea               | 9   | 9   | 17  | 9   | 5  | 9   |
+| Chrysiptera leucopoma            |     |     |     |     | P  | 2   |
+| Dascyllus reticulatus            | 1   |     | Р   |     |    | P   |
+| Neopomacentrus metallicus        | ·P  | 5   | 14  | 16  | 6  | 9   |
+| Plectroglyphidodon dickii        | 107 | 107 | 129 | 58  | 8  | 4   |
+| Plectroglyphidodon johnstonianus | 8   | 6   | 8   | 7   | 1  | 8   |
+| Plectroglyphidodon lacrymatus    | 19  | 21  | 37  | 39  | 67 | 18  |
+| Pomacentrus brachialis           | 73  | 56  | 80  | 78  | 40 | Р   |
+| Pomacentrus vaiuli               | 3   | 6   | 5   | 1   | 9  | 15  |
+| Pomachromis richardsoni          |     |     |     |     | Р. |     |
+| Stegastes fasciolatus            | 5   | 6   | 5   | 6   | 12 | P   |
+| Neocirrhites armatus             |     |     |     |     | Р  |     |
+| Paracirrhites arcatus            | 12  | 16  | 19  | 7   | 3  | 9   |
+| Paracirrhites forsteri           | 1   | 2   | 1   | 1   | 1  | 1   |
+| Paracirrhites hemistictus        | ,   |     |     |     | P  |     |
+| Anampses caeruleopunctatus       |     | Р   |     | . P | P  |     |
+| Anampses meleagrides             | P   | Р   | P   | Р   |    |     |
+| Anampses twistii                 | 2   | 1   | 5   | P   | Р  | 2   |
+| Bodianus axillaris               | 2   | 2   | 1   | P   | P  |     |
+
+|                                 | _A | В  | С  | D  | . E | F |
+|---------------------------------|----|----|----|----|-----|---|
+| Cheilinus oxycephalus           |    |    |    |    | 2   |   |
+| Cheilinus trilobatus            |    |    |    |    | P   | Р |
+| Cheilinus undulatus             |    |    |    |    | P   |   |
+| Cheilinus unifasciatus          | Р  | Р  | 2  | P  | 1   | P |
+| Coris aygula                    |    |    | P  |    |     | Р |
+| Coris gaimard                   |    |    |    |    |     | Р |
+| Epibulus insidiator             | P  |    |    | ·  | 2   | Р |
+| Gomphosus varius                | 10 | 2  | 16 | 16 | 9   | 1 |
+| Halichoeres hortulanus          | Р  | Р  | P  | Р  | 2   | 2 |
+| Halichoeres margaritaceus       |    | 1  |    |    |     |   |
+| Halichoeres marginatus          | P  |    | 1  | 2  | 2   | 1 |
+| Hemigymnus fasciatus            | Р  | P  | P  | Р  | P   | Р |
+| Labrichthys unilineatus         | P  | Р  | 2  | 1  | , . |   |
+| <u>Labroides</u> <u>bicolor</u> | 2  | Р  | Р  | P  |     | 1 |
+| Labroides dimidiatus            | 3  | 4  | 2  | 1  | 6   | 3 |
+| Labroides rubrolabiatus         | 2  | 2  | 5  | 2  | 8   | 2 |
+| Labropsis xanthonota            |    |    | Р  |    | P   |   |
+| Macropharyngodon meleagris      | Р  | P  | P  | P  | Р   | 1 |
+| Novaculichthys taeniourus       |    |    |    |    |     | Р |
+| Pseudocheilinus hexataenia      | 8  | 15 | 7  | 3  | 4   | 2 |
+| Pseudocheilinus octotaenia      |    |    |    |    | P   |   |
+| Stethojulis bandanensis         |    |    |    |    | P   | Р |
+| Stethojulis trilineata          |    |    |    | 1  |     |   |
+| Thalassoma fuscum               | Р  |    |    |    |     |   |
+| Thalassoma hardwickei           | 5  | 2  | 1  | 8  | 5   | P |
+
+| ·                          | A   | В  | С | D | E  | F  |
+|----------------------------|-----|----|---|---|----|----|
+| Thalassoma lutescens       |     |    |   |   |    | P  |
+| Thalassoma quinquevittatum | 2   | 2  | 4 | 3 | 4  | 4  |
+| Calotomus sandwicensis     |     |    | P |   |    | ,  |
+| Scarus brevifilis          | 1   |    |   | Р | P  |    |
+| Scarus dimidiatus          |     |    |   |   |    | Р  |
+| Scarus frenatus            | Р   | Р  | 2 | Р | Р  |    |
+| Scarus frontalis           |     |    |   | Р |    |    |
+| Scarus gibbus              | 1   | Р  | P | P | Р  | Р  |
+| Scarus japanensis          | P   | 1  | p | 1 | Р  | 1  |
+| Scarus niger               | 1   | Р  | 1 | Р | 1  | Р  |
+| Scarus oviceps             | P   | P  |   |   |    | Р  |
+| Scarus psitticus           |     | Р  | 2 |   |    |    |
+| Scarus rubroviolaceus      | P   | Р  | Р | Р | P  |    |
+| Scarus sordidus            | . Р | Р  | Р | 1 | 5  | 2  |
+| Scarus spinus              | Р   |    |   |   | ., | P  |
+| Scarus tricolor            | 1   |    | Р | Р | 1  | Р  |
+| Parapercis cephalopunctata |     |    |   |   | P  | 1  |
+| Cirripectes stigmaticus    | 9   | 13 | 6 | 4 |    |    |
+| Cirripectes sp.            |     |    |   |   | 15 | 21 |
+| Meiacanthus atrodorsalis   | P   | P  | Р | 1 | 2  |    |
+| Ecsenius bicolor           | 1   |    |   |   |    |    |
+| Exallias brevis            |     | 1  |   |   |    |    |
+| Nemateleotris magnifica    |     |    |   |   |    | P  |
+| Ptereleotris evides        | 4   | Р  | Р | P | P  | P  |
+| Valenciennea strigata      |     |    |   | l | l  | 2  |
+
+|                          | A  | В  | С  | D   | Е   | , F |
+|--------------------------|----|----|----|-----|-----|-----|
+| Zanclus cornutus         |    |    |    | 1   | Р   | P   |
+| Acanthurus achilles      |    |    |    | 1   | P   | Р   |
+| Acanthurus glaucopareius | 2  | 3  | 6  | 6   | 6   | 2   |
+| Acanthurus guttatus      | P  | Р  | P  | P   | P   |     |
+| Acanthurus lineatus      | Р  | P  | 1  | 1   | P   | Р   |
+| Acanthurus maculiceps    | P  |    | Р  |     | P   |     |
+| Acanthurus nigricauda    | 3  |    |    |     |     |     |
+| Acanthurus nigrofuscus   | 5  | 5  | 4  | 10  | 45  | 5   |
+| Acanthurus olivaceus     |    |    | P  | P   |     |     |
+| Acanthurus thompsoni     |    | Р  | Р  |     | 4   | P   |
+| Acanthurus xanthopterus  |    |    |    | P   |     |     |
+| Ctenochaetus striatus    | 37 | 47 | 45 | 27  | 326 | 24  |
+| Ctenochaetus strigosus   | P  | 1  | 3  | 1   | 2   | Р   |
+| Naso lituratus           | P  | Р  | Р  | 1   | 2   | Р   |
+| Naso tuberosus           |    |    |    |     | P   |     |
+| Naso unicornis           |    |    |    |     | P   |     |
+| Zebrasoma flavescens     |    |    |    |     |     | 1   |
+| Zebrasoma scopas         | 1  |    |    | P   |     | 1   |
+| Zebrasoma veliferum      | P  | P  | Р  | P   | Р   | Р   |
+| Siganus argenteus        |    |    |    | . Р |     |     |
+| Balistapus undulatus     | P  | Р  | Р  | Р   | Р   | Р   |
+| Melichthys vidua         | 2  | 2  | Р  | P   | 1   | 1   |
+| Sufflamen bursa          |    |    |    |     |     | P   |
+
+|                             | A   | В   | C j | D   | E   | F   |
+|-----------------------------|-----|-----|-----|-----|-----|-----|
+| Amanses scopas              | 1   | 1   | 2   | 2   |     | Р   |
+| Cantherhines dumerili       | P   | Р   | 2   | P   | P   | -   |
+| Cantherhines pardalis       | 1   | P   | P   | P   | 1   |     |
+| Oxymonacanthus longirostris | Р   |     | 1   |     |     |     |
+| Pervagor melanocephalus     |     |     |     |     | 2   | P   |
+| Ostracion meleagris         | P   | Р   | Р   | 1   | 1   |     |
+| Arothron nigropunctatus     |     |     | Р   | 1   |     |     |
+| Canthigaster solandri       | 2   | 5   |     | 1   |     | P   |
+|                             |     |     |     |     |     |     |
+| Total No. of Species        | 101 | 93  | 104 | 105 | 104 | 102 |
+| On-Transect Species         | 52  | 43  | 54  | 52  | 54  | 42  |
+| On-Transect Individuals     | 464 | 469 | 522 | 392 | 666 | 201 |
+
+TABLE 2. Fishes enumerated or observed during repetitive transects conducted at Sita Bay. The columns are headed by transect dates.
+
+|                            |           |           | • |
+|----------------------------|-----------|-----------|---|
+|                            | JUN<br>17 | APR<br>10 |   |
+|                            | 1977      | 1985      |   |
+|                            | A         | В         | C |
+| Adioryx caudimaculatus     |           |           | 1 |
+| Adioryx spinifer           |           |           | P |
+| Flammeo opercularis        |           |           | 3 |
+| Flammeo sammara            | 2         | 4         | 1 |
+| Myripristis berndti        | 10        | 1         | 4 |
+| Myripristis kuntee         | 3         |           |   |
+| Myripristis violaceus      | 1         | 1         |   |
+| Sargocentron tiere         |           | 2         |   |
+| <u>Cephalopholis</u> argus | P         | P         |   |
+| Cephalopholis urodelus     | 5         | 4         | 1 |
+| Caranx melampygus          |           |           | P |
+| Caesio xanthonotus         | P         |           |   |
+| Aphareus furcatus          | P         | 1         | Р |
+| Lutjanus bohar             | P         | P         | Р |
+| Lutjanus fulvus            | 2         | P         | Р |
+| Lutjanus monostigma        | P         |           |   |
+| Macolor niger              | P         | Р         | P |
+| Plectorhynchus orientalis  | P         |           |   |
+| Gnathodentex aureolineatus |           | Р         |   |
+| Monotaxis grandoculis      | P         | Р         | 1 |
+| Mulloides flavolineatus    | 7         | 15        | 2 |
+
+|                         | A | В   | - C |
+|-------------------------|---|-----|-----|
+| Parupeneus bifasciatus  | 2 | Р   | Р   |
+| Parupeneus chryserydros | 2 | 8   | Р   |
+| Parupeneus indicus      |   |     | Р   |
+| Parupeneus trifasciatus | 3 | 6   | Р   |
+| Pempheris oualensis     | 6 | 6   | 2   |
+| Kyphosus cinerascens    | Р | Р   | Р   |
+| Chaetodon citrinellus   |   |     | Р   |
+| Chaetodon ephippium     | P |     | Р   |
+| Chaetodon lunula        | P | 1   |     |
+| Chaetodon melannotus    | 3 | P   |     |
+| Chaetodon ornatissimus  |   | 3   | Р   |
+| Chaetodon pelewensis    | P | P   | 2   |
+| Chaetodon rafflesii     |   |     |     |
+| Chaetodon reticulatus   | 4 | 3   | 4   |
+| Chaetodon semeion       |   |     |     |
+| Chaetodon trifascialis  | 4 | 1   | 1   |
+| Chaetodon trifasciatus  | 3 | 1   | 2   |
+| Chaetodon unimaculatus  | 2 | . Р | Р   |
+| Chaetodon vagabundus    | P | Р   |     |
+| Forcipiger flavissimus  | Р |     |     |
+| Heniochus varius        | Р | Р   | . 4 |
+| Centropyge flavissimus  | 3 | 4   | 1   |
+| Centropyge loriculus    |   |     |     |
+| Pomacanthus imperator   |   |     | P   |
+| Pygoplites diaeanthus   | 1 | Р   | 1   |
+
+|                                  | A            | В  | • | С  |
+|----------------------------------|--------------|----|---|----|
+| Abudefduf viagiensis             |              | р  |   |    |
+| Amblyglyphidodon curacao         |              |    |   | P  |
+| Chromis acares                   | 5 <b>5</b> £ | P  |   | P  |
+| Chromis agilis                   |              | P  |   |    |
+| Chromis atripectoralis           | P            | P  |   | Р  |
+| Chromis iomelas                  | 6            | P  |   | 5  |
+| Chromis margaritifer             | 2            | 5  |   | 2  |
+| Chromis vanderbilti              | Р            |    |   |    |
+| Chromis xanthura                 | 22           | 4  |   | 40 |
+| Chrysiptera cyanea               | 49           | 19 |   | 11 |
+| Chrysiptera leucopoma            |              |    |   | 2  |
+| Neopomacentrus metallicus        | 28           | 15 |   | 50 |
+| Plectroglyphidodon dickii        | 85           | 66 |   | 31 |
+| Plectroglyphidodon johnstonianus | 16           | 12 |   | 10 |
+| Plectroglyphidodon lacrymatus    | 17           | 25 |   | 32 |
+| Pomacentrus brachialis           | 79           | 23 |   | 15 |
+| Pomacentrus vaiuli               | 12           | 20 |   | 9  |
+| Stegastes fasciolatus            | 19           | 1  |   |    |
+| Stegastes nigricans              |              |    |   | 2  |
+| Paracirrhites arcatus            | 3            | 7  |   | 4  |
+| Paracirrhites forsteri           | P            | 1  |   | 1  |
+| Paracirrhites hemistictus        |              | р  |   |    |
+| Anampses caeruleopunctatus       | P            |    |   |    |
+| Anampses twistii                 |              |    |   | 1  |
+| Bodianus axillaris               | P            | P  |   |    |
+| Cheilinus chlorourus             | l            |    |   | P  |
+
+٠٠.
+
+• .....................................
+
+|                            | A ] | В  | • ( |       |
+|----------------------------|-----|----|-----|-------|
+| Cheilinus oxycephalus      |     | 3  |     |       |
+| Cheilinus trilobatus       |     |    | F   | ,     |
+| Cheilinus undulatus        |     |    | P   |       |
+| Cheilinus unifasciatus     | 1   | 2  | . 1 |       |
+| Epibulus insidiator        | P   | 1  | P   |       |
+| Gomphosus varius           | 7   | 11 | 4   |       |
+| Halichoeres hortulanus     | 1   | 1  | 2   |       |
+| Halichoeres marginatus     | 1   |    |     |       |
+| Hemigymnus fasciatus       | P   | 2  | P   |       |
+| Hologymnosus doliatus      |     |    | 1   |       |
+| Labrichthys unilineatus    | P   |    |     |       |
+| Labroides bicolor          | 1   | Р  | P   | ,     |
+| Labroides dimidiatus       | 6   | 3  | 3   | ,     |
+| Labroides rubrolabiatus    | 1   | 2  | . 3 |       |
+| Labropsis xanthonota       |     | P  | ·   |       |
+| Macropharyngodon meleagris | 2   | 2  |     |       |
+| Pseudocheilinus hexataenia | 5   | 5  | 2   |       |
+| Stethojulis bandanensis    | P   |    | 1   | .   . |
+| Thalassoma hardwickei      | 9   | 2  | 2   |       |
+| Thalassoma quinquevittatum | 2   | 2  | . 2 | :     |
+| Calotomus sandwicensis     | P   | 1  |     |       |
+
+|                          | _ A | В  | - C      |
+|--------------------------|-----|----|----------|
+| Scarus brevifilis        | Р   |    |          |
+| Scarus dimidiatus        |     |    | Р        |
+| Scarus frenatus          | Р   |    | 1        |
+| Scarus gibbus            | 1   | P  |          |
+| Scarus japanensis        | 3   | 4  | Р        |
+| Scarus niger             | Р   |    |          |
+| Scarus oviceps           |     |    | 1        |
+| Scarus psitticus         | Р   |    | P        |
+| Scarus rubroviolaceus    | P   | P  | 1        |
+| Scarus sordidus          | 1   | 2  | Р        |
+| Cirripectes stigmaticus  | 16  | 4  | 7        |
+| Cirripectes sp.          |     |    | P        |
+| Exallias brevis          | Р   |    |          |
+| Meiacanthus atrodorsalis |     | P  | <b>.</b> |
+| Plagiotremus tapeinosoma | 2   | 1  |          |
+| Ptereleotris evides      | P   | P  | 2        |
+| Zanclus cornutus         |     | 1  | 2        |
+| Acanthurus achilles      |     |    | 1        |
+| Acanthurus glaucopareius | 6   | 9  | 10       |
+| Acanthurus guttatus      | , Р | P  | 3        |
+| Acanthurus lineatus      | P   | P  | P        |
+| Acanthurus nigricauda    |     |    |          |
+| Acanthurus nigrofuscus   | 3   | 24 | 6        |
+| Acanthurus nigroris      | P   |    | 1        |
+
+|                             | _ A | В   | • | С    |  |
+|-----------------------------|-----|-----|---|------|--|
+| Acanthurus pyroferus        |     | Р   |   |      |  |
+| Acanthurus xanthopterus     | Р   |     |   | }    |  |
+| Ctenochaetus striatus       | 49  | 321 |   | 34   |  |
+| Naso lituratus              | 1   | 1   |   | 1    |  |
+| Zebrasoma scopas            | 4   | 4   |   | P    |  |
+| Zebrasoma veliferum         | Р   |     |   |      |  |
+| Balistapus undulatus        | Р   | 2   |   | Р    |  |
+| Melichthys vidua            | 1   | 1   |   | 1    |  |
+| Amanses scopas              | P   | 2   |   |      |  |
+| Cantherhines dumerili       | Р   | P · |   |      |  |
+| Cantherhines pardalis       | P   |     |   |      |  |
+| Oxymonacanthus longirostris | 2   |     |   |      |  |
+| Pervagor melanocephalus     |     | 6   |   | . Р  |  |
+| Ostracion meleagris         | 1   | 1   |   | P    |  |
+| Arothron nigropunctatus     |     |     |   | P    |  |
+| Canthigaster solandri       |     | 5   |   | Р    |  |
+|                             |     |     |   |      |  |
+| Total Species               | 96  | 88  |   | 90   |  |
+| On-Transect Species         | 55  | 57  |   | 53   |  |
+| On-Transect Individuals     | 563 | 684 | , | ູ336 |  |
+
+TABLE 3. Fishes enumerated or observed during repetitive transects conducted at Asili Point. The columns are headed by transect dates.
+
+MAR 09 ' FEB 18
+
+|                                           | MAR <b>09</b> ' | FEB 18<br>1987 |
+|-------------------------------------------|-----------------|----------------|
+|                                           | A               | В              |
+| Flammeo sammara                           | 1               |                |
+| Flammeo opercularis                       | 1               | P              |
+| Myrpristis berndti                        | 1               |                |
+| Myrpristis kuntee                         | р               |                |
+| Myrpristis violaceus                      | p               |                |
+| Sargocentron tiere                        | 2               |                |
+| Aulostomus chinensis                      | p               |                |
+| <u>Fistularia</u> commersonii             | p               |                |
+| Cephalopholis argus                       | <b>p</b>        | 1              |
+| Cephalopholis urodelus                    | p               | 2              |
+| Variola louti                             |                 | . р            |
+| Cheilodipterus macrodon                   | 1               |                |
+| Aphareus furcatus                         | p               | 2              |
+| Lutjanus bohar                            | p               | р              |
+| Lutjanus monostigmus                      | P               | Р              |
+| <u>Lutjanus fulvus</u>                    | p               | 2              |
+| Macolor niger                             | 1               | 2              |
+| <u>Gnathodentex</u> <u>areolineatus</u>   |                 | 2              |
+| Monotaxis grandoculis                     | p               | р              |
+| Pterocaesio tile                          |                 | р              |
+| <u>Mulloidichthys</u> <u>vanicolensis</u> | 1               |                |
+| Parupeneus chryserydes                    | p               |                |
+| Parapeneus bifasciatus                    | 2               | 1              |
+| Parupeneus cyclostoma                     |                 | 5              |
+| Parupeneus pleurostigma                   |                 | р              |
+| Parupeneus trifasciatus                   | 1               | 1              |
+| Pempheris oualensis                       | . 3             |                |
+
+|                                         | A  |   | В  |
+|-----------------------------------------|----|---|----|
+| Kyphosus cinerascens                    | р  |   | 5  |
+| Heniochus chrysostomus                  | 1  |   |    |
+| Heniochus varius                        | Р  |   | 2  |
+| <u>Hemitaurichthys</u> <u>polylepis</u> | 1  | • | P  |
+| Chaetodon reticulatus                   | 6  |   | 4  |
+| Chaetodon ephippium                     | р  |   |    |
+| Chaetodon unimaculatus                  | р  |   |    |
+| Chaetodon lunula                        | р  |   |    |
+| Chaetodon trifasciatus                  | 3  |   | 3  |
+| Chaetodon ornatissimus                  | р  |   | Р  |
+| Chaetodon vagabundus                    | Р  |   | 2  |
+| Chaetodon pelewensis                    | р  |   | 1  |
+| Chaetodon auriga                        |    |   | p  |
+| Chaetodon melannotus                    | Р  |   | p  |
+| Chaetodon bennetti                      |    |   | р  |
+| Chaetodon ulietensis                    | р  |   |    |
+| Chaetodon semeion                       |    |   | р  |
+| Chaetodon trifascialus                  | 2  |   | 4  |
+| Forcopiger flavissimus                  |    |   | 1  |
+| Centropyge flavissimus                  | P  |   | р  |
+| Centropyge loriculus                    |    |   | р  |
+| Pygoplites diacanthus                   | 1  |   | 1  |
+| Dascyllus trimaculatus                  | 5  |   | p  |
+| Plectroglyphidodon johnstonianus        | 28 |   | 13 |
+| Plectroglyphidodon dickii               | 81 | • | 24 |
+| Plectroglyphidodon lacrymatus           | 6  |   | 21 |
+
+|                                    | A   |     | В  |
+|------------------------------------|-----|-----|----|
+| Pomacentrus vaiuli                 | 8   |     | 7  |
+| Pomacentrus brachialis             | 81  |     | 84 |
+| Abdefduf sexfasciatus              |     |     | 4  |
+| Chromis margaritifer               | 1   |     | 2  |
+| Chromis acares                     | 44  |     | 38 |
+| Chromis xanthura                   | 3   |     | 20 |
+| Chromis iomelas                    | 1   |     | 5  |
+| Amphiprion perideraion             | р   |     |    |
+| Amphiprion chrysopterus            | р   |     | p  |
+| Amphiprion melanopus               |     |     | P  |
+| Orysiptera cyanea                  | р   |     | P  |
+| Chrysiptera leucopoma              |     | . • | 1  |
+| Neopomacentrus metallicus          | p p |     |    |
+| Paracirrhites arcatus              | 2   |     | 2  |
+| Paracirrhites forsteri             | p   |     | 3  |
+| Neocirrhites armatus               |     |     | 1  |
+| Labroides bicolor                  | p   |     |    |
+| Labroides dimidiatus               | 3   |     | 1  |
+| Labroides pectoralis               |     |     | 1  |
+| Labroides rubrolabiatus            | р   |     | 2  |
+| Epibulus inisidiator               | р   |     |    |
+| Cheilinus rhodochrous              | р   |     | 1  |
+| <u>Cheilinus</u> <u>trilobatus</u> | p   | •   | ٠  |
+| Cheilinus diagrammus               | р   |     |    |
+| Cheilinus oxycephalus              | р   |     |    |
+| Pseudocheilinus octotaenia         | p   |     |    |
+| Pseudocheilinus hexataenia         | 1   |     | 5  |
+
+|                             | <u>A</u> | В |
+|-----------------------------|----------|---|
+| Thalassorna lutescens       | 1        | 1 |
+| Thalassotna hardwickei      | P        | 2 |
+| Thalassorna Quin Quevittata |          | 2 |
+| Thalassokna amblycephalus   | р        |   |
+| Gomphosus varius            | . 7      | 3 |
+| Coris gaimard               | р        | р |
+| Coris aygula                | р        |   |
+| Stethojulis bandanensis     | р        | р |
+| Anampses caeruleopunctatus  | р        |   |
+| Anampses twistii            | р        | 1 |
+| Halichoeres hortulanus      | р        | 1 |
+| <u>Halichoeres</u> sp.      |          | р |
+| Hemigymnus fasciatus        | р        | 2 |
+| Hemigymnus melapterus       | р        |   |
+| Labrichthys unilineatus     | p,       |   |
+| Macropharyngodon meleagris  |          | 1 |
+| Calotomus sandwicensis      | р        | 2 |
+| Scarus sp.                  | 3        | 2 |
+| Scarus sordidus             | 3        | 2 |
+| Scarus dimidiatus           |          | 1 |
+| Scarus psitticus            | р        | · |
+| Scarus scaber               |          | р |
+| Scarus frenatus             | р        | 3 |
+| Scarus tricolor             |          | р |
+| Scarus japanensis           | 1        |   |
+| Scarus brevifilis           |          | 2 |
+
+. !
+
+| <u>_A</u>                      | В    |
+|--------------------------------|------|
+| Scarus spinus p                |      |
+| Scarus niger p                 |      |
+| Scarus oviceps 1               |      |
+| Scarus rubroviolaceus p        | 5    |
+| Scarus gibbus                  |      |
+| Hipposcarus harid P            |      |
+| Exalias brevis                 | 1    |
+| Cirripectes stigmaticus 5      | 20   |
+| Ptereleotris evides p          | 2    |
+| Valencienna strigata           | p    |
+| Acanthurus glaucoparius 7      | 7    |
+| Acanthurus nigrofuscus 2       | 1    |
+| Acanthurus lineatus 4          | 1    |
+| Acanthurus pyroferus           | р    |
+| Ctenochaetus striatus 2        | 1 32 |
+| Zebrasoma veliferum 1          |      |
+| Zebrasoma flavescens           | 2    |
+| Zebrasoma scopas 2             | 1    |
+| Naso literatus 2               | 1    |
+| Zanclus cornutus               | ż    |
+| Siganus argenteus P            |      |
+| Melichthys vidua p             | 3    |
+| Balistapus undulatus p         | p    |
+| Alutera scripta p              |      |
+| <u>Cantherhines dumerili</u> p |      |
+
+|                             | Α   | В    |
+|-----------------------------|-----|------|
+| Cantherhines pardalis       | 1   |      |
+| Oxymonacanthus longirostois | 5   |      |
+| Amanses scopas              | 1   |      |
+|                             |     |      |
+| Total species               | 107 | · 92 |
+| On-Transect species         | 47  | 65   |
+| On-Transect Individuals     | 360 | 384  |
+
+TABLE 4. Comparison of numbers of fish species pre A. planci versus post A. planci at the Cape Larsen transect. Number of changes expected by chance alone = 2.5; ? = increase; \$\dagger\$ = decrease.
+
+| Myrpristis berndti         | ns                   |
+|----------------------------|----------------------|
+| Sargocentron tiere         | ns                   |
+| Cephalopholis argus        | ns                   |
+| C. urodelus                | ns                   |
+| Caranx melampygus          | ns                   |
+| Gnathodentex aureolineatus | ns                   |
+| Mulloides flavolineatus    | ns                   |
+| Parupeneus bifasciatus     | ns                   |
+| Pempheris oualensis        | ns                   |
+| Chaetodons                 | ns                   |
+| Chaetodon reticulatus      | ns                   |
+| C. trifascialis            | ns                   |
+| Centropyge flavissimus     | ns                   |
+| Chromis acares             | ns                   |
+| C. iomelas                 | ns                   |
+| C. margaritifer            | ns                   |
+| C. xanthura                | ns .                 |
+| Chrysiptera cyanea         | ns                   |
+| Neopomacentrus metallicus  | ns                   |
+| Plectroglyphidodon dickii  | <b>↓</b> (P < 0.01). |
+| P. johnstonianus           | ns                   |
+| P. lacrymatus              | ns                   |
+| Pomacentrus brachialis     | ns                   |
+| P. vaiuli                  | ns                   |
+
+| Stegastes fasciolatus                 | ns                  |
+|---------------------------------------|---------------------|
+| Paracirrhitis arcatus                 | <b>↓</b> (P < 0.05) |
+| <pre>P. forsteri</pre>                | ns                  |
+| Anampses twistii                      | ns                  |
+| Bodianus axillaris                    | <b>↓</b> (P < 0.05) |
+| Gomphosus varius                      | ns                  |
+| <u>Halichoeres</u> <u>hortulanus</u>  | ↑ (P < 0.05)        |
+| H. marginatus                         | ns                  |
+| Labroides dimidiatus                  | ns                  |
+| L.rubrolabiatus                       | ns                  |
+| Pseudocheilinus hexataenia            | ns                  |
+| Thalassoma hardwickei                 | ns                  |
+| T. quinquevittatum                    | ns                  |
+| Scarus japanensis                     | ns                  |
+| S. niger                              | ns                  |
+| S. sordidus                           | ns                  |
+| <u>Cirripectes</u> <u>stigmaticus</u> | ns                  |
+| Meiacanthus atrodorsalis              | ns                  |
+| Acanthurus glaucopareius              | ns                  |
+| A. nigrofuscus                        | ns                  |
+| Ctenochaetus striatus                 | ns                  |
+| C. strigosus                          | ns                  |
+| Naso lituratus                        | ↑ (P < 0.05)        |
+| Melichthys vidua                      | ns                  |
+| Amanses scopas                        | ns                  |
+| Ostracion meleagris                   | ns                  |
+| Canthigaster solandri                 | ns                  |
