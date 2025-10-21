@@ -1,0 +1,1228 @@
+--- SENTENCE 1 ---
+[](_page_0_Picture_2.jpeg)
+
+# Coral-associated marine fungi form novel lineages and heterogeneous assemblages
+
+Anthony S Amend<sup>1</sup>, Daniel J Barshis<sup>2</sup> and Thomas A Oliver<sup>2</sup>
+
+<sup>1</sup>Department of Botany, University of Hawaii at Manoa, Honolulu, HI, USA and <sup>2</sup>Hopkins Marine Station of Stanford University, Pacific Grove, CA, USA
+
+Coral stress tolerance is intricately tied to the animal's association with microbial symbionts.
+
+--- SENTENCE 2 ---
+The most well-known of these symbioses is that between corals and their dinoflagellate photobionts (Symbiodinium spp.), whose genotype indirectly affects whether a coral can survive cyclical and anthropogenic warming events.
+
+--- SENTENCE 3 ---
+Fungi comprise a lesser-known coral symbiotic community whose taxonomy, stability and function is largely un-examined.
+
+--- SENTENCE 4 ---
+To assess how fungal communities inside a coral host correlate with water temperature and the genotype of co-occurring Symbiodinium, we sampled Acropora hyacinthus coral colonies from adjacent natural pools with different water temperatures and Symbiodinium identities.
+
+--- SENTENCE 5 ---
+Phylogenetic analysis of coral-associated fungal ribosomal DNA amplicons showed a high diversity of Basidiomycetes and Ascomycetes, including several clades separated from known fungal taxa by long and well-supported branches.
+
+--- SENTENCE 6 ---
+Community similarity did not correlate with any measured variables, and total fungal community composition was highly variable among A. hyacinthus coral colonies.
+
+--- SENTENCE 7 ---
+Colonies in the warmer pool contained more phylogenetically diverse fungal communities than the colder pool and contained statistically significant 'indicator' species.
+
+--- SENTENCE 8 ---
+Four taxa were present in all coral colonies sampled, and may represent obligate associates.
+
+--- SENTENCE 9 ---
+Messenger RNA sequenced from a subset of these same colonies contained an abundance of transcripts involved in metabolism of complex biological molecules.
+
+--- SENTENCE 10 ---
+Coincidence between the taxonomic diversity found in the DNA and RNA analysis indicates a metabolically active and diverse resident marine fungal community.
+
+--- SENTENCE 11 ---
+The ISME Journal advance online publication, 22 December 2011; doi:10.1038/
+
+--- SENTENCE 12 ---
+ismej.2011.193
+
+Subject Category: microbe-microbe and microbe-host interactions
+
+**Keywords:** marine fungi; 454 meta-genomics; mRNA meta-transcriptomics; scleractinian coral bleaching; *Malassezia*; fungal community assembly
+
+## Introduction
+
+Microbial impacts on a host's physiology, metabolism and fitness are a hallmark of symbiotic microbe-host interactions.
+
+--- SENTENCE 13 ---
+A clear example of one such obligate symbiosis is the interaction between corals and their co-evolved photo-symbionts: dinoflagellates in the genus Symbiodinium.
+
+--- SENTENCE 14 ---
+Although commonly presented as a simple model mutualism, technological advances such as scanning electron microscopy and environmental DNA sequencing have demonstrated additional complexity to this symbiosis involving a wide array of microbial symbionts associated with corals.
+
+--- SENTENCE 15 ---
+A high diversity of bacteria, archaea, viruses, algae, protozoa and fungi comprise a complex assemblage that, including the coral animal, has been termed the coral holobiont (Rohwer et al., 2002; Knowlton and Rohwer, 2003).
+
+--- SENTENCE 16 ---
+These organisms have been found to differ from those in the adjacent water column and represent potentially co-evolved symbionts (Rosenberg *et al.*, 2007).
+
+--- SENTENCE 17 ---
+Although the association between corals and fungi (henceforth 'coral fungi') has been reported from a wide host, geographic and climatic range (Freiwald et al., 1997), very little is known about their identity or the nature of their interaction with the holobiont.
+
+--- SENTENCE 18 ---
+Coral fungi were long believed to be parasitic to the coral itself (Kendrick et al., 1982) or to endolithic algae within the coral skeleton (Priess et al., 2000).
+
+--- SENTENCE 19 ---
+More recent hypotheses portray coral fungi as potentially mutualistic; either protecting the holobiont from infection and disease (Rohwer et al., 2002; Reshef et al., 2006; Shnit Orland and Kushmaro, 2009), or else by cycling recalcitrant nitrogen molecules for uptake by the Symbiodinium (Wegley et al., 2007).
+
+--- SENTENCE 20 ---
+Alternatively, coral fungi may span a continuum from mutualist to commensalist to parasite depending on environmental context and overall coral health (Le Campion-Alsumard et al., 1995;
+
+--- SENTENCE 21 ---
+Bentis et al., 2000; Golubic et al., 2005; Wegley et al., 2007; Lesser et al., 2007a; Thurber et al., 2009).
+
+--- SENTENCE 22 ---
+In contrast to the relationship between coral and fungus, comparatively much is understood about
+
+Correspondence: A Amend, Department of Botany, University of Hawaii at Manoa, 3190 Maile Way, Honolulu, HI 96822, USA.
+
+--- SENTENCE 23 ---
+E-mail: amend@hawaii.edu
+
+Received 17 March 2011; revised 9 November 2011; accepted 21 November 2011
+
+interactions between the coral animal and Symbiodinium, which passes photosynthetically fixed carbon to its host and greatly accelerates the process of calcification (Muscatine et al., 2005).
+
+--- SENTENCE 24 ---
+The majority of Symbiodinium are obligately symbiotic, and genetically distinct Symbiodnium can confer differing levels of heat tolerance to the coral holobiont (Rowan et al., 1997).
+
+--- SENTENCE 25 ---
+For example, in both field observations and laboratory experiments, corals hosting specific members of clade D Symbiodinium have been shown to be more resistant to warmer waters and less prone to bleaching than corals hosting common members of clade C (Rowan, 2004; Berkelmans and Van Oppen, 2006).
+
+--- SENTENCE 26 ---
+Acroporid corals are known to associate with multiple genetically distinct Symbiodinium types, including heatresistant members of clade D (Baker, 2003; Oliver and Palumbi, 2011).
+
+--- SENTENCE 27 ---
+Our objectives here are to investigate the relationship between *Symbiodinum*, the environment and fungi associated with *Acropora hyacinthus* a reef building, tropical coral.
+
+--- SENTENCE 28 ---
+First, we assess the phylogenetic diversity of fungi associated with *A. hyacinthus* to detect whether these comprise lineages distinct from terrestrial fungi.
+
+--- SENTENCE 29 ---
+While a growing body of literature has found novel lineages of marine fungi in pelagic, sedimentary and vent environments, very few have examined the phylogenetic placement of marine biotrophic fungi, which presumably share many functional and nutritive traits with terrestrial biotrophic relatives.
+
+--- SENTENCE 30 ---
+Second, we assess whether Symbiodinium genotype or pool environment correlate with A. hyacinthus fungal community composition.
+
+--- SENTENCE 31 ---
+Both environment and host identity have been shown to determine community composition in biotrophic fungi on land (Schechter and Bruns, 2008; Smith et al., 2009), even over relatively small spatial and phylogenetic scales (Sthultz et al., 2009).
+
+--- SENTENCE 32 ---
+As Symbiodinium produces the majority of the holobiont's carbon, and because of presumed algal-fungal interactions (Wegley et al., 2007), we hypothesize that *Symbiodinum* genotype would significantly impact A. hyacinthus fungal community composition.
+
+--- SENTENCE 33 ---
+We sample replicate coral colonies containing either Symbiodinium C or D from two natural pools with different water temperatures in order to assess how these variables impact coral fungi.
+
+--- SENTENCE 34 ---
+Since environmental conditions covary with Symbiodinium genotype, and because global change is predicted to increase both water temperature and the prevalence of corals with heat tolerant D-clade Symbiodinium, we also hypothesize that the water temperature—genotype interaction significantly partitions fungal community variance.
+
+--- SENTENCE 35 ---
+Finally, because there are relatively few macroscopic marine fungi, it is unclear whether the taxonomic diversity of fungal communities detected via culture-independent DNA methods reflects active marine residents or terrestrial debris.
+
+--- SENTENCE 36 ---
+To infer whether metabolically active community
+
+membership overlaps that detected via DNA-based techniques, we examine the fungal mRNA transcripts of a subset of colonies under both ambient and warmed conditions.
+
+--- SENTENCE 37 ---
+This method has the additional benefit of providing insight into which metabolic pathways are used in symbiosis, enabling us to generate new hypothesis and experiments to determine coral fungal functional roles.
+
+#### Materials and methods
+
+Sample site and collections
+
+A. hyacinthus coral colonies were sampled from each of two back-reef pools on Ofu Island in American Samoa (14°11′S, 169°36′W).
+
+--- SENTENCE 38 ---
+These pools are approximately 500 m apart and are characterized by varying degrees of daily fluctuations in a suite of environmental variables (for example, temperature, flow, salinity) described in detail elsewhere (Smith et al., 2007, 2008; Barshis et al., 2010; Oliver and Palumbi, 2011).
+
+--- SENTENCE 39 ---
+The magnitude of the environmental fluctuations correlate with the amount of open ocean admixture, providing variable environmental conditions over short distances, while presumably maintaining comparable access to pools of microbial immigrants.
+
+--- SENTENCE 40 ---
+In the low mixture pool (warm pool) sampled in this study, water temperature fluctuates up to 6 °C daily, and summer water temperature maxima are as much as 1.5 °C warmer than in the adjacent highmixture pool (cold pool).
+
+--- SENTENCE 41 ---
+Owing to differences in thermal tolerance, only *Symbiodinium* D (ITS1, sensu Van Oppen et al., 2001) are found in the warm pool, whereas both *Symbiodinium* C and D associate with corals in the cold pool, occasionally forming mixed assemblages within a colony.
+
+--- SENTENCE 42 ---
+For DNA analysis, individual coral fragments ( $\sim 2\,\mathrm{cm^3}$  per fragment) were sampled from 18 colonies of *A. hyacinthus* in each pool (36 total colonies) and stored in 70% ethanol until subsequent nucleic acid extraction.
+
+--- SENTENCE 43 ---
+For mRNA analysis, six individuals were removed from the cold pool and divided into duplicate samples.
+
+--- SENTENCE 44 ---
+One duplicate was maintained in a laboratory tank at approximately ambient temperature (26.8–34.5 °C), whereas the other was maintained in a warmer-temperature tank (27–37.6 °C).
+
+--- SENTENCE 45 ---
+Colonies were retrieved after 72 h and stored in a high-concentration trisodium citrate buffer until subsequent nucleic acid extraction.
+
+#### Nucleic acid extractions
+
+Genomic DNA was extracted from colonies preserved in 70% ethanol using a Nucleospin Tissue kit (Clontech, Mountain View, CA, USA) as per the manufacturer's instructions.
+
+--- SENTENCE 46 ---
+Total RNA was extracted using a modified TRIzol (GibcoBRL/Invitrogen, Carlsbad, CA, USA) protocol.
+
+--- SENTENCE 47 ---
+Approximately, 150–200 mg of coral tissue and
+
+!
+
+--- SENTENCE 48 ---
+[](_page_2_Picture_3.jpeg)
+
+skeleton was placed in 1 ml of TRIzol and homogenized for 2 min by vortexing with B100 ml of 0.5 mm Zirconia/Silica Beads (BioSpec Products, Inc., Bartlesville, OK, USA).
+
+--- SENTENCE 49 ---
+Resulting tissue/TRIzol slurry was removed by centrifugation and standard TRIzol extraction was performed according to the manufacturer's specifications with the replacement of 250 ml of 100% isopropanol with 250 ml of high salt buffer (0.8 M Na citrate, 1.2 M NaCl) during the final precipitation step.
+
+--- SENTENCE 50 ---
+Resulting RNA pellet was resuspended in 12 ml of diethyl pyrocarbonate treated H2O.
+
+# Symbiodinium genotyping
+
+Symbiodinium genotyping was performed by assessing PCR amplicon size polymorphism of chloroplast gene cp23s on an agarose gel using methods as described by [Oliver and Palumbi \(2011\)](#page-10-0).
+
+--- SENTENCE 51 ---
+Briefly, because of indel variants of chloroplast genes among Symbiodinium clades C and D, the size of the PCR product can be used to detect the presence of one or both genotypes.
+
+--- SENTENCE 52 ---
+Although most colonies in the cold pool presumably contain both Symbiodium genotypes to some degree, quantitative PCR (data not shown) demonstrates that this method reliably detects the genotype if present at 410% proportional abundance.
+
+--- SENTENCE 53 ---
+## PCR and 454 sequencing of genomic DNA
+
+Approximately 10 ng DNA was used to amplify B950 bp of the gene containing the D1 and D2 variable regions of the large-subunit (28S) ribosomal DNA, using oligos containing the LRORf and LR5f primers, the 454 'A' and 'B' adaptors and a 10-bp multiplex tag as in Amend et al
+
+--- SENTENCE 54 ---
+Negative controls were run on PCR reactions.
+
+--- SENTENCE 55 ---
+PCR products were cleaned using the QIAquick PCR Purification Kit (Qiagen, Valencia, CA, USA) following the manufacturer's instructions, quantified using a Qubit Fluorometer (Invitrogen), pooled into equimolar concentrations and pyrosequenced at the Duke University ISGP Sequencing Facility on one of eight regions of a plate using the 454 Life Sciences FLX Titanium platform.
+
+--- SENTENCE 56 ---
+Raw sequences were deposited in the Short Read Archives of NCBI under accession SRP005168.
+
+#### Bioinformatic processing of 454 DNA amplicon sequences
+
+Base calls and quality scores derived from the 454 sequencer were 'de-multiplexed', quality-control processed and clustered into operation taxonomic units (OTUs) using the MOTHUR v.1.14.0 analytic pipeline ([Schloss](#page-10-0) et al., 2009).
+
+--- SENTENCE 57 ---
+Reads were culled if they were shorter than 250 bp, imperfectly matched the priming site or barcode sequences, contained a mean Q-score o30, or contained a homopolymer run longer than 12 bases.
+
+--- SENTENCE 58 ---
+The remaining sequences were queried against the NCBI nr/nt database using BLASTN ([Altschul](#page-9-0) et al., [1997\)](#page-9-0) on the Bioportal server at the University of Oslo.
+
+--- SENTENCE 59 ---
+The resulting BLAST output was imported into MEGAN 3.9 and taxonomy was determined by 'last common ancestor' analysis (with parameters as described in Amend et al
+
+--- SENTENCE 60 ---
+[. \(2010\)\).](#page-9-0) Non-fungal sequences (mostly from corals) were removed.
+
+--- SENTENCE 61 ---
+Fungal sequences were aligned in MOTHUR, using a published 28S ribosomal DNA alignment [\(James](#page-9-0) et al
+
+--- SENTENCE 62 ---
+[., 2006](#page-9-0)) as a template.
+
+--- SENTENCE 63 ---
+Putative chimeras were screened and removed using the 'Chimera-Slayer' algorithm in MOTHUR with default settings.
+
+--- SENTENCE 64 ---
+Phylogenetic analysis of DNA amplicons
+
+Non-singleton OTUs were aligned with a nonredundant set of their top BLAST matches (N ¼ 497) to the NCBI nr/nt database and the 28S sequences from the phylogeny of James et al
+
+--- SENTENCE 65 ---
+[. \(2006\)](#page-9-0) using the local pairwise alignment setting of MAFFT.
+
+--- SENTENCE 66 ---
+The resulting alignment contained 529 characters.
+
+--- SENTENCE 67 ---
+A maximum likelihood tree was calculated using a web-server implementation of RAxML (v. 7.2.8; [Stamatakis](#page-10-0) et al., 2008) with Gamma rates of nucleotide heterogeneity and the six-gene Fungal Bayesian tree from James et al
+
+--- SENTENCE 68 ---
+[. \(2006\)](#page-9-0) as a backbone to constrain the resulting topology
+
+--- SENTENCE 69 ---
+The tree was visualized using the Interactive Tree of Life Program ([Letunic and Bork, 2006](#page-10-0)).
+
+--- SENTENCE 70 ---
+Computing and comparing community similarity For phylogenetic diversity analyses, all remaining sequences were included in a minimum evolution tree computed using the FastTree program ([Price](#page-10-0) et al
+
+--- SENTENCE 71 ---
+[., 2009\)](#page-10-0), using the six-gene Bayesian tree as a constraint as above.
+
+OTUs were calculated using MOTHUR's pre-cluster option followed by average-linkage clustering.
+
+--- SENTENCE 72 ---
+An OTU sequence identity threshold of 97% was used for subsequent analyses.
+
+--- SENTENCE 73 ---
+We are unaware of any estimates of the rate of evolution for this locus in fungi, but presume that this cutoff resolves taxa at approximately the genus or family level, rather than at approximately the species level inferred using the same cut-off level with the ITS cistron [\(Nilsson](#page-10-0) et al., 2008).
+
+--- SENTENCE 74 ---
+Differences in community composition were tested using the non-parametric ANOSIM analysis (available in the VEGAN package of R; [Dixon, 2003\)](#page-9-0) on matrices of the unweighted Unifrac (Phylogenetic Diversity; [Lozupone and Knight, 2005\)](#page-10-0) and Jaccard (OTU diversity) distances.
+
+--- SENTENCE 75 ---
+For each diversity index calculated, sample sizes were normalized by randomly selecting the number of sequences in the smallest sample from all other samples, computing the distance matrix, and then calculating the mean matrix values from 1000 such random samplings.
+
+--- SENTENCE 76 ---
+Distance matrices calculated to include relative abundance of sequencing reads (weighted Unifrac and Bray Curtis index) did not significantly change statistical results and are not discussed further.
+
+--- SENTENCE 77 ---
+Symbiodinium genotype effects were tested by comparing groups of individuals from the cold
+
+<span id="page-3-0"></span>![](_page_3_Figure_3.jpeg)
+
+--- SENTENCE 78 ---
+Figure 1 Best of 100 maximum likelihood trees of non-singleton coral-fungi OTUs.
+
+--- SENTENCE 79 ---
+The tree used a previously published phylogeny as a constraining reference, and was augmented with 497 sequences, which were the top BLAST matches of OTUs downloaded from NCBI nr/nt database.
+
+--- SENTENCE 80 ---
+Superimposed on the phylogeny are color-coded cladistic information (inner ring) and sequence source (outer ring).
+
+--- SENTENCE 81 ---
+Basidiomycetes are designated with warm colors, Ascomycetes with cool.
+
+--- SENTENCE 82 ---
+Uninterrupted black bars on the outer ring indicate clusters of A. hyacinthus fungi, which are more closely related to other coral fungi than to previously sequenced species.
+
+--- SENTENCE 83 ---
+The 11 taxa that were found in 490% of the corals are indicated with black pushpins.
+
+--- SENTENCE 84 ---
+A larger image with legible labels is provided as supplementary information.
+
+--- SENTENCE 85 ---
+Sequences lacking a taxonomic color-code belong to lineages absent in this study.
+
+--- SENTENCE 86 ---
+pool only, as well as by comparing all clade D individuals with all clade C individuals while accounting for variance contributed by pool of origin.
+
+--- SENTENCE 87 ---
+Environmental effects were tested by comparing only clade D individuals grouped by pool, as well as by comparing all individuals grouped by pool while accounting for variance contributed by Symbiodinium genotype.
+
+--- SENTENCE 88 ---
+Genotype–environment interaction effects were tested by grouping individuals by both genotype and pool (clade D warm, clade D cold, clade C cold, mixed genotype cold).
+
+--- SENTENCE 89 ---
+#### Evaluating fungal OTU distribution patterns
+
+Non-random positive co-occurrence patterns can indicate symbiotic relationships among organisms.
+
+--- SENTENCE 90 ---
+To test whether the number of OTUs found in every coral sample differed from what would be expected given random occurence, we used a randomization procedure in which we maintained sequence totals per sample and sequence totals per OTU (row and column sums of the OTU matrix) while randomizing OTU locations.
+
+--- SENTENCE 91 ---
+Observed co-occurrence patterns were compared with those of 100 such randomizations to calculate whether deviations from a randomized null distribution were statistically significant.
+
+--- SENTENCE 92 ---
+To test whether individual OTUs were statistically associated with either pool of origin or Symbiodinium genotype, we conducted a species indicator analysis.
+
+--- SENTENCE 93 ---
+As low abundance OTUs are likelier to be unique to a grouping variable (such as pool or Symbiodinium type) by random chance, this procedure uses randomizations to calculate the probability that an association between an OTU and an environmental variable indicates a statistical deviation from null expectations given that OTU's observed frequency.
+
+--- SENTENCE 94 ---
+Indicator values were calculated with the multipatt algorithm in the Indicspecies package ([Ca´ceres and Legendre, 2009\)](#page-9-0) in R, computed with 999 permutations.
+
+--- SENTENCE 95 ---
+The procedure was parameterized to consider each grouping variable independently in addition to interactions among grouping variables, while assigning significance to OTUs among all possible permutations of variable combinations.
+
+--- SENTENCE 96 ---
+#### Illumina sequencing of mRNA
+
+Messenger RNA was isolated from total RNA using the micro fast-track mRNA isolation kit (Invitrogen) and an overnight precipitation at -801C.
+
+--- SENTENCE 97 ---
+Between 40 ng and 1 mg of mRNA was used in Illumina library
+
+!
+
+--- SENTENCE 98 ---
+[](_page_4_Picture_3.jpeg)
+
+construction as in Beck et al. (2010).
+
+--- SENTENCE 99 ---
+Briefly, mRNA was converted to double-stranded complementary DNA in a PCR reaction containing random hexamer primers, Superscript III Reverse Transcriptase (Invitrogen) and supplied buffer.
+
+--- SENTENCE 100 ---
+Reactions were cleaned with the MinElute Reaction Cleanup Kit (Qiagen).
+
+--- SENTENCE 101 ---
+Double-stranded, paired-end oligonucleotide adapters were ligated onto the ds-complementary DNA using T4 DNA Ligase (Invitrogen) at 16 °C for 4h.
+
+--- SENTENCE 102 ---
+Resulting libraries were size selected for 200-300-bp fragments using agarose gel electrophoresis and purified using the MinElute Gel Extraction Kit (Qiagen).
+
+--- SENTENCE 103 ---
+The final library was generated by PCR amplification of the Linker-ligated complementary DNA using P5 and P7 primers and Phusion PCR Master Mix (New England Biolabs, Ipswitch, MA, USA) using the following cycle program: initial denature at 98 °C for 30 s, 15 cycles of 98 °C for 10 s, 65 °C for 30 s, 72 °C for 30 s and a final extension at 72 °C for 5 min.
+
+--- SENTENCE 104 ---
+The sample of one individual's ambient-temperature treatment was not sequenced, thus 11 total libraries were constructed from 6 individuals: 5 from ambient and 6 from heat-stressed duplicates.
+
+--- SENTENCE 105 ---
+Seven of these libraries were sequenced by Illumina Corp. with a 76-bp paired-end sequencing length (152 bp per sequence total) and the remaining four libraries were sequenced using single-end sequencing and a length of 36 bp in the lab of Dr Arend Sidow (Stanford University).
+
+--- SENTENCE 106 ---
+Fungal transcriptome assembly and annotation All 11 lanes of Illumina sequence data were assembled, de novo, using CLC Genomics Workbench (v.4, CLC Bio, Mühltal, Germany) with a mismatch cost of 1, insertion cost of 2, deletion cost of 2, length fraction of 0.27, similarity of 0.8, paired-end minimum distance of 1 and maximum distance of 250, single-end limit of 7, voting conflict resolution, random assignment of nonspecific matches and minimum contig length of 150.
+
+--- SENTENCE 107 ---
+All assembled contigs were compared with the NCBI NR protein database using BLASTX.
+
+--- SENTENCE 108 ---
+The resulting output was imported into MEGAN 3.9 for taxonomic assignment.
+
+--- SENTENCE 109 ---
+BLAST output of putatively fungal transcripts (only transcripts that were assigned by MEGAN/ LCA to kingdom Fungi) was imported into Blast2Go (Gotz *et al.*, 2008) for gene mapping and annotation.
+
+--- SENTENCE 110 ---
+Matches that mapped at >40% similarity and with E-values  $< 10^{-5}$  to putative proteins were retained and annotated with general GO-slim categories.
+
+#### Results
+
+DNA sequencing
+
+Following initial DNA sequence processing, 57 415 reads were retained.
+
+--- SENTENCE 111 ---
+In all, 28 083 sequences, nearly half of all reads, derived from the coral animals themselves and were subsequently removed from the data set, leaving 26 022 high-quality fungal sequences.
+
+--- SENTENCE 112 ---
+Phylogenetic placement of A. hyacinthus-associated
+
+A large number of well-supported clades separated from terrestrial taxa by long branch-lengths were recovered within, or sister to, many Orders (Supplementary Figures S1–S3).
+
+--- SENTENCE 113 ---
+The average identity of the top alignment of each OTU to a Genbank fungal sequence (including unidentified environmental sequences) was low: 97.39% ± 1.83 (s.d.) aligned over  $325.16 \pm 36.68$  bp, reflecting the novelty of diversity detected here.
+
+--- SENTENCE 114 ---
+A. hyacinthus contained a high diversity of fungi, almost entirely dominated by Ascomycetes and Basidiomycetes (Figure 1).
+
+--- SENTENCE 115 ---
+Sordariomycetes and Dothideomycetes (Ascomycota), and Agaricomycetes and Ustilaginomycetes (Basidiomycota) were the most species-rich.
+
+--- SENTENCE 116 ---
+Notably absent was the causative agent of coral aspergillosis: Aspergillus sydowii, as well as most genera of the polyphyletic 'Halosphaeriales' commonly found on algae and woody debris in marine environments.
+
+--- SENTENCE 117 ---
+Although several of the species detected here are closely related to species found in culture-based studies of marine fungi, including Dendryphiella sp., Debaryomyces sp. and Lulworthia sp., the majority of A. hyacinthus fungi were considerably divergent from known species, marine or otherwise.
+
+--- SENTENCE 118 ---
+Community similarity patterns
+
+The high number of coral sequences in the libraries resulted in unequal numbers of fungal sequences derived from each sample, thus for comparisons of beta-diversity and fungal OTU distributions, only samples containing >464 fungal sequences were included in the analyses.
+
+--- SENTENCE 119 ---
+Of these 19 remaining samples, 7 were from the warm pool (all Symbiodinium D) and 12 were from the cold pool (7 Symbiodinium C, 3 Symbiodinium D and 2 mixed genotype).
+
+--- SENTENCE 120 ---
+These remaining samples contained a mean of 1319 sequences  $\pm$  1290 (s.d.).
+
+--- SENTENCE 121 ---
+Fungal communities were not statistically differentiated when grouped by Symbiodinium genotype, pool of origin (warm or cold), Symbiodinium genotype within the cold pool, or pool  $\times$  genotype interaction.
+
+--- SENTENCE 122 ---
+Results of the ANOSIM analysis showed no significant differences in community composition as inferred from either OTU-based or phylogenetic dissimilarity metrics (no *P*-value < 0.2).
+
+--- SENTENCE 123 ---
+The majority (4570 of 5410) of OTUs detected were singletons, suggesting either that A. hyacinthusassociated fungal communities are highly diverse and undersampled, or else that a large component of the fungi we detected are transient and not obligately associated with these coral hosts.
+
+--- SENTENCE 124 ---
+Whereas singletons comprised a large proportion of OTUs, they made up only 15% of all fungal sequences.
+
+--- SENTENCE 125 ---
+Even with singletons removed, the majority of OTUs appear to be restricted to either a single pool and/or Symbiodinium genotype, with less than half shared between any two groups (Table 1).
+
+--- SENTENCE 126 ---
+<span id="page-5-0"></span>![](_page_5_Picture_2.jpeg)
+
+# Fungal OTU distribution patterns
+
+A core set of 11 OTUs were detected in 490% of all colonies assayed, 4 of which were present in all corals examined.
+
+--- SENTENCE 127 ---
+None of these sequences matched perfectly to known isolates.
+
+--- SENTENCE 128 ---
+Phylogenetic analysis demonstrates that five of these taxa are members of the Agaricomycetes, two are contained within the Ustilaginomycetes, three are Dothideomycetes and one is in the Sordariomycetes [\(Figure 1](#page-3-0)).
+
+--- SENTENCE 129 ---
+The observed number of core OTUs differed significantly from that expected given the null randomized distribution.
+
+--- SENTENCE 130 ---
+Given random co-occurrence patterns between coral samples and fungi, the null distribution predicted more core OTUs: a median expectation of 39 OTUs distributed among 90% of the corals vs 11 observed (Pp0.01), and an expectation of 34 occurring in all vs 4 observed (Pp0.01).
+
+--- SENTENCE 131 ---
+Of these core OTUs, those within the Ustilaginomycetes are closely allied to and nested within the Malasseziales (Supplementary Figure S3), a group of fungi generally associated with sebaceous glands of mammalian hosts (Gue´ho et al
+
+--- SENTENCE 132 ---
+Although other species of Malassezia are common on terrestrial animals, this is the first instance of a Cnidarian host reported.
+
+--- SENTENCE 133 ---
+Several Malassezia sensu lato were also detected in a recent study of marine sponges
+
+Table 1 Shared non-singleton OTUs among grouping variables shows relatively little overlap
+
+| Group          | #OTUs | #Shared       | %Shared         |  |
+
+--- SENTENCE 134 ---
+|----------------|-------|---------------|-----------------|--|
+| Variable pool  | 528   | 348           | 43.23           |  |
+
+--- SENTENCE 135 ---
+| Stable pool    | 625   |               |
+
+--- SENTENCE 136 ---
+|  |
+| Symbiodinium D
+
+--- SENTENCE 137 ---
+| 625   | 256 (C and D) | 24.38 (C and D)
+
+--- SENTENCE 138 ---
+|  |
+| Symbiodinium C | 425
+
+--- SENTENCE 139 ---
+| 11.80 (All)     |  |
+
+--- SENTENCE 140 ---
+| Mixed Genotype | 219   |
+
+--- SENTENCE 141 ---
+| Warm D         | 528   | 189           | 30.24           |  |
+| Cold D         | 286   |               |                 |  |
+| Cold D         | 286   | 172           | 31.91           |  |
+| Cold C         | 425   |               |                 |  |
+
+Abbreviation: OTU, operation taxonomic unit.
+
+--- SENTENCE 142 ---
+Parentheses denote which groups are compared in the adjacent value.
+
+--- SENTENCE 143 ---
+However, because different molecular markers were used here and in the sponge study, the sequences cannot be compared directly between these two studies.
+
+--- SENTENCE 144 ---
+The sequences of the Dothideomycetes fall within a group of fungi related to Hortaea werneckii, consisting of so-called 'black yeasts' that thrive in high salt environments and occasionally form rashes in human hosts ([Petrovic](#page-10-0) et al
+
+--- SENTENCE 145 ---
+The sequence in the Sordariomycetes appears closely related to Lindra (species undetermined), a genus in which species have previously been described on marine algae (Roth et al
+
+--- SENTENCE 146 ---
+Finally, every coral contained four distinct fungi in the Agaricomycetes.
+
+--- SENTENCE 147 ---
+One of these falls within the Marasmiaceae (from which marine fungi have been reported previously ([Kis-Papo, 2005\)](#page-9-0)), and the remainder appear nested within the Polyporales, an order of Basidiomycota that is typically saprotrophic and forms multi-cellular fruiting bodies in terrestrial environments.
+
+--- SENTENCE 148 ---
+Although community similarity was not correlated with Symbiodinium genotype or pool, the distributions of some individual OTUs were.
+
+--- SENTENCE 149 ---
+Indicator species analysis showed several species statistically associated with corals in the warm pool containing Symbiodium clade D, and a single species that was associated with corals containing clade D and mixed genotype Symbiodinium populations (Table 2).
+
+--- SENTENCE 150 ---
+Alpha-diversity of A. hyacinthus-associated fungi Somewhat different patterns emerged from phylogenetic and OTU-based diversity analyses of fungal associates [\(Figure 2](#page-6-0)).
+
+--- SENTENCE 151 ---
+Rarefied phylogenetic diversity was significantly higher in the warm pool compared with the cold pool (one-tailed t-test, t ¼ 3.87, df ¼ 10, P ¼ 0.003).
+
+--- SENTENCE 152 ---
+No significant differences in fungal diversity were found among corals grouped by the Symbiodinium genotypes.
+
+--- SENTENCE 153 ---
+No significant differences were found among means of rarefied OTU richness for any grouping.
+
+--- SENTENCE 154 ---
+Table 2 Description of statistically significant indicator species
+
+| Sequence                   | Statistic | P-value | Taxonomic group    | Best BLAST match                  | Match ID                             | % ID |
+|----------------------------|-----------|---------|--------------------|-----------------------------------|--------------------------------------|------|
+| Warm pool clade D          |           |         |                    |                                   |                                      |      |
+
+--- SENTENCE 155 ---
+| GLSBCHB02BVQZG             | 0.884     | 0.005   | Pleosporales       | Stagnospora/<br>Alternaria/Edenia | HM216201.1/<br>HM216200.1/FJ839654.1 | 98   |
+| GLSBCHB02CE29K             | 0.784     | 0.044   | Sordariomycetes    | Verticillium                      | AY312607.1                           | 99   |
+| GLSBCHB02BU5TQ             | 0.781     | 0.044   | Agaricomycetes     | Phlebia                           | AF141624.1                           | 98   |
+| GLSBCHB02BW3T6             | 0.756     | 0.009   | Pleosporales       | Dendriphiella                     | EU848587.1                           | 99   |
+
+--- SENTENCE 156 ---
+| GLSBCHB02CK398             | 0.756     | 0.011
+
+--- SENTENCE 157 ---
+| Ustilaginomycotina | Malassezia globosa                | AY743604.1                           | 98   |
+| GLSBCHB02B3JQH             | 0.655     | 0.031   | Pleosporales       | Westerdykella                     | GQ203754.1                           | 94   |
+| GLSBCHB02CENAB             | 0.655     | 0.04    | Pleosporales       | Bipolaris/Cochliobolus            | GU183125.1/GQ328852.1                | 98   |
+| GLSBCHB02B8O23             | 0.655     | 0.038   | Agaricomycetes     | Cerrena                           | FJ821522.1                           | 99   |
+| GLSBCHB02CGFVF             | 0.655     | 0.035
+
+--- SENTENCE 158 ---
+| Pleosporales       | Phaeosphaeriopsis musae           | DQ885894.1                           | 99   |
+| Clade D and mixed genotype |           |         |                    |                                   |                                      |      |
+| GLSBCHB02B1NDB             | 0.707     | 0.047   | Agaricomycetes     | Exidia/Exidiopsis                 | AY509555.1/
+
+--- SENTENCE 159 ---
+AY885162.1                | 97   |
+
+<span id="page-6-0"></span>![](_page_6_Figure_3.jpeg)
+
+--- SENTENCE 160 ---
+Figure 2 Box and whisker plots of alpha diversity of A. hyacinthus fungi communities.
+
+--- SENTENCE 161 ---
+Boxes contain the upper and lower quartiles, and the median is displayed as the band within.
+
+--- SENTENCE 162 ---
+The outlier (open circle) is >1.5 times the interquartile range, and whiskers display the extent of non-outlier values.
+
+--- SENTENCE 163 ---
+Phylogenetic diversity was significantly higher in the warm pools (t-test, P = 0.003).
+
+--- SENTENCE 164 ---
+Box plots sharing a letter (above) do not significantly differ in a Tukey  $post\ hoc$  test of an analysis of variance analysis, although phylogenetic diversity of the fungal communities associated with D clade from the warm pool were marginally higher than those associated with C clade from the cold pool (P = 0.06).
+
+--- SENTENCE 165 ---
+There were no significant differences in taxonomic diversity among variables.
+
+!
+
+--- SENTENCE 166 ---
+Figure 3 Order-level taxonomic diversity of mRNA contigs is broadly congruent with that of DNA amplicon OTUs for most orders, although several orders were exclusive, or nearly so, to one method over the other.
+
+--- SENTENCE 167 ---
+All orders shown here, except the Hymenochaetales, had at least a single draft genome deposited in NCBI Genbank at the time of writing.
+
+--- SENTENCE 168 ---
+The abundance shown here is a measure of diversity, neither transcript nor DNA copy numbers were measured directly.
+
+--- SENTENCE 169 ---
+#### Fungal community transcriptomics
+
+Illumina sequencing resulted in 294 624 883 sequences, which were assembled into 371 363 contigs averaging  $283.5\pm203.4\,\mathrm{bp}$  (s.d.) in length, and  $136\times$  coverage.
+
+--- SENTENCE 170 ---
+The vast majority were identified as coral, *Symbiodinium* or other non-fungal microbial transcripts.
+
+--- SENTENCE 171 ---
+In all, 5736 contigs matched fungal sequences with BLAST matches above our cutoff thresholds (>40% similarity and with *E*-values <10<sup>-5</sup>).
+
+--- SENTENCE 172 ---
+Out of these matches, 4515 contigs were mapped to hypothetical fungal proteins in Genbank.
+
+--- SENTENCE 173 ---
+Of these, 530 were annotated within the general GO-slim gene ontogeny framework (Figure 4).
+
+--- SENTENCE 174 ---
+Taxonomic diversity of mRNA mirrored that of DNA amplicons within the Agaricales, Sordario-mycetales and Ustilaginomycetales: the orders—aside from the Dothideales—containing the core fungal associates (Figure 3).
+
+--- SENTENCE 175 ---
+Although DNA amplicons revealed a higher diversity within the Agaricomycetes, each method revealed several different orders of Ascomycota.
+
+--- SENTENCE 176 ---
+The majority of GO-slim annotated fungal transcripts related to metabolic processes: notably enzymes involved in metabolism of complex molecules such as proteins, polysaccharides, carbohydrates and lipids.
+
+--- SENTENCE 177 ---
+Nitrogen metabolism was
+
+<span id="page-7-0"></span>![](_page_7_Picture_2.jpeg)
+
+#### **Gene Ontogeny Terms of Fungal Transcripts**
+
+!
+
+--- SENTENCE 178 ---
+Figure 4 Diversity of generic Gene Ontogeny (GO) terms to which fungal transcripts were assigned.
+
+--- SENTENCE 179 ---
+The top 20 percentile of 173 terms are shown here.
+
+particularly well-represented, and included enzymes involved in nucleic acid, amine and cellular nitrogen compound metabolism.
+
+--- SENTENCE 180 ---
+Specific enzymes included fungal ureases, enzymes involved in glutimate and glutamine pathways, nitrate and nitrite reductase, as well as multiple chitinases, peptidases and a relative of b-N-acetylglucosaminidase.
+
+--- SENTENCE 181 ---
+# Discussion
+
+Phylogenetic diversity in A. hyacinthus-associated fungal communities
+
+We found several groups in the Agaricomycetes, Ustilaginomycetes, Eurotiomycetes and Dothideomycetes that form separate, well-supported clades with branch lengths suggesting novel lineages (Supplementary Figures S1–S3).
+
+--- SENTENCE 182 ---
+Considering the relative paucity of culture-independent fungal studies in marine environments, such novelty reflects a presumed vast amount of yet undescribed fungal diversity.
+
+--- SENTENCE 183 ---
+The fact that our average BLAST match was only 97% similar to the best reference sequence of the commonly sequenced and slowly evolving 28S gene indicates a large degree of divergence from known species.
+
+--- SENTENCE 184 ---
+Phylogenetic analyses also demonstrate marine fungi nested within or allied to lineages observed in terrestrial environments, raising important questions about multiple transitions to or from marine environments and the frequency of amphibious lifestyles.
+
+--- SENTENCE 185 ---
+Obtaining axenic cultures of some of these individuals will enable greater phylogenetic resolution and hypothesis testing about these evolutionary trajectories.
+
+--- SENTENCE 186 ---
+In a broad sense, the taxonomy of fungi we encountered in A. hyacinthus overlap with a recent culture-independent marine sponge study that detected fungi from seven orders of Ascomycota, including eight well-supported clades that group with sequences derived from other marine environments (Gao [et al](#page-9-0).,
+
+--- SENTENCE 187 ---
+As with our own study, Gao et al[. \(2008\)](#page-9-0) found a high diversity of Basidiomycete sequences within the Malasseziales, Corticiales, Agaricales and Polyporales.
+
+--- SENTENCE 188 ---
+In another study of planktonic marine
+
+!
+
+--- SENTENCE 189 ---
+[](_page_8_Picture_3.jpeg)
+
+fungi (Gao et al
+
+--- SENTENCE 190 ---
+[., 2009\)](#page-9-0), clone libraries were dominated by sequences within the Pucciniomycetes, a group relatively underrepresented here.
+
+--- SENTENCE 191 ---
+Effect of Symbiodinium genotype and water temperature on fungal diversity
+
+Only modest differences in fungal diversity were detected between the warm and cold pools.
+
+--- SENTENCE 192 ---
+The warm pool contained a higher phylogenetic, although not taxonomic, diversity.
+
+--- SENTENCE 193 ---
+Indicator analysis also demonstrated the exclusive association of some OTUs with the warm pool, which exceeding expectations given a random distribution of taxa.
+
+--- SENTENCE 194 ---
+Neither pool of origin nor Symbiodinium genotype differentiated overall fungal community structure, and less than half of all OTUs were shared between the pools and Symbiodium genotypes.
+
+--- SENTENCE 195 ---
+Similar to patterns described for communities of coral symbiotic bacteria (Rohwer et al
+
+--- SENTENCE 196 ---
+[Sunagawa](#page-10-0) et al[., 2010](#page-10-0)), archaea ([Wegley](#page-10-0) et al., 2004) and fungal endophyte communities on tropical leaves [\(Arnold](#page-9-0)
+
+--- SENTENCE 197 ---
+[and Lutzoni, 2007\)](#page-9-0), there appears to be overlap of a few select 'core' species among hosts, whereas the majority of 'satellite' species are either transient or endemic to a specific host and locale.
+
+--- SENTENCE 198 ---
+Several factors may account for the high level of fungal community dissimilarity found within the pools and the Symbiodinium genotypes.
+
+--- SENTENCE 199 ---
+Prior work has shown that physiology of conspecific corals can vary considerably over short distances ([Brown](#page-9-0) et al., [2002a, b;](#page-9-0) Smith et al
+
+--- SENTENCE 200 ---
+[., 2007](#page-10-0); Bay et al
+
+--- SENTENCE 201 ---
+[., 2009](#page-9-0); [Barshis](#page-9-0) et al[., 2010\)](#page-9-0), which could obscure fungal community patterns associated with our measured variables.
+
+--- SENTENCE 202 ---
+Furthermore, stochastic recruitment of large numbers of planktonic, benthic or even terrestrial fungi could mask signatures of specialization or obligacy of a small number of taxa.
+
+--- SENTENCE 203 ---
+Finally, because many OTUs were detected in low abundances, it is possible that increased sequencing effort would demonstrate their presence in a greater number of coral samples than observed here.
+
+--- SENTENCE 204 ---
+However, given the typical 'long tailed' frequency distribution of the fungal communities, it is unlikely that increased sequencing effort would elucidate additional structure of the total fungal community within this experiment.
+
+#### Core fungal associates
+
+Eleven fungal OTUs, spanning two phyla and four classes were found in 90% of coral holobionts, and four of these were found in all samples.
+
+--- SENTENCE 205 ---
+These fungi are the likeliest candidates for an ecologically significant association and/or coevolution with the A. hyacinthus holobiont.
+
+--- SENTENCE 206 ---
+Detecting the limits of the geographical distribution and the host phylogenetic breadth of these associates in other natural coral systems will aid in understanding the drivers of coral fungal community composition.
+
+--- SENTENCE 207 ---
+In this study, we detect significantly fewer 'core' OTUs than is implicitly assumed by our null model.
+
+--- SENTENCE 208 ---
+This under-representation of core OTUs may suggest competitive exclusion in fungal interactions, or else that fewer fungi are adapted to extremes in host physiological heterogeneity discussed above.
+
+--- SENTENCE 209 ---
+Activity and function of A. hyacinthus-associated fungi Data from fungal meta-transcriptomics provide insight into the diversity of the active community members.
+
+--- SENTENCE 210 ---
+Concordance between the order-level taxonomic diversity of the mRNA and DNA libraries suggest that a large portion of the fungal diversity detected in DNA-based analyses are metabolically active marine residents, and not just terrestrial debris.
+
+--- SENTENCE 211 ---
+The resolution of this comparison is directly proportional with the number of sequenced fungal genomes available to the public, and at this point we identify transcripts from 462% of fungal orders from which we detect DNA.
+
+--- SENTENCE 212 ---
+The role of coral-associated fungi has been described at nearly all points along the parasitemutualist continuum and may be context dependent.
+
+--- SENTENCE 213 ---
+Phylogenetic placement of environmental sequences provides relatively little insight into these roles because trophic status, functionality and even morphology have been found to vary widely among closely related species.
+
+--- SENTENCE 214 ---
+For this reason, the fact that many of the fungi detected in our study belong to clades of parasitic fungi, including plant pathogenic fungi such as Pleosporaceae and dermatophytes such as Malassezia, may not necessarily indicate parasitism in this particular environmental context.
+
+--- SENTENCE 215 ---
+Lichenic symbioses, for example, show evidence of repeated shifts from symbiosis to pathogen ([Arnold](#page-9-0) et al., [2009\)](#page-9-0), and mutation in a single gene has been shown to convert a plant endosymbiotic fungus from a mutualist to a parasite [\(Takemoto](#page-10-0) et al., 2006).
+
+--- SENTENCE 216 ---
+Meta-transcriptomic and meta-genomic analyses offer alternative methods for determining the role of coral-fungi, because function may be ascribed independent of presumptions based on relatedness to terrestrial relatives.
+
+--- SENTENCE 217 ---
+In a meta-genomic DNA analysis of a Porites astreoides coral holobiont
+
+--- SENTENCE 218 ---
+[\(Wegley](#page-10-0) et al., 2007), for example, the investigators characterized a large proportion of fungal DNA as similar to genes coding for enzymes involved in nitrite and nitrate ammonification, by which the investigators hypothesize fungi convert nitrates and nitrites to NH4 for uptake by the Symbiodinium.
+
+--- SENTENCE 219 ---
+Although we did not detect signatures of this metabolic pathway in fungal mRNA, we did detect active transcription of genes related to metabolism of N-containing bio-polymers such as proteins, peptides and chitin.
+
+--- SENTENCE 220 ---
+Linking these fungal transcripts to functions within the holobiont may be possible using food web tracer techniques or comparative genomic methods coupled with experimental manipulations of environments and the coral holobiont community.
+
+--- SENTENCE 221 ---
+The utility of fungal meta-transcriptomic methods will undoubtedly improve as the number of sequenced fungal genomes increases.
+
+--- SENTENCE 222 ---
+<span id="page-9-0"></span>![](_page_9_Picture_2.jpeg)
+
+# Conclusion
+
+Our analyses revealed several novel clades of fungi that are divergent from known and described isolates.
+
+--- SENTENCE 223 ---
+We show that within our study, Symbiodinium genotype and water temperature had no discernable impact on the fungal community as a whole, but did impact the distribution patterns of some individual OTUs.
+
+--- SENTENCE 224 ---
+We have shown the persistent association of a small, phylogenetically diverse core assemblage of fungi within A. hyacinthus hosts from distinct environments and with differing Symbiodinium partners.
+
+--- SENTENCE 225 ---
+The finding of this core subset in all or most of our colonies suggests a locally stable, though functionally undetermined relationship between specific fungal taxa and the A. hyacinthus coral holobiont.
+
+--- SENTENCE 226 ---
+Taxonomic and functional annotation of the transcriptome indicates that coral-associated fungi represent a diverse and metabolically active community.
+
+--- SENTENCE 227 ---
+There is much to learn about fungi in corals, and we hope that with future work we can help unravel the functional and nutritive relationship between fungi and coral hosts.
+
+--- SENTENCE 228 ---
+# Acknowledgements
+
+This work was supported by funding from the Woods Institute for the Environment, Conservation International, a fellowship from the NOAA Climate and Global Change program, and the Alfred P Sloan foundation who supported the senior author during the beginning of the study.
+
+--- SENTENCE 229 ---
+We thank Tom Bruns, Donovan German, Jennifer Hughes Martiny, Jennifer Talbot, Else Vellinga, Antje Boetius and two anonymous reviewers for valuable editorial advice and Steve Palumbi for technical and logistic support.
+
+--- SENTENCE 230 ---
+# References
+
+- Altschul S, Madden T, Schaffer A, Zhang J, Zhang Z, Miller W et al. (1997).
+
+--- SENTENCE 231 ---
+Gapped BLAST and PSI-BLAST: a new generation of protein database search programs.
+
+--- SENTENCE 232 ---
+Nucleic Acids Res 25: 3389–3402.
+- Amend A, Seifert K, Samson R, Bruns T. (2010).
+
+--- SENTENCE 233 ---
+Indoor fungal composition is geographically patterned and more diverse in temperate zones than in the tropics.
+
+--- SENTENCE 234 ---
+Proc Natl Acad Sci USA 107: 13748–13753.
+- Arnold A, Lutzoni F. (2007).
+
+--- SENTENCE 235 ---
+Diversity and host range of foliar fungal endophytes: are tropical leaves biodiversity hotspots?
+
+--- SENTENCE 236 ---
+Ecology 88: 541–549.
+- Arnold A, Miadlikowska J, Higgins K, Sarvate S, Gugger P, Way A et al. (2009).
+
+--- SENTENCE 237 ---
+A phylogenetic estimation of trophic transition networks for ascomycetous fungi: are lichens cradles of symbiotrophic fungal diversification?
+
+--- SENTENCE 238 ---
+Syst Biol 58: 283–297.
+- Baker AC.
+
+--- SENTENCE 239 ---
+Flexibility and specificity in coral-algal symbiosis: diversity, ecology, and biogeography of Symbiodinium.
+
+--- SENTENCE 240 ---
+Annu Rev Ecol Evol Syst 34: 661–689.
+- Barshis D, Stillman J, Gates R, Toonen R, Smith L, Birkeland C. (2010).
+
+--- SENTENCE 241 ---
+Protein expression and genetic
+
+- structure of the coral Porites lobata in an environmentally extreme Samoan back reef: does host genotype limit phenotypic plasticity?
+
+--- SENTENCE 242 ---
+Mol Ecol 19: 1705–1720.
+- Bay LK, Ulstrup KE, Nielsen HB, Jarmer H, Goffard N, Willis BL et al. (2009).
+
+--- SENTENCE 243 ---
+Microarray analysis reveals transcriptional plasticity in the reef building coral Acropora millepora.
+
+--- SENTENCE 244 ---
+Mol Ecol 18: 3062–3075.
+- Beck AH, Weng Z, Witten DM, Zhu S, Foley JW, Lacroute P et al. (2010).
+
+--- SENTENCE 245 ---
+3 -end sequencing for expression quantification (3SEQ) from archival tumor samples.
+
+--- SENTENCE 246 ---
+One 5: e8768.
+- Bentis C, Kaufman L, Golubic S. (2000).
+
+--- SENTENCE 247 ---
+Endolithic fungi in reef-building corals (Order: Scleractinia) are common, cosmopolitan, and potentially pathogenic.
+
+--- SENTENCE 248 ---
+Biol Bull 198: 254–260.
+- Berkelmans R, Van Oppen MJH.
+
+--- SENTENCE 249 ---
+The role of zooxanthellae in the thermal tolerance of corals: a nugget of hope for coral reefs in an era of climate change.
+
+--- SENTENCE 250 ---
+Proc R Soc Lond B Biol Sci 273: 2305–2312.
+- Brown B, Downs C, Dunne R, Gibb S. (2002a).
+
+--- SENTENCE 251 ---
+Exploring the basis of thermotolerance in the reef coral Goniastrea aspera.
+
+--- SENTENCE 252 ---
+Mar Ecol Prog Ser 242: 119–129.
+- Brown B, Dunne R, Goodson M, Douglas A. (2002b).
+
+--- SENTENCE 253 ---
+Experience shapes the susceptibility of a reef coral to bleaching.
+
+--- SENTENCE 254 ---
+Coral Reefs 21: 119–126.
+- Ca´ceres M, Legendre P. (2009).
+
+--- SENTENCE 255 ---
+Associations between species and groups of sites: indices and statistical inference.
+
+--- SENTENCE 256 ---
+Ecology 90: 3566–3574.
+- Dixon P. (2003).
+
+--- SENTENCE 257 ---
+VEGAN, a package of R functions for community ecology.
+
+--- SENTENCE 258 ---
+J Veg Sci 14: 927–930.
+- Freiwald A, Reitner J, Krutschinna J. (1997).
+
+--- SENTENCE 259 ---
+Microbial alteration of the deep-water coral Lophelia pertusa: early postmortem processes.
+
+--- SENTENCE 260 ---
+Facies 36: 223–226.
+- Gao Z, Johnson Z, Wang G. (2009).
+
+--- SENTENCE 261 ---
+Molecular characterization of the spatial diversity and novel lineages of mycoplankton in Hawaiian coastal waters.
+
+--- SENTENCE 262 ---
+ISME J 4: 111–120.
+- Gao Z, Li B, Zheng C, Wang G. (2008).
+
+--- SENTENCE 263 ---
+Molecular detection of fungal communities in the Hawaiian marine sponges Suberites zeteki and Mycale armata.
+
+--- SENTENCE 264 ---
+Appl Environ Microbiol 74: 6091–6101.
+- Golubic S, Radtke G, Campion-Alsumard T. (2005).
+
+--- SENTENCE 265 ---
+Endolithic fungi in marine ecosystems.
+
+--- SENTENCE 266 ---
+Trends Microbiol 13: 229–235.
+- Gotz S, Garcia-Gomez J, Terol J, Williams T, Nagaraj S, Nueda M et al. (2008).
+
+--- SENTENCE 267 ---
+High-throughput functional annotation and data mining with the Blast 2 GO suite.
+
+--- SENTENCE 268 ---
+Nucleic Acids Res 36: 3420–3435.
+- Gue´ho E, Midgley G, Guillot J. (1996).
+
+--- SENTENCE 269 ---
+The genus Malassezia with description of four new species.
+
+--- SENTENCE 270 ---
+Antonie van 69: 337–355.
+- James T, Kauff F, Schoch C, Matheny P, Hofstetter V, Cox C et al. (2006).
+
+--- SENTENCE 271 ---
+Reconstructing the early evolution of Fungi using a six-gene phylogeny.
+
+--- SENTENCE 272 ---
+Nature 443: 818–822.
+- Kendrick B, Risk M, Michaelides J, Bergman K. (1982).
+
+--- SENTENCE 273 ---
+Amphibious microborers: bioeroding fungi isolated from live corals.
+
+--- SENTENCE 274 ---
+Bull Mar Sci 32: 862–867.
+- Kis-Papo T. (2005).
+
+--- SENTENCE 275 ---
+In: Dighton J, White J, Oudemans P (eds).
+
+--- SENTENCE 276 ---
+The Fungal Community: its Organization and Role in the Ecosystem.
+
+--- SENTENCE 277 ---
+Taylor & Francis: Boca Raton, FL, pp 61–92.
+- Knowlton N, Rohwer F. (2003).
+
+--- SENTENCE 278 ---
+Multispecies microbial mutualisms on coral reefs: the host as a habitat.
+
+--- SENTENCE 279 ---
+Am Nat 162: 51–62.
+- Le Campion-Alsumard T, Golubic S, Priess K. (1995).
+
+--- SENTENCE 280 ---
+Fungi in corals: symbiosis or disease?
+
+--- SENTENCE 281 ---
+[](_page_10_Picture_3.jpeg)
+
+- <span id="page-10-0"></span>between polyps and fungi causes pearl-like skeleton biomineralization.
+
+--- SENTENCE 282 ---
+Mar Ecol Prog Ser 117: 137–147.
+- Lesser M, Bythell J, Gates R, Johnstone R, Hoegh-Guldberg O. (2007a).
+
+--- SENTENCE 283 ---
+Are infectious diseases really killing corals?
+
+--- SENTENCE 284 ---
+Alternative interpretations of the experimental and ecological data.
+
+--- SENTENCE 285 ---
+J Exp Mar Biol Ecol 346: 36–44.
+- Letunic I, Bork P. (2006).
+
+--- SENTENCE 286 ---
+Interactive Tree Of Life (iTOL): an online tool for phylogenetic tree display and annotation.
+
+--- SENTENCE 287 ---
+Bioinformatics 23: 127–128.
+- Lozupone C, Knight R. (2005).
+
+--- SENTENCE 288 ---
+UniFrac: a new phylogenetic method for comparing microbial communities.
+
+--- SENTENCE 289 ---
+Appl Environ Microbiol 71: 8228–8235.
+- Muscatine L, Goiran C, Land L, Jaubert J, Cuif JP, Allemand D. (2005).
+
+--- SENTENCE 290 ---
+Stable isotopes ( 13C and 15N) of organic matrix from coral skeleton.
+
+--- SENTENCE 291 ---
+Proc Natl Acad Sci USA 102: 1525–1530.
+- Nilsson RH, Kristiansson E, Ryberg M, Hallenberg N, Larsson KH. (2008).
+
+--- SENTENCE 292 ---
+Intraspecific ITS variability in the kingdom Fungi as expressed in the international sequence databases and its implications for molecular species identification.
+
+--- SENTENCE 293 ---
+Evol Bioinform 4: 193–201.
+- Oliver T, Palumbi S. (2011).
+
+--- SENTENCE 294 ---
+Do fluctuating temperature environments elevate coral thermal tolerance?
+
+--- SENTENCE 295 ---
+Coral Reefs 30: 429–440.
+- Petrovic U, Gunde Cimerman N, Plemenitas A. (2002).
+
+--- SENTENCE 296 ---
+Cellular responses to environmental salinity in the halophilic black yeast Hortaea werneckii.
+
+--- SENTENCE 297 ---
+Mol Microbiol 45: 665–672.
+- Price M, Dehal P, Arkin A. (2009).
+
+--- SENTENCE 298 ---
+FastTree: computing large minimum evolution trees with profiles instead of a distance matrix.
+
+--- SENTENCE 299 ---
+Mol Biol Evol 26: 1641–1650.
+- Priess K, Le Campion-Alsumard T, Golubic S, Gadel F, Thomassin B. (2000).
+
+--- SENTENCE 300 ---
+Fungi in corals: black bands and density-banding of Porites lutea and P. lobata skeleton.
+
+--- SENTENCE 301 ---
+Mar Biol 136: 19–27.
+- Reshef L, Koren O, Loya Y, Zilber Rosenberg I, Rosenberg E. (2006).
+
+--- SENTENCE 302 ---
+The coral probiotic hypothesis.
+
+--- SENTENCE 303 ---
+Environ Microbiol 8: 2068–2073.
+- Rohwer F, Breitbart M, Jara J, Azam F, Knowlton N. (2001).
+
+--- SENTENCE 304 ---
+Diversity of bacteria associated with the Caribbean coral Montastraea franksi.
+
+--- SENTENCE 305 ---
+Coral Reefs 20: 85–91.
+- Rohwer F, Seguritan V, Azam F, Knowlton N. (2002).
+
+--- SENTENCE 306 ---
+Diversity and distribution of coral-associated bacteria.
+
+--- SENTENCE 307 ---
+Mar Ecol Prog Series 243: 1–10.
+- Rosenberg E, Koren O, Reshef L, Efrony R, Zilber-Rosenberg I. (2007).
+
+--- SENTENCE 308 ---
+The role of microorganisms in coral health, disease and evolution.
+
+--- SENTENCE 309 ---
+Nature Rev Microbiol 5: 355–362.
+- Roth Jr F, Orpurt P, Ahearn D. (1964).
+
+--- SENTENCE 310 ---
+Occurrence and distribution of fungi in a subtropical marine environment.
+
+--- SENTENCE 311 ---
+Can J Bot 42: 375–383.
+- Rowan R. (2004).
+
+--- SENTENCE 312 ---
+Coral bleaching: thermal adaptation in reef coral symbionts.
+
+--- SENTENCE 313 ---
+Nature 430: 742.
+- Rowan R, Knowlton N, Baker A, Jara J. (1997).
+
+--- SENTENCE 314 ---
+Landscape ecology of algal symbionts creates variation in episodes of coral bleaching.
+
+--- SENTENCE 315 ---
+Nature 388: 265–269.
+
+- Schechter SP, Bruns TD. (2008).
+
+--- SENTENCE 316 ---
+Serpentine and nonserpentine ecotypes of Collinsia sparsiflora associate with distinct arbuscular mycorrhizal fungal assemblages.
+
+--- SENTENCE 317 ---
+Mol Ecol 17: 3198–3210.
+- Schloss P, Westcott S, Ryabin T, Hall J, Hartmann M, Hollister E et al. (2009).
+
+--- SENTENCE 318 ---
+Introducing mothur: opensource, platform-independent, community-supported software for describing and comparing microbial communities.
+
+--- SENTENCE 319 ---
+Appl Environ Microbiol 75: 7537–7541.
+- Shnit Orland M, Kushmaro A. (2009).
+
+--- SENTENCE 320 ---
+Coral mucus associated bacteria: a possible first line of defense.
+
+--- SENTENCE 321 ---
+FEMS Microbial Ecol 67: 371–380.
+- Smith L, Barshis D, Birkeland C. (2007).
+
+--- SENTENCE 322 ---
+Phenotypic plasticity for skeletal growth, density and calcification of Porites lobata in response to habitat type.
+
+--- SENTENCE 323 ---
+Coral Reefs 26: 559–567.
+- Smith ME, Douhan GW, Fremier AK, Rizzo DM.
+
+--- SENTENCE 324 ---
+Are true multihost fungi the exception or the rule?
+
+--- SENTENCE 325 ---
+Dominant ectomycorrhizal fungi on Pinus sabiniana differ from those on co occurring Quercus species.
+
+--- SENTENCE 326 ---
+New Phyt 182: 295–299.
+- Smith L, Wirshing H, Baker A, Birkeland C. (2008).
+
+--- SENTENCE 327 ---
+Environmental versus genetic influences on growth rates of the corals Pocillopora eydouxi and Porites lobata (Anthozoa: Scleractinia) 1.
+
+--- SENTENCE 328 ---
+Pac Sci 62: 57–69.
+- Stamatakis A, Hoover P, Rougemont J. (2008).
+
+--- SENTENCE 329 ---
+A rapid bootstrap algorithm for the RAxML web servers.
+
+--- SENTENCE 330 ---
+Sys Biol 57: 758–771.
+- Sthultz CM, Whitham TG, Kennedy K, Deckert R, Gehring CA. (2009).
+
+--- SENTENCE 331 ---
+Genetically based susceptibility to herbivory influences the ectomycorrhizal fungal communities of a foundation tree species.
+
+--- SENTENCE 332 ---
+New Phyt 184: 657–667.
+- Sunagawa S, Woodley CM, Medina M. (2010).
+
+--- SENTENCE 333 ---
+Threatened corals provide underexplored microbial habitats.
+
+--- SENTENCE 334 ---
+ONE 5: e9554.
+- Takemoto D, Tanaka A, Scott B. (2006).
+
+--- SENTENCE 335 ---
+A p67Phox-like regulator is recruited to control hyphal branching in a fungal-grass mutualistic symbiosis.
+
+--- SENTENCE 336 ---
+Plant Cell 18: 2807–2821.
+- Thurber R, Willner Hall D, Rodriguez Mueller B, Desnues C, Edwards R, Angly F et al. (2009).
+
+--- SENTENCE 337 ---
+Metagenomic analysis of stressed coral holobionts.
+
+--- SENTENCE 338 ---
+Environ Microbiol 11: 2148–2163.
+- Van Oppen MJH, Palstra FP, Piquet AMT, Miller DJ. (2001).
+
+--- SENTENCE 339 ---
+Patterns of coral dinoflagellate associations in Acropora: significance of local availability and physiology of Symbiodinium strains and host symbiont selectivity.
+
+--- SENTENCE 340 ---
+Proc R Soc Lond B Biol Sci 268: 1759–1767.
+- Wegley L, Edwards R, Rodriguez Brito B, Liu H, Rohwer F. (2007).
+
+--- SENTENCE 341 ---
+Metagenomic analysis of the microbial community associated with the coral Porites astreoides.
+
+--- SENTENCE 342 ---
+Environ Microbiol 9: 2707–2719.
+- Wegley L, Yu Y, Breitbart M, Casas V, Kline DI, Rohwer F. (2004).
+
+--- SENTENCE 343 ---
+Mar Ecol Prog Ser 273: 89–96.
+
+--- SENTENCE 344 ---
+Supplementary Information accompanies the paper on The ISME Journal website [\(http://www.nature.com/ismej\)](http://www.nature.com/ismej)
+

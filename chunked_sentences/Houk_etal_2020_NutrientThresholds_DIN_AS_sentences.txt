@@ -1,0 +1,1058 @@
+--- SENTENCE 1 ---
+ELSEVIER
+
+Contents lists available at ScienceDirect
+
+## Marine Pollution Bulletin
+
+journal homepage: www.elsevier.com/locate/marpolbul
+
+!
+
+--- SENTENCE 2 ---
+Nutrient thresholds to protect water quality and coral reefs
+
+!
+
+--- SENTENCE 3 ---
+[](_page_0_Picture_7.jpeg)
+
+- <span id="page-0-0"></span><sup>a</sup> University of Guam Marine Laboratory, UOG Station, Mangilao, GU 96923, USA
+- <span id="page-0-2"></span><sup>b</sup> Arc Centre of Excellence for Coral Reef Studies, James Cook University, Townsville, QLD 4811, Australia
+- <span id="page-0-3"></span><sup>c</sup>
+
+--- SENTENCE 4 ---
+Coral Reef Advisory Group, Department of Marine and Wildlife Resources, Pago Pago, AS 96799, American Samoa
+- <span id="page-0-4"></span><sup>d</sup> National Marine Sanctuary of American Samoa, Pago Pago, AS 96799, American Samoa
+- <span id="page-0-5"></span><sup>e</sup> American Samoa Environmental Protection Agency, Pago Pago, AS 96799, American Samoa
+
+!
+
+--- SENTENCE 5 ---
+[](_page_0_Picture_13.jpeg)
+
+#### Keywords: Total maximum daily loads Water-quality standards Dissolved inorganic nitrogen Coral reefs Mixed-regression modeling
+
+#### ABSTRACT
+
+Establishing nutrient thresholds to protect coral reefs is difficult because water quality is dynamic and shifts with many environmental factors.
+
+--- SENTENCE 6 ---
+We examined the contribution of natural and human factors in predicting water quality at the base of 34 streams on a high tropical Pacific island.
+
+--- SENTENCE 7 ---
+Mixed regression models revealed that rainfall, sea-surface temperature, and windspeed were fixed factors predicting dissolved inorganic nitrogen (DIN) concentrations at the base of all watersheds.
+
+--- SENTENCE 8 ---
+In contrast, human influences were captured as random components of variation associated with site-based differences.
+
+--- SENTENCE 9 ---
+The novel modeling approach using temporal and spatial data provided daily-loading simulations that were used to evaluate exceedance criteria, defined as the percent of time each watershed exceeded a suite of DIN thresholds.
+
+--- SENTENCE 10 ---
+Exceedance criteria were considered alongside biological data to recommend a  $0.1 \text{ to } 0.15 \text{ mg l}^{-1}$  benchmark to protect coastal water quality and coral reefs surrounding Tutuila, American Samoa.
+
+--- SENTENCE 11 ---
+Introduction
+
+Poor water quality can impact coral reefs directly and indirectly through a variety of processes, ultimately diminishing their ability to withstand and recover from disturbance cycles (Houk et al., 2010; Lapointe, 1997;
+
+--- SENTENCE 12 ---
+Maynard et al., 2015; Wiedenmann et al., 2013; Wooldridge and Done, 2009).
+
+--- SENTENCE 13 ---
+Yet, developing nutrient thresholds to protect coral reefs is difficult because water quality is dynamic and shifts with many environmental factors such as temperature, tide, rainfall, light, and surface flow (Fabricius et al., 2012; Lapointe, 1997; Paytan et al., 2006).
+
+--- SENTENCE 14 ---
+One ideal approach is to (i) collect timeseries data from each waterbody across all relevant seasonal cycles, (ii) derive a relationship between nutrient concentrations and their percentages of exceedance (i.e., what % of time did any particular waterbody exceed any particular concentration?), (iii) evaluate exceedance thresholds with respect to the integrity of biological assemblages, and (iv) consult with stakeholders to recommend regulations based upon mutual interpretations of available data (Moss et al., 2005).
+
+--- SENTENCE 15 ---
+However, timeseries data for both water quality and biological assemblages are expensive to collect and there are many specific locations across many island nations that require data to develop appropriate thresholds.
+
+--- SENTENCE 16 ---
+Given these limitations, many efforts have relied upon shorter-term and less-expensive studies that relate water-quality gradients across several waterbodies (or sites) to undesirable changes in reef assemblages or coral organisms in order to define thresholds (Cooper et al., 2009; Fabricius et al., 2012; Lapointe, 1997).
+
+--- SENTENCE 17 ---
+This approach can link individual water-quality parameters to undesirable ecological change, and if calibrated with watershed data such as human population or land use that are usually accessible, can be extended to entire regions or islands (Comeros-Raynal et al., 2019;
+
+--- SENTENCE 18 ---
+Houk et al., 2010; Oliver et al., 2011).
+
+--- SENTENCE 19 ---
+However, this simplified approach assumes that natural factors driving water quality across differing waterbodies are similar, and that human influences are the drivers of any differences.
+
+--- SENTENCE 20 ---
+This assumption has rarely been examined and represents one of the remaining challenges in establishing relevant water-quality criteria that we approach in the present study.
+
+--- SENTENCE 21 ---
+Another challenge in establishing water-quality criteria for coralreef protection is deciding what parameter(s) to use.
+
+--- SENTENCE 22 ---
+Studies have focused on basic parameters that characterize stream discharge to the coasts (e.g., pH, dissolved oxygen, salinity, conductivity, temperature, turbidity, nitrogen in various forms, and phosphorous in various forms) (Comeros-Raynal et al., 2019; Lapointe, 1997;
+
+--- SENTENCE 23 ---
+Moss et al., 2005).
+
+--- SENTENCE 24 ---
+These parameters serve as useful regulatory guidelines because they are related with the condition of reef assemblages, and related with human
+
+E-mail address: houkp@triton.uog.edu (P. Houk).
+
+--- SENTENCE 25 ---
+<span id="page-0-1"></span><sup>\*</sup> Corresponding author.
+
+--- SENTENCE 26 ---
+*P. Houk, et al.
+
+--- SENTENCE 27 ---
+Marine Pollution Bulletin 159 (2020) 111451*
+
+influences in watersheds such as septic systems and land alteration.
+
+--- SENTENCE 28 ---
+Yet, gathering enough data to establish these linkages is costly for all parameters, and some form of triage is often used to select which parameters to examine.
+
+--- SENTENCE 29 ---
+For instance, technical and logistical constraints required that the present study focus on nitrogen constituents that together contribute most to dissolved inorganic nitrogen being delivered from the watersheds to the reefs (e.g., nitrate, ammonia, and nitrite).
+
+--- SENTENCE 30 ---
+Dissolved inorganic nitrogen (DIN) has a long history of examination with respect to watershed characteristics and coral-reef assemblages ([Comeros-Raynal et al., 2019](#page-6-9);
+
+--- SENTENCE 31 ---
+[Fabricius et al., 2005](#page-6-11);
+
+--- SENTENCE 32 ---
+[Paytan et al., 2006](#page-6-6)).
+
+--- SENTENCE 33 ---
+DIN has been related to the occurrence of macroalgal blooms in Florida, coral biodiversity in Australia, and the abundance of favorable crustose corralling algal substrates for coral settlement in American Samoa
+
+--- SENTENCE 34 ---
+[\(Comeros-Raynal et al., 2019;](#page-6-9)
+
+--- SENTENCE 35 ---
+[Houk et al., 2010](#page-6-0); [Lapointe, 1997\)](#page-6-1).
+
+--- SENTENCE 36 ---
+While compelling relationships exist between DIN, watershed characteristics, and reef assemblages, studies have cautioned that establishing thresholds with only one constituent may be context dependent because nutrient stoichiometry may reveal changing thresholds depending upon the concentrations of other limiting nutrients (i.e., the combined importance of carbon, nitrogen, and phosphorous or C:N:P)
+
+--- SENTENCE 37 ---
+Despite the potential for added complexities, the present study builds upon standard relationships between DIN, watershed characteristics, and reef assemblages to establish a transparent and repeatable process for defining thresholds to protect coral reefs.
+
+--- SENTENCE 38 ---
+Here, we first ask whether similar environmental factors predicted DIN loading to coastal streams associated with timeseries data from 34 watersheds in American Samoa.
+
+--- SENTENCE 39 ---
+By employing a mixed-modeling approach, we separated the roles of natural environmental factors, such as rainfall and sea-surface temperature, versus human factors, such as development and population in the watersheds.
+
+--- SENTENCE 40 ---
+The results allowed for customized simulations of daily DIN discharge for each study watershed over the past two years.
+
+--- SENTENCE 41 ---
+These simulations were used to derive nutrient concentrations associated with commonly-used DIN exceedances (10%, 20%, and 30%) and associated with biological data summarizing the condition of coral assemblages.
+
+--- SENTENCE 42 ---
+In sum, our study (i) offered a new and transparent process to separate the influences of natural and human factors in driving DIN concentrations, (ii) related DIN to reef assemblages, and (iii) provided guidance to improve the legislative framework for setting water quality standards on tropical islands.
+
+--- SENTENCE 43 ---
+Materials and methods**
+
+The present study was conducted on Tutuila, American Samoa, the capital and main populated island of the United States territory.
+
+--- SENTENCE 44 ---
+Tutuila is a high island dominated by secondary vegetation.
+
+--- SENTENCE 45 ---
+However, growing human footprints continue to clear land for new housing and development.
+
+--- SENTENCE 46 ---
+The American Samoa Environmental Protection Agency is responsible for protecting stream and coastal water quality and regularly revisits their permitting and discharge regulations to adapt and improve their regulatory oversight.
+
+--- SENTENCE 47 ---
+We examined 34 watersheds that represented a gradient of pristine-to-high human influence around the island.
+
+--- SENTENCE 48 ---
+These watersheds have previously been classified in accordance with their human population levels as pristine, moderate, or extensive ([DiDonato, 2004;](#page-6-14)
+
+--- SENTENCE 49 ---
+[Tuitele et al., 2016\)](#page-6-15).
+
+--- SENTENCE 50 ---
+Our goals were to revisit the watershed classification system given new datasets and analyses, and most importantly, examine both natural and human drivers of stream water quality to provide simple guidelines for establishing waterquality thresholds for dissolved inorganic nitrogen (DIN) to protect coral reefs
+
+--- SENTENCE 51 ---
+[\(EPA, 2001\)](#page-6-16).
+
+## *2.1.
+
+--- SENTENCE 52 ---
+Water-quality data*
+
+Water-quality data were collected from 34 streams on a monthly basis from September 2016 to September 2017.
+
+--- SENTENCE 53 ---
+Sampling was conducted during the same 3-day timeframe each month.
+
+--- SENTENCE 54 ---
+The 3-day sampling period coincided with the lowest tides during new moon phases.
+
+--- SENTENCE 55 ---
+This sampling design aimed to control for extrinsic environmental variation due to shifting tides to the extent possible.
+
+--- SENTENCE 56 ---
+Water samples were collected from the stream surface by filling 500 ml polyethylene bottles.
+
+--- SENTENCE 57 ---
+Samples were placed on ice, filtered in the lab with 0.7 μm filters, and then frozen until analysis.
+
+--- SENTENCE 58 ---
+Frozen samples were analyzed within three months of collection.
+
+--- SENTENCE 59 ---
+DIN concentrations were analyzed using the SEAL Analytical AA3 HR Nutrient Analyzer.
+
+--- SENTENCE 60 ---
+We used the methods and procedures outlined by SEAL Analytical for analysis of Nitrate, Nitrite, and Ammonium.
+
+--- SENTENCE 61 ---
+DIN data analyzed in the present study were therefore defined by the sum of nitrate, nitrite, and ammonium.
+
+--- SENTENCE 62 ---
+Water-quality data were also collected from 34 reef flats adjacent to each stream to establish a correlation between stream water quality and adjacent marine water quality associated with coral reef assemblages.
+
+--- SENTENCE 63 ---
+Samples were collected during the same dates noted above and used the same protocols for filtering, storage, and analyses.
+
+--- SENTENCE 64 ---
+Stream samples were all under 5 ppt salinity, while reef flat samples 100–200 m were all above 25 ppt salinity.
+
+--- SENTENCE 65 ---
+While this relationship was highlighted to appreciate linkages between stream DIN, reef flat DIN, and coral assemblages, our study derived DIN thresholds for stream water quality only for logical regulatory and enforcement purposes.
+
+#### *2.2.
+
+--- SENTENCE 66 ---
+Coral-assemblage data*
+
+Coral assemblage data were derived from a previously published study examining linkages between proxies to human stressors, including stream DIN, and the condition of fish, benthic, and coral assemblages ([Comeros-Raynal et al., 2019\)](#page-6-9).
+
+--- SENTENCE 67 ---
+Coral data were selected because they were found to be most sensitive to DIN based upon previous studies [\(Comeros-Raynal et al., 2019;](#page-6-9)
+
+--- SENTENCE 68 ---
+[Cooper et al., 2009;](#page-6-8) [Houk](#page-6-17)
+
+--- SENTENCE 69 ---
+[and Van Woesik, 2010](#page-6-17)).
+
+--- SENTENCE 70 ---
+Each site was located approximately 250 m away from stream discharge.
+
+--- SENTENCE 71 ---
+At each site, two 100-m transect tapes were laid along the 8–10 m reef slope contour.
+
+--- SENTENCE 72 ---
+A 1 × 1 m quadrat was placed along the transect at every 20-m mark, representing a total of 10 per site.
+
+--- SENTENCE 73 ---
+Every coral colony whose centerpoint fell within the quadrat was identified to lowest taxonomic level possible, and the length and width of the colony were measured.
+
+--- SENTENCE 74 ---
+Area was calculated using the geometric diameter for each colony assuming corals were circular.
+
+--- SENTENCE 75 ---
+Several metrics were derived from these data.
+
+--- SENTENCE 76 ---
+The selected metrics represented non-redundant attributes that are often used to assess temporal trends in reefs.
+
+--- SENTENCE 77 ---
+The combination of the metrics also aimed to reduce the potential bias associated with disturbance states, by combining metrics that would respond both positively and negatively to disturbances (i.e., the expected decrease in coral cover but subsequent increase in species richness with more available habitat).
+
+--- SENTENCE 78 ---
+The metrics were: (1) assemblage heterogeneity (i.e., mean multivariate difference between replicate quadrates at a site, with larger values representing more functionally-diverse assemblages) (
+
+--- SENTENCE 79 ---
+[Oksanen et al., 2010](#page-6-18)), (2) skewness of colony-size distributions with larger values indicating more compromised assemblages dominated by smaller individuals, and (3) Shannon–Weaver evenness with larger values indicating more species with more equal abundances.
+
+--- SENTENCE 80 ---
+Metric 2 was rescaled inversely to match the low-to-high intuitive manner for defining condition.
+
+--- SENTENCE 81 ---
+Metrics were then standardized, and the mean was taken to represent a latent variable describing the coral assemblage.
+
+--- SENTENCE 82 ---
+This framework followed a process previously established by a working group across the Pacific ([Houk](#page-6-19)
+
+--- SENTENCE 83 ---
+Coral data were collected across the same study year as water quality data.
+
+--- SENTENCE 84 ---
+Environmental data*
+
+A suite of site-based environmental data were collected from satellitederived sources and the airport weather station in American Samoa.
+
+--- SENTENCE 85 ---
+Satellite-derived data were collected from the National Oceanic and *P. Houk, et al.
+
+--- SENTENCE 86 ---
+Marine Pollution Bulletin 159 (2020) 111451*
+
+Atmospheric Administration (NOAA)
+
+--- SENTENCE 87 ---
+Sea-surface temperature (SST) data were derived from the MODIS 0.025-degree dataset for the Pacific Ocean.
+
+--- SENTENCE 88 ---
+Daily wind and rain data were derived from the Pago Pago airport station and serve online through the NOAA climate data center
+
+--- SENTENCE 89 ---
+Together, these three environmental factors were expected to be the most influential to the transport (i.e., rainfall), flushing (i.e., wind and wind associated waves), and background levels on any particular sampling date across the island (i.e., sea-surface temperature annual cycle).
+
+--- SENTENCE 90 ---
+A previous study revealed that two human factors, watershed development and human population density, were the strongest and most consistent drivers of mean annual stream DIN across the gradient of study watersheds ([Comeros-Raynal et al.,](#page-6-9)
+
+--- SENTENCE 91 ---
+We first repeated this linear regression and the correlation analysis between stream and reef flat DIN to establish the foundation for the present, mixed-model analytical design.
+
+--- SENTENCE 92 ---
+Described below, we hypothesized that a single, mixed-model could predict daily stream DIN concentrations if we allowed the y-intercepts to vary (i.e., allow for site-based variation that was known to be predictable and related to human factors).
+
+--- SENTENCE 93 ---
+Thus, we focus on a suite of natural factors to predict daily stream DIN loading, while allowing for random variation caused by site-specific human influences.
+
+--- SENTENCE 94 ---
+Data analyses*
+
+Generalized linear mixed models were used to predict daily DIN loadings for all sites based upon individual and synergistic contributions from rainfall, SST, and wind.
+
+--- SENTENCE 95 ---
+Environmental predictors were aggregated at differing time intervals to search for best-fit models.
+
+--- SENTENCE 96 ---
+Rainfall and wind data were examined (1) day, (2) days, and (1) week prior to sampling.
+
+--- SENTENCE 97 ---
+In contrast, SST data were collected in (5) day bins because they were more representative of seasonal cycles that can predict background levels.
+
+--- SENTENCE 98 ---
+Mixed models were examined to allow for random variation among both y-intercepts and slopes.
+
+--- SENTENCE 99 ---
+Thus, human factors were accounted for within the random modeling term(s), allowing us to formally focus on natural factors transporting and retaining DIN similarly to all watersheds.
+
+--- SENTENCE 100 ---
+Mixed modeling was performed using package *lmer* in the software platform R using the maximum likelihood approach ([Bates et al., 2015\)](#page-6-20).
+
+--- SENTENCE 101 ---
+We first built a null model, and then compared subsequent models with additional fixed and random terms using analyses of variance (ANOVA) to test between the residual deviance estimates.
+
+--- SENTENCE 102 ---
+The best-fit model was selected based upon a stepwise comparison of both residual deviance and AIC scores.
+
+--- SENTENCE 103 ---
+DIN thresholds*
+
+Prior to deriving DIN thresholds, we first used the modeling results to refine ASEPA watershed classifications to establish a gradient of 'healthy'-to-'polluted' waterbodies.
+
+--- SENTENCE 104 ---
+This reclassification increased the spatial resolution of previous ASEPA watershed classifications from the village level, which lumped many sub-drainages into a single villagebased classification, to the sub-drainage level, which allowed for differing classifications for each village-stream.
+
+--- SENTENCE 105 ---
+A previous study regressed human population density and land use against mean annual DIN for each village-stream to establish the link with human factors
+
+--- SENTENCE 106 ---
+[\(Comeros-](#page-6-9)[Raynal et al., 2019](#page-6-9))
+
+--- SENTENCE 107 ---
+Here, our results reported highly significant correlations between the y-intercept values of our best-fit mixed model (i.e., the site-based component of the model) and mean annual DIN from stream and reef flat samples.
+
+--- SENTENCE 108 ---
+Thus, our y-intercept values were an ideal means to reclassifying waterbodies.
+
+--- SENTENCE 109 ---
+We repeated a pre-defined classification process, noted above, to split the Box-Cox transformed, normally-distributed vector of y-intercepts into three classes that represented: (i) values below the mean minus one standard deviation as "pristine" with little human impact, (ii) values between the mean and upper and lower standard deviations as "moderate", and (iii) values above the mean plus one standard deviation as "extensive" with highest human impact ([DiDonato, 2004\)](#page-6-14).
+
+--- SENTENCE 110 ---
+We last used the mixed-modeling results to hindcast DIN at all individual sites between 2016 and 2018.
+
+--- SENTENCE 111 ---
+Thresholds were derived by solving for the DIN concentrations associated with site-based exceedances of 10%, 20%, and 30%.
+
+--- SENTENCE 112 ---
+This process was recommended by guidance documents from longstanding programs associated with the United States Environmental Protection Agency (USEPA) ([EPA, 2001](#page-6-16)).
+
+--- SENTENCE 113 ---
+We overlaid our derived DIN thresholds upon a graph of a linear model defining how DIN predicted coral assemblage condition.
+
+--- SENTENCE 114 ---
+Normally distributed residuals existed for this regression model.
+
+--- SENTENCE 115 ---
+Results**
+
+Mean annual stream DIN concentrations were significantly predicted by human presence and development in the adjacent watersheds (R2 = 0.70, *P* < 0.001, [Fig. 1](#page-3-0)).
+
+--- SENTENCE 116 ---
+Stream DIN was also significantly correlated with reef flat DIN (*r* = 0.62, P < 0.001, Pearson's correlation, Fig.
+
+--- SENTENCE 117 ---
+These initial findings set the stage for the mixed-modeling investigations that aimed to partition human and natural factors driving daily stream DIN concentrations.
+
+--- SENTENCE 118 ---
+Daily stream DIN concentrations were positively related to rainfall (2-day lag time), negatively related to windspeed (1-week lag time), and negatively related to sea-surface temperature (SST, 5-day lag time) (
+
+--- SENTENCE 119 ---
+[Fig. 2](#page-3-1)a; χ2 = 115.4, P < 0.001, ΔAIC = 144 comparing best-fit mixed model with the null mixed model).
+
+--- SENTENCE 120 ---
+The latter two terms were interactive with rainfall, and a third interactive term including all variables modulated the response but had the weakest effect.
+
+--- SENTENCE 121 ---
+The bestfit model required varying y-intercepts for each site that were indicative of mean annual stream DIN concentrations, or human factors (i.e., ΔAIC = 111 comparing models with and without random effects, [Fig. 2](#page-3-1)b), and log-transformation of daily stream DIN concentrations (Supplemental Fig. S2).
+
+--- SENTENCE 122 ---
+In support, y-intercepts were tightly correlated to mean stream DIN concentrations across the study year (*r* = 0.89, Pearson's correlation).
+
+--- SENTENCE 123 ---
+In summary, rainfall, windspeed, and sea-surface temperature interacted to influence daily stream DIN similarly.
+
+--- SENTENCE 124 ---
+However, differing human presence and land use in each watershed led to different y-intercepts for each site.
+
+--- SENTENCE 125 ---
+Y-intercepts were used to reclassify watersheds along a human gradient.
+
+--- SENTENCE 126 ---
+The pre-defined classification system suggested that 20% of the sites were considered pristine, 60% considered as moderate, and 20% considered as extensive in terms of human-related stream DIN concentrations.
+
+--- SENTENCE 127 ---
+Watersheds from the south side of the island were better represented in the moderate and extensive categories, together accounting for 67% of the sites with y-intercept values above 0 ([Figs. 1](#page-3-0) and 2b).
+
+--- SENTENCE 128 ---
+In contrast, watersheds from the north and furthest east where less humans live were better characterized as moderately low and pristine.
+
+--- SENTENCE 129 ---
+Site-based projections between 2016 and 2018 were considered as total-maximum-daily-loading simulations that summarized the percentage of time stream DIN concentrations were above a range of potential thresholds ([Fig.
+
+--- SENTENCE 130 ---
+3](#page-4-0), representative hindcast for site 19).
+
+--- SENTENCE 131 ---
+Concentrations associated with 10%, 20%, and 30% exceedance times were derived for each site, and means were taken across sites within each watershed classification.
+
+--- SENTENCE 132 ---
+The 30% daily exceedance level, considered as least stringent by allowing the greatest number of daily exceedances, was crossed when stream DIN concentrations were 0.09, 0.12, and 0.25 mg l−1 respectively for the means of pristine, moderate, and extensive watershed classes [\(Fig.
+
+--- SENTENCE 133 ---
+4,](#page-4-1) thick lines represent means).
+
+--- SENTENCE 134 ---
+The 20% daily exceedance level was crossed when stream DIN concentrations were 0.10, 0.15, and 0.30 mg l−1 respectively [\(Fig.
+
+--- SENTENCE 135 ---
+The 10% daily exceedance level, considered as most stringent, was crossed when stream DIN concentrations were 0.15, 0.20, and 0.39 mg l−1 respectively ([Fig. 4](#page-4-1)).
+
+--- SENTENCE 136 ---
+In summary, potential stream DIN thresholds for waterquality regulations were represented by the 0.10 to 0.40 mg l−1 range given exceedance criteria ranging between 10% and 30%.
+
+--- SENTENCE 137 ---
+Mean stream DIN concentrations across the study year significantly
+
+<span id="page-3-0"></span>![](_page_3_Figure_2.jpeg)
+
+**Fig.
+
+--- SENTENCE 138 ---
+1.** Map of Tutuila, American Samoa, showing watershed boundaries (black thin lines), streamflow (blue thin lines), sampling sites with circles scales by mean annual stream DIN concentrations, and land use with all dark colors indicating land associated with varying human disturbances such as housing and farms (a).
+
+--- SENTENCE 139 ---
+Inset figure shows the relationship between mean stream DIN concentrations and human presence/disturbance (b).
+
+--- SENTENCE 140 ---
+Circle sizes in the inset regression figure were scaled with watershed size to highlight the poor relationship when not considering human factors.
+
+predicted standardized coral assemblage condition values (R2 = 0.32, *P* = 0.003, [Fig. 5](#page-5-0)), establishing a link between gradients in stream DIN, reef flat DIN, and biological data.
+
+--- SENTENCE 141 ---
+Stream DIN concentrations associated with the 10% and 20% exceedance concentrations for pristine and moderate watersheds overlapped with a positive-to-negative transition of standardized coral condition values, suggesting that 0.1 to 0.2 mg l−1 DIN represented a range for acceptable thresholds to protect both coral reefs and coastal water quality.
+
+--- SENTENCE 142 ---
+2.** a–b. Estimates and intercepts associated with the best-fit mixed regression model defining drivers of daily dissolved inorganic nitrogen (stream DIN) concentrations.
+
+--- SENTENCE 143 ---
+Significant terms retained in the best-fit model included rainfall (2-day lag time), windspeed (1-week lag time), and sea-surface temperature (5-day lag time) that were individual and interactive (a).
+
+--- SENTENCE 144 ---
+The model had a consistent slope but varying y-intercepts showing differing baselines existed in each watershed due to varying human population and development (b).
+
+--- SENTENCE 145 ---
+Y-intercepts were used to re-classify watersheds with respect to human disturbances as (i) pristine—bottom six sites on y-intercept in bold, (ii) moderate—non-bold sites on y-intercept, or (iii) extensive—top six sites on y-intercept in bold.
+
+--- SENTENCE 146 ---
+Hindcasted DIN simulating daily loadings given differing rainfall, windspeed, and sea surface temperature over the past two years in the study watersheds (site 19, [Fig.
+
+--- SENTENCE 147 ---
+Similar simulations were conducted for all watersheds to predict the percent of time DIN was above a suite of potential thresholds (dotted lines).
+
+--- SENTENCE 148 ---
+Percent of daily exceedances were calculated for a suite of DIN concentrations represented by the dotted lines ranging between 0.01 and 0.40, which were used to create the data points associate with [Fig. 4](#page-4-1).
+
+--- SENTENCE 149 ---
+* Percentage of time DIN exceeded the potential water-quality thresholds.
+
+--- SENTENCE 150 ---
+Each faint line represents an individual watershed-stream, while the thick lines represent the means for each watershed class.
+
+--- SENTENCE 151 ---
+Horizontal lines represent the 30%, 20%, and 10% general guidance criteria associated with USEPA guidance materials.
+
+--- SENTENCE 152 ---
+Discussion**
+
+Rainfall, windspeed, and sea-surface temperature (SST) were consistent predictors of DIN concentrations at the base of coastal streams across the high Pacific island of Tutuilia, American Samoa.
+
+--- SENTENCE 153 ---
+Rainfall presumably displaced and transported sediment and associated nutrients from human sources in the watershed, thereby increasing DIN at the base of streams [\(Lapointe and Matzie, 1996](#page-6-21); [Wolanski et al., 2009](#page-6-22)).
+
+--- SENTENCE 154 ---
+Wind-driven waves were observed to flush into watershed discharge areas and thus diluted DIN.
+
+--- SENTENCE 155 ---
+Last, cooler SST are associated with higher dissolved nutrient concentrations and often drive seasonal nutrient cycles observed in many oceans ([Sharp, 1983](#page-6-23)).
+
+--- SENTENCE 156 ---
+Together, these three natural factors modulated DIN in stream waters being discharged to coral reefs.
+
+--- SENTENCE 157 ---
+Yet, each watershed had unique baseline levels of human population and development that resulted in varying y-intercepts, thus decoupling the natural and human components of modelled DIN (i.e., [Fig. 4](#page-4-1) had the same shape for all watersheds but differing y-intercepts).
+
+--- SENTENCE 158 ---
+The mixed-effects model facilitated projections of daily DIN discharge for each watershed between 2016 and 2018, providing a means to examine the percentages of time nutrients exceeded threshold concentrations (i.e., exceedance criteria).
+
+--- SENTENCE 159 ---
+Previous studies evaluating exceedance criteria have often focused on one, or a few, major waterbodies and conducted daily sampling across all relevant seasons before considering thresholds ([Keller et al.,](#page-6-24)
+
+--- SENTENCE 160 ---
+[Tango and Batiuk, 2013\)](#page-6-25).
+
+--- SENTENCE 161 ---
+This foundational approach is not feasible for tropical islands that have many smaller watersheds and streams due to high costs and unrealistic logistics.
+
+--- SENTENCE 162 ---
+Instead, a gradient approach is commonly applied whereby the condition of the sessile biological assemblages across a range of watersheds is evaluated with respect to water quality constituents, substituting space-for-time [\(Fisher](#page-6-26)
+
+--- SENTENCE 163 ---
+[Houk et al., 2005](#page-6-27);
+
+--- SENTENCE 164 ---
+[Karr and Yoder, 2004](#page-6-28); [Moss et al., 2005](#page-6-7)).
+
+--- SENTENCE 165 ---
+Here, we provided a novel validation of the gradient approach for our study island as natural factors acted similarly on all watersheds, while human factors were the drivers of spatial differences in baseline DIN andcoral-assemblage condition.
+
+--- SENTENCE 166 ---
+We next considered the DIN thresholds derived from the dailyloading simulations with respect to coral assemblages.
+
+--- SENTENCE 167 ---
+DIN concentrations between 0.1 and 0.15 mg l−1 were associated with the 20% exceedance threshold for watersheds classified as pristine and moderate, respectively, providing a recommended range of DIN for regulatory purposes.
+
+--- SENTENCE 168 ---
+Standardized coral-assemblage condition scores across our watersheds switched from positive-to-negative at slightly lower stream DIN concentrations compared to this recommended range, suggesting our proposed DIN criteria were relevant but perhaps not stringent enough.
+
+--- SENTENCE 169 ---
+Yet, modern coral assemblages were all influenced to some degree by high populations of Crown-of-Thorn starfish that predated on corals between 2013 and 2015, or approximately 1 to 2 years prior to the present ecological surveys ([Comeros-Raynal et al., 2019](#page-6-9)), potentially influencing our gradient.
+
+--- SENTENCE 170 ---
+Thus, we also consider previously published, long-term ecological data collected at a subset of our study sites.
+
+--- SENTENCE 171 ---
+Previous work revealed that reefs with lowest condition scores had declining trends in coral assemblage condition over the past decade, while sites with highest scores showed increasing trends ([Houk](#page-6-27)
+
+--- SENTENCE 172 ---
+[et al., 2005, 2010, 2013](#page-6-27)).
+
+--- SENTENCE 173 ---
+More interestingly, sites associated with the proposed stream DIN range had mixed responses of neutral, slightly increasing, or slightly decreasing trends in coral condition through time.
+
+--- SENTENCE 174 ---
+We summarize that longer-term data best matched our proposed stream DIN threshold range between 0.1 and 0.15 mg l−1.
+
+--- SENTENCE 175 ---
+More broadly, this proposed range for DIN regulations was a magnitude of order smaller than thresholds established for Puerto Rico estuaries (5 mg l−1), similar to Delaware estuaries (0.14 mg l−1), and higher then Hawaii estuaries (0.01 to 0.07 mg l−1, nitrate + nitrite)
+
+--- SENTENCE 176 ---
+[www.epa.gov/nutrient-policy-data/state-progress-toward-developing-](https://www.epa.gov/nutrient-policy-data/state-progress-toward-developing-numeric-nutrient-water-quality-criteria)
+
+<span id="page-5-0"></span>![](_page_5_Figure_2.jpeg)
+
+**Fig.
+
+--- SENTENCE 177 ---
+5.** Negative relationship between mean dissolved inorganic nitrogen (DIN) across the study year and coral assemblage condition defined by combining several metrics from reef coral surveys adjacent to each watershed/stream (methods).
+
+--- SENTENCE 178 ---
+Numbers correspond with the study map
+
+--- SENTENCE 179 ---
+Dotted x-intercept lines correspond with the 20% DIN exceedance concentrations associated with watersheds classified as pristine and moderate (dark green and yellow lines respectively, 0.1 and 0.15 mg l−1, [Fig.
+
+--- SENTENCE 180 ---
+(For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)
+
+--- SENTENCE 181 ---
+Yet, established thresholds in state water-quality standards remain rare because of the cost and difficulty in their assessment.
+
+--- SENTENCE 182 ---
+One limitation of the present study is that known contributions of groundwater-derived DIN to coastal waters and coral reefs were not considered.
+
+--- SENTENCE 183 ---
+Coastal springs from several watersheds in American Samoa were found to contain two to seven times higher DIN concentrations compared to streams, with a similar high-to-low gradient associated with a subset of watersheds ([Shuler and Comeros-Raynal, 2020\)](#page-6-29).
+
+--- SENTENCE 184 ---
+To better estimate the contribution of groundwater-derived DIN to nearshore waters, sampling at both the stream mouth and higher reaches would be desirable but costly.
+
+--- SENTENCE 185 ---
+However, despite the potential for significant DIN contributions from groundwater, we posit that the reported covariances between coral-reef assemblages, stream DIN, and reef flat DIN may: (i) be an artifact of the concentrated point discharges of streams compared to the continuous and diffuse discharges of SGD that often appear as small springs, (ii) better reflect stream DIN because freshwater discharge is not filtered through the island, or (iii) better reflect stream DIN because the discharge location and sediment particles associated with streams promotes greater retention.
+
+--- SENTENCE 186 ---
+However, future efforts to combined DIN projections from both groundwater and streams with respect to the biological assemblages are desirable.
+
+--- SENTENCE 187 ---
+Similarly, understanding whether sources of watershed pollution may be linked with groundwater versus stream discharge can help isolate upon pollution pathways and their management and monitoring.
+
+--- SENTENCE 188 ---
+Common sources of watershed pollution assumed to be linked with stream discharge are cleared and agriculture land, piggeries, and urbanization.
+
+--- SENTENCE 189 ---
+In contrast, septic systems may better be evaluated through groundwater discharge ([Shuler and Comeros-Raynal, 2020](#page-6-29)).
+
+--- SENTENCE 190 ---
+We last discuss potential artifacts of the relationships between stream water quality, human disturbances in the watersheds, and the coral assemblages.
+
+--- SENTENCE 191 ---
+Here, we did not consider potential interactions between fish and coral assemblages that dictate modern reef growth and resilience [\(Bozec and Mumby, 2015;](#page-6-30)
+
+--- SENTENCE 192 ---
+[McLean et al., 2016\)](#page-6-31).
+
+--- SENTENCE 193 ---
+Clearly this ignores any indirect impacts to corals from fishing pressure, but there is some evidence the local stressors act in an individual or additive manner, and not necessarily synergistically ([Darling et al.,](#page-6-32)
+
+--- SENTENCE 194 ---
+[Houk et al., 2014\)](#page-6-33).
+
+--- SENTENCE 195 ---
+In support, the coral assemblage metrics have previously been used here and elsewhere to establish relationships with human presence and watershed development ([Houk et al., 2005;](#page-6-27)
+
+--- SENTENCE 196 ---
+[and Van Woesik, 2010](#page-6-17)).
+
+## **5. Conclusions**
+
+Poor water quality associated with stream discharge is one of the primary local stressors impacting reefs globally [\(Darling et al., 2019](#page-6-34)).
+
+--- SENTENCE 197 ---
+Stream discharge can increase nutrients, turbidity, and sedimentation and provide a competitive edge for macroalgae to overgrow corals, and reduce the resilience of coral reefs exposed to climate change
+
+--- SENTENCE 198 ---
+In comparison to other local stressors like fishing pressure, improving water quality is often costly and requires major infrastructure improvements.
+
+--- SENTENCE 199 ---
+While improving past development is very difficult to regulate and often relies upon government-funded projects, ensuring new development adheres to accurate and relevant nutrient criteria is highly desirable [\(Gannon et al., 1996;](#page-6-36)
+
+--- SENTENCE 200 ---
+The present study helped to fill this gap by modeling daily DIN loading across a tropical Pacific island and recommending a transparent process to develop legislative water-quality criteria to protect coastal waters and coral reefs.
+
+--- SENTENCE 201 ---
+## **CRediT authorship contribution statement**
+
+**Peter Houk:**Conceptualization, Methodology, Investigation, Data curation, Software, Visualization, Formal analysis, Writing original draft, Writing - review & editing.**Mia Comeros-Raynal:**Conceptualization, Methodology, Investigation, Data curation, Software, Visualization, Writing - review & editing, Funding acquisition.**Alice Lawrence:**Conceptualization, Methodology, Investigation, Data curation, Software, Visualization, Writing - review & editing.**Mareike Sudek:**Conceptualization, Methodology, Investigation, Data curation, Software, Visualization, Writing - review & editing.**Motusaga Vaeoso:**Conceptualization, Methodology, Investigation, Data curation, Software, Visualization, Writing - review & editing.**Kim McGuire:**Conceptualization, Methodology, Investigation, Data curation, Software, Visualization, Writing - review & editing.**Josephine Regis:**Conceptualization, Methodology, Investigation, Data curation, Software, Visualization, Writing - review & editing.
+
+#### **Declaration of competing interest**
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+#### **Acknowledgements**
+
+This work was funded by the US Environmental Protection Agency (EPA) Region 9 Wetland Program Development Grant.
+
+--- SENTENCE 202 ---
+We thank American Samoa EPA Director, Fa'amao Asalele, Jr. and Deputy Director William Sili, for the support and guidance throughout this project.
+
+--- SENTENCE 203 ---
+We are grateful for the assistance provided by the Technical Services Division and the Water Division of the American Samoa EPA Technical Programs, in particular Christianera Tuitele and Jewel Tuiasosopo.
+
+--- SENTENCE 204 ---
+We are grateful for technical guidance from Chris Shuler and Nimbus Environmental Services.
+
+--- SENTENCE 205 ---
+### **Appendix A. Supplementary data**
+
+Supplementary data to this article can be found online at [https://](https://doi.org/10.1016/j.marpolbul.2020.111451)
+
+--- SENTENCE 206 ---
+[doi.org/10.1016/j.marpolbul.2020.111451.](https://doi.org/10.1016/j.marpolbul.2020.111451)
+
+#### **References**
+
+- <span id="page-6-20"></span>Bates, D., Maechler, M., Bolker, B., Walker, S., 2015.
+
+--- SENTENCE 207 ---
+Fitting linear mixed-effects models using lme4.
+
+--- SENTENCE 208 ---
+<https://doi.org/10.18637/jss.v067.i01>.
+- <span id="page-6-30"></span>[Bozec, Y.-M., Mumby, P.J., 2015.
+
+--- SENTENCE 209 ---
+Synergistic impacts of global warming on the resilience](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0010)
+
+--- SENTENCE 210 ---
+Sci. 370, 20130267.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0010)
+- <span id="page-6-9"></span>[Comeros-Raynal, M.T., Lawrence, A., Sudek, M., Vaeoso, M., McGuire, K., Regis, J., Houk,](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0015)
+
+--- SENTENCE 211 ---
+Applying a ridge-to-reef framework to support watershed, water quality,](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0015)
+
+--- SENTENCE 212 ---
+[and community-based fisheries management in American Samoa.
+
+--- SENTENCE 213 ---
+[505–520](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0015).
+- <span id="page-6-8"></span>[Cooper, T., Gilmour, J., Fabricius, K., 2009.
+
+--- SENTENCE 214 ---
+Bioindicators of changes in water quality on](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0020)
+
+--- SENTENCE 215 ---
+[coral reefs: review and recommendations for monitoring programmes.
+
+--- SENTENCE 216 ---
+[28, 589–606](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0020).
+- <span id="page-6-32"></span>[Darling, E.S., McClanahan, T.R., Côté, I.M., 2010.
+
+--- SENTENCE 217 ---
+Combined effects of two stressors on](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0025)
+
+--- SENTENCE 218 ---
+[Kenyan coral reefs are additive or antagonistic, not synergistic.
+
+--- SENTENCE 219 ---
+[122–130](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0025).
+- <span id="page-6-34"></span>[Darling, E.S., McClanahan, T.R., Maina, J., Gurney, G.G., Graham, N.A., Januchowski-](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0030)[Hartley, F., Cinner, J.E., Mora, C., Hicks, C.C., Maire, E., 2019.
+
+--- SENTENCE 220 ---
+[drivers inform strategic management of coral reefs in the Anthropocene.
+
+--- SENTENCE 221 ---
+1–10.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0030)
+- <span id="page-6-12"></span>[De'ath, G., Fabricius, K., 2010.
+
+--- SENTENCE 222 ---
+Water quality as a regional driver of coral biodiversity and](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0035)
+
+--- SENTENCE 223 ---
+[macroalgae on the Great Barrier Reef.
+
+--- SENTENCE 224 ---
+Appl. 20, 840–850](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0035).
+- <span id="page-6-14"></span>[DiDonato, G.T., 2004.
+
+--- SENTENCE 225 ---
+Developing an Initial Watershed Classification for American](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0040)
+
+--- SENTENCE 226 ---
+[Samoa, Report to the American Samoa Environmental Protection Agency, Pago Pago,](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0040)
+
+--- SENTENCE 227 ---
+American Samoa Environmental Protection Agency, pp.
+
+--- SENTENCE 228 ---
+14](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0040).
+- <span id="page-6-16"></span>[EPA, 2001.
+
+--- SENTENCE 229 ---
+Nutrient Criteria Technical Guidance Manual: Estuarine and Coastal Marine](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0045)
+
+--- SENTENCE 230 ---
+Office of Water, United States Environmental Protection Agency,](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0045)
+
+--- SENTENCE 231 ---
+[Washington, DC](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0045).
+- <span id="page-6-11"></span>[Fabricius, K., De'ath, G., McCook, L., Turak, E., Williams, D.M.J.M.p.b, 2005.
+
+--- SENTENCE 232 ---
+[Algal, Coral and Fish Assemblages Along Water Quality Gradients on the Inshore](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0050)
+
+--- SENTENCE 233 ---
+384–398.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0050)
+- <span id="page-6-5"></span>[Fabricius, K.E., Cooper, T.F., Humphrey, C., Uthicke, S., De'ath, G., Davidson, J.,](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0055)
+
+--- SENTENCE 234 ---
+[LeGrand, H., Thompson, A., Schaffelke, B., 2012.
+
+--- SENTENCE 235 ---
+A bioindicator system for water](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0055)
+
+--- SENTENCE 236 ---
+[quality on inshore coral reefs of the Great Barrier Reef.
+
+--- SENTENCE 237 ---
+- <span id="page-6-26"></span>[Fisher, W.S., Fore, L.S., Hutchins, A., Quarles, R.L., Campbell, J.G., LoBue, C., Davis, W.,](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0060)
+
+--- SENTENCE 238 ---
+Evaluation of stony coral indicators for coral reef management.
+
+--- SENTENCE 239 ---
+[Bull. 56, 1737–1745.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0060)
+- <span id="page-6-36"></span>[Gannon, R., Osmond, D., Humenik, F., Gale, J., Spooner, J., 1996.
+
+--- SENTENCE 240 ---
+Goal-oriented agri](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0065)[cultural water quality legislation.
+
+--- SENTENCE 241 ---
+- <span id="page-6-17"></span>[Houk, P., Van Woesik, R., 2010.
+
+--- SENTENCE 242 ---
+Coral assemblages and reef growth in the Commonwealth](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0070)
+
+--- SENTENCE 243 ---
+[of the Northern Mariana Islands \(Western Pacific Ocean\).
+
+--- SENTENCE 244 ---
+Mar. Ecol. 31, 318–329.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0070)
+- <span id="page-6-27"></span>[Houk, P., Didonato, G., Iguel, J., Van Woesik, R., Assessment, 2005.
+
+--- SENTENCE 245 ---
+[of non-point source pollution on American Samoa's coral reef communities.
+
+--- SENTENCE 246 ---
+107, 11–27.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0075)
+- <span id="page-6-0"></span>[Houk, P., Musburger, C., Wiles, P., 2010.
+
+--- SENTENCE 247 ---
+Water quality and herbivory interactively drive](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0080)
+
+--- SENTENCE 248 ---
+[coral-reef recovery patterns in American Samoa.
+
+--- SENTENCE 249 ---
+One 5, e13913.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0080)
+-
+
+--- SENTENCE 250 ---
+[Houk, P., Benavente, D., Johnson, S., 2013.
+
+--- SENTENCE 251 ---
+Watershed-Based Coral Reef Monitoring](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0085)
+
+--- SENTENCE 252 ---
+[Across Tutuila, American Samoa: Summary of Decadal Trends and 2013 Assessment.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0085)
+
+--- SENTENCE 253 ---
+[Technical Report Submitted to the American Samoa Environmental Protection](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0085) [Agency, Pago Pago, American Samoa.
+
+--- SENTENCE 254 ---
+\(37 pp.\).](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0085)
+- <span id="page-6-33"></span>[Houk, P., Benavente, D., Iguel, J., Johnson, S., Okano, R., 2014.
+
+--- SENTENCE 255 ---
+[and recovery dynamics differ across gradients of localized stressors in the Mariana](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0090)
+
+--- SENTENCE 256 ---
+One 9, e105731.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0090)
+- <span id="page-6-19"></span>[Houk, P., Camacho, R., Johnson, S., McLean, M., Maxin, S., Anson, J., Joseph, E., Nedlic,](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0095)
+
+--- SENTENCE 257 ---
+[O., Luckymis, M., Adams, K., 2015.
+
+--- SENTENCE 258 ---
+The Micronesia Challenge: assessing the relative](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0095)
+
+--- SENTENCE 259 ---
+[contribution of stressors on coral reefs to facilitate science-to-management feedback.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0095)
+
+--- SENTENCE 260 ---
+[PLoS One 10, e0130823](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0095).
+- <span id="page-6-35"></span>[Hughes, T.P., Baird, A.H., Bellwood, D.R., Card, M., Connolly, S.R., Folke, C., Grosberg,](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0100)
+
+--- SENTENCE 261 ---
+[R., Hoegh-Guldberg, O., Jackson, J.B., Kleypas, J., 2003.
+
+--- SENTENCE 262 ---
+[impacts, and the resilience of coral reefs.
+
+--- SENTENCE 263 ---
+Science 301, 929–933.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0100)
+- <span id="page-6-28"></span>[Karr, J.R., Yoder, C.O., 2004.
+
+--- SENTENCE 264 ---
+Biological assessment and criteria improve total maximum](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0105)
+
+--- SENTENCE 265 ---
+[daily load decision making.
+
+--- SENTENCE 266 ---
+130, 594–604](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0105).
+- <span id="page-6-24"></span>[Keller, A.A., Zheng, Y., Robinson, T., 2004.
+
+--- SENTENCE 267 ---
+Determining critical water quality conditions](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0110)
+
+--- SENTENCE 268 ---
+[for inorganic nitrogen in dry, semi-urbanized watersheds.
+
+--- SENTENCE 269 ---
+[Assoc. 40, 721–735](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0110).
+- <span id="page-6-1"></span>[Lapointe, B.E., 1997.
+
+--- SENTENCE 270 ---
+Nutrient thresholds for bottom-up control of macroalgal blooms on](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0115)
+
+--- SENTENCE 271 ---
+[coral reefs in Jamaica and southeast Florida.
+
+--- SENTENCE 272 ---
+42, 1119–1131.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0115)
+- <span id="page-6-21"></span>[Lapointe, B.E., Matzie, W.R., 1996.
+
+--- SENTENCE 273 ---
+Effects of stormwater nutrient discharges on eu](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0120)[trophication processes in nearshore waters of the Florida Keys.
+
+--- SENTENCE 274 ---
+- <span id="page-6-13"></span>[Lapointe, B.E., Barile, P.J., Littler, M.M., Littler, D.S., Bedford, B.J., Gasque, C., 2005.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0125)
+
+--- SENTENCE 275 ---
+[Macroalgal blooms on southeast Florida coral reefs: I. Nutrient stoichiometry of the](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0125)
+
+--- SENTENCE 276 ---
+[invasive green alga Codium isthmocladum in the wider Caribbean indicates nutrient](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0125)
+
+--- SENTENCE 277 ---
+Harmful Algae 4, 1092–1105.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0125)
+- <span id="page-6-2"></span>[Maynard, J.A., McKagan, S., Raymundo, L., Johnson, S., Ahmadia, G.N., Johnston, L.,](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0130)
+
+--- SENTENCE 278 ---
+[Houk, P., Williams, G.J., Kendall, M., Heron, S.F., 2015.
+
+--- SENTENCE 279 ---
+[potential of coral reefs to inform management.
+
+--- SENTENCE 280 ---
+Conserv. 192, 109–119](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0130).
+- <span id="page-6-31"></span>[McLean, M., Cuetos-Bueno, J., Nedlic, O., Luckymiss, M., Houk, P., 2016.
+
+--- SENTENCE 281 ---
+[resilience, and shifting baselines on coral reefs.
+
+--- SENTENCE 282 ---
+- <span id="page-6-37"></span>[Morgan, C., Owens, N.J., 2001.
+
+--- SENTENCE 283 ---
+Benefits of water quality policies: the Chesapeake Bay.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0140)
+
+--- SENTENCE 284 ---
+Econ. 39, 271–284](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0140).
+- <span id="page-6-7"></span>[Moss, A., Brodie, J., Furnas, M., 2005.
+
+--- SENTENCE 285 ---
+Water quality guidelines for the Great Barrier Reef](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0145)
+
+--- SENTENCE 286 ---
+[World Heritage Area: a basis for development and preliminary values.
+
+--- SENTENCE 287 ---
+[Bull. 51, 76–88](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0145).
+- <span id="page-6-18"></span>Oksanen, J., Blanchet, F.G., Kindt, R., Legendre, P., O'hara, R., Simpson, G.L., Solymos, P., Stevens, M.H.H., Wagner, H., 2010.
+
+--- SENTENCE 288 ---
+Vegan: community ecology package.
+
+--- SENTENCE 289 ---
+R package version 1.17-4. <http://cran.r-project.org>.
+- <span id="page-6-10"></span>[Oliver, L., Lehrter, J., Fisher, W., 2011.
+
+--- SENTENCE 290 ---
+Relating landscape development intensity to coral](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0155)
+
+--- SENTENCE 291 ---
+[reef condition in the watersheds of St. Croix, US Virgin Islands.
+
+--- SENTENCE 292 ---
+[427, 293–302.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0155)
+- <span id="page-6-6"></span>[Paytan, A., Shellenbarger, G.G., Street, J.H., Gonneea, M.E., Davis, K., Young, M.B.,](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0160)
+
+--- SENTENCE 293 ---
+Submarine groundwater discharge: an important source of new](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0160)
+
+--- SENTENCE 294 ---
+[inorganic nitrogen to coral reef ecosystems.
+
+--- SENTENCE 295 ---
+51, 343–348.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0160)
+- <span id="page-6-23"></span>[Sharp, J.H., 1983.
+
+--- SENTENCE 296 ---
+The distributions of inorganic nitrogen and dissolved and particulate](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0165)
+
+--- SENTENCE 297 ---
+[organic nitrogen in the sea.
+
+--- SENTENCE 298 ---
+In: Nitrogen in the Marine Environment, pp.
+
+--- SENTENCE 299 ---
+1–35.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0165)
+- <span id="page-6-29"></span>Shuler, C.K., Comeros-Raynal, M., 2020.
+
+--- SENTENCE 300 ---
+Ridge to reef management implications for the development of an open-source dissolved inorganic nitrogen-loading model in American Samoa.
+
+--- SENTENCE 301 ---
+[https://doi.org/10.1007/s00267-020-01314-4.](https://doi.org/10.1007/s00267-020-01314-4) (In press).
+-
+
+--- SENTENCE 302 ---
+<span id="page-6-25"></span>[Tango, P.J., Batiuk, R.A., 2013.
+
+--- SENTENCE 303 ---
+Deriving Chesapeake Bay water quality standards.
+
+--- SENTENCE 304 ---
+49, 1007–1024.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0175)
+- <span id="page-6-15"></span>[Tuitele, C., Tuiasosopo, J., Faaiuaso, S., 2016.
+
+--- SENTENCE 305 ---
+Watershed Classification Update for](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0180)
+
+--- SENTENCE 306 ---
+[American Samoa American Samoa Environmental Protection Agency, Pago Pago,](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0180)
+
+--- SENTENCE 307 ---
+12.](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0180)
+- <span id="page-6-3"></span>[Wiedenmann, J., D'Angelo, C., Smith, E.G., Hunt, A.N., Legiret, F.-E., Postle, A.D.,](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0185)
+
+--- SENTENCE 308 ---
+Nutrient enrichment can increase the susceptibility of reef](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0185)
+
+--- SENTENCE 309 ---
+Chang. 3, 160](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0185).
+- <span id="page-6-22"></span>[Wolanski, E., Martinez, J.A., Richmond, R.H., 2009.
+
+--- SENTENCE 310 ---
+Quantifying the impact of watershed](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0190)
+
+--- SENTENCE 311 ---
+[urbanization on a coral reef: Maunalua Bay, Hawaii.
+
+--- SENTENCE 312 ---
+[259–268](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0190).
+- <span id="page-6-4"></span>[Wooldridge, S.A., Done, T.J., 2009.
+
+--- SENTENCE 313 ---
+Improved water quality can ameliorate effects of](http://refhub.elsevier.com/S0025-326X(20)30569-5/rf0195)
+
+--- SENTENCE 314 ---
+[climate change on corals.
+

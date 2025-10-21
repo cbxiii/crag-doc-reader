@@ -1,0 +1,1828 @@
+--- SENTENCE 1 ---
+# *Improving watershed and island scale resilience through a quantitative priority-setting management framework*
+
+!
+
+--- SENTENCE 2 ---
+[](_page_0_Picture_1.jpeg)
+
+*US EPA Wetland Program Development Grant December 2019*
+
+#### Authors:
+
+--- SENTENCE 3 ---
+Mia T. Comeros-Raynal1, Christopher Shuler2, Josephine Regis3, Mareike Sudek4, Georgia Coward5, Alice Lawrence5 & Peter Houk6
+
+<sup>1</sup>
+
+--- SENTENCE 4 ---
+James Cook University, Townsville, QLD 4811, Australia 2 Shuler Hydrologic LLC, 796 Isenberg St. Suite 12E, Honolulu, HI 96826; 3 American Samoa Environmental Protection Agency, Pago Pago, AS.
+
+--- SENTENCE 5 ---
+96799,USA; 4National Marine Sanctuary of American Samoa, Pago Pago, AS 96799, USA; 5Coral Reef Advisory Group, Department of Marine and Wildlife Resources, Pago Pago, AS 96799, USA; 6University of Guam Marine Laboratory, UOG Station, Mangilao, GU. 96923
+
+!
+
+--- SENTENCE 6 ---
+Highlights
+
+- This project used an integrated scientific approach to pinpoint specific drivers of land and marine stressors that can be used to predict patterns of change across ecosystems to enable targeted management.
+
+--- SENTENCE 7 ---
+- Our Ridge-to-Reef framework provides a pathway for critically investigating how different natural and anthropogenic factors affect coral reef health through a transparent, repeatable and robust scientific process with outputs specifically focused on engaging and building partnerships with managers and the community.
+-
+
+--- SENTENCE 8 ---
+The results of this project have direct management applications to help in the prioritization of resources and future scientific investigations for building an adaptive and resilient Ridge-to-Reef environment in American Samoa.
+
+--- SENTENCE 9 ---
+- This project contributes directly to, and adds value to the American Samoa Environmental Protection Agency's (AS-EPA) quantitative watershed-based management actions as well as provides strategic linkages to local action strategies for coral reef management in American Samoa.
+
+--- SENTENCE 10 ---
+- Our Ridge-to-Reef project provides a model scientific and management framework for other Pacific Island states through our high-quality scientific outputs, training and outreach materials, and network-building collaborative focus to effectively mitigate and reduced landbased sources of pollution for improvement of coastal watershed quality and enhancement of coral reef ecosystem condition.
+
+--- SENTENCE 11 ---
+## **Abstract:**
+
+- 1.
+
+--- SENTENCE 12 ---
+Integrated watershed and coral reef management is an important tool in prioritizing and protecting resources that millions of people depend upon for livelihood, cultural, and aesthetic uses.
+
+--- SENTENCE 13 ---
+Ridge-to-Reef approaches are increasingly applied to conservation planning and prioritization to improve reef resilience, revitalize customary management efforts, and in setting relevant thresholds to achieve management goals.
+
+--- SENTENCE 14 ---
+Despite the widespread adoption and application of ridge-to-reef management approaches, our understanding of the different sources and pathways of dissolved inorganic nitrogen (DIN) to coastal waters, and the spatial and temporal patterns of dissolved nutrients and flow-on effects of nitrogen pollution on coral reef ecosystem condition remain limited.
+
+--- SENTENCE 15 ---
+Additionally, predicting the levels of dissolved inorganic nitrogen and the conditions where they are most likely to have negative impacts on coral reef resources is rare and in many cases absent.
+
+--- SENTENCE 16 ---
+This knowledge gap hinders ridge-to-reef management because management measures cannot be made that can inform managers of what types and specific levels of terrestrial run-off are most likely have negative impacts on nearshore coral reef habitats.
+
+- 3.
+
+--- SENTENCE 17 ---
+We address the ridge-to-reef management gap in American Samoa by first developing a model to determine natural and anthropogenic factors driving DIN, and using the model results to classify watersheds as pristine, moderate, or extensive according to human influences.
+
+--- SENTENCE 18 ---
+We used the percentage of exceedance of DIN concentration in each watershed as a standardized means to define DIN criteria for local water quality standards.
+
+--- SENTENCE 19 ---
+Secondly, we developed a DIN loading model for the island of Tutuila that integrated extensive water sampling data with water flux estimates from an open-source water budget model and publically available streamflow data.
+
+--- SENTENCE 20 ---
+To examine coral reef ecosystem condition and drivers of reef health, we developed a protocol to examine the influence of nitrogen pollution to nearshore coral reef habitats through stable isotope analysis of macroalgae and coral specimens.
+
+--- SENTENCE 21 ---
+We also sampled 14 streams and reef flats to examine the spatial and temporal patterns of nutrients.
+
+--- SENTENCE 22 ---
+Finally, we developed training packets and outreach materials to share the best-available scientific information on land-based pollution impacts on coral reef health.
+
+--- SENTENCE 23 ---
+Our project builds on our previous Ridge to Reef study (WPDG 2015 Award) by adding to the knowledge framework and applying the results to help direct management and policy decisions in American Samoa.
+
+--- SENTENCE 24 ---
+Furthermore, our project leverages existing efforts by various local and federal government agencies to formalize links of land use to resilience indicators on adjacent coral reefs.
+
+--- SENTENCE 25 ---
+Importantly, this project forges strong scientific collaboration and engagement with important actors in the protection and prioritization of
+
+environmental resources in the Territory that are critical for livelihood, cultural, and aesthetic uses.
+
+--- SENTENCE 26 ---
+Finally, this project advances Ridge-to-Reef management in the Territory by building a strong scientific foundation to better understand the tight connections between upstream activities and the condition of downstream coral reef ecosystems.
+
+# **Introduction**
+
+Coral reefs are negatively impacted by land-based pollution through riverine and groundwater transport, with significant implications for millions of people that are reliant on healthy reefs for food, cultural and aesthetic uses.
+
+--- SENTENCE 27 ---
+Growing human populations in coastal areas and the associated development and changes in land use have caused declines in water quality in nearshore environments, affecting the structure and functioning of coastal marine ecosystems, and the goods and service they provide (Szmant 2002; Fabricius *et al.* 2005; Littler *et al.* 2006; De'ath & Fabricius 2010; Waterhouse *et al.* 2016; Brown *et al.* 2017a; Hamilton *et al.* 2017; Plass-Johnson *et al.* 2018; Teichberg *et al.* 2018).
+
+--- SENTENCE 28 ---
+For instance, declining water quality from land-based run-off has been identified as a major cause of the poor condition of coral and marine ecosystems of the Great Barrier Reef (GBR) (Brodie & Pearson 2016; Waterhouse *et al.* 2017).
+
+--- SENTENCE 29 ---
+Similarly, enriched nutrients from sewage outfalls within Kaneohe Bay, Hawaii increased chlorophyll concentrations in the water column and ultimately led to a transition from a coral-dominated to an algal-dominated state (Szmant 2002; Bahr *et al.* 2015).
+
+--- SENTENCE 30 ---
+Declining water quality presents one of the greatest threats to nearshore coral reefs, affecting about 50% of reefs globally with elevated nutrients, turbidity and sedimentation contributing to decreases in live coral and increases in other benthic organisms such as fleshy macroalgae, ultimately causing shifts in ecological structure and coral reef ecosystem function (Bryant *et al.* 1998;
+
+--- SENTENCE 31 ---
+Burke *et al.* 2011).
+
+--- SENTENCE 32 ---
+The resulting declines in water quality and degraded environments have led to a number of integrated management approaches that aim to identify, mitigate, and plan for, the harmful effects of multiple and interacting stressors on watersheds, coastal, and marine ecosystems (Rodgers *et al.* 2012; Alvarez-Romero *et al.* 2015; Fredston-Hermann *et al.* 2016).
+
+--- SENTENCE 33 ---
+Ridge-to-reef, catchment or watershed-based management emphasizes the land-sea connection with efforts focused on reducing land-based impacts and promoting sustainable land use practices to maintain overall ecosystem health and improve resilience [REFS].
+
+--- SENTENCE 34 ---
+Because of the strong link between upstream activities and the condition of downstream coral reef ecosystems, the ridge-to-reef approach has expanded to include the protection and management of coral reef fisheries resources in view of the interdependencies of species and habitats and human activities on land (Fredston-Hermann *et al.* 2016; Brown *et al.* 2017b; Jupiter *et al.* 2017; Delevaux *et al.* 2018a; Delevaux *et al.* 2018b).
+
+--- SENTENCE 35 ---
+Ridge-to-reef approaches are being developed and implemented for conservation planning and prioritization (Álvarez-Romero *et al.* 2011; Alvarez-Romero *et al.* 2014; Alvarez-Romero *et al.* 2015; Rude *et al.* 2016), monitoring coral reef ecosystem condition (Houk *et al.* 2010; Oliver *et al.* 2011; Rodgers *et al.* 2012; Oliver *et al.* 2018), setting relevant management thresholds (Bartley *et al.* 2014; Waterhouse *et al.* 2016; Bainbridge *et al.* 2018), fisheries management (Brown *et al.* 2017b)**,** and habitat protection.
+
+--- SENTENCE 36 ---
+In American Samoa, declining water quality is attributed to non-point sources of pollution, improper land use designations, and increased production of solid waste and sewage (Tuitele & Buchan 2014; Tuitele *et al.* 2014).
+
+--- SENTENCE 37 ---
+Additionally, pathogen indicators from collection system failure and intensive animal feeding operations have led to declining water quality in streams and surrounding coastal waters (DiDonato *et al.* 2009; Tuitele *et al.* 2015; Tuitele *et al.* 2016a).
+
+--- SENTENCE 38 ---
+These land-based sources of pollution may have substantial negative impacts on coral reef condition and public health (Whitall & Holst Rice 2015; Biggs & Messina 2016; Holst Rice *et al.* 2016; Messina & Biggs 2016;
+
+--- SENTENCE 39 ---
+Biggs *et al.* 2017; Polidoro *et al.* 2017).
+
+--- SENTENCE 40 ---
+In addition, the interacting impacts of watershed development, increasing human population density, nutrients from streams and groundwater, and
+
+fisheries exploitation, together with regional and global stressors have the potential to diminish reef health and resilience to increasing disturbances.
+
+--- SENTENCE 41 ---
+To prioritize management actions for coral reef conservation, locally-driven action strategies have been developed in American Samoa that focus on fisheries management, land-based sources of pollution reduction and mitigation, and building local resilience to climate change impacts (Program 2010).
+
+--- SENTENCE 42 ---
+Coral reef conservation and management efforts in the Territory have operated at a high-level of collaboration and coordinated actions in view of the interconnected systems of the watershed and nearshore coral reef ecosystems.
+
+--- SENTENCE 43 ---
+These coral reef management initiatives have led to integrated and strategically-placed investments in activities that advance the coral reef management priorities as well as providing linkages to national and regional objectives to protect important coral reef resources.
+
+--- SENTENCE 44 ---
+Despite major progress in identifying key threats impacting watersheds and adjacent coral reef ecosystems, anthropogenic impacts such as sedimentation, elevated nutrient concentrations from runoff and pollution in sediments have led to decline in water quality with potential negative impacts to coral reef condition and public health (Teaby *et al.* 2014, Rice *et al.* 2016, Messina *et al.*
+
+--- SENTENCE 45 ---
+2016, Whitall and Holst 2015 and Polidoro *et al.* 2017).
+
+--- SENTENCE 46 ---
+Recent assessments of water quality in the Territory show that 40% of streams and 47% of ocean shoreline assessed by the American Samoa Environmental Protection Agency (AS-EPA) for designated use of swimming are impaired due to presence of pathogen indicators from collection system failure and intensive animal feeding operations (Tuitele *et al.* 2016).
+
+--- SENTENCE 47 ---
+Emerging baseline information on nutrient concentrations around the island from a WPDG FY15-17-funded project show that dissolved inorganic nitrogen concentrations are lower than thresholds prescribed in local water quality standards.
+
+--- SENTENCE 48 ---
+In the presence of continuously degraded watersheds and ecosystem condition, data on nutrient concentrations that cover a gradient of human impacts, and temporal resolutions that can capture seasonal or storm event contributions at an island-wide scale, is crucial to understanding thresholds of watershed discharge that can negatively impact ecosystem health condition.
+
+--- SENTENCE 49 ---
+This type of information can help separate natural levels from human-enriched levels and will be important in identifying the stressor-specific drivers of impacted coral reefs around American Samoa.
+
+--- SENTENCE 50 ---
+Quantitative ridge-to-Reef efforts that integrate land use, water quality and reef condition have focused on examining the catchment to sea connectivity in Fa'gaalu and Vatia watersheds through assessment of the connection of enriched nutrients and increased sedimentation on coral composition (Science 2015; Biggs & Messina 2016; Holst Rice *et al.* 2016).
+
+--- SENTENCE 51 ---
+Given that the SGD component is often underestimated in assessments of anthropogenic nutrient sources on coral reef ecosystems, studies have also focused on looking at the contributions of submarine groundwater discharge (SGD) to nutrient loading on Tutuila, (Shuler *et al.* 2019); and the transport of pesticides to coastal ecosystems through groundwater movement (Welch *et al.* 2019).
+
+--- SENTENCE 52 ---
+Comprehensive understanding from monitoring and assessment approaches that are scalable and with spatially-explicit environmental predictor variables can potentially enable powerful detection of the anthropogenic signal on vulnerable island ecosystems such as on Tutuila.
+
+--- SENTENCE 53 ---
+We address the ridge-to-reef management gap in American Samoa by first developing a model to determine natural and anthropogenic factors driving DIN, and using the model results to classify watersheds as pristine, moderate, or extensive according to human influences.
+
+--- SENTENCE 54 ---
+We used the percentage of exceedance of DIN concentration in each watershed as a standardized means to define DIN criteria for local water quality standards.
+
+--- SENTENCE 55 ---
+Secondly, we developed a DIN loading model for the island of Tutuila that integrated extensive water sampling data with water flux estimates from an open-source water budget model and publically available streamflow data.
+
+--- SENTENCE 56 ---
+We then sampled 14 streams and reef flats to examine the spatial and temporal patterns of nutrients and established a monitoring protocol that looked at long-term impacts of nitrogen pollution on coral reef assemblages through stable isotope analysis of macroalgae and coral samples.
+
+--- SENTENCE 57 ---
+Finally, we develop training packets and outreach materials to share the best-available scientific information on land-based pollution impacts on coral reef health.
+
+--- SENTENCE 58 ---
+This project advances science-based management goals of reducing and mitigating the impacts of land-based sources of pollution and provide a better measurement of the human disturbance signal on watersheds and adjacent coral reef ecosystems to quantify the extent and ecological impacts of land-based sources of pollution on nearshore resources in American Samoa.
+
+--- SENTENCE 59 ---
+*1.1 Ridge-to-Reef in American Samoa: identifying the most pressing problems and building a sustainable R2R monitoring and management framework*
+
+In 2017, with support from US EPA's Wetland Program Development Grant, AS-EPA led a study that formally assessed the condition of the Ridge-to-Reef continuum in American Samoa.
+
+--- SENTENCE 60 ---
+This study presents the first broadscale examination of linkages between land use and water quality gradients, and between water quality, land use, fishing access, and the ecological condition of coral reef resources.
+
+--- SENTENCE 61 ---
+Following the success of AS-EPA's 2015- 2017 Ridge-to-Reef grant, the Agency received another round of WPDG funding (2017-2019) to build on the results from the previous Ridge-to-Reef project by adding to the knowledge framework and applying the results to help direct management and policy decisions in American Samoa
+
+# AS-EPA's Ridge-to-Reef Project 2015-2017
+
+This study was conducted by combining water quality monitoring and coral reef condition monitoring in 26 sites around Tutuila which include the priority watersheds identified by the US Coral Reef Task Force, important wetland sites managed by the Department of Commerce (DOC), Marine Protected Areas managed by the Department of Marine and Wildlife Resources (DMWR) through the Community-based Fishery Management Program (CFMP), National Marine Sanctuaries of American Samoa (NMSAS) and the National Park of American Samoa.
+
+--- SENTENCE 62 ---
+This study is the first in the U.S. Territory of American Samoa to cover wide temporal and spatial scales in assessing watershed health using an integrated water quality and biological condition scoring framework.
+
+--- SENTENCE 63 ---
+We used Dissolved Inorganic Nitrogen, as a proxy of water quality as this nutrient is highly bioavailable, directly taken up by phytoplankton and other algae, and relatively inexpensive and simple to analyze compared to other nutrient constituents (Dumont *et al.* 2005).
+
+--- SENTENCE 64 ---
+We examined DIN collected from stream mouths over one year to determine thresholds in human presence and development that predicted elevated nutrient concentrations beyond an uninhabited watershed benchmark.
+
+--- SENTENCE 65 ---
+We then used proxies to DIN such as human population density and proxies to fishing access to determine the relative influence of pollution and fishing on adjacent reefs.
+
+--- SENTENCE 66 ---
+This study builds on previous efforts documenting links between watershed uses and nearshore reef condition (Houk *et al.* 2005; DiDonato *et al.* 2009; Biggs & Messina 2016; Holst Rice *et al.* 2016; Messina & Biggs 2016; Biggs *et al.* 2017), but expands upon the spatial scale of investigation and the coupling of water quality data, watershed characteristics, and fishing access to better isolate human-stressor interactions.
+
+--- SENTENCE 67 ---
+More broadly, the study extends a ridge-to-reef management concept, paving the way for prioritized management planning.
+
+--- SENTENCE 68 ---
+Our results show Dissolved Inorganic Nitrogen (DIN) concentrations were best predicted by total human population and disturbed land for watersheds with over 200 humans km-2, providing a predictive threshold for DIN enrichment attributed to human populations.
+
+--- SENTENCE 69 ---
+Coral reef assemblages were next partitioned into three distinct reeftypes to account for inherent variation in biological assemblages and isolate upon local stressors.
+
+--- SENTENCE 70 ---
+Regression models suggested that watershed characteristics linked with DIN and fishing access best predicted ecological condition scores, but their influences differed.
+
+--- SENTENCE 71 ---
+Relationships were weakest between coral assemblages and watershed-based proxies of DIN, and strongest between fish assemblages and distances to boat harbors and wave energy (i.e., accessibility).
+
+--- SENTENCE 72 ---
+The Ridge-to-Reef framework used here showed the spatial variation of stressor influence, and the specific assemblage attributes influenced by natural and anthropogenic drivers which aims to guide a local ridge-to-reef management strategy.
+
+--- SENTENCE 73 ---
+## AS-EPA's Ridge-to-Reef Project 2017-2019
+
+--- SENTENCE 74 ---
+Our current project integrated biological and physical datasets into a decision-making framework to assess and manage local stressors that threaten the resilience and adaptive capacity of coral reef ecosystems in American Samoa.
+
+--- SENTENCE 75 ---
+We build on our previous Ridge-to-Reef model by using our high-resolution DIN results to predict the levels of dissolved inorganic nitrogen and the conditions where they are most likely to have negative impacts on coral reef resources.
+
+--- SENTENCE 76 ---
+We then applied our DIN results to develop an island-wide DIN loading model for Tutuila.
+
+--- SENTENCE 77 ---
+These have direct management applications to AS-EPA in helping develop nutrient thresholds and in identifying specific sources and pathways of DIN loading to prioritize protection of coastal waters and coral reefs.
+
+--- SENTENCE 78 ---
+We examined the spatial and temporal patterns of nutrients and the flow-on impacts of nitrogen pollution to coral reef health through stable isotope analysis.
+
+--- SENTENCE 79 ---
+We also leveraged existing resources such as the Exchange Network Grant programmatic services to create effective visualizations of our Ridge to Reef project's environmental data.
+
+--- SENTENCE 80 ---
+Through cross-platform use of existing services, we are advancing watershed-scale monitoring and management using Operations Dashboard for ArcGIS to create and share operation views that include interactive maps, charts and other performance indicators.
+
+--- SENTENCE 81 ---
+This enables real-time monitoring data to be shared over the internet and for end users to have the
+
+ability to view, analyze, and better understand environmental information.
+
+--- SENTENCE 82 ---
+Importantly, we add to the growing scientific linkages of Ridge to Reef monitoring assessments in American Samoa and leverage existing efforts by various local and federal government agencies to formalize links of land use to resilience indicators on adjacent coral reefs.
+
+--- SENTENCE 83 ---
+For example, this project continues to advance Ridge to Reef science in American Samoa through scientific knowledge exchange and results sharing with NOAA Coral Reef Conservation Program (CRCP) by leveraging collaborations with ongoing research investigating the effects of declining water quality on the ecology of important reef fishes in the Territory.
+
+--- SENTENCE 84 ---
+Lastly, our Ridge to Reef project leverages existing coral reef management and education and outreach efforts in the Territory through the contribution and presentation of this scientific work to local resource agencies, facilitating the sharing of scientific data to monitoring programs led by AS-EPA, CRAG, DMWR, ASCC, NMSAS and NPS, increasing the quality and access to environmental data through open-access tools and reports.
+
+# **1.
+
+--- SENTENCE 85 ---
+Methods:**
+
+We used a multi-faceted approach to meet the main goals of the project: 1) to increase understanding of the human disturbance on watersheds, and 2) to increase understanding of nutrient discharge to nearshore reef habitats (Figure 1).
+
+--- SENTENCE 86 ---
+First, we developed a model that predicted daily DIN loading, using the results to develop a quantitative DIN threshold for the Territory.
+
+--- SENTENCE 87 ---
+This task directly supports project outcomes to a) increase understanding of watershed classification and water quality thresholds relevant to coral reef condition, b) increase understanding of the R2R scientific framework to enable goal-oriented management actions, and c) the identification of the most important localized stressors having strongest impacts on the reefs through the integration of biological and physical datasets.
+
+--- SENTENCE 88 ---
+Secondly, we developed an island-wide DIN loading model identifying the most significant sources and pathways of DIN to adjacent coastal waters.
+
+--- SENTENCE 89 ---
+This task directly supports project outcomes a) to increase understanding of island-wide nutrient loading and water budgets in American Samoa, and b) to increase understanding of sources of nutrient pollution and trends of pollution through time.
+
+--- SENTENCE 90 ---
+Next, we developed scientific monitoring protocols to better understand the spatial and temporal patterns of dissolved nutrients and stable isotopes in representative watersheds on Tutuila.
+
+--- SENTENCE 91 ---
+This task directly supports project outcomes to increase understanding of the spatial relationship between watershed nutrient discharge and distribution of coral and benthic assemblages at priority sites.
+
+--- SENTENCE 92 ---
+Finally, we directly support R2R project outcome to identify issues and possible solutions to more effectively manage coral reef resources using a stressor-specific systematic approach by the production of result outputs that are meaningful and significant to inform future watershed management decisions.
+
+--- SENTENCE 93 ---
+These outputs are in the form of training materials, village-based outreach, high-quality technical reports and scientific papers in peerreviewed journals.
+
+--- SENTENCE 94 ---
+These documents provide strong scientific background to inform appropriate regulations.
+
+!
+
+--- SENTENCE 95 ---
+Identifying the most pressing concerns regarding Ridge-to-Reef science to management in American Samoa
+
+# **1.1 DIN water quality thresholds and informing watershed classification**
+
+We examined 34 watersheds that represented a gradient of pristine-to-high human influence around the island.
+
+--- SENTENCE 96 ---
+These watersheds have previously been classified in accordance with their human population levels as: 1) pristine, 2) moderate, and 3) extensive (DiDonato 2004; Tuitele *et al.* 2016b).
+
+--- SENTENCE 97 ---
+Our goals were to: 1) revisit the watershed classification system given new datasets and analyses, and most importantly, 2) examine both natural and human drivers of stream water quality to provide simple guidelines for establishing water-quality thresholds for dissolved inorganic nitrogen (DIN) to protect coral reefs (EPA 2001).
+
+#### **Water-quality data**
+
+Water-quality data were collected from 34 streams on a monthly basis from September 2016 to September 2017 (Figure 2).
+
+--- SENTENCE 98 ---
+Sampling was conducted during the same 3-day timeframe each month.
+
+--- SENTENCE 99 ---
+The 3-day sampling period coincided with the lowest tides during new moon phases.
+
+--- SENTENCE 100 ---
+This sampling design aimed to control for extrinsic environmental variation due to shifting tides to the extent possible.
+
+--- SENTENCE 101 ---
+Water samples were collected from the stream surface by filling 500 ml polyethylene bottles.
+
+--- SENTENCE 102 ---
+Samples were placed on ice, filtered in the lab with 0.7 μm filters, and then frozen until analysis.
+
+--- SENTENCE 103 ---
+Frozen samples were analyzed within three months of collection.
+
+--- SENTENCE 104 ---
+DIN concentrations were analyzed using the SEAL Analytical AA3 HR Nutrient Analyzer.
+
+--- SENTENCE 105 ---
+We used the methods and procedures outlined by SEAL Analytical for analysis of Nitrate, Nitrite, and Ammonium.
+
+--- SENTENCE 106 ---
+DIN data analyzed in the present study were therefore defined by the sum of nitrate, nitrite, and ammonium.
+
+!
+
+--- SENTENCE 107 ---
+Map of the Tutuila, American Samoa, showing watershed boundaries (black thin lines), streamflow (blue thin lines), sampling sites with circles scales by mean annual DIN concentrations, and land use with all dark colors indicating land associated with varying human disturbances such as housing and farms (a).
+
+--- SENTENCE 108 ---
+Inset figure shows the relationship between mean DIN concentrations and human presence/disturbance (b).
+
+--- SENTENCE 109 ---
+Circle sizes in the inset figures were scaled with watershed size to show the lack of relationship when not considering human factors.
+
+#### **Environmental data**
+
+A suite of site-based environmental data were collected from satellite-derived sources and the airport weather station in American Samoa.
+
+--- SENTENCE 110 ---
+Satellite-derived data were collected from the National Oceanic and Atmospheric Administration (NOAA)
+
+--- SENTENCE 111 ---
+Sea-surface temperature (SST) data were derived from the MODIS 0.025-degree dataset for the Pacific Ocean.
+
+--- SENTENCE 112 ---
+Daily wind
+
+and rain data were derived from the Pago Pago airport station and serve online through the NOAA climate data center [\(https://www7.ncdc.noaa.gov/CDO/cdoselect.cmd?datasetabbv=GSOD\)](https://www7.ncdc.noaa.gov/CDO/cdoselect.cmd?datasetabbv=GSOD).
+
+--- SENTENCE 113 ---
+Together, these three environmental factors were expected to be the most influential to the transport (i.e., rainfall), flushing (i.e., wind and wind associated waves), and background levels on any particular sampling date across the island (i.e., seasurface temperature annual cycle).
+
+--- SENTENCE 114 ---
+A previous study revealed that two human factors, watershed development and human population density, were the strongest and most consistent drivers of mean annual DIN across the gradient of study sites (Comeros-Raynal *et al.* 2019).
+
+--- SENTENCE 115 ---
+We combined this information to create the present, mixedmodel analytical design.
+
+--- SENTENCE 116 ---
+Described below, we hypothesized that a single, mixed-model could predict daily DIN concentrations if we allowed the y-intercepts to vary (i.e., allow for site-based variation that was known to be predictable and related to human factors).
+
+--- SENTENCE 117 ---
+Thus, we focus on a suite of natural factors to predict daily DIN loading, while allowing for random variation caused by site-specific human influences.
+
+#### **Data analyses**
+
+Generalized linear mixed models were used to predict daily DIN loadings for all sites based upon individual and synergistic contributions from rainfall, SST, and wind.
+
+--- SENTENCE 118 ---
+Environmental predictors were aggregated at differing time intervals to search for best-fit models.
+
+--- SENTENCE 119 ---
+Rainfall and wind data were examined (1) day, (2) days, and (1) week prior to sampling.
+
+--- SENTENCE 120 ---
+In contrast, SST data were collected in (5) day bins because they were more representative of seasonal cycles that can predict background levels.
+
+--- SENTENCE 121 ---
+Mixed models were examined to allow for random variation among both y-intercepts and slopes.
+
+--- SENTENCE 122 ---
+Thus, human factors were accounted for within the random modeling term(s), allowing us to formally focus on natural factors transporting and retaining DIN similarly to all watersheds.
+
+--- SENTENCE 123 ---
+Mixed modeling was performed in the software platform R (Bates *et al.* 2015).
+
+--- SENTENCE 124 ---
+We first built a null model, and then compared subsequent models with additional terms using analyses of variance (ANOVA) to test between the residual deviance estimates.
+
+--- SENTENCE 125 ---
+The best-fit model was selected based upon this stepwise comparison process and the AIC scores.
+
+#### **DIN thresholds**
+
+Prior to assessing DIN thresholds, we first refined ASEPA watershed classifications to establish a gradient of 'healthy'-to-'polluted' waterbodies.
+
+--- SENTENCE 126 ---
+This reclassification increased the spatial resolution of previous ASEPA watershed classifications from the village level, which lumped many sub-drainages into a single village-based classification, to the sub-drainage level, which allowed for differing classifications for each village-stream.
+
+--- SENTENCE 127 ---
+A previous study regressed human population density and land use against mean annual DIN for each villagestream to establish the link with human factors (Comeros-Raynal *et al.* 2019).
+
+--- SENTENCE 128 ---
+We report a highly significant correlation between the y-intercept values of our best-fit mixed model and mean annual DIN.
+
+--- SENTENCE 129 ---
+Thus, our yintercept values were an ideal means to reclassifying waterbodies.
+
+--- SENTENCE 130 ---
+We repeated a pre-defined classification process, noted above, to split the Box-Cox transformed, normally-distributed vector of y-intercepts into three
+
+classes that represented: (i) values below the mean minus one standard deviation as "pristine" with little human impact, (ii) values between the mean and upper and lower standard deviations as "moderate", and (iii) values above the mean plus one standard deviation as "extensive" with highest human impact.
+
+--- SENTENCE 131 ---
+We last used the mixed-modeling results to hindcast DIN at all individual sites between 2016 and 2018 and calculate the percent of time DIN exceeded potential thresholds useful for coral-reef protection.
+
+--- SENTENCE 132 ---
+The previous study that established linkages between human population density, watershed development and DIN also linked these variables with coral-reef condition (Comeros-Raynal *et al.* 2019).
+
+--- SENTENCE 133 ---
+Condition was defined by several biological metrics that together were less sensitive to uncertain disturbance histories and more sensitive to local stressors.
+
+--- SENTENCE 134 ---
+These included coral colony size distributions, coral evenness, coral cover, a ratio of calcifying versus less-calcifying substrates, and species richness.
+
+--- SENTENCE 135 ---
+For instance, shortly after a disturbance event, coral cover and colony size are expected to decrease, but species richness and evenness are expected to increase.
+
+--- SENTENCE 136 ---
+Thus, the coral condition metrics were offsetting with respect to disturbances to be more sensitive to local stressors.
+
+--- SENTENCE 137 ---
+Instead of attempting to set any individual DIN threshold, we explored potential thresholds using the reclassified ASEPA watersheds and guidance documents from longstanding programs associated with the United States Environmental Protection Agency (USEPA) (EPA 2001).
+
+--- SENTENCE 138 ---
+One recommended method to assess thresholds is to first develop a gradient of 'healthy' and 'polluted' sites, then assess the percent of time each site exceeds potential thresholds (i.e., <10% to >30% exceedances, for healthy and polluted watersheds, respectively).
+
+--- SENTENCE 139 ---
+In sum, we built a process for defining DIN criteria that aligned with both local ASEPA knowledge and USEPA guidance.
+
+#
+
+--- SENTENCE 140 ---
+**1.2 Island-Wide Nutrient Modeling and Quantification of Coastal Freshwater Discharge for Tutuila, American Samoa**
+
+The DIN loading model was built by first finding relationships between land use and observed DIN loads in sampled watersheds through regression analysis.
+
+--- SENTENCE 141 ---
+The model was calibrated with observed DIN loading rates, which were calculated in watersheds where sufficient water sample data were available (Figure 3).
+
+--- SENTENCE 142 ---
+Water sample data used for this work was procured from two main sources: (1) streamflow and coastal spring sampling data from the AS-EPA Phase 1 Ridge to Reef Project as documented by Comeros-Raynal et al. (2018) and coastal spring data, curated from sources including Shuler et al. (2017), Shuler et al. (2019), and Shuler (2019).
+
+--- SENTENCE 143 ---
+The Ridge to Reef data was collected through monthly resolution water sampling at thirty-eight individual stream sites, over a one-year period between September 2016 to September 2017.
+
+--- SENTENCE 144 ---
+Hydrologic pathways included (1) stream baseflow, which consists of groundwater derived streamflow originating from shallow aquifers, (2) surface runoff, which consists of overland storm-flow generated during rainfall events and (3) SGD, which is commonly defined as, *"direct groundwater outflow across the ocean-land interface into the ocean*" (Church, 1996).
+
+--- SENTENCE 145 ---
+Water sample nutrient
+
+concentrations were multiplied by water discharge from all hydrologic pathways to calculate observed nutrient loads to sampled watersheds.
+
+--- SENTENCE 146 ---
+The observed nutrient loads were then used as calibration data to calibrate individual DIN-release rates for each of the modeled anthropogenic nutrient sources in the DIN loading model.
+
+--- SENTENCE 147 ---
+Anthropogenic nutrient sources in the model included On-Site wastewater Disposal System (OSDS) units, livestock pigs, and agricultural lands.
+
+--- SENTENCE 148 ---
+To determine the locations of modeled nutrient sources high-resolution geospatial data were obtained from local agencies (Figure 4).
+
+--- SENTENCE 149 ---
+The Tutuila DIN loading model was developed using the following workflow steps: (1) island-wide water discharge rates from all three hydrologic pathways were calculated for every watershed by using a SWB2 water budget model (2) observed DIN fluxes were calculated in sampled watersheds by multiplying measured DIN concentrations from each hydrologic pathway by SWB2 calculated water fluxes, (3) the prevalence of anthropogenic and natural DIN sources in every watershed was determined by geospatial additions of the total numbers of OSDS units, pigs, and agricultural lands within each watershed, and (4) modeled DIN fluxes were calculated by using measured fluxes as calibration for an optimization routine that parameterized DIN release rates from the sources described in step 3, in order to obtain coastal DIN loading estimates for all watersheds across Tutuila.
+
+--- SENTENCE 150 ---
+The Tutuila SWB2 water budget model was used to estimate water fluxes from each hydrologic pathway on an island wide basis.
+
+--- SENTENCE 151 ---
+The SWB2 code was originally developed by the USGS (Westenbroek et al., 2018) and a Tutuila based application of the model by Shuler and El-Kadi (2018) is available as an open source model
+
+--- SENTENCE 152 ---
+The water budget model directly produces estimates of surface runoff and net-infiltration, which was then used to indirectly calculate baseflow and SGD rates for each watershed.
+
+--- SENTENCE 153 ---
+Observed streamflow data were obtained from historical USGS
+
+!
+
+--- SENTENCE 154 ---
+[](_page_14_Figure_4.jpeg)
+
+*Figure 3: Locations of stream and coastal spring sample sites shown as circles and triangles, respectively, with shaded model watersheds draining to each site.
+
+--- SENTENCE 155 ---
+Model designated watershed ID numbers are also shown.
+
+--- SENTENCE 156 ---
+*
+
+sources (Wong 1996; Perreault, 2010), and the existing ASPA-UHWRRC streamflow network
+
+--- SENTENCE 157 ---
+These were used to refine and validate the water flux estimates calculated with the water budget model, and to separate the net-infiltration component into a baseflow and a SGD component.
+
+--- SENTENCE 158 ---
+The model was calibrated with a Python-based optimization function (scipy.optimize.minimize) and sensitivity testing was performed on each model parameter to assess the impact each calibrated loading rate had on the final total DIN load in each watershed.
+
+!
+
+--- SENTENCE 159 ---
+*Figure 4: Locations of DIN sources used as model input.
+
+--- SENTENCE 160 ---
+Initial DIN release rates from Shuler et al. (2017) were 0.021 kg-DIN/day per OSDS unit, 0.0381 kg-DIN/day per pig, 0.77 kg-DIN/day per km2 of agricultural land, and 0.36 kg-DIN/day per km2 of natural land.
+
+--- SENTENCE 161 ---
+*
+
+#### 2.3 Understanding spatial and temporal patterns of terrestrial run-off and coral reef ecosystem condition
+
+We developed monitoring protocol to examine the influence of nitrogen pollution to nearshore coralreef habitats through stable isotope analysis of macroalgae and coral specimens.
+
+--- SENTENCE 162 ---
+Stable isotope analysis (δ15N) in tissues of these reef organisms can be used as an indicator of sewage stress on coral reefs, and can trace and discriminate among anthropogenic nitrogen inputs to coastal ecosystems (Risk *et al.* 2009).
+
+--- SENTENCE 163 ---
+Isotopes offer a means to identify sources of nitrate because of distinct isotopic signatures among different sources of nitrate.
+
+--- SENTENCE 164 ---
+Additionallly, the biological cycling of nitrogen often changes isotopic ratio in predictable and recorgnizable directions that can be reconstructed from isotopic compositions (Kendall *et al.* 2007).
+
+--- SENTENCE 165 ---
+The use of benthic macroalgae for stable isotope analysis is ideal because macroalgae has been used in numerous studies as environmental indicators, they are attached to the substrate and therefore integrate nutrient availability over times scales of days to weeks.
+
+--- SENTENCE 166 ---
+This allows researchers to use macroalgae to quantify and finger-print land-based nitrogen inputs to coastal waters.
+
+--- SENTENCE 167 ---
+*Porites* massive can also be used for δ15N stable isotope analysis to track patterns of eutrophication on coral reefs (Risk *et al.* 2009).
+
+--- SENTENCE 168 ---
+We conducted scoping surveys in 14 sites from the 26 watersheds in our previous Ridge to Reef 2017 project and collected *Porites* massive, *Galaxea* coral samples and green macroalgae samples for stable isotope analysis.
+
+--- SENTENCE 169 ---
+Samples were sent to the Biogeochemical Stable Isotope Facility at the University of Hawaii Manoa.
+
+!
+
+--- SENTENCE 170 ---
+CRAG Coral Reef Ecologist, Georgia Coward, surveying reef benthos for stable isotope analysis candidate samples
+
+!
+
+--- SENTENCE 171 ---
+National Marine Sanctuary of American Samoa Research Coordinator, Dr. Mareike Sudek, collecting coral samples for stable isotope analysis
+
+## Water quality sampling
+
+We selected a subset of 14 watersheds of varying environmental gradient, watershed classification, and exposure to anthropogenic stressors (Figure 6) from the 26 watersheds in our previous Ridge to Reef 2017 project.
+
+--- SENTENCE 172 ---
+These 14 watersheds represent a suite of factors that affect the transport of nutrients into nearshore environments and are thus representative of the magnitude of watershed conditions on Tutuila.
+
+--- SENTENCE 173 ---
+Our goals were to 1) examine the spatial distribution of terrestrial run-off and its relationship with different land uses, human population sizes, and topography, and 2) examine the extent of the influence of seasonal patterns to the delivery of nutrients on nearshore reefs.
+
+--- SENTENCE 174 ---
+Water quality measurements were taken for 12 months to account for baseflow conditions and storm events over the two rainfall seasons in American Samoa: drier winter season from June through September and wetter summer season from October through May (Izuka *et al.* 2005).
+
+--- SENTENCE 175 ---
+Water samples were in two periods during the summer (October – May): November 2018 and February 2019; and in the winter (June – September): August 2018 and May 2019 for a total of four collections.
+
+--- SENTENCE 176 ---
+Dissolved inorganic nutrients (Ammonia, Nitrate, Nitrite), Total Nitrogen, Total Phosphorus, and stable isotope Delta 15N were analyzed for streams and reef flats.
+
+--- SENTENCE 177 ---
+Water sample collection was conducted in reef flat and stream sites for each of the 14 watersheds across three watershed classifications (pristine, intermediate, and extensive) defined by the American Samoa Environmental Protection Agency (DiDonato 2004; Tuitele *et al.* 2016b).
+
+--- SENTENCE 178 ---
+This classification method uses the distribution of population density for each watershed as a proxy of human disturbance.
+
+--- SENTENCE 179 ---
+The three watershed classes are: pristine ≤ 100 mi-2, 100 < intermediate ≤ 750 mi-2, and extensive > 750 mi-2.
+
+--- SENTENCE 180 ---
+The six watersheds include priority areas identified by the US Coral Reef Task Force (Faga'alu, Vatia and Nu'uuli) and the National Marine Sanctuaries of American Samoa (Fagatele Bay).
+
+--- SENTENCE 181 ---
+The other watersheds are classified as extensive (Alofau, Aua, Leone, and Aoa), intermediate (Fagasa Bay, Afono, Alega and Masefua) and pristine (Tafeu and Oa).
+
+!
+
+--- SENTENCE 182 ---
+Water quality sampling locations covering a gradient of natural and disturbances.
+
+## Water sampling
+
+!
+
+--- SENTENCE 183 ---
+[](_page_19_Figure_2.jpeg)
+
+1. Prepare and label sample and lab bottles
+
+#### **BOTTLES TO TAKE TO THE FIELD:**
+
+- TN, TP (120 ml) x
+
+--- SENTENCE 184 ---
+Stream x Reef flat x 16 watersheds = 32 bottles
+- DIN (500 ml) x
+
+--- SENTENCE 185 ---
+Stream x Reef flat x 16 watersheds = 32 bottles
+- Delta 15N (120 ml) x
+
+--- SENTENCE 186 ---
+Stream x RF x 16 watersheds = 32 bottles
+
+#### BOTTLES for Lab processing (DIN filtration, PN AND PP filtration):
+
+• DIN (120 ml) x stream x RF x 16 = 32
+
+#### In-field
+
+- 1.
+
+--- SENTENCE 187 ---
+Take water samples at each site from the mouth of the stream and RF.
+
+--- SENTENCE 188 ---
+From the stream mouth, walk 2-5 m and collect samples on the reef flat.
+
+--- SENTENCE 189 ---
+Be careful not to disturb substrate when collecting samples.
+
+--- SENTENCE 190 ---
+- 2. Take sonde measurements (pH, temperature, Dissolved oxygen, salinity)
+
+!
+
+--- SENTENCE 191 ---
+AS-EPA Laboratory Specialist, Josephine Regis, collecting reef flat water samples
+
+#### **Getting back to the Lab:**
+
+- 1.
+
+--- SENTENCE 192 ---
+Put TN, TP and Delta15
+
+--- SENTENCE 193 ---
+N samples in freezer
+- 2.
+
+--- SENTENCE 194 ---
+Filter water samples for DIN
+- 3.
+
+--- SENTENCE 195 ---
+Water samples kept frozen until analysis
+
+## Nutrient Analysis
+
+Water samples were sent to the University of Hawaii's SOEST Laboratory for Analytical Biogeochemistry (S-LAB) for analysis of Dissolved Inorganic Nitrate, Nitrate and Ammonium, Total Nitrogen and Total Phosphorus.
+
+--- SENTENCE 196 ---
+Nutrient analysis will be conducted using the SEAL Analytical AA3 HR Nutrient Analyzer.
+
+--- SENTENCE 197 ---
+This instrument is a three-channel segmented-flow continuous analyzer consisting of a sampler, a pump, reagent mixing and reaction manifolds and two colorimeters.
+
+--- SENTENCE 198 ---
+Results**
+
+## **2.1 DIN water quality thresholds and informing watershed classification**
+
+Daily DIN concentrations were positively related to rainfall (2-day lag time), negatively related to windspeed (1-week lag time), and negatively related to sea-surface temperature (SST, 5-day lag time)
+
+--- SENTENCE 199 ---
+(Figure 8a; χ<sup>2</sup> = 115.4, P<0.001 comparing best-fit mixed model with the null model).
+
+--- SENTENCE 200 ---
+The latter two terms were interactive with rainfall, and a third interactive term including all variables modulated the response but had the weakest effect.
+
+--- SENTENCE 201 ---
+The bestfit model required varying y-intercepts for each site that were indicative of mean annual DIN concentrations, or human factors (i.e., random variation, Figure 8b), and log-transforming daily DIN concentrations (Figure 9).
+
+--- SENTENCE 202 ---
+In support, y-intercepts were tightly correlated to annual DIN concentrations (r = 0.89, Pearson's correlation).
+
+--- SENTENCE 203 ---
+Thus, natural factors independently and interactively predicted DIN delivery from the watersheds to the streams, however stream loading was uniquely influenced by human presence and land use in each watershed.
+
+--- SENTENCE 204 ---
+Y-intercepts were used to reclassify watersheds along a human gradient.
+
+--- SENTENCE 205 ---
+The pre-defined classification system suggested that 20% of the sites were considered pristine, 60% considered as moderate, and 20% considered as extensive in terms of human-related DIN concentrations.
+
+--- SENTENCE 206 ---
+Watersheds from the south side of the island were better represented in the moderate and extensive categories, together accounting for 67% of the sites with yintercept values above 0 (Figures 2 and 8b).
+
+--- SENTENCE 207 ---
+In contrast, watersheds from the north and furthest east where less humans live were better characterized as moderately low and pristine.
+
+!
+
+--- SENTENCE 208 ---
+Figure 8a-b. Estimates and intercepts for the mixed regression model defining drivers of daily dissolved inorganic nitrogen (DIN) concentrations.
+
+--- SENTENCE 209 ---
+Significant terms retained in the best-fit model included rainfall (2-day lag time), windspeed (1-week lag time), and sea-surface temperature (5-day lag time) that were individual and interactive (a).
+
+--- SENTENCE 210 ---
+The best-fit model had a consistent slope but varying y-intercepts showing differing baselines existed in each watershed due to varying human population and development (b).
+
+--- SENTENCE 211 ---
+Y-intercepts were used to reclassify watersheds with respect to human disturbances as (i) pristine—bottom six sites on y-intercept in bold, (ii) moderate—non-bold sites on y-intercept, or (iii) extensive—top six sites on y-intercept in bold (see methods and results).
+
+!
+
+--- SENTENCE 212 ---
+Predicted versus observed dissolved inorganic nitrogen concentrations that were sampled across the 34 study streams and watersheds.
+
+--- SENTENCE 213 ---
+This graph supports that no disproportional weighting was attributed to any specific site, but rather the model provided a good prediction across the island useful for producing totalmaximum-daily-load simulations.
+
+--- SENTENCE 214 ---
+Site-based projections between 2016 and 2018 were considered as total-maximum-daily-loading simulations that summarized the percentage of time DIN concentrations were above 10%, 20%, and 30% thresholds (Figure 10, representative hindcast for site 19).
+
+--- SENTENCE 215 ---
+Mean exceedance times were calculated for each watershed classification.
+
+--- SENTENCE 216 ---
+The 30% daily exceedance level, considered as least stringent, was crossed when DIN concentrations were 0.09, 0.12, and 0.25 mg l-1 accordingly for the means of pristine, moderate, and extensive watershed classes (Figure 11, thick lines represent means).
+
+--- SENTENCE 217 ---
+The 20% daily exceedance level was crossed when DIN concentrations were 0.10, 0.15, and 0.30 mg l-1 accordingly for the means of pristine, moderate, and extensive watershed classes (Figure 11).
+
+--- SENTENCE 218 ---
+The 10% daily exceedance level, considered as most stringent, was crossed when DIN concentrations were 0.15, 0.20, and 0.39 mg l-1 accordingly for the means of pristine, moderate, and extensive watershed classes
+
+(Figure 11).
+
+--- SENTENCE 219 ---
+Thus, potential DIN thresholds for water-quality regulations were represented by the 0.10 to 0.40 mg l-1 range depending upon desirable exceedance criteria.
+
+!
+
+--- SENTENCE 220 ---
+Hindcasted DIN simulating daily loadings given differing rainfall, windspeed, and sea surface temperature over the past two years in the study watersheds (site X, Figure 1).
+
+--- SENTENCE 221 ---
+Similar simulations were conducted for all watersheds to predict the percent of time DIN was above a suite of potential thresholds (dotted lines).
+
+--- SENTENCE 222 ---
+Percent of daily exceedances were calculated for a suite of DIN concentrations represented by the dotted lines ranging between 0.01 to 0.40.
+
+--- SENTENCE 223 ---
+Exceedance percentages were plotted in Figure 12.
+
+!
+
+--- SENTENCE 224 ---
+Percentage of time DIN exceeded the potential water-quality thresholds.
+
+--- SENTENCE 225 ---
+Each faint line represents an individual watershed-stream, while the thick lines represent the means for each watershed class.
+
+--- SENTENCE 226 ---
+Horizontal lines represent the 30%, 20%, and 10% general guidance criteria associated with USEPA guidance materials.
+
+# **2.2 Island-Wide Nutrient Modeling and Quantification of Coastal Freshwater Discharge for Tutuila, American Samoa**
+
+The calibrated model produced DIN loading rates ranging from 0.1 kg-DIN/day for some of Tutuila's smallest watersheds, to 88.2 kg-DIN/day for the largest watershed on the Tafuna-Leone Plain (Figure 12).
+
+--- SENTENCE 227 ---
+The relative impact of each modeled source can be seen graphically in Figure 13.
+
+--- SENTENCE 228 ---
+Total modeled DIN loads in each watershed are shown in the upper left map, and the other three maps (clockwise from upper right) show the proportion of DIN loaded to each watershed from OSDS units, pigs, and agriculture, respectively.
+
+--- SENTENCE 229 ---
+When summed, islandwide, the total model-predicted DIN load from all sources equaled approximately 410 kg-DIN/day.
+
+--- SENTENCE 230 ---
+Of this, the model predicted about 260 (63%) was from OSDS units, about 110 (27%) was from pigs, 35 (9%) was from natural sources, and only 6 (1%) kg-DIN/day originated from agriculture.
+
+--- SENTENCE 231 ---
+To account for bias caused by different sized watersheds, absolute loading rates were also scaled by watershed area, and by length of watershed coastline.
+
+--- SENTENCE 232 ---
+In reality, each of these three metrics provides a different and unique presentation of impacts, while at the same time being limited by unique biases.
+
+--- SENTENCE 233 ---
+To simplify the model results and aid interpretation for coastal management, a single watershed prioritization scheme that incorporates each of the three scaling methods was developed by calculating each watershed's rank with the three methods described above, and summing the departure from the mean for each.
+
+--- SENTENCE 234 ---
+This total was summed and watersheds were then ranked from 1 to 93 with the highest DIN impact being assigned the lowest rank.
+
+--- SENTENCE 235 ---
+Results of the prioritization ranking system are shown in Figure 13, and in general, indicated that Tutuila's most heavily DINimpacted areas are on the Tafuna-Leone Plain, with the villages of Utulei, Aua, Vaipito (Pago Pago), Aasu, and Tula also being more heavily impacted than other areas throughout the island.
+
+!
+
+--- SENTENCE 236 ---
+*Figure 12: Comparisons between modeled DIN loading rates as separated by each nutrient source.
+
+--- SENTENCE 237 ---
+Upper left panel shows total modeled DIN loads from all sources, and the other three panels (clockwise from upper right) show the absolute magnitude of DIN loaded to each watershed from OSDS units, pigs, and agriculture, respectively.
+
+--- SENTENCE 238 ---
+*
+
+Observed DIN loads were calculated for all hydrologic pathways including baseflow, surface runoff, and SGD.
+
+--- SENTENCE 239 ---
+Results suggest that SGD is likely to be the most important of these nutrient delivery mechanisms to Tutuila's coastal waters.
+
+--- SENTENCE 240 ---
+The model also allowed partitioning between distinct land use sources including OSDS units,
+
+pigs, agriculture, and natural background DIN loading.
+
+--- SENTENCE 241 ---
+Considering DIN loading on an island-wide scale, model results suggest OSDS units are Tutuila's primary source of DIN to coastal waters, producing about 260 kg-DIN/day.
+
+--- SENTENCE 242 ---
+In comparison, pigs produced 110 kg-DIN/day, natural sources released 35 kg-DIN/day, and agriculture produced 6 kg-DIN/day.
+
+!
+
+--- SENTENCE 243 ---
+[](_page_27_Figure_2.jpeg)
+
+*Figure 13: Relative impact prioritization through equal-weight ranking of absolute, area-scaled, and coastline length-scaled DIN fluxes from each watershed to the nearshore.
+
+--- SENTENCE 244 ---
+Both colors and numeric labels in watersheds indicate the DIN impact prioritization ranking in each watershed with 1 being the most impacted and 93 the least.
+
+--- SENTENCE 245 ---
+Note that if two watersheds had the same final score they were assigned the same rank number; thus some numbers are repeated.
+
+--- SENTENCE 246 ---
+*
+
+#### **3.3 Understanding spatial and temporal patterns of terrestrial run-off and coral reef ecosystem condition**
+
+Stable isotope analysis of coral and macroalgae specimens showed δ15N close to the assumed δ15N endmember values developed for Tutuila by Shuler et al. 2017 (Figure 15).
+
+--- SENTENCE 247 ---
+The nitrogen-isotope mixing model developed by Shuler et al. was used to assess groundwater impacts from anthropogenic nutrient sources.
+
+--- SENTENCE 248 ---
+The δ15N end-member values in Shuler et al. (2017):
+
+δ15Np = +13‰
+
+δ15Nc = +9‰
+
+δ15Na = 0‰
+
+δ15Ns = +4‰
+
+Where:
+
+p = pig
+
+c = OSDS
+
+a = agriculture
+
+n = natural
+
+By comparing δ15N of different sources, we gain a better understanding of the cumulative impact of nutrient delivery from different anthropogenic sources of pollution.
+
+--- SENTENCE 249 ---
+For example, δ15N values from natural sources are typically around +2 to +6‰, whereas δ15N values originating from agriculture are lower, ranging between -5 to +5‰, and often near 0‰.
+
+--- SENTENCE 250 ---
+Studies in tropical environments similar to Tutuila, have reported wastewater δ15N values ranging between +5 to 23‰ (e.g. Hunt and Rosa, 2010;
+
+--- SENTENCE 251 ---
+Amato et al., 2016; Bishop et al., 2017).
+
+!
+
+--- SENTENCE 252 ---
+δ15N ‰ for coral (*Galaxea*) and green macroalgae (*Chlorodesmis*) samples.
+
+--- SENTENCE 253 ---
+Annual mean Dissolved Inorganic Nitrogen (DIN) concentrations showed highly variable concentrations across all 14 watersheds, and across the study months.
+
+--- SENTENCE 254 ---
+Aua, a village near the urban center of Pago Pago, had the highest average concentrations of DIN.
+
+--- SENTENCE 255 ---
+Other notable villages with consistently high DIN concentrations were Alega, Aoa and Leone (Figure 16).
+
+--- SENTENCE 256 ---
+These results differed slightly from our previous study, wherein notable villages with high stream DIN concentrations included Alofau village.
+
+--- SENTENCE 257 ---
+The lowest mean DIN concentrations were found in Oa and Tafeu where few humans and developed land existed.
+
+--- SENTENCE 258 ---
+Notably, Fagatele Bay, had relatively higher nutrient concentrations compared to previous study results.
+
+--- SENTENCE 259 ---
+Overall, nutrient concentrations generally followed ASEPA watershed classifications which categorized watersheds based upon human populations (Figs 15-19).
+
+!
+
+--- SENTENCE 260 ---
+Distribution of quarterly stream DIN concentrations over the course of the study year across all sites with black lines showing median values, boxes showing 25th and 75th percentile, and line showing 5th and 95th percentile of the data.
+
+--- SENTENCE 261 ---
+For both plots, colors indicate differing watershed classes.
+
+!
+
+--- SENTENCE 262 ---
+Distribution of quarterly stream and reef flat DIN concentrations over the course of the study year with black lines showing median values, boxes showing 25th and 75th percentile, and line showing 5th and 95th percentile of the data.
+
+--- SENTENCE 263 ---
+For both plots, colors indicate differing watershed classes.
+
+!
+
+--- SENTENCE 264 ---
+Distribution of stream DIN concentrations over the course of the study year with black lines showing median values, boxes showing 25th and 75th percentile, and line showing 5th and 95th percentile of the data.
+
+--- SENTENCE 265 ---
+For both plots, colors indicate differing watershed classes.
+
+--- SENTENCE 266 ---
+Total Nitrogen in streams showed similar spatial pattern as stream DIN across all 14 watersheds, and across the study months.
+
+--- SENTENCE 267 ---
+Aua had the highest average concentrations of DIN, whereas Oa and Tafeu had the lowest mean DIN concentrations (Figure 18).
+
+!
+
+--- SENTENCE 268 ---
+Distribution of quarterly total nitrogen concentrations over the course of the study year across all sites with black lines showing median values, boxes showing 25th and 75th percentile, and line showing 5th and 95th percentile of the data.
+
+--- SENTENCE 269 ---
+For both plots, colors indicate differing watershed classes.
+
+--- SENTENCE 270 ---
+Annual mean Total Phosphorus concentrations showed a more spatially clustered pattern across all 14 watersheds, and across the study months.
+
+--- SENTENCE 271 ---
+However, highest average concentrations in Afono, Alega, Nu'uuli and Oa were spread across watershed classes.
+
+--- SENTENCE 272 ---
+The lowest mean Total Phosphorus concentrations were found in Fagatele Bay where few humans and developed land existed (Figure 16).
+
+--- SENTENCE 273 ---
+Notably, Oa, a pristine site had relative high Total Phosphorus average concentrations.
+
+--- SENTENCE 274 ---
+Our finding corresponds to results from previous AS-EPA watershed management and protection program reports (Tuitele et al. 2018) that show relatively high total phosphorus levels in stream waters, often exceeding the American Samoa Water Quality Standards, in pristine watersheds where there are no anthropogenic sources.
+
+--- SENTENCE 275 ---
+This finding may be attributed to naturally high concentrations of phosphorus from natural weathering of volcanic rock.
+
+!
+
+--- SENTENCE 276 ---
+Distribution of quarterly total phosphorus concentrations over the course of the study year across all sites with black lines showing median values, boxes showing 25th and 75th percentile, and line showing 5th and 95th percentile of the data.
+
+--- SENTENCE 277 ---
+For both plots, colors indicate differing watershed classes.
+
+#### Terrestrial run-off: sediments
+
+Increased sedimentation and nutrients on coral reefs have caused shifts in coral trophic structure and composition through reduced coral biodiversity, cover, and species richness, and transition to non-reef building organisms.
+
+--- SENTENCE 278 ---
+For example, sedimentation causes changes in coral population structures such as declines in mean colony sizes, altered growth forms, and reduced coral growth and survival (Fabricius 2005).
+
+--- SENTENCE 279 ---
+Specifically, sediment size and type determine coral responses to sedimentation.
+
+--- SENTENCE 280 ---
+For example, coarser sediments >16µm settle near the river mouth, whereas finer sediments (<16µm) can easily be resuspended in shallow water and carried over long distances by river plumes (Storlazzi *et al.* 2015; Fabricius *et al.* 2016).
+
+--- SENTENCE 281 ---
+Finer-grained sediments are more an issue for corals because these sediments are easily resuspended and can remain in the water column longer, reducing the light essential for photosynthesis in zooxanthellate corals (Storlazzi *et al.* 2015).
+
+--- SENTENCE 282 ---
+Given the importance of understanding the transport and delivery mechanisms of sediments on coral reefs, we examined the interaction between nutrients and sediments and its potential impacts on nearshore reef habitats.
+
+--- SENTENCE 283 ---
+We present preliminary sediment results from an ongoing PhD research project that examined the composition, particle size distribution, and physical properties of sediments collected from sediment traps.
+
+--- SENTENCE 284 ---
+Overall, suspended sediment composition across six watersheds ranging from pristine to extensive (Fagatele, Tafeu, Vatia, Fagasa, Nu'uuli and Faga'alu) was dominated by calcium carbonate which indicates that the source of sediments come from the reef rather than from terrestrial sources.
+
+--- SENTENCE 285 ---
+Mineral component which indicates a terrestrial sediment source was relatively higher in extensive watersheds (Faga'alu and Nu'uuli) compared to intermediate and pristine sites (Figures 20-22).
+
+--- SENTENCE 286 ---
+The proportion of particle sizes followed the same pattern as the geochemical composition, wherein extensive watersheds had a higher proportion of finer-sized partilces (<38µm).
+
+!
+
+--- SENTENCE 287 ---
+Particle size distribution and geochemical composition of sediments in extensive watersheds over the wet season.
+
+--- SENTENCE 288 ---
+Particle size distribution and geochemical composition of sediments in intermediate watersheds over the wet season.
+
+--- SENTENCE 289 ---
+Particle size distribution and geochemical composition of sediments in pristine watersheds over the wet season.
+
+--- SENTENCE 290 ---
+*3.4 Linking Science to Management: Results Sharing**
+
+Project results were prepared to ensure that outputs are disseminated in an engaging and partnership-building format to share the best-available scientific information on ridge to reef science to local resource managers.
+
+--- SENTENCE 291 ---
+The results from this project will be shared with villages, local resource agencies, federal partners, and the American Samoa Community College through a combination of village outreach, training packets, video coverage of outreach initiatives, training seminars, technical and peer-reviewed reports and assessments, publicallyavailable maps, geospatial data, and open-source code for the analysis of DIN loading.
+
+#### Direct applications of Ridge to Reef scientific outputs
+
+We add to the growing scientific linkages of Ridge to Reef monitoring assessments in American Samoa and leverage existing efforts by various local and federal government agencies to formalize links of land use to resilience indicators on adjacent coral reefs.
+
+--- SENTENCE 292 ---
+For example, results from the Ridge to Reef Phase I project have been utilized in the prioritization of watersheds for restoration and habitat protection by CRAG and NOAA CRCP.
+
+--- SENTENCE 293 ---
+Additionally, our ridge to reef scientific results have also been applied to help village-based management of coral reef resources through the dissemination of village-based health report cards.
+
+--- SENTENCE 294 ---
+This effort is led by CRAG and its partners using Ridge to Reef project results to help direct management and policy decisions in American Samoa (Figure 24).
+
+--- SENTENCE 295 ---
+We are also strengthening AS-EPA's technical program capacities by leveraging existing resources such as the EPA Exchange Network Grant programmatic services to create effective visualizations of our Ridge to Reef project's environmental data.
+
+--- SENTENCE 296 ---
+Through cross-platform use of existing services, we are advancing watershed-scale monitoring and management using Operations Dashboard for ArcGIS to create and share operation views that include interactive maps, charts and other performance indicators.
+
+--- SENTENCE 297 ---
+See example:
+
+<http://asgis.maps.arcgis.com/apps/opsdashboard/index.html#/62c2a41a90f044829044ed2cc5c5e18e>
+
+!
+
+--- SENTENCE 298 ---
+AS-EPA's Operations Dashboard on ArcGIS platform enables real-time monitoring data to be shared over the internet and for end users to have the ability to view, analyze, and better understand environmental information.
+
+!
+
+--- SENTENCE 299 ---
+Village-based report card draft using Ridge to Reef scientific results to help direct management.
+
+--- SENTENCE 300 ---
+Efforts led by CRAG and its partners.
+
+#### Building integrated management approaches for a resilient Ridge-to-Reef environment
+
+## *Significance and contributions*
+
+Our project directly supports AS-EPA's watershed-based management and water quality monitoring program to determine trends in water quality by tracking changes in designated use support as part of Section 305(b) process of the US EPA Clean Water Act.
+
+--- SENTENCE 301 ---
+Additionally, our project fully supports the strategic goals of a cleaner, healthier environment through the provision of a clean and safe water and enabling more effective partnerships in carrying out shared responsibilities and communicating results affect communities of the EPA 2018-2022 US EPA Strategic Plan.
+
+--- SENTENCE 302 ---
+Specifically, under the strategic goal of a clean and safe water, our two-year Ridge-to-Reef study enabled by funding from the Wetland Program Development Grant used an integrated scientific approach to pinpoint specific drivers of land and marine stressors that can be used to predict patterns of change across ecosystems to enable targeted management.
+
+--- SENTENCE 303 ---
+Under the strategic goals of more effective partnerships, our project has fostered inter-agency partnerships across multi-actor governance levels and strengthened these collaborations through open information and data sharing, knowledge exchange, and evidence-based scientific inquiries that integrate Ridge to Reef connections.
+
+## Building an integrated picture of terrestrial run-off: assessing multiple lines of evidence
+
+This project used a multi-pronged approach to better understand the drivers of terrestrial pollution loading, to anticipate and predict where and when nutrient concentrations are of concern, and to identify the delivery mechanisms and pathways of different anthropogenic sources of nutrients from the watersheds to the reefs.
+
+--- SENTENCE 304 ---
+Our ridge to reef framework has resulted in models and datasets that directly align with watershed management priorities in the Territory.
+
+--- SENTENCE 305 ---
+Furthermore, this project has provided a pathway for critically investigating how different natural and anthropogenic factors affect coral reef health through a transparent, repeatable and robust scientific process with outputs specifically focused on engaging and building partnerships with managers and the community.
+
+--- SENTENCE 306 ---
+In the first part of this project, we modelled daily DIN loading in American Samoa and developed a process to help determine DIN thresholds to protect coastal waters and coral reefs.
+
+--- SENTENCE 307 ---
+We find that natural factors such as rainfall, windspeed, and sea surface temperature (SST) were reliable predictors of DIN concentrations in coastal streams on Tutuila.
+
+--- SENTENCE 308 ---
+Together, these three natural drivers modulated DIN stream waters being discharged to coral reefs.
+
+--- SENTENCE 309 ---
+We modeled DIN using generalized linear mixed models to allow for random variation among y-intercepts and slopes to account for anthropogenic input (as a random modeling term) taking into account each watershed's unique baseline of human population density and development.
+
+--- SENTENCE 310 ---
+We refined ASEPA watershed classification prior to assessing appropriate DIN thresholds to protect coastal waters and coral reefs using y-intercept values in the previous model predicting DIN loadings.
+
+--- SENTENCE 311 ---
+A threshold of 0.15 mg l-1 DIN concentration was calculated for streams as an appropriate level to protect coral reefs.
+
+--- SENTENCE 312 ---
+In the second part of this project, we developed a method to assess dissolved inorganic nitrogen (DIN) loading by integrating commonly available datasets within a geospatial modeling framework for Tutuila, American Samoa.
+
+--- SENTENCE 313 ---
+The DIN loading model integrated an open-source water budget model, water sampling data, and publically available streamflow data to predict watershed-scale DIN loading to the island's entire coastline.
+
+--- SENTENCE 314 ---
+Submarine groundwater discharge was found to be the most important coastal delivery mechanism of terrigenous DIN, which supports findings from other tropical islands of greater nitrogen contributions to coastal ecosystems than surface water pathways.
+
+--- SENTENCE 315 ---
+Onsite wastewater disposal systems were the primary sources DIN to coastal waters.
+
+--- SENTENCE 316 ---
+Our island-wide DIN loading model provides a simple and robust metric to define spatially-explicit sources and delivery mechanisms of nutrient pollution to nearshore reef habitats.
+
+--- SENTENCE 317 ---
+Understanding the sources and primary modes of transport of nutrient nitrogen to nearshore reef ecosystems can have significant implications for place-based management interventions aimed at increasing the adaptive capacity of unique island ecosystems to environmental variation and disturbances.
+
+--- SENTENCE 318 ---
+Finally, we contribute to the ridge to reef knowledge base in American Samoa by continuing spatial and temporal monitoring of nutrients across an environmental gradient.
+
+--- SENTENCE 319 ---
+By extending the high-resolution nutrient dataset to another year, we have a robust dataset that can be used to validate and calibrate existing and future nutrient loading models and used to further refine existing ridge to reef monitoring and management frameworks.
+
+--- SENTENCE 320 ---
+The tight coupling between land and sea plays an important role in the condition of shallow, nearshore reef habitats.
+
+--- SENTENCE 321 ---
+Understanding this catchment to sea connection provides an effective approach to assessing the effects of terrestrial and marine drivers on reefs, and the impacts of anthropogenic activities.
+
+--- SENTENCE 322 ---
+The ride-to-reef approach provides a means to pinpoint specific drivers of land and marine stressors and predict patterns of change across ecosystems to enable targeted management.
+
+--- SENTENCE 323 ---
+Our Ridge-to-Reef project provides a model scientific and management framework for other Pacific Island states through our high-quality scientific outputs, training and outreach materials, and network-building collaborative focus to effectively mitigate and reduced land-based sources of pollution for improvement of coastal watershed quality and enhancement of coral reef ecosystem condition.
+
+--- SENTENCE 324 ---
+## **Acknowledgements:**
+
+We are very grateful to American Samoa EPA's leadership in ensuring the successful implementation and completion of this study.
+
+--- SENTENCE 325 ---
+We would like to thank Director Fa'amao Asalele, Jr. and Deputy Director Will Sili for their guidance and support.
+
+--- SENTENCE 326 ---
+Valuable input and technical support were provided by AS-EPA's Technical Services Division and we are grateful for the support provided by Technical Services Manager, Jewel Tuiasosopo, and IT Specialist, Edgar Apulu.
+
+--- SENTENCE 327 ---
+We are also thankful for the invaluable support from AS-EPA's Water Program and we are extremely thankful for the assistance provided by Water Program Manager, Christianera Tuitele and her team.
+
+--- SENTENCE 328 ---
+We also like to thank AS-EPA's Education Manager Tumau Lokeni's unwavering support.
+
+--- SENTENCE 329 ---
+We are grateful to AS-EPA's Administrative Services particularly to the Administration Manager, Neil Pilcher, for his assistance in logistical proceedings during the entire course of this study.
+
+--- SENTENCE 330 ---
+We are very much appreciative of AS-EPA's Chief Finance Officer, Victor Tuiasosopo's support and dedication in ensuring payment and contract processing for the project were conducted in a timely manner.
+
+--- SENTENCE 331 ---
+We are grateful for valuable input from Peter Peshut and Edna Buchan from Nimbus Environmental Services.
+
+--- SENTENCE 332 ---
+We are very thankful for the support of project collaborators without whom this project would not have been successfully implemented.
+
+--- SENTENCE 333 ---
+We particularly like to thank the Department of Marine and Wildlife Resources especially Director Va'amua Henry Sesepasara for his support and dedication to carry out their Department's mission of conserving and protecting marine resources and habitats through science-based management actions.
+
+--- SENTENCE 334 ---
+We are grateful for the support of DMWR's Deputy Director Selaina Tuimavave, Chief Fisheries Biologist Domingo Ochavillo, and CRAG Coordinator Sabrina Woofter for their enduring support and encouragement during the entire project period.
+
+--- SENTENCE 335 ---
+We are grateful to Gene Brighouse and Atuatasi-Lelei Peau from the National Marine Sanctuaries of American Samoa for their assistance and endorsement of this work.
+
+--- SENTENCE 336 ---
+We thank the National Park of American Samoa particularly Superintendent Scott Burch for overall project support.
+
+--- SENTENCE 337 ---
+This project is supported by the US EPA Region 9 Wetland Program Development Grant (WPDG).
+
+--- SENTENCE 338 ---
+We are thankful for US EPA Region 9's support in ensuring successful implementation and completion of this study.
+
+--- SENTENCE 339 ---
+We would like to thank Michael Wolfram for his continued guidance and encouragement throughout the length of the project.
+
+--- SENTENCE 340 ---
+We are also grateful to Hudson Slay (EPA Hawaii office) for providing valuable comments and opening valuable connections to help guide the scientific direction of this study.
+
+--- SENTENCE 341 ---
+We thank John McCarroll for his support and encouragement.
+
+--- SENTENCE 342 ---
+Alvarez-Romero, J.G., Pressey, R.L., Ban, N.C. & Brodie, J. (2015).
+
+--- SENTENCE 343 ---
+Advancing Land-Sea Conservation Planning: Integrating Modelling of Catchments, Land-Use Change, and River Plumes to Prioritise Catchment Management and Protection.
+
+--- SENTENCE 344 ---
+*PLoS One*, 10, e0145574.
+
+--- SENTENCE 345 ---
+2.
+
+Álvarez-Romero, J.G., Pressey, R.L., Ban, N.C., Vance-Borland, K., Willer, C., Klein, C.J. *et al.* (2011).
+
+--- SENTENCE 346 ---
+Integrated Land-Sea Conservation Planning: The Missing Links.
+
+--- SENTENCE 347 ---
+*Annual Review of Ecology, Evolution, and Systematics*, 42, 381-409.
+
+--- SENTENCE 348 ---
+3.
+
+Alvarez-Romero, J.G., Wilkinson, S.N., Pressey, R.L., Ban, N.C., Kool, J. & Brodie, J. (2014).
+
+--- SENTENCE 349 ---
+Modeling catchment nutrients and sediment loads to inform regional management of water quality in coastal-marine ecosystems: a comparison of two approaches.
+
+--- SENTENCE 350 ---
+*J Environ Manage*, 146, 164-178.
+
+4.
+
+--- SENTENCE 351 ---
+Bahr, K.D., Jokiel, P.L. & Toonen, R.J. (2015).
+
+--- SENTENCE 352 ---
+The unnatural history of Kāne'ohe Bay: coral reef resilience in the face of centuries of anthropogenic impacts.
+
+--- SENTENCE 353 ---
+Bainbridge, Z., Lewis, S., Bartley, R., Fabricius, K., Collier, C., Waterhouse, J. *et al.* (2018).
+
+--- SENTENCE 354 ---
+Fine sediment and particulate organic matter: A review and case study on ridge-to-reef transport, transformations, fates, and impacts on marine ecosystems.
+
+--- SENTENCE 355 ---
+*Marine Pollution Bulletin*, 135, 1205- 1220.
+
+--- SENTENCE 356 ---
+Bartley, R., Bainbridge, Z.T., Lewis, S.E., Kroon, F.J., Wilkinson, S.N., Brodie, J.E. *et al.* (2014).
+
+--- SENTENCE 357 ---
+Relating sediment impacts on coral reefs to watershed sources, processes and management: A review.
+
+--- SENTENCE 358 ---
+*Science of The Total Environment*, 468-469, 1138-1153.
+
+--- SENTENCE 359 ---
+7.
+
+Bates, D., Maechler, M., Bolker, B. & Walker, S. (2015).
+
+--- SENTENCE 360 ---
+Fitting Linear Mixed-Effects Models Using lme4.
+
+--- SENTENCE 361 ---
+Journal of Statistical Software, 67(1), 1-48. doi:10.18637/jss.v067.i01.
+
+--- SENTENCE 362 ---
+Biggs, T. & Messina, A. (2016).
+
+--- SENTENCE 363 ---
+Sediment accumulation and composition on coral reefs in Faga'alu Bay, American Samoa.
+
+--- SENTENCE 364 ---
+San Diego, p. 25.
+
+--- SENTENCE 365 ---
+Biggs, T., Messina, A., McCormick, G. & Curtis, M. (2017).
+
+--- SENTENCE 366 ---
+Expanding Monitoring and Modeling of Land-Based Source of Pollution to Priority Coral Reefs in American Samoa.
+
+--- SENTENCE 367 ---
+San Diego State University San Diego, p. 25.
+
+10.
+
+--- SENTENCE 368 ---
+Brodie, J. & Pearson, R.G. (2016).
+
+--- SENTENCE 369 ---
+Ecosystem health of the Great Barrier Reef: Time for effective management action based on evidence.
+
+--- SENTENCE 370 ---
+*Estuarine, Coastal and Shelf Science*, 183, 438-451.
+
+11.
+
+--- SENTENCE 371 ---
+Brown, C.J., Jupiter, S.D., Albert, S., Klein, C.J., Mangubhai, S., Maina, J.M. *et al.* (2017a).
+
+--- SENTENCE 372 ---
+Tracing the influence of land-use change on water quality and coral reefs using a Bayesian model.
+
+--- SENTENCE 373 ---
+*Sci Rep*, 7, 4740.
+
+--- SENTENCE 374 ---
+Brown, C.J., Jupiter, S.D., Lin, H.Y., Albert, S., Klein, C., Maina, J.M. *et al.* (2017b).
+
+--- SENTENCE 375 ---
+Habitat change mediates the response of coral reef fish populations to terrestrial run-off.
+
+--- SENTENCE 376 ---
+*Marine Ecology Progress Series*, 576, 55-68.
+
+13.
+
+--- SENTENCE 377 ---
+Bryant, D., Burke, L., McManus, J. & Spalding, M. (1998).
+
+--- SENTENCE 378 ---
+*Reefs at Risk: A Map-Based Indicator of Threats to the World's Coral Reefs*.
+
+14.
+
+--- SENTENCE 379 ---
+Burke, L., Reytar, K., Spalding, M. & Perry, A. (2011).
+
+--- SENTENCE 380 ---
+Reefs at Risk Revisited.
+
+--- SENTENCE 381 ---
+Word Resources Institute Washington, D.C., USA, p. 114.
+
+15.
+
+--- SENTENCE 382 ---
+Comeros-Raynal, M.T., Lawrence, A., Sudek, M., Vaeoso, M., McGuire, K., Regis, J. *et al.* (2019).
+
+--- SENTENCE 383 ---
+Applying a ridge-to-reef framework to support watershed, water quality, and communitybased fisheries management in American Samoa.
+
+--- SENTENCE 384 ---
+38, 505-520.
+
+16.
+
+De'ath, G. & Fabricius, K. (2010).
+
+--- SENTENCE 385 ---
+Water quality as a regional driver of coral biodiversity and macroalgae on the Great Barrier Reef.
+
+--- SENTENCE 386 ---
+*Ecological Applications* 20, 840-850.
+
+--- SENTENCE 387 ---
+Delevaux, J.M.S., Jupiter, S.D., Stamoulis, K.A., Bremer, L.L., Wenger, A.S., Dacks, R. *et al.* (2018a).
+
+--- SENTENCE 388 ---
+Scenario planning with linked land-sea models inform where forest conservation actions will promote coral reef resilience.
+
+--- SENTENCE 389 ---
+*Scientific Reports*, 8, 12465.
+
+--- SENTENCE 390 ---
+Delevaux, J.M.S., Whittier, R., Stamoulis, K.A., Bremer, L.L., Jupiter, S., Friedlander, A.M. *et al.* (2018b).
+
+--- SENTENCE 391 ---
+A linked land-sea modeling framework to inform ridge-to-reef management in high oceanic islands.
+
+--- SENTENCE 392 ---
+*PLOS ONE*, 13, e0193230.
+
+19.
+
+--- SENTENCE 393 ---
+Developing an Initial Watershed Classification for American Samoa.
+
+--- SENTENCE 394 ---
+In: *Report to the American Samoa Environmental Protection Agency, Pago Pago, American Samoa*.
+
+--- SENTENCE 395 ---
+American Samoa Environmental Protection Agency, p. 14.
+
+20.
+
+--- SENTENCE 396 ---
+DiDonato, G.T., DiDonato, E.M., Smith, L.M., Harwell, L.C. & Summers, J.K. (2009).
+
+--- SENTENCE 397 ---
+Assessing coastal waters of american samoa: Territory-wide water quality data provide a critical "big-picture" view for this tropical archipelago.
+
+--- SENTENCE 398 ---
+*Environmental Monitoring and Assessment*, 150, 157-165.
+
+21.
+
+--- SENTENCE 399 ---
+Dumont, E., Harrison, J.A., Kroeze, C., Bakker, E.J. & Seitzinger, S.P. (2005).
+
+--- SENTENCE 400 ---
+Global distribution and sources of dissolved inorganic nitrogen export to the coastal zone: Results from a spatially explicit, global model.
+
+--- SENTENCE 401 ---
+*Global Biogeochemical Cycles*, 19.
+
+22.
+
+--- SENTENCE 402 ---
+Nutrient Criteria Technical Guidance Manual: Estuarine and Coastal Marine Waters.
+
+--- SENTENCE 403 ---
+Office of Water, United States Environmental Protection Agency, Washington, DC.
+
+23.
+
+--- SENTENCE 404 ---
+Fabricius, K., De'ath, G., McCook, L., Turak, E. & Williams, D.M. (2005).
+
+--- SENTENCE 405 ---
+Changes in algal, coral and fish assemblages along water quality gradients on the inshore Great Barrier Reef.
+
+--- SENTENCE 406 ---
+*Mar Pollut Bull*, 51, 384-398.
+
+24.
+
+--- SENTENCE 407 ---
+Effects of terrestrial runoff on the ecology of corals and coral reefs: review and synthesis.
+
+--- SENTENCE 408 ---
+*Mar Pollut Bull*, 50, 125-146.
+
+25.
+
+--- SENTENCE 409 ---
+Fabricius, K.E., Logan, M., Weeks, S.J., Lewis, S.E. & Brodie, J. (2016).
+
+--- SENTENCE 410 ---
+Changes in water clarity in response to river discharges on the Great Barrier Reef continental shelf: 2002–2013.
+
+--- SENTENCE 411 ---
+*Estuarine, Coastal and Shelf Science*, 173, A1-A15.
+
+26.
+
+--- SENTENCE 412 ---
+Fredston-Hermann, A., Brown, C.J., Albert, S., Klein, C.J., Mangubhai, S., Nelson, J.L. *et al.* (2016).
+
+--- SENTENCE 413 ---
+Where Does River Runoff Matter for Coastal Marine Conservation?
+
+--- SENTENCE 414 ---
+*Frontiers in Marine Science*, 3.
+
+--- SENTENCE 415 ---
+Hamilton, R.J., Almany, G.R., Brown, C.J., Pita, J., Peterson, N.A. & Howard Choat, J. (2017).
+
+--- SENTENCE 416 ---
+Logging degrades nursery habitat for an iconic coral reef fish.
+
+--- SENTENCE 417 ---
+*Biological Conservation*, 210, 273-280.
+
+28.
+
+--- SENTENCE 418 ---
+Holst Rice, S., Messina, A., Biggs, T., Vargas-Angel, B. & Whitall, D. (2016).
+
+--- SENTENCE 419 ---
+Baseline Assessment of Faga'alu Watershed: A Ridge to Reef Assessment in Support of Sediment Reduction Activities and Future Evaluation of their Success.
+
+--- SENTENCE 420 ---
+In: *NOAA Technical Memorandum CRCP*.
+
+--- SENTENCE 421 ---
+NOAA Coral Reef Conservation Program Silver Spring, Maryland, p. 44.
+
+29.
+
+Houk, P., DiDonato, G.T., Iguel, J. & Van Woesik, R. (2005).
+
+--- SENTENCE 422 ---
+Assessing the effects of non-point source pollution on american samoa's coral reef communities.
+
+--- SENTENCE 423 ---
+*Environmental Monitoring and Assessment*, 107, 11-27.
+
+30.
+
+--- SENTENCE 424 ---
+Houk, P., Musburger, C. & Wiles, P. (2010).
+
+--- SENTENCE 425 ---
+Water quality and herbivory interactively drive coral-reef recovery patterns in American Samoa.
+
+--- SENTENCE 426 ---
+*PLoS One*, 5, e13913.
+
+31.
+
+--- SENTENCE 427 ---
+Izuka, S.K., Giambelluca, T.W. & Nullet, M.A. (2005).
+
+--- SENTENCE 428 ---
+Potential Evapotranspiration on Tutuila, American Samoa.
+
+--- SENTENCE 429 ---
+In: *USGS Scientific Investigations Report 2005-5200*.
+
+--- SENTENCE 430 ---
+U.S. Geological Survey Department of the Interior, p. 40.
+
+32.
+
+--- SENTENCE 431 ---
+Jupiter, S.D., Wenger, A., Klein, C.J., Albert, S., Mangubhai, S., Nelson, J. *et al.* (2017).
+
+--- SENTENCE 432 ---
+Opportunities and constraints for implementing integrated land–sea management on islands.
+
+--- SENTENCE 433 ---
+*Environmental Conservation*, 44, 254-266.
+
+--- SENTENCE 434 ---
+Kendall, C., Elliott, E.M. & Wankel, S.D. (2007).
+
+--- SENTENCE 435 ---
+Tracing anthropogenic inputs of nitrogen to ecosystems.
+
+--- SENTENCE 436 ---
+In: *Stable Isotopes in Ecology and Environmental Science* (eds.
+
+--- SENTENCE 437 ---
+Michener, RH & Lajtha, K).
+
+--- SENTENCE 438 ---
+Blackwell Publishing, pp. 375-449.
+
+34.
+
+--- SENTENCE 439 ---
+Littler, M.M., Littler, D.S. & Brooks, B.L. (2006).
+
+--- SENTENCE 440 ---
+Harmful algae on tropical coral reefs: Bottom-up eutrophication and top-down herbivory.
+
+--- SENTENCE 441 ---
+Harmful Algae*, 5, 565-585.
+
+35.
+
+--- SENTENCE 442 ---
+Messina, A.M. & Biggs, T.W. (2016).
+
+--- SENTENCE 443 ---
+Contributions of human activities to suspended sediment yield during storm events from a small, steep, tropical watershed.
+
+--- SENTENCE 444 ---
+*Journal of Hydrology*, 538, 726-742. 36.
+
+--- SENTENCE 445 ---
+Oliver, L.M., Fisher, W.S., Fore, L., Smith, A. & Bradley, P. (2018).
+
+--- SENTENCE 446 ---
+Assessing land use, sedimentation, and water quality stressors as predictors of coral reef condition in St. Thomas, U.S. Virgin Islands.
+
+--- SENTENCE 447 ---
+*Environmental Monitoring and Assessment*, 190, 213.
+
+37.
+
+--- SENTENCE 448 ---
+Oliver, L.M., Lehrter, J.C. & Fisher, W.S. (2011).
+
+--- SENTENCE 449 ---
+Relating landscape development intensity to coral reef condition in the watersheds of St. Croix, US Virgin Islands.
+
+--- SENTENCE 450 ---
+*Marine Ecology Progress Series*, 427, 293-302.
+
+38.
+
+--- SENTENCE 451 ---
+Plass-Johnson, J.G., Teichberg, M., Bednarz, V.N., Gärdes, A., Heiden, J.P., Lukman, M. *et al.* (2018).
+
+--- SENTENCE 452 ---
+Spatio-Temporal Patterns in the Coral Reef Communities of the Spermonde Archipelago, 2012–2014, II: Fish Assemblages Display Structured Variation Related to Benthic Condition.
+
+--- SENTENCE 453 ---
+*Frontiers in Marine Science*, 5.
+
+39.
+
+--- SENTENCE 454 ---
+Polidoro, B.A., Comeros-Raynal, M.T., Cahill, T. & Clement, C. (2017).
+
+--- SENTENCE 455 ---
+Land-based sources of marine pollution:
+
+--- SENTENCE 456 ---
+Pesticides, PAHs and phthalates in coastal stream water, and heavy metals in coastal stream sediments in American Samoa.
+
+--- SENTENCE 457 ---
+*Mar Pollut Bull*, 116, 501-507.
+
+40.
+
+--- SENTENCE 458 ---
+American Samoa's Coral Reef Management Priorities NOAA Silver Spring, MD, p. 34.
+
+41.
+
+--- SENTENCE 459 ---
+Risk, M.J., Lapointe, B.E., Sherwood, O.A. & Bedford, B.J. (2009).
+
+--- SENTENCE 460 ---
+The use of δ15N in assessing sewage stress on coral reefs.
+
+--- SENTENCE 461 ---
+*Marine Pollution Bulletin*, 58, 793-802.
+
+42.
+
+--- SENTENCE 462 ---
+Rodgers, K.S., Kido, M.H., Jokiel, P.L., Edmonds, T. & Brown, E.K. (2012).
+
+--- SENTENCE 463 ---
+Use of integrated landscape indicators to evaluate the health of linked watersheds and coral reef environments in the Hawaiian islands.
+
+--- SENTENCE 464 ---
+*Environ Manage*, 50, 21-30.
+
+43.
+
+--- SENTENCE 465 ---
+Rude, J., Minks, A., Doheny, B., Tyner, M., Maher, K., Huffard, C. *et al.* (2016).
+
+--- SENTENCE 466 ---
+Ridge to reef modelling for use within land–sea planning under data‐limited conditions.
+
+--- SENTENCE 467 ---
+*Aquatic Conservation: Marine and Freshwater Ecosystems*, 26, 251-264.
+
+44.
+
+--- SENTENCE 468 ---
+Nutrient Dynamics and Changes to Benthic Communities in Vatia, American Samoa.
+
+--- SENTENCE 469 ---
+Last accessed 20 December 2017.
+
+--- SENTENCE 470 ---
+Shuler, C.K., Amato, D.W., Gibson, V., Baker, L., Olguin, A.N., Dulai, H. *et al.* (2019).
+
+--- SENTENCE 471 ---
+Assessment of Terrigenous Nutrient Loading to Coastal Ecosystems along a Human Land-Use Gradient, Tutuila, American Samoa.
+
+--- SENTENCE 472 ---
+*Hydrology* 6, 18.
+
+46.
+
+--- SENTENCE 473 ---
+Storlazzi, C.D., Norris, B.K. & Rosenberger, K.J. (2015).
+
+--- SENTENCE 474 ---
+The influence of grain size, grain color, and suspended-sediment concentration on light attenuation: Why fine-grained terrestrial sediment is bad for coral reef ecosystems.
+
+--- SENTENCE 475 ---
+*Coral Reefs*, 34, 967-975.
+
+47.
+
+--- SENTENCE 476 ---
+Nutrient enrichment on coral reefs: Is it a major cause of coral reef decline?
+
+--- SENTENCE 477 ---
+*Estuaries*, 25, 743-766.
+
+48.
+
+--- SENTENCE 478 ---
+Teichberg, M., Wild, C., Bednarz, V.N., Kegler, H.F., Lukman, M., Gärdes, A.A. *et al.* (2018).
+
+--- SENTENCE 479 ---
+Spatio-Temporal Patterns in Coral Reef Communities of the Spermonde Archipelago, 2012–2014, I: Comprehensive Reef Monitoring of Water and Benthic Indicators Reflect Changes in Reef Health.
+
+--- SENTENCE 480 ---
+*Frontiers in Marine Science*, 5.
+
+49.
+
+--- SENTENCE 481 ---
+Tuitele, C. & Buchan, E. (2014).
+
+--- SENTENCE 482 ---
+American Samoa Watershed Management and Protection Program FY13 Annual Report.
+
+--- SENTENCE 483 ---
+American Samoa Environmental Protection Agency, p. 49.
+
+--- SENTENCE 484 ---
+Tuitele, C., Buchan, E., Regis, J., Potoa'e, J. & Fale, C. (2014).
+
+--- SENTENCE 485 ---
+Territory of American Samoa Integrated Water Quality Monitoring and Assessment Report 2014.
+
+--- SENTENCE 486 ---
+American Samoa Environmental Protection Agency, p. 67.
+
+51.
+
+--- SENTENCE 487 ---
+Tuitele, C., Buchan, E., Regis, J., Tuiasosopo, J., Faaiuaso, S. & Soli, S. (2016a).
+
+--- SENTENCE 488 ---
+Integrated Water Quality Monitoring and Assessment Report.
+
+--- SENTENCE 489 ---
+American Samoa Environmental Protection Agency, p. 63.
+
+52.
+
+--- SENTENCE 490 ---
+Tuitele, C., Tuiasosopo, J. & Faaiuaso, S. (2016b).
+
+--- SENTENCE 491 ---
+Watershed Classification Update for American Samoa American Samoa Environmental Protection Agency Pago Pago, American Samoa p. 12.
+
+--- SENTENCE 492 ---
+Tuitele, C., Tuiasosopo, J., Faaiuaso, S. & Buchan, E. (2015).
+
+--- SENTENCE 493 ---
+American Samoa Watershed Management and Protection Program FY15 Annual Report.
+
+--- SENTENCE 494 ---
+American Samoa Environmental Protection Agency American Samoa p. 51.
+
+--- SENTENCE 495 ---
+Waterhouse, J., Brodie, J., Lewis, S. & Audas, D.-m.
+
+--- SENTENCE 496 ---
+Land-sea connectivity, ecohydrology and holistic management of the Great Barrier Reef and its catchments: time for a change.
+
+--- SENTENCE 497 ---
+*Ecohydrology & Hydrobiology*, 16, 45-57.
+
+55.
+
+--- SENTENCE 498 ---
+Waterhouse, J., Schaffelke, B., Bartley, R., Eberhard, R., Brodie, J., Star, M. *et al.* (2017).
+
+--- SENTENCE 499 ---
+2017 Scientific Consensus Statement Land Use Impacts on Great Barrier Reef Water Quality and Ecosystem Condition.
+
+--- SENTENCE 500 ---
+Queensland Government, p. 18.
+
+56.
+
+--- SENTENCE 501 ---
+Welch, E.M., Dulai, H., El-Kadi, A. & Shuler, C.K. (2019).
+
+--- SENTENCE 502 ---
+Submarine Groundwater Discharge and Stream Baseflow Sustain Pesticide and Nutrient Fluxes in Faga'alu Bay, American Samoa.
+
+--- SENTENCE 503 ---
+*Frontiers in Environmental Science*, 7.
+
+57.
+
+--- SENTENCE 504 ---
+Whitall, D. & Holst Rice, S. (2015).
+
+--- SENTENCE 505 ---
+Pollution in Surface Sediments in Faga'alu Bay, Tutuila, American Samoa.
+
+--- SENTENCE 506 ---
+In: *NOAA Technical Memorandum NOS NCCOS 201*.
+
+--- SENTENCE 507 ---
+NOAA NCCOS Silver Spring, Maryland, p. 54.
+

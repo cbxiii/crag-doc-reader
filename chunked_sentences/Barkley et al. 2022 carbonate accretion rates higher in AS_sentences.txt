@@ -1,0 +1,1572 @@
+--- SENTENCE 1 ---
+[](_page_0_Picture_2.jpeg)
+
+#### **OPEN ACCESS**
+
+EDITED BY
+Maria Cristina Gambi,
+Istituto Nazionale di Oceanografia e
+
+Istituto Nazionale di Oceanografia e di Geofisica Sperimentale, Italy
+
+REVIEWED
+
+--- SENTENCE 2 ---
+BY
+Guillermo Diaz-Pulido,
+Griffith University, Australia
+Wei-Jen Huang,
+National Sun Yat-sen University,
+
+\*CORRESPONDENCE Hannah C. Barkley hannah.barkley@noaa.gov
+
+SPECIALTY SECTION
+
+This article was submitted to Global Change and the Future Ocean, a section of the journal Frontiers in Marine Science
+
+RECEIVED 11 July 2022 ACCEPTED 03 November 2022 PUBLISHED 24 November 2022
+
+#### CITATION
+
+Barkley HC, Oliver TA, Halperin AA, Pomeroy NV, Smith JN, Weible RM, Young CW, Couch CS, Brainard RE and Samson JC (2022)
+
+--- SENTENCE 3 ---
+Coral reef carbonate accretion rates track stable gradients in seawater carbonate chemistry across the U.S. Pacific Islands.
+
+--- SENTENCE 4 ---
+doi: 10.3389/fmars.2022.991685
+
+#### COPYRIGHT
+
+© 2022 Barkley, Oliver, Halperin, Pomeroy, Smith, Weible, Young, Couch, Brainard and Samson.
+
+--- SENTENCE 5 ---
+This is an openaccess article distributed under the terms of the Creative Commons Attribution License (CC BY).
+
+--- SENTENCE 6 ---
+The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice.
+
+--- SENTENCE 7 ---
+No use, distribution or reproduction is permitted which does not comply with these terms
+
+# Coral reef carbonate accretion rates track stable gradients in seawater carbonate chemistry across the U.S. Pacific Islands
+
+Hannah C. Barkley<sup>1\*</sup>, Thomas A. Oliver<sup>1</sup>, Ariel A. Halperin<sup>1,2</sup>, Noah V. Pomeroy<sup>1,2</sup>, Joy N. Smith<sup>1,2</sup>, Rebecca M. Weible<sup>1,2</sup>, Charles W. Young<sup>2,3</sup>, Courtney S. Couch<sup>1,2</sup>, Russell E. Brainard<sup>1,4</sup> and Jennifer C. Samson<sup>1</sup>
+
+<sup>1</sup>National Oceanic and Atmospheric Administration (NOAA) Pacific Islands Fisheries Science Center, National Marine Fisheries Service, Honolulu, HI, United States, <sup>2</sup>Cooperative Institute for Marine and Atmospheric Research, University of Hawai'i, Honolulu, HI, United States, <sup>3</sup>Pacific Islands Ocean Observing System, University of Hawai'i, Honolulu, HI, United States, <sup>4</sup>Red Sea Research Center, King Abdullah University of Science & Technology, Thuwal, Saudi Arabia
+
+The U.S. Pacific Islands span a dramatic natural gradient in climate and oceanographic conditions, and benthic community states vary significantly across the region's coral reefs.
+
+--- SENTENCE 8 ---
+Here we leverage a decade of integrated ecosystem monitoring data from American Samoa, the Mariana Archipelago, the main and Northwestern Hawaiian Islands, and the U.S. Pacific Remote Island Areas to evaluate coral reef community structure and reef processes across a strong natural gradient in pH and aragonite saturation state ( $\Omega_{ar}$ ).
+
+--- SENTENCE 9 ---
+We assess spatial patterns and temporal trends in carbonate chemistry measured in situ at 37 islands and atolls between 2010 and 2019, and evaluate the relationship between long-term mean  $\Omega_{ar}$  and benthic community cover and composition (benthic cover, coral genera, coral morphology) and reef process (net calcium carbonate accretion rates).
+
+--- SENTENCE 10 ---
+We find that net carbonate accretion rates demonstrate significant sensitivity to declining  $\Omega_{ar}$ , while most benthic ecological metrics show fewer direct responses to lower- $\Omega_{ar}$  conditions.
+
+--- SENTENCE 11 ---
+These results indicate that metrics of coral reef net carbonate accretion provide a critical tool for monitoring the long-term impacts of ocean acidification that may not be visible by assessing benthic cover and composition alone.
+
+--- SENTENCE 12 ---
+The perspectives gained from our long-term, in situ, and co-located coral reef environmental and ecological data sets provide unique insights into effective monitoring practices to identify potential for reef resilience to future ocean acidification and inform effective ecosystem-based management strategies under 21st century global change.
+
+#### KEYWORDS
+
+coral reefs, carbonate chemistry, ocean acidification, carbonate accretion, U.S. Pacific, climate change, reef monitoring
+
+# Introduction
+
+Increasing concentrations of atmospheric carbon dioxide (CO2) are driving unprecedented shifts in global ocean carbon systems ([Hoegh-Guldberg et al., 2007\)](#page-12-0).
+
+--- SENTENCE 13 ---
+Absorption of excess CO2 gas in ocean surface waters decreases seawater pH, carbonate ion concentration (CO3 2-), and the saturation state of the calcium carbonate mineral aragonite (War), a process known as ocean acidification
+
+--- SENTENCE 14 ---
+[\(Doney et al., 2009\)](#page-11-0).
+
+--- SENTENCE 15 ---
+In Pacific open ocean waters, significant decreasing trends in surface seawater pH have already been observed in the North Pacific Subtropical Gyre (-0.0019 yr-1 to -0.0016 yr-1 at Station ALOHA, [Dore et al., 2009](#page-11-0);
+
+--- SENTENCE 16 ---
+[Bates et al., 2014](#page-11-0)) and in the central equatorial Pacific (-0.0026 to -0.0018 yr-1, [Sutton et al., 2014\)](#page-12-0) over the past several decades.
+
+--- SENTENCE 17 ---
+Dependent on future emissions scenarios, global climate models predict an additional decline in seawater pH of approximately 0.3 to 0.4 units by the end of the century ([Kwiatkowski et al., 2020\)](#page-12-0).
+
+--- SENTENCE 18 ---
+The impacts of ocean acidification are projected to have wide ranging effects across many marine ecosystems.
+
+--- SENTENCE 19 ---
+Coral reefs are largely defined by calcium carbonate structure and engineered by organisms with known sensitivity to low pH and War; therefore, they are likely to show major effects both in rates of organismal carbonate production as well as bioerosion and dissolution of existing carbonate structures (
+
+--- SENTENCE 20 ---
+[Kroeker et al., 2013;](#page-12-0)
+
+--- SENTENCE 21 ---
+[Hoegh-Guldberg et al., 2017\)](#page-12-0).
+
+--- SENTENCE 22 ---
+Most of our current understanding of coral reef ecosystem sensitivities to ocean acidification is derived from laboratory manipulation studies.
+
+--- SENTENCE 23 ---
+Single-species and mesocosm perturbation experiments can provide direct evidence of coral reef taxa responses to shifts in carbonate chemistry in controlled environments, and numerous studies have shown that calcification rates of some (but not all) coral species, crustose coralline algae (CCA), and other calcifying marine taxa decline significantly with decreasing War
+
+--- SENTENCE 24 ---
+[\(Kuffner et al., 2008;](#page-12-0)
+
+--- SENTENCE 25 ---
+[Kroeker et al., 2010](#page-12-0);
+
+--- SENTENCE 26 ---
+[Connolly, 2013](#page-11-0); [Kroeker et al., 2013](#page-12-0); [Manning et al., 2019](#page-12-0)).
+
+--- SENTENCE 27 ---
+Paired with observations of accelerating rates of calcium carbonate dissolution and bioerosion under acidified conditions [\(Wisshak et al., 2012](#page-13-0); [Schönberg et al., 2017](#page-12-0)), many predictions for coral reef ecosystems under ocean acidification therefore converge on a paradigm of future reef communities that are algal-dominated, structurally simplified, and net eroding ([Hoegh-Guldberg et al., 2017\)](#page-12-0).
+
+--- SENTENCE 28 ---
+However, laboratory studies cannot fully replicate dynamic coral reef communities, where co-varying environmental, ecological, biogeographic, and anthropogenic factors may potentially magnify or mitigate the impacts of ocean acidification.
+
+--- SENTENCE 29 ---
+Instead, multiple studies over the past decade have leveraged unique coral reef systems where natural processes produce sustained lowerpH/War conditions, providing a glimpse over space of the possible trajectory of reef ecosystem states through time [\(Manzello et al.,](#page-12-0)
+
+--- SENTENCE 30 ---
+[Fabricius et al., 2011;](#page-11-0)
+
+--- SENTENCE 31 ---
+[Crook et al., 2012;](#page-11-0) [Inoue et al., 2013;](#page-12-0)
+
+--- SENTENCE 32 ---
+[Barkley et al., 2015;](#page-11-0)
+
+--- SENTENCE 33 ---
+[Enochs et al., 2015;](#page-11-0)
+
+--- SENTENCE 34 ---
+[Enochs et al., 2020](#page-11-0)).
+
+--- SENTENCE 35 ---
+The expanding global portfolio of these natural "ocean acidification analog" sites has painted a more nuanced picture of coral reef ecosystems under acidified conditions, as the negative responses to decreasing War frequently observed in laboratory experiments are not consistently realized on reefs as significant declines in the most commonly monitored benthic health metrics, including cover and diversity of hard corals, CCA, and other calcifying reef taxa.
+
+--- SENTENCE 36 ---
+While perhaps demonstrative of the reef-scale variability in community sensitivity, this makes it challenging for long-term monitoring programs and coral reef managers to select, track, and manage the most appropriate indicators of ocean acidification impacts in coral reef ecosystems.
+
+--- SENTENCE 37 ---
+The coral reefs of the U.S-affiliated Pacific Islands provide a geographically expansive view of reef communities that exist across a large spatial gradient in carbonate chemistry conditions.
+
+--- SENTENCE 38 ---
+The islands and atolls of the five U.S. Pacific Islands regions — American Samoa, the Mariana Archipelago, the main Hawaiian Islands, the Northwestern Hawaiian Islands, and the Pacific Remote Island Areas — are widely scattered across the western and central Pacific Ocean (~15° S to 30° N, ~140°
+
+--- SENTENCE 39 ---
+E to 150° W) and thus experience a diversity of climate, oceanographic, and biogeochemical conditions.
+
+--- SENTENCE 40 ---
+These range from the dynamic upwelling zones of the central equatorial Pacific Remote Island Areas to the more stable, oligotrophic Hawaiian and American Samoan reefs within the North and South Pacific Subtropical Gyres
+
+--- SENTENCE 41 ---
+Due in part to the range of climate and environmental conditions experienced, benthic community states also vary from coral-dominated to algal-dominated cover [\(Smith et al., 2016\)](#page-12-0), in the composition of coral genera, and in rates of net calcium carbonate production (Vargas-Á
+
+--- SENTENCE 42 ---
+[ngel et al., 2015\)](#page-12-0).
+
+--- SENTENCE 43 ---
+However, spatial and temporal patterns in carbonate chemistry and relationships with these benthic community metrics have, to date, remained more poorly constrained.
+
+--- SENTENCE 44 ---
+Here we employ the past decade (2010–2019) of National Oceanic and Atmospheric Administration (NOAA) integrated coral reef ecosystem monitoring data in the U.S. Pacific Islands to conduct a baseline analysis of acidification impacts on benthic community structure and function.
+
+--- SENTENCE 45 ---
+We examine spatial and temporal patterns in carbonate chemistry measured in situ across 37 U.S. Pacific Islands and then evaluate the impacts of observed basin-scale War variability on co-located 1) benthic cover, 2) genera and morphology of coral communities, and 3) rates of net carbonate accretion (production of calcium carbonate material).
+
+--- SENTENCE 46 ---
+Our results allow us to identify the coral reef ecosystem metrics that co-vary most strongly with gradients in War, to begin to project Pacific coral reef ecosystem sensitivities to future ocean acidification, and to evaluate the most relevant reef response metrics for ongoing monitoring and assessment of ocean acidification in reef environments.
+
+--- SENTENCE 47 ---
+<span id="page-2-0"></span>![](_page_2_Figure_1.jpeg)
+
+FIGURE 1 Climatological aragonite saturation state ( $\Omega_{ar}$ ) for the U.S. Pacific Islands region from the GLobal Ocean Data Analysis Project (GLODAP, 1973–2013) v2 (Lauvset et al., 2016), shown with global climatological  $\Omega_{ar}$  (inset).
+
+--- SENTENCE 48 ---
+Islands and atolls surveyed as part of NOAA's Pacific RAMP/NCRMP are shown as points, with shading corresponding to the average 2010–2019 mean *in situ*  $\Omega_{ar}$ .
+
+--- SENTENCE 49 ---
+Modified and updated from Figure 6.3 in Jewett et al., 2020.
+
+#### Methods
+
+### Survey dates and sampling design
+
+The NOAA Pacific Islands Fisheries Science Center has collected multi-disciplinary coral reef ecosystem monitoring data at U.S.-affiliated Pacific islands and atolls since 2000, initially as part of the NOAA Pacific Reef Assessment Monitoring Program (Pacific RAMP, 2000-2012) and currently under the NOAA National Coral Reef Monitoring Program (NCRMP, 2013-present).
+
+--- SENTENCE 50 ---
+Robust, colocated monitoring of carbonate chemistry, benthic ecology, and carbonate accretion rates was initiated in 2010; thus, data collected between 2010 and 2019 were included in this study.
+
+--- SENTENCE 51 ---
+Regions were surveyed during the following years: American Samoa: 2010, 2012, 2015, 2018; Mariana Archipelago: 2011, 2014, 2017; main Hawaiian Islands: 2010, 2013, 2016, 2019; Northwestern Hawaiian Islands: 2010, 2013, 2015, 2016, 2019; and the Pacific Remote Island Areas: 2010, 2012, 2015, 2016, 2017, 2018 (Wake only: 2011, 2014, 2017).
+
+--- SENTENCE 52 ---
+Access to study sites, particularly remote islands, is dependent on ship availability, logistics, mission length, and suitable weather conditions.
+
+--- SENTENCE 53 ---
+As a result, not every island was surveyed and/or data stream collected during a mission (see Supplementary Tables 1-11 for a full list of islands, sampling periods, and data streams collected).
+
+--- SENTENCE 54 ---
+NCRMP's climate and ecological monitoring design integrates both permanent sites (surveyed during every sampling period) and sites selected using a stratified-random
+
+sampling design (surveyed only once).
+
+--- SENTENCE 55 ---
+Permanent survey sites were established at approximately 15 m depth on the fore reef, with oceanographic and ecological instruments deployed on the benthos to establish long-term, site-specific time series.
+
+--- SENTENCE 56 ---
+Stratified random sites for benthic ecological surveys were stratified based on reef zone and depth (0-30 m), with more sites randomly selected within strata that had larger hard bottom substrate area relative to the total domain.
+
+--- SENTENCE 57 ---
+Most permanent and stratified random sites were located on the fore reef; however, sampling and surveys were also conducted at sites in lagoon, back reef, and protected reef slope environments where present.
+
+--- SENTENCE 58 ---
+Full descriptions of NCRMP development, survey design, methods, and indicators are available in NOAA's National Coral Reef Monitoring Plans (NOAA Coral Program, 2014; NOAA Coral Program, 2021) and Ocean Acidification Research Plans (Feely et al., 2010; Jewett et al., 2020).
+
+#### Carbon system chemistry
+
+Discrete water samples were collected at both permanent and stratified random NCRMP survey sites following the Carbon Dioxide Information Analysis Center Guide to Best Practices for Ocean CO<sub>2</sub> Measurements (Dickson et al., 2007).
+
+--- SENTENCE 59 ---
+Coral reefassociated water samples were collected during daylight hours (08:00–16:00) using a 5-L Niskin bottle deployed from a small boat or by divers at the surface (1 m depth) and at the benthos
+
+(~15 m depth).
+
+--- SENTENCE 60 ---
+Samples were stored in 500 mL borosilicate bottles, where the sample bottle was allowed to overflow with seawater for at least one full volume and ~1% sample volume was removed to create a calibrated headspace.
+
+--- SENTENCE 61 ---
+Samples were immediately poisoned with 200 µL of saturated mercuric chloride to inhibit biological activity and sample bottles sealed with glass stoppers that were lightly covered in Apiezon-L grease.
+
+--- SENTENCE 62 ---
+Temperature, salinity, and pressure measurements were recorded by a co-located CTD profiler (2010–2018: Seabird 19+, 2019:
+
+--- SENTENCE 63 ---
+A total of 1,788 nearshore carbonate chemistry samples were collected between 2010 and 2019 (see [Supplementary Figure 1](#page-11-0) and
+
+--- SENTENCE 64 ---
+[Supplementary Tables 1](#page-11-0)–5 for a summary of water sample locations and years).
+
+--- SENTENCE 65 ---
+Seawater samples were stored indoors at room temperature for the duration of each field mission and then shipped to the NOAA Pacific Marine Environmental Laboratory in Seattle, WA, for dissolved inorganic carbon (DIC) and total alkalinity (TA) analysis.
+
+--- SENTENCE 66 ---
+Coulometric titration for DIC was conducted using two Single Operator Multiparameter Metabolic Analyzer (SOMMA) systems, and two-stage, potentiometric, open-cell titration for TA was conducted using an instrument custombuilt by the Dickson lab at Scripps Institution of Oceanography.
+
+--- SENTENCE 67 ---
+War was calculated from TA, DIC, temperature, salinity, and pressure using the R package seacarb
+
+--- SENTENCE 68 ---
+[\(Gattuso et al., 2020\)](#page-11-0) with the dissociation constants of [Lueker et al. \(2000\)](#page-12-0).
+
+--- SENTENCE 69 ---
+Concentrations of total phosphate and total silicate were assumed to be zero.
+
+--- SENTENCE 70 ---
+Additional information on carbonate chemistry data collection and analysis can be found at [Barkley et al. \(2021\)](#page-11-0).
+
+--- SENTENCE 71 ---
+## Benthic cover and community composition
+
+Stratified random benthic cover data were collected at each island or atoll using standard NCRMP sampling protocols (see [Ayotte et al., 2015](#page-11-0) and
+
+--- SENTENCE 72 ---
+[Winston et al., 2020](#page-13-0) for full description of survey methodology).
+
+--- SENTENCE 73 ---
+In brief, 30 photographs per site were collected at 1 m increments along a 30 m transect with a highresolution digital camera (Cannon PowerShot 1200, S110 and G9 X) with underwater housings from 1 m above the benthos.
+
+--- SENTENCE 74 ---
+Benthic data were extracted from photographs using fully manual human annotation in Coral Point Count with Excel extensions, CPCe ([Kohler and Gill, 2006](#page-12-0)), from 2010–2014 and the web-based image annotation tool, CoralNet
+
+--- SENTENCE 75 ---
+[\(Beijbom et al., 2015](#page-11-0)), from 2015–2019.
+
+--- SENTENCE 76 ---
+For each image, the organism (genus/morphology for corals, genus/ functional group for algae) or type of substrate was identified beneath each of ten randomly overlaid points.
+
+--- SENTENCE 77 ---
+Points were pooled across all imagery to generate a total of 300 annotations per site ([Lozada-Misa et al., 2017](#page-12-0)).
+
+--- SENTENCE 78 ---
+A total of 6,136 surveys were conducted across all islands between 2010 and 2019 and included in this analysis [\(Supplementary Figure 2](#page-11-0) and
+
+--- SENTENCE 79 ---
+[Supplementary Tables 6](#page-11-0)–10).
+
+Site-level percent cover was calculated at the functional level, by coral morphology and by coral genera.
+
+--- SENTENCE 80 ---
+The functional level included total hard coral, CCA, encrusting macroalgae (including calcifying Peyssonnelia sp.), Halimeda algae, macroalgae, sediment, and turf.
+
+--- SENTENCE 81 ---
+Coral morphologies were categorized into branching, columnar, encrusting, foliose, freeliving, massive, and table groups.
+
+--- SENTENCE 82 ---
+Coral genera were subset to the five most common genera observed across the Pacific Islands region (Acropora, Montipora, Pavona, Pocillopora, and Porites).
+
+--- SENTENCE 83 ---
+Stratified random surveys are not designed to be analyzed at the site level; therefore, site-level data were averaged to calculate mean cover across strata, then weighted by strata area, and summed for each island and year.
+
+--- SENTENCE 84 ---
+## Carbonate accretion rates
+
+Carbonate accretion rates were estimated using Calcification Accretion Units (CAUs) deployed at 220 permanent sites in 31 NCRMP islands between 2010 and 2019 (n = 1446 units; see [Supplementary Figure 3](#page-11-0) and [Supplementary Table 11](#page-11-0) for details on CAU deployment islands and years).
+
+--- SENTENCE 85 ---
+Each CAU assembly consists of two 10 cm × 10 cm PVC plates separated by a 1 cm plastic spacer and fastened on a stainless steel rod (see [Johnson](#page-12-0)
+
+--- SENTENCE 86 ---
+CAUs were installed on stainless steel stakes hammered into the reef substrate, secured with epoxy, and positioned at approximately 10–20 cm above the benthos.
+
+--- SENTENCE 87 ---
+Five CAUs were installed per site, with typically 4–5 sites deployed per island and year (range: 1–13 sites) at approximately 15 m depth (range: 2.1–19.8 m depth).
+
+--- SENTENCE 88 ---
+CAUs were recovered and replaced after a 2–3 year period (e.g., CAUs deployed in 2010 were recovered in 2012) and stored frozen at -5°C until prepared for processing.
+
+--- SENTENCE 89 ---
+Laboratory analysis was conducted at the NOAA Pacific Islands Fisheries Science Center in Honolulu, HI, following protocols outlined in [Price et al. \(2012\)](#page-12-0) and [Vargas-A](#page-12-0)́ ngel [et al. \(2015\)](#page-12-0).
+
+--- SENTENCE 90 ---
+CAU plates were defrosted, disassembled, and dried at 60°C until plate weight had stabilized, and then decalcified in 5% HCl until all calcified material had fully dissolved.
+
+--- SENTENCE 91 ---
+Any remaining fleshy, non-calcified material was then scraped onto filter paper, vacuum-filtered, dried, and weighed.
+
+--- SENTENCE 92 ---
+The weight of calcified material was calculated by subtracting the weight of the PVC plate and fleshy material from the total weight of the recovered unit and converted to an accretion rate based on time in water.
+
+--- SENTENCE 93 ---
+CAU data were averaged to the site-level for statistical analysis.
+
+--- SENTENCE 94 ---
+The cover and composition of organisms occupying recovered CAUs were not quantified as part of this study, although previous work has shown that CCA represents about two-thirds of recruited calcifying taxa, with small contributions from corals, algal crusts, and carbonate sediment (<5% each; Vargas-Á [ngel et al., 2015](#page-12-0)).
+
+--- SENTENCE 95 ---
+# Data and statistical analysis
+
+Carbonate chemistry and ecological data from five islands in the Mariana Archipelago with ≤ 3 water samples collected across all survey years were dropped from statistical analysis (Aguijan, Alamagan, Farallón de Pájaros, Guguan, and Sarigan; n = 10 samples).
+
+--- SENTENCE 96 ---
+In addition, extreme outliers in the carbonate chemistry data (values more than three times the interquartile range below the first quartile or above the third quartile for each island and year; n = 26 samples) were removed.
+
+--- SENTENCE 97 ---
+Variance component analysis was then conducted using the VCA package in R [\(Schuetzenmeister and Dufey, 2020\)](#page-12-0) to attribute observed spatial and temporal variance in annual War calculated from discrete water samples to the explanatory variables of depth, time of day (solar hour), region, island (nested within region), sampling period, and their interaction terms.
+
+--- SENTENCE 98 ---
+Sampling period was represented by year groups (2010–2011, 2012–2014, 2015–2017, 2018–2019) rather than by numerical year.
+
+--- SENTENCE 99 ---
+Due to the relatively temporally sparse nature of NCRMP surveys, single carbonate chemistry data points collected at each site represent only a very brief snapshot of highly dynamic coral reef biogeochemical environments.
+
+--- SENTENCE 100 ---
+Therefore, to more robustly characterize climatological carbonate chemistry as a driver that could meaningfully impact benthic communities over longer time periods, mean War values were calculated across all depths for each island and year and compared to annual, island-level means for benthic composition.
+
+--- SENTENCE 101 ---
+Beta regression models were constructed to evaluate the links between War and the functional benthic cover categories (coral, CCA, turf, and macroalgae) using the R package betareg
+
+--- SENTENCE 102 ---
+[\(Cribari-Neto and Zeileis, 2010](#page-11-0)).
+
+--- SENTENCE 103 ---
+Cover data were converted to proportion data (constrained between 0 and 1) and square-root transformed.
+
+--- SENTENCE 104 ---
+To account for mortality following the bleaching events that occurred at many islands, predominantly between 2013 and 2017, and to explore the contribution of potential outliers to statistical results, separate beta regression models were constructed for all years (2010–2019), the first sampling period for each island (2010– 2012), the last sampling period for each island (2016–2019), and with and without the inclusion of the equatorial and nearequatorial Pacific Remote Islands (Baker, Howland, Jarvis, Kingman, and Palmyra).
+
+--- SENTENCE 105 ---
+These upwelling-influenced islands were considered as possible outliers due to the more extreme mean values and inter-annual variability in carbonate chemistry, temperature, salinity, and biogeochemical conditions that could influence benthic community structure and function [\(Barkley](#page-11-0)
+
+--- SENTENCE 106 ---
+Multivariate benthic composition, coral morphology, and coral genera data were analyzed using distance based redundancy analysis (db-RDA) on dissimilarity matrices of square-root transformed data, and the significance of the relationship War evaluated using permutation tests with 9999 permutations (R package vegan, [Oksanen et al., 2020](#page-12-0)).
+
+--- SENTENCE 107 ---
+Nontransformed and log-transformed 2010–2019 mean accretion rate data were fit to generalized linear models with Gaussian error distributions and a gamma error distribution with log link function.
+
+--- SENTENCE 108 ---
+The generalized linear model using log-transformed accretion data and a Gaussian error distribution was found to best describe the relationship between War and accretion rates based on quantile-quantile plots of the model residuals.
+
+--- SENTENCE 109 ---
+# Results
+
+## Spatial and temporal patterns in carbonate chemistry
+
+Carbonate chemistry showed significant spatial variability across the five U.S. Pacific Island regions [\(Figures 1](#page-2-0), [2](#page-5-0) and [Supplementary Figures 4](#page-11-0)–6).
+
+--- SENTENCE 110 ---
+Variance component analysis revealed that the largest component of observed variance in War was spatially driven, with 51.1% of observed variance attributed to region and 18.6% of observed variance attributed to island nested within region ([Supplementary Table 12](#page-11-0)).
+
+--- SENTENCE 111 ---
+The highest War levels were consistently observed at the five islands within American Samoa (2010–2019 island-mean range = 3.80– 4.12).
+
+--- SENTENCE 112 ---
+Lower mean War values were observed in the Mariana Archipelago (3.60–3.86) and main Hawaiian Islands (3.30–3.65), and War values did not deviate substantially from regional means across islands within these archipelagoes.
+
+--- SENTENCE 113 ---
+In the Northwestern Hawaiian Islands, regional War values were relatively low (2.55– 3.80), with particularly low and variable War conditions consistently observed at Lisianski (2.93 ± 0.10).
+
+--- SENTENCE 114 ---
+The range in carbonate chemistry conditions was also fairly large across islands within the Pacific Remote Island Areas (3.14–3.90); long-term War was lowest at Jarvis (3.33 ± 0.06) and Johnston (3.44 ± 0.04), slightly higher at Baker (3.55 ± 0.11), Howland (3.57 ± 0.10), Kingman (3.59 ± 0.08), and Palmyra (3.59 ± 0.07), and highest at Wake (3.78 ± 0.02).
+
+--- SENTENCE 115 ---
+Regional spatial patterns in carbonate chemistry were stable in most regions and islands through the time periods analyzed.
+
+--- SENTENCE 116 ---
+Inter-annual change (year group) explained none (0%) of the variance across the full data set, with only small percentages of variance attributed to inter-annual change within region (interaction of year group and region, 4.6%), within island (interaction of island within region, 7.4%), sample depth (1.2%), and time of day (solar hour, 0.4%;
+
+--- SENTENCE 117 ---
+The notable exceptions to this large-scale temporal stability were the equatorial islands of the Pacific Remote Island Areas (Jarvis, Howland, and Baker), where significant interannual swings in War were observed across sampling periods.
+
+--- SENTENCE 118 ---
+Particularly high War values were observed at Howland and Baker in 2010 (3.90–3.91), and lower-War conditions occurred at Howland, Baker, and Jarvis in 2017 (3.12–3.29).
+
+--- SENTENCE 119 ---
+<span id="page-5-0"></span>![](_page_5_Figure_1.jpeg)
+
+FIGURE 2 Aragonite saturation state (War) data for 37 U.S. Pacific islands and atolls collected during four sampling periods (2010–2011, 2012–2014, 2015– 2017, and 2018–2019).
+
+--- SENTENCE 120 ---
+2018–2019 data are not available for the Mariana Archipelago due to COVID-19 ("n.d."
+
+--- SENTENCE 121 ---
+= no data), and additional islands missing data were not sampled during the specified sampling period.
+
+--- SENTENCE 122 ---
+Islands that were surveyed more than once during the 2015–2017 sampling period (French Frigate Shoals and Lisianski: 2015 and 2016, Howland and Baker: 2015 and 2017, Jarvis: 2015, 2016, and 2017) are shown with individual boxplots for each year.
+
+--- SENTENCE 123 ---
+See [Supplementary Figures 1](#page-11-0)–5 and [Supplementary Tables 1](#page-11-0)–5 for a full description of sample collection years and carbonate chemistry parameter data.
+
+--- SENTENCE 124 ---
+Benthic responses to War
+
+Across the U.S. Pacific Islands, benthic cover and composition varied substantially across regions and islands ([Supplementary Figures 7](#page-11-0)–10 and
+
+--- SENTENCE 125 ---
+Turf algae was the dominant type of benthic cover at 28 of the 37 Pacific islands surveyed.
+
+--- SENTENCE 126 ---
+Only four islands in American Samoa (Swains, Ofu and Olosega, Tā'u, and Tutuila) and five in the Pacific Remote Island Areas (Jarvis, Howland, Baker, Kingman, Palmyra) had greater percent cover of calcifiers than of turf.
+
+--- SENTENCE 127 ---
+These patterns were generally consistent across years.
+
+--- SENTENCE 128 ---
+Coral and CCA percent cover was highest in American Samoa and lower across the Mariana Archipelago, main Hawaiian Islands, and Northwestern Hawaiian Islands, although coral cover was notably high at Lisianski and French Frigate Shoals.
+
+--- SENTENCE 129 ---
+In the Pacific Remote Island Areas, particularly low mean coral cover (7.5 ± 0.5%) and high CCA cover (26.2 ± 1.1%) were observed at Jarvis, as the 2010–2019 mean data include the cover data collected both before and after the severe 2015–2016 coral bleaching and mortality event
+
+--- SENTENCE 130 ---
+[\(Barkley et al., 2018](#page-11-0);
+
+--- SENTENCE 131 ---
+[et al., 2018](#page-11-0); Vargas-Á [ngel et al., 2019](#page-12-0)).
+
+--- SENTENCE 132 ---
+The Pacific-wide gradient in War was not meaningfully correlated with any benthic cover component across all sampling years (2010–2019) and all islands ([Figure 3,](#page-6-0)
+
+--- SENTENCE 133 ---
+[Supplementary Figure 11,](#page-11-0) and [Supplementary Table 13](#page-11-0)).
+
+--- SENTENCE 134 ---
+Similar results were observed from analyses on the first (2010–
+
+<span id="page-6-0"></span>![](_page_6_Figure_1.jpeg)
+
+--- SENTENCE 135 ---
+FIGURE 3 Benthic community responses across a Pacific-wide gradient in War.
+
+--- SENTENCE 136 ---
+Mean (± standard error) percent cover of (A) hard coral, (B) crustose coralline algae (CCA), (C) turf, and (D) macroalgae plotted against mean (± standard error) War for each island (2010–2019 means).
+
+--- SENTENCE 137 ---
+(B, C) Gray dashed lines show non-significant beta regression model fit for all data, and black lines show significant (solid, p ≤ 0.05) and non-significant (dashed, p > 0.05) beta regression model fit with equatorial and near-equatorial Pacific Remote Island Areas (triangles) removed; neither fit was significant for (A, D).
+
+2012) and last (2016–2019) sampling period for each island, with the exception of a negative relationship between War and CCA that became significant during the last sampling period.
+
+--- SENTENCE 138 ---
+With the equatorial and near-equatorial Pacific Remote Islands (Jarvis, Howland, Baker, Kingman, and Palmyra) removed from analysis, increasing War was linked with significant increases in CCA cover and decreases in turf cover across all three sampling windows and with decreasing macroalgae cover in the last sampling period (2016–2019).
+
+--- SENTENCE 139 ---
+Variability in War was also not significantly related to multivariate benthic cover composition (db-RDA, pseudo-F = 1.45, p = 0.18), coral morphology (pseudo-F = 1.47, p = 0.20), or the composition of major coral genera (pseudo-F = 1.99, p = 0.08; [Figure 4\)](#page-7-0).
+
+## War impacts on net carbonate accretion rates
+
+Reef carbonate accretion rates measured from CAU plates varied across the U.S. Pacific Islands region and showed significant sensitivity to spatial differences in carbonate chemistry conditions ([Supplementary Figures 12,](#page-11-0) 13).
+
+--- SENTENCE 140 ---
+Carbonate accretion rates increased exponentially with increasing War (GLM with logtransformed response variable, estimate = 0.45, SE = 0.16, t = 2.89, R2 = 0.20, p = 0.007; [Figure 5](#page-8-0)), and the model fit improved with the equatorial and near-equatorial Pacific Remote Island Areas (Jarvis, Howland, Baker, Kingman, and Palmyra) removed as outliers (estimate = 0.57, SE = 0.15, t = 3.93, R2 = 0.24, p < 0.0001).
+
+--- SENTENCE 141 ---
+The fastest accretion rates (2010–2019 mean ± standard error = 121.2 ± 8.9 mg cm-2 yr-1) were observed at the highest War site (Rose, mean War = 4.05 ± 0.01), and were consistently high across the other four high-War islands of American Samoa (53.2–99.8 mg cm-2 yr-1).
+
+--- SENTENCE 142 ---
+The slowest accretion rates were observed in the Northwestern Hawaiian Islands at Pearl and Hermes (15.6 ± 1.2 mg cm-2 yr-1; War = 3.51 ± 0.03).
+
+--- SENTENCE 143 ---
+Accretion rates were also very low at Lisianski (24.2 ± 1.21 mg cm-2 yr-1), the island with lowest mean War (War = 2.96 ± 0.03).
+
+--- SENTENCE 144 ---
+Accretion rates in the Mariana Archipelago (22.2–47.6 mg cm-2 yr-1) and main Hawaiian Islands (28.6–51.5 mg cm-2 yr-1) were intermediate.
+
+--- SENTENCE 145 ---
+Carbonate accretion patterns in the Pacific Remote Island Areas were divided by latitude: the central equatorial Pacific Remote Island Areas (Jarvis, Howland, Baker, Kingman, and Palmyra) were among the highest-accreting islands assessed in the Pacific Islands (55.7–71.5 mg cm-2 yr-1), while carbonate accretion rates at the higher-latitude islands (Johnston: 19.1 ± 2.6 mg cm-2 yr-1 and Wake: 17.7 ± 2.4 mg cm-2 yr-1) were among the lowest.
+
+--- SENTENCE 146 ---
+CCA cover was also significantly correlated with net carbonate accretion rates (Pearson's r = 0.71, p < 0.001; [Supplementary Figure 14](#page-11-0)).
+
+--- SENTENCE 147 ---
+<span id="page-7-0"></span>![](_page_7_Figure_1.jpeg)
+
+FIGURE 4 Distance-based redundancy analysis (db-RDA) plots of relationship between War and (A) benthic percent cover, (B) coral morphology, and (C) composition of the five most common Pacific Islands coral genera.
+
+--- SENTENCE 148 ---
+Points show 2010–2019 mean benthic data for each island colored by region, and gray arrows show the non-significant linear vectors of increasing War.
+
+--- SENTENCE 149 ---
+(A) CCA, crustose coralline algae; EMA, encrusting macroalgae; HAL, Halimeda algae; MA, macroalgae; SED, sediment.
+
+--- SENTENCE 150 ---
+# Discussion
+
+A decade of co-located biogeochemical and benthic data collected in the U.S. Pacific Islands reveal stable, regional-scale spatial patterns in the mean carbonate chemistry of nearshore coral reef environments.
+
+--- SENTENCE 151 ---
+These data also show a strong gradient in mean War (War = 2.96–4.05) that spans the high-War reefs of American Samoa to the lower-War conditions present in the Hawaiian Archipelago and Pacific Remote Island Areas.
+
+--- SENTENCE 152 ---
+This gradient in War is driven by spatial variability in temperature, salinity, total alkalinity, and dissolved inorganic carbon, which previous basin-scale analyses have shown are in turn influenced by regional-scale differences in physical (precipitation/ evaporation, air-sea exchange of CO2), oceanographic (upwelling, vertical mixing), and biological (photosynthesis/ respiration, calcification/dissolution) processes ([Feely et al.,](#page-11-0)
+
+--- SENTENCE 153 ---
+[Kuchinke et al., 2014](#page-12-0)).
+
+--- SENTENCE 154 ---
+Regional spatial patterns in War derived from in situ samples are broadly consistent with Pacific climatology (e.g., the Global Ocean Data Analysis Project, [Lauvset et al., 2016](#page-12-0)), although nearshore War values are generally depressed relative to offshore climatological estimates due to coral reef biological activity [\(Figure 1](#page-2-0)).
+
+--- SENTENCE 155 ---
+Most of the samples and surveys conducted as part of this study occurred on the fore reef; the steep bathymetric slopes of most Pacific Islands [\(Gove et al., 2016](#page-11-0)) lead to shallow waters (0– 30 m) on the fore reef that are generally well-flushed, wellmixed, and minimally variable during diurnal hours.
+
+--- SENTENCE 156 ---
+However, NCRMP water chemistry monitoring data highlight the reef systems where localized oceanographic, hydrodynamic, and/or biological processes uniquely impact nearshore carbonate chemistry.
+
+--- SENTENCE 157 ---
+For example, in the Northwestern Hawaiian Islands, upwelling and internal waves drive low and variable War, particularly at Pearl and Hermes ([Vroom and Braun, 2010\)](#page-13-0).
+
+--- SENTENCE 158 ---
+In addition, long residence times of seawater pooled on
+
+<span id="page-8-0"></span>![](_page_8_Figure_1.jpeg)
+
+FIGURE 5
+
+Mean ( $\pm$  standard error) in situ  $\Omega_{ar}$  plotted against mean net calcium carbonate accretion rates measured from Calcification Accretion Units (CAUs) for 31 Pacific Islands from 2010–2019, shown with significant fitted exponential relationships between  $\Omega_{ar}$  and accretion rates for all islands (gray line) and with equatorial and near-equatorial Pacific Remote Island Areas (triangles) removed (black line).
+
+--- SENTENCE 159 ---
+Lisianski's shallow Neva Shoals likely magnify calcification and respiration driven draw down of  $\Omega_{\rm ar}$ , producing unusually low  $\Omega_{\rm ar}$  values within the Northwestern Hawaiian Islands (e.g., Shamberger et al., 2014; Silbiger et al., 2017).
+
+--- SENTENCE 160 ---
+In the equatorial Pacific Remote Island Areas of Jarvis, Howland, and Baker, combined equatorial upwelling and topographic upwelling of the Equatorial Undercurrent produce cool, low- $\Omega_{\rm ar}$ , and high-nutrient nearshore environments (Gove et al., 2006).
+
+--- SENTENCE 161 ---
+Interannual variability in the El Niño Southern Oscillation (ENSO) dynamically changes oceanographic conditions on these reefs, shifting between low- $\Omega_{\rm ar}$  during La Niña periods when upwelling of cool, low- $\Omega_{\rm ar}$  during La Niña periods when upwelling of cool, low- $\Omega_{\rm ar}$  during El Niño events (e.g., 2010) when upwelling weakens and temperatures and  $\Omega_{\rm ar}$  rise (Barkley et al., 2018).
+
+--- SENTENCE 162 ---
+Over the ten years and four sampling periods covered in this analysis, only minimal variance in carbonate chemistry was attributable to temporal factors.
+
+--- SENTENCE 163 ---
+This demonstrates that the strong spatial patterns in carbonate chemistry were relatively stable inter-annually in most regions between 2010 and 2019, with the exception of the ENSO-influenced Pacific Remote Island Areas.
+
+--- SENTENCE 164 ---
+NCRMP discrete water chemistry data collected at each island over a few days once every one to three years - represent a snapshot of reef conditions during daylight hours and can be used to estimate climatological conditions at each island when averaged across multiple sampling years.
+
+--- SENTENCE 165 ---
+Critically, however, these data cannot be used as robust evidence for or against a significant linear change in  $\Omega_{\rm ar}$  during this time period, such as a decline in  $\Omega_{\rm ar}$  predicted under ocean acidification.
+
+--- SENTENCE 166 ---
+Longer, higher-resolution time series, such as those from pCO2 moorings, are required to accurately detect and resolve ocean acidification amidst the tidal, diel, seasonal, and inter-annual variability that is present in highly dynamic nearshore coral reef waters (Sutton et al., 2014; Sutton et al., 2019).
+
+--- SENTENCE 167 ---
+Currently, Moored Autonomous pCO<sub>2</sub> (MAPCO2) buoys are deployed at two NCRMP permanent sites in the U.S. Pacific (Kāne'ohe Bay, O'ahu, Hawai'i and Fagatele Bay, Tutuila, American Samoa), and time series data generated from these moorings will provide important insights into the progression of pH change in nearshore waters over the next several decades (Terlouw et al., 2019).
+
+--- SENTENCE 168 ---
+Despite the gradient in  $\Omega_{ar}$  across the U.S. Pacific Islands, most of the island-scale benthic cover metrics assessed in this study were not strongly driven by spatial differences in  $\Omega_{ar}$ .
+
+--- SENTENCE 169 ---
+Island-scale benthic community composition, including cover of reef calcifiers (corals and CCA) and algae, coral morphological composition, and the composition of major coral genera were not significantly related to mean  $\Omega_{ar}$  levels across all regions.
+
+--- SENTENCE 170 ---
+Removing the equatorial and near-equatorial Pacific Remote Island Areas from analysis did result in significant relationships between  $\Omega_{ar}$  and cover of CCA and turf algae, where CCA cover increased and turf algae cover decreased in areas of lower  $\Omega_{ar}$ .
+
+--- SENTENCE 171 ---
+This may be indicative of a potential transition from higher CCA cover at higher- $\Omega_{ar}$  toward more abundant turf algae at lower- $\Omega_{ar}$  in some non-equatorial regions.
+
+--- SENTENCE 172 ---
+Both coral and fleshy macroalgae cover remained unresponsive to  $\Omega_{ar}$  across all analyses considered, suggesting that the cover of these benthic groups is less responsive to decreasing  $\Omega_{ar}$ .
+
+--- SENTENCE 173 ---
+Together, these observed responses provide some evidence of a possible link between carbonate chemistry and benthic composition.
+
+--- SENTENCE 174 ---
+However, it is more likely that  $\Omega_{\rm ar}$  is not a simple, dominant driver of most benthic metrics over this range in  $\Omega_{\rm ar}$  and at the spatial and temporal scales analyzed here.
+
+--- SENTENCE 175 ---
+Furthermore, other environmental and ecological factors (e.g., temperature, productivity, light, wave exposure, anthropogenic impacts) likely have a stronger influence — particularly in the upwelling-influenced Pacific Remote Island Areas — in shaping coral reef communities across the U.S. Pacific Islands region.
+
+--- SENTENCE 176 ---
+Considered across a basin-scale carbonate chemistry gradient, the coral reefs of the U.S. Pacific Islands exhibit few of the benthic community responses that are often reported
+
+across other natural acidification gradients.
+
+--- SENTENCE 177 ---
+Although not observed here, decreasing War has been linked to lower hard coral cover in some [\(Manzello et al., 2008;](#page-12-0)
+
+--- SENTENCE 178 ---
+[Crook et al., 2012](#page-11-0); [Inoue et al., 2013](#page-12-0); [Enochs et al., 2015\)](#page-11-0), but not all ([Fabricius](#page-11-0)
+
+--- SENTENCE 179 ---
+[et al., 2011](#page-11-0); [Barkley et al., 2015;](#page-11-0)
+
+--- SENTENCE 180 ---
+[Enochs et al., 2020](#page-11-0)), locations.
+
+--- SENTENCE 181 ---
+Declines in CCA cover [\(Fabricius et al., 2011](#page-11-0);
+
+--- SENTENCE 182 ---
+[Smith et al., 2020\)](#page-12-0), increasing macroalgae cover ([Fabricius](#page-11-0)
+
+--- SENTENCE 183 ---
+[et al., 2011](#page-11-0); [Enochs et al., 2015](#page-11-0); [Smith et al., 2020\)](#page-12-0), and decreasing abundance of complex coral morphologies ([Fabricius et al., 2011](#page-11-0);
+
+--- SENTENCE 184 ---
+[Strahl et al., 2016\)](#page-12-0) at low-War are also common, but these benthic community trends are not consistently present in the U.S. Pacific Islands during the 2010–2019 time period.
+
+--- SENTENCE 185 ---
+Evidence of Porites coral tolerance of lower-War levels ([Fabricius et al., 2011;](#page-11-0)
+
+--- SENTENCE 186 ---
+[Crook et al., 2012](#page-11-0); [Barkley et al., 2015;](#page-11-0)
+
+--- SENTENCE 187 ---
+[Enochs et al., 2015](#page-11-0); [Strahl et al., 2016](#page-12-0)) was the only benthic community response variable that emerged as a shared benthic community response across this and other gradient studies.
+
+--- SENTENCE 188 ---
+None of these systems are perfect analogs for future ocean acidification, and differences in spatial and temporal scales analyzed, divergent mechanisms for localized acidification, co-variance with other environmental factors, and variation in adaptive capacity likely confound a unified benthic community signal to acidified conditions.
+
+--- SENTENCE 189 ---
+Moreover, because the range of the War gradient (War = 2.96–4.05) is still less extreme than at most of these sites, it is also possible that current War levels across the U.S. Pacific Islands have not yet exceeded the threshold beyond which these major benthic community shifts are expected to occur.
+
+--- SENTENCE 190 ---
+In contrast to the few significant changes in coral reef community composition, net carbonate accretion rates decreased exponentially over the range of mean War experienced by benthic communities, showing the most sensitivity of any ecosystem response we observed across the U.S. Pacific Islands carbonate chemistry gradient.
+
+--- SENTENCE 191 ---
+Net accretion rates derived from CAUs largely reflect calcification rates of CCA (Vargas-Á [ngel et al., 2015\)](#page-12-0).
+
+--- SENTENCE 192 ---
+Our field observations thus support the results of many experimental studies that have demonstrated that CCA is likely to be among the coral reef taxa most susceptible to ocean acidification.
+
+--- SENTENCE 193 ---
+This elevated sensitivity is due to the calcified algae's highly soluble, high Mg-calcite skeletons that dissolve more rapidly under acidified conditions than aragonitic coral skeletons, which can in turn reduce productivity, calcification, recruitment, and abundance ([Kuffner et al., 2008;](#page-12-0)
+
+--- SENTENCE 194 ---
+[Diaz-Pulido et al., 2014](#page-11-0);
+
+--- SENTENCE 195 ---
+[Fabricius et al., 2015](#page-11-0); [Dutra et al., 2016](#page-11-0); [Manning et al.,](#page-12-0)
+
+--- SENTENCE 196 ---
+As CCA plays an important ecological role in both reef cementation and coral recruitment ([Price, 2010;](#page-12-0)
+
+--- SENTENCE 197 ---
+[2019\)](#page-12-0), their vulnerability to ocean acidification will likely also threaten future reef ecosystem persistence.
+
+--- SENTENCE 198 ---
+Carbonate accretion rate data derived from CAUs serve as a proxy for rates of reef ecosystem net carbonate production.
+
+--- SENTENCE 199 ---
+Caution should be applied in scaling up these observations, as calcifier recruits to CAU settlement plates may not reflect community structure in the adjacent benthos and reef accretion rates can vary across depths and reef zones ([Vargas-](#page-12-0)Á
+
+--- SENTENCE 200 ---
+[ngel et al., 2015](#page-12-0); [Johnson et al., 2022](#page-12-0); [Kench et al., 2022\)](#page-12-0).
+
+--- SENTENCE 201 ---
+Nevertheless, reef-scale rates of net ecosystem calcification have been shown to similarly track with War ([DeCarlo et al., 2017\)](#page-11-0), demonstrating that net carbonate production may be a leading indicator of coral reef community responses to ocean acidification.
+
+--- SENTENCE 202 ---
+Across the Pacific Islands, accretion rates were generally higher at islands with higher cover of CCA.
+
+--- SENTENCE 203 ---
+Yet, the lower net accretion rates observed with decreasing War were not directly reflected in the cover of reef calcifiers.
+
+--- SENTENCE 204 ---
+Together, these observations suggest that patterns in benthic cover and composition potentially lag or are decoupled from trends in reef carbonate accretion rates ([Page et al., 2017](#page-12-0)).
+
+--- SENTENCE 205 ---
+The analysis presented here focuses specifically on carbonate chemistry as a driver of coral reef benthic composition and function.
+
+--- SENTENCE 206 ---
+However, War is one of several environmental and anthropogenic drivers, including sea surface temperature (and thermal stress), productivity, and human population density, that co-vary across the U.S. Pacific Islands region and impact coral reef communities
+
+--- SENTENCE 207 ---
+[\(Williams et al., 2015](#page-13-0); [Smith et al., 2016\)](#page-12-0).
+
+--- SENTENCE 208 ---
+Given the lack of a strong relationship between carbonate chemistry and most benthic response variables over the carbonate chemistry gradient examined, it is likely that these factors have a greater impact than War in shaping benthic community composition than War alone, either independently or in combination.
+
+--- SENTENCE 209 ---
+This is especially likely in the equatorial Pacific Remote Island Areas, where carbonate accretion rates are higher than might be expected based solely on War levels and where calcification rates are likely enhanced by the upwelling of high-nutrient water [\(Gove et al., 2006;](#page-12-0)
+
+--- SENTENCE 210 ---
+[Silverman et al., 2007;](#page-12-0)
+
+--- SENTENCE 211 ---
+[Johnson et al., 2020\)](#page-12-0).
+
+--- SENTENCE 212 ---
+Bleaching events occurred in all U.S. Pacific Islands regions, but not at all islands, between 2010 and 2019.
+
+--- SENTENCE 213 ---
+Particularly severe impacts were documented in the Pacific Remote Island Areas (Vargas-Á [ngel et al., 2011](#page-12-0);
+
+--- SENTENCE 214 ---
+[Barkley et al., 2018](#page-11-0);
+
+--- SENTENCE 215 ---
+[2018](#page-11-0); Vargas-Á [ngel et al., 2019](#page-12-0)), Hawaiian Archipelago
+
+--- SENTENCE 216 ---
+[Couch et al., 2017](#page-11-0); [Winston et al., 2022\)](#page-13-0), Guam [\(Raymundo et al., 2019](#page-12-0)), and the Northern Mariana Islands [\(Carilli et al., 2020](#page-11-0)).
+
+--- SENTENCE 217 ---
+The stable, insignificant relationship between benthic cover and War during the past decade suggests that these recent heat stress events have not yet influenced the relationship between carbonate chemistry and the benthos.
+
+--- SENTENCE 218 ---
+However, this state is unlikely to persist.
+
+--- SENTENCE 219 ---
+Increasingly frequent and severe episodic marine heatwaves over the next few decades are predicted to directly drive declines in both coral cover and net carbonate production
+
+--- SENTENCE 220 ---
+[\(Cornwall et al., 2021\)](#page-11-0).
+
+--- SENTENCE 221 ---
+While ocean acidification may not ultimately be the dominant driver of future reef states, it may act chronic stressor that reduces coral calcification rates, calcifier productivity, and reef structural integrity, thus amplifying reef sensitivity to warming and/or hindering ecosystem recovery potential following bleaching events
+
+--- SENTENCE 222 ---
+[\(Klein et al., 2022](#page-12-0)).
+
+--- SENTENCE 223 ---
+Overall, these results suggest that the most immediate and significant impacts of ocean acidification may become evident first in reef community processes (e.g., calcification and accretion rates) rather than in benthic cover and composition.
+
+--- SENTENCE 224 ---
+Especially when considered at the island scale, these common ecological metrics are not as clearly linked to shifts in carbonate chemistry.
+
+--- SENTENCE 225 ---
+Future targeted monitoring efforts should consider prioritizing metrics of coral reef ecosystem sensitivity to ocean acidification that include estimates of net community carbonate production and erosion — using networks of CAUs, hydrochemical approaches, and/or census-based carbonate budgets (
+
+--- SENTENCE 226 ---
+[Courtney et al., 2016](#page-11-0); [Lange et al., 2020](#page-12-0)) — to more robustly characterize reef function under changing carbonate chemistry conditions.
+
+--- SENTENCE 227 ---
+Tracking these more sensitive reef community processes can help identify areas of vulnerability or resilience in coral reef communities.
+
+--- SENTENCE 228 ---
+In addition, strategic and sustained monitoring of these parameters can provide early warning of progressive ocean acidification impacts on coral reefs, and thus increase the number of potential interventions and time available to initiate proactive management prior to major shifts in benthic community structure.
+
+--- SENTENCE 229 ---
+# Data availability statement
+
+--- SENTENCE 230 ---
+The data included in this study are summarized in the Supplementary Material and archived in online repositories at NOAA's National Centers for Environmental Information [\(https://](https://www.ncei.noaa.gov/)
+
+--- SENTENCE 231 ---
+[www.ncei.noaa.gov/\)](https://www.ncei.noaa.gov/) under the following accession numbers: 0157714, 0157715, 0157716, 0159169, 0159171, 0160330, 0175227, 0175228, 0175229, 0175230, 0225980, 0226794, 0226976, 0232262 (carbonate chemistry); 0157752, 0159140, 0159148, 0159158, 0159165, 0164295, 0176560, 0176574, 0217940 (benthic composition); 0157722, 0157758, 0159149, 0159151, 0159156, 0175165, 0175166, 0175167, 0231439, 0233019, 0255269 (carbonate accretion).
+
+--- SENTENCE 232 ---
+# Author contributions
+
+Over the period of the project, HB and TO acted as successive Principal Investigators of the synthesis project.
+
+--- SENTENCE 233 ---
+As a team, they conceived, designed and performed initial synthesis analyses.
+
+--- SENTENCE 234 ---
+HB further acted as primary author of the manuscript and led data analysis and writing.
+
+--- SENTENCE 235 ---
+TO secured funding and contributed to and edited the manuscript.
+
+--- SENTENCE 236 ---
+CY and RB conceived the project survey and sampling design.
+
+--- SENTENCE 237 ---
+HB, TO, AH, NP, CY, and CC collected field data.
+
+--- SENTENCE 238 ---
+HB and JNS were responsible for the processing, analysis, management, and archival of carbonate chemistry data.
+
+--- SENTENCE 239 ---
+CC provided benthic data.
+
+--- SENTENCE 240 ---
+AH and RW were responsible for laboratory analysis and management of carbonate accretion data.
+
+--- SENTENCE 241 ---
+HB and TO conducted statistical analysis.
+
+--- SENTENCE 242 ---
+RB and JCS assisted with overall project management.
+
+--- SENTENCE 243 ---
+All authors contributed to the article and approved the submitted version.
+
+--- SENTENCE 244 ---
+## Funding
+
+This work was funded by the NOAA Ocean Acidification Program and the NOAA Coral Reef Conservation Program (project #743), as part of the NOAA National Coral Reef Monitoring Program.
+
+--- SENTENCE 245 ---
+# Acknowledgments
+
+We thank the officers and crew of the NOAA Ships Hiʻialakai, Oscar Elton Sette, and Rainier for providing operational support for Pacific RAMP/NCRMP missions, as well as the numerous NOAA scientific staff and partners who have collected field data over a decade of long-term coral reef monitoring surveys.
+
+--- SENTENCE 246 ---
+We thank Kevin Trick, Annette DesRochers, Michael Akridge, and Brooke Olenski for extensive assistance with the management, quality control, and archival of data; Dana Greeley, Morgan Ostendorf, Julian Herndon, and Simone Alin for conducting laboratory analysis of carbonate chemistry samples; and Brittany Huntington and Bernardo Vargas-Á ngel for advice on benthic data analysis and interpretation.
+
+--- SENTENCE 247 ---
+Pacific RAMP/NCRMP ocean acidification sampling design, survey methodologies, and early data collection were designed, developed, and implemented with input from Richard Feely, Christopher Sabine, Elizabeth Jewett, Adrienne Sutton, Simone Alin, and in close collaboration with the NOAA Ocean Acidification Program and NOAA Coral Reef Conservation Program.
+
+--- SENTENCE 248 ---
+We also acknowledge the many partner agencies — including the Papahānaumokuākea Marine National Monument, Pacific Remote Islands Marine National Monument, Rose Atoll Marine National Monument, Marianas Trench Marine National Monument, US Fish and Wildlife Service, US National Park Service, American Samoa Department of Marine and Wildlife Resources, National Marine Sanctuary of American Samoa, State of Hawaii Department of Land and Natural Resources, Commonwealth of the Northern Mariana Islands (CNMI)
+
+--- SENTENCE 249 ---
+Division of Fish and Wildlife, CNMI Division of Coastal Resources Management, and Guam Division of Aquatic and Wildlife Resources — who have supported field operations, provided input on research priorities, and granted research permits to collect the data presented here.
+
+## <span id="page-11-0"></span>Conflict of interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+#### Publisher's note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated
+
+organizations, or those of the publisher, the editors and the reviewers.
+
+--- SENTENCE 250 ---
+Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+## Supplementary material
+
+The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fmars.2022.991685/full#supplementary-material
+
+#### References
+
+Ayotte, P., McCoy, K., Heenan, A., Williams, I., and Zamzow, J. (2015).
+
+--- SENTENCE 251 ---
+Coral reef ecosystem program standard operating procedures: Data collection for rapid ecological assessment fish surveys.
+
+--- SENTENCE 252 ---
+Honolulu: U.S. Department of Commerce, National Oceanic and Atmospheric Administration.
+
+--- SENTENCE 253 ---
+Barkley, H. C., Cohen, A. L., Golbuu, Y., Starczak, V. R., DeCarlo, T. M., and Shamberger, K. E. F. (2015).
+
+--- SENTENCE 254 ---
+Changes in coral reef communities across a natural gradient in seawater pH. *Sci.
+
+--- SENTENCE 255 ---
+doi: 10.1126/sciadv.1500328
+
+Barkley, H. C., Cohen, A. L., Mollica, N. R., Brainard, R. E., Rivera, H. E., DeCarlo, T. M., et al. (2018).
+
+--- SENTENCE 256 ---
+Repeat bleaching of a central pacific coral reef over the past six decades, (1960–2016).
+
+--- SENTENCE 257 ---
+doi: 10.1038/s42003-018-0183-7
+
+Barkley, H. C., Halperin, A. A., Smith, J. N., Weible, R., and Pomeroy, N. (2021).
+
+--- SENTENCE 258 ---
+National coral reef monitoring program: Dissolved inorganic carbon, total alkalinity, pH and other variables collected from surface discrete measurements using coulometer, alkalinity titrator and other instruments from the Hawaiian archipelago, from 2019-04-21 to 2019-09-05 (NCEI Accession 0226794).
+
+--- SENTENCE 259 ---
+National Oceanic and Atmospheric Administration, National Centers for Environmental Information.
+
+--- SENTENCE 260 ---
+Available at: <a href="https://www.ncei.noaa.gov/data/oceans/ncei/ocads/metadata/0226794.html">https://www.ncei.noaa.gov/data/oceans/ncei/ocads/metadata/0226794.html</a>.
+
+--- SENTENCE 261 ---
+Bates, N. R., Astor, Y. M., Church, M. J., Currie, K., Dore, J. E., Gonzalez-Davila, M., et al. (2014).
+
+--- SENTENCE 262 ---
+A time-series view of changing surface ocean chemistry due to ocean uptake of anthropogenic  $CO_2$  and ocean acidification.
+
+--- SENTENCE 263 ---
+doi: 10.5670/oceanog.2014.16
+
+Beijbom, O., Edmunds, P. J., Roelfsema, C., Smith, J., Kline, D. I., Neal, B. P., et al. (2015).
+
+--- SENTENCE 264 ---
+Towards automated annotation of benthic survey images: Variability of human experts and operational modes of automation.
+
+--- SENTENCE 265 ---
+e0130312. doi: 10.1371/journal.pone.0130312
+
+Brainard, R. E., Oliver, T., McPhaden, M. J., Cohen, A., Venegas, R., Heenan, A., et al. (2018).
+
+--- SENTENCE 266 ---
+*Ecological impacts of the 2015/16 El niño in the central equatorial pacific.
+
+--- SENTENCE 267 ---
+doi: 10.1175/BAMS-D-17-0128.1
+
+Carilli, J. E., Bolick, L., Marx, D. E., Smith, S. H., and Fenner, D. (2020).
+
+--- SENTENCE 268 ---
+Coral bleaching variability during the 2017 global bleaching event on a remote, uninhabited island in the western pacific: Farallon de medinilla, commonwealth of the northern Mariana islands.
+
+--- SENTENCE 269 ---
+Mar. Sci.* 96, 785–802.
+
+--- SENTENCE 270 ---
+doi: 10.5543/bms.2019.0083
+
+Chan, N. C. S., and Connolly, S. R. (2013).
+
+--- SENTENCE 271 ---
+Sensitivity of coral calcification to ocean acidification: A meta-analysis.
+
+--- SENTENCE 272 ---
+doi: 10.1111/gcb.12011
+
+Cornwall, C. E., Comeau, S., Kornder, N. A., Perry, C. T., van Hooidonk, R., DeCarlo, T. M., et al. (2021).
+
+--- SENTENCE 273 ---
+Global declines in coral reef calcium carbonate production under ocean acidification and warming.
+
+--- SENTENCE 274 ---
+doi: 10.1073/pnas.2015265118
+
+Couch, C. S., Burns, J. H. R., Liu, G., Steward, K., Gutlay, T. N., Kenyon, J., et al. (2017).
+
+--- SENTENCE 275 ---
+Mass coral bleaching due to unprecedented marine heatwave in papahānaumokuākea marine national monument (Northwestern Hawaiian islands).
+
+--- SENTENCE 276 ---
+*PLoS One* 12, e0185121.
+
+--- SENTENCE 277 ---
+doi: 10.1371/journal.pone.0185121
+
+Courtney, T. A., Andersson, A. J., Bates, N. R., Collins, A., Cyronak, T., de Putron, S. J., et al. (2016).
+
+--- SENTENCE 278 ---
+Comparing chemistry and census-based estimates of net ecosystem calcification on a rim reef in Bermuda.
+
+--- SENTENCE 279 ---
+Mar. Sci.* 3, 181.
+
+--- SENTENCE 280 ---
+doi: 10.3389/fmars.2016.00181
+
+Cribari-Neto, F., and Zeileis, A. (2010).
+
+--- SENTENCE 281 ---
+Beta regression in r. J. Stat.
+
+--- SENTENCE 282 ---
+doi: 10.18637/jss.v034.i02
+
+Crook, E. D., Potts, D., Rebolledo-Vieyra, M., Hernandez, L., and Paytan, A. (2012).
+
+--- SENTENCE 283 ---
+Calcifying coral abundance near low-pH springs: Implications for future ocean acidification.
+
+--- SENTENCE 284 ---
+*Coral Reefs* 31, 239–245.
+
+--- SENTENCE 285 ---
+doi: 10.1007/s00338-011-0839-y
+
+DeCarlo, T. M., Cohen, A. L., Wong, G. T. F., Shiah, F.-K., Lentz, S. J., Davis, K. A., et al. (2017).
+
+--- SENTENCE 286 ---
+Community production modulates coral reef pH and the sensitivity of ecosystem calcification to ocean acidification.
+
+--- SENTENCE 287 ---
+doi: 10.1002/2016JC012326
+
+Diaz-Pulido, G., Nash, M. C., Anthony, K. R. N., Bender, D., Opdyke, B. N., Reyes-Nivia, C., et al. (2014).
+
+--- SENTENCE 288 ---
+Greenhouse conditions induce mineralogical changes and dolomite accumulation in coralline algae on tropical reefs.
+
+--- SENTENCE 289 ---
+doi: 10.1038/ncomms4310
+
+Dickson, A. G., Sabine, C. L., and Christian, J. R. (2007).
+
+--- SENTENCE 290 ---
+Guide to best practices for ocean CO2 measurements.
+
+--- SENTENCE 291 ---
+Doney, S. C., Fabry, V. J., Feely, R. A., and Kleypas, J. A. (2009).
+
+--- SENTENCE 292 ---
+Ocean acidification: The other CO2 problem.
+
+--- SENTENCE 293 ---
+Rev. Mar. Sci.* 1, 169–192.
+
+--- SENTENCE 294 ---
+doi: 10.1146/annurev.marine.010908.163834
+
+Dore, J. E., Lukas, R., Sadler, D. W., Church, M. J., and Karl, D. M. (2009).
+
+--- SENTENCE 295 ---
+Physical and biogeochemical modulation of ocean acidification in the central north pacific.
+
+--- SENTENCE 296 ---
+doi: 10.1073/pnas.0906044106
+
+Dutra, E., Koch, M., Peach, K., and Manfrino, C. (2016).
+
+--- SENTENCE 297 ---
+Tropical crustose coralline algal individual and community responses to elevated pCO2 under high and low irradiance.
+
+--- SENTENCE 298 ---
+*ICES J. Mar. Sci.* 73, 803–813.
+
+--- SENTENCE 299 ---
+doi: 10.1093/icesjms/fsv213
+
+Enochs, I. C., Formel, N., Manzello, D., Morris, J., Mayfield, A. B., Boyd, A., et al. (2020).
+
+--- SENTENCE 300 ---
+Coral persistence despite extreme periodic pH fluctuations at a volcanically acidified Caribbean reef.
+
+--- SENTENCE 301 ---
+*Coral Reefs* 39, 523–528.
+
+--- SENTENCE 302 ---
+doi: 10.1007/s00338-020-01927-5
+
+Enochs, I. C., Manzello, D. P., Donham, E. M., Kolodziej, G., Okano, R., Johnston, L., et al. (2015).
+
+--- SENTENCE 303 ---
+Shift from coral to macroalgae dominance on a volcanically acidified reef.
+
+--- SENTENCE 304 ---
+Clim Change* 5, 1083–1088.
+
+--- SENTENCE 305 ---
+doi: 10.1038/nclimate2758
+
+Fabricius, K. E., Kluibenschedl, A., Harrington, L., Noonan, S., and De'ath, G. (2015).
+
+--- SENTENCE 306 ---
+*In situ* changes of tropical crustose coralline algae along carbon dioxide gradients.
+
+--- SENTENCE 307 ---
+doi: 10.1038/srep09537
+
+Fabricius, K. E., Langdon, C., Uthicke, S., Humphrey, C., Noonan, S., De'ath, G., et al. (2011).
+
+--- SENTENCE 308 ---
+Losers and winners in coral reefs acclimatized to elevated carbon dioxide concentrations.
+
+--- SENTENCE 309 ---
+Clim Change* 1, 165–169.
+
+--- SENTENCE 310 ---
+doi: 10.1038/nclimate1122
+
+Feely, R. A., Boutin, J., Cosca, C. E., Dandonneau, Y., Etcheto, J., Inoue, H. Y., et al. (2002).
+
+--- SENTENCE 311 ---
+Seasonal and interannual variability of CO2 in the equatorial pacific.
+
+--- SENTENCE 312 ---
+doi: 10.1016/S0967-0645 (02)00044-9
+
+Feely, R. A., Wanninkhof, R., Stein, J. E., Sigler, M. F., Jewett, E. B., Arzayus, L. F., et al. (2010).
+
+--- SENTENCE 313 ---
+NOAA Ocean and Great Lakes Acidification Research Plan.
+
+--- SENTENCE 314 ---
+Washington DC, U.S. Department of Commerce, National Oceanic and Atmospheric Administration.
+
+--- SENTENCE 315 ---
+Gattuso, J.-P., Epitalon, J.-M., Lavigne, H., and Orr, J. (2020).
+
+--- SENTENCE 316 ---
+Seacarb: Seawater Carbonate Chemistry.
+
+--- SENTENCE 317 ---
+R Package Version 3.2.13.
+
+--- SENTENCE 318 ---
+Gove, J. M., McManus, M. A., Neuheimer, A. B., Polovina, J. J., Drazen, J. C., Smith, C. R., et al. (2016).
+
+--- SENTENCE 319 ---
+Near-island biological hotspots in barren ocean basins.
+
+--- SENTENCE 320 ---
+doi: 10.1038/ncomms10581
+
+<span id="page-12-0"></span>Gove, J. M., Merrifield, M. A., and Brainard, R. E. (2006).
+
+--- SENTENCE 321 ---
+Temporal variability of current-driven upwelling at Jarvis island.
+
+--- SENTENCE 322 ---
+doi: 10.1029/2005JC003161
+
+Hoegh-Guldberg, O., Mumby, P. J., Hooten, A. J., Steneck, R. S., Greenfield, P., Gomez, E., et al. (2007).
+
+--- SENTENCE 323 ---
+Coral reefs under rapid climate change and ocean acidification.
+
+--- SENTENCE 324 ---
+doi: 10.1126/science.1152509
+
+Hoegh-Guldberg, O., Poloczanska, E. S., Skirving, W., and Dove, S. (2017).
+
+--- SENTENCE 325 ---
+Coral reef ecosystems under climate change and ocean acidification.
+
+--- SENTENCE 326 ---
+Mar. Sci.* 4, 158.
+
+--- SENTENCE 327 ---
+doi: 10.3389/fmars.2017.00158
+
+Inoue, S., Kayanne, H., Yamamoto, S., and Kurihara, H. (2013).
+
+--- SENTENCE 328 ---
+Spatial community shift from hard to soft corals in acidified water.
+
+--- SENTENCE 329 ---
+Clim Change* 3, 683–687.
+
+--- SENTENCE 330 ---
+doi: 10.1038/nclimate1855
+
+Jewett, E. B., Osbourne, E. B., Arzayus, K. M., Osgood, K., DeAngelo, J., and Mintz, J. M. (2020) NOAA Ocean, coastal, and great lakes acidification research plan: 2020-2029.
+
+--- SENTENCE 331 ---
+Available at: https://oceanacidification.noaa.gov/ResearchPlan2020.
+
+Johnson, M. D., Fox, M. D., Kelly, E. L. A., Zgliczynski, B. J., Sandin, S. A., and Smith, J. E. (2020).
+
+--- SENTENCE 332 ---
+Ecophysiology of coral reef primary producers across an upwelling gradient in the tropical central pacific.
+
+--- SENTENCE 333 ---
+*PLoS One* 15, e0228448.
+
+--- SENTENCE 334 ---
+doi: 10.1371/journal.pone.0228448
+
+Johnson, M. D., Price, N. N., and Smith, J. E. (2022).
+
+--- SENTENCE 335 ---
+Calcification accretion units (CAUs): A standardized approach for quantifying recruitment and calcium carbonate accretion in marine habitats.
+
+--- SENTENCE 336 ---
+doi: 10.1111/2041-210X.13867
+
+Kench, P. S., Beetham, E. P., Turner, T., Morgan, K. M., Owen, S. D., and McLean, R. F. (2022).
+
+--- SENTENCE 337 ---
+Sustained coral reef growth in the critical wave dissipation zone of a maldivian atoll.
+
+--- SENTENCE 338 ---
+doi: 10.1038/s43247-021-00338-w
+
+Klein, S. G., Geraldi, N. R., Anton, A., Schmidt-Roach, S., Ziegler, M., Cziesielski, M. J., et al. (2022).
+
+--- SENTENCE 339 ---
+Projecting coral responses to intensifying marine heatwaves under ocean acidification.
+
+--- SENTENCE 340 ---
+doi: 10.1111/gcb.15818
+
+Kohler, K. E., and Gill, S. M. (2006).
+
+--- SENTENCE 341 ---
+Coral point count with excel extensions (CPCe): A visual basic program for the determination of coral and substrate coverage using random point count methodology.
+
+--- SENTENCE 342 ---
+doi: 10.1016/j.cageo.2005.11.009
+
+Kramer, K. L., Cotton, S. P., Lamson, M. R., and Walsh, W. J. (2016).
+
+--- SENTENCE 343 ---
+Bleaching and catastrophic mortality of reef-building corals along west hawai'i island: findings and future directions.
+
+--- SENTENCE 344 ---
+In *Proceedings of the 13th International Reef Symposium*.
+
+--- SENTENCE 345 ---
+Kroeker, K. J., Kordas, R. L., Crim, R., Hendriks, I. E., Ramajo, L., Singh, G. S., et al. (2013).
+
+--- SENTENCE 346 ---
+Impacts of ocean acidification on marine organisms: quantifying sensitivities and interaction with warming.
+
+--- SENTENCE 347 ---
+doi: 10.1111/gcb.12179
+
+Kroeker, K. J., Kordas, R. L., Crim, R. N., and Singh, G. G. (2010).
+
+--- SENTENCE 348 ---
+Meta-analysis reveals negative yet variable effects of ocean acidification on marine organisms.
+
+--- SENTENCE 349 ---
+doi: 10.1111/j.1461-0248.2010.01518.x
+
+Kuchinke, M., Tilbrook, B., and Lenton, A. (2014).
+
+--- SENTENCE 350 ---
+Seasonal variability of aragonite saturation state in the Western pacific.
+
+--- SENTENCE 351 ---
+doi: 10.1016/j.marchem.2014.01.001
+
+Kuffner, I. B., Andersson, A. J., Jokiel, P. L., Rodgers, K. S., and Mackenzie, F. T. (2008).
+
+--- SENTENCE 352 ---
+Decreased abundance of crustose coralline algae due to ocean acidification.
+
+--- SENTENCE 353 ---
+doi: 10.1038/ngeo100
+
+Kwiatkowski, L., Torres, O., Bopp, L., Aumont, O., Chamberlain, M., Christian, J. R., et al. (2020).
+
+--- SENTENCE 354 ---
+Twenty-first century ocean warming, acidification, deoxygenation, and upper-ocean nutrient and primary production decline from CMIP6 model projections.
+
+--- SENTENCE 355 ---
+doi: 10.5194/bg-17-3439-2020
+
+Lange, I. D., Perry, C. T., and Alvarez-Filip, L. (2020).
+
+--- SENTENCE 356 ---
+Carbonate budgets as indicators of functional reef "health": A critical review of data underpinning census-based methods and current knowledge gaps.
+
+--- SENTENCE 357 ---
+doi: 10.1016/j.ecolind.2019.105857
+
+Lauvset, S. K., Key, R. M., Olsen, A., van Heuven, S., Velo, A., Lin, X., et al. (2016).
+
+--- SENTENCE 358 ---
+A new global interior ocean mapped climatology: the  $1^{\circ} \times 1^{\circ}$  GLODAP version 2.
+
+--- SENTENCE 359 ---
+doi: 10.5194/essd-8-325-2016
+
+Lozada-Misa, P., Schumacher, B., and Vargas-Angel, B. (2017).
+
+--- SENTENCE 360 ---
+Analysis of benthic survey images via CoralNet: A summary of standard operating procedures and guidelines.
+
+--- SENTENCE 361 ---
+Honolulu: U.S. Department of Commerce, National Oceanic and Atmospheric Administration.
+
+--- SENTENCE 362 ---
+doi: 10.7289/V5/AR-PIFSC-H-17-02
+
+Lueker, T., Dickson, A., and Keeling, C. (2000).
+
+--- SENTENCE 363 ---
+Ocean pCO2 calculated from dissolved inorganic carbon, alkalinity, and equations for K1 and K2: Validation based on laboratory measurements of CO2 in gas and seawater at equilibrium.
+
+--- SENTENCE 364 ---
+doi: 10.1016/S0304-4203(00)00022-0
+
+Manning, J. C., Carpenter, R. C., and Miranda, E. A. (2019).
+
+--- SENTENCE 365 ---
+Ocean acidification reduces net calcification and wound healing in the tropical crustose coralline alga, porolithon onkodes (Corallinales, rhodophyta).
+
+--- SENTENCE 366 ---
+doi: 10.1016/j.jembe.2019.151225
+
+Manzello, D. P., Kleypas, J. A., Budd, D. A., Eakin, C. M., Glynn, P. W., and Langdon, C. (2008).
+
+--- SENTENCE 367 ---
+Poorly cemented coral reefs of the eastern tropical pacific: Possible insights into reef development in a high-CO2 world.
+
+--- SENTENCE 368 ---
+doi: 10.1073/pnas.0712167105
+
+NOAA Coral Program (2014).
+
+--- SENTENCE 369 ---
+National Coral Reef Monitoring Plan (Silver Spring, MD, NOAA Coral Reef Conservation Program).
+
+--- SENTENCE 370 ---
+NOAA Coral Program (2021).
+
+--- SENTENCE 371 ---
+National Coral Reef Monitoring Plan.
+
+--- SENTENCE 372 ---
+Silver Spring, MD, NOAA Coral Reef Conservation Program.
+
+--- SENTENCE 373 ---
+doi: 10.25923/fqkq-w497
+
+Oksanen, J., Guillaume Blanchet, F., Friendly, M., Kindt, R., Legendre, P., McGlinn, D., et al. (2020).
+
+--- SENTENCE 374 ---
+*Vegan: Community Ecology Package*.
+
+--- SENTENCE 375 ---
+R Package Version 2.5-7. Available at: https://cran.r-project.org/web/packages/vegan/index.html.
+
+--- SENTENCE 376 ---
+Ordoñez, A., Doropoulos, C., and Diaz-Pulido, G. (2014).
+
+--- SENTENCE 377 ---
+Effects of ocean acidification on population dynamics and community structure of crustose coralline algae.
+
+--- SENTENCE 378 ---
+doi: 10.1086/BBLv226n3p255
+
+Page, H. N., Courtney, T. A., Collins, A., De Carlo, E. H., and Andersson, A. J. (2017).
+
+--- SENTENCE 379 ---
+Net community metabolism and seawater carbonate chemistry scale non-intuitively with coral cover.
+
+--- SENTENCE 380 ---
+Mar. Sci.* 4, 161.
+
+--- SENTENCE 381 ---
+doi: 10.3389/fmars.2017.00161
+
+Price, N. (2010).
+
+--- SENTENCE 382 ---
+Habitat selection, facilitation, and biotic settlement cues affect distribution and performance of coral recruits in French Polynesia.
+
+--- SENTENCE 383 ---
+doi: 10.1007/s00442-010-1578-4
+
+Price, N. N., Martz, T. R., Brainard, R. E., and Smith, J. E. (2012).
+
+--- SENTENCE 384 ---
+Diel variability in seawater pH relates to calcification and benthic community structure on coral reefs.
+
+--- SENTENCE 385 ---
+*PLoS One* 7, e43843.
+
+--- SENTENCE 386 ---
+doi: 10.1371/journal.pone.0043843
+
+Raymundo, L. J., Burdick, D., Hoot, W. C., Miller, R. M., Brown, V., Reynolds, T., et al. (2019).
+
+--- SENTENCE 387 ---
+Successive bleaching events cause mass coral mortality in Guam, Micronesia.
+
+--- SENTENCE 388 ---
+*Coral Reefs* 38, 677–700.
+
+--- SENTENCE 389 ---
+doi: 10.1007/s00338-019-01836-2
+
+Schönberg, C. H. L., Fang, J. K. H., Carreiro-Silva, M., Tribollet, A., and Wisshak, M. (2017).
+
+--- SENTENCE 390 ---
+Bioerosion: the other ocean acidification problem.
+
+--- SENTENCE 391 ---
+*ICES J. Mar. Sci.* 74, 895–925.
+
+--- SENTENCE 392 ---
+doi: 10.1093/icesjms/fsw254
+
+Schuetzenmeister, A., and Dufey, F. (2020).
+
+--- SENTENCE 393 ---
+VCA: Variance Component Analysis.
+
+--- SENTENCE 394 ---
+R Package Version 1.4.3.
+
+--- SENTENCE 395 ---
+Available at: https://cran.r-project.org/web/packages/VCA/index.html.
+
+Shamberger, K. E. F., Cohen, A. L., Golbuu, Y., McCorkle, D. C., Lentz, S. J., and Barkley, H. C. (2014).
+
+--- SENTENCE 396 ---
+Diverse coral communities in naturally acidified waters of a Western pacific reef.
+
+--- SENTENCE 397 ---
+doi: 10.1002/2013GL058489
+
+Silbiger, N. J., Donahue, M. J., and Brainard, R. E. (2017).
+
+--- SENTENCE 398 ---
+Environmental drivers of coral reef carbonate production and bioerosion: A multi-scale analysis.
+
+--- SENTENCE 399 ---
+doi: 10.1002/ecy.1946
+
+Silverman, J., Lazar, B., and Erez, J. (2007).
+
+--- SENTENCE 400 ---
+Effect of aragonite saturation, temperature, and nutrients on the community calcification rate of a coral reef.
+
+--- SENTENCE 401 ---
+doi: 10.1029/2006JC003770
+
+Smith, J. E., Brainard, R., Carter, A., Grillo, S., Edwards, C., Harris, J., et al. (2016).
+
+--- SENTENCE 402 ---
+Re-evaluating the health of coral reef communities: baselines and evidence for human impacts across the central pacific.
+
+--- SENTENCE 403 ---
+doi: 10.1098/rspb.2015.1985
+
+Smith, J. N., Mongin, M., Thompson, A., Jonker, M. J., De'ath, G., and Fabricius, K. E. (2020).
+
+--- SENTENCE 404 ---
+Shifts in coralline algae, macroalgae, and coral juveniles in the great barrier reef associated with present-day ocean acidification.
+
+--- SENTENCE 405 ---
+doi: 10.1111/gcb.14985
+
+Strahl, J., Francis, D. S., Doyle, J., Humphrey, C., and Fabricius, K. E. (2016).
+
+--- SENTENCE 406 ---
+Biochemical responses to ocean acidification contrast between tropical corals with high and low abundances at volcanic carbon dioxide seeps.
+
+--- SENTENCE 407 ---
+*ICES J. Mar. Sci.* 73, 897–909.
+
+--- SENTENCE 408 ---
+doi: 10.1093/icesjms/fsv194
+
+Sutton, A. J., Feely, R. A., Maenner-Jones, S., Musielwicz, S., Osborne, J., Dietrich, C., et al. (2019).
+
+--- SENTENCE 409 ---
+Autonomous seawater  $pCO_2$  and pH time series from 40 surface buoys and the emergence of anthropogenic trends.
+
+--- SENTENCE 410 ---
+doi: 10.5194/essd-11-421-2019
+
+Sutton, A. J., Feely, R. A., Sabine, C. L., McPhaden, M. J., Takahashi, T., Chavez, F. P., et al. (2014).
+
+--- SENTENCE 411 ---
+Natural variability and anthropogenic change in equatorial pacific surface ocean pCO2 and pH. *Glob Biogeochem Cycles* 28, 131–145.
+
+--- SENTENCE 412 ---
+doi: 10.1002/2013GB004679
+
+Terlouw, G. J., Knor, L. A. C. M., De Carlo, E. H., Drupp, P. S., Mackenzie, F. T., Li, Y. H., et al. (2019).
+
+--- SENTENCE 413 ---
+Hawaii Coastal seawater CO2 network:
+
+--- SENTENCE 414 ---
+A statistical evaluation of a decade of observations on tropical coral reefs.
+
+--- SENTENCE 415 ---
+Mar. Sci.* 6, 226.
+
+--- SENTENCE 416 ---
+doi: 10.3389/fmars.2019.00226
+
+Vargas-Ángel, B., Huntington, B., Brainard, R. E., Venegas, R., Oliver, T., Barkley, H., et al. (2019).
+
+--- SENTENCE 417 ---
+El Niño-associated catastrophic coral mortality at Jarvis island, central equatorial pacific.
+
+--- SENTENCE 418 ---
+*Coral Reefs* 38, 731–741.
+
+--- SENTENCE 419 ---
+doi: 10.1007/s00338-019-01838-0
+
+Vargas-Ángel, B., Looney, E. E., Vetter, O. J., and Coccagna, E. F. (2011).
+
+--- SENTENCE 420 ---
+Severe, widespread El niño-associated coral bleaching in the US phoenix islands.
+
+--- SENTENCE 421 ---
+Mar. Sci.* 87, 623–638.
+
+--- SENTENCE 422 ---
+doi: 10.5343/bms.2010.1095
+
+Vargas-Ángel, B., Richards, C. L., Vroom, P. S., Price, N. N., Schils, T., Young, C. W., et al. (2015).
+
+--- SENTENCE 423 ---
+Baseline assessment of net calcium carbonate accretion rates on U.S. *Pacific Reefs.
+
+--- SENTENCE 424 ---
+doi: 10.1371/journal.pone.0142196
+
+<span id="page-13-0"></span>Vroom, P. S., and Braun, C. L. (2010).
+
+--- SENTENCE 425 ---
+Benthic composition of a healthy subtropical reef: Baseline species-level cover, with an emphasis on algae, in the northwestern Hawaiian islands.
+
+--- SENTENCE 426 ---
+$PLoS\ One\ 5$ , e9733.
+
+--- SENTENCE 427 ---
+doi: 10.1371/journal.pone.0009733
+
+Williams, I. D., Baum, J. K., Heenan, A., Hanson, K. M., Nadon, M. O., and Brainard, R. E. (2015).
+
+--- SENTENCE 428 ---
+Human, oceanographic and habitat drivers of central and Western pacific coral reef fish assemblages.
+
+--- SENTENCE 429 ---
+*PLoS One* 10, e0120516.
+
+--- SENTENCE 430 ---
+doi: 10.1371/journal.pone.0120516
+
+Winston, M., Couch, C., Huntington, B., and Vargas-Angel, B. (2020).
+
+--- SENTENCE 431 ---
+Ecosystem Sciences Division Standard Operating Procedures: Data Collection for Rapid Ecological Assessment Benthic Surveys, 2019 Update.
+
+--- SENTENCE 432 ---
+Honolulu: U.S. Department of Commerce, National Oceanic and Atmospheric Administration.
+
+--- SENTENCE 433 ---
+doi: 10.25923/ws5s-km69
+
+Winston, M., Oliver, T., Couch, C., Donovan, M. K., Asner, G. P., Conklin, E., et al. (2022).
+
+--- SENTENCE 434 ---
+Coral taxonomy and local stressors drive bleaching prevalence across the Hawaiian archipelago in 2019.
+
+--- SENTENCE 435 ---
+*PLoS One* 17, e0269068.
+
+--- SENTENCE 436 ---
+doi: 10.1371/journal.pone.0269068
+
+Wisshak, M., Schönberg, C. H. L., Form, A., and Freiwald, A. (2012).
+
+--- SENTENCE 437 ---
+Ocean acidification accelerates reef bioerosion.
+
+--- SENTENCE 438 ---
+*PLoS One* 7, e45124.
+

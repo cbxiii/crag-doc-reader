@@ -1,0 +1,1473 @@
+--- SENTENCE 1 ---
+Contents lists available at [ScienceDirect](http://www.sciencedirect.com/science/journal/00220981)
+
+--- SENTENCE 2 ---
+# Journal of Experimental Marine Biology and Ecology
+
+journal homepage:
+
+--- SENTENCE 3 ---
+# Sub-weekly coral linear extension measurements in a coral reef
+
+Lupita J. Ruiz-Jones[⁎](#page-0-0)[,1](#page-0-1) , Stephen R. Palumbi
+
+*Hopkins Marine Station, Stanford University, 120 Oceanview Blvd.
+
+--- SENTENCE 4 ---
+Pacific Grove, CA 93950, United States*
+
+!
+
+--- SENTENCE 5 ---
+#### ARTICLE INFO
+
+*Keywords:*
+
+--- SENTENCE 6 ---
+Coral growth Calcification Skeletal linear extension Calcein Coral reef
+
+#### ABSTRACT
+
+Coral growth rates are often used as a metric of coral health and are measured extensively in the laboratory under controlled conditions to better understand the potential impacts of future climate change scenarios.
+
+--- SENTENCE 7 ---
+However, in the field, corals live in dynamic environments, which can be subjected to multiple types of stressors that can not be mimicked in the laboratory.
+
+--- SENTENCE 8 ---
+Furthermore, the temporal scales over which many environmental conditions can vary in the reef, such as extreme temperature anomalies, tidal fluctuations, and point source pollution events are far shorter than most field estimates of coral growth, which are generally at annual or seasonal scales.
+
+--- SENTENCE 9 ---
+To measure the impact to coral growth of environmental variables that vary on time scales of less than a year or a few months requires developing new growth measurement techniques.
+
+--- SENTENCE 10 ---
+With the goal of measuring coral growth at sub-weekly scales in the field, we developed a technique to measure 5-day linear extension growth rates.
+
+--- SENTENCE 11 ---
+We tested our approach on colonies of *Acropora hyacinthus* living in a shallow back-reef ecosystem with routine extreme daily fluctuations in temperature, pH, and dissolved oxygen saturation.
+
+--- SENTENCE 12 ---
+Using serial skeletal staining and petrographic thin sectioning we measured linear extension in *A. hyacinthus* during three consecutive 5-day growth periods that had differing amounts of environmental variability.
+
+--- SENTENCE 13 ---
+At our field site in American Samoa, the second growth period had the largest tidal swings, resulting in higher variability: within a day temperature ranged up to 5.4 °C (reaching a maximum of 31.9 °C) and pH ranged up to 0.41 units (with a minimum of pH 7.78).
+
+--- SENTENCE 14 ---
+We tested whether corals are able to maintain even linear extension rates across these short periods of time or not.
+
+--- SENTENCE 15 ---
+After confocal microscopy analysis of stained skeletal samples we found that linear extension rates were similar across the three growth periods.
+
+--- SENTENCE 16 ---
+Our fine-scale measurements suggest that during periods with different magnitudes of tidally driven environmental variability, but constant mean conditions, short-term linear extension growth rates remain consistent.
+
+## **1.
+
+--- SENTENCE 17 ---
+Introduction**
+
+Having accurate measurements of reef and coral colony growth in different coral reef ecosystems is important for understanding the impact of environmental change on reef sustainability and their ability to provide ecosystem services, such as reducing wave energy by 97% (
+
+--- SENTENCE 18 ---
+[Ferrario et al., 2014](#page-8-0)).
+
+--- SENTENCE 19 ---
+Globally, reefs are under pressure from local stressors and global environmental shifts [\(Scheffer et al., 2015](#page-8-1)).
+
+--- SENTENCE 20 ---
+For instance, net community calcification on Lizard Island, Great Barrier Reef decreased over a 33 year period by 27–49% ([Silverman et al.,](#page-8-2)
+
+--- SENTENCE 21 ---
+[2014\)](#page-8-2) likely due to ocean acidification.
+
+--- SENTENCE 22 ---
+At the same time, individual colonies of massive *Porites* species living on the inshore section of the central Great Barrier Reef show a decline in calcification rates over the past several decades, likely due to high sedimentation and nutrient input from the coastline
+
+--- SENTENCE 23 ---
+[\(D'Olivo et al., 2013](#page-8-3)).
+
+--- SENTENCE 24 ---
+In the Red Sea, *Diploastrea heliopra* showed a 30% decrease in linear extension rates since 1998, the same period that seawater temperatures rose [\(Cantin et al.,](#page-7-0)
+
+--- SENTENCE 25 ---
+Long-term reef-wide and colony-level growth measurements such as these are invaluable for ascertaining broad scale patterns over long time periods.
+
+--- SENTENCE 26 ---
+However, environmental change also occurs over short time periods and corals can have physiological reactions to day changes in their environment ([Ruiz-Jones and Palumbi, 2017](#page-8-4)).
+
+--- SENTENCE 27 ---
+Whether or not environmental changes in the reef that occur at weekly or monthly time scales impact coral calcification remains to be understood.
+
+--- SENTENCE 28 ---
+Growth is frequently used as a proxy for coral health.
+
+--- SENTENCE 29 ---
+However, common approaches to measure growth in the field are at annual and seasonal timescales
+
+--- SENTENCE 30 ---
+[\(Anderson et al., 2015](#page-7-1); [Barnes and Lough, 1989](#page-7-2); [Cantin et al., 2010;](#page-7-0)
+
+--- SENTENCE 31 ---
+[Dandan et al., 2015](#page-8-5); [Dodge and Brass, 1984](#page-8-6); [Knutson et al., 1972;](#page-8-7)
+
+--- SENTENCE 32 ---
+[Kuffner et al., 2013](#page-8-8); [Lough and Barnes, 2000](#page-8-9); [Lough et al., 2015](#page-8-10); [Manzello, 2010](#page-8-11);
+
+--- SENTENCE 33 ---
+[Manzello et al., 2015](#page-8-12); [Neal et al.,](#page-8-13)
+
+--- SENTENCE 34 ---
+[Samiei et al., 2016](#page-8-14); [Tortolero-Langarica et al., 2016](#page-8-15);
+
+--- SENTENCE 35 ---
+[Venti et al.,](#page-8-16)
+
+<span id="page-0-0"></span><sup>⁎</sup> Corresponding author.
+
+--- SENTENCE 36 ---
+<span id="page-0-1"></span><sup>1</sup> Current address: Stanford University, 590 Escondido Mall, Stanford, CA 94305.
+
+--- SENTENCE 37 ---
+These approaches measure growth at temporal scales far longer than the time scale at which many types of environmental stressors occur, such as extreme temperature anomalies and point source pollution episodes.
+
+--- SENTENCE 38 ---
+Growth measurements of colonies living in their natural reef setting can be made using buoyant weight [\(Dandan et al., 2015;](#page-8-5)
+
+--- SENTENCE 39 ---
+[Kuffner et al.,](#page-8-8) [2013\)](#page-8-8), alizarin red staining ([Anderson et al., 2015](#page-7-1);
+
+--- SENTENCE 40 ---
+[Manzello, 2010\)](#page-8-11), Xradiography ([Barnes and Lough, 1989;](#page-7-2)
+
+--- SENTENCE 41 ---
+[Dodge and Brass, 1984](#page-8-6); [Knutson](#page-8-7)
+
+--- SENTENCE 42 ---
+[Lough et al., 2015;](#page-8-10)
+
+--- SENTENCE 43 ---
+[Lough and Barnes, 2000](#page-8-9);
+
+--- SENTENCE 44 ---
+[Tortolero-](#page-8-15)[Langarica et al., 2016\)](#page-8-15), 3D computed tomography (CT) scanning ([Cantin et al., 2010;](#page-7-0) [Manzello et al., 2015](#page-8-12)), and reflectance optical microscopy ([Risk and Pearce, 1992\)](#page-8-17), and are generally at the resolution of annual or seasonal growth.
+
+--- SENTENCE 45 ---
+For reviews of different coral growth measuring techniques see [\(Holcomb et al., 2013](#page-8-18);
+
+--- SENTENCE 46 ---
+[Pratchett et al., 2015](#page-8-21)).
+
+--- SENTENCE 47 ---
+These techniques reveal patterns in coral growth that are associated with long-term patterns in the environment, such as the seasonal density bands detected by 3D CT scanning (reviewed in ([Lough and Cantin, 2014](#page-8-20))).
+
+--- SENTENCE 48 ---
+Coral growth measurements over time periods shorter than seasonal and annual scales are commonly made in the laboratory using radioactive calcium-45 [\(Goreau, 1959](#page-8-22)), fluorescent stains that mark the skeleton (e.g., ([Venn et al., 2012](#page-8-23))), secondary ion mass spectrometry (
+
+--- SENTENCE 49 ---
+[Holcomb et al., 2009](#page-8-24)), the alkalinity depletion method (e.g., ([Holcomb](#page-8-25)
+
+--- SENTENCE 50 ---
+[et al., 2014\)](#page-8-25)), and the buoyant weight technique ([Davies, 1989\)](#page-8-26).
+
+--- SENTENCE 51 ---
+These higher resolution growth measurements are valuable for understanding the mechanism of calcification [\(Goreau, 1959](#page-8-22);
+
+--- SENTENCE 52 ---
+[Holcomb et al., 2014\)](#page-8-25) and how specific stressors affect calcification rates over short time scales [\(Venn et al., 2012\)](#page-8-23), because they are done in controlled settings.
+
+--- SENTENCE 53 ---
+In one of the earliest studies of coral growth, [Goreau \(1959\)](#page-8-22) measured daily rates of calcification by quantifying the incorporation of calcium-45 into the skeleton.
+
+--- SENTENCE 54 ---
+Using this method, the positive effects of light, zooxanthellae, and carbonic anhydrase on daily calcification rates were first demonstrated [\(Goreau, 1959](#page-8-22)).
+
+--- SENTENCE 55 ---
+Despite many long-term studies in the field, and short-term studies in the laboratory, we know little about how evenly corals calcify from week to week when there are varying environmental conditions.
+
+--- SENTENCE 56 ---
+Due to their structure and flow dynamics shallow lagoon reefs (i.e., back-reefs) have high environmental variability for brief periods of time.
+
+--- SENTENCE 57 ---
+The water can have high residence time due to restricted water flow at low tide, resulting in increased environmental variability [\(Monismith, 2013](#page-8-27)).
+
+--- SENTENCE 58 ---
+Light, temperature, pH, dissolved oxygen (DO) saturation, and depth can vary drastically over the diel cycle, often in a correlated way ([Hofmann et al., 2011;](#page-8-28)
+
+--- SENTENCE 59 ---
+[Koweek et al., 2014, 2015;](#page-8-29)
+
+--- SENTENCE 60 ---
+[Price et al., 2012](#page-8-30); [Smith et al., 2013\)](#page-8-31).
+
+--- SENTENCE 61 ---
+Biogeochemical processes within the reef cause pH and oxygen levels to rise and fall daily [\(Smith et al., 2013](#page-8-31)).
+
+--- SENTENCE 62 ---
+On Ofu Island, American Samoa diel temperature and pH ranges can be as high as 6 °C and 0.58, respectively ([Craig et al., 2001](#page-8-32);
+
+--- SENTENCE 63 ---
+[Koweek et al., 2015](#page-8-33)), on days with strong low tides around midday and midnight.
+
+--- SENTENCE 64 ---
+Daily environmental variability has been recorded on many other coral reefs, such as: Moorea ([Hofmann et al., 2011\)](#page-8-28); Palmyra [\(Hofmann et al.,](#page-8-28)
+
+--- SENTENCE 65 ---
+[Koweek et al., 2014;](#page-8-29)
+
+--- SENTENCE 66 ---
+[Price et al., 2012\)](#page-8-30); Kingman Reef and Jarvis ([Price et al., 2012\)](#page-8-30); Davies Reef, Great Barrier Reef ([Albright et al.,](#page-7-3) [2013\)](#page-7-3); Heron Island ([Kline et al., 2015](#page-8-34)); Kaneohe Bay, Hawai'i ([Guadayol et al., 2014\)](#page-8-35); and, Puerto Rico ([Gray et al., 2012\)](#page-8-36).
+
+--- SENTENCE 67 ---
+Corals living in reefs with high environmental variability show signs of local adaptation ([Barshis et al., 2013;](#page-7-4)
+
+--- SENTENCE 68 ---
+[Bay and Palumbi, 2014](#page-7-5)), acclimatization to increased temperature variability ([Palumbi et al.,](#page-8-37)
+
+--- SENTENCE 69 ---
+[2014\)](#page-8-37), and physiological responses to cope with cellular stress [\(Ruiz-](#page-8-4)[Jones and Palumbi, 2017](#page-8-4)).
+
+--- SENTENCE 70 ---
+Evidence suggests that reefs with high-frequency temperature variability will be important as the climate continues to change due to coral species having increased thermal tolerance in these reef ([Safaie et al., 2018](#page-8-38)).
+
+--- SENTENCE 71 ---
+Whether such daily environmental variation also impacts coral growth is unknown—addressing this requires the ability to measure growth rates in the field at temporal scales relevant to this type of environmental change.
+
+--- SENTENCE 72 ---
+Our study objective was to develop a technique that allowed us to accurately measure coral linear extension growth rates in the field at sub-weekly time intervals.
+
+--- SENTENCE 73 ---
+We applied this technique to investigate whether variations in the magnitude of dial ranges in temperature, pH, and DO affect linear extension growth under similar mean conditions.
+
+--- SENTENCE 74 ---
+Of the two parameters needed to calculate coral calcification rates, linear extension and density, the technique described here measures linear extension.
+
+--- SENTENCE 75 ---
+There are no studies that report both density and linear extension for corals in the reef at sub-seasonal scales.
+
+--- SENTENCE 76 ---
+However, [D'Olivo et al. \(2013\)](#page-8-3) report that in *Porites* corals across the Great Barrier Reef annual linear extension rates are positively correlated with annual calcification rates.
+
+--- SENTENCE 77 ---
+We acknowledge that being able to quantify density as well as linear extension would be ideal, but given the limitations of working in the field at a sub-weekly temporal scale we only measured linear extension.
+
+--- SENTENCE 78 ---
+We tested if the mechanism of calcification resulted in even linear extension growth rates across periods with different amounts of environmental variability or not.
+
+--- SENTENCE 79 ---
+To do this, we used the fluorescent dye calcein to mark the coral skeleton at four time points demarcating three separate 5-day growth periods.
+
+--- SENTENCE 80 ---
+Calcein binds to calcium, which crosses coral tissues via paracellular pathways, and is incorporated into the calcium carbonate skeleton during active calcification ([Tambutte et al.,](#page-8-39)
+
+--- SENTENCE 81 ---
+A comparative study of different coral staining techniques found that calcein, alizarin, alizarin complexone, and isotope spikes (Ba and Sr) had no significant effect on growth; however, calcein was recommended for short-term growth studies due to its intense fluorescent mark in the skeleton ([Holcomb et al., 2013](#page-8-18)).
+
+--- SENTENCE 82 ---
+Calcein is regularly used in laboratory settings to study calcification over short time periods ([Brahmi et al., 2009;](#page-7-6)
+
+--- SENTENCE 83 ---
+[Gagnon et al., 2012, 2013;](#page-8-40)
+
+--- SENTENCE 84 ---
+[Tambutte et al., 2011](#page-8-39); [Venn et al., 2012\)](#page-8-23), but in the field, it has mostly been used as a skeletal marker in long-term studies [\(Venti et al., 2014\)](#page-8-16).
+
+--- SENTENCE 85 ---
+We tested our method to measure sub-weekly linear extension growth in corals of *Acropora hyacinthus* living in the back-reef environment of Ofu Island, American Samoa.
+
+--- SENTENCE 86 ---
+We found that our approach provides the accuracy of laboratory-based methods, but in the field over short periods of time and use it to show that high levels of tidally driven environmental variation do not perturb corals in their native habitat.
+
+--- SENTENCE 87 ---
+Materials and methods**
+
+## *2.1.
+
+--- SENTENCE 88 ---
+Sample collection*
+
+Five-day linear extension measurements were made on individual branches from colonies of *A. hyacinthus* (*cryptic species E*; see [\(Ladner](#page-8-41)
+
+--- SENTENCE 89 ---
+[and Palumbi, 2012\)](#page-8-41)), hosting majority clade D *Symbiodinium*.
+
+--- SENTENCE 90 ---
+At two locations (approximately 500 m apart) in the back-reef of Ofu, American Samoa, within the US National Park, a total of six colonies were selected (three colonies per location) ([Fig.
+
+--- SENTENCE 91 ---
+Six fragments, each with approximately 3–5 branches, were removed from the perimeter of each colony (all necessary permits were in hand: American Samoan Department of Marine and Wildlife Resources permit number 2012–65 and National Park Service Scientific Research and Collecting Permit number NPSA-2012-SCI-0008).
+
+--- SENTENCE 92 ---
+Each fragment was attached to a plastic bolt with epoxy and assembled on a plastic grid.
+
+--- SENTENCE 93 ---
+To minimize stress, the coral fragments were attached to the plastic grids immediately after being removed from the colony by working directly underwater; therefore, there was no need to transport the fragments to shore.
+
+--- SENTENCE 94 ---
+Once a grid was assembled it was placed securely on the substratum with zip ties in the area where the samples were collected.
+
+--- SENTENCE 95 ---
+One grid was assembled for each of the two locations for the colonies from that location (labeled Grid 1 and Grid 2; [Fig. 1](#page-2-0)).
+
+--- SENTENCE 96 ---
+During the following three days the samples were allowed to recover prior to the start of the experiment.
+
+--- SENTENCE 97 ---
+The fragments were monitored once a day for three days and at all times the tentacles were out and there were no signs of mortality.
+
+--- SENTENCE 98 ---
+The back-reef of Ofu Island, American Samoa and a unit of the US National Park of American Samoa.
+
+--- SENTENCE 99 ---
+The stars mark the placement of the two grids with attached coral samples that were collected from the same area of the back-reef.
+
+--- SENTENCE 100 ---
+The top left photo shows one grid of coral fragments in the reef.
+
+--- SENTENCE 101 ---
+The top right photos shows the two grids in the 75 L tank of calcein-seawater solution at a final concentration of 0.01 g l−1.
+
+#### *2.2.
+
+--- SENTENCE 102 ---
+Staining protocol*
+
+Calcein was used to mark the skeleton at specific time intervals, allowing us to measure linear extension growth rates in sequential periods of time.
+
+--- SENTENCE 103 ---
+The coral branches were stained four times with five full days between the days during which calcein was applied; therefore, we were able to measure 5-day linear extension growth rates.
+
+--- SENTENCE 104 ---
+The coral fragments were stained in temperature controlled tanks with water circulation (designed by the National Park Service staff on Ofu Island).
+
+--- SENTENCE 105 ---
+On the day calcein was applied, each grid of coral fragments was retrieved from their respective locations, transported to the field laboratory in seawater containers, and placed in a tank of seawater (75 L) set to 29 °C.
+
+--- SENTENCE 106 ---
+Calcein (Sigma-Aldrich) was added to the seawater for a final concentration of 0.01 g l−1.
+
+--- SENTENCE 107 ---
+The coral fragments were exposed to calcein for 6 h, from about midmorning to midafternoon.
+
+--- SENTENCE 108 ---
+Prior to this experiment we conducted a pilot study to determine the duration of the exposure to calcein.
+
+--- SENTENCE 109 ---
+Our goal was to minimize stress to the corals and also ensure that the resulting stain lines were easily visible with confocal microscopy.
+
+--- SENTENCE 110 ---
+[Holcomb et al. \(2013\)](#page-8-18) report incubating corals in calcein for ~24 h and found that calcein did not affect growth.
+
+--- SENTENCE 111 ---
+In two other studies, the duration of calcein exposure ranged from 5 min
+
+--- SENTENCE 112 ---
+[\(Venn et al., 2012](#page-8-23)) to 18-24 h ([Venti et al., 2014](#page-8-16)).
+
+--- SENTENCE 113 ---
+[Venn et al. \(2012\)](#page-8-23) examined isolated crystals in the laboratory and measured increases in cross-sectional area over a 4 h period.
+
+--- SENTENCE 114 ---
+[\(2014\)](#page-8-16) measured seasonal calcification rates in the field and marked the skeletons by tenting the colonies with calcein for 18-24 h; they report that the colonies showed no signs of stress.
+
+--- SENTENCE 115 ---
+Because calcein is incorporated into the skeleton during active calcification, the exposure needs to be long enough so that substantial crystals are incorporated into the skeleton that the stain line is easily visible with confocal microscopy.
+
+--- SENTENCE 116 ---
+Furthermore, during our pilot study we observed that the longer the corals remained in the reef the more the stain line would start to photobleach.
+
+--- SENTENCE 117 ---
+In our pilot study we observed that during a 6 h calcein exposure the coral tentacles were out, suggesting they were not severely stressed, and the resulting stain line was clearly visible with confocal microscopy.
+
+--- SENTENCE 118 ---
+In our experiment the corals needed to be out in the reef for 3 weeks and we wanted to ensure that the first stain was still clearly visible after being exposed to the sun for that long; therefore, we choose a 6 h calcein exposure to ensure a substantial amount of calcein was incorporated into the skeleton.
+
+--- SENTENCE 119 ---
+During the staining period, we observed that the polyps were out.
+
+--- SENTENCE 120 ---
+At the end of the staining incubation, each grid was transferred back to its respective location in the reef.
+
+--- SENTENCE 121 ---
+After the fourth stain, we waited 2.5 days before removing the tissue so that a small amount of skeleton was accreted.
+
+--- SENTENCE 122 ---
+The tissue was removed by placing the grid of coral fragments in a solution of 3% bleach for several hours, after which the samples were air-dried.
+
+--- SENTENCE 123 ---
+We noticed that the corals had started to secrete skeletal material over the epoxy, suggesting that they were not completely stressed by the fragmentation, attachment to grid, or staining.
+
+#### *2.3.
+
+--- SENTENCE 124 ---
+Environmental data*
+
+A temperature logger (HOBO Pendant), which recorded every 10 min, was attached to each grid.
+
+--- SENTENCE 125 ---
+A continuous-recording pH sensor (SeaFET) recorded pH every 20 min and a YSI DataSonde (model 6600V2-4) recorded DO saturation (%) every 10 min.
+
+--- SENTENCE 126 ---
+We only had one pH sensor and one DO sensor; both were attached to dead substratum at about 1.5 m depth within 20 m of Grid 1.
+
+--- SENTENCE 127 ---
+A discrete water sample was collected within 1 m of the pH sensor 48 h post deployment for a vicarious calibration.
+
+--- SENTENCE 128 ---
+These samples were analyzed for salinity (YSI 3200 Conductivity Instrument), total alkalinity (TA) (SI Analytics Tritroline 6000), and total dissolved inorganic carbon (TDIC) (UIC Inc. CM5015 Coulometer).
+
+--- SENTENCE 129 ---
+For the measurements of TA and TDIC we used certified reference material standards provided by Andrew Dickson (Scripps Institution of Oceanography, La Jolla, CA).
+
+--- SENTENCE 130 ---
+The estimated precision for the TA and DIC measurements is ± 8.5 umol kg-1 and 10 umol kg-1 respectively; we used the same instruments and methodology reported in [Koweek et al. \(2015\)](#page-8-33).
+
+--- SENTENCE 131 ---
+The salinity, TA, TDIC, and temperature of the seawater sample at the time of collection were used to calculate the pH of the discrete water sample using the R package SeaCarb (v3.0).
+
+--- SENTENCE 132 ---
+The pH of the discrete water sample was used to apply a vicarious calibration to the pH sensor.
+
+--- SENTENCE 133 ---
+For each environmental variable (i.e., temperature, pH, and DO) we calculated the mean, standard deviation, and range for each of the 5-day growth periods.
+
+--- SENTENCE 134 ---
+With these data we determined which growth period had the highest environmental variability.
+
+--- SENTENCE 135 ---
+A representation of how linear extension was measured in *Acropora hyacinthus*.
+
+--- SENTENCE 136 ---
+Coral branches were petrographically thin sectioned down the middle.
+
+--- SENTENCE 137 ---
+The 20 μm sections were mounted on glass slides.
+
+--- SENTENCE 138 ---
+A 5 mm by 5 mm box was designated around the branch tip and this region was examined with confocal microscopy.
+
+--- SENTENCE 139 ---
+A micrograph of a measureable area (i.e., four calcein stain lines visible) for Colony AH86 within the 5 mm by 5 mm box at 20× magnification.
+
+--- SENTENCE 140 ---
+In ImageJ the stain lines were traced and measurements were made across a measureable area every 20 μm.
+
+--- SENTENCE 141 ---
+E) A micrograph of colony AH06 at 5× showing most of the branch tip and the areas where the four stain lines are apparent.
+
+--- SENTENCE 142 ---
+A micrograph of colony AH61 at 5× showing most of the branch tip and the areas where the four stain lines are apparent.
+
+--- SENTENCE 143 ---
+A micrograph of colony AH89 at 20× showing that the fourth stain line is the most intense due to the reduced exposure to the sun.
+
+--- SENTENCE 144 ---
+In C, D, and G scale bar is 20 μm.
+
+--- SENTENCE 145 ---
+In E and F scale bar is 100 μm.
+
+--- SENTENCE 146 ---
+Illustrations by Mattias Lanas.
+
+#### *2.4.
+
+--- SENTENCE 147 ---
+Measuring skeletal linear extension with microscopy*
+
+All accessible individual branches on each coral fragment were thin sectioned using petrographic techniques (sent to vendor Burnham Petrographic).
+
+--- SENTENCE 148 ---
+For each branch, thin sectioning was done straight down the middle of the branch parallel to the axis of growth to produce 20 μm sections ([Fig. 2](#page-3-0)A and B).
+
+--- SENTENCE 149 ---
+The thin sections were mounted on glass slides and covered with glass cover slips.
+
+--- SENTENCE 150 ---
+For each branch, we determined linear extension for each growth period by measuring the distance between adjacent stain lines; growth period 1 was between stain lines 1 and 2, growth period 2 was between stain lines 2 and 3, and growth period 3 was between stain lines 3 and 4.
+
+--- SENTENCE 151 ---
+We focused our measurements to a 5 mm by 5 mm box around the branch tip ([Fig. 2](#page-3-0)B).
+
+--- SENTENCE 152 ---
+With a confocal microscope (Zeiss LSM 700), set to excite calcein (488 nm) and detect the wavelength emitted (~520 nm), we scanned the branch tips for areas where the four parallel stain lines were visible.
+
+--- SENTENCE 153 ---
+For convenience we will use the term 'measurable area' to identify the areas where measurements were made (see [Fig. 2C](#page-3-0) and G for representative examples).
+
+--- SENTENCE 154 ---
+Linear extension was measured on micrographs of the thin sections taken at 20× on the confocal microscope.
+
+--- SENTENCE 155 ---
+At each measureable area, the stain lines were traced over in ImageJ (v1.46r) (with the freehand line tool) (
+
+--- SENTENCE 156 ---
+We then measured linear extension every 20 μm along the length of the measureable area (see [Fig.
+
+--- SENTENCE 157 ---
+We averaged among these values to produce an extension value for each growth period for each measureable area.
+
+--- SENTENCE 158 ---
+We observed that not all areas of the axial corallite had four stain lines demonstrating variability in the location of the skeleton where linear extension growth occurs at these short time scales [\(Fig.
+
+--- SENTENCE 159 ---
+Due to variability in the amount and direction of linear extension within the branch tip, the length of the measureable areas was variable; therefore, the number of measurements made at each measureable area (every 20 μm) ranged from 3 to 14.
+
+--- SENTENCE 160 ---
+For each colony, we calculated the mean ( ± SD) linear extension per growth period.
+
+--- SENTENCE 161 ---
+To examine linear extension rate differences between the three growth periods across all measureable areas, we needed to look at relative differences in growth due to the spatial variability in the amount of linear extension across the branch tip (i.e., we observed that some areas of the branch tip grew more than other areas).
+
+--- SENTENCE 162 ---
+To do this for each measureable area, we calculated the ratios of linear extension that occurred during a given growth period over the mean growth of the three growth periods at that measureable area.
+
+--- SENTENCE 163 ---
+To test for differences in relative growth among growth periods, we used a Chisquare test.
+
+--- SENTENCE 164 ---
+The null hypothesis being that there are as many observations of growth that are below the mean as above the mean for a particular growth period.
+
+--- SENTENCE 165 ---
+We use boxplots to show the distribution of linear extension values for all measureable areas across all colonies for each growth period.
+
+--- SENTENCE 166 ---
+All analyses were done in R (v3.0).
+
+--- SENTENCE 167 ---
+Measurable areas*
+
+The number of areas where four stain lines were visible and, thus, where measurements were made (i.e., measureable areas) ranged from 3 to 44 per colony ([Table 1\)](#page-4-0).
+
+--- SENTENCE 168 ---
+The number of branch tips from which these measurements came ranged from 2 to 17 per colony [\(Table 1](#page-4-0)).
+
+--- SENTENCE 169 ---
+Skeletal thin sections prepared from colony AH75 revealed that there were very few measureable areas.
+
+--- SENTENCE 170 ---
+Across the six fragments stained for
+
+<span id="page-4-0"></span>**Table 1** The number of linear extension measurements made per colony of *Acropora hyacinthus* and the mean ( ± SD) linear extension per 5-day growth period.
+
+--- SENTENCE 171 ---
+| Colony | Grid   | No. of axial corallites<br>with growth data | Total # of measurable<br>areas | Mean ( ± SD) linear extension<br>(μm) during growth period 1 | Mean ( ± SD) linear extension<br>(μm) during growth period 2 | Mean ( ± SD) linear extension<br>(μm) during growth period 3 |
+|--------|--------|---------------------------------------------|--------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| AH06   | Grid 1 | 9                                           | 30                             | 13 ± 4.3                                                     | 14 ± 4.6                                                     | 14 ± 6.1                                                     |
+| AH75   | Grid 1 | 2                                           | 3                              | 22 ± 14.1                                                    | 27 ± 14.1                                                    | 20 ± 3.0                                                     |
+
+--- SENTENCE 172 ---
+| AH86   | Grid 1 | 12                                          | 38                             | 14 ± 5.3                                                     | 14 ± 5.6                                                     | 16 ± 7.4                                                     |
+| AH28   | Grid 2 | 5                                           | 10                             | 9 ± 4.6                                                      | 11 ± 4.2                                                     | 13 ± 4.6                                                     |
+| AH61   | Grid 2 | 13                                          | 39
+
+--- SENTENCE 173 ---
+| 16 ± 7.1                                                     | 18 ± 5.2                                                     | 21 ± 7.8                                                     |
+| AH89   | Grid 2 | 17                                          | 44                             | 16 ± 6.3                                                     | 18 ± 5.7                                                     | 19 ± 7.8                                                     |
+
+colony AH75, there were only three areas in two branch tips where the four stain lines were distinct, but we often observed areas with two and three stain lines.
+
+--- SENTENCE 174 ---
+We do not know why this was the case with this colony.
+
+--- SENTENCE 175 ---
+Our analyses only include measurements where all four stain lines were visible.
+
+### *3.2.
+
+--- SENTENCE 176 ---
+Five-day linear extension growth in the reef*
+
+In total we were able to make measurements at 164 measureable areas across 58 axial corallites from the six colonies of *A. hyacinthus*.
+
+--- SENTENCE 177 ---
+Not all parts of the skeleton grew equally, but of the areas where linear extension growth occurred during all three growth periods we found that it was fairly consistent through time and the amounts were fairly similar across colonies.
+
+--- SENTENCE 178 ---
+The average linear extension for each 5-day growth period ranged from 9 to 27 μm (
+
+--- SENTENCE 179 ---
+Across all samples, the distribution of linear extension values was similar for the three growth periods ([Fig.
+
+--- SENTENCE 180 ---
+4D](#page-6-0)); the means are all within a couple microns of each other, at about 15 μm per 5-day growth period.
+
+--- SENTENCE 181 ---
+We did not observe any significant differences in mean linear extension between the different corals on the two grids that were placed in the two back-reef locations ([Table 1](#page-4-0)).
+
+### *3.3.
+
+--- SENTENCE 182 ---
+Environmental differences between growth periods*
+
+The environmental data collected during the experiment demonstrate that the coral fragments were exposed to variable temperature, pH, and DO saturation ([Fig.
+
+--- SENTENCE 183 ---
+Growth period 2 had higher variability than growth periods 1 and 3 due to a series of strong low tides that occurred around midday and midnight ([Fig.
+
+--- SENTENCE 184 ---
+4A](#page-6-0)–C and [Table 2\)](#page-6-1).
+
+--- SENTENCE 185 ---
+The mean temperature, pH, and DO saturation were similar across the three growth periods, but the standard deviations were higher during growth period 2 than growth periods 1 and 3 ([Table 2](#page-6-1)).
+
+--- SENTENCE 186 ---
+The temperature of Grid 1 had a range of 5.4 °C, from a minimum of 26.5 °C to a maximum of 31.9 °C during growth period 2.
+
+--- SENTENCE 187 ---
+For Grid 2, the range was 3.5 °C, from 27.3 to 30.8 °C ([Table 2;](#page-6-1)
+
+--- SENTENCE 188 ---
+By contrast, during growth periods 1 and 3 the temperature ranges for Grid 1 were 2.2 °C and 1.9 °C, respectively, and for Grid 2 the ranges were 1.1 °C and 0.9 °C, respectively
+
+--- SENTENCE 189 ---
+Seawater pH followed a similar temporal pattern.
+
+--- SENTENCE 190 ---
+During growth period 2 the pH varied from 7.78 to 8.19, a range of 0.41 units, and during growth periods 1 and 3 the ranges were 0.33 and 0.25, respectively
+
+--- SENTENCE 191 ---
+[\(Table 2;](#page-6-1) [Fig. 4B](#page-6-0)).
+
+--- SENTENCE 192 ---
+The DO saturation during growth period 2 ranged from 47%, the lowest value during the experiment, to 219%, a range of 172%; the ranges for growth periods 1 and 3 were 92% and 75%, respectively ([Table 2;](#page-6-1)
+
+--- SENTENCE 193 ---
+As mentioned in the methods section, the pH and DO sensors were placed closer to Grid 1, which was in the part of the back reef that has been observed to have higher variability (i.e., high-variability pool) in temperature (small pool in([Oliver and Palumbi, 2011](#page-8-42))).
+
+--- SENTENCE 194 ---
+Grid 2 was placed in the part of the back reef where less variability (i.e., mediumvariability pool) in temperature has been observed (large pool in ([Oliver and Palumbi, 2011](#page-8-42))).
+
+--- SENTENCE 195 ---
+Because temperature, pH, and DO co-vary at this site (see ([Ruiz-Jones and Palumbi, 2017](#page-8-4)))
+
+--- SENTENCE 196 ---
+we suspect that pH and DO also had reduced variability (smaller ranges) in the location where Grid 2 was compared to Grid 1.
+
+--- SENTENCE 197 ---
+A long-term pH record we collected using two SeaFET pH sensors in 2011 shows exactly this pattern; reduced variability in the range of pH for the part of the reef where Grid 2 was place (the medium-variability pool in [Fig.
+
+--- SENTENCE 198 ---
+From the pH data collected in 2011, and in 2013 during the calcein experiment, we see that pH increases during the day, reaching the maximum at around 14:00 and falling to the minimum in the pre-dawn hours ([Fig.
+
+--- SENTENCE 199 ---
+Coral linear extension growth rates remained consistent across varying environmental conditions*
+
+We observed that linear extension was not significantly different between the three growth periods; all three growth periods have similar means and ranges ([Fig.
+
+--- SENTENCE 200 ---
+For each measurable area across all our samples, the differences in linear extension during each growth period from the mean growth (for the three growth periods) were small; the majority of measurements were within 5 μm.
+
+--- SENTENCE 201 ---
+We estimate the precision of our measurements is between 1 and 3 μm because calcein is not uniformly incorporated into the skeleton, resulting in a stain line that is about 1–3 μm thick (visible in [Fig. 2](#page-3-0)).
+
+--- SENTENCE 202 ---
+We are able to measure this because the micrographs were taken on a confocal microscope at 20×. Growth during growth period 2 was on average very close to the mean for the three growth periods.
+
+--- SENTENCE 203 ---
+We found that there was no observable increase or decrease in the amount of linear extension during growth period 2, when there was increased environmental variability, compared to the other two growth periods, which had more similar environmental conditions ([Fig. 4](#page-6-0)D).
+
+--- SENTENCE 204 ---
+Overall, we found that despite higher environmental variability during growth period 2, growth at measurable areas remained consistent through time with minor differences between growth periods that were mostly at the scale of 1–5 μm.
+
+## **4.
+
+--- SENTENCE 205 ---
+Discussion**
+
+We established an accurate field-based method to measure subweekly linear extension growth in reef-building corals.
+
+--- SENTENCE 206 ---
+This allowed us to carefully measure 5-day linear extension growth in colonies of *A. hyacinthus* living in a back-reef section of the US National Park of American Samoa.
+
+--- SENTENCE 207 ---
+We sequentially marked the skeleton and tracked linear extension during three consecutive growth periods with varying levels of environmental variability due to the tidal cycle.
+
+--- SENTENCE 208 ---
+We found that linear extension in *A. hyacinthus* on average ranges from 9 to 27 μm for a 5-day period, varies by a few microns from week to week, and is variable within the branch tip.
+
+--- SENTENCE 209 ---
+Despite temperature changes of 5 °C, swings in pH of almost half a unit, and shifts in oxygen availability we observed consistent linear extension across the three growth periods.
+
+--- SENTENCE 210 ---
+Our results suggest that the mechanism of calcification in *A. hyacinthus* results in consistent linear extension growth across the tidal cycle and if there are fluctuations in calcification rates over a daily cycle they are averaged out over several days.
+
+--- SENTENCE 211 ---
+However, as the environment changes and there are shifts in the mean temperature and pH corals are exposed to, the expectation is that calcification rates will be impacted in the long-term [\(Jokiel, 2016](#page-8-43)).
+
+--- SENTENCE 212 ---
+We think that the approach to measuring short-term linear extension rates we describe here is best suited for
+
+<span id="page-5-0"></span>![](_page_5_Figure_2.jpeg)
+
+**Fig.
+
+--- SENTENCE 213 ---
+Temperature, pH, and dissolved oxygen saturation during the three consecutive 5-day growth periods (data span August 12–28, 2013).
+
+--- SENTENCE 214 ---
+For temperature, the lighter gray temperature record is for grid 1, which was positioned closer to the pH and DO sensors.
+
+--- SENTENCE 215 ---
+Temperature was recorded every 10 min, pH was recorded every 20 min, and dissolved oxygen saturation was recorded every 10 min over the course of the experiment.
+
+--- SENTENCE 216 ---
+The vertical lines mark the staining days between growth periods 1 and 2 (August 17) and between growth periods 2 and 3 (August 23).
+
+--- SENTENCE 217 ---
+tracking changes in response to a sudden or rapid change in the environment, such as a temperature anomaly that results in bleaching or a point source pollution event in a coral reef.
+
+#### *4.1.
+
+--- SENTENCE 218 ---
+Measuring short-term coral growth in the field*
+
+Our approach used repeated staining with calcein to mark sequential sub-weekly growth periods that could be discerned under confocal microscopy.
+
+--- SENTENCE 219 ---
+Because this technique does not demand limited culture volumes during coral growth (as does the alkalinity depletion method, for example), it allowed us to measure linear extension over short time periods in field conditions.
+
+--- SENTENCE 220 ---
+However, our protocol is limited is several important ways.
+
+--- SENTENCE 221 ---
+First, it requires that corals be transferred to a laboratory setting in order to mark the skeleton with calcein during a 6 h incubation.
+
+--- SENTENCE 222 ---
+We took care to reduce experimental stress as much as possible by first attaching coral fragments onto grids that could be easily moved, then allowing the coral fragments to recover for 3 days in the field, and limiting the staining incubation to 6 h.
+
+--- SENTENCE 223 ---
+However, there is a possibility that our measurements are not what they would have been had the corals been handled less.
+
+--- SENTENCE 224 ---
+If stress from fragmentation and attachment to the grid was reduced over time, then we might expect to see increases in linear extension from one growth period to the next, but this is not apparent in the spread of linear extension values we measured [\(Fig.
+
+--- SENTENCE 225 ---
+The second limitation is that measurements require careful thin sectioning of the coral skeleton and meticulous examination with a powerful microscope.
+
+--- SENTENCE 226 ---
+Even then, we were unable to obtain a large sample size for one of the colonies (AH75)
+
+--- SENTENCE 227 ---
+due to the necessity of only examining locations in the branch tip where all four stain lines were visible.
+
+--- SENTENCE 228 ---
+We are unsure as to why colony AH75 had so few complete measureable areas, but one possibility is that the skeleton was less dense and therefore, more sensitive to shattering by the petrographic thin sectioning process.
+
+--- SENTENCE 229 ---
+The third limitation is that there is high variation in absolute linear extension across the branch tip.
+
+--- SENTENCE 230 ---
+As a result, we focused on relative linear extension by measuring the relative change among growth periods.
+
+--- SENTENCE 231 ---
+Lastly, our measurements only reflect one aspect of growth, linear extension.
+
+--- SENTENCE 232 ---
+Due to the limitations of measuring growth over 5 days in the field, we did not quantify the density of the newly added skeleton during each growth period and therefore, cannot calculate calcification rates.
+
+--- SENTENCE 233 ---
+In *Porites* corals across the central Great Barrier Reef there is a positive relationship between linear extension and calcification at annual scales ([D'Olivo et al., 2013](#page-8-3)), but under the circumstances of our study we are not able to determine if this is also the case for *A.*
+
+<span id="page-6-0"></span>![](_page_6_Figure_2.jpeg)
+
+**Fig.
+
+--- SENTENCE 234 ---
+Variability in temperature, pH, dissolved oxygen saturation, and linear extension for growth periods 1, 2, and 3. A)
+
+--- SENTENCE 235 ---
+Boxplots of temperature for Grids 1 (on the left) and 2 (on the right) for each growth period.
+
+--- SENTENCE 236 ---
+B) Boxplots of pH for each growth period.
+
+--- SENTENCE 237 ---
+C) Boxplots of DO saturation for each growth period.
+
+--- SENTENCE 238 ---
+D) Boxplots of linear extension growth for all samples for each growth period (n = 164).
+
+--- SENTENCE 239 ---
+The samples from the two grids are not separated, because there was no difference in linear extension between samples on the two grids.
+
+--- SENTENCE 240 ---
+*hyacinthus* at sub-weekly scales.
+
+--- SENTENCE 241 ---
+The advantage of our approach is that we were able to accurately quantify the amount of linear extension growth during 5 days in corals living in a coral reef at the precision of 1–3 μm.
+
+--- SENTENCE 242 ---
+The mechanism of calcification is buffered from tidally-driven environmental variability resulting in uniform linear extension growth rates across the tidal cycle*
+
+In our study, linear extension growth rates of *A. hyacinthus* remained consistent across the varying environmental conditions caused by the tidal cycle in the Ofu back-reef.
+
+--- SENTENCE 243 ---
+We found that during a period of increased environmental variability, but with fairly constant averages, *A. hyacinthus* showed as high a level of linear extension growth as during periods with less variability.
+
+--- SENTENCE 244 ---
+We were able to measure differences in linear extension of a few microns between the three growth periods.
+
+--- SENTENCE 245 ---
+As a result, we very likely would have detected responses to the increased environmental variability during the second growth period if there was a change greater than 5 μm.
+
+--- SENTENCE 246 ---
+[Table 2](#page-6-1) shows that the means for temperature, pH, and DO were not statistically different between the three growth periods, but the ranges were.
+
+--- SENTENCE 247 ---
+Going into the study we knew from previous studies looking at coral reef biogeochemistry that the mean values for temperature, pH, and DO remain similar during periods with different magnitude of diel variability
+
+--- SENTENCE 248 ---
+The results of our study suggest that under constant mean conditions, but variability in diel ranges linear extension remains constant and stable.
+
+--- SENTENCE 249 ---
+We are aware of one other study that looked at the relationship between calcification and environmental variability in coral reef systems.
+
+--- SENTENCE 250 ---
+[Price et al. \(2012\)](#page-8-30) examined the percent cover of early successional benthic reef calcifiers on PVC plates after seven months at sites across three Central Pacific islands with different magnitudes of diel pH variability.
+
+--- SENTENCE 251 ---
+Of the three polymorphs of calcium carbonate examined, only the percent cover of magnesium calcite, secreted primarily by crustose coralline algae and bryozoans, increased as the number of hours spent at high pH values each day increased.
+
+--- SENTENCE 252 ---
+Aragonite and calcite calcification rates did not show any relationship with diel pH variability ([Price et al., 2012](#page-8-30)); we also found that linear extension of the aragonite skeleton produced by *A. hyacinthus* in this study had no relationship with pH variability.
+
+--- SENTENCE 253 ---
+[Price et al. \(2012\)](#page-8-30) measured calcification/accretion after seven months; our study is the first we are aware of to measure linear extension over periods of less than a week in corals exposed to environmental variability in coral reef systems.
+
+--- SENTENCE 254 ---
+Our observations suggest that in *A. hyacinthus* the mechanism of calcification is not impacted by the increased variability in temperature, pH, and DO saturation that occur during days with strong low tides around midday and midnight, when temperature can vary by as much at 6 °C [\(Craig et al., 2001](#page-8-32)) and pH by as much at 0.58 units ([Koweek et al., 2015](#page-8-33)).
+
+--- SENTENCE 255 ---
+The calcification resilience to the short-term environmental variation we observed in the Ofu back-reef could take several different forms.
+
+--- SENTENCE 256 ---
+Corals may have acclimatized to these
+
+<span id="page-6-1"></span>**Table 2**
+
+--- SENTENCE 257 ---
+The mean ( ± SD)
+
+--- SENTENCE 258 ---
+and range for temperature, pH, and dissolved oxygen saturation during growth periods 1, 2, and 3.
+
+--- SENTENCE 259 ---
+Temperature was recorded every 10 min, pH was recorded every 20 min, and dissolved oxygen saturation was recorded every 10 min over the course of the experiment.
+
+--- SENTENCE 260 ---
+| Environmental variable                       | Period 1       | Period 2       | Period 3       |
+|----------------------------------------------|----------------|----------------|----------------|
+| Temperature (°C) mean ( ± SD) grid 1         | 27.9 ( ± 0.4)
+
+--- SENTENCE 261 ---
+| 28.1 ( ± 0.9)
+
+--- SENTENCE 262 ---
+| 28.4 ( ± 0.4)  |
+| Temperature (°C) range grid 1                | 2.2            | 5.4            | 1.9            |
+| Temperature (°C) mean ( ± SD) grid 2         | 28.0 ( ± 0.2)
+
+--- SENTENCE 263 ---
+| 28.1 ( ± 0.6)  | 28.4 ( ± 0.2)  |
+| Temperature (°C) range grid 2                | 1.1            | 3.5            | 0.9            |
+| pH mean ( ± SD)
+
+--- SENTENCE 264 ---
+| 7.97 ( ± 0.06)
+
+--- SENTENCE 265 ---
+| 7.99 ( ± 0.09) | 7.96 ( ± 0.06)
+
+--- SENTENCE 266 ---
+|
+| pH range                                     | 0.33           | 0.41           | 0.25           |
+| Dissolved oxygen saturation (%) mean ( ± SD)
+
+--- SENTENCE 267 ---
+| 97 ( ± 17)
+
+--- SENTENCE 268 ---
+| 107 ( ± 37)
+
+--- SENTENCE 269 ---
+| 100 ( ± 14)    |
+| Dissolved oxygen saturation (%) range
+
+--- SENTENCE 270 ---
+| 92             | 172            | 75             |
+
+<span id="page-7-7"></span>![](_page_7_Figure_2.jpeg)
+
+**Fig.
+
+--- SENTENCE 271 ---
+The pH of the Ofu back-reef at two locations, the high- and medium-variability pools (A) and the maximum, mean, and minimum pH values at 20 min intervals over the 24 h cycle for the high-variability pool (B).
+
+--- SENTENCE 272 ---
+In 2011 the SeaFET pH sensors were approximately 0.5 km apart at the locations designated by the stars in [Fig.
+
+--- SENTENCE 273 ---
+The dataset used in the 24 h plot is from the 73 days of data shown in plot A.
+
+conditions or have genetic adaptions to deal with such environmental variability.
+
+--- SENTENCE 274 ---
+From previous research at this particular reef, we know that corals are capable of acclimatizing to more variable environments by shifting gene expression at many genes ([Palumbi et al., 2014\)](#page-8-37) and that over 100 single nucleotide polymorphisms are differentially observed between highly- and moderately-variable areas of the back-reef ([Bay](#page-7-5)
+
+--- SENTENCE 275 ---
+Alternatively, during periods of increased environmental variability the drawdown of CO2 by photosynthesis during daytime low tides, coupled with higher temperatures, may provide more favorable calcification conditions due to increased pH and the potential for higher metabolic rates.
+
+--- SENTENCE 276 ---
+However, a more likely scenario is that any diel variability in the environment has no influence because corals highly regulate the calcification process.
+
+--- SENTENCE 277 ---
+At the site of calcification, pH, carbonate ion concentration, and aragonite saturation state are elevated by cellular mechanisms [\(Cai](#page-7-8) [et al., 2016](#page-7-8); [Georgiou et al., 2015;](#page-8-44)
+
+--- SENTENCE 278 ---
+[Sevilgen et al., 2019](#page-8-45);
+
+--- SENTENCE 279 ---
+Laboratory studies that exposed corals to oscillating pH found no negative effect on calcification ([Comeau et al., 2014;](#page-7-9)
+
+--- SENTENCE 280 ---
+[2012\)](#page-8-46), suggesting that short-term growth is resilient to pH variability.
+
+--- SENTENCE 281 ---
+In fact, naturally oscillating pH in the reef may benefit corals by increasing nighttime storage of dissolved inorganic carbon to fuel daytime calcification [\(Dufault et al., 2012\)](#page-8-46) and may also reduce the negative effects of ocean acidification
+
+--- SENTENCE 282 ---
+[\(Comeau et al., 2014\)](#page-7-9).
+
+--- SENTENCE 283 ---
+Furthermore, corals living in the Kimberley region of Australia, where there are extreme temperature variations due to the tides, show signs of calcification resilience to the extreme conditions ([Dandan et al., 2015](#page-8-5)).
+
+--- SENTENCE 284 ---
+Our methodology highlights the feasibility of quantifying linear extension at short temporal scales in corals living in their native habitat.
+
+--- SENTENCE 285 ---
+Being able to measure different aspects of coral growth in the reef is important to understanding the link between coral physiology and environment during a time of increased prevalence of stressors in coral reefs.
+
+--- SENTENCE 286 ---
+Conclusions**
+
+Around the world coral reefs are facing both local and global stressors ([Hughes et al., 2017](#page-8-47)).
+
+--- SENTENCE 287 ---
+The recent increase in the frequency of mass bleaching events highlights the need for more immediate action towards effectively managing reefs.
+
+--- SENTENCE 288 ---
+Managing local stressors can increase coral resilience to climate change [\(Scheffer et al., 2015](#page-8-1)).
+
+--- SENTENCE 289 ---
+For example, when pollution, sedimentation, and overfishing are managed at regional and local scales, reefs can be more resilient to pulse-type stressors such as bleaching events, tropical cyclones, and crown of thorns starfish outbreaks
+
+--- SENTENCE 290 ---
+[\(Anthony et al., 2014\)](#page-7-10).
+
+--- SENTENCE 291 ---
+Coral growth can be used as a physiological metric for coral health.
+
+--- SENTENCE 292 ---
+Traditionally field coral growth measurements are over annual and seasonal timescales, but some local stressors may occur at shorter timescales.
+
+--- SENTENCE 293 ---
+Our sub-weekly linear extension measurement technique can be implemented immediately following a pulse-type stress event in the reef to quantify the impact on coral skeletal linear extension.
+
+--- SENTENCE 294 ---
+By monitoring diverse aspects of coral physiology at time scales relevant to metabolic and environmental cycles, we improve our ability to develop diagnostic coral health tools.
+
+#### **Acknowledgements**
+
+We are grateful for the assistance the National Park Service of American Samoa provided, especially Carlo Caruso and Ricky Misa'alefua.
+
+--- SENTENCE 295 ---
+We are grateful for advice from Michael Holcomb and Anne Cohen.
+
+--- SENTENCE 296 ---
+Funding was provided by a NPS George M. Wright Climate Change Youth Initiative Fellowship to LJRJ.
+
+--- SENTENCE 297 ---
+Additional funding was provided by the Gordon and Betty Moore Foundation (grant #2629) and the Stanford Woods Institute for the Environment.
+
+--- SENTENCE 298 ---
+Several Palumbi Lab members, especially Zack Gold, were instrumental in data collection—thank you.
+
+--- SENTENCE 299 ---
+LJRJ was supported by a National Science Foundation Graduate Research Fellowship and a Stanford DARE fellowship.
+
+--- SENTENCE 300 ---
+We appreciate the time and effort of two anonymous reviewers whose comments helped improve the article.
+
+#### **References**
+
+<span id="page-7-3"></span>Albright, R., Langdon, C., Anthony, K.R.N., 2013.
+
+--- SENTENCE 301 ---
+Dynamics of seawater carbonate chemistry, production, and calcification of a coral reef flat, central Great Barrier Reef.
+
+--- SENTENCE 302 ---
+https://doi.org/10.5194/bg-10-6747-2013>.
+
+<span id="page-7-1"></span>Anderson, K.D., Heron, S.F., Pratchett, M.S., 2015.
+
+--- SENTENCE 303 ---
+Species-specific declines in the linear extension of branching corals at a subtropical reef, Lord Howe Island.
+
+--- SENTENCE 304 ---
+Coral Reefs 34, 479–490.
+
+--- SENTENCE 305 ---
+<span id="page-7-10"></span>Anthony, K.R.N., Marshall, P.A., Abdulla, A., Beeden, R., Bergh, C., Black, R., Eakin, C.M., Game, E.T., Gooch, M., Graham, N.A.J., Green, A., Heron, S.F., van Hooidonk, R., Knowland, C., Mangubhai, S., Marshall, N., Maynard, J.A., McGinnity, P., McLeod, E., Mumby, P.J., Nyström, M., Obura, D., Oliver, J., Possingham, H.P., Pressey, R.L., Rowlands, G.P., Tamelander, J., Wachenfeld, D., Wear, S., 2014.
+
+--- SENTENCE 306 ---
+Operationalizing resilience for adaptive coral reef management under global environmental change.
+
+--- SENTENCE 307 ---
+[https://doi.org/10.1111/gcb.12700.](https://doi.org/10.1111/gcb.12700)
+
+<span id="page-7-4"></span><span id="page-7-2"></span>[Barnes, D.J., Lough, J.M., 1989.
+
+--- SENTENCE 308 ---
+The nature of skeletal density banding in scleractinian](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0020)
+
+--- SENTENCE 309 ---
+[corals: fine banding and seasonal patterns.
+
+--- SENTENCE 310 ---
+Barshis, D., Ladner, J.T., Oliver, T., Seneca, F., Traylor-Knowles, N., Palumbi, S., 2013.
+
+--- SENTENCE 311 ---
+Genomic basis for coral resilience to climate change.
+
+--- SENTENCE 312 ---
+<span id="page-7-5"></span>Bay, R.A., Palumbi, S.R., 2014.
+
+--- SENTENCE 313 ---
+Multilocus adaptation associated with heat resistance in reef-building corals.
+
+--- SENTENCE 314 ---
+[https://doi.org/10.1016/j.cub.2014.10.044.](https://doi.org/10.1016/j.cub.2014.10.044) Brahmi, C., Meibom, A., Smith, D.C., Stolarski, J., Auzoux-Bordenave, S., Nouet, J.,
+
+<span id="page-7-6"></span>Doumenc, D., Djediat, C., Domart-Coulon, I., 2009.
+
+--- SENTENCE 315 ---
+Skeletal growth, ultrastructure and composition of the azooxanthellate scleractinian coral *Balanophyllia regia*.
+
+--- SENTENCE 316 ---
+Coral Reefs 29, 175–189.
+
+--- SENTENCE 317 ---
+<span id="page-7-8"></span>Cai, W.-J., Ma, Y., Hopkinson, B.M., Grottoli, A.G., Warner, M.E., Ding, Q., Hu, X., Yuan, X., Schoepf, V., Xu, H., Han, C., Melman, T.F., Hoadley, K.D., Pettay, D.T., Matsui, Y., Baumann, J.H., Levas, S., Ying, Y., Wang, Y., 2016.
+
+--- SENTENCE 318 ---
+Microelectrode characterization of coral daytime interior pH and carbonate chemistry.
+
+--- SENTENCE 319 ---
+[https://doi.org/10.1038/ncomms11144.](https://doi.org/10.1038/ncomms11144)
+
+<span id="page-7-0"></span>Cantin, N.E., Cohen, A.L., Karnauskas, K.B., Tarrant, A.M., McCorkle, D.C., 2010.
+
+--- SENTENCE 320 ---
+Ocean warming slows coral growth in the central red sea.
+
+--- SENTENCE 321 ---
+<span id="page-7-9"></span>Comeau, S., Edmunds, P.J., Spindel, N.B., Carpenter, R.C., 2014.
+
+--- SENTENCE 322 ---
+Diel pCO2 oscillations modulate the response of the coral *Acropora hyacinthus* to ocean acidification.
+
+--- SENTENCE 323 ---
+Ser. 501, 99–111. <https://doi.org/10.3354/meps10690>.
+- <span id="page-8-32"></span>Craig, P., Birkeland, C., Belliveau, S., 2001.
+
+--- SENTENCE 324 ---
+High temperatures tolerated by a diverse assemblage of shallow-water corals in American Samoa.
+
+--- SENTENCE 325 ---
+Coral Reefs 20, 185–189.
+
+--- SENTENCE 326 ---
+[https://doi.org/10.1007/s003380100159.](https://doi.org/10.1007/s003380100159)
+- <span id="page-8-5"></span>Dandan, S.S., Falter, J.L., Lowe, R.J., McCulloch, M.T., 2015.
+
+--- SENTENCE 327 ---
+Resilience of coral calcification to extreme temperature variations in the Kimberley region, Northwest
+- <span id="page-8-26"></span>Australia.
+
+--- SENTENCE 328 ---
+Coral Reefs 34, 1151–1163.
+
+--- SENTENCE 329 ---
+Short-term growth measurements of corals using an accurate buoyant](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0065)
+
+--- SENTENCE 330 ---
+101, 389–395.](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0065)
+- <span id="page-8-6"></span>[Dodge, R.E., Brass, G.W., 1984.
+
+--- SENTENCE 331 ---
+Skeletal extension, density and calcification of the reef](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0070) coral, *Montastrea annularis*[: St. Croix, US Virgin Islands.
+
+--- SENTENCE 332 ---
+B Mar. Sci. 34, 288–307](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0070).
+- <span id="page-8-3"></span>D'Olivo, J.P., McCulloch, M.T., Judd, K., 2013.
+
+--- SENTENCE 333 ---
+Long-term records of coral calcification across the central Great Barrier Reef: assessing the impacts of river runoff and climate change.
+
+--- SENTENCE 334 ---
+Coral Reefs 32, 999–1012.
+
+--- SENTENCE 335 ---
+<https://doi.org/10.1007/s00338-013-1071-8>.
+- <span id="page-8-46"></span>Dufault, A.M., Cumbo, V.R., Fan, T.-Y., Edmunds, P.J., 2012.
+
+--- SENTENCE 336 ---
+Effects of diurnally oscillating *p*CO2 on the calcification and survival of coral recruits.
+
+--- SENTENCE 337 ---
+<https://doi.org/10.1098/rspb.2011.2545>.
+- <span id="page-8-0"></span>Ferrario, F., Beck, M.W., Storlazzi, C.D., Micheli, F., Shepard, C.C., Airoldi, L., 2014.
+
+--- SENTENCE 338 ---
+The effectiveness of coral reefs for coastal hazard risk reduction and adaptation.
+
+--- SENTENCE 339 ---
+<https://doi.org/10.1038/ncomms4794>.
+- <span id="page-8-40"></span>Gagnon, A.C., Adkins, J.F., Erez, J., 2012.
+
+--- SENTENCE 340 ---
+Seawater transport during coral biomineralization.
+
+--- SENTENCE 341 ---
+[2012.03.005](https://doi.org/10.1016/j.epsl.2012.03.005).
+- Gagnon, A.C., Adkins, J.F., Erez, J., Eiler, J.M., Guan, Y., 2013.
+
+--- SENTENCE 342 ---
+Sr/Ca sensitivity to aragonite saturation state in cultured subsamples from a single colony of coral: mechanism of biomineralization during ocean acidification.
+
+--- SENTENCE 343 ---
+[https://doi.org/10.1016/j.gca.2012.11.038.](https://doi.org/10.1016/j.gca.2012.11.038)
+- <span id="page-8-44"></span>Georgiou, L., Falter, J., Trotter, J., Kline, D.I., Holcomb, M., Dove, S.G., Hoegh-Guldberg, O., McCulloch, M., 2015.
+
+--- SENTENCE 344 ---
+pH homeostasis during coral calcification in a free ocean CO 2enrichment (FOCE) experiment, Heron Island reef flat, Great Barrier Reef.
+
+--- SENTENCE 345 ---
+[https://doi.org/10.1073/pnas.1505586112.](https://doi.org/10.1073/pnas.1505586112)
+- <span id="page-8-22"></span>[Goreau, T.F., 1959.
+
+--- SENTENCE 346 ---
+The physiology of skeleton formation in corals.
+
+--- SENTENCE 347 ---
+I. A method for](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0105)
+
+--- SENTENCE 348 ---
+[measuring the rate of calcium deposition by corals under different conditions.
+
+--- SENTENCE 349 ---
+[Bull. 116, 59–75.](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0105)
+- <span id="page-8-36"></span>Gray, S.E.C., DeGrandpre, M.D., Langdon, C., Corredor, J.E., 2012.
+
+--- SENTENCE 350 ---
+Short-term and seasonal pH, pCO 2and saturation state variability in a coral-reef ecosystem.
+
+--- SENTENCE 351 ---
+[https://doi.org/10.1029/2011GB004114.](https://doi.org/10.1029/2011GB004114)
+- <span id="page-8-35"></span>Guadayol, Ò., Silbiger, N.J., Donahue, M.J., Thomas, F.I.M., 2014.
+
+--- SENTENCE 352 ---
+Patterns in temporal variability of temperature, oxygen and pH along an environmental gradient in a coral reef.
+
+--- SENTENCE 353 ---
+<https://doi.org/10.1371/journal.pone.0085213.t002>.
+- <span id="page-8-28"></span>Hofmann, G.E., Smith, J.E., Johnson, K.S., Send, U., Levin, L.A., Micheli, F., Paytan, A., Price, N.N., Peterson, B., Takeshita, Y., Matson, P.G., Crook, E.D., Kroeker, K.J., Gambi, M.C., Rivest, E.B., Frieder, C.A., Yu, P.C., Martz, T.R., 2011.
+
+--- SENTENCE 354 ---
+High-frequency dynamics of ocean pH: a multi-ecosystem comparison.
+
+--- SENTENCE 355 ---
+[doi.org/10.1371/journal.pone.0028983.](https://doi.org/10.1371/journal.pone.0028983)
+- <span id="page-8-24"></span>Holcomb, M., Cohen, A.L., Gabitov, R.I., Hutter, J.L., 2009.
+
+--- SENTENCE 356 ---
+Compositional and morphological features of aragonite precipitated experimentally from seawater and biogenically by corals.
+
+--- SENTENCE 357 ---
+[1016/j.gca.2009.04.015.](https://doi.org/10.1016/j.gca.2009.04.015)
+- <span id="page-8-18"></span>Holcomb, M., Cohen, A.L., McCorkle, D.C., 2013.
+
+--- SENTENCE 358 ---
+An evaluation of staining techniques for marking daily growth in scleractinian corals.
+
+--- SENTENCE 359 ---
+[https://doi.org/10.1016/j.jembe.2012.12.003.](https://doi.org/10.1016/j.jembe.2012.12.003)
+- <span id="page-8-25"></span>Holcomb, M., Tambutté, É., Allemand, D., Tambutté, S., 2014.
+
+--- SENTENCE 360 ---
+Light enhanced calcification in *Stylophora pistillata*: effects of glucose, glycerol and oxygen.
+
+--- SENTENCE 361 ---
+Peer J. 2, 1–18.
+
+--- SENTENCE 362 ---
+<https://doi.org/10.7717/peerj.375/supp-1>.
+- <span id="page-8-47"></span>Hughes, T.P., Barnes, M.L., Bellwood, D.R., Cinner, J.E., Cumming, G.S., Jackson, J.B.C., Kleypas, J., van de Leemput, I.A., Lough, J.M., Morrison, T.H., Palumbi, S.R., van Nes, E.H., Scheffer, M., 2017.
+
+--- SENTENCE 363 ---
+Coral reefs in theaAnthropocene.
+
+--- SENTENCE 364 ---
+[https://doi.org/10.1038/nature22901.](https://doi.org/10.1038/nature22901)
+- <span id="page-8-43"></span>Jokiel, P.L., 2016.
+
+--- SENTENCE 365 ---
+Predicting the impact of ocean acidification on coral reefs: evaluating the assumptions involved.
+
+--- SENTENCE 366 ---
+ICES J. Mar. Sci. 73, 550–557.
+
+--- SENTENCE 367 ---
+[icesjms/fsv091.](https://doi.org/10.1093/icesjms/fsv091)
+- <span id="page-8-34"></span>Kline, D.I., Teneva, L., Hauri, C., Schneider, K., Miard, T., Chai, A., Marker, M., Dunbar, R., Caldeira, K., Lazar, B., Rivlin, T., Mitchell, B.G., Dove, S., Hoegh-Guldberg, O., 2015.
+
+--- SENTENCE 368 ---
+Six month in situ high-resolution carbonate chemistry and temperature study on a coral reef flat reveals asynchronous pH and temperature anomalies.
+
+--- SENTENCE 369 ---
+<https://doi.org/10.1371/journal.pone.0127648.s002>.
+- <span id="page-8-7"></span>[Knutson, D.W., Buddemeier, R.W., Smith, S.V., 1972.
+
+--- SENTENCE 370 ---
+[growth bands in reef corals.
+
+--- SENTENCE 371 ---
+Science 177, 270–272](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0155).
+- <span id="page-8-29"></span>Koweek, D., Dunbar, R.B., Rogers, J.S., Williams, G.J., Price, N., Mucciarone, D., Teneva, L., 2014.
+
+--- SENTENCE 372 ---
+Environmental and ecological controls of coral community metabolism on Palmyra Atoll.
+
+--- SENTENCE 373 ---
+Coral Reefs 34, 339–351.
+
+--- SENTENCE 374 ---
+[1217-3.](https://doi.org/10.1007/s00338-014-1217-3)
+- <span id="page-8-33"></span>Koweek, D.A., Dunbar, R.B., Monismith, S.G., Mucciarone, D.A., Woodson, C.B., Samuel, L., 2015.
+
+--- SENTENCE 375 ---
+High-resolution physical and biogeochemical variability from a shallow back reef on Ofu, American Samoa: an end-member perspective.
+
+--- SENTENCE 376 ---
+Coral Reefs 34, 979–991.
+
+--- SENTENCE 377 ---
+<https://doi.org/10.1007/s00338-015-1308-9>.
+- <span id="page-8-8"></span>Kuffner, I.B., Hickey, T.D., Morrison, J.M., 2013.
+
+--- SENTENCE 378 ---
+Calcification rates of the massive coral *Siderastrea siderea* and crustose coralline algae along the Florida Keys (USA) outerreef tract.
+
+--- SENTENCE 379 ---
+Coral Reefs 32, 987–997.
+
+--- SENTENCE 380 ---
+[https://doi.org/10.1007/s00338-013-1047-8.](https://doi.org/10.1007/s00338-013-1047-8)
+- <span id="page-8-41"></span>Ladner, J.T., Palumbi, S.R., 2012.
+
+--- SENTENCE 381 ---
+Extensive sympatry, cryptic diversity and introgression
+
+- throughout the geographic distribution of two coral species complexes.
+
+--- SENTENCE 382 ---
+[https://doi.org/10.1111/j.1365-294X.2012.05528.x.](https://doi.org/10.1111/j.1365-294X.2012.05528.x)
+- <span id="page-8-19"></span>Lough, J.M., 2010.
+
+--- SENTENCE 383 ---
+Climate records from corals.
+
+--- SENTENCE 384 ---
+[doi.org/10.1002/wcc.39](https://doi.org/10.1002/wcc.39).
+- <span id="page-8-9"></span>[Lough, J.M., Barnes, D.J., 2000.
+
+--- SENTENCE 385 ---
+Environmental controls on growth of the massive coral](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0185) *Porites*[. J. Exp.
+
+--- SENTENCE 386 ---
+245, 225–243.](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0185)
+- <span id="page-8-20"></span>[Lough, J.M., Cantin, N.E., 2014.
+
+--- SENTENCE 387 ---
+Perspectives on massive coral growth rates in a changing](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0190)
+
+--- SENTENCE 388 ---
+226, 187–202.](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0190)
+- <span id="page-8-10"></span>Lough, J.M., Cantin, N.E., Benthuysen, J.A., Cooper, T.F., 2015.
+
+--- SENTENCE 389 ---
+Environmental drivers of growth in massive *Porites* corals over 16 degrees of latitude along Australia's northwest shelf.
+
+--- SENTENCE 390 ---
+<https://doi.org/10.1002/lno.10244>.
+- <span id="page-8-11"></span>Manzello, D.P., 2010.
+
+--- SENTENCE 391 ---
+Coral growth with thermal stress and ocean acidification: lessons from the eastern tropical Pacific.
+
+--- SENTENCE 392 ---
+Coral Reefs 29, 749–758.
+
+--- SENTENCE 393 ---
+[s00338-010-0623-4.](https://doi.org/10.1007/s00338-010-0623-4)
+- <span id="page-8-12"></span>Manzello, D.P., Enochs, I.C., Kolodziej, G., Carlton, R., 2015.
+
+--- SENTENCE 394 ---
+Recent decade of growth and calcification of *Orbicella faveolata* in the Florida keys: an inshore-offshore comparison.
+
+--- SENTENCE 395 ---
+[https://doi.org/10.3354/meps11085.](https://doi.org/10.3354/meps11085)
+- <span id="page-8-27"></span>Monismith, S.G., 2013.
+
+--- SENTENCE 396 ---
+Flow through a rough, shallow reef.
+
+--- SENTENCE 397 ---
+Coral Reefs 33, 99–104.
+
+--- SENTENCE 398 ---
+[https://doi.org/10.1007/s00338-013-1107-0.](https://doi.org/10.1007/s00338-013-1107-0)
+- <span id="page-8-13"></span>Neal, B.P., Lin, T.-H., Winter, R.N., Treibitz, T., Beijbom, O., Kriegman, D., Kline, D.I., Greg Mitchell, B., 2015.
+
+--- SENTENCE 399 ---
+Methods and measurement variance for field estimations of coral colony planar area using underwater photographs and semi-automated image segmentation.
+
+--- SENTENCE 400 ---
+[496–11.](https://doi.org/10.1007/s10661-015-4690-4)
+- <span id="page-8-42"></span>Oliver, T., Palumbi, S.R., 2011.
+
+--- SENTENCE 401 ---
+Do fluctuating temperature environments elevate coral thermal tolerance?
+
+--- SENTENCE 402 ---
+Coral Reefs 30, 429–440.
+
+--- SENTENCE 403 ---
+[0721-y](https://doi.org/10.1007/s00338-011-0721-y).
+- <span id="page-8-37"></span>Palumbi, S.R., Barshis, D.J., Traylor-Knowles, N., Bay, R., 2014.
+
+--- SENTENCE 404 ---
+Mechanisms of reef coral resistance to future climate change.
+
+--- SENTENCE 405 ---
+[https://doi.org/10.1126/](https://doi.org/10.1126/science.1250466) [science.1250466.](https://doi.org/10.1126/science.1250466)
+- <span id="page-8-21"></span>[Pratchett, M.S., Anderson, K.D., Hoogenboom, M.O., Widman, E., Baird, A.H., Pandolfi,](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0230)
+
+--- SENTENCE 406 ---
+[J.M., Edmunds, P.J., Lough, J.M., 2015.
+
+--- SENTENCE 407 ---
+Spatial, temporal and taxonomic variation in](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0230)
+
+--- SENTENCE 408 ---
+[coral growth—implications for the structure and function of coral reef ecosystems.](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0230)
+
+--- SENTENCE 409 ---
+Rev. 53, 215–295](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0230).
+- <span id="page-8-30"></span>Price, N.N., Martz, T.R., Brainard, R.E., Smith, J.E., 2012.
+
+--- SENTENCE 410 ---
+Diel variability in seawater pH relates to calcification and benthic community structure on coral reefs.
+
+--- SENTENCE 411 ---
+<https://doi.org/10.1371/journal.pone.0043843.s009>.
+- <span id="page-8-17"></span>[Risk, M.J., Pearce, T.H., 1992.
+
+--- SENTENCE 412 ---
+Interference imaging of daily growth bands in massive](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0240)
+
+--- SENTENCE 413 ---
+Nature 358, 572–573.](http://refhub.elsevier.com/S0022-0981(18)30394-0/rf0240)
+- <span id="page-8-4"></span>Ruiz-Jones, L.J., Palumbi, S.R., 2017.
+
+--- SENTENCE 414 ---
+Tidal heat pulses on a reef trigger a fine-tuned transcriptional response in corals to maintain homeostasis.
+
+--- SENTENCE 415 ---
+[10.1126/sciadv.1601298.](https://doi.org/10.1126/sciadv.1601298) e1601298–11.
+- <span id="page-8-38"></span>Safaie, Aryan, Nyssa J. Silbiger, Timothy R. McClanahan, Geno Pawlak, Daniel J. Barshis, James L. Hench, Justin S. Rogers, Gareth J. Williams, Kristen A. Davis, 2018.
+
+--- SENTENCE 416 ---
+High frequency temperature variability reduces the risk of coral bleaching.
+
+--- SENTENCE 417 ---
+Comm. 9 (1), 1–12.
+
+--- SENTENCE 418 ---
+<https://doi.org/10.1038/s41467-018-04074-2>.
+- <span id="page-8-14"></span>Samiei, J.V., Saleh, A., Shirvani, A., Fumani, N.S., Hashtroudi, M., Pratchett, M.S., 2016.
+
+--- SENTENCE 419 ---
+Variation in calcification rate of *Acropora downingi* relative to seasonal changes in environmental conditions in the northeastern Persian Gulf.
+
+--- SENTENCE 420 ---
+Coral Reefs 35, 1–12.
+
+--- SENTENCE 421 ---
+[https://doi.org/10.1007/s00338-016-1464-6.](https://doi.org/10.1007/s00338-016-1464-6)
+- <span id="page-8-1"></span>Scheffer, M., Barrett, S., Carpenter, S.R., Folke, C., Green, A.J., Holmgren, M., Hughes, T.P., Kosten, S., van de Leemput, I.A., Nepstad, D.C., van Nes, E.H., Peeters, E., Walker, B., 2015.
+
+--- SENTENCE 422 ---
+Creating a safe operating space for iconic ecosystems.
+
+--- SENTENCE 423 ---
+<https://doi.org/10.1126/science.aaa9484>.
+- <span id="page-8-45"></span>Sevilgen, D.S., Venn, A.A., Hu, M.Y., Tambutté, É., de Beer, D., Planas-Bielsa, V., Tambutté, S., 2019.
+
+--- SENTENCE 424 ---
+Full in vivo characterization of carbonate chemistry at the site of calcification in corals.
+
+--- SENTENCE 425 ---
+[aau7447](https://doi.org/10.1126/sciadv.aau7447).
+- <span id="page-8-2"></span>Silverman, J., Schneider, K., Kline, D.I., Rivlin, T., Rivlin, A., Hamylton, S., Lazar, B., Erez, J., Caldeira, K., 2014.
+
+--- SENTENCE 426 ---
+Community calcification in Lizard Island, Great Barrier Reef: a 33 year perspective.
+
+--- SENTENCE 427 ---
+[1016/j.gca.2014.09.011.](https://doi.org/10.1016/j.gca.2014.09.011)
+- <span id="page-8-31"></span>Smith, J.E., Price, N.N., Nelson, C.E., Haas, A.F., 2013.
+
+--- SENTENCE 428 ---
+Coupled changes in oxygen concentration and pH caused by metabolism of benthic coral reef organisms.
+
+--- SENTENCE 429 ---
+[https://doi.org/10.1007/s00227-013-2239-z.](https://doi.org/10.1007/s00227-013-2239-z)
+- <span id="page-8-39"></span>Tambutte, E., Tambutte, S., Segonds, N., Zoccola, D., Venn, A., Erez, J., Allemand, D., 2011.
+
+--- SENTENCE 430 ---
+Calcein labelling and electrophysiology: insights on coral tissue permeability and calcification.
+
+--- SENTENCE 431 ---
+[2011.0733](https://doi.org/10.1098/rspb.2011.0733).
+- <span id="page-8-15"></span>Tortolero-Langarica, J.J.A., Rodríguez-Troncoso, A.P., Carricart-Ganivet, J.P., Cupul-Magaña, A.L., 2016.
+
+--- SENTENCE 432 ---
+Skeletal extension, density and calcification rates of massive free-living coral *Porites lobata* Dana, 1846.
+
+--- SENTENCE 433 ---
+[https://doi.org/10.1016/j.jembe.2016.02.005.](https://doi.org/10.1016/j.jembe.2016.02.005)
+- <span id="page-8-23"></span>Venn, A.A., Tambutte, E., Holcomb, M., Laurent, J., Allemand, D., 2012.
+
+--- SENTENCE 434 ---
+Impact of seawater acidification on pH at the tissue-skeleton interface and calcification in reef corals.
+
+--- SENTENCE 435 ---
+[1216153110/-/DCSupplemental/pnas.201216153SI.pdf](https://doi.org/10.1073/pnas.1216153110/-/DCSupplemental/pnas.201216153SI.pdf).
+- <span id="page-8-16"></span>Venti, A., Andersson, A., Langdon, C., 2014.
+
+--- SENTENCE 436 ---
+Multiple driving factors explain spatial and temporal variability in coral calcification rates on the Bermuda platform.
+
+--- SENTENCE 437 ---
+Coral Reefs 33, 979–997.
+

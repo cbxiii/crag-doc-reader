@@ -1,0 +1,2186 @@
+--- SENTENCE 1 ---
+# Shallow-Water Benthic Habitats of American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands:
+
+!
+
+--- SENTENCE 2 ---
+[](_page_0_Picture_1.jpeg)
+
+National Oceanic and Atmospheric Administration National Ocean Service National Centers for Coastal Ocean Science Center for Coastal Monitoring and Assessment
+
+!
+
+--- SENTENCE 3 ---
+[](_page_0_Picture_4.jpeg)
+
+### **Contents**
+
+| Introduction2                                                 |
+|---------------------------------------------------------------|
+| Chapter 1: Classification Scheme for Benthic Habitats         |
+| Developing the Habitat Classification Scheme3                 |
+| General Description of the Classification Scheme3             |
+| List of Covers, Structures, and Zones4                        |
+| Description of Covers5                                        |
+| Description of Structures8                                    |
+| Description of Zones11                                        |
+| Chapter 2: On-Screen Mapping with ArcView's Habitat Digitizer |
+
+--- SENTENCE 4 ---
+| Getting Started14                                             |
+| The Habitat Digitizer Menu15                                  |
+| Digitizing Restrictions20                                     |
+| Creating a Theme and Using the Digitizing Tools20             |
+| Chapter 3: Creating and Interpreting Digital Orthophotos      |
+| Satellite Imagery23                                           |
+| Mosaicking the Imagery24                                      |
+| Digitizing Benthic Habitats26                                 |
+| Ground Validation<br>27                                       |
+| Chapter 4: Assessment of Classification Accuracy              |
+| Evaluating Thematic Accuracy29                                |
+| References32                                                  |
+
+### **Introduction**
+
+The National Oceanic and Atmospheric Administration (NOAA)
+
+--- SENTENCE 5 ---
+National Ocean Service (NOS) initiated a coral reef research program in 1999 to map, assess, inventory, and monitor U.S. coral reef ecosystems (Monaco et al. 2001).
+
+--- SENTENCE 6 ---
+These activities were implemented in response to requirements outlined in the Mapping Implementation Plan developed by the Mapping and Information Synthesis Working Group (MISWG) of the Coral Reef Task Force (CRTF) (MISWG 1999).
+
+--- SENTENCE 7 ---
+As part of the MISWG of the CRTF, NOS' Biogeography Team has been charged with the development and implementation of a plan to produce comprehensive digital coral-reef ecosystem maps for all U.S. States, Territories, and Commonwealths within five to seven years.
+
+--- SENTENCE 8 ---
+Joint activities between Federal agencies are particularly important to map, research, monitor, manage, and restore coral reef ecosystems.
+
+--- SENTENCE 9 ---
+In response to the Executive Order 13089 and the Coral Reef Conservation Act of 2000, NOS is conducting research to digitally map biotic resources and coordinate a long-term monitoring program that can detect and predict change in U.S. coral reefs, and their associated habitats and biological communities.
+
+--- SENTENCE 10 ---
+Most U.S. coral reef resources have not been digitally mapped at a scale or resolution sufficient for assessment, monitoring, and/or research to support resource management.
+
+--- SENTENCE 11 ---
+Thus, a large portion of NOS' coral reef research activities has focused on mapping of U.S. coral reef ecosystems.
+
+--- SENTENCE 12 ---
+The map products will provide the fundamental spatial organizing framework to implement and integrate research programs and provide the capability to effectively communicate information and results to coral reef ecosystem managers.
+
+--- SENTENCE 13 ---
+Although the NOS coral program is relatively young, it has had tremendous success in advancing towards the goal to protect, conserve, and enhance the health of U.S. coral reef ecosystems.
+
+--- SENTENCE 14 ---
+One objective of the program was to create benthic habitat maps to support coral reef research to enable development of products that support management needs and questions.
+
+--- SENTENCE 15 ---
+Therefore this product was developed in collaboration with many U.S. Pacific Territory partners.
+
+--- SENTENCE 16 ---
+An initial step in producing benthic habitat maps was the development of a habitat classification scheme.
+
+--- SENTENCE 17 ---
+The purpose of this document is to outline the benthic habitat classification scheme and protocols used to map American Samoa, Guam and the Commonwealth of the Northern Mariana Islands.
+
+--- SENTENCE 18 ---
+Thirty-two distinct benthic habitat types (i.e., four major and 14 detailed geomorphological structure classes; eight major and 18 detailed biological cover types) within eleven zones were mapped directly into a geographic information system (GIS) using visual interpretation of orthorectified IKONOS satellite imagery.
+
+--- SENTENCE 19 ---
+Benthic features were mapped that covered an area of 263 km2 .
+
+--- SENTENCE 20 ---
+In all, 281 km2 of unconsolidated sediment, 122 km2 of submerged vegetation, and 82.3 km2 of coral reef and colonized hardbottom were mapped.
+
+--- SENTENCE 21 ---
+This CD-ROM will provide the user a suite of information including access to the primary and derived data sets, detailed information on how the mapping was conducted and data was collected, custom tools used to create the product, and reports summarizing the results:
+
+- ~ Access to primary data sources (i.e., IKONOS imagery, accuracy assessment field data, ground validation field data, spatial accuracy field data)
+- ~ Access to derived data sources (i.e., benthic habitat GIS files, final reports, shoreline GIS files)
+- ~ Directions for using the "habitat digitizer" extension in ArcView
+- ~ A description of the specific methods used to create the habitat maps
+- ~ An assessment of the thematic accuracy of the maps
+
+To see or download more information about NOAA's Coral Reef Mapping Program, visit NOAA's Biogeography Program: http://biogeo.nos.noaa.gov/projects/mapping/pacific/.
+
+### **Chapter 1: Classification Scheme for Benthic Habitats**
+
+## Chapter 1
+
+#### Developing the Habitat Classification Scheme
+
+A hierarchical classification scheme was created to define and delineate shallow-water benthic habitats.
+
+--- SENTENCE 22 ---
+The classification scheme was influenced by many factors including: requests from the management community, NOS's coral reef mapping experience in the Florida Keys and Caribbean, existing classification schemes for the Pacific and Hawaiian Islands (Holthus and Maragos 1995; Gulko 1998; Allee et al. 2000), other coral reef systems (Kruer 1995; Reid and Kruer 1998; Lindeman et al. 1998; Sheppard et al. 1998; Vierros 1997; Chauvaud et al. 1998; Mumby et al. 1998; Kendall et al. 2001), quantitative habitat data for the U.S. Pacific Territories, the minimum mapping unit (MMU - 1 acre for visual imagery interpretation), and analysis of the spatial and spectral limitations of satellite IKONOS imagery.
+
+--- SENTENCE 23 ---
+The hierarchical scheme allows users to expand or collapse the thematic detail of the resulting map to suit their needs.
+
+--- SENTENCE 24 ---
+This is an important aspect of the scheme as it will provide a "common language" to compare and contrast digital maps developed from complementary remote sensing platforms.
+
+--- SENTENCE 25 ---
+Furthermore, it is encouraged that additional hierarchical categories be added in the resulting geographic information system by users with more detailed knowledge or data for specific areas.
+
+--- SENTENCE 26 ---
+For example, habitat polygons smaller than the MMU can be delineated, such as reef holes found in parts of the U.S. Pacific Territories, or habitat polygons delineated as colonized pavement using this scheme could be further attributed with health information (i.e., bleached, percent live cover) or species composition (i.e., Porites, Montipora).
+
+--- SENTENCE 27 ---
+The hierarchical scheme was prepared through consultation, meetings, and workshops that included key coral reef biologists, mapping experts, and professionals throughout the pacific territories.
+
+--- SENTENCE 28 ---
+Modifications were made throughout the development process based upon feedback provided by workshop participants and other contributors.
+
+--- SENTENCE 29 ---
+Additional modifications were made during the mapping process to ensure that each category definition reflected the intended habitats and zones encountered in the field as accurately as possible.
+
+--- SENTENCE 30 ---
+For instance, the separation of biological cover and geomorphological structure in the present scheme represents a significant evolution of previous versions of the classification schemes developed for mapping of the Caribbean and Hawaiian Islands.
+
+#### General Description of the Classification Scheme
+
+The classification scheme defines benthic habitats on the basis of three attributes: large geographic "zones" which are comprised of smaller geomorphological structure and biological cover of the reef system.
+
+--- SENTENCE 31 ---
+Every polygon on the benthic community map will be assigned a structure and cover within a zone (i.e., uncolonized sand in the lagoon, or coral on aggregate reef on the bank).
+
+--- SENTENCE 32 ---
+Biological cover and geomorphological structure are further defined by three density classes.
+
+--- SENTENCE 33 ---
+Zone indicates polygon location, biological cover indicates the predominate biological component colonizing the surface of the feature, and geomorphological structure indicates the physical structural composition of the feature.
+
+--- SENTENCE 34 ---
+The description of each cover and structure includes an example image.
+
+--- SENTENCE 35 ---
+The zone descriptions include schematic descriptions.
+
+--- SENTENCE 36 ---
+The hierarchical scheme was prepared through consultation, meetings, and workshops that included key coral reef biologists, mapping experts, and professionals throughout the island territories.
+
+--- SENTENCE 37 ---
+The separation of biological cover and geomorphological structure in the present scheme represents a significant evolution of previous versions of the classification schemes developed for mapping of the Caribbean and Hawaiian Islands.
+
+### **Biological Cover Types:**
+
+**Live Coral**
+
+ Sparse 10% > 50% Patchy 50% > 90% Continuous 90% - 100%
+
+**Seagrass**
+
+ Sparse 10% > 50% Patchy 50% > 90% Continuous 90% - 100%
+
+**Macroalgae**
+
+ Sparse 10% > 50% Patchy 50% > 90% Continuous 90% - 100%
+
+**Coralline Algae**
+
+ Sparse 10% > 50% Patchy 50% > 90% Continuous 90% - 100%
+
+**Turf Algae**
+
+ Sparse 10% > 50% Patchy 50% > 90% Continuous 90% - 100%
+
+#### **Emergent Vegetation**
+
+**Uncolonized**
+
+**Unknown**
+
+**Unclassified**
+
+### **Geomorphological Structure Types:**
+
+**Unconsolidated Sediment:**
+
+ Sand Mud
+
+**Coral Reef and Hardbottom:**
+
+ Spur and Groove Patch Reefs:
+
+ Individual Patch Reef Aggregate Patch Reef
+
+--- SENTENCE 38 ---
+Aggregate Reef Scattered Coral/Rock
+
+Pavement
+
+Rock/Boulder (Volcanic and Carbonate)
+
+Reef Rubble
+
+Pavement with Sand Channels
+
+**Other Delineations:**
+
+Artificial
+
+**Unknown**
+
+### **Zone Types:**
+
+**Shoreline Intertidal**
+
+**Vertical Wall**
+
+**Lagoon**
+
+**Back Reef**
+
+**Reef Flat**
+
+**Reef Crest**
+
+**Fore Reef**
+
+**Bank/Shelf**
+
+**Bank/Shelf Escarpment**
+
+**Channel**
+
+**Dredged**
+
+**Unknown**
+
+**Land** 
+
+### **Chapter 1: Description of Cover Types**
+
+### **Description of Biological Cover Types**
+
+Eighteen distinct and non-overlapping biological cover types were identified that could be mapped through visual interpretation of the IKONOS imagery.
+
+--- SENTENCE 39 ---
+Habitats or features that cover areas smaller than the MMU were not considered.
+
+--- SENTENCE 40 ---
+For example, uncolonized sand halos surrounding coral patch reefs are too small to be mapped independently.
+
+--- SENTENCE 41 ---
+Cover type refers only to predominate biological component colonizing the surface of the feature and does not address location (e.g., on the shelf or in the lagoon).
+
+--- SENTENCE 42 ---
+The cover types are defined in a collapsible hierarchy ranging from eight major classes (coral, seagrass, macroalgae, coralline algae, turf algae, emergent vegetation, uncolonized, and unknown), combined with a density modifier representing the percentage of the predominate cover type (10%-<50% sparse, 50%-<90% patchy, 90%-100% continuous).
+
+--- SENTENCE 43 ---
+**Live Coral:** Substrates colonized by live reef building corals and other organisms.
+
+--- SENTENCE 44 ---
+Habitats within this category have at least 10% live coral cover.
+
+--- SENTENCE 45 ---
+**Continuous Coral:** Live coral covering 90% or greater of the substrate.
+
+--- SENTENCE 46 ---
+May include areas of less than 90% coral cover on 10% or less of the total area that are too small to be mapped independently (less than the MMU).
+
+--- SENTENCE 47 ---
+Discontinuous live coral with breaks in coverage that are too diffuse or irregular, or result in isolated patches of coral that are too small (smaller than the MMU) to be mapped as continuous coral.
+
+--- SENTENCE 48 ---
+Overall live coral cover is estimated at 50%-<90% of the bottom.
+
+--- SENTENCE 49 ---
+Discontinuous live coral with breaks in coverage that are too diffuse or irregular, or result in isolated patches of coral that are too small (smaller than the MMU) to be mapped as continuous coral.
+
+--- SENTENCE 50 ---
+Overall live coral cover is estimated at 10%-<50% of the bottom.
+
+!
+
+--- SENTENCE 51 ---
+**Seagrass:** Habitat with 10 percent of more of seagrass (e.g., Halophila sp.).
+
+--- SENTENCE 52 ---
+**Continuous Seagrass:** Seagrass community covering 90 percent or greater of the substrate.
+
+--- SENTENCE 53 ---
+May include blowouts of less than
+
+10 percent of the total area that are too small to be mapped independently (less than the MMU).
+
+--- SENTENCE 54 ---
+**Patchy Seagrass:** Discontinuous seagrass community with breaks in coverage that are too diffuse or irregular, or result in isolated patches of seagrass that are too small (smaller than the MMU) to be mapped as continuous seagrass.
+
+--- SENTENCE 55 ---
+Overall cover is estimated at 50%-<90% of the bottom.
+
+--- SENTENCE 56 ---
+**Sparse Seagrass:** Discontinuous seagrass community with breaks in coverage that are too diffuse or irregular, or result in isolated patches of seagrass that are too small (smaller than the MMU) to be mapped as continuous seagrass.
+
+--- SENTENCE 57 ---
+Overall cover is estimated at 10%-<50% of the bottom.
+
+--- SENTENCE 58 ---
+**Representative Species:** *Halophila* sp*.*
+
+!
+
+--- SENTENCE 59 ---
+[](_page_5_Picture_14.jpeg)
+
+**Macroalgae:** Substrates with 10 percent or greater coverage of any combination of numerous species of red, green, or brown macroalgae.
+
+--- SENTENCE 60 ---
+Usually occurs in shallow backreef and deeper waters on the bank/shelf zone.
+
+--- SENTENCE 61 ---
+**Continuous Macroalgae:** Macroalgae covering 90 percent or greater of the substrate.
+
+--- SENTENCE 62 ---
+May include blowouts of less than 10 percent of the total area that are too small to be mapped independently (less than the MMU).
+
+--- SENTENCE 63 ---
+**Patchy Macroalgae:** Discontinuous macroalgae with breaks in coverage that are too diffuse or irregular, or result in isolated patches of macroalgae that are too small (smaller than the MMU) to be mapped as continuous macroalgae.
+
+--- SENTENCE 64 ---
+Overall cover is estimated at 50%-<90% of the bottom.
+
+--- SENTENCE 65 ---
+**Sparse Macroalgae:** Discontinuous macroalgae with breaks in coverage that are too diffuse or irregular, or result in isolated patches of macroalgae that are too small (smaller than the MMU) to be mapped as continuous macroalgae.
+
+--- SENTENCE 66 ---
+Overall cover is estimated at 10%-<50% of the bottom.
+
+!
+
+--- SENTENCE 67 ---
+*Caulerpa* spp., *Dictyota* spp., *Halimeda* spp., *Lobophora variegata , Laurencia* spp.
+
+--- SENTENCE 68 ---
+An area with 10 percent or greater coverage of any combination of numerous species of encrusting or coralline algae.
+
+--- SENTENCE 69 ---
+May occur along reef crest, in shallow back reef, relatively shallow waters on the bank/shelf zone, and at depth.
+
+--- SENTENCE 70 ---
+Coralline algae covering 90 percent or greater of the substrate.
+
+--- SENTENCE 71 ---
+May include blowouts of less than 10 percent of the total area that are too small to be mapped independently (less than the MMU).
+
+--- SENTENCE 72 ---
+**Patchy Coralline:** Discontinuous coralline algae with breaks in coverage that are too diffuse or irregular, or result in isolated patches of coralline algae that are too small (smaller than the MMU) to be mapped as continuous coralline algae.
+
+--- SENTENCE 73 ---
+Overall cover is estimated at 50%-<90% of the bottom.
+
+--- SENTENCE 74 ---
+Discontinuous coralline algae with breaks in coverage that are too diffuse or irregular, or result in isolated patches of coralline algae that are too small (smaller than the MMU) to be mapped
+
+as continuous coralline algae.
+
+--- SENTENCE 75 ---
+Overall cover is estimated at 10%-<50% of the bottom.
+
+!
+
+--- SENTENCE 76 ---
+[](_page_6_Picture_12.jpeg)
+
+**Representative Species:** *Porolithon gardineri*
+
+### **Chapter 1: Description of Cover Types**
+
+**Turf Algae:**
+
+--- SENTENCE 77 ---
+A community of low lying species of marine algae composed of any or a combination of algal divisions dominated by filamentous species lacking upright fleshy macroalgal thali.
+
+--- SENTENCE 78 ---
+Turf algae covering 90 percent or greater of the substrate.
+
+--- SENTENCE 79 ---
+May include blowouts of less than 10 percent of the total area that are too small to be mapped independently (less than the MMU).
+
+--- SENTENCE 80 ---
+Discontinuous Turf algae with breaks in coverage that are too diffuse or irregular, or result in isolated patches of Turf algae that are too small (smaller than the MMU) to be mapped as continuous Turf algae.
+
+--- SENTENCE 81 ---
+Overall cover is estimated at 50%-<90% of the bottom.
+
+--- SENTENCE 82 ---
+Discontinuous Turf algae with breaks in coverage that are too diffuse or irregular, or result in isolated patches of Turf algae that are too small (smaller than the MMU) to be mapped as continuous Turf algae.
+
+--- SENTENCE 83 ---
+Overall cover is estimated at 10%-<50% of the bottom.
+
+!
+
+--- SENTENCE 84 ---
+Emergent habitat composed primarily of Rhizophora mangle (red mangrove) and Hibiscus sp (hau) trees.
+
+--- SENTENCE 85 ---
+Generally found in areas sheltered from high-energy waves.
+
+--- SENTENCE 86 ---
+This habitat type is usually found in the shoreline/intertidal or reef flat zone.
+
+!
+
+--- SENTENCE 87 ---
+[](_page_7_Picture_8.jpeg)
+
+**Uncolonized:** Substrates not covered with a minimum of 10% of any of the above biological cover types.
+
+--- SENTENCE 88 ---
+This habitat is usually on sand or mud structures.
+
+--- SENTENCE 89 ---
+Overall uncolonized cover is estimated at 90%-100% of the bottom.
+
+--- SENTENCE 90 ---
+**Unknown:** Zone, Cover, and Structure uninterpretable due to turbidity, cloud cover, water depth, or other interference.
+
+--- SENTENCE 91 ---
+*Description of Geomorophological Structure Types**
+
+Fourteen distinct and non-overlapping geomorphological structure types were identified that could be mapped by visual interpretation of the IKONOS imagery.
+
+--- SENTENCE 92 ---
+Habitats or features that cover areas smaller than the MMU were not considered.
+
+--- SENTENCE 93 ---
+For example, sand halos surrounding patch reefs are too small to be mapped independently.
+
+--- SENTENCE 94 ---
+Structure refers only to predominate physical structural composition of the feature and does not address location (e.g., on the shelf or in the lagoon).
+
+--- SENTENCE 95 ---
+The structure types are defined in a collapsible hierarchy ranging from four major classes (coral reef and hardbottom, unconsolidated sediment, other delineations, and unknown), to thirteen detailed classes (sand, mud, spur and groove, individual and aggregated patch reef, aggregate reef, scattered coral/rock in unconsolidated sediment, pavement, rock/boulder (volcanic and carbonate), reef rubble, pavement with sand channels, artificial, and unknown).
+
+### **Unconsolidated Sediment:**
+
+**Sand:** Coarse sediment typically found in areas exposed to currents or wave energy.
+
+!
+
+--- SENTENCE 96 ---
+Fine sediment often associated with river discharge and build-up of organic material in areas sheltered from high-energy waves and currents.
+
+--- SENTENCE 97 ---
+### **Coral Reef and Hardbottom:**
+
+**Spur and Groove:** Habitat having alternating sand and coral formations that are oriented perpendicular to the shore or bank/shelf escarpment.
+
+--- SENTENCE 98 ---
+The coral formations (spurs) of this feature typically have a high vertical relief relative to pavement with sand channels (see below) and are separated from each other by 1-5 meters of sand or hardbottom (grooves), although the height and width of these elements may vary considerably.
+
+--- SENTENCE 99 ---
+This habitat type typically occurs in the fore reef or bank/shelf escarpment zone.
+
+!
+
+--- SENTENCE 100 ---
+### **Chapter 1: Description of Structure Types**
+
+**Patch Reefs:**
+
+--- SENTENCE 101 ---
+Coral formations that are isolated from other coral reef formations by sand, seagrass, or other habitats and that have no organized structural axis relative to the contours of the shore or shelf edge.
+
+--- SENTENCE 102 ---
+Distinctive single patch reefs that are larger than or equal to the MMU.
+
+--- SENTENCE 103 ---
+Clustered patch reefs that individually are too small (less than the MMU) or are too close together to map separately.
+
+!
+
+--- SENTENCE 104 ---
+[](_page_9_Picture_5.jpeg)
+
+**Aggregate Reef:** High relief lacking sand channels of spur and groove.
+
+!
+
+--- SENTENCE 105 ---
+Flat, low-relief, solid carbonate rock with coverage of macroalgae, hard coral, zoanthids, and other sessile invertebrates that are dense enough to begin to obscure the underlying surface.
+
+--- SENTENCE 106 ---
+**Rock/Boulder:** Solid carbonate blocks and/or boulders or volcanic rock.
+
+!
+
+--- SENTENCE 107 ---
+Dead, unstable coral rubble often colonized with filamentous or other macroalgae.
+
+--- SENTENCE 108 ---
+This habitat often occurs landward of well developed reef formations in the reef crest or back reef zone.
+
+--- SENTENCE 109 ---
+**Pavement with Sand Channels:** Habitats of pavement with alternating sand/surge channel formations that are oriented perpendicular to the shore or bank/shelf escarpment.
+
+--- SENTENCE 110 ---
+The sand/surge channels of this feature have low vertical relief relative to spur and groove formations and are typically erosional in origin.
+
+--- SENTENCE 111 ---
+This habitat type occurs in areas exposed to moderate wave surge such as the bank/shelf zone.
+
+!
+
+--- SENTENCE 112 ---
+[](_page_10_Picture_7.jpeg)
+
+### **Other Delineations:**
+
+**Artificial:** Man-made habitats such as submerged wrecks, large piers, submerged portions of rip-rap jetties, and the shoreline of islands created from dredge spoil.
+
+--- SENTENCE 113 ---
+Includes active and remnant fish ponds walled off from the open ocean along the shoreline, often along a reef crest.
+
+--- SENTENCE 114 ---
+**Unknown:** Zone, Cover, and Structure uninterpretable due to turbidity, cloud cover, water depth, or other interference.
+
+--- SENTENCE 115 ---
+### **Chapter 1: Decription of Zone Types**
+
+### **Description of Zones**
+
+Thirteen mutually exclusive zones were identified from land to open water corresponding to typical insular shelf and coral reef geomorphology (Fig. 1-3).
+
+--- SENTENCE 116 ---
+These zones include: shoreline intertidal, vertical wall, lagoon, back reef, reef flat, reef crest, fore reef, bank/shelf, bank/shelf escarpment, channel, dredged (since this condition eliminates natural geomorphology), unknown, and land.
+
+--- SENTENCE 117 ---
+Zone refers only to each benthic community's location and does not address substrate or cover types within.
+
+--- SENTENCE 118 ---
+For example, the lagoon zone may include patch reefs, sand, and seagrass beds; however, these are considered structural elements that may or may not occur within the lagoon zone and therefore, are not used to define it.
+
+!
+
+--- SENTENCE 119 ---
+Reef separated from the shore by a relatively wide, deep lagoon.
+
+!
+
+--- SENTENCE 120 ---
+Reef platform is continuous with the shore.
+
+!
+
+--- SENTENCE 121 ---
+Reef surrounding a lagoon.
+
+--- SENTENCE 122 ---
+**Shoreline Intertidal:** Area between the mean high water line (or landward edge of emergent vegetation when present) and lowest spring tide level (excluding emergent segments of barrier reefs).
+
+--- SENTENCE 123 ---
+Typically, this zone is narrow due to the small tidal range in the U.S. Pacific Territories.
+
+--- SENTENCE 124 ---
+**Typical Habitats:** Mangrove, hao, sand, seagrass, rock/boulder (volcanic and carbonate)
+
+**Vertical Wall:** Area with near-vertical slope from shore to shelf or shelf escarpment.
+
+--- SENTENCE 125 ---
+This zone is typically narrow and may not be distinguishable in remotely sensed imagery, but is included because it is recognized as a biologically important feature.
+
+--- SENTENCE 126 ---
+**Typical Habitats:** rock/boulder, algae, and coral
+
+**Lagoon:** Shallow area (relative to the deeper water of the bank/shelf) between the shoreline intertidal zone and the back reef of a reef or a barrier island.
+
+--- SENTENCE 127 ---
+This zone is protected from the high-energy waves commonly experienced on the bank/shelf and reef crest.
+
+--- SENTENCE 128 ---
+If no reef crest is present there is no lagoon zone.
+
+--- SENTENCE 129 ---
+**Typical Habitats:** sand, seagrass, algae, pavement, rock/boulder (volcanic and carbonate), patch reefs
+
+**Back Reef:** Area between the seaward edge of a lagoon floor and the landward edge of a reef crest.
+
+--- SENTENCE 130 ---
+This zone is present when a reef crest and lagoon exist.
+
+--- SENTENCE 131 ---
+**Typical Habitats:** sand, reef rubble, seagrass, algae, patch reef
+
+**Reef Flat:** Shallow (semi-exposed) area between the shoreline intertidal zone and the reef crest of a fringing reef.
+
+--- SENTENCE 132 ---
+This zone is protected from the high-energy waves commonly experienced on the shelf and reef crest.
+
+--- SENTENCE 133 ---
+Reef flat is typically not present if there is a lagoon zone.
+
+--- SENTENCE 134 ---
+**Typical Habitats:** sand, reef rubble, seagrass, algae, patch reef
+
+**Reef Crest:**
+
+--- SENTENCE 135 ---
+The flattened, emergent (especially during low tides) or nearly emergent segment of a reef.
+
+--- SENTENCE 136 ---
+This zone lies between the back reef and fore reef zones.
+
+--- SENTENCE 137 ---
+Breaking waves will often be visible in aerial images at the seaward edge of this zone.
+
+--- SENTENCE 138 ---
+**Typical Habitats:** reef rubble, aggregated coral
+
+**Fore Reef:** Area from the seaward edge of the reef crest that slopes into deeper water to the landward edge of the bank/shelf platform.
+
+--- SENTENCE 139 ---
+Features not forming an emergent reef crest but still having a seaward-facing slope that is significantly greater than the slope of the bank/shelf are also designated as fore reef.
+
+--- SENTENCE 140 ---
+**Typical Habitats:** spur and groove
+
+### **Chapter 1: Decription of Zone Types**
+
+**Bank/Shelf:**
+
+--- SENTENCE 141 ---
+Deep water area (relative to the shallow water in a lagoon) extending offshore from the seaward edge of the fore reef to the beginning of the escarpment where the insular shelf drops off into deep, oceanic water.
+
+--- SENTENCE 142 ---
+The bank/shelf is the flattened platform between the fore reef and deep open ocean waters or between the shoreline/intertidal zone and open ocean if no reef crest is present.
+
+--- SENTENCE 143 ---
+**Typical Habitats:** sand, patch reefs, algae, seagrass, pavement, pavement with sand channels, other coral reef habitats
+
+**Bank/Shelf Escarpment:**
+
+--- SENTENCE 144 ---
+The edge of the bank/shelf where depth increases rapidly into deep, oceanic water.
+
+--- SENTENCE 145 ---
+This zone begins at approximately 20 to 30 meters depth, near the depth limit of features visible in aerial images.
+
+--- SENTENCE 146 ---
+This zone extends well into depths exceeding those that can be seen on aerial photographs and is intended to capture the transition from the shelf to deep waters of the open ocean.
+
+--- SENTENCE 147 ---
+**Typical Habitats:** sand, \_spur and groove
+
+**Channel:**
+
+--- SENTENCE 148 ---
+Naturally occurring channels that often cut across several other zones.
+
+--- SENTENCE 149 ---
+**Typical Habitats:** sand, mud, pavement
+
+**Dredged:** Area in which natural geomorphology is disrupted or altered by excavation or dredging.
+
+--- SENTENCE 150 ---
+**Typical Habitats:** sand, mud
+
+**Unknown:** Zone, Cover, and Structure uninterpretable due to turbidity, cloud cover, water depth, or other interference.
+
+--- SENTENCE 151 ---
+Terrestrial features above the spring high tide line.
+
+--- SENTENCE 152 ---
+# Chapter 2
+
+#### **Introduction**
+
+The Habitat Digitizer Extension to ArcView 3.x® was developed to facilitate mapping benthic habitats of the U.S. Pacific Territories using the classification scheme described in Classification Methods.
+
+--- SENTENCE 153 ---
+The extension was originally created to map habitats using this scheme by visually interpreting orthorectified IKONOS imagery.
+
+--- SENTENCE 154 ---
+The extension's capabilities have been expanded to allow users to map from other georeferenced image data such as satellite images and side scan sonar.
+
+--- SENTENCE 155 ---
+The extension allows users to rapidly delineate and attribute polygons using simple menus.
+- 3.
+
+--- SENTENCE 156 ---
+It also allows new hierarchical classification schemes to be easily created, modified, and saved for use on future mapping projects.
+
+!
+
+--- SENTENCE 157 ---
+The extension is available on the *Shallow-Water Benthic Habitats of American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands* CD-ROM or over the Internet at http://biogeo.nos.noaa.gov/products/apps/digitizer/.
+
+--- SENTENCE 158 ---
+The extension and accessory files are found in "data/ext/hab\_dig.zip".
+
+--- SENTENCE 159 ---
+This folder contains several files including:
+
+!
+
+--- SENTENCE 160 ---
+**Arc8\_cover.lyr, Arc8\_structure.lyr, Arc8\_zone.lyr -** example legends (ArcGIS 8.x) for the classification scheme
+
+#### **Hardware and Software Requirements**
+
+The habitat digitizer extension is compatible with ArcView 3.x® and requires hardware similar to that recommended for proper operation of ArcView.
+
+--- SENTENCE 161 ---
+Additional memory may enhance performance for handling large image files.
+
+--- SENTENCE 162 ---
+The appropriate Image Support extension (IMG, etc.) is required depending on the format of the image files used.
+
+--- SENTENCE 163 ---
+The Image Analyst extension is not necessary, but is recommended to facilitate manipulation of image brightness, contrast, and color balance.
+
+--- SENTENCE 164 ---
+### **Getting Started**
+
+To begin using Habitat Digitizer, save the habitat.avx file in either ArcView's Ext32 directory or the USEREXT directory.
+
+--- SENTENCE 165 ---
+The coral.hcs and coral.avl files can be saved anywhere, but preferably, they should be placed in the working directory of the project.
+
+--- SENTENCE 166 ---
+After starting ArcView, load the Habitat Digitizer Extension (and any other desired extensions) by selecting "File/Extensions" and click on the check box next to the Habitat Digitizer Extension in the "Available Extensions" list.
+
+--- SENTENCE 167 ---
+Click OK to install the extension.
+
+--- SENTENCE 168 ---
+If a project already exists that used the Habitat Digitizer Extension, opening the project will automatically load the extension.
+
+--- SENTENCE 169 ---
+#### **Setting the Projection Parameters for the Image Data**
+
+The Habitat Digitizer allows users to specify a Minimum Mapping Unit (MMU), digitizing scale, and offers several other spatial functions that require the View's projection and Map Units to be set properly.
+
+--- SENTENCE 170 ---
+The projection properties of the View must be set to those of the image data from which habitats are being interpreted.
+
+--- SENTENCE 171 ---
+Once the View's projection is set properly, shapefiles created using Habitat Digitizer will be unprojected (in decimal degrees).
+
+--- SENTENCE 172 ---
+To set the projection properties, select "View/Properties" and set the Map and Distance Units as well as the Projection information of the image.
+
+--- SENTENCE 173 ---
+If this information is not set, the shapefile will be created in the projection coordinates of the image files (not in decimal degrees) and the MMU, scale restriction, and other spatial functions of the extension will not work.
+
+!
+
+--- SENTENCE 174 ---
+### **The Habitat Digitizer Menu**
+
+| į
+
+--- SENTENCE 175 ---
+| Change Classification Scheme |
+|---|------------------------------|
+| Ī | View Classification Scheme   |
+|   | Show Dictionary              |
+|   | Set Minimum Mapping Unit     |
+|   | Set Scale Restriction        |
+|   | Set Default Legend           |
+
+Once the Habitat Digitizer Extension has been activated a "Habitat Digitizer" pull-down menu and digitizing tools which control the functions of the extension will appear on the ArcView toolbar.
+
+--- SENTENCE 176 ---
+Beginning with the process of creating and loading classification schemes, a detailed description and instructions for each function in the extension are provided in subsequent sections.
+
+--- SENTENCE 177 ---
+#### **Creating a new classification scheme**
+
+Unless an existing classification scheme is used, a new scheme must first be created to use the extension.
+
+--- SENTENCE 178 ---
+Before creating a new scheme using the dialogs of the extension it may be useful to sketch the scheme out on paper to ensure that all fields and categories are entered properly.
+
+--- SENTENCE 179 ---
+There are several advantages to using a scheme with a hierarchical structure including:
+
+- the detail of habitat categories can be expanded or collapsed to suit user needs
+- the thematic accuracy of each category/hierarchical level can be determined
+- additional categories can be easily added or deleted at any level of the scheme to suit user needs
+
+An example scheme framework is provided in Figure 1 to assist with this process.
+
+--- SENTENCE 180 ---
+** Example Classification Scheme Framework
+
+| Field 1    | Field 2       | Field 3       | Field 4 | Unique ID |
+|------------|---------------|---------------|---------|-----------|
+| Category 1
+
+--- SENTENCE 181 ---
+| (empty) | 111       |
+|            |
+
+--- SENTENCE 182 ---
+| Subcategory 2 |
+
+--- SENTENCE 183 ---
+| 112       |
+|
+
+--- SENTENCE 184 ---
+| Subcategory 1 |         | 121       |
+|            |
+
+--- SENTENCE 185 ---
+| Subcategory 2 |
+
+--- SENTENCE 186 ---
+| 122       |
+| Category 2 | Subcategory 1 | Subcategory 1 |         | 221       |
+|            |
+
+--- SENTENCE 187 ---
+| Subcategory 2 |         | 222       |
+|            | Subcategory 2 |               |
+
+--- SENTENCE 188 ---
+| 22        |
+| Category 3 | Subcategory 1 |               |         | 31        |
+|
+
+--- SENTENCE 189 ---
+| Subcategory 2 |               |         | 32        |
+
+--- SENTENCE 190 ---
+The easiest way to create a new classification scheme is to turn this sketch into a database file and import it into the project as a table.
+
+--- SENTENCE 191 ---
+The database file will have to have all cells filled out in the hierarchy as in Figure 2, but empty cells can exist in the file (as in UniqueID22, Fieldname3 in Figure 2).
+
+--- SENTENCE 192 ---
+After saving this file, use the Tables Add button in the project dialog box to add the file to the project.
+
+--- SENTENCE 193 ---
+** Example Classification Scheme Framework
+
+| Field 1    | Field 2       | Field 3       | Field 4 | Unique ID |
+|------------|---------------|---------------|---------|-----------|
+| Category 1
+
+--- SENTENCE 194 ---
+| (empty) | 111       |
+| Category 1 |
+
+--- SENTENCE 195 ---
+Subcategory 1 | Subcategory 2 |         | 112       |
+
+--- SENTENCE 196 ---
+| Subcategory 1 |         | 121       |
+| Category 1 |
+
+--- SENTENCE 197 ---
+Subcategory 2 | Subcategory 2 |         | 122       |
+| Category 2 | Subcategory 1 | Subcategory 1 |         | 221       |
+| Category 2 | Subcategory 1 | Subcategory 2 |         | 222       |
+| Category 2 |
+
+--- SENTENCE 198 ---
+Subcategory 2 |               |
+
+--- SENTENCE 199 ---
+| 22        |
+| Category 3 | Subcategory 1 |               |         | 31        |
+| Category 3 | Subcategory 2 |               |
+
+--- SENTENCE 200 ---
+Select the Import from Table button, type in a name of the new classification scheme, and select a table from the list.
+
+--- SENTENCE 201 ---
+Choose which field contains the unique ID number.
+
+--- SENTENCE 202 ---
+A message box will appear if that field contains duplicate numbers, and the import function will stop.
+
+--- SENTENCE 203 ---
+To manually create the new scheme without a table, select "Habitat Digitizer/ Change Classification Scheme" and in the dialog box, select "Create New Scheme".
+
+--- SENTENCE 204 ---
+Type in the name of the new classification scheme in the message box and click "Okay".
+
+--- SENTENCE 205 ---
+Until a scheme has been either created or loaded, the other options in this dialog will be unavailable.
+
+!
+
+--- SENTENCE 206 ---
+In the "Add New Field" dialog, selecting "Cancel" will end the creation process without creating a scheme.
+
+--- SENTENCE 207 ---
+Once the first field name has been added, this button is replaced with the "Finished" button, which will complete the field naming process and go to the next step in creating the scheme.
+
+--- SENTENCE 208 ---
+Type in the field name for the most general (Fieldname 1 in Figure 1) hierarchical level in the new classification scheme.
+
+--- SENTENCE 209 ---
+Field names can only be 10 characters long.
+
+--- SENTENCE 210 ---
+Select whether the field will be character or numeric and select "Add Field".
+
+--- SENTENCE 211 ---
+Add additional field names in the order of the classification hierarchy.
+
+--- SENTENCE 212 ---
+A fieldname must be entered for every level in the hierarchy.
+
+--- SENTENCE 213 ---
+It may be desirable to add a couple of extra fields to act as placeholders in case any additional unforeseen
+
+levels in the hierarchy are required at a later time.
+
+--- SENTENCE 214 ---
+Select "Finished" to proceed to the next step once all the field names have been entered.
+
+--- SENTENCE 215 ---
+Once "Finished" is selected, no additional fields may be added to the classification scheme.
+
+--- SENTENCE 216 ---
+Also, note that a field named "UniqueID" will be automatically be added to each theme.
+
+--- SENTENCE 217 ---
+The "UniqueID" field is used by the extension to identify each possible combination of hierarchical categories with one unique number (see Figure 1).
+
+--- SENTENCE 218 ---
+Unique IDs are used by the extension to generate polygon attributes and assign the legend.
+
+--- SENTENCE 219 ---
+The dialog at left sets the method of how the Unique IDs will be assigned.
+
+--- SENTENCE 220 ---
+When setting up a new scheme or altering an existing scheme that has not yet been used to create a theme, the "Automatic" method should be used.
+
+--- SENTENCE 221 ---
+The "Automatic" method creates a logical numbering sequence for each uniqueID.
+
+--- SENTENCE 222 ---
+However, if a scheme that has already been used to create a theme is modified, the "Manual" method should be used.
+
+--- SENTENCE 223 ---
+If "Automatic" were used, new Unique IDs would be assigned to the scheme creating a mismatch between the ID's of the new scheme and those of the polygons attributed using the old scheme.
+
+--- SENTENCE 224 ---
+However, the Fix Attribute ID tool will read in the existing attributes and apply the new Unique ID to the polygons.
+
+!
+
+--- SENTENCE 225 ---
+In the "Modify Classification Scheme" dialog, categories and subcategories can be added to a new or existing classification scheme.
+
+--- SENTENCE 226 ---
+Begin by adding a category at the most general level in the classification hierarchy (Category 1 in Fig. 1).
+
+--- SENTENCE 227 ---
+Click "Add Category", type in the category name and click "Okay".
+
+--- SENTENCE 228 ---
+Additional categories at this level in the hierarchy can be added in this way.
+
+--- SENTENCE 229 ---
+Adding a category at this level will activate the "Add Subcategory" button.
+
+--- SENTENCE 230 ---
+Subcategories are added within individual categories by selecting the category of interest then clicking "Add Subcategory" and completing the dialog boxes.
+
+--- SENTENCE 231 ---
+If Unique IDs are to be assigned using the "Automatic" option (previous dialog), the "Delete" and "Change" buttons can be used to adjust category names and locations in the hierarchy using this dialogue.
+
+--- SENTENCE 232 ---
+In the "Automatic" method, clicking the "Finished" button will assign a Unique ID to each classification combination.
+
+--- SENTENCE 233 ---
+If "Manual" was selected, the "Delete" and "Change" buttons will not be activated until the Unique IDs for each of the categories and subcategories have been added (next dialog).
+
+--- SENTENCE 234 ---
+To add Unique IDs manually, click the "Commit Additions" button after all categories and subcategories have been added and complete the "Add Unique ID" dialogue box as described below.
+
+--- SENTENCE 235 ---
+Once the UniqueIDs have been assigned the "Delete" and "Change" buttons will be activated.
+
+--- SENTENCE 236 ---
+If the "Cancel" button is selected, the scheme creation process will be ended without creating a scheme.
+
+!
+
+--- SENTENCE 237 ---
+If "Manual" was selected for assigning Unique IDs, the "Add Unique ID" dialog will appear after selecting "Commit Additions".
+
+--- SENTENCE 238 ---
+A unique numeric identifier must be entered for each possible combination of classifications in the hierarchy.
+
+--- SENTENCE 239 ---
+The "Existing Unique IDs" list shows which numbers are already used in the scheme.
+
+--- SENTENCE 240 ---
+Duplicate numbers cannot be added.
+
+--- SENTENCE 241 ---
+See Figure 1 or the sample coral classification scheme and legend included with the extension to get suggestions on how to assign Unique IDs.
+
+--- SENTENCE 242 ---
+Once Unique IDs are set through either the "Manual" or "Automatic" method and "Finished" is selected in the "Modify Classification Scheme" dialog, the new scheme can be saved and used to digitize habitats.
+
+#### **Saving, Re-Loading, and Creating Scheme Legends**
+
+After creating or modifying a scheme, save the scheme to a file by selecting "Save All settings to HCS File" in the "Change Classification" dialog box.
+
+--- SENTENCE 243 ---
+The file will be saved as a \*.hcs (habitat classification scheme) file.
+
+--- SENTENCE 244 ---
+To access a saved scheme, select "Load Scheme from HCS File" in the "Change Classification" dialog box.
+
+--- SENTENCE 245 ---
+A file selection dialog will open showing only the \*.hcs files.
+
+--- SENTENCE 246 ---
+Additional options that can be used at this time include the "Export to Table" button, which will export the scheme as a dBase file, "Export As Text" button, which will create a text file showing the hierarchical structure of the scheme, and the "Create" button, which will make a legend that contains each Unique ID and its attributes.
+
+--- SENTENCE 247 ---
+Select whether a point, line, or polygon legend will be created from this scheme.
+
+--- SENTENCE 248 ---
+The extension can store all three types of legends as default legends simultaneously.
+
+--- SENTENCE 249 ---
+Legend labels will have all of the categories in the classification hierarchy concatenated into one string.
+
+--- SENTENCE 250 ---
+Colors will be randomly selected and an additional "Unclassified" category will be added with a uniqueID of 0.
+
+!
+
+--- SENTENCE 251 ---
+[](_page_19_Picture_4.jpeg)
+
+#### **Editing an existing classification scheme**
+
+Select "Modify Scheme" in the "Change Classification" dialog box.
+
+--- SENTENCE 252 ---
+After selecting the method of assigning the Unique ID (and in this case, using Manual is recommended), the "Modify Classification Scheme" dialog will appear.
+
+--- SENTENCE 253 ---
+Follow the same instructions in "Creating a new scheme" to edit this scheme using this dialog.
+
+--- SENTENCE 254 ---
+### **Digitizing Restrictions**
+
+#### **Minimum Mapping Unit**
+
+Depending on the quality of aerial images used and the specific goals of the project, it will probably be desirable to limit the minimum size of the features that are delineated.
+
+--- SENTENCE 255 ---
+For example, poor image resolution may preclude the interpretation of features smaller than some minimum size threshold.
+
+--- SENTENCE 256 ---
+Other features, while interpretable in the imagery, may simply be too small and therefore beyond the scope or goals of the desired map product.
+
+--- SENTENCE 257 ---
+To limit the size of the features that can be digitized in the habitat map, a minimum mapping unit (MMU) can be set in Habitat Digitizer.
+
+--- SENTENCE 258 ---
+Features must be larger than the MMU to
+
+!
+
+--- SENTENCE 259 ---
+[](_page_20_Picture_4.jpeg)
+
+be included in the habitat map.
+
+--- SENTENCE 260 ---
+Set the MMU restriction by selecting "Habitat Digitizer/Set Minimum Mapping Unit".
+
+--- SENTENCE 261 ---
+If the view's Map and Distance units are set, a dialog will appear showing the current MMU.
+
+--- SENTENCE 262 ---
+Enter the desired numerical MMU into the text box and select "Apply New MMU".
+
+--- SENTENCE 263 ---
+If a satisfactory MMU has already been set, "Use Current MMU" will close the dialog without changing the MMU.
+
+--- SENTENCE 264 ---
+If the area of a newly digitized polygon is below the MMU, a message box will ask whether the polygon should be added to the theme.
+
+--- SENTENCE 265 ---
+If no MMU restriction is desired, "Habitat Digitizer/Set Minimum Mapping Unit/Turn off MMU" will allow digitizing polygons with no size restriction.
+
+--- SENTENCE 266 ---
+#### **Scale Restriction**
+
+It is possible to adjust the scale of the image files as they appear on the computer monitor.
+
+--- SENTENCE 267 ---
+For example, the scale of hard copy photographs used for mapping may be 1:48000, however the actual photo interpretation may be conducted on the computer monitor while zoomed in on the scanned photographs at a much larger scale (e.g., 1:6000).
+
+--- SENTENCE 268 ---
+It may be desirable to
+
+!
+
+--- SENTENCE 269 ---
+[](_page_20_Picture_8.jpeg)
+
+conduct all polygon delineation at the same scale, such that all polygons have the same level of detail.
+
+--- SENTENCE 270 ---
+Set the scale restriction by selecting "Habitat Digitizer/Set Scale Restriction".
+
+--- SENTENCE 271 ---
+Enter a number in the text box and select "Apply New Restriction".
+
+--- SENTENCE 272 ---
+If digitizing is attempted while a scale restriction is in place and the view is not at the specified scale, a message box will offer to zoom the view to the proper scale.
+
+--- SENTENCE 273 ---
+If "No" is selected, a polygon cannot be digitized.
+
+--- SENTENCE 274 ---
+If a scale restriction is not desired, use "Habitat Digitizer/Set Scale Restriction/Turn off Restriction" to allow digitizing at any scale.
+
+### **Creating a Theme and Using the Digitizing Tools**
+
+Once a classification scheme has been loaded, this button will create an empty theme (select either a polygon, line, or point theme) with the appropriate fields.
+
+--- SENTENCE 275 ---
+If a default legend has not been created using "Habitat Digitizer/Set Default Legend" or the "Change Classification" dialog, a dialog will appear to select a legend file.
+
+--- SENTENCE 276 ---
+A second message box will appear asking if this legend should be made the default legend for all new themes created using this classification scheme.
+
+--- SENTENCE 277 ---
+To start digitizing a new polygon, select this tool and trace the feature of interest by clicking around its perimeter with the mouse.
+
+--- SENTENCE 278 ---
+A double click closes each new polygon.
+
+--- SENTENCE 279 ---
+If a polygon is digitized inside or completely around an existing polygon, "donut" and "donut hole" polygons will be formed.
+
+--- SENTENCE 280 ---
+Once the polygon is complete, a message box will allow the classification to be set as outlined below.
+
+--- SENTENCE 281 ---
+Use this tool to add a polygon adjacent to an existing polygon.
+
+--- SENTENCE 282 ---
+To create a polygon using this tool, start tracing a line inside of the adjacent polygon and end the line by clicking twice inside of the adjacent polygon.
+
+--- SENTENCE 283 ---
+This tool will not work when attempting to digitize a polygon inside of another polygon (use the Split tool to do that).
+
+--- SENTENCE 284 ---
+The scale restriction and MMU also apply to this tool.
+
+--- SENTENCE 285 ---
+If several polygons are created with a single line and some are below the MMU, a warning message will appear.
+
+--- SENTENCE 286 ---
+If "No" is selected on the warning message only the polygons that fall below the MMU will be removed.
+
+--- SENTENCE 287 ---
+Use this tool to digitize a line.
+
+--- SENTENCE 288 ---
+Once the line is complete, a message box will allow the classification to be set as outlined below.
+
+--- SENTENCE 289 ---
+Use this tool to split a line.
+
+--- SENTENCE 290 ---
+The original line will retain its attributes and the message box will allow the classification to be set as outlined below.
+
+--- SENTENCE 291 ---
+Use this tool to digitize a line.
+
+--- SENTENCE 292 ---
+Once the point is digitized, a message box will allow the classification to be set as outlined below.
+
+--- SENTENCE 293 ---
+If there are many points to be digitized with the same attributes, it might be easier to add them using the standard ArcView Draw Point tool and attribute them all at once later
+
+Once polygons are completed using the Add and Append tools, a dialog will appear to guide assignment of classification attributes.
+
+!
+
+--- SENTENCE 294 ---
+[](_page_21_Figure_6.jpeg)
+
+The "Field List" displays the hierarchical structure of the fields in the scheme.
+
+--- SENTENCE 295 ---
+"Current Attribute Selection" shows the classification type, if any, currently selected.
+
+--- SENTENCE 296 ---
+Either select "Use Current Selection" or select a new classification type by clicking through the desired classification attributes in the "Select New Attributes" window.
+
+--- SENTENCE 297 ---
+As new attributes are selected they will be displayed in the "New Attribute Selection" window.
+
+--- SENTENCE 298 ---
+The "Use New Selection" button will be activated when the attribute in the lowest hierarchical level for the new classification is selected.
+
+--- SENTENCE 299 ---
+To change the selected attribute at the same hierarchical level in the "New..." window, select another attribute in the "Select..." window.
+
+--- SENTENCE 300 ---
+To select a different attribute at a higher level, select the level in the "New..." window.
+
+--- SENTENCE 301 ---
+This tool splits one or more polygons into several polygons.
+
+--- SENTENCE 302 ---
+All of the attribute information for the resulting polygons will be the same as the original(s) but can be changed as explained below under "Tools from the Right Mouse Button".
+
+--- SENTENCE 303 ---
+Please note that due to a bug in ArcView, this tool sporadically works when attempting to split along the inside border of a donut polygon.
+
+--- SENTENCE 304 ---
+The scale restriction and MMU also apply to this tool.
+
+--- SENTENCE 305 ---
+If several polygons are split and some of the resulting polygons fall below the MMU, choosing "No" will remove the entire line and merge the split polygons back together.
+
+--- SENTENCE 306 ---
+This button will place a MMU sized red box on the view by clicking the button and then clicking the View at the desired location.
+
+--- SENTENCE 307 ---
+This box allows users to estimate the size of features in the imagery relative to the MMU.
+
+--- SENTENCE 308 ---
+This box will disappear when panning, moving from the current extent by zooming in or out, or after completing a polygon.
+
+--- SENTENCE 309 ---
+To use this feature while adding a new polygon see "Tools from the Right Mouse Button" below.
+
+--- SENTENCE 310 ---
+This button brings up a dialog to display the cursor's x/y position in the upper right hand corner of the ArcView window in either the coordinate system of the view (default) showing from 1-5 significant digits, or in degrees, minutes, and seconds.
+
+--- SENTENCE 311 ---
+This requires that the view's projection be set and the map units specified.
+
+!
+
+--- SENTENCE 312 ---
+This button will read through the attribute table and attempt to fix any mismatches between the UniqueID and attributes.
+
+--- SENTENCE 313 ---
+This will be necessary if the "Automatic" method of assigning UniqueIDs was used on an existing classification scheme.
+
+--- SENTENCE 314 ---
+The attributes for each record will be read and the UniqueID will be changed.
+
+--- SENTENCE 315 ---
+The features with attributes that do not have a corresponding UniqueID will be listed at the end of the process by record numbers.
+
+--- SENTENCE 316 ---
+These features will also be selected in the theme.
+
+--- SENTENCE 317 ---
+If the shapefile does not have a field showing the record number, this can be added easily.
+
+--- SENTENCE 318 ---
+Open the attribute table, begin editing it, and add a numeric field.
+
+--- SENTENCE 319 ---
+Use the Calculate button and type in rec (without quotes) in the text input area of the dialog box.
+
+#### **Tools from the Right Mouse Button**
+
+Click and hold down the right mouse button to view a list of additional tools and options:
+
+- **"Panning"** will recenter the display over the spot where the right mouse button was clicked.
+
+--- SENTENCE 320 ---
+This is useful while digitizing large polygons that don't fit entirely within the view frame.
+
+--- SENTENCE 321 ---
+- **"Pan to location"** will recenter the display at a user selected position.
+
+--- SENTENCE 322 ---
+This tool brings up a message box that allows the user to put in a specific coordinate location in map units.
+
+--- SENTENCE 323 ---
+- **"Show attributes"** will display a message box showing the habitat attributes for the currently selected polygon.
+
+--- SENTENCE 324 ---
+- **"Change habitat attribute"** will allow the user to change the habitat attributes for existing polygons that are selected.
+
+--- SENTENCE 325 ---
+- **"MMU Box"** places an MMU box on the View where the right mouse button was clicked (can be added while digitizing a polygon).
+- **"Polygon Area"** shows the area of a selected polygon.
+
+--- SENTENCE 326 ---
+# Chapter 3
+
+#### **Introduction**
+
+Satellite imagery is a valuable tool for natural resource managers and researchers since they provide an excellent record of the location and extent of habitats.
+
+--- SENTENCE 327 ---
+Benthic habitat maps of American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands were created through visual interpretation of multispectral IKONOS imagery using the NOAA Habitat Digitizer extension.
+
+--- SENTENCE 328 ---
+Habitat boundaries were delineated around signatures (e.g., areas with specific color and texture patterns) in the orthorectified imagery mosaic corresponding to habitat types in the Classification Scheme.
+
+--- SENTENCE 329 ---
+The custom Habitat Digitizer extension was used, digitizing at a scale of 1:6,000 with a 1-acre minimum mapping unit.
+
+--- SENTENCE 330 ---
+Generally, feature detection of seafloor habitats was possible from the shoreline to water depths of approximately 30 meters, depending on water clarity.
+
+--- SENTENCE 331 ---
+In order to optimize the satellite imagery for visual interpretation, a number of processing steps were implemented to enhance the geopositioning and clarity of the imagery.
+
+--- SENTENCE 332 ---
+These steps include: orthorectification to remove spatial distortions in the imagery due to relief displacement; pansharpening; deglinting; and generating normalized reflectance values.
+
+### **Satellite Imagery**
+
+The IKONOS satellite, owned and operated by Space Imaging Incorporated, LLC, provides commercially available panchromatic (black and white) and multispectral (blue/green/red/near-infrared) imagery.
+
+--- SENTENCE 333 ---
+The panchromatic imagery has a 1 m pixel dimension (meaning features larger then 1 m2 can be detected in the imagery).
+
+--- SENTENCE 334 ---
+The multispectral imagery has a 4 m pixel dimension (meaning features larger then 16 m2 can be seen in the imagery).
+
+--- SENTENCE 335 ---
+The IKONOS imagery is purchased in 11 km wide swaths that are mosaicked together to produce complete images of locales.
+
+--- SENTENCE 336 ---
+IKONOS satellite imagery provides precise and robust data with spectral and spatial resolution suitable for shallow water benthic mapping.
+
+--- SENTENCE 337 ---
+Furthermore, satellite imagery provides efficient and effective global coverage for repeated imaging of remote islands that are often obscured by cloud cover.
+
+!
+
+--- SENTENCE 338 ---
+[](_page_23_Picture_6.jpeg)
+
+All of the IKONOS imagery was purchased in National Imagery Transmission Format (NITF) with the associated Rational Polynomial Coefficients (RPCs or satellite ephemeris data).
+
+--- SENTENCE 339 ---
+When using image analysis software capable of reading NITF files with associated RPCs, the initial horizontal positioning error never exceeded 15 m (for locations where there is little or no vertical relief to affect image pixel displacement).
+
+#### **Orthorectification**
+
+During orthorectification, digital imagery is subjected to algorithms that eliminate each source of spatial distortion.
+
+--- SENTENCE 340 ---
+The result is a georeferenced digital mosaic of several imagery scenes with uniform scale throughout the mosaic.
+
+--- SENTENCE 341 ---
+After an orthorectified mosaic is created, visual interpreters can accurately and reliably delineate the boundaries of features in the imagery as they appear on the computer monitor using a software interface such as the Habitat Digitizer.
+
+--- SENTENCE 342 ---
+Through this process, natural resources managers and researchers are provided with spatially accurate maps of habitats and other features visible in the imagery.
+
+--- SENTENCE 343 ---
+### **Mosaicking the Imagery**
+
+Georeferencing/mosaicking of the imagery was performed using PCI OrthoEngine, and Erdas OrthoBase.
+
+--- SENTENCE 344 ---
+The NITF IKONOS imagery was orthorectified using the Rational Functions extracted from the NITF, then further supplemented with ground control and corrected for terrain displacement using the DEM's where available.
+
+--- SENTENCE 345 ---
+When multiple scenes were available for a given island, these were collectively incorporated into the orthomosaic project through bundle adjustment.
+
+--- SENTENCE 346 ---
+Each scene was exported as a separate orthorectified file for further image processing.
+
+--- SENTENCE 347 ---
+In addition, the best segments of each scene were selected for creation of the final mosaic.
+
+--- SENTENCE 348 ---
+Segments of each scene were selected to minimize sun glint, cloud interference, turbidity, etc. in the final mosaic.
+
+--- SENTENCE 349 ---
+Where possible, parts of images obscured by sun glint or clouds were replaced with cloud/glint free parts of overlapping images.
+
+--- SENTENCE 350 ---
+As a result, most mosaics have few or no clouds or sun glint obscuring bottom features.
+
+--- SENTENCE 351 ---
+However, in some cases, clouds, sun glint, or turbid areas could not be replaced with overlapping imagery.
+
+--- SENTENCE 352 ---
+In these areas, such obstructions were minimized but could not be eliminated completely.
+
+#### **Ground Control Points (GCPs) for Georeferencing**
+
+Fixed ground features visible in the IKONOS imagery were selected for ground control points (GCPs) which were then used to georeference the imagery (i.e., link the image pixels to a real world coordinate system such as Universal Transverse Mercator).
+
+--- SENTENCE 353 ---
+NOAA's National Geodetic Survey (NGS) gathered ground control data (horizontally accurate to within 5 cm of its location on the earth) on seventeen of the twenty-one islands mapped in the U.S. Pacific Territories (see Figure).
+
+--- SENTENCE 354 ---
+GCPs were measured and then differentially corrected to the closest Continuously Operating Reference System (CORS).
+
+--- SENTENCE 355 ---
+We obtained points with a wide distribution throughout the imagery whenever possible since this results in the most accurate registration throughout each image.
+
+--- SENTENCE 356 ---
+Only ground control points for terrestrial features were collected due to the difficulty of obtaining precise positions for submerged features.
+
+!
+
+--- SENTENCE 357 ---
+#### **Image to Image Tie-Points**
+
+Image to image tie-points (distinct features visible in overlap areas of each frame such as street intersections, piers, coral heads, reef edges, and bridges) were then used to further co-register the imagery, especially for photos taken over open water where ground control points were not available (see Figure).
+
+--- SENTENCE 358 ---
+Softcopy photogrammetry software has the ability to automatically find such features common to overlapping imagery but this automated function has mixed results for submerged features.
+
+--- SENTENCE 359 ---
+Georeferencing/mosaicking of the TIFFs was performed using PCI OrthoEngine, and Erdas OrthoBase.
+
+--- SENTENCE 360 ---
+The NITF IKONOS imagery was orthorectified using the Rational Functions extracted from the NITF, then further supplemented with ground control and corrected for terrain displacement using the DEM's where available.
+
+--- SENTENCE 361 ---
+When multiple scenes were available for a given island, these were collectively incorporated into the orthomosaic project.
+
+--- SENTENCE 362 ---
+Each scene was exported as a separate orthorectified file for further image processing.
+
+--- SENTENCE 363 ---
+In addition, the best segments of each scene were selected for creation of the final mosaic.
+
+--- SENTENCE 364 ---
+Segments of each scene were selected to minimize sun glint, cloud interference, turbidity, etc. in the final mosaic.
+
+--- SENTENCE 365 ---
+Where possible, parts of images obscured by sun glint or clouds were replaced with cloud/glint free parts of
+
+overlapping images.
+
+--- SENTENCE 366 ---
+As a result, most mosaics have few or no clouds or sun glint obscuring bottom features.
+
+--- SENTENCE 367 ---
+However, in some cases, clouds, sun glint, or turbid areas could not be replaced with overlapping imagery.
+
+--- SENTENCE 368 ---
+In these areas, such obstructions were minimized but could not be eliminated completely.
+
+#### **Digital Elevations Models (DEM)**
+
+Pre-existing U.S. Geological Survey (USGS) 10 m2 resolution digital elevation models (elevation contour intervals 1 m) were available for eight of the nineteen islands and used to correct for relief displacement (see Figure).
+
+--- SENTENCE 369 ---
+Once a draft orthorectified mosaic was produced, a set of independent ground control points (i.e., check points) were used to measure the quality of each mosaic's rectification and ensure that it required horizontal and vertical spatial accuracy limits.
+
+--- SENTENCE 370 ---
+If the spatial accuracy was not acceptable based on this comparison, additional modifications were made to the GCPs, tie-points, etc., until a satisfactory mosaic was created for each island.
+
+--- SENTENCE 371 ---
+In general, mosaics were georeferenced such that pixels are positioned within one pixel width of their correct location.
+
+!
+
+--- SENTENCE 372 ---
+[](_page_25_Picture_4.jpeg)
+
+#### **Image Analysis**
+
+Several intermediate, derived products were produced as the satellite imagery was processed for use in producing the benthic habitat maps.
+
+--- SENTENCE 373 ---
+First, the raw satellite images were converted from Digital Numbers (DNs) to normalized reflectance.
+
+--- SENTENCE 374 ---
+Normalized reflectance (or at-satellite reflectance) converts DNs into standardized, satellite-independent, comparable values.
+
+--- SENTENCE 375 ---
+First developed for Landsat satellite imagery, the algorithm used to perform this conversion was modified for IKONOS image processing.
+
+--- SENTENCE 376 ---
+As part of the conversion from DNs to at-satellite reflectance, the following equation is used (Green et al. 2000):
+
+R = pi \* L/
+
+--- SENTENCE 377 ---
+(Eo cos(theta0) 1/r2 )
+
+--- SENTENCE 378 ---
+L = radiance (from calibration provided by Space Imaging).
+
+--- SENTENCE 379 ---
+r = earth-sun distance in Astronomical Units.
+
+--- SENTENCE 380 ---
+= the solar zenith angle
+
+ Eo = the mean solar exo-atmospheric irradiance in each band.
+
+--- SENTENCE 381 ---
+(A convolution of the spectral response and solar radiation from Neckel and Labs (1984) was used to get Eo.)
+
+--- SENTENCE 382 ---
+The acquisition angles (ephemeris data) of the satellite relative to the ground at the time of image acquisition were also used.
+
+--- SENTENCE 383 ---
+Calibration coefficients for the satellite, provided by Space Imaging, were used to calculate at-satellite radiance, which was then transformed to reflectance.
+
+--- SENTENCE 384 ---
+The normalized reflectance imagery was then transformed into water reflectance (or the signal < 10 cm above the water surface).
+
+--- SENTENCE 385 ---
+Water reflectance uses the near-infrared band to remove radiance attributed to atmospheric and surface effects (Stumpf et al. 2003).
+
+--- SENTENCE 386 ---
+Water reflectance estimates how the signal (photons) received by the satellite is diminished as it passes through the atmosphere on the way down to the water-atmosphere boundary and on the way back up to the satellite after the signal leaves the water-atmosphere boundary.
+
+--- SENTENCE 387 ---
+Water reflectance also estimates how the signal at the satellite is diminished by water vapor, clouds, specular effects at the water surface (wave surface glint), and other signal- absorbing and diffusing materials.
+
+--- SENTENCE 388 ---
+#### **Finalizing the Process**
+
+Final mosaics were created in "img" file format (georeferenced image file) with the following projection parameters Universal Transverse Mercator (UTM) Zone 55 North for Guam and the Commonwealth of the Northern Mariana Islands, HARN UTM Zone 2 South for American Samoa , North American Datum 83.
+
+--- SENTENCE 389 ---
+These files are available on the *Shallow-Water Benthic Habitats of American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands* CD-
+
+ROM and at the NOAA's Biogeography Program Web site.
+
+--- SENTENCE 390 ---
+These mosaics were color-balanced in order to provide the most seamless, cloud-free product available for use (see Figure).
+
+### **Digitizing Benthic Habitats**
+
+Individual georeferenced mosaics were loaded into ArcView with the Habitat Digitizer and Image Analysis extensions
+
+!
+
+--- SENTENCE 391 ---
+ArcView's Image Analysis extension allows each image to be easily manipulated using so as to optimally adjust contrast, brightness, and color.
+
+--- SENTENCE 392 ---
+The Minimum Mapping Unit (MMU) restriction was set to 1 acre in the Habitat Digitizer extension.
+
+--- SENTENCE 393 ---
+One acre was selected based on the scale of the imagery and the objectives of the mapping project.
+
+--- SENTENCE 394 ---
+As a result, some features visible in the imagery such as small isolated patch reefs and sea walls that, while important features, are quite small and beyond the scope of this mapping project.
+
+--- SENTENCE 395 ---
+Digitizing scale was set to 1:6000 in the Habitat Digitizer.
+
+--- SENTENCE 396 ---
+Experimentation indicated that digitizing at this scale optimizes the trade-off between positional accuracy of lines and time spent digitizing.
+
+--- SENTENCE 397 ---
+In general, line placement conducted while zoomed in at large scales results in excellent line accuracy and detail but can be quite time consuming.
+
+--- SENTENCE 398 ---
+Conversely, while zoomed out, lines can
+
+be drawn quickly but lack both detail and positional accuracy.
+
+--- SENTENCE 399 ---
+#### **Determining the Optimum Digitizing Scale**
+
+Results of an experiment conducted during benthic habitat mapping of the Caribbean were used to determine the optimum digitizing scale to maximize accuracy and minimize map production time.
+
+--- SENTENCE 400 ---
+In the Caribbean digitizing experiment a 25 acre area composed of a variety of habitat types was mapped at 1:1500, 1:3000, 1:6000, and 1:12,000 on-screen scale (scale that the image appears on the computer monitor).
+
+--- SENTENCE 401 ---
+Five replicates were conducted at each scale.
+
+--- SENTENCE 402 ---
+Each trial was timed so we could evaluate the influence of mapping scale on production time.
+
+--- SENTENCE 403 ---
+Resulting maps were evaluated for deviations in polygon detail relative to the map digitized at 1:1500 scale.
+
+--- SENTENCE 404 ---
+At 1:1500, individual pixels are clearly discernible allowing highly detailed and accurate maps to be created by closely following the contours of even the most convoluted habitat boundary.
+
+--- SENTENCE 405 ---
+Additional increases in zoom do not result in an increase in map detail and accuracy since individual pixels are already visible at 1:1500.
+
+--- SENTENCE 406 ---
+Therefore, the map created at 1:1500 scale was used as a reference against which to compare maps digitized at scales of 1:3000, 1:6000, and 1:12,000.
+
+--- SENTENCE 407 ---
+The results of this experiment indicated that there is no appreciable loss in polygon detail and accuracy by digitizing at 1:6000 while mapping time was dramatically reduced.
+
+--- SENTENCE 408 ---
+Therefore all polygons were digitized at this scale except when subtle habitat boundaries were not easily discernible at 1:6000 and zooming out to a more broad scale was required to place
+
+boundaries correctly.
+
+--- SENTENCE 409 ---
+In this case, digitizing generally took place at a scale of approximately 1:10,000.
+
+--- SENTENCE 410 ---
+Using the Habitat Digitizer, habitat boundaries were delineated around signatures (e.g., areas with specific color and texture patterns) in the orthorectified mosaic corresponding to habitat types in the Classification Scheme.
+
+--- SENTENCE 411 ---
+This was often accomplished by first digitizing a large boundary polygon such as the habitats that compose the shoreline and then appending new polygons to the initial polygon or splitting out smaller polygons within.
+
+--- SENTENCE 412 ---
+Each new polygon was attributed with the appropriate habitat designation according to the classification scheme.
+
+--- SENTENCE 413 ---
+It is believed that the positional accuracy of polygon boundaries is similar to that of the mosaics since delineation is performed directly on the digital imagery.
+
+--- SENTENCE 414 ---
+Brightness, contrast, and occasionally color balance of the mosaic were manipulated with Image Analysis to enhance the interpretability of some subtle features and boundaries.
+
+--- SENTENCE 415 ---
+This was particularly helpful in deeper water where differences in color and texture between adjacent
+
+!
+
+--- SENTENCE 416 ---
+[](_page_27_Picture_4.jpeg)
+
+features tend to be more subtle and boundaries more difficult to detect.
+
+--- SENTENCE 417 ---
+Particular caution was used when interpretation was performed from altered images, since results from color and brightness manipulations can sometimes be misleading.
+
+--- SENTENCE 418 ---
+The visual interpreter was provided a series of imagery files to aid in delineating and attributing polygons.
+
+--- SENTENCE 419 ---
+These included the unmodified multispectral scenes (4m), normalized reflectance scenes (4m), and pansharpened multispectral scenes (1m).
+
+--- SENTENCE 420 ---
+Additional collateral information including previously completed habitat maps, NOS nautical charts, LIDAR data, NMFS towboard assessments, and other descriptive references dealing with benthic and coastal habitats of U.S. Pacific Territories were used to assist with image interpretation.
+
+#### **Ground Validation**
+
+Following careful evaluation of the IKONOS imagery, and in some cases creation of a "first draft" habitat map through the process outlined in the previous section, selected sites were visited in the field for typological validation.
+
+--- SENTENCE 421 ---
+This validation included:
+
+- 1. areas in the imagery with confusing or difficult to interpret signatures
+- 2. transects across many representative habitat types occurring in different depths and water conditions
+- 3. a survey of the zones
+- 4.
+
+--- SENTENCE 422 ---
+confirmation of preliminary habitat delineations if a first draft was produced
+
+Navigating to field sites was accomplished in a variety of ways including:
+
+- ~ uploading position coordinates from the mosaic into an onboard GPS and navigating to those waypoints
+- ~ using an onboard PC connected to GPS allowing navigation using digital nautical charts or the mosaic
+- ~ visual navigation using landmarks visible in the imagery
+
+On most occasions, field activities were conducted with the guidance of local experts.
+
+--- SENTENCE 423 ---
+IKONOS imagery, and when available, draft delineations were used in the field to facilitate comparison of signatures in the imagery to actual habitats at each site.
+
+--- SENTENCE 424 ---
+Individual sites were visually evaluated by snorkeling and free diving or directly from the boat in shallow, clear water.
+
+--- SENTENCE 425 ---
+Habitat transitions were evaluated by swimming transects across habitat types to further guide placement of polygon boundaries.
+
+--- SENTENCE 426 ---
+Habitat type(s), zone, approximate depth, position (GPS), image number, and other descriptive information were recorded at each site.
+
+--- SENTENCE 427 ---
+Field data for each site was then compiled into a text table with a latitude/longitude field to allow overlay of the field information on the mosaic and habitat
+
+!
+
+--- SENTENCE 428 ---
+[](_page_28_Picture_3.jpeg)
+
+polygons (Ground Validation Points).
+
+--- SENTENCE 429 ---
+Where depth and water clarity permitted, the IKONOS imagery were used to navigate across multiple bottom features allowing continuous confirmation of habitat types and transitions between each site.
+
+!
+
+--- SENTENCE 430 ---
+Once the field data was processed, polygon boundaries and habitat classifications were created or revised where necessary, and zone attributes were assigned to each polygon using the Habitat Digitizer.
+
+--- SENTENCE 431 ---
+This draft of the habitat maps was then reviewed and revised with the guidance of a panel of local experts at peer review sessions at several locations throughout the U.S. Pacific Territories, and over the Internet.
+
+--- SENTENCE 432 ---
+Review session participants included members of the local research and management community.
+
+--- SENTENCE 433 ---
+During these peer review sessions, particular attention was given to polygons labeled as "unknown" and areas not visited during ground truth activities.
+
+--- SENTENCE 434 ---
+Revisions based on comments from local experts were then completed and final habitat maps were produced.
+
+--- SENTENCE 435 ---
+Thematic accuracy was assessed for these final maps (see Assessment of Classification Accuracy).
+
+!
+
+--- SENTENCE 436 ---
+[](_page_28_Picture_8.jpeg)
+
+### **Chapter 4:
+
+--- SENTENCE 437 ---
+Assessment of Classification Accuracy**
+
+# Chapter 4
+
+#### **Introduction**
+
+The quality of the habitat information derived from remotely sensed data is determined by the quantitative process of accuracy assessment.
+
+--- SENTENCE 438 ---
+The purpose of accuracy assessment is to identify and quantify errors in the maps by comparing the attributes of the map versus reference data at various sites.
+
+--- SENTENCE 439 ---
+It is important that the mapmaker know how reliably a given habitat can be classified.
+
+--- SENTENCE 440 ---
+This parameter is called "producers accuracy".
+
+--- SENTENCE 441 ---
+The users of a map product want to know what percentage of the polygons of a particular class are correctly attributed.
+
+--- SENTENCE 442 ---
+This parameter is called "users accuracy".
+
+--- SENTENCE 443 ---
+Furthermore, remotely sensed imagery that may be suitable for mapping coral reef habitats can be acquired from a wide variety of platforms and imaging systems, each having it's own strengths and limitations.
+
+--- SENTENCE 444 ---
+It is important to identify the technical merits of each, one measure of which is the thematic accuracy of the map products.
+
+--- SENTENCE 445 ---
+To determine the overall accuracy of the mapped product, GIS data prepared by visually interpreting IKONOS satellite imagery was assessed for accuracy using conventional methodologies.
+
+--- SENTENCE 446 ---
+It was proposed that specific areas being mapped be used as test areas for this work.
+
+--- SENTENCE 447 ---
+A statistically robust data set composed of random field habitat observations were collected within the test areas to assess the accuracy of the mapped product.
+
+--- SENTENCE 448 ---
+These areas were chosen based on input from the local marine biologists and coral reef managers.
+
+--- SENTENCE 449 ---
+These groups provided advice on the location of the most diverse benthic communities and also areas of particular importance based on management strategies and marine protected areas.
+
+--- SENTENCE 450 ---
+Thus, it was the goal of this team to collect accuracy assessment field data representing as many of the habitats that occur in these regions as possible.
+
+--- SENTENCE 451 ---
+The thematic accuracy of all mapped products was determined at the most general and detailed levels of the classification scheme including both the biological cover type and geomorphological structure.
+
+--- SENTENCE 452 ---
+Sixteen coral reef test areas were selected based on the diversity of the habitat types and to assure that all benthic habitats throughout the U.S. Pacific Territories were represented.
+
+--- SENTENCE 453 ---
+The accuracy of all maps is, therefore, considered a conservative representation of the thematic accuracy of the habitat maps prepared using the same methods for imagery collected throughout the remainder of the U.S. Pacific Territories.
+
+### **Evaluating Thematic Accuracy**
+
+#### **Thematic Accuracy in American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands**
+
+An accuracy assessment system was designed and executed to quantify the thematic accuracy of the maps generated at all levels of the classification scheme.
+
+--- SENTENCE 454 ---
+Statistical analysis methods have been applied that have been developed by other researchers (Hudson and Ramm 1987, Congalton 1991, Rosenfield et al. 1982).
+
+--- SENTENCE 455 ---
+In this work, 20 to 30 field habitat observations were completed per detailed structure as well as detailed biological cover type (see Figure).
+
+--- SENTENCE 456 ---
+The accuracy assessment is prepared from a matrix that compares the attribute assigned to a polygon that was generated from the interpretation of the image with that of the determination from field observation.
+
+--- SENTENCE 457 ---
+Five test areas for American Samoa and eleven test areas for the Marianas Archipelago were established to determine the thematic accuracy of the benthic habitat maps prepared from
+
+!
+
+--- SENTENCE 458 ---
+[](_page_29_Picture_10.jpeg)
+
+### **Chapter 4: Assessment of Classification Accuracy**
+
+IKONOS satellite imagery.
+
+--- SENTENCE 459 ---
+The test areas for American Samoa included Pala Lagoon, Fagatele Bay, Fagaitua Bay, the Manu'a Islands and Tafeu.
+
+--- SENTENCE 460 ---
+The test areas for the Marianas Archipelago included Piti Bay and Cocos Lagoon, Guam; Saipan Lagoon and Lau Lau Bay, Saipan; South Beach, Tinian; west and southeast sides of Rota; the west side of Sarigan; and the entire islands of Pagan, Agrihan, and Maug.
+
+--- SENTENCE 461 ---
+Benthic habitat maps from these areas were generated from IKONOS satellite imagery collected at 4 meter resolution and pansharpened to 1 meter resolution.
+
+--- SENTENCE 462 ---
+All image interpretation and digitizing was conducted by a single NOAA contractor.
+
+--- SENTENCE 463 ---
+The field habitat characterization data collection methods for thematic accuracy assessment differed little from the data collected for ground validation.
+
+--- SENTENCE 464 ---
+The primary distinction between the two data sets was the method of selection of the field points.
+
+--- SENTENCE 465 ---
+Where as the assessment sites for ground validation were selected to specifically investigate habitat types and gradients of spectral signatures in the imagery, a random stratified sampling method was implemented to select field sites to
+
+test map accuracy (Congalton 1991).
+
+--- SENTENCE 466 ---
+Subsequent to completion of the second draft coral reef habitat maps, waypoints were generated using a stratified random sampling scheme.
+
+--- SENTENCE 467 ---
+Twenty to thirty accuracy assessment waypoints were collected per test area for each detailed structure and detailed cover class encountered.
+
+--- SENTENCE 468 ---
+Waypoint files were generated from these points and all waypoints that could be safely accessed were navigated to using a Trimble Geo Explorer 3 GPS data logger (see Figure).
+
+--- SENTENCE 469 ---
+Upon arriving at the waypoint, a weighted meter line was dropped, a buoy fastened and site and habitat specific data collection was undertaken.
+
+--- SENTENCE 470 ---
+After deployment of the buoy, 100 GPS positions were collected at one-second intervals and were averaged to generate a single position.
+
+!
+
+--- SENTENCE 471 ---
+Three benthic habitat assessments were conducted.
+
+--- SENTENCE 472 ---
+A point assessment was conducted by surveying the one square meter area around the point where the weight dropped.
+
+--- SENTENCE 473 ---
+Two area assessments were conducted in an area of a seven-meter radius around the weight.
+
+--- SENTENCE 474 ---
+The first assessment identified the most common habitat type within the area and the second identified the second most common habitat type with in the area.
+
+--- SENTENCE 475 ---
+The depth of the site was recorded using a hand held depth sounder.
+
+--- SENTENCE 476 ---
+Benthic habitat assessments were made using a glass bottom look box, free diving or observing from the surface.
+
+--- SENTENCE 477 ---
+All diving was conducted by breath holding or snorkeling on the surface.
+
+--- SENTENCE 478 ---
+In areas where waves and sea conditions were prohibitive to safely accessing the waypoint by boat the GPS was placed in a watertight box and swam to the survey point.
+
+--- SENTENCE 479 ---
+Data including but not limited to site ID, depth, most common habitat, zone and assessment method were recorded using the GPS data logger equipped with a custom data dictionary designed to meet the specifications of the Coral Reef Habitat Classification Scheme.
+
+--- SENTENCE 480 ---
+At the end of each field day, the data were downloaded, differentially corrected to the closest CORS station and seamlessly converted to ArcView GIS format.
+
+--- SENTENCE 481 ---
+All hand written descriptions were entered in waterproof notebooks and transferred to the GIS by hand.
+
+--- SENTENCE 482 ---
+A total of 1,720 benthic habitat characterizations were completed in all sixteen test areas combined, 613 characterization points for American Samoa and 1107 points for the Marianas Archipelago.
+
+--- SENTENCE 483 ---
+To maintain objectivity in the analysis of accuracy, an independent team conducted this work.
+
+--- SENTENCE 484 ---
+The Coral Reef Assessment and Monitoring Program (CRAMP) biologists from the Hawaii Institute of Marine Biology from the University of Hawaii at Manoa made the official judgments.
+
+--- SENTENCE 485 ---
+The accuracy assessment point theme and the benthic habitat polygon themes were overlaid on the imagery in the GIS.
+
+--- SENTENCE 486 ---
+The GIS was queried to select all points within the polygons that matched the polygon habitat type.
+
+--- SENTENCE 487 ---
+These were set aside as correct calls.
+
+--- SENTENCE 488 ---
+The mismatched pairs were closely examined.
+
+--- SENTENCE 489 ---
+The classification errors that occurred between the MMU and size of accuracy assessment areas were accounted for in this analysis.
+
+--- SENTENCE 490 ---
+A map classification was not considered incorrect in a case where a seven meter radius field assessment fell on a
+
+### **Chapter 4:
+
+--- SENTENCE 491 ---
+Assessment of Classification Accuracy**
+
+habitat feature in the field that was smaller than 1 acre.
+
+--- SENTENCE 492 ---
+For example, if a field assessment fell on a small patch reef surrounded by sand that was less than the MMU and thus was not mapped, the point was excluded from the accuracy assessment report.
+
+--- SENTENCE 493 ---
+Points that fell close to polygon boundaries were all included as it was assumed that the probability of error contributing to false negatives would be equal to that for false positives.
+
+--- SENTENCE 494 ---
+The habitat type for the portions of the test area that were not interpretable due to cloud cover, glint or water quality were classified as "unknown".
+
+--- SENTENCE 495 ---
+The accuracy assessment points that fell within polygons with the habitat type of "unknown" were not included in the accuracy analysis.
+
+#### **Results of Overall Accuracy Assessment of Benthic Habitat Map Products**
+
+Thematic accuracy of the benthic habitat maps was determined using the aforementioned methods.
+
+--- SENTENCE 496 ---
+The mapped habitat type was compared with that of the actual habitat type from field observation.
+
+--- SENTENCE 497 ---
+The data is organized into columns representing the field habitat assessment and the rows organized into mapped habitat type.
+
+--- SENTENCE 498 ---
+The correct class for each of the incorrect attributes was recorded and included in a comprehensive matrix at the most detailed level of the classification scheme.
+
+--- SENTENCE 499 ---
+Four of these detailed matrices were generated, one each for biological cover and geomorphological structure in American Samoa and the Marianas Archipelago.
+
+--- SENTENCE 500 ---
+Error matrices were prepared at the detailed and general levels to identify patterns of confusion in the interpretation of the signatures in the imagery.
+
+--- SENTENCE 501 ---
+This information was incorporated into ongoing work to improve the accuracy of mapped product.
+
+--- SENTENCE 502 ---
+A complete description of these results can be found in the final project report, Project Completion Report: Mapping of Benthic Habitats for U.S. Pacific Territories, at http://biogeo.nos.noaa.
+
+--- SENTENCE 503 ---
+Traditionally, the data is organized into columns that represent the field habitat validation data and the rows are organized into the interpretation of the images.
+
+--- SENTENCE 504 ---
+The overall accuracy is typically measured by dividing the total correct determinations by the total number of assessments.
+
+--- SENTENCE 505 ---
+This result only incorporates the major diagonal of the table and excludes the omission and commission errors whereas the Tau analysis indirectly incorporates the off-diagonal elements as a product of the row and column marginals.
+
+--- SENTENCE 506 ---
+Furthermore, the Tau analysis compensates for unequal probabilities of groups or for differences in numbers of groups (Ma and Redmond 1995).
+
+--- SENTENCE 507 ---
+This assessment lends itself to statistical analysis wherein the photointerpreter's determination is assigned a probability that it occurred at random (see Tables).
+
+--- SENTENCE 508 ---
+| American Samoa     |                  |
+
+--- SENTENCE 509 ---
+|  |  |
+|--------------------|------------------|------|--|--|
+| Map Category       | Overall Accuracy | Tau
+
+--- SENTENCE 510 ---
+| Major Structure    | 98.0 %           | 0.97 |  |  |
+
+--- SENTENCE 511 ---
+| Detailed Structure | 84.0 %           | 0.83 |
+
+--- SENTENCE 512 ---
+| Major Cover        | 87.6 %           | 0.86 |  |  |
+| Detailed Cover     | 77.3 %           | 0.76 |  |  |
+
+| Mariana Archipelago |                  |      |  |  |
+|---------------------|------------------|------|--|--|
+| Map Category        | Overall Accuracy | Tau  |  |  |
+| Major Structure     | 98.7 %           | 0.98 |  |  |
+| Detailed Structure  | 92.6 %           | 0.92 |  |  |
+| Major Cover         | 87.8 %           | 0.86 |  |  |
+| Detailed Cover      | 80.9 %           | 0.80 |  |  |
+
+# References
+
+Allee, R.J., and 11 co-authors.
+
+--- SENTENCE 513 ---
+Marine and Estuarine Ecosystem and Habitat Classification.
+
+--- SENTENCE 514 ---
+National Marine Fisheries Service.
+
+--- SENTENCE 515 ---
+Office of Habitat Conservation.
+
+--- SENTENCE 516 ---
+Chauvaud, S., C. Bouchon, and R. Maniere.
+
+--- SENTENCE 517 ---
+Remote sensing techniques adapted to high resolution mapping of tropical coastal marine ecosystems (coral reefs, seagrass beds, and mangrove).
+
+--- SENTENCE 518 ---
+J. Remote Sens. 19:3525-3639.
+
+--- SENTENCE 519 ---
+Christensen, J.C., C. Jeffrey, C. Caldow, M.E. Monaco, M.S. Kendall, R.S. Appeldoorn.
+
+--- SENTENCE 520 ---
+Cross-shelf Habitat Utilization Patterns of Reef Fishes in Southwestern Puerto Rico.
+
+--- SENTENCE 521 ---
+A Review of Assessing the Accuracy of Classifications of Remotely Sensed Data.
+
+--- SENTENCE 522 ---
+Friedlander, A.M. and E. Brown.
+
+--- SENTENCE 523 ---
+Fish Habitat Utilization Patterns and Evaluation of the Efficacy of Marine Protected Areas in Hawaii: Integration and Evaluation of NOS Digital Benthic Habitat Maps and Reef Fish Monitoring Studies.
+
+--- SENTENCE 524 ---
+Green, E.P., P.J. Mumby, A.J. Edwards, and C.D. Clark.
+
+--- SENTENCE 525 ---
+Remote Sensing Handbook for Tropical Coastal Management.
+
+--- SENTENCE 526 ---
+Coastal Management Sourcebooks 3, UNESCO, Paris.
+
+--- SENTENCE 527 ---
+Hawaiian Coral Reef Ecology.
+
+--- SENTENCE 528 ---
+Holthus, P.F., and J.E. Maragos.
+
+--- SENTENCE 529 ---
+Marine ecosystem classification for the tropical island Pacific.
+
+--- SENTENCE 530 ---
+In: Maragos, J.E., Peterson, M.N.A., Eldredge, L.G., Bardach, J.E., Takeuchi, H.F. Eds.), Marine and Coastal Biodiversity in the Tropical Island Pacific Region, East-West Center, Honolulu, p. 239-
+
+--- SENTENCE 531 ---
+Hudson, W.D. and C.W. Ramm. 1987.
+
+--- SENTENCE 532 ---
+Correct Formation of the Kappa Coefficient of Agreement.
+
+--- SENTENCE 533 ---
+Kendall, M.S., C.R. Kruer, K.R. Buja, J.D. Christensen, M. Finkbeiner, and M.E. Monaco.
+
+--- SENTENCE 534 ---
+Methods used to map the benthic habitats of Puerto Rico and the U.S. Virgin Islands.
+
+--- SENTENCE 535 ---
+National Ocean Service, Center for Coastal Monitoring and Assessment, Biogeography Team, Silver Spring, MD.
+
+--- SENTENCE 536 ---
+Kendall, M.S., J. Christensen, and Z. Hillis-Starr. 2003.
+
+--- SENTENCE 537 ---
+Multi-scale Data Used to Analyze the Spatial Distribution of French Grunts, Haemulon flavolineatum, Relative to Hard and Soft Bottom in a Benthic Landscape.
+
+--- SENTENCE 538 ---
+Mapping and characterizing seagrass areas important to manatees in Puerto Rico- Benthic Communities Mapping and Assessment.
+
+--- SENTENCE 539 ---
+Report prepared for Department of Interior, Nat.
+
+--- SENTENCE 540 ---
+Surv., Sirenia Project, Order No. 83023- 5-0161.
+
+--- SENTENCE 541 ---
+Lindeman, K.C., G.A. Diaz, J.E. Serafy, and J.S. Ault.
+
+--- SENTENCE 542 ---
+A spatial framework for assessing cross-shelf habitat use among newly settled grunts and snappers.
+
+--- SENTENCE 543 ---
+Ma, Z., and R.L Redmond, 1995.
+
+--- SENTENCE 544 ---
+Tau Coefficients for Accuracy Assessment of Classification of Remote Sensing Data.
+
+--- SENTENCE 545 ---
+Mapping and Information Synthesis Working Group.
+
+--- SENTENCE 546 ---
+Coral Reef Mapping Implementation Plan (2nd Draft).
+
+--- SENTENCE 547 ---
+U.S. Coral Reef Task Force.
+
+--- SENTENCE 548 ---
+Washington, DC, NOAA, NASA and USGS (Work Group Co-chairs).
+
+--- SENTENCE 549 ---
+References**
+
+Monaco, M.E., J.D. Christensen, and S.O, Rohmann.
+
+--- SENTENCE 550 ---
+Mapping and Monitoring of U.S. Coral Reef Ecosystems.
+
+--- SENTENCE 551 ---
+Mumby, P.J., A.R. Harborne, and P.S. Raines.
+
+--- SENTENCE 552 ---
+Draft Classification Scheme for Marine Habitats of Belize.
+
+--- SENTENCE 553 ---
+UNDP/GEF Belize Coastal Zone Management Project.
+
+--- SENTENCE 554 ---
+Neckel, H. and D. Labs. 1984.
+
+--- SENTENCE 555 ---
+The solar radiation between 3300 and 12500 angstroms.
+
+--- SENTENCE 556 ---
+Reid, J.P., and C.R. Kruer.
+
+--- SENTENCE 557 ---
+Mapping and characterization of nearshore benthic habitats around Vieques Island, Puerto Rico.
+
+--- SENTENCE 558 ---
+Report to U.S. Navy.
+
+--- SENTENCE 559 ---
+U.S. Geological Survey/BRD, Sirenia Project, Gainesville, Florida.
+
+--- SENTENCE 560 ---
+Rosenfield, G.H., K. Fitzpatrick-Lins and H.S. Lingm. 1982.
+
+--- SENTENCE 561 ---
+Sampling for the Thematic Map Accuracy Testing.
+
+--- SENTENCE 562 ---
+and Remote Sens. 48:131-137.
+
+--- SENTENCE 563 ---
+Sheppard, C.R., K. Matheson, J.C. Bythel, P. Murphy, C.B. Myers, and B. Blake.
+
+--- SENTENCE 564 ---
+Habitat mapping in the Caribbean for management and conservation: Use and Assessment of Aerial Photography.
+
+--- SENTENCE 565 ---
+Stumpf, R.P., K. Holderied, and M. Sinclair. 2003.
+
+--- SENTENCE 566 ---
+Determination of water depth with high-resolution satellite imagery over variable bottom types.
+
+--- SENTENCE 567 ---
+Integrating multisource imagery and GIS analysis for mapping Bermuda's benthic habitats.
+
+--- SENTENCE 568 ---
+Presented at the 4th International Conference on Remote Sensing for Marine and Coastal Environments.
+
+--- SENTENCE 569 ---
+Orlando, FL March 1997, p. 649-656.
+
