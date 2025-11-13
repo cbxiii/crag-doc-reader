@@ -10,3 +10,5 @@ langchain_text_splitters
 spacy
 ollama
 pydantic
+faiss-cpu
+nltk
