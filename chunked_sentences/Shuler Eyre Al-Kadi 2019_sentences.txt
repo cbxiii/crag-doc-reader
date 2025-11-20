@@ -1,0 +1,3751 @@
+--- SENTENCE 1 ---
+# Groundwater Development Potential and Conceptual Hydrogeologic Model for Tutuila, American Samoa
+
+Christopher K. Shuler
+Paul R. Eyre
+Aly I. El-Kadi
+
+**May 2019** 
+
+PREPARED IN COOPERATION WITH THE American Samoa Environmental Protection Agency
+
+WATER RESOURCES RESEARCH CENTER
+UNIVERSITY OF HAWAI'I
+
+--- SENTENCE 2 ---
+AT MĀNOA
+Honolulu, Hawai'i 96822
+
+# **Groundwater Development Potential and Conceptual Hydrogeologic Model for Tutuila, American Samoa**
+
+Christopher K. Shuler Paul R. Eyre Aly I. El-Kadi
+
+SR-2019-01
+
+--- SENTENCE 3 ---
+May 2019
+
+PREPARED FOR American Samoa Environmental Protection Agency
+
+PROJECT REPORT FOR USEPA Region IX "Making a Visible Difference in Communities" Project No.: C00543 Project Period: 7 May 2016–31 December 2017 Principal Investigator: Aly I. El-Kadi
+
+>
+
+--- SENTENCE 4 ---
+**WATER RESOURCES RESEARCH CENTER** UNIVERSITY OF HAWAI'I AT MĀNOA Honolulu, Hawai'i 96822
+
+!
+
+--- SENTENCE 5 ---
+[](_page_3_Picture_0.jpeg)
+
+# **ABSTRACT**
+
+On Tutuila, the main island in the Territory of American Samoa, sustainable water resources management is a high priority.
+
+--- SENTENCE 6 ---
+Groundwater provides drinking water to over 90% of the island's residents.
+
+--- SENTENCE 7 ---
+However the sustainability of this resource is threatened by overuse, salinization of wells, and reduction of water quality—potentially due to prevalent non-point pollution sources.
+
+--- SENTENCE 8 ---
+Proposed solutions to these and other water issues on the island involve exploration for new groundwater sources with lower contamination potential and development of updated tools for management of existing resources.
+
+--- SENTENCE 9 ---
+Both of these objectives benefit from an increased understanding of Tutuila's subsurface structure and revisions to the conceptual hydrogeologic model of the island.
+
+--- SENTENCE 10 ---
+In this report, currently available hydrological information was compiled with recently acquired subsurface datasets to inform an updated conceptual hydrogeological model of Tutuila's groundwater and surface water resources.
+
+--- SENTENCE 11 ---
+Published reports, recently collected data, and studies from similar basaltic islands were integrated to explain groundwater behavior in Tutuila's already developed basal aquifers, and to inform hypotheses of high-level groundwater occurrence where data limitations exist.
+
+--- SENTENCE 12 ---
+Datasets presented include borehole, geophysical, water level, aquifer test, geomorphologic, and surface water data.
+
+--- SENTENCE 13 ---
+Geologic and hydrologic observations, as well as experience with existing well performance suggest that Tutuila's hydrogeology is complex.
+
+--- SENTENCE 14 ---
+A two-stage eruptive history, (the shield-building and rejuvenated phases) compounded with high erosion rates, has increased the heterogeneity of Tutuila's subsurface.
+
+--- SENTENCE 15 ---
+This has manifested as an extreme range in observed hydraulic conductivities throughout the island.
+
+--- SENTENCE 16 ---
+Some low-hydraulic conductivity areas, such as the Pago Shield, display significant production rate limitations, and other areas, such as the Tafuna Plain, were so highly conductive that it resulted in issues with surface water contamination of groundwater.
+
+--- SENTENCE 17 ---
+The existence of high-level water in the island's older shields is irrefutable, but its nature is poorly understood.
+
+--- SENTENCE 18 ---
+A significant perched aquifer exists at Aoloau Village, and numerous persistent springs have been reported throughout the island.
+
+--- SENTENCE 19 ---
+Existing geologic evidence suggests high-level waters are likely to be impounded by different types of geologic structures in different locations.
+
+--- SENTENCE 20 ---
+While it is likely that no single conceptual hydrogeologic model best represents the entire island, separate models can likely be applied to different hydrogeologic units where sufficient data is available.
+
+--- SENTENCE 21 ---
+# **CONTENTS**
+
+|     |     |
+
+--- SENTENCE 22 ---
+| Abstract                                                       | iii |
+|-----|-----|--------------|----------------------------------------------------------------|-----|
+| 1.0 |     | Introduction |
+
+--- SENTENCE 23 ---
+| 1   |
+|     | 1.1 |
+
+--- SENTENCE 24 ---
+| Purpose and Scope<br>                                          | 1   |
+|     | 1.2 |
+
+--- SENTENCE 25 ---
+| Regional Setting<br>                                           | 2   |
+|
+
+--- SENTENCE 26 ---
+| Regional Geologic History<br>                                  | 4   |
+|     | 1.4 |              | Geology of Tutuila<br>                                         | 5   |
+|     |     | 1.4.1        | Pleistocene Volcanic Shields<br>
+
+--- SENTENCE 27 ---
+| 5   |
+|     |
+
+--- SENTENCE 28 ---
+| 1.4.2        | SedimentaryUnits and Changes in Sea Level                      | 6   |
+|     |
+
+--- SENTENCE 29 ---
+| 1.4.3        | Holocene Leone Volcanics<br>                                   | 7   |
+|     | 1.5 |              | General Conceptual Hydrogeologic Model of Basalt Islands       | 8   |
+|     | 1.6 |              | Hydrogeologic Units on Tutuila<br>                             | 10  |
+| 2.0 |     |              | Hydrogeologic Data<br>                                         | 11  |
+|     | 2.1 |              | Compilation and Interpretation of Subsurface Logs              | 11  |
+|     |     | 2.1.1        | Shallow Borehole Logs<br>                                      | 12  |
+|     |     | 2.1.2        |
+
+--- SENTENCE 30 ---
+Deep Exploratory Boreholes (TGH-1 and TGH-3)<br>               | 13  |
+|     |     | 2.1.3        | Temperature Logging of Deep Boreholes                          | 15  |
+|     | 2.2 |              | Examination of Lava Outcrops in Pleistocene Volcanic Rocks<br> | 21  |
+|     | 2.3 |              | Interpretation of New Geophysics and Well Logging<br>          | 22  |
+|     | 2.4 |              | Hydrologeologic Data from Wells and Pumping Tests<br>          | 26  |
+|     |     | 2.4.1        | Water Levels
+
+--- SENTENCE 31 ---
+<br>                                               | 26  |
+|     |     | 2.4.2        | Water Level Variability in the Tafuna-Leone Plain<br>          | 27  |
+|     |
+
+--- SENTENCE 32 ---
+| 2.4.3        | Specific Capacity                                              | 29  |
+|     |     | 2.4.4.
+
+--- SENTENCE 33 ---
+| Aquifer Transmissivity and Hydraulic Conductivity<br>          | 29  |
+|     |     | 2.4.5
+
+--- SENTENCE 34 ---
+| High Chloride Wells<br>                                        | 31  |
+|     | 2.5 |              | Numerically Modeled Values of Hydraulic Conductivity
+
+--- SENTENCE 35 ---
+| 34  |
+|     | 2.6 |              | Recharge Estimates<br>                                         | 35  |
+|
+
+--- SENTENCE 36 ---
+| 2.7 |              | High-Level Spring Occurrence and Geochemistry                  | 37  |
+|
+
+--- SENTENCE 37 ---
+| Streamflow Analysis<br>                                        | 41  |
+| 3.0 |     |              | Updates to the Conceptual Hydrogeologic Model<br>              | 45  |
+
+|     | 3.1.
+
+--- SENTENCE 38 ---
+|                   | Conceptual Model of Subsurface Flow through a Complex<br>Volcanic Island<br>                                                             | 45 |
+|-----|------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------|----|
+|     | 3.2        |                   | Groundwater Occurrence in Tutuila's Hydrogeologic Units<br>                                                                              | 49 |
+|     |            | 3.2.1             | Holocene Leone Volcanics<br>                                                                                                             | 49 |
+|     |            | 3.2.2.
+
+--- SENTENCE 39 ---
+| Groundwater Occurrence in Pleistocene Volcanic Shields<br>                                                                               | 53 |
+|     |            | 3.2.3             | Perched or Dike Impounded Aquifer at Aoloau<br>                                                                                          | 55 |
+|     |            | 3.2.4             | Valley-Fill Aquifers<br>                                                                                                                 | 56 |
+| 4.0 |            |                   | Recommendations for Future Development<br>                                                                                               | 56 |
+| 5.0 |            | Conclusions       |                                                                                                                                          | 57 |
+|     |            | Acknowledgements  |                                                                                                                                          | 58 |
+|     | References |                   |                                                                                                                                          | 59 |
+|     | Figures    |                   |                                                                                                                                          |    |
+| 1.
+
+--- SENTENCE 40 ---
+| Map        |                   | of Tutuila Island and bathymetric map of Samoan archipelago<br>                                                                          | 3  |
+| 2.
+
+--- SENTENCE 41 ---
+|            | from 1971 to 2000 | Average annual precipitation from climate data recorded<br>                                                                              | 4  |
+| 3.
+
+--- SENTENCE 42 ---
+|            |                   | Simplified geology of Tutuila showing volcanic shields and inferred<br>volcanic structures such as rift zones and caldera boundaries<br> | 6  |
+| 4.
+
+--- SENTENCE 43 ---
+|            |                   | Bathymetry surrounding Tutuila<br>                                                                                                       | 7  |
+| 5.
+
+--- SENTENCE 44 ---
+|            |                   | Two conceptual models of groundwater occurrence on basaltic<br>oceanic islands                                                           | 9  |
+| 6.
+
+--- SENTENCE 45 ---
+|            |                   | Hydrogeologic units from the conceptual hydrogeologic model<br>developed by Izuka et al. (2007) of the Tafuna-Leone Plain region<br>     | 10 |
+| 7.
+
+--- SENTENCE 46 ---
+|            |                   | Location of boreholes and archeologic trenches<br>                                                                                       | 11 |
+| 8.
+
+--- SENTENCE 47 ---
+|            |                   | Location of seven boreholes used to construct the geologic cross<br>section A–A' shown in Figure 9<br>                                   | 13 |
+| 9.
+
+--- SENTENCE 48 ---
+|            |                   | Heterogeneous subsurface structures of the 7 boreholes located in<br>the Tafuna-Leone Plain<br>                                          | 14 |
+| 10.
+
+--- SENTENCE 49 ---
+|            |                   | Conceptualized cross section of the Tafuna-Leone lava delta<br>                                                                          | 14 |
+| 11.
+
+--- SENTENCE 50 ---
+|            |                   | Temperature and conductivity profile for TGH-3 in Iliili<br>                                                                             | 19 |
+| 12.
+
+--- SENTENCE 51 ---
+|            |                   | Temperature profile for TGH-1 in Malaeloa<br>                                                                                            | 20 |
+
+| 13.
+
+--- SENTENCE 52 ---
+| Diagram of the geologic componenets of the Pleistocene volcanics<br>in an outcrop at Masefau Bay<br>                                                      | 22 |
+|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----|
+| 14.
+
+--- SENTENCE 53 ---
+| Location of measured Pleistocene Volcanic rock outcrops                                                                                                   | 23 |
+| 15.
+
+--- SENTENCE 54 ---
+| Map of the Tafuna-Leone Plain and the Taputapu Volcano area<br>showing MT station measurement locations as upside down triangles                          | 25 |
+| 16.
+
+--- SENTENCE 55 ---
+| Cross section of western Tutuila showing MT survey of<br>subsurface resistivity<br>                                                                       | 26 |
+| 17.
+
+--- SENTENCE 56 ---
+| Location map of selected watersheds or wellfield areas where<br>water level data is available<br>                                                         | 27 |
+| 18.
+
+--- SENTENCE 57 ---
+| Water level and rainfall measurements taken over an extended period<br>of heavy rainfall events from Lower Malaeloa monitoring Well 80<br>                | 29 |
+| 19.
+
+--- SENTENCE 58 ---
+| Distribution and specific capacity values derived from historical<br>records and tests conducted in 2014 by WRRC<br>                                      | 30 |
+| 20.
+
+--- SENTENCE 59 ---
+| Distribution and magnitude of K values derived from ASPA records<br>(unpublished) and tests conducted in 2014 by WRRC                                     | 31 |
+| 21.
+
+--- SENTENCE 60 ---
+| Graph showing correction between Cl- concentration and distance<br>of well from shore                                                                     | 33 |
+| 22.
+
+--- SENTENCE 61 ---
+| Graph showing correlation between Cl- concentrations and well depth<br>located in selected Pleistocene shield and allvial valley-fill wells               | 33 |
+| 23.
+
+--- SENTENCE 62 ---
+| Schematic of a water balance model used to calculate<br>Tutuila's<br>groundwater recharge                                                                 | 36 |
+| 24.
+
+--- SENTENCE 63 ---
+| Comparison of three recharge estimates by Eyre and Walker (1991),<br>Izuka et al. (2007), and ASPA (2013)<br>                                             | 38 |
+| 25.
+
+--- SENTENCE 64 ---
+| Water isotope graphs comparing: precipitation and groundwater, and<br>water isotope values by sample type<br>                                             | 40 |
+| 26.
+
+--- SENTENCE 65 ---
+| Location of documented and/or observed freshwater springs                                                                                                 | 43 |
+| 27.
+
+--- SENTENCE 66 ---
+| Location of<br>continuous and partial-record streamflow gauging<br>stations maintained and reported by USGS<br>                                           | 43 |
+| 28.
+
+--- SENTENCE 67 ---
+| Illustration of low-flow characteristics for streams in Tutuila<br>                                                                                       | 45 |
+| 29.
+
+--- SENTENCE 68 ---
+| Three conceptual high-level groundwater models controlled by<br>different types of water-impounding geologic structures<br>                               | 47 |
+| 30.
+
+--- SENTENCE 69 ---
+| Geologic and hydrogeologic conceptual models of B–B'<br>                                                                                                  | 49 |
+| 31.
+
+--- SENTENCE 70 ---
+| Diagram showing the interaction of the basal lens at the margin<br>of the less-permeable Taputapu Shield and the more-permeable<br>Tafuna-Leone Plain<br> | 52 |
+
+| 32.
+
+--- SENTENCE 71 ---
+| Average slope of geologic units<br>                                                                                  | 54 |
+|--------|----------------------------------------------------------------------------------------------------------------------|----|
+| 33.
+
+--- SENTENCE 72 ---
+| Geophysical and surface-mapping data showing inferred density of<br>intrusive structures throughout Tutuila<br>      | 55 |
+| Tables |                                                                                                                      |    |
+| 1.
+
+--- SENTENCE 73 ---
+| Physical characteristics of regions, using shallow borehole<br>logs as reference<br>                                 | 12 |
+| 2.
+
+--- SENTENCE 74 ---
+| Simplified compilation of drilling details from logs and core<br>samples for TGH-1 (Upper Malaeloa village) site<br>
+
+--- SENTENCE 75 ---
+| 16 |
+| 3.
+
+--- SENTENCE 76 ---
+| Simplified compilation of drilling details from logs and core<br>samples for TGH-3 (Iliili village) site             | 17 |
+| 4.
+
+--- SENTENCE 77 ---
+| Physical characteristics of Leone and Taputapu volcanic units<br>at boreholes TGH-1 and TGH-3                        | 18 |
+| 5.
+
+--- SENTENCE 78 ---
+| Statistics from selected lava flows on Tutila<br>                                                                    | 24 |
+| 6.
+
+--- SENTENCE 79 ---
+| Compilation of historical water level data by well field<br>                                                         | 28 |
+| 7.
+
+--- SENTENCE 80 ---
+| Summary of aquifer and well production characteristics from<br>existing wells on Tutuila from 1973 to 2014<br>       | 32 |
+| 8.
+
+--- SENTENCE 81 ---
+| Comparison of numerical groundwater models for hydraulic<br>conductivity in Tafuna-Leone Plain, Tutuila<br>          | 35 |
+| 9.
+
+--- SENTENCE 82 ---
+| Geochemical data and details for notable springs                                                                     | 42 |
+
+# **1.0 INTRODUCTION**
+
+## **1.1 Purpose and Scope**
+
+Groundwater resources on small tropical islands serve several important functions.
+
+--- SENTENCE 83 ---
+Because surface water supplies are commonly limited in these settings, groundwater is often the primary water resource available for human needs.
+
+--- SENTENCE 84 ---
+Additionally, natural groundwater discharge supports terrestrial and coastal ecosystems by providing baseflow to streams, and delivering nutrients or other dissolved constituents to reefs.
+
+--- SENTENCE 85 ---
+Because of the isolated nature of oceanic islands, the importance of effectively utilizing, preserving, and protecting limited groundwater resources is undeniable.
+
+--- SENTENCE 86 ---
+Developing a well-informed and data-driven understanding of groundwater quality and quantity in island settings is a prerequisite for meeting ecological needs and developing sustainable water resources management strategies.
+
+--- SENTENCE 87 ---
+On Tutuila, the main island in the Territory of American Samoa, groundwater resources provide drinking water to over 90% of the island's approximately 60,000 residents.
+
+--- SENTENCE 88 ---
+Sustainable water management is of utmost importance on Tutuila due to the fragile nature of this limited resource.
+
+--- SENTENCE 89 ---
+In the past, overuse of groundwater from some of Tutuila's aquifers has caused salinization of wells, reduction in water quality, and necessitated abandonment of entire well fields.
+
+--- SENTENCE 90 ---
+At present, island wide groundwater extraction rates, minus transmission losses, often cannot keep pace with municipal and industrial water demand, resulting in frequent low-pressure complaints.
+
+--- SENTENCE 91 ---
+An extreme range of hydraulic conductivities in the island's rocks causes production rate limitations in extremely low-conductivity areas, and issues with surface water contamination of groundwater in highly conductive zones.
+
+--- SENTENCE 92 ---
+Groundwater under the direct influence of surface water in the Tafuna-Leone Plain region (ASEPA 2010) has afflicted portions of Tutuila with one of the longest-standing boil-water advisories in U.S. history (ASEPA 2016).
+
+--- SENTENCE 93 ---
+Additionally, water quality in many of the island's aquifers is threatened by anthropogenic contamination caused by prevalent non-point pollution sources (Shuler et al. 2017).
+
+--- SENTENCE 94 ---
+Compounding these issues is the fact that the island's landmass is quite small (about 9% of Oahu, Hawaii); therefore, the total volume of freshwater storage is limited.
+
+--- SENTENCE 95 ---
+To address these issues, quantitative hydrogeologic assessments are needed, and these assessments are fundamentally based on well-informed conceptual hydrogeological models.
+
+--- SENTENCE 96 ---
+The foundation of any study involving groundwater, whether an analytical approach or a numerical model, inherently relies on basic assumptions of how water behaves in the subsurface.
+
+--- SENTENCE 97 ---
+Unlike surface water resources, which can be observed, sampled, and measured with relative freedom, groundwater resources generally remain hidden beneath thick layers of soil and rock, making them difficult and expensive to observe directly.
+
+--- SENTENCE 98 ---
+The qualitative or pictorial representation of groundwater properties, aquifer mechanics, and subsurface water flow invoked when one considers unseen subsurface processes is termed a conceptual hydrogeologic model (Betancur et al. 2012).
+
+--- SENTENCE 99 ---
+Such a model is constructed by integrating
+
+direct or indirect measurements, results of exploration activities, and the general knowledge of aquifer construction and groundwater movement.
+
+--- SENTENCE 100 ---
+An effective conceptual model ideally constrains all factors that significantly control groundwater quality or quantity, such as anthropogenic and natural-geochemical influences, underlying geology, surface water characteristics, and climatic variability.
+
+--- SENTENCE 101 ---
+While conceptual models are a necessary foundation for building more quantitative analyses, such as numerical models, they also stand as perpetual works in progress, subject to update or revision as information becomes available through new observations or results.
+
+--- SENTENCE 102 ---
+In this report, currently available hydrologic information was compiled with recently acquired subsurface datasets to inform an updated conceptual hydrogeologic model of Tutuila's groundwater and surface water resources.
+
+--- SENTENCE 103 ---
+Published reports, recently collected data, and studies from similar basaltic islands were integrated to explain groundwater behavior in Tutuila's already developed basal aquifers, and to inform various hypotheses of high level groundwater occurrence where data limitations exist.
+
+--- SENTENCE 104 ---
+Although this report attempts to integrate all pertinent and available information, much still remains to be discovered about Tutuila's groundwater and subsurface structure.
+
+--- SENTENCE 105 ---
+Thus, it is inevitable that this conceptual model will benefit from revision by future workers, in the same way that this model builds upon those developed by previous studies.
+
+--- SENTENCE 106 ---
+Ultimately, this model is intended to support and inform future efforts to quantitatively assess the sustainability of Tutuila's groundwater resources; tasks that include numerical modeling, exploration for new uncontaminated groundwater sources, and decision support tools for water resources management.
+
+--- SENTENCE 107 ---
+## **1.2 Regional Setting**
+
+Tutuila, the largest and most populous island in American Samoa, is located in the South Pacific Ocean at the coordinates of 14° 20' 0" S and 170° 40' 0" W (Fig. 1).
+
+--- SENTENCE 108 ---
+The island has an area of 142 km<sup>2</sup> and a population of 56,000 residents (ASDOC 2013).
+
+--- SENTENCE 109 ---
+Tutuila is within the South Pacific Convergence Zone, thus there is abundant rainfall year round.
+
+--- SENTENCE 110 ---
+This region experiences some seasonality in precipitation with a wet season and a relatively lesswet season.
+
+--- SENTENCE 111 ---
+Monthly average precipitation from November to March is roughly twice that of May to August's still significant rainfall amounts.
+
+--- SENTENCE 112 ---
+Rainfall varies considerably with location and elevation (Fig. 2) and ranges between 1,800 to 5,000 mm/yr (70–200 in./yr) (Daley et al. 2006).
+
+--- SENTENCE 113 ---
+Strong tropical storms and hurricanes also influence the region about once every other year, and an average of 25 to 30 significant thunderstorms affecting the island annually (Kennedy et al. 1987).
+
+!
+
+--- SENTENCE 114 ---
+Map of Tutuila Island (top) and bathymetric map of Samoan archipelago (bottom).
+
+--- SENTENCE 115 ---
+Divisions between Western and American Samoa are drawn to show political jurisdictions and do not constitute actual territorial boundaries.
+
+--- SENTENCE 116 ---
+Regional location map shown in the middle-right inset.
+
+--- SENTENCE 117 ---
+Tutuila can be divided into two primary geographic regions: (1) an east-west trending series of Pleistocene age shield volcanoes that have eroded into a sharp 32 km long ridgeline, and (2) a geologically young (Holocene) series of lava and ash flows on the island's southwestern flank that primarily makes up the Tafuna-Leone Plain (Fig. 1).
+
+--- SENTENCE 118 ---
+The plain is bisected by a north-south trending ridge of cinder cones, and the eastern (Tafuna) side of the plain is about twice the size (15 km<sup>2</sup> ) of the western (Leone) side (8 km<sup>2</sup> ).
+
+--- SENTENCE 119 ---
+The older-volcanic shields generally rise 300 to 400 m above sea level with the island's highest point at the summit of Mt. Matafao (653 m).
+
+--- SENTENCE 120 ---
+Only a third of the island has a slope of less than 30%, therefore, development density is high in the flatter areas such as the Tafuna-Leone Plain and the small alluvial-fill valleys that ring the island.
+
+--- SENTENCE 121 ---
+The steeper parts of the landscape are heavily forested with tropical jungle.
+
+!
+
+--- SENTENCE 122 ---
+Average annual precipitation from climate data recorded from 1971 to 2000 (Daly et al. 2006).
+
+--- SENTENCE 123 ---
+## **1.3 Regional Geologic History**
+
+The Samoan Archipelago is located near the northern boundary of the Tonga Trench, at the crest of a plate flexure where the seafloor of the Pacific Plate begins to dip southward into the trench (Natland 2003).
+
+--- SENTENCE 124 ---
+Volcanism in the archipelago is likely controlled by both tectonic and hotspot processes, and the islands' eruptive history can be categorized into two distinct phases, respective of these processes.
+
+--- SENTENCE 125 ---
+The first phase of Samoan volcanism is attributed to hot spot activity.
+
+--- SENTENCE 126 ---
+This phase is thought to have constructed the shield volcanos that make up the 'core' of each main Samoan island, similar to the way that other hot-spot chains in the Pacific, such as Hawaii, were created.
+
+--- SENTENCE 127 ---
+As the Pacific Plate moves westward over a stationary mantle plume, the islands propagate eastward with the youngest island most proximal to the hot spot.
+
+--- SENTENCE 128 ---
+Currently, the hot spot is thought to be underneath the volcanically active Vailuluu Seamount, about 20 miles east of Tau Island (Fig. 1).
+
+--- SENTENCE 129 ---
+The oldest rocks from the chain were dredged from the submarine flanks of the island of Savaii and are dated to 5.2 millions of years before present (Ma) (Koppers et al. 2008).
+
+--- SENTENCE 130 ---
+On Upolu, older rocks range from 3.2 to 1.4 Ma, and Tutuila's older-volcanic mountains date from 1.5 to 1.0 Ma (Natland 2003).
+
+--- SENTENCE 131 ---
+The ages of the Manua islands (Ofu-Olosega and Tau) to the east of Tutuila are much younger, dating to 0.3 and 0.1 Ma (McDougall 1985), and submarine eruptions from Vailuluu are ongoing (Johnson 1977).
+
+--- SENTENCE 132 ---
+The second phase of Samoan volcanism is a rejuvenated phase (i.e., post-erosional phase) that probably occurred fairly contemporaneously throughout the late Pleistocene and Holocene on the islands of Savaii, Upolu, and Tutuila (Natland 1980).
+
+--- SENTENCE 133 ---
+The extent of this second phase of eruptions traverses the length of an approximately 300+ km long plate flexure zone across Savaii and Upolu, and to the eastern shore of Tutuila.
+
+--- SENTENCE 134 ---
+On Tutuila, the rejuvenated phase created the Tafuna-Leone Plain on the shields'southwestern flank, and
+
+Aunuu Islet off of the eastern coast.
+
+--- SENTENCE 135 ---
+Natland (2003) proposes this rejuvenated volcanism results from extensional fracturing caused by the structural effects of lithospheric bending as the Pacific Plate subducts into the Tonga Trench.
+
+--- SENTENCE 136 ---
+Interestingly, this rejuvenated phase of volcanism is more voluminous on Savaii and Upolu and almost completely covered the original shields, thereby making them larger and creating domed edifices that are clearly less eroded than the highly dissected islands of Tutuila, Ofu, and Olosega.
+
+--- SENTENCE 137 ---
+As a whole, the surficial appearance of the Samoan archipelago makes it appear that the more westerly islands (Savai and Upolu) are younger, although they are not.
+
+--- SENTENCE 138 ---
+This apparent discrepancy sparked much scientific debate regarding the validity of the mantle-plume hot-spot model until accurate dates from the Savaii undersea volcanic pile were measured (Koppers et al. 2008).
+
+--- SENTENCE 139 ---
+## **1.4 Geology of Tutuila**
+
+## **1.4.1 Pleistocene Volcanic Shields**
+
+In the Samoan archipelago, Tutuila is third in both size and age, having erupted 1–2 Ma from two or three parallel east-northeast trending rift zones on the ocean floor.
+
+--- SENTENCE 140 ---
+During the island's hot-spot phase, four overlapping volcanic shields (Pago, Taputapu, Olomoana, and Alofau) (Fig. 3) were thought to have contemporaneously erupted over about a half-million years, starting around 1.5 Ma (Stearns 1944, McDougall 1985).
+
+--- SENTENCE 141 ---
+These eruptions produced a complicated and heterogeneous assemblage of alkalic igneous rocks, in the form of thick lava flows, pyroclastic deposits, and crosscutting intrusive dikes and plugs.
+
+--- SENTENCE 142 ---
+At its peak size, about 1.25 Ma, the island may have been nearly 45 km in length, 12 km in width, and about 1,500 m (5,000 ft) tall (Stearns 1944).
+
+--- SENTENCE 143 ---
+Also around that time, a large collapse in the center of the Pago Shield created the 9 km wide Pago Caldera.
+
+--- SENTENCE 144 ---
+At the end of the Pleistocene Epoch, the caldera was deeply eroded by surface water, and inundated by the rising sea level, to create the fjord-like feature of Pago Pago Harbor.
+
+--- SENTENCE 145 ---
+Stearns (1944) interpreted the nearly vertical north wall of the harbor as direct evidence of this collapse.
+
+--- SENTENCE 146 ---
+After the collapse, additional eruptive activity inside of the caldera created a distinctive lithologic unit consisting of lowpermeability ponded flows, tuffs, breccias, and trachyte intrusions that are collectively referred to as the Pago Inner-Caldera Unit.
+
+--- SENTENCE 147 ---
+This unit postdates the Pago Outer-Caldera Unit, which is primarily composed of gently sloping lava flows and some pyroclastics (Stearns 1944).
+
+--- SENTENCE 148 ---
+The neighboring Alofau Shield may also have experienced a similar caldera collapse, whereas the westerly Taputapu Shield shows no evidence of such an event.
+
+--- SENTENCE 149 ---
+Tutuila's shield building phase ended about 1 Ma with the eruption of massive lava flows that filled several valleys, and the intrusion of numerous Trachyte plugs and dikes that remain today as the island's highest and most prominent peaks (Stearns 1944, NPS 2008).
+
+--- SENTENCE 150 ---
+The shape of the original shields could be inferred from the existing island profile, as seen in the slopes of the long ridges that emanate from the island's central axis.
+
+--- SENTENCE 151 ---
+These ridgelines often have slopes of about 15°, which corresponds to the dip of many individual lava flows
+
+measured on Tutuila by Eyre and Walker (1991).
+
+--- SENTENCE 152 ---
+What remains of Tutuila today, after much subsidence below sea level, is the deeply eroded and weathered summit of the original island.
+
+!
+
+--- SENTENCE 153 ---
+[](_page_15_Figure_1.jpeg)
+
+Modified from Stearns (1944) and Knight Enterprises Inc. (2014).
+
+--- SENTENCE 154 ---
+Simplified geology of Tutuila showing volcanic shields and inferred volcanic structures such as rift zones and caldera boundaries.
+
+--- SENTENCE 155 ---
+Rock samples from each shield were collected by McDougall (1985) to determine the potassium-argon ages of their flows.
+
+--- SENTENCE 156 ---
+Though the dates suggest relatively contemporaneous eruptions, they do show that the Pago Shield (1.53–1.14 Ma) is probably slightly older than the Alofau and Olomoana Shields (1.11–1.48 Ma), and that the Taputapu Shield (1.01– 1.25 Ma) is probably the youngest.
+
+--- SENTENCE 157 ---
+Stearns (1944) also notes that the Taputapu flows appear to overlie the Pago flows in Aasu Valley, and the geomorphology of the Taputapu Shield shows it is younger than the Pago Shield, with less erosional dissection.
+
+#### **1.4.2 Sedimentary Units and Changes in Sea Level**
+
+After the cessation of the shield-building phase, Tutuila experienced between 120 m to 800 m of isostatic submergence (Stearns 1944).
+
+--- SENTENCE 158 ---
+At some point during this interval, a Pleistocene-age barrier reef formed around much of the island.
+
+--- SENTENCE 159 ---
+Behind the barrier reef, a lagoon environment allowed the growth of fringing reefs and the deposition of carbonates, marls, and terrestrial alluvium (Mayor 1920).
+
+--- SENTENCE 160 ---
+Next, there was a period where coral growth could not keep pace with the rate of the sea level rise, and the lagoon and barrier reef were drowned.
+
+--- SENTENCE 161 ---
+Today these carbonate deposits form a submarine plateau that lies unconformably on the eroded upper surface of the older volcanic shields.
+
+--- SENTENCE 162 ---
+Bathymetric data show that the top of the plateau occupies a remarkably uniform depth from -50 to -90 meters below sea level (Fig. 4).
+
+--- SENTENCE 163 ---
+In 2015, a deep borehole was drilled showing two carbonate horizons in the TafunaLeone Plain region.
+
+--- SENTENCE 164 ---
+The lower horizon ranges from -58 to -74 m below sea level and is thought to be a part of the carbonate bench.
+
+--- SENTENCE 165 ---
+Radiocarbon dating (Reinhard, unpublished data, June 2016) shows the middle of the horizon is 10,300 years old.
+
+--- SENTENCE 166 ---
+Above this horizon, the Leone Volcanic flows continue up to a depth of -15 m where a second carbonate layer is found.
+
+--- SENTENCE 167 ---
+The layer is 9 m thick and was deposited during an interval between 7,000 and 4,400 years ago.
+
+--- SENTENCE 168 ---
+This upper layer is probably one of many carbonate horizons or lenses that may have been interfingered with the Leone Volcanics.
+
+--- SENTENCE 169 ---
+The existence of these horizons could result from a combination of the intermittent growth of the volcanic plain and global sea level fluctuations, which include a rise from -120 m at the end of the Pleistocene Epoch 12,000 years ago, and a +2 m high stand about 5,000 years ago (dates and elevations are approximate).
+
+!
+
+--- SENTENCE 170 ---
+Bathymetry surrounding Tutuila (Lim et al. 2010).
+
+--- SENTENCE 171 ---
+The sharp drop 3–7 km from the coastline is interpreted as the former sub-aerial extent of the older shield volcano(s) prior to submergence.
+
+--- SENTENCE 172 ---
+The flat area between -80 m and -40 m depth (*red and blue lines*) is the top of a carbonate rich sedimentary unit that is thought to have been deposited in a lagoon environment behind an ancient drowned barrier reef.
+
+--- SENTENCE 173 ---
+To the north of the Tafuna-Leone Plain area, and along the coastline of the rest of the island, are numerous deeply-incised valleys eroded into the older shields.
+
+--- SENTENCE 174 ---
+The bottom of many of these valleys are filled with terrestrial alluvium that collects as streams erode material from the mountains.
+
+--- SENTENCE 175 ---
+The larger valleys also contain marine sediments and reef material, some rising to 2 m above the current sea level, which correlates with sea-level highstands within the last 5,000 years.
+
+--- SENTENCE 176 ---
+These alluvial wedges provide some of the limited flat land around the island for building villages, and most probably contain at least a small basallens aquifer.
+
+#### **1.4.3 Holocene Leone Volcanics**
+
+After the last glacial period and until indigenous-historical times, Tutuila's rejuvenated
+
+volcanic phase produced eruptions along the southern flank and to the summit of the Taputapu Shield (Natland 1980, Addison 2006).
+
+--- SENTENCE 177 ---
+Recent unpublished carbon dates from the interbedded carbonate layers under the plain suggest that the rejuvenated phase eruptions began earlier than 10,000 years ago and continued until 4,000 years ago (Reinhard, unpublished data, June 2016).
+
+--- SENTENCE 178 ---
+Additionally, archeological excavation of a widespread red-ash layer throughout the plain indicates that pyroclastic eruptions were still occurring from around 650 to 750 years ago (Addison 2014).
+
+--- SENTENCE 179 ---
+These Holocene age lava flows, ash eruptions, and cinder cones, make up the Leone Volcanic Series.
+
+--- SENTENCE 180 ---
+The Leone Series primarily originated from an approximately 7 km long north-south trending rift zone that is clearly demarcated as a ridge, topped with cinder and ash cones, running between the villages of Tafuna and Leone.
+
+--- SENTENCE 181 ---
+The Tafuna-Leone Plain represents the bulk of the erupted material from Tutuila's rejuvenated phase, during which submarine eruptions blasted through the carbonate shelf, and ash deposits and lava deltas flowed down the flank of the older shields (Keating and Bolton 1992).
+
+--- SENTENCE 182 ---
+The pyroclastic cones closer to the sea have more ash in their compositions, indicating they were formed from explosive eruptions (likely due to intruding seawater), whereas the cinder cones and pahoehoe flows located farther north are indicative of subaerial effusive eruptions.
+
+--- SENTENCE 183 ---
+Aunuu Islet, a small tuff cone 1.3 km off of the southeastern coast of Tutuila, was also thought to have been created by submarine eruptions during this phase.
+
+--- SENTENCE 184 ---
+It is interesting to note that the southern boundary of the Tafuna-Leone Plain is located at the edge of the carbonate shelf, which suggests that the rejuvenated volcanics must have flowed outwards until they reached the edge of the shelf where they cascaded down the submarine slope into the depths.
+
+--- SENTENCE 185 ---
+## **1.5 General Conceptual Hydrogeologic Model of Basalt Islands**
+
+Generally, on basaltic oceanic islands, the primary freshwater resource is contained in a lens-shaped body near sea level within saturated rocks (Tribble 2008).
+
+--- SENTENCE 186 ---
+This basal freshwater lens is supported by the underlying seawater due to the contrasting densities between fresh water and salt water.
+
+--- SENTENCE 187 ---
+The transition between fresh and salt water is marked by a zone of brackish water (the transition zone) that can vary in thickness and depth.
+
+--- SENTENCE 188 ---
+A secondary freshwater resource described in basaltic island settings is high-level groundwater.
+
+--- SENTENCE 189 ---
+It is distinctive from basal-lens groundwater as it is supported by low-permeability features such as dikes, perching layers, or low-conductivity country rock, and is not connected to underlying seawater.
+
+--- SENTENCE 190 ---
+High-level groundwater has been observed and developed for use on other islands.
+
+--- SENTENCE 191 ---
+However, on Tutuila no wells have definitively tapped high-level groundwater and its occurrence remains generally unconstrained.
+
+--- SENTENCE 192 ---
+Various conceptual models have been proposed for groundwater occurrence on volcanic islands and these generally fall into two categories: Hawaiian models and Canary Islands models (Join et al. 2016)
+
+--- SENTENCE 193 ---
+The Hawaiian model describes groundwater occurrence in two distinct and hydraulically disconnected systems, basal groundwater and high-level groundwater (Lau and Mink 2006).
+
+--- SENTENCE 194 ---
+On the other hand, the Canary Islands model (Custodio
+
+1989, Custodio and Cabrera 2008)—alternately described as the 'fully saturated vertically extensive freshwater body' model (Izuka and Gingerich 2003)—describes a single hydraulically connected basal groundwater body extending from sea level and supported to high elevations by low-conductivity aquifer material.
+
+--- SENTENCE 195 ---
+The average hydraulic conductivity distribution in this model is believed to decrease with depth, which is justified by an assumed loss of porosity due to compaction and secondary mineralization, as well as increasing age and weathering.
+
+!
+
+--- SENTENCE 196 ---
+Two conceptual models of groundwater occurrence on basaltic oceanic islands.
+
+--- SENTENCE 197 ---
+The Hawaiian model (Lau and Mink 2006) consists of two disconnected groundwater systems, high-level and basal.
+
+--- SENTENCE 198 ---
+The Canary Island model (Custodio 1989) illustrates that elevated and basal groundwater are hydraulically connected as a single system contained in low-permeability rock.
+
+--- SENTENCE 199 ---
+## **1.6 Hydrogeologic Units on Tutuila**
+
+Neither of the aforementioned conceptual models has been undeniably invoked to describe groundwater occurrence on Tutuila.
+
+--- SENTENCE 200 ---
+However, they are not necessarily incompatible.
+
+--- SENTENCE 201 ---
+Taken in perspective, a conceptual model is merely a simplification used to inform predictions or parameterization of numerical models.
+
+--- SENTENCE 202 ---
+Real world subsurface conditions controlling groundwater movement and storage on Tutuila are heterogeneous and poorly constrained, thus it is possible and even likely, that different regions with distinct geologic histories may be more effectively parameterized on a regional scale by different conceptual models.
+
+--- SENTENCE 203 ---
+This emphasizes the importance of interpreting data from different hydrogeologic units on an individual basis, as attempted in this report.
+
+--- SENTENCE 204 ---
+Izuka et al. (2007) delineated over five hydrogeologic units for Western Tutuila based on what is known of the island's geologic construction (Fig. 6).
+
+--- SENTENCE 205 ---
+The Taputapu and Pago Shields were consolidated into one low-conductivity unit—the Pleistocene Older-Volcanics Unit—as lack of data precluded their differentiation into separate hydrogeologic units.
+
+--- SENTENCE 206 ---
+The Leone Volcanics were separated into the more hydraulically conductive Tafuna Unit on the eastern side of the plain and a less conductive Leone Unit on the western side.
+
+--- SENTENCE 207 ---
+The rift zone running through the middle of the plain was classified as a Pyroclastic Unit with simulated dikes, and a wedge-shaped Reef Unit was located between the Leone Units and the Pleistocene Older-Volcanic Unit.
+
+--- SENTENCE 208 ---
+The boundaries and characteristics of these units comprise the foundation of the hydrogeologic conceptual model of Tutuila.
+
+--- SENTENCE 209 ---
+However, new geologic and hydrogeologic data presented in this report provided evidence for proposed updates to this conceptual model, such as considering each shield in the lower-conductivity unit separately.
+
+!
+
+--- SENTENCE 210 ---
+[](_page_19_Figure_3.jpeg)
+
+Reprinted from Izuka et al. (2007) with permission.
+
+--- SENTENCE 211 ---
+Hydrogeologic units from the conceptual hydrogeologic model developed by Izuka et al. (2007) of the Tafuna-Leone Plain region.
+
+--- SENTENCE 212 ---
+## **2.0 HYDROGEOLOGIC DATA**
+
+## **2.1 Compilation and Interpretation of Subsurface Logs**
+
+Borehole logs from well drilling or other belowground exploratory operations allow a direct assessment of subsurface structure, materials, and conditions.
+
+--- SENTENCE 213 ---
+Available logs from Tutuila show the island is constructed of a complex arrangement of lava flows, associated clinker zones, a limited amount of marine and terrestrial sedimentary units, and pyroclastic materials—including pockets of cinder and ash layers.
+
+--- SENTENCE 214 ---
+Throughout Tutuila there have been numerous shallow (< 100 m) boreholes drilled during the last 30 years, primarily as production wells.
+
+--- SENTENCE 215 ---
+Two deep exploratory boreholes were also drilled in 2015, one on the northern Leone Plain in the village of Upper Malaeloa (TGH-1) and the other on the southern Tafuna Plain in the village of Iliili (TGH-3).
+
+--- SENTENCE 216 ---
+Driller's logs of varying quality were found in reports or unpublished records for about one-third of the shallow holes.
+
+--- SENTENCE 217 ---
+Excellent logs were made, and core samples were collected, for nearly the full depth of the deep boreholes.
+
+--- SENTENCE 218 ---
+Trenches dug for archaeological purposes, though usually only < 2 m deep, also provided information about the shallow subsurface.
+
+--- SENTENCE 219 ---
+The locations of each log or trench are shown in Figure 7.
+
+--- SENTENCE 220 ---
+Despite significant variation in the quality and terminology used between logs, they were nonetheless useful for comparing the subsurface characteristics of different areas and assessing the subsurface elevations of recognizable geologic features.
+
+!
+
+--- SENTENCE 221 ---
+Location of boreholes [Bentley 1975, ASPA files (unpublished)] and archeologic trenches (Addison 2014).
+
+--- SENTENCE 222 ---
+## **2.1.1 Shallow Borehole Logs**
+
+For this study, lithologic sections from shallow production-well borehole logs were classified into a simplified database.
+
+--- SENTENCE 223 ---
+Terminology between the logs was highly variable since they were recorded over several decades by different drillers.
+
+--- SENTENCE 224 ---
+The driller's logs often lacked clear lithological descriptions, and frequently only documented changes in drilling speed as "hard" or "soft."
+
+--- SENTENCE 225 ---
+In volcanic island settings, these terms have been interpreted to signify the difference between massive-impermeable lava sections (hard) and more-permeable rubble or clinker zones (soft) (Eyre and Walker 1991).
+
+--- SENTENCE 226 ---
+However, this assumption may be an oversimplification, as drilling speed can also increase if a lower-permeability clay or weathered volcanic rock horizon is encountered.
+
+--- SENTENCE 227 ---
+Nonetheless, the logs do provide general indications of geologic structures, as well as a statistical basis upon which Tutuila's extreme subsurface heterogeneity may be crudely understood.
+
+--- SENTENCE 228 ---
+For simplicity here, each lithologic section was classified into one of ten categories: unconsolidated, hard basalt, vesicular basalt, no-circulation, clay, soft basalt or fractured rock, cinder, ash, non-carbonate sand, carbonate sand, or carbonate reef.
+
+--- SENTENCE 229 ---
+The proportions of each material, averaged over the logs available in the different well fields or regions is presented in Table 1.
+
+--- SENTENCE 230 ---
+Many of the logs show massive lavas (or hard drilling zones) interlayered with cinders, weathered basalt, rubble, or other soft materials, indicating that small scale heterogeneity may be so localized as to not have much control over regional aquifer properties.
+
+--- SENTENCE 231 ---
+Physical characteristics of regions, using shallow borehole logs as reference.
+
+--- SENTENCE 232 ---
+|                     |                | PHYSICAL CHARACTERISTICS<br>(%)
+
+--- SENTENCE 233 ---
+|           |                           |        |    |             |      |
+|---------------------|----------------|---------------------------------|-----------|---------------------------|--------|----|-------------|------|
+| Region (Well Field)
+
+--- SENTENCE 234 ---
+| Sample<br>Size |                                 |
+
+--- SENTENCE 235 ---
+Basalt    |                           |        |    | Ash<br>Clay |      |
+|                     | (n)*           | Hard                            | Vesicular | Soft or<br>Fractured Rock | Cinder |    |
+
+--- SENTENCE 236 ---
+| Sand |
+| Tafuna              | 13             | 52                              | 5         | 26                        | 3      | 0
+
+--- SENTENCE 237 ---
+| 4           | 0    |
+| Iliili              | 6              | 46
+
+--- SENTENCE 238 ---
+| 16        | 17                        | 9      | 1  | 1           | 5    |
+| Leone               | 6              | 43                              | 5         | 28                        | 4      | 1  | 1           | 8    |
+| Tula and Alofau     | 3              | 11                              | 0         | 0
+
+--- SENTENCE 239 ---
+| 4      | 21 | 53          | 10   |
+
+--- SENTENCE 240 ---
+| Aua and Pago Pago   | 9              | 16                              | 12        | 9                         | 12     | 6  | 13          | 4    |
+| Fagaalu             | 3              | 7                               | 1         | 15                        | 11     | 0
+
+--- SENTENCE 241 ---
+| 33          | 23   |
+
+--- SENTENCE 242 ---
+| Malaeimi            | 3              | 31                              | 0         | 46                        | 0      | 0  | 11          | 0    |
+| Total               | 43             | 35                              | 7         | 20                        | 6      | 3  | 11          | 5    |
+
+NOTE:
+
+--- SENTENCE 243 ---
+The proportion of each material type (% of total thickness) is averaged over the logs within each region.
+
+--- SENTENCE 244 ---
+All material types are not listed, therefore total percentages do not equal 100%.
+
+--- SENTENCE 245 ---
+The heterogeneous subsurface structure of the Tafuna Plain is displayed in a cross section at seven closely spaced shallow borehole logs in the Tafuna Plain (Bentley 1975).
+
+--- SENTENCE 246 ---
+<sup>\*</sup>n = number of logs available in each region.
+
+--- SENTENCE 247 ---
+These logs provide a unique high-resolution opportunity to examine the subsurface structure of the region.
+
+--- SENTENCE 248 ---
+These boreholes lie along an 850-m-long southwest to northeast profile (Fig.
+
+--- SENTENCE 249 ---
+Despite their spatial proximity, the geologic sections encountered are poorly correlated between boreholes (Fig. 9).
+
+--- SENTENCE 250 ---
+This lack of correlation illustrates the plain's complex structure, which is shown in the logs as alternating sequences of massive lavas and rubble or fractured zones that are clearly not aerially extensive.
+
+--- SENTENCE 251 ---
+Figure 10 shows a conceptualized schematic interpretation of how these alternating permeable and impermeable sections might create borehole observations that fit the log data shown.
+
+--- SENTENCE 252 ---
+This conceptual model again supports the conclusion that Tutuila's subsurface is hydrogeologically, very complex.
+
+!
+
+--- SENTENCE 253 ---
+Location of seven boreholes used to construct the geologic cross section A–A' shown in Figure 9
+
+## **2.1.2 Deep Exploratory Boreholes (TGH-1 and TGH-3)**
+
+The data collected from the two deep boreholes in the Tafuna-Leone area provides an informative visualization of subsurface conditions and lithology at each point.
+
+--- SENTENCE 254 ---
+The core samples recovered from these holes provide a record of the geologic past via visual inspection, radiocarbon (<sup>14</sup>C) dating methods, and major/minor element chemistry.
+
+--- SENTENCE 255 ---
+The Leone Series rocks can be distinguished from the underlying Taputapu rocks by distinctive geochemical signatures, where the Leone rocks have approximately 10% less magnesium oxide and 20% more zirconium (both normalized by weight) than what is contained in the Taputapu rocks (Geologica Geothermal Group, Inc., unpublished data, 2016).
+
+!
+
+--- SENTENCE 256 ---
+Heterogeneous subsurface structures of the 7 boreholes (from Figure 8) located in the Tafuna-Leone Plain.
+
+--- SENTENCE 257 ---
+The cross section illustrates the boreholes lithologic features based on Bentley's (1975) driller's logs.
+
+--- SENTENCE 258 ---
+Note: Reference datum for y-axis is arbitrary.
+
+!
+
+--- SENTENCE 259 ---
+Source: Based on Walker 1991.
+
+--- SENTENCE 260 ---
+Conceptualized cross section of the Tafuna-Leone lava delta.
+
+--- SENTENCE 261 ---
+The model is based on conceptual occurrence of lava delta formation when overlaid over the seven borehole logs shown in Figure 9.
+
+--- SENTENCE 262 ---
+As expected, the lithologic column in the boreholes consists primarily of dense lava sections that are interbedded with rubble and/or pyroclastic materials.
+
+--- SENTENCE 263 ---
+The column at TGH-1 shows a thick layer of mountain-front talus and alluvium covering the Leone Volcanic Unit,
+
+which overlies the Taputapu rocks; thus indicating that the well is probably located in a lava filled paleo-valley.
+
+--- SENTENCE 264 ---
+At TGH-3, the alluvial overburden is relatively thin, and the Leone Volcanics contains two marine carbonate layers above the contact with the Taputapu Volcanics.
+
+--- SENTENCE 265 ---
+This indicates the well must be located north of the lava-covered inland margin of the carbonate bench surrounding the island.
+
+--- SENTENCE 266 ---
+Three distinct hydrogeologic units and a handful of notable geologic events (e.g., debris flows) can be interpreted based on known geologic history and inspection of the cores and logs.
+
+--- SENTENCE 267 ---
+The sequence of these events and a hydrogeological interpretation of significant units are presented in Tables 2 and 3, with photos from Geologica Geothermal Group, Inc. (2016).
+
+--- SENTENCE 268 ---
+The lithology of the Leone and Taputapu Units was analyzed and statistics are compiled in Table 4.
+
+--- SENTENCE 269 ---
+The data shows that in both boreholes, the Taputapu and Leone Volcanic Units are composed of similar materials and have lithological sections ranging from massive basalt, vesicular basalt, fractured basalt, pyroclastic materials, and unconsolidated regions to sedimentary horizons, many of which seem to alternate frequently (average section thickness in both holes was between 2.0 and 2.4 m) in a non-regular sequence.
+
+--- SENTENCE 270 ---
+Each layer was classified based on its lithology as well as an assumption of its permeability with vesicular basalt, rubble, and unconsolidated zones having a higher-assumed permeability and massive lavas, while ash and clay have a lower assumed permeability.
+
+--- SENTENCE 271 ---
+This analysis indicates the Taputapu Series generally has more secondary mineralization in voids and a higher proportion of clays or other minerals that reduce permeability, whereas the Leone series is constructed of a greater proportion of rock types that are assumedly more permeable.
+
+--- SENTENCE 272 ---
+Notably large rubble zones were seen in the Taputapu Series in both holes, ranging from -231 to -236 m and -199 to -232 m below sea level at TGH-1 and TGH-3, respectively.
+
+--- SENTENCE 273 ---
+It remains unclear if these zones are connected between holes.
+
+--- SENTENCE 274 ---
+Below this zone the ratio of permeable to impermeable rock is reduced from 25% to 35%.
+
+--- SENTENCE 275 ---
+Temperature logging was also performed during and after drilling, and showed a distinct anomaly in the TGH-3 rubble zone.
+
+--- SENTENCE 276 ---
+Overall the heterogeneity seen in these logs emphasizes the futility of aquifer characterization based on individual geologic sections, thus emphasizing the need to assess integrated regional hydrological properties through aquifer tests.
+
+#### **2.1.3 Temperature Logging of Deep Boreholes**
+
+Although, aquifer tests were not performed on the deep boreholes TGH-1 and TGH-3, temperature logging was performed during and after drilling.
+
+--- SENTENCE 277 ---
+This technique is useful for indicating areas of fluid flow because meteoric or ocean waters have distinctive temperatures that are likely to disrupt the geothermal temperature gradient of the surrounding rock.
+
+--- SENTENCE 278 ---
+Survey results from Geologica Geothermal Group, Inc. (2016) are shown in Figures 11 and 12, both show low temperature plateaus and thus the presence of the known freshwater aquifer between about +3 to -85 m above sea level at TGH-1, and about +1 to -25 m above sea level at TGH-3.
+
+--- SENTENCE 279 ---
+Simplified compilation of drilling details from logs and core samples for TGH-1 (Upper Malaeloa village) site.
+
+--- SENTENCE 280 ---
+| Depth<br>(m) | Height<br>(m)                 | Geologic Unit and<br>Hydrologic Notes                                                                                                                                                                                                                                                                                               | Unit Thickness<br>(m)
+
+--- SENTENCE 281 ---
+| Core Sample |
+|--------------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|
+| 24.2         | 18.9                          | Sediments, alluvium, pyroclastics, and<br>basalts?
+
+--- SENTENCE 282 ---
+Reports of poorly sorted material<br>suggest moderate permeability.
+
+--- SENTENCE 283 ---
+| 24.2                  |             |
+| 34.1         | 9.0                           | Sediments, alluvium, and pyroclastics, core<br>recovered.
+
+--- SENTENCE 284 ---
+| 9.9                   |             |
+
+--- SENTENCE 285 ---
+| 61.6         | -18.5                         | Leone volcanics, fractured vesicular basalt.<br>High permeability.
+
+--- SENTENCE 286 ---
+Water table encountered<br>at 39.6 m depth (3.5 m above MSL),<br>unconfined aquifer below.<br>(Sampled at<br>a<br>42.7 m deep)
+
+--- SENTENCE 287 ---
+| 27.4                  |             |
+| 76.2         | -33.1                         | Leone volcanics, vesicular basalt, mixed<br>with clinker, scoriacious zones, and<br>massive units.
+
+--- SENTENCE 288 ---
+Heterogeneous permeability,<br>but generally high.
+
+--- SENTENCE 289 ---
+One geochemical<br>sample at 75 m deep looks Taputapu in<br>a<br>origin, may not be in situ.
+
+--- SENTENCE 290 ---
+| 14.6                  |             |
+| 89.0         | -45.9                         | Sediments, alluvium, massive boulders,<br>clay.
+
+--- SENTENCE 291 ---
+Likely a debris flow.
+
+--- SENTENCE 292 ---
+| 12.8                  |             |
+
+--- SENTENCE 293 ---
+| 114.9        | -71.8                         | Loss of circulation, no data.
+
+--- SENTENCE 294 ---
+Assumption<br>that circulation loss indicates highly<br>permeable formation is reasonable.
+
+--- SENTENCE 295 ---
+| 25.9                  |             |
+
+--- SENTENCE 296 ---
+| 279.5        | -236.4
+
+--- SENTENCE 297 ---
+| Taputapu volcanics alternating zones of<br>massive and vesicular basalt, lapili tuff,<br>clinker, and scoria.
+
+--- SENTENCE 298 ---
+Thin paleohorizons and<br>debris flows present.
+
+--- SENTENCE 299 ---
+Heterogeneous<br>permeability, with zones of potentially high<br>permeability.
+
+--- SENTENCE 300 ---
+Notable rubble zone at 231 to<br>236 m below MSL.
+
+--- SENTENCE 301 ---
+(Sampled at 118 and<br>124 m deep) a | 164.6                 |             |
+| >663.0       | -620.0<br>(bottom<br>of hole)
+
+--- SENTENCE 302 ---
+Basalt and<br>volcanoclastics, predominantly massive<br>texture, most pore spaces filled with<br>secondary mineralization.
+
+--- SENTENCE 303 ---
+Generally lower<br>permeability than upper Taputapu.
+
+--- SENTENCE 304 ---
+|
+
+Note: Depth = bottom of unit; Height = above mean sea level (MSL), ground elevation estimated at 43.1 m above MSL; photos for core samples used with permission from Geologica Geothermal Group, Inc. (2016), depths shown in feet below ground surface.
+
+--- SENTENCE 305 ---
+a Geochemical rock samples used to delineate Taputapu Volcanics from Leone Volcanics.
+
+--- SENTENCE 306 ---
+Simplified compilation of drilling details from logs and core samples for TGH-3 (Iliili village) site.
+
+--- SENTENCE 307 ---
+| Depth<br>(m) | Height<br>(m)                 | Geologic Unit and<br>Hydrologic Notes                                                                                                                                                                                                       | Unit Thickness<br>(m)
+
+--- SENTENCE 308 ---
+| Core Sample |
+|--------------|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|
+| 74.4         | 1.9                           | Leone basalts, unsaturated zone.
+
+--- SENTENCE 309 ---
+Fractures<br>and vesicularity suggest high permeability.<br>Terrigenous soil and surface sediments<br>from 0 to 4.5 m, no returns.
+
+--- SENTENCE 310 ---
+| 74.4                  |             |
+| 82.3
+
+--- SENTENCE 311 ---
+| -6.0                          | Leone basalts and ash layer at bottom.<br>Upper water table encountered at 74.4 m,<br>unconfined saturated zone.
+
+--- SENTENCE 312 ---
+Basalts look<br>permeable, ash may have low permeability.<br>(Sampled at 77.4 m) a                                         | 7.9                   |             |
+| 91.4         | -15.1                         | Carbonate.
+
+--- SENTENCE 313 ---
+Coral sand, intact reef, and fine<br>grained marl.
+
+--- SENTENCE 314 ---
+Probably more permeable<br>than lower carbonates.
+
+--- SENTENCE 315 ---
+| 9.1                   |             |
+| 134.1        | -57.8                         | Leone basalts between carbonates.
+
+--- SENTENCE 316 ---
+Fractures and vesicularity<br>suggest high permeability.
+
+--- SENTENCE 317 ---
+(Sampled at<br>a<br>93.6 m deep)                                                                                            | 42.7                  |             |
+
+--- SENTENCE 318 ---
+| 150.3        | -74.0                         | Second carbonate unit.
+
+--- SENTENCE 319 ---
+Mostly carbonate<br>marl, some coral fragments.
+
+--- SENTENCE 320 ---
+High clays<br>suggest low permeability.
+
+--- SENTENCE 321 ---
+| 16.2                  |             |
+
+--- SENTENCE 322 ---
+| 157.3        | -81.0
+
+--- SENTENCE 323 ---
+| Leone basalts and tuff.
+
+--- SENTENCE 324 ---
+Iron oxide and<br>secondary mineralization visible in<br>fractures.
+
+--- SENTENCE 325 ---
+Low vesicularity, thus potentially<br>low permeability.
+
+--- SENTENCE 326 ---
+(Sampled at 150<br>and<br>a<br>153 m deep)                                              | 7.0                   |             |
+| 167.8        | -91.5                         | Debris flow, mud, clay, and clasts.<br>Potentially a confining layer?
+
+--- SENTENCE 327 ---
+| 10.5                  |             |
+| >645.0       | -568.0<br>(bottom<br>of hole)
+
+--- SENTENCE 328 ---
+Many alternating units<br>of basalt and lithic lapili tuff.
+
+--- SENTENCE 329 ---
+Large rubble<br>zone at 199 to 232 m below MSL.<br>(Sampled at 188 and 214 m deep) a | >480.0                |             |
+
+Note: Depth = bottom of unit; Height = above mean sea level (MSL), ground elevation estimated at 76.3 m above MSL; photos for core samples used with permission from Geologica Geothermal Group, Inc. (2016), depths shown in feet below ground surface.
+
+--- SENTENCE 330 ---
+a Geochemical rock samples used to delineate Taputapu Volcanics from Leone Volcanics.
+
+--- SENTENCE 331 ---
+Physical characteristics of Leone and Taputapu volcanic units at boreholes TGH-1 and TGH-3.
+
+--- SENTENCE 332 ---
+| Borehole<br>(Unit) | Total            |                                   | PROPORTION (%)                                |
+
+--- SENTENCE 333 ---
+|  |  |
+|--------------------|------------------|-----------------------------------|-----------------------------------------------|--------------------------------------------|--|--|
+|                    | Thickness<br>(m)
+
+--- SENTENCE 334 ---
+| Basalt to<br>Pyroclastic Layers a | Massive Basalt to<br>Vesicular/Clinker/Rubble |
+
+--- SENTENCE 335 ---
+Less Permeable to More<br>Permeable Flow b |  |  |
+
+--- SENTENCE 336 ---
+| TGH-1              |                  |                                   |                                               |                                            |  |  |
+| Leone              | 89.0             | 85 to 15                          | 47 to 53                                      | 48 to 52                                   |  |  |
+
+--- SENTENCE 337 ---
+| Taputapu           | 548.3            | 92 to 8                           | 58 to 42                                      | 87 to 13                                   |  |  |
+
+--- SENTENCE 338 ---
+| TGH-3              |                  |                                   |                                               |                                            |  |  |
+| Leone              | 153.0            | 96 to 4                           | 37 to 63                                      | 33 to 67                                   |  |  |
+| Taputapu           | 477.3            | 85 to 15                          | 50 to 50                                      | 79 to 21                                   |  |  |
+
+a Only first 215 m of each borehole was analyzed due to difficulty distinguishing pyroclastics in lower layers.
+
+--- SENTENCE 339 ---
+## **Iliili Borehole**
+
+The temperature profile in Iliili at TGH-3 shows a decrease in the air-filled hole from the ground surface to near sea level where the water table is encountered (Fig. 11).
+
+--- SENTENCE 340 ---
+From near sea level to a depth of -15 m below sea level, the water temperature is relatively cool and consistent, and matches the temperature (25°C to 26°C) of the groundwater pumped from the unconfined freshwater lens in the nearby wells.
+
+--- SENTENCE 341 ---
+The limited thickness of the freshwater lens, as shown on the temperature profile, was corroborated by salinity measurements of groundwater within the Iliili well field, which does become saltier during dry times or when over-pumped.
+
+--- SENTENCE 342 ---
+Heads in the Iliili well field ranged from 0.3 to 2 m above sea level, and well depths ranged from -2 to -10 m below sea level.
+
+--- SENTENCE 343 ---
+Despite uncertainties in elevations and depths in the temperature-depth profile, this data suggests a flowing freshwater lens extends to about -15 m below sea level.
+
+--- SENTENCE 344 ---
+Inaccuracies in the ground elevation data and equipment used to measure depth, the shallow penetration of the Iliili wells below the water table, and the potential for vertical flow within the aquifer only allow the elevation of the bottom of the lens to be roughly approximated, which could potentially range from -15 to over -40 m below sea level.
+
+--- SENTENCE 345 ---
+With one major exception, a typical geothermal temperature gradient is observed in TGH-3 from -15 m to the bottom of the hole.
+
+--- SENTENCE 346 ---
+However, between -175 to -280 m below sea level an anomalous 'low'-temperature plateau is observed.
+
+--- SENTENCE 347 ---
+However, the interpretation of this anomaly is complicated by a lost circulation event that required drillers to cement a small interval at about -225 m below sea level.
+
+--- SENTENCE 348 ---
+Since hydration of cement releases heat, a corresponding temperature spike is seen on the temperature profile, coincident with the upper portion of the low-temperature plateau.
+
+--- SENTENCE 349 ---
+Despite this complication, the temperature profile still shows a plateau below the spike, which could indicate fluid flow.
+
+--- SENTENCE 350 ---
+It was reported that the plugs were placed in an unstable zone of coarse volcanic "gravel" that occupies the local lithologic column from -200 to -230 m below sea level (Geologica Geothermal Group, Inc. 2016).
+
+--- SENTENCE 351 ---
+The plateau's temperature of over 31°C, exceeds typical freshwater or even regional
+
+b Permeability was not measured but assumed based on material type.
+
+--- SENTENCE 352 ---
+sea surface temperatures (≈29°C) and suggests some geothermal heating of freshwater or saltwater may be occurring, regardless of its salinity.
+
+!
+
+--- SENTENCE 353 ---
+Reprinted from Geologica Geothermal Group, Inc. (2016) with permission.
+
+--- SENTENCE 354 ---
+Temperature and conductivity profile for TGH-3 in Iliili.
+
+--- SENTENCE 355 ---
+Note: Colored lines = repeated temperature logging measurements for TGH-3, black line with circles = conductivity log in µS/cm, and dashed line = bottom hole temperatures (BHT) collected by maximum recording thermometers while drilling progressed downward.
+
+!
+
+--- SENTENCE 356 ---
+[](_page_29_Figure_0.jpeg)
+
+Reprinted from Geologica Geothermal Group, Inc. (2016) with permission.
+
+--- SENTENCE 357 ---
+Temperature profile for TGH-1 in Malaeloa.
+
+--- SENTENCE 358 ---
+Note: Colored lines = repeated temperature logging measurements for TGH-1, and dashed line = bottom hole temperatures (BHT) collected by maximum recording thermometers while drilling progressed downward.
+
+--- SENTENCE 359 ---
+The zone of constant temperature in TGH-3 from -175 to -280 m below sea level indicates a region where the flow of water is sufficient to overcome the geothermal gradient.
+
+--- SENTENCE 360 ---
+This might be interpreted to be evidence of a deep freshwater aquifer extending from the interior of the Taputapu Shield to below the plain.
+
+--- SENTENCE 361 ---
+The zone of flowing water does not extend deeper than -260 m below sea level and the geothermal gradient is re-established at that depth.
+
+--- SENTENCE 362 ---
+A head of 6.5 m is theoretically required for a basal lens to reach -260 m below sea level.
+
+--- SENTENCE 363 ---
+Although there are no existing measurements of basal heads within the interior of Taputapu Shield, the relatively low-permeability of the rocks and substantial amount of groundwater recharge suggests that such heads are possible.
+
+--- SENTENCE 364 ---
+However, the temperature anomaly could also be caused by tidally-forced inflow of seawater.
+
+--- SENTENCE 365 ---
+Water sampling from TGH-3 in this zone after extensive cleanout of the borehole would help to constrain the salinity of water in this zone.
+
+--- SENTENCE 366 ---
+#### **Malaeloa Borehole**
+
+The temperature profile in Malaeloa at TGH-1 (Fig. 12) is similar to the profile at TGH-3 with the exception that TGH-1 lacks any deep temperature anomalies.
+
+--- SENTENCE 367 ---
+Below the cooler freshwater lens zone, the geothermal gradient is stable and consistent with global values.
+
+--- SENTENCE 368 ---
+As would be expected, the low-temperature freshwater lens portion of the profile at TGH-1 is thicker, which corresponds to higher observed heads in the Malaeloa well field (1.5 to 2 m above sea level).
+
+--- SENTENCE 369 ---
+The bottom of the shallow freshwater lens indicated by the temperature profile (-75 m below sea level), is nicely positioned at the theoretical location of the transition zone as predicted by the Ghyben-Herzberg principal.
+
+--- SENTENCE 370 ---
+## **2.2 Examination of Lava Outcrops in Pleistocene Volcanic Rocks**
+
+Although the large fraction of a'a rubble in the Pleistocene aquifers seems to suggest a high overall permeability, aquifer tests shows the opposite (see Section 2.4).
+
+--- SENTENCE 371 ---
+This discrepancy may be caused by the presence of low-permeability features that reduce the connectivity and aerial extensiveness of the rubble zones, effectively reducing the overall permeability.
+
+--- SENTENCE 372 ---
+The subaerial extent of Tutuila is highly dissected by erosion and dikes intrude on much of the land remaining above sea level.
+
+--- SENTENCE 373 ---
+The island experienced other disruptive events such as small eruptions, faulting, landslides, and other types of mass wasting.
+
+--- SENTENCE 374 ---
+These events produce small and large pockets of talus breccia, debris flow material, cinders, or intrusive bodies (e.g., Fig. 13).
+
+--- SENTENCE 375 ---
+These features alter the aquifer's permeability and are heterogeneously dispersed throughout the body of the island.
+
+--- SENTENCE 376 ---
+Although subsurface structures are nearly impossible to observe with certainty below ground, surface outcrops can provide valuable clues to what lies below in locations where erosion or other processes have cleared Tutuila's prolific vegetation.
+
+!
+
+--- SENTENCE 377 ---
+[](_page_31_Figure_0.jpeg)
+
+Modified from Stearns (1944) with permission.
+
+--- SENTENCE 378 ---
+Diagram of the geologic components of the Pleistocene volcanics in an outcrop at Masefau Bay.
+
+--- SENTENCE 379 ---
+Over 50 quantitative measurements of outcrop characteristics in the Pleistocene Volcanic rocks were made by Eyre and Walker (1991).
+
+--- SENTENCE 380 ---
+Measurements of the following were taken at road cuts, coastal cliffs, and promontories throughout the island: (1) thickness of each lava flow section, (2) the separate thickness of the flow interior and rubble layers of a'a flows, (3) the vesicularity of the flow interior, and (4) overall dip of lavas (Fig. 14, Table 5).
+
+--- SENTENCE 381 ---
+As shown in Table 5, only 2.4% of the total flow thicknesses of the Pleistocene rocks were classified as pahoehoe—the majority consisted of a'a.
+
+--- SENTENCE 382 ---
+Within the a'a flows, massive a'a cores were distinguished from rubble or clinker layers.
+
+--- SENTENCE 383 ---
+Rubble was seen to make up about half (46%) of the total a'a flow thickness.
+
+--- SENTENCE 384 ---
+The proportion of rubble to massive sections in the measured outcrops is proportionally similar to the amounts of these materials observed in the driller's logs from the Pleistocene rocks.
+
+--- SENTENCE 385 ---
+# **2.3 Interpretation of New Geophysics and Well Logging**
+
+A magnetotelluric (MT) survey of subsurface electrical resistivity beneath the Tafuna-Leone Plain and the Taputapu Volcano was conducted by Geologica Geothermal Group, Inc. (2014) for the purpose of exploration for a geothermal resource.
+
+--- SENTENCE 386 ---
+In addition, these results are useful for interpreting the hydrogeology of the subsurface.
+
+--- SENTENCE 387 ---
+The profiles indicate less-resistive zones that could be inferred to be saturated with seawater, and highly-resistive areas that may indicate the unsaturated zones.
+
+--- SENTENCE 388 ---
+Moderately resistive areas could be interpreted as either permeable basalt saturated with freshwater or as regions of dense but unsaturated rock.
+
+--- SENTENCE 389 ---
+The hydrology in these moderately resistive areas is difficult to discern on the profiles.
+
+--- SENTENCE 390 ---
+An approach to resolve this issue with additional surveys might include a time-lapse sequence of MT imaging, which would evaluate transient changes based on water saturation and density conditions.
+
+!
+
+--- SENTENCE 391 ---
+From Eyre and Walker (1991) with permission.
+
+--- SENTENCE 392 ---
+Location of measured Pleistocene Volcanic rock outcrops [see Table 5 for outcrop characteristics by Eyre and Walker (1991)].
+
+--- SENTENCE 393 ---
+These profiles of subsurface resistivity (Figs. 15 and 16) vary in the specifics for different areas but share the common characteristic of an approximately 500 m thick highconductivity layer, with resistivities of less than 10 Ω·m.
+
+--- SENTENCE 394 ---
+This layer extends from the coast (sea level) to two to three miles inland (-600 m below sea level) where it fades into more resistive material.
+
+--- SENTENCE 395 ---
+This high conductivity layer is overlain, underlain, and bounded towards the central part of the island by more resistive material (20 to 400 Ω·m).
+
+--- SENTENCE 396 ---
+The highconductivity layer seems to occur in the Tafuna-Leone lavas, the underlying carbonate reef platform, and into the edifice of the Taputapu Mountain.
+
+--- SENTENCE 397 ---
+This layer is very likely the result of conductive seawater that underlies the freshwater lens.
+
+--- SENTENCE 398 ---
+The more resistive materials that bound the conductive layer on three sides (top, bottom, and inland margin) have resistivities that correspond to either unsaturated or saturated basalt with freshwater.
+
+--- SENTENCE 399 ---
+The overlying highly resistive layers (>10 Ω·m) most likely represents unsaturated basalt, and the moderately resistive layers in this region (≈20 to 120 Ω·m) may represent the same material saturated with freshwater.
+
+--- SENTENCE 400 ---
+The inland resistive material at depth may well represent the island's rift zone where numerous volcanic dikes either (1) prevents the intrusion of seawater and
+
+possibly allows freshwater to penetrate hundreds of meters below sea level, or (2) creates a material of such low porosity that no significant amount of water (fresh or salt) penetrates it, thus yielding the resistivity of basalt with low moisture content.
+
+--- SENTENCE 401 ---
+Statistics from selected lava flows on Tutuila.
+
+--- SENTENCE 402 ---
+No. of            | T-4-1 C-1                        | A'a Unit T                |
+
+--- SENTENCE 403 ---
+hickness                 | Pahoehoe                 |               |                         |
+|-----------|------------|-------------------|----------------------------------|---------------------------|--------------------------|--------------------------|---------------|-------------------------|
+| Site No.ª | Location   | Measured<br>Flows | Total Column<br>Thickness<br>(m)
+
+--- SENTENCE 404 ---
+| Massive<br>Section<br>(m) | Rubble<br>Section<br>(m) | Unit<br>Thickness<br>(m) | Dip Angle (°) | Rubble (%) <sup>b</sup> |
+| 1         | Vatia      | 21                | 57.2                             | 18.0                      | 39.2                     | 0.0                      | 22            | 69                      |
+| 2         | Vatia      | 2                 | 10.9                             | 5.2                       | 5.7                      | 0.0                      | 23            | 52                      |
+| 3         | Afono      | 1                 | 8.2                              | 4.2                       | 4.0                      | 0.0                      | 20            | 49                      |
+| 4         | Vatia      | 5                 | 20.2                             | 6.9                       | 13.3                     | 0.0                      | 20            | 66                      |
+| 5         | Leone      | 6                 | 13.3                             | 8.5                       | 4.8                      | 0.9
+
+--- SENTENCE 405 ---
+| 36                      |
+| 6
+
+--- SENTENCE 406 ---
+| Amanave    | 11                | 17.0                             | 12.2                      | 1.7                      | 0.0                      | small         | 28                      |
+| 7         | Fagaitua   | 2                 | 11.7                             | 5.9                       | 5.6                      | 0.0                      | small         | 50                      |
+| 8         | Masefau    | 12                | 55.0                             | 33.0                      | 22.0                     | 0.1                      | small         | 40                      |
+| 9         | Masefau    | 5                 | 13.6                             | 9.6                       | 3.9                      | 0.0                      | small         | 29                      |
+| 10        | Masefau    | 2                 | 9.9                              | 8.8                       | 1.1                      | 0.0                      | small         | 12                      |
+| 11        | Fatumafuti | 2                 | 13.1                             | 6.3                       | 6.8                      | 0.0                      | <5            | 52                      |
+| 12        | Faganeanea | 3                 | 9.8                              | 4.5                       | 5.3                      | 0.0                      | 15            | 54                      |
+| 13        | Nuuuli     | 2                 | 34.0                             | 23.0                      | 11.0                     | 0.0                      | _
+
+--- SENTENCE 407 ---
+| 32                      |
+| 14        | Cape Tapu  | 6                 | 30.3                             | 17.2                      | 13.1                     | 0.0
+
+--- SENTENCE 408 ---
+| small         | 43                      |
+| 15        | Poloa      | 6                 | 23.0
+
+--- SENTENCE 409 ---
+| 14.6                      | 8.4                      | 0.8                      | small         | 37                      |
+| 16
+
+--- SENTENCE 410 ---
+| Fagasa     | 15                | 18.3                             | 10.6                      | 7.7                      | 0.6                      | 20            | 42                      |
+| 17        | Fagasa     | 10                | 11.1                             | 5.7                       | 5.4                      | 0.7                      | 25            | 49                      |
+| 18        | Fagamalo   | 6                 | 14.1                             | 6.8                       | 7.3                      | 0.0                      | 10            | 52                      |
+| 19        | Fagamalo   | 4                 | 6.9                              | 3.6                       | 3.2                      | 2.3                      | 15            | 47                      |
+| 20        | Afono      | 11                | 38.6                             | 22.4                      | 16.2                     | 0.0                      | _
+
+--- SENTENCE 411 ---
+| 42                      |
+| 23 + 24   | Utulei     | 1                 | 5.9                              | 4.0                       | 1.9                      | 4.1                      | _
+
+--- SENTENCE 412 ---
+| 32                      |
+| 25        |
+
+--- SENTENCE 413 ---
+Amouli     | 4                 | 27.6                             | 14.0                      | 13.6                     | 0.0                      | 15            | 49                      |
+| 26        | Amouli     | 5                 | 2.3                              | 1.5                       | 0.8                      | 0.0                      | 15            | 34                      |
+| 27        | Aoa        | 3                 | 8.9                              | 5.1                       | 3.8                      | 0.0                      | small         | 43                      |
+| 28        | Afono      | 1                 | 8.2                              | 4.2                       | 4.0                      | 0.0                      | 20            | 49                      |
+| 29        | Vatia      | 5                 | 20.2                             | 6.9                       | 13.3                     | 0.0                      | 20            | 66                      |
+| 32        | Leone      | 6                 | 13.3                             | 8.5                       | 4.8                      | 0.9                      | 7             | 36                      |
+| 34
+
+--- SENTENCE 414 ---
+| Amanave    | 11                | 17.0                             | 12.2                      | 1.7                      | 0.0                      | small         | 28                      |
+| 37A       | Fagaitua   | 2                 | 11.7                             | 5.9                       | 5.6                      | 0.0                      | small         | 50                      |
+| 37B       | Masefau    | 12                | 55.0                             | 33.0                      | 22.0                     | 0.1                      | small         | 40                      |
+| 38        | Masefau    | 5                 | 13.6                             | 9.6                       | 3.9                      | 0.0                      | small         | 29                      |
+
+<sup>&</sup>lt;sup>a</sup>
+
+--- SENTENCE 415 ---
+See Figure 14 for site locations.
+
+--- SENTENCE 416 ---
+<sup>&</sup>lt;sup>b</sup>Mean weight of rubble (%) = 45.4 (includes approximately 10% of thermally-welded rubble of low permeability).
+
+--- SENTENCE 417 ---
+In the Geologica profiles, high resistivities plotted underneath the conductive layer seaward of the island's interior were surprising and contradictory to typical salinity profiles of islands where saltwater saturation would be expected.
+
+--- SENTENCE 418 ---
+Either the material is of such low porosity that no significant amount of water penetrates it, yielding the resistivity of basalt with a low moisture content; or the development of the resistivity profiles, which are based on a data inversion process, were not performed in a manner that accurately reflects conditions in the region in question.
+
+--- SENTENCE 419 ---
+Note that temperature and resistivity-conductivity depths mentioned in the Geologica data are approximate due to potential inaccuracies in measurements and in estimation of depths from the MT profiles.
+
+!
+
+--- SENTENCE 420 ---
+[](_page_34_Figure_1.jpeg)
+
+Reprinted from Geologica Geothermal Group, Inc. (2014) with permission.
+
+--- SENTENCE 421 ---
+Map of the Tafuna-Leone Plain and the Taputapu Volcano area showing MT station measurement locations as upside down triangles.
+
+--- SENTENCE 422 ---
+Note: Cross sections of this area are illustrated in Figure 16.
+
+!
+
+--- SENTENCE 423 ---
+[](_page_35_Figure_0.jpeg)
+
+Reprinted from Geologica Geothermal Group, Inc. (2014) with permission.
+
+--- SENTENCE 424 ---
+Cross section of western Tutuila (Tafuna-Leone Plain and the Taputapu Volcano) showing MT survey of subsurface resistivity.
+
+--- SENTENCE 425 ---
+Warmer colors indicate less resistive materials to show conductivity from seawater saturation in the subsurface.
+
+--- SENTENCE 426 ---
+# **2.4 Hydrogeologic Data from Wells and Pumping Tests**
+
+#### **2.4.1 Water Levels**
+
+Basic water level information can be used to assess the direction of groundwater flow, to infer aquifer properties, and to estimate magnitudes of hydraulic connectivity in different areas.
+
+--- SENTENCE 427 ---
+Near sea level water levels in the Tafuna-Leone Plain generally support observations of high hydraulic conductivity, whereas wells in valley-fill alluvial aquifers and Pleistocene rocks have more variable water levels suggesting these areas have more heterogeneous conductivity distributions.
+
+--- SENTENCE 428 ---
+Some water levels in the Pleistocene rocks might indicate that
+
+groundwater could be perched, semi-perched, or otherwise elevated above the basal level.
+
+--- SENTENCE 429 ---
+Historical U.S. Geological Survey (USGS) reports authored by Izuka (1996, 1997, 1999a) contain water levels from American Samoa Power Authority (ASPA) records from 1984 to 1997.
+
+--- SENTENCE 430 ---
+Eyre and Walker (1991) summarized water level data from USGS records from 1975 to 1991.
+
+--- SENTENCE 431 ---
+Reported water levels from all known sources are summarized in Table 6, and locations are shown in Figure 17.
+
+--- SENTENCE 432 ---
+Note that the discrete (one time) measurements compiled in this report are subject to uncertainties in recharge variation, previous pumpage, and tidal or atmospheric fluctuations.
+
+!
+
+--- SENTENCE 433 ---
+Location map of selected watersheds or wellfield areas (both in light green) where water level data is available.
+
+#### **2.4.2 Water Level Variability in the Tafuna-Leone Plain**
+
+Water levels in the Tafuna-Leone Plain aquifers are quite variable in response to rainfall or extended dry periods, and baseflow and spring flow throughout the island has been reported to be significantly reduced by extended dry periods (Davis 1963, Bentley 1975).
+
+--- SENTENCE 434 ---
+In the Pleistocene rocks, water-level drawdowns of up to 15 m are observed in response to pumping (Eyre and Walker 1993).
+
+--- SENTENCE 435 ---
+Although the plain's water levels do not seem to respond strongly to variations in pumpage (Shuler, unpublished data, July 2014), Kennedy et al. (1987) notes that water levels in Tafuna-Leone wells were found to increase and subsequently decrease rapidly in response to high rainfall events.
+
+--- SENTENCE 436 ---
+Water level declines and increased salinity have also been observed in Tafuna-Leone wells during droughts.
+
+--- SENTENCE 437 ---
+An extreme example of rapid change in water levels from recharge events is the recent
+
+observation made in a non-pumping well in Lower Malaeloa Village during a period of heavy rain events (Fig. 18).
+
+--- SENTENCE 438 ---
+Over the course of ten days, during and following these events, the water level in Malaeloa
+
+--- SENTENCE 439 ---
+Well 80 rose by over 2 m. Periods of heavy rainfall leading to large increases in water levels have also been correlated with increase in turbidity and *Escherichia coli* detections in some Tafuna-Leone wells, which is the primary issue that has mandated the island's long standing boil-water notice.
+
+--- SENTENCE 440 ---
+Compilation of historical water level data by well field.
+
+--- SENTENCE 441 ---
+| Well Field          | Drilling<br>Water Level<br>(m)
+
+--- SENTENCE 442 ---
+| Geologic Unit                                  |
+|---------------------|--------------------------------|-------------------------------|------------------------------------------------|
+|
+
+--- SENTENCE 443 ---
+Afono               | —                              | -1.5                          | Pago Outer-Caldera                             |
+| Vatia               | 8                              | -9 to 7                       | Pago Outer-Caldera                             |
+| Laulii              | 6 to 7                         | -8                            | Pago Outer-Caldera                             |
+| Pago Valley         | 1 to 62                        | -45 to 61                     | Alluvial or Pago Outer-Caldera                 |
+| Fagaitua            | —                              | -1                            | Alluvial or Pago Outer-Caldera                 |
+| Masefau             | —                              | 1 to 2                        | Alluvial or Pago Outer-Caldera                 |
+
+--- SENTENCE 444 ---
+| Fagasa              | —                              | 4 to 25                       | Alluvial or Pago Outer-Caldera                 |
+| Nuuuli              | 22                             | —
+
+--- SENTENCE 445 ---
+| Pago Inner-Caldera                             |
+| Fagaalu             | 3 to 27                        | -1                            | Alluvial or Pago Inner-Caldera                 |
+| Aua                 | 1 to 6                         | -10 to -22                    | Alluvial or Pago Inner-Caldera                 |
+| Utulei and Fagatogo | 6 to 7                         | -1 to 5                       | Alluvial or Pago Inner-Caldera                 |
+| Tula                | 3                              | -5                            | Alluvial or Olomana Shield                     |
+| Aoa                 | —                              | -8 to 1                       | Alluvial or Olomana Shield                     |
+| Alao                | 6                              | -5 to -1                      | Alluvial or Olomana Shield                     |
+| Amouli              | 5.5                            | 4                             | Alluvial or Alofau Shield                      |
+| Alofau              | 0 to 2.3                       | —                             | Alluvial or Alofau Shield                      |
+| Sailele             | 2.5                            | —                             | Alluvial or Alofau Shield                      |
+| Tafuna              | 0.5 to 2.5                     | -5 to 0.5                     | Leone Volcanics (Tafuna Lavas)                 |
+| Pavaiai             | 1.5                            |                               | Leone Volcanics (Tafuna Lavas or Pyroclastics) |
+| Iliili              | 1 to 3                         | -1 to 1                       | Leone Volcanics (Tafuna Lavas or Pyroclastics) |
+| Mesepa              | 3                              | 1                             | Leone Volcanics (Tafuna Lavas)
+
+--- SENTENCE 446 ---
+|
+| Malaeimi            | 2 to 35                        | -1 to 24                      | Leone Volcanics, Pago Outer, or Alluvial       |
+| Lower Malaeloa      | 1 to 3                         | 1 to 2                        | Leone Volcanics (Leone Lavas)                  |
+| Leone               | 0 to 0.5                       | —                             | Leone Volcanics (Leone Lavas)                  |
+| Upper Malaeloa      | 4 to 14                        | 2.5                           | Taputapu or Leone Volcanics                    |
+| Fagalii             | 5.5                            | 5                             | Taputapu Shield                                |
+| Aoloau and Aasu     | 382                            | 344 to 346                    | Leone volcanics (Pyroclastics)                 |
+
+Sources: Bentley (1975); Eyre and Walker (1991); Izuka (1996, 1997, 1999a); unpublished ASPA records and driller's logs.
+
+--- SENTENCE 447 ---
+Note: Water levels are in meters above mean sea level.
+
+!
+
+--- SENTENCE 448 ---
+Water level (WL) and rainfall measurements taken over an extended period of heavy rainfall events from Lower Malaeloa monitoring Well 80.
+
+--- SENTENCE 449 ---
+Monitoring was recorded at a WRRC weather station in Malaeimi Village.
+
+#### **2.4.3 Specific Capacity**
+
+In production wells where static and pumping water levels are available, the ratio of pump-rate to drawdown can be assessed.
+
+--- SENTENCE 450 ---
+This measurement, known as specific capacity, is reported here in gallons per minute (GPM) per meter of drawdown.
+
+--- SENTENCE 451 ---
+In general, higher specific capacities indicate better producing wells.
+
+--- SENTENCE 452 ---
+While this parameter can indicate the productivity of a well, it is of limited use in describing aquifer characteristics, as drawdowns from both aquifer loss and the well loss (head loss resulting from attributes of well construction) are both included in water level measurements.
+
+--- SENTENCE 453 ---
+Depending on the drilling and well construction methods, well loss can be, and often is, greater than aquifer loss.
+
+--- SENTENCE 454 ---
+Measurements of specific capacity from past studies, ASPA records, and recently conducted University of Hawaii (UH) Water Resources Research Center (WRRC) tests shown in Figure 19, display expected regional variability.
+
+--- SENTENCE 455 ---
+Specific capacity measurements on Tutuila indicate that in general, wells in the Tafuna-Leone Plain region yield more water per unit of drawdown then wells in other parts of the island.
+
+--- SENTENCE 456 ---
+Aquifer Transmissivity and Hydraulic Conductivity**
+
+Transmissivity (*T*) and hydraulic conductivity (*K*) describe how fast water is able to move through saturated aquifer material over a given hydraulic gradient.
+
+--- SENTENCE 457 ---
+These data are commonly gathered through constant-rate pumping, step-drawdown, and recovery tests when a new well is developed.
+
+--- SENTENCE 458 ---
+The two parameters are related, *K* describes the rate of flow through a unit cross sectional area of aquifer, whereas *T* describes the rate of flow in regards to the entire thickness of the aquifer (*b*).
+
+--- SENTENCE 459 ---
+This essentially means that *T* equals *K* times *b* (Freeze and Cherry 1979).
+
+!
+
+--- SENTENCE 460 ---
+[](_page_39_Figure_0.jpeg)
+
+Source: Data from ASPA files (unpublished), Bentley (1975), Eyre and Walker (1993), and WRRC (2014).
+
+--- SENTENCE 461 ---
+Distribution and specific capacity values derived from historical records and tests conducted in 2014 by WRRC.
+
+--- SENTENCE 462 ---
+Note: Colored circles = data source, circle size = specific capacity value (GPM/m).
+
+--- SENTENCE 463 ---
+To develop the most comprehensive estimates of aquifer parameters on Tutuila, all available pump test, step-drawdown, and recovery test data were compiled from USGS records (Bentley 1975, Eyre and Walker 1991), archived ASPA records, and the recently performed WRRC aquifer tests.
+
+--- SENTENCE 464 ---
+Values of *T* and *K* from Bentley (1975) and Eyre and Walker (1991) are estimates derived from pump tests performed by USGS or from data recorded during well development testing, and their analytical methods are detailed in the aforementioned reports.
+
+--- SENTENCE 465 ---
+Different analytical methods were used to derive *T* and *K* estimates from an array of sources.
+
+--- SENTENCE 466 ---
+Values of *K* from ASPA records and WRRC tests were obtained with the Jacob-Zangar Method (Zangar 1953, Jacob 1947).
+
+--- SENTENCE 467 ---
+Pumping and recovery tests performed by WRRC in 2014 were analyzed with the Cooper-Jacob Straight-Line Method to obtain values of *T* (Halford and Kuniansky 2002).
+
+--- SENTENCE 468 ---
+Since the thicknesses of Tutuila's aquifers are unknown, *T* values were converted to *K* values by assuming the effective thickness of the aquifer *b* is equal to the saturated length of the well (i.e., well depth minus depth to water or bottom of casing, whichever is deeper).
+
+--- SENTENCE 469 ---
+Values of *T* reported in Bentley (1975), were converted to *K* values in the same way.
+
+--- SENTENCE 470 ---
+It should be noted that these estimates are based on methods that have implicit assumptions such as isotropic and homogeneous aquifer conditions, wells are fully penetrating, aquifers have infinite areal extent, and well-losses are adequately represented by the second degree Jacob equation.
+
+--- SENTENCE 471 ---
+Tutuila's wells seldom meet these ideal conditions.
+
+--- SENTENCE 472 ---
+Nonetheless, these data represent the best available estimates for the range and magnitude of Tutuila's aquifer parameters.
+
+--- SENTENCE 473 ---
+Compiled aquifer parameter values of *K*, *T*, and specific capacity from all data sources are summarized in Table 7 and shown in Figure 20.
+
+--- SENTENCE 474 ---
+The data is summarized with three different measures of central tendency, these being the arithmetic mean [*µ* = *E*(*x*)], the harmonic mean [1/*µ* = *E*(1/*x*)], and the geometric mean {ln(*µ*) = *E*[ln(*x*)]}, where *E* is the sum of individual values divided by the number of values.
+
+--- SENTENCE 475 ---
+Considering the heterogeneous character of the Pleistocene aquifers, it is reasonable to assume that when characterizing *T* and *K* for the entire hydrologic unit, the best estimate of these parameters is probably represented by the harmonic or geometric means, rather than the arithmetic mean, of individual values from well tests (Eyre and Walker 1991).
+
+!
+
+--- SENTENCE 476 ---
+Distribution and magnitude of K values derived from ASPA records (unpublished) and tests conducted in 2014 by WRRC.
+
+--- SENTENCE 477 ---
+Note: Colored circles = data source, circle size = K
+
+--- SENTENCE 478 ---
+## **2.4.5 High Chloride Wells**
+
+A number of Tutuila's wells produce water with levels of chloride (Cl- ) that exceed the U.S. Environmental Protection Agency (EPA) recommended limit of 250 mg/L.
+
+--- SENTENCE 479 ---
+The salinity of a well on Tutuila will ultimately be a function of the well depth, pumping rate, hydraulic conductivity of the aquifer tapped, and the geometry of the well placement, specifically its proximity to the coast.
+
+--- SENTENCE 480 ---
+Many of the higher salinity wells on Tutuila are located near to the coast (Fig. 21).
+
+--- SENTENCE 481 ---
+Summary of aquifer and well production characteristics from existing wells on Tutuila from 1973 to 2014.
+
+--- SENTENCE 482 ---
+|                              | Number of Wells | MEAN       |           |          |  |
+|------------------------------|-----------------|------------|-----------|----------|--|
+| Hydrogeologic Unit           | (n)             | Arithmetic |
+
+--- SENTENCE 483 ---
+Geometric | Harmonic |  |
+| Specific Capacity (GPM/m)    |                 |            |           |          |  |
+| Tafuna lavas
+
+--- SENTENCE 484 ---
+| 20              | 2,882      | 228       | 12       |  |
+
+--- SENTENCE 485 ---
+| Leone lavas and ash          | 7
+
+--- SENTENCE 486 ---
+| 783        | 449       | 194      |  |
+
+--- SENTENCE 487 ---
+| Pyroclastics of Leone Series | 5               | 368        | 94        | 2        |  |
+| Taputapu Shield              | 4               | 628        | 524       | 426      |  |
+| Pago Outer-Caldera Shield    | 14
+
+--- SENTENCE 488 ---
+| 13         | 10        | 4        |  |
+| Pago Inner-Caldera Shield    | 5               | 26         | 15        | 9        |  |
+| Olomoana or Alofau shields   | 2
+
+--- SENTENCE 489 ---
+| 19         | 19        | 19       |  |
+| Alluvial-fill valleys        | 10              | 309        | 32        | 4        |  |
+| Transmissivity (m2<br>/d)    |                 |            |           |          |  |
+
+--- SENTENCE 490 ---
+| 19              | 11,894     | 3,512     | 1,112    |  |
+| Leone lavas and ash
+
+--- SENTENCE 491 ---
+| 5               | 4,782      | 3,379     | 1,584    |  |
+
+--- SENTENCE 492 ---
+| Pyroclastics of Leone Series | 3               | 3,882      | 3,070     | 2,369    |  |
+| Taputapu Shield              | 5               | 7,791      | 5,984     | 5,002    |  |
+
+--- SENTENCE 493 ---
+| Pago Outer-Caldera Shield    | 12              | 176        | 124
+
+--- SENTENCE 494 ---
+| 73       |  |
+| Pago Inner-Caldera Shield    | 4               | 210        | 129       | 85       |  |
+| Olomoana or Alofau shields   | 2               | 181
+
+--- SENTENCE 495 ---
+| 110       | 66       |  |
+|
+
+--- SENTENCE 496 ---
+Alluvial-fill valleys        | 9               | 1          | 278       | 70       |  |
+| Hydraulic Conductivity (m/d)
+
+--- SENTENCE 497 ---
+|                 |            |           |          |  |
+| Tafuna lavas
+
+--- SENTENCE 498 ---
+| 13              | 7,652      | 708       | 98       |  |
+| Leone lavas and ash          | 5
+
+--- SENTENCE 499 ---
+| 1,270      | 635       | 130      |  |
+
+--- SENTENCE 500 ---
+| Pyroclastics of Leone Series | 3               | 837        | 355       | 86       |  |
+| Taputapu Shield              | 3               | 410        | 323       | 270      |  |
+| Pago Outer-Caldera Shield    | 10              | 6          | 4         | 3        |  |
+| Pago Inner-Caldera Shield    | 3               | 7          | 3         | 1        |  |
+| Olomoana or Alofau Shields   | 1               | 9          | 9         | 9        |  |
+| Alluvial-fill valleys        | 4               | 261        | 121       | 22       |  |
+
+Sources: Bentley (1975), Eyre and Walker (1991),
+
+--- SENTENCE 501 ---
+WRRC aquifer tests, and unpublished ASPA records.
+
+!
+
+--- SENTENCE 502 ---
+Graph showing correlation between Cl- concentration (mg/L) and distance of well from shore (for all wells located in Tutuila's Pleistocene shield alluvial valley-fill wells).
+
+--- SENTENCE 503 ---
+Note: Distance from shore is not necessarily the primary factor that controls groundwater Cl- concentrations.
+
+--- SENTENCE 504 ---
+Cl- measurements are from unpublished WRRC data.
+
+--- SENTENCE 505 ---
+Freshwater lens thickness is a primary consideration in setting well target depths when developing new groundwater sources.
+
+--- SENTENCE 506 ---
+Although well depth is not the only factor controlling groundwater Cl- concentrations, an assessment of existing production wells in the Pleistocene rocks shows that only wells deeper than approximately -20 m are currently producing water with elevated Cl- levels (Fig. 22).
+
+--- SENTENCE 507 ---
+However, it should be noted that any well below sea level has the potential to be affected by seawater if over-pumped.
+
+--- SENTENCE 508 ---
+Although groundwater production below -20 m below sea level is not recommended, exploratory drilling below this depth would certainly be useful to assess the location of the saltwater-freshwater interface.
+
+!
+
+--- SENTENCE 509 ---
+Graph showing correlation between Cl- concentrations (mg/L) and well depth (m below sea level) located in selected Pleistocene shield and alluvial valley-fill wells.
+
+--- SENTENCE 510 ---
+Note: Well depth is not always the primary factor that controls Clconcentrations found in groundwater.
+
+--- SENTENCE 511 ---
+Well depth is taken from various sources and is not confirmed.
+
+--- SENTENCE 512 ---
+The Cl- measurements reported in our study are from unpublished WRRC data.
+
+--- SENTENCE 513 ---
+## **2.5 Numerically Modeled Values of Hydraulic Conductivity**
+
+Another method for estimation of *K* values is through parameterization of numerical models that are calibrated with water level observations.
+
+--- SENTENCE 514 ---
+This approach yields a regionally integrated estimate of *K*, as opposed to well tests that only provide point based data.
+
+--- SENTENCE 515 ---
+Groundwater models use subsurface flow equations (essentially partial differential forms of Darcy's Law) and parameterize them with recharge rates, geographic geometry, well characteristics, and well flowrates.
+
+--- SENTENCE 516 ---
+Generally, the most poorly constrained parameter (often *K*) is numerically solved for using a calibration process.
+
+--- SENTENCE 517 ---
+Two groundwater models of Tutuila have thus far been developed, and each used its own paradigm for parameterizing values of *K*.
+
+--- SENTENCE 518 ---
+Izuka et al. (2007) measured elevations of the water table at wells and assumed locations of mountain springs.
+
+--- SENTENCE 519 ---
+Values of *K* were then found through calibration so that the simulated water table elevations matched the observed and assumed data.
+
+--- SENTENCE 520 ---
+For the older volcanic unit, this procedure yielded a calibrated *K* value of approximately 0.1 m/d.
+
+--- SENTENCE 521 ---
+In contrast, the model developed by ASPA (2013) assumed that a measured estimate of *K*, based on an aquifer test and geologic conditions, was valid throughout all of the Pleistocene rocks.
+
+--- SENTENCE 522 ---
+This value was used as an input parameter in the model, which was then solved for the water table elevation.
+
+--- SENTENCE 523 ---
+The Izuka et al. (2007) model focused on the Tafuna-Leone Plain region only, and used static water levels in six monitoring wells to determine modeled values of hydraulic conductivity (*K*) (Table 8), via model calibration.
+
+--- SENTENCE 524 ---
+The Pleistocene rocks were modeled as a fully saturated homogeneous anisotropic system.
+
+--- SENTENCE 525 ---
+The ASPA (2013) model on the other hand, utilized many of the parameters from the Izuka et al.
+
+--- SENTENCE 526 ---
+(2007) model, but the Pleistocene rocks were assumed to contain both disconnected high-level groundwater (which was not explicitly simulated by the model) and basal groundwater.
+
+--- SENTENCE 527 ---
+This alternate conceptual model for the older-volcanic region was represented in the model by a change in *Kh:Kv* and an increase in the *Kh* of the older volcanic unit by a factor of about 50, from the Izuka et al.
+
+--- SENTENCE 528 ---
+Although the ASPA (2013) model's *Kh* value is a better match with the measured *K* values from the pump tests in the Pago Shield (1–7 m/d), it is significantly lower than pump-test values measured from the Taputapu Shield (270–410 m/d).
+
+--- SENTENCE 529 ---
+Hence, both of these models may overestimate water levels, and underestimate the productivity of potential wells in the Taputapu Shield.
+
+--- SENTENCE 530 ---
+The Izuka et al. (2007) and ASPA (2013) numerical models present fundamentally different conceptualizations of the flow of groundwater through the Pleistocene volcanics, but it remains unclear as to which is more representative of the actual conditions, as each model has both weaknesses and strengths.
+
+--- SENTENCE 531 ---
+Comparison of numerical groundwater models for hydraulic conductivity in Tafuna-Leone Plain, Tutuila.
+
+--- SENTENCE 532 ---
+| ASPA MODEL  |
+
+--- SENTENCE 533 ---
+|  |
+|-------|-------------|-------------|-------------|--|
+| Kh:
+
+--- SENTENCE 534 ---
+Kv       | Kh<br>(m/d) |  |
+| 100:1 | 260.00
+
+--- SENTENCE 535 ---
+| 260.00      |  |
+
+--- SENTENCE 536 ---
+| 100:1 | 1,300.00
+
+--- SENTENCE 537 ---
+| 1,300.00    |  |
+| 100:1 | 10.00
+
+--- SENTENCE 538 ---
+| 10.00       |  |
+
+--- SENTENCE 539 ---
+| 10:1  | 0.03        | 10:1        | 0.03        |  |
+
+--- SENTENCE 540 ---
+| 10:1  | 945.00
+
+--- SENTENCE 541 ---
+| 10:1        | 945.00      |  |
+| 100:1
+
+--- SENTENCE 542 ---
+| 0.14        | 44:1        | 6.70        |  |
+|       |
+
+--- SENTENCE 543 ---
+| IZUKA MODEL |
+
+--- SENTENCE 544 ---
+|  |
+
+Sources: Izuka et al. (2007), ASPA (2013).
+
+--- SENTENCE 545 ---
+# **2.6 Recharge Estimates**
+
+Tutuila's drinking water supply is primarily derived from groundwater, which is fed by the infiltration of rainfall into the land.
+
+--- SENTENCE 546 ---
+The water reaching the saturated zone is termed groundwater recharge.
+
+--- SENTENCE 547 ---
+In general, the spatial distribution of recharge on Tutuila follows a similar pattern to that of the rainfall, where higher elevations contribute more water to the subsurface than lower elevations.
+
+--- SENTENCE 548 ---
+Available recharge estimates indicate the eastern region of the island receives significantly lower amounts of recharge than the western region.
+
+--- SENTENCE 549 ---
+The recharge on the Tafuna-Leone Plain is enhanced by the process of Mountain Front Recharge (MFR), where surface water from mountain streams above the plain infiltrates into the streambed once it reaches a more permeable geologic substrate.
+
+--- SENTENCE 550 ---
+This process is analogous to the MFR frequently observed in arid climates (Wilson and Guan 2004).
+
+--- SENTENCE 551 ---
+Most precipitation falling directly on the Tafuna-Leone Plain soaks in before it has a chance to runoff due to the high permeability of the Holocene-age lavas.
+
+--- SENTENCE 552 ---
+There are only a few well developed stream channels on the plain and no perennial streams (Izuka et al. 2007).
+
+--- SENTENCE 553 ---
+In contrast, the older volcanic shields that lie above the plain have much lower permeabilities and contain perennial streams and springs that drain to the sea or terminate at the Tafuna-Leone Plain.
+
+--- SENTENCE 554 ---
+The actual point of infiltration of each losing stream varies depending on the stream discharge rate and occurs within an MFR zone (Perreault 2010).
+
+--- SENTENCE 555 ---
+This process is primarily significant in the Tafuna-Leone Plain where low-permeability rocks are positioned directly above and adjacent to high-permeability rock, although it has also been observed to a limited extent in the alluvial-fill valleys.
+
+--- SENTENCE 556 ---
+Recharge is often calculated with a water-balance/budget model of some sort.
+
+--- SENTENCE 557 ---
+These models generally calculate groundwater recharge as a residual term after other water budget components are subtracted from a measured amount of precipitation (Fig. 23).
+
+--- SENTENCE 558 ---
+In the most simplified model, Thornthwaite and Mather (1955) stipulated that:
+
+RECHARGE = RAINFALL – RUNOFF – ACTUAL EVAPOTRANSPIRATION
+
+--- SENTENCE 559 ---
+Although simple in theory, some site specific complications add uncertainty to recharge estimates.
+
+--- SENTENCE 560 ---
+During periods when rainfall and soil moisture storage are not sufficient to supply the demands of plants, actual evapotranspiration (*AET*) is less than the potential evapotranspiration (*PET)* that is generally measured.
+
+--- SENTENCE 561 ---
+However, on Tutuila, Perreault (2010) determined that *AET* is generally about 92 % of *PET*.
+
+--- SENTENCE 562 ---
+Of the recharge estimates presented in this study, only the Izuka et al. (2007) model accounts for the difference between *AET* and *PET*.
+
+--- SENTENCE 563 ---
+Also, runoff cannot be directly constrained for every basin as Tutuila has over 140 perennial streams.
+
+--- SENTENCE 564 ---
+Thus these recharge estimates all use runoff to rainfall ratios based on measurements in gaged basins to estimate the runoff on ungauged streams.
+
+--- SENTENCE 565 ---
+Other factors that add uncertainty to groundwater recharge estimates on Tutuila are strong spatial and temporal gradients in precipitation, runoff, or evapotranspiration, and anthropogenic effects such as addition from on-site wastewater disposal systems and leaking water delivery lines (≈50– 70% of Tutuila's municipal water is lost because of leaks).
+
+!
+
+--- SENTENCE 566 ---
+Schematic of a water balance model used to calculate Tutuila's groundwater recharge.
+
+--- SENTENCE 567 ---
+At present, there are three known existing recharge estimates for Tutuila developed by Eyre and Walker (1991), Izuka et al. (2007), and ASPA (2013).
+
+--- SENTENCE 568 ---
+These estimates incorporated only basic hydrologic variables, including precipitation, evapotranspiration, MFR, and runoff to inform recharge calculations.
+
+--- SENTENCE 569 ---
+Methods of calculation and input datasets used vary between each study and are fully described in their respective papers.
+
+--- SENTENCE 570 ---
+The Izuka et al. (2007) coverage was focused only on the Tafuna-Leone Plain region, therefore Eastern Tutuila was excluded
+
+from its result.
+
+--- SENTENCE 571 ---
+Recharge calculations made by Izuka et al. (2007) and ASPA (2013) were provided in the form of recharge depth over an area in vector polygon and raster formats, respectively; whereas Eyre and Walker (1991) calculated recharge with a basin total volume approach.
+
+--- SENTENCE 572 ---
+For comparison, each estimate was converted to a region standardized format based on the boundaries of twelve geographic regions defined by the surface expressions of inferred subsurface geologic features such as rift zones or dense trachyte plugs.
+
+--- SENTENCE 573 ---
+Regional recharge volume was calculated as the sum of recharge in cells, polygons, or basins (or fraction thereof) that intersected or fell within each regional unit's boundaries.
+
+--- SENTENCE 574 ---
+This produced maps of regional total recharge in million gallons per day (Mgal/day) for each of the three documented recharge estimates (Fig. 24).
+
+--- SENTENCE 575 ---
+It should also be noted that the use of this method does not imply that groundwater availability within each geographic region is limited to the calculated recharge amount.
+
+--- SENTENCE 576 ---
+Groundwater flow is not constrained by topographic boundaries, and wells on Tutuila potentially draw water from other regions or topographic basins.
+
+--- SENTENCE 577 ---
+Nonetheless, the total amount of sustainably developable groundwater on any island is fundamentally limited by the rate of groundwater recharge available to developable areas.
+
+--- SENTENCE 578 ---
+Total groundwater withdrawals must always remain as a fraction of total recharge to maintain a buffer against seawater encroachment.
+
+--- SENTENCE 579 ---
+The magnitude of this fraction will be dependent on local hydrogeologic conditions and the efficiency of well design.
+
+--- SENTENCE 580 ---
+## **2.7 High-Level Spring Occurrence and Geochemistry**
+
+The existence of Tutuila's high-level groundwater is clearly indicated by the occurrence of perennial streams and springs throughout upper elevations on Tutuila.
+
+--- SENTENCE 581 ---
+Davis (1963), Eyre and Walker (1991), and Izuka et al. (2007) noted that streamflow from the Pleistocene age volcanic rocks is generally fed by numerous and dispersed springs with lowflow rates.
+
+--- SENTENCE 582 ---
+Davis (1963) describes high-level seepage zones that release small volumes of water, often along a lineation of some sort, and often with flow rates so low that they easily escape detection when seeping out under soil or thick vegetation.
+
+--- SENTENCE 583 ---
+These observations imply high-level reservoirs in the Pleistocene volcanic rocks are dispersed, and may only contain insignificant quantities of water.
+
+--- SENTENCE 584 ---
+Nonetheless, additional documentation of a few notable high-flow springs throughout the island suggests that some of these reservoirs may be larger than others.
+
+--- SENTENCE 585 ---
+Locations of perennial high-level springs and streamflow characteristics may provide clues for assessing the significance of an area's high-level water supply.
+
+--- SENTENCE 586 ---
+Springs with exceptional flow rates were often documented in reports because of their historical use in village or U.S. Navy water systems.
+
+--- SENTENCE 587 ---
+Prior to groundwater development in the 1970s, surface water supplies were the primary source of drinking water on the island.
+
+--- SENTENCE 588 ---
+A spring with a high flowrate suggests that the subsurface source reservoir contains significant storage or that the recharge area for the reservoir is extensive.
+
+!
+
+--- SENTENCE 589 ---
+Comparison of three recharge estimates by Eyre and Walker (1991), Izuka et al. (2007), and ASPA (2013).
+
+--- SENTENCE 590 ---
+Each estimate was converted to a region standardized format.
+
+--- SENTENCE 591 ---
+Note: Izuka et al. did not calculate recharge for Eastern and far Western Tutuila.
+
+--- SENTENCE 592 ---
+A major limitation for the development of high-level groundwater is the nature of Tutuila's Pleistocene aquifers, which are not well understood.
+
+--- SENTENCE 593 ---
+Typically in volcanic island environments, structures such as dikes, faults, or aerially extensive perching layers are thought to control the locations and size of the larger pockets of high-level water.
+
+--- SENTENCE 594 ---
+However, it is also possible due to the high and frequent rainfall (up to 5,700 mm/yr
+
+--- SENTENCE 595 ---
+[200 in./yr]) in the island's interior, that instead of being fed by structurally controlled aquifers contained in bedrock, some high-level springs and streams may be fed by lateral flow from reservoirs consisting of continually wetted soil.
+
+--- SENTENCE 596 ---
+To estimate the residence time of water in the subsurface, and therefore better constrain the magnitude of storage, a number of environmental tracers can be applied.
+
+--- SENTENCE 597 ---
+Assessments of water-isotope (δ<sup>2</sup> H and δ<sup>18</sup>O) compositions in precipitation and groundwater have been widely used in tropical island environments to assess recharge source, elevation, or timing.
+
+--- SENTENCE 598 ---
+(Scholl et al. 2002, Rhodes et al.
+
+--- SENTENCE 599 ---
+On Tutuila, a strong seasonal trend in precipitation δ<sup>2</sup> H and δ<sup>18</sup>O values has been observed (Fig. 25A)
+
+--- SENTENCE 600 ---
+(Shuler et al. (2017).
+
+--- SENTENCE 601 ---
+Because of this predictable seasonal variation, the isotopic composition of surface or groundwaters can indicate how recently their source was recharged.
+
+--- SENTENCE 602 ---
+Recently infiltrated water moving to streams via lateral-flow would be expected to show an isotopic signature that matches that of recent precipitation.
+
+--- SENTENCE 603 ---
+On the other hand, groundwater from an extensive aquifer would be expected to have a longer subsurface residence time and show an isotopic signature that integrates or averages the isotopic composition of precipitation events over multiple seasons.
+
+--- SENTENCE 604 ---
+To test this hypothesis, six production wells throughout the island (ASPA wells 33, 84, 89, 93, 128, and 179) were sampled on a monthly basis and precipitation was collected at four well sites over a period of three years.
+
+--- SENTENCE 605 ---
+Rainfall was collected in cumulative precipitation collectors (CPCs) following the design used in Scholl et al. (1996).
+
+--- SENTENCE 606 ---
+Samples were collected in 20 ml glass vials with no headspace and analyzed for δ<sup>18</sup>O and δ<sup>2</sup> H of water in a Picarro brand Cavity Ring-Down Spectrometer (L1102-i Isotopic Liquid Water Analyzer) at the University of Hawaii Stable Isotope Biogeochemistry Lab.
+
+--- SENTENCE 607 ---
+Water isotope values reported in this study are in per mil (‰) notation relative to the international water isotope standard of VSMOW.
+
+--- SENTENCE 608 ---
+This assessment showed that the average annual δ<sup>2</sup> H and δ18O values in groundwater from all the wells were -4.25‰ and -20.01‰, respectively.
+
+--- SENTENCE 609 ---
+This isotopic signature is quite close to the annual volume weighted average for δ<sup>2</sup> H and δ18O values measured at all precipitation collectors (-4.87‰ and -25.01‰, respectively).
+
+--- SENTENCE 610 ---
+Additionally, numerous samples of high-level groundwater at upland springs, and baseflow from streams throughout the island were collected over the period spanning from 2013 to 2018.
+
+--- SENTENCE 611 ---
+Water isotopes from these springs and streams were plotted against observed isotope values in precipitation and groundwater (Fig. 25B).
+
+--- SENTENCE 612 ---
+In general, the isotopic composition of springs and streams more closely resembled the average annual composition of groundwater than precipitation during the month in which they were taken.
+
+--- SENTENCE 613 ---
+This result suggests that the sampled springs and streams, for the most part, originate from groundwater sources having multi-season residence times.
+
+!
+
+--- SENTENCE 614 ---
+Water isotope graphs comparing: precipitation and groundwater, and water isotope values by sample type.
+
+--- SENTENCE 615 ---
+A) Monthly average water isotope values in rainfall measured with precipitation collectors (blue line) and monthly average water isotope values in groundwater measured at six production wells located throughout Tutuila (orange line) over a 3-year period.
+
+--- SENTENCE 616 ---
+B) Values of  $\delta^2H$  plotted against  $\delta^{18}O$  values in precipitation (blue dots)
+
+--- SENTENCE 617 ---
+well waters (orange dots), high-level springs (green crosses), and stream baseflow samples (grey crosses).
+
+--- SENTENCE 618 ---
+Waters from different sources will plot in different regions of the graph.
+
+--- SENTENCE 619 ---
+Another useful tracer for determining residence time of groundwater is the noble gas radon-222 (<sup>222</sup>Rn).
+
+--- SENTENCE 620 ---
+Radon has a short half-life (3.8 days), is produced underground by geologic material, and reaches an equilibrium concentration in groundwater after about 15 days (Snow and Spalding 1997).
+
+--- SENTENCE 621 ---
+Radon quickly escapes to the atmosphere when water is exposed on the surface, thus its presence in spring or stream waters indicates these waters were recently discharged from an aquifer.
+
+--- SENTENCE 622 ---
+In addition, recently recharged—and subsequently discharged—subsurface water will not have substantial <sup>222</sup>Rn concentrations because it may take up to two weeks for <sup>222</sup>Rn to reach equilibrium levels.
+
+--- SENTENCE 623 ---
+Many springs and streams sampled for water isotopes were also sampled for <sup>222</sup>Rn.
+
+--- SENTENCE 624 ---
+Radon grab samples were collected in 250-ml glass bottles and analyzed with a RAD7 radon detector and RAD H2O water analyzer, both manufactured by Durridge Inc. Because of <sup>222</sup>Rn's short half-life, grab sample values were corrected for radioactive decay between collection and analysis.
+
+--- SENTENCE 625 ---
+From 2013 to 2018, over 150 samples from Tutuila production wells were collected and analyzed for <sup>222</sup>Rn.
+
+--- SENTENCE 626 ---
+Although <sup>222</sup>Rn concentrations were variable throughout different parts of the island, the arithmetic mean of all well water samples was 250.2 dpm/L, and the median was 160 dpm/L.
+
+--- SENTENCE 627 ---
+In spring waters, <sup>222</sup>Rn concentrations fell into two distinct groups, those with concentrations below 15 dpm/L and those with concentrations above 80 dpm/L. Springs that fall into the latter group likely originated from a groundwater source with a residence time exceeding rain-event timescales.
+
+--- SENTENCE 628 ---
+Springs located during WRRC field expeditions that showed high (> 80 dpm/L)  $^{222}$ Rn concentrations and  $\delta^2$ H and  $\delta^{18}$ O signatures matching average annual groundwater values are presented in Table 9 and Figure 26, along with locations and anecdotal information about
+
+'exceptional'springs documented in Davis (1963), Bentley (1975), Eyre and Walker (1991), and Burger (1981).
+
+--- SENTENCE 629 ---
+It should be noted that the spring locations sampled through these efforts do not constitute a comprehensive, or necessarily representative assessment of all areas on Tutuila.
+
+--- SENTENCE 630 ---
+Due to the difficulty in accessing mountain springs located on steep and overgrown terrain, the sites presented in this study are probably a small subset of the full population of springs that exist in Tutuila's Pleistocene shields.
+
+--- SENTENCE 631 ---
+It should also be understood that any water development in high-level reservoirs areas will most likely result in reduction of spring and associated streamflow.
+
+--- SENTENCE 632 ---
+Such actions have consequences for aquatic ecosystems as well as for the residents who rely on village water systems that are dependent on springs.
+
+--- SENTENCE 633 ---
+These consequences should be fully assessed prior to the development of groundwater near significant springs.
+
+--- SENTENCE 634 ---
+## **2.8 Streamflow Analysis**
+
+Streamflow statistics such as variation in flow, baseflow quantity, and runoff to rainfall ratios between different basins can indicate aquifer parameters; primarily the ability of the rocks in a basin to store and then slowly release water.
+
+--- SENTENCE 635 ---
+Aquifers with higher water holding capacities will generally retain more precipitation as recharge, and streams in these basins will discharge a higher proportion of their total flow as baseflow, as opposed to direct runoff.
+
+--- SENTENCE 636 ---
+Extensive stream gauging on Tutuila was performed by the USGS between the 1950s and 2008.
+
+--- SENTENCE 637 ---
+The data from this effort remains a significant asset to the understanding of American Samoa's hydrology.
+
+--- SENTENCE 638 ---
+A summary of Tutuila's streamflow data and an analysis of low-flow characteristics are given by Wong (1996).
+
+--- SENTENCE 639 ---
+Wong (1996) compiled the analyses for 83 streams and tributaries in 63 basins or sub-basins.
+
+--- SENTENCE 640 ---
+These included statistics regarding low flows at various recurrence intervals, mean and median flows, drainage basin characteristics, and variation in baseflow.
+
+--- SENTENCE 641 ---
+Of particular interest to this work is Wong's Baseflow Index (BFI), which is described in detail below.
+
+--- SENTENCE 642 ---
+Continuous flow measurements were collected at eleven of the USGS stations and the data were run through a baseflow separation analysis by Perreault (2010).
+
+--- SENTENCE 643 ---
+Station locations are shown in Figure 27.
+
+--- SENTENCE 644 ---
+Geochemical data and details for notable springs.
+
+--- SENTENCE 645 ---
+| Data Source    | 22Rn (dpm/L)
+
+--- SENTENCE 646 ---
+| δ 2<br>H (‰) |
+|------------|----------------|---------------------------------------------------------------|----------|--------------|
+| 1          | WRRC           | 134                                                           | -4.37    | -21.20       |
+
+--- SENTENCE 647 ---
+| 2          | WRRC           | 209                                                           | -4.55    | -18.51       |
+| 3          |
+
+--- SENTENCE 648 ---
+WRRC           | 485                                                           | -4.72    | -20.90       |
+| 4          | WRRC           | 291                                                           | -4.60    | -19.81       |
+
+--- SENTENCE 649 ---
+| 5          | WRRC           | 266                                                           | -4.50    | -18.88       |
+| 6          |
+
+--- SENTENCE 650 ---
+WRRC           | 133                                                           | -4.89    | -22.41       |
+
+--- SENTENCE 651 ---
+| 7          | WRRC           | 164                                                           | -4.59    | -18.39       |
+| 8          |
+
+--- SENTENCE 652 ---
+WRRC           | 559                                                           | -4.43    | -17.40       |
+| 9          | WRRC           | 89                                                            | -4.21    | -14.99       |
+
+--- SENTENCE 653 ---
+| 10         | WRRC           | 266                                                           | -4.01    | -19.44       |
+
+--- SENTENCE 654 ---
+| Data Source    | Notes                                                         |          |              |
+| 11         | WRRC           | High volume, used for Tuna Cannery supply                     |          |              |
+| 12         | WRRC           | Dike impounded, significant flow rate, tapped by local family |          |              |
+| 13         | WRRC           | Significant seepage from quarry face                          |          |              |
+| 14         | WRRC           | Significant discharge from pyroclastic ridge                  |          |              |
+| 15         | Davis (1963)   | Documented on map                                             |          |              |
+
+--- SENTENCE 655 ---
+| 16         | Davis (1963)   | Documented on map                                             |          |              |
+
+--- SENTENCE 656 ---
+| 17         | Davis (1963)
+
+--- SENTENCE 657 ---
+| Flow rate of a few gallons per minute                         |          |              |
+| 18         | Davis (1963)   | Documented on map                                             |          |              |
+
+--- SENTENCE 658 ---
+| 19         | Davis (1963)
+
+--- SENTENCE 659 ---
+| Developed tunnel, flow rate of 5 GPM                          |          |              |
+| 20         | Davis (1963)   | Documented on map                                             |          |              |
+
+--- SENTENCE 660 ---
+| 21         | Davis (1963)
+
+--- SENTENCE 661 ---
+| Two springs noted with combined flow rate of 20 GPM           |          |              |
+| 22         | Davis (1963)
+
+--- SENTENCE 662 ---
+| Davis notes as exceptional, estimated flow rate of 350 GPM    |          |              |
+| 23         | Bentley (1975)
+
+--- SENTENCE 663 ---
+| Flow rate of 50 to 150 GPM, flow in dry season may be halved  |          |              |
+
+--- SENTENCE 664 ---
+| 24         | Bentley (1975)
+
+--- SENTENCE 665 ---
+| Flow rate of 50 to 150 GPM, flow in dry season may be halved  |          |              |
+| 25         | Burger (1981)
+
+--- SENTENCE 666 ---
+| Mapped due to biological significance                         |          |              |
+
+--- SENTENCE 667 ---
+| 26         | Burger (1981)
+
+--- SENTENCE 668 ---
+| Mapped due to biological significance                         |          |              |
+| 27         | Burger (1981)
+
+--- SENTENCE 669 ---
+| Mapped due to biological significance                         |          |              |
+
+--- SENTENCE 670 ---
+| 28         | Burger (1981)  | Mapped due to biological significance                         |          |              |
+| 29         | Burger (1981)
+
+--- SENTENCE 671 ---
+| Mapped due to biological significance                         |          |              |
+|            |                | Mapped due to biological significance                         |          |              |
+
+Sources: WRRC, Davis (1963), Bentley (1975), Burger (1981).
+
+--- SENTENCE 672 ---
+Note: See Figure 26 for map with spring locations.
+
+!
+
+--- SENTENCE 673 ---
+Location of documented and/or observed freshwater springs.
+
+--- SENTENCE 674 ---
+Each may have significant flow rates or are sourced from groundwater reservoirs with significant residence times (see Table 9 for available spring geochemical data and details).
+
+!
+
+--- SENTENCE 675 ---
+[](_page_52_Figure_2.jpeg)
+
+Source: Streamflow data and low-flow characteristics analyses from Wong (1996).
+
+--- SENTENCE 676 ---
+Location of continuous and partial-record streamflow gauging stations maintained and reported by USGS.
+
+--- SENTENCE 677 ---
+Note: Continuous record stations = green dots, stations with upgradient watershed areas = blue patches, and % = station's ratio of average baseflow by average flow as determined by Perreault's (2010) baseflow separation analysis.
+
+--- SENTENCE 678 ---
+Streamflow is often broken into two basic components—baseflow and runoff.
+
+--- SENTENCE 679 ---
+The runoff component is defined as the portion of streamflow that reaches the stream via overland flow or through inner-event lateral flow, and primarily occurs during heavy rains.
+
+--- SENTENCE 680 ---
+Baseflow, on the other hand, originates from a groundwater aquifer and is discharged consistently to the stream at all times, during and between rainfall events.
+
+--- SENTENCE 681 ---
+Also note that lateral flow, which is defined as water that reaches streams via lateral (across bedding) movement through soil
+
+layers, is sometimes classified in either of the aforementioned categories depending on separation methods because it shares characteristics of both runoff and baseflow.
+
+--- SENTENCE 682 ---
+Most lateral flow occurs during or shortly after rainfall events and is thus often grouped with surface runoff.
+
+--- SENTENCE 683 ---
+In American Samoa, rainfall is generally heavy, the land is steep, and streams are short.
+
+--- SENTENCE 684 ---
+These conditions create short-lived runoff events.
+
+--- SENTENCE 685 ---
+However, the majority of the time baseflow or slower moving lateral flow supplies the water that sustains streamflow in Tutuila's drainages.
+
+--- SENTENCE 686 ---
+Based on data from Perreault (2010), the eleven analyzed drainages discharged (on average) 33% of their flow as baseflow and 66% as runoff.
+
+--- SENTENCE 687 ---
+In Hawaii, stream baseflow is equivalent to a flow value that falls within a range of the *Q*<sup>60</sup> and *Q*80 exceedance values (Bassiouni and Oki 2013).
+
+--- SENTENCE 688 ---
+These values are defined as the stream discharge (*Q*) that is met or exceeded 60% of the time (*Q*60) or 80% of the time (*Q*80).
+
+--- SENTENCE 689 ---
+Although Wong (1996) did not calculate values for true baseflow in Tutuila's streams, median flows (*Q*50) were reported.
+
+--- SENTENCE 690 ---
+Comparison of the *Q*<sup>50</sup> reported by Wong, to average baseflows as reported by Perreault (2010) for each of the continuous record sites shows that the ratio of median flow to baseflow is about 1.4.
+
+--- SENTENCE 691 ---
+Thus *Q*<sup>50</sup> (Wong 1996) averages about 40% higher than the stream's mean baseflow discharge.
+
+--- SENTENCE 692 ---
+With appropriate scaling (multiplying by 0.72), median flows can be used to approximate the relative differences in baseflow characteristics between streams, assuming the runoff to rainfall ratios are fairly stable across the watersheds.
+
+--- SENTENCE 693 ---
+A BFI calculated by Wong (1996), was reported for each gauged stream on Tutuila.
+
+--- SENTENCE 694 ---
+This measurement is essentially a stream's *Q*<sup>90</sup> value standardized by its basin size and indexed to the closest continuous record station.
+
+--- SENTENCE 695 ---
+Despite the fact that the *Q*90 does not explicitly represent the mean baseflow value, Wong's BFI is nonetheless a useful relative indicator of the magnitude of groundwater discharge in each stream.
+
+--- SENTENCE 696 ---
+The locations of stream gauges and the BFI of each gauged basin are shown in Figure 28.
+
+--- SENTENCE 697 ---
+The BFI for streams in the Taputapu area are clearly higher than those in the eastern portion of the island, probably because of the addition of the discharge from the many springs that issue from the cinder cap at Aoloau Mountain (Wong 1996).
+
+--- SENTENCE 698 ---
+Overall, there are a number of basins whose median flows and BFIs suggest that more substantial aquifers may contribute a larger proportion of groundwater to the stream flow.
+
+--- SENTENCE 699 ---
+These basins are shown in Figure 27 and include watersheds in the Taputapu Shield region, above the Tafuna-Leone Plain, in Nuuuli, and also around Rainmaker Mountain (Pioa Plug).
+
+--- SENTENCE 700 ---
+Eastern Tutuila has less overall baseflow, and generally shows lower stream BFIs, indicating a lower potential for productive and sustainable highlevel aquifers.
+
+!
+
+--- SENTENCE 701 ---
+Source: Median flow from Wong (1996), and average baseflow index from Wong (1996).
+
+--- SENTENCE 702 ---
+Note: Basins with median flows and BFIs that contribute to a larger portion of groundwater to stream flow are labeled in the map.
+
+--- SENTENCE 703 ---
+Illustration of low-flow characteristics for streams in Tutuila.
+
+# **3.0 UPDATES TO THE CONCEPTUAL HYDROGEOLOGIC MODEL**
+
+# **3.1 Conceptual Model of Subsurface Flow through a Complex Volcanic Island**
+
+In classic island hydrogeologic discussions, groundwater bodies are often simplified into two types (basal groundwater and high-level groundwater), which itself is often divided into perched waters, dike-impounded waters, or elevated-basal waters (Fig. 29).
+
+--- SENTENCE 704 ---
+Basal groundwater refers to a lens shaped freshwater body that floats on saltwater within saturated rock.
+
+--- SENTENCE 705 ---
+The height of the freshwater table is primarily controlled by the hydraulic conductivity (*K*) of the geologic formation and the area's recharge rate.
+
+--- SENTENCE 706 ---
+If other parameters are constant, higher values of *K* will result in a lower water table and thus a thinner lens, and higher recharge rates will contribute to a thicker lens and vice versa.
+
+--- SENTENCE 707 ---
+High-level groundwater refers to reservoirs of water that are supported by structural features such as dikes, perching horizons, or faults.
+
+--- SENTENCE 708 ---
+If properly oriented, these structures can support or retain pockets of freshwater at elevations that are discontinuous from the basal water system.
+
+--- SENTENCE 709 ---
+Since high-level groundwater is separated from underlying saltwater, it is not affected by salinization, and its elevation reduces the risk of anthropogenic contamination.
+
+--- SENTENCE 710 ---
+Subsurface structures within volcanic shields are complex and heterogeneous.
+
+--- SENTENCE 711 ---
+Observations of many different geologic features throughout Tutuila suggest that multiple types of groundwater bodies likely accumulate and flow within the islands subsurface.
+
+--- SENTENCE 712 ---
+All of Tutuila's groundwater ultimately originates as rain water, and as it percolates down through the soil, a portion is laterally diverted to streams or springs when it encounters lesspermeable bedrock.
+
+--- SENTENCE 713 ---
+The water that is not lost to soil evapotranspiration then infiltrates into the bedrock and becomes recharge where it follows a tortuous path encountering the variable permeability fabric of the volcanic shields.
+
+--- SENTENCE 714 ---
+Where horizontally extensive low-permeability layers, such as massive lava flows or ash beds are present, some of the recharge may contribute to perched water bodies that accumulate upon or within these layers.
+
+--- SENTENCE 715 ---
+The presence of vertically oriented dikes on Tutuila creates low permeability structures that impede the flow of groundwater.
+
+--- SENTENCE 716 ---
+Therefore, widely spaced dikes may form compartments that impound some groundwater.
+
+--- SENTENCE 717 ---
+Once high-elevation reservoirs are saturated, the water that does not slowly seep downward through barriers will move laterally atop less permeable features until it either encounters more permeable material and continues downwards, or discharges to the surface as a high-level spring or stream baseflow.
+
+--- SENTENCE 718 ---
+Eventually the remaining recharge percolates to an elevation where it begins to accumulate on top of the underlying seawater in saturated rock and thus supplies the basal-freshwater lens.
+
+--- SENTENCE 719 ---
+The existence of high-level groundwater on Tutuila is clearly indicated by the occurrence of perennial streams and springs throughout upper elevations.
+
+--- SENTENCE 720 ---
+However, the extent and location of these reservoirs are difficult to constrain, and it is likely that many reservoirs are small.
+
+--- SENTENCE 721 ---
+Previous investigations observed that streamflow from the Pleistocene age volcanic rocks is generally fed by numerous and dispersed springs with low flow rates (Davis 1963, Eyre and Walker 1991, and Izuka et al. 2007).
+
+--- SENTENCE 722 ---
+Davis (1963) describes highlevel seepage zones that release small volumes of water, often along a geologic lineation of some sort and often with flow rates so low that they easily escape detection when seeping out from under soil or thick vegetation.
+
+--- SENTENCE 723 ---
+The Hawaiian conceptual model (Takasaki and Mink 1985, Lau and Mink 2006), envisions basal and high-level groundwaters as separate systems, with basal water collecting in higher- permeability rocks and high-level water being impounded by low-permeability structures.
+
+--- SENTENCE 724 ---
+While flow from high-level water can recharge the basal system in the Hawaiian conceptual model, pumping from the basal system will not affect high-level water bodies.
+
+--- SENTENCE 725 ---
+On the other hand, the Canary Island model (Join et al. 2016), conceptualizes elevated and basal groundwater to be hydraulically connected as a single system contained in a generally lowpermeability rock matrix, and thus pumping of basal groundwater affects high-level heads.
+
+--- SENTENCE 726 ---
+Both of these conceptual models have been implemented to develop numerical groundwater models of Tutuila in the past, as mentioned above in Section 2.5.
+
+--- SENTENCE 727 ---
+Izuka et al. (2007) developed a model fundamentally reliant on the assumption that groundwater in the Pleistocene rocks was best represented as a fully-saturated vertically extensive groundwater body, similar to the Canary Island model.
+
+--- SENTENCE 728 ---
+Izuka et al. (2007) assumed elevations of highlevel springs were representative of the regional water table and set *K* values for the model to create simulated water table elevations that produced these high water levels.
+
+--- SENTENCE 729 ---
+In contrast, a numerical model developed by ASPA (2013) used a much higher estimate of *K* (based on
+
+aquifer test results) for the Pleistocene rocks.
+
+--- SENTENCE 730 ---
+This choice implied the developer considered the Hawaiian conceptual model to be more representative of Tutuila's Pleistocene unit.
+
+--- SENTENCE 731 ---
+The ASPA model also stipulated that modeled water table elevations, which only reached about 5 m in elevation above sea level, represented only the basal mode of the saturated zone and that streamflow is supplied by perched water bodies that exist above this elevation (but are ignored in the model).
+
+!
+
+--- SENTENCE 732 ---
+Three conceptual high-level groundwater models controlled by different types of waterimpounding geologic structures.
+
+--- SENTENCE 733 ---
+Dike-impounded groundwater based on a Hawaiian model described in Gingerich and Oki (2000).
+
+--- SENTENCE 734 ---
+Small perched aquifers within lava flows described in Miller et al. (1997).
+
+--- SENTENCE 735 ---
+C) Complex geologic system within the Canary Islands model including buried cinder cones, faults or paleovalleys as described in Join et al. (2016) and Lachassagne et al. (2014).
+
+--- SENTENCE 736 ---
+Despite the stark differences in these conceptualizations, the existing hydrogeological data seems to indicate that in reality, the island's heterogeneous geology creates a complex distribution of perched, impounded, and fully saturated basal water bodies throughout the island.
+
+--- SENTENCE 737 ---
+Therefore, the Hawaiian and Canary Island conceptual models may not be completely exclusive of each other, and each may be applicable in different parts of Tutuila.
+
+--- SENTENCE 738 ---
+The key factor determining the appropriateness of either model likely relates to how prevalent highpermeability zones are, and how hydraulically connected these zones are with each other and the main (basal) water body.
+
+--- SENTENCE 739 ---
+Considering the above, it may be most useful to conceptualize Tutuila's subsurface on a regional scale as a bi-modal system containing higher-conductivity water bearing zones or 'pockets' interspersed within a matrix of fairly prevalent lower-conductivity barriers (Fig. 30).
+
+--- SENTENCE 740 ---
+The hydraulic properties of the bulk material would then be dependent on the proportion of each material type and the interconnectivity between more-conductive zones.
+
+--- SENTENCE 741 ---
+If the interconnectivity between high-permeability pockets is good, then the overall conductivity of the system would be controlled by the hydraulic conductivity of the more permeable zones.
+
+--- SENTENCE 742 ---
+However, if less-permeable material is prevalent and reduces or eliminates connectivity between permeable zones, then the overall conductivity of the system will be controlled by the *K* value of the less-permeable material.
+
+--- SENTENCE 743 ---
+A pumping test can provide information on the properties of the localized pocket where the well is developed.
+
+--- SENTENCE 744 ---
+However, on Tutuila these tests have typically not been conducted for long enough periods to provide information about larger scale interconnectivity between different water bearing zones.
+
+--- SENTENCE 745 ---
+Thus, long-duration observations of water levels may provide a better way to assess the degree of connectivity between the local water-bearing formation and the regional aquifer.
+
+--- SENTENCE 746 ---
+Although available datasets suggest there are hydraulic discontinuities within the heterogeneous permeability fabric of the older shields, there are few places on Tutuila where enough data exists to conclusively characterize the local conceptual hydrogeologic model.
+
+--- SENTENCE 747 ---
+These areas include the Tafuna and Leone plains, but not the Pyroclastics between them, Malaeimi Valley, and some but not all of the small alluvial-fill aquifers in the Pleistocene valley mouths.
+
+--- SENTENCE 748 ---
+In general, it is probably functionally sufficient from a modeling perspective, to consider the basal-lens within the Pleistocene rocks to have a continuous aerial extent.
+
+--- SENTENCE 749 ---
+This simplification is subject to the caveat that the aquifer is still subject to varying degrees of hydraulic interruptions caused by low-permeability structures that, on a regional scale, serve to reduce the average hydraulic conductivity of the entire unit, and that a definitive hydraulic connection throughout the basal aquifer is possible but should not be assumed.
+
+!
+
+--- SENTENCE 750 ---
+Geologic and hydrogeologic conceptual models of B–B' (cross section through Taputapu Shield, Aoloau Mountain, and Leone Plain).
+
+--- SENTENCE 751 ---
+(top): Geologic cross section.
+
+--- SENTENCE 752 ---
+Locations and elevations of subsurface contacts based on data from TGH-1 and inferred elsewhere.
+
+--- SENTENCE 753 ---
+Locations of highpermeability pockets are inferred, and are representative of a conceptual heterogeneous permeability fabric of unknown extent and construction.
+
+--- SENTENCE 754 ---
+Spring locations, water table elevations and transition zone midpoints are inferred.
+
+--- SENTENCE 755 ---
+Note: Dike impounded water levels are shown to rise above the basal water table.
+
+--- SENTENCE 756 ---
+**3.2 Groundwater Occurrence in Tutuila's Hydrogeologic Units**
+
+#### **3.2.1 Holocene Leone Volcanics**
+
+The young aquifers of the Tafuna-Leone Plain region are primarily composed of pahoehoe and a'a lava flows with localized interfingerings of ash beds and/or sedimentary carbonate layers.
+
+--- SENTENCE 757 ---
+These materials sit above the weathered edifice of the Taputapu shield, though the degree of water movement between the Leone and Taputapu units is unknown.
+
+--- SENTENCE 758 ---
+Due to their young age and lack of weathering, the Leone Volcanic aquifers are generally very hydraulically conductive and hold a thin basal lens.
+
+--- SENTENCE 759 ---
+A prevalence of fractures, clinker zones, and lava tubes provides a high secondary porosity to the region, making it favorable for groundwater development (Bentley 1975).
+
+--- SENTENCE 760 ---
+However, these features also make the Tafuna-Leone plain susceptible to groundwater contamination (Kennedy et al. 1987).
+
+--- SENTENCE 761 ---
+Currently, the 24 wells in the plain region produce about 70% of the island's municipal water (RCWW 2002).
+
+--- SENTENCE 762 ---
+Wells in this area are generally designed to skim the top of the unconfined basal lens that floats (due to its lower density) on salt water within the saturated rock.
+
+--- SENTENCE 763 ---
+Because the plain's geologic units are so conductive, the water table in the region is typically about 1 to 3 m above sea level (Izuka 1999b).
+
+--- SENTENCE 764 ---
+The unsaturated zone above the water table is often less than 35 m deep, allowing only minimal travel time for contaminant attenuation.
+
+--- SENTENCE 765 ---
+Within the plain there are three subregions, which can be distinguished into different hydrogeologic units: (1) the Tafuna Plain, (2) the Leone Plain, and (3) the Leone Pyroclastics.
+
+--- SENTENCE 766 ---
+Each of these units probably has a large degree of heterogeneity, as shown by the quickly alternating sequences of variably textured lavas and different types of pyroclastic materials seen in cores from the two deep exploratory boreholes.
+
+--- SENTENCE 767 ---
+Visual inspection of the borehole core shows the Leone Series rocks in TGH-1 (on the Leone side of the plain) generally has a higher proportion of volcanoclastics (ash and cinder) than is seen in TGH-3 (on the Tafuna side), though the materials in both boreholes are still predominantly basalts from lava flows.
+
+#### **Tafuna Plain**
+
+The structure of the Tafuna region has been described by Eyre and Walker (1991) as a lava delta (Walker 1991) formed as molten rock flowed from sub-areal vents downgradient via long tongues and subsurface tubes.
+
+--- SENTENCE 768 ---
+The subsurface transport of the lava causes the exterior of the flow to dome and buckle and these forces create structures such as tumuli, lava rises, and lava tubes; when covered by successive flows it creates heterogeneity and preferential pathways for the movement of the water.
+
+--- SENTENCE 769 ---
+When erupting, lava may flow over, around, or through topographic irregularities, which produces a heterogeneous subsurface distribution of less and more permeable zones.
+
+--- SENTENCE 770 ---
+It should be noted that the Tafuna aquifer behaves as an unconfined aquifer, and the more permeable sections are probably still interconnected by fractures through the denser sections.
+
+--- SENTENCE 771 ---
+The structural complexity of the Tafuna Lava Delta is enhanced by the fact that the lavas rest on the uneven topography of ancient buried ridges, valleys, pinnacles, and sedimentary basins of Taputapu's ancient erosional surface.
+
+--- SENTENCE 772 ---
+Despite this heterogeneity, the water table in the Tafuna plain sits fairly uniform at about 1 to 2 m above sea level, and varies during drier or rainier periods.
+
+#### **Leone Plain**
+
+The Leone side of the plain is similar to the Tafuna side, though it contains more ash and pyroclastic material, blown westward by the southeasterly prevailing winds during explosive eruptions (Izuka et al. 2007).
+
+--- SENTENCE 773 ---
+Extensive ash layers are observed in exposures on the Leone coast and in the borehole logs.
+
+--- SENTENCE 774 ---
+These layers likely serve to reduce the vertical permeability of the unit, potentially causing portions of the basal-lens to be locally or partially confined, though no definitive measurements have been made to support this hypothesis.
+
+--- SENTENCE 775 ---
+Nonetheless, aquifer test data does suggest that overall hydraulic conductivities are generally lower on the Leone side than on the Tafuna side, and the surface water contamination issues reported on the Tafuna Plain appear to be less prevalent on the Leone side (Kennedy et al. 1987).
+
+--- SENTENCE 776 ---
+Water levels in the Leone Plain are similar to those on the Tafuna side and rise to about 3 m above sea level in wells near the Taputapu contact.
+
+#### **Leone Series Pyroclastics**
+
+The north-south trending ridge running down the center of the Tafuna-Leone Plain is comprised of ash and cinder cones.
+
+--- SENTENCE 777 ---
+The ridge is considered to be a rift zone emanating from the rejuvenation stage of the Leone Series eruptions.
+
+--- SENTENCE 778 ---
+A highly weathered rock outcrop found in a Futiga cinder quarry suggests the rift zone is underlain by at least one relic ridge of Taputapu rocks, mantled by Holocene age pyroclastic deposits and interbedded lava flows.
+
+--- SENTENCE 779 ---
+The subsurface structure of the area has not been explored thoroughly, and there is only one well (Well 178) developed within the pyroclastic unit.
+
+--- SENTENCE 780 ---
+This heterogeneous unit contains materials that range from highly-permeable unconsolidated cinder to nearly impermeable indurated tuff, which may have a wide range of hydraulic properties (Izuka et al. 2007).
+
+--- SENTENCE 781 ---
+Based on information in Izuka et al. (2007) and a recovery test of Well 178, the overall permeability of the pyroclastics is probably near to or less than the Leone side of the plain.
+
+--- SENTENCE 782 ---
+Since ash cones are primarily distributed in the southern portion of the ridge, and cinder cones are primarily found in the more northerly section, it may be reasonable to assume that the northern section has better water bearing properties.
+
+--- SENTENCE 783 ---
+Also in the central section of this ridge a shallow valley is found, which may be remnant of paleo-ridgelines from the Taputapu Shield.
+
+--- SENTENCE 784 ---
+This valley displays a subdued topography, suggesting it is filled with either alluvium, recent lavas, or pyroclastic material.
+
+--- SENTENCE 785 ---
+Although there are no borehole logs in this region, recently conducted MT geophysics alludes to the presence of either perched groundwater or a fully saturated subsurface in this area.
+
+--- SENTENCE 786 ---
+#### **Malaeimi Valley**
+
+Malaeimi Valley is a unique area on Tutuila.
+
+--- SENTENCE 787 ---
+Its upper sections are carved from Pago Shield rocks, and its lower section was flooded (or potentially dammed) with basalts from the Tafuna lava delta.
+
+--- SENTENCE 788 ---
+Currently, the interior of the valley has a flat bottom and is filled with alluvial material.
+
+--- SENTENCE 789 ---
+Thus, wells in the valley could be tapping aquifers in lower-conductivity Pleistocene rocks, alluvial fill, or highly-conductive Tafuna lavas depending on their location and depth.
+
+--- SENTENCE 790 ---
+Historically, water table elevations were seen to vary spatially and temporally, and large drawdowns in response to pumping were observed (Eyre and Walker 1991).
+
+--- SENTENCE 791 ---
+Since less permeable Pleistocene rocks underlie more permeable alluvium or Tafuna lavas, there is the potential for a semi-perched groundwater system in this region.
+
+--- SENTENCE 792 ---
+Meinzer (1923) describes
+
+this condition as groundwater that is at least partially supported by underlying rock (as opposed to underlying seawater) but is still physically connected through a continuous zone of saturation to the main (basal) water body.
+
+--- SENTENCE 793 ---
+This hypothesis is supported by observations of high drilling water levels with reasonably high *T* and *K* values in the upper Malaeimi wells that rapidly drop off further down the valley at the wells near the valley mouth.
+
+--- SENTENCE 794 ---
+These high water levels were observed to be unstable and some declined rapidly when pumped.
+
+--- SENTENCE 795 ---
+It remains unclear how hydraulically connected these saturated zones are to the underlying basal aquifer.
+
+--- SENTENCE 796 ---
+Another interesting feature of Malaeimi Valley is that it receives a significant amount of additional water from the process of mountain front recharge (MFR).
+
+--- SENTENCE 797 ---
+Streams flowing off of the flanks of the less permeable Pago Shield rocks quickly infiltrate and add to the area's total recharge.
+
+--- SENTENCE 798 ---
+This additional water increases the thickness of the basal lens in this area, as well as providing additional water supply for the lens downgradient from the MFR zone (Fig. 31).
+
+--- SENTENCE 799 ---
+The elevated lens thickness in this area may act as a freshwater fence, not only reducing the potential for saltwater upconing in the MFR zone, but also for wells upgradient in the valley.
+
+--- SENTENCE 800 ---
+Although the hydrogeology of Malaeimi Valley is complex, this region has long been recognized as one that contains valuable water resource characteristics; due to the unique geology and relatively high recharge rate.
+
+--- SENTENCE 801 ---
+Malaeimi Valley has been recognized as possessing all qualifications needed for designation as a "Special Management Area" under American Samoan Law, and its protection as a special management watershed would be a significant step forward in water resources management on Tutuila (Pedersen Planning Consultants 2004).
+
+!
+
+--- SENTENCE 802 ---
+Diagram showing the interaction of the basal lens (in the mountain front recharge zone) at the margin of the less-permeable Taputapu Shield and the more-permeable Tafuna-Leone Plain.
+
+#### **3.2.2 Groundwater Occurrence in Pleistocene Volcanic Shields**
+
+The Pago, Taputapu, Alofau, and Olomoana shields make up what has been previously referred to as the Older-Volcanic Hydrogeologic Unit, the Pleistocene Unit, or the Low-Permeability Unit (Eyre 1994, Izuka et al. 2007).
+
+--- SENTENCE 803 ---
+These shields are in a basic sense, constructed of gently dipping a'a lava flows organized as an alternating sequence of more permeable rubble zones and less permeable massive sections (see Section 2.2).
+
+--- SENTENCE 804 ---
+This sequence is complicated by the presence of cross-cutting dikes, interbedded pyroclastic sections, clay rich paleohorizons, and products of mass wasting or caldera collapse that all serve to disrupt the continuity of the lava-flow structures.
+
+--- SENTENCE 805 ---
+This complex geology may manifest hydrogeologically as a heterogeneous permeability fabric where variably sized compartments of high permeability rubble or cinders are adjacent to beds or tongues of massive lavas and other low permeability features that act as perching layers or barriers to water movement.
+
+--- SENTENCE 806 ---
+The shields likely contain both high-level and basal groundwater bodies.
+
+--- SENTENCE 807 ---
+However, the basal supply probably makes up the majority of the developable groundwater in this unit.
+
+--- SENTENCE 808 ---
+Some existing wells in the Pleistocene rocks register elevated water levels, some of which when pumped, are subject to high drawdown.
+
+--- SENTENCE 809 ---
+These high drawdowns could be caused by overall low hydraulic conductivities (if a purely basal system was tapped) or by limitations in the aquifer extent.
+
+--- SENTENCE 810 ---
+Previous workers have generally classified Tutuila's older shields into a single hydrogeologic unit with uniform properties.
+
+--- SENTENCE 811 ---
+However, recent observations are beginning to provide sufficient data to characterize the region into separate hydrogeologic units.
+
+--- SENTENCE 812 ---
+## **Pago Shield**
+
+The Pago Shield itself has two distinctive geologic units, the Inner-Caldera and the Outer-Caldera.
+
+--- SENTENCE 813 ---
+The Outer-Caldera Unit contains thin and thickly bedded a'a lava flows, numerous dikes, vitric tuff beds, and potentially buried cinder beds; the Inner-Caldera Unit is composed primarily of ponded basalts, trachyte plugs and flows, as well as a relatively high fraction of volcaniclastics, brecias, and other products of mass wasting (Stearns 1944, Knight 2014).
+
+--- SENTENCE 814 ---
+Both of these units contain numerous dikes and are thought to impound small quantities of high-level water behind these barriers (Keating and Bolton 1992).
+
+--- SENTENCE 815 ---
+In general, the composition and structure of the Outer-Caldera Unit suggests that it has better water transmitting properties than the Inner-Caldera Unit (Shuler et al. 2014).
+
+--- SENTENCE 816 ---
+However, the available hydrological data does not show a clear difference in the performance of wells drilled in either unit, which is probably due to local scale heterogeneities.
+
+#### **Taputapu Shield**
+
+Measured aquifer parameters and geologic information suggests that the Taputapu Shield may have a greater water development potential and higher average *K* values than the island's other shields.
+
+--- SENTENCE 817 ---
+This hypothesis is supported by the following:
+
+1.
+
+--- SENTENCE 818 ---
+A limited number of recent aquifer tests show specific capacities and *K* values that
+
+- are significantly higher than those measured in the other shields (Table 7).
+- 2.
+
+--- SENTENCE 819 ---
+The Taputapu Shield may have experienced less erosion and mass wasting, which are processes that serve to reduce connectivity between permeable zones.
+
+--- SENTENCE 820 ---
+This is supported by the observations that it is younger (Tarling 1965, McDougall 1985), and has a lower average slope (22°) then the Pago Shield (28°) (Fig. 32).
+
+!
+
+--- SENTENCE 821 ---
+Average slope (°) of geologic units.
+
+--- SENTENCE 822 ---
+Note: The Taputapu Shield slope (23°) excludes the subdued topography region covered by Holocene Aoloaou cinders (shown in grey).
+
+- 3.
+
+--- SENTENCE 823 ---
+McDougall (1985) hypothesizes that Taputapu and Olomoana are satellite shields of the main Pago Volcano, and therefore should have more high permeability flank lavas and less low permeability caldera related features (e.g., intrusives, ponded lavas, hydrothermal alteration).
+
+--- SENTENCE 824 ---
+This is supported by gravity anomalies as measured by Machesky (1965).
+
+--- SENTENCE 825 ---
+These show a clear maxima (290 mGal) above the Pago Shield (Fig. 32), suggesting the Pago unit contains more impermeable intrusive bodies, such as dike complexes or solidified magma chambers.
+- 4.
+
+--- SENTENCE 826 ---
+The inferred dike intensities as measured by Walker and Eyre (1995) and the locations of measured dikes by Stearns (1944) (Fig. 33) suggests a greater density of impermeable intrusive bodies in the Pago Shield.
+
+--- SENTENCE 827 ---
+Despite this evidence, the Taputapu Shield is nonetheless a large heterogeneous region, and more extensive aquifer testing should be performed to validate this hypothesis for specific areas.
+
+!
+
+--- SENTENCE 828 ---
+Geophysical and surface-mapping data showing inferred density of intrusive structures throughout Tutuila.
+
+--- SENTENCE 829 ---
+Dike-complex areas (cross-hatching) and zones of moderate dike intensity (diagonal lines) are from Walker and Eyre (1995).
+
+--- SENTENCE 830 ---
+Bouguer gravity anomaly measured by Machesky (1965) shows denser material nearer to the Pago Caldera, and locations of mapped dikes in outcrops are from Stearns (1944).
+
+--- SENTENCE 831 ---
+## **3.2.3 Perched or Dike Impounded Aquifer at Aoloau**
+
+The 4.1 km<sup>2</sup> summit area at Aoloau is blanketed by layers of high permeability Holocene-age cinders (Fig. 31).
+
+--- SENTENCE 832 ---
+The permeable nature of this formation is indicated by observations of coarse cinder outcrops, domed topography, and a lack of runoff despite a high rainfall average (5,250 mm/yr).
+
+--- SENTENCE 833 ---
+Aquitards within and below this unit are thought to consist of beds of fine ash, thermally welded tuff, lava flows, or paleo-horizons on the surface of the Taputapu Shield (Eyre and Walker 1991).
+
+--- SENTENCE 834 ---
+A known reservoir of elevated water has already been developed in the village of Aasu.
+
+--- SENTENCE 835 ---
+Although this aquifer could be considered a high-level groundwater resource, its extensiveness makes it unique on Tutuila.
+
+--- SENTENCE 836 ---
+Three wells—two out of production (Wells 127 and 129) and one that is still producing (Well 128)—were drilled into the cinder unit.
+
+--- SENTENCE 837 ---
+Well 128 currently produces about 35 to 40 GPM (190 m<sup>3</sup> /d).
+
+--- SENTENCE 838 ---
+The perched reservoir is inferred to be the source of multiple perennial springs that discharge from the margins of the subdued topography that define the unit.
+
+--- SENTENCE 839 ---
+These springs have been well documented and probably served as a source of village water prior to groundwater development.
+
+--- SENTENCE 840 ---
+Geophysical cross-sections (Fig. 16) indicate the potential for shallow perched aquifers of similar occurrence in both the eastern (Aoloau Village) and the western (undeveloped) portions of the cinder cap.
+
+--- SENTENCE 841 ---
+The thickness of the cinder is likely to be variable and dependent on the underlying Taputapu topography and distance to source vents.
+
+--- SENTENCE 842 ---
+A driller's log from Aasu Well 127, in the eastern portion of the unit, indicates the thickness of cinder deposits to be greater than 50 m (Eyre and Walker 1991).
+
+--- SENTENCE 843 ---
+The unit probably thins towards the west with increasing distance from visible vents.
+
+--- SENTENCE 844 ---
+Approximately six million gallons per day of water recharges this area
+
+(Eyre and Walker 1991).
+
+--- SENTENCE 845 ---
+Since the subsurface geology of the Taputapu Shield has not been fully explored, it is also possible that the Aoloau aquifer is supported by dike-impounded groundwater from within the underlying shield.
+
+--- SENTENCE 846 ---
+Future subsurface exploration of any part of this unit will help to constrain the quality and the quantity of the available resource.
+
+#### **3.2.4 Valley-Fill Aquifers**
+
+Numerous small alluvial-fill valleys ring the island and are often partially filled with eroded volcanic alluvium, mass-wasting debris, and marine sediments from ancient and contemporary reefs and shorelines.
+
+--- SENTENCE 847 ---
+These valleys usually contain one or more perennial or intermittent streams.
+
+--- SENTENCE 848 ---
+The streams may help to recharge small basal-lens aquifers contained within the alluvium or underlying Pleistocene rocks.
+
+--- SENTENCE 849 ---
+Around the island there are about 40 inhabited alluvial valley-fill plains that range in area from approximately 0.005 km<sup>2</sup> to 0.5 km<sup>2</sup> .
+
+--- SENTENCE 850 ---
+A dozen of the more populated valleys contain one to four municipal wells, drilled to provide water to the village as a satellite system.
+
+--- SENTENCE 851 ---
+The aquifers that these systems tap are generally less hydraulically conductive than the Tafuna-Leone Plain aquifers, and their water quality varies greatly between areas.
+
+--- SENTENCE 852 ---
+Many of the wells drilled in these units probably pass through the valley-fill and, depending on the open interval of the well, may also obtain water from the underlying Pleistocene volcanic rocks.
+
+--- SENTENCE 853 ---
+Existing driller's logs may make it possible to interpret the thickness of the valley fill and hypothesize which geologic unit(s) the wells are developing.
+
+--- SENTENCE 854 ---
+However, in many of the existing logs the location of the paleovalley bottom is ambiguous and the logs for many existing wells are missing.
+
+--- SENTENCE 855 ---
+The available logs and aquifer tests do show that the materials and hydrologic properties are generally different between valleys.
+
+--- SENTENCE 856 ---
+Additionally, the pattern of urban development in these villages often places residences, piggeries, and agriculture directly above the alluvial aquifers.
+
+--- SENTENCE 857 ---
+These potential sources of contamination may affect the unprotected groundwater below.
+
+--- SENTENCE 858 ---
+Nonetheless, the alluvial fill/Pleistocene volcanic aquifers provide an important source of water to isolated areas, and despite low observed and predicted yields from most of the formations, the demand in many of these small villages is currently fairly low.
+
+--- SENTENCE 859 ---
+# **4.0 RECOMMENDATIONS FOR FUTURE DEVELOPMENT**
+
+Tutuila is an island, thus the amount of sustainably developable groundwater is fundamentally limited by the island wide rate of groundwater recharge.
+
+--- SENTENCE 860 ---
+Groundwater withdrawals must always remain as a fraction of the recharge, the magnitude of this fraction is dependent on local hydrogeologic conditions and the efficiency of well design.
+
+--- SENTENCE 861 ---
+It is also important to consider the ecological utility of natural groundwater discharge, which provides baseflow to streams and supplies coastal environments with nutrients.
+
+--- SENTENCE 862 ---
+Additionally, a significant portion of freshwater recharge always needs to escape development in order to provide a hydraulic buffer to keep seawater from encroaching on pumping wells.
+
+--- SENTENCE 863 ---
+Past experience shows that wells tapping the basal-aquifer in the Pleistocene Volcanics are expected to yield only low quantities of water (<30–50 GPM), although localized areas and particularly sites in the Taputapu Shield may exceed these expectations.
+
+--- SENTENCE 864 ---
+Pumping at higher rates creates the risk of large drawdowns that will either induce saltwater upconing and/or drain the water-producing zone.
+
+--- SENTENCE 865 ---
+Basal aquifers, if overpumped, are at risk of saltwater intrusion because they are hydraulically connected to the underlying seawater.
+
+--- SENTENCE 866 ---
+This risk can be minimized by drilling production wells as far from the coast as possible, and by using angled boreholes or Maui Type Shafts (Gingerich and Oki 2000) to finish wells in thicker parts of the freshwater lens.
+
+--- SENTENCE 867 ---
+If multiple exploratory wells can be planned and tested, the likelihood of finding a zone that sustainably produces a satisfactory volume of water will be greater.
+
+--- SENTENCE 868 ---
+Assessment of the degree of connectivity between more permeable compartments or pockets would be useful to better understand the extent of groundwater resources at any given site.
+
+--- SENTENCE 869 ---
+This might be accomplished by conducting long term pump tests after drilling and through continued collection of high-resolution water level data during production.
+
+--- SENTENCE 870 ---
+Regardless, it remains paramount to carefully assess aquifer parameters during and/or after drilling with step-drawdown and constant rate pump testing to set the appropriate extraction rates.
+
+--- SENTENCE 871 ---
+Monitoring long-term static water levels and Cl- concentrations throughout production will help to assure sustainable withdrawals.
+
+--- SENTENCE 872 ---
+If chronic static water level declines or if increases in Cl- concentrations are detected, pumping rates can be reduced to allow aquifer recovery.
+
+--- SENTENCE 873 ---
+Targeting high-elevation (above sea level) perched, dike-impounded, or semiperched water "pockets" is a riskier development strategy than targeting basal water supplies.
+
+--- SENTENCE 874 ---
+However, elevated water often has a lower contamination potential.
+
+--- SENTENCE 875 ---
+Successfully developing high-level reservoirs on Tutuila will almost certainly necessitate drilling multiple wells to find zones worth exploiting and will almost certainly result in reduced spring and stream flows.
+
+--- SENTENCE 876 ---
+## **5.0 CONCLUSIONS**
+
+A two-stage eruptive history, (the shield-building and rejuvenated phases) compounded with high erosion rates, has made Tutuila's geologic structure complex and heterogeneous.
+
+--- SENTENCE 877 ---
+This is supported by examining the existing well performance through aquifer tests and water level observations.
+
+--- SENTENCE 878 ---
+The presence of high-level water in the island's older shields is irrefutable, but its nature still remains poorly understood.
+
+--- SENTENCE 879 ---
+While a significant perched aquifer is observed below Aoloau Village, and numerous persistent springs support perennial baseflow throughout the island, the geologic structures that support these aquifers (e.g., dikes, perching layers, or low-connectivity matrix rock) remain poorly constrained.
+
+--- SENTENCE 880 ---
+In reality, it is likely that no single conceptual hydrogeologic model can fully represent the entire island.
+
+--- SENTENCE 881 ---
+However, different conceptual models can be applied to different hydrogeologic units where sufficient data is available.
+
+--- SENTENCE 882 ---
+In general, the hydrologic connectivity between adjacent zones of variable permeability may be the primary controlling factor influencing the water resources availability of any given area.
+
+--- SENTENCE 883 ---
+Conditions found during well drilling are likely to be site specific, in which case it will be difficult to predict the regional connectivity of any given location without extensive pump testing.
+
+--- SENTENCE 884 ---
+In general, groundwater behavior in the Tafuna-Leone Plain region suggests that the connectivity between water bearing pockets is high.
+
+--- SENTENCE 885 ---
+Therefore, the overall hydraulic conductivity of the region is probably controlled by the high-permeability zones resulting in a thin unconfined basal-lens.
+
+--- SENTENCE 886 ---
+In the Pago, Olomana, and Alofau shields, connectivity between permeable zones is more variable but generally lower, which results in drilling and production head levels that vary greatly as well.
+
+--- SENTENCE 887 ---
+Geologic and hydrologic evidence suggests the Taputapu Shield is more likely to display more favorable producing conditions than the Pago Shield.
+
+--- SENTENCE 888 ---
+Nonetheless, the Taputapu region is large and heterogeneous, and the productivity of wells is predicted to vary greatly with site-specific conditions.
+
+--- SENTENCE 889 ---
+Long-term pump tests after drilling and continued collection of high-resolution water level data during production would be useful to assess the degree of connectivity between more permeable portions of the aquifers.
+
+--- SENTENCE 890 ---
+However, interpretation of this type of data, which is always more limited than would be preferred, can be difficult and may yield non-unique solutions.
+
+--- SENTENCE 891 ---
+If it is feasible for multiple exploratory wells to be planned and tested, the likelihood of finding a zone that sustainably produces a satisfactory volume of water will be increased.
+
+--- SENTENCE 892 ---
+Overall, the probability of encountering high-level water in the Pleistocene Volcanics is high.
+
+--- SENTENCE 893 ---
+However, its detection may also serve to confound efforts to understand the extent of other (basal) aquifers tapped by well drilling.
+
+--- SENTENCE 894 ---
+Throughout Tutuila, the productivity of planned wells should not be assumed.
+
+--- SENTENCE 895 ---
+Continued collection of hydrologic data remains important for increasing the knowledge base that will ultimately contribute to further revisions of this conceptual hydrogeologic model.
+
+--- SENTENCE 896 ---
+## **ACKNOWLEDGEMENTS**
+
+The authors would like to gratefully acknowledge the following individuals who provided invaluable feedback for the betterment of this report.
+
+--- SENTENCE 897 ---
+- Scot Izuka, USGS (Honolulu, HI)—provided valuable reviews, comments, and expanded the report's perspective significantly; also provided permission for the reproduction of figures.
+
+--- SENTENCE 898 ---
+- Tim Bodell, ASEPA (Pago Pago, AS)—provided valuable review and can be credited with inspiring and supporting this project through its infancy to completion.
+
+--- SENTENCE 899 ---
+Additionally, the following individuals and organizations provided data, support, and information that significantly supported this project:
+
+- Katrina Mariner (ASPA)—provided a valuable review
+- Danielle Mauga (ASPA) and Will Spitzenberg (ASPA)—provided well information
+
+- and water level data
+- Geologica Geothermal Group, Inc.—provided data, photos, and permission for the reproduction of figures
+- Andrew Reinhardt (UCSB)—provided preliminary <sup>14</sup>C data
+- Knight Industries—provided valuable consultation and provided permission for the reproduction of figures
+- Geological Society of America Bulletin—provided permission for the reproduction of figures
+
+Funding for this project was provided by the USEPA Making a Visible Difference in Communities program and NOAA's Pacific RISA program.
+
+--- SENTENCE 900 ---
+# **REFERENCES**
+
+- Addison, D.J. 2014.
+
+--- SENTENCE 901 ---
+Late-Holocene Volcanics on Tutuila Island, American Samoa: an archaeological perspective on their chronological and spatial distribution.
+
+--- SENTENCE 902 ---
+Report prepared for American Samoa Power Authority, Pago Pago, American Samoa.
+- Addison, D.J., and T.S. Asaua.
+
+--- SENTENCE 903 ---
+One hundred new dates from Tutuila and Manu'a: additional data addressing chronological issues in Samoan prehistory.
+
+--- SENTENCE 904 ---
+*The Journal of Samoan Studies* 2:95–117.
+- American Samoa Department of Commerce (ASDOC).
+
+--- SENTENCE 905 ---
+*2013 Statistical yearbook for American Samoa.*
+
+--- SENTENCE 906 ---
+Pago Pago, American Samoa.
+
+--- SENTENCE 907 ---
+- American Samoa Environmental Protection Agency (ASEPA).
+
+--- SENTENCE 908 ---
+*Territory of American Samoa integrated water quality monitor and assessment report.*
+
+--- SENTENCE 909 ---
+Pago Pago, American Samoa.
+
+--- SENTENCE 910 ---
+- American Samoa Environmental Protection Agency (ASEPA).
+
+--- SENTENCE 911 ---
+*Territory of American Samoa Integrated water quality monitor and assessment report.*
+
+--- SENTENCE 912 ---
+Pago Pago, American Samoa.
+
+--- SENTENCE 913 ---
+- American Samoa Power Authority (ASPA).
+
+--- SENTENCE 914 ---
+Documentation of Wellhead Analysis, Tutuila Hydrogeological Analysis for the U.S. EPA Clean Water Act—State Revolving Fund ASPA Consolidated Grant for the benefit of the Territory of American Samoa.
+
+--- SENTENCE 915 ---
+Report prepared for American Samoa Power Authority, Pago Pago, American Samoa.
+
+--- SENTENCE 916 ---
+By Walters, M.O.
+- Bassiouni, M., and D.S. Oki. 2013.
+
+--- SENTENCE 917 ---
+Trends and shifts in streamflow in Hawaii, 1913–2008.
+
+--- SENTENCE 918 ---
+*Hydrological Processes* 27(10): 1484–1500.
+- Bentley, C.B. 1975.
+
+--- SENTENCE 919 ---
+*Ground-water resources of American Samoa with emphasis on the Tafuna-Leone Plain, Tutuila Island.
+
+--- SENTENCE 920 ---
+US Geological Survey Report No. 75-29.
+- Betancur, T., C.A. Palacio, and J.F. Escobar.
+
+--- SENTENCE 921 ---
+Conceptual models in hydrogeology,
+
+- methodology and results.
+
+--- SENTENCE 922 ---
+In *Hydrogeology—A Global Perspective*, ed. G.A. Kazemi, 203–222.
+
+--- SENTENCE 923 ---
+Coratia: InTech.
+- Burger, I.L., and J.A. Maciolek. 1981.
+
+--- SENTENCE 924 ---
+Map inventory of nonmarine aquatic resources of American Samoa with on-site biological annotations.
+
+--- SENTENCE 925 ---
+US Fish and Wildlife Service Report.
+
+--- SENTENCE 926 ---
+National Fisheries Research Center, Seattle, Washington.
+
+--- SENTENCE 927 ---
+Available at Hamilton Library, Pacific Collection, University of Hawaii, Honolulu.
+- Custodio, E. 1989.
+
+--- SENTENCE 928 ---
+Groundwater characteristics and problems in volcanic rock terrains.
+
+--- SENTENCE 929 ---
+Isotopic Techniques in the Study of the Hydrology of Fractures and Fissured Rocks.
+
+--- SENTENCE 930 ---
+87–137.
+- Custodio, E., and M.C. Cabrera. 2008.
+
+--- SENTENCE 931 ---
+Synthesis of the Canary Islands hydrogeology.
+
+--- SENTENCE 932 ---
+Hydrogeology of volcanic rocks, SIHD-2008, Djibouti, 51–56.
+- Daly, C., J. Smith, M. Doggett, M. Halbleib, and W. Gibson.
+
+--- SENTENCE 933 ---
+*High-resolution climate maps for the Pacific basin islands, 1971–2000.
+
+--- SENTENCE 934 ---
+National Park Service, Pacific West Regional Office.
+- Davis, D.A. 1963.
+
+--- SENTENCE 935 ---
+*Ground-water reconnaissance of American Samoa.
+
+--- SENTENCE 936 ---
+U.S. Geological Survey Water-Supply Paper 1608-C.
+- Eyre, P. 1994.
+
+--- SENTENCE 937 ---
+*Ground-water quality reconnaissance, Tutuila, American Samoa, 1989.
+
+--- SENTENCE 938 ---
+* U.S. Department of the Interior, US Geological Survey Report.
+
+--- SENTENCE 939 ---
+Honolulu, Hawaii.
+- Eyre, P., and G. Walker.
+
+--- SENTENCE 940 ---
+*Geology and ground-water resources of Tutuila American Samoa.
+
+--- SENTENCE 941 ---
+Unpublished report in American Samoa Power Authority files.
+- Eyre, P., and G. Walker.
+
+--- SENTENCE 942 ---
+*Geology and ground-water resources of Tutuila American Samoa (revised).
+
+--- SENTENCE 943 ---
+Unpublished report in American Samoa Power Authority files.
+- Fackrell, J.K. 2016.
+
+--- SENTENCE 944 ---
+*Geochemical evolution of Hawaiian groundwater*.
+
+--- SENTENCE 945 ---
+Ph.D. dissertation, University of Hawaii at Manoa.
+- Freeze, R.A., and J.A. Cherry. 1979.
+
+--- SENTENCE 946 ---
+Prentice-Hall: Englewood Cliffs, New Jersey, 604 p.
+- Geologica Geothermal Group, Inc. 2014.
+
+--- SENTENCE 947 ---
+*Phase 2 evaluation of the geothermal resource potential of Tutuila Island, American Samoa.*
+
+--- SENTENCE 948 ---
+Report prepared for the American Samoa Power Authority, San Francisco, California.
+- Geologica Geothermal Group, Inc. 2016.
+
+--- SENTENCE 949 ---
+*Tutuila Holocene Rift Zone Phase 3 geothermal exploration final report.
+
+--- SENTENCE 950 ---
+Report prepared for the American Samoa Power Authority, San Francisco, California.
+- Gingerich, S.B., and D.S. Oki. 2000.
+
+--- SENTENCE 951 ---
+*Ground water in Hawaii.*
+
+--- SENTENCE 952 ---
+U.S. Department of the Interior, U.S. Geological Survey, Fact Sheet 126-00, 6.
+- Halford, K.J., and E.L. Kuniansky.
+
+--- SENTENCE 953 ---
+Documentation of spreadsheets for the analysis of aquifer-test and slug-test data.
+
+--- SENTENCE 954 ---
+U.S. Geological Survey, Branch of Information Services, Open-File Report No.
+
+--- SENTENCE 955 ---
+No. 2002-197.
+
+- Izuka, S.K. 1996.
+
+--- SENTENCE 956 ---
+*Summary of ground-water and rainfall data for Tutuila and Aunuu Islands, Americn Samoa, for July, 1984 through September, 1995.*
+
+--- SENTENCE 957 ---
+U.S. Geological Survey, Earth Science Information Center, Open-File Report No. 96-116.
+- Izuka, S.K. 1997.
+
+--- SENTENCE 958 ---
+*Summary of ground-water data for Tutuila and Aunuu, American Samoa, for July 1985 through September 1996.
+
+--- SENTENCE 959 ---
+* U.S. Geological Survey, Branch of Information Services, Open-File Report No. 97-654.
+- Izuka, S.K. 1999a.
+
+--- SENTENCE 960 ---
+*Summary of ground-water eata for Tutuila and Aunuu, American Samoa, for October 1987 Through September 1997.*
+
+--- SENTENCE 961 ---
+U.S. Geological Survey, Pacific Islands Water Science Center, Open-File Report No. 99-252.
+- Izuka, S.K. 1999b.
+
+--- SENTENCE 962 ---
+*Hydrogeologic interpretations from available ground-water data, Tutuila, American Samoa.
+
+--- SENTENCE 963 ---
+U.S. Geological Survey, Water-Resources Investigations Report No. 96-116.
+- Izuka, S.K., and S.B. Gingerich. 2003.
+
+--- SENTENCE 964 ---
+A thick lens of fresh groundwater in the southern Lihue Basin, Kauai, Hawaii, USA.
+
+--- SENTENCE 965 ---
+*Hydrogeology Journal* 11(2): 240–248.
+
+--- SENTENCE 966 ---
+- Izuka, S.K., J.A. Perreault, and T.K. Presley.
+
+--- SENTENCE 967 ---
+*Areas contributing recharge to wells in the Tafuna-Leone Plain, Tutuila, American Samoa.
+
+--- SENTENCE 968 ---
+U.S. Geological Survey Scientific Investigations Report 2007-5167.
+
+--- SENTENCE 969 ---
+[http://pubs.usgs.gov/sir/2007/5167/].
+- Jacob, C.E. 1947.
+
+--- SENTENCE 970 ---
+Drawdown test to determine effective radius of artesian well.
+
+--- SENTENCE 971 ---
+*Transactions of the American Society of Civil Engineers* 112(1): 1047–1064.
+- Johnson, R.H. 1977.
+
+--- SENTENCE 972 ---
+*Exploration of three submarine volcanos in the South Pacific.*
+
+--- SENTENCE 973 ---
+Hawaii Institute of Geophysics Report, University of Hawaii.
+
+--- SENTENCE 974 ---
+Honolulu, Hawaii.
+- Join, J.L., J.L. Folio, A. Bourhane, and J.C. Comte.
+
+--- SENTENCE 975 ---
+Groundwater Resources on Active Basaltic Volcanoes: Conceptual Models from La Réunion Island and Grande Comore.
+
+--- SENTENCE 976 ---
+In *Active Volcanoes of the Southwest Indian Ocean*, 61–70.
+
+--- SENTENCE 977 ---
+Springer Berlin Heidelberg.
+- Keating, B.H., and B.R. Bolton (eds).
+
+--- SENTENCE 978 ---
+*Geology and Offshore Mineral Resources of the Central Pacific Basin*, Volume 14.
+
+--- SENTENCE 979 ---
+- Kennedy, Jenks, and Chilton Consulting Engineers.
+
+--- SENTENCE 980 ---
+*Groundwater contamination study Tafuna-Leone Plain Tutuila Island.
+
+--- SENTENCE 981 ---
+Final report for the Environmental Quality Commission, Office of the Governor, Tutuila, American Samoa.
+
+--- SENTENCE 982 ---
+168 p.
+- Knight, M.D. 2014.
+
+--- SENTENCE 983 ---
+*Assessment for alternative water resources on Tutuila, American Samoa*.
+
+--- SENTENCE 984 ---
+Report submitted to American Samoa Power Authority.
+
+--- SENTENCE 985 ---
+Knight Enterprises Inc., Honolulu, Hawaii.
+- Koppers, A.A., J.A. Russell, M.G. Jackson, J. Konter, H. Staudigel, and S.R. Hart.
+
+--- SENTENCE 986 ---
+Samoa reinstated as a primary hotspot trail.
+
+--- SENTENCE 987 ---
+*Geology* 36(6): 435–438.
+- Lachassagne, P., B. Aunay, N. Frissant, M. Guilbert, and A. Malard.
+
+--- SENTENCE 988 ---
+High‐resolution conceptual hydrogeological model of complex basaltic volcanic islands: a Mayotte, Comoros, case study.
+
+--- SENTENCE 989 ---
+*Terra Nova* 26(4): 307–321.
+
+- Lau, L.S., and J.F. Mink.
+
+--- SENTENCE 990 ---
+*Hydrology of the Hawaiian Islands*.
+
+--- SENTENCE 991 ---
+University of Hawaii Press: Honolulu, Hawaii.
+- Lim, E., L.A. Taylor, B.W. Eakins, K.S. Carignan, P.R. Grothe, R.J. Caldwell, and D.Z. Friday 2010.
+
+--- SENTENCE 992 ---
+*Digital elevation models of Pago Pago, American Samoa: procedures, data sources and analysis.
+
+--- SENTENCE 993 ---
+NOAA Technical Memorandum NESDIS NGDC-36, Dept. of Commerce, Boulder, Colorado.
+- Machesky, L.F. 1965.
+
+--- SENTENCE 994 ---
+Gravity relations in American Samoa and the Society Islands.
+
+--- SENTENCE 995 ---
+*Pacific Science* 19(3): 367–373.
+- Mayor, A.G. 1920.
+
+--- SENTENCE 996 ---
+The reefs of Tutuila, Samoa, in their relation to coral reef theories.
+
+--- SENTENCE 997 ---
+*Proceedings of the American Philosophical Society* 59(3): 224–236.
+- McDougall, I. 1985.
+
+--- SENTENCE 998 ---
+Age and evolution of the volcanoes of Tutuila, American Samoa.
+
+--- SENTENCE 999 ---
+Sci.* 39(4): 311–320.
+- Meinzer, O.E. 1923.
+
+--- SENTENCE 1000 ---
+*Outline of ground-water hydrology, with definitions.
+
+--- SENTENCE 1001 ---
+U.S. Geological Survey Water-Supply Paper 494.
+- Miller, J.A., R.L. Whitehead, D.S. Oki, S.B. Gingerich, and P.G. Olcott.
+
+--- SENTENCE 1002 ---
+*Ground Water Atlas of the United States: Segment 13, Alaska, Hawaii, Puerto Rico, and the US Virgin Islands (No. 730-N).
+
+--- SENTENCE 1003 ---
+* US Geological Survey.
+- National Parks Service (NPS).
+
+--- SENTENCE 1004 ---
+*National Park of American Samoa geologic resource evaluation report.
+
+--- SENTENCE 1005 ---
+National Park Service Report.
+
+--- SENTENCE 1006 ---
+Denver, Colorado: Geologic Resources Division.
+- Natland, J.H. 1980.
+
+--- SENTENCE 1007 ---
+The progression of volcanism in the Samoan linear volcanic chain.
+
+--- SENTENCE 1008 ---
+*American Journal of Science* 280:709–735.
+- Natland, J.H. 2003.
+
+--- SENTENCE 1009 ---
+The Samoan Chain: a shallow lithospheric fracture system.
+
+--- SENTENCE 1010 ---
+http://www. mantleplumes.org/Samoa.html
+- Pedersen Planning Consultants.
+
+--- SENTENCE 1011 ---
+*Malaeimi Valley special management area proposal*.
+
+--- SENTENCE 1012 ---
+E. Buchan, Water Program Manager, report prepared for American Samoa Environmental Protection Agency, Granby, Colorado.
+- Perreault, J.A. 2010.
+
+--- SENTENCE 1013 ---
+*Development of a water budget in a tropical setting accounting for mountain front recharge.
+
+--- SENTENCE 1014 ---
+Masters Thesis, University of Hawaii at Manoa.
+
+--- SENTENCE 1015 ---
+Honolulu, HI.
+- Regional Consultation Workshop on Water (RCWW).
+
+--- SENTENCE 1016 ---
+Proceedings of the Pacific Regional Consultation on Water in Small Island Countries—American Samoa Briefing Paper Sigatoka, Fiji, 29 July–3 August 2002.
+- Rhodes, A.L., A.J. Guswa, and S.E. Newell.
+
+--- SENTENCE 1017 ---
+Seasonal variation in the stable isotopic composition of precipitation in the tropical montane forests of Monteverde, Costa Rica.
+
+--- SENTENCE 1018 ---
+*Water Resources Research* 42, W11402, doi:10.1029/2005WR004535.
+
+--- SENTENCE 1019 ---
+- Scholl, M.A., S.B. Gingerich, S.B., and G.W. Tribble. 2002.
+
+--- SENTENCE 1020 ---
+The influence of microclimates
+
+- and fog on stable isotope signatures used in interpretation of regional hydrology: East Maui, Hawaii.
+
+--- SENTENCE 1021 ---
+*Journal of Hydrology* 264: 170–184.
+- Shuler, C., A. El-Kadi, and H. Dulaiova.
+
+--- SENTENCE 1022 ---
+*Hunting for high-level groundwater on Tutuila, American Samoa.
+
+--- SENTENCE 1023 ---
+Poster Presentation at the 2014 GSA Annual Meeting in Vancouver, British Columbia.
+
+--- SENTENCE 1024 ---
+- Shuler, C.K., A.I. El-Kadi, H. Dulai, C.R. Glenn, and J. Fackrell.
+
+--- SENTENCE 1025 ---
+Source partitioning of anthropogenic groundwater nitrogen in a mixed-use landscape, Tutuila, American Samoa.
+
+--- SENTENCE 1026 ---
+*Hydrogeology Journal* 25(8): 2419–2434.
+- Shuler C.K., M. Kirs, H. Dulai, C.R. Glenn, and A. I. El-Kadi. 2017.
+
+--- SENTENCE 1027 ---
+An isotopic and microbiological multi-tracer approach to assessing recharge mechanisms in surface water affected wells on Tutuila, American Samoa.
+
+--- SENTENCE 1028 ---
+Geological Society of America (GSA) Annual Meeting.
+
+--- SENTENCE 1029 ---
+Seattle Convention Center Seattle, WA October, 2017.
+
+--- SENTENCE 1030 ---
+https://gsa.confex.com/gsa/2017AM/webprogram/Handout/Paper297974/Shul er\_GSA\_2017-final.pdf
+- Snow, D.D., and R.F. Spalding.
+
+--- SENTENCE 1031 ---
+Short-term aquifer residence times estimated from 222Rn disequilibrium in artificially-recharged ground water.
+
+--- SENTENCE 1032 ---
+*Journal of Environmental Radioactivity* 37(3): 307–325.
+- Stearns, H.T. 1944.
+
+--- SENTENCE 1033 ---
+Geology of the Samoan islands.
+
+--- SENTENCE 1034 ---
+*Geological Society of America Bulletin* 55(11): 1279–1332.
+- Takasaki, K.J., and J.F. Mink.
+
+--- SENTENCE 1035 ---
+*Evaluation of major dike-impounded ground-water reservoirs, Island of Oahu.*
+
+--- SENTENCE 1036 ---
+Washington, DC: US Government Printing Office.
+- Tarling, D.H. 1966.
+
+--- SENTENCE 1037 ---
+The palaeomagnetism of the Samoan and Tongan Islands.
+
+--- SENTENCE 1038 ---
+*Geophysical Journal of the Royal Astronomical Society* 10(5): 497–513.
+- Thornthwaite, C.W., and J.R. Mather.
+
+--- SENTENCE 1039 ---
+*Publications in Climatology (Laboratory of Climatology)* 8(1): 1–86.
+- Tribble, G. 2008.
+
+--- SENTENCE 1040 ---
+Ground water on tropical Pacific Islands--understanding a vital resource: U.S. Geological Survey Circular 1312, 35 p.
+
+--- SENTENCE 1041 ---
+https://pubs.usgs.gov/circ/1312/.
+- Walker, G.P. 1991.
+
+--- SENTENCE 1042 ---
+Structure, and origin by injection of lava under surface crust, of tumuli, "lava rises," "lava-rise pits," and "lava-inflation clefts" in Hawaii.
+
+--- SENTENCE 1043 ---
+*Bulletin of Volcanology* 53(7): 546–558.
+- Walker, G.P., and P.R. Eyre.
+
+--- SENTENCE 1044 ---
+Dike complexes in American Samoa.
+
+--- SENTENCE 1045 ---
+*Journal of Volcanology and Geothermal Research* 69(3): 241–254.
+- Wilson, J.L., and H. Guan. 2004.
+
+--- SENTENCE 1046 ---
+Mountain-block hydrology and mountain-front recharge.
+
+--- SENTENCE 1047 ---
+In *Groundwater Recharge in a Desert Environment: The Southwestern United States*, ed. J.F. Hogan, F.M. Phillips, and B.R. Scanlon, 113–137.
+
+--- SENTENCE 1048 ---
+American Geophysical Union, Washington, D.C.
+
+- Wong, M.F. 1996.
+
+--- SENTENCE 1049 ---
+*Analysis of streamflow characteristics for streams on the island of Tutuila, American Samoa.
+
+--- SENTENCE 1050 ---
+US Geological Survey Water Resources Investigations Report No. 95-4185, Honolulu, HI.
+- Zangar, C.N. 1953.
+
+--- SENTENCE 1051 ---
+*Theory and problems of water percolation.
+
+--- SENTENCE 1052 ---
+U.S. Department of the Interior and Bureau of Reclamation Report Engineering Monograph No. 8.
+

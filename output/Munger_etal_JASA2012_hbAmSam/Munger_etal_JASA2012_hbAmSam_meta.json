@@ -1,0 +1,547 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Humpback whale (Megaptera novaeangliae) song occurrence at American Samoa in long-term passive acoustic recordings, 2008\u20132009",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.0078125,
+          35.9912109375
+        ],
+        [
+          527.1328125,
+          35.9912109375
+        ],
+        [
+          527.1328125,
+          83.25
+        ],
+        [
+          49.0078125,
+          83.25
+        ]
+      ]
+    },
+    {
+      "title": "Pollyanna Fisher-Pool",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          86.25,
+          129.0
+        ],
+        [
+          184.5,
+          129.0
+        ],
+        [
+          184.5,
+          138.8232421875
+        ],
+        [
+          86.25,
+          138.8232421875
+        ]
+      ]
+    },
+    {
+      "title": "Kevin Wong",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          85.763671875,
+          171.0
+        ],
+        [
+          141.0,
+          171.0
+        ],
+        [
+          141.0,
+          181.142578125
+        ],
+        [
+          85.763671875,
+          181.142578125
+        ]
+      ]
+    },
+    {
+      "title": "I. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.904296875,
+          463.5
+        ],
+        [
+          135.0,
+          463.5
+        ],
+        [
+          135.0,
+          472.6318359375
+        ],
+        [
+          49.904296875,
+          472.6318359375
+        ]
+      ]
+    },
+    {
+      "title": "II. MATERIALS AND METHODS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          314.666015625,
+          110.7421875
+        ],
+        [
+          455.2912292480469,
+          110.7421875
+        ],
+        [
+          455.2912292480469,
+          120.88385009765625
+        ],
+        [
+          314.666015625,
+          120.88385009765625
+        ]
+      ]
+    },
+    {
+      "title": "III. RESULTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          313.76953125,
+          694.9072265625
+        ],
+        [
+          374.73046875,
+          694.9072265625
+        ],
+        [
+          374.73046875,
+          708.1087951660156
+        ],
+        [
+          313.76953125,
+          708.1087951660156
+        ]
+      ]
+    },
+    {
+      "title": "IV. DISCUSSION",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          50.203125,
+          193.0078125
+        ],
+        [
+          125.96089172363281,
+          193.0078125
+        ],
+        [
+          125.96089172363281,
+          204.1090087890625
+        ],
+        [
+          50.203125,
+          204.1090087890625
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          51.099609375,
+          486.0791015625
+        ],
+        [
+          154.31175231933594,
+          486.0791015625
+        ],
+        [
+          154.31175231933594,
+          497.38128662109375
+        ],
+        [
+          51.099609375,
+          497.38128662109375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          92
+        ],
+        [
+          "Span",
+          57
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageFooter",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          365
+        ],
+        [
+          "Line",
+          136
+        ],
+        [
+          "TableCell",
+          37
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          85
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          338
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          382
+        ],
+        [
+          "Line",
+          132
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "PageFooter",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Munger_etal_JASA2012_hbAmSam"
+}

@@ -1,0 +1,289 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PROCEEDINGS OF THE FOURTEENTH ANNUAL SYMPOSIUM ON SEA TURTLE BIOLOGY AND CONSERVATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.70515970515971,
+          8.89453125
+        ],
+        [
+          412.9115479115479,
+          8.25
+        ],
+        [
+          412.9115479115479,
+          35.96484375
+        ],
+        [
+          54.70515970515971,
+          35.96484375
+        ]
+      ]
+    },
+    {
+      "title": "SATELLITE TELEMETRY OF GREEN TURTLES NESTING AT FRENCH FRIGATE SHOALS, HAWAII, AND ROSE ATOLL, AMERICAN SAMOA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.76171875,
+          69.609375
+        ],
+        [
+          544.8034398034398,
+          69.609375
+        ],
+        [
+          544.8034398034398,
+          94.359375
+        ],
+        [
+          60.76171875,
+          95.25
+        ]
+      ]
+    },
+    {
+      "title": "METHODS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          67.314453125,
+          534.05859375
+        ],
+        [
+          120.65110565110565,
+          534.05859375
+        ],
+        [
+          120.65110565110565,
+          544.5
+        ],
+        [
+          67.314453125,
+          544.5
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          82.5,
+          50.25
+        ],
+        [
+          127.5,
+          50.25
+        ],
+        [
+          127.5,
+          59.25
+        ],
+        [
+          82.5,
+          59.25
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          87.0,
+          626.25
+        ],
+        [
+          198.75,
+          626.25
+        ],
+        [
+          198.75,
+          636.0
+        ],
+        [
+          87.0,
+          636.0
+        ]
+      ]
+    },
+    {
+      "title": "LITERATURE CITED",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          64.248046875,
+          102.75
+        ],
+        [
+          161.25,
+          102.75
+        ],
+        [
+          161.25,
+          111.76171875
+        ],
+        [
+          64.248046875,
+          111.76171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          67
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          55
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          41
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          37
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Balazs-1994-Satellite.tele.green.turtle.Hawaii.AS"
+}

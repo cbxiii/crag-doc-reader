@@ -1,0 +1,221 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Turtle and Marine Mammmal Conservation Activities in American Samoa",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          116.7578125,
+          34.5
+        ],
+        [
+          475.85995085995086,
+          34.69921875
+        ],
+        [
+          475.85995085995086,
+          56.25
+        ],
+        [
+          116.15479115479116,
+          56.25
+        ]
+      ]
+    },
+    {
+      "title": "A. SEA TURTLE STATUS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          226.31449631449632,
+          274.5
+        ],
+        [
+          373.94348894348894,
+          274.5
+        ],
+        [
+          373.94348894348894,
+          284.25
+        ],
+        [
+          226.31449631449632,
+          284.25
+        ]
+      ]
+    },
+    {
+      "title": "B. MARINE MAMMAL STATUS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          216.8359375,
+          66.0
+        ],
+        [
+          388.9312039312039,
+          66.0
+        ],
+        [
+          388.9312039312039,
+          75.75
+        ],
+        [
+          216.8359375,
+          75.75
+        ]
+      ]
+    },
+    {
+      "title": "Literature Cited",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          246.54791154791155,
+          413.40234375
+        ],
+        [
+          365.7002457002457,
+          413.40234375
+        ],
+        [
+          365.7002457002457,
+          423.0
+        ],
+        [
+          246.54791154791155,
+          423.0
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          48
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          47
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          48
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Craig-1993-Turtle.marine.mammal.conserv.AS-Copy"
+}

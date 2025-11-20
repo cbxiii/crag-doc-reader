@@ -1,0 +1,1538 @@
+--- SENTENCE 1 ---
+**Vol. 489: 43–59, 2013** doi: 10.3354/meps10432
+
+#### MARINE ECOLOGY PROGRESS SERIES Mar Ecol Prog Ser
+
+**Published August 28** 
+
+!
+
+--- SENTENCE 2 ---
+# Consequences of the life history traits of pelagic larvae on interisland connectivity during a changing climate
+
+Matthew S. Kendall<sup>1,\*</sup>, Matthew Poti<sup>1,2</sup>, Timothy T. Wynne<sup>3</sup>, Brian P. Kinlan<sup>1,2</sup>, Laurie B. Bauer<sup>1,2</sup>
+
+<sup>1</sup>NOAA National Ocean Service, National Centers for Coastal Ocean Science (NCCOS), Center for Coastal Monitoring and Assessment (CCMA), Biogeography Branch, 1305 East-West Hwy, Silver Spring, Maryland 20910-3281, USA
+<sup>2</sup>Consolidated Safety Services, Inc., 10301 Democracy Lane, Suite 300, Fairfax, Virginia 22030, USA
+<sup>3</sup>NOAA National Ocean Service, NCCOS, CCMA, Coastal Ocean Assessments, Status, and Trends Branch, 1305 East-West Hwy, Silver Spring, Maryland 20910-3281, USA
+
+ABSTRACT:
+
+--- SENTENCE 3 ---
+Many coral reef organisms possess a pelagic larval phase during which some larvae are retained near spawning sites and others are dispersed to more distant locations via ocean currents.
+
+--- SENTENCE 4 ---
+Planktonic duration, distances traveled, and recruitment success can vary due to natural development rate, mortality rate, and sensory and swimming capabilities of particular taxa.
+
+--- SENTENCE 5 ---
+Elevated water temperatures and acidification due to climate change can also influence recruitment by generally accelerating metabolism and growth, raising mortality rate, impairing development of calcified structures, and reducing sensory capabilities.
+
+--- SENTENCE 6 ---
+We used hydrodynamic models and drifter data to investigate these various life history and climate-related influences on larval connectivity in and around the Samoan Archipelago.
+
+--- SENTENCE 7 ---
+In general, virtual larvae spawned in the Samoan Archipelago seeded their natal reefs with relatively short-lived larvae, and their island neighbors to the west with longer-lived larvae.
+
+--- SENTENCE 8 ---
+Larval duration, mortality rate, and sensory zone variables all had a significant effect on connectivity.
+
+--- SENTENCE 9 ---
+Effect size was largest for mortality rate followed by larval duration.
+
+--- SENTENCE 10 ---
+Shortened larval longevity due to climate change reduced interisland connectivity and changed the life history traits (and therefore taxa) that result in successful connections.
+
+--- SENTENCE 11 ---
+Islands will generally become increasingly more reliant on self-seeding as the ocean warms, although the role of most islands primarily as a source or destination was robust to climate change.
+
+--- SENTENCE 12 ---
+KEY WORDS: Biogeography  $\cdot$  Climate change  $\cdot$  Connectivity  $\cdot$  Dispersal  $\cdot$  Pelagic larval duration  $\cdot$  Samoan Archipelago
+
+- Resale or republication not permitted without written consent of the publisher -
+
+#### INTRODUCTION
+
+A variety of physical and biotic factors can affect the transport of marine fish and invertebrate larvae among locations.
+
+--- SENTENCE 13 ---
+Most obviously it is necessary to understand the speed, direction, and seasonality of the ocean currents by which larvae are transported.
+
+--- SENTENCE 14 ---
+It is also necessary to understand how aspects of the larvae themselves can affect their transport.
+
+--- SENTENCE 15 ---
+Size of source populations, timing of spawning, duration of the larval period, mortality rates, and sensory and swimming capabilities can all affect the probability that larvae will be transported from a source location to a particular destination (Leis 2007, Siegel et al. 2008, Treml et al. 2008, Cowen & Sponaugle 2009).
+
+--- SENTENCE 16 ---
+These factors are incompletely understood for most
+
+species, and values can range widely even among related taxa such that connectivity patterns of one species will not necessarily predict those of another (Byrne 2012).
+
+--- SENTENCE 17 ---
+Further complications arise in that several of these factors are likely in flux due to climate change (Munday et al. 2009b, Luo & Rothstein 2011, Byrne 2012).
+
+--- SENTENCE 18 ---
+Ocean temperatures have been increasing and pH levels have been decreasing, although the magnitude and spatial variability of these trends are being refined (Folland et al. 2003, IPCC 2007).
+
+--- SENTENCE 19 ---
+Climate change not only alters ocean temperature, chemistry, currents, and stratification, but it can also affect larvae themselves.
+
+--- SENTENCE 20 ---
+Warmer water generally increases larval development rate and shortens the time required for larvae to become competent to settle (O'Connor et al. 2007).
+
+--- SENTENCE 21 ---
+Empirical studies on reef fish larvae suggest a 4 to 8% reduction in larval duration for every 1°C increase in ocean temperature (McCormick & Molony 1995, Green & Fisher 2004, Sponaugle et al. 2006, Munday et al. 2009b, Rankin & Sponaugle 2011, but see Booth & Parkinson 2011).
+
+--- SENTENCE 22 ---
+Temperatures above growth optima have been shown to negatively affect respiration, fitness, and mortality of coral planulae larvae in a diversity of genera (Edmunds et al. 2001, 2011, Bassim & Sammarco 2003, Randall & Szmant 2009, Heyward & Negri 2010, Rankin & Sponaugle 2011).
+
+--- SENTENCE 23 ---
+Acidification levels predicted to occur by the end of this century have been shown to impair larval homing, hinder calcifi cation, reduce larval size, depress coral and fish recruitment, and increase mortality of larval fish and invertebrates (McCormick & Molony 1995, Przeslawski et al. 2008, Munday et al. 2009a, 2010, Byrne 2012, Doropoulos et al. 2012).
+
+--- SENTENCE 24 ---
+Interactions between warming and acidification are poorly understood and may partly offset or act synergistically depending on taxa (Byrne 2012).
+
+--- SENTENCE 25 ---
+These various life history and climate-related in fluences make it necessary to explore connectivity through a range of scenarios to achieve a more complete understanding of their potential effects on larval transport.
+
+--- SENTENCE 26 ---
+By simulating connectivity through a range of life history parameters, the connectivity expected in today's ocean environment can be compared among life history traits or tailored to specific taxa when life history parameters are known.
+
+--- SENTENCE 27 ---
+Having calculated connectivity through a range of values, it becomes possible to then shift predictions to shorter larval durations, higher mortalities, or re duced sensory capabilities that are expected in a warmer and more acidic ocean environment due to climate change.
+
+--- SENTENCE 28 ---
+Island systems provide an effective model to evaluate the complex tradeoffs in the factors affecting connectivity because they often involve different sizes of source populations, represent discrete spawning sites and destinations, and possess a range of inter island distances.
+
+--- SENTENCE 29 ---
+In this study, we focus on islands and shallow seamounts of the Samoan Archipelago due to several recent management initiatives that will be improved with an understanding of larval connectivity.
+
+--- SENTENCE 30 ---
+These include selection of marine protected areas (MPAs; Johannes 2002, ONMS 2012), the goal of protecting 20% of reefs in American Samoa as no-take zones (Oram 2008), and an international environmental collaboration with the adjacent nation of Samoa ('2 Samoas Initiative').
+
+--- SENTENCE 31 ---
+Selecting fisheries targets and appropriate placement of MPAs are often improved by knowledge of larval source/destination patterns and distances of larval import and export (Gaines et al. 2003, Almany et al. 2007, McCook et al. 2009).
+
+--- SENTENCE 32 ---
+Many marine organisms important to coral ecosystems of the south Pacific possess a pelagic larval phase.
+
+--- SENTENCE 33 ---
+Bony fish, broadcast spawning corals, giant clams, crown-of-thorns starfish, and a diversity of other fauna are subject to transport by ocean currents for at least some portion of their larval life.
+
+--- SENTENCE 34 ---
+To place the Samoan Archipelago into regional context and understand key import and export pathways for larval connectivity more broadly, as must be done in regional management or MPA network planning, we also included the surrounding island nations (Fig. 1).
+
+--- SENTENCE 35 ---
+There are 3 main ocean currents in this region (Fig. 1).
+
+--- SENTENCE 36 ---
+The South Equatorial Current (SEC) flows west/southwestward along the northern edge of the study area, with year-long flow, strongest from March to July at ~25 cm s−1 (Kessler & Taft 1987, Kendall & Poti 2011).
+
+--- SENTENCE 37 ---
+Overlying the SEC between ~8° and 12° S is the eastward flowing South Equa torial Counter Current (SECC; Kessler & Taft 1987, Chen & Qiu 2004, Domokos et al. 2007, Kendall & Poti 2011).
+
+--- SENTENCE 38 ---
+The eastern end of this current typically weakens and narrows to the east and then generally curls south between ~160° and 170° W and ultimately joins the southern component of the SEC headed west across the Samoan Archipelago (Chen & Qiu 2004, Kendall & Poti 2011).
+
+--- SENTENCE 39 ---
+The seasonal SECC is typically well developed by October, achieves peak speed (22 to 30 cm s−1) and width during January, and dissipates by May (Chen & Qiu 2004, Qiu & Chen 2004, Kendall & Poti 2011).
+
+--- SENTENCE 40 ---
+South of the SECC, the SEC continues its generally westward flow between ~13° and 19° S; however, in contrast to the northern component of the SEC de scribed above, this region is
+
+!
+
+--- SENTENCE 41 ---
+Major currents in the Samoan Archipelago study region.
+
+--- SENTENCE 42 ---
+HYCOM grid cells are shown with islands represented as black cells and coastal grid cells colored according to potential reef ecosystem area and modeled larval production.
+
+--- SENTENCE 43 ---
+Dashed lines denote the 20 islands/island groups used in the study.
+
+--- SENTENCE 44 ---
+Red lines denote American Samoa, green denotes Samoa
+
+characterized by many irregular meanders and eddies (Domokos et al. 2007, Kendall & Poti 2011).
+
+--- SENTENCE 45 ---
+Our general approach was to evaluate a range of model parameters that have the potential to affect dispersal (Leis 2007) rather than narrowly specifying values for the life history and behaviors of a particular species according to present climate conditions.
+
+--- SENTENCE 46 ---
+We examined how a wide range of combinations of larval durations, sensory and swimming capabilities, and mortality rates reported in the scientific literature may impact the connectivity of Samoan reef ecosystems.
+
+--- SENTENCE 47 ---
+This allows results to be contrasted among taxa with known larval parameters, compared for current or projected climate conditions, and re evaluated once larval parameters are defined for less studied species.
+
+--- SENTENCE 48 ---
+The objectives of this study were to:
+
+- (1) Describe the transport pathways of virtual larvae among island sources in and around the Samoan Archipelago;
+- (2) Quantify and compare the influence of various combinations of larval life history characteristics (i.e. longevity, daily mortality rate, sensory/swimming capabilities) on successful settlement and connectivity patterns;
+- (3) Quantify each island's role as a source or destination of successfully settling larvae;
+- (4) Quantify each island's dependence on local larval production relative to external larval sources;
+- (5) Evaluate how climate change, specifically re duced larval longevity, may alter connectivity among islands.
+
+--- SENTENCE 49 ---
+#### **METHODS**
+
+Two datasets were used to quantify larval connections: actual ocean current data from passive drifters and transport simulations of virtual larvae based on a hydrodynamic model.
+
+--- SENTENCE 50 ---
+The NOAA Global Drifter Program (www.aoml.noaa.gov/phod/dac/gdp.html) uses satellites to track drogues deployed at 15 m depth.
+
+--- SENTENCE 51 ---
+Drifter position, speed, and heading are calculated every 6 h.
+
+--- SENTENCE 52 ---
+These data were used to validate the current vectors of the hydrodynamic model and select realistic diffusion parameters.
+
+--- SENTENCE 53 ---
+The Hybrid Coordinate Oceanographic Model (HYCOM) is a 3-dimensional hydrodynamic model (Bleck & Boudra 1981, Bleck & Benjamin 1993, Halliwell et al. 1998, Christie et al. 2010) with a horizontal resolution of 1/12° (approximately 9 by 9 km grid cells) and a 1 d time step.
+
+--- SENTENCE 54 ---
+We used the Global Hindcast modeled dataset downloaded in NetCDF format from the HYCOM consortium via the NASA/REASON Ocean Data Portal using Matlab OPeNDAP Toolbox version 2.0 (www.
+
+--- SENTENCE 55 ---
+org/ Toolbox/ toolbox .html).
+
+--- SENTENCE 56 ---
+Current vectors for the 0−10 m depth layer from 2004 to 2009 were used.
+
+--- SENTENCE 57 ---
+These years represent a typical 6 yr period of various El Niño and La Niña conditions.
+
+--- SENTENCE 58 ---
+The 9 km model resolution is not sufficient to capture local currents close to shore (Swearer et al. 1999, Harlan et al. 2002), and we therefore used it only to evaluate broader scales of larval transport among islands.
+
+#### **HYCOM validation**
+
+Modeled currents from HYCOM were compared to drifter data on daily and monthly timescales.
+
+--- SENTENCE 59 ---
+To evaluate daily current vectors, average daily latitudinal and longitudinal drifter velocities were compared to the corresponding average daily model velocities at 100 randomly chosen drifter dates/positions using linear regression.
+
+--- SENTENCE 60 ---
+To evaluate the modeled current vectors on longer timescales, average monthly current vectors were plotted over the tracks of drifters present (216 total) during the corresponding month/ year.
+
+--- SENTENCE 61 ---
+Drifter positions were color-coded by heading, and vectors were plotted on a 1/3° grid to visualize comparisons.
+
+#### **Larval sources**
+
+Virtual larvae were started at each of 20 island groups and shallow seamounts in the study area (Fig. 1).
+
+--- SENTENCE 62 ---
+Islands and seamounts close together were grouped for analysis especially at the edges of the study region to simplify and focus presentation of the results on the Samoan Archipelago.
+
+--- SENTENCE 63 ---
+Only the northern extent of the Tonga chain and eastern Wallis chain were included as larval sources since preliminary analysis indicated that most larvae from more outlying locations quickly left the study area to the west.
+
+--- SENTENCE 64 ---
+Larval production was scaled to the area of each island's potential coral reef habitat.
+
+--- SENTENCE 65 ---
+This was the only surrogate available for the entire region and was defined as the area shallower than the 150 m isobath.
+
+--- SENTENCE 66 ---
+This captures the approximate depth limits of both photic and mesophotic coral communities (Bare et al. 2010, Mesophotic Coral Ecosystems: www.
+
+--- SENTENCE 67 ---
+Initially, a set of 10 000 larvae were randomly distributed within each coastal grid cell in HYCOM.
+
+--- SENTENCE 68 ---
+This number of larvae was then adjusted based on the proportion of the grid cell with water depths between 0 and 150 m. This provided a very large but computationally reasonable number of virtual larvae that could be 'spawned' or started moving in transport simulations on any date specified.
+
+#
+
+--- SENTENCE 69 ---
+**Mass spawning events and start dates of larval transport**
+
+Many coral species, reef fish, and other organisms in the study region have a well-documented annual mass spawning (Mildner 1987, 1991, Itano & Buckley 1988, Mundy & Green 1996) which was the focus of our simulations.
+
+--- SENTENCE 70 ---
+Spawning dates for each model year were identified as 6 d after the first full moon to occur later than 12 October (Mundy & Green 1996, Craig 2009).
+
+--- SENTENCE 71 ---
+It is recognized that some spawning can occur across several days or even following successive full moons in October and November.
+
+--- SENTENCE 72 ---
+Preliminary tests indicated that transport patterns did not differ substantially when start dates were separated by even as much as a month among various phases of the moon, a finding similar to other studies (James et al. 2002) and consistent with time scales of variation in ocean current patterns within the region.
+
+#### **Larval transport and current model uncertainty**
+
+In simulations, virtual larvae began at random locations within each coastal grid cell and moved in the direction and speed specified by the corresponding HYCOM vectors for that date and position.
+
+--- SENTENCE 73 ---
+The General NOAA Operational Modeling Environment (GNOME v.1.3.0)
+
+--- SENTENCE 74 ---
+(Zelenke et al. 2012) was used to track positions of virtual larvae based on procedures modified from Wynne et al. (2011).
+
+--- SENTENCE 75 ---
+At this stage, all virtual larvae were treated as immortal, non-settling particles.
+
+--- SENTENCE 76 ---
+Custom scripts in ArcGIS 9.3 were applied to GNOME outputs to simulate the various life history scenarios described in subsequent sections.
+
+--- SENTENCE 77 ---
+Random variability in larval paths originating from the same location is an important aspect of connectivity studies (Polovina et al. 1999, Cowen et al. 2000, Siegel et al. 2003, Kobayashi 2006, Chiswell & Booth 2008, Treml et al. 2008, Rudorff et al. 2009).
+
+--- SENTENCE 78 ---
+GNOME enables a controlled amount of random variability to be applied to vectors at each time step (see Zelenke et al. 2012 for technical details).
+
+--- SENTENCE 79 ---
+This was used to simulate the stochasticity in larval paths arising from both sub-grid-scale turbulent processes as well as diffusion.
+
+--- SENTENCE 80 ---
+To identify an appropriate level of variability in HYCOM vectors, actual current paths tracked by drifters were compared to paths predicted by HYCOM for virtual larvae originating at the same date and location as the drifters.
+
+--- SENTENCE 81 ---
+We ran test models using random perturbations in current vectors ranging from 10 to 50% of down-current and cross-current velocity.
+
+--- SENTENCE 82 ---
+Model and drifter paths were compared while recognizing that a given drifter represents only one possible track out of a potential distribution that reflects variation in drift.
+
+--- SENTENCE 83 ---
+Using 50% uncertainty nearly always en compassed drifter tracks and provided reasonable clouds of larval pathways which highlighted more likely tracks while also depicting less likely, but still possible, pathways.
+
+--- SENTENCE 84 ---
+All subsequent model runs were conducted using 50% uncertainty in downcurrent and across-current vectors to reflect this realistic level of variability.
+
+--- SENTENCE 85 ---
+# **Precompetency**
+
+Spawned gametes, fertilized eggs, and young larvae must spend some time developing and cannot immediately swim or settle even if they encounter suitable habitat.
+
+--- SENTENCE 86 ---
+This planktonic phase prior to achieving a body form capable of settlement is termed precompetency.
+
+--- SENTENCE 87 ---
+For a wide variety of reef fish species it is evident that individuals begin to settle once 60 to 90% of their maximum larval lifespan, termed pelagic larval duration, has elapsed (calculated from values reported by Victor 1986, Thresher et al. 1989, Wellington & Victor 1989, and Juncker et al. 2006).
+
+--- SENTENCE 88 ---
+Precompetency periods for coral larvae are less known and appear somewhat more variable (Harrison et al. 1984, Wilson & Har rison 1998, Miller & Mundy 2003, Graham et al. 2008, Jones et al. 2009).
+
+--- SENTENCE 89 ---
+To simulate this developmental period here, virtual larvae were prevented from settlement until a minimum of 60% of their maximum pelagic larval duration (see next section) was completed.
+
+#### **Pelagic larval duration**
+
+Pelagic larval duration (PLD) is defined as the period of development spent in the water column as plankton.
+
+--- SENTENCE 90 ---
+Total PLD is a composite of early development, onset of larval behaviors for some taxa (feeding, vertical migration, swimming), precompetency, and maximum larval lifespan (see Leis 2006 for a summary of fish larvae and Harrison & Wallace 1990 for coral larvae behaviors).
+
+--- SENTENCE 91 ---
+Larvae simply die in the plankton at the end of their PLD if they lack a suitable settlement habitat or energy source.
+
+--- SENTENCE 92 ---
+PLD is quite varied among coral reef organisms and can last for days, weeks, or months (e.g. Bonhomme & Planes 2000, Blanco-Martin 2006, Juncker et al. 2006, Graham et al. 2008).
+
+--- SENTENCE 93 ---
+There can be variability within genera or even among individuals of the same species (Wilson & Harrison 1998, McCormick 1999, Juncker et al. 2006), with influences such as water temperature and availability of suitable settlement habitat (McCormick & Molony 1995, Munday et al. 2009b, Heyward & Negri 2010).
+
+--- SENTENCE 94 ---
+In addition, some larvae can lengthen their time as plankton by delaying or partly reversing metamorphosis until a suitable habitat is encountered (Richmond 1985, McCormick 1999).
+
+--- SENTENCE 95 ---
+Although some PLDs >200 d are documented (e.g. some corals, Graham et al. 2008), these are relatively rare, and preliminary tests revealed that many tracked particles left our study area after >100 d.
+
+--- SENTENCE 96 ---
+We therefore evaluated PLDs of 10, 20, 30, 50, and 100 d, which encompasses the range of PLDs expected for a wide variety of the fishes and corals of the region (e.g. summary tables in Bonhomme & Planes 2000, Blanco-Martin 2006, Graham et al. 2008, Jones et al. 2009).
+
+--- SENTENCE 97 ---
+Note that PLD for fish taxa can be reported as the number of days until a settlement mark is observed on an otolith, but some taxa may develop sufficiently to be considered nekton rather than plankton at an earlier time.
+
+--- SENTENCE 98 ---
+In such cases, it may be more appropriate to consider the shorter duration of only the planktonic portion of their PLD in our results, rather than their total PLD.
+
+--- SENTENCE 99 ---
+Equally important, this range of intervals also allows predictions to be shifted toward shorter PLDs expected under increased ocean temperatures due to climate change.
+
+--- SENTENCE 100 ---
+#### **'Settlement zone' buffers**
+
+Some larvae can sense reefs from some distance away through odor plumes or even sound and may perform behaviors that help them reach desirable settlement habitats including vertical migrations into current fields moving toward reefs, intentional en trainment into coastal eddies to avoid extensive offshore transport (Swearer et al. 1999, Harlan et al. 2002, Paris et al. 2007), or simply out-swimming the currents in which they are embedded (Atema et al. 2002, Leis 2002, 2006, 2007, Gerlach et al. 2007).
+
+--- SENTENCE 101 ---
+For as much as the last 50% of their PLD, some fish larvae are capable of sustained directional swimming that is sufficient to overcome their treatment as merely passive particles (Leis & Carson-Ewart 2003, Fisher 2005, Leis 2006).
+
+--- SENTENCE 102 ---
+Although the precise distance at which fish larvae can begin to orient towards reefs and the effectiveness of such mechanisms against ambient currents are topics of active debate, it is clear that some larvae need simply to come within a 'settlement zone' sufficiently close such that they can sense and swim to the settlement habitat.
+
+--- SENTENCE 103 ---
+Buffers of appropriate size around suitable habitats are used to represent this 'settlement zone' depending on the species under investigation (Lugo-Fernández et al. 2001, James et al. 2002, Cowen et al. 2006, Chiswell & Booth 2008).
+
+--- SENTENCE 104 ---
+In our simulations, if a larva passed into an island's settlement zone after its pre competency period, it was considered to have successfully settled at that island.
+
+--- SENTENCE 105 ---
+We investigated a range of potential settlement zone distances around islands and seamounts including 9 km (resolution of HYCOM grid cells, most representative of coral planulae or poorly-swimming fish larvae), 18 km (representative of swimming larvae with moderate range), and 36 km (representative of strong-swimming fish larvae with good sensory capabilities) to accommodate a wide spectrum of organisms and potential sensory and swimming capabilities.
+
+--- SENTENCE 106 ---
+Equally important, these inter vals allow predictions to shift toward smaller buffer categories as sensory abilities are hampered due to climate change (e.g. Munday et al. 2009a).
+
+####
+
+--- SENTENCE 107 ---
+**Mortality**
+
+Mortality in larval populations has a significant effect on successful recruitment.
+
+--- SENTENCE 108 ---
+Mortality estimates for fish larvae of a diversity of taxa show a wide range from 3 to 46% d−1 with a mode of 18% (Cowen et al. 2000).
+
+--- SENTENCE 109 ---
+Coral planulae had a similar range of daily mortality rates at reduced, ambient, and elevated rearing temperatures that could simulate ocean warming (e.g. Edmunds et al. 2001, Bassim & Sammarco 2003).
+
+--- SENTENCE 110 ---
+We investigated the influence of this range of daily mortality rates (3, 18, and 46%) in separate simulations.
+
+--- SENTENCE 111 ---
+For each rate, these percentages of the larval population were randomly selected and removed from the larvae remaining at each daily time step.
+
+--- SENTENCE 112 ---
+### **Data analysis**
+
+Results are first summarized as connectivity matrices that display the sources and destinations of all the virtual larvae tracked in the study.
+
+--- SENTENCE 113 ---
+Southern Tonga and western Wallis Islands were modeled only as destinations.
+
+--- SENTENCE 114 ---
+For each PLD, buffer size, and mortality rate, we counted the number of simulated larvae released at each source location that traveled to each of the possible destination locations.
+
+--- SENTENCE 115 ---
+Values are cumulated over all 5 model years.
+
+--- SENTENCE 116 ---
+Matrix cells denote the proportion of larvae from each source (rows) that arrived at a given destination (columns).
+
+--- SENTENCE 117 ---
+Rows thus sum to a number ≤100%.
+
+--- SENTENCE 118 ---
+Columns can sum to >100%, because it is possible for a high proportion of the larvae produced at several sources to travel to the same destination.
+
+--- SENTENCE 119 ---
+Note that connectivity calculated in this way depicts the pattern of larval transport pathways, without considering the variation in number of larvae produced at each source due to differences in island size.
+
+--- SENTENCE 120 ---
+Multi-factor ANOVA was used to evaluate the significance and magnitude of effects due to PLD, mortality, and buffer size.
+
+--- SENTENCE 121 ---
+Data were pooled across years, and all 2-way interactions were included.
+
+--- SENTENCE 122 ---
+Results of these initial tests guided additional aspects of the analyses.
+
+--- SENTENCE 123 ---
+The ANOVA and connectivity matrices re vealed that, compared to mortality and PLD, the magnitude of settlement rates was only somewhat affected by buffer distance, and the spatial patterns of connectivity were relatively unaffected.
+
+--- SENTENCE 124 ---
+In contrast, the mortality levels that we investigated did have a large effect, causing mostly or even all 0s in some connectivity matrices calculated at high mortality.
+
+--- SENTENCE 125 ---
+For these 2 reasons and because the effect of climate change is best understood for PLD, we therefore focus on PLD alone in the next components of the analysis.
+
+--- SENTENCE 126 ---
+Focusing only on the islands of the Samoan Archipelago, the proportion of each island's settlers from local versus external sources at various PLDs was evaluated using pie charts and a simple linear regression.
+
+--- SENTENCE 127 ---
+All larvae produced from island X and successfully returning there were summed separately for each PLD.
+
+--- SENTENCE 128 ---
+All larvae produced elsewhere but settling at island X were similarly summed.
+
+--- SENTENCE 129 ---
+These values were converted to proportions of total settlers at island X from internal and external sources for each PLD.
+
+--- SENTENCE 130 ---
+Pie charts display how proportions change with PLD for each island.
+
+--- SENTENCE 131 ---
+To test for trends and significance in reliance on self-seeding by PLD, simple linear regression was used on percent of settlers produced locally (logit transformed) versus PLD.
+
+--- SENTENCE 132 ---
+Each island's role as primarily a source or a destination by PLD was evaluated using bar charts.
+
+--- SENTENCE 133 ---
+The number of larvae produced at island X that suc cessfully settled anyplace else was summed by PLD.
+
+--- SENTENCE 134 ---
+This represents the island's role as a 'source' of larvae.
+
+--- SENTENCE 135 ---
+The number of larvae produced anyplace else that successfully settled at island X was similarly summed.
+
+--- SENTENCE 136 ---
+This represents the island's role as a 'destination' of larvae.
+
+--- SENTENCE 137 ---
+These values were plotted for each island by PLD on the *x*-axis.
+
+--- SENTENCE 138 ---
+Bars above the axis denote source values and those below denote destination values so these relative roles can be compared.
+
+--- SENTENCE 139 ---
+Note that this is different than the previous analysis in that self-seeding is not included in the calculations and actual numbers of larvae are shown to understand the magnitude of each island's role as a source or destination.
+
+#### **RESULTS**
+
+#### **HYCOM validation**
+
+Linear regression of average daily drifter and model velocities at 100 randomly chosen dates/ positions showed a significant positive relationship in both the latitudinal (p < 0.0001, slope = 0.7, R<sup>2</sup> = 0.32) and longitudinal velocities (p < 0.0001, slope = 0.5, R<sup>2</sup> = 0.16) and more importantly, drifter and model velocities were scattered around the 1:1 line of overall agreement (Fig. 2).
+
+--- SENTENCE 140 ---
+Model vectors tended to be biased toward slightly weaker velocity at high and low values of U (east/west component of vector) with no directional bias in V (north/south component of vector).
+
+--- SENTENCE 141 ---
+Note that these comparisons were not ex pected to provide a perfect 1:1 match of velocities given the inherent differences in drifter data (15 m drogue depth with interpolated position from satellite tracking) and model data (0−10 m surface layer with interpolated position and velocity from 9 km grid) and were used only to demonstrate that modeled circulation is broadly representative of regional currents, while also highlighting the uncertainty associated with the models' lack of resolution of subgrid turbulence.
+
+--- SENTENCE 142 ---
+Current vectors from HYCOM also corresponded well to drifter paths in qualitative overlay comparisons on a monthly timescale (Fig. 2).
+
+--- SENTENCE 143 ---
+The validation procedures conducted by the HYCOM consortium (http://hycom.org) coupled with our independent, regional assessments indicate that HYCOM provides a realistic representation of actual transport processes on both short (<daily) and long (monthly) timescales.
+
+--- SENTENCE 144 ---
+## **Larval sources**
+
+Based on potential reef area alone, the major sources of larvae in the study region are likely to be Upolu (~25% of the total larvae), Savai'i (~15%), and the Wallis Island group (~15%; Table 1).
+
+--- SENTENCE 145 ---
+Moving east along the Samoan Archipelago, the islands of Tutuila and Manu'a are smaller, have much less potential reef area, and therefore have smaller potential spawning populations.
+
+--- SENTENCE 146 ---
+Swains Island and the seamounts of American Samoa probably contribute relatively little to the larval pool due to their very small size.
+
+### **Overall patterns of larval connectivity**
+
+All 3 life history variables had a significant individual effect on connectivity (ANOVA, *F*28,16 = 112.12, p < 0.0001) including PLD *(F*<sup>4</sup> = 157.2, p < 0.0001), mortality rate *(F*<sup>2</sup> = 935.4, p < 0.0001), and buffer size *(F*<sup>2</sup> = 26.2, p < 0.0001) as did 2-way interactions (PLD × mortality p < 0.0001, PLD × buffer p < 0.0439, mortality
+
+--- SENTENCE 147 ---
+× buffer p <0.0001).
+
+--- SENTENCE 148 ---
+The magnitude of the effects on connectivity due to these variables differed considerably.
+
+--- SENTENCE 149 ---
+The effect was smallest for buffer size.
+
+--- SENTENCE 150 ---
+Between the smallest and largest buffer sizes that we considered, there was a mean ± SD decline of 37 ± 2% (range 34−43%) in total larvae settled for a given combination of PLD and mortality (Fig. 3).
+
+--- SENTENCE 151 ---
+This effect was slightly greater at higher mortality levels.
+
+--- SENTENCE 152 ---
+The effect size was huge for mortality.
+
+--- SENTENCE 153 ---
+From the lowest to highest mortality rates that we considered, there was an average decline of 99 ± 1% (range 97−100%) in total larvae settled with no virtual larvae surviving the medium to high mortality rates for the longer PLDs.
+
+--- SENTENCE 154 ---
+Effect size was most severe for longer PLDs.
+
+--- SENTENCE 155 ---
+The effect size for PLD was also very large.
+
+--- SENTENCE 156 ---
+From the shortest to longest PLD that we examined, there was an average decline of 88 ± 0.1% (range 87−88%) in total larvae settled.
+
+--- SENTENCE 157 ---
+Note that only the low mortality
+
+!
+
+--- SENTENCE 158 ---
+Daily and monthly HYCOM validation.
+
+--- SENTENCE 159 ---
+Comparison of current vectors for HYCOM versus drifters at 100 randomly chosen positions and dates.
+
+--- SENTENCE 160 ---
+Comparisons for the (a) latitudinal (U) and (b) longitudinal (V) vectors are plotted against the ideal 1:1 line of perfect agreement.
+
+--- SENTENCE 161 ---
+(c) Example from January 2007 of monthly plots of average HYCOM vectors at 1/3° resolution overlayed on drifter position/heading
+
+rate could be included in this comparison since no virtual larvae survived to the 100 d PLD at medium or high mortality.
+
+--- SENTENCE 162 ---
+The connectivity matrices reveal broad patterns of overall larval transport and several island groups with strong internal connectivity (Fig. 4).
+
+--- SENTENCE 163 ---
+Beginning at the origin of the connectivity matrices (western end of the study area)
+
+--- SENTENCE 164 ---
+it is clear that Wallis, Tonga, and the many small islands and seamounts associated with them are strongly interconnected but con-
+
+Table 1.
+
+--- SENTENCE 165 ---
+Islands, seamounts, or island groups used as source locations in connectivity simulations, their corresponding reef area (0−150 m shelf), number of virtual larvae used in modeling, and the percentage of the simulated larval pool contributed by each source
+
+| Site                      | reef area<br>(km2<br>)
+
+--- SENTENCE 166 ---
+| Potential No. larvae<br>spawned<br>each year spawned | % of<br>larvae |
+|---------------------------|------------------------|------------------------------------------------------|----------------|
+| Wallis and seamounts
+
+--- SENTENCE 167 ---
+| 993                    | 132 722                                              | 16.2           |
+| Niuafo'ou and seamounts   | 34                     | 4606                                                 | 0.6            |
+| Pasco and Toafilemu       | 279                    | 37 067                                               | 4.5            |
+
+--- SENTENCE 168 ---
+| seamounts                 |                        |                                                      |                |
+| Tafahi and seamounts      | 400                    | 54 704                                               | 6.7            |
+| Niue                      | 285                    | 40 304                                               | 4.9            |
+| Samoa                     |                        |                                                      |                |
+| Savai'i South             | 300                    | 39 793                                               | 4.9            |
+| Savai'i North             | 600                    | 80 919                                               | 9.9            |
+|
+
+--- SENTENCE 169 ---
+Upolu South               | 571                    | 76 831                                               | 9.4            |
+| Upolu North               | 949                    | 127 661                                              | 15.6           |
+| American Samoa            |                        |                                                      |                |
+| Tutuila
+
+--- SENTENCE 170 ---
+| 576                    | 77 873                                               | 9.5            |
+| South Bank/Papatua Guyot  | 33                     | 4481
+
+--- SENTENCE 171 ---
+| 0.6            |
+| East Bank/Tulaga seamount | 3                      | 448                                                  | 0.1            |
+|
+
+--- SENTENCE 172 ---
+Northeast Bank/Muli Guyot | 10                     | 1335
+
+--- SENTENCE 173 ---
+| 0.2            |
+|
+
+--- SENTENCE 174 ---
+Manu'a Islands            | 186                    | 25 182                                               | 3.1            |
+| Rose Atoll                | 12                     | 1564                                                 | 0.2            |
+| Swains Island             | 16                     | 2133                                                 | 0.3            |
+| Tokelau                   | 350                    | 45 644                                               | 5.6            |
+| Pukapuka and Nassau       | 187                    | 24 507                                               | 3.0            |
+| Suwarrow Atoll            | 203                    | 26 796                                               | 3.3            |
+
+--- SENTENCE 175 ---
+| Palmerston Atoll          | 90                     | 12 440                                               | 1.5            |
+| Totals                    | 6077                   | 817 010                                              | 100.0          |
+
+tribute few larvae elsewhere in the study region except when low mortality is combined with long PLDs.
+
+--- SENTENCE 176 ---
+The island nation south of American Samoa, Niue and its associated seamounts, is largely selfseeding and isolated from the other islands in the study region.
+
+--- SENTENCE 177 ---
+Upolu and Savai'i in Samoa are highly interconnected at a range of PLD and mortality rates and also have a large export of larvae to the islands and seamounts to the west such as Wallis, Niuafo'ou, and Tafahi in all but the longest PLD and mortality rate scenarios.
+
+--- SENTENCE 178 ---
+Samoa exports a smaller proportion of its larvae eastward toward American Samoa and only for PLDs longer than 20 d.
+
+--- SENTENCE 179 ---
+The islands and seamounts of American Samoa (except Swains) are also internally connected for all PLDs at low mortality and for PLDs up to 30 d for moderate mortality.
+
+--- SENTENCE 180 ---
+The overall pattern of transport is such that most of the larvae spawned along the archipelago either settle at the source or are transported to successive destinations to the west at increasing PLDs until mortality rates prevent the connections.
+
+--- SENTENCE 181 ---
+Swains Island and Tokelau were relatively minor sources of larvae to the Sa mo an Archipelago only at moderate PLDs and low mor-
+
+!
+
+--- SENTENCE 182 ---
+3. Total larvae settled by each combination of pelagic larval duration (PLD), buffer size (small = 9 km, medium = 18 km, large = 36 km), and mortality rate (low = 3% d−1, medium = 18% d−1, high = 46% d−1)
+
+!
+
+--- SENTENCE 183 ---
+Matrices of cumulative connectivity by pelagic larval duration (PLD) and mortality rate from the 18 km settlement zone.
+
+--- SENTENCE 184 ---
+Color scale indicates fraction of simulated larvae released at source (vertical island labels) settling at destination (horizontal labels).
+
+--- SENTENCE 185 ---
+Red labels denote American Samoa, green denotes Samoa
+
+!
+
+--- SENTENCE 186 ---
+5. Reliance of each island on larvae produced locally versus those produced elsewhere.
+
+--- SENTENCE 187 ---
+Proportion of all larvae arriving at each island or group that originated from that island or were from elsewhere.
+
+--- SENTENCE 188 ---
+Results by island are separated into individual pies from top to bottom for pelagic larval durations (PLDs) of 10, 20, 30, 50, and 100 d. All years, mortality rates, and buffer sizes are combined.
+
+--- SENTENCE 189 ---
+\* denotes island groups for which linear regression on logit-transformed % of settlers produced locally versus PLD was significant (p < 0.05)
+
+tality rates.
+
+--- SENTENCE 190 ---
+Cook Islands considered here (Suwarrow, Palmerston, and Pukapuka and Nassau) were largely isolated even from each other, and show few connections with other sites in any scenarios except those with the longest PLD and lowest mortality rate.
+
+### Self-reliant or externally dependent?
+
+--- SENTENCE 191 ---
+For most islands, there was a significant (p < 0.05) negative relationship between PLD and reliance on self-recruitment (Fig. 5).
+
+--- SENTENCE 192 ---
+Longer PLD generally resulted in greater reliance on outside sources of larvae.
+
+--- SENTENCE 193 ---
+The effect was noticeable nearly everywhere, but the magnitude of the effect varied widely among islands.
+
+--- SENTENCE 194 ---
+Manu'a and Rose showed the most striking increase in reliance on external sources of larvae going from almost 100% self-seeding for species with a 10 d PLD to almost 100% reliance on external sources of larvae with a 100 d PLD.
+
+--- SENTENCE 195 ---
+Tutuila and S. Upolu went from reliance on <25% of settlers from external sources at short PLDs of 10 d to ~75% from external sources at 100 d. N. Upolu and N. and S. Savai'i experienced a more modest (but still signif-
+
+icant) increase in reliance on externally produced larvae.
+
+--- SENTENCE 196 ---
+Exceptions to these patterns included the small island of Swains and the seamounts which had near total reliance on external larval sources at all PLDs (non-significant regressions of % self-seeding versus PLD).
+
+--- SENTENCE 197 ---
+Overall, N. Upolu was the least reliant on external sources of larvae.
+
+--- SENTENCE 198 ---
+N. Savai'i was nearly evenly split between local and external larval sources at all PLDs.
+
+--- SENTENCE 199 ---
+Shortened PLD due to climate change meant greater reliance on local production for most islands.
+
+--- SENTENCE 200 ---
+Of those islands with a significant linear regression (p < 0.05) of PLD and percent self-seeding, the slope was always negative (greater proportion of self-seeding at shorter PLD) and surprisingly linear in most cases ( $R^2 > 0.9$ ; Fig. 5).
+
+--- SENTENCE 201 ---
+Average slope among these significant regressions indicated a 1% increase in the proportion of self-seeded larvae for every ~2.3 d that a PLD was shortened.
+
+--- SENTENCE 202 ---
+Exceptions for this pattern were Swains and seamounts, which showed no significant relationship between these variables, and N. Upolu and N. Savai'i, which had rather steady proportions of self-seeding for intermediate PLDs of 20, 30, and 50 d.
+
+#### Source or destination?
+
+--- SENTENCE 203 ---
+In general, the big islands farther to the west played large roles as both sources and destination at all PLDs (Fig. 6).
+
+--- SENTENCE 204 ---
+Upolu was the largest source of larvae.
+
+--- SENTENCE 205 ---
+Savai'i was the largest destination.
+
+--- SENTENCE 206 ---
+Counter to expectations, source/destination roles were insensitive to PLD almost without exception (but see S. Savai'i at 100 d PLD).
+
+--- SENTENCE 207 ---
+If an island was primarily a destination at one PLD, it was at all other PLDs as well.
+
+--- SENTENCE 208 ---
+Swains Is., as well as the seamounts, were primarily destinations.
+
+--- SENTENCE 209 ---
+Tutuila and the Manu'a islands were primarily sources of larvae.
+
+--- SENTENCE 210 ---
+Tutuila delivered 3 to 5 times more larvae to other islands than it received depending on PLD.
+
+--- SENTENCE 211 ---
+The range for Manu'a was larger, delivering 1 to 59 times more larvae to other islands than it received depending on PLD.
+
+--- SENTENCE 212 ---
+Upolu was a larger source of larvae relative to being a destination, delivering 2 to 7 times more larvae than it received depending on PLD.
+
+--- SENTENCE 213 ---
+Savai'i was a larger destination of larvae compared to being a source (but was still a source of many larvae), delivering only  $\frac{1}{4}$  to  $\frac{3}{4}$  as many larvae to other islands as it received from those sources depending on PLD.
+
+--- SENTENCE 214 ---
+Shifting predictions toward shorter PLDs due to climate change did not alter an island's role as a larval source or destination.
+
+!
+
+--- SENTENCE 215 ---
+Role of each island as a source or destination of regional larvae.
+
+--- SENTENCE 216 ---
+Source denotes the number of larvae produced at a given island that settle elsewhere (slashed bars).
+
+--- SENTENCE 217 ---
+Destination denotes the number of larvae produced elsewhere that settle at a given island and are shown as negative values (grey bars).
+
+--- SENTENCE 218 ---
+Results by island are separated into individual columns from left to right for pelagic larval durations (PLDs) of 10, 20, 30, 50, and 100 d. Magnitude of an island's role as a source or destination can be evaluated by comparing the size of the source and destination columns for a given PLD
+
+#### **DISCUSSION**
+
+Connectivity among islands of the Samoan Archipelago and surrounding region is heavily influenced by the specific life history traits of pelagic larvae.
+
+--- SENTENCE 219 ---
+Longer PLDs had 3 general effects.
+
+--- SENTENCE 220 ---
+First, the proportion of self-seeding (fraction of larvae produced at a source location that settled at the same location) was reduced overall because larvae were not competent to settle until they had been transported farther from sources.
+
+--- SENTENCE 221 ---
+Second, connectivity with islands farther downstream increased noticeably after PLDs of 10 d.
+
+--- SENTENCE 222 ---
+This was especially noticeable in seeding of Wallis, Niuafo'ou, Tafahi, and the nearby seamounts with larvae from American Samoa.
+
+--- SENTENCE 223 ---
+Third, larvae with PLDs of 50 or 100 d could be transported nearly any place in the study area, although in very low abundance, provided that the mortality rate was low.
+
+--- SENTENCE 224 ---
+This widespread potential for transport at long PLDs suggests that the low amount of connectivity needed to prevent species divergence by genetic drift is easily possible throughout the study area.
+
+--- SENTENCE 225 ---
+The fate of long-lived larvae is highly dependent on mortality rates.
+
+--- SENTENCE 226 ---
+For low to moderate mortality rates at PLDs up to 30 d, the islands involved in predicted larval exchange changed little, but mortality and PLD did affect the strength of the connection (cell color changed but pattern of empty cells in the connectivity matrix did not).
+
+--- SENTENCE 227 ---
+In contrast, the higher mortality rates investigated here affected both the strength of the connections (cell color) as well as the spatial pattern of island connections (many more blank cells denoting severed connections), especially at longer PLDs.
+
+--- SENTENCE 228 ---
+At high levels of mortality, only those islands that were large larval sources or that were close together had any measureable connectivity.
+
+--- SENTENCE 229 ---
+This highlights the importance of better information on larval mortality and possible shifts in mortality due to climate change, particularly for taxa with long PLDs.
+
+--- SENTENCE 230 ---
+Our results indicate a high but variable degree of interisland connectivity in the Samoan Archipelago and surrounding region under present climate conditions.
+
+--- SENTENCE 231 ---
+There is substantial larval retention at most locations, but also considerable larval export and some degree of dependency of any individual reef on outside sources even at the shortest PLDs considered.
+
+--- SENTENCE 232 ---
+The overall picture is of an inter-connected system in which no single location operates in complete isolation.
+
+--- SENTENCE 233 ---
+Although some locations are isolated in the sense that they are not important sources for other reefs, these same locations are in general dependent on larval arrival from external sources (e.g. Swains Is.).
+
+--- SENTENCE 234 ---
+Conversely, some sites that are not particularly common destinations can be significant sources to other reefs (e.g. Rose Atoll).
+
+--- SENTENCE 235 ---
+Current flow, and consequently larval transport, is primarily westward along the Samoan Archipelago via the SEC.
+
+--- SENTENCE 236 ---
+In general, larvae produced at any given location in the Samoan Archipelago tend to seed their natal reefs at relatively shorter PLDs and their island neighbors to the west at longer PLDs.
+
+--- SENTENCE 237 ---
+An overall effect of this directional tendency is that the islands of American Samoa export considerable larval production to Samoa especially for organisms with shorter to moderate PLDs of 10 to 30 d. That would be the extent of the connectivity pattern, and probably is for much of the year, were it not for the seasonally strong SECC.
+
+--- SENTENCE 238 ---
+The north coasts of Samoa are far enough west and north that many larvae produced there are entrained in the east-flowing SECC and can ultimately settle along the islands of American Samoa via the feedback loops connecting the SECC with the SEC at ~165 to 170° W longitude.
+
+--- SENTENCE 239 ---
+These currents are often well developed throughout the PLDs of organisms spawned in late October or November as simulated here.
+
+--- SENTENCE 240 ---
+These feedback currents make Samoa an important source of larvae for American Samoa, especially for organisms with intermediate to longer PLDs of 30 to 100 d.
+
+--- SENTENCE 241 ---
+The connections established by this larval conveyor belt, although based on organisms with different PLDs (short PLD for transport from American Samoa to Samoa, longer PLDs for transport from Samoa to American Samoa), demonstrate the potential benefits of coordinated management of marine resources and conservation planning between Samoa and American Samoa (Johannes 2002, Oram 2008, McCook et al. 2009, ONMS 2012).
+
+--- SENTENCE 242 ---
+The need for archipelagoscale management is heightened in that the orientation of the dominant currents and the long distances downstream from any source (e.g. Cook Islands) of larvae suggest that much of the Samoan Archipelago overall is largely dependent on internal sources of larvae.
+
+--- SENTENCE 243 ---
+The patterns of connectivity documented here have important implications for the resilience of reef ecosystems to disturbance events, design of MPA networks, and management of sustainable fisheries.
+
+--- SENTENCE 244 ---
+Sufficient larval sources must be protected and spaced appropriately such that interdependent islands can successfully repopulate between local disturbance events and in the face of managed use such as fisheries extraction (Shanks et al. 2003, Jones et al. 2007, Gaines et al. 2010).
+
+--- SENTENCE 245 ---
+Sites such as Swains Is.
+
+--- SENTENCE 246 ---
+and Rose Atoll are far from any large larval sources and thus may be among the slowest to recover following a disturbance due to a lack of recruits.
+
+--- SENTENCE 247 ---
+One reason these 2 locations have a biogeographically distinct community structure relative to the rest of the archipelago (Tribollet et al. 2010, Williams et al. 2010) may be a preponderance of either species with short or no pelagic dispersal, or species with very long PLDs that are capable of making the trip from distant sources.
+
+--- SENTENCE 248 ---
+Given their probable slower recovery potential following disturbance and biogeographic uniqueness/isolation, these sites may be worthy of consideration for special protection status (ONMS 2012).
+
+--- SENTENCE 249 ---
+In contrast to the isolation of Rose Atoll and Swains Is., Samoan islands are an important source of larvae for themselves and the entire region.
+
+--- SENTENCE 250 ---
+Recovery from localized disturbance elsewhere in the archipelago may depend on larvae from Upolu and Savai'i, which make them important to consider when devising a resilient regional MPA network.
+
+--- SENTENCE 251 ---
+Existing MPAs on these islands are quite small and have a wide range of regulations and effectiveness (Johannes 2002, Kendall & Poti 2011).
+
+--- SENTENCE 252 ---
+Were these 2 islands dramatically disturbed (e.g. crown-of-thorns seastar infestation and overfishing have occurred), recovery may be slow due to their high reliance on self-seeding and may depend primarily on the relatively more modest larval sources from American Samoa.
+
+--- SENTENCE 253 ---
+In the last 3 decades alone, ocean surface temperature has already increased by 1.0°C in the region of the Samoan Archipelago (Folland et al. 2003, Kendall & Poti 2011).
+
+--- SENTENCE 254 ---
+Ongoing increases in temperature and decreases in pH are inevitable for the near future (IPCC 2007).
+
+--- SENTENCE 255 ---
+Our results indicate that management actions such as fisheries quotas and optimum MPA network design may change for some islands in the region between now and future ocean conditions due to the influence of warmer water temperature on larval life history.
+
+--- SENTENCE 256 ---
+Our model results demonstrate that shifting PLDs to shorter duration due to climate change can reduce interisland connectivity (as suggested by O'Connor et al. 2007 and Munday et al. 2009b).
+
+--- SENTENCE 257 ---
+With few exceptions, islands will become increasingly more reliant on self-seeding as the ocean warms.
+
+--- SENTENCE 258 ---
+The magnitude of the shift will vary by taxa, occur quite gradually, and fall between the particular PLD intervals examined here.
+
+--- SENTENCE 259 ---
+The magnitude of this effect may at first seem small (1% greater reliance on self-seeding for every 2.3 d that PLD is shortened), but could have a substantial impact considering that PLDs are predicted to be shortened by several days with climate change, and that yearly increases in the proportion of self-seeding will have a cumulative, long-term effect on population con nectivity.
+
+--- SENTENCE 260 ---
+Compounding this, global warming may weaken Pacific currents including the SEC (Luo & Rothstein 2011), although the magnitude and de tailed patterns remain speculative.
+
+--- SENTENCE 261 ---
+Slower currents will likely mean even less transport for larvae, further reductions in connectivity among islands, and en hanced self-recruitment at levels beyond those predicted here based on shorter PLD alone.
+
+--- SENTENCE 262 ---
+The combined effects of these factors will likely force managers to shift their expectations of recruitment strength or connectivity among network locations planned under today's climate conditions.
+
+--- SENTENCE 263 ---
+Where possible, MPAs may need to be closer together in the ocean of the future to maintain connections among island populations that are present today.
+
+--- SENTENCE 264 ---
+Many islands may still be well connected, just not for the same suite of species that are connected today.
+
+--- SENTENCE 265 ---
+Those species with presently longer PLDs may settle in greater numbers at shorter transport distances and constrain scales of population dynamics.
+
+--- SENTENCE 266 ---
+Some is lands, already somewhat independent as sources or destinations, simply lack island neighbors at which to place MPAs or manage source populations and will become increasingly isolated.
+
+--- SENTENCE 267 ---
+Some existing connections may be broken, such as the present-day long PLD transport from Samoa to American Samoa.
+
+--- SENTENCE 268 ---
+There are no islands along this route that could be added to a future network to preserve this link.
+
+--- SENTENCE 269 ---
+A shift toward shorter PLDs had a surprisingly negligible effect on the strength of an island's role as a source or a destination.
+
+--- SENTENCE 270 ---
+Due to a shift in climate, we expected that islands playing a source role at one PLD may change to primarily a destination role at another, but this was not the case in our simulations.
+
+--- SENTENCE 271 ---
+Source and destination roles in our study region may be robust to managers' expectations despite climate change.
+
+--- SENTENCE 272 ---
+There are several key caveats to interpretation of these results.
+
+--- SENTENCE 273 ---
+It is important to recognize that our findings are the direct result of the various levels of mortality rate, buffer size, and PLD examined.
+
+--- SENTENCE 274 ---
+Al though selected based on current literature, results would obviously change had a different range of life history variables been used.
+
+--- SENTENCE 275 ---
+Rather than focusing on individual numbers in our results, the value of our approach is in comparing relative values and trends that emerge among the range of life history parameters that were investigated.
+
+--- SENTENCE 276 ---
+Also important to note, some combinations of life history traits may only rarely occur but are useful for understanding ex treme events.
+
+--- SENTENCE 277 ---
+Unusual conditions may result in re cruitment failure (e.g. anomalously high larval mortality rates due to extreme high water temperatures), or at the other end of the spectrum, a recruitment spike (e.g. very lowest mortality rate due to highly favorable conditions such as a plankton bloom that enhanced survivorship).
+
+--- SENTENCE 278 ---
+In such cases, there is high uncertainty in precision of the predictions and results are best interpreted in a relative context.
+
+--- SENTENCE 279 ---
+For example, we tracked >800 000 virtual larvae each year; however, real larval output of these reefs is orders of magnitude higher.
+
+--- SENTENCE 280 ---
+Our results show several cases in which no virtual larvae made a connection, but in a real world spawning event involving many more larvae, some may have actually made it.
+
+--- SENTENCE 281 ---
+For this reason, 0 values in our simulations should not be viewed as impossible connections but instead thought of as relatively less probable.
+
+--- SENTENCE 282 ---
+Fish and corals do not spawn at random coastal positions as modeled here.
+
+--- SENTENCE 283 ---
+Many fish species perform behaviors conducive to broadcast spawning.
+
+--- SENTENCE 284 ---
+Some move to areas where currents sweep eggs and larvae rapidly away from coasts, and many exhibit a vertical 'spawning rush' away from reefs toward the surface.
+
+--- SENTENCE 285 ---
+For example, mature surgeon fish in American Samoa are most abundant on points and headlands where strong currents are found (Ochavillo et al. 2011), and spawning can often be observed in reef channels where water flows in a seaward direction as it drains the reef flat (Craig 1998).
+
+--- SENTENCE 286 ---
+These behaviors may promote offshore transport; however, such localized currents are not resolved at HYCOM's 9 k m scale, are outside the scope of this study, and require using models with greater spatial resolution.
+
+--- SENTENCE 287 ---
+Also of note, we focused on cumulative connectivity over a recent and representative 5 yr period.
+
+--- SENTENCE 288 ---
+However, if current patterns were to shift due to climate change or even if a different time of year is simulated such as when the strongly seasonal SECC is not active (e.g. spawning during June or July), connectivity patterns may differ from those reported here.
+
+--- SENTENCE 289 ---
+Some priorities for future work should include measuring connectivity over smaller increments in mortality to better understand its effects on connectivity, incorporating demographics and meta- population concepts, modeling recruitment-limited species by propagating the effects of connectivity through successive model years, studying how climate change may affect larval mortality and sensory abilities of various taxa, understanding the relative contribution of finer scale larval-retention mechanisms than was possible here, and quantifying connectivity of a variety of taxa in field studies through mark/ recapture, tracer analysis, and genetic/parentage studies (Al many et al. 2007, Botsford et al. 2009, Jones et al. 2009, Planes et al. 2009).
+
+--- SENTENCE 290 ---
+This work was jointly funded by the NOAA National Marine Sanctuary and Coral Reef Conservation Programs.
+
+--- SENTENCE 291 ---
+M.P., B.P.K., and L.B.B. were supported under NOAA Contract No. DG133C07NC0616 with Consolidated Safety Services, Inc. D. Fenner provided insightful comments during development of the approach.
+
+--- SENTENCE 292 ---
+D. Kobayashi provided example models for the study of connectivity in the Pacific and provided helpful comments on this work.
+
+--- SENTENCE 293 ---
+L. Lanerolle provided considerable assistance in setting up model simulations, and C. Barker and C. O'Connor provided expertise in GNOME.
+
+--- SENTENCE 294 ---
+# LITERATURE CITED
+
+-
+
+--- SENTENCE 295 ---
+[Almany GR, Berumen ML, Thorrold SR, Planes S, Jones GP](http://dx.doi.org/10.1126/science.1140597) (2007)
+
+--- SENTENCE 296 ---
+Local replenishment of coral reef fish populations in a marine reserve.
+
+--- SENTENCE 297 ---
+742−744 ➤
+- [Atema J, Kingsford MJ, Gerlach G \(2002\)
+
+--- SENTENCE 298 ---
+Larval reef fish](http://dx.doi.org/10.3354/meps241151) could use odour for detection, retention and orientation to reefs.
+
+--- SENTENCE 299 ---
+Mar Ecol Prog Ser 241: 151−160 ➤
+-
+
+--- SENTENCE 300 ---
+[Bare AY, Grimshaw KL, Rooney JJ, Sabater MG, Fenner D,](http://dx.doi.org/10.1007/s00338-010-0600-y) Carrol B (2010) Mesophotic communities of the insular shelf at Tutuila, American Samoa.
+
+--- SENTENCE 301 ---
+Coral Reefs 29: 369−377 ➤
+
+- Bassim KM, Sammarco PW (2003) Effects of temperature and ammonium on larval development and survivorship in a scleractinian coral (*Diploria strigosa*).
+
+--- SENTENCE 302 ---
+Mar Biol 142: 241−252
+- Blanco-Martin B (2006) Dispersal of coral larvae:a modeling perspective on its determinants and implications.
+
+--- SENTENCE 303 ---
+PhD dissertation, James Cook University, Townsville
+-
+
+--- SENTENCE 304 ---
+[Bleck R, Benjamin S \(1993\) Regional weather prediction](http://dx.doi.org/10.1175/1520-0493(1993)121%3C1770%3ARWPWAM%3E2.0.CO%3B2) with a model combining terrain-following and isentropic coordinates.
+
+--- SENTENCE 305 ---
+Mon Weather Rev 121: 1770−1785 ➤
+- [Bleck R, Boudra D \(1981\) Initial testing of a numerical ocean](http://dx.doi.org/10.1175/1520-0485(1981)011%3C0755%3AITOANO%3E2.0.CO%3B2) circulation model using a hybrid (quasi-isopycnic) vertical coordinate.
+
+--- SENTENCE 306 ---
+J Phys Oceanogr 11: 755−770 ➤
+- [Bonhomme F, Planes S \(2000\)
+
+--- SENTENCE 307 ---
+about what maintains the pelagic interval in reef fishes.
+
+--- SENTENCE 308 ---
+Environ Biol Fishes 59: 365−383 ➤
+- [Booth DJ, Parkinson K \(2011\) Pelagic larval duration is sim](http://dx.doi.org/10.1007/s00338-011-0815-6)ilar across 23° of latitude for two species of butterflyfish (Chaetodontidae) in eastern Australia.
+
+--- SENTENCE 309 ---
+Coral Reefs 30: 1071−1075 ➤
+- [Botsford LW, White JW, Coffroth MA, Paris CB and others](http://dx.doi.org/10.1007/s00338-009-0466-z) (2009) Connectivity and resilience of coral reef metapopulations in marine protected areas:matching empirical efforts to predictive needs.
+
+--- SENTENCE 310 ---
+Coral Reefs 28: 327−337 ➤
+-
+
+--- SENTENCE 311 ---
+[Byrne M \(2012\) Global change ecotoxicology:identification](http://dx.doi.org/10.1016/j.marenvres.2011.10.004) of early life history bottlenecks in marine invertebrates, variable species responses and variable experimental approaches.
+
+--- SENTENCE 312 ---
+Mar Environ Res 76: 3−15 ➤
+- [Chen S, Qiu B \(2004\) Seasonal variability of the South Equa](http://dx.doi.org/10.1029/2003JC002243)torial Countercurrent.
+
+--- SENTENCE 313 ---
+J Geophys Res 109: C08003, doi: 10.1029/2003JC002243 ➤
+- [Chiswell SM, Booth JD \(2008\) Sources and sinks of larval](http://dx.doi.org/10.3354/meps07217) settlement in *Jasus edwardsii* around New Zealand: Where do larvae come from and where do they go?
+
+--- SENTENCE 314 ---
+Mar Ecol Prog Ser 354:
+
+--- SENTENCE 315 ---
+201−217 ➤
+- [Christie MR, Tissot BN, Albins MA, Beets JP and others](http://dx.doi.org/10.1371/journal.pone.0015715) (2010) Larval connectivity in an effective network of marine protected areas. PLoS
+
+--- SENTENCE 316 ---
+ONE 5: e15715 ➤
+- [Cowen RK, Sponaugle S \(2009\) Larval dispersal and marine](http://dx.doi.org/10.1146/annurev.marine.010908.163757) population connectivity.
+
+--- SENTENCE 317 ---
+Annu Rev Mar Sci 1: 443−466 ➤
+- [Cowen RK, Lwiza KMM, Sponaugle S, Paris CB, Olson DB](http://dx.doi.org/10.1126/science.287.5454.857) (2000) Connectivity of marine populations:open or closed?
+
+--- SENTENCE 318 ---
+857−859 ➤
+- [Cowen RK, Paris CB, Srinivasan A \(2006\) Scaling of connec](http://dx.doi.org/10.1126/science.1122039)tivity in marine populations.
+
+--- SENTENCE 319 ---
+522−527 ➤
+  - Craig PC (1998)
+
+--- SENTENCE 320 ---
+Temporal spawning patterns of several surgeonfishes and wrasses in American Samoa.
+
+--- SENTENCE 321 ---
+Pac Sci 1: 35−39
+  - Craig PC (ed) (2009) Natural history guide to American Samoa.
+
+--- SENTENCE 322 ---
+National Park of American Samoa, Department of Marine and Wildlife Resources, and American Samoa Community College, Pago Pago
+- [Domokos R, Seki MP, Polovina JJ, Hawn DR \(2007\) Oceano](http://dx.doi.org/10.1111/j.1365-2419.2007.00451.x)graphic investigation of the American Samoa albacore (*Thunnus alalunga*) habitat and longline fishing grounds.
+
+--- SENTENCE 323 ---
+Fish Oceanogr 16: 555−572 ➤
+- [Doropoulos C, Ward S, Diaz-Pulido G \(2012\) Ocean acidifi](http://dx.doi.org/10.1111/j.1461-0248.2012.01743.x)cation reduces coral recruitment by disrupting intimate larval-algal settlement interactions.
+
+--- SENTENCE 324 ---
+Ecol Lett 15: 338−346 ➤
+- [Edmunds P, Gates R, Gleason D \(2001\)
+
+--- SENTENCE 325 ---
+The biology of larvae](http://dx.doi.org/10.1007/s002270100634) from the reef coral *Porites astreoides*, and their response to temperature disturbances.
+
+--- SENTENCE 326 ---
+Mar Biol 139: 981−989 ➤
+- [Edmunds PJ, Cumbo V, Fan T \(2011\) Effects of temperature](http://dx.doi.org/10.1242/jeb.055343) on the respiration of brooded larvae from tropical reef ➤
+
+- corals.
+
+--- SENTENCE 327 ---
+J Exp Biol 214: 2783−2790
+- [Fisher R \(2005\) Swimming speeds of larval coral reef fishes:](http://dx.doi.org/10.3354/meps285223)  impacts on self-recruitment and dispersal.
+
+--- SENTENCE 328 ---
+Mar Ecol Prog Ser 285: 223−232 ➤
+- [Folland CK, Salinger MJ, Jiang N, Rayner NA \(2003\)
+
+--- SENTENCE 329 ---
+Trends](http://dx.doi.org/10.1175/1520-0442(2003)016%3C2859%3ATAVISP%3E2.0.CO%3B2) and variation in South Pacific Island and ocean surface temperatures.
+
+--- SENTENCE 330 ---
+J Clim 16: 2859−2874 ➤
+- [Gaines SD, Gaylord B, Largier JL \(2003\) Avoiding current](http://dx.doi.org/10.5670/oceanog.2007.32) oversights in marine reserve design.
+
+--- SENTENCE 331 ---
+Ecol Appl 13: 32−46 ➤
+- [Gaines SD, White C, Carr MH, Palumbi SR \(2010\) Designing](http://dx.doi.org/10.1073/pnas.0906473107) marine reserve networks for both conservation and fisheries management.
+
+--- SENTENCE 332 ---
+Proc Natl Acad Sci USA 107: 18286−18293 ➤
+-
+
+--- SENTENCE 333 ---
+[Gerlach G, Atema J, Kingsford MJ, Black KP, Miller-Sims V](http://dx.doi.org/10.1073/pnas.0606777104) (2007)
+
+--- SENTENCE 334 ---
+Smelling home can prevent dispersal of reef fish larvae.
+
+--- SENTENCE 335 ---
+Proc Natl Acad Sci USA 104: 858−863 ➤
+- [Graham EM, Baird AH, Connolly SR \(2008\) Survival dynam](http://dx.doi.org/10.1007/s00338-008-0361-z)ics of scleractinian coral larvae and implications for dispersal.
+
+--- SENTENCE 336 ---
+Coral Reefs 27: 529−539 ➤
+- [Green BS, Fisher R \(2004\)
+
+--- SENTENCE 337 ---
+Temperature influences swim](http://dx.doi.org/10.1016/j.jembe.2003.09.001)ming speed, growth and larval duration in coral reef fish larvae.
+
+--- SENTENCE 338 ---
+J Exp Mar Biol Ecol 299:
+
+--- SENTENCE 339 ---
+115−132 ➤
+  - Halliwell G, Bleck R, Chassignet E (1998)
+
+--- SENTENCE 340 ---
+Atlantic Ocean simulations performed using a new hybrid-coordinate ocean model.
+
+--- SENTENCE 341 ---
+Eos Trans Am Geophys Union
+
+--- SENTENCE 342 ---
+Abstract OS12D-03
+- [Harlan JA, Swearer SE, Leben RR, Fox CA \(2002\) Surface](http://dx.doi.org/10.1016/S0278-4343(01)00073-5) circulation in a Caribbean island wake.
+
+--- SENTENCE 343 ---
+Cont Shelf Res 22: 417−434 ➤
+  - Harrison PL, Wallace CC (1990)
+
+--- SENTENCE 344 ---
+Reproduction, dispersal and recruitment of scleractinian corals.
+
+--- SENTENCE 345 ---
+In:Dubinsky Z (ed) Ecosystems of the world, 25.
+
+--- SENTENCE 346 ---
+Elsevier, Amsterdam, p 133−207
+- [Harrison PL, Babcock RC, Bull GD, Oliver JK, Wallace CC,](http://dx.doi.org/10.1126/science.223.4641.1186)
+
+--- SENTENCE 347 ---
+Mass spawning in tropical reef corals.
+
+--- SENTENCE 348 ---
+Science 223: 1186−1189 ➤
+- [Heyward AJ, Negri AP \(2010\) Plasticity of larval pre-compe](http://dx.doi.org/10.1007/s00338-009-0578-5)tency in response to temperature:observations on multiple broadcast spawning coral species.
+
+--- SENTENCE 349 ---
+631−636 ➤
+  - IPCC (2007)
+
+--- SENTENCE 350 ---
+Climate change 2007:synthesis report.
+
+--- SENTENCE 351 ---
+An assessment of the Intergovernmental Panel on Climate Change.
+
+--- SENTENCE 352 ---
+IPCC, Geneva
+  - Itano D, Buckley T (1988)
+
+--- SENTENCE 353 ---
+Observations of the mass spawning of corals and palolo (*Eunice viridis*) in American Samoa.
+
+--- SENTENCE 354 ---
+American Samoa Government, De partment of Marine and Wildlife Resources, Pago Pago
+- [James MK, Armsworth PR, Mason LB, Bode L \(2002\) The](http://dx.doi.org/10.1098/rspb.2002.2128) structure of reef fish metapopulations:modeling larval dispersal and retention patterns.
+
+--- SENTENCE 355 ---
+Proc R Soc Lond B Biol Sci 269: 2079−2086 ➤
+- [Johannes RE \(2002\)
+
+--- SENTENCE 356 ---
+The renaissance of community-based](http://dx.doi.org/10.1146/annurev.ecolsys.33.010802.150524) marine resource management in Oceania.
+
+--- SENTENCE 357 ---
+Annu Rev Ecol Syst 33: 317−340 ➤
+- [Jones GP, Srinivasan M, Almany GR \(2007\)
+
+--- SENTENCE 358 ---
+Population con](http://dx.doi.org/10.5670/oceanog.2007.95)nectivity and conservation of marine biodiversity.
+
+--- SENTENCE 359 ---
+Oceanography 20: 100−111 ➤
+- [Jones GP, Almany GR, Russ GR, Sale PF, Steneck RS, van](http://dx.doi.org/10.1007/s00338-009-0469-9) Oppen MJH, Willis BL (2009)
+
+--- SENTENCE 360 ---
+Larval retention and connectivity among populations of corals and reef fishes: history, advances and challenges.
+
+--- SENTENCE 361 ---
+Coral Reefs 28: 307−325 ➤
+- [Juncker M, Wantiez L, Ponton D \(2006\) Flexibility in size](http://dx.doi.org/10.1051/alr%3A2007004) and age at settlement of coral reef fish:spatial and temporal variations in Wallis Islands (South Central Pacific).
+
+--- SENTENCE 362 ---
+➤
+
+- Aquat Liv Resour 19: 339−348
+- Kendall MS, Poti M (eds) (2011)
+
+--- SENTENCE 363 ---
+A biogeographic assessment of the Samoan Archipelago.
+
+--- SENTENCE 364 ---
+NOAA Tech Memo NOS NCCOS 132.
+
+--- SENTENCE 365 ---
+NOAA, Silver Spring, MD
+- [Kessler WS, Taft BA \(1987\) Dynamic heights and zonal geo](http://dx.doi.org/10.1175/1520-0485(1987)017%3C0097%3ADHAZGT%3E2.0.CO%3B2)strophic transports in the Central Tropical Pacific during 1979-84.
+
+--- SENTENCE 366 ---
+J Phys Oceanogr 17: 97−122 ➤
+- [Kobayashi DR \(2006\) Colonization of the Hawaiian Archi](http://dx.doi.org/10.1007/s00338-006-0118-5)pelago via Johnston Atoll:a characterization of oceanographic transport corridors for pelagic larvae using computer simulation.
+
+--- SENTENCE 367 ---
+Coral Reefs 25: 407−417 ➤
+- [Leis JM \(2002\) Pacific coral-reef fishes:the implications of](http://dx.doi.org/10.1023/A%3A1020096720543) behavior and ecology of larvae for biodiversity and conservation, and a reassessment of the open population paradigm.
+
+--- SENTENCE 368 ---
+Environ Biol Fishes 65: 199−208 ➤
+- [Leis JM \(2006\) Are larvae of demersal fishes plankton or](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=16905426&dopt=Abstract) nekton?
+
+--- SENTENCE 369 ---
+Adv Mar Biol 51: 57−141 ➤
+- [Leis JM \(2007\) Behaviour as input for modelling dispersal of](http://dx.doi.org/10.3354/meps06977) fish larvae:behaviour, biogeography, hydrodynamics, ontogeny, physiology and phylogeny meet hydrography.
+
+--- SENTENCE 370 ---
+Mar Ecol Prog Ser 347: 185−193 ➤
+- [Leis JM, Carson-Ewart BM \(2003\)
+
+--- SENTENCE 371 ---
+Orientation of pelagic lar](http://dx.doi.org/10.3354/meps252239)vae of coral-reef fishes in the ocean.
+
+--- SENTENCE 372 ---
+Mar Ecol Prog Ser 252: 239−253 ➤
+- [Lugo-Fernández A, Deslarzes KJP, Price JM, Boland GS,](http://dx.doi.org/10.1016/S0278-4343(00)00072-8) Morin MV (2001) Inferring probable dispersal of Flower Garden Banks coral larvae (Gulf of Mexico) using observed and simulated drifter trajectories.
+
+--- SENTENCE 373 ---
+Cont Shelf Res 21: 47−67 ➤
+- [Luo Y, Rothstein LM \(2011\) Response of the Pacific Ocean](http://dx.doi.org/10.1080/07055900.2011.602325) circulation to climate change.
+
+--- SENTENCE 374 ---
+Atmos Ocean 49: 235−244 ➤
+- [McCook LJ, Almany GR, Berumen ML, Day JC and others](http://dx.doi.org/10.1007/s00338-008-0463-7) (2009)
+
+--- SENTENCE 375 ---
+Management under uncertainty:guidelines for incorporating connectivity into the protection of coral reefs.
+
+--- SENTENCE 376 ---
+Coral Reefs 28: 353−366 ➤
+-
+
+--- SENTENCE 377 ---
+[McCormick MI \(1999\) Delayed metamorphosis of a tropical](http://dx.doi.org/10.3354/meps176025) reef fish (*Acanthurus triostegus*):a field experiment.
+
+--- SENTENCE 378 ---
+Mar Ecol Prog Ser 176: 25−38 ➤
+- [McCormick MI, Molony BW \(1995\) Influence of water tem](http://dx.doi.org/10.3354/meps118059)perature during the larval stage on size, age and body condition of a tropical reef fish at settlement.
+
+--- SENTENCE 379 ---
+Mar Ecol Prog Ser 118: 59−68 ➤
+  - Mildner S (1987)
+
+--- SENTENCE 380 ---
+Investigation into coral reproduction on the fringing reefs of Western Samoa.
+
+--- SENTENCE 381 ---
+Research Report No. 2. December 1987.
+
+--- SENTENCE 382 ---
+Fisheries Division, Ministry of Agriculture, Forests, Fisheries, and Meteorology, Apia
+  - Mildner S (1991) Aspects of the reproductive biology of selected scleractinian corals on Western Samoa and Fijian reefs.
+
+--- SENTENCE 383 ---
+MSc thesis, James Cook University of North Queensland, Townsville
+-
+
+--- SENTENCE 384 ---
+[Miller K, Mundy C \(2003\) Rapid settlement in broadcast](http://dx.doi.org/10.1073/pnas.0809996106) spawning corals:implications for larval dispersal.
+
+--- SENTENCE 385 ---
+Coral Reefs 22: 99−106 ➤
+  - Munday PL, Dixson DL, Donelson JM, Jones GP, Pratchett MS, Devitsina GV, Doving KB (2009a)
+
+--- SENTENCE 386 ---
+Ocean acidification impairs olfactory discrimination and homing ability of a marine fish.
+
+--- SENTENCE 387 ---
+Proc Natl Acad Sci USA 106: 1848−1852
+  - Munday PL, Leis JM, Lough LM, Paris CB, Kinsford MJ, Berumen ML, Lambrechts J (2009b)
+
+--- SENTENCE 388 ---
+Climate change and coral reef connectivity.
+
+--- SENTENCE 389 ---
+Coral Reefs 28: 379−395
+- [Munday PL, Dixson DL, McCormick MI, Meekin M, Ferrari](http://dx.doi.org/10.1073/pnas.1004519107) MCO, Chivers DP (2010)
+
+--- SENTENCE 390 ---
+Replenishment of fish populations is threatened by ocean acidification.
+
+--- SENTENCE 391 ---
+Proc Natl Acad Sci USA 107: 12930−12934 ➤
+  - Mundy C, Green A (1996)
+
+--- SENTENCE 392 ---
+Spawning observations of corals
+
+- and other invertebrates in American Samoa.
+
+--- SENTENCE 393 ---
+American Samoa Government, Department of Marine and Wildlife Resources, Pago Pago
+- [O'Connor MI, Bruno JF, Gaines SD, Halpern BS, Lester SE,](http://dx.doi.org/10.1073/pnas.0603422104) Kinlan BP, Weiss JM (2007)
+
+--- SENTENCE 394 ---
+Temperature control of larval dispersal and the implications for marine ecology, evolution, and conservation.
+
+--- SENTENCE 395 ---
+Proc Natl Acad Sci USA 104: 1266−1271 ➤
+- [Ochavillo D, Tofaeono S, Sabater M, Trip EL \(2011\) Popula](http://dx.doi.org/10.1016/j.fishres.2010.10.001)tion structure of *Ctenochaetus striatus* (Acanthuridae) in Tutuila, American Samoa:the use of size-at-age data in multi-scale population size surveys.
+
+--- SENTENCE 396 ---
+Fish Res 107: 14−21 ➤
+  - ONMS (Office of National Marine Sanctuaries) (2012) Fagatele Bay National Marine Sanctuary Final Management Plan / Final Environmental Impact Statement.
+
+--- SENTENCE 397 ---
+U.S. Department of Commerce, NOAA, ONMS, Silver Spring, MD
+  - Oram RG (2008) Marine protected area master plan:a manual to guide the establishment and management of notake marine protected areas.
+
+--- SENTENCE 398 ---
+Biological Report Series 2008-01.
+
+--- SENTENCE 399 ---
+American Samoa Government, Department of Marine and Wildlife Resources, Pago Pago
+- [Paris CB, Chérubin LM, Cowen RK \(2007\) Surfing, spinning,](http://dx.doi.org/10.3354/meps06985) or diving from reef to reef:effects on population connectivity.
+
+--- SENTENCE 400 ---
+Mar Ecol Prog Ser 347: 285−300 ➤
+- [Planes S, Jones GP, Thorrold SR \(2009\) Larval dispersal con](http://dx.doi.org/10.1073/pnas.0808007106)nects fish populations in a network of marine protected areas.
+
+--- SENTENCE 401 ---
+Proc Natl Acad Sci USA 106: 5693−5697 ➤
+  - Polovina JL, Kleiber P, Kobayashi DR (1999) Application of TOPEX-POSEIDON satellite altimetry to simulate transport dynamics of larvae of spiny lobster, *Panulirus marginatus*, in the northwestern Hawaiian Islands, 1993– 1996.
+
+--- SENTENCE 402 ---
+Fish Bull 97: 132−143
+- [Przeslawski R, Ahyong S, Byrne M, Worheide G, Hutchings](http://dx.doi.org/10.1111/j.1365-2486.2008.01693.x) P (2008) Beyond corals and fish:the effects of climate change on noncoral benthic invertebrates of tropical reefs.
+
+--- SENTENCE 403 ---
+Glob Change Biol 14: 2773−2795 ➤
+- [Qiu B, Chen S \(2004\) Seasonal modulations in the eddy](http://dx.doi.org/10.1175/1520-0485(2004)034%3C1515%3ASMITEF%3E2.0.CO%3B2) field of the South Pacific Ocean.
+
+--- SENTENCE 404 ---
+J Phys Oceanogr 34: 1515−1527 ➤
+- [Randall CJ, Szmant AM \(2009\) Elevated temperature](http://dx.doi.org/10.1007/s00338-009-0482-z) reduces survivorship and settlement of the larvae of the Caribbean scleractinian coral, *Favia fragum* (Esper).
+
+--- SENTENCE 405 ---
+Coral Reefs 28: 537−545 ➤
+  - Rankin TL, Sponaugle S (2011)
+
+--- SENTENCE 406 ---
+Temperature influences selective mortality during the early life stages of a coral reef fish.
+
+--- SENTENCE 407 ---
+ONE 65: e16814
+-
+
+--- SENTENCE 408 ---
+[Richmond RH \(1985\) Reversible metamorphosis in coral](http://dx.doi.org/10.3354/meps022181) planula larvae.
+
+--- SENTENCE 409 ---
+Mar Ecol Prog Ser 22: 181−185 ➤
+- [Rudorff CA, Lorenzzetti JA, Gherardi DFM, Lins-Oliveira JE](http://dx.doi.org/10.1016/j.fishres.2008.11.005) (2009)
+
+--- SENTENCE 410 ---
+Modeling spiny lobster larval dispersion in the Tropical Atlantic.
+
+--- SENTENCE 411 ---
+Fish Res 96: 206−215 ➤
+- [Shanks AL, Grantham BA, Carr MH \(2003\)
+
+--- SENTENCE 412 ---
+Propagule dis](http://dx.doi.org/10.1890/1051-0761(2003)013[0159%3APDDATS]2.0.CO%3B2)persal distance and the size and spacing of marine reserves.
+
+--- SENTENCE 413 ---
+Ecol Appl 13: 159−169 ➤
+- [Siegel DA, Kinlan BP, Gaylord B, Gaines SD \(2003\)](http://dx.doi.org/10.3354/meps260083)
+
+--- SENTENCE 414 ---
+Lagrangian descriptions of marine larval dispersion.
+
+--- SENTENCE 415 ---
+Mar Ecol Prog Ser 260: 83−96 ➤
+- [Siegel DA, Mitarai S, Costello CJ, Gaines SD, Kendall BE,](http://dx.doi.org/10.1073/pnas.0802544105)
+
+--- SENTENCE 416 ---
+Warner RR, Winters KB (2008)
+
+--- SENTENCE 417 ---
+The stochastic nature of larval connectivity among nearshore marine populations.
+
+--- SENTENCE 418 ---
+Proc Natl Acad Sci USA 105: 8974−8979 ➤
+- [Sponaugle S, Grorud-Colvert K, Pinkard D \(2006\) Tempera](http://dx.doi.org/10.3354/meps308001)ture-mediated variation in early life history traits and recruitment success of the coral reef fish *Thalassoma* ➤
+
+- *bifasciatum* in the Florida Keys.
+
+--- SENTENCE 419 ---
+Mar Ecol Prog Ser 308: 1−15
+- [Swearer SE, Caselle JE, Lea DW, Warner RR \(1999\) Larval](http://dx.doi.org/10.1038/45533) retention and recruitment in an island population of a coral-reef fish.
+
+--- SENTENCE 420 ---
+Nature 402: 799−802 ➤
+- [Thresher RE, Colin PL, Bell LJ \(1989\) Planktonic duration,](http://dx.doi.org/10.2307/1445439) distribution and population structure of Western and Central Pacific damselfishes (Pomacentridae).
+
+--- SENTENCE 421 ---
+Copeia 1989: 420−434 ➤
+- [Treml EA, Halpin PA, Urban DL, Pratson LF \(2008\) Model](http://dx.doi.org/10.1007/s10980-007-9138-y)ing population connectivity by ocean currents, a graph theoretic approach for marine conservation.
+
+--- SENTENCE 422 ---
+Landsc Ecol 23: 19−36 ➤
+- [Tribollet AD, Schils T, Vroom PS \(2010\) Spatio-temporal](http://dx.doi.org/10.2216/09-63.1) variability in macroalgal assemblages of American Samoa.
+
+--- SENTENCE 423 ---
+574−591 ➤
+- [Victor BC \(1986\) Duration of the planktonic larval stage for](http://dx.doi.org/10.1007/BF00428555) one hundred species of Pacific and Atlantic wrasses (family Labridae).
+
+--- SENTENCE 424 ---
+Mar Biol 90: 317−326 ➤
+- [Wellington GM, Victor BC \(1989\) Planktonic larval duration](http://dx.doi.org/10.1007/BF00541659) ➤
+
+*Editorial responsibility: Nicholas Tolimieri, Seattle, Washington, USA*
+
+- of one hundred species of Pacific and Atlantic damselfishes (Pomacentridae).
+
+--- SENTENCE 425 ---
+Mar Biol 101: 557−567
+- Williams ID, Richards BL, Sandin SA, Baum JK and others (2010) Differences in reef fish assemblages between populated and remote reefs spanning multiple archipelagos across the Central and Western Pacific.
+
+--- SENTENCE 426 ---
+J Mar Biol 2011: 826234
+-
+
+--- SENTENCE 427 ---
+[Wilson JR, Harrison PL \(1998\)
+
+--- SENTENCE 428 ---
+Settlement-competency peri](http://dx.doi.org/10.1007/s002270050327)ods of larvae of three species of scleractinian corals.
+
+--- SENTENCE 429 ---
+Mar Biol 131: 339−345 ➤
+- [Wynne TT, Stumpf RP, Tomlinson MC, Schwab DJ,](http://dx.doi.org/10.1890/10-1454.1)
+
+--- SENTENCE 430 ---
+Watabayashi GY, Christensen JD (2011)
+
+--- SENTENCE 431 ---
+Estimating cyanobacterial bloom transport by coupling remotely sensed imagery and a hydrodynamic model.
+
+--- SENTENCE 432 ---
+Ecol Appl 21: 2709−2721 ➤
+  - Zelenke B, O'Connor C, Barker C, Beegle-Krause CJ, Eclipse L (2012)
+
+--- SENTENCE 433 ---
+General NOAA Operational Modelling Environment (GNOME) technical documentation.
+
+--- SENTENCE 434 ---
+NOAA Tech Memo NOS OR&R 40.
+
+--- SENTENCE 435 ---
+US Dept of Commerce, NOAA Emergency Response Division, Seattle, WA
+
+*Submitted: February 25, 2013; Accepted: June 5, 2013 Proofs received from author(s): August 9, 2013*
+

@@ -1,0 +1,122 @@
+{
+  "table_of_contents": [
+    {
+      "title": "An undescribed fungal pathogen of reef-forming crustose coralline algae\ndiscovered in American Samoa",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          94.130859375,
+          364.263671875
+        ],
+        [
+          519.4819946289062,
+          364.263671875
+        ],
+        [
+          519.4819946289062,
+          394.5135192871094
+        ],
+        [
+          94.130859375,
+          394.5135192871094
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.185546875,
+          607.2431640625
+        ],
+        [
+          117.373046875,
+          607.2431640625
+        ],
+        [
+          117.373046875,
+          616.2880859375
+        ],
+        [
+          80.185546875,
+          616.2880859375
+        ]
+      ]
+    },
+    {
+      "title": "M.M. Littler1\n, D.S. Littler1,2",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.7666015625,
+          646.7119140625
+        ],
+        [
+          172.63999938964844,
+          646.7119140625
+        ],
+        [
+          172.63999938964844,
+          656.3451690673828
+        ],
+        [
+          80.7666015625,
+          656.3451690673828
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          64
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Littler and Littler 1998 CCA fungal disease"
+}

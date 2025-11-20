@@ -1,0 +1,399 @@
+{
+  "table_of_contents": [
+    {
+      "title": "REFERENCES AND NOTES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          72.515625,
+          304.9765625
+        ],
+        [
+          183.07864379882812,
+          304.9765625
+        ],
+        [
+          183.07864379882812,
+          315.9437561035156
+        ],
+        [
+          72.515625,
+          315.9437561035156
+        ]
+      ]
+    },
+    {
+      "title": "Impact of CLOD Pathogen on Pacific Coral Reefs",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          226.6875,
+          233.359375
+        ],
+        [
+          578.7481689453125,
+          233.359375
+        ],
+        [
+          578.7481689453125,
+          249.453125
+        ],
+        [
+          226.6875,
+          249.453125
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES AND NOTES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          263.859375,
+          484.82421875
+        ],
+        [
+          375.75,
+          484.82421875
+        ],
+        [
+          375.75,
+          494.10009099181076
+        ],
+        [
+          263.859375,
+          494.10009099181076
+        ]
+      ]
+    },
+    {
+      "title": "The Neuron-Restrictive Silencer Factor (NRSF):\nA Coordinate Repressor of Multiple\nNeuron-Specific Genes",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          78.0,
+          295.2265625
+        ],
+        [
+          414.75,
+          295.2265625
+        ],
+        [
+          414.75,
+          341.89920424403186
+        ],
+        [
+          78.0,
+          341.89920424403186
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          385
+        ],
+        [
+          "Line",
+          193
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          124
+        ],
+        [
+          "Span",
+          80
+        ],
+        [
+          "TableCell",
+          54
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          112
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "Span",
+          90
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          230
+        ],
+        [
+          "Span",
+          157
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          168
+        ],
+        [
+          "Span",
+          163
+        ],
+        [
+          "Text",
+          45
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Littler and Littler 1995 Impact of CLOD"
+}

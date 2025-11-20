@@ -1,0 +1,233 @@
+{
+  "table_of_contents": [
+    {
+      "title": "A Comparative Phylogenetic Investigation of Tridacninae: a\nMitochondrial vs Nuclear Analysis",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          37.96875,
+          78.3984375
+        ],
+        [
+          428.68548583984375,
+          78.3984375
+        ],
+        [
+          428.68548583984375,
+          113.21600341796875
+        ],
+        [
+          37.96875,
+          113.21600341796875
+        ]
+      ]
+    },
+    {
+      "title": "A Comparative Phylogenetic Investigation of Tridacninae: a Mitochondrial vs Nuclear Analysis",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          2.390625,
+          261.421875
+        ],
+        [
+          715.215576171875,
+          261.421875
+        ],
+        [
+          715.215576171875,
+          279.984375
+        ],
+        [
+          2.390625,
+          279.984375
+        ]
+      ]
+    },
+    {
+      "title": "First Record of Tridacna Noae in American S\u0101moa",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          15.695950508117676,
+          496.93359375
+        ],
+        [
+          235.4765625,
+          496.93359375
+        ],
+        [
+          235.4765625,
+          509.7834167480469
+        ],
+        [
+          15.695950508117676,
+          509.7834167480469
+        ]
+      ]
+    },
+    {
+      "title": "Mitochondrial Phylogeny\nNuclear Phylogeny",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          246.234375,
+          349.20703125
+        ],
+        [
+          523.546875,
+          349.20703125
+        ],
+        [
+          523.546875,
+          541.79296875
+        ],
+        [
+          246.234375,
+          541.79296875
+        ]
+      ]
+    },
+    {
+      "title": "Simplified Phylogenies",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          334.0421142578125,
+          540.9863433837891
+        ],
+        [
+          435.09375,
+          540.9863433837891
+        ],
+        [
+          435.09375,
+          553.78125
+        ],
+        [
+          334.0421142578125,
+          553.78125
+        ]
+      ]
+    },
+    {
+      "title": "Proposal: Investigating Population \nConnectivity in American S\u0101moa",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          539.68359375,
+          520.8634338378906
+        ],
+        [
+          696.7033081054688,
+          520.8634338378906
+        ],
+        [
+          696.7033081054688,
+          547.20703125
+        ],
+        [
+          539.68359375,
+          547.20703125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          181
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Picture",
+          10
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Marra-Biggs et al. 2022 tridacnid poster"
+}

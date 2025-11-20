@@ -1,0 +1,959 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Coral-associated marine fungi form novel lineages and heterogeneous assemblages",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.28211586901763,
+          93.4345703125
+        ],
+        [
+          525.44080604534,
+          93.4345703125
+        ],
+        [
+          525.44080604534,
+          134.5302734375
+        ],
+        [
+          38.28211586901763,
+          134.5302734375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          38.28211586901763,
+          457.86816406249994
+        ],
+        [
+          111.09319899244332,
+          457.86816406249994
+        ],
+        [
+          111.09319899244332,
+          468.6024551463645
+        ],
+        [
+          38.28211586901763,
+          468.6024551463645
+        ]
+      ]
+    },
+    {
+      "title": "Materials and methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          316.7657430730478,
+          176.7890625
+        ],
+        [
+          448.87657430730474,
+          176.7890625
+        ],
+        [
+          448.87657430730474,
+          186.09375
+        ],
+        [
+          316.7657430730478,
+          186.09375
+        ]
+      ]
+    },
+    {
+      "title": "Nucleic acid extractions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          315.264483627204,
+          647.0634765625
+        ],
+        [
+          424.8564231738035,
+          647.0634765625
+        ],
+        [
+          424.8564231738035,
+          656.0434372049102
+        ],
+        [
+          315.264483627204,
+          656.0434372049102
+        ]
+      ]
+    },
+    {
+      "title": "Symbiodinium genotyping",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          38.705078125,
+          204.703125
+        ],
+        [
+          154.9733123779297,
+          204.703125
+        ],
+        [
+          154.9733123779297,
+          215.89227294921875
+        ],
+        [
+          38.705078125,
+          215.89227294921875
+        ]
+      ]
+    },
+    {
+      "title": "PCR and 454 sequencing of genomic DNA",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          39.685001373291016,
+          365.984375
+        ],
+        [
+          224.6640625,
+          365.984375
+        ],
+        [
+          224.6640625,
+          376.7867126464844
+        ],
+        [
+          39.685001373291016,
+          376.7867126464844
+        ]
+      ]
+    },
+    {
+      "title": "Bioinformatic processing of 454 DNA amplicon\nsequences",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          38.99609375,
+          582.7060546875
+        ],
+        [
+          247.61752319335938,
+          582.7060546875
+        ],
+        [
+          247.61752319335938,
+          602.9350891113281
+        ],
+        [
+          38.99609375,
+          602.9350891113281
+        ]
+      ]
+    },
+    {
+      "title": "Evaluating fungal OTU distribution patterns",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          58.78515625,
+          593.4701232910156
+        ],
+        [
+          254.13693237304688,
+          593.4701232910156
+        ],
+        [
+          254.13693237304688,
+          602.9347229003906
+        ],
+        [
+          58.78515625,
+          602.9347229003906
+        ]
+      ]
+    },
+    {
+      "title": "Illumina sequencing of mRNA",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          315.4609375,
+          681.1173095703125
+        ],
+        [
+          449.6416931152344,
+          681.1173095703125
+        ],
+        [
+          449.6416931152344,
+          690.5819091796875
+        ],
+        [
+          315.4609375,
+          690.5819091796875
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          38.123046875,
+          650.1650390625
+        ],
+        [
+          83.31989924433249,
+          650.1650390625
+        ],
+        [
+          83.31989924433249,
+          659.7922568460812
+        ],
+        [
+          38.123046875,
+          659.7922568460812
+        ]
+      ]
+    },
+    {
+      "title": "Fungal OTU distribution patterns",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          55.875,
+          64.357421875
+        ],
+        [
+          206.85557556152344,
+          64.357421875
+        ],
+        [
+          206.85557556152344,
+          76.3709716796875
+        ],
+        [
+          55.875,
+          76.3709716796875
+        ]
+      ]
+    },
+    {
+      "title": "Fungal community transcriptomics",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          38.99609375,
+          592.3135033050047
+        ],
+        [
+          194.4130982367758,
+          592.3135033050047
+        ],
+        [
+          194.4130982367758,
+          602.8662109375
+        ],
+        [
+          38.99609375,
+          602.8662109375
+        ]
+      ]
+    },
+    {
+      "title": "Gene Ontogeny Terms of Fungal Transcripts",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          253.765625,
+          66.2958984375
+        ],
+        [
+          425.030029296875,
+          66.2958984375
+        ],
+        [
+          425.030029296875,
+          76.2095947265625
+        ],
+        [
+          253.765625,
+          76.2095947265625
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          58.494140625,
+          596.3624877929688
+        ],
+        [
+          123.19158172607422,
+          596.3624877929688
+        ],
+        [
+          123.19158172607422,
+          608.3175811767578
+        ],
+        [
+          58.494140625,
+          608.3175811767578
+        ]
+      ]
+    },
+    {
+      "title": "Core fungal associates",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          38.99609375,
+          593.4701232910156
+        ],
+        [
+          137.94140625,
+          593.4701232910156
+        ],
+        [
+          137.94140625,
+          602.9347229003906
+        ],
+        [
+          38.99609375,
+          602.9347229003906
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          56.166015625,
+          63.19433593749999
+        ],
+        [
+          124.67401885986328,
+          63.19433593749999
+        ],
+        [
+          124.67401885986328,
+          77.275146484375
+        ],
+        [
+          56.166015625,
+          77.275146484375
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          58.494140625,
+          341.5595703125
+        ],
+        [
+          171.72930908203125,
+          341.5595703125
+        ],
+        [
+          171.72930908203125,
+          353.7663879394531
+        ],
+        [
+          58.494140625,
+          353.7663879394531
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          58.494140625,
+          506.67437744140625
+        ],
+        [
+          123.57414245605469,
+          506.67437744140625
+        ],
+        [
+          123.57414245605469,
+          518.6294555664062
+        ],
+        [
+          58.494140625,
+          518.6294555664062
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          90
+        ],
+        [
+          "Span",
+          75
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          131
+        ],
+        [
+          "Span",
+          73
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          317
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          168
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          324
+        ],
+        [
+          "TableCell",
+          131
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          102
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          188
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          311
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          400
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "ListItem",
+          26
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          399
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "ListItem",
+          31
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi"
+}

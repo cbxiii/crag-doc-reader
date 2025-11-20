@@ -1,0 +1,271 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TERRITORY OF AMERICAN SAMOA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          185.84766584766587,
+          45.6328125
+        ],
+        [
+          415.90909090909093,
+          45.6328125
+        ],
+        [
+          415.90909090909093,
+          58.0078125
+        ],
+        [
+          185.84766584766587,
+          58.0078125
+        ]
+      ]
+    },
+    {
+      "title": "OFFICE OF THE GOVERNOR\nPago Pago, American Samoa 96799",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          216.5724815724816,
+          70.5
+        ],
+        [
+          386.6830466830467,
+          70.5
+        ],
+        [
+          386.6830466830467,
+          90.75
+        ],
+        [
+          216.5724815724816,
+          91.5
+        ]
+      ]
+    },
+    {
+      "title": "EXECUTIVE ORDER No. 02 - -2000",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          200.0859950859951,
+          191.8125
+        ],
+        [
+          415.1597051597052,
+          191.8125
+        ],
+        [
+          415.1597051597052,
+          204.75
+        ],
+        [
+          200.0859950859951,
+          204.75
+        ]
+      ]
+    },
+    {
+      "title": "AN ORDER PROHIBITING COLLECTION AND EXPORT OF LIVE ROCK",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          124.3980343980344,
+          222.0
+        ],
+        [
+          514.8280098280098,
+          222.0
+        ],
+        [
+          514.8280098280098,
+          232.41796875
+        ],
+        [
+          124.3980343980344,
+          232.41796875
+        ]
+      ]
+    },
+    {
+      "title": "Section 1: Authority",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.92628992628993,
+          264.515625
+        ],
+        [
+          215.0737100737101,
+          264.515625
+        ],
+        [
+          215.0737100737101,
+          276.890625
+        ],
+        [
+          89.92628992628993,
+          276.890625
+        ]
+      ]
+    },
+    {
+      "title": "Section 2: Preamble",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.17690417690419,
+          335.671875
+        ],
+        [
+          212.82555282555285,
+          335.671875
+        ],
+        [
+          212.82555282555285,
+          346.5
+        ],
+        [
+          89.17690417690419,
+          346.5
+        ]
+      ]
+    },
+    {
+      "title": "Coral Reefs are:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          159.61916461916462,
+          521.25
+        ],
+        [
+          239.8034398034398,
+          521.25
+        ],
+        [
+          239.8034398034398,
+          531.0
+        ],
+        [
+          159.61916461916462,
+          531.0
+        ]
+      ]
+    },
+    {
+      "title": "Section 3: Order",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          88.1640625,
+          645.43359375
+        ],
+        [
+          194.0909090909091,
+          645.43359375
+        ],
+        [
+          194.0909090909091,
+          656.25
+        ],
+        [
+          88.1640625,
+          656.25
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          55
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          22
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\ASG-2000-ExOrder.prohib.collect.live_.rock_.AS-Copy(1)"
+}

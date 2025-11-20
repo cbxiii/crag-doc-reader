@@ -1,0 +1,121 @@
+{
+  "table_of_contents": [
+    {
+      "title": "THE CORAL REEFS OF SWAINS ISLAND,\nAMERICAN SAMOA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          120.33203125,
+          34.5
+        ],
+        [
+          487.10073710073715,
+          34.5
+        ],
+        [
+          487.10073710073715,
+          68.25
+        ],
+        [
+          120.33203125,
+          68.25
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.44226044226045,
+          567.75
+        ],
+        [
+          173.85749385749386,
+          567.75
+        ],
+        [
+          173.85749385749386,
+          578.25
+        ],
+        [
+          70.44226044226045,
+          578.25
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          48
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          46
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Green-1996-Coral.reefs.Swains.AS-Copy"
+}

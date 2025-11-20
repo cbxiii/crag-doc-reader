@@ -1,0 +1,2091 @@
+--- SENTENCE 1 ---
+[](_page_0_Picture_2.jpeg)
+
+# Mechanisms of Thermal Tolerance in Reef-Building Corals across a [Fine-Grained Environmental Mosaic:](https://www.frontiersin.org/articles/10.3389/fmars.2017.00434/full) Lessons from Ofu, American Samoa
+
+--- SENTENCE 2 ---
+[Luke Thomas](http://loop.frontiersin.org/people/406686/overview) <sup>1</sup> \*, Noah H. Rose<sup>2</sup> , Rachael A. Bay <sup>3</sup> , [Elora H. López](http://loop.frontiersin.org/people/508215/overview)
+
+--- SENTENCE 3 ---
+<sup>1</sup> , Megan K. Morikawa<sup>1</sup> , Lupita Ruiz-Jones <sup>1</sup> and Stephen R. Palumbi <sup>1</sup>
+
+<sup>1</sup> Biology Department, Stanford University, Hopkins Marine Station, Pacific Grove, CA, United States, <sup>2</sup> Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ, United States, <sup>3</sup>
+
+--- SENTENCE 4 ---
+Institute of the Environment and Sustainability, University of California, Los Angeles, Los Angeles, CA, United States
+
+#### Edited by:
+
+David Suggett, University of Technology Sydney, Australia
+
+#### Reviewed by:
+
+Jörg Wiedenmann, University of Southampton, United Kingdom Mathieu Pernice, University of Technology Sydney, Australia
+
+#### \*Correspondence:
+
+Luke Thomas
+
+--- SENTENCE 5 ---
+[luke.thomas@uwa.edu.au](mailto:luke.thomas@uwa.edu.au)
+
+#### Specialty section:
+
+This article was submitted to Coral Reef Research, a section of the journal Frontiers in Marine Science
+
+Received: 04 May 2017 Accepted: 15 December 2017 Published: 01 February 2018
+
+#### Citation:
+
+Thomas L, Rose NH, Bay RA, López EH, Morikawa MK, Ruiz-Jones L and Palumbi SR (2018)
+
+--- SENTENCE 6 ---
+Mechanisms of Thermal Tolerance in Reef-Building Corals across a Fine-Grained Environmental Mosaic: Lessons from Ofu, American Samoa.
+
+--- SENTENCE 7 ---
+[10.3389/fmars.2017.00434](https://doi.org/10.3389/fmars.2017.00434) Environmental heterogeneity gives rise to phenotypic variation through a combination of phenotypic plasticity and fixed genetic effects.
+
+--- SENTENCE 8 ---
+For reef-building corals, understanding the relative roles of acclimatization and adaptation in generating thermal tolerance is fundamental to predicting the response of coral populations to future climate change.
+
+--- SENTENCE 9 ---
+The temperature mosaic in the lagoon of Ofu, American Samoa, represents an ideal natural laboratory for studying thermal tolerance in corals.
+
+--- SENTENCE 10 ---
+Two adjacent back-reef pools approximately 500 m apart have different temperature profiles: the highly variable (HV) pool experiences temperatures that range from 24.5 to 35◦C, whereas the moderately variable (MV) pool ranges from 25 to 32◦C. Standardized heat stress tests have shown that corals native to the HV pool have consistently higher levels of bleaching resistance than those in the MV pool.
+
+--- SENTENCE 11 ---
+In this review, we summarize research into the mechanisms underlying this variation in bleaching resistance, focusing on the important reef-building genus Acropora.
+
+--- SENTENCE 12 ---
+Both acclimatization and adaptation occur strongly and define thermal tolerance differences between pools.
+
+--- SENTENCE 13 ---
+Most individual corals shift physiology to become more heat resistant when moved into the warmer pool.
+
+--- SENTENCE 14 ---
+Lab based tests show that these shifts begin in as little as a week and are equally sparked by exposure to periodic high temperatures as constant high temperatures.
+
+--- SENTENCE 15 ---
+Transcriptome-wide data on gene expression show that a wide variety of genes are co-regulated in expression modules that change expression after experimental heat stress, after acclimatization, and even after short term environmental fluctuations.
+
+--- SENTENCE 16 ---
+Population genetic scans show associations between a corals' thermal environment and its alleles at 100s to 1000s of nuclear genes and no single gene confers strong environmental effects within or between species.
+
+--- SENTENCE 17 ---
+Symbionts also tend to differ between pools and species, and the thermal tolerance of a coral is a reflection of individual host genotype and specific symbiont types.
+
+--- SENTENCE 18 ---
+We conclude the review by placing this work in the context of parallel research going on in other species, reefs, and ecosystems around the world and into the broader framework of reef coral resilience in the face of climate change.
+
+--- SENTENCE 19 ---
+Keywords: phenotypic plasticity, polygenic adaptation, coral reefs, thermal tolerance, acclimatization, Acropora
+
+#### INTRODUCTION
+
+Species are often spread across heterogeneous environments, and populations that experience different temperature regimes can have markedly different responses and thresholds to thermal stress (Somero, 2010;
+
+--- SENTENCE 20 ---
+Pereira et al., 2016).
+
+--- SENTENCE 21 ---
+This is particularly true for marine organisms that have large geographic ranges that encompass strong gradients in temperature (Sorte and Hofmann, 2004; Sagarin and Somero, 2006; Dong and Somero, 2009; Kuo and Sanford, 2009).
+
+--- SENTENCE 22 ---
+Understanding the mechanisms underlying variation in thermal tolerance within and among species has been a central focus of ecology for decades and is becoming increasingly urgent as climate change intensifies environmental stressors and alters species distributions (Somero, 2010; Wernberg et al., 2016).
+
+--- SENTENCE 23 ---
+Thermal tolerance arises primarily through two mechanisms: acclimatization and adaptation (Chevin et al., 2010; Foo and Byrne, 2016).
+
+--- SENTENCE 24 ---
+Acclimatization refers to the physiological plasticity that allows an individual to maintain performance across a range of environments.
+
+--- SENTENCE 25 ---
+It represents a physiological response within an organism's lifespan, resulting in a phenotypic shift that is plastic and often reversible.
+
+--- SENTENCE 26 ---
+By contrast, adaptation is the result of environmental selection on beneficial genotypes in a population (Barrett and Schluter, 2008; Savolainen et al., 2013).
+
+--- SENTENCE 27 ---
+Selection is acting on specific alleles, so these changes are heritable and passed on to the next generation.
+
+--- SENTENCE 28 ---
+Thus, while acclimatization can occur within a single individual, adaptation acts between generations.
+
+--- SENTENCE 29 ---
+Coral reefs are dynamic yet fragile ecosystems and are particularly vulnerable to the impacts of climate change (Hoeghguldberg, 1999; Hughes et al., 2003; Hoegh-guldberg et al., 2007).
+
+--- SENTENCE 30 ---
+Bleaching sparked by an increase of ocean water temperature has triggered widespread coral mortality over the past decades, including global die-offs in the recent 2015, 2016, and 2017 El Niño years (Hughes et al., 2017).
+
+--- SENTENCE 31 ---
+Yet coral reefs occur in a variety of different temperature regimes, with corals in one area able to withstand the same warm temperatures that cause bleaching in their conspecifics from other areas.
+
+--- SENTENCE 32 ---
+As the climate warms, natural variation in thermal tolerance will be a key driver in the capacity of corals to cope with rapid environmental change (Palumbi et al., 2014;
+
+--- SENTENCE 33 ---
+Dixon et al., 2015; Kleypas et al., 2016); however, there is still much to learn about the underlying mechanisms driving thermal tolerance in reef-building corals.
+
+--- SENTENCE 34 ---
+Environments that are characterized by high levels of temperature variation at fine-spatial scales are ideal settings to unravel the relative roles of phenotypic plasticity and adaptation in thermal tolerance while minimizing the impacts of demographic processes that can confound patterns across broader spatial scales (e.g., latitude).
+
+--- SENTENCE 35 ---
+Furthermore, corals thriving in present day extreme thermal environments can offer important insight into the mechanisms of elevated thermal tolerance and the future capacity for reef corals in general to cope with a rapidly warming planet.
+
+--- SENTENCE 36 ---
+In this review, we summarize the findings of over a decade of research into the mechanisms of thermal tolerance in corals of the back-reef pools on Ofu, within the Manu'a Islands Group of American Samoa.
+
+--- SENTENCE 37 ---
+The corals in these back-reef pools are exposed to a range of tidal temperature fluctuations that give rise to significant physiological differences
+
+between conspecific corals inhabiting different pools.
+
+--- SENTENCE 38 ---
+Focused on the important reef-building genus *Acropora*, this work has shown us that the variation in thermal tolerance among pools arises from a combination of acclimatization and adaptation and that there are 100's of genes involved in each mechanism.
+
+--- SENTENCE 39 ---
+While acclimatization can greatly elevate the thermal tolerance of individuals at remarkably fine temporal scales, fixed genetic differences facilitate a level of bleaching resistance that cannot be achieved through acclimatization within a single generation.
+
+--- SENTENCE 40 ---
+To conclude, we place this work in the context of parallel research going on in other species and in the broader framework of resilience in the face of rapid climate change.
+
+--- SENTENCE 41 ---
+#### THE SETTING
+
+#### Ofu Island
+
+The natural temperature mosaic in the lagoon of Ofu, in the Manu'a Islands Group of American Samoa, is an ideal natural laboratory for studying thermal tolerance in coral.
+
+--- SENTENCE 42 ---
+The fringing reef along the southern coast of Ofu lies in the National Park of American Samoa and forms a series of back-reef pools with diverse coral assemblages with ~80 scleractinian species (Craig et al., 2001).
+
+--- SENTENCE 43 ---
+During low tides the prominent reef crest obstructs circulation, and water in the back-reef pools becomes stagnant and heats up.
+
+--- SENTENCE 44 ---
+On high tides, the pools experience extensive flushing (Koweek et al., 2015).
+
+--- SENTENCE 45 ---
+As a result, the corals in these back-reef pools are exposed to wide swings in temperature and irradiance throughout the tidal cycle (Craig et al., 2001; Smith and Birkeland, 2007).
+
+--- SENTENCE 46 ---
+The most variable of these pools reach ≥34°C during summer low tides and exhibits daily thermal fluctuations up to 6°C.
+
+--- SENTENCE 47 ---
+Corals in these variable back-reef pools have higher stress protein biomarker levels (Barshis et al., 2010) and faster growth rates (Smith et al., 2007) than exposed fore-reef populations.
+
+--- SENTENCE 48 ---
+Within the back-reef, two adjacent pools  $\sim 500$  m apart have different temperature profiles (**Figure 1**).
+
+--- SENTENCE 49 ---
+The smaller of the two pools ( $\sim 4,000$  m<sup>2</sup>, 1.1 m depth at low tide) experiences temperatures that range from 24.5 to 35°C, whereas the larger pool ( $\sim 27,000$  m<sup>2</sup>, 1.9 m depth at low tide) is characterized by more moderate variation in temperature (25–32°C) (Craig et al., 2001).
+
+--- SENTENCE 50 ---
+These pools will hereafter be referred to as the highly variable (HV) pool and the moderately variable (MV) pool, respectively.
+
+--- SENTENCE 51 ---
+Both pools harbor diverse coral assemblages that are nearly identical in species diversity and percent live coral cover (Craig et al., 2001).
+
+#### **Standardized Stress Tests**
+
+Exploring variation in thermal tolerance among coral populations from the two pools requires a standardized assay to measure bleaching resistance.
+
+--- SENTENCE 52 ---
+In order to do this, a portable stress tank system was developed that provides accurate (within 0.2°C) controllable temperature profiles that can mimic field recordings of reef temperatures (Palumbi et al., 2014).
+
+--- SENTENCE 53 ---
+Each tank is made of a 5-gallon cooler equipped with two Peltier chillers and a 200-watt aquarium heater powered by a custom-built interface based on a Newport controller.
+
+--- SENTENCE 54 ---
+The typical heat stress profile ramps water temperature from 29 to
+
+!
+
+--- SENTENCE 55 ---
+[](_page_2_Figure_2.jpeg)
+
+<span id="page-2-0"></span>FIGURE 1 | Location of the highly variable (HV) and moderately variable (MV) pools on Ofu, in the Manu'a Islands Group of American Samoa.
+
+--- SENTENCE 56 ---
+The plot below shows the temperature profiles over the summer months for the two adjacent back-reef pools.
+
+--- SENTENCE 57 ---
+34◦C over 3 h starting about 10 a.m.
+
+--- SENTENCE 58 ---
+The tanks hold at 34◦C for 3 h, before cooling back down to 29◦C within an hour.
+
+--- SENTENCE 59 ---
+For each heat stress experiment, several coral branches 1–2 cm in length are collected from a set of colonies and placed in control (29◦C) and heated experimental tanks in the morning.
+
+--- SENTENCE 60 ---
+The temperature ramp is conducted from 10:00 to 16:00, and bleaching is recorded the next morning, 20 h after the onset of heat stress.
+
+--- SENTENCE 61 ---
+Bleaching levels seen 20 h after heating in Acropora corals remained stable in subsequent days of incubation at 29◦C. Heated branches are then compared to branches from the same colonies from control tanks, visually scored on a 1–5 scale
+
+--- SENTENCE 62 ---
+[Rose et al., 2016\)](#page-12-11), and placed in 3 ml of 95% ethanol for chlorophyll spectrophotometric analyses [\(Ritchie, 2008\)](#page-12-12).
+
+--- SENTENCE 63 ---
+Samples used for genomic analyses are preserved in RNAlater.
+
+--- SENTENCE 64 ---
+It is important to note that different profiles are needed for species with different heat responses.
+
+--- SENTENCE 65 ---
+For example, Porites corals often require multiple days of treatment; heat levels high enough to cause a reaction in 1 day often kill the coral outright.
+
+--- SENTENCE 66 ---
+### The Acute Heat Stress Response
+
+Whole transcriptome analysis offers insight into the entire physiology of an organism under stress and is an emerging tool used to explore the stress response in natural populations
+
+--- SENTENCE 67 ---
+[\(Franssen et al., 2011\)](#page-11-10).
+
+--- SENTENCE 68 ---
+By combining the portable stress assay with RNA sequencing technologies, [Seneca and Palumbi \(2015\)](#page-12-10) showed that colonies of Acropora hyacinthus from both pools mount a large and dynamic physiological response to heat stress that involves thousands of transcripts.
+
+--- SENTENCE 69 ---
+These results showed that acute heat stress broadly affects protein processing, cell cycle, and metabolism at first, while the later bleaching response is associated with activity in RNA transport, extracellular matrix, calcification, and DNA replication and repair (Seneca and Palumbi, [2015\)](#page-12-10).
+
+--- SENTENCE 70 ---
+In addition, high-resolution temporal sampling every 30 min indicated that components of the transcriptome are significantly upregulated within 90 min following the onset of heat stress [\(Traylor-knowles et al., 2017a\)](#page-13-1).
+
+--- SENTENCE 71 ---
+Spatial gene expression visualization using histological techniques showed that this stress response is a complex mix of responses from different cell types
+
+--- SENTENCE 72 ---
+[\(Traylor-Knowles et al., 2017b\)](#page-13-2).
+
+--- SENTENCE 73 ---
+The data suggest that heat responsive genes occur widely in coral tissues outside of symbiont containing cells and that an expression response to bleaching conditions does not itself signal that a gene is involved in bleaching, but rather may be a component of a generalized stress response [\(Traylor-Knowles et al., 2017b\)](#page-13-2).
+
+--- SENTENCE 74 ---
+The environmental stress response in organisms often consists of a large and dynamic transcriptome response that involves thousands of transcripts.
+
+--- SENTENCE 75 ---
+As a result, sorting through the swaths of gene expression data for genes that are more important than others in driving thermal tolerance can be extremely difficult.
+
+--- SENTENCE 76 ---
+One solution to this problem is to focus on groups of co-expressed genes rather than looking at genes individually.
+
+--- SENTENCE 77 ---
+Co-regulated gene sets, or transcriptional modules, can represent distinct physiological units with individual functional enrichments, environmental responses, and relationships to physiology that simplify interpretations of the stress response.
+
+--- SENTENCE 78 ---
+The acute heat stress response in A. hyacinthus involves changes in thousands of transcripts that can be explained as variation in the expression of a small number of co-regulated transcriptional modules [\(Rose et al., 2016\)](#page-12-11).
+
+--- SENTENCE 79 ---
+These modules have various functional enrichments, and the expression of two modules (Module 10 and Module 12) at the onset of heat stress predicted bleaching outcome at the 20-h time point.
+
+--- SENTENCE 80 ---
+Module 10 was negatively correlated with bleaching and enriched for extracellular matrix proteins and Module 12 was positively correlated with bleaching and enriched for sequence-specific DNA-binding proteins such as transcription factors and zincfinger proteins.
+
+--- SENTENCE 81 ---
+Focusing on co-regulated gene sets instead of individual genes revealed that the most abundant classes of stress responsive genes (e.g., apoptosis genes) are not the most strongly related to variation in bleaching outcomes.
+
+--- SENTENCE 82 ---
+Instead, the expression of other less abundant classes of genes (e.g., ETS-family transcription factors) is more strongly related to differences in coral bleaching [\(Rose et al., 2016\)](#page-12-11).
+
+--- SENTENCE 83 ---
+These results point to the fact that less abundant classes of genes occupy a potentially pivotal place in coral bleaching gene networks.
+
+--- SENTENCE 84 ---
+Extending these analyses to different species and time-points after the onset of heat stress will help further elucidate the true relevance of these transcriptional modules in a gener[alizable](#page-11-1) bleaching response.
+
+#### Pool Differences
+
+Corals native to the HV and MV pools vary in thermal tolerance.
+
+--- SENTENCE 85 ---
+Under experimental heat stress, corals from the HV pool had higher rates of chlorophyll retention
+
+--- SENTENCE 86 ---
+[2014\)](#page-12-6), photosystem II photochemical efficiency and survivorship [\(Oliver and Palumbi, 2011\)](#page-12-13) than the MV pool corals.
+
+--- SENTENCE 87 ---
+In addition, variation in thermal tolerance is reflected in differences in gene expression.
+
+--- SENTENCE 88 ---
+Corals from both pools mounted a broad transcriptomic response to experimental heat stress (Seneca and Palumbi, [2015\)](#page-12-10); however, corals from the MV pool had greater increases in expression of hundreds of genes [\(Barshis et al., 2013\)](#page-10-2).
+
+--- SENTENCE 89 ---
+A large portion of the genes that are differentially responsive between pools are constitutively upregulated under control conditions in corals from the HV pool, suggesting that these genes may start off with a higher level of expression before heat stress
+
+--- SENTENCE 90 ---
+[\(Barshis et al., 2013\)](#page-10-2).
+
+--- SENTENCE 91 ---
+Transcripts with higher constitutive expression under ambient conditions in HV corals included classic heat stress genes such as Hsp70, TNFRs, peroxidasin, and zinc metalloproteases
+
+--- SENTENCE 92 ---
+[\(Barshis et al., 2013\)](#page-10-2).
+
+--- SENTENCE 93 ---
+This constitutive frontloading in HV pool corals may enable individual colonies to maintain physiological resilience during frequently encountered environmental stress.
+
+### ACCLIMATIZATION
+
+Phenotypic plasticity can play an important role in the response of marine organisms to rapid environmental change (Chevin et al.,
+
+--- SENTENCE 94 ---
+This phenomenon can be defined as the capacity of a single genotype to exhibit a range of phenotypes in response to environmental variation [\(Fordyce, 2006\)](#page-11-11).
+
+--- SENTENCE 95 ---
+Limits to acclimatization, the short-term phenotypic adjustment within an individual's lifespan, are set by species-specific physiological constraints [\(Somero, 2010\)](#page-12-0).
+
+--- SENTENCE 96 ---
+Acclimatization is particularly relevant for long-lived organisms such as corals in the context of global climate change because this mechanism operates within a single lifespan of an organism and does not require a populationlevel shift in allele frequencies over multiple generations as is the case with evolutionary adaptation.
+
+### Capacity for Acclimatization
+
+Through reciprocal transplantation, acclimatization can be quantified using the equation I = I<sup>F</sup> + IA.
+
+--- SENTENCE 97 ---
+Here, I represents the cumulative phenotypic change between two native populations living in different habitats, measured as the average phenotypic difference divided by the standard deviation.
+
+--- SENTENCE 98 ---
+This value is comprised of fixed effects (IF) that are determined by the location of origin of an individual and acclimation effects (IA) that are determined by an organism's response to its local environment.
+
+--- SENTENCE 99 ---
+A. hyacinthus colonies from the HV Pool had higher chlorophyll retention after stress tests than did colonies from the MV Pool (**[Figure 2](#page-4-0)**).
+
+--- SENTENCE 100 ---
+The difference in chlorophyll retention between populations was I = 2.45, measured as the difference in means divided by the standard deviation.
+
+--- SENTENCE 101 ---
+Following a 12-month reciprocal transplantation experiment, colonies of A. hyacinthus from the MV pool transplanted to the HV pool showed significantly (p < 0.001) higher chlorophyll retention during heat stress than the same colonies native to the MV pool (**[Figure 2](#page-4-0)**).
+
+--- SENTENCE 102 ---
+Acclimatization also works in the opposite direction, and HV pool corals transplanted to the MV pool dropped their chlorophyll retention to the same level as MV pool natives within 12 months.
+
+--- SENTENCE 103 ---
+The overall change in phenotype due to acclimatization (I<sup>A</sup> = 1.56 SD) was higher but similar to the estimated change caused by fixed effects between pools (I − I<sup>A</sup> = I<sup>E</sup> = 0.94 SD).
+
+--- SENTENCE 104 ---
+Monitoring phenotypes in native populations and the same colonies after transplants indicated that both fixed effects between pools and acclimatization ability is a primary feature of coral adaptability to heat extremes
+
+--- SENTENCE 105 ---
+[2014\)](#page-12-6).
+
+#### Mechanisms of Acclimatization
+
+Transcriptome-wide gene expression analyses via RNA-seq on reciprocally transplanted A. hyacinthus colonies revealed 74 genes that were differentially expressed between the two pools when comparing genetically identical coral fragments (Palumbi et al., [2014\)](#page-12-6).
+
+--- SENTENCE 106 ---
+These acclimatization genes had annotations for several transcription factors, cell signaling proteins, heat shock and chaperonin proteins, TRAF-type proteins, cytochrome P450, and fluorochromes.
+
+--- SENTENCE 107 ---
+Loci with strong components of acclimatization include the Tumor Necrosis Factor Receptor-Associated Factors, the signaling transducers for TNFRs, as well as Ras and Rab proteins, transcription factors and heat shock proteins.
+
+--- SENTENCE 108 ---
+Overall, 15 out of the 23 transcriptional modules that comprise the A. hyacinthus stress response system showed
+
+!
+
+--- SENTENCE 109 ---
+[](_page_4_Figure_2.jpeg)
+
+<span id="page-4-0"></span>FIGURE 2 | Thermal tolerance, measured as chlorophyll retention following acute heat stress, in A. hyacinthus following 14 months of reciprocal transplantation between the HV and MV pools.
+
+--- SENTENCE 110 ---
+signs of acclimatization after reciprocal transplantation (Rose et al.,
+
+--- SENTENCE 111 ---
+These data suggest that acclimatization is in part accomplished through the regulation of co-expressed gene modules.
+
+### Rates of Acclimation
+
+To test the rapidity of acclimation, and determine if it was equally sparked by daily variation in temperature as it is by constant temperatures, [Bay and Palumbi \(2015\)](#page-10-3) exposed colonies of Acropora nana to experimental acclimation treatments mimicking local heat stress conditions (i.e., a stable 31◦C and a variable 29–33◦C acclimation treatment).
+
+--- SENTENCE 112 ---
+In both sets of conditions, colonies achieved significant gains in thermal tolerance within 7–11 days [\(Bay and Palumbi, 2015\)](#page-10-3): nubbins acclimated to heat treatments had significantly higher chlorophyll retention than nubbins from the same colonies held at 29◦C prior to acute heat stress.
+
+--- SENTENCE 113 ---
+After 7 and 11 days, acclimatized and control coral nubbins showed different transcriptomic responses to acute heat stress.
+
+--- SENTENCE 114 ---
+Expression patterns in the absence of acute heat stress did not change compared to the original value after acclimation; coral nubbins had the same baseline transcriptional profiles regardless of whether they were exposed to a short-term heated acclimation treatment.
+
+--- SENTENCE 115 ---
+However, almost 900 contigs showed differences in expression levels between acclimated and control corals after acute heat stress, the majority of which could be clustered into two gene modules that were significantly enriched for gene ontology (GO) terms related to carbohydrate metabolism and ribosomal RNA processing [\(Bay and Palumbi, 2015\)](#page-10-3).
+
+--- SENTENCE 116 ---
+These data show that rapid acclimation did not change the normal expression levels of any gene.
+
+--- SENTENCE 117 ---
+Instead, rapid acclimation sparked the sensitivity of many genes to heat exposure—it adjusted the heat response system, not the normal daily physiology of these corals.
+
+--- SENTENCE 118 ---
+This is in contrast to the front loading mechanism seen by [Barshis et al.](#page-10-2)
+
+--- SENTENCE 119 ---
+[\(2013\)](#page-10-2) in A. hyacinthus.
+
+--- SENTENCE 120 ---
+Those results were from corals native to either pool, suggesting that frontloading is either a longer-term acclimation response or is a reflection of genetic adaptation between pools.
+
+--- SENTENCE 121 ---
+Transcriptome analysis also has shown the impact of very short term environmental stresses on reefs.
+
+--- SENTENCE 122 ---
+High-resolution transcriptomic and environmental profiling show that regular exposure to strong tidal cycles triggers a large but transient transcriptional response in A. hyacinthus (Ruiz-Jones and Palumbi, [2017\)](#page-12-14).
+
+--- SENTENCE 123 ---
+During a 17-day period of daily monitoring, extreme low tides on days 7 and 8 caused temperatures to spike to above 31.5◦C, eliciting a transcriptional response in A. hyacinthus that involved hundreds of genes (Ruiz-Jones and Palumbi, [2017\)](#page-12-14).
+
+--- SENTENCE 124 ---
+These genes could be organized into three coregulated gene sets that were enriched for gene products essential to the unfolded protein response, an ancient cellular response to endoplasmic reticulum (ER) stress.
+
+--- SENTENCE 125 ---
+The response was transient and returned to normal expression levels after the temporary heat pulse passed, suggesting a return to homeostasis in the ER when temperatures drop below 30◦C. Under experimental heat stress, the expression of these modules increases to levels above that observed during the extreme low tide, suggesting that the unfolded protein response becomes more intense during severe stress.
+
+--- SENTENCE 126 ---
+### Symbiodinium and Host Thermal Tolerance
+
+A well-documented driver of thermal tolerance in corals is based on the flexible association of individual colonies with Symbiodinium types with inherent differences in thermal tolerance [\(Lajeunesse et al., 2004;](#page-12-15)
+
+--- SENTENCE 127 ---
+[Rowan, 2004;](#page-12-16) Berkelmans and van Oppen, [2006;](#page-10-4)
+
+--- SENTENCE 128 ---
+[Jones et al., 2008;](#page-11-12)
+
+--- SENTENCE 129 ---
+[Hume et al., 2015\)](#page-11-13).
+
+--- SENTENCE 130 ---
+Sequencing of the chloroplast 23s rDNA from colonies collected from both Ofu pools showed that corals from the HV pool had significantly higher proportions of Symbiodinium clade D than those from the MV pool in five of the seven species examined [\(Oliver and Palumbi, 2010\)](#page-12-17).
+
+--- SENTENCE 131 ---
+The clade D haplotype recovered was shown to be heat resistant elsewhere [\(Rowan, 2004;](#page-12-16)
+
+--- SENTENCE 132 ---
+Berkelmans and van Oppen, [2006;](#page-10-4)
+
+--- SENTENCE 133 ---
+[Jones et al., 2008\)](#page-11-12).
+
+--- SENTENCE 134 ---
+Symbiont type alone, however, could not explain differences in bleaching resistance between pools: colonies from the MV pool that also harbored high levels of clade D experienced declines in photosystem II photochemical efficiencies that were not statistically different from the MV colonies predominantly harboring clade C (Oliver and Palumbi, [2011\)](#page-12-13).
+
+--- SENTENCE 135 ---
+In addition, there was little evidence for symbiont switching in A. hyacinthus.
+
+--- SENTENCE 136 ---
+Following the 12-months of reciprocal transplantation, MV pool corals transplanted to the HV pool showed an increase in thermal tolerance without a shift in symbiont clade
+
+--- SENTENCE 137 ---
+[\(Palumbi et al., 2014\)](#page-12-6).
+
+--- SENTENCE 138 ---
+It is important to note, however, that these studies focused on clade-level differences between pools, which remains too course a resolution for studies of thermal tolerance in corals, as sub-cladal differences in thermal tolerance have been widely documented [\(Tchernov et al., 2004;](#page-12-18)
+
+--- SENTENCE 139 ---
+[Jones et al., 2008;](#page-11-12)
+
+--- SENTENCE 140 ---
+[Sampayo et al., 2008;](#page-12-19)
+
+--- SENTENCE 141 ---
+[Fisher et al., 2012;](#page-11-14)
+
+--- SENTENCE 142 ---
+The Microbiome
+
+The coral microbiome is a far less explored realm of the holobiont than Symbiodinium.
+
+--- SENTENCE 143 ---
+Bacteria have been well-documented to contribute to the health of other marine organisms and
+
+!
+
+--- SENTENCE 144 ---
+[](_page_5_Figure_2.jpeg)
+
+<span id="page-5-0"></span>ecosystems, and metabarcoding approaches have begun to chart the diverse community of bacteria associated with reef corals
+
+--- SENTENCE 145 ---
+[Rosenberg et al., 2007;](#page-12-21)
+
+--- SENTENCE 146 ---
+[Lema et al., 2012;](#page-12-22)
+
+--- SENTENCE 147 ---
+[Ainsworth et al., 2015;](#page-10-5)
+
+--- SENTENCE 148 ---
+[Hernandez-Agreda et al., 2017\)](#page-11-15).
+
+--- SENTENCE 149 ---
+Yet, the relative role of the microbiome in thermal tolerance remains largely unknown.
+
+--- SENTENCE 150 ---
+In Ofu, metabarcoding of the 16S rRNA gene showed that the microbiome of A. hyacinthus is different between the HV and MV pools
+
+--- SENTENCE 151 ---
+[\(Ziegler et al., 2017\)](#page-13-3).
+
+--- SENTENCE 152 ---
+Additionally, following 17 months of reciprocal transplantation, transplanted colonies shifted their microbial communities to reflect that of the native colonies.
+
+--- SENTENCE 153 ---
+In subsequent short-term heat stress experiments, the microbial community shifted as a result of temperature stress in colonies transplanted to the MV pool, but colonies living in the HV pool bleached less and maintained their microbial communities.
+
+--- SENTENCE 154 ---
+The robust and stable microbiome of corals from the HV pool was characterized by a consistent set of microbial taxa that were rare in the corals transplanted to the MV pool
+
+--- SENTENCE 155 ---
+[\(Ziegler et al., 2017\)](#page-13-3).
+
+--- SENTENCE 156 ---
+These results scratch the surface of the dynamics of coral-microbial interactions.
+
+--- SENTENCE 157 ---
+In particular, they are based on microbial observations at one point in time.
+
+--- SENTENCE 158 ---
+As a result, even though the sampling among pools clearly shows spatial differences, and the transplant experiments allow microbial dynamics to be strongly inferred, the dynamics of microbial communities over space and time is still poorly explored.
+
+#### ADAPTATION
+
+Selection favors specific combinations of alleles that confer beneficial phenotypes
+
+--- SENTENCE 159 ---
+[\(Savolainen et al., 2013\)](#page-12-5) and patterns of local adaptation often reflect the thermal history of a given environment.
+
+--- SENTENCE 160 ---
+Local adaptation, however, is a balance between selection and gene flow.
+
+--- SENTENCE 161 ---
+When gene flow is high, gene swamping can replace locally-adapted alleles with maladaptive ones, and genetic differences between populations are eroded (Tigano and Friesen, [2016\)](#page-13-4).
+
+--- SENTENCE 162 ---
+If selection is strong enough to overwhelm the homogenizing effects of gene flow, then locally adapted alleles maintain moderate levels of frequency in the population, and genetic variation is maintained.
+
+--- SENTENCE 163 ---
+This kind of population genetic model may be common in long lived, sessile organisms such as redwood trees or corals.
+
+--- SENTENCE 164 ---
+Once an individual settles into a location, its survival, growth, and reproduction may depend upon the match of its inherent genetics and its habitat.
+
+--- SENTENCE 165 ---
+In these cases, a kind of local lottery selection ensues, in which natural selection generated on a very local scale determines fitness.
+
+--- SENTENCE 166 ---
+#### Fixed Effects
+
+Layered on top of the plastic physiological responses are sets of fixed effects that distinguish populations in the two pools.
+
+--- SENTENCE 167 ---
+Following the 12-month reciprocal transplant experiment, corals native to the MV pool increased their thermal tolerance but could not achieve the levels of the HV pool natives
+
+--- SENTENCE 168 ---
+MV pool corals transplanted to the HV pool retained significantly less chlorophyll in bleaching experiments than corals native to the HV pool (68 and 80%, respectively).
+
+--- SENTENCE 169 ---
+These differences reflect limits on the ability of acclimatization to alter thermal tolerance of a colony, and are ascribed to fixed effects between localities (**[Figure 3](#page-5-0)**).
+
+--- SENTENCE 170 ---
+Additionally, HV natives have higher survivorship (22% higher than MV natives) regardless of where they are transplanted [\(Bay and Palumbi, 2017\)](#page-10-6), further evidence of fixed differences between the two pools.
+
+--- SENTENCE 171 ---
+Transcriptome-wide gene expression also identified expression differences depending strictly on the pool of origin and not on the final transplant site.
+
+--- SENTENCE 172 ---
+Seventy-one contigs were identified that differed in expression levels depending on the origin of the colonies, including TNFRs, galaxin, superoxide dismutase, immunoglobin e-Fc receptors, and pinin
+
+--- SENTENCE 173 ---
+[\(Palumbi et al., 2014\)](#page-12-6).
+
+--- SENTENCE 174 ---
+For example, TNFR genes showed a 10-fold difference in expression in colonies native to the HV pool, regardless of whether they were living in the HV pool or transplanted to the MV pool 12-months prior.
+
+--- SENTENCE 175 ---
+These results indicate that mediators of coral thermal tolerance have constitutive expression levels that represent signs of genetically based local adaptation.
+
+--- SENTENCE 176 ---
+They represent expression polymorphisms that differ between pools.
+
+--- SENTENCE 177 ---
+These differences are also amplified in the transcriptional modules, where genetic differences between colonies from the two pools result in constitutive differences in expression of transcriptional modules [\(Rose et al., 2016\)](#page-12-11).
+
+--- SENTENCE 178 ---
+For example, corals transplanted from the MV pool to the HV pool had significantly lower expression for Rose Module 12 under heat stress, but MV pool colonies transplanted to the HV pool could not achieve the expression levels of the HV natives.
+
+--- SENTENCE 179 ---
+These data suggest that adaptation to thermal stress is in part driven by fixed genetic differences that regulate the coordinated expression of groups of genes.
+
+#### Expression Quantitative Trait Loci
+
+Some of these differences in gene expression can be driven by higher expression of one allele over another.
+
+--- SENTENCE 180 ---
+Expression quantitative trait loci (eQTLs) are regions of the genome that contain sequence variants that alter the expression of a gene associated with a quantitative trait
+
+--- SENTENCE 181 ---
+[\(Gilad et al., 2008\)](#page-11-16).
+
+--- SENTENCE 182 ---
+Individuals that are homozygous for this region—sometimes demarcated by only a single SNP—have different expression compared to individuals homozygous for the alternate allele in that region.
+
+--- SENTENCE 183 ---
+Heterozygotes are intermediate, with one allele being expressed more than the other.
+
+--- SENTENCE 184 ---
+In this way, expression variation and SNP differences are functionally linked.
+
+--- SENTENCE 185 ---
+Because they have such a clear phenotypic effect, expression polymorphisms are a class of variants on which selection can quickly act.
+
+--- SENTENCE 186 ---
+eQTLs that explain gene expression are common in A. hyacinthus and clustered in non-coding regions and among amino-acid changing positions [\(Rose et al., 2017\)](#page-12-23).
+
+--- SENTENCE 187 ---
+Some of these eQTLs showed differences in allele frequencies between pools that could be driving the observed expression polymorphisms.
+
+--- SENTENCE 188 ---
+For example, individuals with a putative transcription factor Rab-1b ortholog showing a TT genotype at position 292 had twice the expression level of this contig compared with individuals with the AA genotype.
+
+--- SENTENCE 189 ---
+Furthermore, AT heterozygotes show intermediate expression.
+
+--- SENTENCE 190 ---
+These alleles were present at different frequencies in the HV and MV pools.
+
+--- SENTENCE 191 ---
+The A allele was present at ∼50% frequency in the MV pool but was almost entirely absent from the more thermally stressful HV pool.
+
+--- SENTENCE 192 ---
+As a result, coral colonies in the MV pool had lower Rab-1b expression compared to colonies in the HV pool.
+
+--- SENTENCE 193 ---
+These analyses are likely to underestimate eQTL occurrence because they are based on RNASeq data which ignore several important regions controlling gene expression, especially gene promoter regions and introns.
+
+--- SENTENCE 194 ---
+However, the data show that adaptive differences in gene expression between different coral populations may be related to selection for differences in the frequencies of gene regulatory variants.
+
+--- SENTENCE 195 ---
+Future research will benefit from utilizing complete gene models (when available) and focus more closely on regions controlling gene expression, such as promoters, to build a more complete understanding of mechanisms driving differences in gene expression associated with gains in thermal tolerance.
+
+#### Multi-locus Adaptation
+
+Population differentiation based outlier analyses have shown that thermal tolerance in A. hyacinthus is associated with 100's of genes of small effect
+
+--- SENTENCE 196 ---
+[\(Bay and Palumbi, 2014\)](#page-10-7).
+
+--- SENTENCE 197 ---
+Genomewide patterns of differentiation between pools is low and nonsignificant; however, population differentiation based genome outlier scans have identified hundreds of SNPs putatively under divergent selection (FDR-corrected p < 0.05, FST > 0.05 and bootstrap-resampling tested).
+
+--- SENTENCE 198 ---
+Further filtering of these loci for only those that correlated with individual temperature measurements (i.e., time spent above 31◦C for each colony) resulted in more than a hundred loci as likely candidates for directional selection.
+
+--- SENTENCE 199 ---
+Minor allele frequencies for these candidate loci were higher in the HV pool, instead of having been evenly distributed among populations as were the non-candidate SNPs.
+
+--- SENTENCE 200 ---
+Across all candidate SNPs, each HV pool coral had higher frequencies of minor alleles, on average, compared to the MV pool corals.
+
+--- SENTENCE 201 ---
+These results suggest that a large number of loci, each with individually small effect, are contributing to the fixed effects we see between pools in thermal tolerance.
+
+#### SYNTHESIS
+
+### Local Adaptation Amidst High Gene Flow
+
+Gene flow is high among back-reef pools in Ofu, yet populations maintain significant differences in allele frequency at hundreds of loci [\(Bay and Palumbi, 2014\)](#page-10-7).
+
+--- SENTENCE 202 ---
+This pattern of local adaptation amidst high gene flow is consistent with the [Levene \(1953\)](#page-12-24) model of spatially varying selection, where recruits from a mixed larval pool are exposed to different selective forces that drive subtle shifts in allele frequencies between micro-environments (**[Figure 4](#page-7-0)**).
+
+--- SENTENCE 203 ---
+Local adaptation is a balance between selection and migration (gene flow), and spatially varying selection develops into patterns of genetic differentiation only when selection is strong enough to counteract the effects of gene flow (Savolainen et al.,
+
+--- SENTENCE 204 ---
+Simulation studies show that even alleles that are not maintained at intermediate frequencies by balancing selection can contribute to local adaptation; under some circumstances this could lead to persistence of locally adapted populations with a shifting set of genomic variants underlying adaptive differentiation between populations [\(Yeaman, 2015\)](#page-13-5).
+
+--- SENTENCE 205 ---
+The existence of significant FST outliers which do not appear to be at stable equilibrium among eel populations that show a Levenetype system may provide evidence for the importance of nonequilibrium processes in local adaptation involving polygenic traits [\(Gagnaire et al., 2012\)](#page-11-17).
+
+--- SENTENCE 206 ---
+A key question that arises from this research is whether the spatial patterns of thermal tolerance and local adaptation identified in the back-reef lagoons of Ofu are ubiquitous across a range of coral reef systems.
+
+--- SENTENCE 207 ---
+Do all reef systems
+
+!
+
+--- SENTENCE 208 ---
+[](_page_7_Figure_2.jpeg)
+
+<span id="page-7-0"></span>FIGURE 4 |
+
+--- SENTENCE 209 ---
+The [Levene \(1953\)](#page-12-24) model of spatially varying selection to explain patterns of local adaption between pools amidst high gene flow.
+
+--- SENTENCE 210 ---
+harbor thermally resilient locally adapted populations?
+
+--- SENTENCE 211 ---
+What environmental conditions are associated with the presence of heat adapted alleles?
+
+--- SENTENCE 212 ---
+Certainly, the extreme temperature profiles of the HV pool are not unique to Ofu; corals are found in a variety of extreme environments and are exposed to temperatures that would cause bleaching in their conspecifics from other areas [\(Coles and Riegl, 2013;](#page-11-18)
+
+--- SENTENCE 213 ---
+[Kline et al., 2015;](#page-11-19)
+
+--- SENTENCE 214 ---
+[Richards et al.,](#page-12-25) [2015;](#page-12-25)
+
+--- SENTENCE 215 ---
+[Camp et al., 2017\)](#page-10-8).
+
+--- SENTENCE 216 ---
+Wide variation in thermal tolerance and genetic divergence has been reported across latitudes and at large-spatial scales [\(Middlebrook et al., 2008;](#page-12-26) Howells et al.,
+
+--- SENTENCE 217 ---
+[Dixon et al., 2015;](#page-11-7) [Thomas et al., 2017\)](#page-13-6), and it is becoming increasingly clear that locally adapted thermally tolerant pockets of corals exist at fine-spatial scales within a variety of coral reef systems
+
+--- SENTENCE 218 ---
+[\(Goreau and Macfarlane, 1990;](#page-11-21) Smith et al.,
+
+--- SENTENCE 219 ---
+[Barshis et al., 2010;](#page-10-1)
+
+--- SENTENCE 220 ---
+[Castillo et al., 2012;](#page-11-22) Kenkel et al.,
+
+--- SENTENCE 221 ---
+[Schoepf et al., 2015\)](#page-12-27).
+
+--- SENTENCE 222 ---
+For example, Porites astreiodes colonies from the thermally variable inshore patch reef environment of south Florida have greater thermal tolerance than offshore populations less than 10 km away [\(Kenkel et al., 2013a\)](#page-11-25).
+
+--- SENTENCE 223 ---
+These populations exhibit significant spatial genetic structure [\(Kenkel et al., 2013b\)](#page-11-23) and reciprocal transplantation experiments confirmed that the physiological differences observed between inshore and offshore populations can be attributed to local adaptation
+
+--- SENTENCE 224 ---
+[\(Kenkel et al., 2015\)](#page-11-24).
+
+--- SENTENCE 225 ---
+Similarly, Sideerastrea sidera and Montastrea annularis populations from the warmer and more variable back-reef environment of the Mesoamerican Barrier Reef System have greater thermal tolerance than colonies from the more thermally stable fore-reef environment (Castillo and Helmuth, [2005;](#page-11-26)
+
+--- SENTENCE 226 ---
+[Castillo et al., 2012\)](#page-11-22).
+
+--- SENTENCE 227 ---
+This functional variation has also been reported at extremely fine-scales; intertidal corals of the remote Kimberley region in Western Australia experience aerial exposure and large daily swings in temperature and populations of Acropora aspera and Dipsastraea sp. have greater thermal tolerance than their subtidal conspecific counterparts 10's of meters away [\(Schoepf et al., 2015\)](#page-12-27); however the genetic mechanisms remain unknown.
+
+--- SENTENCE 228 ---
+Expanding our portfolio of known "thermally resilient" populations will help fine tune our understanding of molecular mechanisms governing thermal tolerance, thereby creating a more robust and potentially predictive understanding.
+
+--- SENTENCE 229 ---
+Common garden experiments show that once identified, heat tolerant corals can be used in transplants to generate bleaching tolerant populations and can significantly improve the success of reef restoration efforts (Morikawa MK, personal communication).
+
+--- SENTENCE 230 ---
+Local adaptation requires a fitness trade-off, and alleles that confer thermal tolerance in one environment must confer lower fitness in the other environment, otherwise a locus would reach fixation for the allele with the higher fitness
+
+--- SENTENCE 231 ---
+This is known as reciprocal home site advantage, where adaptation to one environment comes at a cost of adaptation to other environments [\(Hereford, 2009\)](#page-11-27).
+
+--- SENTENCE 232 ---
+Fitness related trade-offs associated with local adaptation appear to be widespread in corals
+
+--- SENTENCE 233 ---
+[\(Howells et al., 2013;](#page-11-20)
+
+--- SENTENCE 234 ---
+[Kenkel et al., 2015;](#page-11-24)
+
+--- SENTENCE 235 ---
+[Bay and Palumbi, 2017\)](#page-10-6).
+
+--- SENTENCE 236 ---
+A reciprocal transplantation experiment of Acropora millepora between central and southern Great Barrier Reef found signals of local adaptation in fitness related traits including thermal tolerance, reproduction, and growth
+
+--- SENTENCE 237 ---
+[\(Howells et al., 2013\)](#page-11-20).
+
+--- SENTENCE 238 ---
+In addition, growth trade-offs exist between inshore and offshore populations of P. astreoides
+
+--- SENTENCE 239 ---
+[\(Kenkel et al., 2015\)](#page-11-24) and M. annularis [\(Hudson, 1981\)](#page-11-28) in Florida.
+
+--- SENTENCE 240 ---
+Similar fitness tradeoffs exist in Ofu, and colonies with the highest survivorship in the HV pool grow less when transplanted to the MV pool [\(Bay and Palumbi, 2017\)](#page-10-6).
+
+--- SENTENCE 241 ---
+These studies highlight the fact that although some corals are locally adapted to thermally extreme environments, costs to other fitness related traits can be high and may impede survival in foreign environments.
+
+## The Genetic Architecture of Thermal Tolerance
+
+Accurately modeling the adaptive capacity of coral populations to climate change relies on a concrete understanding of the genetic architecture of thermal tolerance [\(Bay et al., 2017a\)](#page-10-9).
+
+--- SENTENCE 242 ---
+Genetic architecture refers to the number, effect size, and distribution of genes that control a phenotypic trait (Gagnaire and Gaggiotti, [2016\)](#page-11-29) and can range from a few genes of large effect (oligogenic) to many genes of small effect (polygenic)
+
+--- SENTENCE 243 ---
+[\(Jain and Stephan, 2017\)](#page-11-30).
+
+--- SENTENCE 244 ---
+Data from Ofu indicate that thermal tolerance is a polygenic trait, where a number of alleles of small effect across many different cellular pathways are responsible for elevated thermal tolerance of the HV pool corals (Bay and Palumbi, [2014;](#page-10-7)
+
+--- SENTENCE 245 ---
+[Palumbi et al., 2014\)](#page-12-6).
+
+--- SENTENCE 246 ---
+Polygenic traits are a common feature of high gene flow species and occur widely in marine populations [\(Limborg et al., 2012;](#page-12-28)
+
+--- SENTENCE 247 ---
+[Pespeni et al., 2013;](#page-12-29)
+
+--- SENTENCE 248 ---
+[Laporte et al., 2015;](#page-12-30)
+
+--- SENTENCE 249 ---
+When selection acts on a phenotype that is driven by a large number of loci, then large allelic shifts may not be evident and alleles will rarely reach fixation.
+
+--- SENTENCE 250 ---
+Instead, subtle coordinated changes in allele frequencies across many loci will occur (Berg and Coop, [2014;](#page-10-11)
+
+--- SENTENCE 251 ---
+Outlier detection software that scan the genome for large effect loci are thus not capable of providing a complete picture of the genetic architecture of thermal tolerance in corals.
+
+--- SENTENCE 252 ---
+However, when gene flow is high, as in most broadcast-spawning corals, adaptation favors the tight clustering of these small effect loci into regions of reduced genetic distance and into areas under low recombination [\(Thompson and Jiggins, 2014;](#page-13-8) [Samuk et al.,](#page-12-31)
+
+--- SENTENCE 253 ---
+In this case, even though a large number of genes may contribute to phenotypic variation, specific chromosomal regions may play a particularly important role in driving evolutionary change.
+
+--- SENTENCE 254 ---
+Experimental designs taking advantage of phenotypic variation within and among populations spread across variable environments may help identify these regions.
+
+--- SENTENCE 255 ---
+The best example of this in natural populations comes from a recent metaanalysis on threespine stickelbacks, where genomic data from 52 populations showed statistically that adaptive alleles tend to cluster together on chromosomal regions of low recombination [\(Samuk et al., 2017\)](#page-12-31).
+
+--- SENTENCE 256 ---
+Recently, [Dixon et al. \(2015\)](#page-11-7) used inter-latitudinal reciprocal back crossing to identify two genomic regions of ∼100 cM in size that strongly respond to heat selection in larval populations of A. millepora from the GBR.
+
+--- SENTENCE 257 ---
+This study paves the way for future research that explores the genetic architecture of thermal tolerance in corals; however; it is important to note that studies on model systems with large sample sizes often exceeding a thousand individuals still struggle to identify genes of significant impact for certain phenotypes, representing a cautionary tale for this pursuit in corals
+
+--- SENTENCE 258 ---
+[\(Rockman, 2012\)](#page-12-32).
+
+### Thermal History and Bleaching Susceptibility
+
+Data from Ofu show that corals have a remarkable capacity to shift their physiology in response to environmental variation
+
+--- SENTENCE 259 ---
+[\(Palumbi et al., 2014;](#page-12-6)
+
+--- SENTENCE 260 ---
+[Bay and Palumbi, 2015\)](#page-10-3).
+
+--- SENTENCE 261 ---
+Early examples of this phenotypic plasticity come from work on photo-acclimation, where individual colonies showed shifts in morphology and physiology in response to changes in solar radiation [\(Dustan,](#page-11-32)
+
+--- SENTENCE 262 ---
+For example, reciprocal transplant studies of Turbinaria mesenterina along a depth gradient revealed significant changes in morphology depending on transplant site; colony growth became more vertical in transplants from deep to shallow water, presumably to reduce light attenuation [\(Willis, 1985\)](#page-13-9).
+
+--- SENTENCE 263 ---
+More recently, focus has shifted toward understanding the plasticity of thermal tolerance in corals, and numerous studies have identified a direct link between thermal preconditioning and bleaching susceptibility from both field observations (Castillo and Helmuth, [2005;](#page-11-26)
+
+--- SENTENCE 264 ---
+[Maynard et al., 2008;](#page-12-33) Thompson and van Woesik, [2009;](#page-13-10)
+
+--- SENTENCE 265 ---
+[Castillo et al., 2012;](#page-11-22)
+
+--- SENTENCE 266 ---
+[Shuail et al., 2016\)](#page-12-34) and experimental manipulation [\(Brown et al., 2000,](#page-10-13)
+
+--- SENTENCE 267 ---
+[2002;](#page-10-14) Dove et al., [2006;](#page-11-33)
+
+--- SENTENCE 268 ---
+[Middlebrook et al., 2008;](#page-12-26)
+
+--- SENTENCE 269 ---
+[Bellantuono et al., 2012b;](#page-10-15)
+
+--- SENTENCE 270 ---
+[Bay and Palumbi, 2015\)](#page-10-3).
+
+--- SENTENCE 271 ---
+For example, Acropora, Pocillopora, and Porites from the Great Barrier Reef showed lower rates of bleaching during the 2002 bleaching event than the 1998 event, despite more intense conditions during the 2002 event (Maynard et al., [2008\)](#page-12-33).
+
+--- SENTENCE 272 ---
+[Bellantuono et al. \(2012b\)](#page-10-15) showed that short-term experimental preconditioning to sub-bleaching temperatures results in gains in thermal tolerance without shifts in symbiont type [\(Bellantuono et al., 2012b\)](#page-10-15).
+
+--- SENTENCE 273 ---
+Acclimatization as a mechanism for increased thermal tolerance, however, is most effective if the rates and limits match the dynamics of the environment.
+
+--- SENTENCE 274 ---
+In the context of coral bleaching events, heat stress from extreme climatic events that generally drive bleaching occurs on the time-scale of weeks, so acclimatization would need to occur within this time-scale in order to be effective against warming water temperatures.
+
+--- SENTENCE 275 ---
+Indeed, data from Ofu show that significant gains in thermal tolerance can be achieved within roughly a week of preconditioning (Bay and Palumbi, [2015\)](#page-10-3).
+
+--- SENTENCE 276 ---
+Similarly, studies from other regions and on other coral taxa have revealed significant gains in thermal tolerance after days of preconditioning [\(Brown et al., 2002;](#page-10-14)
+
+--- SENTENCE 277 ---
+[Dove et al., 2006;](#page-11-33)
+
+--- SENTENCE 278 ---
+[Middlebrook et al., 2008;](#page-12-26)
+
+--- SENTENCE 279 ---
+For example, [Middlebrook et al. \(2008\)](#page-12-26) showed that gains in thermal tolerance in A. aspera can occur in as little as 48 h of preconditioning.
+
+--- SENTENCE 280 ---
+A similar response was observed in A. millepora following 8 days of experimental preconditioning to sub-bleaching temperatures [\(Bellantuono et al., 2012a\)](#page-10-16).
+
+--- SENTENCE 281 ---
+That corals can increase their thermal tolerance this quickly suggests that short term acclimation may be a key mechanism for resilience in the face of warming waters.
+
+--- SENTENCE 282 ---
+In A. hyacinthus, elevated thermal tolerance following thermal preconditioning is in part achieved through transcriptome dampening, where preconditioned colonies show a lessermagnitude response to acute heat stress in certain stress response genes.
+
+--- SENTENCE 283 ---
+This is accomplished through two fundamentally different pathways depending on the duration of preconditioning (**[Figure 5](#page-9-0)**).
+
+--- SENTENCE 284 ---
+Short-term acclimation is attained through reduced expression of stress response genes under acute heat stress [\(Bay and Palumbi, 2015\)](#page-10-3), whereas long-term acclimatization involves a shift in baseline expression under control conditions, referred to as "frontloading" [\(Barshis et al., 2013;](#page-10-2) Palumbi et al., [2014\)](#page-12-6).
+
+--- SENTENCE 285 ---
+The dampening of stress response genes following short-term preconditioning has also been reported in studies on A. millepora from the Great Barrier Reef, which showed a lesser magnitude response of genes associated with apoptotic signaling to acute heat stress following 10 days of preconditioning [\(Bellantuono et al., 2012a\)](#page-10-16).
+
+--- SENTENCE 286 ---
+Moreover, [Gates and Edmunds](#page-11-34)
+
+--- SENTENCE 287 ---
+[\(1999\)](#page-11-34) showed that exposure to heat stress triggers upregulation of heat shock proteins in Montastrea franksi but a return to normal expression at 12 h despite continued exposure to heat stress, indicative of acclimatization to elevated temperatures.
+
+--- SENTENCE 288 ---
+In addition, an organism's physiological response to environmental change reflects the intensity and frequency of the stressor.
+
+--- SENTENCE 289 ---
+For example, elevated thermal tolerance of inshore P. astreoides in Florida is achieved through a varying capacity for gene expression plasticity, where colonies from the more variable and warmer inshore environment show a higher capacity for shifting expression of stress response genes than colonies from
+
+!
+
+--- SENTENCE 290 ---
+[](_page_9_Figure_2.jpeg)
+
+<span id="page-9-0"></span>FIGURE 5 | Pathways of acclimatization to elevated temperatures.
+
+--- SENTENCE 291 ---
+Short-term preconditioning results in the reduced expression of stress response genes during acute heat stress.
+
+--- SENTENCE 292 ---
+Long-term preconditioning results in a fundamental shift in baseline expression of stress response genes ("frontloading").
+
+--- SENTENCE 293 ---
+offshore sites [\(Kenkel and Matz, 2016\)](#page-11-35).
+
+--- SENTENCE 294 ---
+In Ofu, daily variation in temperature is frequent enough to spark fundamental shifts in baseline expression
+
+--- SENTENCE 295 ---
+[\(Barshis et al., 2013\)](#page-10-2), while seasonal differences in South Florida are not frequent enough to alter baseline expression but is instead achieved through short-term expression plasticity [\(Kenkel and Matz, 2016\)](#page-11-35).
+
+--- SENTENCE 296 ---
+Although phenotypic plasticity of the coral animal is one mechanism of acclimatization to environmental stress, the dynamic symbiotic relationship with dinoflagellates of the genus Symbiodinium offers an additional pathway to elevated thermal tolerance [\(Berkelmans and van Oppen, 2006;](#page-10-4)
+
+--- SENTENCE 297 ---
+[Jones et al.,](#page-11-12) [2008;](#page-11-12)
+
+--- SENTENCE 298 ---
+[Cooper et al., 2011;](#page-11-36)
+
+--- SENTENCE 299 ---
+[Hume et al., 2016\)](#page-11-37).
+
+--- SENTENCE 300 ---
+In Ofu, subtle differences in temperature among pools give rise to differences in Symbiodinium communities between habitats, with clade D occurring at higher frequencies in HV pool corals (Oliver and Palumbi, [2010;](#page-12-17)
+
+--- SENTENCE 301 ---
+[Palumbi et al., 2014\)](#page-12-6).
+
+--- SENTENCE 302 ---
+This is consistent with a wide range of literature that have reported high proportions of clade D in colonies from more thermally extreme environments or in those that have historically encountered high levels of heat stress [\(Baker et al., 2004;](#page-10-17)
+
+--- SENTENCE 303 ---
+[Berkelmans and van Oppen, 2006;](#page-10-4)
+
+--- SENTENCE 304 ---
+[Jones et al., 2008;](#page-11-12)
+
+--- SENTENCE 305 ---
+[Keshavmurthy et al., 2012\)](#page-11-38).
+
+--- SENTENCE 306 ---
+Although there are clear differences in symbiont communities between pools in Ofu, colonies of A. hyacinthus show a limited capacity to shuffle their symbionts when transplanted to a different environment
+
+--- SENTENCE 307 ---
+Furthermore, the type of symbiont a coral harbored did not explain differences in thermal tolerance among pools
+
+--- SENTENCE 308 ---
+[\(Palumbi et al., 2014\)](#page-12-6).
+
+--- SENTENCE 309 ---
+These data suggest that the higher prevalence of clade D in HV corals does not occur primarily because of symbiont shifts in adult corals as the external environment changes.
+
+--- SENTENCE 310 ---
+Instead, clade C or D dominance may occur during early settlement stages or at young colony ages.
+
+--- SENTENCE 311 ---
+As is the case with the coral host, however, adaptation and acclimatization of the symbiont represent additional pathways to rapid acclimatization and is a rapidly growing area of research [\(Howells et al., 2011;](#page-11-39)
+
+--- SENTENCE 312 ---
+[Baums et al., 2014;](#page-10-18)
+
+--- SENTENCE 313 ---
+[Hume et al., 2016\)](#page-11-37).
+
+## Evolution in the Face of Environmental Change
+
+As the climate warms, changes to the physical and chemical properties of the ocean pose serious challenges to the future health of marine populations.
+
+--- SENTENCE 314 ---
+This is particularly true for corals living close to their upper thermal thresholds.
+
+--- SENTENCE 315 ---
+Rapid adaptive responses to climate change are wide-spread in the terrestrial literature and are predominantly associated with timing of reproduction and activity
+
+--- SENTENCE 316 ---
+[\(Hoffmann and Sgrò, 2011\)](#page-11-40).
+
+--- SENTENCE 317 ---
+Marine fishes have also shown a high capacity for rapid adaptation [\(Bernatchez, 2016;](#page-10-19)
+
+--- SENTENCE 318 ---
+[Reid et al., 2016;](#page-12-35)
+
+--- SENTENCE 319 ---
+[Vera et al., 2016\)](#page-13-11).
+
+--- SENTENCE 320 ---
+For corals, however, it remains unclear whether populations are capable of keeping up with the pace of environmental change.
+
+--- SENTENCE 321 ---
+Although reef-building coral populations are experiencing wide-spread die offs in the Anthropocene [\(Hughes et al., 2017\)](#page-11-6), in many ways corals have the necessary tool-kit to cope with nearfuture climate change.
+
+--- SENTENCE 322 ---
+Firstly, corals generally have large effective populations sizes with high levels of genetic diversity.
+
+--- SENTENCE 323 ---
+Standing genetic variation is a key component of the adaptive capacity to environmental change as higher levels of genetic diversity provide a greater probability of achieving allelic combinations that confer beneficial phenotypes in the new environment
+
+--- SENTENCE 324 ---
+[\(Barrett and Schluter, 2008\)](#page-10-0).
+
+--- SENTENCE 325 ---
+Secondly, coral species span strong temperature gradients and as a result likely have an abundance of genetic variation in traits associated with thermal tolerance.
+
+--- SENTENCE 326 ---
+Thirdly, the main reproductive mode of corals is via broadcast spawning [\(Baird et al., 2009\)](#page-10-20), with larvae capable of dispersing large distances
+
+--- SENTENCE 327 ---
+[\(Ayre and Hughes, 2000;](#page-10-21)
+
+--- SENTENCE 328 ---
+[Miller and Ayre, 2008;](#page-12-36)
+
+--- SENTENCE 329 ---
+[Davies et al., 2014\)](#page-11-41).
+
+--- SENTENCE 330 ---
+This means that coral populations are generally characterized by high levels of gene flow, so the exchange of beneficial genetic variants among populations spread across large areas is high.
+
+--- SENTENCE 331 ---
+Furthermore, a high dispersal capacity means that they have a high capacity for colonizing novel habitats that become suitable as isotherms shift poleward.
+
+--- SENTENCE 332 ---
+The rate of expansion of leading edge-populations in the ocean on average is an order of magnitude higher than that observed on land [\(Poloczanska et al., 2013\)](#page-12-37).
+
+--- SENTENCE 333 ---
+Fourthly, coral populations show a remarkable capacity for phenotypic plasticity and can rapidly shift their physiology to cope with repeated stress events.
+
+--- SENTENCE 334 ---
+Phenotypic plasticity can also be adaptive, and recent studies show that this trait provides resilience to frequently encountered environmental variation
+
+--- SENTENCE 335 ---
+[\(Kenkel and Matz, 2016\)](#page-11-35).
+
+--- SENTENCE 336 ---
+Such mechanisms set the stage for short-scale local adaptation over space but can also allow rapid evolution over time.
+
+--- SENTENCE 337 ---
+Unlike on land where many long-lived animals have limited capacity for rapid evolution because of long generation times and low genetic diversity [\(Romiguier et al., 2014\)](#page-12-38), even long-lived corals may show adaptability.
+
+--- SENTENCE 338 ---
+[Bay et al. \(2017b\)](#page-10-22) estimated evolutionary rates in A. hyacinthus in the face of warming ocean temperatures by examining a high latitude population in the Cook Islands for the same putative warm-adapted alleles found in the more equatorial Samoa archipelago.
+
+--- SENTENCE 339 ---
+Under a multi-locus model in which a colony's inherent thermal tolerance was proportional to the number of heat tolerant alleles it had inherited, they could project the Cook Island population's level of heat adaptation under various climate scenarios.
+
+--- SENTENCE 340 ---
+Under this evolutionary model, they predicted successful adaptation under mild buildup of atmospheric CO2, but failure under more extensive CO<sup>2</sup> emissions.
+
+--- SENTENCE 341 ---
+Such predictions are sensitive to the evolutionary models used and the genomic architecture of adaptation—for example if thermal tolerance alleles are clustered in short genomic regions as in [Dixon et al. \(2015\)](#page-11-7), then evolutionary adaptation might be more rapid.
+
+--- SENTENCE 342 ---
+There is also an interaction between acclimatization and adaptation.
+
+--- SENTENCE 343 ---
+An acclimated individual experiences less environmental stress than a non-acclimated individual, and stress induced fitness loss may be less.
+
+--- SENTENCE 344 ---
+This has been called the "Beneficial Acclimation Hypothesis" [\(Kingsolver and Huey, 1998\)](#page-11-42), and the process of natural selection on tolerance of extremes may be slower in such cases [\(Seebacher et al., 2014\)](#page-12-39).
+
+--- SENTENCE 345 ---
+This increases population fitness in the short term, but may decrease it in the long term.
+
+--- SENTENCE 346 ---
+Such a situation may be observed on the Great Barrier Reef when protective pulses of short-term, warm water occur before bleaching events
+
+--- SENTENCE 347 ---
+[\(Ainsworth et al., 2016\)](#page-10-23).
+
+--- SENTENCE 348 ---
+These overlapping mechanisms of adaptability will play a key role in the future of coral populations as they encounter climate change over the next century.
+
+--- SENTENCE 349 ---
+Whether they are sufficient to allow populations to persist, and over what spatial scales, is a key question.
+
+--- SENTENCE 350 ---
+The layered capacity of adaptability in corals is a major asset to their population persistence under some future climate scenarios.
+
+--- SENTENCE 351 ---
+Research on the capacity of corals to persist despite local, global, and existential threats will require multi-species, multi-stressor, and multi-disciplinary efforts.
+
+--- SENTENCE 352 ---
+#### AUTHOR CONTRIBUTIONS
+
+LT and SRP conceived the study and drafted the manuscript.
+
+--- SENTENCE 353 ---
+All authors edited the manuscript and gave final approval.
+
+--- SENTENCE 354 ---
+#### FUNDING
+
+This project was funded by the National Science Foundation and the Gordon and Betty Moore Foundation.
+
+### REFERENCES
+
+- <span id="page-10-23"></span>Ainsworth, T. D., Heron, S. F., Ortiz, J. C., Mumby, P. J., Grech, A., Ogawa, D., et al. (2016).
+
+--- SENTENCE 355 ---
+Climate change disables coral bleaching protection on the Great Barrier Reef.
+
+--- SENTENCE 356 ---
+doi: [10.1126/science.aac7125](https://doi.org/10.1126/science.aac7125)
+- <span id="page-10-5"></span>Ainsworth, T. D., Krause, L., Bridge, T., Torda, G., Raina, J., Zakrzewski, M., et al. (2015).
+
+--- SENTENCE 357 ---
+The coral core microbiome identifies rare bacterial taxa as ubiquitous endosymbionts.
+
+--- SENTENCE 358 ---
+ISME J. 9, 2261–2274.
+
+--- SENTENCE 359 ---
+[10.1038/ismej.2015.39](https://doi.org/10.1038/ismej.2015.39)
+- <span id="page-10-21"></span>Ayre, D. J., and Hughes, T. P. (2000).
+
+--- SENTENCE 360 ---
+Genotypic diversity and gene flow in brooding and spawning corals along the Great Barrier Reef, Australia.
+
+--- SENTENCE 361 ---
+[10.1111/j.0014-3820.2000.tb00704.x](https://doi.org/10.1111/j.0014-3820.2000.tb00704.x)
+- <span id="page-10-20"></span>Baird, A. H., Guest, J. R., and Willis, B. L. (2009).
+
+--- SENTENCE 362 ---
+Systematic and biogeographical patterns in the reproductive biology of scleractinian corals.
+
+--- SENTENCE 363 ---
+[10.1146/annurev.ecolsys.110308.120220](https://doi.org/10.1146/annurev.ecolsys.110308.120220)
+- <span id="page-10-17"></span>Baker, A. C., Starger, C., McClanahan, T., and Glynn, P. (2004).
+
+--- SENTENCE 364 ---
+Corals' adaptive response to climate change.
+
+--- SENTENCE 365 ---
+doi: [10.1038/430741a](https://doi.org/10.1038/430741a)
+- <span id="page-10-10"></span>Barney, B. T., Munkholm, C., Walt, D. R., and Palumbi, S. R. (2017).
+
+--- SENTENCE 366 ---
+Highly localized divergence within supergenes in Atlantic cod (Gadus morhua) within the Gulf of Maine.
+
+--- SENTENCE 367 ---
+doi: [10.1186/s12864-017-3660-3](https://doi.org/10.1186/s12864-017-3660-3)
+- <span id="page-10-0"></span>Barrett, R. D. H., and Schluter, D. (2008).
+
+--- SENTENCE 368 ---
+Adaptation from standing genetic variation.
+
+--- SENTENCE 369 ---
+[10.1016/j.tree.2007.09.008](https://doi.org/10.1016/j.tree.2007.09.008)
+- <span id="page-10-2"></span>Barshis, D. J., Ladner, J. T., Oliver, T., Seneca, F. O., Traylor-Knowles, N., and Palumbi, S. R. (2013).
+
+--- SENTENCE 370 ---
+Genomic basis for coral resilience to climate change.
+
+--- SENTENCE 371 ---
+doi: [10.1073/pnas.1210224110](https://doi.org/10.1073/pnas.1210224110)
+- <span id="page-10-1"></span>Barshis, D. J., Stillman, J. H., Gates, R. D., Toonen, R. J., Smith, L. W., and Birkeland, C. (2010).
+
+--- SENTENCE 372 ---
+Protein expression and genetic structure of the coral Porites lobata in an environmentally extreme Samoan back reef: does host genotype limit phenotypic plasticity?
+
+--- SENTENCE 373 ---
+doi: [10.1111/j.1365-294X.2010.04574.x](https://doi.org/10.1111/j.1365-294X.2010.04574.x)
+- <span id="page-10-18"></span>Baums, I. B., Devlin-Durante, M. K., and LaJeunesse, T. C. (2014).
+
+--- SENTENCE 374 ---
+New insights into the dynamics between reef corals and their associated dinoflagellate endosymbionts from population genetic studies.
+
+--- SENTENCE 375 ---
+[10.1111/mec.12788](https://doi.org/10.1111/mec.12788)
+- <span id="page-10-7"></span>Bay, R. A., and Palumbi, S. R. (2014).
+
+--- SENTENCE 376 ---
+Multilocus adaptation associated with heat resistance in reef-building corals.
+
+--- SENTENCE 377 ---
+[10.1016/j.cub.2014.10.044](https://doi.org/10.1016/j.cub.2014.10.044)
+- <span id="page-10-3"></span>Bay, R. A., and Palumbi, S. R. (2015).
+
+--- SENTENCE 378 ---
+Rapid acclimation ability mediated by transcriptome changes in reef-building corals.
+
+--- SENTENCE 379 ---
+[10.1093/gbe/evv085](https://doi.org/10.1093/gbe/evv085)
+
+- <span id="page-10-6"></span>Bay, R. A., and Palumbi, S. R. (2017).
+
+--- SENTENCE 380 ---
+Transcriptome predictors of coral survival and growth in a highly variable environment.
+
+--- SENTENCE 381 ---
+[10.1002/ece3.2685](https://doi.org/10.1002/ece3.2685)
+- <span id="page-10-9"></span>Bay, R. A., Rose, N., Barrett, R., Bernatchez, L., Ghalambor, C. K., Lasky, J. R., et al. (2017a).
+
+--- SENTENCE 382 ---
+Predicting responses to contemporary environmental change using evolutionary response architectures.
+
+--- SENTENCE 383 ---
+[10.1086/691233](https://doi.org/10.1086/691233)
+- <span id="page-10-22"></span>Bay, R. A., Rose, N. H., Logan, C. A., and Palumbi, S. R. (2017b).
+
+--- SENTENCE 384 ---
+Genomic models predict successful coral adaptation if future ocean warming rates are reduced.
+
+--- SENTENCE 385 ---
+[10.1126/sciadv.1701413](https://doi.org/10.1126/sciadv.1701413)
+- <span id="page-10-16"></span>Bellantuono, A. J., Granados-Cifuentes, C., Miller, D. J., Hoegh-guldberg, O., and Rodriguez-Lanetty, M. (2012a).
+
+--- SENTENCE 386 ---
+Coral thermal tolerance: tuning gene expression to resist thermal stress.
+
+--- SENTENCE 387 ---
+[10.1371/journal.pone.0050685](https://doi.org/10.1371/journal.pone.0050685)
+- <span id="page-10-15"></span>Bellantuono, A. J., Hoegh-guldberg, O., and Rodriguez-Lanetty, M. (2012b).
+
+--- SENTENCE 388 ---
+Resistance to thermal stress in corals without changes in symbiont composition.
+
+--- SENTENCE 389 ---
+doi: [10.1098/rspb.2011.1780](https://doi.org/10.1098/rspb.2011.1780)
+- <span id="page-10-11"></span>Berg, J. J., and Coop, G. (2014).
+
+--- SENTENCE 390 ---
+A population genetic signal of polygenic adaptation. PLoS Genet.
+
+--- SENTENCE 391 ---
+[10.1371/journal.pgen.1004412](https://doi.org/10.1371/journal.pgen.1004412)
+- <span id="page-10-4"></span>Berkelmans, R., and van Oppen, M. J. H. (2006).
+
+--- SENTENCE 392 ---
+The role of zooxanthellae in the thermal tolerance of corals: a "nugget of hope" for coral reefs in an era of climate change.
+
+--- SENTENCE 393 ---
+doi: 10.1098/rspb.](https://doi.org/10.1098/rspb.2006.3567) 2006.3567
+- <span id="page-10-19"></span>Bernatchez, L. (2016).
+
+--- SENTENCE 394 ---
+On the maintenance of genetic variation and adaptation to environmental change: considerations from population genomics in fishes.
+
+--- SENTENCE 395 ---
+[10.1111/jfb.13145](https://doi.org/10.1111/jfb.13145)
+- <span id="page-10-12"></span>Brown, B. E. (1997).
+
+--- SENTENCE 396 ---
+Adaptations of reef corals to physical environmental stress.
+
+--- SENTENCE 397 ---
+Mar. Biol. 31, 221–299.
+
+--- SENTENCE 398 ---
+[10.1016/S0065-2881\(08\)60224-2](https://doi.org/10.1016/S0065-2881(08)60224-2)
+- <span id="page-10-14"></span>Brown, B. E., Downs, C. A., Dunne, R. P., and Gibb, S. W. (2002).
+
+--- SENTENCE 399 ---
+Exploring the basis of thermotolerance in the reef coral Gonistrea aspera.
+
+--- SENTENCE 400 ---
+[10.3354/meps242119](https://doi.org/10.3354/meps242119)
+- <span id="page-10-13"></span>Brown, B. E., Dunne, R. P., Warner, M. E., Ambarsari, I., Fitt, W. K., Gibb, S. W., et al. (2000).
+
+--- SENTENCE 401 ---
+Damage and recovery of Photosystem II during a manipulative field experiment on solar bleaching in the coral Goniastrea aspera.
+
+--- SENTENCE 402 ---
+[10.3354/meps195117](https://doi.org/10.3354/meps195117)
+- <span id="page-10-8"></span>Camp, E. F., Nitschke, M. R., Rodolfo-Metalpa, R., Houlbreque, F., Gardner, S. G., Smith, D. J., et al. (2017).
+
+--- SENTENCE 403 ---
+Reef-building corals thrive within hot[acidified and deoxygenated waters.](https://doi.org/10.1038/s41598-017-02383-y) Sci.
+
+--- SENTENCE 404 ---
+doi: 10.1038/s41598-017- 02383-y
+
+- <span id="page-11-26"></span>Castillo, K. D., and Helmuth, B. S. T. (2005).
+
+--- SENTENCE 405 ---
+Influence of thermal history on the response of Montastraea annularis to short-term temperature exposure.
+
+--- SENTENCE 406 ---
+[10.1007/s00227-005-0046-x](https://doi.org/10.1007/s00227-005-0046-x)
+- <span id="page-11-22"></span>Castillo, K. D., Ries, J. B., Weiss, J. M., and Lima, F. P. (2012).
+
+--- SENTENCE 407 ---
+Decline of forereef corals in response to recent warming linked to history of thermal exposure.
+
+--- SENTENCE 408 ---
+[10.1038/nclimate1577](https://doi.org/10.1038/nclimate1577)
+- <span id="page-11-1"></span>Chevin, L., Lande, R., and Mace, G. M. (2010).
+
+--- SENTENCE 409 ---
+Adaptation, plasticity, and extinction in a changing environment : towards a predictive theory.
+
+--- SENTENCE 410 ---
+doi: [10.1371/journal.pbio.1000357](https://doi.org/10.1371/journal.pbio.1000357)
+- <span id="page-11-18"></span>Coles, S. L., and Riegl, B. M. (2013).
+
+--- SENTENCE 411 ---
+Thermal tolerances of reef corals in the Gulf: a review of the potential for increasing coral survival and adaptation to climate change through assisted translocation.
+
+--- SENTENCE 412 ---
+[10.1016/j.marpolbul.2012.09.006](https://doi.org/10.1016/j.marpolbul.2012.09.006)
+- <span id="page-11-36"></span>Cooper, T. F., Berkelmans, R., Ulstrup, K. E., Weeks, S., Radford, B., Jones, A. M., et al. (2011).
+
+--- SENTENCE 413 ---
+Environmental factors controlling the distribution of symbiodinium harboured by the coral Acropora millepora on the Great Barrier Reef.
+
+--- SENTENCE 414 ---
+doi: [10.1371/journal.pone.0025536](https://doi.org/10.1371/journal.pone.0025536)
+- <span id="page-11-9"></span>Craig, P., Birkeland, C., and Belliveau, S. (2001).
+
+--- SENTENCE 415 ---
+High temperatures tolerated by a diverse assemblage of shallow-water corals in American Samoa.
+
+--- SENTENCE 416 ---
+Coral Reefs 20, 185–189.
+
+--- SENTENCE 417 ---
+[10.1007/s003380100159](https://doi.org/10.1007/s003380100159)
+- <span id="page-11-41"></span>Davies, S. W., Treml, E., Kenkel, C. D., and Matz, M. V. (2014).
+
+--- SENTENCE 418 ---
+Exploring the role of Micronesian islands in the maintenance of coral genetic diversity in the Pacific Ocean.
+
+--- SENTENCE 419 ---
+[10.1111/mec.13005](https://doi.org/10.1111/mec.13005)
+- <span id="page-11-7"></span>Dixon, G. B., Davies, S., Aglyamova, G., Meyer, E., Bay, L. K., and Matz, M. V. (2015).
+
+--- SENTENCE 420 ---
+Genomic determinants of coral heat tolerance across latitudes.
+
+--- SENTENCE 421 ---
+doi: [10.1126/science.1261224](https://doi.org/10.1126/science.1261224)
+- <span id="page-11-0"></span>Dong, Y., and Somero, G. N. (2009).
+
+--- SENTENCE 422 ---
+Temperature adaptation of cytosolic malate dehydrogenases of limpets (genus Lottia): differences in stability and function due to minor changes in sequence correlate with biogeographic and vertical distributions.
+
+--- SENTENCE 423 ---
+[10.1242/jeb.024505](https://doi.org/10.1242/jeb.024505)
+- <span id="page-11-33"></span>Dove, S., Ortiz, J. C., Enríquez, S., Fine, M., Fisher, P., Prieto, R. I., et al. (2006).
+
+--- SENTENCE 424 ---
+Response of holosymbiont pigments from the scleractinian coral Montipora monasteriata to short-term heat stress.
+
+--- SENTENCE 425 ---
+[10.4319/lo.2006.51.2.1149](https://doi.org/10.4319/lo.2006.51.2.1149)
+- <span id="page-11-32"></span>Dustan, P. (1973).
+
+--- SENTENCE 426 ---
+Distribution of zooxanthellae and photosynthetic chloroplast pigments of the reef-building coral Montastrea.
+
+--- SENTENCE 427 ---
+Mar. Sci. 29, 79–95.
+- <span id="page-11-14"></span>Fisher, P. L., Malme, M. K., and Dove, S. (2012).
+
+--- SENTENCE 428 ---
+The effect of temperature stress on coral–Symbiodinium associations containing distinct symbiont types.
+
+--- SENTENCE 429 ---
+Coral Reefs 31, 473–485.
+
+--- SENTENCE 430 ---
+[10.1007/s00338-011-0853-0](https://doi.org/10.1007/s00338-011-0853-0)
+- <span id="page-11-2"></span>Foo, S. A., and Byrne, M. (2016).
+
+--- SENTENCE 431 ---
+Acclimatization and adaptive capacity of marine species in a changing ocean.
+
+--- SENTENCE 432 ---
+[10.1016/bs.amb.2016.06.001](https://doi.org/10.1016/bs.amb.2016.06.001)
+- <span id="page-11-11"></span>Fordyce, J. A. (2006).
+
+--- SENTENCE 433 ---
+The evolutionary consequences of ecological interactions mediated through phenotypic plasticity.
+
+--- SENTENCE 434 ---
+[10.1242/jeb.02271](https://doi.org/10.1242/jeb.02271)
+- <span id="page-11-10"></span>Franssen, S. U., Gu, J., Bergmann, N., Winters, G., Klostermeier, U. C., Rosenstiel, P., et al. (2011).
+
+--- SENTENCE 435 ---
+Transcriptomic resilience to global warming in the seagrass Zostera marina, a marine foundation species.
+
+--- SENTENCE 436 ---
+[10.1073/pnas.1107680108](https://doi.org/10.1073/pnas.1107680108)
+- <span id="page-11-29"></span>Gagnaire, P. A., and Gaggiotti, O. E. (2016).
+
+--- SENTENCE 437 ---
+Detecting polygenic selection in marine populations by combining population genomics and quantitative genetics approaches.
+
+--- SENTENCE 438 ---
+[10.1093/cz/zow088](https://doi.org/10.1093/cz/zow088)
+- <span id="page-11-17"></span>Gagnaire, P. A., Normandeau, E., Côté, C., Hansen, M. M., and Bernatchez, L. (2012).
+
+--- SENTENCE 439 ---
+The genetic consequences of spatially varying selection in the panmictic american eel (Anguilla rostrata).
+
+--- SENTENCE 440 ---
+doi: [10.1534/genetics.111.134825](https://doi.org/10.1534/genetics.111.134825)
+- <span id="page-11-34"></span>Gates, R. D., and Edmunds, P. J. (1999).
+
+--- SENTENCE 441 ---
+The physiological mechanisms of acclimatization in tropical reef corals.
+
+--- SENTENCE 442 ---
+[10.1093/icb/39.1.30](https://doi.org/10.1093/icb/39.1.30)
+- <span id="page-11-16"></span>Gilad, Y., Rifkin, S. A., and Pritchard, J. K. (2008).
+
+--- SENTENCE 443 ---
+Revealing the architecture of gene regulation: the promise of eQTL studies.
+
+--- SENTENCE 444 ---
+Trends Genet. 24, 408–415.
+
+--- SENTENCE 445 ---
+[10.1016/j.tig.2008.06.001](https://doi.org/10.1016/j.tig.2008.06.001)
+- <span id="page-11-21"></span>Goreau, T. J., and Macfarlane, A. H. (1990).
+
+--- SENTENCE 446 ---
+Coral Reefs following the 1987-1988 coral-bleaching event.
+
+--- SENTENCE 447 ---
+Coral Reefs 8, 211–215.
+
+--- SENTENCE 448 ---
+[10.1007/BF00265013](https://doi.org/10.1007/BF00265013)
+- <span id="page-11-31"></span>Hale, M. C., Thrower, F. P., Berntson, E. A., Miller, M. R., and Nichols, K. M. (2013).
+
+--- SENTENCE 449 ---
+Evaluating adaptive divergence between migratory and nonmigratory ecotypes of a salmonid fish, Oncorhynchus mykiss.
+
+--- SENTENCE 450 ---
+[10.1534/g3.113.006817](https://doi.org/10.1534/g3.113.006817)
+
+- <span id="page-11-27"></span>Hereford, J. (2009).
+
+--- SENTENCE 451 ---
+A quantitative survey of local adaptation and fitness trade-offs.
+
+--- SENTENCE 452 ---
+[10.1086/597611](https://doi.org/10.1086/597611)
+- <span id="page-11-15"></span>Hernandez-Agreda, A., Gates, R. D., and Ainsworth, T. D. (2017).
+
+--- SENTENCE 453 ---
+Defining the core microbiome in corals' microbial soup.
+
+--- SENTENCE 454 ---
+Trends Microbiol. 25, 125–140.
+
+--- SENTENCE 455 ---
+[10.1016/j.tim.2016.11.003](https://doi.org/10.1016/j.tim.2016.11.003)
+- <span id="page-11-3"></span>Hoegh-guldberg, O. (1999).
+
+--- SENTENCE 456 ---
+Climate change, coral bleaching and the future of the world's coral reefs.
+
+--- SENTENCE 457 ---
+Res. 50, 839–866.
+- <span id="page-11-5"></span>Hoegh-guldberg, O., Mumby, P. J., Hooten, A. J., Steneck, R. S., Greenfield, P., Gomez, E., et al. (2007).
+
+--- SENTENCE 458 ---
+Coral reefs under rapid climate change and ocean acidification.
+
+--- SENTENCE 459 ---
+doi: [10.1126/science.1152509](https://doi.org/10.1126/science.1152509)
+- <span id="page-11-40"></span>Hoffmann, A. A., and Sgrò, C. M. (2011).
+
+--- SENTENCE 460 ---
+Climate change and evolutionary adaptation.
+
+--- SENTENCE 461 ---
+[10.1038/nature09670](https://doi.org/10.1038/nature09670)
+- <span id="page-11-39"></span>Howells, E. J., Beltran, V. H., Larsen, N. W., Bay, L. K., Willis, B. L., and van Oppen, M. J. H. (2011).
+
+--- SENTENCE 462 ---
+Coral thermal tolerance shaped by local adaptation of photosymbionts.
+
+--- SENTENCE 463 ---
+doi: [10.1038/nclimate1330](https://doi.org/10.1038/nclimate1330)
+- <span id="page-11-20"></span>Howells, E. J., Berkelmans, R., van Oppen, M. J. H., Willis, B. L., and Bay, L. K. (2013).
+
+--- SENTENCE 464 ---
+Historical thermal regimes define limits to coral acclimatization.
+
+--- SENTENCE 465 ---
+[10.1890/12-1257.1](https://doi.org/10.1890/12-1257.1)
+- <span id="page-11-28"></span>Hudson, J. H. (1981).
+
+--- SENTENCE 466 ---
+Growth rates in Montastrea annularis: a record of environmental change in key largo reef marine sanctuary, florida.
+
+--- SENTENCE 467 ---
+Mar. Sci. 31, 444–459.
+- <span id="page-11-4"></span>Hughes, T. P., Baird, A. H., Bellwood, D. R., Card, M., Connolly, S. R., Folke, C., et al. (2003).
+
+--- SENTENCE 468 ---
+Climate change, human impacts and the resilience of coral reefs.
+
+--- SENTENCE 469 ---
+doi: [10.1126/science.1085046](https://doi.org/10.1126/science.1085046)
+- <span id="page-11-6"></span>Hughes, T. P., Barnes, M. L., Bellwood, D. R., Cinner, J. E., Cumming, G. S., Jackson, J. B. C., et al. (2017).
+
+--- SENTENCE 470 ---
+Coral reefs in the Anthropocene.
+
+--- SENTENCE 471 ---
+[10.1038/nature22901](https://doi.org/10.1038/nature22901)
+- <span id="page-11-13"></span>Hume, B. C., D'Angelo, C., Smith, E. G., Stevens, J. R., Burt, J., and Wiedenmann, J. (2015).
+
+--- SENTENCE 472 ---
+nov., a thermotolerant symbiotic alga prevalent in corals of the world's hottest sea, the Persian/Arabian Gulf.
+
+--- SENTENCE 473 ---
+[10.1038/srep08562](https://doi.org/10.1038/srep08562)
+- <span id="page-11-37"></span>Hume, B. C., Voolstra, C. R., Arif, C., D'Angelo, C., Burt, J. A., Eyal, G., et al. (2016).
+
+--- SENTENCE 474 ---
+Ancestral genetic diversity associated with the rapid spread of stress-tolerant coral symbionts in response to Holocene climate change.
+
+--- SENTENCE 475 ---
+[10.1073/pnas.1601910113](https://doi.org/10.1073/pnas.1601910113)
+- <span id="page-11-30"></span>Jain, K., and Stephan, W. (2017).
+
+--- SENTENCE 476 ---
+Modes of rapid polygenic adaptation.
+
+--- SENTENCE 477 ---
+[10.1093/molbev/msx240](https://doi.org/10.1093/molbev/msx240)
+- <span id="page-11-12"></span>Jones, A. M., Berkelmans, R., van Oppen, M. J. H., Mieog, J. C., and Sinclair, W. (2008).
+
+--- SENTENCE 478 ---
+A community change in the algal endosymbionts of a scleractinian coral following a natural bleaching event: field evidence of acclimatization.
+
+--- SENTENCE 479 ---
+doi: [10.1098/rspb.2008.0069](https://doi.org/10.1098/rspb.2008.0069)
+- <span id="page-11-24"></span>Kenkel, C. D., Almanza, A. T., and Matz, M. V. (2015).
+
+--- SENTENCE 480 ---
+Fine-scale environmental specialization of reef-building corals might be limiting reef recovery in the Florida Keys.
+
+--- SENTENCE 481 ---
+[10.1890/14-2297.1](https://doi.org/10.1890/14-2297.1)
+- <span id="page-11-25"></span>Kenkel, C. D., Goodbody-Gringley, G., Caillaud, D., Davies, S. W., Bartels, E., and Matz, M. V. (2013a).
+
+--- SENTENCE 482 ---
+Evidence for a host role in thermotolerance divergence between populations of the mustard hill coral (Porites astreoides) from different reef environments.
+
+--- SENTENCE 483 ---
+[10.1111/mec.12391](https://doi.org/10.1111/mec.12391)
+- <span id="page-11-35"></span>Kenkel, C. D., and Matz, M. V (2016).
+
+--- SENTENCE 484 ---
+Enhanced gene expression plasticity as a mechanism of adaptation to a variable environment in a reef-building coral.
+
+--- SENTENCE 485 ---
+[10.1038/s41559-016-0014](https://doi.org/10.1038/s41559-016-0014)
+- <span id="page-11-23"></span>Kenkel, C. D., Meyer, E., and Matz, M. V. (2013b).
+
+--- SENTENCE 486 ---
+Gene expression under chronic heat stress in populations of the mustard hill coral (Porites astreoides) from different thermal environments.
+
+--- SENTENCE 487 ---
+[10.1111/mec.12390](https://doi.org/10.1111/mec.12390)
+- <span id="page-11-38"></span>Keshavmurthy, S., Hsu, C. M., Kuo, C. Y., Meng, P. J., Wang, J. T., and Chen, C. A. (2012).
+
+--- SENTENCE 488 ---
+Symbiont communities and host genetic structure of the brain coral Platygyra verweyi, at the outlet of a nuclear power plant and adjacent areas.
+
+--- SENTENCE 489 ---
+[10.1111/j.1365-294X.2012.05704.x](https://doi.org/10.1111/j.1365-294X.2012.05704.x)
+- <span id="page-11-42"></span>Kingsolver, J. G., and Huey, R. B. (1998).
+
+--- SENTENCE 490 ---
+Evolutionary analyses of morphological and physiological plasticity in thermally variable environments.
+
+--- SENTENCE 491 ---
+doi: [10.1093/icb/38.3.545](https://doi.org/10.1093/icb/38.3.545)
+- <span id="page-11-8"></span>Kleypas, J. A., Thompson, D. M., Castruccio, F. S., Curchitser, E. N., Pinsky, M., and Watson, J. R. (2016).
+
+--- SENTENCE 492 ---
+Larval connectivity across temperature gradients, and its potential effect on heat tolerance in coral populations.
+
+--- SENTENCE 493 ---
+[10.1111/gcb.13347](https://doi.org/10.1111/gcb.13347)
+- <span id="page-11-19"></span>Kline, D. I., Teneva, L., Hauri, C., Schneider, K., Miard, T., Chai, A., et al. (2015).
+
+--- SENTENCE 494 ---
+Six month in situ high-resolution carbonate chemistry and temperature study
+
+- on a coral reef flat reveals asynchronous pH and temperature anomalies.
+
+--- SENTENCE 495 ---
+[10.1371/journal.pone.0127648](https://doi.org/10.1371/journal.pone.0127648)
+- <span id="page-12-7"></span>Koweek, D. A., Dunbar, R. B., Monismith, S. G., Mucciarone, D. A., Woodson, C. B., and Samuel, L. (2015).
+
+--- SENTENCE 496 ---
+High-resolution physical and biogeochemical variability from a shallow back reef on Ofu, American Samoa: an end-member perspective.
+
+--- SENTENCE 497 ---
+Coral Reefs 34, 979–991.
+
+--- SENTENCE 498 ---
+[10.1007/s00338-015-1308-9](https://doi.org/10.1007/s00338-015-1308-9)
+- <span id="page-12-4"></span>Kuo, E. S. L., and Sanford, E. (2009).
+
+--- SENTENCE 499 ---
+Geographic variation in the upper thermal limits of an intertidal snail : implications for climate envelope models.
+
+--- SENTENCE 500 ---
+[10.3354/meps08102](https://doi.org/10.3354/meps08102)
+- <span id="page-12-15"></span>Lajeunesse, T. C., Bhagooli, R., Hidaka, M., Done, T., Schmidt, G. W., and Fitt, W. K. (2004).
+
+--- SENTENCE 501 ---
+Closely related Symbiodinium spp.
+
+--- SENTENCE 502 ---
+differ in relative dominance in coral reef host communities across environmental, latitudinal and biogeographic gradients.
+
+--- SENTENCE 503 ---
+[10.3354/meps284147](https://doi.org/10.3354/meps284147)
+- <span id="page-12-30"></span>Laporte, M., Pavey, S., Rougeux, C., Pierron, F., Lauzent, M., Budzinski, H., et al. (2015).
+
+--- SENTENCE 504 ---
+RAD-sequencing reveals within-generation polygenic selection in response to anthropogenic organic and metal contamination in North Atlantic Eels.
+
+--- SENTENCE 505 ---
+[10.1111/mec.13466](https://doi.org/10.1111/mec.13466)
+- <span id="page-12-22"></span>Lema, K. A., Willis, B. L., and Bourne, D. G. (2012).
+
+--- SENTENCE 506 ---
+Corals form characteristic associations with symbiotic nitrogen-fixing bacteria.
+
+--- SENTENCE 507 ---
+[10.1128/AEM.07800-11](https://doi.org/10.1128/AEM.07800-11)
+- <span id="page-12-24"></span>Levene, H. (1953).
+
+--- SENTENCE 508 ---
+Genetic equilibrium when more than one ecological niche is available.
+
+--- SENTENCE 509 ---
+doi: [10.1086/281792](https://doi.org/10.1086/281792)
+- <span id="page-12-28"></span>Limborg, M. T., Helyar, S. J., De Bruyn, M., Taylor, M. I., Nielsen, E. E., Ogden, R., et al. (2012).
+
+--- SENTENCE 510 ---
+Environmental selection on transcriptomederived SNPs in a high gene flow marine fish, the Atlantic herring (Clupea harengus).
+
+--- SENTENCE 511 ---
+doi: 10.1111/j.1365-294X.2012.](https://doi.org/10.1111/j.1365-294X.2012.05639.x) 05639.x
+- <span id="page-12-33"></span>Maynard, J. A., Anthony, K. R. N., Marshall, P., and Masiri, I. (2008).
+
+--- SENTENCE 512 ---
+Major bleaching events can lead to increased thermal tolerance in corals.
+
+--- SENTENCE 513 ---
+[10.1007/s00227-008-1015-y](https://doi.org/10.1007/s00227-008-1015-y)
+- <span id="page-12-26"></span>Middlebrook, R., Hoegh-Guldberg, O., and Leggat, W. (2008).
+
+--- SENTENCE 514 ---
+The effect of thermal history on the susceptibility of reef-building corals to thermal stress.
+
+--- SENTENCE 515 ---
+[10.1242/jeb.013284](https://doi.org/10.1242/jeb.013284)
+- <span id="page-12-36"></span>Miller, K. J., and Ayre, D. J. (2008).
+
+--- SENTENCE 516 ---
+Protection of genetic diversity and maintenance of connectivity among reef corals within marine protected areas.
+
+--- SENTENCE 517 ---
+[10.1111/j.1523-1739.2008.00985.x](https://doi.org/10.1111/j.1523-1739.2008.00985.x)
+- <span id="page-12-17"></span>Oliver, T., and Palumbi, S. R. (2010).
+
+--- SENTENCE 518 ---
+Many corals host thermally resistant symbionts in high-temperature habitat.
+
+--- SENTENCE 519 ---
+Coral Reefs 30, 241–250.
+
+--- SENTENCE 520 ---
+[10.1007/s00338-010-0696-0](https://doi.org/10.1007/s00338-010-0696-0)
+- <span id="page-12-13"></span>Oliver, T., and Palumbi, S. R. (2011).
+
+--- SENTENCE 521 ---
+Do fluctuating temperature environments elevate coral thermal tolerance?
+
+--- SENTENCE 522 ---
+Coral Reefs 30, 429–440.
+
+--- SENTENCE 523 ---
+[10.1007/s00338-011-0721-y](https://doi.org/10.1007/s00338-011-0721-y)
+- <span id="page-12-6"></span>Palumbi, S. R., Barshis, D. J., Taylor-Knowles, N., and Bay, R. A. (2014).
+
+--- SENTENCE 524 ---
+Mechainsms of reef coral resistance to future climate change.
+
+--- SENTENCE 525 ---
+doi: [10.1126/science.1251336](https://doi.org/10.1126/science.1251336)
+- <span id="page-12-1"></span>Pereira, R. J., Sasaki, M. C., and Burton, R. S. (2016).
+
+--- SENTENCE 526 ---
+Adaptation to a latitudinal thermal gradient within a widespread copepod species: the contributions of genetic divergence and developmental plasticity.
+
+--- SENTENCE 527 ---
+doi: [10.1098/rspb.2017.0236](https://doi.org/10.1098/rspb.2017.0236)
+- <span id="page-12-29"></span>Pespeni, M. H., Barney, B. T., and Palumbi, S. R. (2013).
+
+--- SENTENCE 528 ---
+Differences in the regulation of growth and biomineralization genes revealed through long-term common-garden acclimation and experimental genomics in the purple sea urchin.
+
+--- SENTENCE 529 ---
+doi: [10.1111/evo.12036](https://doi.org/10.1111/evo.12036)
+- <span id="page-12-37"></span>Poloczanska, E. S., Brown, C. J., Sydeman, W. J., Kiessling, W., Schoeman, D. S., Moore, P. J., et al. (2013).
+
+--- SENTENCE 530 ---
+Global imprint of climate change on marine life.
+
+--- SENTENCE 531 ---
+[10.1038/nclimate1958](https://doi.org/10.1038/nclimate1958)
+- <span id="page-12-35"></span>Reid, N. M., Proestou, D. A., Clark, B. W., Warren, W. C., Colbourne, J. K., Shaw, J. R., et al. (2016).
+
+--- SENTENCE 532 ---
+The genomic landscape of rapid repeated evolutionary adaptation to toxic pollution in wild fish.
+
+--- SENTENCE 533 ---
+[10.1126/science.aah4993](https://doi.org/10.1126/science.aah4993)
+- <span id="page-12-25"></span>Richards, Z. T., Garcia, R. A., Wallace, C. C., Rosser, N. L., and Muir, P. R. (2015).
+
+--- SENTENCE 534 ---
+A diverse assemblage of reef corals thriving in a dynamic intertidal reef setting (Bonaparte archipelago, Kimberley, Australia).
+
+--- SENTENCE 535 ---
+[10.1371/journal.pone.0117791](https://doi.org/10.1371/journal.pone.0117791)
+- <span id="page-12-20"></span>Ritchie, K. B. (2006).
+
+--- SENTENCE 536 ---
+Regulation of microbial populations by coral surface mucus and mucus-associated bacteria.
+
+--- SENTENCE 537 ---
+[10.3354/meps322001](https://doi.org/10.3354/meps322001)
+
+- <span id="page-12-12"></span>Ritchie, R. J. (2008).
+
+--- SENTENCE 538 ---
+Universal chlorophyll equations for estimating chlorophylls a, b, c, and d and total chlorophylls in natural assemblages of photosynthetic organisms using acetone, methanol, or ethanol solvents.
+
+--- SENTENCE 539 ---
+[10.1007/s11099-008-0019-7](https://doi.org/10.1007/s11099-008-0019-7)
+- <span id="page-12-16"></span>Rowan, R. (2004).
+
+--- SENTENCE 540 ---
+Thermal adaptation in reef coral symbionts.
+
+--- SENTENCE 541 ---
+doi: [10.1038/430742a](https://doi.org/10.1038/430742a)
+- <span id="page-12-32"></span>Rockman, M. V. (2012).
+
+--- SENTENCE 542 ---
+The QTN program and the alleles that matter for evolution: all that's gold does not glitter.
+
+--- SENTENCE 543 ---
+[10.1111/j.1558-5646.2011.01486.x](https://doi.org/10.1111/j.1558-5646.2011.01486.x)
+- <span id="page-12-38"></span>Romiguier, J., Gayral, P., Ballenghien, M., Bernard, A., Cahais, V., Chenuil, A., et al. (2014).
+
+--- SENTENCE 544 ---
+Comparative population genomics in animals uncovers the determinants of genetic diversity.
+
+--- SENTENCE 545 ---
+[10.1038/nature13685](https://doi.org/10.1038/nature13685)
+- <span id="page-12-23"></span>Rose, N. H., Bay, R. A., Morikawa, M. K., and Palumbi, S. R., (2017).
+
+--- SENTENCE 546 ---
+Polygenic evolution drives species divergence and climate adaptation in corals.
+
+--- SENTENCE 547 ---
+[10.1111/evo.13385](https://doi.org/10.1111/evo.13385)
+- <span id="page-12-11"></span>Rose, N. H., Seneca, F. O., and Palumbi, S. R. (2016).
+
+--- SENTENCE 548 ---
+Gene networks in the wild : identifying transcriptional modules that mediate coral resistance to experimental heat stress.
+
+--- SENTENCE 549 ---
+[10.1093/gbe/evv258](https://doi.org/10.1093/gbe/evv258)
+- <span id="page-12-21"></span>Rosenberg, E., Koren, O., Reshef, L., and Efrony, R. (2007).
+
+--- SENTENCE 550 ---
+The role of microorganisms in coral health, disease and evolution.
+
+--- SENTENCE 551 ---
+Nat. Rev. Microbiol. 5, 355–362.
+
+--- SENTENCE 552 ---
+[10.1038/nrmicro1635](https://doi.org/10.1038/nrmicro1635)
+- <span id="page-12-14"></span>Ruiz-Jones, L. J., and Palumbi, S. R. (2017).
+
+--- SENTENCE 553 ---
+Tidal heat pulses on a reef trigger a fine-tuned transcriptional response in corals to maintain homeostasis.
+
+--- SENTENCE 554 ---
+[10.1126/sciadv.1601298](https://doi.org/10.1126/sciadv.1601298)
+- <span id="page-12-3"></span>Sagarin, R. D., and Somero, G. N. (2006).
+
+--- SENTENCE 555 ---
+Complex patterns of expression of heatshock protein 70 across the southern biogeographical ranges of the intertidal mussel Mytilus californianus and snail Nucella ostrina.
+
+--- SENTENCE 556 ---
+doi: [10.1111/j.1365-2699.2005.01403.x](https://doi.org/10.1111/j.1365-2699.2005.01403.x)
+- <span id="page-12-19"></span>Sampayo, E. M., Ridgway, T., Bongaerts, P., and Hoegh-guldberg, O. (2008).
+
+--- SENTENCE 557 ---
+Bleaching susceptibility and mortality of corals are determined by fine-scale differences in symbiont type.
+
+--- SENTENCE 558 ---
+[10.1073/pnas.0708049105](https://doi.org/10.1073/pnas.0708049105)
+- <span id="page-12-31"></span>Samuk, K., Owens, G. L., Delmore, K. E., Miller, S. E., Rennison, D. J., and Schluter, D. (2017).
+
+--- SENTENCE 559 ---
+Gene flow and selection interact to promote adaptive divergence in regions of low recombination.
+
+--- SENTENCE 560 ---
+[10.1111/mec.14226](https://doi.org/10.1111/mec.14226)
+- <span id="page-12-5"></span>Savolainen, O., Lascoux, M., and Merilä, J. (2013).
+
+--- SENTENCE 561 ---
+Ecological genomics of local adaptation.
+
+--- SENTENCE 562 ---
+doi: [10.1038/nrg3522](https://doi.org/10.1038/nrg3522)
+- <span id="page-12-27"></span>Schoepf, V., Stat, M., Falter, J. L., and McCulloch, M. T. (2015).
+
+--- SENTENCE 563 ---
+Limits to the thermal tolerance of corals adapted to a highly fluctuating, naturally extreme temperature environment.
+
+--- SENTENCE 564 ---
+[10.1038/srep17639](https://doi.org/10.1038/srep17639)
+- <span id="page-12-39"></span>Seebacher, F., White, C. R., and Franklin, C. E. (2014).
+
+--- SENTENCE 565 ---
+Physiological plasticity increases resilience of ectothermic animals to climate change.
+
+--- SENTENCE 566 ---
+[10.1038/nclimate2457](https://doi.org/10.1038/nclimate2457)
+- <span id="page-12-10"></span>Seneca, F. O., and Palumbi, S. R. (2015).
+
+--- SENTENCE 567 ---
+The role of transcriptome resilience in resistance of corals to bleaching.
+
+--- SENTENCE 568 ---
+[10.1111/mec.13125](https://doi.org/10.1111/mec.13125)
+- <span id="page-12-34"></span>Shuail, D., Wiedenmann, J., D'Angelo, C., Baird, A. H., Pratchett, M. S., Riegl, B., et al. (2016).
+
+--- SENTENCE 569 ---
+Local bleaching thresholds established by remote sensing techniques vary among reefs with deviating bleaching patterns during the 2012 event in the Arabian/Persian Gulf.
+
+--- SENTENCE 570 ---
+[10.1016/j.marpolbul.2016.03.001](https://doi.org/10.1016/j.marpolbul.2016.03.001)
+- <span id="page-12-9"></span>Smith, L. W., Barshis, D. J., and Birkeland, C. (2007).
+
+--- SENTENCE 571 ---
+Phenotypic plasticity for skeletal growth, density and calcification of Porites lobata in response to habitat type.
+
+--- SENTENCE 572 ---
+Coral Reefs 26, 559–567.
+
+--- SENTENCE 573 ---
+doi: [10.1007/s00338-007-0216-z](https://doi.org/10.1007/s00338-007-0216-z)
+- <span id="page-12-8"></span>Smith, L. W., and Birkeland, C. (2007).
+
+--- SENTENCE 574 ---
+Effects of intermittent flow and irradiance level on back reef Porites corals at elevated seawater temperatures.
+
+--- SENTENCE 575 ---
+[10.1016/j.jembe.2006.10.053](https://doi.org/10.1016/j.jembe.2006.10.053)
+- <span id="page-12-0"></span>Somero, G. N. (2010).
+
+--- SENTENCE 576 ---
+The physiology of climate change: how potentials for acclimatization and genetic adaptation will determine "winners" and "losers."
+
+--- SENTENCE 577 ---
+doi: [10.1242/jeb.037473](https://doi.org/10.1242/jeb.037473)
+- <span id="page-12-2"></span>Sorte, C. J. B., and Hofmann, G. E. (2004).
+
+--- SENTENCE 578 ---
+Changes in latitudes, changes in aptitudes: Nucella canaliculata (Mollusca:Gastropoda) is more stressed at its range edge.
+
+--- SENTENCE 579 ---
+[10.3354/meps274263](https://doi.org/10.3354/meps274263)
+- <span id="page-12-18"></span>Tchernov, D., Gorbunov, M. Y., de Vargas, C., Narayan Yadav, S., Milligan, A. J., Häggblom, M., et al. (2004).
+
+--- SENTENCE 580 ---
+Membrane lipids of symbiotic algae are diagnostic
+
+- of sensitivity to thermal bleaching in corals.
+
+--- SENTENCE 581 ---
+[10.1073/pnas.0402907101](https://doi.org/10.1073/pnas.0402907101)
+- <span id="page-13-6"></span>Thomas, L., Kennington, W., Evans, R., Kendrick, G., and Stat, M. (2017).
+
+--- SENTENCE 582 ---
+Restricted gene flow and local adaptation highlight the vulnerability of highlatitude reefs to rapid environmental change.
+
+--- SENTENCE 583 ---
+[10.1111/gcb.13639](https://doi.org/10.1111/gcb.13639)
+- <span id="page-13-10"></span>Thompson, D. M., and van Woesik, R. (2009).
+
+--- SENTENCE 584 ---
+Corals escape bleaching in regions that recently and historically experienced frequent thermal stress.
+
+--- SENTENCE 585 ---
+[10.1098/rspb.2009.0591](https://doi.org/10.1098/rspb.2009.0591)
+- <span id="page-13-8"></span>Thompson, M. J., and Jiggins, C. (2014).
+
+--- SENTENCE 586 ---
+Supergenes and their role in evolution.
+
+--- SENTENCE 587 ---
+[10.1038/hdy.2014.20](https://doi.org/10.1038/hdy.2014.20)
+- <span id="page-13-4"></span>Tigano, A., and Friesen, V. L. (2016).
+
+--- SENTENCE 588 ---
+Genomics of local adaptation with gene flow.
+
+--- SENTENCE 589 ---
+[10.1111/mec.13606](https://doi.org/10.1111/mec.13606)
+- <span id="page-13-2"></span>Traylor-Knowles, N., Rose, N. H., and Palumbi, S. R. (2017b).
+
+--- SENTENCE 590 ---
+The cell specificity of gene expression in the response to heat stress in corals.
+
+--- SENTENCE 591 ---
+[10.1242/jeb.155275](https://doi.org/10.1242/jeb.155275)
+- <span id="page-13-1"></span>Traylor-knowles, N., Rose, N. H., Sheets, E. A., and Palumbi, S. R. (2017a).
+
+--- SENTENCE 592 ---
+Early transcriptional responses during heat stress in the coral acropora hyacinthus.
+
+--- SENTENCE 593 ---
+[10.1086/692717](https://doi.org/10.1086/692717)
+- <span id="page-13-11"></span>Vera, M., Díez-Del-Molino, D., and García-Marín, J. L. (2016).
+
+--- SENTENCE 594 ---
+Genomic survey provides insights into the evolutionary changes that occurred during European expansion of the invasive mosquitofish (Gambusia holbrooki).
+
+--- SENTENCE 595 ---
+[10.1111/mec.13545](https://doi.org/10.1111/mec.13545)
+- <span id="page-13-7"></span>Wellenreuther, M., and Hansson, B. (2016).
+
+--- SENTENCE 596 ---
+Detecting polygenic evolution: problems, pitfalls, and promises.
+
+--- SENTENCE 597 ---
+[10.1016/j.tig.2015.12.004](https://doi.org/10.1016/j.tig.2015.12.004)
+
+- <span id="page-13-0"></span>Wernberg, T., Bennett, S., Babcock, R. C., Bettignies, T., De Cure, K., Depczynski, M., et al. (2016).
+
+--- SENTENCE 598 ---
+Climate-driven regime shift of a temperate marine ecosystem.
+
+--- SENTENCE 599 ---
+doi: 10.1126/science.](https://doi.org/10.1126/science.aad8745) aad8745
+- <span id="page-13-9"></span>Willis, B. (1985).
+
+--- SENTENCE 600 ---
+"Phenotypic plasticity versus phenotypic stability in the reef corals Turbinaria mesenterina and Pavona cactus," in Proc.
+
+--- SENTENCE 601 ---
+Coral Reef Congr (Tahiti), 107–112.
+- <span id="page-13-5"></span>Yeaman, S. (2015).
+
+--- SENTENCE 602 ---
+Local adaptation by alleles of small effect.
+
+--- SENTENCE 603 ---
+[10.1086/682405](https://doi.org/10.1086/682405)
+- <span id="page-13-3"></span>Ziegler, M., Seneca, F. O., Yum, L. K., Palumbi, S. R., and Voolstra, C. R. (2017).
+
+--- SENTENCE 604 ---
+Bacterial community dynamics are linked to patterns of coral heat tolerance.
+
+--- SENTENCE 605 ---
+[10.1038/ncomms14213](https://doi.org/10.1038/ncomms14213)
+
+**Conflict of Interest Statement:**
+
+--- SENTENCE 606 ---
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+--- SENTENCE 607 ---
+The reviewer MP and handling Editor declared their shared affiliation.
+
+--- SENTENCE 608 ---
+Copyright © 2018 Thomas, Rose, Bay, López, Morikawa, Ruiz-Jones and Palumbi.
+
+--- SENTENCE 609 ---
+This is an open-access article distributed under the terms of the [Creative Commons](http://creativecommons.org/licenses/by/4.0/)
+
+--- SENTENCE 610 ---
+[Attribution License \(CC BY\).](http://creativecommons.org/licenses/by/4.0/)
+
+--- SENTENCE 611 ---
+The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner are credited and that the original publication in this journal is cited, in accordance with accepted academic practice.
+
+--- SENTENCE 612 ---
+No use, distribution or reproduction is permitted which does not comply with these terms.
+

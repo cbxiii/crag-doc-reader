@@ -1,0 +1,263 @@
+{
+  "table_of_contents": [
+    {
+      "title": "REE F PERSPECTIVES \nT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          19.1953125,
+          23.71728515625
+        ],
+        [
+          178.048095703125,
+          23.71728515625
+        ],
+        [
+          178.048095703125,
+          49.16473388671875
+        ],
+        [
+          19.1953125,
+          49.16473388671875
+        ]
+      ]
+    },
+    {
+      "title": "Sir Ronald Fisher's \n\"runaway natural selection \nfor Acropora \nIt",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          24.52734375,
+          62.11669921875
+        ],
+        [
+          306.3759765625,
+          62.11669921875
+        ],
+        [
+          306.3759765625,
+          139.98944091796875
+        ],
+        [
+          24.52734375,
+          139.98944091796875
+        ]
+      ]
+    },
+    {
+      "title": "Charles Birkeland",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          27.193359375,
+          160.3740234375
+        ],
+        [
+          171.9725799560547,
+          160.3740234375
+        ],
+        [
+          171.9725799560547,
+          176.81280517578125
+        ],
+        [
+          27.193359375,
+          176.81280517578125
+        ]
+      ]
+    },
+    {
+      "title": "Literature cited",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          31.841796875000004,
+          19.10009765625
+        ],
+        [
+          102.23766326904297,
+          19.10009765625
+        ],
+        [
+          102.23766326904297,
+          29.86248779296875
+        ],
+        [
+          31.841796875000004,
+          29.86248779296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          166
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          196
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          48
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\2025  Sir Ronald Fisher Acropora-"
+}

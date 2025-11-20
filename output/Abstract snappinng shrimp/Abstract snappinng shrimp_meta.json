@@ -1,0 +1,83 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Macro- and micro-scale spatial variation in the acoustic activity of snapping shrimp on coral \nreefs in the Pacific",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.71875,
+          74.25
+        ],
+        [
+          528.3079833984375,
+          74.25
+        ],
+        [
+          528.3079833984375,
+          103.34002685546875
+        ],
+        [
+          71.71875,
+          103.34002685546875
+        ]
+      ]
+    },
+    {
+      "title": "Zang E, Lammers M, Kaplan M, Mooney TA, Fisher-Pool P, Brainard RE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.328125,
+          116.29998779296875
+        ],
+        [
+          416.9419860839844,
+          116.29998779296875
+        ],
+        [
+          416.9419860839844,
+          128.29998779296875
+        ],
+        [
+          69.328125,
+          128.29998779296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Abstract snappinng shrimp"
+}

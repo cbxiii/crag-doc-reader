@@ -1,0 +1,359 @@
+{
+  "table_of_contents": [
+    {
+      "title": "American\tSamoa\tMangroves\nClimate\tChange\tVulnerability\tAssessment\tSummary",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          112.95703125,
+          76.95703125
+        ],
+        [
+          413.3375244140625,
+          76.95703125
+        ],
+        [
+          413.3375244140625,
+          114.85546875
+        ],
+        [
+          112.95703125,
+          114.85546875
+        ]
+      ]
+    },
+    {
+      "title": "Habitat\tDescription",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          252.85430908203125,
+          196.130615234375
+        ],
+        [
+          365.84295654296875,
+          196.130615234375
+        ],
+        [
+          365.84295654296875,
+          210.05059814453125
+        ],
+        [
+          252.85430908203125,
+          210.05059814453125
+        ]
+      ]
+    },
+    {
+      "title": "Habitat\tVulnerability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.822265625,
+          408.0506286621094
+        ],
+        [
+          193.2764892578125,
+          408.0506286621094
+        ],
+        [
+          193.2764892578125,
+          421.97064208984375
+        ],
+        [
+          70.822265625,
+          421.97064208984375
+        ]
+      ]
+    },
+    {
+      "title": "Adaptive\tCapacity",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.92578125,
+          126.2906494140625
+        ],
+        [
+          177.50390625,
+          126.2906494140625
+        ],
+        [
+          177.50390625,
+          140.765625
+        ],
+        [
+          69.92578125,
+          140.765625
+        ]
+      ]
+    },
+    {
+      "title": "ADAPTIVE\tCAPACITY\tFACTORS\tAND\tCHARACTERISTICS\u2021",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          163.16015625,
+          71.92877197265625
+        ],
+        [
+          437.99835205078125,
+          71.92877197265625
+        ],
+        [
+          437.99835205078125,
+          86.26763916015625
+        ],
+        [
+          163.16015625,
+          86.26763916015625
+        ]
+      ]
+    },
+    {
+      "title": "Literature\tCited",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.822265625,
+          277.73065185546875
+        ],
+        [
+          162.79861450195312,
+          277.73065185546875
+        ],
+        [
+          162.79861450195312,
+          291.650634765625
+        ],
+        [
+          70.822265625,
+          291.650634765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Picture",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "TableCell",
+          26
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "TableCell",
+          19
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\AmericanSamoa_VASummary_Mangroves"
+}

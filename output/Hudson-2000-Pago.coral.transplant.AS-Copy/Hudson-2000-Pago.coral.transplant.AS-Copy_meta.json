@@ -1,0 +1,360 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FIELD TRIP REPORT: CORAL RESTORATION PROJECT,\nPAGO PAGO, AMERICAN SAMOA\nHarold Hudson, Fl Keys National Marine Sanctusry",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          157.37100737100738,
+          62.015625
+        ],
+        [
+          463.12039312039315,
+          60.75
+        ],
+        [
+          463.12039312039315,
+          101.8828125
+        ],
+        [
+          157.37100737100738,
+          102.75
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          108.41796875,
+          121.5
+        ],
+        [
+          198.5872235872236,
+          121.5
+        ],
+        [
+          198.5872235872236,
+          131.25
+        ],
+        [
+          108.41796875,
+          131.25
+        ]
+      ]
+    },
+    {
+      "title": "TRANSPLANTING OF RELOCATED CORALS:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          109.41031941031942,
+          207.826171875
+        ],
+        [
+          340.22113022113024,
+          207.826171875
+        ],
+        [
+          340.22113022113024,
+          218.25
+        ],
+        [
+          109.41031941031942,
+          218.25
+        ]
+      ]
+    },
+    {
+      "title": "RECOMMENDATIONS FOR ADDITIONAL RESTORATION:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          104.91400491400492,
+          73.08984375
+        ],
+        [
+          400.92137592137595,
+          72.75
+        ],
+        [
+          400.92137592137595,
+          83.42578125
+        ],
+        [
+          104.91400491400492,
+          85.5
+        ]
+      ]
+    },
+    {
+      "title": "REPAIR REQUIREMENTS:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          107.16216216216216,
+          337.5
+        ],
+        [
+          241.3022113022113,
+          337.5
+        ],
+        [
+          241.3022113022113,
+          347.361328125
+        ],
+        [
+          107.16216216216216,
+          347.361328125
+        ]
+      ]
+    },
+    {
+      "title": "DEBRIS REMOVAL:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          106.3330078125,
+          568.5
+        ],
+        [
+          209.82800982800984,
+          568.845703125
+        ],
+        [
+          209.82800982800984,
+          579.0
+        ],
+        [
+          106.3330078125,
+          578.25
+        ]
+      ]
+    },
+    {
+      "title": "PAGO PAGO,\nAMERICAN SAMOA\nCORAL TRANSPLANT MAP",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          282.36328125,
+          29.25
+        ],
+        [
+          459.3734643734644,
+          29.25
+        ],
+        [
+          459.3734643734644,
+          69.0
+        ],
+        [
+          282.36328125,
+          69.0
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          44
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          42
+        ],
+        [
+          "Span",
+          22
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          20
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          23
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          112
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          24
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Hudson-2000-Pago.coral.transplant.AS-Copy"
+}

@@ -1,0 +1,602 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ARTICLE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.0703125,
+          128.7806396484375
+        ],
+        [
+          99.54898071289062,
+          128.7806396484375
+        ],
+        [
+          99.54898071289062,
+          142.72821044921875
+        ],
+        [
+          43.0703125,
+          142.72821044921875
+        ]
+      ]
+    },
+    {
+      "title": "Near-island biological hotspots in barren\nocean basins",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.0703125,
+          168.22265625
+        ],
+        [
+          451.308837890625,
+          168.22265625
+        ],
+        [
+          451.308837890625,
+          218.53912353515625
+        ],
+        [
+          43.0703125,
+          218.53912353515625
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.23828125,
+          216.3955078125
+        ],
+        [
+          334.66796875,
+          216.3955078125
+        ],
+        [
+          334.66796875,
+          225.75
+        ],
+        [
+          303.23828125,
+          225.75
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          301.783203125,
+          475.99365234375
+        ],
+        [
+          348.29219143576825,
+          475.99365234375
+        ],
+        [
+          348.29219143576825,
+          486.0
+        ],
+        [
+          301.783203125,
+          486.0
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          302.50377833753146,
+          48.55517578125
+        ],
+        [
+          340.0352644836272,
+          48.55517578125
+        ],
+        [
+          340.0352644836272,
+          56.25
+        ],
+        [
+          302.50377833753146,
+          56.25
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          302.947265625,
+          482.11083984375
+        ],
+        [
+          349.7934508816121,
+          482.11083984375
+        ],
+        [
+          349.7934508816121,
+          491.25
+        ],
+        [
+          302.947265625,
+          491.25
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          302.365234375,
+          414.2503967285156
+        ],
+        [
+          382.84893798828125,
+          414.2503967285156
+        ],
+        [
+          382.84893798828125,
+          423.7149963378906
+        ],
+        [
+          302.365234375,
+          423.7149963378906
+        ]
+      ]
+    },
+    {
+      "title": "Author contributions",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          303.5904846191406,
+          497.40380859375
+        ],
+        [
+          389.9609375,
+          497.40380859375
+        ],
+        [
+          389.9609375,
+          507.1669921875
+        ],
+        [
+          303.5904846191406,
+          507.1669921875
+        ]
+      ]
+    },
+    {
+      "title": "Additional information",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          302.07421875,
+          569.6456909179688
+        ],
+        [
+          396.36328125,
+          569.6456909179688
+        ],
+        [
+          396.36328125,
+          579.22119140625
+        ],
+        [
+          302.07421875,
+          579.22119140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          88
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          115
+        ],
+        [
+          "Span",
+          65
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          160
+        ],
+        [
+          "Span",
+          71
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          115
+        ],
+        [
+          "Span",
+          83
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          154
+        ],
+        [
+          "Span",
+          120
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          194
+        ],
+        [
+          "Span",
+          189
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          600
+        ],
+        [
+          "Line",
+          147
+        ],
+        [
+          "ListItem",
+          46
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Gove et al. 2016 island mass effect"
+}

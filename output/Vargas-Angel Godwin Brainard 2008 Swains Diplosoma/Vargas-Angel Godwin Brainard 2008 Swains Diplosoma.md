@@ -1,0 +1,39 @@
+# Invasive didemnid tunicate spreading across coral reefs at remote Swains Island, American Samoa
+
+Received: 12 August 2008 / Accepted: 9 September 2008 / Published online: 1 October 2008 Springer-Verlag 2008
+
+![](_page_0_Figure_2.jpeg)
+
+Fig. 1 Diplosoma similis overgrowing live coral and benthic substrata at Swains Island, American Samoa, March 2008. (a) Reef-wide, (b and c) Montipora, and (d) Pocillopora and encrusting coralline algae
+
+Scleractinian mortality and coral reef benthos overgrowth resulting from the infestations of native colonial ascidians have been documented, however, without a clear understanding of causation (Littler and Littler 1995; Bak et al. 1996). Here, we report on a major population outbreak of the native Indo-Pacific species Diplosoma similis observed in March 2008, during benthic surveys around remote Swains Island, American Samoa. Towed-diver benthic surveys, covering 28.6 ha (28.6 km · 10 m, 3.2–21.4 m depth) of forereef habitat encircling the island, confirmed widespread occurrence of the tunicate, with elevated abundance observed along the north-northwest side of the island. Fifteen, 25-m line-point intercept survey transects (50 cm intervals at 10.9– 13.9 m depths) at eight long-term (established since 2002) monitoring stations around Swains indicated relative abundances of D. similis as high as 76.5% and 35.0% at two sites within the major center of occurrence (Fig. 1a), and between 0% and 23.5% for the remaining six sites. Qualitative roving diver surveys at shallower depths (5–10 m) found comparable levels of infestation. Aggressive overgrowth on the species of live Montipora, Pocillopora, and Porites, as well as coralline algae and the green macrophytes Microdictyon and Dictosphaeria, was noted at the two highly infested sites (Fig. 1b–d).
+
+Diplosoma similis is one of the 18 known phototrophic didemnid species found in the tropics, and it is widespread across American Samoa (Godwin pers. obs.). It is a common coelobite (cavity-dwelling) that generally grows on the shaded bases, branches, and undersides of live corals, as well as on rubble
+
+(Stoner 1989). Although D. similis was observed at Swains Island during 2004 and 2006 surveys (Godwin and Vargas-A´ ngel pers. obs.), drastic reductions (~50%) in the percentage of live coral cover between 2002 and 2004 (Brainard et al. 2008) along the north-northwest forereefs suggest that the increase in abundance observed in 2008 may be a secondary effect of storm damage caused by the passage of Hurricane Heta in January, 2004. D. similis reproduces advantageously through fragmentation caused by natural disturbances, such as storm events (Stoner 1986), and is facilitated by its competitive ability associated with phototrophy, rapid growth, and cytotoxicity (Sings and Rinehart 1996). Thus, at Swains Island, this colonial tunicate may be rapidly colonizing open spaces created in the reef matrix by stochastic events.
+
+## References
+
+Bak RPM, Lambrechts DYM, Joenje M, Nieuwland G, Van Veghel MLJ (1996) Long-term changes on coral reefs in booming populations of a competitive colonial ascidian. Mar Ecol Prog Ser 33:303–306
+
+Brainard RE, Asher J, Balwani S, Craig P, Ferguson S, Gove J, Helyer J, Hoeke R, Kenyon J, Lammers M, Lundblad E, Mancini F, Maragos J, Miller J, Moffit R, Myhre S, Nadon M, Richards, B, Rooney J, Schroeder S, Smith E, Timmers M, Vargas-A´ ngel B, Vetter O, Vogt S, Vroom P (2008) Coral reef ecosystem monitoring report for American Samoa: 2002–2006. Pacific Islands Fisheries Science Center, Special Publication SP-08-002
+
+Littler MM, Littler DS (1995) A colonial tunicate smothers corals and coralline algae in the Great Astrolabe Reef, Fiji. Coral Reefs 14:148–149 Sings HL, Rinehart KL (1996) Compounds produced from potential tunicate-blue-green algal symbiosis: A review. J Ind Microbiol Biot 17(5–6):385–396 Stoner DS (1986) The role of fragmentation in the colonial, algae-bearing didemnid ascidian, Diplosoma similis. In: Jokiel PL, Richmond RH, Rodgers RA (eds) Coral reef population biology. Hawaii Institute of Marine Biology Technical Report 37, pp 240–262
+
+Stoner DS (1989) Life history and population biology of the colonial ascidian, Diplosoma similis. PhD thesis. University of Hawaii, Manoa, Hawaii, USA, p 174
+
+## B. Vargas-A´ ngel (&) J. Asher
+
+Joint Institute for Marine and Atmospheric Research, University of Hawai'i, 1125 B Ala Moana Boulevard, Honolulu, HI 96814, USA e-mail: Bernardo.VargasAngel@noaa.gov
+
+#### L. S. Godwin
+
+Hawai'i Institute of Marine Biology, P.O. Box 1346, Kane'ohe, HI 96744, USA
+
+#### R. E. Brainard
+
+National Oceanic Atmospheric Administration, Pacific Islands Fisheries Science Center, 1601 Kapiolani Boulevard, Suite 1110, Honolulu, HI 96814, USA
+
+![](_page_0_Picture_18.jpeg)
+
+![](_page_0_Picture_20.jpeg)

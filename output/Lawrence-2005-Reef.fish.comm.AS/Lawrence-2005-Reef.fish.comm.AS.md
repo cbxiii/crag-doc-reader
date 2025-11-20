@@ -1,0 +1,3034 @@
+# **Evaluation of the Effects of the Community-based Fishery Management Programme on the reef fish communities in American Samoa**
+
+2005
+
+# **Abstract**
+
+The reef fish and coral communities in American Samoa have experienced numerous anthropogenic and natural perturbations over the last few decades, which has led to habitat degradation and recruitment overfishing. A Community-Based Fisheries Management Programme (CBFMP) was implemented in 2001 and there are currently 7 participating villages that aim to improve their reef resources by closing their reefs to fishing activity. This project aimed to compare quantitative descriptions of reef fish assemblage characteristics between sites fully protected by the Community-Based Fisheries Management Programme (CBFMP), partially protected statutory MPAs (sMPA), and sites not protected from fishing activity.
+
+The hypothesis stated that fish assemblages at sites protected from fishing would demonstrate higher species diversity, abundance and biomass than at sites not protected from fishing activity. Study sites were selected on reef flat habitat (8 sites) and lagoon habitat (3) and a subset of target fish species was selected. Observations were made using snorkelling and visual census techniques between June and August 2004, recording abundances and lengths of non-cryptic reef fish.
+
+98 species representing 22 families of reef fishes were identified and the highest mean fish species diversity was observed at the CB-MPA site of Auto & Amaua (H' = 2.66) and the lowest at the unprotected site of Aua Control (H' =1.6). The highest mean reef fish abundance and mean fish biomass was observed at the unprotected site of Faga'itua (131 ± 72.6, and 47.6 ± 2.3, respectively), and the lowest at the unprotected site of Aua Control (38.2 ± 18.6, and 3.8 ± 0.1 respectively).
+
+The fish communities at the reef flat sites that are protected from fishing were significantly different from reef flat sites where fishing is permitted (sMPA sites, R = 0.21, p = 0.037, CB-MPA sites, R = 0.10, p = 0.023), whereas the fish communities at the lagoon sites were all significantly different from each other (R = 0.79, p = 0.001).
+
+Fish communities at the sMPA lagoon site showed significantly higher characteristics than at the CB-MPA site and the unprotected site: species diversity (R = 0.50, p = 0.008), target fish species diversity (R = 0.39, p = 0.008), and total fish biomass (R = 0.93, p = 0.008), however no significant differences were found between the reef flat sites.
+
+The highest fish assemblage characteristics were observed at the sMPA sites of Ofu Lagoon and Fagatele Bay, the CB-MPA sites of Alofau and Auto & Amaua, and the unprotected site of Masefau. These sites were all characterised by low fishing intensity, high percent coral cover and high coral species diversity.
+
+Management recommendations are provided for the future management of the CBFMP villages and the reef fish resources of American Samoa.
+
+**Submitted by**: Alice Lawrence **Contact address**: Bwthyn Bedw
+
+Llanbedrog Gwynedd. LL53 7UA
+
+**Email address**: lawrencealice @ hotmail.com
+
+# **Table of Contents**
+
+| 1 | Introduc    | tion                                                          | 1    |
+|---|-------------|---------------------------------------------------------------|------|
+|   | 1.1 Aim     | 1                                                             | 1    |
+|   | 1.2 Ame     | erican Samoa                                                  | 1    |
+|   | 1.2.1       | Geography                                                     | 1    |
+|   | 1.2.2       | Socio-economics                                               |      |
+|   | 1.2.3       | Marine environment                                            | 5    |
+|   | 1.3 Imp     | eacts to the marine environment of American Samoa             | 9    |
+|   | 1.3.1       | Natural impacts                                               |      |
+|   | 1.3.2       | Anthropogenic impacts                                         |      |
+|   | 1.4 Coa     | stal management in American Samoa                             | 17   |
+|   | 1.4.1       | Marine Protected Areas                                        |      |
+|   | 1.4.2       | American Samoa statutory Marine Protected Areas               | 24   |
+|   | 1.4.3       | Community-based MPAs                                          | 26   |
+|   | 1.4.4       | American Samoa's Community-based Fishery Management Programme | 29   |
+|   | 1.4.5       | Monitoring in American Samoa                                  | 37   |
+|   | 1.5 Surv    | vey Design                                                    | 38   |
+|   | 1.5.1       | Survey techniques                                             | 38   |
+|   | 1.5.2       | Site selection criteria                                       | 38   |
+|   | 1.5.3       | Fish species selection criteria                               | 40   |
+|   | 1.6 Spec    | cific objectives                                              |      |
+|   |             |                                                               |      |
+| 2 | Material    | s & Methodology                                               | . 45 |
+| _ | 1/100011001 |                                                               |      |
+|   | 2.1 Stuc    | ly sites                                                      |      |
+|   | 2.1.1       | CB-MPA sites                                                  |      |
+|   | 2.1.2       | sMPA sites                                                    |      |
+|   | 2.1.3       | No Protection sites                                           |      |
+|   |             | f Fish Species                                                |      |
+|   | 2.3 Surv    | vey of reef fish population                                   | 61   |
+|   | 2.3.1       | Survey sheets                                                 |      |
+|   | 2.3.2       | Visual census technique                                       |      |
+|   | 2.4 Data    | a Analysis                                                    | 65   |
+|   |             | Univariate analysis                                           |      |
+|   | 2.4.2       | Multivariate Analysis                                         | 66   |
+
+| 3 | Results | 5                                            | 68  |
+|---|---------|----------------------------------------------|-----|
+|   | 3.1 St  | udy sites                                    | 68  |
+|   |         | eef fish species                             |     |
+|   | 3.2.1   | Total number of reef fish species            | 70  |
+|   | 3.2.2   | Reef fish species diversity                  |     |
+|   | 3.2.3   | Target reef fish species                     |     |
+|   | 3.3 Re  | eef fish abundances                          | 77  |
+|   | 3.3.1   | Abundance of reef fish families              | 80  |
+|   | 3.3.2   | Target fish abundances                       | 84  |
+|   | 3.3.3   | Abundance of reef fish species               | 89  |
+|   | 3.3.4   | Abundance of target fish species             |     |
+|   | 3.3.5   | Reef fish community analysis                 | 95  |
+|   | 3.4 Re  | eef Fish Biomass                             | 105 |
+|   | 3.4.1   | Total biomass                                | 105 |
+|   | 3.4.2   | Protection status                            | 106 |
+|   | 3.4.3   | Fish species                                 | 108 |
+|   | 3.4.4   | Abundance Biomass Comparison plots           | 110 |
+|   | 3.4.5   | Fish recruitment                             | 114 |
+|   | 3.5 Ha  | abitat structure                             | 117 |
+|   | 3.5.1   | Substrate Cover                              | 117 |
+|   | 3.5.2   | Coral species diversity                      | 119 |
+|   | 3.5.3   | Indicator fish species                       | 120 |
+|   | 3.6 Su  | ımmary                                       |     |
+| 4 | Discuss | sion                                         | 127 |
+|   | 4.1 Re  | eef fish species                             | 127 |
+|   | 4.1.1   | Total number of fish species                 |     |
+|   | 4.1.2   | Fish species diversity                       |     |
+|   | 4.1.3   | Indicator species                            |     |
+|   | 4.2 Re  | eef fish abundance                           | 132 |
+|   | 4.2.1   | Reef fish families                           |     |
+|   | 4.2.2   | Target reef fish                             |     |
+|   | 4.2.3   | Target fish abundance                        |     |
+|   | 4.3 Re  | eef fish biomass                             |     |
+|   | 4.3.1   | Biomass of small fish (<5 cm)                | 142 |
+|   | 4.4 Pr  | otection status                              |     |
+|   | 4.4.1   | Reef flat sites                              | 143 |
+|   | 4.4.2   | Lagoon sites                                 |     |
+|   | 4.5 Su  | ımmary                                       |     |
+|   |         | mitations & Future recommendations           |     |
+|   | 4.6.1   | Success of the CB-MPAs                       |     |
+|   | 4.6.2   | Comparison between reserves and non-reserves |     |
+|   | 4.6.3   | Survey method                                |     |
+|   |         | onclusion                                    |     |
+
+| 5 | Manag  | gement Recommendations               | 152 |
+|---|--------|--------------------------------------|-----|
+|   | 5.1 Cı | urrent CB-MPA efforts                | 152 |
+|   | 5.1.1  | Auto & Amaua                         | 152 |
+|   | 5.1.2  | Alofau                               | 153 |
+|   | 5.1.3  | Aua                                  | 153 |
+|   | 5.1.4  | Vatia                                | 154 |
+|   | 5.2 Re | ecommendations for future protection | 154 |
+|   | 5.2.1  | Masefau                              |     |
+|   | 5.2.2  | Faga'itua                            |     |
+|   | 5.3 M  | anagement options                    |     |
+|   | 5.3.1  | Establishing a network of MPAs       |     |
+|   | 5.3.2  | Protecting known recruiting areas    |     |
+|   | 5.3.3  | Rotational closures                  |     |
+|   | 5.3.4  | Length of closure                    |     |
+| 6 | Refere | nces                                 | 158 |
+
+# **List of Figures**
+
+| Figure 1.1. Location of American Samoa in the Samoan Archipelago<br>                    | 2   |
+|-----------------------------------------------------------------------------------------|-----|
+| Figure 1.2. Fishing effort on Tutuila and Ofu                                           | 14  |
+| Figure 1.3. The location of the CBFMP villages<br>                                      | 29  |
+| Figure 1.4. The extension process for the implementation of the CBFMP                   | 30  |
+| Figure 1.5. The CBFMPA marine reserve of Alofau                                         | 33  |
+| Figure 1.6. The CBFMPA marine reserve of Aua.<br>                                       | 34  |
+| Figure 1.7. The CBFMPA marine reserve of Auto & Amaua.<br>                              | 35  |
+| Figure 1.8. The CBFMPA marine reserve of Vatia<br>                                      | 36  |
+| Figure 2.1. Location of the Ofu Lagoon study site.<br>                                  | 45  |
+| Figure 2.2. Location of study sites                                                     | 46  |
+| Figure 2.3. Alofau (CB-MPA) reef flat study site<br>                                    | 48  |
+| Figure 2.4. Aua (CB-MPA) reef flat study site                                           | 49  |
+| Figure 2.5. Auto & Amaua (CB-MPA) reef flat study site                                  | 50  |
+| Figure 2.6. Vatia (CB-MPA) reef flat study site                                         | 51  |
+| Figure 2.7. Alofau (CB-MPA) lagoon study site.<br>                                      | 52  |
+| Figure 2.8. Fagatele Bay (sMPA) reef flat study site                                    | 53  |
+| Figure 2.9. Ofu (sMPA) lagoon study site                                                | 54  |
+| Figure 2.10. Aua control (no protection) reef flat study site                           | 55  |
+| Figure 2.11. Faga'itua (no protection) reef flat study site                             | 56  |
+| Figure 2.12. Nu'uuli Lagoon (no protection) lagoon study site                           | 57  |
+| Figure 2.13. Masefau (no protection) reef flat study site                               | 58  |
+| Figure 3.1. Mean (± standard deviation) of total number of fish species<br>             | 70  |
+| Figure 3.2. The mean Shannon-Wiener diversity index of the reef fish species<br>        | 72  |
+| Figure 3.3. The mean Shannon-Wiener diversity index of the target reef fish species<br> | 76  |
+| Figure 3.4. Mean total number of reef fish .<br>                                        | 77  |
+| Figure 3.5. The mean total abundance of reef fish species<br>                           | 79  |
+| Figure 3.6. The mean abundance of target reef fish species                              | 80  |
+| Figure 3.7. Percent composition of the five main fish families<br>                      | 83  |
+| Figure 3.8. Percentage composition of target reef fish species                          | 85  |
+| Figure 3.9. Percent composition of target fish families<br>                             | 87  |
+| Figure 3.10. Mean abundances of the main reef fish species                              | 90  |
+| Figure 3.11. Mean abundances of the main target reef fish species.<br>                  | 94  |
+| Figure 3.12. Dendogram and MDS clustering of fish abundances at reef flat sites         | 96  |
+| Figure 3.13. Dendogram and MDS clustering of fish abundances at lagoon sites<br>        | 97  |
+| Figure 3.14. Dendogram and MDS clustering of target fish abundances at reef flat sites. | 101 |
+| Figure 3.15. Dendogrtam and MDS clustering of target fish abundances at lagoon sites    | 102 |
+| Figure 3.16. Mean biomass of total reef fish and target reef fish<br>                   | 105 |
+| Figure 3.17. Protection levels: Mean total biomass of reef fish species                 | 107 |
+| Figure 3.18. Protection levels: Mean biomass of target reef fish species                | 108 |
+| Figure 3.19. Mean biomass of reef fish species measuring 5cm or less<br>                | 114 |
+| Figure 3.20. Mean total biomass of the main fish families <5cm                          | 116 |
+| Figure 3.21. Percent composition of substrate cover<br>                                 | 118 |
+| Figure 3.22. Mean Shannon-Wiener diversity index of live coral species.<br>             | 119 |
+| Figure 3.23. MDS with superimposed circles of increasing size with increasing abundance |     |
+| of the indicator fish species a) Labricthys unilineatus, b) Chaetodon trifascialis, c)  |     |
+| Plectroglyphidodon dickiii                                                              | 121 |
+|                                                                                         |     |
+
+| Figure 3.24. MDS with superimposed circles of increasing size with increasing % cover of:<br>a) Acropora spp., b) Pocillopora spp., c) Porites spp.<br><br>Figure 3.25. MDS with superimposed circles of increasing size with increasing % cover of:<br>a) Acropora microphthalma., b) Porites cylindrica, c) Porites<br>rus | 122<br>123 |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Figure 3.26. MDS with superimposed circles of increasing size with increasing % cover of:<br>d) Pocillopora damicornis., e) Pocillopora meandrina., f) Pocillopora verrucosa                                                                                                                                                 | 124        |
+| List of Tables                                                                                                                                                                                                                                                                                                               |            |
+| Table 1.1. Marine Protected Areas in American Samoa                                                                                                                                                                                                                                                                          | 24         |
+| Table 2.1. Environmental, physical and social factors of each site<br>                                                                                                                                                                                                                                                       | 47         |
+| Table 2.2. Families of reef fish included in the census surveys                                                                                                                                                                                                                                                              | 59         |
+| Table 2.3. Target fish species observed along during surveys                                                                                                                                                                                                                                                                 | 60         |
+| Table 2.4. Template of visual census survey data sheet used during surveys<br>                                                                                                                                                                                                                                               | 62         |
+| Table 3.1. Habitat characteristics and environmental variables at each site                                                                                                                                                                                                                                                  | 68         |
+| Table 3.2. Observations of fishes and marine creatures recorded at the sites                                                                                                                                                                                                                                                 | 69         |
+| Table 3.3. Differences (%) in mean number of total fish species                                                                                                                                                                                                                                                              | 71         |
+| Table 3.4. Mean (± standard deviation) diversity indices at each site<br>                                                                                                                                                                                                                                                    | 71         |
+| Table 3.5. Mean (± SD) number of target reef fish species<br><br>Table 3.6. Differences (%) in mean number of total target fish species                                                                                                                                                                                      | 74<br>75   |
+| Table 3.7. Differences (%) in mean total fish abundance                                                                                                                                                                                                                                                                      | 78         |
+| Table 3.8. Reef fish families.<br>                                                                                                                                                                                                                                                                                           | 81         |
+| Table 3.9. Mean abundance (± SD) of the 5 major reef fish families                                                                                                                                                                                                                                                           | 82         |
+| Table 3.10. The total fish abundance and the mean (± SD) of target fish families                                                                                                                                                                                                                                             | 84         |
+| Table 3.11. Total observations and mean abundance of the top 10 most abundant reef fish                                                                                                                                                                                                                                      |            |
+| species<br>                                                                                                                                                                                                                                                                                                                  | 89         |
+| Table 3.12. Total observations and mean (± standard deviation) abundance of the top 10                                                                                                                                                                                                                                       |            |
+| most abundant target reef fish species.<br>                                                                                                                                                                                                                                                                                  | 92         |
+| Table 3.13. MDS and dendogram of reef fish abundances                                                                                                                                                                                                                                                                        | 98         |
+| Table 3.14. MDS and dendogram of target fish abundances<br>                                                                                                                                                                                                                                                                  | 104        |
+| Table 3.15. Differences in mean total fish and target fish abundance<br>                                                                                                                                                                                                                                                     | 106        |
+| Table 3.16. Top 20 fish species                                                                                                                                                                                                                                                                                              | 109        |
+| Table 3.17. W statistic results from Abundance Biomass Comparison (ABC) plots                                                                                                                                                                                                                                                | 111        |
+| Table 3.18. Top 3 total fish species and target fish species and their mean (± SD) biomass.                                                                                                                                                                                                                                  | <br>112    |
+| Table 3.19. Total mean (± SD) biomass of fish species observed at lengths < 5cm                                                                                                                                                                                                                                              | 114        |
+| Table 3.20. Criteria for separating the mean total fish and target fish assemblage                                                                                                                                                                                                                                           |            |
+| characteristics into ranks of low (L), medium (M) or high (H).<br>                                                                                                                                                                                                                                                           | 125        |
+
+Table 3.21. Summary table of mean total fish and target fish assemblage characteristics 126
+
+# **List of Plates**
+
+| Plate 1.1. Examples of subsistence fishing methods in American Samoa                   | 7  |
+|----------------------------------------------------------------------------------------|----|
+| Plate 1.2. Reef fish species targeted by the subsistence fishery in American Samoa     | 8  |
+| Plate 1.3. Crown of Thorns starfish and Chevroned butterflyfish Chaetodon trifascialis | 10 |
+| Plate 1.4. Pago Pago Harbour<br>                                                       | 16 |
+| Plate 1.5. A bilingual sign provided by the DMWR for the CBFMP village of Vatia.<br>   | 31 |
+| Plate 2.1. Alofau: A view of the reef flat: a) from the shore; b) underwater<br>       | 48 |
+| Plate 2.2. Aua: A view of the reef flat from the shore.<br>                            | 49 |
+| Plate 2.3. Auto: View of reef flat a) from the shore; b) underwater<br>                | 50 |
+| Plate 2.4. Vatia: A view of the village and the reef flat                              | 51 |
+| Plate 2.5. Alofau Lagoon: A view of the lagoon from: a) the shore; b) underwater       | 52 |
+| Plate 2.6. Aerial photograph of Fagatele Bay<br>                                       | 53 |
+| Plate 2.7. Ofu Lagoon: a view from a) the shore; b) underwater                         | 54 |
+| Plate 2.8. View of Aua Control reef flat from the shore                                | 55 |
+| Plate 2.9. Faga'itua: A view from a) the shore; b) underwater                          | 56 |
+| Plate 2.10. Nu'uuli Lagoon:A view from a) the shore; b) underwater                     | 57 |
+| Plate 2.11. Survey techniques.<br>                                                     | 63 |
+| Plate 2.12. Survey equipment.<br>                                                      | 64 |
+|                                                                                        |    |
+
+# **List of Appendices**
+
+- **I:** Species-specific length-weight constants
+- **II:** Statistical results from 1-way ANOSIM analysis
+- **III**: Reef fish species presence or absence at each site
+- **IV:** Abundance of each reef fish species at each site
+- **V:** Main reef fish species colour plates
+- **VI:** Reef fish lengths recorded at each site
+- **VII:** Abundance / Biomass plots
+
+# Acknowledgements
+
+At the Department of Ocean Sciences in Bangor University I would like to thank John Turner for assistance with the project design and the write-up. A BIG thankyou to Sandie Hague for always being there to help and for being a star and ensuring we survived the year.
+
+In American Samoa, Chris Hawkins for sorting out the project, visas, and accommodation. Ray Tulafono at the DMWR for providing us with office space, transport to the sites, equipment, and personnel in the field. Leslie Whaylen for being the best supervisor in the world! Rob for being patient on those early mornings and for helping us for 6 hours in the water at Vatia pounding stakes into solid rock! Pora and Afa for helping us pound in stakes, carrying equipment and driving us to the sites. Selina, Risa, Doug, Francesca, and Manu for advice and information about the CBFMP and American Samoan fisheries. Troy Curry at the Department of Commerce for hours of help with the GIS data. Nancy Daschbach for allowing us to use the Fagatele Bay National Marine Sanctuary boat. Peter Craig at the Natonal Park Service for advice and information. Chuck Birkeland for his advice in Ofu. Chris and Mello for saving us from homelessness and letting us invade their house for 2 months and for getting us to Ofu (and Aggie Greys!). Monica and Laurie for loaning us the use of their houses when we first arrived. The "dudes" in American Samoa for their friendships and for making our two months really enjoyable Aleicia, Barrot, Charlie, Dan, Gonzalo, Harvey, Lama, Leslie, Matt, Maximo, Monica, Nick, Noah, Oscar, Riley (and Vailima), Risa, Rob, Sacheen, Sebas, Vicky and everyone else who made us feel at home. Thanks to Zoë for being my travel and survey buddy. And last but not least, a big thanks to Giacomo, my family and friends for making sure I didn't go insane during the write-up!
+
+# **Abbreviations**
+
+**ANOSIM** Analysis of Similarities (PRIMER function)
+
+**ANOVA** Analysis of Variance
+
+**ASPA** American Samoa Power Authority
+
+**B.C.** Before Christ
+
+**CBFMP** Community-based Fishery Management Programme
+
+**ºC** degrees Celcius **cm** centimetre
+
+**CI** Confidence Interval **COTS** Crown-of-thorns starfish
+
+**DMWR** Department of Marine and Wildlife Resources
+
+**DOC** Department of Commerce **FAD** Fish Aggregation Device
+
+**FBNMS** Fagatele Bay National Marine Sanctuary
+
+**ft** Feet (measurement)
+
+**h** hours **km** kilometres
+
+**km2** square kilometres **lb** pounds (weight)
+
+**m** metres
+
+**m²** square metres
+
+**MPA(s)** Marine Protected Area(s)
+
+**NOAA** National Oceanic and Atmospheric Administration
+
+**NPAS** National Park of American Samoa
+
+**NPS** National Park Service
+
+**PCA** Principle Components Analysis (Statistical analysis)
+
+**SD** Standard Deviation **SIMPER** Similarity Percentages
+
+**sMPA** statutory Marine Protected Area
+
+**t** metric tons
+
+**U.S.** United States (of America) **U.S.A** United States of America
+
+< less than
+
+**≤** less than or equal to
+
+**>** more than
+
+# **1 Introduction**
+
+#### **1.1 Aim**
+
+The project aims to provide a quantitative description of reef fish communities to identify the differences in species diversity, abundance and biomass of reef fish assemblages and a subset of target reef fish between reef flat and shallow lagoon sites protected from fishing by Community-based MPA (CB-MPA) status, statutory Marine Protected Area (sMPA) status and sites with no protection from fishing. The project will also provide baseline data in conjunction with a study on reef habitat for the future CBFMP Monitoring Plan to be implemented by the Department of Marine and Wildlife Resources (DMWR) in American Samoa.
+
+#### **1.2 American Samoa**
+
+Details will be given about the study location of American Samoa in relation to its geography, economy, and marine environment.
+
+#### *1.2.1 Geography*
+
+American Samoa is located approximately 4,200 kilometres (km) south of Hawaii in the central South Pacific Ocean, consisting of a chain of five small and steep volcanic (extinct) islands and two atolls between 11º and 14º S latitude and 168º to 171º W longitude. American Samoa is the only U.S. territory in the South Pacific forming the easterly part of an archipelago shared with the independent country of Samoa. Figure 1.1 shows the location of American Samoa in the Samoan Archipelago.
+
+The combined land area of the seven islands is approximately 150 square kilometres (km²), of which 142 km² forms the main island of Tutuila. The small island of Aunu'u is located off the southeastern tip of Tutuila, whereas the Manu'a Islands (consisting of the three volcanic islands of Ofu, Olosega and Ta'u) are 106 km east of Tutuila. Swain's Island is a raised coral atoll, located approximately 370 km north of Tutuila and is inhabited by a subsistence population of about 20 people. The uninhabited Rose Atoll is the smallest island with a total area of 4 km², located approximately 255 km east of Tutuila and protected by National Wildlife Refuge status (Green, 2002).
+
+![](_page_10_Figure_1.jpeg)
+
+Figure 1.1. Location of American Samoa in the Samoan Archipelago, South Pacific Ocean. Adapted from map courtesy of National Park of American Samoa (NPAS).
+
+#### **Climate**
+
+American Samoa lies in the broad, westward-flowing South Equatorial Current and has a year-round maritime climate of tropical heat and rain (Craig *et al.*, 2000). There are two seasons, a wet summer season between October and May and a slightly drier and cooler season between June and September. During the dry season, the south coast of Tutuila is exposed to the prevailing southeast trade winds while the north coast is protected, however the north coast is subject to swells and hurricanes generated from tropical depressions during the wet season (Green, 2002). Pago Pago Harbour is located on the south coast of Tutuila however it is relatively protected from the prevailing wind conditions (Green, 2002). Tides are diurnal with mean and spring tidal ranges of 0.76 m and 0.95 m, respectively, and the island of Tutuila receives 300 to 500 mm of rain annually (Craig *et al.*, 2000). Air temperatures range from 18°C to 32°C with nearshore water temperatures ranging from between 27°C to 31°C (Craig *et al.*, 2000).
+
+#### *1.2.2 Socio-economics*
+
+#### **Culture**
+
+American Samoa and independent Samoa share a closely related traditional culture that dates back to the arrival of the Polynesian people around 800 BC (Bennet *et al.*, 2003). Samoan culture is steeped in a complex set of social hierachies, courtesies and customs that regulate all aspects of public and private life and is based on the *fa'amatai* system of government, with a *matai*, (chief), responsible for an entire *'aiga* (extended family) (Bennet *et al.*, 2003).
+
+The United States of America (USA) gained exclusive use of the deep-water port of Pago Harbour in 1872, and on 17th April 1900, eastern Samoa formally became a territory of the USA and traditional rights were protected in return for a military base and coaling station (Bennet *et al.*, 2003). American Samoan life remained traditional and subsistence-based until the early 1960's when President Kennedy decided that the territory needed modernising, and introduced European-style homes, sewage plants, an international airport, tuna canneries, and a general westernisation of the Samoan culture (Bennet *et al.*, 2003). However, some traditional Samoan culture still exists in American Samoa which visitors are expected to respect, and in relation to the survey work carried out during this study, include the use of modest swimwear, the seeking of permission from village mayors before using the beach or entering the water, and no swimming on Sundays.
+
+#### **Demography**
+
+One of the most serious environmental and social problems facing American Samoa is the uncontrolled population growth. The total population of approximately 66,000 is unevenly distributed with 96% living on the narrow coastal plain of southern Tutuila, and with a population density of 446 people per km², American Samoa is considered highly urbanised by South Pacific standards (Green, 2002). With the third highest growth rate in the South Pacific and one of the worlds fastest growing populations increasing at a rate of approximately 2.1% (Kelty & Kuartei, 2004), it is predicted to reach over 76,000 by 2020 (ASPA, 2003). Tutuila is the centre of government and business and also the site of the only international airport and the major shipping port of Pago Pago Harbour, however the majority of the island is uninhabitable due to the steep volcanic terrain with 35% of the population living on the southern coast (Craig *et al.,* 1993).
+
+#### **Economy**
+
+Like most Pacific Island countries, American Samoa has undergone many social, economic and environmental changes over the last century. The high population increase has meant that the islanders can no longer depend on the natural resources of the land and sea and there has been a change from a subsistence economy to a mixed economy which includes both market and subsistence sectors (Craig *et al.*, 1993; Tuilagi & Green, 1995). Where once families depended on the coral reefs and plantations for their livelihood, many now receive monetary income from working for the government or industry (Green, 2002). The two tuna canneries employ 33% of the 14,000 workforce and 31% are employed by the local government (ASG, 1996).
+
+The economy is primarily based on U.S. federal grants and exports of canned tuna that is caught in distant South Pacific fishing grounds, and in 1996, \$200 million of food, fuel, oil, textiles, clothing, machinery and other goods were imported into the Territory (ASG, 1996). However, the heavy dependence of the American Samoans on the unstable sources of income from the tuna industry and U.S. welfare contributions means an insecure future for the American Samoan economy.
+
+At present, tourism contributes a negligible amount to the American Samoan economy and is largely based on the infrequent visitation by cruise ships. There has been a large decrease in tourism since the 1970's as a result of a decline of the main hotel, inadequate infrastructure and high competition from other Pacific islands (Spurgeon *et al*., 2004).
+
+#### *1.2.3 Marine environment*
+
+#### **Coral Reefs**
+
+200 coral and 80 algal species have been recorded in American Samoa, and coral reef biodiversity is similar to those of other islands in the region, although much less than on the more diverse reefs of Indonesia and northern Australia (Craig, 2002). The total area of coral reefs (to the 100 m depth) in the territory is 296 km². There is limited shallow water habitats due to the steepness of the main islands and 85% of total coral reef area consist of fringing coral reefs, with 12% found at the offshore Taema and Nafanua banks and the remaining 3% found at the two atolls of Swains Island and Rose Atoll (Birkeland *et al.*, 1996).
+
+The fringing reefs have narrow reef flats (50-500 m) and depths of 1000 m are reached within 2 to 8 km from shore. The reef flat is situated between the shore and the outer edge of the reef and is usually exposed at low tide. In American Samoa the reef flats typically drop to a depth of 3 to 6 metres and then gradually descend at a slope of 45 to 90º to the reef base at 10 to 40 m (Craig *et al*., 2000). At some locations, a shallow lagoon is located between the reef flat and the shore at a depth of between 1 and 3 m, however, well developed lagoons are uncommon in American Samoa. On Tutuila, lagoons are present as a result of dredging operations, however, there are some small, naturally occurring lagoons at Ofu (Birkeland *et al.*, 1996).
+
+#### **Coral reef fishes**
+
+The reef flat and adjacent shallow waters in American Samoa are inhabited by a rich and diverse range of fish and shellfish species, with approximately 890 species of fish recorded (Wass, 1984; USACE, 1994), however the reef fish population is limited by the small size and steep slopes of the islands which contain relatively few shallow water habitats (Kelty & Kuartei, 2004). Coral reef resources have been a fundamental part of the Samoan culture and economy for thousands of years (Nagaoka, 1993; Craig *et al.,* 1993).), and although the domestic fisheries of American Samoa are small they are locally important and consist of three main fisheries:
+
+- a multispecies inshore subsistence fishery
+- an artisanal fishery for offshore pelagic fishes
+- an artisanal fishery for offshore bottomfish
+
+A subsistence fishery can be described as a local, non-commercial fishery where fish and other seafood resources are caught and are shared and consumed directly by the fishers families and their kin, rather than being bought and sold at the next larger market. Countries in the South Pacific rely upon subsistence level fisheries as an important source of food with up to 90% of their protein being derived from ocean resources (Lam, 1998).
+
+Artisanal fisheries can be subsistence or commercial fisheries, providing for local consumption or export and produce about 50% of the fish supply for human consumption (Jennings & Lock, 1996). The exploitation of offshore fishes has occurred in American Samoa since the 1970's (Craig *et al.,* 1993), and two components of the offshore artisanal fishery include night-time free divers who spear reef fish and small boat fishers who fish for deepwater bottomfish (Kelty & Kuartei, 2004). Catch composition of pelagic species include tunas (Scombidae), blue marlin (*Makaira mazara*), sharks (Carcharhinidae), dolphinfish (*Coryphaena hippurus*), and barracudas (Sphyraenidae) (Craig *et al.,* 1993). The major bottomfish species include snappers (Lutjanidae), emperors (Lethrinidae) and groupers (Serranidae) (Craig *et al.,* 1993).
+
+In 1991, the multispecies inshore subsistence fishery was the most significant by contributing to 78% of the total catch and 80% of the value of the combined domestic fisheries, whereas the two artisanal fisheries were much lower contributors (Craig *et al.,* 1993; Saucerman 1995; Page, 1998).
+
+Over 100 species are caught in the subsistence fishery, with the major components being reef fish, giant clams (*faisua*) and the burrowing polychaete worm, *Eunice viridis*, (*palolo*), however, limited biological information is available about these species and their response to exploitation (Ponwith 1991; Craig *et al.,* 1993; Craig *et al.,* 1997; Craig, 2002). The subsistence fishery is fished by methods such as rod and line (see plate 1.1a), handline, free diving (Plate 1.1b), gill netting, gleaning, and throw netting, mainly by individuals on foot who fish in areas adjacent to their own village. (Craig *et al.,* 1993). Gleaning involves the gathering of fish and shellfish on the reef flats at low tide usually by hand, stick or steel rod and is one of the major inputs to the total catch of the inshore reef fishery (Craig, 2002).
+
+![](_page_15_Picture_2.jpeg)
+
+![](_page_15_Picture_3.jpeg)
+
+Plate 1.1. Examples of subsistence fishing methods in American Samoa; a) free diving (left), b) rod and line (right). Source: Author, 2004.
+
+The artisanal fishery in American Samoa began to develop in 1972, and subsequently the DMWR began to collect fisheries data, which involves a creel and participation survey conducted three days a week, stratified by time of day (between 0500 and 2100 h) and type of day (weekday or weekend) (Craig *et al.,* 1993). The creel survey involves interviewing fishermen and examining their catches at designated harbours on Tutuila, Aun'u and the Manu'a Islands, and the information is computerised, verified and expanded to account for times and areas not sampled (Craig *et al.,* 1993). The shoreline subsistence fishery on Tutuila Island was first examined in the late 1970's by Hill (1978) and Wass (1980), however, monitoring by the DMWR's creel and participation survey only started in 1991. Analysis of the subsistence fishery catch data involves expanding the entire study area along the south shore of Tutuila and then expanding the data on a 'per capita' basis to produce the total catch for the whole territory (Craig *et al.,* 1993).
+
+On Tutuila, the total subsistence catch for 2003 was estimated to be approximately 41.6 t, however no long-term catch data exists for the Manu'a islands although the subsistence fishery remains important to the local way of life (Spurgeon *et al.*, 2004). The main reef fish families caught are jacks (Carangidae), surgeonfishes (Acanthuridae), mullet (Muglidae), groupers (Serranidae), squirrelfishes (Holocentridae), snappers (*Lutjanus* spp.), and parrotfishes (Scaridae) with the highest proportion of catches consisting of surgeonfishes, parrotfishes, and groupers (Saucerman, 1995; Craig *et al.,* 1997; Spurgeon *et al.*, 2004).
+
+Historically, the highest proporiton of overall catches was composed of the big-eye scad or *atule* (*Selar crumenophtalmus*), however large variations occur in annual catch proportions (Craig *et al.,* 1993). The complex of small brown surgeonfishes (also known as *pone* in Samoa) are currently a major component of the subsistence fishery, which is dominated by *Ctenochaetus striatus* Quoy & Gaimard (see plate 1.2a), one of the most abundant fishes in American Samoa (Green, 2002). Another common reef fish species targeted by the inshore fishery is the surgeonfish *Acanthurus lineatus* Valenciennes (shown in plate 1.2b) and in 1994 it was the second highest caught fish species among all species harvested after skipjack tuna, accounting for 10% of the total catch (Craig *et al.*, 1997).
+
+![](_page_16_Picture_3.jpeg)
+
+Plate 1.2. Reef fish species targeted by the subsistence fishery in American Samoa: a) Ctenochaetus striatus (right), b) Acanthurus lineatus (left). Source: FishBase.
+
+#### **1.3 Impacts to the marine environment of American Samoa**
+
+Over the last few decades there have been major changes in the coral and reef fish communities in American Samoa as a result of a combination of natural and anthropogenic disturbances including outbreaks of crown of thorns starfish *Acanthaster planci*, severe storms, coral bleaching, overfishing, and poor water quality (Hawkins *et al.,* 2004). A resurvey of the benthic and coral communities on the main islands of American Samoa by Green (2002) demonstrated that the majority of the coral reefs on Tutuila and Aunu'u have shown a rapid recovery over the last few years and thriving coral communities are present once again. The best coral communities were observed at the reefs on Aunu'u and along the north coast of Tutuila (Green, 2002). The results demonstrate that most of the reefs on these islands are healthy and resilient to large-scale disturbances, however, the reefs on the more developed southern coast of Tutuila, and in particular Pago Pago Harbour, were shown to be recovering at a slower rate (Green, 2002). Human activities in these areas have caused a decline in coral reef health, and subsequently inhibited their ability to recover from largescale natural disturbances (Green, 1996).
+
+#### *1.3.1 Natural impacts*
+
+The crown-of-thorns starfish *Acanthaster planci* or COTS, is a predator of live coral and a major outbreak in the late 1970's resulted in the devastation of the coral communities in American Samoa, however, the coral reefs recovered rapidly (Green, 2002). The coral reef communities were devastated again in the early 1990's by two severe hurricanes, Ofa in 1990, and Val in 1991, however, before full coral recovery could occur, a mass coral bleaching event occurred in 1994, which is currently the worst ever recorded in American Samoa (Green, 2002). The El Niño event of 1998 resulted in record high temperatures in American Samoa which caused unusually low tides and the subsequent mortality of exposed corals and the reefs on Tutuila, Aunu'u and the Manu'a Islands (Craig *et al.*, 2000). Low to moderate levels of coral bleaching occurred in 2002 and 2003, in addition to the observations of white syndrome coral disease, with the highest levels of bleaching recorded on the northern coast of Tutuila (Green, 2002). The most recent damage to the coral reefs of American Samoa occurred in January 2004 on north shore reefs as a result of hurricane Heta (Hawkins et al., 2004).
+
+Coral communities provide important habitat for reef fishes and the COTS outbreak in the late 1970's resulted in a decline in abundance of fish species that are closely associated with communities of branching and plate coral, the preferred food of *Acanthaster planci* (shown in plate 1.3a). Examples of such fish species include the dicks damselfish *Plectroglyphidodon dickii* Liénard*,* the chevroned butterflyfish *Chaetodon trifascialis* Quoy & Gaimard (see plate 1.3b) and the tubelip wrasse, L*abricthys unilineatus* Guichenot.
+
+![](_page_18_Picture_2.jpeg)
+
+![](_page_18_Picture_3.jpeg)
+
+Plate 1.3. a) Crown of Thorns starfish *Acanthaster planci* (left); b) Chevroned butterflyfish *Chaetodon trifascialis* with branching coral (right) at Ofu Lagoon, Manu'a Islands, American Samoa. Source: (Green, 2002).
+
+Since the outbreak in the late 1970's, *Acanthaster planci* has been rare on Tutuila and Aunu'u, and the fish populations have started to recover in the last few years along with their host coral species (Green, 2002). In contrast, the reefs in the Manu'a islands of Ofu and Olosega support recurring low to moderate populations of the starfish which have subsequently played a part in structuring the coral reef communities on the islands, additionally, the fish species associated with branching and plate corals are uncommon (Green, 2002).
+
+Coral bleaching been identified as one of the most destructive threats to the coral reefs of American Samoa with summer bleaching appearing to be an annual event (Kelty & Kuartei, 2004). Over the long-term, the impacts of global climate change are expected to have significant effects on American Samoa in the form of increased frequency and severity of tropical cyclone damage to the low-lying coastal areas and fragile coral reefs (Hawkins *et al.*, 2004). The increasing occurrence of coral bleaching and disease has been linked to global climate change in addition to land-based sources of pollution (Green, 2002), however, the anticipated increase in global temperature of 1.5 to 4.5ºC and the subsequent rise in sea level rise of between 25 and 40 cm by 2030 (Spurgeon *et al.*, 2004) will lead to continual disruption to the marine environment of American Samoa.
+
+#### *1.3.2 Anthropogenic impacts*
+
+Two of the major concerns of the impacts to the coral reefs of American Samoa are overfishing and poor water quality (Craig 2002). The combination of poor land management and overexploitation of coral reef resources has led to high levels of marine pollution and degradation of the coral reef health, however, these anthropogenic impacts are mainly evident on the heavily populated island of Tutuila and in particular the reefs in Pago Pago Harbour (Green 1996).
+
+#### **Overfishing**
+
+Overfishing is defined as the "*reduction of a species well below the sustainable yield or to such low abundance that it may not recover even if fishing ceases*" (Jackson *et al.,* 2003). Rapid expansion of populations throughout large areas of the developing world has led to an increasing pressure on limited natural resources, and in the tropics overfishing and the use of destructive fishing practices are considered two of the most serious threats to coral reef ecosystems worldwide (Roberts, 1995a). A number of management reports have indicated that overfishing has been a continuing problem in American Samoa for decades (Craig *et al.,* 2000), and the relatively small coral reefs are still recovering from these impacts (Peter Craig, Pers. Comm). The recovery of coral reefs from disturbances such as hurricanes, coral bleaching and crown of thorns infestations has shown to be impaired by the effects of overfishing (Roberts, 1995a).
+
+The subsistence fishery catch has steadily decreased over the last two decades as shown by two similar studies of the shoreline fishery carried out in 1979 by Wass (1980) and in 1991 by Ponwith (1992). Analysis of the island-wide catch of reef fish showed a 54% decrease in catch over the 12 years, however fishing effort only decreased by 8% (Craig *et al.,* 1993). Additionally, over the same period, the human population increased by 46%, resulting in a decrease of the per capita subsistence catch from 19.4 to 9.8 lb (Craig *et al.,* 1993). Explanations for the decrease in catch and effort include a decline in resource abundance or sociological changes such as a shift in dietary preferences, less leisure time to catch fish, or an increase in the trend to buy fish at the market, imported from Samoa or Tonga (Craig *et al.,* 1993).
+
+Results from analysis of DMWR's Inshore Creel Survey data of the coral reef fishery on Tutuila detected a 67% decrease in the total estimated domestic fisheries catch from approximately 587,000 pounds (lb) in 1991 (Craig *et al.,* 1993) to 191,600 lb in 1994 (Saucerman, 1995). The large decline in reef fish catch during this period was possibly due to coral reef damage and subsequent decline in reef fish resources after hurricane Ofa in 1991 (Saucerman, 1995).
+
+The tropical inshore fisheries are the most vulnerable of fisheries as they are often intensely exploited by artisanal fishers who use diverse and sometimes destructive fishing methods (Rudd *et al.*, 2003). In 2000, using a semi-structured interview (SSI) questionnaire, DMWR staff conducted a survey in 11 randomly selected villages on Tutuila and the Manu'a Islands with the aim of obtain opinions on the main cause of fish declines in American Samoa (Hawkins *et al.,* 2004). Results from the surveys indicated that the main factors affecting reef fish populations was the use of illegal and destructive fishing methods such as bleaching agents, dynamite and *avaniukini*, a local plant-derived fish tranquillising chemical (Sauafea, 2002). Such illegal fishing practices are often perceived as the most effective fishing method and other studies have indicated that these methods have been used over the past few decades (Itano, 1980; Tuilagi and Green, 1995). However, at present, most fishing is legal with dynamite and illegal fishing only accounting for 2% of the reason why stocks are so low (Peter Craig, 2004, pers. comm.).
+
+In 1995, a commercial nightime SCUBA fishery became established on Tutuila that led to a large increase in the catch of reef fishes on the island and subsequent damage to the coral reef communities (Green, 2002). Parrotfishes were heavily exploited due to their vulnerability to capture while sleeping at night and many were being caught before they reached sexual maturity, resulting in a subsequent decline in their population numbers (Page, 1998). During this period, subsistence fishermen raised concerns that fishing had become increasingly more difficult and environmental groups realising that the reef fish populations were being overfished, managed to convince the Governor of American Samoa to ban the highly destructive SCUBA fishery in 2001 (Tuilagi & Green, 1995).
+
+There are many studies that have examined the responses of fish populations and coral reef ecosystems to fishing and some of the effects include reduction of species diversity, changes in fish community structure and subsequent changes in size and composition of yield from the fishery, cascading effects on non-target fish, and local extinctions of reef fish species (Jennings & Lock, 1996; Roberts, 1995a; Blaber, 2000; Ruttenberg, 2001). Herbivores such as parrotfishes and surgeonfishes have been shown to be an important component in structuring coral reef ecosystems (McClanahan, 1995). Herbivorous fish graze on algae, which may clear space for the settlement of corals and enhance survival and growth of young coral colonies. Direct or indirect reduction in the abundance of herbivores by fishing can result in increased filamentous algae production which can block the recruitment of corals and lead to a subsequent decline in coral cover (Jennings & Lock, 1996; Page, 1998).
+
+The effects depend on the intensity of fishing but even at low intensities the effects are marked (Roberts, 1995a). Figure 1.2 shows the different levels of fishing effort carried out around the coasts of Tutuila and Ofu in the Manu'a islands. Highest fishing pressure is experienced around the most populated areas of the southern and eastern coasts of Tutuila and around the main villages on Ofu, whereas lowest fishing pressure is found around the most unpopulated and inaccessible areas, including the northern coasts of Tutuila and Ofu and the eastern coast of Ofu. Low fishing intensity occurs in Pago Pago Harbour on Tutuila as a result of the presence of degraded and potentially toxic fish populations (Green, 2002).
+
+While some components of the fish fauna now appear to be in good condition on Tutuila and Aunu'u, some species of the major fish families targeted by the fisheries, in particular, groupers, parrotfishes, snappers, and jacks are either absent, or only present in small sizes and low abundances (Green, 2002). In contrast, the lower fishing intensity experienced in the Manu'a Islands has resulted in much higher abundances of fisheries species compared to Tutuila (Green, 2002). Groupers were mainly observed in small sizes on Tutuila by Green (2002), and commercial extinction of increasing numbers of grouper stocks have been seen in the Pacific as well as the Caribbean and are among the most endangered of reef fish (Johannes, 1998). The larger, more vulnerable fish species such as sharks, large species of parrotfishes and the napoleon wrasse *Cheilinus undulatus* were found to be rare
+
+![](_page_22_Figure_0.jpeg)
+
+Figure 1.2. Fishing effort on Tutuila and Ofu. Darker shades of each colour relates to higher reef complexity. Distance and relative location between Tutuila and Ofu are not to scale. Adapted from Spurgeon (2004).
+
+or absent on Tutuila but present in the Manu'a islands, and the bumphead parrotfish *Bolbometopon muricatum* is now absent on Tutila as a result of heavy fishing pressure by the commercial SCUBA fishery (Green, 2002). A decline in the major fisheries families has resulted in heavy fishing pressure on surgeonfishes (Craig *et al.*, 1997; Page 1998).
+
+Although overall fishing pressure on Tutuila is low, the fish stocks do not seem to be recovering as quickly as would be expected, and a possible explanation is that recruitment overfishing has led to the depression of fish stocks (Peter Craig, 2004, pers. comm.). Recruitment overfishing occurs when the size of the adult stock has been reduced to a point where production of larvae and subsequent recruitments are impaired and subsequent increases in fish sizes and numbers do not occur (Spurgeon *et al.,* 2004). Fish stock recovery may be affected by non-fishery factors such as habitat loss, pollution, and sedimentation (Saucerman, 1995), however, these impacts are considered less significant than the effects of overfishing and it has been estimated that the stocks need at least 10 years to recover to previous levels (Peter Craig, 2004, pers. comm.).
+
+#### **Water quality**
+
+The largest human impacts have occurred in Pago Pago Harbour, where lush coral communities were described by Mayor (1924a) at the beginning of the last century and a decline of 78% in coral cover has been reported to have occurred between 1917 and 2001 (Kelty & Kuartei, 2004). The high concentration of industries which includes two tuna canneries that began operation in the 1950's, a sewage treatment plant, ship repair yard, fuel tank farm and power plant (Plate 1.4) has led to serious heavy metal and toxic contamination of the sediments and the fish and invertebrate populations in Pago Pago Harbour (Craig *et al*., 2000). Another serious environmental issue has been the nutrient loading and subsequent eutrophication from the cannery and sewage disposal in the harbour causing numerous algal blooms and occasional fish kills due to oxygen depletion (Craig *et al*., 2000). However, there has been and improvement in the water quality since the extension of the canneries discharge pipe to a 47 m depth contour in the outer harbour in 1991 (Craig *et al*., 2000). Although the water quality in the harbour has improved dramatically over the past few decades, the coral reefs in Pago Pago Harbour remain in the worst condition of all the reefs in American Samoa, however, the coral reefs are showing signs of recovery with the first *Acropora* recruits for decades (Kelty & Kuartei, 2004).
+
+![](_page_24_Picture_2.jpeg)
+
+Plate 1.4. Pago Pago Harbour showing the tuna canneries on the right of the photo and the industrial area on the left. Source: Author, 2004.
+
+One of the main threats to the marine environment of Tutuila is the contamination of water by Non-Point Source (NPS) pollution with the greatest contributions from poor land management practices in the form of improper land clearing for development, untreated septic discharges, concentrated animal waste from family-owned piggeries, and disposal of household refuse (Houk, 2003). High nutrient concentrations and sedimentation levels have been recorded around the highly populated southern coastal areas of Tutuila such as in Pago Pago Harbour, Nu'uuli Lagoon, and Faga'alu Bay in the outer harbour area (Brand & Aicher, 1997). Freshwater runoff was the main source of nutrient pollution in Pago Pago harbour and Nu'uuli lagoon was shown to export large quantities of nutrients and algae to the coral reefs in the nearby coastal waters (Brand & Aicher, 1997). In contrast, low nutrient concentrations were found at the least populated areas on the northern coast of Tutuila and the relatively undeveloped watersheds of the south coast such as at the Fagatele Bay National Marine Sanctuary, indicating that the natural vegetation prevents significant amounts of nutrients from entering the water (Brand & Aicher, 1997).
+
+Another problem facing the marine environment of Tutuila is the high level of coastal erosion caused by construction activities (Craig, 2002), with around 64 km² of coral reef identified as being at risk (Spurgeon *et al*., 2004). An increase in coastal protection schemes as a result of commonly occurring activities such as sand-mining has contributed to increased sedimentation, and subsequent decline in coral reef condition along the most developed central southern shore of Tutuila (Craig, 2002).
+
+#### **1.4 Coastal management in American Samoa**
+
+Over the last few decades, a dramatic development has occurred in the management of American Samoa's coastal areas and currently there are a variety of methods being used to manage its coastal resources (Hawkins, 2003). The U.S. Coral Reef Initiative supports the territory's coral reef conservation efforts which include the American Samoa Coastal Management Programme (ASCMP) and the American Samoa Coral Reef Advisory Group (ASCRAG) (Spurgeon *et al.,* 2004). Achievements include the implementation of a 5-year coral reef management plan, the establishment of a Marine Protected Area (MPA) network, estimated to cover 6% of American Samoan coral reefs (Craig, 2002), and the development of a Community-based Fishery Management Programme (CBFMP).
+
+Coastal Management in American Samoa will be discussed in relation to general MPAs, the statutory MPA network in American Samoa, Community-based MPAs, the CBFMP in American Samoa and past monitoring surveys carried out in the territory.
+
+#### *1.4.1 Marine Protected Areas*
+
+A Marine Protected Area (MPA) is widely recognised as an essential marine management tool and has been recommended in several international environmental conventions, including Chapter 17 of Agenda 21 of the United Nations Conferences on Development and Environment as a priority mechanism for sustainable development of the coastal and marine environment (Francis *et al.,* 2002). An MPA has been defined by the IUCN as: "*any area of intertidal or subtidal terrain, together with its overlying water and associated flora, fauna, historical and cultural features, which has been reserved by law or other effective means to protect part or all of the enclosed environment*…" (ISRS, 2004).
+
+A MPA is usually established to conserve resources by managing human activities; therefore there are many different types, which include (Hughes *et al.*, 2003):
+
+- **"Paper" parks** which are ineffective due to poor enforcement and management
+- **Multiple-use areas** containing zoning schemes for different user activities
+- **Partially protected areas** that protect a particular species or locally prohibit specific kinds of fishing
+- **No-take areas (NTAs)** or "marine reserves" which are fully protected MPAs, and are the most effective protection for extractive activities such as fishing.
+
+Recent research has highlighted the importance of creating a network of NTAs integrated with management of surrounding areas in order to manage coral reef resilience to the effects of global climate change (Hughes *et al.,* 2003). Additionally, ecological modelling studies indicate that at least 30% of the world's coral reefs should be NTAs to ensure long term protection and maximum sustainable yields of exploited stocks (Hughes *et al.,* 2003). The two main uses for MPAs are:
+
+#### **1. Protection of pristine marine habitats and biodiversity**
+
+MPAs are an important strategy for (ISRS, 2004):
+
+- Conservation of critical habitats and species that are sensitive to fishing
+- Protection of attractive habitats and species to provide a foundation for sustainable nature-based tourism of major benefit to local communities
+- Protection of cultural diversity
+
+#### **2. Maintenance of viable fisheries**
+
+Over the recent decade, the establishment of marine reserves closed to fishing has been seen as a more cost-effective management option to protect exploited species from overfishing compared to the more traditional methods of managing multi-species tropical fisheries such as quotas, size limits, and gear restrictions (Caroline *et al.,* 2001; Roberts *et al.,* 2001). The main benefits hoped to be derived from a MPA for fisheries include (Russ, 2002):
+
+- Decreased fishing mortality
+- Provision of a refuge to protect and increase genetic diversity of intensely exploited fish species
+- Increased density of target species
+- Increased mean size and age of target species
+- Increased production of propagules of target species
+- Emigration of adult fishes to fished areas due to random diffusion or density dependent processes ("spillover" effect) (Chapman & Kramer, 1999).
+- Export of eggs and larvae to fished areas (recruitment effect)
+- A more sustainable fishery that is less vulnerable to collapse (McClanahan & Mangi, 2001).
+
+#### **Effects of Marine Reserves**
+
+There is a lack of good scientific evidence by which to judge these expectations and we are still unable to predict what the effects of marine reserves may be, however many studies conclude that marine reserves are effective management tools based on speculative assumptions (Willis *et al.*, 2003).
+
+With a sufficiently large sample size, significant differences between sites that are separated either temporally or spatially were shown by Edgar and Barrett (1997) to be due to natural biological variability between the sites, and they suggested that to claim the existence of a 'reserve effect', a minimal 100% increase in density needed to be calculated. Relatively few studies on MPAs around the world have shown such increases in fish density as many include experimental designs that have insufficient sample replication and lack of control sites (Willis *et al*., 2003).
+
+#### **Species diversity**
+
+A meta-analysis of 19 marine reserves worldwide by Côté *et al*. (2001) on the effects of marine reserve characteristics on the protection of fish populations showed a significant increase of 11% in fish species number inside marine reserves compared to adjacent nonreserve areas, which was attributed to higher quality and variability of habitats within the reserves. Similarly, studies in Kenya have shown that the establishment of marine reserves and enforcement of no-take regulations has led to significantly higher fish species diversity compared to non-reserve areas (McClanahan, 1995; McClanahan & Mangi, 2001).
+
+A study by Friedlander *et al.* (2003), evaluated the relationship between fish assemblages, their associated habitats and the degree of protection from fishing at 60 sites throughout the main Hawaiian islands. Different levels of protection were associated with 18 of the sites and included areas protected from fishing, partially protected areas that allow certain fishing activities to occur, and areas fully open to fishing and results showed that sites protected from fishing had significantly higher numbers of species and higher species diversity than the partially protected sites and the areas open to fishing. Friedlander *et al.* (2003) also showed that fish species diversity was higher at sites with high coral complexity, moderate wave exposure and high % cover of lobate coral.
+
+#### **Abundance**
+
+A meta-analysis carried out by Mosqueira *et al*. (2000), found a 3·7-fold increase in abundance of target species and large bodied non-target species caught as by-catch, in marine reserves compared to non-reserve areas. A study by Ruttenberg (2001) on the effects of artisanal fishing on marine communities in the Gàlapagos Islands showed that the fish density and biomass of target fish were significantly lower (by more than 50% and 75% respectively) at 3 highly-fished sites compared to 3 lightly-fished sites.
+
+The meta-analysis by Côté *et al*. (2001) showed an increase in abundance of fish species between reserves and non-reserves although it was not statistically significant, however, the abundance of target fish was found to be significantly higher by 28% inside marine reserves compared to the adjacent non-reserve areas. There was significant variation in the response of fish abundances at each marine reserve, which was attributed to differences in fishing intensity outside reserve boundaries and to the composition of the fish communities inside the reserves (Côté *et al*., 2001). Similarly, a study by Roberts & Polunin (1992) found no increase in fish abundance inside marine reserves, although they reported a significant increase in body size of key target species. The study by Friedlander *et al.* (2003) showed that numerical fish abundance did not vary significantly between the various levels of protection, however higher fish abundance was found to be related to embayments, areas with high coral complexity and high % cover of branching coral.
+
+#### **Biomass**
+
+In Hawaii, fish biomass was found to be lowest in areas directly exposed to waves and highest in sheltered areas, and in areas with high coral complexity (Friedlander *et al.,*  2003). Results also showed high fish biomass in habitats with low coral complexity but protected from fishing, suggesting that protection from fishing may be as or more important than habitat quality in sustaining and enhancing fish assemblages (Friedlander *et al.,* 2003). Fish assemblages at areas not protected from fishing tend to be dominated by smaller sized fish compared to areas protected from fishing, even though abundances of fish are similar, and subsequently the total population fecundity declines more quickly (Jennings and Lock 1996). Evidence of this was shown by Rodwell *et al*. (2002), estimating that 70% of the biomass of fish in Kenya's Mombasa Marine National Park was reproductively active compared with just 20% in nearby fishing grounds.
+
+#### **Community structure**
+
+Some evidence exists for second-order indirect effects of fishing on community structure where removal of apex predators such as groupers results in a proliferation of smaller species (Watson & Ormond, 1994; Chiappone *et al.,* 2000). A study by Christie *et al.*  (2002) involving the comparison of coral and fish communities inside and outside community-based MPAs in the Philippines found that intense fishing outside the reserves may have been reducing the predatory fish and subsequently allowing pomacentrids to thrive on the reef flats.
+
+#### **Size of marine reserves**
+
+Target-species "spillover" into fishing areas is likely to occur close to the MPA boundaries, however benefits will often be related to the size of the reserve (ISRS, 2004). The benefits of spillover to fisheries has been shown to occur within 500m of MPA boundaries, however tagging studies have shown spillover to occur up to a few kilometres (McClanahan & Mangi, 2000; Russ, 2002).
+
+Numerous studies have focused on the size of marine reserves in relation to their effectiveness and results have shown that even small reserves less than 1 km2 protecting areas from fishing are able to rapidly enhance the biomass and / or abundance of local fish populations inside the reserve (Bohnsack, 1996). Some of the smallest reserves that have shown to be effective include a 0.4 km2 reserve at Sumilon island in the Philippines (Russ & Alcala, 1996b) and 0.9 km2 at the Saba Marine Park in the Caribbean, which recorded a 60% increase in overall fish biomass within 2 years (Roberts, 1995b). Surprising results from a study by Roberts & Hawkins (1997) showed that a reserve measuring 150 m x 175 m, encompassing 2.6 km2 in St. Lucia that had been closed for only two years, was supporting significantly higher biomass and abundances of parrotfishes (Scaridae) and snappers (Lutjanidae) than the non-reserve area in addition to providing a refuge for three species not found anywhere else along the highly fished coast (Roberts & Hawkins, 1997).
+
+An increasing number of studies are showing similar results, of transient predators increasing in density as a result of protection by small marine reserves (Russ & Alcala 1996b; Tupper & Rudd, 2002). Even though larger target fish species may be expected to move greater distances, a study in Barbados showed that large movements by fish mainly occur within reefs and little movement actually occurs between reefs across channels (Chapman & Kramer, 2000). A study by Holland *et al.* (1996) showed that the bluefin trevally (*Caranx melampygus*) showed strong site fidelity even though it is apparently a transient fish. Another highly mobile fish, the grouper (Serranidae) has been shown to prefer a number of small locations within its large home range (Zeller, 1997). Marine reserves can be valuable for fish species with even larger scales of movement by providing protection during vulnerable stages of their life cycles and the implementation of additional management policies such as seasonal spawning closures or total allowable catches (Tupper & Rudd, 2002).
+
+#### **Recovery of fish populations**
+
+The length of protection required by marine reserves to recover to their original undisturbed states is a critical question that is rarely addressed in the scientific literature (Russ & Alcala, 2004). Most of the available studies show that the abundance of target species often increases rapidly following establishment of marine reserves (Roberts, 1995; Halpern & Warner, 2002), however, they are rarely long-term studies (Russ & Alcala, 2004). Initial increases in abundances and biomass may be rapid, however most target fish species have 'slow' life history characteristics, therefore full recovery of stocks may take decades (Russ & Alcala, 2004).
+
+The longest and most detailed studies on coral reef marine reserves are at Sumilon and Apo in the Philippines that have been protected for 9 and 18 years, respectively, where the biomass of large predatory fish is still increasing exponentially with an estimated time for recovery at 15 and 40 years, respectively (Russ & Alcala, 2004). Similarly, McClanahan (2000) predicted that more than 30 years might be required to achieve full recovery of an important food fish on Kenyan coral reefs.
+
+The importance of longer reserve closures can be demonstrated by recent studies that have found that larger and older female fish are much more productive than smaller and younger fish and Bohnsack (1998) estimated that one 61-cm-long red snapper (*Lutjanus*  *compechanus)* produced as many eggs as 212 43-cm-long snappers. Additionally, Berkeley *et al.* (2004) found that eggs from older female rockfish (*Sebastes* spp.) produced faster growing larvae that were more resistant to starvation than larvae from younger females.
+
+Rotational closures of areas to fishing involve the periodic opening and closing of areas to fishing activity, and their practice in particular with the absence of other controls on fishing effort, has been shown to cause a detrimental effect on the fish communities, which includes a rapid decrease in biomass (Russ & Alcala, 1999). This occurred at the Sumilon marine reserve which was opened twice during its 9 year protection resulting in a significant decrease in the density of large predatory reef fish Serranidae, Lutjanidae, Lethrinidae and Carangidae. In contrast, at Apo, continuous protection since 1982 has led to a consistent build up of fish in the reserve with some evidence that local fish yields have also increased (Russ & Alcala, 1999). Results from analysis of large predatory fish at both reserves show significant positive correlations between the mean density of large predators and the length of reserve closure (Russ & Alcala, 1996a). The effect of rotational closures may also be similar to the effects of poaching either from inside the local community, or from outsiders fishing in the area as a result of lack of effective enforcement or compliance (ISRS, 2004).
+
+The greater success of management at Apo was due to community support for the reserve concept whereas socio-political factors caused the level of community support for the Sumilon reserve to fluctuate (Russ & Alcala, 1999).
+
+Marine reserves, when combined with traditional management methods, can often be the best and perhaps the last hope for recovery and replenishment of benthic resources and associated fish assemblages (Bohnsack 1996). In most situations community involvement and support during MPA establishment are essential to their success (ISRS, 2004).
+
+#### *1.4.2 American Samoa statutory Marine Protected Areas*
+
+There are four statutory Marine Protected Areas (sMPAs) in American Samoa and they are listed along with their location, size, and year of establishment in table 1.1. Only one MPA (Rose Atoll National Wildlife Refuge) is a 'no-take' area, prohibiting fishing, and the other three are partially protected reserves where subsistence fishing is permitted.
+
+Table 1.1. Marine Protected Areas in American Samoa showing locations, year established and areas (in km²). Adapted from Craig (2000).
+
+| Statutory Marine Protected Area        | Location        | Year<br>Established | Area<br>(km²) |
+|----------------------------------------|-----------------|---------------------|---------------|
+| Fagatele Bay National Marine Sanctuary | Tutuila         | 1986                | 0.7           |
+| National Park of American Samoa        | Tutuila, Manu'a | 1993                | 42.6          |
+| Rose Atoll National Wildlife Refuge    | Rose Atoll      | 1973                | 158.8         |
+| Ofu-Vaoto Marine Park                  | Ofu             | 1994                | 0.5           |
+
+#### **Fagatele Bay National Marine Sanctuary (FBNMS)**
+
+Fagatele Bay National Marine Sanctuary (Fagatele Bay from hereafter) was designated in 1986 in response to a proposal from the American Samoa Government to the U.S. National Marine Sanctuary Programme, based on its isolation, spectacular beauty, and the pristine nature of its marine resources (Green *et al.,* 1999).
+
+Fagatele Bay is located 12 km south-west of Pago Pago Harbour on the southernmost point of Tutuila and is formed by a collapsed volcanic crater that is surrounded by steep cliffs and a fringing coral reef ecosystem with 600 m² of coral reefs up to the 150 ft depth contour. Traditional uses such as subsistence fishing and recreation are permitted, however destructive activities such as spear fishing, trawls, seine or fixed nets, dredging activities and discharge of pollutants are prohibited.
+
+The bay is sheltered from prevailing wave action by the encircling reef platform and anthropogenic impact is minimal, and subsequently the coral reef communities have recovered well from the numerous large-scale disturbances over the last few decades (see section 1.3.1) (Green, 2002). Fish communities were affected by the habitat degradation caused by the COT outbreak but have remained relatively unchanged since (Green *et al,* 1999).
+
+Despite its protected status, there is evidence that Fagatele Bay has been overfished, possibly due to its remote location and irregular enforcement resulting in the occurrence of illegal fishing practices, and it may have been targeted by the night time SCUBA fishery (Green, 2002). A re-survey of the bay by Green (2002) showed that the density and biomass of the major fisheries families were relatively low, and several large reef fish species have become rare or absent in the bay.
+
+#### **National Park of American Samoa**
+
+The National Park of American Samoa (NPAS) is a co-operative programme between the people and government of American Samoa and the U.S. National Park System, with park lands on three different islands where land is leased from the respective villages (Hawkins, 2003). Approximately 80% of the park area is terrestrial land adjacent to coral reefs, where management of waters extend to 0.25 miles offshore (Craig, 2002). Only subsistence fishing using traditional gear is permitted with the exclusion of natural poisons (Craig, 2002), however, illegal fishing practices have also occurred in the Tutuila Unit of the NPAS (Page, 1998).
+
+The coral reefs in the Ofu Unit of the NPAS are in good condition and includes Ofu Lagoon, the best developed natural lagoon system on the main volcanic islands (Hawkins, 2003). The lagoon suffers from chronic COTS predation, however it supports spectacular coral reef communities, which are otherwise unique in American Samoa, and it is believed to act as a nursery for important fisheries species such as parrotfishes (Green, 2002).
+
+#### **Rose Atoll National Wildlife Refuge**
+
+The Rose Atoll National Wildlife Refuge was established on July 5, 1973 as part of a cooperative agreement with the government of American Samoa and the U.S National Wildlife Refuge System, which aims to protect endangered species and important habitats. The Rose Atoll National Wildlife Refuge is the only 'no-take' MPA and protects the threatened green sea turtle and endangered hawksbill turtle along with hundreds of fish, coral and invertebrate species that inhabit the shallow reefs, including the giant clam which is rare in other parts of American Samoa (Hawkins, 2003).
+
+#### **Ofu-Vaoto Marine Park**
+
+Ofu-Vaoto Marine Park is the only Territorial MPA on American Samoa and is located adjacent to the NPAS on Ofu Lagoon. The small park was established to protect unique coral habitats while allowing public access and enjoyment, and fishing activities are restricted to subsistence methods exclusively by the residents of Ofu Island (Hawkins, 2003).
+
+#### *1.4.3 Community-based MPAs*
+
+In developing countries, where local communities are more dependent on natural resources, the success of a MPA is often influenced by community involvement and support of the establishment of the MPA (Russ & Alcala, 1999; Francis *et al.,* 2002). Smaller MPAs established in developing nations that have community support are less likely to cause conflict with resource users than larger MPAs established by the government (Russ & Alcala, 1999).
+
+Basic fisheries management measures such as closed areas, closed seasons, size restrictions and restricted entry were used centuries ago by small-scale fishing communities in Southeast Asia and the Pacific to avoid overexploitation, to ensure large catches for special events or as a supply for when resources on the fishing grounds ran low (Johannes, 1998). Rather than concentrating on quotas and gear restrictions, traditional management was based on identification of the specific times and places where fishing could occur so it would not disrupt basic processes and habitats of important food resources (Friedlander *et al.,* 2003).
+
+Even though the knowledge possessed by tropical reef fishers concerning their local marine environments and fisheries are still strong today, most cannot cope with the introduction of new management challenges in the form of cash economies, rapid population growth, commercial fishing, new export markets, the use of new fishing gears and faster boats (Johannes, 1998). The effectiveness of these traditional management systems have been eroded and introduced fisheries management approaches have generally failed to prevent resource overexploitation (Doulman, 1993).
+
+Within the past two decades, a new approach to coastal resource management has involved the implementation of co-operative management schemes between villagers and the national government. This "co-management" or "community-based management" involves the decentralisation of authority for management of natural resources to local governments and communities, which has successfully occurred on a large scale in the Philippines and Fiji resulting in major shifts in policy-making (Russ & Alcala, 1999). This shift enables local communities to determine goals for management programs that aim to protect their natural resources with the assistance of government expertise, finance, enforcement and monitoring capabilities (Hawkins *et al*., 2004). Subsequently a 'bottom-up' approach is gained by helping villagers to understand the need for certain types of management and how to formulate plans to address their needs effectively (Johannes, 1998).
+
+An investigation by Pollnac *et al.* (2001) into the success of Community-based MPAs found the following factors to be the most important:
+
+- A relatively small community population size
+- Successful alternative income projects.
+- A relatively high level of community participation in decision-making.
+- Continuing advice from the implementing organization.
+- Inputs from the municipal government.
+
+#### **Monitoring**
+
+Monitoring of fisheries, fish populations, coral reef conditions, and socio-economic dynamics supplies community members and policy makers with useful information to support the adaptive management process (Christie *et al.,* 2002). Most tropical regions don't have sufficient historical fisheries data or quantitative marine resource data, however "data-less management" has been suggested by Johannes (1998) as a viable option for marine resource management. Data-less management involves relying on local traditional management techniques and successes of such methods have been shown in the South Pacific countries of Palau and Vanuatu (Johannes, 1998).
+
+A traditional management approach in Palau consisted of closing the grouper fishery during the peak spawning months and fishermen requested that the Palauan government make it regulation after declining stocks became evident (Johannes, 1998). This management method could be used in the design of MPAs where the primary objective is to protect critical spawning stock biomass by including important spawning aggregation sites within the boundaries of the reserve (Johannes, 1998). Research has shown that larger reef fishes of many species tend to choose the same specific locations and same seasons in which to spawn and more than 40 species of reef fish spawn at three aggregation sites studied in Palau (Johannes, 1998). Results from a study in the US Virgin Islands, showed that protecting a spawning aggregation site for the grouper *Epinephelus guttatus* led to swift increases in average fish size and in the numbers of males, in spite of covering just 1.5% of the site (Beets & Friedlander, 1999; Bohnsack, 2000).
+
+In Vanuatu, a village-based giant clam (trochus) management programme was established by the Fisheries Department and the word of its success spread throughout the villages, resulting in the implementation of new fishing controls on finfish, lobsters and octopus (Johannes, 1998). The efforts in a few villages had led to a large multiplier effect without the need for data apart from the growth rate data of the trochus and the villagers increased income associated with their trochus management. Similar rapid spreading of marine conservation measures has occurred in Fiji where a small number of villages were initially targeted for co-operative management by the Fiji Fisheries Department (Johannes, 1998).
+
+Community-based MPAs, with their associated limitations, have been one of the few success stories in marine conservation over the past few decades, however, community based management should only be one strategy as there is a need for an overall management plan for the larger area that addresses issues such as increasing fishing effort and efficiency and habitat degradation (Christie *et al.,* 2002).
+
+#### *1.4.4 American Samoa's Community-based Fishery Management Programme*
+
+The Community-Based Fisheries Management Programme (CBFMP) of American Samoa was implemented in 2001 by the Department of Marine and Wildlife Resources (DMWR) with funding from The Federal Aid for Sportsfish Restoration and the South Pacific Regional Environmental Program (SPREP). The programme is based on a successful model employed in Samoa several years earlier (King & Faasili, 1999).
+
+At present, the program includes seven villages on the main island of Tutuila, Alofau, Aua, Auto & Amaua, Fagamalo, Masausi, Poloa, and Vatia, each of which is responsible for all aspects of managing and monitoring their own resources, with technical assistance from DMWR (Musburger, 2004). Figure 1.3 shows the location of each CBFMP village on Tutuila.
+
+![](_page_37_Figure_5.jpeg)
+
+Figure 1.3. **The location of the current Community-Based Fisheries Management Programme villages and the boundaries of their management areas on the main island of Tutuila in American Samoa. Source: Adapted from the American Samoa GIS database (2004).** 
+
+Villages are selected for inclusion in the programme based on an assessment of:
+
+- The significance of the marine environment to the village
+- The extent of any problems with the marine environment
+- The level of concern and willingness to do something about the existing problems
+
+The implementation process of the CBFMP in each village is shown in figure 1.4.
+
+![](_page_38_Figure_2.jpeg)
+
+Figure 1.4. The extension process for the implementation of the CBFMP in each village. Adapted from Hawkins *et al.* (2004).
+
+The CBFMP assists the villages to manage and conserve their inshore fishery and coral reef resources with the aim of improving fishing and sustainable development of marine resources in their villages and in the Territory and with the goal of enhancing ownership and stewardship of the marine resources (Sauafea, 2002). With the assistance of DMWR, the program includes the restocking of giant clams (*faisua*) in each CBFMP village with the aim of enhancing the development of good fisheries practice and management approaches (Sauafea, 2002). Plate 1.5 shows an example of a bilingual sign provided by the DMWR for each of the CBFMP villages, indicating the prohibition of fishing in the village marine reserve.
+
+![](_page_39_Picture_3.jpeg)
+
+Plate 1.5. A bilingual sign provided by the DMWR for the CBFMP village of Vatia, indicating the prohibition of fishing in the village waters. Source: Author, 2004.
+
+Each village in the CBFMP have their own Fisheries Management Plan (FMP), which the village committees have designed with guidelines and regulations on the restriction of fishing activity on their coral reef (Musburger, 2004). Additionally, each CBFMP village has a Monitoring and Enforcement Committee (MEC), responsible for enforcing and implementing the actions detailed in the FMP, and to conduct regular monitoring of the giant clams (Hawkins *et al.,* 2004).
+
+Some villages have requested the need to have the programme in their village because of the degraded condition of the reef area and the need to improve the fisheries (Sauafea, 2002). Typically, the FMPs involve spatially-designed no-take areas as an alternative to closure of the entire village reef to fishing with the aim of potentially exporting fish to other portions of the reef (Hawkins *et al.,* 2004).
+
+The initial intention of the CBFMP was for the MPA areas to be implemented for five years, with many of the villages specifying a time frame of two years before reopening and subsequently regulating fishing activities as specified in their management plans. Many of the CBFMP villages have reported an improvement in their resources since the implementation of the programme, with a general consensus of increased fish abundances and catches after closure for two years (Hawkins *et al.*, 2004). One of the main problems with the CBFMP in American Samoa is that its success has not yet been quantified and subsequently managers have had to rely on word of mouth and anecdotal evidence to continue the community-based management efforts in the Territory (Hawkins *et al.*, 2004). However Musburger (2004), has produced a report which details recommendations for a CBFMP village Monitoring Plan and this study aims to provide baseline data for the monitoring plan. This study will also involve the placement of permanent transect stakes on the reef flat areas at some of the CBFMP villages.
+
+Due to logistical considerations related to access to the site, only four of the seven CBFMP villages were included in this study and the details of their management plans and the location of their management areas follow.
+
+#### **Alofau**
+
+The village of Alofau is located within the district of Sa'ole on the western side of the main island of Tutuila (see figure 1.3). The first management plan called for closing the entire area to all fishing activity beginning in May of 2001 with the aim of improving the declining quality of their reef fishery and conserving the marine resources in the ocean and on the village reef (DMWR, 2002).
+
+In May 2003, after two years of complete closure to fishing, the village decided to open the area to fishing on Saturdays only (Musburger, 2004), and the most common fishing tools and methods used by the villagers to obtain food from their reef are spear fishing, gill nets, throw nets, night fishing, and bottom fishing using hand-lining (DMWR, 2002).
+
+The management area of Alofau encompasses the entire village reef area, which is extremely broad, with several deep areas that were apparently dredged to mine sand and rock for construction uses. The total area of the reserve is 335.3 km2 with a perimeter of 3.1 km as shown in figure 1.5.
+
+![](_page_41_Picture_6.jpeg)
+
+Figure 1.5. The CBFMPA marine reserve of Alofau. Blue lines indicate the watershed boundary including the location of streams. Source: Adapted from the American Samoa GIS database (2004). Image source: Space Imaging IKONOS Imagery (2001).
+
+#### **Aua**
+
+The village of Aua is located on the eastern side of Pago Pago Harbour within the county of Ma'oputasi. The major problem with Aua's fisheries is the diminished quantity of fish and shellfish in its reef area as a result of overfishing and destruction of reef habitat as a result of the recent use of illegal fishing practices (DMWR, 2002).
+
+The main aim of the implementation of the CBFMP at Aua was to improve their reef area and its resources. The CBFMPA marine reserve was implemented on May 22nd, 2002 and the village council agreed to close the area to fishing or any other activities, however the status of the village's participation in the programme is currently unknown (Musburger, 2004). The management area encompasses 232.3 km2 with a perimeter of 3.1 km, starting from the Aua Congregational Christian Church onto the Fautasi place at about 110 meters wide and 70 meters out on its reef flat as shown in figure 1.6.
+
+![](_page_42_Picture_5.jpeg)
+
+Figure 1.6. The CBFMPA marine reserve of Aua. Blue lines indicate the watershed boundary including the location of streams. Source: Adapted from the American Samoa GIS database (2004). Image source: Space Imaging IKONOS Imagery (2001).
+
+#### **Auto & Amaua**
+
+The villages of Auto and Amaua share a management area and are located in the Eastern District within the county of Sua, on the south shore of Tutuila (see figure 1.3). Auto and Amaua implemented the CBFMP in February 2003 with the aim of establishing the fish reserve for 3 years to improve the village reef area and eventually increasing the present diminishing quantity of fish and shellfish on its reef (DMWR, 2002).
+
+There is no fishing of any kind allowed within the boundaries of the Auto & Amaua management area which has a total area of 481.3 km2 and a perimeter of 4.4 km. The management area includes the entire reef area in front of the village of Auto and the village of Amaua excluding the far eastern side of Amaua (Musburger, 2004). The reef area extends out 200 yards from the beach and stretches to approximately 250 yards long from the eastern side of the village on to the western side as shown in figure 1.7.
+
+![](_page_43_Picture_5.jpeg)
+
+Figure 1.7. The CBFMPA marine reserve of Auto & Amaua. Blue lines indicate the watershed boundary including the location of streams. Source: Adapted from the American Samoa GIS database (2004). Image source: Space Imaging IKONOS Imagery (2001).
+
+#### **Vatia**
+
+The village of Vatia is the northernmost village of Tutuila, and is located in the Eastern District within the county of Vaifanua. The village is located within an embayment which is semi protected from open ocean conditions and narrow to moderately wide fringing reefs form off the sides and inner reaches of this embayment (Maragos *et al*, 1994).
+
+Initial meetings with the villagers, showed that the reef species of greatest concern were mullet (*anae*) and giant clams (*faisua*) which were reported to be severely depleted (DMWR, 2002). The CBFMP was implemented in April 2002 with the aim of establishing a fish reserve to protect and manage the village reef area and its resources. The management area of the village consists of the entire northeast coast and was closed to all fishing activities for two years. The villagers decided to open the reserve for one day at the beginning of 2004 reporting high fish catches, however the reserve was re-closed the following day (Musburger, 2004). The management area encompasses 710.4 km2 with a perimeter of 14.9 km, and its extent is shown in figure 1.8.
+
+![](_page_44_Picture_5.jpeg)
+
+Figure 1.8. The CBFMPA marine reserve of Vatia. Blue lines indicate the watershed boundary including the location of streams. Source: Adapted from the American Samoa GIS database (2004). Image source: Space Imaging IKONOS Imagery (2001).
+
+#### *1.4.5 Monitoring in American Samoa*
+
+#### **Long-term monitoring**
+
+Long-term monitoring has been carried out in Pago Pago Harbour since 1917 and at Fagatele Bay by visiting scientist C. Birkeland, since 1985. A study by Birkeland *et al.* (1996) investigated the changes in the coral reef communities of Fagatele Bay and sites around Tutuila over the last few decades, and a recent study by Green (2002), involved the resurvey of the benthic and fish communities at long-term monitoring sites on the main islands of American Samoa. The broad-scale surveys carried out in American Samoa were subject to multivariate statistical analysis by McCardle (2003) which involved collating and carrying out Principle Component Analysis (PCA) on data collected between 1985 and 2001 at Fagatele Bay ranging between depths of 1m and 18m, data from sites on Tutuila between 1995 and 1998 at two depths of 3 m and 6 m, and the comparison of data between the main islands of American Samoa between 1996 and 2001. Results indicate coral and fish species that are correlated with temporal changes in species composition, species diversity, abundances, depth and exposure.
+
+#### **One-time surveys**
+
+Numerous one-time surveys of corals and fishes have been carried out using various methods, sites and depths on Tutuila (Green, 1996; Mundy 1996) and in the Ofu Lagoon Unit of the NPAS (Hunter *et al.*, 1993; Green & Hunter 1998). There has been limited fisheries monitoring carried out in American Samoa with the main studies including the monitoring of declining subsistence catch in 1979 and 1991 between 1995 (Wass 1980; Saucerman, 1996), and studies on fishing pressure on harvested surgeonfish was carried out by Craig *et al*. (1997) and on parrotfishes by Page (1998).
+
+#### **1.5 Survey Design**
+
+This section describes the visual census technique and the criterion used to select the study sites and the list of reef fish species used during this study.
+
+#### *1.5.1 Survey techniques*
+
+Shallow reef flat and lagoon habitats between 0 and 3 m deep can be surveyed safely and easily using snorkelling techniques and visual census methods. For spatial comparisons between fish communities, standardised visual censuses of fish within belt transects have been found to be an acceptable technique, that allow diurnal and non-cryptic fish species in large areas to be counted quickly and non-destructively. Other benefits of using visual census techniques include (English *et al.,* 1997):
+
+- Minimal personnel and specialised equipment is needed
+- Resurveys can be carried out for temporal studies
+- Potential to produce large datasets rapidly for management purposes.
+
+Some disadvantages include:
+
+- The need for well trained and experienced observers
+- Fish may be disturbed or attracted by observers
+- Observer error and biases occur in estimating numbers and sizes
+- Low statistical power to detect changes in rare species.
+
+#### *1.5.2 Site selection criteria*
+
+Fish assemblage characteristics were surveyed at reef flat and shallow lagoon sites that were protected from fishing at three different levels:
+
+- 1. **Community-based MPAs:** no-take marine reserves that have been completely closed to fishing for at least 2 years.
+- 2. **Statutory MPAs:** partially protected marine reserves that restrict subsistence fishing by gear and zonation.
+- 3. **Unprotected sites:** areas with no current or previous protection from fishing activity.
+
+The criteria for selection of CB-MPA protected reef flat sites and adjacent non-protected reef flat sites involved the initial selection of CB-MPA villages on the basis of the following logistical considerations:
+
+- **Accessibility to the reef flat** At low tide, the reef flats in some of the villages are inaccessible and on the outgoing tide, some reef flats are subject to strong currents especially near channels (or *avas*) (Musburger, 2004). In order to reduce sampling bias, each site should be surveyed at approximately the same time each day and at the same tidal stage due to dramatic changes in fish fauna at different stages of the tide. Therefore, CB-MPA village sites such as Poloa were excluded from the survey due to the reef flat being inaccessible at high tide as a result of strong currents.
+- **Accessibility to the study site** The southern coast of Tutuila is more developed than the northern coast and subsequently the road access to some of the CB-MPA villages on the northern coast is only possible with a 4 x 4 vehicle, and the journey times are much longer from the survey base in Pago Pago Harbour to CB-MPA villages such as Poloa and Fagamalo on the north western coast of Tutuila.
+
+Johannes (2002) suggested that monitoring of the effects of community based MPAs can be easily carried out in South Pacific Islands such as Vanuatu, Samoa and Fiji, where "readymade controls" of unprotected fishing grounds can often be found adjacent to protected fishing grounds and that share similar environmental features.
+
+The criteria for selection of sites not protected from fishing activity adjacent to each of the CB-MPA sites included:
+
+- Comparable reef flat area
+- Comparable exposure
+- Comparable aspect
+- Comparable watershed size
+- Comparable population density
+
+#### *1.5.3 Fish species selection criteria*
+
+#### **Reef fish families**
+
+The selection of reef fish families to be included in the census was based on a list of fish families used by Green (2002) in the re-survey of long term monitoring sites in American Samoa. The list was based on families which are amenable to visual census techniques and determined using the following criteria:
+
+- Relatively large species
+- Diurnally active
+- Conspicuous in coloration and behaviour
+
+The exclusion of fish that exhibit cryptic behaviour ensures that no destructive or extractive measures were necessary to estimate their abundance and such families include:
+
+- Cardinalfishes (Apogonidae)
+- Hawkfishes (Cirrhitidae)
+- Gobies (Gobiidae)
+- Squirrelfishes (Holocentridae)
+- Moray Eels (Muraenidae
+
+#### **Target fish species**
+
+Surveys using snorkelling equipment are restricted to the shallow reef flat areas therefore censuses can only be carried out on the fish species that are targeted by the inshore subsistence fishery. Studies have shown that the main reef fish families caught by the subsistence fishery include the following reef fish families (Saucerman, 1995; Craig *et al.,* 1997):
+
+- Surgeonfishes (Acanthuridae)
+- Trevallies (Carangidae)
+- Squirrelfishes (Holocentridae)
+- Emperors (Lethrinidae)
+- Snappers (*Lutjanus* spp.)
+- Mullet (Muglidae)
+- Parrotfishes (Scaridae)
+- Groupers (Serranidae)
+
+Based on the criteria for selection of reef fish families, the cryptic Holocentridae were excluded from the surveys.
+
+Due to the non-selective nature of the subsistence fishery in American Samoa, many other fish families are indirectly targeted by the subsistence fishermen as a result of by-catch. In the Indo-Pacific, triggerfishes (Balistidae) are rarely targeted by fishermen but they are frequently caught as by-catches in multispecies reef fisheries (Roberts, 1995a), which may also be the case in American Samoa in particular for *Rhinecanthus aculeatus* L. , which is commonly found in the nearshore waters of American Samoa (Craig, 2002). Other fish species that are potentially caught in the subsistence fishery were selected using the criteria that included large species (of maximum size > 20 cm, determined using Lieske & Myers, 2001) of wrasses (Labridae) and rabbitfishes (Siganidae).
+
+#### **1.6 Specific objectives**
+
+The hypothesis to be tested is that fish communities at sites protected by sMPA and CB-MPA status will demonstrate characteristics of higher species number, species diversity, abundance and biomass than at sites not protected from fishing activity. The specific objectives are as follows:
+
+#### **1. Selection of sites inside and outside Community-Based MPA's**
+
+To identify the differences in fish assemblage characteristics inside and outside the Community-Based MPA's (CB-MPAs), on the American Samoan islands of Tutuila and Manu'a, by selecting four reef flat sites protected by CB-MPA status and four unprotected reef flat sites that are adjacent to each of the CB-MPA sites (based on the site selection criteria outlined in section 1.5.2), to be carried out at the beginning of the two-month fieldwork phase between June and August 2004.
+
+#### **2. Selection of statutory MPA sites**
+
+To identify differences in fish community characteristics between and within three treatments characterised by different levels of protection from fishing activity by selecting a reef flat site and a lagoon site with statutory Marine Protected Area (sMPA) status along with a lagoon site with CB-MPA status, and a lagoon site unprotected from fishing activity, on the American Samoan islands of Tutuila and Manu'a at the beginning of the two-month fieldwork phase between June and August 2004.
+
+#### **3. Reef fish species**
+
+To determine a list of non-cryptic, diurnally active reef fish species to be included in the visual census survey using the reef fish family selection criteria outlined in secion 1.5.3, and by carrying out *insitu* reconnaissance surveys at three reef flat sites on the American Samoan island of Tutuila at the beginning of the two-month fieldwork phase between June and August 2004.
+
+#### **4. Target Reef fish species**
+
+To determine a sub-sample of reef fish species that are targeted by the subsistence fisheries on the American Samoan islands of Tutuila and Manu'a based on target fish species selection criteria outlined in section 1.5.3, to be used in the analysis of reef fish data collected between June and August 2004.
+
+#### **5. Reef fish species diversity**
+
+To estimate the reef fish species number and diversity by carrying out visual census surveys by snorkelling along five 25m long and 2m wide transects at each study site on the American Samoan islands of Tutuila and Manu'a during the two-month fieldwork phase between June and August 2004 and to analyse the distribution and composition of reef fish and target reef fish species number and diversity at each site
+
+#### **6. Reef fish abundance**
+
+To estimate the reef fish abundance by carrying out visual census surveys by snorkelling along five 25m long and 2m wide transects at each study site on the American Samoan islands of Tutuila and Manu'a during the two-month fieldwork phase between June and August 2004 and to analyse the distribution and composition of reef fish and target reef fish abundance at each site
+
+#### **7. Reef fish lengths and biomass**
+
+To estimate fish lengths into categories of 5cm by carrying out visual census surveys by snorkelling along five 25m long and 2m wide transects at each study site on the American Samoan islands of Tutuila and Manu'a during the two-month fieldwork phase between June and August 2004, and converting the data into biomass using published species-specific length-weight relationships to analyse the distribution and composition of reef fish and target reef fish biomass and the distribution of small fish (< 5 cm) at each site.
+
+#### **8. Habitat structure**
+
+To relate reef fish species diversity, abundance and biomass to habitat structure, live coral cover and coral species diversity at each study site on the American Samoan islands of Tutuila and Manu'a during the two-month fieldwork phase between June and August 2004.
+
+#### **9. Management Recommendations**
+
+To critically evaluate the protection provided by the Community-based Fisheries Management Program to the reef fish communities and provide recommendations for the future management of the reef fish population and reef fisheries of American Samoa.
+
+#### **10. CBFMP Monitoring Plan**
+
+To provide baseline reef fish data for the future CBFMP Monitoring Plan in American Samoa by establishing three permanent transect lines using two metal stakes, 25 m apart and driven into the substrate on the reef flat at four CB-MPA sites and imputing the data collected during the visual census survey onto both electronic and hard-copies of the pre-designed CBFMP Monitoring Plan survey sheets.
+
+# **2 Materials & Methodology**
+
+Surveys were carried out between June and August 2004 on the American Samoan islands of Tutuila and Ofu (the Manu'a Islands) in the South Pacific Ocean. Reef fish populations were assessed by snorkelling along underwater transects and using visual census techniques.
+
+#### **2.1 Study sites**
+
+Eight reef flat sites and two lagoon sites on the island of Tutuila and one lagoon site on Ofu Island in the Manu'a Islands were chosen based on the site selection criteria outlined in section 1.5.2.
+
+The location of the study site on Ofu is shown in figure 2.1 and the location of the study sites on Tutuila are shown in figure 2.2. The environmental, physical and social factors of each site are described in table 2.1.
+
+![](_page_53_Figure_7.jpeg)
+
+Figure 2.1. Location of the Ofu Lagoon study site on the Island of Ofu, Manu'a Islands surveyed between June and August 2004. Adapted from map produced by NPAS.
+
+![](_page_54_Figure_0.jpeg)
+
+Figure 2.2. Location of study sites surveyed on the American Samoan island of Tutuila between June and August 2004. Source of images: Space Imaging IKONOS Imagery (2001), American Samoa GIS data (2004).
+
+Table 2.1. Environmental, physical and social factors of each of the 8 reef flat sites and 3 lagoon sites surveyed on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Protection status: CB-MPA = Community-based Marine Protected Area, sMPA = statutory Marine Protected Area, None = area of no protection. Habitat type: RF = Reef flat, Lag = Lagoon. Exposure level: Low exposure, Mod = Moderate
+
+| maua 0.87<br>m2)<br>Auto 0.83<br>1.33<br>1.33<br>2.83<br>2.83<br>4.19<br>7.56<br>5.69<br>Area (k<br>1.4<br>-<br>-<br>A<br>Pressure<br>High<br>High<br>High<br>High<br>High<br>Mod<br>Mod<br>Mod<br>Mod<br>w<br>w<br>Lo<br>Lo<br>Level<br>High<br>High<br>Mod<br>Mod<br>Mod<br>Mod<br>w<br>w<br>w<br>w<br>w<br>Lo<br>Lo<br>Lo<br>Lo<br>Lo<br>Direction<br>W<br>NE<br>NE<br>SE<br>SE<br>SE<br>SE<br>SE<br>SE<br>SE<br>SE<br>S<br>(acres)<br>Area<br>36.7<br>11.6<br>38.3<br>24.5<br>38.3<br>43.6<br>11.3<br>33.1<br>10.0<br>34.7<br>n/a<br>Type<br>Lag<br>Lag<br>Lag<br>RF<br>RF<br>RF<br>RF<br>RF<br>RF<br>RF<br>RF<br>Length<br>(years)<br>1.3<br>11<br>2<br>2<br>2<br>2<br>9<br>-<br>-<br>-<br>-<br>A<br>A<br>A<br>A<br>A<br>Status<br>A<br>A<br>None<br>None<br>None<br>None<br>MP<br>MP<br>MP<br>MP<br>MP<br>MP<br>MP<br>CB-<br>CB-<br>CB-<br>CB-<br>CB-<br>s<br>s<br>Aua Control<br>Faga'itua<br>Masefau<br>Fagatele<br>&<br>Nu'uuli<br>maua<br>Alofau<br>Alofau<br>Vatia<br>Aua<br>Site<br>Bay<br>Ofu<br>Auto<br>A | exposure, High = High exposure. n/a = not available. Data source: A | Protection |  | Habitat | Exposure |         | moa GIS data (2004). Fishing Pressure: Spurgeon et al. (2004). | Watershed             |                                        |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------|--|---------|----------|---------|----------------------------------------------------------------|-----------------------|----------------------------------------|
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                     |            |  |         |          | Fishing |                                                                | ms<br>No. of<br>strea | Population<br>m2)<br>density<br>(per k |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                     |            |  |         |          |         |                                                                | 4                     | 495                                    |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                     |            |  |         |          |         |                                                                | 4                     | 495                                    |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                     |            |  |         |          |         |                                                                | 4                     | 2193                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                     |            |  |         |          |         |                                                                | 4                     | 2193                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                     |            |  |         |          |         |                                                                | 3                     | maua 102<br>Auto 258<br>A              |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                     |            |  |         |          |         |                                                                | 4                     | 483                                    |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                     |            |  |         |          |         |                                                                | 0                     | -                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                     |            |  |         |          |         |                                                                | 4                     | 435                                    |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                     |            |  |         |          |         |                                                                | 3                     | 5154                                   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                     |            |  |         |          |         |                                                                | 0                     | -                                      |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                     |            |  |         |          |         |                                                                | 5                     | 648                                    |
+
+A map of each of the 8 reef flat and the 3 lagoon sites is shown along with the location and geographical co-ordinates of the five transects carried out at each site is shown in figures 2.3 to 2.13. Photographs of each study site are shown in plates 2.1 to 2.10.
+
+#### *2.1.1 CB-MPA sites*
+
+# **Alofau N**
+
+Plate 2.1. Alofau: A view of the reef flat: a) from the shore (left); b) underwater (right). Source: Yu Umezawa (2004); Doug Fenner (2004).
+
+![](_page_56_Figure_5.jpeg)
+
+Figure 2.3. Alofau (CB-MPA) reef flat study site on the American Samoan island of Tutuila, showing the location of 5 transects and their geographic co-ordinates surveyed between June and August 2004. Source of image: 2001 Space Imaging IKONOS imagery.
+
+# **Aua**
+
+![](_page_57_Picture_2.jpeg)
+
+Plate 2.2. Aua: A view of the reef flat from the shore. Source: Author, (2004).
+
+![](_page_57_Figure_4.jpeg)
+
+Figure 2.4. Aua (CB-MPA) reef flat study site on the American Samoan island of Tutuila, showing the location of 5 transects and their geographic co-ordinates surveyed between June and August 2004. Source of image: 2001 Space Imaging IKONOS imagery.
+
+# **Auto & Amaua**
+
+![](_page_58_Picture_2.jpeg)
+
+Plate 2.3. Auto: View of reef flat a) from the shore (left); b) underwater (right). Source: Author (2004), Douge Fenner (2004).
+
+![](_page_58_Figure_4.jpeg)
+
+Figure 2.5. Auto & Amaua (CB-MPA) reef flat study site on the American Samoan island of Tutuila, showing the location of 5 transects and their geographic co-ordinates surveyed between June and August 2004. Source of image: 2001 Space Imaging IKONOS imagery.
+
+# **Vatia**
+
+![](_page_59_Picture_2.jpeg)
+
+Plate 2.4. Vatia: A view of the village and the reef flat. Source: Author (2004).
+
+![](_page_59_Figure_4.jpeg)
+
+Figure 2.6. Vatia (CB-MPA) reef flat study site on the American Samoan island of Tutuila, showing the location of 5 transects and their geographic co-ordinates surveyed between June and August 2004. Source of image: 2001 Space Imaging IKONOS imagery.
+
+# **Alofau Lagoon**
+
+![](_page_60_Picture_2.jpeg)
+
+Plate 2.5. Alofau Lagoon: A view of the lagoon from: a) the shore; b) underwater. Source: Yu Umezawa (2004). Doug Fenner (2004).
+
+![](_page_60_Picture_4.jpeg)
+
+Figure 2.7. Alofau (CB-MPA) lagoon study site on the American Samoan island of Tutuila, showing the location of 5 transects and their geographic co-ordinates surveyed between June and August 2004. Source of image: 2001 Space Imaging IKONOS imagery.
+
+#### *2.1.2 sMPA sites*
+
+# **Fagatele Bay**
+
+![](_page_61_Picture_3.jpeg)
+
+Plate 2.6. Aerial photograph of Fagatele Bay. Source: Author (2004).
+
+![](_page_61_Figure_5.jpeg)
+
+Figure 2.8. Fagatele Bay (sMPA) reef flat study site on the American Samoan island of Tutuila, showing the location of 5 transects and their geographic co-ordinates surveyed between June and August 2004. Source of image: 2001 Space Imaging IKONOS imagery.
+
+# **Ofu Lagoon**
+
+![](_page_62_Picture_2.jpeg)
+
+Plate 2.7. Ofu Lagoon: a view from a) the shore (left); b) underwater (right). Source: Author (2004), Doug Fenner (2004).
+
+![](_page_62_Figure_4.jpeg)
+
+Figure 2.9. Ofu (sMPA) lagoon study site on the American Samoan island of Manu'a, showing the location of 5 transects and their geographic co-ordinates surveyed between June and August 2004. Source of image: 2001 Space Imaging IKONOS imagery.
+
+#### *2.1.3 No Protection sites*
+
+# **Aua Control**
+
+![](_page_63_Picture_3.jpeg)
+
+Plate 2.8. View of Aua Control reef flat from the shore. Source: Author (2004).
+
+![](_page_63_Picture_5.jpeg)
+
+Figure 2.10. Aua control (no protection) reef flat study site on the American Samoan island of Tutuila, showing the location of 5 transects and their geographic co-ordinates surveyed between June and August 2004. Source of image: 2001 Space Imaging IKONOS imagery.
+
+# **Faga'itua**
+
+![](_page_64_Picture_2.jpeg)
+
+Plate 2.9. Faga'itua: A view from a) the shore (left); b) underwater (right). Source: Author (2004), Doug Fenner (2004).
+
+![](_page_64_Figure_4.jpeg)
+
+Figure 2.11. Faga'itua (no protection) reef flat study site on the American Samoan island of Tutuila, showing the location of 5 transects and their geographic co-ordinates surveyed between June and August 2004. Source of image: 2001 Space Imaging IKONOS imagery.
+
+# Nu'uuli Lagoon
+
+![](_page_65_Picture_2.jpeg)
+
+Plate 2.10. : Nu'uuli Lagoon (Coconut Point):A view from a) the shore (left); b) underwater (right). Source: Author (2004), Doug Fenner (2004).
+
+![](_page_65_Figure_4.jpeg)
+
+Figure 2.12. Nu'uuli Lagoon (no protection) lagoon study site on the American Samoan island of Tutuila, showing the location of 5 transects and their geographic co-ordinates surveyed between June and August 2004. Source of image: 2001 Space Imaging IKONOS imagery.
+
+# **Masefau**
+
+![](_page_66_Figure_2.jpeg)
+
+Figure 2.13. Masefau (no protection) reef flat study site on the American Samoan island of Tutuila, showing the location of 5 transects and their geographic co-ordinates surveyed between June and August 2004. Source of image: 2001 Space Imaging IKONOS imagery.
+
+#### **2.2 Reef Fish Species**
+
+Reconnaissance surveys were carried out to enable familiarisation with the reef fish species and practice at identification prior to sampling, using Randall *et al.* (1990) Myers (1999), Lieske & Myers (2001), and Goldin (2002) as identification resources.
+
+A restricted family list (Table 2.2) was used based on the criteria outlined in section 1.5.3, which was composed of only the families which are amenable to visual census techniques, because they are diurnally active and conspicuous in coloration and behaviour (English *et al*., 1997). This method excludes species that are not amenable to the technique because they are very small, nocturnal or cryptic in behaviour such as cardinalfishes (Apogonidae), hawkfishes (Cirrhitidae), gobies (Gobiidae), squirrelfishes (Holocentridae), and moray Eels (Muraenidae). Target reef fish species were identified based on the selection criteria outlined in section 1.5.3, and a list of the target fish species that were observed and recorded during this study is shown in table 2.3.
+
+Table 2.2. Families of reef fish included in the census surveys on the American Samoan islands of Tutuila and Manu'a between June and August 2004.
+
+| Family         | Family Common Name |
+|----------------|--------------------|
+| Acanthuridae   | Surgeonfishes      |
+| Aulostomidae   | Trumpetfishes      |
+| Balistidae     | Triggerfishes      |
+| Carangidae     | Trevallies         |
+| Chaetodontidae | Butterflyfishes    |
+| Kyphosidae     | Rudderfishes       |
+| Labridae       | Wrasses            |
+| Lethrinidae    | Emperors           |
+| Lutjanidae     | Snappers           |
+| Monacanthidae  | Filefishes         |
+| Mugilidae      | Mullets            |
+| Mullidae       | Goatfishes         |
+| Nemipteridae   | Coral Breams       |
+| Pinguipedidae  | Sandperches        |
+| Pomacanthidae  | Angelfishes        |
+| Pomacentridae  | Damselfishes       |
+| Scaridae       | Parrotfishes       |
+| Serranidae     | Groupers           |
+| Siganidae      | Rabbitfishes       |
+| Tetradontidae  | Puffers            |
+| Zanclidae      | Moorish Idol       |
+
+Table 2.3. Target fish species observed along during surveys of 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Common names follow Myers (1999).
+
+| Family (Samoan name) | Species Name                            | Species Common name       | Samoan<br>Name                |
+|----------------------|-----------------------------------------|---------------------------|-------------------------------|
+|                      | Acanthurus achilles Shaw                | Achilles tang             | maikolama                     |
+|                      | Acanthurus blochii Valenciennes         | Ringtail surgeonfish      |                               |
+|                      | Acanthurus guttatus Forster             | Whitespotted surgeonfish  | Maogo                         |
+|                      | Acanthurus lineatus L.                  | Blue-lined surgeonfish    | Alogo                         |
+|                      | Acanthurus nigricans L.                 | Whitecheek surgeonfish    | pone-I'usina                  |
+|                      | Acanthurus nigricauda Duncker & Mohr    | Blackstreak surgeonfish   |                               |
+| Acanthuridae         | Acanthurus nigrofuscus Forsskål         | Brown surgeonfish         | ponepone                      |
+|                      | Acanthurus olivaceus Forster            | Orangeband surgeonfish    | pone-apasama                  |
+|                      | Acanthurus triostegus L.                | Convict tang              | Manini                        |
+|                      | Ctenochaetus striatus Quoy & Gaimard    | Striped bristletooth      | Pone                          |
+|                      | Naso lituratus Forster                  | Orangespine unicornfish   | Umelei                        |
+|                      | Zebrasoma scopes Cuvier                 | Brushtail tang            | pitopito                      |
+|                      | Zebrasoma veliferum Bloch               | Pacific sailfin tang      | iliū                          |
+|                      | Balistapus undulatus Park               | Orange-lined triggerfish  |                               |
+| Balistidae           | Melichthys niger Bloch                  | Black triggerfish         |                               |
+| (Sumu)               | Melichthys vidua Solander               | Pinktail triggerfish      |                               |
+|                      | Rhinecanthus aculeatus L.               | Picasso triggerfish       |                               |
+| Carangidae           | Caranx melampygnus Cuvier               | Bluefin trevally          |                               |
+|                      | Chelinus trilobatus Lacepède            | Tripletail wrasse         |                               |
+|                      | Coris aygula Lacepède                   | Clown coris               |                               |
+|                      | Coris gaimard Quoy & Gaimard            | Yellowtail coris          |                               |
+|                      | Gomphosus varius Lacepède               | Bird wrasse               |                               |
+| Labridae             | Halichoeres hortulanus Lacepède         | Checkerboard wrasse       |                               |
+|                      | Halichoeres trimaculatus Quoy & Gaimard | Threespot wrasse          |                               |
+|                      | Hemigymnus melapterus Bloch             | Blackedge thicklip wrasse |                               |
+|                      | Novaculichthys taeniourus Lacepède      | Rockmover wrasse          |                               |
+|                      | Thalassoma hardwicke Bennett            | Sixbar wrasse             |                               |
+| Lethrinidae          | Gnathodentex aurolineatus Lacepède      | Yellowspot emperor        |                               |
+|                      | Lutjanus fulvus Schneider               | Blacktail snapper         | Tamala                        |
+| Lutjanidae           | Lutjanus gibbus Forsskål                | Humpback Snapper          | Mala'I                        |
+| v                    | Lutjanus kasmira Forsskål               | Bluelined snapper         | Savane                        |
+| Mugilidae            | Ellochelon vaigiensis                   | Diamond-scale mullet      | Anae                          |
+|                      | Chlorurus japanensis – IP Bleeker       | Japanese parrotfish       | fuga-si'umū                   |
+| Scaridae             | Chlorurus sordidus Forsskål             | Bullethead parrotfish     | fuga-gutumū<br>(IP), fugausi- |
+| (Fuga,               |                                         | •                         | tuavela                       |
+| Fugausi,<br>Laea,    | Scarus oviceps Valenciennes             | Dark-capped parrotfish    | fuga-alosina                  |
+| Galo)                | Scarus schlegeli – IP Bleeker           | Yellowbarred parrotfish   | fuga-<br>matapua'a            |
+|                      | Scarus spinus – IP Kner                 | Greensnout parrotfish     | fuga-a'au                     |
+| Serranidae           | Cepahlopholis argus Bloch & Sneider     | Peacock grouper           | Gatala uli                    |
+| (Gatala)             | Epinephelus merra Bloch                 | Honeycomb grouper         | Gatala<br>pulepule            |
+| Siganidae            | Siganus spinus L.                       | Scribbled rabbitfish      | Lo                            |
+
+#### **2.3 Survey of reef fish population**
+
+All surveys were made between 28 June and 5 August 2004 and each site was surveyed on single day trips over this period. In an attempt to reduce variability in fish densities (due to diurnal influences on behaviour), surveys were carried out between 0900 and 1630 hours each day, depending on the time of high tide, in order to avoid the high activity periods of early morning and late afternoon (Halford & Thompson, 1994). Every effort was made to survey each site over the same tidal period between 2 hours either side of high water.
+
+#### *2.3.1 Survey sheets*
+
+Survey sheets were compiled based on a list of dominant species identified during the reconnaissance snorkels and printed onto underwater paper prior to the census. This ensured that the time needed to write species names on slates was minimised, enabling the observer to record fishes continually and any additional species observed and identified were added to the empty spaces provided on the list. All censuses were made by the same observer to ensure consistency as keeping the number of observers to a minimum reduces observer bias (English *et al.,* 1997). An example of the prepared survey sheet and the information recorded on it is shown in table 2.4.
+
+#### *2.3.2 Visual census technique*
+
+Fish assemblages at each site were assessed using snorkelling equipment and a standard underwater visual belt transect survey method to quantify the numerical abundance and lengths of reef fish identified to species level.
+
+At each site, an initial 15 minute reconnaissance swim of the reef flat or lagoon area was undertaken to determine areas that were representative of that site. A 25 metre transect tape was randomly positioned within the selected area at a depth of between 1 and 3 m. The transects were laid as straight as possible, following the depth contour and parallel with the shoreline. The transect tape was secured at one end using a weight or metal stake and the tape was reeled out to 25 m and secured at the other end (Plate 2.11). The transect area was left for 10 minutes to allow the fish to resume normal behaviour after being disturbed from the initial placement of the transect tape.
+
+Table 2.4. Template of visual census survey data sheet used during surveys of 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004.
+
+| Trans               | ect No.:            | Date: |                 | Salinity: |       |       | Depth: |       |       |
+|---------------------|---------------------|-------|-----------------|-----------|-------|-------|--------|-------|-------|
+| Villag              |                     | Time: |                 | Secchi:   |       |       | Temp:  |       |       |
+|                     |                     | •     |                 | •         | •     |       |        |       |       |
+|                     |                     | 0-5   | 5-10            | 10-15     | 15-20 | 20-25 | 25-30  | 30-35 | 35-40 |
+| ANGEL               | Emperor             | ###   |                 |           |       |       |        |       |       |
+|                     | Chevroned           | Ш     |                 | ###       | ###   |       |        |       |       |
+| JTTERFI<br>FISHES   | Reticulated         |       |                 |           |       |       |        |       |       |
+| BUTTERFLY<br>FISHES | Vagabond            |       |                 |           |       |       |        |       |       |
+|                     | EMPERORS            |       |                 |           |       |       |        |       |       |
+| S                   | Banded S.           |       | <del>IIII</del> |           |       |       |        |       |       |
+| SHE                 | Dusky Greg.         |       | ###             |           |       |       |        |       |       |
+| E I                 | S. S. Devil         |       |                 |           |       |       |        |       |       |
+| ISE                 | Surge               |       | 1111            | 1111      |       |       |        |       |       |
+| DAMSELFISHES        | Whitebar            | -     | HH              | ###       |       |       |        |       |       |
+|                     | ILEFISHES           |       |                 |           |       |       |        |       |       |
+|                     | Manybar             | 1     |                 |           |       |       |        |       |       |
+| GOAT.               | Warrysar            |       |                 |           |       |       |        |       |       |
+| 2 ~                 | Honeycomb           |       |                 |           |       |       |        |       |       |
+| GROU                |                     |       |                 |           |       |       |        |       |       |
+|                     | JACKS               |       |                 |           |       |       |        |       |       |
+|                     | MULLETS             |       |                 |           |       |       | Ш      |       |       |
+| OT<br>ES            | Bullet              |       |                 |           |       |       |        |       |       |
+| PARROT<br>FISHES    | Dark capped         |       |                 | ###       | ##    |       |        |       |       |
+| <u>7</u> F          |                     | 0-5   | F 10            | 10.15     | 15-20 | 20.25 | 25.20  | 20.25 | 25 40 |
+|                     | <u>I</u><br>PUFFERS | 0-5   | 5-10            | 10-15     | 15-20 | 20-25 | 25-30  | 30-35 | 35-40 |
+|                     | BBITFISHES          |       |                 |           | Ш     |       |        |       |       |
+|                     | SNAPPERS            |       |                 | IIII      |       |       |        |       |       |
+| SQU                 | IRRELFISHES         |       |                 |           |       |       |        |       |       |
+| SH                  | Achilles            |       |                 |           |       |       |        |       |       |
+| NFI                 | Bluelined S.        |       |                 | Ш         |       |       |        |       |       |
+| Ë                   | Convict Tang        |       |                 | Ш         | Ш     |       |        |       |       |
+| SURGEONFISH         | Striped B.          |       |                 |           | ##    | ##    |        |       |       |
+|                     |                     |       |                 |           |       |       |        |       |       |
+| TRIG                | Picasso             |       | ###             |           |       |       |        |       |       |
+|                     | 3-spot              |       |                 |           |       |       |        |       |       |
+| ဖ                   | 6-bar               |       |                 |           | 1111  |       |        |       |       |
+| WRASSES             | Thicklip            |       |                 |           |       |       |        |       |       |
+| RAS                 | Rockmover           |       |                 |           |       |       |        |       |       |
+| \$                  | Weedy surge         | Ш     | ##              | Ш         |       |       |        |       |       |
+|                     |                     |       |                 |           |       |       |        |       |       |
+|                     |                     |       |                 |           |       |       |        |       |       |
+|                     |                     |       |                 |           |       |       |        |       |       |
+
+![](_page_71_Picture_1.jpeg)
+
+**Plate 2.11.** Survey techniques: a) section of a transect tape laid out on the reef flat (left); b) an observer surveying the substrate along the transect (right), during surveys of 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Source: Author (2004).
+
+English *et al.* (1997) recommend that at least 3 replicate transects should be surveyed, and initial test surveys showed that it was possible to survey five replicate transects in the time period between 2 hours either side of high water. A total of five replicate transects were laid randomly within the chosen area and separated by 10 to 20 m, as recommended by English *et al.* (1997). Each transect was surveyed by visualising the transect as a 25 m long by 2 m wide square tunnel, that extended up to the surface above the transect boundary. Before beginning each census the ability of the observer to estimate 2 m was verified. The observer swam at a constant pace along the transect line, taking approximately 5 to 7 minutes to cover the length of the transect. The survey involved counting the actual numbers of fish species (belonging to the selected families as shown in table 2.2) and estimating the size (in centimetres) of each of the fish that were present within the transect boundary and fish entering the transect after the start of the census were not included in the census. Fish lengths were estimated visually and assigned to the following size categories; 0-5 cm, 6-10 cm, 11-15 cm, 16-20 cm, 21-25 cm etc. and recorded directly onto underwater paper**.** Large groups of individuals of a species that occurred within the transect were classified into one or more size categories as necessary. After the fish census was completed along each transect, the coral and benthic community was surveyed using a Line Intercept Method (see Andrews, 2004).
+
+After completion of fish and coral surveys along a transect, environmental data was recorded and included maximum and minimum depth along the transect, water temperature (using a thermometer accurate to 1˚C), salinity (using a 'Coralife Deep Six Hydrometer') (as shown in plate 2.6), the geographic co-ordinates of the transect line were recorded using a hand-held GPS and horizontal visibility using a secchi disc. To record the horizontal visibility, one surveyor held the secchi disc below the surface of the water with the marked black and white surface facing towards the other end of the transect while the second surveyor swam along the transect until the disc was no longer visible through the water, and measuring the distance using the transect tape. At the four CB-MPA sites, three transects were permanently marked with metal stakes to be used for the future CBFMP Monitoring Plan to be carried out by the DMWR in American Samoa. The equipment was transported in the water with the aid of an inflatable ring and a plastic basket as shown in plate 2.12.
+
+![](_page_72_Picture_2.jpeg)
+
+![](_page_72_Picture_3.jpeg)
+
+Plate 2.12. Measuring water temperature and salinity at Faga'itua (left) and the contraption used to transport the survey equipment during surveys of 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004.
+
+#### **2.4 Data Analysis**
+
+Exploratory data analysis and the graphical presentation of patterns of mean species numbers and mean total abundances was carried out for the five transects at each of the 8 reef flat sites and the 3 lagoon sites.
+
+Fish biomass was calculated by converting estimated fish lengths to weights using the allometric length-weight conversion formulae [weight (kg) = (total length in cm x constant a)b] where a and b are constants for each species. Species-specific constants were taken from a study on fish communities in American Samoa carried out by Green (2002) who used information from New Caledonia, the closest geographic area where this information was available (see appendix I).
+
+Mean fish biomass was calculated for the 5 transects at each site per total census area of 250 m2 (five replicates of 25 m x 2 m belt transects).
+
+An index of relative dominance (IRD) for each fish species was created by multiplying the frequency of occurrence of the species on each transect by the relative percent biomass of that species x 100 (Greenfield & Johnson, 1990; Friedlander *et al.,* 2003).
+
+Abundance / Biomass Comparison (ABC) plots were created using PRIMER to compare *k*dominance curves plotted from the species abundance distribution and from the species biomass distribution for each site. The species are ranked in order of importance in terms of abundance or biomass on the χ-axis (logarithmic scale) with percentage dominance on the *y*-axis (cumulative scale) and a *W* statistic is calculated, which measures the extent to which the curves dominate over each other (Clarke & Warwick, 1994).
+
+#### *2.4.1 Univariate analysis*
+
+A variety of different indices were used as measures of some attribute of community structure in a sample. Indices reduce the multispecies complexity of assemblage data into a single index or number of indices, evaluated for each sample, which can then be handled statistically by univariate analyses.
+
+Species diversity was calculated from the Shannon-Wiener Diversity Index H' = *-*Σ*i pi* loge*(pi*), where *pi* = the proportion of the total count arising from the *i*th series (Clarke & Warwick, 1994). Equitability is a measure of the extent to which the community counts are dominated by a small number of species. Evenness expresses how evenly the individuals are distributed among the different species and Dominance is the converse to evenness and a sample is said to have high dominance when one species highly dominates over the other species, which can also be described as low evenness (Clarke & Warwick, 1994). Pielous' evenness index (J') is calculated using the formula *J'* = *H' / Hmax,* where *Hmax* = *H' / log S,*  and is the maximum possible value of Shannon diversity (Clarke & Warwick, 1994). The Simpson index (λ) is a dominance index measuring the probability that any two individuals from the sample, chosen at random, are from the same species and calculated using the formula λ = *-*Σ *pi 2* , where λ is always equal to or less than l and the largest values correspond to assemblages whose total abundance is dominated by one, or a very few, of the species present (Clarke & Warwick, 1994).
+
+The significance of differences between sites were tested by standard one-way ANOVA tests using the MINITAB software package. Fish assemblage characteristics (species diversity, number of individuals and biomass) among different level of protection from fishing were analysed using one-way ANOVA tests (α = 0.05).
+
+#### *2.4.2 Multivariate Analysis*
+
+Fish assemblage data was analysed using the multivariate ecological software package PRIMER. The software was used to identify ecological relationships and reveal broad patterns in the fish abundance and biomass data.
+
+For assessing similarity, the Bray-Curtis Similarity coefficient was used due to its ability to identify ecological distance. The fish abundance data was square root (√)-transformed which down-weights the importance of the highly abundant species and subsequently the similarities depend not only on the highly abundant species but also the less common midrange species (Clarke & Warwick, 1994). The biomass data required loge(x+1) transformation before multivariate analysis to normalise distributions and homogenise variances to permit parametric testing by reducing the large differences between data points.
+
+Multivariate analysis was carried out on the data to explore the relationships between sites by subjecting the fish abundance data to an agglomerative hierarchical clustering procedure using the average linking method. The clustering technique represents the fish communities by a dendogram, linking the samples in hierarchical groups on the basis of some definition of similarity between each cluster with the aim of finding "natural groupings" of samples (Clarke & Warwick, 1994). Cluster analysis is often best used in conjunction with ordination, where they can be superimposed on an MDS ordination plot to allow any relationships between groups to be displayed. Non-metric multidimensional scaling (MDS) is a graphing technique that allows a comparison of samples based upon the relative abundances or biomasses of all fish species (Clarke & Warwick, 1994).
+
+The ANOSIM (analysis of similarity) function was used to examine the between-group differences by testing the null hypothesis that there are no differences between an *a priori* defined set of samples (Clarke & Warwick, 1994).
+
+SIMPER (Similarity percentages) was used to identify either the typifying species which primarily account for the observed assemblage similarities within a group or the discriminatory species that primarily account for the observed assemblage difference between groups according to the Bray-Curtis co-efficient (Clarke & Warwick, 1994). The BVSTEP function was used alongside the SIMPER function to identify influential species by selecting a subset of species whose multivariate structure matches to a high degree the pattern for the full set of species.
+
+The RELATE procedure was carried out to test the Ho (rejected when p < 0.05) that there was no relationship between the reef fish species diversity and abundance and the coral species diversity and % cover, respectively. The ρ statistic (Spearmans rank) correlates the elements of two similarity matrices and provides a quantification of the agreement between two multivariate patterns (when ρ is close to 1 the two multivariate patterns are highly similar, and when ρ is near 0 they bear no relation to each other) (Clarke & Warwick, 1994).
+
+# **3 Results**
+
+This chapter presents the results of the study of reef fish communities in American Samoa between June and August 2004. Study sites are described along with species diversity, abundance and biomass of the reef fish communities and a subset of target fish species.
+
+#### **3.1 Study sites**
+
+A summary of the environmental variables recorded at each site is shown in table 3.1. along with percent live coral cover and coral species diversity recorded at each site.
+
+Table 3.1. Habitat characteristics and environmental variables at each of the 8 reef flat sites and 3 lagoon sites surveyed on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Protection status: CB-MPA = Community-based Marine Protected Area, sMPA = statutory Marine Protected Area, None = area of no protection. Values shown as mean of the 5 transects surveyed at each site Coral species diversity shown as mean (± Standard Deviation) of the Shannon-Wiener species diversity index (H'). Salinity measured in parts per thousand (ppt). Visibility measured in metres (m) using Secchi disc, temperature in degrees Celsius (˚C), and maximum (Max.) and minimum (Min.) depths measured in metres (m).
+
+|                | Protection<br>status | Live coral<br>cover (%) | Coral species<br>diversity<br>(H' (loge)) | Salinity<br>(ppt) | Visibility<br>(m) | Temp<br>(˚C) | Max.<br>Depth<br>(m) | Min.<br>Depth<br>(m) |
+|----------------|----------------------|-------------------------|-------------------------------------------|-------------------|-------------------|--------------|----------------------|----------------------|
+| Alofau         | CB-MPA               | 67.6                    | 1.33 ± 0.54                               | 1028.0            | 9.7               | 28.0         | 1.6                  | 0.9                  |
+| Alofau Lagoon  | CB-MPA               | 50                      | 1.15 ± 0.42                               | 1025.6            | 13.1              | 28.4         | 1.7                  | 1.0                  |
+| Aua            | CB-MPA               | 18.8                    | 1.46 ± 0.24                               | 1028.0            | 10.8              | 28.0         | 1.5                  | 0.8                  |
+| Aua Control    | None                 | 11.2                    | 0.68 ± 0.41                               | 1028.0            | 10.1              | 28.0         | 1.6                  | 0.9                  |
+| Auto & Amaua   | CB-MPA               | 26                      | 1.15 ± 0.54                               | 1026.0            | 11.6              | 28.5         | 1.7                  | 1.0                  |
+| Faga'itua      | None                 | 66.4                    | 1.31 ± 0.50                               | 1024.0            | 19.5              | 29.0         | 1.2                  | 0.7                  |
+| Fagatele       | sMPA                 | 67.6                    | 1.71 ± 0.24                               | 1024.0            | 21.0              | 28.0         | 1.7                  | 0.9                  |
+| Masefau        | None                 | 48                      | 1.80 ± 0.45                               | 1025.0            | 9.0               | 28.0         | 1.4                  | 0.7                  |
+| Nu'uuli Lagoon | None                 | 45.2                    | 1.24 ± 0.19                               | 1028.0            | 8.0               | 29.0         | 2.3                  | 1.5                  |
+| Ofu Lagoon     | sMPA                 | 48                      | 2.19 ± 0.16                               | 1025.8            | 13.5              | 28.4         | 1.6                  | 0.9                  |
+| Vatia          | CB-MPA               | 52.4                    | 1.26 ± 0.44                               | 1025.4            | 14.2              | 28.5         | 1.6                  | 1.0                  |
+
+#### **3.2 Reef fish species**
+
+A total of 98 species and 22 families were identified and recorded over the whole survey period on the American Samoan islands of Tutuila and Manu'a, between June and August 2004. Table 3.2 shows some interesting observations of fishes and marine creatures that were recorded at the reef flat and lagoon sites but were not recorded during the visual census surveys. Appendix II shows the occurrence of each species at each site.
+
+Table 3.2. Observations of fishes and marine creatures recorded at the reef flat and lagoon sites that were not included in the survey data.
+
+| Site              | Family                          | Species                                       | Common Name                     |
+|-------------------|---------------------------------|-----------------------------------------------|---------------------------------|
+|                   | Ophichthidae (Snake Eels)       | Leiuranus semicinctus                         | Saddled snake eel               |
+| Nu'uuli<br>Lagoon | Syngnathidae (Pipefishes)       | Corythoichthys sp.                            | Pipefish species                |
+|                   | Muraenidae (Moray Eels)         | Gymnothorax sp.                               | Moray Eel                       |
+| maua              | Dasyatidae (Sting Rays)         | Himantura fai                                 | Tahitian Sting Ray              |
+| & A               | Diodontidae (Porcupinefishes)   | Diodon liturosus                              | Black blotched<br>porcupinefish |
+| Auto              | Syngnathidae (Pipefishes)       | Corythoichthys sp.                            | Pipefish                        |
+| Alofau            | Diodontidae (Porcupinefishes)   | Diodon liturosus                              | Black blotched<br>porcupinefish |
+|                   | Syngnathidae (Pipefishes)       | Corythoichthys sp.                            | Pipefish species                |
+|                   | Myliobatidae (Eagle Rays)       | Aetobatus narinari                            | Spotted Eagle Ray               |
+| Masefau           | Balistidae (Triggerfishes)      | Sufflamen chrysopterus                        | Flagtail triggerfish            |
+|                   | Carcharhinidae (Requiem Sharks) | Carcharhinus melanopterus Reef blacktip shark |                                 |
+| Faga'itua         | Diodontidae (Porcupinefishes)   | Diodon liturosus                              | Black blotched<br>porcupinefish |
+|                   |                                 | -                                             | Sea Turtle                      |
+|                   | Carcharhinidae (Requiem Sharks) | Carcharhinus melanopterus                     | Black-tip Reef<br>shark         |
+| Ofu Lagoon        | Diodontidae (Porcupinefishes)   | Diodon liturosus                              | Black blotched<br>porcupinefish |
+|                   | Balistidae (Triggerfishes)      | Balistoides viridescens                       | Titan triggerfish               |
+|                   | Tetraodontidae (Puffers)        | Canthigaster solandri<br>Richardson           | Spotted toby                    |
+| Aua               | Myliobatidae (Eagle Rays)       | Aetobatus narinari                            | Spotted Eagle Ray               |
+|                   | Plotosidae (Eel catfishes)      | Plotosus lineatus                             | Striped catfish                 |
+
+#### *3.2.1 Total number of reef fish species*
+
+The mean (± standard deviation, or SD) of the total number of reef fish species observed along the 5 transects at each site is shown in figure 3.1. Mean number of species ranged from the highest of 25.2 ± 1.8 at the unprotected site of Masefau to the lowest of 9.4 ± 2.3 at the unprotected site of Aua control. Within the CB-MPA protected group, above average (15.5 ± 5.0) fish species numbers were observed at Auto & Amaua (20.8 ± 4.8) and Alofau (20.2 ± 3.3), and below average species numbers were observed at Alofau Lagoon (12.2 ± 3.9), Vatia (12.2 ± 3.6) and Aua (11.4 ± 3.1). Similar mean species numbers were observed at the unprotected sites of Faga'itua (12.4 ± 2.7) and Nu'uuli Lagoon (13.0 ± 3.4). The mean fish species number at the sMPA-protected sites was higher at Ofu Lagoon (19.0 ± 2.1) than at Fagatele Bay 15.2 ± 1.9.
+
+![](_page_78_Figure_3.jpeg)
+
+**Figure 3.1.** Mean (± standard deviation) of total number of fish species observed and recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Continuous horizontal line indicates mean number of species observed during the whole survey (15.5 ± 5.0). Total number of species, N = 98. Protection from fishing activity: CB-MPA = Community-based Marine Protected Area, sMPA = statutory Marine Protected Area, None = area of no protection. Lagoon sites are indicated by \*.
+
+Differences between the number of fish species observed at each of the CB-MPA sites and the adjacent non-protected areas are shown in table 3.3. The mean fish species at all the CB-MPA protected sites were higher than the adjacent unprotected areas, with the exception of Vatia where the mean species numbers were lower by around 50%.
+
+**Table 3.3.** Differences (%) in mean number of total fish species between CB-MPA sites and adjacent non-protected sites. Negative value indicates CB-MPA site has lower mean number of species than the adjacent non-protected site.
+
+| Sites        | Difference (%) |       |
+|--------------|----------------|-------|
+| CB-MPA       | Unprotected    |       |
+| Alofau       | Faga'itua      | 38.6  |
+| Auto & Amaua | Faga'itua      | 40.4  |
+| Aua          | Aua Control    | 17.5  |
+| Vatia        | Masefau        | -51.6 |
+
+#### *3.2.2 Reef fish species diversity*
+
+A range of diversity indices were calculated to measure species diversity (Shannon-Wiener diversity index, H') equitability (Pielou's evenness index, J') and dominance (Simpson index, λ) and the mean (± standard deviation) of each diversity index are shown for each site, listed in decreasing order of Shannon-Wiener species diversity in table 3.4.
+
+**Table 3.4.** Mean (± standard deviation) diversity indices at each site calculated from the total number of reef fish species observed and recorded along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Sites shown in decreasing order of H'. H' = Shannon-Wiener diversity index, J' = Pielou's evenness index, λ = Simpson index of dominance. Protection from fishing activity: CB-MPA = Communitybased Marine Protected Area, sMPA = statutory Marine Protected Area, None = area of no protection.
+
+| Site           | Protection | H'        | J'          | λ           |
+|----------------|------------|-----------|-------------|-------------|
+| Auto & Amaua   | CB-MPA     | 2.7 ± 0.3 | 0.88 ± 0.03 | 0.10 ± 0.03 |
+| Masefau        | None       | 2.6 ± 0.1 | 0.81 ± 0.05 | 0.12 ± 0.03 |
+| Ofu Lagoon     | sMPA       | 2.5 ± 0.2 | 0.86 ± 0.04 | 0.11 ± 0.03 |
+| Alofau         | CB-MPA     | 2.4 ± 0.3 | 0.78 ± 0.07 | 0.14 ± 0.07 |
+| Fagatele       | sMPA       | 2.3 ± 0.2 | 0.83 ± 0.06 | 0.14 ± 0.04 |
+| Vatia          | CB-MPA     | 2.1 ± 0.3 | 0.87 ± 0.02 | 0.15 ± 0.04 |
+| Nu'uuli Lagoon | None       | 2.1 ± 0.2 | 0.83 ± 0.05 | 0.17 ± 0.04 |
+| Aua            | CB-MPA     | 2.1 ± 0.3 | 0.86 ± 0.08 | 0.18 ± 0.06 |
+| Aua Control    | None       | 1.9 ± 0.3 | 0.83 ± 0.09 | 0.22 ± 0.11 |
+| Alofau Lagoon  | CB-MPA     | 1.9 ± 0.5 | 0.74 ± 0.13 | 0.26 ± 0.17 |
+| Faga'itua      | None       | 1.8 ± 0.4 | 0.71 ± 0.17 | 0.26 ± 0.14 |
+
+The highest mean reef fish species diversity was observed along the 5 transects surveyed at the CB-MPA protected site of Auto & Amaua, which was also the site with the highest mean Pielou's evenness index, and lowest Simpson index of dominance. Relatively high evenness was also calculated for the CB-MPA protected sites of Vatia and Aua, and the sMPA protected site of Ofu Lagoon. Relatively high species diversity and the lowest dominance of reef fish species was observed at Masefau (no protection), Alofau (CB-MPA), and the sMPA protected sites of Ofu lagoon and Fagatele Bay.
+
+The lowest mean reef fish species diversity and the highest mean Simpson index of dominance was observed along the 5 transects surveyed at the unprotected sites of Faga'itua and Aua Control, and the CB-MPA protected site of Alofau Lagoon.
+
+Analysis of the three treatment groups based on the different levels of protection from fishing activity was carried out by calculating the mean of the mean species diversity of each reef flat site protected by each of the three treatment groups, and separating the lagoon sites into their respective groups (see figure 3.2). Results from the one-way ANOSIM test between the reef flat site and lagoon site treatment groups are shown in appendix III.
+
+![](_page_80_Figure_4.jpeg)
+
+**Figure 3.2.** The mean (± 95% confidence interval) of the Shannon-Wiener diversity index of the reef fish species observed at the sites protected by the three different treatment levels for the 8 reef flat sites and 3 lagoon sites surveyed on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Reef flat (filled symbols) and lagoon (empty symbols) survey sites in the different treatment groups, CB-MPA = Community-based Marine Protected Area (square symbol), sMPA = statutory Marine Protected Area (circle), None = area of no protection (triangle).
+
+The combined mean (± 95% confidence interval) reef fish species diversity was similar for the reef flat sites protected from fishing by CB-MPA status (2.3 ± 0.4) and sMPA status (2.26 ± 0.2) and higher (but not significantly) than the sites not protected from fishing activity (2.1 ± 0.5). Analysis between the lagoon sites showed the highest reef fish species diversity at the sMPA protected Ofu Lagoon (2.5 ± 0.2), which was significantly higher than the unprotected site of Nu'uuli Lagoon (2.1 ± 0.2) and the CB-MPA protected Alofau Lagoon (1.8 ± 0.5).
+
+#### *3.2.3 Target reef fish species*
+
+A total of 41 target reef fish species composing 11 families were identified and recorded over the whole survey period on the American Samoan islands of Tutuila and Manu'a, between June and August 2004.
+
+The mean (± SD) of the total number of target reef fish species observed along the 5 transects at each site along with the mean (± SD) Shannon-Wiener diversity index, Pielou's evenness index, and Simpson's index of dominance at each site are shown in decreasing order of mean number of target fish in table 3.5.
+
+Mean number of target species ranged from 10.4 ± 1.1 at the sMPA protected site of Ofu Lagoon, to 1.6 ± 1.5 at the unprotected site of Aua control. Relatively high mean number of species was observed at the unprotected site of Masefau, which was over 50% higher than the mean number of species observed at the other unprotected sites of Faga'itua and Nu'uuli Lagoon. Within the CB-MPA protected sites, relatively high mean species numbers were observed at Auto & Amaua and Alofau and moderate mean species numbers were observed at Vatia and Aua.
+
+**Table 3.5.** Mean (± SD) number of target reef fish species observed and recorded along 5 transects at 8 reef flat sites and 3 lagoon sites (shown in decreasing order) on the American Samoan islands of Tutuila and Manu'a between June and August 2004. S = Mean number of species per transect (Total number of species, N = 40), H' = Shannon-Wiener diversity index, J' = Pielou's evenness index, λ = Simpson index of dominance. Protection from fishing activity: CB-MPA = Communitybased Marine Protected Area, sMPA = statutory Marine Protected Area, None = area of no protection.
+
+| Site           | Protection | S          | H'        | J'          | λ           |
+|----------------|------------|------------|-----------|-------------|-------------|
+| Ofu Lagoon     | sMPA       | 10.4 ± 1.1 | 2.0 ± 0.2 | 0.87 ± 0.07 | 0.17 ± 0.05 |
+| Masefau        | None       | 10.0 ± 1.2 | 1.8 ± 0.2 | 0.78 ± 0.08 | 0.25 ± 0.08 |
+| Auto & Amaua   | CB-MPA     | 9.8 ± 3.0  | 1.9 ± 0.4 | 0.86 ± 0.09 | 0.20 ± 0.10 |
+| Fagatele       | sMPA       | 8.2 ± 1.6  | 1.6 ± 0.3 | 0.78 ± 0.13 | 0.28 ± 0.12 |
+| Alofau         | CB-MPA     | 6.8 ± 0.8  | 1.5 ± 0.3 | 0.78 ± 0.12 | 0.3 ± 0.12  |
+| Vatia          | CB-MPA     | 5.4 ± 1.5  | 1.3 ± 0.4 | 0.79 ± 0.12 | 0.35 ± 0.16 |
+| Alofau Lagoon  | CB-MPA     | 5.0 ± 1.9  | 1.2 ± 0.4 | 0.77 ± 0.18 | 0.40 ± 0.19 |
+| Aua            | CB-MPA     | 4.6 ± 2.1  | 1.3 ± 0.7 | 0.93 ± 0.03 | 0.38 ± 0.35 |
+| Faga'itua      | None       | 4.6 ± 2.3  | 0.8 ± 0.6 | 0.57 ± 0.21 | 0.62 ± 0.28 |
+| Nu'uuli Lagoon | None       | 4.0 ± 2.0  | 1.1 ± 0.5 | 0.86 ± 0.05 | 0.41 ± 0.17 |
+| Aua Control    | None       | 1.6 ± 1.5  | 1.3 ± 0.1 | 0.92 ± 0.03 | 0.31 ± 0.04 |
+
+The highest mean target reef fish species diversity and the lowest species dominance was observed along the 5 transects surveyed at the sMPA protected site of Ofu Lagoon, the CB-MPA protected site of Auto & Amaua and Masefau (unprotected). In contrast, the lowest mean target reef fish species diversity and the highest species dominance were observed at the unprotected sites of Faga'itua and Nu'uuli Lagoon, and the CB-MPA protected Alofau Lagoon. The highest target species evenness was observed at the harbour sites of Aua (CB-MPA) and Aua Control (not protected), however relatively moderate species dominance was also observed at these sites.
+
+Differences between the number of target fish species observed at each of the CB-MPA sites and the adjacent non-protected areas are shown in table 3.6.
+
+Similarly to the total fish results, Vatia was the only CB-MPA site with lower mean number of species than the adjacent non-protected site of Masefau. In contrast to the total fish numbers, the highest differences in mean target species numbers was observed between the harbour sites of Aua and Aua Control (65%), and the difference between the mean target species numbers at Alofau and Faga'itua (53%) was higher than the difference between Auto & Amaua and Faga'itua (32.4%).
+
+**Table 3.6.** Differences (%) in mean number of total target fish species between CB-MPA sites and adjacent non-protected sites. Negative value indicates CB-MPA site has lower mean number of species than the adjacent non-protected site.
+
+| Sites        | Difference (%) |       |  |
+|--------------|----------------|-------|--|
+| CB-MPA       | Non-protected  |       |  |
+| Alofau       | Faga'itua      | 53%   |  |
+| Auto & Amaua | Faga'itua      | 32.4% |  |
+| Aua          | Aua Control    | 65%   |  |
+| Vatia        | Masefau        | -46%  |  |
+
+Analysis of the three treatment groups based on the different levels of protection from fishing activity was carried out by calculating the mean of the mean target reef fish species diversity of each reef flat site protected by each of the three treatment groups, and separating the lagoon sites into their respective groups (see figure 3.3). Results from the one-way ANOSIM test between the reef flat site and lagoon site treatment groups are shown in appendix III.
+
+![](_page_84_Figure_1.jpeg)
+
+**Figure 3.3.** The mean (± 95% confidence interval) of the Shannon-Wiener diversity index of the target reef fish species observed at the sites protected by the three different treatment levels for the 8 reef flat sites and 3 lagoon sites surveyed on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Reef flat (filled symbols) and lagoon (empty symbols) survey sites in the different treatment groups, CB-MPA = Community-based Marine Protected Area (square symbol), sMPA = statutory Marine Protected Area (circle), None = area of no protection (triangle).
+
+A similar pattern is evident for both reef flat sites and lagoon sites, with the highest combined mean target reef fish species diversity observed at the sMPA protected sites of Ofu Lagoon (2.0 ± 0.2) and Fagatele Bay reef flat (1.6 ± 0.3), and the lowest mean target species diversity at the lagoon sites (1.1 ± 0.5) and the reef flat sites (1.3 ± 0.6) with no protection from fishing. A one-way ANOVA test showed a significant difference between protection treatment groups (F = 2.485, p = 0.046), with the sMPA protected Ofu Lagoon significantly higher than the CB-MPA protected Alofau Lagoon and Nu'uuli Lagoon (no protection), however no significant differences were found between the reef flat groups.
+
+#### **3.3 Reef fish abundances**
+
+A total of 4478 reef fish were identified and recorded over the whole survey period on the American Samoan islands of Tutuila and Manu'a, between June and August 2004. The abundance of each fish species recorded on each transect is show in Appendix IV.
+
+Of the total fish, a subset of 1564 target fish was recorded and figure 3.4 shows the mean (± SD) number of reef fish and the mean (± SD) number of the subset of target fish recorded along the 5 transects at each site.
+
+![](_page_85_Figure_4.jpeg)
+
+**Figure 3.4.** Mean (± standard deviation) of total number of reef fish (grey bars) and target reef fish (black bars) observed and recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Total number of reef fish, N = 4478, total number of target reef fish, N = 1564. Protection from fishing activity: CB-MPA = Community-based Marine Protected Area, sMPA = statutory Marine Protected Area, None = area of no protection. Lagoon sites are indicated by \*.
+
+The highest mean reef fish abundances (± SD) were observed at the unprotected site of Faga'itua (131 ± 72.6), the CB-MPA protected site of Alofau (128.8 ± 23.2), and the unprotected site of Masefau (111 ± 21.6), and mean fish abundance was > 82.2 ± 32.4 (mean number of fish observed for the whole survey) at two other sites, Auto & Amaua (CB-MPA) and Fagatele (sMPA). The mean reef fish abundance at Ofu Lagoon (sMPA) was slightly below average at 80.4 (± 24.1).
+
+The highest mean target fish abundances were observed at the same six sites, however the two sMPA sites of Fagatele Bay (42.2 ± 7.7) and Ofu lagoon (42.0 ± 12.4) were slightly higher than the other sites, followed by the unprotected site of Faga'itua (41.2 ± 25.8), the CB-MPA site of Auto & Amaua (41.2 ± 17.8), the unprotected site of Masefau (39.8 ± 9.1) and the CB-MPA site of Alofau (33.6 ± 17.9).
+
+Moderate mean total abundances were observed at the lagoon sites of Nu'uuli (57.4 ± 21.3) and Alofau Lagoon (68.4 ± 10.9) and the lowest mean total reef fish abundances were observed at the unprotected site of Aua Control (38.2 ± 18.6), and the CB-MPA sites of Aua (50.8 ± 27.8), and Vatia (51.2 ± 23.9).
+
+In contrast, the moderate mean target fish abundances were observed at the CB-MPA protected site of Vatia and the lowest mean target fish abundances were observed at the harbour sites of the unprotected Aua Control (3.0 ± 3.5), the CB-MPA protected Aua (12.6 ± 8.1), and the lagoon sites of Nu'uuli (12.2 ± 7.1) and Alofau (18.8 ± 13.0).
+
+Differences in the mean abundances of total fish and the subset of target fish between each of the CB-MPA sites and the adjacent non-protected areas are shown in table 3.7. With the exception of the CB-MPA site of Aua, the mean total abundances and target fish abundances were lower at the CB-MPA sites than at the non-protected site, although no difference in target fish abundances was observed between Auto & Amaua and Faga'itua and only a small difference (1.7%) in total abundances was observed between Alofau and Faga'itua. The largest difference was between the mean target fish abundances observed at Aua and Aua Control (78.9%).
+
+**Table 3.7.** Differences (%) in mean total fish abundance and mean target fish abundance between CB-MPA sites and adjacent non-protected sites. Negative value indicates CB-MPA site has lower mean number of species than the adjacent non-protected site.
+
+|              |             | Difference (%) |             |  |
+|--------------|-------------|----------------|-------------|--|
+| CB-MPA       | Unprotected | Total fish     | Target fish |  |
+| Alofau       | Faga'itua   | -1.7           | -18.4       |  |
+| Auto & Amaua | Faga'itua   | -22.1          | 0           |  |
+| Aua          | Aua Control | 24.8           | 78.9        |  |
+| Vatia        | Masefau     | -53.9          | -34.2       |  |
+
+Figure 3.5 shows the results from analysis of mean total fish abundances between the three treatment groups based on the different levels of protection from fishing activity for the reef flat and the lagoon sites. Results from the one-way ANOSIM test between the reef flat site and lagoon site treatment groups are shown in appendix III.
+
+![](_page_87_Figure_2.jpeg)
+
+**Figure 3.5.** The mean (± 95% CI) of the total abundance of reef fish species observed at the sites protected by the three different treatment levels for the 8 reef flat sites and 3 lagoon sites surveyed on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Reef flat (filled symbols) and lagoon (empty symbols) survey sites in the different treatment groups, CB-MPA = Community-based Marine Protected Area (square symbol), sMPA = statutory Marine Protected Area (circle), None = area of no protection (triangle).
+
+The combined mean fish abundance (± 95% CI) was significantly higher at the unprotected reef flats (93.4 ± 58.7), than at the sMPA-protected reef flat site of Fagatele Bay (83.4 ± 14.4) and the CB-MPA protected reef flat sites (83.2 ± 41.6). The highest mean abundance recorded for the lagoon sites was at the sMPA-protected site of Ofu (80.4 ± 24.1) and the lowest at the unprotected site of Nu'uuli lagoon (57.4 ± 21.3). A one-way ANOSIM showed that all the treatment were significantly different from each other (R = 0.79, p = 0.001)
+
+Figure 3.6 shows the results from analysis of mean target fish abundances between the three treatment groups based on the different levels of protection from fishing activity for the reef flat and the lagoon sites. Results from the one-way ANOSIM test between the reef flat site and lagoon site treatment groups are shown in appendix III.
+
+![](_page_88_Figure_2.jpeg)
+
+**Figure 3.6.** The mean (± 95% CI) of the abundance of target reef fish species observed at the sites protected by the three different treatment levels for the 8 reef flat sites and 3 lagoon sites surveyed on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Reef flat (filled symbols) and lagoon (empty symbols) survey sites in the different treatment groups, CB-MPA = Community-based Marine Protected Area (square symbol), sMPA = statutory Marine Protected Area (circle), None = area of no protection (triangle).
+
+The combined mean target fish abundances (± 95% CI) of the reef flat sites were highest at the sMPA (40.2 ± 7.7) and unprotected sites (40.5 ± 18.2) than at the CB-MPA protected sites (27.9 ± 16.7) although there were no significant differences between the treatment groups (R = -0.03, p = 0.629). The combined mean target fish abundance at the sMPA protected lagoon site (42.0 ± 12.4) was significantly higher than at the CB-MPA protected lagoon site (18.8 ± 13.0) and the unprotected lagoon site (12.2 ± 7.1).
+
+#### **3.3.1** *Abundance of reef fish families*
+
+The top 10 most abundant reef fish families observed during this study are shown in table 3.8. The 5 main fish families were damselfishes (Pomacentridae), surgeonfishes (Acanthuridae), wrasses (Labridae), butterflyfishes (Chaetodontidae), and parrotfishes (Scaridae) and the mean (± standard deviation) of each family observed at each site is shown in table 3.9. The percentage compositions of the 5 major families are shown for each site in figure 3.7.
+
+**Table 3.8.** Reef fish families in decreasing order of total occurrence and mean (± standard deviation) abundance of the top 10 most abundant reef fish families observed and recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004.
+
+| Family         | Total<br>Occurrence | Mean (± SD)<br>Abundance |
+|----------------|---------------------|--------------------------|
+| Pomacentridae  | 2308                | 42.7 ± 27.0              |
+| Acanthuridae   | 808                 | 14.7 ± 12.5              |
+| Labridae       | 439                 | 10.0 ± 11.9              |
+| Chaetodontidae | 338                 | 6.1 ± 5.4                |
+| Scaridae       | 217                 | 3.9 ± 5.3                |
+| Balistidae     | 36                  | 0.7 ± 1.6                |
+| Mugilidae      | 29                  | 0.5 ± 3.3                |
+| Pomacanthidae  | 28                  | 0.5 ± 1.0                |
+| Serranidae     | 25                  | 0.5 ± 1.0                |
+| Monacanthidae  | 23                  | 0.4 ± 1.6                |
+
+Pomacentridae were the dominant family over the majority of the sites, with the exception of the sMPA-protected site of Fagatele Bay (40%) and the CB-MPA site of Vatia (34%) where the percentage contribution of Acanthuridae was higher by 3% and 10%, respectively. The highest percentage contributions of pomacentrids were at the unprotected sites of Aua Control (79%) and Nu'uuli Lagoon (72%). The percentage contribution of Pomacentridae was 60% at the remaining CB-MPA protected sites of Aua, Alofau, Alofau Lagoon, Auto & Amaua and the unprotected site of Faga'itua. Similar contributions of Pomacentridae were also observed at Masefau (46%) and Ofu (43%).
+
+**Table 3.9.** Mean abundance (± SD) of the 5 major reef fish families observed and recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Sites listed in decreasing order of total abundance of the five main families.
+
+|                 | Pomacentridae | Acanthuridae | Labridae    | Chaetodontidae Scaridae |            | Mean total   |
+|-----------------|---------------|--------------|-------------|-------------------------|------------|--------------|
+| Faga'itua       | 77.6 ± 51.1   | 10.2 ± 14.2  | 29.8 ± 24.1 | 8.0 ± 3.4               | 4.0 ± 4.7  | 129.6 ± 30.6 |
+| Alofau          | 74.6 ± 20.4   | 20.4 ± 11.1  | 10.0 ± 5.9  | 17.0 ± 6.4              | 4.2 ± 4.1  | 126.2 ± 28.3 |
+| Masefau         | 48.2 ± 21.2   | 25.4 ± 11.9  | 22.6 ± 21.6 | 7.8 ± 2.9               | 1.8 ± 0.4  | 105.8 ±18.1  |
+| Auto &<br>Amaua | 52.8 ± 14.8   | 10.6 ± 7.3   | 20.0 ± 8.0  | 3.0 ± 1.7               | 1.2 ± 2.2  | 87.6 ± 21.1  |
+| Fagatele        | 33.6 ± 4.3    | 35.2 ± 4.8   | 4.8 ± 3.1   | 8.6 ± 6.4               | 1.0 ± 1.0  | 83.2 ± 16.4  |
+| Ofu Lagoon      | 30.6 ± 9.5    | 14.0 ± 6.0   | 5.2 ± 0.7   | 3.2 ± 2.1               | 19.6 ± 8.7 | 72.6 ± 11.2  |
+| Alofau lagoon   | 40.8 ± 8.4    | 13.4 ± 11.8  | 1.8 ± 2.0   | 7.2 ± 2.0               | 4.0 ± 4.2  | 67.2 ± 15.9  |
+| Nu'uuli lagoon  | 38.6 ± 20.2   | 5.6 ± 3.9    | 3.8 ± 2.3   | 2.4 ± 2.5               | 2.4 ± 1.9  | 52.8 ± 15.7  |
+| Vatia           | 17.2 ± 14.8   | 21.6 ± 6.9   | 2.8 ± 3.6   | 5.8 ± 4.5               | 1.0 ± 2.2  | 48.4 ± 9.2   |
+| Aua             | 25.3 ± 16.9   | 4.8 ± 2.9    | 5.2 ± 1.9   | 2.8 ± 1.8               | 3.4 ± 2.1  | 41.5 ± 9.5   |
+| Aua Control     | 27.4 ± 16.5   | 0.4 ± 0.9    | 4.4 ± 2.4   | 1.8 ± 1.6               | 0.8 ± 1.8  | 34.8 ± 11.5  |
+| Mean total      | 466.7 ± 19.5  | 161.6± 10.2  | 110.4± 9.6  | 67.6 ± 4.4              | 43.4 ± 5.4 |              |
+
+Acanthuridae were the second most abundant family at Masefau (24%), Alofau lagoon (20%), Alofau (16%), and Nu'uuli lagoon (11%) and the lowest proportions of acanthurids were observed at Aua Control (1 %), and Faga'itua (8 %).
+
+Labridae were the second most abundant family at Faga'itua (23 %), Auto & Amaua (23 %), Aua (13 %) and Aua Control (13 %), however at the remaining sites labrids were only present in low abundances with lowest proportion and abundance at Alofau Lagoon (3 %). The highest proportions of Chaetodontidae to the total abundance were recorded at Alofau (13%), Vatia (12%), Alofau lagoon (11%) and Fagatele (10%), whereas the lowest proportion was observed at Auto & Amaua (3 %).
+
+The highest proportion of Scaridae was observed at Ofu Lagoon (27 %) with a proportion only 16% less than the proportion of Pomacentridae. In contrast, the proportion of Scardiae at the other survey sites ranged from only 1% at Auto & Amaua and Fagatele Bay to 8% at Aua.
+
+![](_page_91_Figure_0.jpeg)
+
+**Figure 3.7.** Percent composition of mean abundances of the five main fish families observed and recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Distance and relative location between Tutuila and Ofu Lagoon are not to scale. Numbers represent percent composition of each reef fish family. N = total mean fish abundance.
+
+#### *3.3.2 Target fish abundances*
+
+The combined contributions from the target fish families to overall fish abundances at each site are shown in figure 3.8. Sites with the highest composition of target reef fish were the sMPA sites of Ofu lagoon (52%) and Fagatele Bay (49%) and the CB-MPA site of Vatia (51%). Similar contributions of target reef fish were observed at the CB-MPA site of Auto & Amaua (41%), and the unprotected sites of Masefau (36%) and Faga'itua (31%). Similar proportions of target fish were recorded at the CB-MPA sites of Aua (28%), Alofau lagoon (27%), and Alofau (26%), and the unprotected site of Nu'uuli Lagoon (21%), whereas the lowest proportion of target reef fish was observed at the unprotected Pago Pago Harbour site of Aua Control (9%).
+
+The total abundance and the mean (± SD) of the target fish families are shown in table 3.10 and the percent composition of each target fish family is shown in figure 3.9.
+
+**Table 3.10.** The total fish abundance and the mean (± SD) of target fish families (in decreasing order of mean abundance) observed and recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004.
+
+| Family       | Total<br>Abundance | Mean (± SD)<br>abundance |
+|--------------|--------------------|--------------------------|
+| Acanthuridae | 161.6              | 14.69 ± 10.20            |
+| Labridae     | 80.8               | 7.35 ± 8.27              |
+| Scaridae     | 43.4               | 3.95 ± 5.36              |
+| Balistidae   | 7.2                | 0.65 ± 0.88              |
+| Mugilidae    | 5.8                | 0.53 ± 1.75              |
+| Serranidae   | 5                  | 0.45 ± 0.57              |
+| Siganidae    | 4.2                | 0.38 ± 0.75              |
+| Lethrinidae  | 2.8                | 0.25 ± 0.84              |
+| Lutjanidae   | 1.8                | 0.16 ± 0.42              |
+| Carangidae   | 0.2                | 0.02 ± 0.06              |
+
+![](_page_93_Figure_0.jpeg)
+
+**Figure 3.8.** Percentage composition of the total abundance of target reef fish species in the total abundance of reef fish observed and recorded observed and recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. N = total mean abundance.
+
+![](_page_95_Figure_0.jpeg)
+
+**Figure 3.9.** Percent composition of the mean abundances of the target fish families observed and recorded observed and recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Numbers represent percent composition of each reef fish family. N = total mean abundance.
+
+The highest proportion of Acanthuridae was observed at Fagatele Bay (84%), Vatia (82%), and Alofau lagoon (72%). Acanthurids also dominated the target fish population at Masefau (63%), Alofau (60%), Nu'uuli lagoon (45%), and Aua (38%). Acanthurids were the second highest contributors to the target fish assemblage at Ofu lagoon (33%) and Faga'itua (26%), and lowest proportion of acanthurids were observed at Aua Control (13%).
+
+Target labrid species were dominant at Faga'itua (63%) and Auto & Amaua (45%), and were the second most dominant family at Masefau (63%), Alofau (25%), Vatia (11%), and Fagatele (10%).
+
+Ofu lagoon was the only site where Scaridae were observed as 48%, the highest proportion of target species in the total fish recorded. Target scarid species were the second most dominant at the harbour sites of Aua Control (27%), and Aua (27%), and at the lagoon sites of Alofau (21%) and Nu'uuli (20%), and relatively low proportions of Scaridae were recorded at the other sites.
+
+The highest proportion of Balistidae were observed at Aua (22%) and Nu'uuli lagoon (13%). Balistids represented a small proportion of the target fish abundance at Fagatele (2%), Auto & Amaua (2%), Faga'itua (1%), Masefau (1%), and Ofu lagoon (0.5%) and were absent from Alofau, Vatia, Alofau lagoon, and Aua control.
+
+The highest composition of Serranidae was observed at Aua Control (7%) and Auto & Amaua (5%). Serranids were also present as a low proportion of the target fish community at Alofau lagoon (2%), Ofu lagoon (2%), Vatia (2%), and Alofau (1%), however they were absent at the other sites. The Siganid species *Siganus spinus* L.was observed in the highest proportion at Auto & Amaua (6%), however, the species was absent from Alofau lagoon, Aua, Ofu lagoon and Vatia and only present as relatively low proportions at the other sites. The highest proportion of Lutjanidae to the target fish species was observed at Aua Control with a proportion of 46%, and much lower proportions were observed at Vatia (1%) and Ofu (<1%), and none were observed at the other sites. The mullid *Liz vaigiensis* Quoy & Gaimard was only observed at Auto & Amaua, which was a relatively moderate proportion of the target fish at 14%. The lethrinid *Gnathodentex aurolineatus* Lacapéde was only observed at Ofu lagoon with a proportion of 7% and the carangid *Caranx melampygus* Bleeker was only present at Aua Control also at a proportion of 7%.
+
+#### *3.3.3 Abundance of reef fish species*
+
+The top 10 most abundant reef fish species observed during this study are shown in table 3.11. The 5 main fish species were the pomacentrid species *Stegastes nigricans* Lacépede *Chrysiptera taupou,* Jordan & Seale and *Stegastes albifasciatus* Schlegel & Müller, one acanthurid *Ctenochaetus striatus*, and the labrid *Thalassoma hardwicke* Bennett and the mean abundances of each of the five species at each site are shown in figure 3.10.
+
+**Table 3.11.** Total observations and mean (± standard deviation) abundance of the top 10 most abundant reef fish species observed and recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. \* indicates target fish species. Freq = % Frequency of occurrence on transects (total number of transects (55).
+
+| Family        | Species                                | Total | % of<br>total | Freq<br>(%) | Mean (± SD)<br>abundance |
+|---------------|----------------------------------------|-------|---------------|-------------|--------------------------|
+| Pomacentridae | Stegastes nigricans                    | 767   | 17.1          | 81.8        | ± 20.24<br>14.20         |
+| Acanthuridae  | Ctenochaetus striatus *                | 438   | 9.8           | 78.2        | ± 8.18<br>7.96           |
+| Pomacentridae | Chrysiptera taupou                     | 308   | 6.9           | 60.0        | ± 6.81<br>5.60           |
+| Labridae      | Thalassoma hardwicke *                 | 275   | 6.1           | 65.5        | ± 10.27<br>5.00          |
+| Pomacentridae | Stegastes albifasciatus                | 249   | 5.5           | 47.3        | 4.53<br>± 9.19           |
+| Pomacentridae | Dascyllus aruanus L.                   | 205   | 4.6           | 41.8        | 3.73<br>± 6.15           |
+| Pomacentridae | Stegastes lividus Bloch &<br>Schneider | 203   | 4.5           | 30.9        | ± 9.92<br>3.69           |
+| Pomacentridae | Chrysiptera brownriggii                | 154   | 3.4           | 34.5        | ± 5.80<br>2.80           |
+| Pomacentridae | Stegastes fasciolatus                  | 132   | 2.9           | 18.2        | ± 5.51<br>2.40           |
+| Pomacentridae | Chromis viridis Cuvier                 | 117   | 2.6           | 18.2        | ± 5.66<br>2.13           |
+
+Pomacentrids accounted for eight of the top ten species, with *Stegastes nigricans* the most abundant species over all sites, which occurred on over 81 % of all transects and accounted for 17.1 % of the total fish abundance. The highest mean abundance (± SD) of *S. nigricans* was observed at Faga'itua (46.6 ± 48.8), with high variation in densities observed along the transects. Relatively high mean abundances were also observed at Alofau and Alofau lagoon (30.4 ± 16.5 and 26.2 ± 10.18, respectively), however relatively lower abundances were observed at the remaining sites.
+
+![](_page_98_Figure_1.jpeg)
+
+**Figure 3.10.** Mean (+ standard deviation) abundances of the main reef fish species observed and recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Protection from fishing activity: CB-MPA = Community-based Marine Protected Area, sMPA = statutory Marine Protected Area, None = area of no protection. \* indicates lagoon sites. Note difference in scale on y-axis.
+
+The acanthurid *Ctenochaetus striatus* was the second most abundant species and occurred on over 78 % of all transects and accounted for 9.8 % of the total fish abundance, and observed in much lower abundances than *S. nigricans*. The highest mean abundance of *C. striatus* was recorded at Fagatele Bay (15.6 ± 8.5) and relatively high abundances were observed at the majority of sites ranging from 7.4 (± 13.8) at Faga'itua to 13.2 (± 11.8) at Masefau. *C. striatus* was observed in relatively lower abundances at Aua, Auto & Amaua and Nu'uuli lagoon and was absent from Aua control.
+
+The total mean (± SD) abundance of the pomacentrid *Chrysiptera taupou* was 5.6 ± 6.8 and the highest mean abundances were observed at the sMPA sites of Ofu Lagoon (16 ± 8.5) and Fagatele Bay (10.2 ± 5.2). The lowest mean abundances of *C. taupou* were observed at the unprotected sites of Masefau (1.4 ± 2.6) and Faga'itua (1.4 ± 3.1) and the species was absent at Nu'uuli Lagoon.
+
+The highest mean abundance of the labrid *Thalassoma hardwicke* was recorded at Faga'itua (25 ± 26.7) and the high variability was a result of a school of approximately 70 individuals observed on transect 3 and none were observed on transect 2. Moderate abundances of *T. hardwicke* were recorded at Alofau (7.2 ± 5.9), Masefau (6.4 ± 3.8), Auto & Amaua (6 ± 2.5), and Fagatele (4 ± 2.7), however relatively low abundances were observed at the remaining sites and the species was absent from Aua control.
+
+The pomacentrid *S. albifasciatus* was the fifth most abundant fish species, however it was only present on 47.3 % of all transects, with the highest abundance observed at Masefau (25.2 ± 17.1), with a high variability between transects. Relatively moderate mean abundances of *S. albifasciatus* were observed at Auto & Amaua (9.4 ± 10.29), again with high variability, and at Aua Control (6.4 ± 3.2). Relatively low abundances were recorded at the remaining sites, and the species was absent at Fagatele Bay.
+
+#### *3.3.4 Abundance of target fish species*
+
+The top 10 most abundant target reef fish species observed during this study are shown in table 3.12. The species with the highest total abundances observed over all surveys were the acanthurids *Ctenochaetus striatus*, *Acanthurus triostegus*, Zebrasoma *scopas*, and *Acanthurus lineatus*, the labrid, *Thalassoma hardwicke*, and the initial phases of the scarid species C*hlorurus sordidus* and *Scarus oviceps*. The mean abundances of *Ctenochaetus*  *striatus* and *Thalassoma hardwicke* are shown in figure 3.10, therefore the mean abundances of the remaining five species are shown for each survey site in figure 3.11.
+
+Table 3.12. Total observations and mean (± standard deviation) abundance of the top 10 most abundant target reef fish species observed and recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. \* indicates target fish species. Freq = % Frequency of occurrence on transects (total number of transects (55).
+
+| Family       | Target species                  | Total<br>abundance | Mean (± SD)<br>abundance |  |
+|--------------|---------------------------------|--------------------|--------------------------|--|
+| Acanthuridae | Ctenochaetus striatus           | 438                | ± 8.18<br>7.96           |  |
+| Labridae     | Thalassoma hardwicke            | 275                | 5.00 ± 10.27             |  |
+| Acanthuridae | Acanthurus triostegus           | 107                | 1.95 ± 2.89              |  |
+| Scaridae     | Chlorurus sordidus - IP         | 98                 | 1.78 ± 2.47              |  |
+| Acanthuridae | Zebrasoma scopas                | 88                 | 1.60 ± 3.05              |  |
+| Acanthuridae | Acanthurus lineatus             | 53                 | 0.96 ± 1.88              |  |
+| Scaridae     | Scarus oviceps IP               | 40                 | 0.73 ± 1.55              |  |
+| Acanthuridae | Acanthurus nigrofuscus Forskkål | 38                 | 0.69 ± 2.32              |  |
+| Acanthuridae | Naso lituratus Forster          | 35                 | 0.64 ± 1.77              |  |
+| Labridae     | Halichoeres hortulanus Lacepéde | 35                 | 0.64 ± 1.53              |  |
+
+The highest mean abundances (± SD) of *A. triostegus* were observed at the sMPA sites of Fagatele Bay (6.4 ± 5.9) and at Auto & Amaua (4.2 ± 3.8). Mean abundances of similar values were observed at two unprotected sites of Faga'itua (1.8 ± 1.8) and Masefau (2.0 ± 2.1), three CB-MPA sites, Alofau lagoon (1.6 ± 1.1), Aua (1.6 ± 1.1) and Vatia (1.6 ± 2.5), and the federal site at Ofu lagoon (1.4 ± 1.7). The lowest mean abundances were observed at Aua Control (0.4 ± 0.9) and Alofau (0.4 ± 0.9) and the species was absent at Nu'uuli Lagoon.
+
+The highest mean abundance of *C. sordidus* (initial phase) was similar to the highest abundance of *A. triostegus* and observed at the sMPA site of Ofu lagoon (6.2 ± 2.3). The next highest abundances were all observed at CB-MPA sites; Aua (3.4 ± 2.1), Alofau lagoon (2.4 ± 2.7), and Alofau (1.8 ± 3.0), followed by Nu'uuli Lagoon (1.6 ± 1.8). Relatively low abundances were observed at the remaining sites.
+
+The highest mean abundance of *Z. scopas* was observed at Fagatele Bay (6.2 ± 2.9) and Alofau (6.2 ± 5.8), with a higher variability along the survey transects at Alofau. The next highest abundance was observed at a much lower value at Vatia (1.6 ±2.3). Relatively low abundances of *Z. scopas* were recorded at the remaining sites however the species was absent from the surveys at Aua, Aua control, Ofu lagoon and Nu'uuli lagoon.
+
+The highest abundances of *A. lineatus* were observed at the CB-MPA site of Vatia (4 ± 4.0), the sMPA site of Fagatele Bay (2.6 ± 1.7) and the unprotected site of Masefau (2.2 ± 1.8). Similar abundances were observed at the CB-MPA sites of Auto & Amaua (0.8 ± 4.0) and Alofau (0.6 ± 0.9) and the same abundances were observed at Aua and Ofu lagoon (0.2 ± 0.4). *A. lineatus* was absent from Aua control, Faga'itua and the lagoon sites at Alofau and Nu'uuli.
+
+The highest mean abundances of *Scarus oviceps* (initial phase) were observed at Faga'itua (3.2 ± 3.1), Alofau (2.4 ± 1.3), and Alofau lagoon (1.4 ± 1.9). Relatively lower mean abundances were observed at Masefau (0.8 ± 0.8) and Nu'uuli lagoon (0.2 ± 0.4) and the species was absent at the other sites.
+
+![](_page_102_Figure_1.jpeg)
+
+Figure 3.11. Mean abundances of the main target reef fish species observed and recorded during surveys along 5 transects at 11 survey sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Lagoon sites are indicated by \* .
+
+#### *3.3.5 Reef fish community analysis*
+
+Multivariate cluster analysis was performed to identify similarities in reef fish species assemblages among sites. The dendogram in figure 3.12 a) demonstrates the separation of the reef flat survey transects into four clusters on 35% Bray-Curtis similarities of √ transformed target fish abundances. These clusters are superimposed on the 2-dimensional MDS configuration, as shown in figure 3.12 b). Figure 3.13 demonstrates the results of the cluster and ordination analyses on transects surveyed at the lagoon sites.
+
+The sites and individual transects responsible for each cluster group based on the dendograms and MDS plots are demonstrated in table 3.15 along with the distinguishing species among the survey sites in each cluster group as identified by PRIMER's BVSTEP and SIMPER procedures.
+
+The resultant groupings for the reef flat sites are significantly different from each other (R = 0.56, p = 0.001) and show similarities between the Aua, Masefau, Auto & Amaua transects, between the Alofau and Faga'itua transects and between the Fagatele and Vatia transects, and show the Aua Control transects to be unique. The lagoon site groupings are also significantly different from each other (R = 0.56, p = 0.001) and show similarities between transects surveyed at Alofau Lagoon and Nu'uuli Lagoon and the transects surveyed at Ofu Lagoon are unique.
+
+![](_page_104_Figure_1.jpeg)
+
+**Figure 3.12.** Fish abundances for 5 replicate transects from each of the 8 reef flat sites surveyed on the American Samoan islands of Tutuila and Manu'a, after √-transformation. Survey sites: Transect numbers 1-5. Al = Alofau, AlL = Alofau lagoon, AuC = Aua control, A\_A = Auto & Amaua, Fua = Faga'itua, Fag = Fagatele, Mas = Masefau, Nuu= Nu'uuli, Vat = Vatia. a) Dendogram of groupaveraged clustering from Bray-Curtis coefficient similarities with four cluster groups formed at similarity levels of approximately 35%. b) 2-dimensional MDS configuration based on Bray-Curtis coefficient similarities (stress = 0.21), with four superimposed clusters from figure a). Management protection represented by squares (Community-based MPA), triangles (statutory MPA), Inverted triangles (no protection).
+
+![](_page_105_Figure_1.jpeg)
+
+**Figure 3.13.** Fish abundances for 5 replicate transects from each of the 3 lagoon sites surveyed on the American Samoan islands of Tutuila and Manu'a, after √ transformation. Survey sites: Transect numbers 1-5. Al = Alofau, AlL = Alofau lagoon, AuC = Aua control, A\_A = Auto & Amaua, Fua = Faga'itua, Fag = Fagatele, Mas = Masefau, Nuu= Nu'uuli, Vat = Vatia. a) Dendogram of groupaveraged clustering from Bray-Curtis coefficient similarities with two cluster groups formed at similarity levels of approximately 40%. b) 2-dimensional MDS configuration based on Bray-Curtis coefficient similarities (stress = 0.12), with two superimposed clusters from figure a). Management protection represented by squares (Community-based MPA), triangles (statutory MPA), Inverted triangles (no protection).
+
+**Table 3.13.** Sites grouped into their relevant clusters based on the multivariate analysis of reef fish abundances surveyed along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. The highest two-thirds of characteristic reef fish species are shown for each cluster group, ordered in decreasing contribution to the average cluster group similarity as determined by SIMPER. IP = initial phase. • indicates the most consistent species.
+
+|                 | Cluster |                                |                                                                                                                                                                                                                                   | Contribution                                                          |
+|-----------------|---------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+|                 | groups  | Sites                          | Characteristic species                                                                                                                                                                                                            | (%)                                                                   |
+|                 | Group 1 | Aua control                    | Stegastes albifasciatus •<br>Chrysiptera taupou<br>Stegastes nigricans<br>Labrichthys unilineatus                                                                                                                                 | 27.64<br>14.44<br>13.95<br>10.78                                      |
+| Reef flat sites | Group 2 | Aua<br>Masefau<br>Auto & Amaua | Chrysiptera brownriggii<br>Thalassoma hardwicke •<br>Stegastes nigricans<br>Stegastes albifasciatus<br>Chrysiptera taupou<br>Ctenochaetus striatus<br>Acanthurus triostegus<br>Chaetodon citronellus<br>Halichoeres margaritaceus | 11.13<br>8.76<br>8.08<br>7.42<br>6.80<br>6.27<br>6.09<br>5.25<br>5.13 |
+|                 | Group 3 | Alofau<br>Faga'itua            | Stegastes nigricans •<br>Thalassoma hardwicke<br>Stegastes lividus<br>Ctenochaetus striatus<br>Chaetodon trifasciatus<br>Scarus oviceps - IP                                                                                      | 22.87<br>11.81<br>9.49<br>8.03<br>6.59<br>6.20                        |
+|                 | Group 4 | Fagatele<br>Vatia              | Ctenochaetus striatus •<br>Chrysiptera taupou<br>Acanthurus lineatus<br>Zebrasoma scopas<br>Stegastes nigricans                                                                                                                   | 26.08<br>10.97<br>9.84<br>7.99<br>7.08                                |
+| Lagoon sites    | Group 1 | Ofu                            | Chrysiptera taupou<br>Ctenochaetus striatus<br>Chlorurus sordidus - IP<br>Stegastes nigricans<br>Scarus spinus •                                                                                                                  | 18.11<br>14.16<br>12.52<br>10.22<br>8.46                              |
+|                 | Group 2 | Alofau<br>Nu'uuli              | Stegastes nigricans<br>Dascyllus aruanus •<br>Ctenochaetus striatus                                                                                                                                                               | 33.16<br>21.09<br>15.28                                               |
+
+The Aua Control site is distinctly different from the other sites as a result of four characteristic species, namely three pomacentrid species *Stegastes albifasciatus,* (the most consistent species within the survey site transects) *Chrysiptera taupou,* and *Stegastes nigricans,* and one labrid*, Labrichthys unilineatus*.
+
+Aua, Masefau, and Auto & Amau are grouped together as a result of the characteristic pomacentrid species *Chrysiptera brownriggii*. *Thalassoma hardwicke* was the most consistent species observed on the survey site transects. Other characteristic species (in decreasing order of contribution) were the pomacentrids *Stegastes nigricans, S.albifasciatus, C.taupou,* and the acanthurids *Ctenochaetus striatus and Acanthurus triostegus.* The chaetodontid *C. citronellus* and the labrid *Halichoeres margaritaceus* were characteristic species unique to the group.
+
+Alofau and Faga'itua were clustered together as a result of the pomacentrid species *S.nigricans* being the most consistent species throughout transects at both survey sites. The group was also characterised by the labrid *T.hardwicke* and the acanthurid *C.striatus*. The characterising pomacentrid species *Stegastes lividus,* the chaetodontid *Chaetodon trifasciatus* and the initial phase of the scarid species *Scarus oviceps* were all unique to the group.
+
+*Ctenochaetus striatus* was the most consistent species throughout the survey transects at Fagatele Bay and Vatia. Both sites are characterised by similar abundances of the pomacentrid species *Chrysiptera taupou* and *S.nigricans,* and the acanthurid species *Acanthurus lineatus,*and *Zebrasoma scopas*.
+
+Ofu lagoon is different from the other lagoon sites as a result of the most characterising species, *Chrysiptera taupou*, followed by *C. striatus, Chlorurus sordidus* (initial phase), *S.nigricans,* and the most consistent species, the scarid *Scarus spinus*. Alofau lagoon and Nu'uuli lagoon are more simliar to each other than to Ofu lagoon as a result of being characterised by *S. nigricans*, the most consistent species *Dascyllus aruanus,* and the acanthurid *C. striatus*.
+
+Multivariate cluster analysis was performed to identify similarities in target reef fish species assemblages among sites. The transects surveyed at the Aua Control site, with the exception of transect 3, were removed from the data set due to the absence of a substantial abundance of target fish species
+
+The dendogram in figure 3.14 a). demonstrates the separation of the reef flat survey transects into four clusters on 35% Bray-Curtis similarities of √ transformed target fish abundances. These clusters are superimposed on the 2-dimensional MDS configuration, as shown in figure 3.14 b). Figure 3.15. shows the results of the cluster and ordination analyses on the lagoon survey transects.
+
+It is evident from the ordination plots that the CB-MPA sites of Auto & Amaua, Aua (including transect 3 from Aua control), and transects 3, 4 and 5 at the unprotected site Faga'itua, have different fish communities present compared to the other survey sites. The larger grouping of CB-MPA sites, Vatia and Alofau, the sMPA site of Fagatele Bay the unprotected site of Masefau (excluding transect 3), exhibit communities of fish, which are more similar to each other than to the other sites. Transect 1 at Faga'itua is found in Group 2 and transect 3 at Masefau is found in Group 4, indicating that these transects exhibited fish communities that were more similar to the respective groups than the other group. The lagoon sites at Alofau and Nu'uuli have fish communities more similar to each other than to the lagoon site at Ofu.
+
+![](_page_109_Figure_1.jpeg)
+
+**Figure 3.14.** Target fish abundances for 5 replicate transects from each of the 8 reef flat sites surveyed on the American Samoan islands of Tutuila and Manu'a, after √ transformation. Survey sites: Transect numbers 1-5. Al = Alofau, AlL = Alofau lagoon, AuC = Aua control, A\_A = Auto & Amaua, Fua = Faga'itua, Fag = Fagatele, Mas = Masefau, Nuu= Nu'uuli, Vat = Vatia. a) Dendogram of group-averaged clustering from Bray-Curtis coefficient similarities with three cluster groups formed at similarity levels of approximately 35%. b) 2-dimensional MDS configuration based on Bray-Curtis coefficient similarities (stress = 0.17), with three superimposed clusters from figure a). Management protection represented by squares (CBFMP), triangles (Federal), Inverted triangles (none).
+
+![](_page_110_Figure_1.jpeg)
+
+**Figure 3.15.** Target fish abundances for 5 replicate transects from each of the 3 lagoon sites surveyed on the American Samoan islands of Tutuila and Manu'a, after √ transformation. Survey sites: Transect numbers 1-5. Al = Alofau, AlL = Alofau lagoon, AuC = Aua control, A\_A = Auto & Amaua, Fua = Faga'itua, Fag = Fagatele, Mas = Masefau, Nuu= Nu'uuli, Vat = Vatia. a) Dendogram of group-averaged clustering from Bray-Curtis coefficient similarities with three cluster groups formed at similarity levels of approximately 40%. b) 2-dimensional MDS configuration based on Bray-Curtis coefficient similarities (stress = 0.17), with three superimposed clusters from figure a). Management protection represented by squares (CBFMP), triangles (Federal), Inverted triangles (none).
+
+The sites and individual transects responsible for each cluster group based on the dendogram and MDS plot are demonstrated in table 3.16 along with the distinguishing species among the survey sites in each cluster group as identified by PRIMER's BVSTEP procedure, followed by the SIMPER procedure to determine the ranking of the species in order of their % contribution to the similarities between the sites.
+
+The harbour sites of Aua and Aua Control are distinguished from the other sites by the high dominance of *Chlorurus sordidus* (initial phase), and *Acanthurus triostegus*, the most consistent species throughout the group.
+
+Transects 3, 4 and 5 at Faga'itua (cluster group 3) are distinguished from the other sites by higher contributions of *Thalassoma hardwicke* and *Scarus oviceps* (initial phase), and the consistent abundance of *Hemigymnus melapterus* on the survey transects.
+
+*Thalassoma hardwicke* was also the highest contributing species in group 4 (Auto & Amaua and transect 3 at Masefau), however at a much lower percentage contribution than in group 3 as a result of the higher number of species contributing to the similarity within group 4.
+
+The remaining reef flat survey sites are all clustered into group 2 and the similarity between the sites can be primarily attributed to a high contribution from *Ctenochaetus striatus* with much lower contributions from *Thalassoma hardwicke, Zebrasoma scopas, and Acanthurus lineatus*.
+
+Ofu lagoon (group 1) is distinguished from the Tutuila lagoon sites (group 2) by the higher number of characterisitc species. Both groups share the highest contributing species *Ctenochaetus striatus*, and *Chlorurus sordidus* (initial phase), however the contribution of *C. striatus* was over 50% higher in group 2 than in group 1. Group 2 was also characterised by *Hemigymnus.* The most consistent species in Ofu Lagoon was *Scarus spinus* and characteristic species were *Halichoeres hortulanus, Acanthurus nigrofuscus, Gnathodentex aurolineatus, Chlorurus sordidus* (terminal phase), and *Scarus schlegeli*.
+
+**Table 3.14.** Survey site transects separated into their relevant cluster groupings and the characteristic target reef fish species in each cluster group and their percentage contribution (up to 95%) to the pattern as determined by PRIMER's SIMPER function.
+
+|                 | Cluster | Sites                           | Characteristic species      | Contribution (%) |
+|-----------------|---------|---------------------------------|-----------------------------|------------------|
+|                 |         |                                 | Chlorurus sordidus - IP     | 39.18            |
+|                 | Group 1 | Aua                             | Acanthurus triostegus •     | 29.55            |
+|                 |         | Aua Control                     | Ctenochaetus striatus       | 14.34            |
+|                 |         | (3)                             | Rhinecanthus aculeatus      | 11.90            |
+|                 |         |                                 | Ctenochaetus striatus •     |                  |
+|                 |         |                                 | Thalassoma hardwicke        | 41.04            |
+|                 |         | Alofau,                         | Zebrasoma scopas            | 18.09            |
+|                 |         | Fagatele, Vatia,                | Acanthurus lineatus         | 13.72            |
+|                 | Group 2 | Masefau                         | Acanthurus triostegus       | 10.28            |
+|                 |         | (1,2,4,5),                      | Scarus oviceps - IP         | 4.63             |
+|                 |         | Faga'itua (1)                   | Gomphosus varius Lacepéde - | 3.00<br>2.77     |
+|                 |         |                                 | IP                          |                  |
+|                 |         |                                 | Acanthurus nigricans        | 2.24             |
+| Reef flat sites |         |                                 | Thalassoma hardwicke        | 48.90            |
+|                 | Group 3 | Fagai'itua                      | Scarus oviceps - IP         | 19.38            |
+|                 |         | (3-5)                           | Acanthurus triostegus       | 16.19            |
+|                 |         |                                 | Hemigymnus melapterus •     | 10.65            |
+|                 |         |                                 | Thalassoma hardwicke •      | 27.31            |
+|                 |         |                                 | Halichoeres hortulanus      | 14.29            |
+|                 |         | Auto &<br>Amaua,<br>Masefau (3) | Halichoeres trimaculatus    | 13.84            |
+|                 | Group 4 |                                 | Acanthurus triostegus       | 13.01            |
+|                 |         |                                 | Siganus spinus              | 6.29             |
+|                 |         |                                 | Ctenochaetus striatus       | 5.96             |
+|                 |         |                                 | Epinephelus merra           | 4.53             |
+|                 |         |                                 | Naso lituratus              | 3.37             |
+|                 |         |                                 | Acanthurus lineatus         | 3.29             |
+|                 |         |                                 | Liz vaigiensis              | 2.31             |
+|                 |         |                                 | Ctenochaetus striatus       | 27.96            |
+|                 |         |                                 | Chlorurus sordidus - IP     | 24.77            |
+|                 |         |                                 | Scarus spinus •             | 16.72            |
+|                 |         |                                 | Thalassoma hardwicke        | 8.35             |
+|                 | Group 1 | Ofu                             | Halichoeres hortulanus      | 3.95             |
+|                 |         |                                 | Acanthurus triostegus       | 3.61             |
+|                 |         |                                 | Acanthurus nigrofuscus      | 2.68             |
+|                 |         |                                 | Gnathodentex aurolineatus   | 2.35             |
+| Lagoon sites    |         |                                 | Chlorurus sordidus - TP     | 2.13             |
+|                 |         |                                 | Scarus schlegeli            | 2.03             |
+|                 |         |                                 | Ctenochaetus striatus •     | 59.24            |
+|                 |         | Alofau                          | Chlorurus sordidus - IP     | 17.82            |
+|                 | Group 2 |                                 | Hemigymnus melapterus       | 6.75             |
+|                 |         | Nu'uuli                         | Thalassoma hardwicke        | 5.39             |
+|                 |         |                                 | Acanthurus triostegus       | 4.70             |
+
+#### 3.4 Reef Fish Biomass
+
+The estimated lengths of the majority of fish observed during this study were between 5 cm and 25 cm with rare sightings of individual fish longer than 50 cm. The species-specific length-weight relationships are shown in appendix I, and the mean abundance of each species observed in the different length categoires are shown in appendix VI.
+
+#### 3.4.1 Total biomass
+
+The mean  $(\pm SD)$  total reef fish biomass and the mean  $(\pm SD)$  biomass of the subset of target fish species recorded at each site are shown in figure 3.16.
+
+![](_page_113_Figure_5.jpeg)
+
+**Figure 3.16.** Mean ( $\pm$  standard deviation) biomass of total reef fish (grey bars) and target reef fish (black bars) observed and recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Total biomass of reef fish, N = 1253.0 Kg / 250 m², total biomass of target reef fish, N = 538.6 kg / m². Protection from fishing activity: CB-MPA = Community-based Marine Protected Area, sMPA = statutory Marine Protected Area, None = area of no protection. Lagoon sites are indicated by \*.
+
+The highest mean total biomass was recorded at the unprotected site of Faga'itua (47.6  $\pm$  2.3) and above average total biomass (22.8  $\pm$  13.1) was observed at four other sites which were the sMPA sites of Fagatele Bay (32.4  $\pm$  1.0) and Ofu Lagoon (31.6  $\pm$  0.9), the CB-MPA site of Alofau (32.3  $\pm$  1.1) and the unprotected site of Masefau (30.5  $\pm$  0.8). In
+
+contrast, the highest mean target biomasses were recorded at the sMPA sites of Ofu Lagoon (19.5 ± 1.0) and Fagatele Bay (18.2 ± 1.2), and above average target biomass (9.5 ± 6.4) were observed at Masefau, Faga'itua, Vatia and Alofau. The lowest mean total biomass and mean target biomass was recorded at the unprotected site of Aua Control, and relatively low total and target biomasses were recorded at Aua (CB-MPA) and Nu'uuli Lagoon (no protection).
+
+Differences in the mean biomass of total fish and the subset of target fish between each of the CB-MPA sites and the adjacent non-protected areas are shown in table 3.20. With the exception of the CB-MPA site of Aua, the mean total abundances and target fish abundances were lower at the CB-MPA sites than at the non-protected site. The largest difference was between the mean target fish abundances observed at Aua and Aua Control (73.1%).
+
+**Table 3.15.** Differences (%) in mean total fish abundance and mean target fish abundance between CB-MPA sites and adjacent non-protected sites. Negative value indicates CB-MPA site has lower mean number of species than the adjacent non-protected site.
+
+| CB-MPA       | Unprotected | Difference (%) |             |  |
+|--------------|-------------|----------------|-------------|--|
+|              |             | Total fish     | Target fish |  |
+| Alofau       | Faga'itua   | -32.1          | -22.8       |  |
+| Auto & Amaua | Faga'itua   | -59.5          | -31.5       |  |
+| Aua          | Aua Control | 47.2           | 73.1        |  |
+| Vatia        | Masefau     | -42.6          | -10.6       |  |
+
+#### *3.4.2 Protection status*
+
+Figure 3.17 shows the results from analysis of mean total fish biomass between the three treatment groups based on the different levels of protection from fishing activity for the reef flat and the lagoon sites. Results from the one-way ANOSIM test between the reef flat site and lagoon site treatment groups are shown in appendix III.
+
+The combined mean fish biomass (± 95% CI) was highest at the sMPA reef flat site of Fagatele Bay (32.4 ± 10.6), and the unprotected reef flat sites were significantly higher than the CB-MPA reef flat sites (R = 0.11, p = 0.032). The highest mean biomass recorded for the lagoon sites was at the sMPA site of Ofu (31.6 ± 15.8) and the lowest at the unprotected site of Nu'uuli lagoon (12.8 ± 4.7). A one-way ANOSIM showed that all the treatment were significantly different from each other (R = 0.77, p = 0.001)
+
+![](_page_115_Figure_2.jpeg)
+
+**Figure 3.17.** The mean (± 95% CI) of the total biomass of reef fish species observed at the sites protected by the three different treatment levels for the 8 reef flat sites and 3 lagoon sites surveyed on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Reef flat (filled symbols) and lagoon (empty symbols) survey sites in the different treatment groups, CB-MPA = Community-based Marine Protected Area (square symbol), sMPA = statutory Marine Protected Area (circle), None = area of no protection (triangle).
+
+Figure 3.18 shows the results from analysis of mean target fish biomass between the three treatment groups based on the different levels of protection from fishing activity for the reef flat and the lagoon sites. Results from the one-way ANOSIM test between the reef flat site and lagoon site treatment groups are shown in appendix III.
+
+The combined mean target fish biomass (± 95% CI) of the reef flat sites were highest at the sMPA site of Fagatele Bay (17.2 ± 6.3) and slightly higher at the unprotected sites (9.0 ± 7.7) than at the CB-MPA sites (8.2 ± 6.3), however there were no significant differences between the reef flat treatment groups (R = 0.02, p = 0.341). The mean target biomass of the lagoon sites was also highest at the sMPA site of Ofu Lagoon (23.9 ± 11.5), however the CB-MPA site of Alofau Lagoon (4.0 ± 2.7) was slightly higher than the unprotected Nu'uuli Lagoon (3.0 ± 1.9). No significant differences were found between the lagoon sites treatment groups (R = 0.02, p = 0.344).
+
+![](_page_116_Figure_1.jpeg)
+
+**Figure 3.18.** The mean (± 95% CI) of the biomass of target reef fish species observed at the sites protected by the three different treatment levels for the 8 reef flat sites and 3 lagoon sites surveyed on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Reef flat (filled symbols) and lagoon (empty symbols) survey sites in the different treatment groups, CB-MPA = Community-based Marine Protected Area (square symbol), sMPA = statutory Marine Protected Area (circle), None = area of no protection (triangle).
+
+#### *3.4.3 Fish species*
+
+The top 20 fish species with the highest biomass are shown in order of relative dominance in table 3.21. The index of relative dominance is based on the frequency of occurrence of the species on all the transects surveyed during this study and their biomass.
+
+**Table 3.16.** Top 20 fish species overall at the 8 reef flat sites and 3 lagoon sites surveyed (ordered by index of relative dominance (IRD)) on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Biomass is % of the total. Freq. = % frequency of occurrence (total number of transects = 55). IRD = (frequency of occurrence x percent biomass) x100. \* indicates target fish species.
+
+| Family         | Species                                | Biomass<br>(%) | Freq.<br>(%) | IRD     | Mean ±<br>SD     |
+|----------------|----------------------------------------|----------------|--------------|---------|------------------|
+| Pomacentridae  | Stegastes nigricans                    | 19.9           | 81.8         | 1,626   | ±<br>49.8<br>5.7 |
+| Acanthuridae   | Ctenochaetus striatus*                 | 14.9           | 78.2         | 1,164.2 | ±<br>37.3<br>2.4 |
+| Pomacentridae  | Stegastes lividus                      | 7.3            | 30.9         | 225.0   | ±<br>18.4<br>3.4 |
+| Labridae       | Thalassoma hardwicke*                  | 2.8            | 65.5         | 181.1   | ±<br>6.9<br>1.0  |
+| Pomacentridae  | Chrysiptera taupou                     | 2.0            | 60.0         | 119.1   | ±<br>5.0<br>0.4  |
+| Acanthuridae   | Acanthurus triostegus*                 | 2.2            | 49.1         | 108.3   | ±<br>5.6<br>0.5  |
+| Acanthuridae   | Zebrasoma scopas*                      | 3.0            | 32.7         | 99.4    | ±<br>7.5<br>1.2  |
+| Acanthuridae   | Acanthurus lineatus*                   | 2.6            | 36.4         | 95.1    | ±<br>6.6<br>0.8  |
+| Pomacentridae  | Dascyllus aruanus                      | 2.3            | 40.0         | 91.2    | ±<br>5.7<br>0.6  |
+| Chaetodontidae | Chaetodon trifasciatus                 | 2.1            | 41.8         | 87.1    | ±<br>5.2<br>0.6  |
+| Pomacentridae  | Stegastes albifasciatus                | 3.9            | 18.2         | 70.6    | ±<br>9.7<br>1.5  |
+| Pomacentridae  | Stegastes fasciolatus                  | 3.5            | 20.0         | 70.4    | ±<br>8.8<br>1.6  |
+| Chaetodontidae | Chaetodon reticulatus                  | 2.6            | 23.6         | 61.9    | ±<br>6.6<br>1.3  |
+| Scaridae       | Chlorurus sordidus - IP*               | 1.3            | 41.8         | 54.4    | ±<br>3.3<br>1.0  |
+| Pomacentridae  | Abudefduf septemfasciatus<br>Cuvier    | 1.6            | 18.2         | 29.2    | ±<br>4.0<br>0.8  |
+| Pomacentridae  | Chrysiptera brownriggii                | 1.3            | 18.2         | 23.3    | ±<br>3.2<br>0.5  |
+| Acanthuridae   | Acanthurus nigrofuscus*                | 1.8            | 9.1          | 16.5    | ±<br>4.5<br>0.9  |
+| Labridae       | Novaculichthys taeniourus<br>Lacepéde* | 1.3            | 5.5          | 7.3     | ±<br>3.5<br>0.3  |
+| Lethrinidae    | Gnathodentex aurolineatus*             | 1.6            | 3.6          | 5.9     | ±<br>4.0<br>1.2  |
+| Kyphosidae     | Kyphosus cinerascens<br>Forsskål       | 1.8            | 1.8          | 3.2     | ±<br>4.4<br>1.3  |
+
+The pomacentrid Dusky gregory (*Stegastes nigricans*) was the most dominant species over all study sites based on IRD. It occurred on over 81% of all transects and accounted for 19.9% of the total fish biomass. This species was followed in importance by the Striped bristletooth (*Ctenochaetus striatus*), which accounted for nearly 15% of the total reef fish biomass and occurred on over 78% of the transects. The farmerfish *Stegastes lividus* was the 3rd highest species based on IRD, and accounted for 7.3 % of the total biomass although it only occurred on 31% of the transects. The remaining top 20 species based on IRD contributed less than 4% each to the total biomass and the lowest IRD was shown by the high biomass Rockmover wrasse *Novaculichthys taeniourus*, the Yellowspot emperor *Gnathodentex aurolineatus*, and the Highfin rudderfish *Kyphosus cinerascens*, all observed at relatively low abundances throughout the whole survey.
+
+#### *3.4.4 Abundance Biomass Comparison plots*
+
+Abundance Biomass Comparison (ABC) plots and their associated *W* statistics were created using PRIMER to determine the relationship between biomass and abundance of reef fish at each of the survey sites (plots are shown in appendix VII.
+
+The *W statistic* ranges between –1 and + 1 and when the *W* statistic is closer to +1 the fish communities are characterised by a more even distribution of the total abundance across the species and the biomass is dominated by one or a few species, whereas, when the *W* statistic is closer to –1, the biomass is evenly distributed across the species and the abundance is dominated by one or a few species. Using the ABC plots and the *W* statistic results the total fish biomass and the target fish biomass for each site were separated into ranks of relative low, moderate or high *W* statistics and the results are shown in table 3.22.
+
+In order to analyse the differences in fish biomass and fish abundance at each site the top 3 species contributing the total fish biomass and target fish biomass were determined for each site (Table 3.22) and the dominant species contributing to the total fish abundance and target fish abundance were shown in table 3.15, and table 3.16, respectively.
+
+The highest *W* values for both the total fish data and the target fish data were at the CB-MPA sites of Auto & Amaua and the unprotected Nu'uuli lagoon, suggesting that at these sites the total abundance is distributed evenly across the species but the biomass is dominated by one or a few large species. Table 3.23 shows that at Auto & Amaua the total fish biomass and the target fish biomass was dominated by the labrid species *Novaculichthys taeniourus* and at Nu'uuli Lagoon the pomacentrid *Stegastes nigricans*  dominated the total biomass, whereas the acanthurid *Ctenocaetus striatus* dominated the target fish biomass.
+
+**Table 3.17.** *W* statistic results from Abundance Biomass Comparison (ABC) plots for biomass and abundance of total reef fish and target reef fish observed and recorded at the 8 reef flat sites and 3 lagoon sites surveyed on the American Samoan islands of Tutuila and Manu'a between June and August 2004. *W* statistic results separated into relative ranks of high, moderate, and low categories.
+
+|          | TOTAL FISH BIOMASS   |             | TARGET FISH BIOMASS |             |  |  |
+|----------|----------------------|-------------|---------------------|-------------|--|--|
+| RANK     | Site                 | W statistic | Site                | W statistic |  |  |
+|          | Auto & Amau<br>0.106 |             | Auto & Amaua        | 0.133       |  |  |
+| High     | Nu'uuli Lagoon       | 0.086       | Nu'uuli Lagoon      | 0.121       |  |  |
+|          | Alofau               | 0.075       | Vatia               | 0.079       |  |  |
+|          | Vatia                | 0.065       | Ofu Lagoon          | 0.061       |  |  |
+|          | Faga'itua            | 0.064       | Alofau Lagoon       | 0.046       |  |  |
+| Moderate | Aua Control          | 0.056       | Alofau              | 0.035       |  |  |
+|          | Alofau Lagoon        | 0.047       | Aua                 | 0.035       |  |  |
+|          | Ofu Lagoon           | 0.042       | Masefau             | 0.031       |  |  |
+|          | Aua                  | 0.014       | Fagatele            | 0.016       |  |  |
+| Low      | Masefau              | 0.009       | Aua Control         | -0.016      |  |  |
+|          | Fagatele             | 0.007       | Faga'itua           | -0.056      |  |  |
+
+At Alofau, the total fish biomass and total fish abundance was dominated by the pomacentrid *Stegastes nigricans* and the relatively high *W* statistic calculated suggests that the pomacentrid contributed more to the total biomass than the total abundance. A relatively high *W* statistic was calculated for the target fish community at Vatia, with a moderate *W* statistic for the total fish community, suggesting that the acanthurid *C. striatus* dominated the target fish biomass more than the total fish biomass.
+
+Moderate *W* statistics were calculated for the total fish and the target fish communities at Alofau Lagoon and Ofu Lagoon, which were also dominated by *C. striatus*, although the total fish community at Alofau Lagoon was dominated by a high abundance of the pomacentrid *Stegastes nigricans*.
+
+At the unprotected site of Faga'itua, a moderate *W* statistic was calculated for the total fish community and a negative *W* statistic was calculated for the target fish community as a result of the abundance curve dominating the biomass curve for its entire length (see appendix VI. Figure aii). This suggests that the pomacentrid *Stegastes nigricans* dominated both the total fish biomass and the total fish abundance, whereas the acanthurid
+
+**Table 3.18.** Top 3 total fish species and target fish species and their mean (± SD) biomass contributing to the total biomass at each of the 8 reef flat sites and 3 lagoon sites surveyed on the American Samoan islands of Tutuila and Manu'a between June and August 2004.
+
+|                   |                              |              | Biomass |                           |      | Biomass           |
+|-------------------|------------------------------|--------------|---------|---------------------------|------|-------------------|
+| Site              | Total fish species           | (Kg / 250 m2 | )       | Target fish species       |      | (Kg / 250 m2<br>) |
+|                   |                              | Mean         | ± SD    |                           | Mean | ± SD              |
+|                   | Stegastes nigricans          | 9.23         | 9.27    | Ctenochaetus striatus     | 4.07 | 4.71              |
+| Alofau            | Stegastes lividus            | 4.28         | 2.86    | Zebrasoma scopas          | 2.37 | 4.66              |
+|                   | Ctenochaetus striatus        | 4.07         | 4.71    | Scarus oviceps - IP       | 1.01 | 1.65              |
+|                   | Stegastes nigricans          | 7.16         | 4.73    | Ctenochaetus striatus     | 2.16 | 2.33              |
+| Lagoon<br>Alofau  | Ctenochaetus striatus        | 2.16         | 2.33    | Acanthurus triostegus     | 0.52 | 1.04              |
+|                   | Stegastes fasciolatus        | 1.12         | 2.33    | Chlorurus sordidus - IP   | 0.33 | 0.41              |
+|                   | Chrysiptera brownriggii      | 1.61         | 1.90    | Ctenochaetus striatus     | 0.90 | 1.11              |
+| Aua               | Plectroglyphidodon leucozona | 1.27         | 1.70    | Rhinecanthus aculeatus    | 0.62 | 0.71              |
+|                   | Ctenochaetus striatus        | 0.90         | 1.11    | Chlorurus sordidus - IP   | 0.36 | 0.35              |
+|                   | Stegastes albifasciatus      | 0.97         | 0.43    | Caranx melampygus         | 0.43 | 0.97              |
+| control<br>Aua    | Stegastes nigricans          | 0.60         | 0.45    | Acanthurus triostegus     | 0.09 | 0.21              |
+|                   | Caranx melampygus            | 0.43         | 0.97    | Lutjanus gibbusForskkål   | 0.08 | 0.07              |
+|                   | Novaculichthys taeniourus    | 3.20         | 5.88    | Novaculichthys taeniourus | 3.20 | 5.88              |
+| Auto &<br>Amaua   | Stegastes albifasciatus      | 2.47         | 4.12    | Acanthurus lineatus       | 1.10 | 2.45              |
+|                   | Stegastes nigricans          | 1.79         | 1.32    | Thalassoma hardwicke      | 0.66 | 0.58              |
+|                   | Stegastes nigricans          | 19.34        | 20.62   | Ctenochaetus striatus     | 5.88 | 12.20             |
+| Faga'itua         | Stegastes lividus            | 11.34        | 14.02   | Thalassoma hardwicke      | 3.35 | 3.71              |
+|                   | Ctenochaetus striatus        | 5.88         | 12.20   | Scarus oviceps - IP       | 1.13 | 1.80              |
+|                   | Ctenochaetus striatus        | 6.40         | 7.45    | Ctenochaetus striatus     | 6.40 | 7.45              |
+| Fagatele<br>Bay   | Stegastes fasciolatus        | 5.43         | 4.17    | Zebrasoma scopas          | 3.67 | 2.84              |
+|                   | Chaetodon reticulatus        | 4.35         | 7.95    | Acanthurus triostegus     | 1.96 | 2.19              |
+|                   | Ctenochaetus striatus        | 5.18         | 4.85    | Ctenochaetus striatus     | 5.18 | 4.85              |
+| Masefau           | Stegastes albifasciatus      | 5.01         | 4.34    | Acanthurus nigrofuscus    | 1.54 | 2.92              |
+|                   | Stegastes nigricans          | 3.59         | 3.17    | Acanthurus lineatus       | 1.51 | 2.45              |
+|                   | Stegastes nigricans          | 4.12         | 2.58    | Ctenochaetus striatus     | 1.71 | 1.57              |
+| Nu'uuli<br>Lagoon | Ctenochaetus striatus        | 1.71         | 1.57    | Rhinecanthus aculeatus    | 0.51 | 0.86              |
+|                   | Dascyllus aruanus            | 1.35         | 0.75    | Thalassoma hardwicke      | 0.15 | 0.19              |
+|                   | Ctenochaetus striatus        | 4.77         | 4.89    | Ctenochaetus striatus     | 4.77 | 4.89              |
+| Lagoon<br>Ofu     | Kyphosus cinerascens         | 4.45         | 9.94    | Gnathodentex aurolineatus | 4.04 | 5.62              |
+|                   | Gnathodentex aurolineatus    | 4.04         | 5.62    | Acanthurus nigrofuscus    | 2.61 | 3.99              |
+|                   | Ctenochaetus striatus        | 5.95         | 5.20    | Ctenochaetus striatus     | 5.95 | 5.20              |
+| Vatia             | Acanthurus lineatus          | 1.97         | 3.01    | Acanthurus lineatus       | 1.97 | 3.01              |
+|                   | Chaetodon reticulatus        | 0.96         | 0.96    | Acanthurus nigricans      | 0.57 | 1.28              |
+|                   |                              |              |         |                           |      |                   |
+
+*C. striatus* and the labrid species *Thalassoma hardwicke* dominated the target fish abundance more than the target fish biomass.
+
+A negative *W* statistic was also calculated for the target fish community at Aua Control as a result of the abundance curve crossing above the biomass curve for most of its length, however the observation of an individual high biomass *Caranx melampygus* dominates the biomass curve, and followed by lower biomasses of the acanthurid *Acanthurus triostegus*  and the lutjanid *Lutjanus gibbus*. A moderate *W* statistic was calculated for the total fish biomass as a result of dominance by the low biomass, high abundance pomacentrids *Stegastes albifasciatus and Stegastes nigricans*.
+
+Lower *W* statistics were calculated for the total fish communities at Aua and Masefau than for the target fish communities suggesting that the total fish communities were more dominated by high abundance of species such as the pomacentrids *Chrysiptera brownriggi*  and *Plectorglyphidodon leucozona* at Aua and at Masefau the total fish communties were dominated by a high abundance of the acanthurid *C. striatus*, and the pomacentrids *Stegastes albifasciatus* and *Stegastes nigricans*. The target fish communities were dominated by species with higher biomass, such as the acanthurid *C. striatus*, in addition to the balisitd *Rhinecanthus aculeatus* at Aua, and the acanthurids *Acanthurus nigrofuscus* and *Acanthurus lineatus* at Masefau.
+
+At Fagatele Bay, the total fish community exhibited a relatively low *W* statistic, whereas the lowest *W* statistic was calculated for the target fish community and the ABC plot showed the abundance curve above the biomass curve for the most dominant species. These results suggest that the total fish and the target fish community was more dominated by high abundance of the acanthurid *C. striatus* rather than a high biomass of the species. The total fish biomass was also dominated by high abundances of the pomacentrid *Stegastes fasciolatus* and the chaetodont *Chaetodon reticulatus*.
+
+#### *3.4.5 Fish recruitment*
+
+A coarse analysis of fish recruitment involved looking at the biomass of fish species that were observed at lengths of 5cm or less during surveys at each site. The total mean (± SD) biomass of each family is shown in decreasing order of biomass in table 3.23.
+
+**Table 3.19.** Total mean (± SD) biomass (in Kg) of fish species observed at lengths of 5cm or less at the 8 reef flat sites and 3 lagoon sites surveyed on the American Samoan islands of Tutuila and Manu'a between June and August 2004.
+
+| Family        | Biomass (kg)   |
+|---------------|----------------|
+| Pomacentridae | 1.215 ± 0.0989 |
+| Acanthuridae  | 0.095 ± 0.0163 |
+| Scaridae      | 0.045 ± 0.0046 |
+| Chaetonidae   | 0.031 ± 0.0031 |
+| Labridae      | 0.028 ± 0.0056 |
+| Balistidae    | 0.004 ± 0.0009 |
+| Pinguipedidae | 0.003 ± 0.0009 |
+
+The total mean (± SD) biomass of reef fish observed at lengths of 5cm or less is shown for each site in figure 3.20. Pomacentridae were excluded from the analysis due to their naturally small sizes.
+
+![](_page_122_Figure_6.jpeg)
+
+**Figure 3.19.** Mean (± SD) biomass of reef fish species measuring 5cm or less (excluding Pomacentridae) at each of the 8 reef flat sites and 3 lagoon sites surveyed on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Protection from fishing activity: CB-MPA = Community-based Marine Protected Area, sMPA = statutory Marine Protected Area, None = area of no protection. Lagoon sites are indicated by \*.
+
+The highest mean biomass of small reef fish was observed at the CB-MPA sites of Auto & Amaua (18.4 ± 5.3), and relatively moderate mean biomasses were observed at the CB-MPA sites of Alofau (7.5 ± 2.3), Alofau Lagoon (4.4 ± 0.9), and Aua (7.37 ± 1.1) and the unprotected site of Nu'uuli Lagoon (5.4 ± 1.1). The lowest mean biomasses were observed at the unprotected Aua Control (3.8 ± 0.7), Faga'itua (2.4 ± 0.7) and Ofu Lagoon (2.4 ± 1.0), whereas no small fish were recorded at Vatia, Fagatele Bay or Masefau.
+
+The distribution of the five main families over each site is shown in figure 3.21.
+
+The highest mean biomass of Pomacentridae was observed at the CB-MPA site of Alofau and relatively moderate mean biomasses were observed at the unprotected sites of Aua Control and Nu'uuli Lagoon.
+
+The highest mean biomass of Acanthuridae was observed at the CB-MPA site of Auto & Amaua, which accounts for the majority of high total biomass of small fish at the site, and moderate biomasses were observed at the CB-MPA sites of Alofau, Alofau Lagoon and Aua, and a relatively low biomass was observed at Nu'uuli Lagoon.
+
+Relatively high mean biomass of Scaridae was observed at Nu'uuli Lagoon, Aua and Ofu Lagoon and moderate biomasses were observed at Alofau Lagoon and Aua Control and the a relatively low biomass at Auto & Amaua.
+
+The highest biomass of Chaetodontidae was observed at the Pago Pago Harbour sites of Aua and Aua Control and relatively moderate biomasses were observed at Nu'uuli Lagoon and Alofau and low biomasses were observed at Faga'itua and Alofau Lagoon.
+
+The highest mean biomass of Labridae was observed at Auto & Amaua and a moderate biomass was observed at Faga'itua, and relatively low biomasses were observed at Alofau and Aua.
+
+![](_page_124_Figure_1.jpeg)
+
+**Figure 3.20.** Mean (+ SD) total biomass of the main fish families <5cm in length observed and recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Protection from fishing activity: CB-MPA = Community-based Marine Protected Area, sMPA = statutory Marine Protected Area, None = area of no protection. \* indicates lagoon sites. Note difference in scale on y-axis.
+
+#### **3.5 Habitat structure**
+
+#### *3.5.1 Substrate Cover*
+
+The percent composition of the main substrate types recorded during this study are shown for each site in figure 3.22. The percent cover of Macroalgae and Turf algae were combined into one category and named "algae".
+
+The highest percent live coral cover was recorded at the CB-MPA site of Alofau (69%), the unprotected site of Faga'itua (69%) and the sMPA site of Fagatele Bay (68%). Alofau and Faga'itua showed similar proportions of dead coralline algae (19% and 15% respectively) and algae (7% and 8%, respectively), whereas a higher proportion of coralline algae (12%) and Algae (16%) were observed at Fagatele Bay.
+
+Relatively moderate percent coral cover was recorded at the CB-MPA sites of Alofau Lagoon (53%) and Vatia (53%), the sMPA site of Ofu Lagoon (53%) and the unprotected sites of Nu'uuli Lagoon (48%) and Masefau (47%). Similar proportions of different substrate were observed at the three lagoon sites, although higher proportions of dead coralline algae were observed at Alofau Lagoon and Nu'uuli Lagoon and coralline algae was only observed at Ofu Lagoon. The substrate cover at Masefau and Vatia was also similar, although a slightly higher proportion of coralline algae were observed at Vatia, and higher proportions of algae and rubble were recorded at Masefau.
+
+The lowest coral cover was recorded at the Pago Pago Harbour sites of Aua Control (11%) and Aua (20%), and the CB-MPA site of Auto & Amaua (27%). The highest proportions of rubble and algae were also recorded at these sites, although lower proportions of rubble and higher proportions of coralline algae were recorded at Aua.
+
+Spearman rank correlation was carried out on the % live coral cover and the % totals of fish at each site and a significant correlation was found (ρ = 0.30, p = 0.025).
+
+![](_page_126_Figure_1.jpeg)
+
+Figure 3.21. Percent composition of substrate cover recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Numbers represent % composition of each substrate. Rb = Rubble, CA = Coralline Algae, DCA = Dead Coralline Algae
+
+#### *3.5.2 Coral species diversity*
+
+The Shannon-Wiener species diversity was calculated for the live coral species recorded at each site and the results are shown in figure 3.23.
+
+![](_page_127_Figure_3.jpeg)
+
+**Figure 3.22.** Mean (± SD) of Shannon-Wiener diversity index of live coral species observed and recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Continuous horizontal line indicates mean Shannon-Wiener species diversity observed during the whole survey (1.4 ± 0.4). Total number of species, N = 44. Protection from fishing activity: CB-MPA = Community-based Marine Protected Area, sMPA = statutory Marine Protected Area, None = area of no protection. Lagoon sites are indicated by \*.
+
+The highest coral species diversity was recorded at Ofu Lagoon (2.2 ± 0.2) and the mean Shannon-Wiener species diversity was > 1.4 (the mean Shannon-Wiener species diversity recorded over the whole survey) at 3 other sites; Masefau (1.8 ±0.4), Fagatele Bay (1.7 ± 0.2) and Aua (1.5 ± 0.2). Relatively moderate coral species diversity was recorded at the remaining sites and the lowest Shannon-Wiener species diversity was recorded at the unprotected site of Aua Control (0.7 ± 0.4).
+
+Spearman rank correlation was carried out on the Shannon-Wiener diversity indices for coral species and fish species however no significant correlations were found (ρ = 0.05, p = 0.165).
+
+#### *3.5.3 Indicator fish species*
+
+A study by Green (2002) showed that healthy coral communities of branching acropora and pocillopora species were shown to be closely associated with reef fish species such as the pomacentrid *Plectorglyphidodon dickii,* the chaetodontid *Chaetodon trifascialis,* and the labrid *Labrichthys unilineatus*.
+
+Figure 3.24 shows the distribution of these species across the sites as shown on a 2 dimendional MDS ordination plot. The total cover of all species of *Pocillopora* coral were combined, along with the *Acropora* coral species and the *Porites* coral species and the results are shown on an MDS ordination plot in figure 3.25. The main coral species from each genus are shown on MDS ordination in figures 3.26 and 3.27.
+
+The highest % cover of *Acropora* coral species was observed at the neighbouring sites of Alofau and Faga'itua which was mainly composed of the species *Acropora microphthalma* and the highest cover of the branching coral *Pocillopora damicornis*. The chaetodontid *C. trifascialis* was only observed at these sites, and in a higher abundance at Alofau than at Faga'itua.
+
+The highest abundance of the tubelip wrasse *Labrichthys unilineatus* was observed at Masefau where a relatively moderate % cover of the branching coral species *Porites rus*  was also observed. A moderate abundance of *L. unilineatus* was observed at Aua Control, where a moderate % cover of *Pocillopora damicornis* was recorded. Relatively low abundance of *L. unilineatus* were observed at Faga'itua, Alofau , which may be associated with the high cover of *A. microphthalma*, and also at Aua where relatively moderate cover of the branching coral *Pocillopora damicornis* was observed.
+
+The pomacentrid *Plectroglyphidodon dickii* was only observed at the CB-MPA site of Vatia where high cover of the branching coral species *Pocillopora verrucosa* and *Porites cylindrica* was also recorded.
+
+The three indicator species were absent at Ofu Lagoon, Fagatele Bay, Nu'uuli Lagoon and Auto & Amaua, which were all sites with low to moderate percent cover of branching coral species.
+
+The highest % cover of the branching species *Porites cylindrica* was observed at Alofau and Alofau Lagoon with relatively moderate cover observed at Vatia, Fagatele Bay, and Nu'uuli Lagoon and relatively low cover at Masefau and Faga'itua.
+
+#### *a) Labricthys unilineatus*
+
+![](_page_129_Picture_2.jpeg)
+
+#### *b) Chaetodon trifascialis*
+
+![](_page_129_Picture_4.jpeg)
+
+#### *c) Plectroglyphidodon dickii*
+
+![](_page_129_Picture_6.jpeg)
+
+**Figure 3.23.** 2-dimensional MDS configuration based on Bray-Curtis coefficient similarities (stress = 0.08) from √–transformed reef fish species abundance data recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Superimposed circles of increasing size with increasing abundance of the indicator fish species a) *Labricthys unilineatus,* b) *Chaetodon trifascialis,* c) *Plectroglyphidodon dickiii.* 
+
+#### a) *Acropora* spp.
+
+![](_page_130_Picture_2.jpeg)
+
+#### b) *Pocillopora* spp.
+
+![](_page_130_Picture_4.jpeg)
+
+#### c) *Porites* spp.
+
+![](_page_130_Figure_6.jpeg)
+
+**Figure 3.24.** 2-dimensional MDS configuration based on Bray-Curtis coefficient similarities (stress = 0.08) from √–transformed reef fish species abundance data recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Superimposed circles of increasing size with increasing % cover of the coral species: a) *Acropora* spp.*,* b) *Pocillopora* spp., c) *Porites* spp.
+
+#### a) *Acropora microphthalma*.
+
+![](_page_131_Picture_2.jpeg)
+
+#### b) *Porites cylindrica*
+
+![](_page_131_Figure_4.jpeg)
+
+#### c) *Porites rus*
+
+![](_page_131_Figure_6.jpeg)
+
+**Figure 3.25.** 2-dimensional MDS configuration based on Bray-Curtis coefficient similarities (stress = 0.08) from √–transformed reef fish species abundance data recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Superimposed circles of increasing size with increasing % cover of the coral species: a) *Acropora microphthalma*.*,* b) *Porites cylindrica*., c) *Porites rus*.
+
+#### a) *Pocillopora damicornis*
+
+![](_page_132_Picture_2.jpeg)
+
+#### b) *Pocillopora meandrina*
+
+![](_page_132_Figure_4.jpeg)
+
+#### c) *Pocillpora verrucosa*
+
+![](_page_132_Figure_6.jpeg)
+
+**Figure 3.26.** 2-dimensional MDS configuration based on Bray-Curtis coefficient similarities (stress = 0.08) from √–transformed reef fish species abundance data recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Superimposed circles of increasing size with increasing % cover of the coral species: d) *Pocillopora damicornis*.*,* e) *Pocillopora meandrina*., f) *Pocillopora verrucosa*.
+
+#### **3.6 Summary**
+
+A summary of the main total fish and target f ish assemblage characteristics recorded at each site was developed by ranking each characteristic sites into relative categories of low, medium or high as shown in table 3.24. The rank for each characteristic at each site is shown in table 3.25.
+
+**Table 3.20.** Criteria for separating the mean total fish and target fish assemblage characteristics into ranks of low (L), medium (M) or high (H). Mean values for each characteristic were recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004.
+
+| Population characteristic (means) |             | Low (L) | Medium (M) | High (H) |
+|-----------------------------------|-------------|---------|------------|----------|
+|                                   | Total fish  | 0-14    | 15-19      | > 20     |
+| Number of species                 | Target fish | 0-4     | 5-7        | >8       |
+|                                   | Total fish  | 0-1.9   | 2.0-2.1    | >2.2     |
+| Species diversity (H')            | Target fish | 0-0.9   | 1-1-4      | >1.5     |
+| Abundance                         | Total fish  | 0-59    | 60-99      | >100     |
+|                                   | Target fish | 0-19    | 20-39      | >40      |
+| Biomass (kg / 250 m2<br>)         | Total fish  | 0-15    | 16-30      | >30      |
+|                                   | Target fish | 0-8     | 9-18       | >18      |
+| Target composition (%)            | -           | 0-24    | 25-39      | >40      |
+
+**Table 3.21.** Summary table of mean total fish and target fish assemblage characteristics recorded during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Protection from fishing activity: CB-MPA = Community-based Marine Protected Area, sMPA = statutory Marine Protected Area, None = area of no protection. Species diversity measured by Shannon –Wiener diversity index (H'). \* represent lowest or highest value.
+
+| Protection | Site              | Target<br>fish | No. of species |        |       | Species<br>diversity (H') | Abundance |        | Biomass<br>(kg / 250 m2<br>) |        |
+|------------|-------------------|----------------|----------------|--------|-------|---------------------------|-----------|--------|------------------------------|--------|
+|            |                   | (%)            | Total          | Target | Total | Target                    | Total     | Target | Total                        | Target |
+|            | Alofau            | M              | M              | M      | H     | H                         | H         | M      | H                            | M      |
+| A          | Alofau<br>Lagoon  | M              | L              | M      | L     | M                         | M         | L      | M                            | L      |
+| MP         | Aua               | M              | L              | M      | M     | M                         | L         | L      | L                            | L      |
+| CB-        | Auto &<br>Amaua   | H              | H              | M      | L     | H                         | H         | H      | M                            | M      |
+|            | Vatia             | H              | L              | M      | H*    | M                         | L         | M      | M                            | M      |
+| A          | Fagatele<br>Bay   | H              | M              | H      | L*    | H                         | M         | H      | H                            | H      |
+| MP<br>s    | Ofu<br>Lagoon     | H*             | M              | H*     | H     | H*                        | M         | H*     | H                            | H*     |
+|            | Aua<br>Control    | L*             | L*             | L*     | H     | M                         | L*        | L*     | L*                           | L*     |
+|            | Faga'itua         | M              | L              | M      | M     | L*                        | H*        | H      | H*                           | M      |
+| None       | Masefau           | M              | H*             | H      | H     | H                         | H         | H      | H                            | M      |
+|            | Nu'uuli<br>Lagoon | L              | L              | M      | M     | M                         | L         | L      | L                            | L      |
+
+# **4 Discussion**
+
+#### **4.1 Reef fish species**
+
+Objective 5: To estimate the reef fish species number and diversity and to analyse the distribution and composition of reef fish and target reef fish species number and diversity at each site
+
+#### *4.1.1 Total number of fish species*
+
+In total, 98 species representing 22 families of reef fishes were identified and recorded during the study period. Wass (1984) recorded a total of 991 species and 113 families of fishes in the archipelago of Samoa, and of these, 890 were considered shallow water (at depths less than 60m) or reef inhabiting species. Therefore the fish recorded during this study only represent 11% of the total number of confirmed fish species in Samoa.
+
+Of the total reef fishes recorded, a subset of target fishes were identified and consisted of 41 species of 11 reef fish families, representing approximately 50% of the complete set of fish species observed.
+
+The study was limited to the reef flat and shallow lagoon areas up to 3m in depth, which can explain the low percentage of the total fish species recorded. McCardle (2003) statistically analysed reef fish and coral reef data recorded over two decades during surveys on the islands of the Samoan archipelago and found that the number of fish species increased with depth. Birkeland *et al.* (1996) also noted that reef flats in the Samoan archipelago were characterised by low fish species richness with distinctive communities that consist of approximately 50% of the number of families recorded in other habitats.
+
+Additionally, this study only included a restricted species list of those families that are amenable to visual census techniques, resulting in some of the most species rich families such as Gobiidae, Blennidae, and Holocentridae, being omitted from the survey. Data collection methods were also limited to observational snorkelling, and many of the fast-swimming species are able to avoid detection by the observer.
+
+#### *4.1.2 Fish species diversity*
+
+The highest mean reef fish species diversity was observed at the CB-MPA protected site of Auto & Amaua, at which the highest species evenness and lowest species dominance was also observed, suggesting the presence of the most diverse and evenly distributed reef fish communities at this site. Highly diverse fish communities with low species dominance were also observed (in decreasing order of species diversity) at Masefau (no protection), the sMPA protected site of Ofu lagoon, Alofau (CB-MPA), and Fagatele Bay(sMPA).
+
+Analysis of the subset of target reef fish species showed that the most diverse target fish communities were found at the same five sites, however, Ofu Lagoon exhibited the highest species diversity overall, and the target fish community at Fagatele Bay exhibited higher species diversity than at Alofau. Similarly, McCardle (2003) statistically analysed survey data collected in 2001 and found above average fish species numbers at Fagatele Bay, and a resurvey of the long term monitoring sites on Tutuila and Manu'a by Green (2002) showed that reef fish communities at Ofu Lagoon exhibited high species diversity.
+
+The CB-MPA protected sites of Vatia and the harbour site of Aua, exhibited moderate fish species diversity, and relatively high species evenness was also observed at these sites. In contrast, Green (2002) observed high fish species richness at Vatia in 2002, which was higher than at Masefau, and McCardle (2003) showed Vatia with the same species numbers as Fagatele Bay. Possible explanations for the lower fish species diversity observed at Vatia compared to Masefau during this study than in 2002 could be a result of coral damage by the bleaching events in 2002 and 2003 and the recent damage caused by Hurricane Heta, which hit the northern coast of Tutuila in January 2004. Relatively moderate coral cover was observed at both Masefau and Vatia during this study, however higher coral species diversity was observed at Masefau compared to Vatia which may suggest that the coral communities at Vatia experienced more hurricane damage. Another possible explanation for the lower fish species diversity at Vatia in this study may be a result of higher number of people (5) in the vicinity of the transects during the survey compared to the number present (2) during surveys carried out at other sites.
+
+Moderate species diversity was also observed at the unprotected site of Nu'uuli Lagoon, which was higher than the species diversity observed at the unprotected sites of Faga'itua and Aua Control in the harbour. Aua Control and the CB-MPA protected site of Alofau Lagoon were characterised by the lowest fish species diversity and highly dominated by one or a few species. In contrast, relatively low target fish species diversity was observed at Nu'uuli Lagoon and a relatively moderate species diversity exhibited by the target fish communities at Aua Control, suggesting that the higher fishing pressure at Nu'uuli Lagoon may have resulted in lower numbers of target fish species. Observations at Nu'uuli Lagoon and Faga'itua are consistent with results obtained by McCardle (2003) that showed below average species numbers at these sites, and similarly Green (2002) observed low to moderate fish species numbers at sites in Pago Pago Harbour. Low to moderate fish diversity at the harbour sites of Aua and Aua Control, and the lagoon sites of Alofau and Nu'uuli may be related to the relatively low to moderate coral species diversity (significantly correlated to fish species diversity) and percent coral cover also observed at theses sites.
+
+Relatively high fish species diversity at Ofu Lagoon, Masefau and Fagatele Bay may be explained by the significant correlation with the relatively high coral species diversity also observed at these sites. Additionally, the highest coral cover and relatively moderate coral species diversity was recorded at Alofau, relating to the relatively high reef fish diversity, however similar coral cover and coral species diversity was also recorded at the unprotected site of Faga'itua, where the least diverse fish communities were observed. A possible explanation for the low fish diversity at Faga'itua could be the effects of overfishing as it is not protected against the high fishing pressure that occurs around the south coast of Tutuila.
+
+The high fish species diversity observed at Auto & Amaua may also be related to the protection status of the site as it is unlikely to be associated with the relatively low coral cover and coral species diversity observed there. Auto & Amaua had been protected from fishing activity by its CB-MPA status for 15 months prior to the start of this study and previous studies on marine reserves have shown that fish species diversity rapidly increases in response to the cessation of fishing (Roberts, 1995b; Halpern & Warner, 2002; Russ & Alcala, 2004).
+
+Reef fish species numbers at both CB-MPA protected sites of Alofau and Auto & Amaua were higher than at the non-protected site of Faga'itua by around 40%, however the difference in target fish diversity was higher between Alofau and Faga'itua than between Auto & Amaua and Faga'itua, suggesting the presence of more target fish species at Alofau than at Auto & Amaua. Similarly, studies in Kenya have shown that enforcement of no-take regulations in marine reserves can lead to higher fish species diversity compared to nonreserve areas (McClanahan, 1995, McClanahan & Mangi, 2001).
+
+A relatively small difference in fish species numbers was observed between the CB-MPA protected site of Aua and the adjacent unprotected Aua Control, however the number of target reef species was 65% higher at Aua than at Aua Control. A meta-analysis by Côté *et al*. (2001) showed a significant increase of 11% in fish species number between marine reserves and adjacent non-marine reserves. All the CB-MPA protected sites showed a higher mean fish species number than their respective adjacent non-protected areas, with the exception of Vatia, where mean number of total species and target species was around 50% lower than the adjacent non-protected site of Masefau. However, there is a possibility that the differences observed between reserve and non-reserve areas during his study were already present before the CB-MPA was established as thee are no data on the state of the fish communities at the sites prior to this study.
+
+#### *4.1.3 Indicator species*
+
+Green (2002) identified three fish species in American Samoa that rely on healthy branching coral communities and one of these was the chevroned butterflyfish *Chaetodon*  trifascialis. During this study, the chaetodontid species was only observed at the neighbouring sites of Alofau and Faga'itua which were also sites with the highest percent cover of the branching coral species *Acropora microphthalma* and *Pocillopora damicornis*. Another species identified by Green (2002) was the pomacentrid *Plectroglyphidodon dickii* which was only observed at Vatia along with the branching coral species *Pocillopora verrucosa* and *Porites cylindrica*. A survey on the changes in coral reef communities on Tutuila by Birkeland *et al*. (1996) showed that the abundance of *P. dickii* decreased between 1978 and 1995 which may explain the relatively low occurrence of *P. dickii* on the transects during this study.
+
+The labrid *Labrichthys unilineatus* was also found by Green (2002) to be associated with branching coral communities and during this study, *L unilineatus* was observed in relatively high abundances at Masefau where moderate percent cover of the branching *Porites rus*
+
+was also recorded. A relatively moderate abundance of the labrid species was observed at the harbour site of Aua Control, and in a relatively low abundance at the neighbouring site of Aua. These observation contrast with results found by Green (2002) that the indicator species were rare or less abundant in the harbour area, however, its presence at the harbour sites during this study may be related to the presence of a moderate percent cover of the branching coral species *P. damicornis* at both harbour sites and a relatively low percent cover of *Acropora abratanoides* at Aua. This is an indication of the recovery of the coral and fish communities in the harbour, which was also documented by Kelty & Kuartei (2004).
+
+A relatively low abundance of *L. unilineatus* at Faga'itua and Alofau may be related to the relatively high percent cover of the branching coral species *A. microphthalma* and *P. damicornis*.
+
+These indicator species were absent at Ofu Lagoon, Fagatele Bay, Nu'uuli Lagoon and Auto & Amaua, which were all sites with low to moderate percent cover of branching coral species. Green (2002) also found the indicator species uncommon at Ofu Lagoon, which can be explained by the recurring low to moderate populations of the Crown-of-Thorns starfish *Acanthaster planci,* which feed on branching coral species.
+
+#### **4.2 Reef fish abundance**
+
+**Objective 6:** *To estimate the total and target reef fish abundance and to analyse the distribution and composition of reef fish and target reef fish abundance at each site* 
+
+The highest mean reef fish abundance was observed at the unprotected site of Faga'itua and relatively high mean reef fish abundances were observed at the CB-MPA protected Alofau and Auto & Amaua, the unprotected site of Masefau, and the sMPA protected sites of Fagatele Bay and Ofu Lagoon. Similarly, extremely high abundances of reef fish were recorded at Masefau by Green (2002), which was attributed to high increases in coral cover and fish numbers reported there between 1996 and 2001. The same sites also exhibited the highest mean target fish abundances, however the target fish were most abundant at the sMPA-protected sites of Fagatele Bay and Ofu lagoon. Relatively high fish densities were also recorded at Ofu Lagoon in 2001 by Green (2002), however, the density of the major fisheries families at Fagatele Bay were found to be relatively low in possibly as a result of overfishing. The relatively high abundance of target fish in this study suggests that the target fish communities may have recovered since 2001.
+
+With the exception of Faga'itua, these sites also exhibited the highest fish species diversity. The high mean total abundance and low species diversity observed at Faga'itua can be attributed to high abundances of the dominant pomacentrid species, *Stegastes nigricans* and the labrid species *Thalassoma hardwicke*, which were observed in variable densities along the transects. The high mean fish abundance observed at Faga'itua may also be attributed to the high percent coral cover recorded at the site, which was dominated by the branching coral species *Acropora microphthalma*, which agrees with the study on Hawaiian reefs by Friedlander *et al.* (2003) that showed higher fish abundance appeared to be influenced by high cover of branching coral. High percent cover of *Acropora microphthalma* was also recorded at the neighbouring site of Alofau, along with a high proportion of the branching coral species *Porites cylindrica*, which may also be a reason for the high fish abundances recorded at the site. Similarities in the fish community structure based on the complete fish abundance data set were found between Alofau and Faga'itua, as a result of high dominance at both sites by the pomacentrid *Stegastes nigricans*.
+
+*Porites cylindrica* was also observed in high percent cover at Fagatele Bay and Vatia, which may explain the similarities in fish communities found between the two sites. High percent cover of another branching coral species, *Pocillopora verrucosa* was also observed at Vatia and at Masefau.
+
+Friedlander *et al.* (2003) also suggested that the occurrence of embayments was related to higher fish abundances at the sites studied in Hawaii, which may be used to explain most of the distribution patterns of high fish abundance observed during this study. The sites of Auto & Amaua, Faga'itua, and Alofau are all located in a large embayment, the reef flats at Vatia and Masefau are located in large narrow embayments, and the reef flat at Fagatele Bay is located in an embayment created by a collapsed volcano.
+
+The relatively high fish abundance and the highest mean abundance of target fish that was recorded at Ofu lagoon may be attributed to the presence of the most diverse coral species community and also its location in the Manu'a islands, which Green (2002) showed to have been affected by overfishing to a much lower degree than the reef fish communities on the main island of Tutuila.
+
+The lowest mean fish abundance was observed at the unprotected sites of Aua Control and Nu'uuli Lagoon and the two CB-MPA sites of Vatia and Aua, and the lowest mean target fish abundances were also observed at these sites with the exception of Vatia, where relatively moderate abundances of target fish were observed. The relatively low abundances observed at this site were discussed in section 4.1.2 and may also be related to the effects of overfishing after the CB-MPA was opened for one night of fishing at the beginning of 2004 after being closed to fishing for two years, which has been shown to be detrimental to fish populations (Russ & Alcala, 1999).
+
+The relatively low fish abundance recorded at the unprotected site of Nu'uuli Lagoon, may be a result of low coral cover and coral diversity as well as high fishing pressure and high pollution at the site due to its proximity to a highly populated area. The lowest fish abundances recorded at the Pago Pago Harbour sites of Aua and Aua Control may be attributed to the lowest coral cover and the general historical degradation of habitat and water quality that has occurred in the harbour over the past few decades. Aua Control was found to be distinct from all the other sites as a result of the fish community being dominated by the pomacentrid *Stegastes albifasciatus* and the target fish communities at both Aua and Aua Control were distinguished from the other sites by a high dominance of the scarid *Chlorurus sordidus* (initial phase), and the acanthurid *Acanthurus triostegus*.
+
+#### *4.2.1 Reef fish families*
+
+The five main fish families in decreasing order of total abundance were Pomacentridae, Acanthuridae, Labridae, Chaetodontidae and Scaridae, which were also the most abundant families recorded by Green (2002) to have caused an increase in fish density between 1996 and 2002. Pomacentridae and Acanthuridae were the two most abundant families in this study, and were also found by Green (2002) to account for the majority of the increase in fish density between 1996 and 2002.
+
+Pomacentrids are closely associated with coral reefs and inhabit the shallower depths (Green, 2002), and are more likely to be recorded in higher numbers during a visual census survey compared to the more mobile roving acanthurid species owing to their higher observed abundances during this study. Low abundances were also observed of transient species (that move on and off the reef) such as Lethrinidae and Carangidae, however, Green (2002) found lower abundances of these target fish families along with Lutjanidae and Serranidae, which can be attributed to the effects of overfishing on the main island of Tutuila.
+
+Pomacentridae were the most abundant family at all sites apart from the sMPA-protected site of Fagatele Bay and the CB-MPA site of Vatia, where the lowest proportion of pomacentrids were observed. Relatively low proportions of pomacentrids were also observed at the unprotected sites of Masefau and the sMPA-protected site of Ofu lagoon. The highest proportions of pomacentrids were observed at the unprotected sites of Aua Control and Nu'uuli lagoon, and the fish communities were dominated by the species *Stegastes albifasciatus* and *Stegastes nigricans,* respectively. Faga'itua, and the CB-MPA protected sites of Aua, Alofau, Alofau lagoon, and Auto & Amaua all shared similar moderate proportions of pomacentrids at 60%.
+
+The sites where the highest proportions of pomacentrids were observed are all located on the southern coast of Tutuila, and with the exception of the Pago Pago Harbour sites of Aua and Aua Control, the highest fishing effort occurs either at the sites (Nu'uuli Lagoon and Faga'itua) or outside the CB-MPAs. This observation agrees with results from a study by Christie *et al.* (2002) that involved the comparison of coral and fish communities inside and outside community-based MPAs in the Philippines and found that intense fishing outside the reserves may have been reducing the predatory fish and subsequently allowing pomacentrids to thrive on the reef flats.
+
+#### *4.2.2 Target reef fish*
+
+The highest proportions of target reef fish were observed at the sMPA sites of Ofu Lagoon and Fagatele Bay, and the CB-MPA site of Vatia, with around 50% target fish in the total fish observed at each site. High proportions at the sMPA sites may be attributed to the longer period of protection from intense fishing, which is similar to results found be Ruttenberg (2003) that showed a 50% higher fish density at lightly fished sites compared to highly fished sites.
+
+The higher percentage of target fish at the northern CB-MPA site of Vatia compared to the southern CB-MPA sites of Auto & Amaua, Aua and Alofau may be due to higher fishing intensity around the south coast of Tutuila compared to the moderate fishing intensity that occurs along the north coast (Jacobs, 2004).
+
+A higher proportion of target fish was recorded at Auto & Amaua than at Alofau and Aua, which may be attributed to the fish populations being fully protected from fishing for 16 months prior to the start of this study, whereas the CB-MPA site of Alofau has been open to local fishermen on Saturdays since for 13 months prior to the start of this study. The proportions of target fish at the unprotected sites of Masefau and Faga'itua were also higher than at Alofau and Alofau lagoon, which suggests that the target fish communities have been affected by the weekly fishing activity that occurs at the site. The proportion of target fish was higher at Masefau than at Faga'itua which can be attributed to the lower fishing intensity on the northern coast of Tutuila, however the high proportion of target fish at Faga'itua may be due to the observation of large schools of the target fish *Thalassoma hardwicke*.
+
+Low to moderate proportions of target fish were observed in the fish communities at Aua, Alofau lagoon, Alofau, and Nu'uuli Lagoon and the lowest was observed at Aua Control. The high fishing pressure that occurs at Nu'uuli Lagoon may be the reason for the low proportion of target fish observed at the site, whereas the fish and coral communities at the Pago Pago Harbour sites of Aua and Aua Control are still recovering from decades of anthropogenic impacts.
+
+Acanthuridae are currently the most heavily targeted fish family by the subsistence fishery of American Samoa, however it was the most abundant target fish family recorded during this study. The highest proportions to the total fish abundance and to the target fish abundance were observed at the sMPA site of Fagatele Bay and the CB-MPA site of Vatia, and high proportions were also recorded at the unprotected site of Masefau, the CB-MPA sites of Alofau and Alofau Lagoon, and the sMPA-protected site of Ofu Lagoon. These results agree with observations made by Green (2002) that showed high densities of Acanthuridae at Masefau and Fagatele Bay in 2001 which was attributed to the to the increase in coral cover at the sites.
+
+Acanthurids are herbivores and they are known to enhance the settlement rate of corals colonies (Jennings & Lock, 1996; Page, 1998). Results from this study show that sites where high proportions of the fish community are Acanthuridae are also characterised by moderate to high percent coral cover (Alofau, Fagatele Bay, Alofau Lagoon, Vatia) and high coral species diversity (Ofu Lagoon, Masefau, Fagatele Bay).
+
+The lowest proportions of Acanthuridae were observed at the unprotected sites of Aua Control and Faga'itua and the CB-MPA sites of Aua and Auto & Amaua, which apart from Faga'itua are all sites with the lowest percent coral cover and highest percent rubble cover. Faga'itua was observed with the highest percent coral cover, however the fish population was highly dominated by pomacentrids and labrids with a low proportion of Acanthuridae, Acanthurids are the most commonly targeted fish and the lower proportions at Faga'itua may be a result of the high fishing intensity that occurs at the site.
+
+Similar results have been shown by Christie *et al.* (2002) who found that high fishing intensity caused a reduction in predatory fish and subsequently allowed pomacentrids to thrive on the reef flat. Acanthuridae compete with pomacentrids for algae, therefore a reduction in acanthurids at Faga'itua may have resulted in a proliferation of pomacentrids.
+
+#### *4.2.3 Target fish abundance*
+
+The most abundant acanthurid was the striped bristletooth *Ctenochaetus striatus*, which is also the most abundant fish in American Samoa (Green 2002). The highest abundance was recorded at the sMPA-protected site of Fagatele Bay, and relatively high abundances were observed at the unprotected site of Masefau, and the CB-MPA sites of Alofau, Alofau Lagoon, and Vatia. *C. striatus* was the highest contributing target fish species at all sites apart from Aua and Auto & Amaua where it was observed in relatively low abundances, and at Aua Control where it was absent.
+
+Another important component of the fisheries is the blue-banded surgeonfish, *Acanthurus lineatus*, which was the 6th most abundant target fish. The highest mean abundance of *A. lineatus* was observed at the CB-MPA site of Vatia, however at only 26% of the highest mean abundance of *C. striatus*. Relatively high abundances were also observed at the sMPA-protected Fagatele Bay and the unprotected site of Masefau. Low mean abundances of *Acanthurus lineatus* were observed at the remaining sites, however it was absent from the harbour site of Aua Control, the unprotected site of Faga'itua and the lagoon sites at Alofau and Nu'uuli. The distribution of higher abundances of *A. lineatus* at sites along the moderately fished northern coast of Tutuila, and the CB-MPA sites on the southern coast and its absence at the highly fished site of Faga'itua situated between Auto & Amaua and Alofau suggest that it may have been subjected to fishing pressure at Faga'itua. The low total abundance of this commonly targeted reef fish that was observed during this study may be either due to the location of their preferred feeding territories being in the surf zone of the outer reef flat (Craig, 1996) or the effects of overfishing as reports show that it accounted for 39% by weight of artisanal catches in 1994 (Craig *et al*., 1997).
+
+Scaridae was the fifth most abundant reef fish family and the highest proportion was observed at the sMPA site of Ofu lagoon and it was the second most dominant target reef fish family at the harbour sites of Aua Controland Aua and at the lagoon sites of Alofau and Nu'uuli. Historically Scaridae were one of the most commonly targeted fish family, however scarid species have been overfished over the past few decades and they were also heavily exploited by the destructive nighttime SCUBA fishery that took place between 1995 and 2001 (Page, 1998). A re-survey of survey sites around Tutuila by Green (2002) also showed a decline in the abundance of scarids observed.
+
+The most abundant scarid species was the initial phase of the bullethead parrotfish *Chlorurus sordidus*, and it was observed in its highest abundances at these sites.
+
+The distribution of scaridae at these survey sites suggests that their preferred habitats are lagoon sites and the low coral cover substrate at the harbour sites. The initial phase of the dark capped parrotfish *Scarus oviceps* was most abundant at the neighbouring sites of Faga'itua, Alofau, and Alofau lagoon, however, it was absent at the other sites apart from relatively low mean abundances at the unprotected sites of Masefau and Nu'uuli lagoon.
+
+Balistidae or triggerfishes were the 6th most abundant reef fish family and the 4th most abundant target fish family during this study. The highest abundances of Balistidae were observed at the harbour site of Aua and Nu'uuli Lagoon, which may be attributed to the lower percent coral cover and higher algal and coral rubble cover at these sites. The same total abundance of target fish and similar proportions of the same target families were observed at Aua and Nu'uuli Lagoon, however the proportion of target fish was higher at Aua, which suggests that the harbour site of Aua is recovering from decades of degradation and that the unprotected site of Nu'uuli Lagoon is being affected by overfishing.
+
+Groupers (Serranidae) were the 9th highest abundant fish family and the 6th most abundant target fish family, and considering it is considered one of the main target fish species in American Samoa, its low overall abundance during this study may suggest that Serranidae have been overfished. These results are consisted with a re-survey carried out by Green (2002) on Tutuila, who found that groupers only comprised a low proportion of the total fish abundance. The highest proportion of Serranidae was observed at Aua Control, although in relatively low abundances. A relatively high proportion of serranids were also observed at the CB-MPA protected sites of Auto & Amaua, Alofau Lagoon, Vatia and the sMPA protected site of Ofu Lagoon.
+
+#### **4.3 Reef fish biomass**
+
+**Objective 7***: To estimate fish lengths into categories of 5cm and converting the data into biomass to analyse the distribution and composition of reef fish and target reef fish biomass and the distribution of small fish (< 5cm) at each site.*
+
+The highest mean biomass of reef fish was observed at the unprotected site of Faga'itua, and relatively high mean biomass values were observed at the sMPA sites of Fagatele Bay and Ofu Lagoon, the CB-MPA site of Alofau, and the unprotected northern site of Masefau, all sites with the highest mean abundances of reef fish. The highest target reef fish biomass was recorded at Ofu lagoon and Fagatele Bay with relatively high target fish biomass recorded at Masefau, Faga'itua and the CB-MPA site of Vatia.
+
+These sites were found to exhibit similar fish community structure that was characterised by high proportions of the acanthurids *Ctenochaetus striatus, Zebrasoma scopas, Acanthurus triostegus,* and *Acanthurus nigricans*, the pomacentrid *Chrysiptera taupou,* the scarid *Chlorurus sordidus,* and the *chaetodontids Chaetodon reticulates, Chaetodon citronellus* and *Chaetodon trifasciatus.*
+
+The majority of the sites that exhibited high fish biomass are protected from fishing activity, which has been shown by numerous studies to be the most important factor in sustaining fish biomass (Jennings & Lock, 1996; Friedlander, 2003). The unprotected site of Masefau is located on the remote northern coast of Tutuila and is only subjected to low to moderate fishing pressure of subsistence methods by the local villagers, which is a similar situation to the fishing restrictions enforced at the partially protected sMPA site of Ofu Lagoon.
+
+In contrast, the unprotected site of Faga'itua is located on the populated southern coast of Tutuila and subsequently subject to relatively high fishing pressure. The extremely high total fish biomass at Faga'itua can be attributed to high abundance of the pomacentrid *Stegastes nigricans* which is associated with high percent cover of the branching coral species *Acropora microphthalma* that was observed at the site. The target fish biomass recorded at Faga'itua contributed less to the overall target fish biomass than the total fish biomass as a result of high abundances of low biomass *C. striatus* and the labrid *Thalassoma hardwicke*. The low biomass of the commonly targeted *C. striatus* may be due to the relatively high intensity of fishing that occurs at the site or it may be a suitable nursery ground for juvenile fish due to the presence of a high percent cover of branching coral which was also found by Friedlander (2004) to be an ideal habitat for juvenile fish. Friedlander (2004) also found that the highest fish biomass at sites surveyed in Hawaii were observed at areas that were not directly exposed to waves and have developed high coral complexity in the form of branching coral species. This observation agrees with result from this study, with high fish biomass observed at Alofau, where high percent cover of branching coral was also recorded and at Fagatele Bay, Vatia and Masefau, where moderate percent cover of branching coral was observed.
+
+The overall fish biomass was higher at Fagatele Bay than at Ofu Lagoon, however, the target fish biomass was higher at Ofu Lagoon than at Fagatele Bay. Similar result were found by Green (2002) who showed that the highest fish biomass was observed at sites surveyed on the island of Ofu, which was mainly attributed to the presence of target fish families, and results also showed that the biomass of the major target fish families were relatively low at Fagatele Bay.
+
+The high target fish biomass at Ofu Lagoon was attributed to high abundance of the acanthurid species *Ctenochaetus striatus,* and a low abundance of a high biomass lethrinid species *Gnathodentex aurolineatus*. Green (2002) found that *C. striatus* was responsible for an increase in biomass at Ofu Lagoon between 1996 and 2002, along with the acanthurid *Acanthurus triostegus* and the pomacentrid *Stegastes nigricans.* 
+
+At Fagatele Bay, the total fish and the target fish community was more dominated by high abundance of the acanthurid *C. striatus* rather than a high biomass of the species. The total fish biomass was also dominated by high abundances of the pomacentrid *Stegastes fasciolatus* and the chaetodont *Chaetodon reticulatus*. The target fish biomass at Fagatele Bay was lower than at Ofu Lagoon due to the dominance of highly abundant moderatebiomass acanthurid species *C. striatus* and *Z. scopas* compared to the high biomass species observed at Ofu Lagoon.
+
+Moderate mean total fish biomasses were observed at the CB-MPA protected sites of Auto & Amaua, Vatia and Alofau lagoon, all of which also exhibited moderate fish abundances. In contrast to the high total fish biomass observed at Alofau, only low to moderate target fish biomass was recorded at Alofau, whereas high target fish biomass was recorded at Vatia.
+
+Alofau, Vatia and Alofau Lagoon were dominated by *C. striatus*, however the species was present in a lower abundance but a higher biomass at Vatia than at Alofau and Alofau Lagoon which suggests that the opening of the Alofau reserve once a week may be reducing the mean size of the common target fish species.
+
+Total mean fish abundances were higher at Auto & Amaua than at Fagatele Bay and Ofu Lagoon, however the total biomass was lower at Auto & Amaua. The high species diversity and abundance at Auto & Amaua suggests that the site is characterised by an even distribution of species with moderate biomass and one or two species with higher biomass, which can be attributed to dominance by the labrid species *Novaculichthys taeniourus*.
+
+The lowest total and target biomasses were observed at Nu'uuli lagoon and the Pago Pago Harbour sites of Aua Control and Aua. The low biomass recorded at Nu'uuli lagoon may be a result of the high fishing intensity that occurs at the site. Nu'uuli Lagoon is also directly exposed to the southeasterly trade winds, which was found to be an important factor in limiting fish biomass at sites studied in Hawaii by Friedlander *et al.* (2003). The low species diversity and abundance and subsequent low biomass at Nu'uuli lagoon, suggests that only a low number of species contributed to the total biomass. At Nu'uuli lagoon the pomacentrid *Stegastes nigricans* dominated the total biomass, whereas the acanthurid *Ctenocaetus striatus* dominated the target fish biomass.
+
+The total and target fish biomass was highest at the CB-MPA site of Aua than at the adjacent Aua control, which as discussed previously*,* may be a result of higher coral cover and coral species diversity at Aua. Friedlander *et al*. (2003) also found that locations with small-scale habitat complexity tend to give refuge to large numbers of small-bodied fish individuals but the absence of large-scale habitat complexity means that larger individuals cannot be supported.
+
+The total fish biomass at Aua was dominated by moderate abundances of the low biomass pomacentrid species *Chrysiptera brownriggi* and *Plectroglyphidodon leucozona*, whereas the target fish biomass was dominated by low abundances of *C. striatus* and the balistid *Rhinecanthus aculeatus*. At Aua Control the dominant species were also low biomass pomacentrids but of different species, namely *Stegastes albifasciatus* and *Stegastes nigricans*. The target fish biomass at Aua Control was dominated by the single observation of the high biomass bluefin trevally *Caranx melampygnus* and lower biomasses of the acanthurid *Acanthurus triostegus* and the lutjanid *Lutjanus gibbus*.
+
+#### *4.3.1 Biomass of small fish (<5 cm)*
+
+The highest mean biomass of small fish (<5 cm) were recorded at the southeastern CB-MPA sites of Alofau, Alofau Lagoon, Auto & Amaua and Aua, whereas no small fish were observed at the northern sites of Vatia (CB-MPA) and Masefau (unprotected), or at Fagatele Bay on the south-western tip of Tutuila.
+
+The highest proportion of the small fish that were observed during this study were target fish families with small Acanthuridae only present at the four CB-MPA sites along with a relatively low biomass at Nu'uuli Lagoon. The highest biomass of small acanthurids was observed at Auto & Amaua along with the highest biomass of Labridae and a relatively low biomass of Scaridae. These results may suggest that spawning has recently occurred on the southeastern coast of Tutuila and not on the northern and western coasts, however the relatively low biomass of small fish at the unprotected southeastern site of Faga'itua suggests that the CB-MPA protection may be providing a refuge for juvenile fish.
+
+The highest biomass of Scaridae were observed at the Pago Pago Harbour site of Aua, and the three lagoon sites of Nu'uuli Lagoon, Ofu Lagoon and Alofau Lagoon. Relatively high biomass of juvenile Scaridae were also observed at Ofu Lagoon by Green (2002), and it was suggested that the site might be a nursery for juvenile fish.
+
+The harbour sites of Aua and Aua Control both showed a relatively high biomass of small Chaetodontidae and Scaride which again suggests that the reef fish populations are slowly recovering along with the coral communities as observed by Green (2002).
+
+#### **4.4 Protection status**
+
+**Objective 2:** *To identify differences in fish assemblage characteristics between and within three treatments characterised by different levels of protection from fishing activity which include statutory Marine Protected Area (sMPA), CB-MPA sites and sites not protected from fishing activity*
+
+#### *4.4.1 Reef flat sites*
+
+The CB-MPA sites have all been closed to fishing activity for a minimum of two years, however Vatia was opened for one day of intense fishing early in 2004 and Alofau has been open to local fishermen on a Saturday since May 2003. The sMPA site of Fagatele Bay is a partially protected area that has been protected from commercial fishing and destructive fishing methods for approximately 18 years. The unprotected reef flat sites are not currently, and have not previously been protected from fishing activity.
+
+The fish communities at the reef flat sites that are protected from fishing were significantly different from reef flat sites where fishing is permitted, however there was no significant difference in the target fish communities between reef flat site groups separated by different levels of protection.
+
+The total number of fish and target fish species diversity were higher (although not significantly) at the reef flat sites that are protected from fishing compared to the reef flat sites where fishing is permitted. Total fish species diversity was higher at the CB-MPA sites than at the sMPA sites, however target species diversity was higher at the sMPA sites than at the CB-MPA sites.
+
+Total fish abundance and target fish abundance was higher at the unprotected reef flat sites than at the sMPA and CB-MPA reef flat sites, with the target fish abundance at the CB-MPA sites lower than the sMPA sites. The higher abundance at the unprotected sites may be attributed to the extremely high abundance of the labrid species *Thalassoma hardwicke* observed in large schools at the unprotected site of Faga'itua. However, Friedlander *et al.* (2003) also found that fish abundance did not vary significantly between the various levels of protection from fishing, and that presence of high branching coral species, high habitat rugosity and differences in fish community structure was more influential on the difference in fish abundances between sites than protection from fishing.
+
+The highest total and target fish biomass was recorded at the sMPA reef flat sites, and the unprotected reef flat sites were higher than the CB-MPA sites. The higher fish biomass at the unprotected sites compared to the CB-MPA sites is likely to be a result of the extremely high abundance of *T. hardwicke* at the unprotected site of Faga'itua.
+
+#### *4.4.2 Lagoon sites*
+
+The three lagoon sites are all subject to different protection from fishing activity; with fishing activity at Ofu Lagoon partially restricted for the past 11 years, by only permitting subsistence fishing by local villagers, Alofau Lagoon is located in the CB-MPA of Alofau and was closed to fishing for 2 years until it was opened to fishing on Saturdays approximately 13 months prior to the commencement of this study, and at the unprotected Nu'uuli Lagoon where fishing is and always has been permitted.
+
+The fish community and the target fish community at Ofu Lagoon were found to be significantly different from the fish communities at Alofau Lagoon and the unprotected Nu'uuli Lagoon mainly as a result of the presence of different species and a more even distribution of abundant species at Ofu Lagoon.
+
+The fish community at the sMPA protected Ofu Lagoon showed significantly higher reef fish species diversity, target fish species diversity, fish abundance, target fish abundance (not significant), total fish biomass and target fish biomass (not significant), than the fish communities at the CB-MPA protected Alofau Lagoon and the unprotected Nu'uuli Lagoon. The fish community at Alofau Lagoon showed higher assemblage characteristics than the fish community at Nu'uuli Lagoon although the differences were not statistically significant. These results are similar to many other studies that have shown higher assemblage characteristics at areas protected from fishing compared to areas not protected from fishing activity, which include higher fish species diversity (McClanahan, 1995; Cóté *et al.,* 2001; McClanahan & Mangi, 2001; Friedlander *et al.*, 2003), higher fish abundances (Mosqueira *et al.,* 2000) and higher fish biomasses (Roberts & Polunin, 1992; Jennings & Lock, 1996). The significantly higher differences observed at Ofu Lagoon in the Manu'a Islands may also be attributed to the lower fishing pressure experienced in the Manu'a Islands, which was found by Green (2002) to have resulted in higher densities and biomass of fish families compared to Tutuila.
+
+#### **4.5 Summary**
+
+The main discussion points are summarised with quantification below. The summary table in section 3.6 shows the relative rank for each fish assemblage characteristic at each site.
+
+- **Total number of reef fish species**: 98 species representing 22 families of reef fishes were identified, representing 11% of the total shallow water or reef inhabiting species known to exist in the archipelago of Samoa. Of the total reef fishes recorded, a subset of target fishes were identified and consisted of 41 species of 11 reef fish families, representing approximately 50% of the complete set of fish species observed.
+- **Reef fish species diversity**: The highest mean fish species diversity was observed at the CB-MPA site of Auto & Amaua (H' = 2.66) and the highest mean target fish species diversity was observed at the sMPA site of Ofu Lagoon (H' = 10.4). The lowest mean total fish and target fish species diversity was observed at the unprotected site of Aua control (H' =1.6, H' = 2.3, respectively).
+- **Reef fish abundance:** The highest mean reef fish abundance was observed at the unprotected site of Faga'itua (131 ± 72.6) and the highest target reef fish abundance was observed at the sMPA site of Fagatele Bay (42.2 ± 7.7). The lowest mean total reef fish abundance and target reef fish abundance was observed at the unprotected site of Aua Control (38.2 ± 18.6 and 3.0 ± 3.5, respectively).
+- **Reef fish families**: The five major reef fish families were Pomacentridae, Acanthuridae, Labridae, Chaetodontidae, and Scaridae. Pomacentridae were the dominant family over the majority of the sites, with the exception of the sMPA site of Fagatele Bay (40%) and the CB-MPA site of Vatia (34%) where the percent proportion of Acanthuridae was 43% and 44%, respectively. The highest proportions of Pomacentridae were observed at the unprotected sites of Aua Control (79%) and Nu'uuli Lagoon (72%).
+
+- **Target reef fish:** The highest proportion of target reef fish in the total fish community was at the sMPA site of Ofu lagoon (52%), and the lowest percentage composition of target reef fish was observed at Aua control (9%).
+- **Target reef fish families**: The major target reef fish families were Acanthuridae (14.7 ± 10.2), Labridae (7.4 ± 8.3) and Scaridae (4.0 ± 5.4). The highest proportions of Acanthuridae were observed at the sMPA site of Fagatele Bay (84%), and the CB-MPA sites of Vatia (82%) and Alofau lagoon (72%). The lowest proportion of Acanthuridae was observed at the unprotected site of Aua Control (13%).
+- **Reef fish biomass**: The highest mean total fish biomass was observed at the unprotected site of Faga'itua (47.6 ± 2.3), and the highest mean target fish biomass was observed at the sMPA site of Ofu Lagoon (19.5 ± 1.0). The lowest mean total and target fish biomass was observed at the unprotected harbour site of Aua Control (3.8 ± 0.1 and 0.7 ± 0.1, respectively).
+- **Biomass of small fish (< 5 cm):** The highest mean biomass of small reef fishes was observed at the CB-MPA site of Auto & Amaua (18.4 ± 5.3) and the lowest mean biomass of small fishes was observed at the sMPA site of Ofu Lagoon (2.4 ± 1.0), however no small fish were recorded at Vatia, Fagatele Bay or Masefau.
+- **Protection status of fish communities:** The fish communities at the reef flat sites that are protected from fishing were significantly different from reef flat sites where fishing is permitted (sMPA sites, R = 0.21, p = 0.037, CB-MPA sites, R = 0.10, p = 0.023), whereas the fish communities at the lagoon sites were all significantly different from each other (R = 0.79, p = 0.001).
+- **Protection status of reef flat sites:** Total fish and target fish species diversity was higher at the CB-MPA reef flat sites (2.3 ± 0.4 and 1.5 ± 0.5 respectively), and the sMPA reef flat site of Fagatele Bay (2.26 ± 0.2 and 1.6 ± 0.3, respectively) than at the unprotected reef flat sites (2.1 ± 0.5 and 1.3 ± 0.6, respectively) (not significantly
+
+different). No significant differences were found between the total fish and target fish abundances at the sites with different levels of protection from fishing activity. The highest total and target fish biomass was recorded at the sMPA reef flat site (32.4 ± 10.6 and 7.2 ± 6.3, respectively), and the unprotected reef flat sites (27.3 ± 24.7 and 9.0 ± 7.7, respectively) were higher than the CB-MPA sites ((R = 0.11, p = 0.032 and 8.2 ± 6.3, respectively), however no significant differences were found.
+
+- **Protection status at the lagoon sites:** The fish community at the sMPA protected Ofu Lagoon showed significantly higher reef fish assemblage characteristics than the fish communities at the CB-MPA protected Alofau Lagoon and the unprotected Nu'uuli Lagoon: species diversity (R = 0.50, p = 0.008, R = 0.65, p = 0.008, respectively), target fish species diversity (R = 0.39, p = 0.008, R = 0.53, p = 0.008, respectively), fish abundance (not significant), target fish abundance (not significant), total fish biomass (R = 0.93, p = 0.008, and R = 0.95, p = 0.008, respectively), and target fish biomass (not significant). The fish community at Alofau Lagoon showed higher assemblage characteristics than the fish community at Nu'uuli Lagoon although the differences were not statistically significant.
+- **Reef fish assemblage characteristics:** The highest fish assemblage characteristics were observed at five main sites, which were the sMPA sites of Ofu Lagoon and Fagatele Bay, the CB-MPA sites of Alofau and Auto & Amaua, and the unprotected site of Masefau. These sites were all characterised by low fishing intensity, high percent coral cover and high coral species diversity. The lowest fish assemblage characteristics were exhibited by fish communities at the harbour sites of Aua and Aua control and the unprotected site of Nu'uuli Lagoon, all sites with the lowest percent coral cover and coral species diversity. Nu'uuli Lagoon is subject to high fishing intensity, whereas the harbour sites of Aua and Aua Control have been subject to decades of anthropogenic impacts.
+
+#### **4.6 Limitations & Future recommendations**
+
+#### *4.6.1 Success of the CB-MPAs*
+
+This study was restricted to collecting baseline data for the CB-MPA villages as no previous monitoring had been carried out at the sites therefore any measure of "success" or "failure" could not be determined. Coral reefs demonstrate high natural variation and changes and trends in fish assemblages and coral cover may only be detected after a series of repeated monitoring surveys in the same area over a long period of time. The future Monitoring Plan to be carried out by the DMWR in American Samoa will be able to utilise the baseline data collected during this study to monitor any changes in the coral reef habitat and fish assemblages that may result from the protection provided by the CBFMP.
+
+#### *4.6.2 Comparison between reserves and non-reserves*
+
+In American Samoa, most of the CB-MPAs were established with the aim of improving the declining quality of the coral reef habitat and fishery and therefore comparing between the fishery reserve and an adjacent non-reserve may result in differences that are due to habitat effects. In order to separate the effects of protection from those of habitat, future studies should involve collecting data before the implementation of the fishery reserve at three different intervals and then collecting data after the reserve has been established. Ideally, three or more reserves should be studied and each paired with an adjacent area and a Control site in order to reduce the effects of spillover from the reserve.
+
+#### *4.6.3 Survey method*
+
+• **Seasons**: The study period coincided with the winter season (June to September) and the associated southeasterly trade winds that affects the most accessible southern coast of Tutuila. Subsequently, strong cross-reef currents were present on the majority of reef flat sites approximately 1 hour before and after high tide; therefore survey periods were limited to 3 hours before high tide or 1 hour afterwards. Surveys were also limited to daylight hours and to reduce bias, surveys needed to be carried out at approximately the same time each day therefore survey time was limited. It is suggested that future studies be carried out during the
+
+- summer season between October and May when wave and current climates are calmer on the southern reef flats of Tutuila.
+- **Equipment:** Another limitation to the survey method was the restricted availability of accurate equipment to measure environmental variables such as temperature and salinity and an improvement to the method would involve the use of digital equipment to measure salinity and a thermometer that states the temperature to at least 0.1˚C. Additional measurements could include coral reef rugosity, and measurements of currents, waves and weather based on subjective scales.
+
+**Visual census technique**: Time was restricted during the surveys therefore only one pass of each transect could be made. An improvement to the visual census technique would be to survey each transect three times, counting different species each time as was done by Green (2002). The technique involves counting the large, highly mobile species (such as Scaridae, Lutjanidae and Lethrinidae) during the first count as the transect tape is being laid behind the observer by an assistant. The second count involves surveying medium sized mobile families (including most Acanthuridae, Chaetodontidae and Labridae), which are less disturbed by the presence of an observer. The final survey involves counting the small, site attached species (such as Pomacentridae), which are least disturbed by the presence of an observer.
+
+Another improvement to the visual census method would be to estimate fish lengths to the nearest 1cm rather than to the nearest 5cm as was done in this study, which would result in a more accurate calculation of fish biomass at each site. An additional method to the visual census survey would be to carry out a 15 to 30 minute timed swim at each site to reveal additional species that were not recorded during the transect census. A possible improvement to the visual census method carried out during this study may be to discount schools of fish that are observed on the transects, as the large school of labrids that were observed at the unprotected site of Faga'itua may have skewed the results and the subsequent analysis.
+
+• **Site replication**: Due to time restrictions, the sites were only surveyed once, and differences in factors such as weather conditions and the state of the lunar cycle may affect the fish assemblages at different sites, therefore given time the surveys at each site should be repeated ideally three times during a study period in order to provide a more accurate estimate of the fish assemblages at each site. The low fish abundances observed at Vatia may have been caused by a higher number of swimmers in the water during the surveys compared to the other sites surveyed, therefore such anomalies may be discovered by increasing the number of surveys carried out at each site.
+
+#### **4.7 Conclusion**
+
+The original aim of the project was to provide a quantitative description of reef fish communities to identify the differences in species diversity, abundance and biomass of reef fish assemblages and a subset of target reef fish between reef flat and shallow lagoon sites protected from fishing by Community-based MPA (CB-MPA) status, statutory Marine Protected Area (sMPA) status and sites with no protection from fishing. These aims were met and the hypothesis that fish communities at sites fully and partially protected from fishing would exhibit characteristics of higher species diversity, abundance and biomass than at sites not protected from fishing activity was shown to be true for the fish species diversity and the fish biomass values, however the fish abundances were higher at the unprotected sites.
+
+The higher abundance at the unprotected sites was a result of one site where a high abundance of one or two species was observed in large schools, which skewed the results. An overall pattern of higher fish assemblage characteristics at the protected sites was not obvious when the sites were analysed individually and strong variation was observed within each protection group. The highest fish assemblage characteristics were observed at five main sites, which were the sMPA sites of Ofu Lagoon and Fagatele Bay, the CB-MPA sites of Alofau and Auto & Amaua, and the unprotected site of Masefau. These sites were all characterised by low fishing intensity, high percent coral cover and high coral species diversity.
+
+The main limitations to this study were that the CBFMP villages were established to improve the declining quality of the coral reef habitat and fishery, however no data were available on pre-reserve fish assemblage characteristics, therefore no measure of "success" or "failure" could be determined. This study will be used as a baseline study which future studies can compare against and measure changes in fish assemblage characteristics. Future improvements could include changes to the survey method including additional site and transect replications, estimating fish lengths to the nearest 1 cm, a 15 to 30 minute timed swim to reveal additional species that were not recorded during the transect census and to discount schools of fish that are observed on the transects.
+
+# **5 Management Recommendations**
+
+**Objective 9:** *To critically evaluate the protection provided by the Community-based Fisheries Management Program to the reef fish communities and provide recommendations for the future management of the reef fish communities and reef fisheries of American Samoa.* 
+
+Management recommendations are provided for sites that are currently protected by the CBFMP and for unprotected sites. Suggestions are given for their future management along with details of management options that could be used to implement these recommendations.
+
+#### **5.1 Current CB-MPA efforts**
+
+#### *5.1.1 Auto & Amaua*
+
+Although the reef flat habitat structure at Auto & Amaua consists of low percent coral cover and relatively high percent cover of coral rubble, the site seems to be supporting a highly diverse and rich fish population. Results from this study show that the fish community exhibited a high target fish species diversity and a relatively high abundance of total fish and target fish assemblages, however the relatively moderate biomass recorded at the site suggest that the fish species need more time to increase in biomass. The highest biomass of small Acanthuridae (<5cm) was observed at the site along with the highest biomass of Labridae and a relatively low biomass of Scaridae, suggesting that it is providing a refuge for juvenile fish. Additional observations at the reef flat at Amaua included a Tahitian sting ray *Himantura fai* and on the reef flat at Auto a pair of Tahitian sting rays were seen on two occasions along with numerous moray eels (Muraenidae) and three moderately sized porcupinefishes (Diodontidae). It is not known if the reef flats at the villages of Auto and Amaua have improved as a result of the 16 month protection from CB-MPA status prior to this study, however these results show that the reef fish communities at these sites have the potential to improve and recover to pre-exploited levels, which can also benefit the recovery of the coral communities. This highlights the importance of ensuring that the community support and enforcement of the CB-MPA does not disintegrate and possibly convincing the villagers to keep the reserve closed for longer than 3 years or possibly keep one section of the reef closed as studies have shown that even small protected areas are able to provide refuge for fish species targeted by reef fisheries.
+
+#### *5.1.2 Alofau*
+
+The reef fish communities at Alofau exhibited a high total fish number and target fish species diversity, along with high total fish abundance and biomass, which may be related to the high percent coral cover recorded at the site and one of the highest proportion of branching coral species. However, the fish communities exhibited moderate target fish abundance and biomass, which suggests that the target fish assemblages may be being affected by the fishing activity at the reserve on Saturdays.
+
+Ideally, the reserve should be closed for a longer period of time, however if this cannot be enforced, recommendations for the future management of this site include introducing gear restrictions similar to those enforced at the partially protected sMPA sites of Fagatele Bay and Ofu Lagoon, and to suggest a change in the villages CBFMP Management Plan by completely closing off a small section of the reef to fishing activity. The closed area should preferable be an area of high coral cover and species diversity along with a rich and diverse fish assemblage.
+
+#### *5.1.3 Aua*
+
+The Pago Pago Harbour site of Aua has not been participating consistently in the CBFMP, however the fishing intensity in the harbour is relatively low due to the degraded habitats and potential toxic contamination of fish.
+
+Results from this study showed that the reef fish community exhibited relatively low abundance and biomass, however relatively moderate total fish and target fish species diversity was observed. Along with the neighbouring site of Aua Control, a relatively high biomass of small (<5cm) species of Chaetodontidae and Scaride were observed which suggests that the reef fish populations are slowly recovering. There are also signs that the coral communities are recovering, with relatively high percent cover of coralline algae, however there was also a high percent cover of algae.
+
+Additional observations at the site included a juvenile Spotted eagle ray (*Aetobatus narinari*) and a large school of small Striped catfishes *Plotosus lineatus*. These results show that there is potential for recovery of the coral and fish communities at Aua, therefore it is important that the CBFMP is established once again in order to provide protection for the slow but significant recovery that is occurring.
+
+#### *5.1.4 Vatia*
+
+The fish communities at Vatia exhibited a relatively low total fish abundance, however the highest total fish species diversity was recorded along with a relatively moderate target fish abundance and total fish and target fish biomass. The low fish abundance may be related to the higher numbers of people in water during the survey, as discussed previously, or it may be recovering from the intense fishing activity that took place when the reserve was opened for a day in early 2004.
+
+A high proportion of target fish species in the total fish observed at the site suggests that there is potential for full recovery of the fish populations as long as the reserve remains closed for a substantial amount of time.
+
+#### **5.2 Recommendations for future protection**
+
+#### *5.2.1 Masefau*
+
+The fish assemblages at the unprotected site of Masefau exhibited relatively high values for all fish assemblage characteristics with the exception of relatively moderate target fish biomass. The highest total number of fish species was observed at the site along with high coral species diversity, which was as high as the sMPA sites. Additional observations at Masefau included a juvenile spotted eagle ray *Aetobatus narinari* on the reef flat and a large flagtail triggerfish *Sufflamen chrysopterus* on the reef slope. The results from this study suggest that the reef flat at Masefau supports a highly diverse and rich community of fish and coral and efforts should be made to ensure that the characteristics do not decline below the present level, which is important to ensure resilience against degradation from natural disturbances. It is therefore recommended that the village of Masefau be persuaded to join the CBFMP, even if only to close a section of its reef from fishing activity.
+
+#### *5.2.2 Faga'itua*
+
+The highest total fish biomass and relatively high total fish and target fish abundances were observed at the unprotected site of Faga'itua, located on the southern coast of Tutuila. However, relatively low total fish species numbers and the lowest target fish species diversity was recorded at the site and the high abundance and biomass can be attributed to large schools of the labrid *Thalassoma hardwicke* and high densities of the pomacentrid *Stegastes nigricans* observed during surveys at the site. The highest coral cover was recorded at Faga'itua, along with the neighbouring CB-MPA site of Alofau which consisted of a high proportion of branching coral including the species *Acropora microphthalma* and *Pocillopora damicornis*. Areas with high percent cover of branching coral provides shelter for large numbers of juvenile fish (Friedlander, 2004), which suggests that the reef flat at Faga'itua may be an important nursery habitat and it is recommended that some form of protection from fishing be considered in order to provide greater connectivity with adult habitats.
+
+Additional observations on the reef flat included two sightings of a sea turtle during a 3 hour survey period along with a small reef blacktip shark *Carcharhinus melanopterus*, which are both rare sightings on Tutuila (Green, 2002), again suggesting that this may be an important site to protect from the destructive effects of overfishing.
+
+#### **5.3 Management options**
+
+#### *5.3.1 Establishing a network of MPAs*
+
+Recent studies have shown the importance of establishing a network of no-take protected areas in order to maintain sustainable fisheries or enhance exploited fish resources (Hughes *et al.,* 2003). Other studies have shown that even small no-take areas are effective in enhancing the abundance and biomass of some fish species and include a o.4 km2 reserve in the Philippines (Russ & Alcala, 1996) and a reserve in St. Lucia measuring just 1150 m by 175 m (Roberts & Hawkins, 1997).
+
+#### *5.3.2 Protecting known recruiting areas*
+
+Data-less management has been used for centuries in some tropical fishing cultures, especially in the Pacific and include the protection of important spawning aggregation sites by setting up reserves to protect the area. Johannes (1998) described the effective methods by which no fisheries data are needed and involves information on the timing and location of spawning aggregations, which can be documented by researchers. Studies have shown that showed that closing an area to fishing during spawning periods can simultaneously protect numerous fish species, which may also include transient species (Russ & Alcala, 1996; Tupper & Rudd, 2002).
+
+#### *5.3.3 Rotational closures*
+
+Rotational closures of reserves have been shown to be detrimental to fish stocks by causing a rapid decrease in biomass when reserves are opened (Russ & Alcala, 1999).
+
+The low fish abundances recorded at Vatia may be a result of the opening of the reserve to fishing for one day and then re-closed again. It is important to make the villagers understand that this option is detrimental to the fish populations and ensure that it doesn't happen to current CB-MPA sites such as Auto & Amaua.
+
+Periodic opening such as the weekly opening of the CB-MPA at Alofau to local fishermen may have the same effect as poaching in marine reserves which has been shown to have the same effect as rotational closures (Russ & Alcala, 1999).
+
+The effects of poaching should be taken seriously and efforts to improve the enforcement of fishing restrictions and marine reserves in American Samoa should be carried out.
+
+#### *5.3.4 Length of closure*
+
+Current management plans of the village CB-MPAs state that their villages will be no-take areas for 2 to 3 years, however, recruits wont occur to such an extent in such a short time Studies have shown that rapid increase in fish assemblage characteristics occurs after establishment of a NTA, however full recovery may take 30 to 40 years (Russ & Alcala, 2004; McClanahan, 2000).
+
+Recruitment overfishing has occurred in American Samoa and fish populations need at least 10 years to recover (Peter Craig, 2004. Pers. Comm.). It is important to allow fish populations to recover fully in American Samoa otherwise they may never return to sustainable levels.
+
+Recent studies have highlighted the importance of older and larger fish to increase the fecundity of the population. Older female fish have been shown to be much more productive than smaller and younger fish and Bohnsack (1998) estimated that one 61-cmlong red snapper (*Lutjanus compechanus)* produced as many eggs as 212 43-cm-long snappers. Additionally, Berkeley *et al.* (2004) found that eggs from older female rockfish (*Sebastes* spp.) produced faster growing larvae that were more resistant to starvation than larvae from younger females.
+
+It is essential to understand the importance of ensuring that the reef fish populations in particular on Tutuila, are given sufficient protection to ensure recovery to pre-exploited levels from the current recruitment overfishing that is affecting the fish populations. The recovery of the fish populations to sustainable levels is vital to ensure resilience against the predicted future changes in global climate and increase in natural disturbances.
+
+# **6 References**
+
+- Andrews, Z. 2004. Effects of the Community-based Fishery Management Programme on the coral reef communities in American Samoa. University of Wales Bangor MSc Thesis.
+- ASG (American Samoan Government). 1996. Statistical Yearbook, 1996. Prepared by Department of Commerce, Statistical Division, American Samoa. 185pp.
+- ASPA. 2003. American Samoa Power Authority: Utilities Master Plan, July 2003.
+- Beets, J. and Friedlander, A. 1999. Evaluation of a conservation strategy: a spawning aggregation closure for red hind, Epinephelus guttatus, in the US Virgin Islands. Environmental Biology of Fish, **55**: 91-98.
+- Bennett, M., Talbot, D. & Swaney, D. 2003. Samoan Islands: Independent Samoa & American Samoa. Lonely Placet Publications Pty Ltd.Australia. 176p.
+- Berkeley, S., Chapman, C. & Sogard, S. 2004. Maternal age as a determinant of larval growth and survival in marine fish, *Sebastes* melanops. Ecology, **85:** 1258–1264.
+- Birkeland, C., Randall, R.H., Green, A.L., Smith, B.D., & Wilkins, S. 1996. Changes in the coral reef communities of Fagatele Bay National Marine Sanctuary and Tutuila Island (American Samoa) over the last two decades. Report to the National Oceanic and Atmospheric Administration, U.S. Department of Commerce, 225p.
+- Blaber, S. J. M., Cyrus, D.P., Albaret, J.J., Chong Ving Ching, Day, J.W., Elliott, M., Fonseca, M.S., Hoss, D.E., Orensanz, J. Potter, I.C., and Silvert, W. 2000. Effects of fishing on the structure and functioning of estuarine and nearshore ecosystems. *ICES Journal of Marine Science*, **57**: 590–602.
+- Bohnsack, J.A. 1996. Maintenance and recovery of reef fishery productivity. In: Polunin, N.V.C. & Roberts, C.M. (eds). *Reef Fisheries*. Chapman & Hall, London, pp. 283-313.
+- Bohnsack, J. 1998. Application of marine reserves to reef fisheries management. *Australian Journal of Ecology,* **23:** 298–304.
+- Bohnsack, J.A. 2000. A comparison of the short-term impacts of no-take marine reserves and minimum size limits. Bulletin of Marine Science, **66**: 635–650.
+- Brand, L. & Aicher, J. 1997. Detection of Eutrophication in the Coastal Waters of American Samoa. A report prepared for the Department and Marine and Wildlife Resources, Pago Pago, American Samoa. 96799.
+- Caroline, S., Rogers, & Beets, J. 2001. Degradation of marine ecosystems and decline of fishery resources in marine protected areas in the US Virgin Islands. *Environmental Conservation,* **28**(4): 312–322.
+
+- Chapman, M.R. & Kramer, D.L. 2000. Movement of fishes within and among fringing coral reefs in Barbados. *Environmental Biology of Fishes,* **57**: 11-24.
+- Chiappone, M., Sluka, .R & Sealey, S. 2000. Groupers (Pisces: Serranidae) infished and protected areas of the Florida Keys, Bahamas and northern Caribbean. *Marine Ecology Progress Series*, **198:** 261-272.
+- Christie, P., White, A. & Deguit, E. 2002. Starting point or solution? Community-based marine protected areas in the Philippines. *Journal of Environmental Management,*  **66:** 441-454.
+- Clarke, K.R. & Warwick, R.M. 2001. Change in marine communities: an approach to statistical analysis and interpretation, 2nd edition. PRIMER-E: Plymouth.
+- Côté, I.M., Mosqueira, I. & Reynolds, J.D. 2001. Effects of marine reserve characteristics on the protection of fish populations: a meta-analysis. *Journal of Fish Biology,* **59**(Supplement A):178-189.
+- Craig, P. 1996. Intertidal territoriality and time-budget of the surgeonfish, *Acanthurus lineatus*, in American Samoa. *Environmental Biology of Fishes,* **46:** 27-36.
+- Craig, P. 2002. Status of coral reefs in 2000: American Samoa, pp.183-187. In: Turgen *et al*. 2002. *The state of coral reef ecosystems of the United States and Pacific freely associated states.* National Oceanic and Atmospheric Administration, National Ocean Service/National Centres Coastal Ocean Science, Silver Spring MD. 265p.
+- Craig, P., Choat, H.C, Axe, L.M, & Saucerman, S. 1997. Population biology and harvest of the coral reef surgeonfish *Acanthurus lineatus* in American Samoa. *Fishery Bulletin,* **95**(4): 680-693.
+- Craig, P., Ponwith, B., Aitaoto, F., & Hamm, D. 1993. The commercial, Subsistence and Recreational Fisheries of American Samoa. *Marine Fisheries Review*, **55**(2): 109- 116.
+- Craig, P., Saucerman, S. & Wiegman, S. 2000. The central South Pacific Ocean (American Samoa): an environmental evaluation. Chapter 13. In: Sheppard, C. (ed.) 2000. *Seas at The Millenium: An Environemtnal Evaluation*. Elsevier Science Ltd.
+- DMWR. 2003. CB-MPA village Management Plans. Prepared by the Department of Marine and Wildlife Resources, PO Box 3730, Pago Pago, American Samoa. 96799.
+- Doulman, D.J. 1993. Community-based fishery management: Towards the restoration of traditional practices in the South Pacific. *Marine Policy,* **17**(2) :108-117.
+- Edgar, G.J. & Barrett, N.S. 1997. Short-term monitoring of biotic change in Tasmanian marine reserves. *Journal of Experimental Marine Biology and Ecology,* **213**: 261- 279.
+
+- English, S., Wilkinson, C., & Baker, V. (eds). 1997. *Survey manual for tropical marine resources*. Townsville, Australian Institute of Marine Science. 390p.
+- FishBase. 2004. FishBase Website, viewed 20 November, 2004. http:/www.fishbase.org/.
+- Francis, J., Nilsson, A., Waruinge, D. 2002. Marine protected areas in the eastern African region: How successful are they? *Ambio*, **31**: 503-511.
+- Friedlander, A.M., Brown, E.K., Jokiel, P.L., Smith, W.R., & Rodgers, K.S. 2003. Effects of habitat, wave exposure, and marine protected area status on coral reef fish assemblages in the Hawaiian archipelago. *Coral Reefs* **22**: 291-305.
+- Goldin, M.R. 2002. Field Guide to the Samoan Archipelago: Fish, Wildlife and Protected Areas. The Bess Press, Inc. Hawai'i. 330p.
+- Green, A.L. 1996. Status of the coral reefs of the Samoan Archipelago. Report to the Department of Marine and Wildlife Resources, PO Box 3730, Pago Pago, American Samoa. 96799, 120p.
+- Green, A.L. 2002. Status of coral reefs on the main volcanic islands of American Samoa: a resurvey of long term monitoring sites (benthic communities, fish communities, and key macroinvertebrates). Report to Department of Marine and Wildlife Resources, Pago Pago, American Samoa. 86p.
+- Green, A.L., Birkeland, C.E., & Randall, R.H. 1999. Twenty years of disturbance and change in Fagatele Bay National Marine Sanctuary, American Samoa. *Pacific Science,* **53**(4): 376-400.
+- Green, A. & Hunter, C. 1998. A preliminary survey of the coral reef resources in the Tutuila Unit of the National Park of American Samoa. Final report to the U.S. National Park Service, Pago Pago, American Samoa. 42p.
+- Greenfield DW, Johnson RK (1990) Community structure of western Caribbean blennioid fishes. *Copeia,* **1990**:433–448.
+- Halpern, B.S. & Warner, R.R. 2002. Marine reserves have rapid and lasting effects. *Ecology Letters,* **5**: 361-366.
+- Halford, A.R. & Thompson, A.A. 1994. Long-term Monitoring of the Great Barrier Reef Standard Operational Procedure Number 3. Autralian Institute of Marine Science. Townsville. 14p.
+- Hawkins, C., Sauafea, F., & Vaitautolu, S. 2003. Marine resource management challenges in traditional societies: managing and conserving resources at the community level. American Samoa Coral Reef Initiative Department of Commerce, Pago Pago. 11p.
+
+- Hawkins, C. 2003. Marine Protected Areas in American Samoa. American Samoa Coral Reef Initiative Department of Commerce, Pago Pago. 9p.
+- Hawkins, J.P. & Roberts, C.M. 2004. Effects of artisanal fishing on Caribbean coral reefs. *Conservation Biology*, **18**(1): 215-226.
+- Hill, H. 1978. The use of nearshore marine life as a food resource by American Samoans. MA thesis, University of Hawaii, Miscellaneous work, Pap. 1978: 1-164.
+- Holland, K.N., Lowe, C.G. & Wetherbee, B.M. 1996. Movements and dispersal patterns of blue trevally (*Caranx melampygus*) in a fisheries conservation zone. Fisheries Research, **25:** 279-292.
+- Houk, P. 2003. Assessing the Effects of NPS Pollution on American Samoa's Coral Reef Communities. Report Prepared For American Samoa Environmental Protection Agency, Pago Pago. 32p.
+- Hughes, T.P., Baird, A.H., Bellwood, D.R., Card, M., Connolly, S.R., Folke, C., Grosberg, R., Hoegh-Guldberg, O., Jackson, J.B.C, Kleypas, J., Lough, J.M., Marshall, P., Nyström, M., Palumbi, S.R., Pandolfi, J.M., Rosen, B., Roughgarden, J. 2003. Climate change, human impacts, and the resilience of coral reefs. *Science,* **301**: 929-933.
+- Hunter, C.L., Friedlander, A.M., Magruder, W.M. & Meier, K.Z. 1993. Ofu reef survey: baseline assessment and recommendations for long-term monitoring of the proposed National Park, Ofu, American Samoa. Final report to the U.S. National Park Service, Pago Pago, American Samoa. 92p.
+- ISRS. 2004. Marine Protected Areas (MPAs) in Management of Coral Reefs. Briefing Paper, International Society for Reef Studies. 13p.
+- Itano, D. 1980. Illegal fishing practices in Samoa. Report to the Department of Marine and Wildlife Resources, PO Box 3730, Pago Pago, American Samoa. 96799, 3pp.
+- Jackson, J.B.C., Kirby, M.X., Berger, W.H., Bjorndal, K.A., Botsford, L.W., Bourque, Bradbury, R.H., Cooke, R., Erlandson, J., Estes, J.A., Hughes, T.P., Kidwell, S., Lange, C.B., Lenihan, H.S., Pandolfi, J.M., Peterson , C.H., Steneck, R.S., Tagner, M.J. & Warner, R.R. 2003. Historical Overfishing and the Recent Collapse of Coastal Ecosystems. *Science*, **293:** 629- 637.
+- Jennings, S & Lock, J.M. 1996. Population and ecosystem effects of reef fishing. In: Polunin, N.V.C. & Roberts, C.M. (eds). *Reef Fisheries*. Chapman & Hall, London, pp. 193-218.
+- Johannes, R.E. 1998. The case for data-less marine resource management: examples from tropical nearshore finfisheries. *Trends in Ecology and Evolution*, **13**:243-246.
+
+- Kelty, R. & Kuartei, J. 2004. Status of the Coral Reefs in Micronesia and American Samoa. In: Wilkinson, C. (ed.). Status of Coral Reefs of the World, Volume 2. Austalian Institute of Marine Science. 557p.
+- King, M. & Faasili, U. 1999. Community-based management of subsistence fisheries in Samoa. *Fisheries Management and Ecology*, **6**: 133-144.
+- Lam, M. 1998. Consideration of customary marine tenure system in the establishment of marine protected areas in the South Pacific. Ocean & Coastal Management, **39:** 97-104.
+- Lieske, E. & Myers, R. 2001. Coral reef fishes: Indo-Pacific and Caribbean. Collins Pocket Guide. Harper Collins Publishers. London. 400p.
+- Maragos, J.E., Hunter, C.L., & Meier, K.Z. 1994. Reefs and corals observed during the 1991- 1992 American Samoa coastal resources inventory. A report prepared for the Department and Marine and Wildlife Resources, Pago Pago, American Samoa. 96799.
+- Mayor, A.G. 1924. Structure and ecology of Samoan reefs. Papers from the Department of Marine Biology, Carnegie Institution of Washington 19: pp.1-25.
+- McCardle, B. 2003. Statistical analyses for Coral Reef Advisory Group. Report prepared for the Department of Commerce, Government of American Samoa. 142p.
+- McClanahan, T.R. 1995. A coral reef ecosystem-fisheries model: impacts of fishing intensity and catch selection on reef structure and processes. *Ecological Modelling,* **80**:1-19.
+- McClanahan, T.R. & Mangi, S. 2001. The effect of a closed area and beach seine exclusion on coral reef fish catches. *Fisheries Management and Ecology*, **8**:107-121.
+- McClanahan, T.R. & Mangi, S. 2000. Spillover of exploitable fishes from a marine park and its effect on the adjacent fishery. *Ecological Applications*, **10**: 1792–1805.
+- Mosqueira, I., Côté, I.M., Jennings, S. & Reynolds, J. D. 2000. Conservation benefits of marine reserves for fish populations. *Animal Conservation,* **4:**321-332.
+- Mundy, C. 1996. A quantitative survey of the corals of American Samoa. Report to the Department of Marine and Wildlife Resources, PO Box 3730, Pago Pago, American Samoa. 96799. 24p.
+- Musburger, C. 2004. Monitoring Recommendations for the Community-Based Fisheries Management Program of Tutuila, American Samoa. Report to the Department of Marine and Wildlife Resources, PO Box 3730, Pago Pago, American Samoa. 96799. 45p.
+
+- Myers, R. 1999. *Micronesian Reef Fishes. A comprehensive guide to the coral reef fishes of Micronesia*. Coral Graphics Publication.
+- Nagaoka, L. 1993. Chapter 13, Faunal assemblages from the To'aga site. In: Kirch, P.V., & Hunt, T.L. (eds) *The To'aga Site. Three Millennia of Polynesian occupation in the Manu'a Islands, American Samoa*. Contributions of the University of California Archaeological Research Facility, Berkley, Number 51.
+- Page, M. 1998. The biology, community structure, growth and artisanal catch of parrotfishes of American Samoa. Report to the Department of Marine and Wildlife Resources, PO Box 3730, Pago Pago, American Samoa. 96799, 87 p.
+- Ponwith, B.J. 1992. The inshore fishery of American Samoa: a 12-year comparison. Report to the Department of Marine and Wildlife Resources, PO Box 3730, Pago Pago, American Samoa. 96799. 51p.
+- Ponwith, B.J. 1991. The shoreline fishery of American Samoa. DMWR Biological Report Series No 2. 1991. . DMWR Pago Pago, American Samoa.
+- Randall, J.E., Allen, G.R., & Steene, R.C. 1990*. Fishes of the Great Barrier Reef and Coral Sea.* Crawford House Press, Bathurst.
+- Rodwell, L.D. **et al**. 2002. A model of tropical marine reserve-fishery linkages. Nat. Res. Mod. **15**:453-486.
+- Roberts, C.M. 1995a. Effects of fishing on the ecosystem structure of coral reefs. *Conservation Biology,* **9**(5):988-995.
+- Roberts, C.M. 1995b. Rapid build-up of fish biomass in a Caribbean marine reserve. *Conservation Biology*, **9**: 815-826.
+- Roberts, C.M. & Polunin, N.V.C. 1992. Are marine reserves effective in management of reef fisheries? Reviews in Fish Biology and Fisheries, **1:** 65-91.
+- Roberts, C.M., Hawkins, J.P. 1997. How small can a marine reserve be and still be effective? *Coral Reefs* 16: 150.
+- Rudd, M.A., Tupper, M.H., Folmer, H. & van Kooten, G.C. 2003. Policy analysis for tropical marine reserves: challenges and directions. *Fish and Fisheries*, **4**: 65-85.
+- Russ, G.R. 2002. Yet another review of marine reserves as reef fisheries management tools. In: Sale, P.F. (ed) *Coral Reef Fishes: Dynamics and Diversity in a Complex Ecosystem,* Academic Press, San Diego. pp: 421-443.
+- Russ, G.R. & Alcala, A.C. 1996a. Marine reserves: rates and patterns of recovery and decline in abundance of large predatory fish. *Ecological Applications*, **6**: 947-961.
+
+- Russ, G.R. & Alcala, A.C. 1996b. Do marine reserves export adult fish biomass? Evidence form Apo island, central Philippines, *Marine Ecology Progress Series*, **132**: 1-9.
+- Russ, G.R. & Alcala, A.C. 1999. Management histories of Sumnilon and Apo marine reserves, Philippines, an their influence on national marine resource policy. *Coral Reefs*, **18**: 307-319.
+- Russ, G.R. & Alcala, A.C. 2004. Marine reserves: long-term protection is required for full recovery of predatory fish populations, *Oecologia*, **138**: 622-627.
+- Ruttenberg, B. I. 2001. Effects of artisanal fishing on marine communities in the Galàpagos Islands. *Conservation Biology,* **15**(6): 1691-1699.
+- Sauafea, F. 2000. Community survey on fishing problems in American Samoa. Report to the Department of Marine and Wildlife Resources, PO Box 3730, Pago Pago, American Samoa. 96799. 8p.
+- Sauafea, F.S. 2002. Community-based Fishery Management Program in American Samoa. A report prepared for the Department and Marine and Wildlife Resources, Pago Pago, American Samoa. 96799. 6p.
+- Saucerman, S. 1995. Assessing the management needs of a coral reef fishery in decline. FFA/SPC Workshop on the Management of South Pacific Inshore Fisheries, 26 June – 7 July, 1995 Noumea, New Caledonia.
+- Saucerman, S. 1996. Inshore Fishery Annual Report. Report to the Department of Marine and Wildlife Resources, PO Box 3730, Pago Pago, American Samoa. 96799. 29p.
+- Spurgeon, J., Roxburgh, T., O' Gorman, S., Lindley, R., Ramsey, D. and Polunin, N. (2004). Economic Valuation of Coral Reefs and Adjacent Habitats in American Samoa - Draft Report. Report prepared for the Department of Commerce, Government of American Samoa. 100p.
+- Tuilagi, F., & Green, A. 1995. *Community perception of changes in coral reef fisheries in American Samoa*. Biol Pap 22, In: South Pacific Commission and Forum Fisheries Agency Workshop on the Management of South Pacific Inshore Fisheries, Noumea, New Caledonia.
+- Tupper, M. & Rudd, M.A. 2002. Species-specific impacts of a small marine reserve on the reef fish production and fishing productivity in the Turks and Caicos Islands. *Environmental Conservation,* **28**(4): 484-492.
+- USACE. 1994. Coral reef inventory of American Samoa. U.S. Army Corps Engineers. Honolulu, Hawaii.
+- Wass, R.C. 1980. The shoreline fishery of American Samoa, past and present. In: Munro, J. (ed). Marine and coastal processes in the Pacific: ecological aspects of coastal zone management. Proc. UNESCO Seminar, Motupore Island Research Centre,
+
+- July 1980. United Nations Education, Scientific and Cultural Organization (Paris). pp. 51-83.
+- Wass, R.C. 1984. An annotated checklist of the fishes of Samoa. NOAA Technical Report NMFS SSRF-781, US Dept of Commerce, NOAA, NMFS. 43pp.
+- Watson, M. & Ormond, R.F.G. 1994. Effect of artisanal fishery on the fish and urchin populations of a Kenyan coral reef. *Marine Ecology Progress Series*, **109**: 115- 129.
+- Williams, I.D., Polunin, N.V.C., Hendrick, V.J. 2001. Limits to grazing by herbivorous fishes and the impact of low coral cover on macroalgal abundance on a coral reef in Belize. *Marine Ecology Progress Series,* **222**: 187-196.
+- Willis TJ, Millar RB, Babcock RC, Tolimieri N. 2003. Burdens of evidence and the benefits of marine reserves: putting Descartes before des horse? *Environmental Conservation* **30**: 97-103.
+- Zeller, D.C. 1997. Home range and activity patterns of the coral trout *Plectropomus leopardus* (Serranidae). *Marine Ecology Progress Series,* **154**: 65-77.
+
+# **Appendices**
+
+**I:** Species-specific length-weight constants
+
+**II:** Statistical results from 1-way ANOSIM analysis
+
+**III**: Reef fish species presence or absence at each site
+
+**IV:** Abundance of each reef fish species at each site
+
+**V:** Main reef fish species – colour plates
+
+**VI:** Reef fish lengths recorded at each site
+
+**VII:** Abundance / Biomass plots
+
+**Appendix I:** Species-specific weight-length relationship constants used to calculated fish biomass by converting estimated fish lengths to weights using the allometric length-weight conversion formulae [weight (kg) = (total length in cm x constant a)b ] where a and b are constants for each species. Constants were not available for most species in Samoa, so they were obtained from New Caledonia. Source: Green (2002).
+
+|                        | a     | b     |                              | a     |
+|------------------------|-------|-------|------------------------------|-------|
+| Acanthuridae           |       |       | Heniochus varius             | 0.303 |
+| Zebrasoma scopas       | 0.333 | 2.846 | Kyphosidae                   |       |
+| Acanthurus lineatus    | 0.301 | 3.030 | Kyphosus cinerascens         | 0.263 |
+| Ctenochaetus striatus  | 0.297 | 3.032 | Labridae                     |       |
+| Acanthurus blochii     | 0.281 | 3.107 | Thalassoma hardwicke         | 0.252 |
+| Acanthurus guttatus    | 0.297 | 2.924 | Halichoeres trimaculatus     | 0.263 |
+| Acanthurus triostegus  | 0.393 | 2.510 | Halichoeres hortulanus       | 0.272 |
+| Acanthurus nigricans   | 0.338 | 2.865 | Labroides dimidatus          | 0.201 |
+| Acanthurus nigrofuscus | 0.301 | 3.029 | Stethojulis bandanensis      | 0.236 |
+| Naso lituratus         | 0.258 | 3.067 | Gomphosus varius             | 0.252 |
+| Acanthurus olivaceus   | 0.294 | 3.040 | Hemigymnus melapterus        | 0.244 |
+| Zebrasoma veliferum    | 0.297 | 2.918 | Halichoeres marginatus       | 0.272 |
+| Acanthurus achilles    | 0.294 | 3.040 | Labrichthys unilineatus      | 0.206 |
+| Acanthurus nigricauda  | 0.294 | 3.040 | Coris gaimard                | 0.303 |
+| Aulostomidae           |       |       | Chelinus trilobatus          | 0.265 |
+| Aulostomus chinensis   | 0.069 | 4.545 | Macropharyngodon meleagris   | 0.250 |
+| Balistidae             |       |       | Coris aygula                 | 0.303 |
+| Balistapus undulatus   | 0.290 | 2.895 | Coris aygula                 | 0.303 |
+| Rhinecanthus aculeatus | 0.273 | 3.129 | Novaculichthys taeniourus    | 0.333 |
+| Melichthys vidua       | 0.290 | 2.899 | Halichoeres margaritaceus    | 0.272 |
+| Melichthys niger       | 0.216 | 3.425 | Halichoeres melanurus        | 0.263 |
+| Carangidae             |       |       | Lethrinidae                  |       |
+| Caranx melampygus      | 0.271 | 3.003 | Gnathodentex aurolineatus    | 0.267 |
+| Chaetonidae            | 0.287 | 3.125 | Lutjanidae                   |       |
+| Chaetodon citronellus  | 0.296 | 3.083 | Lutjanus fulvus              | 0.276 |
+| Chaetodon vagabundus   | 0.287 | 3.125 | Lutjanus kasmira             | 0.245 |
+| Chaetodon trifasciatus | 0.287 | 3.125 | Lutjanus gibbus              | 0.250 |
+| Chaetodon reticulatus  | 0.284 | 3.300 | Monacanthidae                |       |
+| Chaetodon ulietensis   | 0.311 | 3.012 | Cantherhines pardalis        | 0.263 |
+| Chaetodon auriga       | 0.287 | 3.127 | Oxymonacanthus longirostris  | 0.250 |
+| Chaetodon trifascialis | 0.287 | 3.236 | Mugilidae                    |       |
+| Chaetodon ornatissimus | 0.287 | 3.236 | Liz vaigiensis               | 0.243 |
+| Chaetodon unimaculatus | 0.284 | 3.300 | Mullidae                     |       |
+| Chaetodon ephippium    | 0.284 | 3.300 | Mulloidichthys flavolineatus | 0.201 |
+| Chaetodon melannotus   | 0.328 | 2.915 | Parupeneus bifasciatus       | 0.263 |
+| Chaetodon lunula       | 0.287 | 3.236 | Parupeneus cyclostomus       | 0.254 |
+| Chaetodon semeion      | 0.287 | 3.135 | Parupeneus multifasciatus    | 0.253 |
+| Heniochus chrysostomus | 0.272 | 3.443 |                              |       |
+
+| Halichoeres hortulanus0.2722.717Labroides dimidatus0.2013.369Stethojulis bandanensis0.2363.012Gomphosus varius0.2522.801Hemigymnus melapterus0.2443.175Halichoeres marginatus0.2722.717Labrichthys unilineatus0.2063.205Coris gaimard0.3032.703Chelinus trilobatus0.2653.003Macropharyngodon meleagris0.2503.125Coris aygula0.3032.703Novaculichthys taeniourus0.3032.703Halichoeres margaritaceus0.2722.717Halichoeres melanurus0.2632.770Lethrinidae0.2673.099Lutjanus fulvus0.2762.962Lutjanus kasmira0.2453.128Lutjanus gibbus0.2503.012Monacanthidae0.2632.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                              | a     | b     |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------|-------|
+| Kyphosus cinerascens0.2633.125LabridaeThalassoma hardwicke0.2522.801Halichoeres trimaculatus0.2632.771Halichoeres hortulanus0.2722.717Labroides dimidatus0.2013.369Stethojulis bandanensis0.2363.012Gomphosus varius0.2522.801Hemigymnus melapterus0.2443.175Halichoeres marginatus0.2722.717Labrichthys unilineatus0.2063.205Coris gaimard0.3032.703Chelinus trilobatus0.2653.003Macropharyngodon meleagris0.2503.125Coris aygula0.3032.703Novaculichthys taeniourus0.3032.703Halichoeres margaritaceus0.2722.717Halichoeres melanurus0.2632.770Lethrinidae0.2673.099Lutjanus fulvus0.2673.099Lutjanus gibbus0.2503.012Monacanthidae0.2503.012Cantherhines pardalis0.2632.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Heniochus varius             | 0.303 | 3.135 |
+| Labridae         Thalassoma hardwicke         0.252         2.801           Halichoeres trimaculatus         0.263         2.771           Halichoeres hortulanus         0.272         2.717           Labroides dimidatus         0.201         3.369           Stethojulis bandanensis         0.236         3.012           Gomphosus varius         0.252         2.801           Hemigymnus melapterus         0.244         3.175           Halichoeres marginatus         0.272         2.717           Labrichthys unilineatus         0.206         3.205           Coris gaimard         0.303         2.703           Coris agimard         0.265         3.003           Macropharyngodon meleagris         0.250         3.125           Coris aygula         0.303         2.703           Novaculichthys taeniourus         0.333         2.703           Halichoeres margaritaceus         0.272         2.717           Halichoeres melanurus         0.263         2.770           Lethrinidae           Gnathodentex aurolineatus         0.267         3.099           Lutjanus kasmira         0.245         3.128           Lutjanus gibbus         0.250         3.012                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Kyphosidae                   |       |       |
+| Thalassoma hardwicke Halichoeres trimaculatus Halichoeres hortulanus Labroides dimidatus O.272 2.717 Labroides dimidatus O.201 3.369 Stethojulis bandanensis O.236 3.012 Gomphosus varius Hemigymnus melapterus Hemigymnus melapterus Halichoeres marginatus Coris gaimard Coris gaimard Coris aygula Coris aygula Coris aygula Novaculichthys taeniourus Halichoeres margaritaceus Halichoeres margaritaceus Halichoeres margaritaceus Halichoeres melanurus O.263 2.770 Lethrinidae Gnathodentex aurolineatus O.276 2.962 Lutjanus kasmira Lutjanus gibbus O.263 2.899  Monacanthidae Cantherhines pardalis O.263 2.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Kyphosus cinerascens         | 0.263 | 3.125 |
+| Halichoeres trimaculatus0.2632.771Halichoeres hortulanus0.2722.717Labroides dimidatus0.2013.369Stethojulis bandanensis0.2363.012Gomphosus varius0.2522.801Hemigymnus melapterus0.2443.175Halichoeres marginatus0.2722.717Labrichthys unilineatus0.2063.205Coris gaimard0.3032.703Chelinus trilobatus0.2653.003Macropharyngodon meleagris0.2503.125Coris aygula0.3032.703Novaculichthys taeniourus0.3332.703Halichoeres margaritaceus0.2722.717Halichoeres melanurus0.2632.770Lethrinidae0.2673.099Lutjanus fulvus0.2762.962Lutjanus kasmira0.2453.128Lutjanus gibbus0.2503.012Monacanthidae0.2632.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Labridae                     |       |       |
+| Halichoeres hortulanus0.2722.717Labroides dimidatus0.2013.369Stethojulis bandanensis0.2363.012Gomphosus varius0.2522.801Hemigymnus melapterus0.2443.175Halichoeres marginatus0.2722.717Labrichthys unilineatus0.2063.205Coris gaimard0.3032.703Chelinus trilobatus0.2653.003Macropharyngodon meleagris0.2503.125Coris aygula0.3032.703Novaculichthys taeniourus0.3032.703Halichoeres margaritaceus0.2722.717Halichoeres melanurus0.2632.770Lethrinidae0.2673.099Lutjanus fulvus0.2762.962Lutjanus kasmira0.2453.128Lutjanus gibbus0.2503.012Monacanthidae0.2632.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Thalassoma hardwicke         | 0.252 | 2.801 |
+| Labroides dimidatus       0.201       3.369         Stethojulis bandanensis       0.236       3.012         Gomphosus varius       0.252       2.801         Hemigymnus melapterus       0.244       3.175         Halichoeres marginatus       0.272       2.717         Labrichthys unilineatus       0.206       3.205         Coris gaimard       0.303       2.703         Chelinus trilobatus       0.265       3.003         Macropharyngodon meleagris       0.250       3.125         Coris aygula       0.303       2.703         Novaculichthys taeniourus       0.303       2.703         Halichoeres margaritaceus       0.272       2.717         Halichoeres melanurus       0.263       2.770         Lethrinidae         Gnathodentex aurolineatus       0.267       3.099         Lutjanus fulvus       0.276       2.962         Lutjanus gibbus       0.250       3.012         Monacanthidae       0.263       2.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Halichoeres trimaculatus     | 0.263 | 2.771 |
+| Stethojulis bandanensis       0.236       3.012         Gomphosus varius       0.252       2.801         Hemigymnus melapterus       0.244       3.175         Halichoeres marginatus       0.272       2.717         Labrichthys unilineatus       0.206       3.205         Coris gaimard       0.303       2.703         Chelinus trilobatus       0.265       3.003         Macropharyngodon meleagris       0.250       3.125         Coris aygula       0.303       2.703         Novaculichthys taeniourus       0.303       2.703         Halichoeres margaritaceus       0.272       2.717         Halichoeres melanurus       0.263       2.770         Lethrinidae         Gnathodentex aurolineatus       0.267       3.099         Lutjanus fulvus       0.276       2.962         Lutjanus gibbus       0.250       3.012         Monacanthidae       0.263       2.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Halichoeres hortulanus       | 0.272 | 2.717 |
+| Gomphosus varius       0.252       2.801         Hemigymnus melapterus       0.244       3.175         Halichoeres marginatus       0.272       2.717         Labrichthys unilineatus       0.206       3.205         Coris gaimard       0.303       2.703         Chelinus trilobatus       0.265       3.003         Macropharyngodon meleagris       0.250       3.125         Coris aygula       0.303       2.703         Novaculichthys taeniourus       0.303       2.703         Halichoeres margaritaceus       0.272       2.717         Halichoeres melanurus       0.263       2.770         Lethrinidae         Gnathodentex aurolineatus       0.267       3.099         Lutjanus fulvus       0.276       2.962         Lutjanus gibbus       0.250       3.012         Monacanthidae       Cantherhines pardalis       0.263       2.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Labroides dimidatus          | 0.201 | 3.369 |
+| Hemigymnus melapterus       0.244       3.175         Halichoeres marginatus       0.272       2.717         Labrichthys unilineatus       0.206       3.205         Coris gaimard       0.303       2.703         Chelinus trilobatus       0.265       3.003         Macropharyngodon meleagris       0.250       3.125         Coris aygula       0.303       2.703         Novaculichthys taeniourus       0.303       2.703         Halichoeres margaritaceus       0.272       2.717         Halichoeres melanurus       0.263       2.770         Lethrinidae       0.267       3.099         Lutjanidae       0.276       2.962         Lutjanus fulvus       0.276       2.962         Lutjanus gibbus       0.250       3.012         Monacanthidae       0.263       2.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Stethojulis bandanensis      | 0.236 | 3.012 |
+| Halichoeres marginatus  Coris gaimard  Chelinus trilobatus  Macropharyngodon meleagris  Coris aygula  Coris aygula  Coris aygula  Novaculichthys taeniourus  Halichoeres margaritaceus  Halichoeres melanurus  Contante de Gnathodentex aurolineatus  Lutjanus fulvus  Lutjanus gibbus  Monacanthidae  Cantherhines pardalis  0.206  3.205  3.205  3.203  3.003  3.003  2.703  3.025  3.025  3.025  3.025  3.025  3.025  3.025  3.025  3.025  3.025  3.026  3.027  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717  2.717 | Gomphosus varius             | 0.252 | 2.801 |
+| Labrichthys unilineatus       0.206       3.205         Coris gaimard       0.303       2.703         Chelinus trilobatus       0.265       3.003         Macropharyngodon meleagris       0.250       3.125         Coris aygula       0.303       2.703         Coris aygula       0.303       2.703         Novaculichthys taeniourus       0.333       2.703         Halichoeres margaritaceus       0.272       2.717         Halichoeres melanurus       0.263       2.770         Lethrinidae         Gnathodentex aurolineatus       0.267       3.099         Lutjanidae       0.276       2.962         Lutjanus fulvus       0.245       3.128         Lutjanus gibbus       0.250       3.012         Monacanthidae       0.263       2.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Hemigymnus melapterus        | 0.244 | 3.175 |
+| Coris gaimard       0.303       2.703         Chelinus trilobatus       0.265       3.003         Macropharyngodon meleagris       0.250       3.125         Coris aygula       0.303       2.703         Coris aygula       0.303       2.703         Novaculichthys taeniourus       0.333       2.703         Halichoeres margaritaceus       0.272       2.717         Halichoeres melanurus       0.263       2.770         Lethrinidae       0.267       3.099         Lutjanidae       0.276       2.962         Lutjanus fulvus       0.245       3.128         Lutjanus gibbus       0.250       3.012         Monacanthidae       0.263       2.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Halichoeres marginatus       | 0.272 | 2.717 |
+| Chelinus trilobatus       0.265       3.003         Macropharyngodon meleagris       0.250       3.125         Coris aygula       0.303       2.703         Novaculichthys taeniourus       0.333       2.703         Halichoeres margaritaceus       0.272       2.717         Halichoeres melanurus       0.263       2.770         Lethrinidae       0.267       3.099         Lutjanidae       0.276       2.962         Lutjanus fulvus       0.245       3.128         Lutjanus gibbus       0.250       3.012         Monacanthidae       0.263       2.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Labrichthys unilineatus      | 0.206 | 3.205 |
+| Macropharyngodon meleagris0.2503.125Coris aygula0.3032.703Coris aygula0.3032.703Novaculichthys taeniourus0.3332.703Halichoeres margaritaceus0.2722.717Halichoeres melanurus0.2632.770Lethrinidae0.2673.099Lutjanidae0.2762.962Lutjanus fulvus0.2453.128Lutjanus gibbus0.2503.012Monacanthidae0.2632.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Coris gaimard                | 0.303 | 2.703 |
+| Coris aygula       0.303       2.703         Coris aygula       0.303       2.703         Novaculichthys taeniourus       0.333       2.703         Halichoeres margaritaceus       0.272       2.717         Halichoeres melanurus       0.263       2.770         Lethrinidae       0.267       3.099         Lutjanidae       0.276       2.962         Lutjanus fulvus       0.245       3.128         Lutjanus gibbus       0.250       3.012         Monacanthidae       0.263       2.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Chelinus trilobatus          | 0.265 | 3.003 |
+| Coris aygula  Novaculichthys taeniourus  Halichoeres margaritaceus  Halichoeres melanurus  0.272 2.717  Halichoeres melanurus  0.263 2.770  Lethrinidae  Gnathodentex aurolineatus  Lutjanidae  Lutjanus fulvus  Lutjanus kasmira  Lutjanus gibbus  Monacanthidae  Cantherhines pardalis  0.303 2.703  0.272 2.717  0.263 2.770  2.962  2.962  2.962  2.962  2.962  2.962  2.962  2.962  2.962  2.962  2.963  3.012                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Macropharyngodon meleagris   | 0.250 | 3.125 |
+| Novaculichthys taeniourus Halichoeres margaritaceus Halichoeres melanurus  Canathodentex aurolineatus  Lutjanidae  Lutjanus fulvus Lutjanus kasmira Lutjanus gibbus  Monacanthidae  Cantherhines pardalis  0.333 2.703  2.717  0.263 2.770  0.263 2.770  0.263 2.770  0.263 2.770  0.263 2.770  0.263 2.770  0.263 2.770                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Coris aygula                 | 0.303 | 2.703 |
+| Halichoeres margaritaceus Halichoeres melanurus 0.263 2.770  Lethrinidae Gnathodentex aurolineatus 0.267 3.099  Lutjanidae Lutjanus fulvus 0.276 2.962 Lutjanus kasmira 0.245 3.128 Lutjanus gibbus 0.250 3.012  Monacanthidae  Cantherhines pardalis 0.263 2.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Coris aygula                 | 0.303 | 2.703 |
+| Halichoeres melanurus 0.263 2.770  Lethrinidae  Gnathodentex aurolineatus 0.267 3.099  Lutjanidae  Lutjanus fulvus 0.276 2.962  Lutjanus kasmira 0.245 3.128  Lutjanus gibbus 0.250 3.012  Monacanthidae  Cantherhines pardalis 0.263 2.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Novaculichthys taeniourus    | 0.333 | 2.703 |
+| Lethrinidae Gnathodentex aurolineatus  Lutjanidae  Lutjanus fulvus  Lutjanus kasmira  Lutjanus gibbus  Lutjanus gibbus  O.245  3.128  Lutjanus gibbus  O.250  Monacanthidae  Cantherhines pardalis  0.263  2.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Halichoeres margaritaceus    | 0.272 | 2.717 |
+| Gnathodentex aurolineatus0.2673.099Lutjanidae0.2762.962Lutjanus fulvus0.2453.128Lutjanus gibbus0.2503.012Monacanthidae0.2632.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Halichoeres melanurus        | 0.263 | 2.770 |
+| Lutjanidae0.2762.962Lutjanus fulvus0.2453.128Lutjanus kasmira0.2453.012Lutjanus gibbus0.2503.012Monacanthidae0.2632.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Lethrinidae                  |       |       |
+| Lutjanus fulvus0.2762.962Lutjanus kasmira0.2453.128Lutjanus gibbus0.2503.012Monacanthidae0.2632.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Gnathodentex aurolineatus    | 0.267 | 3.099 |
+| Lutjanus kasmira 0.245 3.128 Lutjanus gibbus 0.250 3.012  Monacanthidae  Cantherhines pardalis 0.263 2.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Lutjanidae                   |       |       |
+| Lutjanus gibbus 0.250 3.012  Monacanthidae  Cantherhines pardalis 0.263 2.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Lutjanus fulvus              |       | 2.962 |
+| Monacanthidae Cantherhines pardalis 0.263 2.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Lutjanus kasmira             |       |       |
+| Cantherhines pardalis 0.263 2.899                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Lutjanus gibbus              | 0.250 | 3.012 |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Monacanthidae                |       |       |
+| 0 1 1 0050 0550                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Cantherhines pardalis        | 0.263 | 2.899 |
+| Oxymonacanthus longirostris 0.250 2.7/8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Oxymonacanthus longirostris  | 0.250 | 2.778 |
+| Mugilidae                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Mugilidae                    |       |       |
+| Liz vaigiensis 0.243 3.033                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Liz vaigiensis               | 0.243 | 3.033 |
+| Mullidae                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Mullidae                     |       |       |
+| Mulloidichthys flavolineatus 0.201 3.706                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Mulloidichthys flavolineatus | 0.201 | 3.706 |
+| Parupeneus bifasciatus 0.263 3.125                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Parupeneus bifasciatus       | 0.263 | 3.125 |
+| Parupeneus cyclostomus 0.254 3.125                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Parupeneus cyclostomus       | 0.254 | 3.125 |
+| Parupeneus multifasciatus 0.253 3.125                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Parupeneus multifasciatus    | 0.253 | 3.125 |
+
+|                               | a     | b     |                       | a     |
+|-------------------------------|-------|-------|-----------------------|-------|
+| Nemipteridae                  |       |       | Tetradontidae         |       |
+|                               |       |       |                       |       |
+| Scolopsis trilineatus         | 0.256 | 3.185 | Canthigaster solandri | 0.322 |
+| Pinguipedidae                 |       |       | Canthigaster bennetti | 0.322 |
+| Parapercis clathrata          | 0.211 | 3.559 | Zanclidae             |       |
+| Pomacanthidae                 |       |       | Zanclus cornutus      | 0.258 |
+| Pomocanthus imperator         | 0.282 | 3.226 |                       |       |
+| Pomocanthus imperator         | 0.282 | 3.226 |                       |       |
+| Centropyge flavissimus        | 0.348 | 2.646 |                       |       |
+| Pygoplites diacanthus         | 0.282 | 3.226 |                       |       |
+| Pomacentridae                 |       |       |                       |       |
+| Abudefduf septemfasciatus     | 0.295 | 3.205 |                       |       |
+| Abudefduf sexfasciatus        | 0.295 | 3.205 |                       |       |
+| Abudefduf sordidus            | 0.295 | 3.205 |                       |       |
+| Chromis acares                | 0.327 | 2.725 |                       |       |
+| Chromis viridis               | 0.327 | 2.724 |                       |       |
+| Chrysiptera brownriggii       | 0.282 | 3.175 |                       |       |
+| Chrysiptera glauca            | 0.282 | 3.175 |                       |       |
+| Chrysiptera taupou            | 0.282 | 3.170 |                       |       |
+| Dascyllus aruanus             | 0.349 | 2.946 |                       |       |
+| Plectroglyphidodon dickii     | 0.278 | 3.030 |                       |       |
+| Plectroglyphidodon lacrymatus | 0.278 | 3.030 |                       |       |
+| Plectroglyphidodon leucozona  | 0.278 | 3.030 |                       |       |
+| Pomacentrus vaiuli            | 0.339 | 2.730 |                       |       |
+| Stegastes albifasciatus       | 0.366 | 2.874 |                       |       |
+| Stegastes fasciolatus         | 0.366 | 2.877 |                       |       |
+| Stegastes lividus             | 0.366 | 2.874 |                       |       |
+| Stegastes nigricans           | 0.366 | 2.877 |                       |       |
+| Scaridae                      |       |       |                       |       |
+| Scarus oviceps                | 0.247 | 3.236 |                       |       |
+| Scarus oviceps                | 0.247 | 3.236 |                       |       |
+| Chlorurus japanensis          | 0.290 | 2.941 |                       |       |
+| Chlorurus sordidus            | 0.290 | 2.941 |                       |       |
+| Chlorurus sordidus            | 0.290 | 2.941 |                       |       |
+| Scarus spinus                 | 0.290 | 2.941 |                       |       |
+| Scarus spinus                 | 0.290 | 2.941 |                       |       |
+| Serranidae                    |       |       |                       |       |
+| Epinephelus merra             | 0.253 | 2.942 |                       |       |
+| Cepahlopholis argus           | 0.229 | 3.181 |                       |       |
+| Siganidae                     |       |       |                       |       |
+| Siganus spinus                | 0.250 | 3.067 |                       |       |
+| Syngnathidae                  |       |       |                       |       |
+| Corythoichthys sp.            | 0.077 | 4.000 |                       |       |
+|                               |       |       |                       |       |
+
+|                       | a     | b     |
+|-----------------------|-------|-------|
+| Tetradontidae         |       |       |
+| Canthigaster solandri | 0.322 | 2.865 |
+| Canthigaster bennetti | 0.322 | 2.801 |
+| Zanclidae             |       |       |
+| Zanclus cornutus      | 0.258 | 3.067 |
+
+**Appendix II:** The presence of reef fish species at each site surveyed along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004.
+
+|                        | Alofau | Alofau Lag. | Aua | Auto&Amaua | Aua Control | Faga'itua | Fagatele | Masefau | Nu'uuli Lag | nJO | Vatia |
+|------------------------|--------|-------------|-----|------------|-------------|-----------|----------|---------|-------------|-----|-------|
+| Aulostomidae           |        | X           |     |            |             |           |          |         |             |     |       |
+| Aulostomus chinensis   |        | X           |     |            |             |           |          |         |             |     |       |
+| Acanthuridae           | X      | X           | X   | X          |             | X         | X        | X       | X           | X   | X     |
+| Acanthurus achilles    |        |             |     |            |             |           |          |         |             |     | X     |
+| Acanthurus guttatus    |        |             |     |            |             |           |          |         |             |     | X     |
+| Acanthurus nigricans   |        |             |     |            |             |           |          | X       |             |     | X     |
+| Acanthurus             |        |             |     |            |             |           |          | X       |             | x   | x     |
+| nigrofuscus            |        |             |     |            |             |           |          | A       |             | A   | A     |
+| Acanthurus lineatus    | X      |             |     | X          |             |           | X        | X       |             |     | X     |
+| Acanthurus olivaceus   |        |             |     |            |             |           |          |         |             |     |       |
+| Acanthurus triostegus  |        | X           | X   | X          |             | X         | X        | X       |             | X   | X     |
+| Ctenochaetus striatus  | X      | X           | X   | X          |             | X         | X        | X       | X           | X   | X     |
+| Naso lituratus         |        | X           |     | X          |             |           | X        |         |             |     |       |
+| Zebrasoma scopas       | X      | X           |     | X          |             | X         | X        | X       |             |     | X     |
+| Zebrasoma veliferum    |        |             |     |            |             |           | X        |         |             |     |       |
+| Balistidae             |        |             | X   | X          |             | X         | X        |         | X           |     |       |
+| Melichthys niger       |        |             |     |            |             |           | X        |         |             |     |       |
+| Rhinecanthus           |        |             |     |            |             |           |          |         |             |     |       |
+| aculeatus              |        |             | X   | X          |             | X         |          |         | X           |     |       |
+| Carangidae             |        |             |     |            | X           |           |          |         |             |     |       |
+| Caranx melampygus      |        |             |     |            | X           |           |          |         |             |     |       |
+| Chaetodontidae         | X      | X           | X   | X          | X           | X         | X        | X       | X           | X   | X     |
+| Chaetodon auriga       |        |             |     |            |             |           |          |         |             | X   |       |
+| Chaetodon citronellus  | X      | X           | X   | X          | X           | X         | X        | X       |             | X   | X     |
+| Chaetodon ephippium    |        |             |     |            |             |           | X        |         |             |     |       |
+| Chaetodon              |        |             |     |            |             |           |          |         |             |     |       |
+| trifasciatus           | X      | X           |     |            |             | X         | X        | X       | X           | X   |       |
+| Chaetodon              |        |             |     |            |             |           |          |         |             |     |       |
+| melannotus             |        |             |     |            |             | X         |          |         |             |     |       |
+| Chaetodon              |        |             |     |            |             |           |          |         |             |     |       |
+| ornatissimus           |        | X           |     |            |             |           |          |         |             |     | X     |
+| Chaetodon reticulatus  | X      | X           |     |            |             |           | X        | X       |             |     | X     |
+| Chaetodon trifascialis | X      |             |     |            |             | X         |          |         |             |     | X     |
+| Chaetodon              |        |             |     |            |             |           |          |         |             |     |       |
+| unimaculatus           | X      |             |     |            |             |           |          |         |             |     |       |
+| Chaetodon              |        |             |     | _          |             |           |          | _       |             |     |       |
+| vagabundus             |        | X           | X   | X          | X           |           |          | X       |             |     |       |
+| Heniochus              |        |             |     |            |             |           |          |         |             |     |       |
+| chrysostomus           | X      | X           |     |            |             |           |          |         |             |     |       |
+| Heniochus varius       | X      |             |     |            |             |           |          |         |             |     |       |
+| Kyphosidae             |        |             |     |            |             |           |          |         |             | X   |       |
+| Kyphosus cinerascens   |        |             |     |            |             |           |          |         |             | X   |       |
+
+|                           | Alofau | Alofau<br>Lag. | Aua | Auto&<br>Amaua | Aua<br>Control | Faga'itua | Fagatele | Masefau | Nu'uuli<br>Lao | Ofu | Vatia |
+|---------------------------|--------|----------------|-----|----------------|----------------|-----------|----------|---------|----------------|-----|-------|
+| Labridae                  | X      | X              | X   | X              | X              | X         | X        | X       | X              | X   | X     |
+| Coris gaimard             |        |                |     |                |                |           |          |         |                | X   |       |
+| Gomphosus varius          |        |                |     |                |                |           |          | X       |                |     |       |
+| Halichoeres hortulanus    |        |                |     | X              |                |           |          | X       |                | X   |       |
+| Halichoeres margaritaceus |        |                | X   | X              | X              | X         |          | X       |                |     |       |
+| Halichoeres marginatus    |        |                |     |                |                |           |          | X       |                |     |       |
+| Halichoeres trimaculatus  |        |                |     | X              |                |           |          |         |                |     |       |
+| Hemigymnus melapterus     | X      | X              |     | X              |                | X         |          |         | X              |     |       |
+| Labrichthys unilineatus   |        |                | X   |                | X              | X         |          | X       |                |     |       |
+| Labroides dimidatus       | X      |                |     |                |                |           |          | X       | X              |     |       |
+| Novaculichthys taeniourus |        |                |     | X              |                |           |          |         |                |     |       |
+| Stethojulis bandanensis   |        | X              | X   |                |                |           |          | X       |                | X   |       |
+| Thalassoma hardwicke      | X      |                | X   | X              |                | X         | X        | X       | X              | X   | X     |
+| Lethrinidae               |        |                |     |                |                |           |          |         |                | x   |       |
+| Gnathodentex aurolineatus |        |                |     |                |                |           |          |         |                | X   |       |
+| Lutjanidae                |        |                |     |                | x              |           |          |         |                |     |       |
+| Lutjanus gibbus           |        |                |     |                | x              |           |          |         |                |     |       |
+| Monacanthidae             | X      |                |     |                |                |           |          |         |                |     |       |
+| Oxymonacanthus            |        |                |     |                |                |           |          |         |                |     |       |
+| longirostris              | X      |                |     |                |                |           |          |         |                |     |       |
+| Mugilidae                 |        |                |     | X              |                |           |          |         |                |     |       |
+| Liz vaigiensis            |        |                |     | X              |                |           |          |         |                |     |       |
+| Mullidae                  |        |                |     | X              |                |           |          | X       | X              | X   |       |
+| Parupeneus bifasciatus    |        |                |     |                |                |           |          |         |                | X   |       |
+| Parupeneus multifasciatus |        |                |     | X              |                |           |          |         |                |     |       |
+| Nemipteridae              |        |                |     |                |                |           |          |         |                |     |       |
+| Scolopsis trilineatus     |        | X              |     |                |                |           |          |         | X              |     |       |
+| Pinguipedidae             |        |                |     |                | X              |           |          |         | X              |     |       |
+| Parapercis clathrata      |        |                |     |                | X              |           |          |         | X              |     |       |
+| Pomacanthidae             |        |                |     |                |                |           |          | X       |                | x   | X     |
+| Centropyge flavissimus    |        |                |     |                |                |           |          | X       |                | X   | X     |
+| Pomocanthus imperator     |        |                |     |                |                |           |          |         | x              |     |       |
+| Pomocanthus imperator-juv |        |                |     | X              |                |           |          |         |                |     |       |
+| Pygoplites diacanthus     |        |                |     |                |                |           |          | X       |                |     |       |
+
+|                                 | Alofau | Alofau<br>Lag. | Aua | Auto&A<br>maua | Aua<br>Control | Faga'itua | Fagatele | Masefau | Nu'uuli<br>Lag | Ofu | Vatia |
+|---------------------------------|--------|----------------|-----|----------------|----------------|-----------|----------|---------|----------------|-----|-------|
+| Pomacentridae                   | X      | X              | X   | X              | X              | X         | X        | X       | X              | X   | X     |
+| Abudefduf septemfasciatus       |        |                |     | X              |                |           |          | x       |                |     |       |
+| Abudefduf sexfasciatus          |        |                | X   |                | X              | X         |          |         | X              |     |       |
+| Chromis acares                  |        |                |     |                |                |           |          |         | x              |     |       |
+| Chromis viridis                 | X      |                |     |                | X              | X         |          |         | X              | X   |       |
+| Chrysiptera brownriggii         | X      |                | X   | X              |                | X         | X        | X       |                |     |       |
+| Chrysiptera glauca              |        |                | X   | X              |                |           |          |         |                |     |       |
+| Chrysiptera taupou              | X      | X              | X   | X              | X              | X         | X        | X       |                | X   | X     |
+| Dascyllus aruanus               | X      | X              |     | X              | X              | X         |          |         | X              | X   |       |
+| Plectroglyphidodon dickii       |        |                |     |                |                |           |          | X       |                |     | X     |
+| Plectroglyphidodon<br>leucozona | X      |                | X   | x              |                | X         |          |         | X              |     |       |
+| Pomacentrus vaiuli              |        |                |     |                |                |           |          |         |                | X   |       |
+| Stegastes albifasciatus         | X      | X              | X   | X              | X              | X         |          | X       | X              |     | X     |
+| Stegastes fasciolatus           |        | X              |     | X              |                |           | X        |         |                | X   |       |
+| Stegastes lividus               | X      |                |     | X              |                | X         |          |         | X              |     | X     |
+| Stegastes nigricans             | X      | X              | X   | X              | X              | X         | X        | X       | X              | X   | X     |
+| Serranidae                      |        |                |     | X              |                |           |          |         |                | X   | X     |
+| Cephalopholis argus             |        |                |     |                |                |           |          |         |                |     |       |
+| Epinephelus merra               |        |                |     | X              |                |           |          |         |                |     | X     |
+| Scaridae                        | X      | X              | X   | X              | X              | X         | X        | X       | X              | X   | X     |
+| Chlorurus japanensis            |        |                |     |                |                |           |          |         |                | X   |       |
+| Chlorurus sordidus              |        |                |     |                |                |           |          |         | X              | X   |       |
+| Chlorurus sordidus              | X      | X              | X   | X              | X              | X         |          | X       | X              | X   | X     |
+| Scarus oviceps                  |        |                |     |                |                |           |          |         |                | X   |       |
+| Scarus oviceps                  | X      | X              |     |                |                | X         |          | X       |                |     |       |
+| Scarus schlegeli                |        |                |     |                |                |           | X        |         |                | X   |       |
+| Scarus spinus                   |        |                |     |                |                |           |          |         |                | X   |       |
+| Siganidae                       |        |                |     | X              |                |           |          |         |                |     |       |
+| Siganus spinus                  |        |                |     | X              |                |           |          |         |                |     |       |
+| Tetradontidae                   |        |                |     | X              | X              |           |          | X       |                |     |       |
+| Arothron nigropunctatus         |        |                |     |                |                | X         |          |         |                |     |       |
+| Canthigaster bennetti           |        |                |     | X              |                |           |          |         |                |     |       |
+| Canthigaster solandri           |        |                |     |                | X              |           |          | X       |                |     |       |
+| Zanclidae                       |        |                |     |                |                |           |          | X       | X              | X   |       |
+| Zanclus cornutus                |        |                |     |                |                |           |          | X       | x              | X   | l     |
+
+**Appendix III:** One-way ANOSIM statistical tests between the fish assemblage characteristics recorded at 8 reef flat and 3 lagoon sites grouped into their respective treatments based on protection from fishing activity (Significant when p ≤ 0.005). Surveys carried out along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Protection from fishing activity: CB-MPA = Community-based Marine Protected Area, sMPA = statutory Marine Protected Area, None = area of no protection.
+
+#### **Shannon-Weiner reef fish species diversity (H')**
+
+| Habitat   |              | Treatment Groups | R Statistic | Probability<br>(*= significant) |
+|-----------|--------------|------------------|-------------|---------------------------------|
+|           | sMPA         | CB-MPA           | -0.17       | 0.939                           |
+| Reef flat | sMPA         | None             | -0.07       | 0.720                           |
+|           | CB-MPA       | None             | 0.10        | 0.051                           |
+|           | sMPA         | CB-MPA           | 0.50        | 0.008 *                         |
+| Lagoon    | sMPA<br>None |                  | 0.39        | 0.008 *                         |
+|           | CB-MPA       | None             | -0.10       | 0.667                           |
+
+#### **Shannon-Weiner target reef fish species diversity (H')**
+
+| Habitat   | Treatment Groups |        | R Statistic | Probability<br>(*= significant) |
+|-----------|------------------|--------|-------------|---------------------------------|
+|           | sMPA             | CB-MPA | -0.03       | 0.550                           |
+| Reef flat | sMPA             | None   | -0.16       | 0.937                           |
+|           | CB-MPA           |        | 0.12        | 0.088                           |
+|           | sMPA             | CB-MPA | 0.65        | 0.008 *                         |
+| Lagoon    | sMPA             | None   | 0.53        | 0.008                           |
+|           | CB-MPA           | None   | -0.10       | 0.706                           |
+
+#### **Fish abundances**
+
+| Habitat   |        | Treatment Groups | R Statistic | Probability<br>(*= significant) |
+|-----------|--------|------------------|-------------|---------------------------------|
+|           | sMPA   | CB-MPA           | - 0.153     | 0.898                           |
+| Reef flat | sMPA   | None             | 0.21        | 0.037 *                         |
+|           | CB-MPA | None             | 0.10        | 0.023 *                         |
+|           | sMPA   | CB-MPA           | 0.95        | 0.008 *                         |
+| Lagoon    | sMPA   | None             | 0.98        | 0.008*                          |
+|           | CB-MPA | None             | 0.42        | 0.008*                          |
+
+#### **Target fish abundance**
+
+| Habitat   |        | Treatment Groups | R Statistic | Probability      |
+|-----------|--------|------------------|-------------|------------------|
+|           |        |                  |             | (*= significant) |
+|           | sMPA   | CB-MPA           | -0.20       | 0.973            |
+| Reef flat | sMPA   | None             | 0.04        | 0.341            |
+|           | CB-MPA | None             | 0.02        | 0.332            |
+|           | sMPA   | CB-MPA           | 0.68        | 0.008 *          |
+| Lagoon    | sMPA   | None             | 0.59        | 0.008 *          |
+|           | CB-MPA | None             | 0.14        | 0.119            |
+
+#### **Total fish biomass**
+
+| Habitat   |        | Treatment Groups | R Statistic | Probability<br>(*= significant) |
+|-----------|--------|------------------|-------------|---------------------------------|
+|           | sMPA   | CB-MPA           | - 0.08      | 0.722                           |
+| Reef flat | sMPA   | None             | 0.19        | 0.060                           |
+|           | CB-MPA | None             | 0.11        | 0.032 *                         |
+|           | sMPA   | CB-MPA           | 0.93        | 0.008 *                         |
+| Lagoon    | sMPA   | None             | 0.95        | 0.008 *                         |
+|           | CB-MPA | None             | 0.44        | 0.008 *                         |
+
+#### **Target fish biomass**
+
+| Habitat   |        | Treatment Groups | R Statistic | Probability<br>(*= significant) |
+|-----------|--------|------------------|-------------|---------------------------------|
+|           | sMPA   | CB-MPA           | - 0.22      | 0.979                           |
+| Reef flat | sMPA   | None             | - 0.12      | 0.785                           |
+|           | CB-MPA | None             | 0.10        | 0.028 *                         |
+|           | sMPA   | CB-MPA           | - 0.22      | 0.977                           |
+| Lagoon    | sMPA   | None             | - 0.12      | 0.767                           |
+|           | CB-MPA | None             | 0.10        | 0.014 *                         |
+
+**Appendix IV:** Total number of each reef fish species recorded and observed along 5 transects surveyed at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004.
+
+|                                 | Alofau                        |        | Alofau lagoon |        |         | Aua    |           |           |         | Aua control |          |           | Auto&Amaua |        | Faga'itua                    |           |             |        | Fagatele |          |       | Masefau         |       | Nu'uuli lagoon |           |          |    | Ofu                  |          |       | Vatia  |        |   |
+|---------------------------------|-------------------------------|--------|---------------|--------|---------|--------|-----------|-----------|---------|-------------|----------|-----------|------------|--------|------------------------------|-----------|-------------|--------|----------|----------|-------|-----------------|-------|----------------|-----------|----------|----|----------------------|----------|-------|--------|--------|---|
+|                                 | 4<br>3<br>2<br>1              | 1<br>5 | 3<br>2        | 4      | 5 1 2   | 3      | 5<br>4    | 1         | 2 3 4   |             | 1<br>5   | 3<br>2    | 4          | 1<br>5 | 3<br>2                       |           | 4 5 1       | 3<br>2 | 4        | 1<br>5   | 2     | 4<br>3          | 5     | 2<br>1         | 3         | 5<br>4   | 1  | 3<br>2               | 5<br>4   | 1     | 3<br>2 | 4      | 5 |
+| Pomacanthidae                   | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>1     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 4<br>0   | 3     | 0<br>0          | 2     | 0<br>0         | 1         | 0<br>0   | 2  | 1<br>2               | 4<br>1   | 2     | 0<br>1 | 1      | 3 |
+| Centropyge flavissimus          | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 3<br>0   | 3     | 0<br>0          | 2     | 0<br>0         | 0         | 0<br>0   | 2  | 1<br>2               | 4<br>1   | 2     | 0<br>1 | 1      | 3 |
+| Pomocanthus imperator           | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 0<br>0   | 0     | 0<br>0          | 0     | 0<br>0         | 1         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Pomocanthus imperator-juv       | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>1     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 0<br>0   | 0     | 0<br>0          | 0     | 0<br>0         | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Pygoplites diacanthus           | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 1<br>0   | 0     | 0<br>0          | 0     | 0<br>0         | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Chaetodontidae                  | 18 14 20 25 8                 | 9      | 5<br>8        | 9      | 5 1     | 5<br>4 | 1         | 1<br>3    | 3<br>4  | 0           | 2<br>1   | 2         | 6<br>3     | 8<br>2 |                              | 3 12 10 7 | 4           | 4 17   | 4 14     |          | 5 12  | 5<br>9          | 8     | 1<br>0         | 4         | 6<br>1   | 3  | 2<br>5               | 0<br>6   | 4     | 9      | 2 12 2 |   |
+| Chaetodon auriga                | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 0<br>0   | 1     | 0<br>1          | 0     | 0<br>0         | 0         | 0<br>0   | 0  | 1<br>1               | 0<br>1   | 0     | 0<br>0 | 0      | 0 |
+| Chaetodon citronellus           | 3<br>0<br>0<br>2              | 1<br>2 | 0<br>0        | 0<br>2 | 0       | 2<br>4 | 1         | 1<br>1    | 0<br>1  | 0           | 2<br>1   | 2         | 5<br>0     | 2<br>2 | 0<br>3                       | 2 0       | 1           | 2      | 0<br>0   | 1<br>0   | 0     | 2<br>4          | 2     | 0<br>0         | 0         | 0<br>1   | 2  | 1<br>2               | 0<br>3   | 0     | 0<br>0 | 3      | 0 |
+| Chaetodon ephippium             | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 1 1     | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 2      | 0<br>0   | 0<br>1   | 0     | 0<br>0          | 0     | 1<br>0         | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>1 | 0      | 0 |
+| Chaetodon lunula                | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 0<br>1   | 0     | 0<br>0          | 0     | 0<br>0         | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Chaetodon trifasciatus          | 0<br>3<br>4<br>9              | 3<br>3 | 4<br>3        | 5<br>5 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 4<br>0 | 6<br>0                       | 4 2       | 0           | 0      | 0<br>2   | 3<br>2   | 7     | 0<br>0          | 2     | 0<br>0         | 2         | 4<br>0   | 1  | 0<br>2               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Chaetodon melannotus            | 0<br>0<br>0<br>0              | 0<br>0 | 1<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 4 0       | 0           | 0      | 0<br>0   | 0<br>0   | 0     | 0<br>0          | 0     | 0<br>0         | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Chaetodon ornatissimus          | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>2        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 0<br>0   | 0     | 2<br>0          | 0     | 0<br>0         | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 2     | 0<br>4 | 4      | 2 |
+| Chaetodon reticulatus           | 1<br>2<br>0<br>0              | 0<br>0 | 0<br>2        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 2<br>0 | 0<br>0                       | 0 0       | 2           |        | 0 15 2   | 0<br>9   | 2     | 0<br>0          | 1     | 0<br>0         | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 2<br>4 | 4      | 0 |
+| Chaetodon semeion               | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 0 0       | 1           | 0      | 0<br>0   | 0<br>0   | 0     | 0<br>0          | 0     | 0<br>0         | 0         | 1<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Chaetodon trifascialis          | 3<br>2<br>8<br>3              | 0<br>1 | 0<br>0        | 0<br>1 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 6<br>0                       | 0 3       | 0           | 0      | 0<br>0   | 0<br>0   | 0     | 0<br>1          | 0     | 0<br>0         | 0         | 1<br>0   | 0  | 0<br>0               | 0<br>0   | 2     | 0<br>0 | 1      | 0 |
+| Chaetodon ulietensis            | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 0<br>0   | 2     | 0<br>0          | 0     | 0<br>0         | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Chaetodon unimaculatus          | 2<br>1<br>1<br>1              | 0<br>1 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 2<br>0   | 0<br>0   | 0     | 0<br>0          | 0     | 0<br>0         | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Chaetodon vagabundus            | 1<br>1<br>0<br>0              | 1<br>0 | 0<br>1        | 1      | 0 1     | 3<br>0 | 0         | 0<br>2    | 2<br>2  | 0           | 0<br>0   | 0         | 1<br>3     | 0<br>0 | 0<br>0                       | 0 2       | 0           | 0      | 0<br>0   | 1<br>0   | 0     | 1<br>3          | 2     | 0<br>0         | 1         | 0<br>0   | 0  | 0<br>0               | 0<br>2   | 0     | 0<br>0 | 0      | 0 |
+| Heniochus chrysostomus          | 4<br>9<br>0<br>2              | 4<br>1 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 0<br>0   | 0     | 0<br>0          | 0     | 0<br>0         | 1         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Heniochus varius                | 2<br>2<br>1<br>1              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 0<br>0   | 0     | 0<br>0          | 0     | 0<br>0         | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Zanclidae                       | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 1<br>0                       | 0 0       | 0           | 0      | 0<br>1   | 0<br>1   | 0     | 2<br>1          | 1     | 0<br>0         | 0         | 2<br>2   | 0  | 0<br>0               | 0<br>4   | 0     | 0<br>0 | 0      | 0 |
+| Zanclus cornutus                | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 1<br>0                       | 0 0       | 0           | 0      | 0<br>1   | 0<br>1   | 0     | 2<br>1          | 1     | 0<br>0         | 0         | 2<br>2   | 0  | 0<br>0               | 0<br>4   | 0     | 0<br>0 | 0      | 0 |
+| Pomacentridae                   | 55 91 51 81 95 42 51 46 30 35 |        |               |        | 42<br>7 | 15     | 25<br>37  | 42        | 9<br>47 | 23          | 62<br>16 | 66        | 41<br>62   |        | 33 126 17 131 38 76 36 38 35 |           |             |        |          | 27 32 31 | 36 84 |                 | 40 50 | 25 30          | 73        | 25<br>40 | 25 | 20<br>42             | 24<br>42 | 22 11 |        | 6 41 6 |   |
+| Abudefduf septemfasciatus       | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 3         | 3<br>4     | 0<br>2 | 0<br>0                       | 0 0       | 2           | 0      | 0<br>0   | 0<br>0   | 0     | 3<br>3          | 3     | 0<br>0         | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 1<br>1 | 0      | 0 |
+| Abudefduf sexfasciatus          | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 5         | 5<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 2<br>0     | 0<br>0 | 3<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 0<br>0   | 0     | 0<br>0          | 0     | 2<br>6         | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Chromis acares                  | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 0<br>0   | 0     | 0<br>0          | 0     | 0              | 0 30 0    | 0        | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Chromis viridis                 | 3 30 20 0<br>0<br>3           |        | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0 10 15 0 |         | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       |           | 6 10 0      | 0      | 0<br>0   | 0<br>0   | 0     | 0<br>0          | 0     | 0              | 0 10 0    | 0        |    | 0 10 0               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Chrysiptera brownriggii         | 3<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0      | 0 1 26  | 7      | 2 15      | 0         | 0<br>0  | 1           |          | 0 18 10 0 | 0          | 0<br>7 | 1<br>2                       | 0 0       | 4           | 0      | 5<br>6   | 0<br>0   |       | 0 15 20 10 0    |       | 1              | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Chrysiptera glauca              | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 4       | 3<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>8     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 0<br>0   | 0     | 0<br>0          | 0     | 0<br>0         | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Chrysiptera taupou              | 1 14 8<br>12 0                |        | 7 10 0        | 0<br>0 | 0       | 2<br>5 | 4         | 2<br>7    | 5       | 0 18        | 9<br>4   | 4         | 0 18 4     | 0      | 0<br>7                       |           | 0 0 14 17 9 |        | 5        | 6<br>6   | 1     | 0<br>0          | 0     | 0<br>0         | 0         | 0        |    | 0 10 16 14 32 8 13 0 |          |       |        | 0 16 0 |   |
+| Dascyllus aruanus               | 1 31 12 0 17 10 3             |        | 3 11          | 3      | 0       | 0<br>0 | 0         | 0 16 10 0 |         | 0           | 0<br>0   | 7         | 0<br>7     | 0<br>5 | 7<br>1                       | 0 4       | 0           | 0      | 0<br>0   | 0<br>0   | 0     | 0<br>0          | 0     |                | 8 15 14 6 | 7        | 0  | 0<br>0               | 7<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Plectroglyphidodon dickii       | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 0<br>0   | 1     | 2<br>0          | 0     | 0<br>0         | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 7     | 5<br>4 | 1      | 1 |
+| Plectroglyphidodon lacrymatus 0 | 0<br>0<br>0                   | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 1<br>0   | 0     | 0<br>0          | 0     | 0<br>0         | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>2 | 0      | 0 |
+| Plectroglyphidodon leucozona 0  | 0 12 0<br>0                   | 0      | 0<br>0        | 2<br>0 | 2 11    |        | 3<br>3 12 | 0         | 0<br>0  | 0           | 0 12 0   |           | 0<br>4     | 0<br>0 | 0<br>5                       | 0 0       | 0           | 0      | 0<br>0   | 0<br>0   | 2     | 0<br>0          | 0     | 2<br>4         | 0         | 0<br>0   | 0  | 0<br>0               | 0<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Pomacentrus vaiuli              | 0<br>0<br>0<br>0              | 0<br>0 | 0<br>0        | 0<br>0 | 0       | 0<br>0 | 0         | 0<br>0    | 0<br>0  | 0           | 0<br>0   | 0         | 0<br>0     | 0<br>0 | 0<br>0                       | 0 0       | 0           | 0      | 0<br>0   | 0<br>0   | 2     | 0<br>0          | 0     | 0<br>0         | 0         | 0<br>0   | 0  | 1<br>1               | 2<br>0   | 0     | 0<br>0 | 0      | 0 |
+| Stegastes albifasciatus         | 3<br>3<br>0<br>0              | 4<br>0 | 0<br>0        | 2<br>0 | 0       | 0      | 0<br>0 10 |           | 5 10 9  | 2           |          | 6 12 26 3 | 6          | 0<br>0 | 0<br>3                       | 0 0       | 0           | 0      | 0<br>0   | 0        |       | 8 24 53 15 26 0 |       | 4              | 6         | 1<br>3   | 0  | 2<br>0               | 0<br>0   | 0     | 0<br>0 | 3      | 0 |
+|                                 |                               |        |               |        |         |        |           |           |         |             |          |           |            |        |                              |           |             |        |          |          |       |                 |       |                |           |          |    |                      |          |       |        |        |   |
+
+| Stegastes fasciolatus       | 0<br>0<br>0<br>0<br>0           | 0 16 0      | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 5 15 0<br>0 | 5          | 0<br>0 | 0          | 0 0 16 18 17 0 17 0 |             |   | 0<br>0              | 0<br>0 | 0 | 0<br>0       | 0      | 0 10 13 0 | 0<br>0      | 0<br>0 | 0 | 0<br>0 |
+|-----------------------------|---------------------------------|-------------|-------------|--------|--------|-------------|--------|-------------|------------|--------|------------|---------------------|-------------|---|---------------------|--------|---|--------------|--------|-----------|-------------|--------|---|--------|
+| Stegastes lividus           | 14 4 16 1 13 0                  | 0<br>0      | 0<br>0<br>2 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 9<br>3<br>2 | 0<br>0     | 0<br>0 | 60 10 36 0 | 0                   | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0            | 0 14 3 | 0<br>0    | 0<br>0<br>0 | 1<br>0 |   | 0 10 5 |
+| Stegastes nigricans         | 25 56 16 18 37 21 22 43 17 28 0 |             |             | 0<br>0 | 0<br>4 | 0<br>7<br>4 | 5<br>2 | 9           | 8 12 12 10 | 0<br># | 60 22 26 0 | 3                   |             |   | 3 17 9 16 6 13 0 11 |        | 7 | 6 13 17 14 5 |        | 2         | 3 10 7      | 3<br>2 |   | 0 11 0 |
+| Lethrinidae                 | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 8<br>6    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Gnathodentex aurolineatus   | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 8<br>6    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Monacanthidae               | 2 11 1<br>2<br>2                | 0<br>0<br>0 | 0<br>0<br>2 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 1<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 2<br>0 |
+| Cantherhines pardalis       | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 1<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Oxymonacanthus longirostris | 2 11 1<br>2<br>2                | 0<br>0<br>0 | 0<br>0<br>2 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 2<br>0 |
+| Mullidae                    | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>1 | 1<br>0 | 0<br>0<br>0 | 0<br>0 | 3<br>1<br>2 | 0<br>2     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>1      | 0 | 2<br>0<br>0         | 0<br>1 | 1 | 0<br>2       | 0<br>0 | 0<br>1    | 1<br>1<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Parupeneus bifasciatus      | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 1<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 1<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 0<br>1    | 1<br>1<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Parupeneus cyclostomus      | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 1<br>0<br>1 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 1<br>0<br>0         | 0<br>0 | 0 | 0<br>2       | 0<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Parupeneus multifasciatus   | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>1 | 1<br>0 | 0<br>0<br>0 | 0<br>0 | 1<br>1<br>1 | 0<br>2     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>1      | 0 | 0<br>0<br>0         | 0<br>1 | 1 | 0<br>0       | 0<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Serranidae                  | 0<br>1<br>0<br>0<br>1           | 0<br>1<br>0 | 0<br>0<br>1 | 0<br>0 | 0<br>0 | 0<br>0<br>1 | 0<br>0 | 3<br>6<br>0 | 1<br>0     | 0<br>0 | 0 0<br>0   | 1                   | 0<br>0<br>1 | 0 | 1<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 0<br>0    | 1<br>1<br>2 | 0<br>0 | 0 | 1<br>2 |
+| Cephalopholis argus         | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 0<br>0    | 1<br>0<br>1 | 0<br>0 | 0 | 0<br>0 |
+| Epinephelus merra           | 0<br>1<br>0<br>0<br>1           | 0<br>1<br>0 | 0<br>0<br>1 | 0<br>0 | 0<br>0 | 0<br>0<br>1 | 0<br>0 | 3<br>6<br>0 | 1<br>0     | 0<br>0 | 0 0<br>0   | 1                   | 0<br>0<br>1 | 0 | 1<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 0<br>0    | 0<br>1<br>1 | 0<br>0 | 0 | 1<br>2 |
+| Carangidae                  | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0 1<br>0    | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Caranx melampygus           | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0 1<br>0    | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Mugilidae                   | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 5 24       | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Ellochelon vaigiensis       | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 5 24       | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Nemipteridae                | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>1 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>1 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Scolopsis trilineatus       | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>1 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>1 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Scaridae                    | 1 11 2<br>5<br>3<br>1           | 3<br>0      | 0<br>4 11   | 4<br>5 | 3<br>5 | 4<br>0<br>0 | 0<br>0 | 0<br>5<br>1 | 0<br>0     | 0<br>1 | 3          | 4 12 0              | 2<br>2<br>1 | 0 | 2<br>2<br>1         | 2<br>2 | 1 | 5<br>3       | 0      | 3 15 34   | 23<br>8 18  | 5<br>0 | 0 | 0<br>0 |
+| Chlorurus japanensis        | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>1 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 0<br>4    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Chlorurus sordidus          | 0<br>0<br>0<br>0<br>0           | 1<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0                   | 0<br>0<br>1 | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>3       | 0<br>0 | 0 11      | 0<br>5<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Chlorurus sordidus          | 7<br>0<br>2<br>0<br>0           | 2<br>0<br>2 | 0<br>7<br>1 | 4<br>5 | 3<br>5 | 4<br>0<br>0 | 0<br>0 | 0<br>4<br>0 | 0<br>0     | 0<br>0 | 0 4<br>0   | 0<br>0              | 0<br>1      | 0 | 2<br>0<br>0         | 1<br>0 | 1 | 4<br>0       | 3<br>0 | 4<br>5    | 6 10 6      | 5<br>0 | 0 | 0<br>0 |
+| Scarus oviceps              | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 5<br>3    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Scarus oviceps              | 4<br>1<br>3<br>3<br>1           | 0<br>0<br>0 | 0<br>4<br>3 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>1 | 4 8<br>3   | 0<br>0              | 0<br>0      | 0 | 0<br>2<br>1         | 1<br>0 | 0 | 1<br>0       | 0<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Scarus schlegeli            | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>1<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 2<br>1      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 4<br>0    | 0 15 0<br>0 | 0      | 0 | 0<br>0 |
+| Scarus spinus               | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>2 | 0 | 0<br>0       | 0<br>0 | 3 10 2    | 2<br>3      | 0<br>0 | 0 | 0<br>0 |
+| Tetradontidae               | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 1<br>0 | 0<br>0 | 0<br>2<br>0 | 1<br>3 | 0<br>0<br>0 | 1<br>3     | 0<br>1 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>2<br>1         | 0<br>0 | 1 | 0<br>0       | 0<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Arothron nigropunctatus     | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>1 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Canthigaster bennetti       | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 1<br>3     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Canthigaster solandri       | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 1<br>0 | 0<br>0 | 0<br>2<br>0 | 1<br>3 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>2<br>1         | 0<br>0 | 1 | 0<br>0       | 0<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Siganidae                   | 0<br>0<br>0<br>1<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>1 | 0<br>0<br>0 | 0<br>0 | 5<br>6<br>0 | 2<br>0     | 0<br>0 | 1 0<br>0   | 0<br>0              | 2<br>0      | 0 | 2<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 1<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Siganus spinus              | 0<br>0<br>0<br>1<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>1 | 0<br>0<br>0 | 0<br>0 | 5<br>6<br>0 | 2<br>0     | 0<br>0 | 1 0<br>0   | 0<br>0              | 2<br>0      | 0 | 2<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 1<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Kyphosidae                  | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 0<br>1    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Kyphosus cinerascens        | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>0<br>0         | 0<br>0 | 0 | 0<br>0       | 0<br>0 | 0<br>1    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Pinguipedidae               | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>3 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>1<br>0         | 0<br>1 | 0 | 2<br>0       | 1<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+| Parapercis clathrata        | 0<br>0<br>0<br>0<br>0           | 0<br>0<br>0 | 0<br>0<br>0 | 0<br>0 | 0<br>0 | 0<br>0<br>3 | 0<br>0 | 0<br>0<br>0 | 0<br>0     | 0<br>0 | 0 0<br>0   | 0<br>0              | 0<br>0      | 0 | 0<br>1<br>0         | 0<br>1 | 0 | 2<br>0       | 1<br>0 | 0<br>0    | 0<br>0<br>0 | 0<br>0 | 0 | 0<br>0 |
+|                             |                                 |             |             |        |        |             |        |             |            |        |            |                     |             |   |                     |        |   |              |        |           |             |        |   |        |
+
+| Lutjanidae                 | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 1<br>0 | 2   | 2 | 0<br>2 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 1 | 0<br>0    | 0    | 0<br>0          | 1  | 0<br>0   | 0 |
+|----------------------------|--------------------------|---|-----------|--------|---|---|--------|-----|---|---|---|--------|-----|---|--------|---------|---------|----------|---|-------|--------|------------|-----|-----------|------|---------------------------|----------|--------|--------|----|---------|---|--------|------|---|-----------|------|-----------------|----|----------|---|
+| Lutjanus fulvus            | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 1<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 1  | 0<br>0   | 0 |
+| Lutjanus gibbus            | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 2   | 2 | 0<br>2 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Lutjanus kasmira           | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 1 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Acanthuridae               | 32 8 20 11 31 9 11 4 34  |   |           |        |   |   | 9      | 0   | 7 | 4 | 7 | 0<br>6 | 0   | 2 | 0<br>0 |         | 7 18 19 | 4        | 5 | 35    | 3<br>0 |            |     | 9 4 35 30 | 43   |                           | 34 34 32 | 40     | 8 23   |    | 8<br>24 | 1 | 4      | 4 11 |   | 9 15 17   | 23   | 6 13            | 20 | 23 32 20 |   |
+| Acanthurus achilles        | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>1    | 0    | 0                         | 0        | 0<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>1    | 0    | 0<br>0          | 0  | 0<br>3   | 1 |
+| Acanthurus blochii         | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>1   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 0      | 1  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Acanthurus guttatus        | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 0      | 2  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 6<br>0   | 0 |
+| Acanthurus nigricans       | 0<br>0                   | 0 | 0         | 0<br>2 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 2 0 | 0<br>1    | 0    | 1                         | 0        | 7<br>5 | 0      | 1  | 0<br>2  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 3 |
+| Acanthurus nigricauda      | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>1          | 0  | 0<br>0   | 0 |
+| Acanthurus nigrofuscus     | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 1       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 5<br>0 | 0 11   |    | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0         | 5 11 | 0<br>0          | 0  | 5<br>0   | 0 |
+| Acanthurus lineatus        | 0<br>0                   | 1 | 2         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 1 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 2<br>0   | 2 | 0     | 0<br>0 |            | 0 0 | 1<br>3    | 1    | 5                         | 3        | 1<br>1 | 1      | 5  | 0<br>3  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 1    | 2<br>0          |    | 2 10 6   | 0 |
+| Acanthurus olivaceus       | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 1       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Acanthurus triostegus      | 0<br>0                   | 0 | 2         | 1<br>0 | 0 | 2 | 2<br>3 | 0   | 3 | 2 | 1 | 0<br>2 | 0   | 2 | 0<br>0 | 4       | 7       | 1<br>9   | 0 | 0     | 3<br>0 |            | 4 2 | 0<br>1    |      | 8 14 9                    |          | 0<br>0 | 5      | 3  | 0<br>2  | 0 | 0<br>0 | 0    | 1 | 4<br>2    | 0    | 1<br>0          | 0  | 0<br>6   | 1 |
+| Ctenochaetus striatus      | 22 6 19 2 15 8 10 0 22 7 |   |           |        |   |   |        | 0   | 3 | 2 | 6 | 0<br>4 | 0   | 0 | 0<br>0 | 0       | 5       | 1<br>0   | 3 | 32    | 0<br>0 |            |     |           |      | 3 2 23 21 19 2 13 24 25 2 |          |        |        |    | 0 15 8  | 1 | 4<br>4 | 9    |   | 6 12 8 11 |      | 5 10 13 4 15 12 |    |          |   |
+| Naso lituratus             | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 2 | 0<br>4 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 2       | 5       | 0<br>6   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 4    | 9                         | 3        | 0<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Zebrasoma scopas           | 10 2                     | 0 |           | 5 14 0 | 1 | 0 | 0<br>5 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>3   | 0 | 3     | 0<br>0 |            | 0 0 | 5         | 6 11 | 3                         | 6        | 2<br>2 | 0      | 0  | 0<br>2  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 5  | 0<br>0   | 3 |
+| Zebrasoma veliferum        | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 2<br>1    | 0    | 0                         | 0        | 0<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 2    | 2 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Balistidae                 | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0      | 0 1 | 4 | 5 | 0 | 0<br>4 | 0   | 0 | 0<br>0 | 1       | 1       | 0<br>1   | 0 | 0     | 0<br>4 |            | 0 0 | 0<br>0    | 5    | 0                         | 0        | 1<br>0 | 0      | 0  | 7<br>0  | 0 | 0<br>1 | 0    | 0 | 0<br>1    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Balistapus undulatus       | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 1<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Melichthys niger           | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 5    | 0                         | 0        | 0<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Melichthys vida            | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>1    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Rhinecanthus aculeatus     | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0      | 0 1 | 4 | 5 | 0 | 0<br>4 | 0   | 0 | 0<br>0 | 1       | 1       | 0<br>1   | 0 | 0     | 0<br>4 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 0      | 0  | 7<br>0  | 0 | 0<br>1 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Aulostomidae               | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>1 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Aulostomus chinensis       | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>1 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Labridae                   | 10 7                     |   | 3 11 19 2 |        | 0 | 0 | 5      | 2 3 | 4 | 8 | 6 | 6<br>5 | 7   | 5 | 1      | 3 16 30 |         | 27 15 12 |   | 13 13 |        | 71 30 22 5 |     | 2         |      | 3 10                      | 4 14     |        | 22 34  | 23 | 6<br>20 | 1 | 2<br>4 | 6    | 5 | 6<br>4    | 5    | 0<br>6          | 1  | 5<br>8   | 0 |
+| Chelinus trilobatus        | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 1      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Coris aygula               | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 1<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 1    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Coris gaimard              | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 1      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 2<br>0    | 0    | 0<br>1          | 0  | 0<br>0   | 0 |
+| Gomphosus varius           | 0<br>0                   | 1 | 1         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>2   | 0 | 1     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 3<br>2 | 1      | 2  | 0<br>1  | 0 | 0<br>0 | 0    | 0 | 0<br>1    | 0    | 0<br>0          | 1  | 1<br>0   | 0 |
+| Halichoeres hortulanus     | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 1 | 0 | 0 | 0<br>1 | 0   | 0 | 0<br>0 | 3       | 5       | 3<br>0   | 2 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 1<br>1 | 9      | 2  | 0<br>2  | 0 | 0<br>0 | 0    | 2 | 0<br>0    | 2    | 0<br>1          | 0  | 0<br>0   | 0 |
+| Halichoeres margaritaceus  | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 3 | 3 | 0 | 6<br>4 | 5   | 2 | 1<br>0 | 2       | 3       | 0<br>0   | 2 | 0 13  | 0      |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 2<br>0 | 4      | 4  | 0<br>4  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Halichoeres marginatus     | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>2 | 3      | 4  | 0<br>2  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Halichoeres melanurus      | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0 1 |   | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Halichoeres trimaculatus   | 0<br>1                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 2       | 7       | 5<br>3   | 4 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>2 | 0    | 0 | 0<br>0    | 0    | 0<br>2          | 0  | 0<br>0   | 0 |
+| Hemigymnus melapterus      | 1<br>1                   | 0 | 0         | 1<br>1 | 0 | 0 | 2<br>1 | 0   | 0 | 0 | 1 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 6       | 0<br>7   | 0 | 0     | 1<br>0 |            | 1 2 | 0<br>0    | 1    | 0                         | 0        | 0<br>0 | 0      | 0  | 2<br>0  | 0 | 0<br>0 | 2    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Labrichthys unilineatus    | 1<br>0                   | 0 | 0         | 0<br>1 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 3 | 0<br>0 | 2   | 2 | 2<br>1 | 0       | 0       | 0<br>0   | 0 | 1     | 0<br>0 |            | 1 1 | 1<br>0    | 0    | 0                         | 0        | 3<br>3 | 0      | 2  | 0<br>2  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Labroides dimidatus        | 2<br>1                   | 0 | 1         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>1   | 0 | 0     | 0<br>0 |            | 0 1 | 0<br>0    | 0    | 0                         | 0        | 0<br>1 | 0      | 2  | 4<br>0  | 1 | 0<br>1 | 1    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Macropharyngodon meleagris | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 1      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 0    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Novaculichthys taeniourus  | 0<br>0                   | 0 | 0         | 0<br>0 | 0 | 0 | 0<br>0 | 0   | 0 | 0 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 2 11    | 0        | 0 | 0     | 0<br>0 |            | 0 0 | 0<br>0    | 0    | 0                         | 0        | 0<br>0 | 0      | 0  | 0<br>0  | 0 | 0<br>0 | 0    | 0 | 0<br>0    | 1    | 0<br>0          | 0  | 0<br>0   | 0 |
+| Stethojulis bandanensis    | 0<br>0                   | 0 | 2         | 0<br>0 | 0 | 0 | 4      | 0 3 | 0 | 2 | 0 | 0<br>0 | 0   | 0 | 0<br>0 | 0       | 0       | 0<br>0   | 0 | 1     | 1<br>0 |            | 0 0 | 0<br>0    | 0    | 2                         | 0        | 5<br>1 | 2      | 5  | 0<br>2  | 0 | 0<br>0 | 0    | 1 | 1<br>0    | 1    | 0<br>1          | 0  | 0<br>0   | 0 |
+| Thalassoma hardwicke       | 3<br>7                   | 2 |           | 7 17 1 | 0 | 0 | 0<br>0 | 0   | 0 | 3 | 1 | 0<br>0 | 0   | 0 | 0<br>0 | 9       | 7       | 7<br>3   | 4 | 10    | 0      | 69 28 18 5 |     | 1         | 2    | 8                         | 4        | 4      | 7 12 2 |    | 0<br>7  | 0 | 2<br>1 | 3    | 2 | 3<br>3    | 0    | 0<br>1          | 0  | 4<br>8   | 0 |
+|                            |                          |   |           |        |   |   |        |     |   |   |   |        |     |   |        |         |         |          |   |       |        |            |     |           |      |                           |          |        |        |    |         |   |        |      |   |           |      |                 |    |          |   |
+
+**Appendix V:** Main reef fish species observed and recorded along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004. Source: FishBase (2004).
+
+# **Pomacentridae -** Damselfishes
+
+![](_page_185_Picture_2.jpeg)
+
+![](_page_185_Picture_3.jpeg)
+
+![](_page_185_Picture_4.jpeg)
+
+*Stegastes nigricans* – Dusky Gregory *Chrysiptera taupou* – South Seas Deveil *Dascyllus aruanus* – Humbug Dascyllus
+
+![](_page_185_Picture_6.jpeg)
+
+![](_page_185_Picture_7.jpeg)
+
+![](_page_185_Picture_8.jpeg)
+
+![](_page_185_Picture_9.jpeg)
+
+**Acanthuridae -** Surgeonfishes **Scaridae –** Parrotfishes **Labridae -** Wrasses *Ctenochaetus striatus* – Striped bristletooth Chlorurus sordidus – IP – Bullethead parrotfish Thalassoma hardwicke – Six-bar wrasse
+
+![](_page_186_Picture_2.jpeg)
+
+Acanthurus triostegus – Convict tang Scarus oviceps – IP – Dark-capped parrotfish *Halichoeres hortulanus* – Checkerboard wrasse
+
+**Appendix VI**: Mean (± standard deviation) fish abundance observed in length categories ranging from 5 to 30 cm, at each site during surveys along 5 transects at 8 reef flat sites and 3 lagoon sites on the American Samoan islands of Tutuila and Manu'a between June and August 2004.
+
+| m<br>0-5c         | Alofau |         | Alofau |         | Aua  |         | Aua     |         | Auto      | &       | Faga'itua |     | Fagatele  |         | Masefau |         | Nuu'uli |         | Ofu    |         | Vatia |        |
+|-------------------|--------|---------|--------|---------|------|---------|---------|---------|-----------|---------|-----------|-----|-----------|---------|---------|---------|---------|---------|--------|---------|-------|--------|
+|                   |        |         | lagoon |         |      |         | control |         | maua<br>A |         |           |     |           |         |         |         | Lagoon  |         | Lagoon |         |       |        |
+|                   | Mean   | D<br>S  | Mean   | D<br>S  | Mean | D<br>S  | Mean    | D<br>S  | S<br>Mean | D       | S<br>Mean | D   | S<br>Mean | D       | Mean    | D<br>S  | Mean    | D<br>S  | Mean   | D<br>S  | Mean  | D<br>S |
+| Chaetodontidae    | 0.4    | 0.9 0.2 |        | 0.4 0.6 |      | 0.9 0.6 |         | 1.3 0.0 |           | 0.0 0.2 | 0.4       | 0.0 |           | 0.0 0.0 |         | 0.0 0.4 |         | 0.5 0.0 |        | 0.0 0.0 |       | 0.0    |
+| Zanclidae         | 0.0    | 0.0 0.0 |        | 0.0 0.0 |      | 0.0 0.0 |         | 0.0 0.0 |           | 0.0 0.0 | 0.0       | 0.0 |           | 0.0 0.0 |         | 0.0 0.0 |         | 0.0 0.0 |        | 0.0 0.0 |       | 0.0    |
+| macanthidae<br>Po | 0.0    | 0.0 0.0 |        | 0.0 0.0 |      | 0.0 0.0 |         | 0.0 0.0 |           | 0.0 0.0 | 0.0       | 0.0 |           | 0.0 0.0 |         | 0.0 0.0 |         | 0.0 0.0 |        | 0.0 0.0 |       | 0.0    |
+| Lethrinidae       | 0.0    | 0.0 0.0 |        | 0.0 0.0 |      | 0.0 0.0 |         | 0.0 0.0 |           | 0.0 0.0 | 0.0       | 0.0 |           | 0.0 0.0 |         | 0.0 0.0 |         | 0.0 0.0 |        | 0.0 0.0 |       | 0.0    |
+| mipteridae<br>Ne  | 0.0    | 0.0 0.0 |        | 0.0 0.0 |      | 0.0 0.0 |         | 0.0 0.0 |           | 0.0 0.0 | 0.0       | 0.0 |           | 0.0 0.0 |         | 0.0 0.0 |         | 0.0 0.0 |        | 0.0 0.0 |       | 0.0    |
+| Scaridae          | 0.0    | 0.0 0.6 |        | 0.9 0.8 |      | 1.8 0.4 |         | 0.9 0.2 |           | 0.4 0.0 | 0.0       | 0.0 |           | 0.0 0.0 |         | 0.0 1.0 |         | 1.4 0.8 |        | 1.3 0.0 |       | 0.0    |
+| Serranidae        | 0.0    | 0.0 0.0 |        | 0.0 0.0 |      | 0.0 0.0 |         | 0.0 0.0 |           | 0.0 0.0 | 0.0       | 0.0 |           | 0.0 0.0 |         | 0.0 0.0 |         | 0.0 0.0 |        | 0.0 0.0 |       | 0.0    |
+| Siganidae         | 0.0    | 0.0 0.0 |        | 0.0 0.0 |      | 0.0 0.0 |         | 0.0 0.0 |           | 0.0 0.0 | 0.0       | 0.0 |           | 0.0 0.0 |         | 0.0 0.0 |         | 0.0 0.0 |        | 0.0 0.0 |       | 0.0    |
+| Lutjanidae        | 0.0    | 0.0 0.0 |        | 0.0 0.0 |      | 0.0 0.0 |         | 0.0 0.0 |           | 0.0 0.0 | 0.0       | 0.0 |           | 0.0 0.0 |         | 0.0 0.0 |         | 0.0 0.0 |        | 0.0 0.0 |       | 0.0    |
+| Acanthuridae      | 1.4    | 2.6 0.6 |        | 0.9 0.4 |      | 0.9 0.0 |         | 0.0 2.8 |           | 3.3 0.0 | 0.0       | 0.0 |           | 0.0 0.0 |         | 0.0 0.2 |         | 0.4 0.0 |        | 0.0 0.0 |       | 0.0    |
+| Labridae          | 0.2    | 0.4 0.0 |        | 0.0 0.2 |      | 0.4 0.0 |         | 0.0 2.2 |           | 2.2 0.8 | 1.3       | 0.0 |           | 0.0 0.0 |         | 0.0 0.0 |         | 0.0 0.0 |        | 0.0 0.0 |       | 0.0    |
+| Balistidae        | 0.0    | 0.0 0.0 |        | 0.0 0.2 |      | 0.4 0.0 |         | 0.0 0.0 |           | 0.0 0.0 | 0.0       | 0.0 |           | 0.0 0.0 |         | 0.0 0.2 |         | 0.4 0.0 |        | 0.0 0.0 |       | 0.0    |
+
+| m<br>5-10 c       |      | Alofau | Alofau    |           | Aua |           | control<br>Aua | Auto<br>A | &       | Faga'itua |        | Fagatele |         | Masefau |         | Nuu'uli |         | Ofu    |         | Vatia |        |
+|-------------------|------|--------|-----------|-----------|-----|-----------|----------------|-----------|---------|-----------|--------|----------|---------|---------|---------|---------|---------|--------|---------|-------|--------|
+|                   |      |        | Lagoon    |           |     |           |                |           | maua    |           |        |          |         |         |         | Lagoon  |         | Lagoon |         |       |        |
+|                   | Mean | D<br>S | S<br>Mean | Mean<br>D | S   | Mean<br>D | D<br>S         | Mean      | D<br>S  | Mean      | D<br>S | Mean     | D<br>S  | Mean    | D<br>S  | Mean    | D<br>S  | Mean   | D<br>S  | Mean  | D<br>S |
+| Chaetodontidae    | 5.4  |        | 3.4 0.2   | 0.4 1.8   |     | 1.3 1.0   | 1.2 3.0        |           | 1.7 2.6 |           | 1.9    | 0.6      | 0.9 2.4 |         | 0.5 1.0 |         | 1.4 0.2 |        | 0.4 1.0 |       | 2.2    |
+| Zanclidae         | 0.0  |        | 0.0 0.0   | 0.0 0.0   |     | 0.0 0.0   | 0.0 0.0        |           | 0.0 0.0 |           | 0.0    | 0.0      | 0.0 0.0 |         | 0.0 0.0 |         | 0.0 0.0 |        | 0.0 0.0 |       | 0.0    |
+| macanthidae<br>Po | 0.0  |        | 0.0 0.0   | 0.0 0.0   |     | 0.0 0.0   | 0.0 0.2        |           | 0.4 0.0 |           | 0.0    | 0.0      | 0.0 1.0 |         | 1.0 0.0 |         | 0.0 1.2 |        | 0.4 0.4 |       | 0.5    |
+| Lethrinidae       | 0.0  |        | 0.0 0.0   | 0.0 0.0   |     | 0.0 0.0   | 0.0 0.0        |           | 0.0 0.0 |           | 0.0    | 0.0      | 0.0 0.0 |         | 0.0 0.0 |         | 0.0 0.0 |        | 0.0 0.0 |       | 0.0    |
+| mipteridae<br>Ne  | 0.0  |        | 0.0 0.0   | 0.0 0.0   |     | 0.0 0.0   | 0.0 0.0        |           | 0.0 0.0 |           | 0.0    | 0.0      | 0.0 0.0 |         | 0.0 0.0 |         | 0.0 0.0 |        | 0.0 0.0 |       | 0.0    |
+| Scaridae          | 0.8  |        | 0.8 0.6   | 0.9 2.0   |     | 2.0 0.4   | 0.9 0.8        |           | 1.8 1.6 |           | 3.0    | 0.4      | 0.9 1.2 |         | 0.8 1.8 |         | 2.0 5.4 |        | 4.8 0.0 |       | 0.0    |
+| Serranidae        | 0.0  |        | 0.0 0.0   | 0.0 0.0   |     | 0.0 0.2   | 0.4 1.4        |           | 1.9 0.0 |           | 0.0    | 0.2      | 0.4 0.0 |         | 0.0 0.0 |         | 0.0 0.0 |        | 0.0 0.0 |       | 0.0    |
+| Siganidae         | 0.0  |        | 0.0 0.0   | 0.0 0.0   |     | 0.0 0.0   | 0.0 2.0        |           | 2.1 0.0 |           | 0.0    | 0.4      | 0.9 0.0 |         | 0.0 0.0 |         | 0.0 0.0 |        | 0.0 0.0 |       | 0.0    |
+| Lutjanidae        | 0.0  |        | 0.0 0.0   | 0.0 0.0   |     | 0.0 1.2   | 1.1 0.0        |           | 0.0 0.0 |           | 0.0    | 0.0      | 0.0 0.0 |         | 0.0 0.0 |         | 0.0 0.0 |        | 0.0 0.0 |       | 0.0    |
+| Acanthuridae      | 8.0  |        | 9.6 0.6   | 0.9 1.2   |     | 1.3 0.2   | 0.4 4.8        |           | 4.4 0.2 |           | 0.4    | 8.0      | 3.5 5.8 |         | 5.4 1.8 |         | 1.1 0.4 |        | 0.9 2.4 |       | 3.9    |
+| Labridae          | 5.2  |        | 1.9 0.0   | 0.0 2.2   |     | 1.5 4.4   | 2.4 10.2       |           | 1.9 9.8 |           | 8.7    | 2.4      | 2.5 9.2 |         | 3.5 1.4 |         | 1.1 2.0 |        | 1.6 1.0 |       | 2.2    |
+| Balistidae        | 0.0  |        | 0.0 0.0   | 0.0 1.0   |     | 1.2 0.0   | 0.0 0.0        |           | 0.0 0.0 |           | 0.0    | 0.0      | 0.0 0.0 |         | 0.0 0.6 |         | 1.3 0.0 |        | 0.0 0.0 |       | 0.0    |
+
+| m<br>10-15 c          | Alofau |        | Lagoon<br>Alofau |         | Aua  |         | control<br>Aua |         | maua<br>Auto<br>A | &      | Faga'itua |        | Fagatele |        | Masefau |        | Nuu'uli<br>Lagoon |         | Lagoon<br>Ofu |         | Vatia    |        |
+|-----------------------|--------|--------|------------------|---------|------|---------|----------------|---------|-------------------|--------|-----------|--------|----------|--------|---------|--------|-------------------|---------|---------------|---------|----------|--------|
+|                       | Mean   | D<br>S | Mean             | D<br>S  | Mean | D<br>S  | Mean           | D<br>S  | Mean              | D<br>S | Mean      | D<br>S | Mean     | D<br>S | Mean    | D<br>S | Mean              | D<br>S  | Mean          | D<br>S  | Mean     | D<br>S |
+| Chaetodontidae 10.8   |        | 5.4    | 3.4              | 2.9 0.4 |      | 0.9 0.0 |                | 0.0 0.0 |                   | 0.0    | 4.8       | 3.6    | 4.6      | 7.1    | 4.0     | 2.1    | 1.0               | 1.7 2.8 |               | 2.8 4.8 |          | 3.1    |
+| Zanclidae             | 0.0    | 0.0    | 0.0              | 0.0 0.0 |      | 0.0 0.0 |                | 0.0 0.0 |                   | 0.0    | 0.2       | 0.4    | 0.2      | 0.4    | 0.6     | 0.5    | 0.8               | 1.1 0.0 |               | 0.0 0.0 |          | 0.0    |
+| macanthidae 0.0<br>Po |        | 0.0    | 0.0              | 0.0 0.0 |      | 0.0 0.0 |                | 0.0 0.0 |                   | 0.0    | 0.0       | 0.0    | 0.0      | 0.0    | 0.8     | 0.8    | 0.0               | 0.0 0.8 |               | 1.3 1.0 |          | 1.0    |
+| Lethrinidae           | 0.0    | 0.0    | 0.0              | 0.0 0.0 |      | 0.0 0.0 |                | 0.0 0.0 |                   | 0.0    | 0.0       | 0.0    | 0.0      | 0.0    | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.0 |          | 0.0    |
+| mipteridae<br>Ne      | 0.0    | 0.0    | 0.2              | 0.4 0.0 |      | 0.0 0.0 |                | 0.0 0.0 |                   | 0.0    | 0.0       | 0.0    | 0.0      | 0.0    | 0.0     | 0.0    | 0.2               | 0.4 0.0 |               | 0.0 0.0 |          | 0.0    |
+| Scaridae              | 2.0    | 2.1    | 1.8              | 1.1 0.6 |      | 0.5 0.0 |                | 0.0 0.0 |                   | 0.0    | 1.6       | 2.1    | 0.0      | 0.0    | 0.6     | 0.9    | 0.4               | 0.5 8.8 |               | 8.0 0.4 |          | 0.9    |
+| Serranidae            | 0.2    | 0.4    | 0.4              | 0.5 0.0 |      | 0.0 0.0 |                | 0.0 0.6 |                   | 0.9    | 0.0       | 0.0    | 0.0      | 0.0    | 0.2     | 0.4    | 0.0               | 0.0 0.0 |               | 0.0 0.6 |          | 0.9    |
+| Siganidae             | 0.2    | 0.4    | 0.0              | 0.0 0.2 |      | 0.4 0.0 |                | 0.0 0.6 |                   | 1.3    | 0.0       | 0.0    | 0.0      | 0.0    | 0.4     | 0.9    | 0.2               | 0.4 0.0 |               | 0.0 0.0 |          | 0.0    |
+| Lutjanidae            | 0.0    | 0.0    | 0.0              | 0.0 0.0 |      | 0.0 0.2 |                | 0.4 0.0 |                   | 0.0    | 0.0       | 0.0    | 0.0      | 0.0    | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.2 |          | 0.4    |
+| Acanthuridae          | 7.0    | 4.8    | 5.6              | 7.6 3.2 |      | 3.1 0.2 |                | 0.4 2.2 |                   | 1.1    | 3.4       | 3.0    | 18.0     | 8.2    | 14.4    | 5.5    | 3.2               | 2.7 5.2 |               |         | 4.7 13.0 | 5.5    |
+| Labridae              | 4.2    | 4.7    | 1.2              | 1.8 2.8 |      | 0.4 0.0 |                | 0.0 4.6 |                   | 4.0    | 18.2      | 15.1   | 1.8      | 1.3    | 12.2    | 4.2    | 1.6               | 1.5 2.2 |               | 1.8 1.4 |          | 1.9    |
+| Balistidae            | 0.0    | 0.0    | 0.0              | 0.0 1.6 |      | 1.8 0.0 |                | 0.0 0.2 |                   | 0.4    | 0.0       | 0.0    | 0.0      | 0.0    | 0.0     | 0.0    | 0.4               | 0.9 0.0 |               | 0.0 0.0 |          | 0.0    |
+
+| m<br>15-20 c      | Alofau |         | Lagoon<br>Alofau |         | Aua  |         | control<br>Aua |         | Auto<br>A | maua<br>& |      | Faga'itua | Fagatele |         | Masefau |        | Nuu'uli<br>Lagoon |         | Lagoon<br>Ofu |         | Vatia |        |
+|-------------------|--------|---------|------------------|---------|------|---------|----------------|---------|-----------|-----------|------|-----------|----------|---------|---------|--------|-------------------|---------|---------------|---------|-------|--------|
+|                   | Mean   | D<br>S  | Mean             | D<br>S  | Mean | D<br>S  | Mean           | D<br>S  | Mean      | D<br>S    | Mean | D<br>S    | Mean     | D<br>S  | Mean    | D<br>S | Mean              | D<br>S  | Mean          | D<br>S  | Mean  | D<br>S |
+| Chaetodontidae    | 0.4    | 0.9 0.0 |                  | 0.0 0.0 |      | 0.0 0.2 |                | 0.4 0.0 |           | 0.0       | 0.0  | 0.0       | 3.2      | 3.7 1.2 |         | 1.3    | 0.0               | 0.0 0.2 |               | 0.4 0.0 |       | 0.0    |
+| Zanclidae         | 0.0    | 0.0 0.0 |                  | 0.0 0.0 |      | 0.0 0.0 |                | 0.0 0.0 |           | 0.0       | 0.0  | 0.0       | 0.2      | 0.4     | 0.2     | 0.4    | 0.0               | 0.0 0.8 |               | 1.8 0.0 |       | 0.0    |
+| macanthidae<br>Po | 0.0    | 0.0 0.0 |                  | 0.0 0.0 |      | 0.0 0.0 |                | 0.0 0.0 |           | 0.0       | 0.0  | 0.0       | 0.0      | 0.0     | 0.0     | 0.0    | 0.2               | 0.4 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Lethrinidae       | 0.0    | 0.0 0.0 |                  | 0.0 0.0 |      | 0.0 0.0 |                | 0.0 0.0 |           | 0.0       | 0.0  | 0.0       | 0.0      | 0.0     | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| mipteridae<br>Ne  | 0.0    | 0.0 0.0 |                  | 0.0 0.0 |      | 0.0 0.0 |                | 0.0 0.0 |           | 0.0       | 0.0  | 0.0       | 0.0      | 0.0     | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Scaridae          | 1.4    | 2.6 0.0 |                  | 0.0 0.0 |      | 0.0 0.0 |                | 0.0 0.0 |           | 0.0       | 0.6  | 0.9       | 0.4      | 0.9     | 0.0     | 0.0    | 0.0               | 0.0 1.2 |               | 2.2 0.6 |       | 1.3    |
+| Serranidae        | 0.0    | 0.0 0.0 |                  | 0.0 0.0 |      | 0.0 0.0 |                | 0.0 0.0 |           | 0.0       | 0.0  | 0.0       | 0.2      | 0.4     | 0.0     | 0.0    | 0.0               | 0.0 0.8 |               | 0.8 0.0 |       | 0.0    |
+| Siganidae         | 0.0    | 0.0 0.0 |                  | 0.0 0.0 |      | 0.0 0.0 |                | 0.0 0.0 |           | 0.0       | 0.2  | 0.4       | 0.0      | 0.0     | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Lutjanidae        | 0.0    | 0.0 0.0 |                  | 0.0 0.0 |      | 0.0 0.0 |                | 0.0 0.0 |           | 0.0       | 0.0  | 0.0       | 0.0      | 0.0     | 0.0     | 0.0    | 0.0               | 0.0 0.2 |               | 0.4 0.0 |       | 0.0    |
+| Acanthuridae      | 4.0    | 7.4 0.6 |                  | 0.9 0.0 |      | 0.0 0.0 |                | 0.0 0.4 |           | 0.9       | 6.6  | 14.2      | 8.6      | 8.3     | 5.0     | 3.8    | 0.4               | 0.5 8.2 |               | 6.5 6.2 |       | 5.1    |
+| Labridae          | 0.4    | 0.5 0.0 |                  | 0.0 0.0 |      | 0.0 0.0 |                | 0.0 0.4 |           | 0.5       | 1.0  | 1.4       | 0.6      | 0.9 1.2 |         | 1.3    | 0.8               | 1.8 1.0 |               | 1.4 0.4 |       | 0.5    |
+| Balistidae        | 0.0    | 0.0 0.0 |                  | 0.0 0.0 |      | 0.0 0.0 |                | 0.0 0.4 |           | 0.5       | 0.8  | 1.8       | 0.0      | 0.0     | 0.2     | 0.4    | 0.4               | 0.5 0.2 |               | 0.4 0.0 |       | 0.0    |
+
+| m<br>20-25 c      |      | Alofau | Lagoon<br>Alofau |         | Aua       |         | control<br>Aua | Auto<br>A | maua<br>& | Faga'itua |        | Fagatele |         | Masefau |         | Nuu'uli<br>Lagoon |         | Lagoon<br>Ofu |         | Vatia |        |
+|-------------------|------|--------|------------------|---------|-----------|---------|----------------|-----------|-----------|-----------|--------|----------|---------|---------|---------|-------------------|---------|---------------|---------|-------|--------|
+|                   | Mean | D<br>S | Mean             | D<br>S  | S<br>Mean | D       | S<br>Mean      | Mean<br>D | D<br>S    | Mean      | D<br>S | Mean     | D<br>S  | Mean    | D<br>S  | Mean              | D<br>S  | Mean          | D<br>S  | Mean  | D<br>S |
+| Chaetodontidae    | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0       | 0.0    | 0.0      | 0.0 0.0 |         | 0.0 0.0 |                   | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Zanclidae         | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0       | 0.0    | 0.0      | 0.0 0.0 |         | 0.0 0.0 |                   | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| macanthidae<br>Po | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0       | 0.0    | 0.0      | 0.0 0.0 |         | 0.0 0.0 |                   | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Lethrinidae       | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0       | 0.0    | 0.0      | 0.0 0.0 |         | 0.0 0.0 |                   | 0.0 2.8 |               | 3.9 0.0 |       | 0.0    |
+| mipteridae<br>Ne  | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0       | 0.0    | 0.0      | 0.0 0.0 |         | 0.0 0.0 |                   | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Scaridae          | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.2   | 0.4       | 0.2       | 0.4    | 0.2      | 0.4 0.0 |         | 0.0 0.0 |                   | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Serranidae        | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0       | 0.0    | 0.0      | 0.0 0.0 |         | 0.0 0.0 |                   | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Siganidae         | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0       | 0.0    | 0.0      | 0.0 0.0 |         | 0.0 0.0 |                   | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Lutjanidae        | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0       | 0.0    | 0.0      | 0.0 0.0 |         | 0.0 0.0 |                   | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Acanthuridae      | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.4   | 0.9       | 0.0       | 0.0    | 0.6      | 1.3 0.2 |         | 0.4 0.0 |                   | 0.0 0.2 |               | 0.4 0.0 |       | 0.0    |
+| Labridae          | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 2.6   | 4.8       | 0.0       | 0.0    | 0.0      | 0.0 0.0 |         | 0.0 0.0 |                   | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Balistidae        | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0       | 0.0    | 1.0      | 2.2 0.0 |         | 0.0 0.0 |                   | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+
+| m<br>25-30 c      |      | Alofau | Lagoon<br>Alofau |         | Aua       |         | control<br>Aua | Auto<br>A | maua<br>& |      | Faga'itua | Fagatele |        | Masefau |        | Nuu'uli<br>Lagoon |         | Lagoon<br>Ofu |         | Vatia |        |
+|-------------------|------|--------|------------------|---------|-----------|---------|----------------|-----------|-----------|------|-----------|----------|--------|---------|--------|-------------------|---------|---------------|---------|-------|--------|
+|                   | Mean | D<br>S | Mean             | D<br>S  | S<br>Mean | D       | D<br>S<br>Mean | Mean      | D<br>S    | Mean | D<br>S    | Mean     | D<br>S | Mean    | D<br>S | S<br>Mean         | D       | S<br>Mean     | D       | Mean  | D<br>S |
+| Chaetodontidae    | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0  | 0.0       | 0.0      | 0.0    | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Zanclidae         | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0  | 0.0       | 0.0      | 0.0    | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| macanthidae<br>Po | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0  | 0.0       | 0.0      | 0.0    | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Lethrinidae       | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0  | 0.0       | 0.0      | 0.0    | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| mipteridae<br>Ne  | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0  | 0.0       | 0.0      | 0.0    | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Scaridae          | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0  | 0.0       | 0.0      | 0.0    | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Serranidae        | 0.2  |        | 0.4 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0  | 0.0       | 0.0      | 0.0    | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Siganidae         | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0  | 0.0       | 0.0      | 0.0    | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Lutjanidae        | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0  | 0.0       | 0.0      | 0.0    | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Acanthuridae      | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0  | 0.0       | 0.0      | 0.0    | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Labridae          | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0  | 0.0       | 0.0      | 0.0    | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+| Balistidae        | 0.0  |        | 0.0 0.0          | 0.0 0.0 |           | 0.0 0.0 |                | 0.0 0.0   | 0.0       | 0.0  | 0.0       | 0.0      | 0.0    | 0.0     | 0.0    | 0.0               | 0.0 0.0 |               | 0.0 0.0 |       | 0.0    |
+
+**Appendix VII.** Abundance / Biomass Comparison curves based on reef fish abundance and biomass data recorded along 5 transects on 8 reef flat sites and 3 lagoon sites on the American Samoa islands of Tutuila and Manu'a between June and August 2004. Abundance = red line with triangles, Biomass = blue line with circles. *W* = statistic indicating the extent to which the curves dominate each other.
+
+#### **a) Total reef fish**
+
+![](_page_193_Figure_2.jpeg)
+
+# Vatia
+
+![](_page_194_Figure_1.jpeg)
+
+# Masefau
+
+![](_page_194_Figure_3.jpeg)
+
+Fagatele Bay
+
+![](_page_194_Figure_5.jpeg)
+
+#### Aua
+
+![](_page_195_Figure_1.jpeg)
+
+#### Aua control
+
+![](_page_195_Figure_3.jpeg)
+
+#### **Alofau lagoon**
+
+![](_page_196_Figure_1.jpeg)
+
+#### **Nu'uuli lagoon**
+
+![](_page_196_Figure_3.jpeg)
+
+#### **Ofu lagoon**
+
+![](_page_196_Figure_5.jpeg)
+
+# b) Target reef fish
+
+![](_page_197_Figure_1.jpeg)
+
+![](_page_197_Figure_2.jpeg)
+
+# Faga'itua
+
+![](_page_197_Figure_4.jpeg)
+
+#### Auto & Amaua
+
+![](_page_197_Figure_6.jpeg)
+
+# Vatia
+
+![](_page_198_Figure_1.jpeg)
+
+# Masefau
+
+![](_page_198_Figure_3.jpeg)
+
+![](_page_198_Figure_4.jpeg)
+
+![](_page_198_Figure_5.jpeg)
+
+#### Aua
+
+![](_page_199_Figure_1.jpeg)
+
+#### **Aua Control**
+
+![](_page_199_Figure_3.jpeg)
+
+#### **Alofau lagoon**
+
+![](_page_200_Figure_1.jpeg)
+
+#### **Nu'uuli lagoon**
+
+![](_page_200_Figure_3.jpeg)
+
+#### **Ofu lagoon**
+
+![](_page_200_Figure_5.jpeg)

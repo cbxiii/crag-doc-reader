@@ -1,0 +1,102 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Visiting Diver Application \nName Date of Birth (MM/DD/YYYY)\nJob title\nEmergency Contact Relationship to applicant\nPhone numbers of emergency contact (home and mobile)\nPlease attach the following supporting documents:\n1. Diving medical clearance from a physician.\n2. Copy of highest diving certifications.\n3. Proof of valid liability coverage.\n4. Proof of active diver status from a university, government agency, or AAUS organizational \nmember (if applicable).\n5. List of personnel equipment intended for use (including manufacturer's names, models, serial \nnumbers, and proof of service).\n_______________ Date of most recent dive (MM/DD/YYYY).\n_______________ Date of last diving medical (MM/DD/YYYY).\n_______________ Number of dives completed in the last 12 months.\nPlease list any SCUBA specialties or other relevant certifications below:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          57.234375
+        ],
+        [
+          543.3175048828125,
+          57.234375
+        ],
+        [
+          543.3175048828125,
+          669.796875
+        ],
+        [
+          70.5234375,
+          669.796875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          50
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          19
+        ],
+        [
+          "TableCell",
+          13
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Form",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Visiting Diver Application"
+}

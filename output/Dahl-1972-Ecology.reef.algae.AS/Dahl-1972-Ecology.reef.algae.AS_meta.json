@@ -1,0 +1,332 @@
+{
+  "table_of_contents": [
+    {
+      "title": "DEPARTMENT OF MARINE & WILDLIFE RESOURCES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          161.2841796875,
+          16.63818359375
+        ],
+        [
+          333.1689497716895,
+          16.494312306101346
+        ],
+        [
+          333.1689497716895,
+          42.83447265625
+        ],
+        [
+          161.2841796875,
+          42.83447265625
+        ]
+      ]
+    },
+    {
+      "title": "Ecology and Community Structure of Some Tropical\nReef Algae in Samoa",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          101.103515625,
+          92.96794208893485
+        ],
+        [
+          422.708984375,
+          92.96794208893485
+        ],
+        [
+          422.708984375,
+          120.361328125
+        ],
+        [
+          101.103515625,
+          120.361328125
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          123.81278538812785,
+          310.46142578125
+        ],
+        [
+          186.8447488584475,
+          310.46142578125
+        ],
+        [
+          186.8447488584475,
+          319.38986556359873
+        ],
+        [
+          123.81278538812785,
+          319.38986556359873
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          83.611328125,
+          201.44287109375
+        ],
+        [
+          120.06240249609985,
+          201.44287109375
+        ],
+        [
+          120.06240249609985,
+          210.8237145855194
+        ],
+        [
+          83.611328125,
+          210.8237145855194
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          109.47265625,
+          219.07660020986359
+        ],
+        [
+          156.08267090620032,
+          219.07660020986359
+        ],
+        [
+          156.08267090620032,
+          227.62695312499997
+        ],
+        [
+          109.47265625,
+          227.62695312499997
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          313.66613672496027,
+          540.439453125
+        ],
+        [
+          367.69475357710655,
+          540.439453125
+        ],
+        [
+          367.69475357710655,
+          549.9422875131164
+        ],
+        [
+          313.66613672496027,
+          549.9422875131164
+        ]
+      ]
+    },
+    {
+      "title": "DEPARTMENT OF MARINE & WILDLIFE RESOURCES",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          135.82333873581848,
+          356.4169921875
+        ],
+        [
+          306.16531604538085,
+          354.26280623608017
+        ],
+        [
+          306.16531604538085,
+          386.0361328125
+        ],
+        [
+          135.82333873581848,
+          386.0361328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          96
+        ],
+        [
+          "Span",
+          33
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          107
+        ],
+        [
+          "Span",
+          52
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          116
+        ],
+        [
+          "Span",
+          17
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          35
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Dahl-1972-Ecology.reef.algae.AS"
+}

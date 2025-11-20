@@ -1,0 +1,1091 @@
+# **American Samoa Water Use Data: A Workplan for Evaluation and Improvement**
+
+### **Prepared for:**
+
+American Samoa Power Authority ASPA, P.O. Box PPB Pago Pago, American Samoa 96799
+
+### **Prepared by:**
+
+Shuler Hydrologic LLC 796 Isenberg St. Suite 12E Honolulu, HI 96826
+
+**Project No.:** ASPA18.012 **Report Date:** August 31, 2018
+
+# American Samoa Water Use Data: A Workplan for Evaluation and Improvement
+
+**Project No.:** ASPA18.012
+
+**Report Date:** August 31, 2018
+
+**Authored by:**  Christopher Shuler Paul R. Eyre
+
+### **Contents**
+
+| EXECUTIVE SUMMARY                                    | 4  |
+|------------------------------------------------------|----|
+| ACKNOWLEDGEMENTS                                     | 6  |
+| 1.0 INTRODUCTION                                     | 7  |
+| 1.1 Project Background                               | 7  |
+| 1.2 Study Objectives and Scope                       | 8  |
+| 1.3 Methodology                                      | 9  |
+| 1.4 Study setting: American Samoa                    | 9  |
+| 1.5 Relevant Water-Use Data Collection Agencies      | 11 |
+| 1.6 Relevant USGS WUDR-Established Water User Groups | 13 |
+| 2.0 DATA                                             | 16 |
+| 2.1 ASPA Municipal Water System Data                 | 16 |
+| 2.2 Village Water Supply                             | 35 |
+| 2.3 Irrigation Water Use                             | 37 |
+| 2.4 Water Use for Livestock                          | 38 |
+| 2.5 Water use for Aquaculture                        | 40 |
+| 3.0 DATA SUMMARY AND OVERVIEW                        | 41 |
+| 3.1 Recommendation Summary                           | 42 |
+| REFERENCES                                           | 49 |
+| APPENDIX A                                           | 52 |
+| Appendix A Contents                                  | 52 |
+| Data Supplement Contents                             | 52 |
+
+![](_page_2_Picture_3.jpeg)
+
+# <span id="page-3-0"></span>**EXECUTIVE SUMMARY**
+
+The primary purpose of this document, The American Samoa Water-Use Workplan, is to assess the current state of water-use information in the territory of American Samoa. This includes territory-wide water-use data such as withdrawals from surface and groundwater sources, water delivery information organized by category of use, return flows back to the environment, and ancillary information including water source, salinity, or populations served. This report not only presents information about data availability in American Samoa, but also how data are stored, how data are communicated, and the feasibility of sharing data in their current formats.
+
+Specific objectives for the workplan include:
+
+- Determining which agencies in American Samoa collect water use data
+- Developing a list of relevant water user groups in American Samoa
+- Cataloging water-use datasets, collecting examples of each, and summarizing data
+- Estimating water use from activities for which data is not currently available
+- Providing recommendations for:
+  - a. improving the accuracy, completeness and relevance of water use data
+  - b. increasing water use data storage and accessibility
+  - c. developing organizational strategies to keep and maintain data in a secure, accessible, and easily queried format for communication to outside agencies.
+
+The methodology for data collection included interviews and site visits to territorial agencies involved with water management, distribution, or consumptive use. Where in-person or phone interviews were not possible, inquiries and a standardized interview template were sent via email. Information was collected from the American Samoa Power Authority (ASPA), the American Samoa Environmental Protection Agency (AS-EPA), the American Samoa Department of Commerce (AS-DOC), the American Samoa Department of Agriculture (AS-DOA), The American Samoa branch of the U.S. Department of Agriculture (AS-USDA), The American Samoa Community College (ASCC) Land Grant, and the United States Geological Survey (USGS) Pacific Islands Water Science Center. Relevant datasets that were collected, assessed, and summarized included:
+
+- Groundwater production data
+- Ancillary groundwater production data
+- Municipal surface water withdrawals
+- Operational data collection and storage
+- Water delivery: ASPA water meter data
+- Industrial water-use data
+- Non-revenue water magnitude and distribution
+- Wastewater system data
+- Existing village water information
+- Irrigation water use data
+- Livestock water use data
+- Aquaculture water use data
+
+Overall as of 2018, collected data indicates public-supply water use makes up the largest proportion of water used in American Samoa, and 99% of this water is sourced from municipal (ASPA) groundwater wells. Of the roughly 11 MGD of water extracted at ASPA wells, about 23% is used domestically by residents, 12% is used in industrial tuna canning operations, 4% is used by commercial businesses, 3% is used by government services, and upwards of 55% to 65% is lost through leaks, faulty metering, or theft and unmetered connections. Some irrigation and livestock water use likely makes up a relatively
+
+![](_page_3_Picture_26.jpeg)
+
+small portion of the metered domestic use, and there is an unknown but also likely to be small amount of water withdrawn from surface waters used for these purposes. Although almost all of the territorial water supply was sourced from surface water diversions in the past, presently only about 11% of American Samoa residents use self-supplied village water withdrawals for their primary source of water. However, these often-now-abandoned village water supply systems nonetheless represent one of the only contingencies for island-wide water supply, should long-term power interruptions affect the ability to pump groundwater. American Samoa presently has no activities that use water for thermoelectric power generation, mining, or any saline water uses.
+
+Data availability regarding water withdrawals and deliveries, geographic locations of extraction points and points of use, and quality of municipal water is comparatively good, with most available datasets currently meeting the tier 3 data-availability standard within the USGS WUDR framework. However, information regarding water used for irrigation, livestock production, and self-supplied domestic surface water withdrawals from village water systems is comparatively lacking. Nonetheless, estimates of populations served, and the scale of these activities within the territory suggest that these water uses are small in comparison to the quantity of water used from public-supply sources.
+
+# <span id="page-5-0"></span>**ACKNOWLEDGEMENTS**
+
+Shuler Hydrologic would like to extend our deepest gratitude to the following agencies, departments, and individuals for providing essential information and data that made compilation of this report possible.
+
+- **ASPA Wastewater Division:** especially, Raynal Krishna, Edmon Lacaulan, and Fai Mareko
+- **ASPA Water Engineering Services Division:** especially, Mathew Erickson, Will Spitzenberg, Katrina Mariner, Veronica Vaouli Gasio, Helen Pulou, Wei Hua-Hsien
+- **ASPA Water Operations:** especially, Danielle Mauga, Uefa Muliagatele, Cecilia Masunu
+- **ASPA Information Technology Department:** especially, Doug Jessop
+- **ASPA Customer Service Department:** especially, Ryan Tuato'o and Aitkan Ieremia
+- **ASCC Land Grant:** especially, Kelley, Anderson-Taggarino, Mark Schmaedic, and Ian Gurr
+- **AS-DOC Statistics Division: especially,** Mine Timoteo
+- **USDA:** especially, Josephine Lealasola
+- **AS-EPA:** especially, Fa'amao Asalele, and Leilua Watson
+
+![](_page_5_Picture_12.jpeg)
+
+# <span id="page-6-0"></span>**1.0 INTRODUCTION**
+
+### <span id="page-6-1"></span>1.1 Project Background
+
+The United States Geological Survey (USGS) began compiling and cataloging national water-use data in the 1950s. Since that time, a Congressional mandate has made understanding how the nation's waters are used by residents, businesses, and industries a priority for maintaining national water security. However, these efforts remained largely underfunded until 2011, when Congress enacted Public Law 111-11, Subtitle F—SECURE Water: Section 9508, to fund the National Water Availability and Use Assessment Program. A portion of this program's mission is to support the USGS Water Use Data and Research (WUDR) Program, which aims to improve the availability, quality, and communication of water use data collected by states or territories by developing cooperative agreements with State or Territorial Water Resource agencies (Worland, 2017). The WUDR program addresses these priorities with a two phase approach. The first phase supports state or territorial agencies in developing a water use workplan intended to assess, consolidate, and describe the current state of water-use information availability in each state or territory, as well as providing recommendations for improving water-use data or estimates. The second phase applies the highest priority recommendations from the workplan to address and implement activities that increase the availability, accuracy, or completeness of water use information to support policy and decision making at local and national levels (USGS, 2018).
+
+This report, the American Samoa Water Use Data Workplan, is intended to accomplish the objectives for the first phase of the WUDR program for the Territory of American Samoa (AS); to develop a water use workplan to assess, consolidate, and describe the current state of water-use information and to propose how the information can be improved. In addition to addressing the goals of the first WUDR phase, this workplan also presents summarized examples of collected water use datasets from territorial agencies and includes a data supplement containing a compilation of all collected data that can be easily referenced and directly applied where needed. Recommendations presented in this report will focus on filling gaps in data collection or storage between what data is presently collected in AS, and data that is needed to develop a complete territorial water use budget. Recommendations are also focused on activities that can be directly applied in the second phase of the AS-WUDR program; to implement the plan.
+
+#### **The primary goals for phase I of the AS-WUDR program include:**
+
+- 1. Describing the availability of existing water-use information including:
+  - a. Withdrawals from surface or groundwater sources.
+  - b. Delivery information by category of use.
+  - c. Return flows back to the environment.
+  - d. Relevant ancillary information, including water source, salinity, or population served.
+- 2. Providing details about data availability, how data are stored, how data are communicated, and the feasibility of sharing data in their current formats.
+- 3. Developing a list of recommendations to improve the accuracy, resolution, or completeness of water use data, as well as improving methods of storage and communication to facilitate use by other agencies, including its incorporation into the National Water Use Database.
+
+![](_page_6_Picture_13.jpeg)
+
+### <span id="page-7-0"></span>1.2 Study Objectives and Scope
+
+Data collection for this report is primarily focused on Island of Tutuila, although data from the Manua Islands is included where available. Tutuila hosts the majority of American Samoa's population (> 95%), businesses, and 100% of the industry, thus the majority of territorial water use occurs on Tutuila. Conveniently, the islands' sole water utility, the American Samoa Power Authority (ASPA) administers utility services on both Tutuila and Manua, therefore public-supply data reported by ASPA is typically representative of territory wide production and use. Data presented in this report are summarized for descriptive purposes and typically do not represent the full temporal range of available data. In general, every effort was made to collect the full period of record of datasets that are currently available in electronic formats and housed within accessible servers. Many datasets' periods of record begin about ten years ago when data collection protocols at local agencies were converted to accommodate electronic formatting. Therefore, data series predating the information collected here may exist in hardcopy form, although these data were often not accessible during compilation of this report. All data presented here are representative of territory wide results unless specifically indicated.
+
+Summarization of water use data within the framework of the WUDR program use categories is emphasized throughout this report. This framework includes dividing water use into regional or local totals based on the following levels:
+
+- Territory wide
+- By county or watershed (at the hydrologic unit code (HUC) 8 level)
+- Site-specific groundwater or surface water withdrawals and discharges
+
+Recommendations for improving water use data collection and management in AS emphasize objectives that enhance data collection and data sharing with the WUDR program office, as well as providing tangible benefits to support sustainable water use and management goals set out by ASPA and other onisland stakeholders.
+
+#### **Report structure and specific objectives:**
+
+- 1. Developing a comprehensive list of agencies in AS that collect water use data.
+- 2. Developing a comprehensive list of relevant water user groups in AS.
+- 3. Cataloging datasets that are routinely collected by each agency, collecting examples of each data type, and developing an organizational framework to consolidate collected data into a summarized format.
+- 4. Estimating water use from activities for which data is not currently collected.
+- 5. Providing recommendations for:
+  - a. Improving the accuracy and completeness of water use data already collected by various agencies.
+  - b. Improving the relevance of collected water use data in reference to the USGS WUDRtier-levels.
+  - c. Installation of equipment or instruments to improve water use data collection.
+  - d. Installation of database systems to improve water use data storage and accessibility.
+  - e. Development of organizational strategies to keep and maintain data in a secure, accessible, and easily queried format for communication to outside agencies.
+  - f. Methodologies to collect better water use information from activities for which data is not currently collected.
+
+![](_page_7_Picture_20.jpeg)
+
+### <span id="page-8-0"></span>1.3 Methodology
+
+Data for the completion of this report was collected through interviews and site visits to territorial agencies involved with water management, distribution, or consumptive use. An interview template (example provided in Appendix A) was developed to standardize the data collection process for assessing the availability of data for each water use category. The template was emailed to relevant agencies or individuals or filled out during in-person or over-the-phone interviews. Interviews were focused on agency specific water use data, and every attempt was made to determine the availability of data, and to physically collect data in an electronic or scanned hardcopy format where available. In addition to direct collection of data from agencies and individuals, literature, including published and un-published reports, were reviewed to assess availability of data within these documents, and to extract data into an electronic format that could be analyzed, summarized and consolidated with more recent data, if available. In addition to collection and presentation of water production and use data, recommendations for improving data collection, data accuracy, data formatting, data storage, data sharing, or sustainability of water production and use were developed and are presented for each use category.
+
+Datasets were typically summarized in this report as figures or tables with resampled (reduced) temporal resolution. Full data tables that do not exceed more than two pages in length are presented in the appendix of this report. Data tables that are larger than 3 pages in length are provided in spreadsheet format as a data supplement to this report.
+
+### <span id="page-8-1"></span>1.4 Study Setting: American Samoa
+
+#### **1.4.1 Regional setting**
+
+The Samoan Archipelago is a chain of tropical islands located around 14° south of the equator, 4,000 km southwest of Hawaii and 3,000 km northeast of New Zealand. The island chain is divided into two political units, the independent nation of Samoa (formerly known as Western Samoa) and the U.S. Territory of American Samoa (Fig. 1). American Samoa consists of four main islands and two atolls: Tutuila, Ofu, Olosega, Ta'u, Rose Atoll, and Swains Atoll. Aunuu islet is a satellite cone of Tutuila, and lies a little more than a kilometer (less than a mile) off the south eastern shore of Tutuila. The islands of Ofu, Olosega, and Tau are together called the Manua Islands, and are located about 100 km (65 miles) to the east of Tutuila. Although the Manua islands once contained up to 20% of AS's population and held the highest titled traditional chiefs, their population has steadily declined to around 1,400 at present. Rose and Swains are both small, flat, and nearly uninhabited coral atolls. Rose lies about 275 km (160 miles) to the south east of Tutuila and is preserved as a wildlife refuge. Swains Island, is located about 350 km (230 miles) north of Tutuila and is privately owned. Both of these atolls have limited freshwater supplies (mostly derived from rainwater catchment) and minimal populations. Water use for Rose and Swains Atolls is not included or discussed further in this report. At 140 km<sup>2</sup> Tutuila is the largest and most populated island in AS and serves as the political and cultural center of the territory. For comparison, Tutuila has about the same land area as the Hawaiian island of Lanai. Between 55,000 and 60,000 people live on Tutuila, and the population remains primarily made up of people of Polynesian or Pacific Islander decent.
+
+![](_page_8_Picture_7.jpeg)
+
+![](_page_9_Figure_1.jpeg)
+
+Figure 1: The main islands of American Samoa: Tutuila, Ofo-Olosega, and Tau. Counties in American Samoa are also shown and labeled and ASPA production wells are shown as black dots.
+
+### **1.4.2 Climate and Weather**
+
+American Samoa lies within the South Pacific Convergence Zone, which provides abundant rainfall year round. Tutuila experiences a wet and a dry season, whereas monthly average precipitation in November-March is roughly double that of May-August. Rainfall also varies significantly with location and elevation. National Weather Service (NWS) Data from 1971 – 2000 indicates a range of annual average rainfall amounts between 1800 mm/yr to 3000 mm/yr at the coast and up to 5080 mm/yr at the highest village of Aasu (408 m elevation), with an island-wide average of about 3810 mm/yr (150 in/yr). Thirty-year average annual daily high and low temperatures are 30° and 24° C, respectively, with small seasonal variations, and the relative humidity remains fairly constant between 75-86%. Southeast tradewinds prevail for most of the year, and wind speed averages ~11 mph (Izuka et. al. 2007). Samoa is prone to receiving large tropical storms and hurricanes, which on average, affect the island once every other year. An average 25- 30 significant thunderstorms affect the islands on an annual basis (Kennedy Jenks Chilton 1987).
+
+### **1.4.3 Cultural Setting and Water Use History**
+
+Land use and administrative policy in AS are inextricably tied to historical and cultural drivers, and the present day landscape is influenced by the policies and values of traditional Samoan practices. The Samoan archipelago was populated by Polynesian settlers over 1000 years ago and European explorers reached the islands in the 18th century. From 1878 to 1951 the U.S. maintained a naval station on Tutuila. In 1899 the archipelago was divided into eastern (American) Samoa and now independent (Western) Samoa. American Samoa has been a U.S. Territory since that time, and is self-governing with a local legislature and governor. The traditional Matai (village-chief) system also retains some degree of power within the socio-political landscape. Additionally, the government upholds policies that limit land ownership to people of Samoan decent, and a significant portion of the island's land is owned under communal village governance. This land-use paradigm is an important consideration for use or development of water resources and acts as a strong control on the geographic patterns of water supply and water use in AS.
+
+![](_page_9_Picture_7.jpeg)
+
+In pre-contact times, people in the Samoan Islands relied primarily on surface water resources where and when these were available. However, in the Manua Islands, Aunuu Islet, and in more geologically permeable portions of Tutuila, surface water resources are scarce to non-existent. In these areas, coastal springs or shallow hand dug wells were often used to access the nearshore-basal aquifer, or rainwater was collected. Throughout the period where the U.S. Navy had a presence in AS, surface water resources were further developed through the construction of a number of reservoirs and extensive delivery systems. A limited number of drilled wells and horizontal water development tunnels were also constructed during this time to access groundwater resources (Davis, 1963). During the 1970's, in response to growing water demand, concerns about surface water quality, and a serious drought in 1974, the pace of groundwater resource development increased significantly (Bentley, 1975). During this period the AS Government Department of Public Works was responsible for development and maintenance of water supply systems, and by 1975 at least 42 wells had been drilled throughout Tutuila and about 10 in the Manua Islands (Bentley, 1975). In 1981 the islands sole water, power, wastewater, and solid waste utility, ASPA, was created through legislative action and presently holds complete responsibility for the island's municipal water production and distribution.
+
+#### **1.4.4 Geology and Water Sources**
+
+Tutuila can be divided into two geologically distinct regions, the younger Tafuna-Leone Plain and an older mountainous region. Human development is primarily limited to the Tafuna-Leone Plain area and numerous small valley-fill coastal plains around the island, with about two thirds of the landscape left forested with tropical jungle. The Tafuna-Leone Plain region is composed of highly permeable lava flows interfingered with ash beds (Stearns, 1944). This aquifer holds a fresh groundwater body, termed the basal lens, that floats on top of salt water within the underlying rock due to the density contrast between fresh and salt water. The plain's aquifers make the region favorable for groundwater development, and about half of the island's total water production is sourced from about thirty wells on the plain. However, the high permeability also makes the basal lens in this area thin and susceptible to saltwater intrusion if over exploited. The geologically older mountainous region of Tutuila is generally thought to be lesspermeable and less-favorable for groundwater development than the Tafuna-Leone Plain. The few wells located in the older unit show higher water levels, but often with higher pumping-induced drawdown, and these wells typically produce much smaller quantities of water than wells on the plain.
+
+Available water sources on Tutuila manifest in three forms, (1) groundwater, which is fed by the infiltration of rainfall into the land and is primarily extracted through drilled wells, (2) surface water, which is captured from streams or springs with systems of impoundments and pipes, and is typically used during baseflow conditions, and (3) rainwater catchment, which is only practiced to a limited extent in households where access to, or quality of other water resources is limited. ASPA produces the only municipal water supply in AS, the majority of which is sourced from almost fifty active groundwater-production wells, with a small percentage sourced from treated surface water supplies.
+
+## <span id="page-10-0"></span>1.5 Relevant Water-Use Data Collection Agencies
+
+### **1.5.1 American Samoa Power Authority (ASPA)**
+
+ASPA serves as the territory's only water, wastewater, solid waste, and power utility. Official responsibility of delivering water to the island's residences, businesses, and industry lies on ASPA, although in more remote villages a significant portion of the population relies on self-supplied surface water withdrawals (village water) or rain catchment systems to supply water for domestic use. For the most part, businesses are located in more populated areas, thus all commercial operations in AS likely use ASPA water. The ASPA water system relies almost entirely on groundwater, which is pumped from forty-seven active wells on Tutuila/Aunuu and four active wells in the Manua Islands. Because of the many roles that ASPA plays
+
+![](_page_10_Picture_8.jpeg)
+
+in the utility sector, a large proportion of the island's water production and delivery data is collected by and resides with ASPA, most of which is housed in internal databases or local servers at the ASPA headquarters in Tafuna.
+
+#### **1.5.2 American Samoa Environmental Protection Agency (AS-EPA)**
+
+AS-EPA is a territorial-regulatory organization focused on establishing and maintaining a healthy environment by developing and enforcing water quality, hazardous materials, air quality, and solid waste regulations. AS-EPA does not explicitly collect water use datasets, however, through drinking water quality monitoring programs, AS-EPA maintains lists of village water supply systems, drinking water vending machines, livestock census information, and other data that can be useful in developing estimates of water use or populations served. Typically, the regulatory operations conducted by AS-EPA do not involve the direct collection of water quantity or withdrawal data, but for a number of water use groups, AS-EPA datasets often represent the best available means for estimating use from activities that are not explicitly metered.
+
+#### **1.5.3 American Samoa Department of Commerce (AS-DOC)**
+
+The mission of the AS-DOC Research and Statistics division is to "…*provide a statistical service that is comprehensive and relevant to the pursuit of community goals..*. [such as] *natural resource management and conservation*" (AS-DOC website[: http://doc.as.gov/research-and-statistics/\)](http://doc.as.gov/research-and-statistics/). Therefore, AS-DOC maintains a number of datasets that are relevant to understanding territorial water use. AS-DOC data is predominantly collected in conjunction with the decadal U.S. Census effort, through door-to-door surveys of local households. U.S. Census information is collected from a sample representing 20% of the territorial population every 10 years. However, some data is obtained at yearly time resolutions from local agencies as well. It is notable that some data sets, such as population served by municipal water systems, are collected by both the AS-DOC and ASPA, but with different methodologies. While methodological differences sometimes result in inconsistencies, they also provide an opportunity for validation. AS-DOC produces a statistical yearbook on an annual basis, though in between census years (which are on decadal cycles) data from the last census is typically used.
+
+### **1.5.4 Agricultural Agencies**
+
+In American Samoa four primary agencies share involvement in the islands' agricultural sector. The American Samoa Department of Agriculture (AS-DOA) focuses primarily on crop restoration, veterinarian assistance to livestock farmers, stray dog control, surveillance and eradication of invasive species, maintaining and regulating supply for the local school lunch program, and developing, intensifying and diversifying agriculture in AS. The American Samoa branch of the U.S. Department of Agriculture (AS-USDA) shares some roles with AS-DOA, and also provides technical and cost-share assistance primarily to commercial farmers. The American Samoa Community College (ASCC) Land Grant acts as an extension service, provides research, extension educational programs, and services to stakeholders including farmers and aquaculture practitioners in the Territory. All three of these agencies also cooperate with AS-DOC to compile an agriculture census for the territory every five years, where data regarding crop and livestock production is aggregated. Unfortunately the agriculture census does not explicitly address water use for irrigation or livestock husbandry. The last agriculture census for the territory was compiled in 2008, because the scheduled 2013 agriculture census was not completed due to a U.S. Government shutdown during the survey period. The next agriculture census is scheduled to be performed in 2018 and released in 2019. At present there are no known agencies or individuals collecting data regarding water use for irrigation purposes.
+
+![](_page_11_Picture_8.jpeg)
+
+### <span id="page-12-0"></span>1.6 Relevant USGS WUDR-Established Water User Groups
+
+#### **1.6.1 Domestic**
+
+Of the 55,519 people cataloged by the 2010 census in AS about 84% rely entirely on municipal ASPA water, whereas 10% exclusively use self-supplied domestic withdrawals from surface water catchments (village water) with the remainder using use both or some other self-reported means (AS-DOC, 2016). In some areas, a limited amount of self-supplied domestic groundwater is sourced from hand-dug open hole wells, mostly located in coastal areas of Aunuu and Ofu-Olosega, though it is likely that most of these wells are used as a backup water source to the costlier yet often saltier ASPA water. Residential water use data is primarily provided by individual household water meters read by ASPA. It should be noted that in 2010 the average AS household size (number of residents per residence) was 5.6 people/household, over two times the national average, which is a consideration when assessing water meter data.
+
+#### **1.6.2 Government and Commercial**
+
+The majority of commercial facilities in AS are relatively small and most businesses probably do not use much more water than the average household, with the exception of some restaurants, the island's few hotels, and one reported bottled water facility. It is unlikely that commercial operations use any water sources besides municipal water, as areas on village water do not typically support business activity. Total water use data from both small and large businesses are stored within an ASPA database. These data are consolidated and reported internally by the ASPA customer service department, and water use from large vs. small businesses can be separated if needed. Government, both federal and local, supports a significant portion of the AS economy, and thus government offices and facilities make up a significant portion of territorial water use. In a typical month, government water use is about the same order of magnitude as all other commercial (not including industry) uses.
+
+### **1.6.3 Industry**
+
+At present, tuna processing is the only industry in AS. The Starkist Inc. plant has been operational since the 1960s and is the Territory's largest single water user. On average this plant uses approximately one million gallons per day (MGD), which is about twice the water use of all other commercial operations combined, and about half the water use of all residential customers combined. The tuna processing industry started in AS 1953 with one cannery (most recently operated by Tri Marine Inc., and Chicken of the Sea Inc. prior to that). Subsequently the Starkist Inc. plant was opened in 1963 (Gillett, 2009). In 2009 Chicken of the Sea shut down and only one cannery was operational until Tri Marine began operations in January 2015, but quickly shuttered its doors in December 2016 (Sagapolutele, 2016). These operational fluctuations and also seasonal procedures at the plants significantly affect the island's water use budget as is shown by the water use data in section 2.1.9.
+
+### **1.6.4 Farming and Irrigation**
+
+In American Samoa it is commonly recognized that there are two distinct and commonly practiced styles of agriculture, (1) traditional agriculture, and (2) row-crop agriculture. Traditional agriculture differs from row-crop agriculture in that traditional agriculture is primarily focused on perennial tropical crops such as taro, breadfruit, banana, and coconuts, whereas row crop farmers typically grow a diversity of vegetables such as cabbage, eggplant, onions, and squash using conventional soil preparation methods (tilling) and often using agricultural inputs such as fertilizers and pesticides. Traditional crops typically require few agricultural inputs, and in the climate of AS are easily produced with rainfall alone. The prevalence of
+
+![](_page_12_Picture_10.jpeg)
+
+irrigation use amongst row crop farmers is unknown; however, interviews suggest that some row crop farmers probably use irrigation on a regular basis, others only irrigate when absolutely needed, and many lack access to any irrigation at all. While there are no officially published data regarding irrigation practices in AS, it is possible that up to 30% of farmers may use irrigation on at least an occasional basis, with the majority of these users falling into the row crop classification (Josephine Lealasola, USDA, personal communication). It is likely that much of the irrigation practiced on Tutuila occurs on an emergency basis, when dry periods force farmers to use (relatively expensive) municipal ASPA water to keep crops from wilting (Mark Schmaedic, personal communication).
+
+#### **1.6.5 Livestock Production**
+
+There are few large scale commercial livestock operations in AS, and in general, only pigs are raised in significant numbers. Keeping pigs is a traditional Samoan cultural practice and it is common for residents to raise pigs for food or other traditional uses. Many pigs are raised in household scale "piggeries", which typically contain between 1 to 100 animals, with an average of 11 pigs per facility on Tutuila (ASEPA, 2006). Since piggeries are generally located at residences, they are dispersed and widespread throughout the landscape, and municipal water used for livestock operations is likely to be metered along with household domestic water use. However, there is likely to be significant variability in the amount of water used at different piggeries, depending on the size of the operation as well as the method by which the operators use. Some operators keep animals in "wash-down" style pens that require hosing off with water on a daily basis, whereas other piggeries use a "dry-litter" method (promoted by AS-EPA) that not only uses less water, but also reduces surface water pollution. It has been estimated that on average, piggeries of less than 10 pigs in AS require 50 to 100 gallons of water per day using typical manure management methods (AS-IPMC, 2004).
+
+### **1.6.6 Aquaculture**
+
+Aquaculture is a recently introduced practice in AS, with tilapia being the most prevalent fish that are grown. At present there are roughly 25 to 30 aquaculture farms in the territory, most of which are "small scale backyard operations" (Okimoto and Satele, 2003), with the exception of one to two larger farms. While aquaculture is a growing industry in the territory, at present the amount of water used for the practice is likely to be relatively small.
+
+#### **1.6.7 Water Losses**
+
+In reality, the Territory's largest water consumer, and thus the biggest challenge for sustainable water management, is water loss in the form of non-revenue water. As of April 2018, the gap between public supply production and metered consumption totaled about 65% of all water produced. Much of this water is lost to leaks in an aging delivery system. However, significant quantities of municipal water are also lost to theft (illegal connections) or to un-metered delivery. Objectives that help with constraining these fractions, such as water meter upgrades and improved analysis of in-line flows, will increase the accuracy of water use data, while at the same time improving the sustainability of this limited resource.
+
+![](_page_13_Picture_8.jpeg)
+
+### Common water-uses absent from American Samoa
+
+#### **1.6.8 Thermoelectric Power**
+
+While there are two centralized power plants in AS, the 23.5 MW ASPA Satala Power Plant and the 9 MW ASPA Tafuna Power plant, both of these plants are air-cooled diesel burning plants which do not use water for cooling purposes. Therefore, there is no known thermoelectric water use in the Territory.
+
+#### **1.6.9 Mining**
+
+There are a number of quarries and gravel pits located on Tutuila and the Manua Islands, which are primarily operated as sources of fill and aggregate. However, these sites represent the extent of mining within the territory, and none of them utilize significant quantities of water for mining operations.
+
+#### **1.6.10 Saline Water Withdrawals**
+
+While a number of the island's freshwater production wells sometimes extract groundwater with a highdrinking water chloride content (primarily during droughts or with over pumping), dissolved solid concentrations in the islands' wells typically do not get close to saline (over 1,000 ppm). All production well water is intended for domestic, commercial, or industrial uses that require fresh water, thus if a well begins to produce brackish water, it is shut down or the pump rate is reduced.
+
+# <span id="page-15-0"></span>**2.0 DATA**
+
+### <span id="page-15-1"></span>2.1 ASPA Municipal Water System Data
+
+In American Samoa, municipal water production and delivery services are provided by ASPA, the island's water and power utility. Groundwater provides 99 percent of the island's public-supply water and this water is sourced from wells with pumping capacities that range between 15 and 400 gallons per minute (GPM). Currently there are 44 active municipal wells on Tutuila, 1 active well on Aunuu, 3 active wells on Tau, and 2 active wells on Ofu-Olosega. Once extracted, groundwater is pumped into water delivery systems, which on Tutuila consist of about 600 km (375 miles) of pipeline, 19 booster stations, 800-900 valves, and 41 water storage tanks (Fig. 2). The main water system is interconnected across Tutuila's south shore and there are eight disconnected satellite systems with their own wells that serve some of the communities on the north shore of the island, or on separate islands such as Ofu, Olosega, and Tau. The water delivery lines are divided into about 240 km (150 miles) of main lines which range in size from 24 inches to 2 inches in diameter (with the majority of lines in the 4 to 8-inch range), and are composed primarily of PVC pipe with some older asbestos-concrete pipes. There are also about 360 km (225 miles) of service lines which are primarily 1-inch poly PE (Polyethylene) lines running between the main lines and customer meters.
+
+![](_page_15_Figure_4.jpeg)
+
+Figure 2: Map of ASPA municipal water system features including water transmission main lines (service lines not shown), water storage tanks, and booster pump stations. Note that booster and water line data for Manua Islands was not available from ASPA
+
+#### **2.1.1 Groundwater Production Data**
+
+As of April 2018 there are 51 active, 8 standby, and 9 drilled but not yet connected production wells (Fig. 3) in the ASPA system, including 6 wells located in the Manua Islands. Locations and status of these wells are shown in Fig. 4 and inventoried in Tables 1, 2, & 3. Groundwater pumping rate is measured by ASPA at each well on at least a monthly basis. At present ASPA is transitioning well-production metering from a manual system, where operators or technicians visit wells on a regular basis to read mechanical (dial based) meters, to a system where electromagnetic MagFlux flow meters (MJK Inc.) record and transmit data (via analog radio frequency transmission) to a centralized SCADA system, where it is uploaded to servers at ASPA headquarters. As of this writing, ASPA has MagFlux meters on less than
+
+![](_page_15_Picture_8.jpeg)
+
+half of the islands wells, and of these, most are installed at wells located on the Tafuna-Leone Plain. Through the transition to automated data collection, extraction rate and totalizer data has been collected in different formats and at different time resolutions. Data in digital format has been compiled by the USGS since 1984. Prior to that time, hardcopy records are known to extend back to 1974, when well drilling began. For this study, past groundwater extraction data has been found in multiple different formats including:
+
+- Manual meter readings collected from different operational departments at ASPA for the period December 2012 to October 2017 (Fig. 5).
+- MagFlux meter readings downloaded from the SCADA system for the period January 2016 to present (Fig. 5).
+- Historical pumpage data from USGS reports for the period July 1984 to September 1997 (Fig. 6)
+
+Since groundwater extraction rates are metered at each well, production data can be easily consolidated at the island, county, village, well-field, or extraction point level. At present, monthly extraction data is the best time resolution collected for all wells. However, for the 23 wells with MagFlux meters (labeled with blue ID numbers in Fig. 4) extraction rate data can be recorded at any time interval down to the second, but is often reported at 10 minute intervals. Also see Fig. A1 in Appendix A for location map of names for all villages with municipal wells.
+
+![](_page_16_Picture_6.jpeg)
+
+Figure 3: Photos showing typical size (100 – 300 GPM) and configuration of ASPA wells (left) and an ASPA water tank (right). Note that all wells use submersible pumps that are at depth within the well bore and located below a concrete block (shown on left side of the left photo). Left photo also shows red gate valve on the pipe leading to the tank, green structure where an in-line chlorinator is located, and grey power supply box. Throughout most of the ASPA system wells are connected to tanks, and tanks provide water to the distribution system, although some wells are directly plumbed into the water distribution system.
+
+![](_page_17_Figure_1.jpeg)
+
+Figure 4: Locations of ASPA production and monitoring wells. Labels indicate ASPA well ID number. Color of symbol indicates well status as active as of April 2018 or inactive (monitoring, standby, or drilled but not connected). Label color indicates presence (blue label color) or absence (grey label color) of MagFlux flow meter to digitally record flow rates.
+
+Groundwater extraction rates totalized by county for the last 5 years are presented in Table 4. This table was produced with consolidated data reported by ASPA for all active wells in the system during the period 2012 to 2017. Figure 5 shows plots of these data summarized by village. Note that these plots represent raw data as reported by ASPA. Visual inspection shows inconsistency in trends between 2015 and 2017 in some villages, indicating there are likely to be issues with missing or incorrect data that need to be assessed with quality assurance and quality control (QA/QC) procedures. Groundwater pumping data from years prior to 2012 seems to not exist in electronic format within ASPA databases. While this data may be located in hardcopy reports at ASPA headquarters, ASPA staff were unable to produce data beyond the period of record shown. Prior to 1996, production well meter readings were recorded and converted to an electronic format by the USGS. These data were consolidated and analyzed to generate summary reports authored by Izuka (1996), Izuka (1997), and Izuka (1999). Electronic files containing raw meter readings were provided for this report by the USGS and these data were reformatted to present extraction rates at each measured well as monthly averages. These averages are shown in Fig. 6. The reliability of these data are unknown and this dataset may be missing records for some wells or meter readings as the total extraction rates for some villages are lower than reported in Izuka (1996) Izuka (1997) and Izuka (1999), and some are significantly lower than is reported at current production rates. Nonetheless, these data likely represent the best groundwater withdrawal data available for the period prior to 1996.
+
+![](_page_17_Picture_4.jpeg)
+
+Table 1: All active groundwater extraction points in American Samoa within the ASPA system.
+
+| Well ID | Location    | Latitude   | Longitude   | Status | SCADA flow<br>meter |
+|---------|-------------|------------|-------------|--------|---------------------|
+| 70      | Malaeloa    | -14.33971  | -170.77473  | Active | yes                 |
+| 181     | Fagalii     | -14.31095  | -170.827017 | Active | no                  |
+| 83      | Malaeloa    | -14.336    | -170.76941  | Active | yes                 |
+| 91      | Malaeloa    | -14.34232  | -170.76744  | Active | yes                 |
+| 93      | Malaeloa    | -14.34348  | -170.76787  | Active | yes                 |
+| 119     | Malaeloa    | -14.34596  | -170.76707  | Active | no                  |
+| 168     | Malaeloa    | -14.33358  | -170.77082  | Active | yes                 |
+| 169     | Malaeloa    | -14.33337  | -170.77319  | Active | yes                 |
+| 62      | Iliili      | -14.347566 | -170.748702 | Active | yes                 |
+| 76      | Iliili      | -14.346342 | -170.747227 | Active | yes                 |
+| 84      | Iliili      | -14.34597  | -170.74276  | Active | yes                 |
+| 167     | Iliili      | -14.341723 | -170.747101 | Active | yes                 |
+| 33      | Tafuna      | -14.32437  | -170.73215  | Active | no                  |
+| 60      | Tafuna      | -14.326048 | -170.734517 | Active | yes                 |
+| 61      | Tafuna      | -14.32686  | -170.73554  | Active | no                  |
+| 66      | Tafuna      | -14.324556 | -170.73248  | Active | yes                 |
+|         |             |            |             |        |                     |
+| 72      | Tafuna      | -14.32154  | -170.73219  | Active | no                  |
+| 77      | Tafuna      | -14.32273  | -170.73214  | Active | yes                 |
+| 81      | Tafuna      | -14.320566 | -170.732212 | Active | yes                 |
+| 172     | Tafuna      | -14.33531  | -170.74393  | Active | yes                 |
+| 171     | Tafuna      | -14.33373  | -170.74288  | Active | yes                 |
+| 89      | Malaeimi    | -14.31754  | -170.73821  | Active | no                  |
+| 67      | Malaeimi    | -14.31895  | -170.73769  | Active | yes                 |
+| 85      | Mesepa      | -14.3258   | -170.74657  | Active | no                  |
+| 177     | Tafuna      | -14.33637  | -170.75013  | Active | yes                 |
+| 178     | Tafuna      | -14.33649  | -170.75482  | Active | yes                 |
+| 179     | Fagaalu     | -14.291027 | -170.688929 | Active | no                  |
+| 101     | Fagatogo    | -14.28003  | -170.6938   | Active | no                  |
+| 105     | Pago        | -14.277783 | -170.705284 | Active | yes                 |
+| 107     | Pago        | -14.27862  | -170.70548  | Active | yes                 |
+| 163     | Pago        | -14.27419  | -170.70697  | Active | no                  |
+| 165     | Pago        | -14.279785 | -170.706484 | Active | yes                 |
+| 183     | Vaipito     | -14.282711 | -170.710093 | Active | no                  |
+| 97      | Aua         | -14.2687   | -170.66118  | Active | no                  |
+| 99      | Aua         | -14.26776  | -170.6607   | Active | yes                 |
+| 164     | Fagaitua    | -14.26756  | -170.61795  | Active | no                  |
+| 143     | Fagasa      | -14.29271  | -170.72527  | Active | no                  |
+| 241     | Masefau     | -14.25994  | -170.63665  | Active | no                  |
+| 242     | Masefau     | -14.26088  | -170.63721  | Active | no                  |
+| 302     | Aunuu       | -14.286658 | -170.556946 | Active | no                  |
+|         |             |            |             |        |                     |
+| 161     | Alao        | -14.26244  | -170.56889  | Active | no                  |
+| 152     | Aoa         | -14.26459  | -170.58577  | Active | no                  |
+| 128     | Aasu        | -14.309801 | -170.771491 | Active | no                  |
+| 202     | Ofu-Olosega | -14.171533 | -169.676867 | Active | no                  |
+| 201     | Ofu-Olosega | -14.170883 | -169.676933 | Active | no                  |
+| 207     | Tau         | -14.218809 | -169.423106 | Active | no                  |
+| 213     | Tau         | -14.226744 | -169.505011 | Active | no                  |
+| 176     | Afono       | -14.26778  | -170.65048  | Active | no                  |
+| 170     | Vatia       | -14.25455  | -170.66925  | Active | no                  |
+| 180     | Vatia       | -14.25476  | -170.66857  | Active | no                  |
+| 302     | Aunuu       | -14.286658 | -170.556946 | Active | no                  |
+
+![](_page_18_Picture_3.jpeg)
+
+Table 2: Standby and monitor (inactive) wells within the ASPA system
+
+| Well ID | Location    | Latitude   | Longitude   | Status  |
+|---------|-------------|------------|-------------|---------|
+| 144     | Fagasa      | -14.290934 | -170.725792 | Standby |
+| 104     | Tula        | -14.25284  | -170.56952  | Standby |
+| 301     | Aunuu       | -14.286683 | -170.55695  | Standby |
+| 162     | Alao        | -14.262226 | -170.567331 | Standby |
+| 151     | Aoa         | -14.26502  | -170.58598  | Standby |
+| 129     | Aasu        | -14.30951  | -170.770741 | Standby |
+| 204     | Ofu-Olosega | -14.179317 | -169.6206   | Standby |
+| 212     | Tau         | -14.22735  | -169.511734 | Standby |
+| 46      | Tafuna      | -14.324392 | -170.732229 | Monitor |
+| 80      | Malaeloa    | -14.33889  | -170.77324  | Monitor |
+| 92      | Malaeloa    | -14.342872 | -170.767561 | Monitor |
+
+Table 3: ASPA wells that have been drilled but not connected as of May 2018
+
+| Well ID | Location | Latitude   | Longitude   | Status  |
+|---------|----------|------------|-------------|---------|
+| 1       | Malaeimi | -14.31205  | -170.732809 | Drilled |
+| 2       | Malaeimi | -14.310236 | -170.738338 | Drilled |
+| 3       | Malaeimi | -14.313137 | -170.739742 | Drilled |
+| 5       | Malaeimi | -14.309159 | -170.737162 | Drilled |
+| 4       | Malaeimi | -14.307137 | -170.73571  | Drilled |
+| 6       | Mesepa   | -14.32383  | -170.748014 | Drilled |
+| 15      | Malaeloa | -14.334561 | -170.774604 | Drilled |
+| 24B     | Nuuuli   | -14.304541 | -170.70972  | Drilled |
+| 24      | Pago     | -14.269242 | -170.704879 | Drilled |
+
+![](_page_20_Figure_1.jpeg)
+
+Figure 5: Graphs of recent groundwater pumping data showing trends and fluctuations in monthly groundwater production at each well field in American Samoa (from data provided by ASPA in electronic format).
+
+![](_page_21_Picture_1.jpeg)
+
+Figure 6: Graphs of historic groundwater pumping data showing trends and fluctuations in monthly groundwater production at each well field in American Samoa (from data provided by USGS and reported in Izuka (1996) Izuka (1997) and Izuka (1999))
+
+Table 4: Annual groundwater production rates at all wells for last 5 years, consolidated by county in million gallons per day [MGD]
+
+| Tutuila groundwater extraction [MGD] |      |      |      |      |      |                  |
+|--------------------------------------|------|------|------|------|------|------------------|
+| County                               | 2013 | 2014 | 2015 | 2016 | 2017 | 5 yr.<br>Average |
+| Leasina                              | 1.76 | 1.82 | 1.42 | 1.10 | 1.84 | 1.6              |
+| Tualatai                             | 1.16 | 1.13 | 1.04 | 0.87 | 1.24 | 1.1              |
+| Tualauta                             | 6.74 | 6.56 | 4.37 | 3.34 | 6.29 | 5.5              |
+| Ituau                                | 0.12 | 0.15 | 0.11 | 0.10 | 0.12 | 0.1              |
+| Maoputasi                            | 2.68 | 2.58 | 1.76 | 1.63 | 2.33 | 2.2              |
+| West Vaifanua                        | 0.03 | 0.05 | 0.05 | 0.02 | 0.03 | 0.0              |
+| East Vaifanua                        | 0.07 | 0.07 | 0.09 | 0.05 | 0.06 | 0.1              |
+| Sua                                  | 0.16 | 0.13 | 0.28 | 0.12 | 0.18 | 0.2              |
+| Saole                                | 0.04 | 0.03 | 0.03 | 0.04 | 0.03 | 0.0              |
+| Total                                | 12.8 | 12.5 | 9.2  | 7.3  | 12.1 | 10.8             |
+
+| Manua groundwater extraction [MGD] |       |       |       |       |       |     |
+|------------------------------------|-------|-------|-------|-------|-------|-----|
+| Ofu                                | 0.036 | 0.041 | 0.046 | 0.049 | 0.062 | 0.0 |
+| Olosega                            | 0.022 | 0.001 | 0.001 | 0.002 | 0.000 | 0.0 |
+| Fitiuta                            | 0.032 | 0.031 | 0.027 | 0.016 | 0.032 | 0.0 |
+| Tau                                | 0.161 | 0.156 | 0.112 | 0.052 | 0.068 | 0.1 |
+| Total                              | 0.3   | 0.2   | 0.2   | 0.1   | 0.2   | 0.2 |
+
+![](_page_21_Figure_6.jpeg)
+
+### **2.1.2 Ancillary Groundwater Production Data**
+
+#### **2.1.2.1 Chloride levels in production wells.**
+
+Though not directly related to the production data, the following information provides a more complete understanding of how ASPA manages its well fields. Some aquifers in AS have experienced increases in Cl- concentrations primarily as a result of excessive groundwater development or pumping rates. In island settings, groundwater pumping causes reduction of hydraulic head at the well, which increases the threat of contamination via seawater intrusion from below. Intrusion of salt from underlying seawater can be detected through measurement of electrical conductivity or by testing for chloride (Cl- ) concentration. The U.S. EPA recommended Maximum Contaminant Level (MCL) for Clis 250 mg/L and ASPA's target is to keep production water below this level. Tutuila's well fields span a gradient of Cllevels from very fresh (< 25 mg/L) to brackish, occasionally up to around 1,500 mg/L in wells in the Aua area. Well fields particularly susceptible to saltwater intrusion include, Aua, Iliil, Tafuna, Pago, Alao and Fagaitua. Specifically, ASPA has recognized wells Aua 97 and 99, Iliili 84, Tafuna 66, and Pago 163 as high-Clwells and Cllevels in these wells are monitored closely by operations staff.
+
+Presently, ASPA manually collects Cl- samples from each well on a monthly basis. Levels of Cl- are analyzed using a silver nitrate titration method (drop method with commercial chloride testing kits) in the field. Results from these tests are documented on hardcopy logs and are later entered into spreadsheets. These data are used for generating internal reports and monitoring problematic wells. However, a comprehensive repository of Cl- data does not appear to be maintained anywhere within ASPA databases. Data is contained in disparate spreadsheets and stored on the ASPA water server. For this report, available spreadsheets were collected from ASPA and were consolidated and analyzed. Table 5 shows a summary of monthly resolution Cl- data from all wells averaged over the entire available period of record, which begins in 2005 and is currently up to date until August 2017. However, there are a number of missing periods, notably the years 2006 to 2009, much of 2011, and part of 2014. It is not clear if data was gathered during these periods or if data was collected but later lost.
+
+#### **2.1.2.2 Pumping Water Levels in Production and Monitoring Wells**
+
+Trends in production well water levels may help to indicate the state of aquifers, and thus the availability of groundwater from a given region. In AS, water levels primarily respond to pumping and also to the prevalence of recent rainfall. Because the islands are composed of highly permeable basalts, decline in water levels typically causes problems with water quality (via saltwater intrusion) long before issues with aquifer depletion are encountered. This issue places a fundamental control on the availability of groundwater, and thus assessing water levels and salinities in production and in nearby monitoring wells is useful for managing extraction rates to ensure sustainability into the future. Presently, 1" outer-diameter sounding tubes are installed on almost all of the production wells in the ASPA system, and ASPA manually collects water level readings from these tubes on a monthly basis. Typically, pumping water levels from production wells are collected by the operations department and are recorded on hardcopy logs, and later entered into electronic spreadsheet format for storage on the local ASPA server. Recently ASPA engaged in a test project to install continuous water level (and electrical conductivity) loggers in available monitoring wells, but as of this writing only three open hole monitoring wells exist on Tutuila, and of these only two have loggers installed.
+
+For this report, water level data from pumping wells for the period 2007 to 2013 was collected from ASPA and summarized to determine the magnitude and seasonality in water level variation. This was done by calculating the average water level for each well, then subtracting each monthly value from each well's average. The monthly anomalies (or deviation from average values) for wells in different regions were averaged to produce Fig. 7. It should be noted that when pumps are shut off, water levels at most of Tutuila's well fields range from about 3 to 6 feet above mean sea level depending on location. Therefore, the magnitude of the deviations shown in Fig. 7 indicates that Tutuila's aquifers are very responsive to variation in rainfall. Large water level variations also help to explain high variability in Cl- concentrations as well-water chloride concentrations rise during times of negative deviation and freshen during times of positive deviation.
+
+![](_page_22_Picture_8.jpeg)
+
+Table 5: Levels of Cl- in well fields, bolded text indicates wells at which the Cl- levels have been decreasing, while in most well fields, Cl- levels have been increasing over the last 12 years.
+
+| Well Field | Average<br>Wellfield<br>Cl-<br>[mg/L] | 12-year Cl<br>trend<br>[mg/L/year] |
+|------------|---------------------------------------|------------------------------------|
+| Faga'itua  | 1494                                  | 101.4                              |
+| Aua        | 1265                                  | 67.8                               |
+| Aoa        | 323                                   | 17.9                               |
+| Pago       | 246                                   | 13.9                               |
+| Pavaiai    | 145                                   | 6.0                                |
+| Iliili     | 216                                   | 5.9                                |
+| Malaeloa   | 69                                    | 2.4                                |
+| Leone      | 37                                    | 1.4                                |
+| Mesepa     | 30                                    | 0.8                                |
+| Malaeimi   | 30                                    | 0.8                                |
+| Vatia      | 26                                    | 0.4                                |
+| Aasu       | 21                                    | 0.2                                |
+| Afono      | 26                                    | -0.3                               |
+| Masefau    | 26                                    | -0.5                               |
+| Tafuna     | 253                                   | -1.9                               |
+| Fagasa     | 23                                    | -1.9                               |
+| Fagatogo   | 37                                    | -2.6                               |
+| Tula       | 61                                    | -4.5                               |
+| Fagaalu    | 28                                    | -6.0                               |
+
+![](_page_23_Figure_3.jpeg)
+
+Figure 7: Water level variations in pumping wells, consolidated by geographic region. All wells on the eastern side of the Tafuna-Leone plain were classified as Tafuna wells, wells on the western side were classified as Leone wells and all other wells located off of the plain were classified as other wells. Note that water level anomalies are given in feet and are not weighted to the original magnitudes of levels in each well.
+
+![](_page_23_Picture_5.jpeg)
+
+#### **2.1.2.3 Storage tank level data**
+
+There are currently 41 operational water tanks in the ASPA system. As of this writing telemetered tank level data from 17 tanks is collected and transmitted through the SCADA system and stored within the ASPA SCADA database. Tank levels are typically monitored closely, in order to avoid low pressure complaints from customers, and data is typically used for internal reporting purposes. Despite efforts to keep tanks full, most tanks frequently drop below 50% capacity, and some tanks are drained to almost empty on an occasional basis. Tank level data for 2018 which was provided by ASPA is provided as a data supplement to this report.
+
+#### **2.1.4 Recommendations for Improving Groundwater Production Data**
+
+- Flow rates and extraction totals are only collected electronically at 23 of 51 active wells. Installation of additional MagFlux meters would increase the resolution, reliability, and accessibility of groundwater production data.
+- While groundwater production data is reported by individual well number and by village, there are no officially recognized aquifer boundaries in AS. Development of aquifer delineation based on geologic, topographic, and geochemical factors would allow consolidation of withdrawal data by aquifer unit.
+- Groundwater withdrawal data is primarily stored and used in raw form. Some inconsistencies in collected datasets indicate that application of standardized QA/QC procedures would increase data accuracy.
+- Trends in Cl- concentrations at many well fields are increasing, which indicates the sustainability of groundwater in these areas may be at risk. At present, Cl- concentrations are recorded manually on a monthly basis at most groundwater production points. Incorporation of electronic electrical conductivity sensors into the existing SCADA data collection and control network would increase the resolution and reliability of salinity data.
+- Water levels in some of Tutuila's wells have been found to respond quickly and dynamically in response to fluctuations in rainfall. Incorporation of electronic water level sensors into the existing SCADA data collection and control network would increase the resolution and reliability of water level data.
+
+### **2.1.5 Municipal Surface Water Withdrawals**
+
+At present only about 1% of the municipal water supply on Tutuila is sourced from surface water, and since there are no perennial streams on the other islands, only groundwater is used in the Manua Islands. Presently there is one operational microfiltration plant in the Vaipito Watershed within the Village of Pago Pago. The Vaipito plant was located to take advantage of a spring issuing from the volcanic bedrock with a consistent flow that was used for many years as a water supply for the Tuna canning plant in nearby Pago Pago Harbor. Spring water is now fed into a nearby lined reservoir, which helps to control suspended sediment levels before supplying water to the Vaipito microfiltration plant, which was built in the year 2000 and commissioned in 2003 (Fig. 8). The Vaipito plant has a maximum flow capacity of 0.50 MGD (350 GPM). However, to date the plant has not been operated at maximum capacity because the surface water supply to the reservoir is typically not sufficient to sustain a rate of more than about 100
+
+![](_page_24_Picture_11.jpeg)
+
+GPM. A second 1.0 MGD (700 GPM) surface water microfiltration plant was built in the village of Fagatogo; however, this plant has been offline since recent institutional memory. Treated water outlets from both plants are connected into the municipal distribution system upstream of the Tuna cannery, thus the fractional portion of municipal water sourced from surface water is only distributed to villages (and the Tuna Canneries) east of Pago Pago Harbor. Since the Vaipito filtration plant is the only public supply of surface water, the entire territorial water supply within this category is sourced from Vaipito Stream, which is a tributary of the main stream in the Pago Pago Harbor Watershed (NRCS watershed number 20100001001024).
+
+![](_page_25_Picture_2.jpeg)
+
+Figure 8: Photos showing Vaipito microfiltration plant building (left) and Vaipito reservoir (right, empty. photo taken during cleaning). Photo: ASPA.
+
+Flow data for the Vaipito plant was provided by ASPA for the years 2015 to 2018. It is likely that data from previous years does exist; however, this data is not currently stored in ASPA databases. Data from this period indicates that when operational, the plant is typically supplied with an average about 0.15 MGD (100 GPM) of surface water, and produces around 0.12 MGD (80 GPM) of filtered water to the municipal system. Monthly fluctuations appear to be large and during some periods the plant appeared to be offline (Fig. 9).
+
+### **2.1.6 Recommendations for Improving Public-Supply Surface Water Production Data**
+
+- Surface water withdrawal data are recorded; however, these data are stored and accessed through different systems and personnel than operational data for groundwater sources. Formatting and storing surface water withdrawal data in a similar format and location as groundwater withdrawal data would aid in collection and analysis of total water production in the ASPA system.
+- The contribution of surface water to the municipal supply is currently quite small. However, due to the relatively high cost of surface water treatment when compared with groundwater, as well as prevalent issues with turbidity and sediment in the flash-flood prone streams of AS (Messina et al 2016), increasing development of surface water resources would probably not be cost effective.
+
+![](_page_26_Figure_1.jpeg)
+
+Figure 9: Graph showing amount of raw water supplied to (in blue), and filtered water obtained from (in yellow) the Vaipito Microfiltration Plant for the available period of record. Note numerous missing values as well as verified zero values when the plant was assumed to not be operational.
+
+#### **2.1.7 Operational data collection and storage**
+
+At present ASPA is working to transition its operational data storage systems to a more automated workflow that will store data within an accessible SCADA database. Prior to this transition, all operational data (extraction rates, tank levels, system pressures, water levels, etc…) was collected manually by operators and recorded on hardcopy logs. These logs were often (though seemingly not always) entered into an electronic format by hand and the resulting spreadsheets were stored on a local access server and typically only retrieved for internal reporting. Thus much of this data is currently stored in either raw spreadsheet form or in monthly reports with variable periods of record.
+
+At present ASPA's objectives are to collect the following operational data through automated sensors that transmit to a centralized SCADA database and operations management system:
+
+- Production well flow rates
+- Production well system pressures
+- Booster station flows and pressures
+- Electricity usage information
+- Potentially water levels and electrical conductivity
+
+Presently only water storage tank levels are fully monitored and stored by the SCADA system.
+
+### **2.1.8 Recommendations for Improving Operational Data Collection and Storage**
+
+- Additional system infrastructure (e.g. sensing equipment and data transmission instruments to obtain flow, pressure, and other data), as well as improvements in the corresponding IT infrastructure at ASPA headquarters are needed to automate collection of groundwater withdrawal and operational data at each well. Such data would allow ASPA to manage pumpage
+
+![](_page_26_Picture_14.jpeg)
+
+- and its distribution to minimize spikes in system pressure and consequent water line breaks/leaks as well as to more quickly respond to spikes or rising trends in chloride concentration.
+- ASPA currently uses two primary databases to store water related data. A Daffron System Database is used by the administrative and customer service departments to manage customer account, billing, and usage data. In ASPA operational departments (water and power) data storage and operational system controls are transitioning towards management via a centralized SCADA System. While these two databases have fundamentally different purposes, information contained in both is routinely used for operational tasks, such as determining non-revenue water magnitude. Application of a database integration platform may be useful for consolidation and management of both of these data streams, which may streamline routine reporting (both internal and external) and operational tasks.
+
+#### **2.1.9 Water Delivery: ASPA Water Meter Data**
+
+To monitor customer use, ASPA has about 11,000 individual water meters installed on service lines that deliver water to residences and commercial business on Tutuila and the Manua Islands. At present, the majority of ASPA water meters are mechanical totalizing magnetic drive meters (Fig 10a) which must be read manually. ASPA is working to transition all customer meters to digital electromagnetic meters (such as the Sensus iPERL meter, Fig 10b.) with wireless downloading and communications capability. At present ASPA has about half of the necessary funding for this transition and is working to install the iPERL meters where possible with existing resources. Numerous departments at ASPA have expressed a need to upgrade water meters as older meters have issues that impact the accuracy of readings.
+
+Water meter data is collected by a meter reading crew within the customer service department at ASPA. The crew physically travels to different parts of the island on a daily basis to manually read each water meter (Fig. 11). Field data is stored with Itron FC300 Handheld Computers, which are then uploaded to a database within the Daffron platform through meter reading software (MV-RS) designed for data collection and meter route management. Monthly water usage data from all meters can be accessed through querying the Daffron database, which codes use data according to numerous keys including:
+
+- Individual meter number
+- Date (monthly time resolution, based on rotating schedule set by meter route location)
+- Customer type, includes: residential, small business, large business, and industrial.
+
+Presently, the ASPA customer service department generates reports on a monthly basis with use totals for the following water user sub-groups: residential users, government users, community college users, commercial users, and industrial use, which includes individual canneries at times when there is more than one. Note that tuna canning operations are the only industrial class water users on Tutuila, and at present there is only one operational cannery on the island. The cannery has a dedicated water supply line and is the island's largest single water user. Because of this, ASPA closely monitors its consumption through billing meter records as well as in-line flow meters located on upstream water mains.
+
+For this report, monthly resolution water meter data for the period 2003 to 2018 was provided by the ASPA customer service department. Meter data is stored in an electronic Daffron database, and user class keys were combined to compile data into the six use categories shown in Table 6. The keys currently associated with the usage classes are of sufficient detail to easily separate out water use between domestic uses, different government agencies and services, and between smaller businesses and industrial users. Types of businesses; however, are not differentiated in this database.
+
+![](_page_27_Picture_11.jpeg)
+
+Table 6: Three-year average municipal water use from water meter data. Usage is summarized by user type and data covers the latest 3 years of data from May 2015 to April 2018.
+
+| User group           | Daily water use<br>[MGD] |
+|----------------------|--------------------------|
+| Domestic             | 2.53                     |
+| AS Government        | 0.37                     |
+| AS Community College | 0.02                     |
+| Commercial           | 0.46                     |
+| Industrial           | 1.26                     |
+| Other                | 0.06                     |
+| Total water use      | 4.70                     |
+
+![](_page_28_Picture_3.jpeg)
+
+Figure 10: Water meters currently used by ASPA showing (a) (left) older type mechanical totalizing magnetic drive meters that must be read manually, and (b) (right) digital electromagnetic meter with wireless data transmission capabilities.
+
+#### **2.1.9.1 Residential populations served by ASPA public-supply water**
+
+To estimate the population served by ASPA municipal water (99% of which is sourced from groundwater and 1% sourced from surface-water withdrawals) the total number of water meters serving residential customers in 2018 as reported by ASPA (total of 8,665 meters) can be multiplied by the average household size (number of persons per household during the most recent census, in 2010) for each island, which was 5.65 people/household on Tutuila, 3.9 people/household on Olosega, 3.2 people/household on Ofu, and 4.4 people/household on Tau. (AS-DOC, 2016). This methodology yields a total population served estimate of 48,668 people in AS served by ASPA water. A detailed breakdown of population served estimates for each island is presented in Table 7.
+
+For the purposes of comparison, another estimate of the population served by municipal water can be obtained from AS-DOC census bureau data, as shown in Table 8. According to 2010 self-reported census information, ASPA supplies water to 89% or 45,066 of the territory's residents. Most of the remaining households source water from self-supplied surface water withdrawals via traditional Samoan village water systems, with a small portion relying on rain catchment or hand dug wells, with the latter being prevalent in Aunuu, a low lying-outer island near Tutuila's coast. It should be noted that these statistics are derived from self-reported information, which may increase their uncertainty.
+
+![](_page_28_Picture_8.jpeg)
+
+| Island  | Number of<br>people per<br>household | Number of<br>residential<br>water meters | Population<br>served |
+|---------|--------------------------------------|------------------------------------------|----------------------|
+| Tutuila | 5.65                                 | 8,503                                    | 48,042               |
+| Tau     | 4.4                                  | 67                                       | 295                  |
+| Ofu     | 3.2                                  | 56                                       | 179                  |
+| Olosega | 3.9                                  | 39                                       | 152                  |
+| Total   | 1.                                   | 8,665                                    | 48, 668              |
+
+Table 8: Number of people served by municipal water sources calculated from self-reported AS-DOC and U.S. Census information from both 2000 and 2010.
+
+| Municipal<br>water supply | Number of<br>people per<br>household in<br>2010* | Households<br>using ASPA<br>water (2000<br>census) | Households<br>using ASPA<br>water (2010<br>census) | Population<br>served<br>(2000<br>census) | Population<br>served<br>(2010<br>census) |
+|---------------------------|--------------------------------------------------|----------------------------------------------------|----------------------------------------------------|------------------------------------------|------------------------------------------|
+| Tutuila                   | 5.65                                             | 7,499                                              | 7,976                                              | 42,367                                   | 45,066                                   |
+| All Manua                 | 3.83                                             | 281                                                | 162                                                | 1,076                                    | 620                                      |
+| Total                     | -                                                | 7,780                                              | 8,138                                              | 43,444                                   | 45,678                                   |
+
+ <sup>\*</sup> Number of people per household between the years 2000 and 2010 were not significantly different.
+
+![](_page_29_Figure_6.jpeg)
+
+Figure 11: Map showing locations of about 9,000 of the Tutuila's 11,000 water meters and the boundaries of the 92 meter reading routes for Tutuila. Note that geographic data for the 162 water meters in the Manua islands was unavailable.
+
+![](_page_29_Picture_8.jpeg)
+
+#### **2.1.9.2 Industrial Water-Use Data:**
+
+In American Samoa, tuna canning operations represent the territory's only industry, and these operations have typically been the largest individual water users. Since the 1960s, there have typically been two active canneries on Tutuila. However, at present only one remains operational. Because the canneries are ASPA's largest customers, water delivery is closely monitored at customer-service meters as well as with in-line flow meters. The average annual industrial water use in the early 2000s when both canneries were operational was near 2.0 MGD. When only one cannery (Starkist) was operational, the total average annual industrial water use was around 1 MGD (industrial use in the year 2017 was 1.02 MGD). Both canneries are located on the northern end of Pago Pago Harbor, between the villages of Pago Pago and Aua. Because of the large water demand of the canneries, and the low water production due to the limited groundwater resource from the eastern portion of the island, in general ASPA water typically flows through the water distribution system from west to east, towards the canneries. Monthly resolution industrial water use data from customer service meters is plotted in Fig 12, alongside comparisons of domestic, commercial, and government water use.
+
+![](_page_30_Figure_3.jpeg)
+
+Figure 12: Water use consumption by the four predominant user classes including domestic water use, commercial use by small or large businesses, government use across all service sectors, and industrial use by tuna canning operations. Note significant drops in industrial use in 2009 and 2016 in response to the times when the Chicken of the Sea and the Tri Marine canneries ceased operations in September 2009, and December 2016, respectively.
+
+### **2.1.10 Recommendations for Improving Water Delivery Data**
+
+- One of the predominant water use data needs is to complete upgrades of older mechanical meters to digital meters with SCADA compatibility. Mechanical meters have three issues that impact the quality of the water use data that they provide. (1) these meters clog easily and allow water to flow through without being metered, (2) These meters have a minimum flow requirement, sometimes up to 0.75 GPM, before they will record flow, and (3) the additional work involved with reading these meters reduces the potential resolution of water use data, whereas, if digital meters can be read more efficiently, meter readers would be able to collect data at higher time
+
+![](_page_30_Picture_7.jpeg)
+
+resolutions. In addition, the new meters will allow for automatic data input into database storage systems.
+
+- The accuracy of population served estimates is limited as there appears to be no direct tabulation of population served by any given water source. The estimation methodology used here is limited by the accuracy of census data as well as by the temporal difference between available meter number data (from 2018) and the last census (currently from 2000).
+
+#### **2.1.11 Assessment of non-revenue water magnitude and distribution**
+
+By total volume, water loss as indicated by non-revenue (i.e. unaccounted for) water is the largest categorical consumer of water in the Territory. Since 2012 to present, ASPA records indicate the amount of non-revenue public-supply water has ranged between 7 and 10 MGD, which equates to about 53% to 73% of total water production (Fig. 13). This issue clearly affects the sustainability of territorial water resources, and reduction of water losses is currently one of ASPA's highest priorities. While it is thought that most water losses are caused by leaks in the transmission system, some water is also thought to be stolen through illegal connections, or delivered to customers with malfunctioning meters. There are no official calculations or estimates of the proportion of water loss that is caused by each of the aforementioned issues. However, staff with the ASPA leak detection crew hypothesize that potentially 60%-70% of non-revenue water is lost to leaks with the remainder lost through faulty meters or theft.
+
+While the system-wide quantity of non-revenue water is currently determined through assessment of total production and total consumption, determining losses in different system sectors would be more helpful for identifying and prioritizing repair efforts on portions of the system that contribute most to the problem. To successfully isolate portions of the delivery system may require additional in-line meters, pressure gauges, or hydraulic modeling. At present, in stream flows through water mains are monitored at twenty booster stations and four in-line flow meters directly installed on main lines. However, it is not clear wether the existing in-line metering infrastructure is sufficient to support effective repair efforts on the leaking delivery system. It is likely that additional feasibility studies need to be conducted to assess the current state of available system data, and to develop a strategy for determining what infrastructure improvements are keys for constraining non-revenue losses within smaller geographic areas. Because institutional knowledge of the water delivery system state and construction are poorly documented, such a study would be most effective if carried out in cooperation with ASPA staff who know and have experience with the water delivery system.
+
+![](_page_31_Figure_6.jpeg)
+
+Figure 13: ASPA reported system total production, consumption, and by difference, non-revenue water lost to leaks, faulty meters, or theft.
+
+![](_page_31_Picture_8.jpeg)
+
+#### **2.1.12 Recommendations for Improving Non-Revenue Water Data**
+
+- Improving estimates of water loss in localized portions of the water distribution system through improved metering and leak detection projects would be useful for targeting and prioritizing problem areas, as well as for development of strategies that will allow for more efficient leakdetection (or theft detection) and repair.
+
+#### **2.1.13 Wastewater System Data**
+
+The municipal wastewater collection system on Tutuila is divided into two disconnected systems, which discharge at either the Tafuna (Fagaogo) wastewater treatment plant (WWTP) or the Utulei WWTP (sometimes referred to as the Bay Area Plant). According to ASPA-provided wastewater as-built data, there are over 100 km of sewer main lines on Tutuila with about 33 km within the Utulei system and 75 km in the Tafuna system. According to as-builts, there are approximately 170 km of sewer laterals on Tutuila, around 23 km in the Utulei system and 140 km in the Tafuna system. These systems serve the main population centers in the villages of Tafuna, Malaeimi, Mesepa, Iliili, Nuuuli, Fagaalu, Utulei and Pago. However, the remainder of the island, as well as all of Aunuu Islet and all of the Manua Islands lack centralized wastewater collection systems and rely on OSDS units for wastewater disposal. The wastewater collection systems are primarily gravity flow systems, which are augmented by a total of nineteen lift stations throughout the island. Each system ultimately drains to its respective WWTP, both of which treat wastewater to a primary standard and then discharge treated wastewater via an ocean outfall at depth. Outfall flow rates are measured at each discharge point (Table 9) and are also measured at the wastewater lift stations scattered throughout the system. A map of existing wastewater infrastructure is shown in Fig. 14. ASPA calculations for the year 2017 indicate that about 75% of the flow at the Tafuna WWTP and 95% of the flow at the Utulei WWTP results from groundwater infiltrating into the sewer mains.
+
+![](_page_32_Figure_5.jpeg)
+
+Figure 14: Wastewater infrastructure in the ASPA system showing sewer mains, laterals, lift stations and treatment plants.
+
+![](_page_32_Picture_7.jpeg)
+
+Table 9. Monthly flow rates at wastewater outfalls for 2016 and 2017.
+
+| Month     | Tafuna 2016<br>[MGD] | Tafuna 2017<br>[MGD] | Utulei 2016<br>[MGD] | Utulei 2017<br>[MGD] |
+|-----------|----------------------|----------------------|----------------------|----------------------|
+| January   | 1.38                 | 1.42                 | 2.01                 | 1.91                 |
+| February  | 1.20                 | 1.64                 | 1.69                 | 2.30                 |
+| March     | 1.14                 | 1.79                 | 1.87                 | 1.73                 |
+| April     | 1.50                 | 1.44                 | 2.64                 | 1.80                 |
+| May       | 1.03                 | 1.62                 | 1.92                 | 2.27                 |
+| June      | 1.47                 | 1.33                 | 1.33                 | 1.81                 |
+| July      | 1.21                 | 1.36                 | 1.27                 | 1.73                 |
+| August    | 1.63                 | 1.27                 | 1.30                 | 1.27                 |
+| September | 1.75                 | 1.36                 | 1.36                 | 1.36                 |
+| October   | 1.79                 | 1.34                 | 1.38                 | 1.34                 |
+| November  | 1.94                 | 1.36                 | 1.94                 | 1.36                 |
+| December  | 1.99                 | 1.23                 | 1.25                 | 1.23                 |
+| Average   | 1.50                 | 1.43                 | 1.66                 | 1.68                 |
+
+#### **Populations served by municipal wastewater collection**
+
+ASPA records indicate that in 2017, the Tafuna and Utulei systems, respectively, served about 4,300 and 1,300 residences and businesses. If the number of service connections are multiplied by the average number of people per household in AS, 5.6 people per residence (AS-DOC, 2016), an estimated 31,450 people would have been served by the centralized wastewater collection system. This calculation is probably somewhat of an over-estimate, as it does not distinguish between businesses and residences, whereas there are likely to be less people living at business locations. For comparison, based on selfreported 2010 census data collected by AS-DOC (2016), 48.5% of the island's 60,200 people (2016 population estimate), which equates to 29,200 people, were reported to reside in a household connected to a public sewer.
+
+### **2.1.14 Industrial Wastewater Discharge**
+
+Industrial wastewater from both tuna cannery sites is discharged at an outfall point located at depth within Pago Pago Harbor. Discharge from the tuna processing facilities includes storm water runoff and industrial wastewater from process areas that include cold storage, thawing, butchering, and pre-cooking, spray-cooling, press-scrap reduction, can washer and boiler, and wash down. Solids are separated from the effluent stream and disposed of separately. As of 2005, the daily maximum flow rate was 2.57 MGD with a maximum monthly average flow of 1.56 MGD. Discharge flow rates are currently monitored by the cannery and water quality testing is performed annually by AS-EPA.
+
+![](_page_33_Picture_7.jpeg)
+
+### **2.1.15 Recommendations for Improving Wastewater Flow Data**
+
+- ASPA calculations for the year 2017 indicate that about 75% of the flow at the Tafuna WWTP and 95% of the flow at the Utulei WWTP results from groundwater infiltrating into the sewer mains. This problem dramatically increases the treatment cost for the island's wastewater, while at the same time making flow data from these treatment plants unreliable indicators of the true magnitude of wastewater production on the island. If, after review of the data, these percentages are confirmed, then additional projects aimed at reducing the amount of inflow and infiltration into the wastewater system transmission lines would be beneficial for addressing these issues.
+
+### <span id="page-34-0"></span>2.2 Village Water Supply
+
+Village water is the term applied to small community-scale self-supplied surface water harvesting systems in AS. Basic surface water systems are simple and inexpensive to develop, and once were the predominant form of water supply in AS until around the 1970s. At that time, government water systems and increased groundwater development shifted most municipal water supply towards groundwater sources. Village water systems in AS are typically constructed with a small in-stream weir that impounds enough water to route flow into a pipe (Fig. 15 (left)) which either terminates at a central tap for community use or is sometimes plumbed directly into households. Some systems tap directly into springfed groundwater sources as well (Fig. 15 (right)). According to AS-DOC self-reported census data, only 10.6% of households in 2010 relied on village water as their only water source, whereas 88.5% of households relied on ASPA water with the remainder using catchment systems or some other source.
+
+![](_page_34_Picture_5.jpeg)
+
+Figure 15: Example photos of village water system intakes. Abandoned village water impoundment across Fagaalu stream (left). Note old delivery pipe as indicated by red arrow. Village water intake located directly in volcanic spring in rock face of cliff in a village near Nuuuli Village (right)
+
+Several problems make village water systems less desirable than groundwater for utility and regulatory agencies, and at present many of the older systems have now been abandoned. These issues include, lack of sufficient streamflow, especially in drier months, poor water quality due to high bacterial counts, and high-sediment volumes from heavy rainfalls and flashy streams. To meet federal drinking water standards, village water systems would, at a minimum, require sediment mitigation, filtration, and disinfection treatment processes. Since these processes are typically prohibitively expensive, the village water systems presently in use do not meet federal drinking water quality standards. Nonetheless, this more traditional form of water is still used by a not-insignificant portion of the island's residents in outlying areas or in households where municipal water is too expensive. Additionally, village water systems provide a valuable back-up to municipal water supplies in the event of long standing power disruptions
+
+![](_page_34_Figure_8.jpeg)
+
+that would inactivate groundwater wells. While these systems have for the most part fallen into disuse owing to high maintenance demands and low usage, they could nonetheless become a priority in the future if stakeholders determine the need for additional resilience with territorial water security.
+
+#### **2.2.1 Existing Village Water Information**
+
+Because village water is not regulated or maintained by any agency, information regarding its use or prevalence is limited. Minimal system infrastructure typically does not include meters thus withdrawal rates are unknown. Locations of 29 village water systems that were in existence prior to 1996 were reported at least one time by a USGS report focused on streamflow (Wong, 1996). This report included information that indicated the presence of village water systems specifically above stream gauging sites (Fig 16). However, the documented village water systems probably represent an incomplete assessment of systems during this time period (over the past 40 years), since there were likely to have been system intakes located either on streams that were not gauged by the USGS or were located below the gauging site and would have thus been irrelevant to mention in the USGS report. The decadal census survey compiled by AS-DOC also collects information about household water source. The number of households using both ASPA and village water are inventoried every 10-years (Table 10). Despite the decline in village water use on a per-capita basis, its use still appears to be widespread throughout the territory with some village water use being reported in 61 of 77 AS villages (Fig. 16), significantly more than the 29 village water systems identified by Wong (1996). Note that the absolute number of households reporting they only use village water is small, and that use of ASPA water is reported in 72 villages.
+
+![](_page_35_Figure_4.jpeg)
+
+Figure 16: Available geographic information showing locations of extant village water systems visited by Wong, (1996) and villages where use has been reported as of 2010 (AS-DOC, 2016). Note that the self-reported nature of the 2010 data adds uncertainty, and also note that Wong's (1996) data is likely to be incomplete as only water systems located above gauging points on measured streams are reported
+
+Table 10: Number of people served by village water sources calculated from self-reported AS-DOC and U.S. Census information.
+
+| Village water<br>supply | Number of<br>people per<br>household in<br>2010* | Households<br>using village<br>water (2000<br>census) | Households<br>using village<br>water (2010<br>census) | Population<br>served<br>(2000<br>census) | Population<br>served<br>(2010<br>census) |
+|-------------------------|--------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|------------------------------------------|------------------------------------------|
+| Tutuila                 | 5.65                                             | 1,929                                                 | 936                                                   | 10,899                                   | 5,288                                    |
+| All Manua               | 3.83                                             | 42                                                    | 28                                                    | 161                                      | 107                                      |
+
+<sup>\*</sup> Number of people per household between the years 2000 and 2010 were not significantly different.
+
+### **2.2.2 Recommendations for Improving Village Water Use Data**
+
+While there exists little policy-based or regulatory interest in village water (beyond assessment of drinking water quality for systems that serve more than 25 people), these systems nonetheless represent a small but significant proportion of the water supply in AS. Additionally, these systems may prove essential in times of crisis if natural disasters prevent operation of groundwater wells. Therefore, it would be beneficial to water security interests to assess the existing status and feasibility for repair of village water systems. Such an effort would likely require conducting a dedicated study to accomplish the following objectives:
+
+- Develop a complete inventory of abandoned and active village water systems
+- Conduct interviews with local residents and assess stream gauging data to determine the reliability of streamflow at each site
+- Conduct site visits to each site to assess status of infrastructure and baseflow quantity
+- Communicate with village representatives through the Office of Samoan Affairs to determine stakeholder goals, needs, and level of support for use of village water.
+
+### <span id="page-36-0"></span>2.3 Irrigation Water Use
+
+Although it is likely that some agricultural operations in AS use irrigation on at least an occasional basis, there appears to be no existing efforts to collect irrigation water-use data in AS. Therefore, for this report, representatives from the ASCC Land Grant and the AS-USDA office were interviewed in person or by phone and asked to provide anecdotal estimates of the nature of irrigation water use, the extent of irrigation, and estimated amounts of water used. From these interviews it was determined that:
+
+- 1) Irrigation is not a widely used agricultural practice in AS.
+- 2) Row crop farmers are more likely to use irrigation than traditional crop farmers based on the needs of the crops grown.
+- 3) It is likely that farmers who do irrigate, only irrigate when rainfall is insufficient, during droughts or extended periods without rainfall.
+- 4) While some farmers with land near streams may use surface water diversions for irrigation, the majority of farmers likely utilize sprinkler systems connected to municipal ASPA water to apply emergency irrigation to crops in dry periods.
+- 5) AS-USDA representatives speculate that perhaps 30% of row crop farmers use irrigation.
+
+This information suggests that irrigation water use, if practiced by farmers at all, is most prevalent amongst row crop farmers. A land-use habitat mapping project completed by Meyer et al. (2016) shows the spatial distribution of row crop farms, in comparison to traditional farms (Fig. 17). This spatial analysis indicates the majority of row crop farms are located on the Tafuna-Leone Plain, an area with few to no perennial streams, which suggests that if and when these farmers irrigate, that ASPA water is a more
+
+![](_page_36_Picture_18.jpeg)
+
+likely source than surface water. Therefore, because of the high-cost of municipal water, as well as the limited distribution of row crop farms, it is likely that irrigation makes up only a small portion of the total water-use budget in AS.
+
+![](_page_37_Figure_2.jpeg)
+
+Figure 17: Map of agricultural areas in American Samoa, with row crop farms (most likely to use irrigation) highlighted in purple. From Meyer at al. (2016).
+
+#### **2.3.1 Recommendations for Improving Irrigation Water Use Data**
+
+- Because the amount of water used for irrigation in AS appears to be relatively small, there currently appears to be little need to meter irrigation withdrawals. In the future, if agricultural practices shift, a policy framework for assessing and regulating irrigation water use may be a necessary first step towards establishing a comprehensive calculation of territory wide irrigation water use.
+- Additional questions regarding irrigation water use could be added to the agricultural census to improve self-reported estimates of this parameter.
+
+### <span id="page-37-0"></span>2.4 Water Use for Livestock
+
+In American Samoa, pigs are the only form of livestock kept in significant numbers, and they are usually raised in household-scale piggeries. Each piggery typically contains an average of 11 pigs per facility (AS-EPA 2006), and according to the AS Interagency Piggery Management Counsel (AS-IPMC), a piggery with less than 10 animals uses and estimated 50 to 100 gallons of water per day using typical manure management methods, (AS-IPMC, 2004). There are two known sources of data regarding the numbers of pigs raised in the territory, AS-EPA and AS-DOC. Due to concerns over degradation of surface and ground water quality caused by pigs, AS-EPA developed a program to monitor and regulate pig production wastes. As part of this program, a survey based 'piggery census' was initiated and a geodatabase was created to inventory piggery numbers and locations throughout the territory (Fig. 18). A territory wide inventory of livestock is also performed on a 5-year cycle by AS-DOA, USDA, and AS-DOC as part of the aforementioned agriculture census. The AS-EPA and AS-DOC census' seem to be unrelated, as the number of animals counted in each dataset are not the same for the single year in which
+
+![](_page_37_Picture_9.jpeg)
+
+both census' were conducted. Nonetheless, these datasets provide the best available information regarding pig numbers, and thus livestock water use in the territory.
+
+According to data collected by ASEPA (2013) there were 940 piggeries on the territory with a total of 7,800 pigs in 2006, however, that number dropped to 5,000 pigs in 2013, and since that time additional piggery census data has not been found (ASEPA 2013). If AS-IPMC estimates are applied and it is assumed that a single pig may use between 5 and 10 gallons of water per day, then the most recent estimates of livestock water use would range between 0.05 to 0.02 MGD, which equates to about 1-2% of total domestic municipal water use (Table 11).
+
+Table 11: estimates of livestock (pigs) numbers and water used during each year for which data could be found, sourced from the 5-year agriculture census and an AS-EPA program.
+
+| Year | Number of<br>pigs:<br>Agriculture<br>census data* | Number of<br>pigs: AS-EPA<br>piggery census<br>data** | Water use<br>estimate range<br>[MGD]  |
+|------|---------------------------------------------------|-------------------------------------------------------|---------------------------------------|
+| 1990 | 13,003                                            | -                                                     | 0.13 to 0.06                          |
+| 1999 | 35,301                                            | -                                                     | 0.17 to 0.08                          |
+| 2003 | 64,208                                            | -                                                     | 0.64 to 0.32                          |
+| 2008 | 16,904                                            | 9,363                                                 | 0.16 to 0.08*<br>or<br>0.09 to 0.04** |
+| 2014 | -                                                 | 4,579                                                 | 0.04 to 0.02                          |
+| 2015 | -                                                 | 5,314                                                 | 0.05 to 0.02                          |
+
+![](_page_38_Figure_5.jpeg)
+
+Figure 18: Map showing locations of inventoried piggeries throughout American Samoa from AS-EPA piggery census data.
+
+![](_page_38_Picture_7.jpeg)
+
+#### **2.4.1 Recommendations for Improving Livestock Water Use Data**
+
+- Because livestock production in AS is primarily conducted by small household-scale operations, it is reasonable for water use for these facilities to be metered alongside household water use. Water use for commercial livestock operations could be separated by ASPA water metering by classifying commercial animal husbandry operations as distinct from other commercial activities.
+- Additional questions regarding water use for livestock operations could also be added to the agricultural census to improve self-reported estimates of water use for this purpose.
+- Coefficients of water use per pig could be improved and verified through additional study.
+
+### <span id="page-39-0"></span>2.5 Water use for Aquaculture
+
+Although construction of aquaculture facilities varies between producers, most utilize stream-water that is diverted into flow-through systems, which drain water either back into the stream or onto cultivated crops after passing it through one or more tanks. Most aquaculture operations produce tilapia, although there are some saltwater aquaculture operations that produce shrimp (black tiger prawns) and a test system for producing giant clams was recently developed. A small number of aquaculture farmers utilize recirculating systems where a pump is used to cycle water through tanks. These systems may utilize ASPA water, after some required treatment. However, due to the cost and chlorination of municipal water, rainwater catchment is typically preferred over using municipal water when it is possible. Unfortunately, there are no available estimates for the amount of water used per facility, as each facility varies significantly in scale and construction. Nonetheless, the total amount of water used for aquaculture is likely to be relatively small considering the limited scale of the practice in AS.
+
+### **2.5.1 Recommendations for Improving Aquaculture Water Use Data**
+
+- To determine site-specific water use from both municipal water and stream diversions would require direct interviews with aquaculture practitioners. The number of aquaculture facilities on the island is small enough that this is possible, though it would probably require undertaking an additional study to develop a format for interviews, data collection, and data storage.
+- Water quality management from aquaculture return flows is probably the predominant concern for regulatory action. Determining and potentially even regulating water quantity and release water quality of aquaculture systems is the first step in assessing if aquaculture poses a threat to territorial water quality.
+
+# <span id="page-40-0"></span>**3.0 DATA SUMMARY AND OVERVIEW**
+
+As of 2018, public-supply water use makes up the largest proportion of water used in AS, and 99% of this water is sourced from municipal (ASPA) groundwater wells. Of the roughly 11 MGD of water extracted at ASPA wells, about 23% is used domestically by residents, 12% is used in industrial tuna canning operations, 4% is used by commercial businesses, 3% is used by government services, and upwards of 55% to 65% is lost through leaks, faulty metering, or theft and unmetered connections. Some irrigation and livestock water use likely makes up a relatively small portion of the metered domestic use, and there is an unknown but also likely to be small amount of water withdrawn from surface waters used for these purposes. Although almost all of the territorial water supply was sourced from surface water diversions in the past, presently only about 11% of AS residents use self-supplied village water withdrawals for their primary source of water. However, these often now abandoned village water supply systems nonetheless represent one of the only contingencies for island-wide water supply, should long-term power interruptions affect the ability to pump groundwater. American Samoa presently has no activities that use water for thermoelectric power generation, mining, or any saline water uses.
+
+Data availability regarding water withdrawals and deliveries, geographic locations of extraction points and points of use, and quality of municipal water is comparatively good, with most available datasets currently meeting the tier 3 data-availability standard within the WUDR framework. However, information regarding water used for irrigation, livestock production, and self-supplied domestic surface water withdrawals from village water systems is comparatively lacking. Nonetheless, estimates of populations served, and the scale of these activities within the territory suggest that these water uses are small in comparison to the quantity of water used from public-supply sources.
+
+Table 12 summarizes the water use data availability in AS for all categorical uses within the WUDR framework. Additionally, Table 13 documents where improvements can be made to increase the availability, accuracy, or completeness of these datasets within the framework.
+
+![](_page_40_Picture_5.jpeg)
+
+### <span id="page-41-0"></span>3.1 Recommendation Summary
+
+**Recommendations to address gaps in ASPA's water production and distribution data for incorporation in the WUDR framework.**
+
+- 1. Installation of MagFlux meters with SCADA compatibility at production wells to replace existing manual meters. This would increase the resolution, reliability, and accessibility of groundwater production data.
+- 2. Installation of magnetic, SCADA compatible end-user meters, such as the Sunsus iPearl meter for residential and commercial customers. This would increase the resolution, accuracy, reliability, and accessibility of end-user water data.
+- 3. Development of aquifer delineation boundaries based on geologic, topographic, geochemical, and hydrologic factors. This would allow consolidation of withdrawal data by aquifer unit which would aid in managing and predicting changes to the hydrologic system.
+- 4. Development of water distribution system delineation boundaries based on locations of water lines, major isolation valves, meters, and storage tanks, as well as centers of water demand, and other political and functional units which would allow the distribution of water use and water loss to be defined with more precision.
+- 5. Completing upgrades of older mechanical water meters in the distribution system to digital meters would allow meters to be read more efficiently, and data to be collected at higher time resolutions and to be automatically transmitted to control centers and databases.
+- 6. Formatting and storing surface water withdrawal data in a similar format and location as groundwater withdrawal data would aid in collection and analysis of total water production in the ASPA system.
+- 7. Groundwater withdrawal data accuracy would be improved by application of standardized QA/QC procedures in the field and in the database. In the database these QA/QC procedures would be incorporated into checks, limits, and alarms during manual and automatic data input.
+- 8. Additional SCADA system instruments and IT infrastructure are needed to automate collection of groundwater withdrawal and operational data.
+- 9. Increasing accuracy of population served estimates could be accomplished through direct tabulation of population served within ASPA customer databases.
+- 10. Water use for commercial livestock operations could be separated by ASPA water metering by classifying commercial animal husbandry operations as distinct from other commercial activities.
+- 11. Application of a database integration platform may be useful for consolidation and management of data streams from the existing Daffron and SCADA platforms, which may streamline routine reporting (both internal and external) and operational tasks.
+
+#### **Recommendations to address data gaps for water uses from self-reported data or data collected from other sources**
+
+- 1. Additional questions regarding irrigation water use could be added to the agricultural census to improve self-reported estimates of irrigation water use.
+- 2. A policy framework for assessing and regulating irrigation water use may be a necessary first step towards establishing a comprehensive calculation of territory wide irrigation water use.
+- 3. It would be beneficial to water security interests to assess the existing status and feasibility for repair of village water systems.
+- 4. Additional questions regarding water use for livestock operations could be added to the agricultural census to improve self-reported estimates of water use for this purpose.
+- 5. Coefficients of water use per pig could be improved and verified through additional study.
+- 6. Determining site-specific water use from both municipal water and stream diversions could be accomplished through additional study.
+
+![](_page_41_Picture_21.jpeg)
+
+#### **Recommendations for data collection efforts to increase water resources sustainability**
+
+- 1. Improving estimates of water loss in localized portions of the water distribution system would be useful for targeting and prioritizing problem areas, as well as for development of strategies that will allow for more efficient leak-detection (or theft detection) and repair. This would be accomplished by analyzing water meter data in conjunction with the currently employed standard leak detection program.
+- 2. Incorporation of electronic electrical conductivity sensors into the existing SCADA data collection and control network would increase the resolution and reliability of salinity data.
+- 3. Incorporation of electronic water level sensors into the existing SCADA data collection and control network would increase the resolution and reliability of water level data at wells and water storage tanks. Surveying wells and tanks to a common datum would assure that hydraulic gradients calculated from measured water levels were accurately defined.
+- 4. Due to the relatively high cost of surface water treatment when compared with groundwater, increasing development of surface water resources would probably not be cost effective.
+- 5. Determining and potentially even regulating water quantity and release water quality of aquaculture systems is the first step in assessing if aquaculture poses a threat to territorial water quality
+
+![](_page_42_Picture_7.jpeg)
+
+Table 12 (1): Water Data AVAILABILITY in reference to WUDR framework – May 2018
+
+| Category                     | Tier 1                                                                                                                                                                                                                                                                         | Tier 2                                                                                                                                                                                                                                                                         | Tier 3                                                                                                                                                                                                                                                                                               |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ply<br>p<br>Su<br>blic<br>Pu | <br>Monthly groundwater withdrawal data<br>available<br><br>Domestic user meter data available<br><br>Estimates of<br>population served data<br>available<br><br>Regional and village scale water system<br>information available, see Table 13<br>for<br>recommendations. | <br>Site-specific annual and monthly ASPA<br>withdrawals by well and well field<br>available<br><br>ASPA reporting of water deliveries for<br>domestic, commercial, industrial uses<br>available<br><br>Note that water is not sold or transferred<br>between systems in AS | <br>Interbasin transfers are not applicable<br><br>System uses including assessment of<br>non-revenue water on island<br>wide scales<br>available, see Table 13<br>for<br>recommendations.<br><br>Population served estimates are currently<br>adequate<br><br>Reclaimed water is not used in AS |
+| dustrial<br>In               | <br>Annual withdrawals by facility reported by<br>water source, by water type, and industry<br>classification available                                                                                                                                                       | <br>Monthly deliveries from public supply to<br>each industrial user available                                                                                                                                                                                                | <br>Site-specific consumptive use estimates<br>available                                                                                                                                                                                                                                            |
+| on<br>Crop<br>gati<br>Irri   | <br>Irrigation practiced, but no water use data is collected by any agency, see Table 13                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                | for recommendations                                                                                                                                                                                                                                                                                  |
+| oelectric<br>m<br>Ther       |                                                                                                                                                                                                                                                                               | No thermoelectric water use in American Samoa, all power is produced with air cooled generators or renewables                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                      |
+
+![](_page_43_Picture_3.jpeg)
+
+Table 12 continued (2): Water Data AVAILABILITY in reference to WUDR framework – May 2018
+
+| Category                     | Tier 1                                                                                                                                                                                                             | Tier 2                                                                                                                         | Tier 3                           |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| Self-Supplied<br>Domestic    | Estimates of self-supplied surface water systems can be made, and estimates of domestic populations served by HUC-8 and county can be made through self-reported data. No self-supplied groundwater in AS.         | See Table 13 for recommendations.                                                                                              |                                  |
+| Irrigation – Golf<br>Courses | No water use data is collected regarding go                                                                                                                                                                        | lf course irrigation                                                                                                           |                                  |
+| Livestock                    | Water use can be estimated through coefficients for water use per head for pigs. Livestock facilities are small, and connected to homes. Water use for livestock is lumped with metered use for domestic purposes. | Site specific animal counts available for piggeries. Site specific withdrawals could be achieved through individual metering,  | See Table 13 for recommendations |
+| Mining                       | No known mining related water use in Amer                                                                                                                                                                          | ican Samoa                                                                                                                     |                                  |
+| Aquaculture                  | Aquiculture is practiced, but no water use data is collected by any agency, see table 13 for recommendations.                                                                                                      | Some site-specific facility information<br>(method, species cultured, etc.) may be<br>available through ASCC extension office. |                                  |
+
+![](_page_44_Picture_3.jpeg)
+
+Table 12 continued (3): Water Data AVAILABILITY in reference to WUDR framework – May 2018
+
+| Category                           | Tier 1                                                                                                                                                                                                                                                   | Tier 2                                                                                                                                                                                                                                                                                      | Tier 3                                                                                                                                                                                                  |
+|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| mercial<br>m<br>o<br>C             | <br>Annual and monthly deliveries from public<br>supply for commercial use available.                                                                                                                                                                   | <br>No known self-supplied commercial water<br>withdrawals                                                                                                                                                                                                                                 |                                                                                                                                                                                                         |
+| ydroelectric<br>wer<br>o<br>P<br>H | <br>No known hydroelectric power generation currently employed in American Samoa.                                                                                                                                                                       |                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                         |
+| water<br>ment<br>Waste<br>Treat    | <br>Return flow data collected at 19 lift<br>stations located throughout the system                                                                                                                                                                     | <br>Site specific discharges from both<br>(Tafuna and Utulei) WWTPs available.                                                                                                                                                                                                             |                                                                                                                                                                                                         |
+| Water use database                 | <br>Monthly and annual withdrawal data are<br>collected and for the most part stored in<br>an electronic format. Currently no system<br>exists to consolidate data for reporting to<br>a centralized state agency, see Table 13<br>for recommendations. | <br>Currently only a small proportion of public<br>supply withdrawal data are entered<br>electronically into a database with QA/QC<br>check capabilities. ASPA desires all<br>withdrawal information to eventually be<br>integrated into this format, see Table 13<br>for recommendations. | <br>Withdrawal data include water source,<br>water type, and location. Data are<br>available upon direct request from most<br>agencies. Systems to facilitate electronic<br>download are not in place. |
+
+![](_page_45_Picture_3.jpeg)
+
+Table 13 (1): RECOMMENDATIONS for improvement of Water Data Availability in reference to WUDR framework – May 2018
+
+| Category                                      | Tier 1                                                                                                                      | Tier 2                                                            | Tier 3                                                                                                                                                                                                 |
+|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ply<br>p<br>Su<br>blic<br>Pu                  | <br>Improve aquifer designation<br>boundary<br>delineations and water distribution system<br>zone boundary<br>delineations |                                                                   | <br>Improve assessment of non-revenue<br>losses though additional study,<br>in-line<br>metering, and leak detection                                                                                   |
+| dustrial<br>In                                |                                                                                                                             |                                                                   | <br>Site-specific discharges to surface water<br>may be available through ASEPA?                                                                                                                      |
+| on<br>Crop<br>gati<br>Irri                    | <br>Include irrigation and water use data<br>collection in agriculture census activities                                   |                                                                   | <br>Develop policy framework to classify,<br>categorize, and regulate withdrawals and<br>applications for agricultural operations.<br>Monitor extractive and consumptive use<br>of territorial waters |
+| plied<br>mestic<br>p<br>Su<br>o<br>Self-<br>D |                                                                                                                             | <br>Studies of actual withdrawals (village<br>water), are needed |                                                                                                                                                                                                        |
+| vestock<br>Li                                 | <br>Separate meters at homes with piggeries<br>could be installed to meter water use for<br>livestock                      |                                                                   | <br>Coefficients for water use per head for<br>animal type should be improved and<br>verified through additional study.                                                                               |
+
+![](_page_46_Picture_3.jpeg)
+
+Table 13 (2) continued: RECOMMENDATIONS for improvement of Water Data Availability in reference to WUDR framework – May 2018
+
+| Category              | Tier 1                                                                                                                          | Tier 2                                                                                                                                                                           | Tier 3                                                                                                                                                                                                                                                               |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Aquaculture           |                                                                                                                                 | <br>Site-specific water use via municipal<br>water and stream diversions could be<br>estimated through additional study.                                                        | <br>Site-specific return flow estimates from<br>flow through systems are desired for<br>water quality management                                                                                                                                                    |
+| Water use<br>database | <br>Development of a system to collect,<br>consolidate, and query<br>territorial water<br>use data. Best<br>performed by ASPA. | <br>Additional funding is needed to complete<br>transition from manual data collection of<br>ASPA water extractions<br>and deliveries, to<br>electronic collection and storage. | <br>Develop cooperative agreements<br>between ASPA, AS-DOC, and AS-EPA to<br>contribute to a centralized database to<br>provide online access to water use data<br>for sharing with public and institutional<br>stakeholders, including the USGS office<br>of WUDR. |
+
+# <span id="page-48-0"></span>**REFERENCES**
+
+- AS-DOC American Samoa Department of Commerce. (2016). *2016 Statistical yearbook for American Samoa.* Pago Pago, American Samoa. Retrieved from: [http://doc.as.gov/wp](http://doc.as.gov/wp-content/uploads/2011/06/American-Samoa-Statistical-Yearbook-2016.pdf)[content/uploads/2011/06/American-Samoa-Statistical-Yearbook-2016.pdf](http://doc.as.gov/wp-content/uploads/2011/06/American-Samoa-Statistical-Yearbook-2016.pdf) (Retrieved on: 7-19-18)
+- AS EPA American Samoa Environmental Protection Agency. (2006). American Samoa watershed management and protection program annual report. AS EPA report. Pago Pago, American Samoa. Retrieved from: <http://www.botany.hawaii.edu/basch/uhnpscesu/pdfs/sam/Buchan2006bwatershedAS.pdf> (Retrieved on: 7-19-18)
+- AS EPA American Samoa Environmental Protection Agency. (2013). GIS based piggery data for Tutuila and Manua Islands. [Dataset]. AS EPA, Pago Pago, American Samoa
+- AS-IPMC American Samoa Interagency Piggery Management Council. (2004). American Samoa Water Quality Projects. Retrieved from: [https://www.ctahr.hawaii.edu/rwq/american\\_samoa/American\\_Samoa\\_Interagency\\_Piggery\\_Manag](https://www.ctahr.hawaii.edu/rwq/american_samoa/American_Samoa_Interagency_Piggery_Managment_Council.pdf) [ment\\_Council.pdf](https://www.ctahr.hawaii.edu/rwq/american_samoa/American_Samoa_Interagency_Piggery_Managment_Council.pdf) (Retrieved on: 7-19-18)
+- Bentley, C.B. (1975). *Ground-water resources of American Samoa with emphasis on the Tafuna-Leone Plain, Tutuila Island.* US Geological Survey Report No. 75-29.
+- Davis, D.A. (1963). *Ground-water reconnaissance of American Samoa.* U.S. Geological Survey Water-Supply Paper 1608-C.
+- Gillett, R. 2007. A Short History of Industrial Fishing in The Pacific Islands: The Tuna Canneries. Retrieved from:<http://www.fao.org/docrep/010/ai001e/ai001e09.htm> (Retrieved on: 7-19-18)
+- Izuka, S.K., J.A. Perreault, and T.K. Presley. (2007). *Areas contributing recharge to wells in the Tafuna-Leone Plain, Tutuila, American Samoa.* U.S. Geological Survey Scientific Investigations Report 2007-5167. [http://pubs.usgs.gov/sir/2007/5167/].
+- Izuka, S.K. (1996). Summary of ground-water and rainfall data for Tutuila and Aunuu Islands, American Samoa, for July, 1984 through September, 1995. U.S. Geological Survey, Earth Science Information Center, Open-File Report No. 96-116.
+- Izuka, S.K. (1997). Summary of ground-water data for Tutuila and Aunuu, American Samoa, for July 1985 through September 1996. U.S. Geological Survey, Branch of Information Services, Open-File Report No. 97-654.
+- Izuka, S.K. (1999). Summary of ground-water data for Tutuila and Aunuu, American Samoa, for October 1987 Through September 1997. U.S. Geological Survey, Pacific Islands Water Science Center, Open-File Report No. 99-252.
+- Kennedy, Jenks, and Chilton Consulting Engineers. (1987). *Groundwater contamination study Tafuna-Leone Plain Tutuila Island.* Final report for the Environmental Quality Commission, Office of the Governor, Tutuila, American Samoa. 168 p.
+- Meyer, R.A., Seamon, J.O., Fa'aumu, S., and Lalogafuafua, L. (2016). Classification and Mapping of Wildlife Habitats in American Samoa: An object-based approach using high resolution orthoimagery and LIDAR remote sensing data. Report in preparation for American Samoa Department of Marine and Wildlife Resources.
+
+![](_page_48_Picture_15.jpeg)
+
+- Okimoto, D.K. and Satele, S. (2003). Sea Grant in American Samoa: Aquaculture Development. Sea Grant Extension Service, Honoululu, HI. Retrieved from: <http://nsgl.gso.uri.edu/hawau/hawaunr03001.pdf> (Retrieved on: 7-19-18)
+- Stearns, H.T. (1944). Geology of the Samoan islands. *Geological Society of America Bulletin* 55(11): 1279–1332.
+- Sagapolutele, F. (October 14, 2016) Tuna cannery in American Samoa to halt production. Samoa Observer. Retrieved from: [http://www.samoaobserver.ws/en/14\\_10\\_2016/local/12675/Tuna-cannery](http://www.samoaobserver.ws/en/14_10_2016/local/12675/Tuna-cannery-in-American-Samoa-to-halt-production.htm)[in-American-Samoa-to-halt-production.htm](http://www.samoaobserver.ws/en/14_10_2016/local/12675/Tuna-cannery-in-American-Samoa-to-halt-production.htm) (Retrieved on: 7-19-18)
+- Wong, M.F. 1996. Analysis of streamflow characteristics for streams on the island of Tutuila, American Samoa. US Geological Survey Water Resources Investigations Report No. 95-4185, Honolulu, HI.
+- Worland, S. C., (2017). How the USGS collects national water-use data, and why it needs to be improved to aid hydrologic research. Presentation: American Geophysical Union, Fall Meeting, December, 2017. Retrieved from:<http://adsabs.harvard.edu/abs/2017AGUFM.H22G..01W> (Retrieved on: 7-19- 18)
+- USGS United States Geological Survey. (2018) Water Availability and Use Science Program Water Use Data and Research Proposals for Cooperative Agreements – Fiscal Year 2018. Program Announcement/Funding Opportunity G18AS
+
+#### **List of abbreviations used:**
+
+American Samoa (AS)
+
+American Samoa Community College (ASCC)
+
+American Samoa Department of Commerce (AS-DOC)
+
+American Samoa Environmental Protection Agency (AS-EPA)
+
+American Samoa Power Authority (ASPA)
+
+Chloride (Cl- )
+
+Gallons per minute (GPM)
+
+Hydrologic unit code (HUC)
+
+million gallons per day (MGD)
+
+National Weather Service (NWS)
+
+Quality assurance and quality control (QA/QC)
+
+The American Samoa branch of the U.S. Department of Agriculture (AS-USDA)
+
+The United States Geological Survey (USGS)
+
+Water Use Data and Research (WUDR)
+
+# <span id="page-51-0"></span>**APPENDIX A**
+
+### <span id="page-51-1"></span>Appendix A Contents
+
+- Data supplement contents
+- Figure A1: Map of villages containing at least one ASPA well.
+- Table A1: Vaipito surface water treatment plant flow data.
+- Table A2: Available Village water information from Wong (1996).
+- Table A3: Total system wide ASPA water production.
+- Example interview questionnaire
+
+### <span id="page-51-2"></span>Data Supplement Contents
+
+- Groundwater extraction data, from each well, provided by ASPA (units in MGD), 1984 to 2017, *(Well\_pumping\_data\_MGD.csv).*
+- Groundwater Chloride (Cl- ), from each well, provided by ASPA (units in mg/L), 2005 to 2017, *(Well\_Cl\_data\_ASPA\_mg\_per\_L.csv).*
+- Pumping water level data at each well, provided by ASPA (units in feet below ground surface), 2008 to 2013, *(Well\_pumping\_data\_MGD.csv).*
+- Water meter data, summarized by use group, provided by ASPA (units in total gallons) and summarized in consolidated categories, (usage reported in MGD), 2003 to 2018, *(Water\_Meter\_data\_ASPA\_meters\_galls\_MGD.csv)*
+- Water storage tank levels, provided by ASPA, (units in water height in feet), 2018 only, *(Water\_tank\_level\_data\_ASPA\_height\_in\_ft\_2018.csv)*
+
+![](_page_51_Figure_15.jpeg)
+
+Figure A1: Location map showing villages where at least one ASPA production well is located.
+
+![](_page_51_Picture_17.jpeg)
+
+Table A1: Vaipito surface water treatment plant flow data for dates provided by ASPA.
+
+|           |            | Raw water inflow |       | Treated water outflow |       |       |  |  |
+|-----------|------------|------------------|-------|-----------------------|-------|-------|--|--|
+| Date      | [MG/month] | [MGD]            | [GPM] | [MG/month]            | [MGD] | [GPM] |  |  |
+| 2/1/2015  | 0.00       | 0.00             | 0     | 0.00                  | 0.00  | 0     |  |  |
+| 7/1/2015  | 3.10       | 0.14             | 98    | 3.32                  | 0.15  | 105   |  |  |
+| 8/1/2015  | 4.30       | 0.19             | 130   | 4.13                  | 0.18  | 125   |  |  |
+| 9/1/2015  | 0.91       | 0.07             | 49    | 0.89                  | 0.07  | 47    |  |  |
+| 10/1/2015 | 3.65       | 0.19             | 133   | 3.62                  | 0.19  | 132   |  |  |
+| 11/1/2015 | 3.23       | 0.14             | 97    | 3.16                  | 0.14  | 95    |  |  |
+| 1/1/2016  | 6.03       | 0.20             | 140   | 5.66                  | 0.19  | 131   |  |  |
+| 2/1/2016  | 2.00       | 0.14             | 99    | 2.40                  | 0.17  | 119   |  |  |
+| 3/1/2016  | 2.14       | 0.12             | 83    | 1.85                  | 0.10  | 72    |  |  |
+| 4/1/2016  | 2.30       | 0.19             | 133   | 1.93                  | 0.16  | 112   |  |  |
+| 5/1/2016  | 1.53       | 0.13             | 89    | 1.37                  | 0.11  | 79    |  |  |
+| 7/1/2016  | 0.60       | 0.20             | 139   | 0.50                  | 0.17  | 116   |  |  |
+| 8/1/2016  | 0.85       | 0.17             | 118   | 0.66                  | 0.13  | 92    |  |  |
+| 10/1/2016 | 0.57       | 0.08             | 56    | 0.56                  | 0.08  | 56    |  |  |
+| 1/1/2017  | 0.00       | 0.00             | 0     | 0.00                  | 0.00  | 0     |  |  |
+| 2/1/2017  | 0.00       | 0.00             | 0     | 0.00                  | 0.00  | 0     |  |  |
+| 3/1/2017  | 0.40       | 0.06             | 40    | 0.35                  | 0.05  | 34    |  |  |
+| 4/1/2017  | 2.08       | 0.13             | 90    | 1.96                  | 0.12  | 85    |  |  |
+| 5/1/2017  | 5.45       | 0.23             | 158   | 3.89                  | 0.16  | 113   |  |  |
+| 6/1/2017  | 4.55       | 0.18             | 122   | 3.41                  | 0.13  | 91    |  |  |
+| 7/1/2017  | 4.34       | 0.20             | 137   | 2.87                  | 0.13  | 90    |  |  |
+| 8/1/2017  | 3.22       | 0.13             | 93    | 2.91                  | 0.12  | 84    |  |  |
+| 9/1/2017  | 1.83       | 0.10             | 71    | 1.52                  | 0.08  | 58    |  |  |
+| 10/1/2017 | 1.78       | 0.10             | 72    | 1.42                  | 0.08  | 58    |  |  |
+| 11/1/2017 | 0.00       | 0.00             | 0     | 0.00                  | 0.00  | 0     |  |  |
+| 12/1/2017 | 0.00       | 0.00             | 0     | 0.00                  | 0.00  | 0     |  |  |
+| 1/1/2018  | 0.00       | 0.00             | 0     | 0.00                  | 0.00  | 0     |  |  |
+| 2/1/2018  | 0.55       | 0.18             | 127   | 0.35                  | 0.12  | 81    |  |  |
+| 3/1/2018  | 1.35       | 0.11             | 78    | 0.84                  | 0.07  | 49    |  |  |
+| 4/1/2018  | 0.70       | 0.12             | 81    | 0.36                  | 0.06  | 42    |  |  |
+| 5/1/2018  | 0.95       | 0.16             | 110   | 0.56                  | 0.09  | 65    |  |  |
+
+![](_page_52_Picture_3.jpeg)
+
+Table A2: Available Village water information from Wong (1996). Note this list of village water systems only represents those above stream gauging sites and is thus not comprehensive.
+
+| Location        | Latitude   | Longitude   | Diversion amount   | Other notes                                                                                                                          |
+|-----------------|------------|-------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| Aoa             | -14.267217 | -170.59317  | Small diversion    | domestic use since Sept 14,1964                                                                                                      |
+| Afono           | -14.262611 | -170.651764 | About 0.06 ft 3 /s | is diverted about 0.5 mile above station for domestic use in Afono since 1958                                                        |
+| Aasu            | -14.292619 | -170.759537 | Small diversion    | above station for domestic use since the early 1960's.                                                                               |
+| Afao            | -14.330928 | -170.801802 | About 0.02 ft 3 /s | diverted upstream from station for domestic use in Afao since 1958 and at Atauloma<br>School from 1958-1972                          |
+| Nuuuli          | -14.308333 | -170.710526 | -                  | Diversion by frequent pumping<br>from gage pool for public water supply during period of<br>continuous record                        |
+| Matuu           | -14.29705  | -170.686646 | Small diversion    | 100 ft.<br>upstream of station since September 1972 for domestic use.                                                                |
+| Onenoa          | -14.253547 | -170.579922 | Minor diversion    | upstream of site for domestic use starting about 1971                                                                                |
+| Onenoa          | -14.252402 | -170.580383 | Minor diversion    | upstream of site for domestic use starting in 1971                                                                                   |
+| Masausi         | -14.259951 | -170.603989 | Minor diversion    | for domestic use upstream of site at 90 ft.<br>altitude starting in 1968.                                                            |
+| Masefau         | -14.259068 | -170.636566 | Minor diversion    | domestic use upstream of site at altitude 120 ft.<br>from 1958                                                                       |
+| Fagasa          | -14.284915 | -170.718353 | -                  | RemarksDiversion by U.S. Marine Corps in the 1940's, no diversion during period of<br>record                                         |
+| Aoloaufou       | -14.310255 | -170.76796  | Minor diversion    | from spring upstream of site for domestic use starting in 1968.                                                                      |
+| Seetaga         | -14.323077 | -170.810974 | Minor diversion    | for domestic use upstream of site at 100 ft.<br>altitude starting about 1968                                                         |
+| Mapusaga        | -14.321994 | -170.747745 | -                  | Stream goes dry downstream from station because of diversion by village.                                                             |
+| Fagaalu         | -14.287868 | -170.696854 | -                  | Municipal diversion upstream from site. prior to period of record.                                                                   |
+| Pago Pago       | -14.288234 | -170.706894 | -                  | Municipal diversion (Vaipito<br>intake) immediately downstream of site                                                               |
+| Pago Pago (old) | -14.284247 | -170.707245 | -                  | Municipal diversion located upstream of site                                                                                         |
+| Pago Pago (new) | -14.284247 | -170.707245 | -                  | Municipal diversion located upstream of site.                                                                                        |
+| Pago Pago       | -14.277369 | -170.706223 | -                  | Pumping occurs from pool at site, all measurements below were made above pool.<br>Municipal and domestic diversions upstream of site |
+| Anasosopo       | -14.282478 | -170.663574 | -                  | Diversion for domestic use upstream of site.                                                                                         |
+| Lauliituai      | -14.279792 | -170.653214 | -                  | Diversion for domestic use upstream of site at altitude 140 ft.<br>starting in 1964.                                                 |
+|                 |            |             |                    |                                                                                                                                      |
+| Alega           | -14.284214 | -170.645035 | -                  | Diversion for domestic use upstream of site starting in 1974                                                                         |
+
+![](_page_53_Picture_3.jpeg)
+
+Table A2: continued
+
+| Location  | Latitude   | Longitude   | Diversion amount | Other notes                                                                                                                             |
+|-----------|------------|-------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| Aumi      | -14.28615  | -170.644623 | -                | Diversion for domestic use upstream of site at altitude 200 ft.<br>starting in 1974 and at<br>altitude 50 ft.<br>after period of record |
+| Pago Pago | -14.277369 | -170.706223 | -                | municipal and domestic diversions upstream of site                                                                                      |
+| Utumoa    | -14.284247 | -170.707245 | -                | municipal diversion upstream of<br>site                                                                                                 |
+| Fagaalu   | -14.287868 | -170.696854 | -                | Municipal diversion upstream from site. prior to period of record.                                                                      |
+| Leone     | -14.324475 | -170.783585 | -                | Municipal diversion upstream of site                                                                                                    |
+| Amaluia   | -14.325019 | -170.790384 | -                | Domestic diversion above site observed in 1975.                                                                                         |
+| Fagalii   | -14.3076   | -170.8252   | -                | Domestic diversion above site observed in 1975                                                                                          |
+
+Table A3: Total system wide monthly ASPA water production, metered consumption, and by difference, non-revenue water.
+
+| Date      | Average<br>Production<br>[MGD] | Total Average<br>Consumption<br>[MGD] | Non-Revenue<br>Water [MGD] | Non-Revenue<br>Water<br>[% of total] | Date,<br>continued | Average<br>Production<br>[MGD] | Total Average<br>Consumption<br>[MGD] | Non-Revenue<br>Water [MGD] | Non-Revenue<br>Water<br>[% of total] |
+|-----------|--------------------------------|---------------------------------------|----------------------------|--------------------------------------|--------------------|--------------------------------|---------------------------------------|----------------------------|--------------------------------------|
+| 12/1/2012 | 15.0                           | 4.6                                   | 10.4                       | 69%                                  | 7/1/2015           | 12.4                           | 5.0                                   | 7.3                        | 59%                                  |
+| 1/1/2013  | 12.5                           | 4.5                                   | 8.0                        | 64%                                  | 8/1/2015           | 12.6                           | 4.7                                   | 7.9                        | 63%                                  |
+| 2/1/2013  | 13.2                           | 4.6                                   | 8.7                        | 65%                                  | 9/1/2015           | 11.9                           | 4.8                                   | 7.2                        | 60%                                  |
+| 3/1/2013  | 13.7                           | 4.6                                   | 9.1                        | 66%                                  | 10/1/2015          | 12.7                           | 5.7                                   | 7.0                        | 55%                                  |
+| 4/1/2013  | 13.6                           | 5.5                                   | 8.0                        | 59%                                  | 11/1/2015          | 13.4                           | 4.6                                   | 8.8                        | 66%                                  |
+| 5/1/2013  | 13.1                           | 5.1                                   | 8.1                        | 62%                                  | 12/1/2015          | 10.6                           | 4.5                                   | 6.1                        | 57%                                  |
+| 6/1/2013  | 13.5                           | 5.3                                   | 8.2                        | 61%                                  | 1/1/2016           | 12.1                           | 5.0                                   | 7.2                        | 59%                                  |
+| 7/1/2013  | 13.7                           | 5.5                                   | 8.2                        | 60%                                  | 2/1/2016           | 13.4                           | 4.6                                   | 8.8                        | 66%                                  |
+| 8/1/2013  | 13.0                           | 4.5                                   | 8.5                        | 66%                                  | 3/1/2016           | 14.1                           | 4.9                                   | 9.2                        | 65%                                  |
+| 9/1/2013  | 13.2                           | 5.3                                   | 7.9                        | 60%                                  | 4/1/2016           | 11.8                           | 5.0                                   | 6.8                        | 58%                                  |
+| 10/1/2013 | 13.4                           | 4.8                                   | 8.6                        | 64%                                  | 5/1/2016           | 12.3                           | 5.1                                   | 7.2                        | 59%                                  |
+| 11/1/2013 | 12.9                           | 5.9                                   | 7.0                        | 54%                                  | 6/1/2016           | 12.4                           | 5.1                                   | 7.3                        | 59%                                  |
+| 12/1/2013 | 13.1                           | 4.3                                   | 8.8                        | 67%                                  | 7/1/2016           | 11.7                           | 5.2                                   | 6.5                        | 56%                                  |
+| 1/1/2014  | 12.7                           | 4.5                                   | 8.1                        | 64%                                  | 8/1/2016           | 11.8                           | 5.8                                   | 6.0                        | 51%                                  |
+| 2/1/2014  | 12.9                           | 4.8                                   | 8.0                        | 62%                                  | 9/1/2016           | 12.5                           | 5.0                                   | 7.6                        | 60%                                  |
+| 3/1/2014  | 13.1                           | 5.6                                   | 7.4                        | 57%                                  | 10/1/2016          | 11.9                           | 5.0                                   | 6.9                        | 58%                                  |
+| 4/1/2014  | 12.9                           | 4.6                                   | 8.3                        | 65%                                  | 11/1/2016          | 12.6                           | 4.6                                   | 7.9                        | 63%                                  |
+| 5/1/2014  | 12.6                           | 4.7                                   | 7.9                        | 63%                                  | 1/1/2017           | 12.4                           | 4.4                                   | 8.0                        | 64%                                  |
+| 6/1/2014  | 13.0                           | 4.6                                   | 8.4                        | 64%                                  | 2/1/2017           | 12.1                           | 4.6                                   | 7.5                        | 62%                                  |
+| 7/1/2014  | 12.7                           | 5.5                                   | 7.1                        | 56%                                  | 3/1/2017           | 13.0                           | 4.7                                   | 8.3                        | 64%                                  |
+| 8/1/2014  | 13.0                           | 4.9                                   | 8.1                        | 63%                                  | 4/1/2017           | 12.9                           | 4.6                                   | 8.3                        | 64%                                  |
+| 9/1/2014  | 12.3                           | 4.3                                   | 8.0                        | 65%                                  | 5/1/2017           | 11.5                           | 4.7                                   | 6.7                        | 59%                                  |
+| 10/1/2014 | 13.0                           | 4.9                                   | 8.1                        | 62%                                  | 6/1/2017           | 12.3                           | 4.6                                   | 7.6                        | 62%                                  |
+| 11/1/2014 | 13.2                           | 4.8                                   | 8.4                        | 64%                                  | 7/1/2017           | 12.5                           | 4.9                                   | 7.6                        | 61%                                  |
+| 12/1/2014 | 12.0                           | 4.3                                   | 7.7                        | 64%                                  | 8/1/2017           | 11.2                           | 4.2                                   | 7.0                        | 63%                                  |
+| 1/1/2015  | 12.1                           | 4.6                                   | 7.5                        | 62%                                  | 9/1/2017           | 12.4                           | 4.3                                   | 8.1                        | 65%                                  |
+| 2/1/2015  | 13.2                           | 4.7                                   | 8.5                        | 64%                                  | 10/1/2017          | 12.5                           | 4.3                                   | 8.2                        | 66%                                  |
+| 3/1/2015  | 13.2                           | 4.9                                   | 8.3                        | 63%                                  | 11/1/2017          | 13.0                           | 3.5                                   | 9.5                        | 73%                                  |
+| 4/1/2015  | 13.2                           | 4.8                                   | 8.4                        | 64%                                  | 2/1/2018           | 13.0                           | 4.2                                   | 8.8                        | 68%                                  |
+| 5/1/2015  | 13.3                           | 4.8                                   | 8.6                        | 64%                                  | 3/1/2018           | 13.0                           | 4.7                                   | 8.3                        | 64%                                  |
+| 6/1/2015  | 12.6                           | 4.8                                   | 7.8                        | 62%                                  | 4/1/2018           | 13.0                           | 4.6                                   | 8.4                        | 65%                                  |
+
+![](_page_55_Picture_3.jpeg)
+
+### **Example interview questionnaire**
+
+This example was sent to representatives of agricultural agencies to gather information regarding water use for irrigation purposes.
+
+#### **Tutuila Water Use Data Questionnaire**
+
+*Please respond to the questions below with your knowledge of what water use information is currently available for American Samoa. The primary objective of this project is not necessarily to collect data, but is to determine what is or is not available in order to make recommendations for future data collection funding applications.*
+
+- **1)** To your knowledge, in American Samoa, is water used for **Irrigation**?
+- **2)** Would you consider the amount water (estimated or measured) used for **Irrigation** to be a significant quantity?
+- **3)** Does your agency collect water use data (flows, amounts, or number of connections) on **Irrigation** use?
+- **4)** Are you aware of any other agencies that may collect **Irrigation** water use data?
+- **5)** Would you consider the existing systems for collection of **Irrigation** water use **data** to be sufficient for understanding the territory's overall water use?
+- **6)** If not, what steps would you recommend to improve the quality or quantity of **Irrigation** water use data collection?
+- **7)** How many individual users (households, businesses, or farms) would you estimate use water for **Irrigation** on Tutuila?
+- **8)** In the absence of existing water use data, how much water would you estimate is used for **Irrigation** in American Samoa (on a yearly or daily basis)?
+
+**Other relevant information?**
+
+**Fa'aFetai Tele Lava for your time**
+
+![](_page_56_Picture_15.jpeg)

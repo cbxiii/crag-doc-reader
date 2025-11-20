@@ -1,0 +1,95 @@
+{
+  "table_of_contents": [
+    {
+      "title": "American Samoa's island of giants: massive Porites colonies\nat Ta'u island",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.171875,
+          81.1083984375
+        ],
+        [
+          479.0546875,
+          81.1083984375
+        ],
+        [
+          479.0546875,
+          115.75537109375
+        ],
+        [
+          72.171875,
+          115.75537109375
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          73.626953125,
+          494.3736267089844
+        ],
+        [
+          117.64881896972656,
+          494.3736267089844
+        ],
+        [
+          117.64881896972656,
+          504.80322265625
+        ],
+        [
+          73.626953125,
+          504.80322265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Brown et al 2009 Coral Reefs American Samoa_s Island of Giants"
+}

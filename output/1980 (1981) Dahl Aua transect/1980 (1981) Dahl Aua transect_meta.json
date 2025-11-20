@@ -1,0 +1,491 @@
+{
+  "table_of_contents": [
+    {
+      "title": "MONITORING CORAL REEFS FOR URBAN IMPACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.320788530465954,
+          46.51817116060961
+        ],
+        [
+          346.166015625,
+          46.51817116060961
+        ],
+        [
+          346.166015625,
+          56.27198124267292
+        ],
+        [
+          59.320788530465954,
+          56.27198124267292
+        ]
+      ]
+    },
+    {
+      "title": "Arthur Lyon Dahl",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          155.48828125,
+          70.52754982415006
+        ],
+        [
+          246.29390681003585,
+          70.52754982415006
+        ],
+        [
+          246.29390681003585,
+          81.5625
+        ],
+        [
+          155.48828125,
+          81.5625
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          165.19713261648747,
+          93.78663540445487
+        ],
+        [
+          238.78494623655916,
+          93.78663540445487
+        ],
+        [
+          238.78494623655916,
+          102.5
+        ],
+        [
+          165.19713261648747,
+          102.5
+        ]
+      ]
+    },
+    {
+      "title": "The Mayor Transect\u2014American Samoa",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          107.25,
+          265.5
+        ],
+        [
+          292.5,
+          265.5
+        ],
+        [
+          292.5,
+          275.818359375
+        ],
+        [
+          107.25,
+          275.818359375
+        ]
+      ]
+    },
+    {
+      "title": "American Samoa Monitoring Transects",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          111.06788990825687,
+          490.79443359375
+        ],
+        [
+          290.4275229357798,
+          490.79443359375
+        ],
+        [
+          290.4275229357798,
+          502.65087890625
+        ],
+        [
+          111.06788990825687,
+          502.65087890625
+        ]
+      ]
+    },
+    {
+      "title": "Noumea Urban Impact Study",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          122.40613026819923,
+          459.80859375
+        ],
+        [
+          256.07662835249045,
+          459.80859375
+        ],
+        [
+          256.07662835249045,
+          472.26953125
+        ],
+        [
+          122.40613026819923,
+          472.26953125
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          175.5,
+          391.3466509988249
+        ],
+        [
+          231.75,
+          391.3466509988249
+        ],
+        [
+          231.75,
+          399.6845703125
+        ],
+        [
+          175.5,
+          399.6845703125
+        ]
+      ]
+    },
+    {
+      "title": "LITERATURE CITED",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          161.06140350877192,
+          448.67608951707894
+        ],
+        [
+          259.9456140350877,
+          448.67608951707894
+        ],
+        [
+          259.9456140350877,
+          456.92932862190816
+        ],
+        [
+          161.06140350877192,
+          456.92932862190816
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          58
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          390
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          350
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          147
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          61
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          62
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\1980 (1981) Dahl Aua transect"
+}

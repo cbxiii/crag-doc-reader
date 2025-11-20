@@ -1,0 +1,507 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Algae-Dominated Reefs",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          37.65234375,
+          38.35345458984375
+        ],
+        [
+          315.4364013671875,
+          38.35345458984375
+        ],
+        [
+          315.4364013671875,
+          68.053466796875
+        ],
+        [
+          37.65234375,
+          68.053466796875
+        ]
+      ]
+    },
+    {
+      "title": "Diving in Paradise",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          377.630859375,
+          265.50115966796875
+        ],
+        [
+          460.0514831542969,
+          265.50115966796875
+        ],
+        [
+          460.0514831542969,
+          276.00115966796875
+        ],
+        [
+          377.630859375,
+          276.00115966796875
+        ]
+      ]
+    },
+    {
+      "title": "Algal Assortment",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          373.201171875,
+          664.6645050048828
+        ],
+        [
+          450.720703125,
+          664.6645050048828
+        ],
+        [
+          450.720703125,
+          674.5644989013672
+        ],
+        [
+          373.201171875,
+          674.5644989013672
+        ]
+      ]
+    },
+    {
+      "title": "Calculations of Coverage",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          204.6796875,
+          421.8211364746094
+        ],
+        [
+          314.5078125,
+          421.8211364746094
+        ],
+        [
+          314.5078125,
+          432.3211364746094
+        ],
+        [
+          204.6796875,
+          432.3211364746094
+        ]
+      ]
+    },
+    {
+      "title": "Can We Rate a Reef?",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          31.0078125,
+          599.02734375
+        ],
+        [
+          120.75,
+          599.02734375
+        ],
+        [
+          120.75,
+          608.25
+        ],
+        [
+          31.0078125,
+          608.25
+        ]
+      ]
+    },
+    {
+      "title": "Bibliography",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          373.7548828125,
+          41.37890625
+        ],
+        [
+          433.5,
+          41.37890625
+        ],
+        [
+          433.5,
+          51.75
+        ],
+        [
+          373.7548828125,
+          51.75
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          271
+        ],
+        [
+          "Line",
+          143
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          73
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          238
+        ],
+        [
+          "Line",
+          128
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          177
+        ],
+        [
+          "Span",
+          177
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          5
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Vroom_etal_2006_AmSci_algal_dominated_reefs"
+}

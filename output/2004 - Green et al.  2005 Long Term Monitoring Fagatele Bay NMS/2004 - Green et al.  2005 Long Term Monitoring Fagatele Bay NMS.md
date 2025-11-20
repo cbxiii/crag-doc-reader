@@ -1,0 +1,3255 @@
+# **Long term monitoring of Fagatele Bay National Marine Sanctuary, Tutuila Island, American Samoa: results of surveys conducted in 2004, including a re-survey of the historic Aua Transect.**
+
+Alison Green Karen Miller Craig Mundy
+
+13 July, 2005
+
+Report prepared for:
+
+**U.S. Department of Commerce American Samoa Government**  National Oceanic and Atmospheric Administration Department of Commerce National Ocean Service Environment Division Office of National Marine Sanctuaries
+
+![](_page_0_Picture_6.jpeg)
+
+![](_page_0_Picture_7.jpeg)
+
+#### **EXECUTIVE SUMMARY**
+
+- Long-term monitoring of the fish and coral communities in Fagatele Bay National Marine Sanctuary and at other sites around Tutuila Island has been under way since the late 1970s and early 1980s, respectively.
+- Permanent transects (sites) in Fagatele Bay were re-surveyed in September 2004 to assess changes in coral and fish communities through time.
+- New coral survey methods were implemented in 2004. We used belt transects rather than the point-quarter method used previously. This allowed us to survey almost three times as many corals than in previous surveys within a similar period of time. The new method will provide more detailed information for monitoring the health of the corals in Fagatele Bay and a better comparison with the Archipelago survey dataset.
+- Coral communities in Fagatele Bay generally show improved condition since the previous survey in 2001. The coral communities on the reef slope have increased in terms of the number of colonies, colony size and coral cover, although communities are still dominated by fast growing, opportunistic species. Coral communities on the reef flat appear to be recovering from the mass die-off in 1998 associated with coral bleaching.
+- The results from the 2004 survey indicate that the coral communities in Fagatele Bay continue to recover from the major disturbances of the last few decades. There appears to have been little effect of the recent hurricane (Heta) on the corals in Fagatele Bay.
+- Large monospecific stands of a few coral species have been identified as key conservation features of Fagatele Bay. These features are likely to be many hundreds of years old and future monitoring to record the status of these corals is recommended.
+- There was an apparent decline in fish abundance in Fagatele Bay since 2001, which was consistent across species and genera. This is most likely associated with seasonal variation in abundance, since surveys were conducted in September 2004 rather than during the recruitment season in March, as was the case in previous surveys. The surveys were moved to late summer to avoid this recruitment season, which makes fish counting more difficult because of the large number of ephemeral juveniles at that time. The addition of size estimates to the methods has allowed for the interpretation of this confounding effect using the size structure of the fish populations.
+- Scarids (parrotfishes) are the only fish family that appears to have increased in abundance and size in Fagatele Bay since 2001. This may be a result of the ban on SCUBA fishing which was implemented in 2001 to minimise damaging effects on fish communities and particularly on scarid populations. However, there are still signs of the effects of fishing in the Sanctuary.
+- There was a decline in the fish populations at the three historic transects surveyed around Tutuila (Fagatele Bay, Sita Bay and Cape Larsen). This may be related to seasonal variation in sampling, but may also reflect the effects of overfishing and Hurricane Heta in January 2004, which particularly affected northern Tutuila (where two transects are located).
+
+- Coral communities continue to improve along the Aua Transect on the reef flat in Pago Pago Harbour. Abundance and percent cover of corals continue to increase, although species richness remains low. This may be the result of improved management to reduce pollution in the harbour.
+- Coral populations on the reef slopes in Pago Pago Harbour are also showing some signs of recovery. There is evidence of new coral recruitment at Rainmaker, although there has been a mysterious decline in coral populations on the reef slope at Aua.
+
+# **CONTENTS**
+
+| EXECUTIVE SUMMARY                                                   | i  |
+|---------------------------------------------------------------------|----|
+| CONTENTS                                                            |    |
+| INTRODUCTION                                                        | 1  |
+| METHODS                                                             | 1  |
+| Survey techniques - Fagatele Bay National Marine Sanctuary          | 1  |
+| Corals                                                              |    |
+| Fishes                                                              | 2  |
+| Benthic macroinvertebrates and fish habitat                         | 2  |
+| Relocation of Permanent Transect Sites in Fagatele Bay              | 2  |
+| Survey techniques – Pago Pago Harbour                               |    |
+| Survey techniques – The Aua Transect                                |    |
+| Survey techniques – Historic fish transects around Tutuila          |    |
+| Data analysis                                                       |    |
+| RESULTS                                                             |    |
+| Fagatele Bay National Marine Sanctuary                              |    |
+| Corals in Fagatele Bay – 2004                                       |    |
+| Trends in Fagatele Bay coral populations 2001-2004                  |    |
+| Fish in Fagatele Bay – 2004                                         |    |
+| Trends in Fagatele Bay fish populations 2001-2004                   | 22 |
+| Benthic macroinvertebrates and fish habitat in Fagatele Bay         |    |
+| Reefs Around Tutuila                                                |    |
+| Corals in Pago Pago Harbour – 2004                                  |    |
+| Trends in coral populations in Pago Pago Harbour 2001-2004          |    |
+| The Aua Transect                                                    |    |
+| Historic Fish Transects 2001-2004                                   |    |
+| DISCUSSION                                                          |    |
+| Fagatele Bay National Marine Sanctuary                              |    |
+| Coral Communities in Fagatele Bay                                   |    |
+| Fish communities in Fagatele Bay                                    |    |
+| Reefs around Tutuila                                                | _  |
+| Coral communities in Pago Pago Harbour (including the Aua Transect) |    |
+| Fish communities around Tutuila (Historic Fish Transects)           |    |
+| CONCLUSIONS AND RECOMMENDATIONS                                     |    |
+| REFERENCES                                                          |    |
+| APPENDIX 1 – Geographic locations of sites                          |    |
+| APPENDIX 2 – Coral Pote 2004 (Eggetele Bay)                         |    |
+| APPENDIX 3 – Coral Data 2004 (Fagatele Bay)                         |    |
+| APPENDIX 4 – Coral Data 2004 (Pago Pago Harbour)                    |    |
+| APPENDIX 5 – Fish Species List for Fagatele Bay                     |    |
+| ALI DINDIA V – HIGWIN HGH WANGON GUIHHIALY WALA                     |    |
+
+#### **INTRODUCTION**
+
+The coral reefs of American Samoa have suffered many destructive impacts in the last few decades, including a major outbreak of the corallivorous starfish *Acanthaster planci,* several devastating hurricanes, a period of high water temperature, and exposure during unusually low tides (Birkeland et al. 1996, 2003, 2004, Green 1996, 1997, 2002, Green et al. 1999). The reefs in some locations, such as Pago Pago Harbour, have also been subjected to human impacts including sedimentation, eutrophication, pollution and overfishing (Birkeland et al. 1996, 2003, 2004, Green 1996, 1997, 2002, Green et al. 1997). As a direct result of these disturbances, the reefs of Fagatele Bay National Marine Sanctuary (FBNMS) and other locations around Tutuila Island have undergone some major changes in the last 25 years (Birkeland et al. 1996, 2003, Green et al. 1997). Of particular concern have been the physical and biological changes to the coral communities in some locations.
+
+Coral communities provide important habitat for reef fishes and changes in their condition may have important consequences for the associated fish fauna. The coral reef communities of Fagatele Bay and other sites around Tutuila have been the subjects of a long term monitoring program since the late 1970s, supported by the Fagatele Bay National Marine Sanctuary Program. The purpose of the ongoing monitoring of reef communities is to document the recovery, or further decline, of coral and fish communities in Fagatele Bay, and elsewhere around Tutuila, and to determine if reef communities have changed substantially since the combined effects of *A. planci* outbreaks and hurricanes that devastated American Samoa reefs in the late 80's.
+
+The results of the monitoring program have been used to describe the changes in the coral and fish communities of American Samoa during the 23 years from 1978-2001 (Birkeland et al. 1987, 1994, 1996, 2003, 2004; Green et al. 1999). This report documents the results from surveys in Fagatele Bay National Marine Sanctuary conducted in September 2004, and includes results from a re-survey of the historic Aua Transect located in Pago Pago Harbour, which was first surveyed in 1924 (Mayor 1924).
+
+#### **METHODS**
+
+#### **Survey techniques – Fagatele Bay National Marine Sanctuary**
+
+#### *Corals*
+
+Coral communities in Fagatele Bay have been surveyed previously using the point-quarter method as described in Birkeland et al. 1987. Following the recommendations of the previous report on the status of the reefs in Fagatele Bay (Birkeland et al. 2004), for the 2004 surveys we switched to using belt transects to collect data on coral communities. This alternate method allows the determination of abundance, size, and percent cover of corals in the bay, but samples considerably more corals resulting in a more detailed data set that would be collected using the point-quarter method. The belt-transect method is also direct comparable with the archipelagowide survey (Mundy 1996, Fisk & Birkeland 2002).
+
+We recorded all corals whose centre occurred in a 20 x 0.5m belt transect laid perpendicular to the six permanent transect lines in FBNMS (Transects 1-6, Figure 1). Each coral was identified to species, and categorised into one of seven size classes based on the maximum diameter of the colony; <5cm, 5-10cm, 10-20cm, 20-40cm, 40-80cm, 80-160cm and >160cm. At Sites 2 to 5, we collected data at 3, 6, 9 and 12m depths on the reef slope. Due to rough weather, we were only able to sample from depths of 9 and 12m on the more exposed locations at Sites 1 and 6. Two belt-transects were also surveyed on the reef flat, at locations B and C (Figure 1). Coral data were collected in September 2004 by Craig Mundy and Karen Miller.
+
+#### *Fishes*
+
+Fish communities were surveyed in FBNMS using the same underwater visual census technique that has been used previously (ie. fixed length transects, 30 x 2m). This method is described in detail elsewhere (Birkeland et al. 1987, 1994). In addition to recording fish species and abundance on each transect as in all previous surveys, fish sizes have also been recorded since 1998.
+
+Fish were surveyed at five depths (3, 6, 9, 12 and 18m) on the reef slope at Sites 2 to 5, and at two depths (9 and 12m) at Sites 1 and 6. Due to rough weather, fish were not counted on the reef flat or shallower than 9m at transects 1 and 6. Fish surveys were conducted in September 2004 by Alison Green.
+
+#### *Benthic macroinvertebrates and fish habitat*
+
+In line with the archipelago-wide surveys of the reefs of American Samoa (Green 1996, 2002), we have included counts of key macroinvertebrates and benthic species in the FBNMS surveys to provide an indication of the condition of fish habitat in the bay. Point counts were used to assess fish habitat species, whereby 48 points were sampled along each 30 x 2m fish transect. At every 2 metres along the tape from 0m to 30m, three points were sampled (one directly under the tape and one approximately 1m either side of the tape). The benthos under each point was recorded as one of 23 categories within four key taxonomic groups:
+
+- Corals (branching, digitate, encrusting, foliaceous, massive, mushroom, plate);
+- Macroalgae (encrusting, blue green, *Halimeda*, macroalgae, pink coralline algae);
+- Miscellaneous (ascidian, clam, hydrozoan, soft coral, sponge, urchin, zooanthid); and
+- Non-living (crevice/hole, reef matrix, rubble, sand).
+
+#### *Relocation of Permanent Transect Sites in Fagatele Bay*
+
+Unfortunately, the GPS readings that were taken at each of the six permanent transect sites in FBNMS in 1995 have been misplaced. For the 2004 survey, we relocated permanent transects according to the habitat and reef descriptions outlined in Birkeland et al. 1987, and from personal notes taken on previous surveys. We also took GPS readings at the 12m point at each site, as well as other key locations, to facilitate relocation of the sites in future surveys. Descriptions of geographic features used to relocate the sites and GPS coordinates are provided in Appendix 1.
+
+![](_page_6_Picture_0.jpeg)
+
+Figure 1. Map of Fagatele Bay showing six permanent transects (T<sup>1</sup> – T6 ) and the approximate locations of the coral and fish surveys at each depth along each transect. The location of three reef flat sites (A-C) is also indicated.
+
+#### **Survey techniques – Pago Pago Harbour**
+
+To provide comparisons between the coral reef communities in Fagatele Bay and elsewhere around Tutuila, corals and fish have been surveyed in up to 13 other sites around the island in conjunction with the FBNMS survey (see Birkeland et al. 1987, 1994, 1996, 2003, 2004). However, surveys at sites outside Fagatele Bay have been largely superceded by the archipelagowide surveys that commenced in 1996 and which were last surveyed in 2002 (Mundy 1996, Fisk & Birkeland 2002, Green 2002). Hence most of the sites outside of FBNMS that have been surveyed in previous years have not been included in the 2004 survey.
+
+The two sites in Pago Pago Harbour (Rainmaker Hotel and Aua), which provide useful information for management (Birkeland et al 2004), were resurveyed in 2004 in conjunction with the Fagatele Bay surveys. At these two sites, corals were surveyed at 3m and 6m depths on the reef slope. Survey methods were as described above, with corals surveyed in a single 20 x 0.5m belt transect at each depth and with each colony identified to species and categorised into one of seven size classes. GPS co-ordinates at both sites were also recorded to facilitate future relocation of the survey locations (Appendix 1).
+
+#### **Survey techniques – The Aua Transect**
+
+Corals and macroinvertebrates along the historic Aua Transect (first surveyed by Mayor 1924) were also surveyed in 2004. The transect line was relocated by carefully following the description of the location of the transect in Mayor (1924) and Dahl and Lamberts (1977). Essentially, the transect followed a bearing of 39.5°W from a well-cemented block near the reef crest and above the general contour of the reef.
+
+Sampling distances were measured back from the reef crest, assuming the crest was 271m from shore (as measured in previous surveys, Green et al. 1997). The distances from shore that were surveyed in 2004 were 259m, 247m, 233m, 213m, 183, 160, 140, 122 and 91. Corals were measured (maximum diameter to the nearest cm) and key macroinvertebrates were counted using a number of replicated  $0.25\text{m}^2$  quadrats located hapahazardly within a 7m x 7m square at each distance from shore. For the distances between 233m and 259m from shore, corals were counted in 20 quadrats. This was less than had been sampled in each area in previous years (Green et al. 1997, Birkeland & Belliaveau 2000) due to concerns of oversampling i.e. if sampling randomly to estimate abundance, it is considered unwise to sample more than 10% of an area (Krebs 1999). As the overall sampling area at each distance from shore was  $49\text{m}^2$ ,  $20 \times 0.25\text{m}^2$  quadrats represents around 10% of the area.
+
+Forty quadrats were sampled in those areas where corals were less abundant (91-213m from shore) to ensure species diversity was adequately recorded. For the area < 91m from shore, now part of a dredge channel (Green et al. 1997), snorkel swims were conducted in the general area to determine if any corals were present. Corals were surveyed by Craig Mundy and Karen Miller.
+
+#### Survey techniques – Historic fish transects around Tutuila
+
+Fish communities have been surveyed in a single transect on the reef slope at each of three sites (Fagatele Bay (12m), Sita Bay (5-6m) and Cape Larsen (8-9m), since 1977. These surveys used a single transect at each site, and were initially surveyed as part of an assessment of the impacts of the crown-of-thorns starfish, *Acanthaster planci* (see Birkeland et al. 1987, 2003). We have continued to survey them as part of the Fagatele Bay surveys to follow long term trends in fish communities at each of the sites, and because they form the oldest continuous survey data from American Samoa. Larger transects (100m x 2 m) have used in this part of the study, because they were originally designed as part of a different project (see Wass 1982), but due to the different depths and locations of sampling at each site, the data are not directly comparable among the three sites. In the 2004 re-survey of these transects, we modified the survey method to include three replicate 30m x 2m transects rather than a continuous 100m x 2m transect. This allowed us to survey a similar area, while introducing replication into the survey design. The exact location of the start of each of the transects is described in Birkeland et al. (1987), and GPS co-ordinates were recorded at each site in 2004 to facilitate relocation (Appendix 1). Fishes were surveyed by Alison Green.
+
+![](_page_8_Figure_0.jpeg)
+
+Figure 2. Map of Tutuila showing the approximate location of the two coral survey sites in Pago Pago Harbour (Rainmaker and Aua (including the Aua transect)), and the location of the three historic fish transects around the island.
+
+### **Data analysis**
+
+Coral data from Fagatele Bay and the two sites in Pago Pago Harbour were summarised to determine the abundance and percent cover of each species at each depth. Percent cover was calculated according to Mundy (1996), and based on the median colony size within each size class.
+
+Fish data from Fagatele Bay, and the three historic fish transects (Fagatele Bay, Cape Larsen and Sita Bay) were summarised to determine the relative abundance and species richness at each site and each depth. Fish data from the historic transects were also converted to density estimates (no. individuals per hectare) to make the data among years more comparable (due to the change in sampling area in the 2004 surveys), and to match international standards for fish survey data.
+
+Recent changes in coral and fish communities in Fagatele Bay, Pago Pago Harbour and the other sites around Tutuila were described by comparing trends between the previous survey (conducted in 2001, Birkeland et al. 2004) and results from the current survey. In addition, changes in coral and fish communities in Fagatele Bay over the last 25 years were examined by comparing the 2004 data with results from surveys prior to 2001, as described in Birkeland et al. (2003).
+
+Fish size data in Fagatele Bay is only available for the 2001 and 2004 surveys. These data were summarised at the family level to determine the size-frequency of four important fisheries groups (Acanthurids, Scarids, Lethrinids and Serranids; see Green 2002 for further details) and compared between years to determine if there were any recent changes in the communities. We also compared size frequency data between years for two key fisheries species; *Cephalopholis argus* (Family Serranidae) and *Ctenochaetus striatus* (Family Acanthuridae).
+
+Macroinvertebrate and fish habitat data were summarised to determine the percentage of all points represented by each of the 24 categories at each site and at each depth.
+
+The coral data collected from the Aua Transect was summarised to determine the abundance of each species (as the number of colonies per square metre) at each distance from shore, as well as the average size of colonies for each species. To monitor changes through time, we compared the overall abundance and percent cover at each distance among surveys undertaken from 1995 to 2004. Trends in the abundance of the three groups of macro invertebrates were also examined over time.
+
+#### **RESULTS**
+
+#### **Fagatele Bay National Marine Sanctuary**
+
+# *Corals in Fagatele Bay – 2004*
+
+A total of 3385 corals colonies belonging to 101 species was recorded during surveys in Fagatele Bay in 2004. The most common coral in the bay (547 colonies) was *Galaxea fascicularis*. Four other species were common and represented by >200 colonies including *Montipora grisea* (411 colonies), *Pavona divaricata* (311 colonies), *Montipora venosa* (261 colonies) and *Porites rus* (244 colonies). Most species (72 of the 101) were numerically rare, and were represented by <20 colonies (Table 1).
+
+Coral cover was high in Fagatele Bay (91.9% cover; Table 1). However, the numerically abundant corals did not always have the highest percent cover. For example, although *Galaxea fascicularis* was the most abundant species in Fagatele Bay, it covered <5% of the area surveyed. Similarly *Pavona divaricata* covered <3% of the area surveyed despite being the third most abundant species. In contrast, we recorded only 48 colonies of *Acropora hyacinthus* but it covered >11% of the area surveyed. *Porites rus* also covered >10% of the area surveyed, and the species *Acropora clathrata*, *Montipora grisea*, *Millepora* sp. and *Montipora efflorescens* each represented 5-10% of the coral cover in the bay (Table 1).
+
+Table 1. Total number of colonies and percent cover of each coral species recorded in Fagatele Bay and Pago Pago Harbour sites in 2004.
+
+|              |               |           | Fagatele Bay | Pago Pago Harbour |         |
+|--------------|---------------|-----------|--------------|-------------------|---------|
+| Species      |               | Abundance | % cover      | Abundance         | % cover |
+| Acanthastrea | echinata      | 1         | 0.0088       |                   |         |
+| Acropora     | abrotanoides  | 11        | 0.8129       |                   |         |
+| Acropora     | austera       | 26        | 1.3106       |                   |         |
+| Acropora     | cerealis      | 4         | 0.0884       |                   |         |
+| Acropora     | clathrata     | 8         | 7.4927       |                   |         |
+| Acropora     | crateriformis | 119       | 1.9650       |                   |         |
+| Acropora     | divaricata?   | 11        | 2.7374       |                   |         |
+| Acropora     | gemmifera     | 13        | 0.5370       |                   |         |
+| Acropora     | hyacinthus    | 48        | 11.6408      | 2                 | 0.0025  |
+| Acropora     | intermedia    | 29        | 3.9528       |                   |         |
+
+| Fagatele Bay<br>Species<br>Abundance<br>% cover<br>Abundance<br>Acropora<br>juvenile<br>32<br>0.0275<br>5<br>Acropora<br>nana<br>33<br>0.0707<br>1<br>Acropora<br>nasuta<br>12<br>0.8217<br>Acropora<br>palifera<br>4<br>0.0155<br>Acropora<br>palmerae<br>1<br>0.5655<br>Acropora<br>paniculata<br>2<br>0.5743<br>Acropora<br>samoensis<br>37<br>0.5682<br>Acropora<br>sp<br>3<br>0.0398<br>Acropora<br>tenuis<br>1<br>0.0022<br>Acropora<br>valida<br>1<br>0.1414<br>Alveopora<br>spongiosa<br>1<br>0.0022<br>Alveopora<br>verilliana?<br>1<br>0.0002<br>Astreopora<br>cucullata<br>6<br>0.2651<br>Astreopora<br>listeri<br>1<br>0.0353<br>Astreopora<br>myriopthalma<br>15<br>0.9344<br>Coeloseris<br>mayeri<br>5<br>0.1502<br>Coscinarea<br>columna<br>3<br>0.1060<br>Cyphastrea<br>micropthalma<br>3<br>0.0358<br>Cyphastrea<br>serailia<br>8<br>0.3888<br>Diploastrea<br>heliopora<br>1 | Pago Pago Harbour<br>% cover<br>0.0061<br>0.0442 |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 11.3097                                          |
+| Echinophyllia<br>aspera<br>1<br>0.0353                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                  |
+| Echinopora<br>gemmacea<br>14<br>0.7731                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |                                                  |
+| Echinopora<br>mammiformis?<br>1<br>0.0088                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                  |
+| Favia<br>pallida<br>7<br>0.0884                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+| Favia<br>stelligera<br>1<br>0.1414                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                  |
+| Favites<br>abdita<br>1<br>0.1414<br>1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 0.0442                                           |
+| Favites<br>halicora<br>3<br>0.2121                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                  |
+| Fungia<br>fungites<br>2<br>0.0177                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                  |
+| Fungia<br>juvenile<br>3<br>0.0007                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                  |
+| Fungia<br>scutaria<br>3<br>0.0199                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                  |
+| Galaxea<br>astreata<br>14<br>0.0034                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                  |
+| Galaxea<br>fascicularis<br>547<br>4.7656                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                  |
+| Gardinoseris<br>planulata<br>1<br>0.5655                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                  |
+| Goniastrea<br>retiformis<br>7<br>0.3382                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                  |
+| Goniopora<br>colunma<br>5<br>0.0032                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                  |
+| Goniopora<br>somaliensis<br>1<br>0.0353                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                  |
+| Goniopora<br>sp<br>1<br>0.0353                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                  |
+| Hydnophora<br>exesa<br>7<br>0.0751                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                  |
+| Hydnophora<br>microconos<br>7<br>0.1176                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                  |
+| Leptastrea<br>purpurea<br>36<br>0.1117<br>2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 0.1779                                           |
+| Leptastrea<br>sp<br>1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | 0.0012                                           |
+| Leptastrea<br>transversa<br>2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 0.0025                                           |
+| Leptoria<br>phrygia<br>9<br>0.7157                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |                                                  |
+| Leptoseris<br>incrustans<br>4<br>0.0069<br>1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 0.0110                                           |
+| Lobophyllia<br>hemprichii<br>3<br>2.4036                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                  |
+| Merulina<br>scabricula<br>7<br>0.1195<br>5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 0.1117                                           |
+| Millepora<br>sp<br>17<br>5.6438<br>9                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 0.1694                                           |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                  |
+| Montastrea<br>curta<br>54<br>0.3635                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                  |
+| Montipora<br>calcarea<br>35<br>0.5154<br>2<br>Montipora<br>caliculata<br>85<br>0.8703<br>5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 0.0221<br>0.2442                                 |
+
+|                          |               | Fagatele Bay |         | Pago Pago Harbour |         |
+|--------------------------|---------------|--------------|---------|-------------------|---------|
+| Species                  |               | Abundance    | % cover | Abundance         | % cover |
+| Montipora                | corbettensis  | 3            | 0.0133  | 2                 | 0.0221  |
+| Montipora                | efflorescens  | 99           | 5.3545  | 2                 | 0.0552  |
+| Montipora                | effusa        | 5            | 0.0309  |                   |         |
+| Montipora                | foveolata     | 58           | 0.1414  | 1                 | 0.0110  |
+| Montipora                | grisea        | 411          | 6.8919  | 132               | 4.9112  |
+| Montipora                | hoffmeisteri  | 12           | 0.3181  | 3                 | 0.0233  |
+| Montipora                | informis      | 34           | 1.5006  | 21                | 0.4847  |
+| Montipora                | juvenile      | 7            | 0.0017  | 2                 | 0.0025  |
+| Montipora                | nodosa        | 34           | 1.3322  |                   |         |
+| Montipora                | tuberculosa   | 40           | 1.1587  | 11                | 0.2013  |
+| Montipora                | turgescens    | 9            | 0.1883  | 1                 | 0.0110  |
+| Montipora                | venosa        | 261          | 0.7231  |                   |         |
+| Montipora                | verrucosa     | 1            | 0.0022  |                   |         |
+| Oxypora                  | lacera        | 1            | 0.0088  |                   |         |
+| Pavona                   | clavus        | 1            | 0.0088  |                   |         |
+| Pavona                   | collines      | 55           | 0.4865  | 7                 | 0.3227  |
+| Pavona                   | divaricata    | 311          | 2.8925  | 5                 | 0.1117  |
+| Pavona                   | maldivensis   | 1            | 0.0353  |                   |         |
+| Pavona                   | varians       | 27           | 0.5741  | 8                 | 1.7021  |
+| Pavona                   | venosa        | 23           | 0.1927  | 9                 | 0.3117  |
+| Platygyra                | daedalea      | 1            | 0.1414  |                   |         |
+| Platygyra                | sinensis      | 1            | 0.5655  |                   |         |
+| Pocillopora              | damicornis    | 1            | 0.0002  | 22                | 0.2283  |
+| Pocillopora              | danae         | 3            | 0.0113  | 28                | 0.6983  |
+| Pocillopora              | eydouxi       | 79           | 1.8049  | 3                 | 0.3547  |
+| Pocillopora              | juvenile      | 14           | 0.0034  | 7                 | 0.0086  |
+| Pocillopora              | meandrina     | 61           | 0.6391  | 3                 | 0.1792  |
+| Pocillopora              | verrucosa     | 66           | 1.1094  | 21                | 0.4614  |
+| Porites                  | cylindrica    | 40           | 0.4133  |                   |         |
+| Porites                  | juvenile      | 7            | 0.0017  |                   |         |
+| Porites                  | lichen?       | 61           | 0.3655  |                   |         |
+| Porites                  | lobata        | 5            | 0.1085  |                   |         |
+| Porites                  | lutea         | 11           | 0.0999  | 1                 | 0.0110  |
+| Porites                  | plate/spike   | 5            | 0.0052  |                   |         |
+| Porites                  | rus           | 244          | 10.8920 | 3                 | 0.0135  |
+| Porites                  | solida        | 6            | 0.265   |                   |         |
+| Psammocora               | haimeana      | 33           | 0.0871  | 1                 | 0.0110  |
+| Psammocora               | neirstrazi    | 6            | 0.0101  |                   |         |
+| Psammocora               | profundacella | 11           | 0.0383  |                   |         |
+| Stylocoenelia            | armata        | 7            | 0.0017  |                   |         |
+| Symphillia               | recta         | 1            | 0.0088  |                   |         |
+| Tubastrea                |               | 14           | 0.0113  |                   |         |
+| Total number of colonies |               | 3385         |         | 330               |         |
+| Total number of species  |               | 101          |         | 35                |         |
+| Overall coral cover      |               | 91.9%        |         | 22.3%             |         |
+
+There were 20 species of coral recorded in Fagatele Bay in 2004 that had not been recorded in the bay previously. Some of these represent new species records for the bay, although some of them are likely to represent differences in species identification between surveys, while others reflect changes in taxonomic nomenclature through the years. We have used the nomenclature for species in American Samoa based on Paulay (1999) which synonomises many species that have been recorded previously in the area, as well as Veron (2000). New species recorded in Fagatele Bay in 2004 are:
+
+#### Family Acroporiidae
+
+*Acropora abrotanoides* (may have been called *A*. *danai* or *A*. *irregularis* on previous surveys)
+
+*Acropora austera*
+
+*Acropora clathrata* (may have been called *A. tutuilensis* on previous surveys)
+
+*Acropora intermedia* (previously *A*. *nobilis* (Wallace 1999))
+
+*Astreopora cucillata* 
+
+*Montipora effusa* 
+
+#### Family Agariciidae
+
+*Coeloseris mayeri*
+
+*Leptoseris incrustans*
+
+#### Family Faviidae
+
+*Cyphastrea micropthalma*
+
+*Echinopora gemmacea* (probably pooled with *E. lamellosa* previously)
+
+*Platygyra sinensis*
+
+#### Family Merulinidae
+
+*Merulina scabricula* (probably called *M. ampliata* on previous surveys)
+
+#### Family Oculinidae
+
+*Galaxea astreata*
+
+#### Family Pectiniidae
+
+*Oxypora lacera*
+
+#### Family Poritiidae
+
+*Alveopora spongiosa* (probably one of two *Alveopora* spp. previously)
+
+*Alveopora verilliana* (probably one of two *Alveopora* spp. previously)
+
+*Goniopora columna*
+
+*Porites solida*
+
+In addition to the new species recorded on the transects, we also noted two other species within the bay that had not been recorded in previous surveys: *Pachyseris rugosa* (Family Agariciidae) and *Oulophyllia bennettae* (Family Faviidae). An updated species list for Fagatele Bay is included in Appendix 2.
+
+At the family level, Fagatele Bay coral communities were dominated by Acroporiids (1511 colonies, 53.6% cover). Oculinids (561 colonies, 4.77% cover), Agariciids (428 colonies; 4.91% cover), Poritiids (388 colonies, 12.23% cover), Faviids (146 colonies, 4.03% cover), and Pocilloporiids (224 colonies, 3.57% cover) were also an important component of the coral communities (Table 2).
+
+The density of corals (number of colonies per square metre) varied across transects and depths (Table 3). We recorded an average of 15.3 (±1.3SE) colonies/m<sup>2</sup> across all transects and depths. The highest density (25.8 colonies/m<sup>2</sup>) was at 6m on Transect 3, although there were also 25.7 colonies/m<sup>2</sup> on the reef flat at Site B. The lowest density was 4.1 colonies/m<sup>2</sup> at 12m on Transect 5 where the community was dominated by a few, very large, *Acropora hyacinthus* plates.
+
+Coral cover recorded in Fagatele Bay in 2004 ranged from 31.1% at 9m on Transect 6 to 202.3% at 12m on Transect 5 (influenced by the presence of multiple very large and overlapping *Acropora hyacinthus* plates) (Table 4). Note that due to the nature of the calculation of cover based on the average colony size for each size class, cover can be >100% in a complex 3D reef structure. A full summary of all data from the 2004 survey of Fagatele Bay, including number of colonies in each size class and estimates of percent cover for each species, is provided in Appendix 3.
+
+Table 2. Total number of colonies of each coral family recorded in surveys of Fagatele Bay and Pago Pago Harbour in 2004.
+
+|                       | Fagatel   | e Bay  | Pago Pago | Harbour |
+|-----------------------|-----------|--------|-----------|---------|
+| Family                | Abundance | %cover | Abundance | % cover |
+| Acroporiidae          | 1511      | 53.64  | 190       | 1.2083  |
+| Agariciidae           | 428       | 4.91   | 30        | 0.4919  |
+| Astrocoeniidae        | 7         | <0.01  |           |         |
+| Dendrophylliidae      | 14        | 0.01   |           |         |
+| Faviidae              | 146       | 4.03   | 7         | 2.3071  |
+| Fungiidae             | 8         | 0.04   |           |         |
+| Merulinidae           | 21        | 0.31   | 5         | 0.0223  |
+| Milleporidae          | 17        | 5.64   | 9         | 0.0339  |
+| Mussidae              | 5         | 2.42   |           |         |
+| Oculinidae            | 561       | 4.77   |           |         |
+| Pectiniidae           | 2         | 0.04   |           |         |
+| Pocilloporiidae       | 224       | 3.57   | 84        | 0.3861  |
+| Poritiidae            | 388       | 12.23  | 4         | 0.0049  |
+| Siderastreidae        | 53        | 0.24   | 1         | 0.0022  |
+| Total no. of families | 14        | ,      | 8         | 1       |
+
+In general, the Fagatele Bay coral communities are dominated by small colonies (<20cm diameter). Almost one third (29.7%) of corals in Fagatele Bay were in size class 2 (5-10cm), and only 1.4% of corals were >80cm in diameter (see Table 5). In general recruitment (gauged as number of colonies <5cm diameter) was highest in shallower water at all sites.
+
+#### *Trends in Fagatele Bay coral populations 2001-2004*
+
+The reef flat communities in Fagatele Bay appear to have shown an improvement both in coral density and cover in the last three years. Unfortunately only one reef flat site was surveyed in 2001 and it was in a slightly different area to the usual sites, so direct comparisons between the 2001 and 2004 surveys are difficult. There has, however, been a notable increase in the number and cover of corals on the reef flat since the decline recorded in 1998 (Tables 3 & 4). Due to the change in survey methods, the average size of colonies is not directly comparable between 2001 and 2004. However, previous surveys have shown the mean colony diameter on the reef flat to range from 6-14cm (Birkeland et al 2004). This is similar to our observations in 2004, whereby most colonies on the reef flat were <20cm, and the size classes 1 and 2 (<5cm and 5-10cm) were the most abundant (Table 5).
+
+Coral communities on the reef slope generally showed an increase in coral cover (Table 4) from 2001 to 2004, consistent with the general trends seen in Fagatele Bay from 1995 (Birkeland et al. 2004). We did notice a slight drop in coral cover at 9m at four of the six transects and at 3m on Transects 2 and 5, although the decline was not dramatic and most likely represents variation both in the areas sampled and method used between the two years. Notably, however, there was a drop in cover from 100% to 37% at 12m on Transect 6, and from 190% to 90% at 12m on Transect 3 (Table 4).
+
+Colony density varied considerably among years and sites. Of the 20 transects surveyed, 11 showed a slight drop in coral density, while nine had increased slightly. Again none of these changes were dramatic, and most likely represent variation in sampling site and method between the two years.
+
+Comparison of average colony size on the reef slope in 2001 and 2004 is not possible due to the change in survey method. However, in 2001, average colony diameter ranged from 10 to 26cm. In 2004, our data, which shows 58% of corals were in the size range from 5-20cm, does not suggest there have been any major change in colony size in the bay since 2001.
+
+Table 3. Density of hermatypic corals (number of colonies per m<sup>2</sup> ) in Fagatele Bay National Marine Sanctuary from surveys conducted in 1985-2001. Data from 1985, 1988 and 1995 are from Birkeland et al 2003. Data from 1998 and 2001 are from Birkeland et al. 2004
+
+|           |      |      |      |       | Permanent Transect Number |      |      |
+|-----------|------|------|------|-------|---------------------------|------|------|
+| Depth     |      | 1    | 2    | 3     | 4                         | 5    | 6    |
+| Reef flat |      |      |      |       |                           |      |      |
+|           | 1985 |      | 7.2  | 9.1   | 8.8                       |      |      |
+|           | 1988 |      | 3.6  | 25.4  |                           |      |      |
+|           | 1995 |      | 7.2  | 11.2  | 10.8                      |      |      |
+|           | 1998 |      | 0.6  | 2.2   | 2.6                       |      |      |
+|           | 2001 |      |      | 19.6* |                           |      |      |
+|           | 2004 |      |      | 25.7  | 24.0                      |      |      |
+| 3m        |      |      |      |       |                           |      |      |
+|           | 1985 |      | 2.0  | 23.3  | 3.2                       | 15.4 |      |
+|           | 1988 |      | 8.0  | 33.4  | 6.2                       | 10.3 |      |
+|           | 1995 |      | 13.6 | 12.6  | 3.4                       | 4.6  |      |
+|           | 1998 |      | 7.7  | 11.0  | 11.0                      | 4.1  |      |
+|           | 2001 |      | 24.6 | 14.2  | 29.9                      | 5.0  |      |
+|           | 2004 |      | 16.4 | 17.4  | 11.4                      | 10.3 |      |
+| 6m        |      |      |      |       |                           |      |      |
+|           | 1985 | 6.8  | 2.5  | 34.5  | 1.4                       | 3.7  | 20.4 |
+|           | 1988 |      | 3.4  | 25.2  | 2.6                       | 5.2  | 8.3  |
+|           | 1995 | 8.8  | 6.0  | 14.3  | 6.2                       | 5    | 6.6  |
+|           | 1998 |      | 7.1  | 10.7  | 12.2                      | 4.7  |      |
+|           | 2001 |      | 15.2 | 22.2  | 37.3                      | 7.9  |      |
+|           | 2004 |      | 21.6 | 25.8  | 13.7                      | 7.7  |      |
+| 9m        |      |      |      |       |                           |      |      |
+|           | 1985 | 10.0 | 3.3  | 9.3   | 3.2                       | 6.7  | 5.7  |
+|           | 1988 | 11.9 | 5.5  | 15.3  | 3.4                       | 9.6  |      |
+|           | 1995 | 9.1  | 11.0 | 8.6   | 1.0                       | 7.0  | 5.8  |
+|           | 1998 |      | 15.1 |       | 19.6                      | 14.4 | 10.9 |
+|           | 2001 | 16.9 | 20.3 | 14.9  | 15.1                      | 13.7 | 9.3  |
+|           | 2004 | 20.9 | 17.8 | 23.1  | 13.1                      | 7.9  | 13.2 |
+| 12m       |      |      |      |       |                           |      |      |
+|           | 1985 | 10.4 | 2.6  | 2.3   | 2.3                       | 3.2  | 7.1  |
+|           | 1988 | 7.1  | 17.1 | 14.8  | 14.7                      | 5.8  | 8.1  |
+|           | 1995 | 7.8  | 14.7 | 14.5  | 7.1                       | 5.6  | 7.1  |
+|           | 1998 |      | 10.9 | 16.7  | 7.3                       |      | 20.6 |
+|           | 2001 | 9.6  | 37.4 | 9.7   | 24.4                      | 18.1 | 15.7 |
+|           | 2004 | 18.3 | 11.1 | 14.4  | 10.6                      | 4.1  | 10.0 |
+
+(\*Survey done on reef flat platform between Transect 3 and Transect 4)
+
+Table 4. Percent cover of substrata by hermatypic corals in Fagatele Bay National Marine Sanctuary from surveys conducted in 1985-2001. Data from 1985, 1988 and 1995 are from Birkeland et al 2003.
+
+|           |       |       |       | Permanent Transect Number |       |       |
+|-----------|-------|-------|-------|---------------------------|-------|-------|
+| Depth     | 1     | 2     | 3     | 4                         | 5     | 6     |
+| Reef flat |       |       |       |                           |       |       |
+| 1985      |       | 4.0   | 45.2  | 6.6                       |       |       |
+| 1988      |       | 3.5   | 43.4  |                           |       |       |
+| 1995      |       | 5.0   | 37.6  | 11.4                      |       |       |
+| 1998      |       | 0.9   | 2.2   | 1.3                       |       |       |
+| 2001      |       |       | 12.2* |                           |       |       |
+| 2004      |       |       | 49.3  | 32.6                      |       |       |
+| 3m        |       |       |       |                           |       |       |
+| 1985      |       | 1.1   | 25.6  | 2.2                       | 46.2  |       |
+| 1988      |       | 7.3   | 31.8  | 6.1                       | 15.8  |       |
+| 1995      |       | 16.9  | 37.0  | 5.6                       | 7.3   |       |
+| 1998      |       | 19.4  | 18.3  | 20.1                      | 18.6  |       |
+| 2001      |       | 69.9  | 17.0  | 54.5                      | 37.1  |       |
+| 2004      |       | 44.6  | 40.1  | 137.6                     | 34.6  |       |
+| 6m        |       |       |       |                           |       |       |
+| 1985      | 17.1  | 1.2   | 11.8  | 0.9                       | 12.9  | 20.2  |
+| 1988      |       | 2.3   | 32.4  | 4.0                       | 17.9  | 37.6  |
+| 1995      | 26.5  | 13.8  | 21.0  | 7.4                       | 8.0   | 5.8   |
+| 1998      |       | 14.6  | 9.5   | 33.1                      | 17.2  |       |
+| 2001      |       | 60.9  | 90.7  | 82.6                      | 27.1  |       |
+| 2004      |       | 88.1  | 128.1 | 95.9                      | 69.1  |       |
+| 9m        |       |       |       |                           |       |       |
+| 1985      | 10.5  | 64.4  | 2.3   | 2.4                       | 11.7  | 4.5   |
+| 1988      | 31.6  | 3.9   | 6.9   | 2.8                       | 7.6   |       |
+| 1995      | 12.7  | 10.9  | 3.5   | 1.9                       | 0.7   | 2.4   |
+| 1998      |       | 40.2  |       | 59.5                      | 43.3  | 19.7  |
+| 2001      | 53.4  | 131.1 | 87.5  | 95.0                      | 90.0  | 35.0  |
+| 2004      | 66.0  | 92.8  | 69.9  | 85.1                      | 110.7 | 31.1  |
+| 12m       |       |       |       |                           |       |       |
+| 1985      | 10.7  | 0.9   | 0.8   | 1.0                       | 1.3   | 8.4   |
+| 1988      | 10.9  | 7.2   | 5.2   | 6.5                       | 5.6   | 10.9  |
+| 1995      | 14.3  | 8.2   | 2.5   | 9.3                       | 0.4   | 0.7   |
+| 1998      |       | 47.3  | 82.3  | 145.3                     |       | 34.9  |
+| 2001      | 33.8  | 88.9  | 189.9 | 63.7                      | 99.4  | 100.6 |
+| 2004      | 147.0 | 116.6 | 90.3  | 67.7                      | 202.3 | 37.1  |
+
+(\*Survey done on reef flat platform between Transect 3 and Transect 4)
+
+Table 5. Total number of colonies in each of seven size classes from transects in Fagatele Bay and Pago Pago Harbour in 2004. Size classes are based on the maximum diameter of the colony; Size Class 1 = <5cm, Size Class 2 = 5-10cm, Size Class 3 = 10-20cm, Size Class 4 = 20-40cm, Size Class 5 = 40-80cm, Size Class 6 = 80-160cm and Size Class 7 = >160cm.
+
+|                   |           |         |          |         | Size Class |        |        |        |
+|-------------------|-----------|---------|----------|---------|------------|--------|--------|--------|
+| Transect          | Depth (m) | 1       | 2        | 3       | 4          | 5      | 6      | 7      |
+| Fagatele Bay      |           |         |          |         |            |        |        |        |
+| 1                 | 9         | 42      | 62       | 53      | 44         | 8      | 0      | 0      |
+|                   | 12        | 43      | 47       | 55      | 31         | 4      | 1      | 2      |
+|                   |           |         |          |         |            |        |        |        |
+| 2                 | 3         | 47      | 65       | 31      | 15         | 5      | 1      | 0      |
+|                   | 6         | 37      | 47       | 94      | 26         | 10     | 2      | 0      |
+|                   | 9         | 40      | 57       | 46      | 20         | 12     | 3      | 0      |
+|                   | 12        | 15      | 29       | 36      | 22         | 5      | 3      | 1      |
+| 3                 | 3         | 34      | 57       | 48      | 33         | 2      | 0      | 0      |
+|                   | 6         | 58      | 90       | 81      | 15         | 11     | 2      | 1      |
+|                   | 9         | 25      | 80       | 83      | 33         | 10     | 0      | 0      |
+|                   | 12        | 19      | 38       | 49      | 29         | 5      | 4      | 0      |
+| 4                 | 3         | 22      | 37       | 29      | 17         | 6      | 1      | 2      |
+|                   | 6         | 70      | 32       | 13      | 14         | 5      | 2      | 1      |
+|                   | 9         | 32      | 35       | 32      | 22         | 6      | 4      | 0      |
+|                   | 12        | 26      | 29       | 23      | 16         | 10     | 2      | 0      |
+|                   |           |         |          |         |            |        |        |        |
+| 5                 | 3         | 23      | 30       | 32      | 15         | 2      | 1      | 0      |
+|                   | 6         | 11      | 19       | 22      | 15         | 7      | 3      | 0      |
+|                   | 9         | 8       | 19       | 26      | 17         | 5      | 3      | 1      |
+|                   | 12        | 11      | 6        | 11      | 3          | 2      | 5      | 3      |
+| 6                 | 9         | 31      | 45       | 36      | 16         | 4      | 0      | 0      |
+|                   | 12        | 29      | 28       | 26      | 12         | 4      | 1      | 0      |
+|                   |           |         |          |         |            |        |        |        |
+| Reef Flat         | B         | 72      | 81       | 65      | 36         | 3      | 0      | 0      |
+|                   | C         | 80      | 74       | 60      | 26         | 0      | 0      | 0      |
+| Total FB          |           | 775     | 1007     | 951     | 477        | 126    | 38     | 11     |
+|                   |           |         |          |         |            |        |        |        |
+| Pago Pago Harbour |           |         |          |         |            |        |        |        |
+| Aua               | 3         | 38      | 37       | 46      | 9          | 1      | 0      | 0      |
+|                   | 6         | 17      | 22       | 10      | 6          | 0      | 0      | 0      |
+| Rainmaker         | 3<br>6    | 50<br>8 | 40<br>10 | 21<br>5 | 6<br>1     | 1<br>1 | 0<br>0 | 0<br>1 |
+|                   |           |         |          |         |            |        |        |        |
+| Total PPH         |           | 113     | 109      | 82      | 22         | 3      | 0      | 1      |
+
+#### *Fish in Fagatele Bay – 2004*
+
+A total of 3090 fish belonging to 123 species were recorded during transect surveys in Fagatele Bay in 2004 (Table 6). Of these, four were new species records for the transect surveys;
+
+ *Odonus niger* (Family Balistidae) *Chaetodon lineolatus* (Family Chaetodontidae) *Halichores prosopeion* (Family Labridae) *Chromis atripes* (Family Pomacentridae)
+
+This brings the total number of species recorded in Fagatele Bay to 219 (see Appendix 5), although all four species that represent new records for Fagatele Bay have been recorded elsewhere in Samoa.
+
+The fish communities on the reef slope in Fagatele Bay in 2004 were dominated by four species; two acanthurids - *Ctenochaetus striatus* (n=995) and *Acanthurus nigricans* (n=167), and two pomacentrids - *Plectroglyphidodon dickii* (n=176), and *Chromis iomelas* (n=151) (Table 6). Other species that were common (n>80 individuals) included the caesionid *Caesio caerulaurea*, the pomacentrid *Chromis margaritifer*, and the acanthurid *Acanthurus triostegus* (Table 6).
+
+Table 6. Fish communities on the reef slope in Fagatele Bay as recorded in September, 2004.
+
+|                                                           | Sit | e 1 |     |    | Sit<br>e 2 |    |    |    |    | Sit<br>e 3 |    |    |    |    | Sit<br>e 4 |    |    |    |    | Sit<br>e 5 |    |    | Sit | e 6 |           |
+|-----------------------------------------------------------|-----|-----|-----|----|------------|----|----|----|----|------------|----|----|----|----|------------|----|----|----|----|------------|----|----|-----|-----|-----------|
+|                                                           | 9   | 12  | 3   | 6  | 9          | 12 | 18 | 3  | 6  | 9          | 12 | 18 | 3  | 6  | 9          | 12 | 18 | 3  | 6  | 9          | 12 | 18 | 9   | 12  | To<br>tal |
+| AC<br>AN<br>TH<br>UR<br>IDA<br>E                          |     |     |     |    |            |    |    |    |    |            |    |    |    |    |            |    |    |    |    |            |    |    |     |     |           |
+| Ac<br>thu<br>hill<br>an<br>rus<br>ac<br>es                |     | 1   |     |    |            |    |    |    |    |            |    |    | 2  |    |            |    |    |    |    |            |    |    |     | 5   | 8         |
+| Ac<br>thu<br>lin<br>tus<br>an<br>rus<br>ea                | 2   |     | 4   | 1  |            |    |    | 4  |    |            |    |    |    |    |            |    |    | 22 |    |            |    |    |     |     | 33        |
+| Ac<br>thu<br>ni<br>ica<br>an<br>rus<br>gr<br>ns           | 11  | 11  | 12  | 3  | 33         | 4  | 2  | 1  | 2  | 5          | 10 | 4  | 1  | 3  |            | 9  |    | 4  | 26 | 10         | 4  | 2  |     | 10  | 167       |
+| Ac<br>thu<br>ni<br>fus<br>an<br>rus<br>gro<br>cus         |     |     |     |    | 2          | 1  |    |    | 13 |            |    |    | 1  |    | 2          |    |    |    |    |            | 1  |    | 16  | 4   | 40        |
+| Ac<br>thu<br>ol<br>iva<br>an<br>rus<br>ceu<br>s           |     |     |     |    |            |    |    |    |    |            |    |    |    |    |            |    |    |    |    |            |    |    |     | 1   | 1         |
+| Ac<br>thu<br>th<br>i<br>an<br>rus<br>om<br>ps<br>on       |     | 1   |     |    |            |    |    |    |    |            |    |    |    |    |            |    |    |    |    |            |    |    |     |     | 1         |
+| Ac<br>thu<br>tri<br>ost<br>an<br>rus<br>eg<br>us          |     |     |     |    |            |    |    |    |    |            |    |    |    | 80 |            |    |    |    |    |            |    |    |     |     | 80        |
+| Cte<br>cha<br>etu<br>che<br>ilus<br>no<br>s c<br>ya<br>no |     | 7   |     |    |            |    |    |    |    |            | 1  |    |    |    | 1          |    |    |    |    |            |    |    |     |     | 9         |
+| Cte<br>cha<br>etu<br>tria<br>tus<br>no<br>s s             | 34  | 27  | 153 | 52 | 84         | 37 | 20 | 37 | 91 | 44         | 47 | 25 | 52 | 43 | 21         | 15 | 25 | 29 | 32 | 24         | 25 | 30 | 5   | 43  | 99<br>5   |
+| Na<br>litu<br>rat<br>so<br>us                             |     |     |     |    |            |    |    | 2  | 1  |            |    |    |    |    | 1          | 2  | 1  |    |    | 2          | 2  |    |     | 4   | 15        |
+| Ze<br>bra<br>som<br>a s<br>cop<br>as                      |     |     |     | 6  | 7          | 2  | 2  | 1  | 2  | 4          | 2  |    | 2  | 3  | 5          | 10 | 8  |    |    |            | 2  | 4  |     |     | 60        |
+| Ze<br>bra<br>elif<br>som<br>a v<br>eru<br>m               |     |     |     |    |            |    |    |    |    |            | 4  |    |    |    |            | 1  |    | 2  |    |            |    |    |     |     | 7         |
+|                                                           |     |     |     |    |            |    |    |    |    |            |    |    |    |    |            |    |    |    |    |            |    |    |     |     |           |
+| AU<br>LO<br>ST<br>OM<br>IDA<br>E                          |     |     |     |    |            |    |    |    |    |            |    |    |    |    |            |    |    |    |    |            |    |    |     |     |           |
+| Au<br>los<br>chi<br>nsi<br>tom<br>us<br>ne<br>s           |     |     |     |    |            |    |    |    |    |            |    |    |    | 1  |            |    |    |    |    |            |    |    |     |     | 1         |
+|                                                           |     |     |     |    |            |    |    |    |    |            |    |    |    |    |            |    |    |    |    |            |    |    |     |     |           |
+| BA<br>LIS<br>TID<br>AE                                    |     |     |     |    |            |    |    |    |    |            |    |    |    |    |            |    |    |    |    |            |    |    |     |     |           |
+| Ba<br>list<br>du<br>lat<br>ap<br>us<br>un<br>us           |     |     |     |    |            |    | 2  |    |    |            |    |    |    |    |            |    |    |    |    |            |    |    |     |     | 2         |
+| Me<br>lich<br>thy<br>idu<br>s v<br>a                      | 1   |     |     |    | 2          | 1  |    |    |    | 3          |    | 1  | 1  | 1  | 1          | 1  | 1  | 2  |    |            |    | 1  |     |     | 16        |
+| Od<br>nig<br>on<br>us<br>er                               |     |     |     |    |            |    |    |    |    |            |    |    |    |    |            |    |    | 3  | 6  |            |    |    |     |     | 9         |
+| Su<br>ffla<br>n b<br>me<br>urs<br>a                       |     |     | 1   |    |            | 1  |    |    |    |            |    |    |    |    |            |    |    |    |    |            |    |    | 2   |     | 4         |
+|                                                           |     |     |     |    |            |    |    |    |    |            |    |    |    |    |            |    |    |    |    |            |    |    |     |     |           |
+| CA<br>ES<br>ION<br>IDA<br>E                               |     |     |     |    |            |    |    |    |    |            |    |    |    |    |            |    |    |    |    |            |    |    |     |     |           |
+| Ca<br>esi<br>rul<br>o c<br>ae<br>au<br>rea                | 30  |     |     |    |            | 2  |    |    |    |            | 30 |    |    |    |            | 10 | 20 |    |    |            |    |    |     |     | 92        |
+| Ca<br>esi<br>uni<br>o c<br>ng                             |     |     |     |    |            |    |    |    |    |            |    |    |    |    |            |    |    |    |    | 5          | 25 | 11 |     |     | 41        |
+|                                                           |     |     |     |    |            |    |    |    |    |            |    |    |    |    |            |    |    |    |    |            |    |    |     |     |           |
+| CA<br>RA<br>NG<br>IDA<br>E                                |     |     |     |    |            |    |    |    |    |            |    |    |    |    |            |    |    |    |    |            |    |    |     |     |           |
+| Ca<br>ela<br>ran<br>x m<br>mp<br>yg<br>us                 |     |     |     |    |            |    |    |    |    |            |    |    | 1  | 1  |            |    |    |    |    |            |    |    |     |     | 2         |
+|                                                           |     |     |     |    |            |    |    |    |    |            |    |    |    |    |            |    |    |    |    |            |    |    |     |     |           |
+| CH<br>AE<br>TO<br>DO<br>NT<br>IDA<br>E                    |     |     |     |    |            |    |    |    |    |            |    |    |    |    |            |    |    |    |    |            |    |    |     |     |           |
+
+|                                                               | Sit | e 1 |   |   | Sit<br>e 2 |    |    |   |   | Sit<br>e 3 |    |    |   |   | Sit<br>e 4 |    |    |   |   | Sit<br>e 5 |    |    | Sit | e 6 |           |
+|---------------------------------------------------------------|-----|-----|---|---|------------|----|----|---|---|------------|----|----|---|---|------------|----|----|---|---|------------|----|----|-----|-----|-----------|
+|                                                               | 9   | 12  | 3 | 6 | 9          | 12 | 18 | 3 | 6 | 9          | 12 | 18 | 3 | 6 | 9          | 12 | 18 | 3 | 6 | 9          | 12 | 18 | 9   | 12  | To<br>tal |
+| Ch<br>tod<br>hip<br>ium<br>ae<br>on<br>ep<br>p                |     |     |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |   | 1 |            |    |    |     | 1   | 2         |
+| Ch<br>tod<br>line<br>ola<br>tus<br>ae<br>on                   |     |     |   |   |            |    |    |   |   |            |    |    |   | 2 |            |    |    |   |   |            |    |    |     |     | 2         |
+| Ch<br>tod<br>lun<br>ula<br>ae<br>on                           |     |     |   |   |            |    |    |   |   |            | 1  |    |   |   |            |    |    |   |   |            |    |    |     |     | 1         |
+| Ch<br>tod<br>lan<br>tus<br>ae<br>on<br>me<br>no               |     |     | 2 |   |            |    |    |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |     |     | 2         |
+| Ch<br>tod<br>atis<br>sim<br>ae<br>on<br>orn<br>us             |     |     |   |   |            | 1  |    |   |   |            |    |    |   |   | 3          |    |    | 2 |   | 2          |    |    |     |     | 8         |
+| Ch<br>tod<br>lew<br>sis<br>ae<br>on<br>pe<br>en               |     | 1   |   |   |            |    |    |   |   |            | 1  | 2  |   |   |            | 1  |    |   |   |            |    | 1  |     |     | 6         |
+| Ch<br>tod<br>ad<br>rim<br>lat<br>ae<br>on<br>qu<br>acu<br>us  |     |     |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    | 1   |     | 1         |
+| Ch<br>tod<br>ret<br>icu<br>lat<br>ae<br>on<br>us              |     |     | 6 | 2 | 6          | 4  | 4  | 2 |   | 1          | 4  | 4  |   | 4 | 3          | 4  | 3  | 1 |   | 1          | 2  | 2  |     | 1   | 54        |
+| Ch<br>tod<br>eio<br>ae<br>on<br>sem<br>n                      |     |     | 1 |   |            |    |    | 2 | 2 |            |    |    |   |   |            |    |    |   | 1 |            |    |    |     |     | 6         |
+| Ch<br>tod<br>trif<br>iali<br>ae<br>on<br>asc<br>s             |     |     |   |   |            |    |    | 3 | 3 | 2          |    |    | 1 |   |            |    |    |   | 1 | 2          | 1  | 1  |     |     | 14        |
+| Ch<br>tod<br>trif<br>iat<br>ae<br>on<br>asc<br>us             |     | 2   |   |   |            |    |    |   | 2 |            |    |    | 1 |   |            |    |    |   |   |            |    |    |     |     | 5         |
+| Ch<br>tod<br>uni<br>cul<br>atu<br>ae<br>on<br>ma<br>s         |     |     | 1 |   |            |    | 7  | 1 | 1 | 5          | 2  | 6  |   | 1 | 6          | 5  | 2  |   |   |            |    |    |     | 4   | 41        |
+| Ch<br>tod<br>ab<br>du<br>ae<br>on<br>vag<br>un<br>s           | 1   |     | 2 |   | 1          |    |    |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |     | 2   | 6         |
+| Fo<br>rcip<br>ige<br>r fl<br>avi<br>ssi<br>mu<br>s            |     | 3   |   | 1 |            |    |    |   |   | 1          | 1  | 2  |   |   |            | 2  | 2  |   |   |            |    |    |     |     | 12        |
+| He<br>mit<br>rich<br>thy<br>oly<br>lep<br>is<br>au<br>s p     | 2   | 19  |   | 4 |            |    |    |   |   |            |    |    |   |   |            |    | 6  |   |   |            |    |    |     | 2   | 33        |
+| He<br>nio<br>chu<br>hry<br>tom<br>s c<br>sos<br>us            |     | 1   |   |   |            |    |    |   | 1 |            |    |    |   |   |            | 1  |    |   |   |            |    |    |     |     | 3         |
+| He<br>nio<br>chu<br>ari<br>s v<br>us                          |     | 1   |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |     |     | 1         |
+|                                                               |     |     |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |     |     |           |
+| CIR<br>RH<br>ITI<br>DA<br>E                                   |     |     |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |     |     |           |
+| Pa<br>irrh<br>ites<br>cat<br>rac<br>ar<br>us                  | 1   |     | 1 | 1 |            |    | 1  |   |   | 2          | 1  |    |   | 2 | 1          |    |    | 2 |   | 1          | 3  |    | 2   | 2   | 20        |
+| Pa<br>irrh<br>ites<br>fo<br>rst<br>eri<br>rac                 |     | 1   |   |   |            | 2  | 1  |   |   |            |    | 1  |   | 1 |            |    |    |   |   |            | 1  |    |     |     | 7         |
+| Pa<br>irrh<br>ites<br>he<br>mis<br>tict<br>rac<br>us          |     | 1   |   |   | 1          |    |    |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |     |     | 2         |
+| HA<br>EM<br>UL<br>IDA<br>E                                    |     |     |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |     |     |           |
+| Ple<br>cto<br>rhi<br>nch<br>vitt<br>atu<br>us<br>s            |     |     |   |   |            |    |    |   |   |            |    |    |   | 2 |            |    |    |   |   |            |    |    |     |     | 2         |
+| KY<br>PH<br>OS<br>IDA<br>E                                    |     |     |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |     |     |           |
+| Ky<br>ho<br>p<br>sus<br>sp<br>p.                              |     |     |   |   |            |    |    |   |   |            |    |    |   | 1 |            |    |    |   | 2 |            |    |    |     |     | 3         |
+| LA<br>BR<br>IDA<br>E                                          |     |     |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |     |     |           |
+| An<br>rul<br>cta<br>tus<br>am<br>ps<br>es<br>cae<br>eop<br>un | 1   |     |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |     |     | 1         |
+| An<br>lea<br>ide<br>am<br>ps<br>es<br>me<br>gr<br>s           | 1   |     |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |     |     | 1         |
+| An<br>twi<br>stii<br>am<br>ps<br>es                           |     | 3   |   |   |            |    |    |   |   |            |    |    |   |   |            |    | 1  |   |   |            |    |    |     |     | 4         |
+
+|                                                               | Sit | e 1 |   |   | Sit<br>e 2 |    |    |   |   | Sit<br>e 3 |    |    |   |   | Sit<br>e 4 |    |    |    |   | Sit<br>e 5 |    |    | Sit | e 6 |           |
+|---------------------------------------------------------------|-----|-----|---|---|------------|----|----|---|---|------------|----|----|---|---|------------|----|----|----|---|------------|----|----|-----|-----|-----------|
+|                                                               | 9   | 12  | 3 | 6 | 9          | 12 | 18 | 3 | 6 | 9          | 12 | 18 | 3 | 6 | 9          | 12 | 18 | 3  | 6 | 9          | 12 | 18 | 9   | 12  | To<br>tal |
+| Bo<br>dia<br>xill<br>ari<br>nu<br>s a<br>s                    |     | 1   |   |   |            |    | 1  |   |   |            |    |    |   |   |            |    |    |    |   |            | 1  | 1  |     |     | 4         |
+| Co<br>ris<br>ula<br>ayg                                       |     | 1   |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |    |   |            |    |    |     |     | 1         |
+| Co<br>ris<br>ima<br>rd<br>ga                                  |     | 1   |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |    |   |            | 1  |    |     |     | 2         |
+| Ep<br>ibu<br>lus<br>in<br>sid<br>iato<br>r                    | 1   | 1   |   | 1 |            |    | 1  |   |   |            | 1  |    |   |   |            |    | 1  |    | 1 |            |    |    |     |     | 7         |
+| Go<br>ho<br>riu<br>mp<br>sus<br>va<br>s                       | 1   |     |   | 8 | 2          |    |    | 4 |   |            |    |    |   | 5 | 1          |    |    |    |   |            |    |    | 4   |     | 25        |
+| Ha<br>lich<br>bi<br>llat<br>oe<br>res<br>oce<br>us            |     |     |   |   |            |    | 1  |   |   |            |    |    |   |   |            |    |    |    |   |            |    |    |     |     | 1         |
+| Ha<br>lich<br>ho<br>rtu<br>lan<br>oe<br>res<br>us             |     |     |   |   |            |    | 2  |   |   | 2          | 1  |    |   |   |            |    | 1  | 1  |   | 2          | 1  |    |     |     | 10        |
+| Ha<br>lich<br>ina<br>tus<br>oe<br>res<br>m<br>arg             |     |     |   |   |            |    |    | 3 |   |            |    |    |   |   |            |    |    | 1  |   |            |    |    |     |     | 4         |
+| Ha<br>lich<br>ion<br>oe<br>res<br>pr<br>oso<br>pe             |     |     |   |   |            |    |    |   |   |            | 1  |    |   |   |            |    |    |    |   |            |    |    |     |     | 1         |
+| He<br>mig<br>s fa<br>sci<br>atu<br>ym<br>nu<br>s              | 2   | 1   |   | 2 |            |    | 1  |   |   |            |    |    |   |   |            |    |    | 2  |   | 1          |    |    |     |     | 9         |
+| He<br>mig<br>ela<br>ter<br>ym<br>nu<br>s m<br>p<br>us         | 2   | 1   |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |    |   |            |    |    |     |     | 3         |
+| La<br>bri<br>cht<br>hys<br>ilin<br>tus<br>un<br>ea            |     |     |   |   |            |    | 2  |   |   |            |    |    |   | 3 | 1          |    |    |    |   | 1          |    |    |     |     | 7         |
+| La<br>bro<br>ide<br>s b<br>ico<br>lor                         |     |     |   |   |            | 1  |    |   |   |            |    |    | 1 |   |            |    | 1  |    |   |            |    | 1  |     |     | 4         |
+| La<br>bro<br>ide<br>s d<br>imi<br>dia<br>tus                  |     | 2   |   | 1 | 2          |    | 1  |   |   | 3          |    | 1  |   |   |            |    |    |    |   | 1          |    |    |     |     | 11        |
+| La<br>bro<br>ide<br>ub<br>rol<br>ab<br>iat<br>s r<br>us       |     |     | 2 |   |            |    |    |   |   |            |    |    |   |   |            | 2  |    |    |   |            |    |    |     |     | 4         |
+| La<br>bro<br>is x<br>tho<br>ta<br>ps<br>an<br>no              |     |     |   |   |            |    |    |   |   |            |    | 2  |   |   |            |    |    |    |   |            |    |    |     |     | 2         |
+| Ox<br>he<br>ilin<br>dia<br>yc<br>us<br>gra<br>mm<br>us        |     |     |   |   | 1          |    |    |   | 1 |            |    |    |   |   | 2          |    | 1  |    |   |            | 1  |    |     |     | 6         |
+| Ox<br>he<br>ilin<br>uni<br>fas<br>cia<br>tus<br>yc<br>us      |     |     | 1 |   |            |    |    |   |   | 1          |    |    |   |   |            | 2  |    |    |   |            |    |    |     |     | 4         |
+| Ps<br>do<br>che<br>ilin<br>hex<br>ata<br>ia<br>eu<br>us<br>en |     |     |   |   |            |    | 1  |   |   |            |    | 1  |   |   |            | 1  |    |    |   |            |    |    |     |     | 3         |
+| Ps<br>do<br>dax<br>olu<br>eu<br>m<br>cca<br>nu<br>s           |     |     |   |   |            |    |    | 1 |   |            |    |    |   |   |            |    |    |    |   |            |    |    |     |     | 1         |
+| Ste<br>tho<br>ju<br>lis<br>ba<br>nd<br>sis<br>an<br>en        |     |     |   |   |            |    |    |   |   |            |    |    |   | 1 |            |    |    |    |   |            |    |    |     |     | 1         |
+| Th<br>ala<br>bly<br>ha<br>lum<br>sso<br>ma<br>am<br>cep       |     |     |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |    |   |            |    |    | 10  |     | 10        |
+| Th<br>ala<br>ha<br>rdw<br>ick<br>sso<br>ma<br>e               |     |     | 2 | 1 | 1          |    |    |   |   |            |    |    | 6 | 2 |            |    |    |    |   |            |    |    |     |     | 12        |
+| Th<br>ala<br>lu<br>tes<br>sso<br>ma<br>cen<br>s               | 1   | 1   |   |   |            |    |    |   |   |            |    |    |   |   |            | 1  |    |    |   |            | 1  | 1  |     |     | 5         |
+| Th<br>ala<br>inq<br>vitt<br>atu<br>sso<br>ma<br>qu<br>ue<br>m | 7   |     | 2 |   |            |    |    | 8 | 8 | 1          |    |    | 4 |   |            |    |    | 16 | 3 | 6          |    |    | 11  | 6   | 72        |
+|                                                               |     |     |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |    |   |            |    |    |     |     |           |
+| LE<br>TH<br>RIN<br>IDA<br>E                                   |     |     |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |    |   |            |    |    |     |     |           |
+| Gn<br>ath<br>od<br>rol<br>ine<br>tex<br>atu<br>en<br>au<br>s  |     |     |   |   |            |    | 1  |   |   |            |    |    |   |   |            |    | 1  |    |   |            |    |    |     |     | 2         |
+| Mo<br>tax<br>is g<br>do<br>cul<br>is<br>no<br>ran             |     |     |   |   |            |    |    |   |   |            |    |    |   | 1 |            |    |    |    | 1 | 1          |    |    |     |     | 3         |
+|                                                               |     |     |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |    |   |            |    |    |     |     |           |
+| LU<br>TJ<br>AN<br>IDA<br>E                                    |     |     |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |    |   |            |    |    |     |     |           |
+| Ap<br>ha<br>s fu<br>reu<br>rca                                |     |     |   |   |            |    | 1  |   | 1 |            |    |    |   |   |            | 1  | 1  |    |   |            |    |    |     |     | 4         |
+| Ap<br>rio<br>ire<br>n v<br>sce<br>ns                          |     |     |   |   |            |    |    |   |   |            |    |    |   |   |            |    |    |    |   |            |    |    |     | 1   | 1         |
+
+|                                                                                 | Sit | e 1 |    |    | Sit<br>e 2 |    |    |    |    | Sit<br>e 3 |    |    |   |    | Sit<br>e 4 |    |    |   |    | Sit<br>e 5 |    |    | Sit | e 6 |           |
+|---------------------------------------------------------------------------------|-----|-----|----|----|------------|----|----|----|----|------------|----|----|---|----|------------|----|----|---|----|------------|----|----|-----|-----|-----------|
+|                                                                                 | 9   | 12  | 3  | 6  | 9          | 12 | 18 | 3  | 6  | 9          | 12 | 18 | 3 | 6  | 9          | 12 | 18 | 3 | 6  | 9          | 12 | 18 | 9   | 12  | To<br>tal |
+| Lu<br>tjan<br>bo<br>ha<br>us<br>r                                               |     |     |    |    |            |    |    |    |    |            |    |    |   |    |            | 1  | 1  |   |    |            |    |    |     |     | 2         |
+| Lu<br>tjan<br>stig<br>us<br>mo<br>no<br>ma                                      |     |     |    | 1  |            | 1  |    |    |    |            |    |    |   |    |            |    | 1  |   |    |            |    |    |     |     | 3         |
+|                                                                                 |     |     |    |    |            |    |    |    |    |            |    |    |   |    |            |    |    |   |    |            |    |    |     |     |           |
+| MO<br>NA<br>CA<br>NT<br>HID<br>AE                                               |     |     |    |    |            |    |    |    |    |            |    |    |   |    |            |    |    |   |    |            |    |    |     |     |           |
+| Am<br>an<br>ses<br>sc<br>op<br>as                                               |     | 1   |    |    | 1          |    |    |    | 1  |            |    |    |   | 1  |            | 2  |    |   | 1  |            |    |    |     |     | 7         |
+| Ca<br>nth<br>erh<br>ine<br>s d<br>eri<br>lii<br>um                              |     |     |    |    |            | 2  | 2  |    |    |            |    |    |   |    | 1          |    |    |   |    |            |    |    |     |     | 5         |
+| Ca<br>nth<br>erh<br>ine<br>ard<br>alis<br>s p                                   |     |     | 1  |    |            |    |    |    |    |            |    |    |   |    |            |    |    |   |    |            |    |    | 1   |     | 2         |
+|                                                                                 |     |     |    |    |            |    |    |    |    |            |    |    |   |    |            |    |    |   |    |            |    |    |     |     |           |
+| MU<br>IDA<br>E<br>LL                                                            |     |     |    |    |            |    |    |    |    |            |    |    |   |    |            |    |    |   |    |            |    |    |     |     |           |
+| Pa<br>s b<br>ifas<br>cia<br>tus<br>rup<br>en<br>eu                              |     | 1   |    |    |            |    |    |    |    |            |    |    |   |    |            |    |    |   |    |            |    |    |     |     | 1         |
+| Pa<br>los<br>tom<br>rup<br>en<br>eu<br>s c<br>yc<br>us                          |     |     |    |    |            | 1  |    | 1  |    |            |    |    |   |    |            |    |    |   | 1  |            |    | 2  |     |     | 5         |
+| Pa<br>ulti<br>fas<br>cia<br>tus<br>rup<br>en<br>eu<br>s m                       |     | 1   |    |    | 1          |    |    |    |    |            |    |    |   |    |            |    |    |   |    |            |    |    |     |     | 2         |
+| PO<br>MA<br>CA<br>NT<br>HID<br>AE                                               |     |     |    |    |            |    |    |    |    |            |    |    |   |    |            |    |    |   |    |            |    |    |     |     |           |
+| Ce<br>bi<br>ino<br>ntr<br>opy<br>ge<br>sp<br>sus                                |     | 2   |    |    |            | 2  |    |    |    |            | 2  |    |   |    |            |    | 1  |   |    |            |    |    |     |     | 7         |
+| Ce<br>ntr<br>fla<br>vis<br>sim<br>opy<br>ge<br>us                               | 1   | 2   | 1  | 2  |            |    |    |    |    |            | 2  |    |   |    |            | 1  |    |   |    |            |    |    | 3   |     | 12        |
+| Py<br>lite<br>s d<br>iac<br>thu<br>gop<br>an<br>s                               | 1   |     |    | 1  |            |    |    |    |    |            |    |    |   |    |            |    |    |   |    |            | 1  |    |     |     | 3         |
+| PO<br>MA<br>CE<br>NT<br>RID<br>AE                                               |     |     |    |    |            |    |    |    |    |            |    |    |   |    |            |    |    |   |    |            |    |    |     |     |           |
+| Ch<br>is a<br>rom<br>car<br>es                                                  | 6   | 18  |    | 6  | 9          | 9  |    |    |    |            | 4  |    |   |    |            | 5  |    |   |    |            |    |    |     |     | 57        |
+| Ch<br>is a<br>lp<br>ha<br>rom                                                   |     |     |    |    |            |    |    |    |    |            |    | 1  |   |    |            |    |    |   |    |            |    |    |     |     | 1         |
+| Ch<br>is a<br>mb<br>oin<br>sis<br>rom<br>en                                     |     |     |    |    |            |    |    |    |    |            |    |    |   |    |            | 7  | 3  |   |    |            |    |    |     |     | 10        |
+| Ch<br>is a<br>trip<br>rom<br>es                                                 |     |     |    | 1  |            |    |    |    |    |            |    |    |   |    |            |    |    |   |    |            |    |    |     |     | 1         |
+| Ch<br>is i<br>ela<br>rom<br>om<br>s                                             |     | 41  |    |    | 2          | 8  | 1  |    |    | 2          | 6  | 3  |   |    | 10         | 18 | 48 |   |    |            |    | 3  |     | 9   | 15<br>1   |
+| Ch<br>is m<br>ari<br>tife<br>rom<br>arg<br>r                                    | 25  | 25  |    | 4  | 11         | 4  | 1  |    |    | 7          |    |    |   | 2  | 1          |    |    |   |    |            | 1  |    |     | 2   | 83        |
+| Ch<br>is x<br>thu<br>rom<br>an<br>ra                                            | 1   |     |    |    |            |    |    |    |    |            |    | 3  |   |    |            |    |    |   | 17 |            |    | 6  |     |     | 27        |
+| Ch<br>ip<br>a b<br>nri<br>ii<br>ter<br>rys<br>row<br>gg                         |     |     |    |    |            |    |    |    |    |            |    |    |   |    |            |    |    |   |    |            |    |    | 2   |     | 2         |
+| Ch<br>ip<br>ter<br>a t<br>rys<br>aup<br>ou                                      |     |     |    |    |            |    | 2  |    |    | 1          |    |    | 2 |    |            |    |    |   |    |            |    |    | 1   |     | 6         |
+| Da<br>llus<br>ticu<br>lat<br>scy<br>re<br>us                                    |     |     | 2  | 2  |            |    | 7  |    | 3  |            |    |    |   |    |            |    |    |   |    |            | 1  |    |     |     | 15        |
+| Da<br>llus<br>tri<br>cul<br>atu<br>scy<br>ma<br>s                               |     |     |    |    |            | 1  | 1  |    |    |            |    |    |   |    |            |    |    |   |    |            |    |    |     |     | 2         |
+| Ple<br>lyp<br>hid<br>od<br>dic<br>kii<br>ctr<br>og<br>on                        | 1   | 2   | 26 | 11 | 19         | 3  | 2  | 17 | 34 | 7          | 4  |    | 9 | 7  | 5          | 1  |    | 6 | 12 | 4          | 3  |    | 2   | 1   | 176       |
+| Ple<br>ctr<br>lyp<br>hid<br>od<br>jo<br>hn<br>sto<br>nia<br>og<br>on<br>nu<br>s |     |     |    | 1  | 2          | 5  | 5  |    |    | 1          | 3  |    |   |    | 1          | 3  |    |   |    | 1          |    |    |     | 2   | 24        |
+| Ple<br>lyp<br>hid<br>od<br>lac<br>ctr<br>atu<br>og<br>on<br>rym<br>s            |     |     | 2  | 12 | 12         | 5  | 4  |    |    | 1          |    |    | 3 | 11 | 4          | 8  | 2  |   |    | 3          |    |    |     |     | 67        |
+
+|                                                         | Sit | e 1 |   |   | Sit<br>e 2 |    |    |   |   | Sit<br>e 3 |    |    |    |   | Sit<br>e 4 |    |    |    |   | Sit<br>e 5 |    |    | Sit | e 6 |           |
+|---------------------------------------------------------|-----|-----|---|---|------------|----|----|---|---|------------|----|----|----|---|------------|----|----|----|---|------------|----|----|-----|-----|-----------|
+|                                                         | 9   | 12  | 3 | 6 | 9          | 12 | 18 | 3 | 6 | 9          | 12 | 18 | 3  | 6 | 9          | 12 | 18 | 3  | 6 | 9          | 12 | 18 | 9   | 12  | To<br>tal |
+| Po<br>tru<br>s b<br>hia<br>lis<br>ma<br>cen<br>rac      | 2   | 5   | 4 | 8 | 3          | 1  | 1  |   | 1 |            |    |    |    | 3 |            |    | 2  |    | 2 | 6          | 5  |    |     |     | 43        |
+| Po<br>aiu<br>li<br>tru<br>ma<br>cen<br>s v              |     |     | 1 | 1 | 1          | 2  | 12 |   |   | 9          | 4  | 10 | 1  | 2 | 10         | 7  | 2  |    |   |            | 2  | 5  |     | 1   | 70        |
+| Po<br>chr<br>is r<br>ich<br>ard<br>i<br>ma<br>om<br>son |     |     |   |   |            |    |    |   |   |            |    |    |    |   |            |    |    |    |   |            |    |    | 1   |     | 1         |
+| Ste<br>s fa<br>ste<br>sci<br>ola<br>tus<br>ga           | 1   |     |   |   |            |    |    | 3 |   |            |    |    |    |   |            |    |    | 21 |   |            |    |    | 1   | 2   | 28        |
+| SC<br>AR<br>IDA<br>E                                    |     |     |   |   |            |    |    |   |   |            |    |    |    |   |            |    |    |    |   |            |    |    |     |     |           |
+| Ca<br>loto<br>linu<br>mu<br>s c<br>aro<br>s             |     |     | 1 |   |            |    |    |   |   |            |    |    |    |   |            |    |    |    |   |            |    |    |     |     | 1         |
+| Ch<br>lor<br>s ja<br>nsi<br>uru<br>pa<br>ne<br>s        | 1   |     |   | 6 |            |    |    | 3 |   |            |    |    | 1  |   | 1          |    |    | 1  | 4 |            |    |    |     |     | 17        |
+| Ch<br>lor<br>icro<br>rhi<br>uru<br>s m<br>no<br>s       |     |     |   |   |            |    |    | 1 |   | 1          |    |    |    |   |            |    |    |    | 1 |            |    |    |     |     | 3         |
+| Ch<br>lor<br>ord<br>idu<br>uru<br>s s<br>s              | 1   |     | 1 | 5 |            |    |    | 3 | 7 | 1          | 5  |    | 3  | 8 | 5          | 3  | 1  |    | 1 | 2          | 8  | 1  | 2   | 2   | 59        |
+| Sc<br>s fo<br>rst<br>i<br>aru<br>en                     |     | 1   |   |   |            | 1  | 1  |   |   |            | 2  | 1  |    |   |            | 2  |    |    | 1 |            | 1  | 2  |     | 3   | 15        |
+| Sc<br>s fr<br>atu<br>aru<br>en<br>s                     |     |     |   |   |            |    |    |   |   | 1          | 1  |    |    |   |            |    |    |    | 1 |            |    |    |     |     | 3         |
+| Sc<br>lob<br>ice<br>aru<br>s g<br>ps                    |     |     |   |   |            |    |    |   |   |            |    | 1  |    |   |            |    |    |    |   |            |    | 3  |     |     | 4         |
+| Sc<br>ige<br>aru<br>s n<br>r                            |     |     |   | 1 |            | 1  | 1  |   |   |            |    |    |    |   | 1          |    |    |    |   |            |    |    |     |     | 4         |
+| Sc<br>vic<br>aru<br>s o<br>ep<br>s                      | 1   |     | 3 | 4 | 1          |    |    | 2 |   |            | 1  | 1  | 2  | 1 | 1          | 1  |    | 2  | 3 | 1          | 1  | 1  |     | 1   | 27        |
+| Sc<br>sitt<br>aru<br>s p<br>acu<br>s                    |     |     | 1 | 1 | 1          | 2  |    | 3 | 3 | 3          |    | 1  | 18 | 1 | 3          |    |    | 1  |   |            |    | 1  | 2   | 5   | 46        |
+| Sc<br>ubr<br>ovi<br>ola<br>aru<br>s r<br>ceu<br>s       |     | 2   |   |   |            |    | 1  |   |   |            |    | 1  |    |   |            |    |    | 1  |   |            | 1  |    |     | 2   | 8         |
+| Sc<br>chl<br>eli<br>aru<br>s s<br>eg                    |     |     |   |   |            |    |    |   |   |            |    | 1  |    |   |            |    |    |    |   |            | 1  |    |     |     | 2         |
+| Sc<br>inu<br>aru<br>s s<br>p<br>s                       |     |     |   | 1 |            |    |    | 2 |   |            |    |    |    | 1 |            |    |    | 1  |   | 1          |    | 2  |     | 1   | 9         |
+| uni<br>d s<br>id<br>car                                 |     |     |   |   |            |    |    |   |   | 3          |    |    |    |   |            |    |    |    |   |            |    |    |     |     | 3         |
+| SE<br>RR<br>AN<br>IDA<br>E                              |     |     |   |   |            |    |    |   |   |            |    |    |    |   |            |    |    |    |   |            |    |    |     |     |           |
+| Ce<br>ha<br>lop<br>ho<br>lis<br>p<br>arg<br>us          |     | 3   |   | 2 | 2          | 2  |    |   |   | 1          | 1  |    |    |   |            |    | 2  | 1  | 1 |            |    | 2  |     |     | 17        |
+| Ce<br>ha<br>lop<br>ho<br>lis<br>de<br>ta<br>p<br>uro    | 2   |     |   |   |            |    |    |   |   | 1          | 1  | 1  |    | 1 | 1          | 1  |    |    |   |            |    |    | 1   |     | 9         |
+| Va<br>rio<br>la l<br>ti<br>ou                           |     |     |   |   |            |    |    |   |   |            |    |    |    |   |            |    |    |    |   | 1          |    |    |     |     | 1         |
+| SIG<br>AN<br>IDA<br>E                                   |     |     |   |   |            |    |    |   |   |            |    |    |    |   |            |    |    |    |   |            |    |    |     |     |           |
+| Sig<br>inu<br>an<br>us<br>sp<br>s                       |     |     |   |   |            |    |    |   |   |            |    |    |    | 1 |            |    |    |    |   |            |    |    |     |     | 1         |
+| TE<br>TR<br>AO<br>DO<br>NT<br>IDA<br>E                  |     |     |   |   |            |    |    |   |   |            |    |    |    |   |            |    |    |    |   |            |    |    |     |     |           |
+| Aro<br>thr<br>lea<br>is<br>on<br>me<br>gr               |     |     |   |   |            |    |    | 1 |   |            |    |    |    |   |            |    |    |    |   |            |    |    |     |     | 1         |
+| ZA<br>NC<br>LID<br>AE                                   |     |     |   |   |            |    |    |   |   |            |    |    |    |   |            |    |    |    |   |            |    |    |     |     |           |
+
+|                                                             | Sit | e 1<br>Sit<br>e 2 |         |     |         |     |    |     |     | Sit<br>e 3 |     |    |     |     | Sit<br>e 4 |     |     |         |     | Sit<br>e 5 |    |    | Sit | e 6 |           |
+|-------------------------------------------------------------|-----|-------------------|---------|-----|---------|-----|----|-----|-----|------------|-----|----|-----|-----|------------|-----|-----|---------|-----|------------|----|----|-----|-----|-----------|
+|                                                             | 9   | 12                | 3       | 6   | 9       | 12  | 18 | 3   | 6   | 9          | 12  | 18 | 3   | 6   | 9          | 12  | 18  | 3       | 6   | 9          | 12 | 18 | 9   | 12  | To<br>tal |
+| Za<br>ncl<br>tus<br>us<br>cor<br>nu                         | 4   | 2                 | 1       |     |         |     |    |     |     |            |     |    |     |     |            |     |     |         |     | 1          |    |    |     |     | 8         |
+|                                                             |     |                   |         |     |         |     |    |     |     |            |     |    |     |     |            |     |     |         |     |            |    |    |     |     |           |
+| TO<br>TA<br>LS                                              |     |                   |         |     |         |     |    |     |     |            |     |    |     |     |            |     |     |         |     |            |    |    |     |     |           |
+| # i<br>nd<br>ivi<br>du<br>als<br>tra<br>t<br>on<br>ns<br>ec | 145 | 194               | 23<br>4 | 153 | 20<br>7 | 106 | 92 | 105 | 177 | 113        | 143 | 73 | 112 | 196 | 92         | 128 | 138 | 12<br>1 | 119 | 79         | 96 | 83 | 67  | 117 | 30<br>90  |
+| # s<br>cie<br>n t<br>ct<br>pe<br>s o<br>ran<br>se           | 29  | 36                | 26      | 32  | 25      | 28  | 32 | 23  | 19  | 27         | 28  | 22 | 20  | 31  | 26         | 31  | 26  | 21      | 22  | 23         | 26 | 22 | 18  | 26  | 123       |
+
+#### *Trends in Fagatele Bay fish populations 2001-2004*
+
+Overall there appears to have been a decline in fish populations in Fagatele Bay from 2001 to 2004. We recorded less fish across the entire survey (3090 fish recorded in 24 reef slope transects in 2004 vs. 4456 fish recorded on the same 24 transects in 2001). The average abundance of fish decreased at all depths since 2001 (3-18m; note the reef flat was not surveyed in 2004), although fish abundance remains the second highest recorded since 1988 (Figure 3). The drop in abundance was least pronounced on the reef slope at 6m (an avarage of 161 fish/transect in 2004 compared to 172 fish/transect in 2001), and most dramatic on the reef slope at 9m (117 fish/transect in 2004 compared to 205 fish/transect in 2001) (Figure 3).
+
+![](_page_25_Figure_2.jpeg)
+
+Figure 3. Abundance of fish in Fagatele Bay through time. Symbols refer to different sampling locations of the reef flat (●), and reef slope at 3m (■), 6m (▲), 9m (▼), 12m (♦) and 18m.
+
+The decline in abundance appears to have occurred across most species and major family groups, although the relative abundance (% of the populations) of each family group has remained consistent between 2001 and 2004 (Table 7). The largest decline was in acanthurids. This was because the 2004 survey was conducted later in the year to avoid the very high recruitment pulse of this family (particularly *Ctenochaetus striatus*) that takes place early in the year (Green 2002), and which was recorded in two of the other surveys (1985 & 2001). Therefore, the decline in the number of acanthurids was probably not due to a decline in adult populations, but rather the result of not recording the recruitment pulse for that year. This is likely to be the case for some of the other families also, although the pattern is likely to be much less pronounced. In contrast, we recorded considerably more Caesionids in 2004 than in 2001, although this probably reflects the transient and schooling nature of these species. Changes in abundance of scarids may also reflect the schooling nature of some of these species.
+
+Table 7. Comparison of major fish families from 2001 and 2004 surveys of Fagatele Bay National Marine Sanctuary. Total is the number of fish recorded in each year across all species within each family. Proportion represents the percentage of all fish recorded in each year. Data included is only from the reef slope transects (3-18m) in both years.
+
+|                |       | 2001       |       | 2004       |
+|----------------|-------|------------|-------|------------|
+|                | Total | proportion | Total | proportion |
+| ACANTHURIDAE   | 2083  | 46.7       | 1416  | 45.8       |
+| CAESIONIDAE    | 31    | 0.7        | 133   | 4.3        |
+| CHAETODONTIDAE | 255   | 5.7        | 197   | 6.4        |
+| CIRRHITIDAE    | 52    | 1.2        | 29    | 0.9        |
+| LABRIDAE       | 310   | 6.9        | 215   | 6.9        |
+| POMACENTRIDAE  | 1284  | 28.8       | 764   | 24.7       |
+| SCARIDAE       | 179   | 4.0        | 201   | 6.5        |
+| SERRANIDAE     | 22    | 0.5        | 27    | 0.9        |
+
+A decline in species richness was also apparent on the reef slope in Fagatele Bay from 2001 to 2004 (Figure 4). The magnitude of the decline was similar at all depths (there were approximately four species fewer recorded per transect in 2004 compared with 2001). There was a slightly smaller decline in species richness, relative to the other four depths, at 18m (the average number of species recorded per transect fell from 27 in 2001 to 25 in 2004). Again species richness remains above the lowest levels recorded in 1988, and is very similar to that recorded in 1998 (Figure 4). There were 5 families recorded in 2001 (Blennidae, Holocentridae, Microdesmidae, Ostracidae and Pempheridae) that were not recorded in 2004, although these were all uncommon in the 2001 surveys.
+
+![](_page_26_Figure_3.jpeg)
+
+Figure 4. Species richness of fish in Fagatele Bay through time. Symbols refer to different sampling locations of the reef flat (●), and reef slope at 3m (■), 6m (▲), 9m (▼), 12m (♦) and 18m.
+
+For the four fish families that are important for the local fisheries, there were few major changes in the size structure of populations from 2001 to 2004 (Figure 5). Notably, however, we did observe more large scarids in 2004 than in 2001. This may be a sign that scarid populations are starting to recover from the effects of overfishing by the SCUBA fishery.
+
+![](_page_27_Figure_1.jpeg)
+
+Figure 5. Size structure of populations of important fisheries species in Fagatele Bay.
+
+The important fisheries species *Cephalopholis argus* was more abundant in Fagatele Bay in 2004 than in 2001, and we also observed more larger individuals (>30cm) in 2004 than in 2001 (Figure 6). For *Ctenochaetus striatus* we observed fewer individuals in 2004 than in 2001, although this was probably related to the large number of small individuals (<7cm, recent recruits) that were recorded during the recruitment season in 2001 (Figure 6).
+
+![](_page_28_Figure_1.jpeg)
+
+Figure 6. Abundance of important fisheries species in Fagatele Bay in 2004.
+
+### *Benthic macroinvertebrates and fish habitat in Fagatele Bay*
+
+Point count surveys of key macro invertebrates in Fagatele Bay showed that corals and macroalgae contributed most to the fish habitat across all sites and depths. The proportion of points representing scleractinian corals ranged from 8% to 72% across all sites and depths (an average of 40%, most of which was encrusting, branching or massive coral), whereas 20% - 62.5% (mean = 46%) comprised macroalgae (most of which was pink coralline algae) (Table 8). In general soft coral and sponges were the only common macro invertebrates other than scleractinian corals on the transects. Non-living substrate made up, on average, less than 12% of the points counted with the highest proportion of 33% at 18m on Site 2 (Table 8).
+
+The point count data collected during the 2004 survey of Fagatele Bay form a baseline for monitoring of fish habitat in future years.
+
+Table 8. Data on the abundance of benthic macroinvertebrates in Fagatele Bay, September 2004.
+
+|                                                               | S<br>i       | 1<br>te      |              |              | S<br>2<br>i<br>te |              |              |              |              | S<br>3<br>i<br>te |              |              |              |              | S<br>4<br>i<br>te |              |              |              |              | S<br>i<br>te<br>5 |              |              | S<br>i       | 6<br>te      |
+|---------------------------------------------------------------|--------------|--------------|--------------|--------------|-------------------|--------------|--------------|--------------|--------------|-------------------|--------------|--------------|--------------|--------------|-------------------|--------------|--------------|--------------|--------------|-------------------|--------------|--------------|--------------|--------------|
+| De<br>t<br>h<br>p                                             | 9            | 1<br>2       | 3            | 6            | 9                 | 1<br>2       | 1<br>8       | 3            | 6            | 9                 | 1<br>2       | 1<br>8       | 3            | 6            | 9                 | 1<br>2       | 1<br>8       | 3            | 6            | 9                 | 1<br>2       | 1<br>8       | 9            | 1<br>2       |
+| C<br>O<br>R<br>A<br>L                                         |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |
+| bra<br>h<br>ing<br>l<br>nc<br>co<br>ra                        | 4.<br>2      |              | 1<br>2.<br>5 | 1<br>4.<br>6 | 1<br>6.<br>7      | 2<br>0.<br>8 | 1<br>4.<br>6 | 1<br>0.<br>4 | 2<br>0.<br>8 | 4.<br>2           | 2.<br>1      |              | 6.<br>3      | 2<br>2.<br>9 | 2.<br>1           |              |              | 1<br>8.<br>8 | 1<br>2.<br>5 | 1<br>0.<br>4      | 2.<br>1      | 4.<br>2      | 4.<br>2      | 2.<br>1      |
+| d<br>ig<br>i<br>ta<br>te<br>l<br>co<br>ra                     |              |              |              |              |                   |              |              |              |              | 2.<br>1           | 4.<br>2      |              | 2.<br>1      |              | 2.<br>1           |              |              |              |              | 2.<br>1           |              |              |              |              |
+| t<br>ing<br>l<br>en<br>cru<br>s<br>co<br>ra                   | 2.<br>1      | 3<br>9.<br>6 | 1<br>0.<br>4 | 1<br>8.<br>8 | 2<br>7.<br>1      | 8.<br>3      | 1<br>6.<br>7 | 2<br>7.<br>1 | 2<br>7.<br>1 | 2<br>5.<br>0      | 2<br>2.<br>9 | 3<br>9.<br>6 | 1<br>0.<br>4 | 6.<br>3      | 1<br>2.<br>5      | 2<br>9.<br>2 | 2.<br>1      | 2.<br>1      | 2.<br>1      |                   | 2.<br>1      | 1<br>4.<br>6 | 2<br>0.<br>8 | 2<br>0.<br>8 |
+| fo<br>l<br>iac<br>l<br>eu<br>s c<br>ora                       |              |              |              |              | 2.<br>1           | 2.<br>1      |              |              |              |                   |              | 6.<br>3      |              | 6.<br>3      |                   | 2.<br>1      | 2<br>7.<br>1 | 2.<br>1      |              |                   |              |              |              |              |
+| ive<br>l<br>ma<br>ss<br>co<br>ra                              | 2.<br>1      | 2.<br>1      | 1<br>6.<br>7 | 2.<br>1      | 2.<br>1           | 8.<br>3      | 4.<br>2      | 1<br>6.<br>7 | 2<br>5.<br>0 | 6.<br>3           | 6.<br>3      | 4.<br>2      | 2.<br>1      | 1<br>6.<br>7 | 2<br>9.<br>2      | 1<br>8.<br>8 | 4.<br>2      | 2.<br>1      |              | 4.<br>2           | 2.<br>1      |              | 6.<br>3      |              |
+| hro<br>l<br>mu<br>s<br>om<br>co<br>ra                         |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |
+| la<br>te<br>l<br>p<br>co<br>ra                                |              |              |              |              | 2.<br>1           | 6.<br>3      | 6.<br>3      |              |              | 2.<br>1           | 1<br>0.<br>4 | 4.<br>2      |              | 2.<br>1      | 2.<br>1           |              |              | 6.<br>3      | 2<br>5.<br>0 | 1<br>6.<br>7      | 2<br>7.<br>1 | 1<br>6.<br>7 |              |              |
+| to<br>ta<br>l                                                 | 8.<br>3      | 4<br>1.<br>7 | 3<br>9.<br>6 | 3<br>4<br>5. | 0.<br>0<br>5      | 4<br>8<br>5. | 4<br>1.<br>7 | 4.<br>2<br>5 | 2.<br>9<br>7 | 3<br>9.<br>6      | 4<br>8<br>5. | 4.<br>2<br>5 | 2<br>0.<br>8 | 4.<br>2<br>5 | 4<br>9<br>7.      | 0.<br>0<br>5 | 3<br>3.<br>3 | 3<br>1.<br>3 | 3<br>9.<br>6 | 3<br>3.<br>3      | 3<br>3.<br>3 | 3<br>4<br>5. | 3<br>1.<br>3 | 2<br>2.<br>9 |
+|                                                               |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |
+| M<br>A<br>C<br>R<br>O<br>A<br>G<br>A<br>E<br>L                |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |
+| t<br>ing<br>en<br>cru<br>s                                    | 8.<br>3      | 8.<br>3      |              |              | 6.<br>3           | 4.<br>2      | 4.<br>2      |              |              | 4.<br>2           | 2.<br>1      | 1<br>0.<br>4 | 4.<br>2      | 2.<br>1      | 8.<br>3           |              | 1<br>4.<br>6 | 4.<br>2      | 2.<br>1      | 4.<br>2           | 6.<br>3      | 2.<br>1      | 6.<br>3      | 6.<br>3      |
+| b<br>lue<br>lg<br>g<br>ree<br>n a<br>ae                       |              |              |              |              | 2.<br>1           | 4.<br>2      |              |              |              |                   | 2.<br>1      |              |              |              |                   |              |              |              |              |                   |              |              |              |              |
+| ha<br>l<br>im<br>da<br>e                                      |              |              |              |              |                   |              | 2.<br>1      |              |              |                   |              |              |              |              |                   |              | 2.<br>1      |              |              |                   |              |              |              |              |
+| lg<br>ma<br>cro<br>a<br>ae                                    |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |
+| in<br>k c<br>l<br>l<br>ine<br>lg<br>p<br>ora<br>a<br>ae       | 3<br>7.<br>5 | 4<br>5.<br>8 | 4<br>1.<br>7 | 5<br>0.<br>0 | 3<br>7.<br>5      | 2<br>9.<br>2 | 1<br>8.<br>8 | 3<br>5.<br>4 | 2<br>0.<br>8 | 4<br>5.<br>9      | 3<br>7.<br>5 | 1<br>2.<br>5 | 6<br>6.<br>7 | 3<br>9.<br>6 | 3<br>3.<br>3      | 4<br>5.<br>8 | 4<br>5.<br>8 | 5<br>2.<br>1 | 5<br>8.<br>3 | 5<br>8.<br>3      | 5<br>6.<br>3 | 3<br>5.<br>4 | 3<br>9.<br>6 | 3<br>9.<br>6 |
+| l<br>to<br>ta                                                 | 4<br>8<br>5. | 4.<br>2<br>5 | 4<br>1.<br>7 | 0.<br>0<br>5 | 4<br>8<br>5.      | 3<br>7.<br>5 | 2<br>0<br>5. | 3<br>4<br>5. | 2<br>0.<br>8 | 0.<br>1<br>5      | 4<br>1.<br>7 | 2<br>2.<br>9 | 0.<br>8<br>7 | 4<br>1.<br>7 | 4<br>1.<br>7      | 4<br>8<br>5. | 6<br>2.<br>5 | 6.<br>3<br>5 | 6<br>0.<br>4 | 6<br>2.<br>5      | 6<br>2.<br>5 | 3<br>7.<br>5 | 4<br>8<br>5. | 4<br>8<br>5. |
+|                                                               |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |
+| S<br>C<br>O<br>S<br>M<br>I<br>E<br>L<br>L<br>A<br>N<br>E<br>U |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |
+| i<br>d<br>ian<br>as<br>c                                      |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |
+| lam<br>c                                                      |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |
+| hy<br>dro<br>zo<br>an                                         |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              | 6.<br>3      |              |                   |              |              |              |              |
+| f<br>t c<br>l<br>so<br>ora                                    | 1<br>6.<br>7 |              | 1<br>0.<br>4 |              | 2.<br>1           |              |              |              |              | 2.<br>1           | 2.<br>1      |              |              |              |                   |              |              |              |              |                   |              |              | 2<br>4.      | 2.<br>1      |
+| sp<br>on<br>g<br>e                                            |              |              | 4.<br>2      | 2.<br>1      |                   |              |              | 6.<br>3      |              |                   |              |              | 4.<br>2      |              |                   |              |              |              |              |                   |              |              | 2.<br>1      |              |
+| h<br>in<br>urc                                                |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |
+| t<br>h<br>i<br>d<br>zo<br>oa<br>n                             |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |
+| l<br>to<br>ta                                                 | 1<br>6.<br>7 | 0.<br>0      | 1<br>4.<br>6 | 2.<br>1      | 2.<br>1           | 0.<br>0      | 0.<br>0      | 6.<br>3      | 0.<br>0      | 2.<br>1           | 2.<br>1      | 0.<br>0      | 4.<br>2      | 0.<br>0      | 0.<br>0           | 0.<br>0      | 0.<br>0      | 6.<br>3      | 0.<br>0      | 0.<br>0           | 0.<br>0      | 0.<br>0      | 6.<br>3      | 2.<br>1      |
+|                                                               |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |
+| N<br>O<br>N-<br>I<br>V<br>I<br>N<br>G<br>L                    |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |
+| ice<br>/<br>ho<br>le<br>cre<br>v                              |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |                   |              |              |              |              |
+| f m<br>tr<br>ix<br>ree<br>a                                   | 2<br>9.<br>2 | 4.<br>2      | 4.<br>2      | 1<br>2.<br>5 | 2.<br>1           | 1<br>6.<br>7 | 1<br>4.<br>6 | 4.<br>2      | 4.<br>2      | 8.<br>3           | 1<br>0.<br>4 | 1<br>6.<br>7 | 4.<br>2      | 4.<br>2      | 1<br>0.<br>4      | 4.<br>2      | 4.<br>2      | 6.<br>3      |              | 4.<br>2           | 2.<br>1      | 1<br>8.<br>8 | 1<br>6.<br>7 | 2<br>9.<br>2 |
+| b<br>b<br>le<br>ru                                            |              |              |              |              |                   |              | 1<br>0.<br>4 |              | 2.<br>1      |                   |              |              |              |              |                   |              |              |              |              |                   | 2.<br>1      | 8.<br>3      |              |              |
+| d<br>sa<br>n                                                  |              |              |              |              |                   |              | 8.<br>3      |              |              |                   |              | 6.<br>3      |              |              |                   |              |              |              |              |                   |              |              |              |              |
+| to<br>ta<br>l                                                 | 2<br>9.<br>2 | 4.<br>2      | 4.<br>2      | 1<br>2.<br>5 | 2.<br>1           | 1<br>6.<br>7 | 3<br>3.<br>3 | 4.<br>2      | 6.<br>3      | 8.<br>3           | 1<br>0.<br>4 | 2<br>2.<br>9 | 4.<br>2      | 4.<br>2      | 1<br>0.<br>4      | 4.<br>2      | 4.<br>2      | 6.<br>3      | 0.<br>0      | 4.<br>2           | 4.<br>2      | 2<br>7.<br>1 | 1<br>6.<br>7 | 2<br>9.<br>2 |
+
+#### **Reefs Around Tutuila**
+
+#### Corals in Pago Pago Harbour – 2004
+
+A total of 330 corals colonies belonging to 35 species were recorded in the surveys at the two sites in Pago Pago Harbour in 2004. The most common coral (132 colonies) was *Montipora grisea*. Only four other species were abundant (represented by >20 colonies); *Pocillopora danae* (28 colonies) *Pocillopora damicornis* (22 colonies), *Montipora informis* (21 colonies) and *Pocillopora verrucosa* ((21 colonies). All other species (n= 30) were rare (<11 colonies) (Table 1).
+
+Overall coral cover in Pago Pago Harbour was only 22.3%, and only two species contributed substantially to the coral cover in the harbour. *Montipora grisea* represented half of the total coral cover at the sites surveyed (11.3%; Table 1). *Diploastrea heliopora* represented 4.9% of the area surveyed, although this was due to a single large colony on the 6m transect at Rainmaker. *Pavona varians* covered 1.7% of the survey area, but all other species covered <0.7% (Table 1). Overall coral cover was highest at 6m at Rainmaker (50.1%) and lowest at 6m at Aua (7.1%). Coral cover at 3m depth was similar at both sites (12.8% at Rainmaker and 19.1% at Aua).
+
+Coral density in Pago Pago Harbour was also low. The highest density was at 3m depth at Aua (13.1 colonies/m²) and lowest at 6m depth at Aua (1.7 colonies/m²) (Table 9). Cover was highest at 6m depth at Rainmaker (50.1%) and lowest at 6m at Aua (7.1%) (Table 10). Overall, 34% of corals in Pago Pago Harbour were <5cm in diameter, and 92% of colonies were <20cm in diameter (Table 5). There was only 1 large colony (>80cm) recorded in the harbour (*Diploastrea heliopora* at Rainmaker which has a diameter >10m) and this was undoubtably the reason for the high coral cover recorded at this site. A full summary of all data from the 2004 survey of Pago Pago Harbour, including number of colonies in each size class and estimates of percent cover for each species, is provided in Appendix 4.
+
+#### Trends in coral populations in Pago Pago Harbour 2001-2004
+
+Coral populations at Rainmaker have shown signs of improvement from 2001 to 2004. There has been a slight increase both in colony density and coral cover at 6m depth, and a more noticeable increase, particularly of cover, at 3m depth (Tables 9 & 10). On the reef slope at Aua, however, there appears to have been a decline in the coral populations. Coral density and percent cover at 3m in 2004 is almost half that recorded in 2001, and at 6m it is only about 20% of that recorded in 2001 (Tables 9 & 10).
+
+Table 9. Density of hermatypic corals (number of colonies per m<sup>2</sup> ) at two sites in Pago Pago Harbour from surveys conducted in 1982-2004. Data from 1982, 1985, 1988 and 1995 are from Birkeland et al 2003. Data from 1998 and 2001 are from Birkeland et al. 2004.
+
+|           |       |      | Number of coral |
+|-----------|-------|------|-----------------|
+| Location  | Depth | Year | colonies per m2 |
+| Rainmaker | 2-3m  | 1982 | 4.69            |
+|           |       | 1985 | 8.25            |
+|           |       | 1988 | 7.54            |
+|           |       | 1995 | 9.23            |
+|           |       | 1998 | -               |
+|           |       | 2001 | 8.02            |
+|           |       | 2004 | 11.8            |
+|           | 6m    | 1982 | 11.58           |
+|           |       | 1985 | 0.84            |
+|           |       | 1988 | 0.25            |
+|           |       | 1995 | 2.95            |
+|           |       | 1998 | 2.28            |
+|           |       | 2001 | 1.15            |
+|           |       | 2004 | 2.6             |
+| Aua       | 2-3m  | 1982 | -               |
+|           |       | 1985 | -               |
+|           |       | 1988 | -               |
+|           |       | 1995 | -               |
+|           |       | 1998 | 8.87            |
+|           |       | 2001 | 20.04           |
+|           |       | 2004 | 13.1            |
+|           | 6m    | 1982 | -               |
+|           |       | 1985 | -               |
+|           |       | 1988 | -               |
+|           |       | 1995 | -               |
+|           |       | 1998 | 20.26           |
+|           |       | 2001 | 10.96           |
+|           |       | 2004 | 1.7             |
+
+Table 10. Percent cover of substrata by hermatypic corals at two sites in Pago Pago Harbour Tutuila Island from surveys conducted in 1982-2004. Data from 1982, 1985, 1988 and 1995 are from Birkeland et al 2003. Data from 1998 and 2001 are from Birkeland et al. 2004.
+
+| Location  | Depth | Year | Percent cover by<br>coral colonies |
+|-----------|-------|------|------------------------------------|
+| Rainmaker | 2-3m  | 1982 | 6.65                               |
+|           |       | 1985 | 11.38                              |
+|           |       | 1988 | 3.2                                |
+|           |       | 1995 | 12.04                              |
+|           |       | 1998 | -                                  |
+|           |       | 2001 | 5.33                               |
+|           |       | 2004 | 12.8                               |
+|           | 6m    | 1982 | 27.72                              |
+|           |       | 1985 | 19.19                              |
+|           |       | 1988 | 18.7                               |
+|           |       | 1995 | 3.06                               |
+|           |       | 1998 | 2.99                               |
+|           |       | 2001 | 47.28                              |
+|           |       | 2004 | 50.1                               |
+| Aua       | 2-3m  | 1982 | -                                  |
+|           |       | 1985 | -                                  |
+|           |       | 1988 | -                                  |
+|           |       | 1995 | -                                  |
+|           |       | 1998 | 31.81                              |
+|           |       | 2001 | 37.67                              |
+|           |       | 2004 | 19.1                               |
+|           | 6m    | 1982 | -                                  |
+|           |       | 1985 | -                                  |
+|           |       | 1988 | -                                  |
+|           |       | 1995 | -                                  |
+|           |       | 1998 | 26.7                               |
+|           |       | 2001 | 60.31                              |
+|           |       | 2004 | 7.1                                |
+
+#### *The Aua Transect*
+
+As in previous years, the coral communities along the Aua Transect in 2004 were dominated by the coral species *Acropora nana*, *Pocillopora danae*, *Montipora grisea* (probably recorded as *Montipora verrilli* in previous surveys), and *Pavona divaricata* (Tables 11 & 12), although colony size was highly variable in each species (Table 13). We did, however, record higher overall coral abundance and percent cover than in previous years (Table 14 & 15), and there is a trend indicating continued recovery of corals (i.e. increasing abundance and percent cover) at all distances from shore on the transect since 1998 (equivalent data prior to 1998 were not available for comparison in this report). We recorded few non-coral invertebrate species along the transect, with *Stichopus chloronotus* being the most abundant (Table 16).
+
+Table 11. Coral density (number of colonies/m2) along the Aua Transect from surveys conducted in September 2004.
+
+|                            |     |     |     |     |     | Distance from shore (m) |     |      |      |
+|----------------------------|-----|-----|-----|-----|-----|-------------------------|-----|------|------|
+| Species                    | 91  | 122 | 140 | 160 | 183 | 213                     | 233 | 247  | 259  |
+| Acropora juvenile          |     |     |     |     |     | 0.1                     |     | 0.4  |      |
+| Acropora millepora         |     |     |     |     |     |                         |     | 0.2  |      |
+| Acropora nana              |     |     |     |     |     | 0.7                     | 15  | 24.2 | 19.8 |
+| Cyphastrea<br>micropthalma |     |     |     |     | 0.1 |                         |     |      |      |
+| Galaxea fascicularis       |     |     |     |     |     |                         |     | 1.2  |      |
+| Leptastrea purpurea        |     | 0.2 | 0.1 | 0.1 | 0.2 | 0.1                     |     |      |      |
+| Millepora sp               |     |     | 0.3 | 0.4 | 0.3 | 0.1                     | 0.2 | 2.8  |      |
+| Montipora venosa           |     |     |     |     |     | 0.1                     | 0.8 | 0.2  | 0.8  |
+| Montipora calcarea         |     |     |     |     |     | 0.1                     |     |      |      |
+| Montipora grisea           | 0.1 |     |     | 0.2 | 0.1 | 1.5                     | 2.6 | 3.2  | 5.4  |
+| Pavona collines            |     |     |     |     |     |                         |     | 0.2  |      |
+| Pavona divaricata          |     |     |     |     | 0.3 | 1.4                     | 4.8 | 8.4  |      |
+| Pavona varians             |     |     |     |     |     |                         |     | 0.4  |      |
+| Pocillopora damicornis     | 0.1 |     |     |     |     | 1.2                     | 0.6 | 0.8  | 2.2  |
+| Pocillopora danae          | 0.3 |     |     |     |     | 1.7                     | 9.4 | 10.8 | 8    |
+| Pocillopora eydouxi        |     |     |     |     |     |                         | 0.2 |      |      |
+| Pocillopora juvenile       | 0.7 | 0.2 | 0.6 | 0.1 |     | 1.8                     | 2   | 0.4  | 0.4  |
+| Pocillopora meandrina      |     |     |     |     |     | 0.1                     |     |      |      |
+| Pocillopora verrucosa      | 0.4 | 0.1 |     | 0.1 |     | 1.1                     | 1.2 | 2    | 1.6  |
+| Porites cylindrica         | 0.1 |     |     |     |     |                         |     |      |      |
+| Porites juvenile           |     |     |     |     | 0.1 |                         |     |      |      |
+| Porites lobata             | 0.1 |     |     |     | 0.1 |                         |     |      |      |
+| Porites lutea              |     |     | 0.1 | 0.1 | 0.1 |                         |     |      |      |
+| Porites rus                |     |     |     |     |     | 0.1                     | 3   | 3.2  |      |
+| Porites solida             |     |     |     |     |     | 0.1                     |     |      |      |
+| Psammocora contigua        |     |     | 0.1 |     | 0.2 | 0.7                     |     | 0.8  |      |
+| Psammocora haimeana        |     |     |     |     |     | 0.1                     |     | 0.2  |      |
+| Stylarea punctata          |     | 0.3 |     |     |     |                         |     |      |      |
+
+Table 12. Percent cover of each coral species along the Aua Transect from surveys conducted in Spetember 2004.
+
+|                            |      |      |      | Spetember 2004. |      | Distance from shore (m) |       |       |      |
+|----------------------------|------|------|------|-----------------|------|-------------------------|-------|-------|------|
+| Species                    | 91   | 122  | 140  | 160             | 183  | 213                     | 233   | 247   | 259  |
+| Acropora juvenile          |      |      |      |                 |      | 0.01                    |       | 0.00  |      |
+| Acropora millepora         |      |      |      |                 |      |                         |       | 0.13  |      |
+| Acropora nana              |      |      |      |                 |      | 0.41                    | 14.18 | 10.96 | 9.88 |
+| Cyphastrea<br>micropthalma |      |      |      |                 | 0.01 |                         |       |       |      |
+| Galaxea fascicularis       |      |      |      |                 |      |                         |       | 1.27  |      |
+| Leptastrea purpurea        |      | 0.14 | 0.01 | 0.00            | 0.01 | 0.03                    |       |       |      |
+| Millepora sp               |      |      | 0.22 | 0.85            | 0.12 | 1.08                    | 0.40  | 10.55 |      |
+| Montipora angulata         |      |      |      |                 |      | 0.01                    | 0.22  | 0.03  | 0.15 |
+| Montipora calcarea         |      |      |      |                 |      | 0.53                    |       |       |      |
+| Montipora grisea           | 0.35 |      |      | 0.04            | 0.03 | 1.49                    | 4.08  | 3.01  | 8.96 |
+| Pavona collines            |      |      |      |                 |      |                         |       | 0.08  |      |
+| Pavona divaricata          |      |      |      |                 | 0.32 | 2.55                    | 4.25  | 6.70  |      |
+| Pavona varians             |      |      |      |                 |      |                         |       | 0.12  |      |
+| Pocillopora damicornis     | 0.01 |      |      |                 |      | 0.46                    | 0.59  | 1.01  | 0.99 |
+| Pocillopora danae          | 0.61 |      |      |                 |      | 2.32                    | 15.48 | 15.78 | 8.50 |
+| Pocillopora eydouxi        |      |      |      |                 |      |                         | 1.41  |       |      |
+| Pocillopora juvenile       | 0.01 | 0.00 | 0.01 | 0.00            |      | 0.02                    | 0.07  | 0.00  | 0.01 |
+| Pocillopora meandrina      |      |      |      |                 |      | 0.13                    |       |       |      |
+| Pocillopora verrucosa      | 2.24 | 0.76 |      | 0.49            |      | 1.53                    | 2.19  | 3.50  | 2.33 |
+| Porites cylindrica         | 0.28 |      |      |                 |      |                         |       |       |      |
+| Porites juvenile           |      |      |      |                 | 0.00 |                         |       |       |      |
+| Porites lobata             | 0.38 |      |      |                 | 6.36 |                         |       |       |      |
+| Porites lutea              |      |      | 0.06 | 0.03            | 5.68 |                         |       |       |      |
+| Porites rus                |      |      |      |                 |      | 0.13                    | 3.47  | 2.74  |      |
+| Porites solida             |      |      |      |                 |      | 0.11                    |       |       |      |
+| Psammocora contigua        |      |      | 0.02 |                 | 0.04 | 0.55                    |       | 0.69  |      |
+| Psammocora                 |      |      |      |                 |      |                         |       |       |      |
+| haimeana                   |      |      |      |                 |      | 0.04                    |       | 0.06  |      |
+| Stylarea punctata          |      | 0.01 |      |                 |      |                         |       |       |      |
+
+Table 13. Average size (±se) of colonies of each coral species along the Aua Transect, from surveys conducted in September 2004.
+
+|                                                                     |                                   |                         |                   | D<br>is<br>ta                     | fro<br>ho<br>nc<br>e<br>m<br>s | (<br>)<br>re<br>m            |                              |                                |                           |
+|---------------------------------------------------------------------|-----------------------------------|-------------------------|-------------------|-----------------------------------|--------------------------------|------------------------------|------------------------------|--------------------------------|---------------------------|
+| Sp<br>ies<br>ec                                                     | 9<br>1                            | 1<br>2<br>2             | 1<br>4<br>0       | 1<br>6<br>0                       | 1<br>8<br>3                    | 2<br>1<br>3                  | 2<br>3<br>3                  | 2<br>4<br>7                    | 2<br>5<br>9               |
+| Ac<br>j<br>i<br>le<br>rop<br>or<br>a<br>uv<br>en                    |                                   |                         |                   |                                   |                                | 3<br>0<br>±                  |                              | 1 ±<br>0                       |                           |
+| Ac<br>i<br>l<br>lep<br>rop<br>or<br>a m<br>or<br>a                  |                                   |                         |                   |                                   |                                |                              |                              | 9<br>0<br>±                    |                           |
+| Ac<br>rop<br>or<br>a n<br>an<br>a                                   |                                   |                         |                   |                                   |                                | 5.<br>3<br>7.<br>4<br>±      | 9.<br>8<br>4 ±<br>4.<br>9    | 6.<br>5<br>3.<br>9<br>±        | 6.<br>8<br>4.<br>1<br>±   |
+| Cy<br>ha<br>tre<br>icr<br>t<br>ha<br>lm<br>p<br>s<br>a m<br>op<br>a |                                   |                         |                   |                                   | 4 ±<br>0                       |                              |                              |                                |                           |
+| Ga<br>lax<br>fas<br>icu<br>lar<br>is<br>ea<br>c                     |                                   |                         |                   |                                   |                                |                              |                              | 1<br>0.<br>2 ±<br>6.<br>1      |                           |
+| Le<br>tas<br>tre<br>p<br>a p<br>urp<br>ur<br>ea                     |                                   | 7.<br>5<br>7.<br>8<br>± | 3<br>0<br>±       | 2 ±<br>0                          | 3<br>0<br>±                    | 6<br>0<br>±                  |                              |                                |                           |
+| M<br>i<br>l<br>lep<br>or<br>a s<br>p                                |                                   |                         | 9<br>4.<br>4<br>± | 1<br>3.<br>5<br>1<br>0.<br>8<br>± | 7 ±<br>1                       | 3<br>7 ±<br>0                | 1<br>6<br>0<br>±             | 1<br>8.<br>1 ±<br>1<br>2.<br>8 |                           |
+| Mo<br>t<br>ip<br>n<br>or<br>a<br>ve<br>no<br>sa                     |                                   |                         |                   |                                   |                                | 3<br>0<br>±                  | 5.<br>5<br>2.<br>5<br>±      | 4 ±<br>0                       | 4.<br>8<br>1.<br>5<br>±   |
+| Mo<br>t<br>ip<br>lca<br>n<br>or<br>a c<br>a<br>re<br>a              |                                   |                         |                   |                                   |                                | 2<br>6<br>0<br>±             |                              |                                |                           |
+| Mo<br>ip<br>ise<br>t<br>n<br>or<br>a g<br>r<br>a                    | 2<br>1 ±<br>0                     |                         |                   | 4.<br>2.<br>1<br>5<br>±           | 6<br>0<br>±                    | 1<br>0.<br>4.<br>1<br>5<br>± | 1<br>1.<br>8<br>8.<br>1<br>± | 9.<br>2 ±<br>6.<br>1           | 1<br>3.<br>2 ±<br>6.<br>2 |
+| Pa<br>l<br>l<br>ine<br>vo<br>na<br>co<br>s                          |                                   |                         |                   |                                   |                                |                              |                              | 7 ±<br>0                       |                           |
+| Pa<br>d<br>iva<br>ica<br>ta<br>vo<br>na<br>r                        |                                   |                         |                   |                                   | 8.<br>3<br>1<br>0.<br>1<br>±   | 1<br>1.<br>8<br>1<br>0<br>±  | 9.<br>3<br>3<br>5.<br>±      | 8.<br>9<br>9<br>4.<br>±        |                           |
+| Pa<br>ian<br>vo<br>na<br>va<br>r<br>s                               |                                   |                         |                   |                                   |                                |                              |                              | 6<br>1.<br>4<br>±              |                           |
+| Po<br>i<br>l<br>lop<br>da<br>ico<br>is<br>c<br>or<br>a<br>m<br>rn   | 3<br>0<br>±                       |                         |                   |                                   |                                | 3.<br>8<br>6.<br>1<br>±      | 9.<br>7 ±<br>6.<br>8         | 1<br>0.<br>3<br>8.<br>6<br>±   | 5.<br>6<br>5.<br>3<br>±   |
+| Po<br>i<br>l<br>lop<br>da<br>c<br>or<br>a<br>na<br>e                | 1<br>5<br>7.<br>2<br>±            |                         |                   |                                   |                                | 1<br>0.<br>4 ±<br>8.<br>3    | 1<br>2.<br>9<br>6.<br>6<br>± | 1<br>1.<br>3<br>7.<br>7<br>±   | 1<br>0.<br>1 ±<br>5.<br>8 |
+| Po<br>i<br>l<br>lop<br>do<br>i<br>c<br>or<br>a e<br>y<br>ux         |                                   |                         |                   |                                   |                                |                              | 3<br>0<br>0<br>±             |                                |                           |
+| Po<br>i<br>l<br>lop<br>j<br>i<br>le<br>c<br>or<br>a<br>uv<br>en     | 1.<br>3<br>0.<br>8<br>±           | 1 ±<br>0                | 1 ±<br>0          | 1 ±<br>0                          |                                | 1 ±<br>0                     | 1.<br>6<br>1.<br>3<br>±      | 1 ±<br>0                       | 1.<br>5<br>0.<br>7<br>±   |
+| Po<br>i<br>l<br>lop<br>dr<br>ina<br>c<br>or<br>a m<br>ea<br>n       |                                   |                         |                   |                                   |                                | 1<br>3<br>0<br>±             |                              |                                |                           |
+| Po<br>i<br>l<br>lop<br>c<br>or<br>a<br>ve<br>rru<br>co<br>sa        | 2<br>2.<br>8<br>1<br>6.<br>1<br>± | 3<br>1 ±<br>0           |                   | 2<br>5<br>0<br>±                  |                                | 1<br>2.<br>1 ±<br>5.<br>9    | 1<br>4.<br>2 ±<br>5.<br>6    | 1<br>2.<br>9<br>7.<br>9<br>±   | 1<br>1.<br>4 ±<br>8       |
+| Po<br>i<br>tes<br>l<br>in<br>dr<br>ica<br>r<br>cy                   | 1<br>9<br>0<br>±                  |                         |                   |                                   |                                |                              |                              |                                |                           |
+| Po<br>i<br>tes<br>j<br>i<br>le<br>r<br>uv<br>en                     |                                   |                         |                   |                                   | 1 ±<br>0                       |                              |                              |                                |                           |
+| Po<br>i<br>tes<br>lo<br>ba<br>ta<br>r                               | 2<br>2 ±<br>0                     |                         |                   |                                   | 9<br>0<br>0<br>±               |                              |                              |                                |                           |
+| Po<br>i<br>tes<br>lu<br>tea<br>r                                    |                                   |                         | 9<br>0<br>±       | 6<br>0<br>±                       | 8<br>5<br>0<br>±               |                              |                              |                                |                           |
+| Po<br>i<br>tes<br>r<br>ru<br>s                                      |                                   |                         |                   |                                   |                                | 1<br>3<br>0<br>±             | 1<br>0.<br>9<br>4<br>5.<br>± | 9.<br>6<br>4.<br>2<br>±        |                           |
+| Po<br>i<br>tes<br>l<br>i<br>da<br>r<br>so                           |                                   |                         |                   |                                   |                                | 1<br>2 ±<br>0                |                              |                                |                           |
+| Ps<br>t<br>ig<br>am<br>mo<br>co<br>ra<br>co<br>n<br>ua              |                                   |                         | 0<br>5<br>±       |                                   | 1.<br>5<br>4<br>±              | 8.<br>9<br>9<br>4.<br>±      |                              | 8.<br>8<br>6.<br>7<br>±        |                           |
+| Ps<br>ha<br>im<br>am<br>mo<br>co<br>ra<br>ea<br>na                  |                                   |                         |                   |                                   |                                | 7 ±<br>0                     |                              | 6<br>0<br>±                    |                           |
+| S<br>lar<br>ty<br>ta<br>ta<br>ea<br>p<br>un<br>c                    |                                   | 1.<br>3<br>0.<br>6<br>± |                   |                                   |                                |                              |                              |                                |                           |
+
+Table 14. Density (colonies per m2) of corals along the Aua Transect through time. NB Data from surveys conducted in 1928-1995 and in 2000 were not available in the same format for comparison in this report.
+
+|      |     |                                                      |     |     |     | Distance from shore (m) |      |      |      |      |  |  |  |  |  |
+|------|-----|------------------------------------------------------|-----|-----|-----|-------------------------|------|------|------|------|--|--|--|--|--|
+| Year | 91  | 122<br>140<br>160<br>183<br>213<br>233<br>247<br>259 |     |     |     |                         |      |      |      |      |  |  |  |  |  |
+| 1998 | 0.1 | 0.7<br>0.7<br>0.6<br>1.2<br>0.8<br>0.1<br>0.4<br>7.0 |     |     |     |                         |      |      |      |      |  |  |  |  |  |
+| 1999 | 0.2 | 0.5                                                  | 1.0 | 3.0 | 3.4 | 5.2                     | 2.8  | 8.6  | 15.0 | 73.6 |  |  |  |  |  |
+| 2004 | 5.0 | 4.3                                                  | 4.9 | 4.7 | 5.1 | 12.5                    | 40.2 | 59.8 | 38.4 |      |  |  |  |  |  |
+
+Table 15. Percent cover of corals along the Aua Transect through time. NB Data from surveys conducted in 1928-1995 and in 2000 were not available in the same format for comparison in this report.
+
+|      |                                                                |     |     |     |      | Distance from shore (m) |      |      |      |      |  |  |  |  |
+|------|----------------------------------------------------------------|-----|-----|-----|------|-------------------------|------|------|------|------|--|--|--|--|
+| Year | 91<br>122<br>140<br>160<br>183<br>213<br>233<br>247<br>259     |     |     |     |      |                         |      |      |      |      |  |  |  |  |
+| 1998 | 0.03<br>0.4<br>1.3<br>0.8<br>0.9<br>1.4<br>0.005<br>0.5<br>3.9 |     |     |     |      |                         |      |      |      |      |  |  |  |  |
+| 1999 | 0.2                                                            | 0.4 | 0.5 | 1.1 | 3.9  | 2.7                     | 1.1  | 1.9  | 4.6  | 23.9 |  |  |  |  |
+| 2004 | 3.9                                                            | 0.9 | 0.3 | 1.4 | 12.6 | 11.4                    | 46.3 | 56.6 | 30.8 |      |  |  |  |  |
+
+Table 16. Non-coral invertebrates recorded along the Aua Transect in surveys conducted in September 2004.
+
+| Species               | Distance from shore (m)<br>91<br>122<br>140<br>160<br>183<br>213<br>233<br>247<br>259 |    |    |    |    |   |   |   |   |            |  |  |  |  |
+|-----------------------|---------------------------------------------------------------------------------------|----|----|----|----|---|---|---|---|------------|--|--|--|--|
+| Linckia laevigata     |                                                                                       |    |    |    |    | 1 |   |   |   | Total<br>1 |  |  |  |  |
+| Stichopus chloronotus | 18                                                                                    | 35 | 45 | 32 | 42 | 3 |   |   |   | 175        |  |  |  |  |
+| Diadema sp.           |                                                                                       |    |    |    | 1  |   | 1 | 2 |   | 4          |  |  |  |  |
+| unid urchin (1)       |                                                                                       |    | 1  |    |    |   |   |   |   | 1          |  |  |  |  |
+| unid urchin (2)       |                                                                                       |    |    |    | 1  | 2 |   |   |   | 3          |  |  |  |  |
+| corallomorpharian     | 2                                                                                     |    |    |    |    |   |   |   | 2 | 4          |  |  |  |  |
+
+#### *Historic Fish Transects 2001-2004*
+
+The number and species of fish recorded on the three historic fish transect sites at Fagatele Bay, Sita Bay and Cape Larsen are presented in Table 17. Since the data was collected as three 30m transects in the 2004 survey (rather than a single 100m transect as had been done previously), we have summed the results from each of the three transects so as to be able to make direct comparisons with the historic data. Average values per 30m transect have been included (Appendix 6), and can be used for more rigorous comparisons among years in future surveys.
+
+Table 17. The number and species of fish recorded on the three historic fish transects from surveys conducted in September 2004. Note these data are derived from three replicate 30m transects and the total across the three replicate transects, compared with the single 100m transect that was surveyed in previous years.
+
+|                     |   | Cape Larsen |   |       |   |   | Fagatele Bay |       |   |   | Sita Bay |       |
+|---------------------|---|-------------|---|-------|---|---|--------------|-------|---|---|----------|-------|
+|                     | 1 | 2           | 3 | Total | 1 | 2 | 3            | Total | 1 | 2 | 3        | Total |
+| ACANTHURIDAE        |   |             |   |       |   |   |              |       |   |   |          |       |
+| Acanthurus achilles |   |             |   |       |   |   |              |       |   |   | 1        | 1     |
+| Acanthurus guttatus |   |             |   |       |   |   |              |       | 3 | 7 | 8        | 18    |
+| Acanthurus lineatus | 1 | 1           |   | 2     |   |   |              |       | 1 | 2 | 1        | 4     |
+
+|                         |    |    | Cape Larsen |       |    |    | Fagatele Bay |       |    |    | Sita Bay |       |
+|-------------------------|----|----|-------------|-------|----|----|--------------|-------|----|----|----------|-------|
+|                         | 1  | 2  | 3           | Total | 1  | 2  | 3            | Total | 1  | 2  | 3        | Total |
+| Acanthurus nigricans    | 6  | 2  |             | 8     | 4  | 4  | 2            | 10    | 1  | 4  | 4        | 9     |
+| Acanthurus nigrofuscus  | 3  | 8  |             | 11    | 1  |    |              | 1     | 3  | 1  | 1        | 5     |
+| Ctenochaetus striatus   | 58 | 22 | 71          | 151   | 37 | 29 | 19           | 85    | 27 | 12 | 16       | 55    |
+| Naso lituratus          |    |    |             |       |    |    |              |       | 1  | 2  | 2        | 5     |
+| Zebrasoma scopas        |    |    |             |       | 2  | 1  |              | 3     |    |    |          |       |
+| Zebrasoma veliferum     |    |    |             |       |    |    |              |       | 1  |    | 2        | 3     |
+| AULOSTOMIDAE            |    |    |             |       |    |    |              |       |    |    |          |       |
+| Aulostomus chinensis    |    | 1  |             | 1     |    |    |              |       |    |    |          |       |
+| BALISTIDAE              |    |    |             |       |    |    |              |       |    |    |          |       |
+| Balistapus undulatus    | 1  |    | 1           | 2     |    |    |              |       |    |    |          |       |
+| Balistoides viridescens |    |    |             |       |    |    | 1            | 1     |    |    |          |       |
+| Melichthys vidua        |    |    | 1           | 1     | 1  |    | 1            | 2     | 1  | 2  |          | 3     |
+| Sufflamen bursa         |    |    |             |       | 1  |    |              | 1     |    |    |          |       |
+| CAESIONIDAE             |    |    |             |       |    |    |              |       |    |    |          |       |
+| Pterocaesio tile        |    |    |             |       | 25 |    |              | 25    |    |    |          |       |
+| CARANGIDAE              |    |    |             |       |    |    |              |       |    |    |          |       |
+| Caranx melampygus       |    |    | 1           | 1     |    |    |              |       | 1  |    | 1        | 2     |
+|                         |    |    |             |       |    |    |              |       |    |    |          |       |
+| CHAETODONTIDAE          |    |    |             |       |    |    |              |       |    |    |          |       |
+| Chaetodon citrinellus   |    | 2  |             | 2     |    |    |              |       |    |    |          |       |
+| Chaetodon ornatissimus  |    |    |             |       | 1  |    |              | 1     |    |    |          |       |
+| Chaetodon reticulatus   | 2  | 1  | 5           | 8     | 4  | 3  | 2            | 9     |    | 4  | 2        | 6     |
+| Chaetodon trifasciatus  | 1  | 1  |             | 2     |    |    |              |       |    |    |          |       |
+| Chaetodon unimaculatus  |    |    |             |       |    | 4  | 5            | 9     |    |    |          |       |
+| Forcipiger flavissimus  | 1  | 1  | 2           | 4     |    |    | 1            | 1     |    |    |          |       |
+| Heniochus chrysostomus  |    | 3  |             | 3     |    |    |              |       |    |    |          |       |
+| CIRRHITIDAE             |    |    |             |       |    |    |              |       |    |    |          |       |
+| Paracirrhites arcatus   |    |    |             |       |    |    | 1            | 1     | 1  | 1  | 1        | 3     |
+| Paracirrhites forsteri  |    |    |             |       | 2  | 1  | 1            | 4     |    |    |          |       |
+| HAEMULIDAE              |    |    |             |       |    |    |              |       |    |    |          |       |
+| Plectorhinchus vittatus |    |    |             |       |    |    |              |       |    |    | 1        | 1     |
+| KYPHOSIDAE              |    |    |             |       |    |    |              |       |    |    |          |       |
+| Kyphosus spp.           |    | 1  |             | 1     |    |    | 1            | 1     |    |    |          |       |
+| LABRIDAE                |    |    |             |       |    |    |              |       |    |    |          |       |
+| Anampses twistii        | 1  |    |             | 1     |    |    |              |       |    |    |          |       |
+| Bodianus axillaris      | 1  | 1  |             | 2     |    |    |              |       |    | 1  |          | 1     |
+| Cheilinus fasciatus     |    |    |             |       |    | 1  |              | 1     |    |    |          |       |
+| Cheilinus trilobatus    |    |    | 1           | 1     |    |    |              |       |    |    |          |       |
+
+|                            |    |    | Cape Larsen |       |   |    | Fagatele Bay |       |   |    | Sita Bay |       |
+|----------------------------|----|----|-------------|-------|---|----|--------------|-------|---|----|----------|-------|
+|                            | 1  | 2  | 3           | Total | 1 | 2  | 3            | Total | 1 | 2  | 3        | Total |
+| Coris aygula               | 1  |    | 1           | 2     |   |    |              |       |   |    |          |       |
+| Coris gaimard              |    |    | 1           | 1     |   |    |              |       |   |    |          |       |
+| Epibulus insidiator        | 1  |    |             | 1     |   | 1  |              | 1     |   |    |          |       |
+| Gomphosus varius           |    |    |             |       |   |    | 1            | 1     |   | 1  |          | 1     |
+| Halichoeres hortulanus     | 1  | 2  | 2           | 5     |   |    |              |       |   | 1  | 1        | 2     |
+| Halichoeres marginatus     |    | 2  |             | 2     |   |    |              |       |   |    |          |       |
+| Hemigymnus fasciatus       | 2  | 1  |             | 3     |   |    |              |       |   |    |          |       |
+| Labroides bicolor          |    | 1  |             | 1     | 1 | 1  |              | 2     |   |    | 1        | 1     |
+| Labroides dimidiatus       | 3  |    | 1           | 4     |   |    |              |       | 1 |    |          | 1     |
+| Labroides rubrolabiatus    |    |    |             |       |   |    |              |       |   |    | 1        | 1     |
+| Oxycheilinus diagrammus    |    | 1  |             | 1     |   |    | 1            | 1     |   |    |          |       |
+| Pseudocheilinus hexataenia |    |    |             |       |   |    | 1            | 1     |   | 1  |          | 1     |
+| Stethojulis bandanensis    |    | 1  |             | 1     |   |    |              |       |   |    |          |       |
+| Thalassoma hardwicke       |    |    |             |       |   |    |              |       |   |    | 1        | 1     |
+| Thalassoma lutescens       |    |    |             |       |   | 1  | 1            | 2     |   |    |          |       |
+| Thalassoma quinquevittatum | 1  | 2  | 1           | 4     |   |    |              |       | 2 |    | 2        | 4     |
+| Thalassoma trilobatum      | 14 |    | 1           | 15    |   |    |              |       |   |    |          |       |
+|                            |    |    |             |       |   |    |              |       |   |    |          |       |
+| LETHRINIDAE                |    |    |             |       |   |    |              |       |   |    |          |       |
+| Monotaxis grandoculis      | 1  |    |             | 1     |   |    |              |       |   | 1  | 3        | 4     |
+|                            |    |    |             |       |   |    |              |       |   |    |          |       |
+| LUTJANIDAE                 |    |    |             |       |   |    |              |       |   |    |          |       |
+| Lutjanus fulvus            | 1  |    |             | 1     |   |    |              |       |   | 1  |          | 1     |
+| Lutjanus monostigma        |    |    |             |       | 1 | 1  |              | 2     | 1 |    |          | 1     |
+| Macolor macularis          | 1  | 1  |             | 2     |   | 1  | 1            | 2     |   |    |          |       |
+|                            |    |    |             |       |   |    |              |       |   |    |          |       |
+| MONACANTHIDAE              |    |    |             |       |   |    |              |       |   |    |          |       |
+| Amanses scopas             |    |    |             |       |   | 1  |              | 1     |   |    |          |       |
+| Cantherhines dumerilii     |    |    |             |       | 2 | 1  |              | 3     |   |    |          |       |
+|                            |    |    |             |       |   |    |              |       |   |    |          |       |
+| MULLIDAE                   |    |    |             |       |   |    |              |       |   |    |          |       |
+| Mulloides vanicolensis     |    |    |             |       |   |    |              |       |   |    | 5        | 5     |
+| Parupeneus bifasciatus     |    |    | 1           | 1     |   |    |              |       |   |    |          |       |
+| Parupeneus cyclostomus     | 5  |    | 2           | 7     | 1 |    |              | 1     |   |    |          |       |
+| Parupeneus multifasciatus  |    | 1  | 1           | 2     |   |    |              |       |   |    | 1        | 1     |
+|                            |    |    |             |       |   |    |              |       |   |    |          |       |
+| POMACANTHIDAE              |    |    |             |       |   |    |              |       |   |    |          |       |
+| Centropyge bispinosus      |    |    |             |       | 2 | 1  |              | 3     |   |    | 1        | 1     |
+| Centropyge flavissimus     |    |    |             |       |   |    |              |       |   | 1  |          | 1     |
+| Pomacanthus imperator      |    |    |             |       |   |    | 1            | 1     |   | 1  | 1        | 2     |
+| Pygoplites diacanthus      | 5  |    | 1           | 6     |   | 1  |              | 1     | 3 | 4  | 3        | 10    |
+|                            |    |    |             |       |   |    |              |       |   |    |          |       |
+| POMACENTRIDAE              |    |    |             |       |   |    |              |       |   |    |          |       |
+| Chromis acares             | 6  | 1  |             | 7     | 9 | 12 | 4            | 25    |   |    |          |       |
+| Chromis iomelas            |    |    |             |       | 8 | 10 | 14           | 32    |   | 1  |          | 1     |
+| Chromis margaritifer       | 15 | 22 | 13          | 50    | 4 | 4  | 2            | 10    | 9 | 16 | 19       | 44    |
+
+|                                                      | Cape Larsen |           |           |           |           |           | Fagatele Bay |           |           |          | Sita Bay  |           |
+|------------------------------------------------------|-------------|-----------|-----------|-----------|-----------|-----------|--------------|-----------|-----------|----------|-----------|-----------|
+|                                                      | 1           | 2         | 3         | Total     | 1         | 2         | 3            | Total     | 1         | 2        | 3         | Total     |
+| Chromis xanthura                                     |             | 4         |           | 4         |           |           | 1            | 1         |           | 1        | 1         | 2         |
+| Chrysiptera brownriggii                              | 1           |           |           | 1         |           |           |              |           |           |          |           |           |
+| Chrysiptera taupou                                   | 40          | 18        | 73        | 131       |           |           |              |           | 35        | 5        | 5         | 45        |
+| Dascyllus trimaculatus                               |             |           |           |           | 1         |           |              | 1         |           |          |           |           |
+| Neopomacentrus metallicus                            |             |           |           |           |           |           |              |           | 5         |          |           | 5         |
+| Plectroglyphidodon dickii                            | 2           | 4         | 1         | 7         | 3         | 6         | 2            | 11        | 2         | 2        | 8         | 12        |
+| Plectroglyphidodon                                   |             |           |           |           |           |           |              |           |           |          |           |           |
+| johnstonianus                                        |             |           |           |           | 5         | 4         | 1            | 10        | 2         |          |           | 2         |
+| Plectroglyphidodon lacrymatus                        | 1           |           |           | 1         | 5         | 1         | 2            | 8         |           |          |           |           |
+| Pomacentrus brachialis                               | 6           | 13        |           | 19        | 1         | 10        | 21           | 32        | 12        | 10       | 12        | 34        |
+| Pomacentrus vaiuli                                   | 5           | 3         | 24        | 32        | 2         |           | 2            | 4         | 7         | 3        | 4         | 14        |
+| SCARIDAE                                             |             |           |           |           |           |           |              |           |           |          |           |           |
+| Calotomus carolinus                                  |             |           | 1         | 1         |           |           |              |           |           |          |           |           |
+| Chlorurus japanensis                                 | 6           | 9         |           | 15        |           |           |              |           | 7         | 4        | 7         | 18        |
+| Chlorurus microrhinos                                |             |           |           |           |           |           | 1            | 1         | 1         |          |           | 1         |
+| Chlorurus sordidus                                   | 11          | 1         |           | 12        |           |           |              |           |           |          |           |           |
+| Scarus forsteni                                      |             |           | 1         | 1         | 1         |           | 1            | 2         |           |          |           |           |
+| Scarus frenatus                                      |             |           |           |           |           |           | 1            | 1         |           | 1        |           | 1         |
+| Scarus niger                                         | 2           |           |           | 2         | 1         |           |              | 1         | 1         |          |           | 1         |
+| Scarus oviceps                                       |             |           |           |           |           | 3         |              | 3         |           | 1        |           | 1         |
+| Scarus psittacus                                     | 5           |           |           | 5         | 2         | 5         | 23           | 30        |           |          |           |           |
+| SERRANIDAE                                           |             |           |           |           |           |           |              |           |           |          |           |           |
+| Cephalopholis argus                                  |             |           |           |           | 2         |           | 1            | 3         |           |          |           |           |
+| Cephalopholis urodeta                                | 1           | 2         | 2         | 5         |           | 1         |              | 1         | 3         |          | 1         | 4         |
+| Pseudanthias pascalus                                |             |           |           |           |           |           | 10           | 10        |           |          |           |           |
+| SIGANIDAE                                            |             |           |           |           |           |           |              |           |           |          |           |           |
+| Siganus argenteus                                    | 9           | 2         |           | 11        |           |           |              |           |           |          | 55        | 55        |
+| SYNODONTIDAE                                         |             |           |           |           |           |           |              |           |           |          |           |           |
+| Synodus spp.                                         |             |           |           |           |           |           |              |           |           | 1        |           | 1         |
+| TETRAODONTIDAE                                       |             |           |           |           |           |           |              |           |           |          |           |           |
+| Arothron nigropunctatus                              |             |           |           |           |           |           |              |           |           |          | 1         | 1         |
+| ZANCLIDAE                                            |             |           |           |           |           |           |              |           |           |          |           |           |
+| Zanclus cornutus                                     |             |           |           |           |           |           |              |           |           | 1        | 1         | 2         |
+|                                                      |             |           |           |           |           |           |              |           |           |          |           |           |
+| TOTALS                                               |             |           |           |           |           |           |              |           |           |          |           |           |
+| # individuals on transects<br># species on transects | 221<br>36   | 135<br>32 | 209<br>24 | 565<br>53 | 129<br>28 | 108<br>26 | 126<br>31    | 363<br>49 | 131<br>25 | 93<br>30 | 174<br>34 | 398<br>50 |
+
+Fish abundance decreased between 2001 and 2004 at the Sita Bay and Fagatele Bay sites, although remained constant between years at Cape Larsen (Figure 7). Although we surveyed 10% less area at each of the sites (ie 90 metres total (3 x 30m) in 2004 vs 1 x 100m in 2001), the magnitude of the drop in fish abundance at Sita Bay and Fagatele Bay was more than would be expected based simply on sampling effort. To account for the change in area surveyed in 2004, data from all years were converted to density (number of fish per hectare) for a more accurate comparison (Figure 8). This result mirrors the abundance data based on transect size, but shows a slight increase in density of fish at Cape Larsen, and a less marked decrease in density of fish at the other two sites. The change in sampling in 2004 to three replicate transects allows mean and error estimates to be calculated at each of the sites (Figure 8) which will allow more rigorous statistical comparisons with future survey results.
+
+![](_page_40_Figure_1.jpeg)
+
+Figure 7. Abundance of fish (number of individuals per transect) through time at three sites around Tutuila based on data from the historic fish transects. NB Data in 2004 represent the sum of three replicate 30m transects (90m total) whereas data in other years is based on a single 100m transect. Symbols represent each of the three sites; (●) Fagatele Bay, (■) Sita Bay and (▲) Cape Larsen.
+
+![](_page_40_Figure_3.jpeg)
+
+Figure 8. Abundance of fish (standardised as number of individuals per hectare) through time at three sites around Tutuila based on data from the historic fish transects. NB Data in 2004 represent the mean of three replicate 30m transects (±se) whereas data in other years is based on a single 100m transect. Symbols represent each of the three sites; (●) Fagatele Bay, (■) Sita Bay and (▲) Cape Larsen.
+
+Species richness was similar at all three sites in 2004, although it had declined slightly at Cape Larsen and Sita Bay, and remained constant at Fagatele Bay (Figure 9). As noted in the Fagatele Bay survey results, the abundance and richness of the fish communities at the three historic fish sites remained higher than the lowest levels recorded in 1988 and in fact were very similar to levels recorded in the initial survey in 1977 (Figures 8 and 9).
+
+![](_page_41_Figure_1.jpeg)
+
+Figure 9. Species richness at each of the three historic fish transect sites through time. Symbols represent each of the three sites; (●) Fagatele Bay, (■) Sita Bay and (▲) Cape Larsen.
+
+The trends in fish abundance from 2001 to 2004 at the family level at the three historic sites mirrored the patterns seen in the Fagatele Bay survey. We recorded a drop in abundance of acanthurids, chaetodontids, cirrhitids and pomacentrids at all three sites. Labrids had declined at two of the three sites (Fagtele Bay and Sita Bay) but were considerably more abundant at Cape Larsen in 2004 than they had been in 2001. Caesionids only occurred at Fagatele Bay, but were considerably more common in 2004 than they had been in 2001, as were serranids (although their abundance had changed little at the other two sites). Interestingly, scarids had increased in abundance at all three sites (Figures 10 & 11).
+
+![](_page_42_Figure_0.jpeg)
+
+Figure 10. Trends in fish abundance for common fish species for each of the three historic fish transect sites. Data is based on total number of fish recorded along a 100m transect (1977-2001) and three replicate 30m transects (90m total) in 2004. Symbols represent each of the three sites; (●) Fagatele Bay, (■) Sita Bay and (▲) Cape Larsen.
+
+![](_page_43_Figure_0.jpeg)
+
+Figure 11. Trends in fish abundance for common fish species for each of the three historic fish transect sites, standardised to number of fish per hectare. Data is based on fish recorded along a single 100m transect in the years 1977-2001 and the mean (±se) of three replicate 30m transects in 2004. Symbols represent each of the three sites; (●) Fagatele Bay, (■) Sita Bay and (▲) Cape Larsen.
+
+#### **DISCUSSION**
+
+#### **Fagatele Bay National Marine Sanctuary**
+
+#### *Coral Communities in Fagatele Bay*
+
+The surveys of coral communities in Fagatele Bay National Marine Sanctuary in September 2004 indicate continued improvement in the condition of the reefs within the bay. Coral abundance and cover had increased at most sites and depths in the bay from 2001 to 2004. There was an apparent decline in coral communities at some depths and at some sites, although overall there was no evidence of major declines across the bay, and fluctuations in coral cover and abundance most likely reflect natural levels of variation. Importantly, there was no evidence that the coral communities at Fagatele Bay had been affected by Hurricane Heta, which hit Tutuila on 5 January 2004. This is probably not surprising given the main impacts from the hurricane were focused on the northern side of the island (N. Daschbach and P. Craig, pers comm.).
+
+Coral communities on the reef slope in Fagatele Bay remain dominated by Acroporiids (especially *Montipora* spp.) and the fast-growing *Porites rus*. *Galaxea fasicularis* also continues to be one of the most dominant coral species in the bay, which most likely reflects its ability to fragment and spread.
+
+The reef flat communities appear to be recovering following the major die-off in 1998 associated with an extreme low-tide event (see Birkeland et al. 2004). There is evidence of an increase in coral abundance and cover at the two reef flat sites since the 1998 surveys, and coral communities appear to be approaching levels of abundance and cover equivalent to those recorded in 1988.
+
+The change in sampling method for corals, from the point-quarter method to belt transects, appears to have been effective. In a similar period of time, we were able to sample almost three times as many coral colonies in the bay as had been sampled in previous years. As a result we recorded at least eleven new coral species in Fagatele Bay, taking into account variation in coral identification between years.
+
+The main limitation to the belt-transect method used in the 2004 surveys was the constraint in measuring the exact size of each coral colony. As corals were only categorised into size-classes, it is not possible to directly compare the average size of colonies in the bay among years. However, from the distribution of colonies within the seven different size classes, it is evident that most colonies within Fagatele Bay are small (<20cm in diameter) with only a few reaching sizes >40cm diameter. This is consistent with the range of average sizes of colonies recorded in the 2001 surveys (average colony diameter 7cm – 26.6cm, Birkeland et al. 2004). However, there are some spectacular exceptions to this rule (see below).
+
+The belt-transect survey method instigated in 2004 to survey corals in Fagatele Bay resulted in a much more comprehensive population sample, although even using this method, it was apparent that some of the key coral colonies within the bay were not being represented in the surveys. In an attempt to record the presence and highlight the conservation value of these key coral
+
+colonies, we have documented details of the corals below as key conservation features of Fagatele Bay.
+
+#### • Dynamite Bommie
+
+This is a very large colonie of *Porites lutea* that exceeds 10m in diameter. It occurs in relatively shallow water near the 6m transect along Site 4. The GPS coordinates of the bommie are in Appendix 1. This colony was damaged by a dynamite blast just prior to the 2001 survey (see Birkeland et al. 2004). In the vicinity of the dynamite bommie (towards and on Site 3) are at least six other *Porites* sp. coral heads larger than 1m in diameter. All these colonies are likely to be many hundreds of years old and importantly they are a key habitat feature for reef fish in shallow water. Large schools of parrotfish, emperors and snappers have been observed in the vicinity of these coral heads.
+
+# • Mono-specific stands
+
+In the reef area immediately west of Site 4 are a number of large monospecific stands of coral. In the deeper reef area there is an extensive area of *Pachyseris rugosa*. At its shallowest point it is in 15m of water, and continues to below 30m depth. The diameter of the stand is in excess of 50m. Many of the individual *P. rugosa* corals within this mono-specific stand are also very large relative to the normal size of corals of this species. This is the largest stand of this species ever seen by the authors, with a collective experience of 60 years of field research on coral reefs. The time frame required to achieve local dominance of this magnitude by such a relatively slow growing species would be many decades or, more likely, centuries.
+
+Further up the slope west of Site 4 and in shallower water above the *P. rugosa* stand are large areas (>10m diameter) of *Porites rus*, *Hydnophora rigida* and *Echinorpora gemmacea*. There are also several unusually large (> 2m diameter) specimens of *Merulina ampliata* between the mono-specific stands mentioned above. Unfortunately there was evidence of considerable recent anchor damage in the *H. rigida* stand, which may compromise its conservation value. In the area even further west of Site 4 and towards Site 5, at approximately 6-10m depth, the reef is dominated by large plates of *Acropora hyacinthus*. The coral cover approaches 100% due to the high density of large, overlapping plates.
+
+The occurrence of so many large mono-specific stands of coral in the general vicinity of Sites 4 and 5 suggests the area may well have interesting hydrodynamic or biological qualities that promote the dominance of a few species, and which facilitate colonies persisting through time and attaining large size.
+
+Previous surveys (Birkeland et al. 1987, 1996, 2003, 2004; Green et al 1999) noted a large stand (>6m diameter) of *Echinopora hirsuitissima* at 9m at Site 2. They suggested the coral had survived the 1979 outbreak of *Acanthaster planci* as it was not a favoured prey species of the starfish. It also survived the hurricanes in the early 1990s, and by 1995 was one of few areas of high coral cover in the bay. Unfortunately, we found that this colony was largely dead in the 2004 surveys, although small patches of tissue remained alive and may be enough to ensure the continued persistence of the colony.
+
+Future surveys targeted at monitoring the coral communities within Fagatele Bay should incorporate some measure of the persistence or condition of these key conservation features. Possible options include recording detail of the locations (based on GPS coordinates), size or extent, and overall condition of the colonies.
+
+# *Fish communities in Fagatele Bay*
+
+The fish communities in Fagatele Bay showed a slight reduction in abundance at all sites and all depths from 2001 to 2004. The drop is not dramatic and has occurred across most species and families. The decline most likely reflects seasonal variation in fish abundance: the 2004 surveys were done in September (late winter - early spring) whereas previous surveys were done in the summer recruitment season. The drop in fish abundance at other sites around Tutuila is consistent with a seasonal effect, although there may also have been a population decline associated with impacts on the coral communities by Hurricane Heta. The fact that corals in Fagatele Bay showed no evidence of hurricane damage makes this latter explanation unlikely.
+
+Importantly, there is evidence from the 2004 surveys that parrotfish (Family Scaridae) are increasing in abundance and size in Fagatele Bay. This may be the first sign that parrotfish populations are starting to recover from the destructive SCUBA fishery which was banned in 2001 and was particularly damaging to these fishes (Page 1998; Green 2002).
+
+However, despite this encouraging sign, the coral reef fish populations of Fagatele Bay still show signs of overfishing. Several large species that are characteristic of unfished reefs in the Indo-Pacific remain conspicuous by their absence or small size in the Sanctuary. These include species such as maori wrasse (*Cheilinus undulatus*), sharks, and larger species of serranids and scarids, all of which are know to be particularly vulnerable to fishing (Green 2002). Given that many of these species are more abundant elsewhere in Samoa (Green 2002), these results indicate that Fagatele Bay is still feeling the impacts of overfishing. Coral reef fish assemblages can take >5 years to start to show the benefits of improved fisheries management. Therefore, if fishing has declined on the reefs in the Sanctuary, we would expect to see increased abundance and biomass of key fisheries species in the Fagatele Bay by the next survey (due in 2007). Incorporating measures of biomass in future surveys would be especially valuable in monitoring important fisheries species
+
+#### **Reefs around Tutuila**
+
+#### *Coral communities in Pago Pago Harbour (including the Aua Transect)*
+
+Coral populations at Rainmaker continue to show signs of improvement, with coral cover and abundance increasing between the 2001 and 2004 surveys. Notably we are starting to see quite a few recruits in the area, especially in shallow water, which is indicative that the reefs are showing signs of recovery following management measures to reduce pollution in the harbour (Green 2002; Peshut 2003). There were 50 small colonies (<5cm diameter) recorded at 3m depth at Rainmaker, and five of these were juvenile Acroporids.
+
+Coral communities on the reef flat along the Aua Transect are also showing continued signs of improvement. While coral diversity remained relatively low, the abundance and percent cover of corals has increased dramatically from 1999 to 2004. This may be related to the removal of the
+
+wrecks on the reef flat near the Aua Transect (see Birkeland and Belliaveau 2000), but may also reflect the natural ability of populations of the common coral species to rapidly expand i.e. *Acropora nana* easily fragments facilitating the rapid formation of new colonies. Surprisingly, however, coral populations on the reef slope at Aua appear to have declined dramatically to less than half that recorded in 2001. The reef slope populations are unlikely to have been affected by either by Hurricane Heta (which struck the northern side of Tutuila, and is therefore unlikely to have affected the harbour) or the removal of the wreck from the adjacent reef flat (see Birkeland and Belliaveau 2000). There appears to be no logical explanation for this sudden decline, especially since the reef flat populations in the same area appear to be doing well.
+
+Overall these results from the 2004 surveys of coral communities in Pago Pago Harbour suggest that the reefs are starting to show signs of recovery following management measures to reduce pollution in the harbour (Green 2002; Peshut 2003), although the decline on the slope at Aua may be cause for concern and it is important that the corals at this site continue to be monitored.
+
+#### *Fish communities around Tutuila (Historic Fish Transects)*
+
+Fish abundance and species richness has dropped slightly on the three historic fish transects to levels similar to those recorded in 1998. The decline may be associated with overfishing, Hurricane Heta (especially at Cape Larsen and Sita Bay which are on the northern side of Tutuila Island – although this is unlikely to explain declines in Fagatele Bay on the southern side), or may reflect the slight change in survey method (we surveyed 10m less in 2004 than in previous years). However, the most likely explanation for the drop in fish abundance is seasonal variation since surveys were conducted in the early spring (September) of 2004, rather than late summer (March) as in previous years. Certainly the fish populations remain similar to those recorded in 1977 which suggests there is little cause for alarm, although it will be important that these sites continue to be monitored in the future, preferably in late winter to avoid the recruitment season. It will also be necessary to continue to monitor fish size to compare counts from different years and seasons (to understand the influence of recruitment pulses in previous surveys).
+
+#### **CONCLUSIONS AND RECOMMENDATIONS**
+
+- Coral populations in Fagatele Bay appear relatively healthy. There is evidence of continued but slow recovery of coral communities through time.
+- Coral populations on the reef slope in Pago Pago Harbour are also showing signs of recovery. There is evidence of new coral recruitment at Rainmaker, although there has been an unexplained decline in coral populations on the reef slope at Aua.
+- The corals along the reef flat on the Aua Transect are also continuing to recover, possibly as a result of improved management to reduce pollution in the harbour.
+- The slight drop in fish populations recorded in Fagatele Bay and at the three historic fish transects in the 2004 surveys (compared with levels recorded in 2001) is most likely associated with seasonal variation in populations. Fish populations remain well above the lowest levels recorded in 1988.
+- An increase in size and abundance of parrotfish (Family Scaridae) may be the first evidence that fish populations in Fagatele Bay are recovering from overfishing, and that the ban on SCUBA fishing has been successful. However, the absence of key large reef fish species indicates there are still effects of fishing in the Sanctuary.
+- Switching to belt-transects for the coral surveys in Fagatele Bay and Pago Pago Harbour proved successful. We were able to sample many more corals in a similar period of time. We recommend this approach continue to be used for the Fagatele surveys and to facilitate comparison with the Archipelago-wide surveys.
+- Several mono-specific stands of scleractinian corals in the centre of Fagatele Bay were identified. These have high conservation value and require ongoing monitoring.
+- We recommend future surveys be conducted in September to avoid the summer recruitment season for reef fish. In doing so, it is important that the survey methods continue to estimate the size of each fish. This will allow for an interpretation of the data based on size structure, which should be possible back to 1998 when sizes were first recorded (but have not been analysed to date). Alternatively, juveniles can be removed from the dataset to allow for a comparison of adult populations among surveys. Sizes can also be used to monitor fisheries biomass in the Sanctuary in the long term.
+
+#### **REFERENCES**
+
+Birkeland, C., Belliaveau, S.A. 2000. Resurvey of the Aua Transect After the Ship Removal. Report to the National Oceanic and Atmospheric Administration U.S. Department of Commerce. 2 pp.
+
+Birkeland, C., Randall, R., Wass, R., Smith, B, Wilkens, S. 1987. Biological resource assessment of the Fagatele Bay National Marine Sanctuary. NOAA Technical Memorandum NOS MEMD 3. 232 pp.
+
+Birkeland, C., Randall, R., Amesbury, S. 1994. Coral and reef-fish assessment of the Fagatele Bay National Marine Sanctuary. Report to the National Oceanic and Atmospheric Administration U.S. Department of Commerce. 126 pp.
+
+Birkeland, C., Randall, R. H., Green, A.L, Smith, B.D., Wilkins, S. 1996. Changes in the coral reef communities of Fagatele Bay National Marine Sanctuary and Tutuila Island (American Samoa) over the last two decades. Report to the National Oceanic and Atmospheric Administration, U.S. Department of Commerce, 225 pp.
+
+Birkeland, C., Randall, R.H., Green, A.L., Smith, B.D., Wilkins, S. 2003. Changes in the coral reef communities of Fagatele Bay National Marine Sanctuary and Tutuila Island (American Samoa), 1982-1995. Fagatele Bay National Marine Sanctualry Science Series 2003-1.
+
+Birkeland, C., Green, A., Mundy, C., Miller, K. 2004. Long term monitoring of Fagatele Bay National Marine Sanctuary and Tutuila Island (American Samoa) 1985 to 2001: summary of surveys conducted in 1998 and 2001. Report to the National Oceanic and Atmospheric Administration, U.S. Department of Commerce, 158 pp.
+
+Dahl, A.L., Lamberts, A.E. 1977. Environmental impact on a Samoan Coral Reef: a resurvey of Mayor's 1917 transect. Pacific Science 31: 209-319.
+
+Fisk, D., Birkeland, C. 2002 Status of coral communities in American Samoa. A re-survey of long-term monitoring sites. Report to the Department of Marine and Wildlife Resources, PO Box 3730, Pago Pago, American Samoa. 96799, 134pp.
+
+Green, A.L. 1996. Status of the coral reefs of the Samoan Archipelago Report to the Department of Marine and Wildlife Resources, PO Box 3730, Pago Pago, American Samoa. 96799, 120pp
+
+Green A.L. 2002. Status of coral reefs on the main volcanic islands of American Samoa: a resurvey of long term monitoring sites (benthic communities, fish communities, and key macro invertebrates). A report prepared for the Department of Marine and Wildlife Resources, Pago Pago, American Samoa. 96799. 135pp
+
+Green, A.L., Birkeland, C.E., Randall, R.H. 1999 Twenty years of disturbance and change in Fagatele Bay National Marine Sanctuary, American Samoa. Pacific Science 53(4): 376- 400. Green, A.L., Birkeland, C.E., Randall, R.H., Smith, B.D., Wilkins, S. 1997. 78 years of coral reef degradation in Pago Pago Harbour: a quantitative record. Proc. 8th Int Coral Reef Sym 2: 1883-1888.
+
+Krebs, C.J. 1999. Ecological Methodology. 2nd ed. Addison, Wesley, Longman, Menlo Park, California. 620 pp.
+
+Mundy, C. 1996. A quantitative survey of the corals of American Samoa. Report to the Department of Marine and Wildlife Resources, PO Box 3730, Pago Pago, American Samoa. 96799, 24 pp.
+
+Mayor, A. 1924. Structure and ecology of Samoan reefs. Papers from the Department of Marine Biology, Carnegie Institution of Washington 19: 1-25, pl. 1-8
+
+Page, M. 1998 The biology, community structure, growth and artisanal catch of parrotfishes of American Samoa. Report to the Department of Marine and Wildlife Resources, PO Box 3730, Pago Pago, American Samoa. 96799, 87 pp.
+
+Peshut, P. 2003 Monitoring demonstrates management success to improve water quality in Pago Pago Harbor, American Samoa. In: Wilkinson, C., Green, A., Almany, J., Dionne, S. Monitoring Coral Reef Marine Protected Areas. A Practical Guide on How Monitoring Can Support Effective Management of MPAs. Australian Institute of Marine Science and the IUCN Marine Program, Townsville, Australia, 68 pp.
+
+Wass, R.C. 1982 Characterization of the inshore Samoan reef fish communities. Report to the Department of Marine and Wildlife Resources, PO Box 3730, Pago Pago, American Samoa. 96799, 48 pp
+
+**APPENDIX 1 – Geographic locations of sites** 
+
+| S<br>i<br>te                                        |                       | G<br>S<br>Co<br>P       | d<br>ina<br>te<br>or<br>s              |                                        | De<br>ip<br>t<br>io<br>sc<br>r<br>n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|-----------------------------------------------------|-----------------------|-------------------------|----------------------------------------|----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                     |                       |                         | De<br>im<br>l<br>c<br>a                | De<br>im<br>l<br>c<br>a                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                     | De<br>g<br>re<br>es   | M<br>in<br>te<br>s<br>u | ds<br>se<br>co<br>n                    | in<br>te<br>m<br>s<br>u                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| F<br>A<br>G<br>A<br>T<br>E<br>L<br>E<br>B<br>A<br>Y |                       |                         |                                        |                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Tr<br>1<br>t<br>an<br>se<br>c<br>(<br>1<br>2m<br>)  | 1<br>4<br>1<br>7<br>0 | 2<br>2<br>4<br>5        | 0.<br>2<br>0<br>4<br>0.<br>7<br>5<br>3 | 1<br>2.<br>2<br>4                      | Tr<br>1<br>is<br>loc<br>d<br>in<br>fro<br>f s<br>k c<br>im<br>ly<br>i<br>dw<br>be<br>t<br>te<br>t o<br>te<br>tw<br>an<br>se<br>c<br>a<br>n<br>om<br>e r<br>oc<br>av<br>es<br>a<br>p<br>p<br>rox<br>a<br>m<br>ay<br>ee<br>n<br>Ma<br>ta<br>to<br>loa<br>R<br>d<br>ig<br>d<br>S<br>te<br>Po<br>in<br>t.<br>T<br>he<br>i<br>te<br>be<br>f<br>irm<br>d<br>by<br>ky<br>le<br>dg<br>u<br>e a<br>n<br>p<br>s<br>s<br>ca<br>n<br>co<br>n<br>e<br>a<br>ro<br>c<br>e<br>j<br>t<br>t<br>ing<br>t u<br>de<br>te<br>t a<br>de<br>t<br>h o<br>f<br>1<br>2m<br>Fu<br>t<br>he<br>in<br>to<br>t<br>he<br>ba<br>(<br>bo<br>t<br>2<br>0m<br>fu<br>t<br>he<br>u<br>o<br>u<br>n<br>rw<br>a<br>r a<br>p<br>r<br>r<br>y<br>a<br>u<br>r<br>r<br>in<br>),<br>t<br>he<br>is<br>de<br>f<br>ing<br>f r<br>f<br>(<br>>3<br>0m<br>de<br>)<br>j<br>t<br>t<br>ing<br>t<br>in<br>to<br>t<br>he<br>ba<br>re<br>a<br>ep<br>er<br>o<br>ee<br>ep<br>u<br>o<br>u<br>y.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 2<br>Tr<br>t<br>an<br>se<br>c                       |                       |                         |                                        |                                        | 2<br>1<br>0<br>0m<br>f<br>(<br>)<br>Tr<br>t<br>is<br>loc<br>te<br>d a<br>bo<br>t<br>t o<br>t<br>he<br>ba<br>l-ro<br>k p<br>in<br>t<br>Ma<br>ta<br>to<br>loa<br>R<br>i<br>dg<br>an<br>se<br>c<br>a<br>es<br>sa<br>c<br>o<br>e<br>u<br>w<br>u<br>u                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| (<br>1<br>2m<br>)                                   | 1<br>4<br>1<br>7<br>0 | 2<br>1<br>4<br>5        | 0.<br>9<br>4<br>7<br>0.<br>7<br>6<br>5 | 6.<br>8<br>2<br>5<br>4<br>9<br>5.      | he<br>i<br>de<br>f<br>he<br>ba<br>I<br>be<br>loc<br>d<br>by<br>f<br>in<br>d<br>ing<br>f g<br>l<br>ly<br>(<br>9m<br>de<br>)<br>t<br>t s<br>t<br>t c<br>te<br>5-<br>on<br>e<br>as<br>o<br>y.<br>an<br>a<br>a<br>ree<br>u<br>ep<br>i<br>h a<br>lar<br>"tw<br>in<br>"<br>Ps<br>he<br>d<br>loc<br>d<br>in<br>he<br>i<br>d<br>d<br>le<br>d r<br>is<br>ing<br>bo<br>he<br>t<br>te<br>t<br>t<br>w<br>g<br>e<br>am<br>mo<br>co<br>ra<br>a<br>a<br>m<br>an<br>a<br>ve<br>bs<br>tra<br>tu<br>fro<br>de<br>t<br>h o<br>f a<br>bo<br>t<br>4m<br>(<br>i<br>dg<br>i<br>t<br>h<br>in<br>t<br>he<br>l<br>ly<br>).<br>Ju<br>t e<br>t o<br>f<br>i<br>t<br>su<br>m<br>m<br>a<br>p<br>u<br>on<br>a<br>r<br>e w<br>g<br>u<br>s<br>as                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| (<br>6m<br>)                                        | 1<br>4<br>1<br>7<br>0 | 2<br>1<br>4<br>5        | 0.<br>9<br>6<br>0.<br>7<br>8<br>2      | 5<br>7.<br>6                           | (<br>t<br>he<br>t s<br>i<br>de<br>f<br>t<br>he<br>l<br>ly<br>),<br>is<br>tee<br>l<br>loo<br>h<br>ic<br>h<br>is<br>d<br>to<br>ho<br>l<br>d<br>t<br>he<br>ing<br>on<br>e<br>as<br>o<br>g<br>u<br>a s<br>p<br>w<br>us<br>e<br>m<br>oo<br>r<br>bu<br>t<br>t<br>ha<br>t s<br>i<br>te<br>he<br>i<br>t<br>is<br>in<br>lac<br>(<br>d w<br>he<br>t<br>he<br>t<br>he<br>is<br>to<br>d<br>to<br>be<br>loc<br>te<br>d<br>).<br>oy<br>a<br>w<br>n<br>p<br>e<br>an<br>re<br>rm<br>r u<br>se<br>a<br>f a<br>T<br>he<br>loo<br>is<br>loc<br>te<br>d o<br>to<br>l<br>d c<br>l<br>he<br>d,<br>h<br>ic<br>h r<br>ise<br>to<br>bo<br>t<br>4m<br>be<br>low<br>t<br>he<br>p<br>a<br>n<br>p<br>o<br>n o<br>or<br>a<br>a<br>w<br>s<br>a<br>u                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Ps<br>am<br>mo<br>co<br>ra<br>he<br>d<br>a          | 1<br>4<br>1<br>0<br>7 | 2<br>1<br>4<br>5        | 0.<br>9<br>4<br>5<br>0.<br>6<br>7<br>5 | 2<br>4<br>5<br>7.                      | fac<br>).<br>T<br>he<br>is<br>loc<br>d<br>in<br>h<br>is<br>l<br>ly,<br>he<br>Ps<br>he<br>d.<br>tra<br>t<br>te<br>t<br>t<br>su<br>r<br>e<br>ns<br>ec<br>a<br>g<br>n<br>ea<br>r<br>am<br>mo<br>co<br>ra<br>a<br>u<br>Tr<br>he<br>de<br>hs<br>be<br>loc<br>d<br>by<br>im<br>ing<br>d<br>ire<br>ly<br>do<br>he<br>ts<br>t o<br>t<br>t<br>te<br>t<br>t<br>an<br>se<br>c<br>a<br>r<br>p<br>ca<br>n<br>a<br>sw<br>m<br>c<br>up<br>o<br>r<br>wn<br>l<br>ly.<br>g<br>u<br>T<br>he<br>lar<br>Ec<br>h<br>ino<br>tc<br>h,<br>h<br>ic<br>h w<br>iou<br>ly<br>d<br>to<br>he<br>lp<br>f<br>in<br>d<br>t<br>he<br>i<br>te<br>(<br>bu<br>t<br>g<br>e<br>p<br>or<br>a p<br>a<br>w<br>as<br>p<br>rev<br>s<br>us<br>e<br>s<br>h<br>ic<br>h w<br>t<br>ly<br>de<br>d<br>in<br>2<br>0<br>0<br>4<br>),<br>is<br>loc<br>te<br>d<br>in<br>t<br>he<br>t g<br>l<br>ly<br>t o<br>f<br>t<br>he<br>lar<br>w<br>as<br>m<br>os<br>a<br>a<br>n<br>ex<br>u<br>we<br>s<br>g<br>e<br>Ps<br>he<br>d.<br>T<br>h<br>is<br>i<br>te<br>is<br>loc<br>te<br>d s<br>t<br>h o<br>f a<br>lar<br>l<br>ly<br>t<br>he<br>t<br>he<br>i<br>de<br>am<br>mo<br>co<br>ra<br>a<br>s<br>a<br>ou<br>g<br>e g<br>u<br>on<br>so<br>u<br>rn<br>s<br>f<br>"f<br>f r<br>f<br>f<br>t<br>he<br>lar<br>ing<br>" o<br>t<br>ha<br>t<br>j<br>ts<br>t<br>in<br>to<br>t<br>he<br>i<br>d<br>d<br>le<br>t<br>he<br>ba<br>o<br>g<br>e<br>er<br>ee<br>u<br>ou<br>m<br>o<br>y.                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 3<br>Tr<br>t<br>an<br>se<br>c<br>(<br>1<br>2m<br>)  | 1<br>4<br>1<br>7<br>0 | 2<br>1<br>4<br>5        | 0.<br>8<br>9<br>6<br>0.<br>7<br>8<br>6 | 3.<br>6<br>5<br>7<br>4<br>7.<br>1<br>6 | 3<br>fo<br>Tr<br>t<br>l<br>low<br>t<br>he<br>in<br>in<br>to<br>t<br>he<br>be<br>h<br>t<br>hro<br>h s<br>lar<br>Po<br>i<br>tes<br>an<br>se<br>c<br>s<br>m<br>a<br>av<br>a<br>ac<br>ug<br>om<br>e<br>g<br>e<br>r<br>bo<br>ies<br>T<br>h<br>is<br>i<br>is<br>loc<br>d o<br>bro<br>d e<br>f r<br>f,<br>i<br>h a<br>du<br>l<br>lon<br>te<br>te<br>t<br>mm<br>s<br>a<br>n a<br>a<br>xp<br>an<br>se<br>o<br>ee<br>w<br>ve<br>ry<br>g<br>ra<br>a<br>g<br>lop<br>do<br>to<br>t<br>he<br>bo<br>t<br>to<br>f<br>t<br>he<br>f.<br>T<br>he<br>ha<br>l<br>low<br>tra<br>ts<br>(<br>3,<br>6 a<br>d<br>9m<br>)<br>s<br>e<br>wn<br>m<br>o<br>re<br>e<br>s<br>ns<br>ec<br>n<br>ar<br>e<br>loc<br>te<br>d o<br>t<br>he<br>he<br>t<br>he<br>de<br>t<br>hs<br>te<br>d<br>fo<br>t<br>he<br>f<br>irs<br>t<br>t<br>im<br>a<br>n<br>a<br>rea<br>w<br>re<br>se<br>p<br>a<br>re<br>en<br>co<br>un<br>re<br>r<br>e<br>im<br>ing<br>do<br>t<br>he<br>lop<br>fro<br>t<br>he<br>in<br>in<br>to<br>t<br>he<br>be<br>h,<br>t<br>he<br>t<br>ha<br>t<br>he<br>sw<br>m<br>wn<br>s<br>e<br>m<br>m<br>a<br>av<br>a<br>ac<br>ra<br>r<br>n o<br>n<br>f<br>fro<br>/n<br>"f<br>f r<br>f<br>tee<br>t o<br>t<br>he<br>ing<br>" o<br>j<br>t<br>t<br>ing<br>t<br>in<br>to<br>t<br>he<br>ba<br>T<br>he<br>1<br>2m<br>s<br>p<br>ree<br>n<br>n<br>ea<br>r<br>er<br>ee<br>u<br>o<br>u<br>y.<br>f<br>f<br>fro<br>tra<br>t<br>is<br>loc<br>te<br>d o<br>t<br>he<br>t<br>he<br>i<br>de<br>t<br>he<br>ing<br>bo<br>t<br>1<br>0m<br>t<br>he<br>t<br>he<br>ns<br>ec<br>a<br>n<br>no<br>r<br>rn<br>s<br>o<br>er<br>a<br>u<br>o<br>u<br>m<br>w<br>re<br>f<br>ing<br>he<br>in<br>f<br>(<br>ie<br>he<br>i<br>de<br>f<br>he<br>he<br>i<br>f<br>low<br>do<br>he<br>ts<br>t<br>t<br>t s<br>t<br>t<br>t<br>er<br>me<br>e<br>m<br>a<br>ree<br>on<br>e<br>as<br>o<br>av<br>a w<br>re<br>s<br>wn<br>f s<br>lop<br>).<br>ree<br>e |
+| Tr<br>4<br>t<br>an<br>se<br>c<br>(<br>1<br>2m<br>)  | 1<br>4<br>1<br>7<br>0 | 2<br>1<br>4<br>5        | 0.<br>8<br>5<br>3<br>0.<br>7<br>6<br>2 | 5<br>1.<br>1<br>8<br>4<br>5.<br>7<br>2 | Tr<br>4<br>is<br>be<br>loc<br>d<br>by<br>f<br>in<br>d<br>ing<br>dy<br>i<br>bo<br>ie,<br>h<br>ic<br>h<br>is<br>loc<br>d<br>in<br>ha<br>l<br>low<br>t<br>t<br>te<br>te<br>te<br>an<br>se<br>c<br>s<br>a<br>na<br>m<br>mm<br>w<br>a<br>s<br>h<br>is<br>(<br>bo<br>4m<br>de<br>h<br>).<br>T<br>he<br>be<br>f<br>in<br>d<br>he<br>bo<br>ie<br>is<br>te<br>t<br>tra<br>t<br>t a<br>t<br>t<br>t w<br>to<br>t<br>to<br>wa<br>r o<br>n<br>ns<br>ec<br>a<br>u<br>p<br>s<br>ay<br>mm<br>im<br>t<br>he<br>f s<br>lop<br>tow<br>ds<br>l<br>l ro<br>ky<br>in<br>t<br>(<br>i<br>t<br>h w<br>h<br>i<br>te<br>k<br>)<br>be<br>tw<br>t<br>he<br>sw<br>ov<br>er<br>re<br>e<br>e<br>ar<br>a<br>sm<br>a<br>c<br>p<br>o<br>w<br>ro<br>c<br>ee<br>n<br>tw<br>be<br>he<br>t<br>he<br>te<br>i<br>de<br>f<br>t<br>he<br>f<br>f<br>la<br>t.<br>T<br>he<br>tra<br>t p<br>j<br>t w<br>t o<br>f<br>o<br>ac<br>s o<br>n<br>w<br>es<br>rn<br>s<br>o<br>re<br>e<br>ns<br>ec<br>as<br>se<br>s<br>us<br>es<br>On<br>t<br>he<br>bo<br>ie.<br>dy<br>i<br>te<br>bo<br>ie<br>ha<br>be<br>loc<br>te<br>d,<br>t<br>he<br>t<br>he<br>de<br>t<br>hs<br>t<br>he<br>mm<br>ce<br>na<br>m<br>mm<br>s<br>en<br>a<br>o<br>r<br>p<br>ca<br>n<br>n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+| S<br>i<br>te                                       |                       | G<br>P<br>S<br>Co       | d<br>ina<br>te<br>or<br>s                      |                                                    | De<br>ip<br>t<br>io<br>sc<br>r<br>n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|----------------------------------------------------|-----------------------|-------------------------|------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                    | De<br>g<br>re<br>es   | M<br>in<br>te<br>s<br>u | De<br>im<br>l<br>c<br>a<br>ds<br>se<br>co<br>n | De<br>im<br>l<br>c<br>a<br>in<br>te<br>m<br>s<br>u |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                                                    |                       |                         |                                                |                                                    | be<br>loc<br>d<br>by<br>im<br>ing<br>d<br>do<br>he<br>f s<br>lop<br>fro<br>he<br>T<br>he<br>de<br>te<br>t<br>t<br>tw<br>a<br>sw<br>m<br>p<br>an<br>wn<br>re<br>e<br>e<br>m<br>re<br>o<br>ep<br>er<br>u<br>(<br>9<br>&<br>1<br>2m<br>)<br>loc<br>d o<br>he<br>i<br>de<br>f<br>he<br>in<br>ing<br>in<br>tra<br>ts<br>te<br>t<br>te<br>t<br>to<br>ns<br>ec<br>ar<br>e<br>a<br>n<br>es<br>rn<br>s<br>o<br>m<br>a<br>av<br>a<br>ru<br>nn<br>w<br>he<br>be<br>h<br>(<br>j<br>/a<br>bo<br>he<br>lar<br>Pa<br>hy<br>is<br>lon<br>in<br>de<br>fro<br>1<br>5-<br>t<br>t n<br>t<br>te<br>ac<br>us<br>ea<br>r<br>ve<br>g<br>e<br>c<br>se<br>r<br>co<br>y<br>ep<br>er<br>wa<br>r<br>m<br>3<br>0m<br>).<br>No<br>te<br>T<br>he<br>tw<br>tra<br>ts<br>be<br>loc<br>te<br>d<br>fu<br>t<br>he<br>t<br>t<br>ha<br>t<br>he<br>:<br>se<br>o<br>ns<br>ec<br>ma<br>y<br>no<br>w<br>a<br>r<br>r e<br>as<br>n<br>y<br>we<br>re<br>in<br>t<br>he<br>f<br>irs<br>t<br>tw<br>o s<br>urv<br>ey<br>s. |
+| Tr<br>t<br>5<br>an<br>se<br>c<br>(<br>)<br>1<br>2m | 1<br>4<br>1<br>0<br>7 | 2<br>1<br>4<br>6        | 0.<br>7<br>6<br>8<br>0.<br>0<br>0<br>2         | 4<br>6.<br>0<br>8<br>0.<br>1<br>2                  | Tr<br>t<br>5<br>is<br>loc<br>te<br>d<br>in<br>t<br>he<br>inn<br>te<br>t o<br>f<br>t<br>he<br>ba<br>j<br>t<br>in<br>fro<br>t o<br>f a<br>j<br>d<br>an<br>se<br>c<br>a<br>er<br>we<br>s<br>rn<br>p<br>ar<br>y,<br>us<br>n<br>ag<br>g<br>e<br>fac<br>l<br>low<br>tc<br>h o<br>t<br>he<br>k<br>e<br>p<br>a<br>n<br>ro<br>c<br>e.<br>y                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Tr<br>6<br>t<br>an<br>se<br>c<br>(<br>1<br>2m<br>) | 1<br>4<br>1<br>7<br>0 | 2<br>1<br>4<br>6        | 0.<br>9<br>5<br>3<br>0.<br>0<br>8<br>1         |                                                    | Tr<br>6<br>is<br>loc<br>d o<br>he<br>ins<br>i<br>de<br>dg<br>f a<br>bm<br>d r<br>i<br>dg<br>j<br>ing<br>fro<br>he<br>t<br>te<br>t<br>t<br>t<br>t<br>t<br>an<br>se<br>c<br>a<br>n<br>e<br>e o<br>su<br>er<br>g<br>e<br>e<br>u<br>o<br>u<br>m<br>in<br>t o<br>t<br>he<br>te<br>i<br>de<br>f<br>t<br>he<br>ba<br>(<br>Fa<br>te<br>le<br>Po<br>in<br>t<br>).<br>p<br>o<br>n<br>w<br>es<br>rn<br>s<br>o<br>y<br>g<br>a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Dy<br>i<br>te<br>na<br>m<br>Bo<br>ie<br>mm         | 1<br>4<br>1<br>0<br>7 | 2<br>1<br>4<br>5        | 0.<br>8<br>4<br>8<br>0.<br>6<br>8<br>8         |                                                    | T<br>h<br>is<br>is<br>lar<br>lon<br>f<br>Po<br>i<br>tes<br>lu<br>tea<br>t<br>ha<br>t<br>is<br>te<br>t<br>ha<br>1<br>0m<br>in<br>d<br>iam<br>te<br>I<br>t<br>a v<br>er<br>y<br>g<br>e c<br>o<br>y<br>o<br>r<br>g<br>rea<br>r<br>n<br>e<br>r.<br>6m<br>in<br>la<br>t<br>ive<br>ly<br>ha<br>l<br>low<br>te<br>t<br>he<br>tra<br>t a<br>lon<br>Tr<br>t<br>4.<br>oc<br>cu<br>rs<br>re<br>s<br>a<br>r n<br>ea<br>r<br>ns<br>ec<br>g<br>an<br>se<br>c<br>w                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| A.<br>hy<br>in<br>hu<br>t<br>ac<br>s               |                       |                         |                                                |                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 1                                                  | 1<br>4<br>1<br>7<br>0 | 2<br>1<br>4<br>5        | 0.<br>7<br>8<br>5<br>0.<br>7<br>9<br>1         | 4<br>7.<br>1<br>4<br>7.<br>4<br>6                  | T<br>he<br>lve<br>in<br>ha<br>he<br>f<br>he<br>lar<br>i<br>f<br>ic<br>t<br>tw<br>ts<br>t<br>t r<br>t<br>t<br>te<br>t o<br>t<br>se<br>re<br>p<br>res<br>en<br>e<br>p<br>o<br>ep<br>res<br>en<br>ex<br>n<br>g<br>e m<br>on<br>os<br>p<br>ec<br>ta<br>d o<br>f<br>Ac<br>hy<br>in<br>t<br>hu<br>la<br>tes<br>t<br>ha<br>t o<br>be<br>tw<br>Tr<br>t<br>4 a<br>d<br>Tr<br>t<br>s<br>n<br>rop<br>or<br>a<br>ac<br>s p<br>cc<br>urs<br>ee<br>n<br>an<br>se<br>c<br>n<br>an<br>se<br>c                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 2                                                  | 1<br>4<br>1<br>7<br>0 | 2<br>1<br>4<br>5        | 0.<br>7<br>8<br>5<br>0.<br>7<br>7<br>1         | 4<br>7.<br>1<br>4<br>6.<br>2<br>6                  | 5 a<br>t a<br>im<br>te<br>ly<br>6-<br>1<br>0m<br>de<br>t<br>h.<br>T<br>he<br>l c<br>he<br>1<br>0<br>0<br>%<br>du<br>to<br>t<br>he<br>p<br>p<br>rox<br>a<br>p<br>co<br>ra<br>ov<br>er<br>ap<br>p<br>roa<br>c<br>s<br>e<br>h<br>ig<br>h<br>de<br>i<br>ty<br>f<br>lar<br>lap<br>ing<br>la<br>tes<br>ns<br>o<br>g<br>e,<br>ov<br>er<br>p<br>p                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 3                                                  | 1<br>4<br>1<br>7<br>0 | 2<br>1<br>4<br>5        | 0.<br>7<br>4<br>3<br>0.<br>4<br>6<br>5         | 4<br>4.<br>5<br>8<br>4<br>5.<br>9                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 4                                                  | 1<br>4<br>1<br>7<br>0 | 2<br>1<br>4<br>5        | 0.<br>6<br>3<br>7<br>0.<br>7<br>8<br>8         | 8<br>4<br>5.<br>7<br>4<br>7.<br>2<br>8             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 5                                                  | 1<br>4<br>1<br>7<br>0 | 2<br>1<br>4<br>5        | 0.<br>7<br>5<br>9<br>0.<br>8<br>1<br>2         | 4<br>5.<br>5<br>4<br>4<br>8.<br>7<br>2             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 6                                                  | 1<br>4<br>1<br>7<br>0 | 2<br>1<br>4<br>5        | 0.<br>7<br>4<br>4<br>0.<br>8<br>3<br>9         | 4<br>4.<br>6<br>4<br>5<br>0.<br>3<br>4             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 7                                                  | 1<br>4<br>1<br>0<br>7 | 2<br>1<br>4<br>5        | 0.<br>3<br>6<br>7<br>0.<br>8<br>8<br>0         | 1<br>6<br>4<br>4.<br>2.<br>8<br>5                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 8                                                  | 1<br>4<br>1<br>7<br>0 | 2<br>1<br>4<br>5        | 0.<br>7<br>4<br>7<br>0.<br>8<br>8<br>4         | 4<br>4.<br>8<br>2<br>5<br>3.<br>0<br>4             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 9                                                  | 1<br>4<br>1<br>7<br>0 | 2<br>1<br>4<br>5        | 0.<br>7<br>5<br>5<br>0.<br>8<br>6<br>1         | 4<br>5.<br>3<br>5<br>1.<br>6<br>6                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 1<br>0                                             | 1<br>4<br>1<br>7<br>0 | 2<br>1<br>4<br>5        | 0.<br>7<br>6<br>2<br>0.<br>8<br>3<br>6         | 4<br>5.<br>7<br>2<br>5<br>0.<br>1<br>6             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+| S<br>i<br>te                                        |                       | G<br>S<br>Co<br>P       | d<br>ina<br>te<br>or<br>s                      |                                                    | De<br>ip<br>t<br>io<br>sc<br>r<br>n                                                                           |
+|-----------------------------------------------------|-----------------------|-------------------------|------------------------------------------------|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+|                                                     | De<br>g<br>re<br>es   | M<br>in<br>te<br>u<br>s | De<br>im<br>l<br>c<br>a<br>ds<br>se<br>co<br>n | De<br>im<br>l<br>c<br>a<br>in<br>te<br>m<br>u<br>s |                                                                                                               |
+| 1<br>1                                              | 1<br>4                | 2<br>1                  | 0.<br>7<br>7<br>0                              | 4<br>6.<br>2                                       |                                                                                                               |
+|                                                     | 1<br>7<br>0           | 4<br>5                  | 0.<br>8<br>1<br>9                              | 4<br>9.<br>1<br>4                                  |                                                                                                               |
+| 1<br>2                                              | 1<br>4                | 2<br>1                  | 0.<br>7<br>7<br>6                              | 4<br>6.<br>5<br>6                                  |                                                                                                               |
+|                                                     | 1<br>0<br>7           | 4<br>5                  | 0.<br>8<br>0<br>7                              | 8.<br>2<br>4<br>4                                  |                                                                                                               |
+| A<br>R<br>O<br>U<br>N<br>D<br>T<br>U<br>T<br>U<br>I | A<br>L                |                         |                                                |                                                    |                                                                                                               |
+| S<br>i<br>Ba<br>ta<br>y                             | 1<br>4<br>1<br>7<br>0 | 1<br>7<br>4<br>4        | 0.<br>4<br>3<br>6<br>0.<br>4<br>6<br>3         |                                                    | Lo<br>ion<br>f<br>he<br>h<br>is<br>ic<br>f<br>is<br>h<br>t<br>t<br>to<br>tra<br>t<br>ca<br>o<br>r<br>ns<br>ec |
+| Ca<br>La<br>p<br>e<br>rse<br>n                      | 1<br>4<br>1<br>7<br>0 | 1<br>6<br>4<br>3        | 0.<br>9<br>3<br>9<br>0.<br>9<br>8<br>2         |                                                    | Lo<br>t<br>ion<br>f<br>t<br>he<br>h<br>is<br>to<br>ic<br>f<br>is<br>h<br>tra<br>t<br>ca<br>o<br>r<br>ns<br>ec |
+| (<br>6m<br>)<br>Ra<br>inm<br>ke<br>a<br>r           | 1<br>4<br>1<br>0<br>7 | 1<br>6<br>4<br>0        | 0.<br>6<br>6<br>8<br>0.<br>8<br>7<br>5         |                                                    | f c<br>Lo<br>t<br>ion<br>l<br>tra<br>t<br>ca<br>o<br>or<br>a<br>ns<br>ec                                      |
+| Au<br>(<br>6m<br>)<br>a                             | 1<br>4<br>1<br>7<br>0 | 1<br>6<br>4<br>0        | 0.<br>7<br>7<br>7<br>0.<br>0<br>8              |                                                    | Lo<br>t<br>ion<br>f c<br>l<br>tra<br>t<br>ca<br>o<br>or<br>a<br>ns<br>ec                                      |
+
+#### **APPENDIX 2 – Coral species list for Fagatele Bay**
+
+Updated list of all coral species recorded in Fagatele Bay National Marine Sanctuary, American Samoa, up to and including 2004.
+
+# **Class Anthozoa Order Scleractinia Suborder Astrocoeniina**
+
+#### **Family ACROPORIIDAE**
+
+#### **Subgenus ISOPORA**
+
+*Acropora crateriformis* (Gardiner, 1898)
+
+ *Acropora palifera* (Lamarck, 1816)
+
+# **Subgenus ACROPORA**
+
+*Acropora abrotanoides* (Lamarck, 1816) (previously *A*. *danai*, *A*. *irregularis* and *A*. *tutuilensis*)
+
+*Acropora aculeus* (Dana, 1846)
+
+*Acropora acuminata* (Verrill, 1864)
+
+ *Acropora akajimensis* Veron, 1990
+
+*Acropora austera* (Dana, 1846)
+
+*Acropora azurea* Veron and Wallace, 1984
+
+ *Acropora cerealis* (Dana, 1846)
+
+*Acropora clathrata* (Brook, 1891)
+
+*Acropora cytherea* (Dana, 1846)
+
+ *Acropora digitifera* (Dana, 1846)
+
+*Acropora divaricata* ((Dana, 1846)
+
+ *Acropora* cf*. gemmifera* (Brook. 1892)
+
+ *Acropora humilis* (Dana, 1846)
+
+ *Acropora hyacinthus* (Dana, 1846)
+
+*Acropora insignis* Menenzo, 1967
+
+ *Acropora intermedia* (previously synonomised with *A*. *nobilis*)
+
+*Acropora irregularis* (Brook, 1892)
+
+*Acropora loripes* (Brook, 1892)
+
+*Acropora latistella* (Brook, 1891)
+
+*Acropora millepora* (Ehrenberg, 1834)
+
+ *Acropora monticulosa* (Bruggemann, 1879)
+
+ *Acropora* cf*. nana* (Studer, 1878)
+
+*Acropora nasuta* (Dana, 1846)
+
+ *Acropora nobilis* (Dana, 1846)
+
+ *Acropora ocellata* (Klunzinger, 1879)
+
+ *Acropora pagoensis* Hoffmeister, 1925
+
+ *Acropora palmerae* Wells, 1954
+
+*Acropora paniculata* Verrill, 1902
+
+*Acropora paxilligera* Dana, 1846
+
+*Acropora polystoma* (Brook, 1891)
+
+ *Acropora robusta* (Dana, 1846)
+
+ *Acropora samoensis* (Brook, 1891)
+
+*Acropora secale* (Studer, 1878)
+
+*Acropora selago* (Studer, 1878)
+
+ *Acropora smithi* (Brook, 1893)
+
+ *Acropora tenuis* (Dana, 1846)
+
+ *Acropora tutuilensis* Hoffmeister, 1925
+
+ *Acropora valida* (Dana, 1846)
+
+*Acropora verweyi* Veron and Wallace, 1984
+
+ *Acropora yongei* Veron and Wallace, 1984
+
+ *Acropora* sp. 1
+
+*Acropora* sp. 2
+
+ *Astreopora cucullata* Lamberts, 1980
+
+ *Astreopora listeri* Bernard, 1896
+
+ *Astropora myriopthalma* (Lamarck, 1816)
+
+*Astreopora* sp. 1
+
+ *Montipora berryi* Hoffmeister, 1925
+
+*Montipora calcarea* Bernard, 1897
+
+ *Montipora caliculata* (Dana, 1846)
+
+*Montipora corbettensis* Veron and Wallace, 1984
+
+ *Montipora danae* (Milne, Edwards and Haime, 1851)
+
+ *Montipora efflorescens* Bernard, 1897
+
+ *Montipora effusa* Dana, 1846
+
+*Montipora ehrenbergii* Verrill, 1875
+
+ *Montipora elschneri* Vaughan, 1918
+
+*Montipora floweri* Wells, 1954
+
+ *Montipora foveolata* (Dana, 1846)
+
+*Montipora granulosa* Bernard, 1897
+
+*Montipora grisea* Bernard, 1897
+
+*Montipora hoffmeisteri* Wells, 1954
+
+ *Montipora informis* Bernard, 1897
+
+ *Montipora lobulata* Bernard, 1897
+
+*Montipora millepora* Crossland, 1952
+
+*Montipora monasteriata* (Forskal, 1775)
+
+*Montipora nodosa* (Dana, 1846)
+
+*Montipora tuberculosa* (Lamarck, 1816)
+
+*Montipora turgescens* Bernard, 1897
+
+ *Montipora venosa* (Ehrenberg, 1834)
+
+ *Montipora verrilli* Vaughan, 1907
+
+*Montipora verrucosa* (Lamarck, 1816)
+
+ *Montipora* sp. 1
+
+ *Montipora* sp. 2
+
+ *Montipora* sp. 3
+
+#### **Family AGARICIIDAE**
+
+*Coeloseris mayeri* Vaughan, 1918 *Gardineroseris planulata* (Dana, 1846)  *Leptoseris incrustans* (Quelch, 1886)
+
+*Pavona clavus* (Dana, 1846)
+
+ *Pavona collines*
+
+*Pavona divaricata* (Lamarck, 1816)
+
+ *Pavona duerdeni* Vaughan, 1907
+
+*Pavona maldivensis* (Gardiner, 1905)
+
+*Pavona varians* Verrill, 1864
+
+ *Pavona venosa* (Ehrenberg, 1834)
+
+ *Pavona* sp. 1
+
+ *Pavona* sp. 2
+
+ *Pavona* sp. 3
+
+*Pavona* sp. 4
+
+*Pavona* sp. 5
+
+*Pavona* sp. 6
+
+*Pachyseris rugosa* (Lamarck, 1801)
+
+#### **Family ASTROCOENIIDAE**
+
+ *Stylocoeniella armata* (Ehrenberg, 1834)
+
+#### **Family CARYOPHYLLIIDAE**
+
+ *Euphyllia glabrescens* (Chamisso and Eysenhardt, 1821)
+
+### **Family DENDROPHYLLIIDAE**
+
+ *Turbinaria reniformis* Bernard, 1896
+
+#### **Family FAVIIDAE**
+
+ *Caulastrea furcata* Dana, 1846
+
+*Cyphastrea chalcidicum* (Forskal, 1775)
+
+ *Cyphastrea serailia* (Forskal, 1775)
+
+ *Cyphastrea micropthalma* (Lamarck, 1816)
+
+*Cyphastrea* sp. 1
+
+ *Echinopora gemmacea* Lamarck, 1816
+
+*Echinopora hirsutissima* Milne Edwards and Haime, 1849
+
+ *Echinopora lamellosa* (Esper, 1795)
+
+ *Favia favus* (Forskal, 1775)
+
+ *Favia matthaii* Vaughan, 1918
+
+ *Favia pallida* (Dana, 1846)
+
+ *Favia rotumana* (Gardiner, 1899)
+
+*Favia speciosa* (Dana, 1846)
+
+ *Favia stelligera* (Dana, 1846)
+
+*Favites abdita* (Ellis and Solander, 1786)
+
+ *Favites* cf. *complanata* (Ehrenberg, 1834)
+
+*Favites flexuosa* (Dana, 1846)
+
+ *Favites* cf. *halicora* (Ehrenberg, 1834)
+
+*Favites pentagona* (Esper, 1794)
+
+*Favites russelli* (Wells, 1954)
+
+ *Goniastrea edwardsi* Chevalier, 1971
+
+*Goniastrea favulus* (Dana, 1846)
+
+*Goniastrea pectinata* (Ehrenberg, 1834)
+
+ *Goniastrea retiformis* (Lamarck, 1816)
+
+ *Goniastrea* sp. 1
+
+ *Leptastrea purpurea* (Dana, 1846)
+
+ *Leptastrea transversa* Klunzinger, 1879
+
+ *Leptastrea* sp. 1
+
+ *Leptoria phrygia* (Ellis and Solander, 1786)
+
+ *Montastrea annuligera* (Milne Edwards and Haime, 1849)
+
+ *Montastrea curta* (Dana, 1846)
+
+ *Oulophyllia bennettae* (Veron, Pichon & Wisjman-Best, 1977)
+
+*Platygyra daedalea* (Ellis and Solander, 1786)
+
+*Platygyra pini* Chevalier, 1975
+
+*Platygyra sinensis* (Edwards and Haime, 1849)
+
+#### **Family FUNGIIDAE**
+
+*Fungia (Fungia) fungites* (Linnaeus, 1758)
+
+ *Fungia (Verrillofungia) repanda* Dana, 1846
+
+*Fungia (Pleuractis) scutaria* Lamarck, 1801
+
+# **Family MERULINIDAE**
+
+ *Hydnophora exesa* (Pallas, 1766)
+
+ *Hydnophora microconos* (Lamarck, 1816)
+
+ *Hydnophora rigida* (Dana, 1846)
+
+*Merulina ampliata* (Ellis and Solander, 1786)
+
+ *Merulina vaughani* Van der Horst, 1921
+
+*Merulina scabricula* Dana, 1846
+
+# **Family MUSSIDAE**
+
+ *Acanthastrea echinata* (Dana, 1846)
+
+ *Lobophyllia corymbosa* (Forskal, 1775)
+
+ *Lobophyllia costata* (Dana, 1846)
+
+*Lobophyllia hemprichii* (Ehrenberg, 1834)
+
+*Symphyllia radians* Milne, Edwards and Haime, 1849
+
+ *Symphyllia recta* (Dana, 1846)
+
+#### **Family OCULINIDAE**
+
+ *Galaxea astreata* (Lamarck, 1816)
+
+*Galaxea fascicularis* (Linnaeus, 1767)
+
+#### **Family POCILLOPORIDAE**
+
+ *Pocillopora ankeli* Sheer and Pillai, 1974
+
+*Pocillopora damicornis* (Linnaeus, 1758)
+
+ *Pocillopora danae* Verrill, 1864
+
+ *Pocillopora elegans* Dana, 1846
+
+ *Pocillopora eydouxi* Milne Edwards and Haime, 1860
+
+ *Pocillopora ligulata* Dana, 1846
+
+ *Pocillopora meandrina* Dana, 1846
+
+ *Pocillopora setchelli* Hoffmeister, 1929
+
+ *Pocillopora verrucosa* (Ellis and Solander, 1786)
+
+*Pocillopora woodjonesi* Vaughan, 1918
+
+ *Pocillopora* sp. 1 (juvenile)
+
+ *Stylophora mordax* (Dana, 1846)
+
+#### **Family PECTINIDAE**
+
+ *Echinophyllia aspera* (Ellis and Solander, 1786)
+
+*Oxypora lacera* (Verrill, 1864)
+
+# **Family PORITIDAE**
+
+ *Alveopora spongiosa* Dana, 1846
+
+A*lveopora superficiales* Pillai and Scheer, 1976
+
+ *Alveopora viridis* Quoy and Gaimard, 1833
+
+*Alveopora verilliana* Dana, 1872
+
+*Alveopora* sp.
+
+*Alveopora* sp. 1
+
+ *Goniopora columna* Dana, 1846
+
+*Goniopora somaliensis* Vaughan, 1907
+
+ *Goniopora* sp. 1
+
+*Porites vaughani* Crossland, 1952
+
+ *Porites annae* Crossland, 1952
+
+ *Porites cylindrica* Dana, 1846
+
+ *Porites lichen* Dana, 1846
+
+*Porites lobata* Dana, 1846
+
+ *Porites lutea* Milne Edwards and Haime, 1860
+
+ *Porites murrayensis* Vaughan, 1918
+
+*Porites solida* (Forskal, 1775)
+
+*Porites superfusa* Gardiner, 1898
+
+ *Porites* sp. 1
+
+ *Porites* sp. 2
+
+ *Porites* sp. 3
+
+ *Porites (Synaraea) convexa* Verrill, 1864
+
+ *Porites (Synaraea) rus* (Forskal, 1775).
+
+#### **Family SIDERASTREIDAE**
+
+ *Coscinaraea columna* (Dana, 1846)
+
+ *Coscinaraea* sp. 1
+
+*Psammocora contigua* (Esper, 1797)
+
+ *Psammocora haimeana* Milne Edwards and Haime, 1851
+
+ *Psammocora neirstraszi* van der Horst, 1921
+
+*Psammocora obtusangula* (Lamarck, 1816)
+
+ *Psammocora profundacella* Gardiner, 1898
+
+*Psammocora samoensis* Hoffmeister, 1925 *Psammocora superficialis* Gardiner, 1898  *Psammocora* sp. 1
+
+# **Class Hydrozoa Order Milleporina Family MILLEPORIDAE**
+
+ *Millepora dichotoma* Forskal, 1775 *Millepora exaesa* (Forskal, 1775)  *Millepora platyphylla* Hemprich and Ehrenberg, 1834  *Millepora tuberosa* Boschma, 1966  *Millepora* sp. 1
+
+# **Order Stylasterina Family STYLASTERIDAE**
+
+ *Stylaster* cf. *gracilis* Milne Edwards and Haime, 1850
+
+**APPENDIX 3 – Coral Data 2004 (Fagatele Bay)** 
+
+| Fagatele Bay    |              |    |    |    | Size  |   |   |   |         |           |
+|-----------------|--------------|----|----|----|-------|---|---|---|---------|-----------|
+| Transect 1 - 9m |              |    |    |    | Class |   |   |   |         |           |
+| Species         |              | 1  | 2  | 3  | 4     | 5 | 6 | 7 | % cover | abundance |
+| Acropora        | juvenile     | 1  | 1  | 0  | 0     | 0 | 0 | 0 | 0.05    | 2         |
+| Acropora        | samoensis    | 1  | 4  | 5  | 0     | 0 | 0 | 0 | 1.07    | 10        |
+| Astreopora      | cucullata    | 0  | 0  | 1  | 1     | 1 | 0 | 0 | 3.71    | 3         |
+| Astreopora      | listeri      | 0  | 0  | 0  | 1     | 0 | 0 | 0 | 0.71    | 1         |
+| Astreopora      | myriopthalma | 0  | 1  | 0  | 3     | 4 | 0 | 0 | 13.47   | 8         |
+| Coeloseris      | mayeri       | 0  | 0  | 1  | 0     | 0 | 0 | 0 | 0.18    | 1         |
+| Coscinarea      | columna      | 0  | 0  | 0  | 2     | 0 | 0 | 0 | 1.41    | 2         |
+| Echinopora      | mammiformis? | 0  | 0  | 1  | 0     | 0 | 0 | 0 | 0.18    | 1         |
+| Favia           | pallida      | 0  | 1  | 0  | 0     | 0 | 0 | 0 | 0.04    | 1         |
+| Galaxea         | astreata     | 1  | 0  | 0  | 0     | 0 | 0 | 0 | 0.00    | 1         |
+| Galaxea         | fascicularis | 0  | 10 | 2  | 0     | 0 | 0 | 0 | 0.80    | 12        |
+| Hydnophora      | exesa        | 0  | 1  | 2  | 0     | 0 | 0 | 0 | 0.40    | 3         |
+| Hydnophora      | microconos   | 1  | 1  | 0  | 1     | 0 | 0 | 0 | 0.76    | 3         |
+| Leptastrea      | purpurea     | 5  | 3  | 5  | 0     | 0 | 0 | 0 | 1.04    | 13        |
+| Montastrea      | curta        | 4  | 2  | 2  | 0     | 0 | 0 | 0 | 0.46    | 8         |
+| Montipora       | calcarea     | 1  | 1  | 7  | 3     | 0 | 0 | 0 | 3.41    | 12        |
+| Montipora       | caliculata   | 0  | 0  | 0  | 5     | 0 | 0 | 0 | 3.53    | 5         |
+| Montipora       | efflorescens | 0  | 0  | 2  | 2     | 0 | 0 | 0 | 1.77    | 4         |
+| Montipora       | foveolata    | 0  | 1  | 1  | 1     | 0 | 0 | 0 | 0.93    | 3         |
+| Montipora       | grisea       | 6  | 13 | 10 | 16    | 2 | 0 | 0 | 19.34   | 47        |
+| Montipora       | informis     | 2  | 0  | 1  | 0     | 0 | 0 | 0 | 0.19    | 3         |
+| Montipora       | juvenile     | 1  | 0  | 0  | 0     | 0 | 0 | 0 | 0.00    | 1         |
+| Montipora       | nodosa       | 0  | 2  | 0  | 0     | 1 | 0 | 0 | 2.92    | 3         |
+| Montipora       | tuberculosa  | 1  | 2  | 2  | 4     | 0 | 0 | 0 | 3.27    | 9         |
+| Montipora       | venosa       | 1  | 2  | 0  | 1     | 0 | 0 | 0 | 0.80    | 4         |
+| Pavona          | collines     | 2  | 2  | 2  | 0     | 0 | 0 | 0 | 0.45    | 6         |
+| Pocillopora     | eydouxi      | 0  | 5  | 2  | 0     | 0 | 0 | 0 | 0.57    | 7         |
+| Pocillopora     | juvenile     | 4  | 0  | 0  | 0     | 0 | 0 | 0 | 0.02    | 4         |
+| Pocillopora     | meandrina    | 1  | 5  | 1  | 1     | 0 | 0 | 0 | 1.11    | 8         |
+| Pocillopora     | verrucosa    | 1  | 1  | 2  | 1     | 0 | 0 | 0 | 1.11    | 5         |
+| Porites         | lobata       | 0  | 0  | 0  | 2     | 0 | 0 | 0 | 1.41    | 2         |
+| Porites         | plate/spike  | 3  | 2  | 0  | 0     | 0 | 0 | 0 | 0.10    | 5         |
+| Porites         | solida       | 0  | 0  | 2  | 0     | 0 | 0 | 0 | 0.35    | 2         |
+| Psammocora      | haimeana     | 2  | 2  | 0  | 0     | 0 | 0 | 0 | 0.10    | 4         |
+| Psammocora      | neirstrazi   | 4  | 0  | 1  | 0     | 0 | 0 | 0 | 0.20    | 5         |
+| Symphillia      | recta        | 0  | 0  | 1  | 0     | 0 | 0 | 0 | 0.18    | 1         |
+|                 | TOTALS       | 42 | 62 | 53 | 44    | 8 | 0 | 0 | 66.03   | 209       |
+
+| Fagatele Bay     |              |    |    |    |               |   |   |   |         |           |
+|------------------|--------------|----|----|----|---------------|---|---|---|---------|-----------|
+| Transect 1 - 12m |              |    |    |    | Size<br>Class |   |   |   |         |           |
+| Species          |              | 1  | 2  | 3  | 4             | 5 | 6 | 7 | % cover | abundance |
+| Acropora         | hyacinthus   | 1  | 1  | 0  | 0             | 0 | 0 | 0 | 0.05    | 2         |
+| Acropora         | juvenile     | 1  | 1  | 0  | 0             | 0 | 0 | 0 | 0.05    | 2         |
+| Acropora         | panniculata  | 0  | 0  | 0  | 0             | 0 | 1 | 0 | 11.31   | 1         |
+| Acropora         | samoensis    | 0  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Astreopora       | cucullata    | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Astreopora       | myriopthalma | 0  | 0  | 1  | 1             | 0 | 0 | 0 | 0.88    | 2         |
+| Coeloseris       | mayeri       | 0  | 0  | 0  | 4             | 0 | 0 | 0 | 2.83    | 4         |
+| Cyphastrea       | micropthalma | 2  | 0  | 0  | 0             | 0 | 0 | 0 | 0.01    | 2         |
+| Favia            | pallida      | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Fungia           | juvenile     | 2  | 0  | 0  | 0             | 0 | 0 | 0 | 0.01    | 2         |
+| Fungia           | scutaria     | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Galaxea          | fascicularis | 1  | 5  | 4  | 0             | 0 | 0 | 0 | 0.93    | 10        |
+| Leptastrea       | purpurea     | 5  | 6  | 4  | 0             | 0 | 0 | 0 | 1.00    | 15        |
+| Millepora        | encrusting   | 0  | 2  | 3  | 1             | 1 | 0 | 2 | 94.63   | 9         |
+| Montastrea       | curta        | 7  | 4  | 2  | 0             | 0 | 0 | 0 | 0.56    | 13        |
+| Montipora        | calcarea     | 0  | 1  | 3  | 2             | 0 | 0 | 0 | 1.99    | 6         |
+| Montipora        | efflorescens | 0  | 1  | 3  | 1             | 1 | 0 | 0 | 4.11    | 6         |
+| Montipora        | effusa       | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Montipora        | grisea       | 4  | 4  | 18 | 13            | 2 | 0 | 0 | 18.22   | 41        |
+| Montipora        | hoffmeisteri | 0  | 2  | 1  | 1             | 0 | 0 | 0 | 0.97    | 4         |
+| Montipora        | informis     | 0  | 1  | 4  | 0             | 0 | 0 | 0 | 0.75    | 5         |
+| Montipora        | nodosa       | 0  | 0  | 3  | 4             | 0 | 0 | 0 | 3.36    | 7         |
+| Montipora        | tuberculosa  | 0  | 3  | 2  | 2             | 0 | 0 | 0 | 1.90    | 7         |
+| Montipora        | venosa       | 3  | 3  | 0  | 0             | 0 | 0 | 0 | 0.15    | 6         |
+| Montipora        | verrucosa    | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Pavona           | collines     | 1  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 2         |
+| Pavona           | varians      | 2  | 0  | 0  | 0             | 0 | 0 | 0 | 0.01    | 2         |
+| Pavona           | venosa       | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Pocillopora      | juvenile     | 2  | 0  | 0  | 0             | 0 | 0 | 0 | 0.01    | 2         |
+| Pocillopora      | meandrina    | 0  | 1  | 2  | 0             | 0 | 0 | 0 | 0.40    | 3         |
+| Pocillopora      | verrucosa    | 0  | 3  | 3  | 0             | 0 | 0 | 0 | 0.66    | 6         |
+| Porites          | lobata       | 0  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Porites          | lutea        | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Psammoccora      | haimeana     | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Tubastrea        |              | 10 | 4  | 0  | 0             | 0 | 0 | 0 | 0.23    | 14        |
+|                  | TOTALS       | 43 | 47 | 55 | 31            | 4 | 1 | 2 | 147.02  | 183       |
+
+| Fagatele Bay<br>Transect 2 - 3m |               |    |    |    | Size<br>Class |   |   |   |         |           |
+|---------------------------------|---------------|----|----|----|---------------|---|---|---|---------|-----------|
+| Species                         |               | 1  | 2  | 3  | 4             | 5 | 6 | 7 | % cover | abundance |
+| Acropora                        | austera       | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Acropora                        | crateriformis | 0  | 0  | 2  | 0             | 0 | 0 | 0 | 0.35    | 2         |
+| Acropora                        | gemmifera     | 0  | 1  | 0  | 1             | 1 | 0 | 0 | 3.58    | 3         |
+| Acropora                        | hyacinthus    | 0  | 2  | 1  | 0             | 0 | 0 | 0 | 0.27    | 3         |
+| Acropora                        | juvenile      | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Acropora                        | nana          | 1  | 2  | 0  | 0             | 0 | 0 | 0 | 0.09    | 3         |
+| Acropora                        | nasuta        | 0  | 0  | 0  | 1             | 1 | 1 | 0 | 14.84   | 3         |
+| Acropora                        | sp            | 0  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Favia                           | pallida       | 0  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Galaxea                         | fasicularis   | 34 | 42 | 14 | 6             | 1 | 0 | 0 | 11.56   | 97        |
+| Leptoria                        | phrygia       | 0  | 0  | 0  | 1             | 1 | 0 | 0 | 3.53    | 2         |
+| Montipora                       | effusa        | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Montipora                       | grisea        | 1  | 9  | 7  | 2             | 0 | 0 | 0 | 3.05    | 19        |
+| Montipora                       | hoffmeisteri  | 0  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Montipora                       | venosa        | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Pavona                          | divaricata    | 0  | 1  | 2  | 0             | 0 | 0 | 0 | 0.40    | 3         |
+| Pavona                          | varians       | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Platygyra                       | daedalea      | 0  | 0  | 0  | 0             | 1 | 0 | 0 | 2.83    | 1         |
+| Pocillopora                     | eydouxi       | 1  | 1  | 0  | 0             | 0 | 0 | 0 | 0.05    | 2         |
+| Pocillopora                     | juvenile      | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Pocillopora                     | meandrina     | 1  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 2         |
+| Pocillopora                     | verrucosa     | 0  | 0  | 2  | 0             | 0 | 0 | 0 | 0.35    | 2         |
+| Porites                         | rus           | 5  | 6  | 1  | 0             | 0 | 0 | 0 | 0.47    | 12        |
+| Psammocora                      | profundacella | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+|                                 | TOTALS        | 47 | 65 | 31 | 15            | 5 | 1 | 0 | 44.63   | 164       |
+
+| Fagatele Bay<br>Transect 2 - 6m |               |    |    |    | Size<br>Class |    |   |   |         |           |
+|---------------------------------|---------------|----|----|----|---------------|----|---|---|---------|-----------|
+| Species                         |               | 1  | 2  | 3  | 4             | 5  | 6 | 7 | % cover | abundance |
+| Acropora                        | abrotanoides  | 0  | 2  | 2  | 1             | 0  | 1 | 0 | 12.46   | 6         |
+| Acropora                        | crateriformis | 0  | 0  | 0  | 0             | 1  | 0 | 0 | 2.83    | 1         |
+| Acropora                        | hyacinthus    | 0  | 1  | 0  | 0             | 0  | 0 | 0 | 0.04    | 1         |
+| Acropora                        | intermedia    | 1  | 1  | 5  | 0             | 0  | 0 | 0 | 0.93    | 7         |
+| Acropora                        | juvenile      | 1  | 0  | 0  | 0             | 0  | 0 | 0 | 0.00    | 1         |
+| Acropora                        | nasuta        | 0  | 0  | 1  | 0             | 0  | 0 | 0 | 0.18    | 1         |
+| Acropora                        | samoensis     | 0  | 0  | 0  | 0             | 1  | 0 | 0 | 2.83    | 1         |
+| Alveopora                       | verilliana?   | 1  | 0  | 0  | 0             | 0  | 0 | 0 | 0.00    | 1         |
+| Cyphastrea                      | serailia      | 0  | 0  | 4  | 1             | 0  | 0 | 0 | 1.41    | 5         |
+| Galaxea                         | astreata      | 5  | 0  | 0  | 0             | 0  | 0 | 0 | 0.02    | 5         |
+| Galaxea                         | fascicularis  | 13 | 24 | 49 | 2             | 0  | 1 | 0 | 22.51   | 89        |
+| Goniastrea                      | retiformis    | 0  | 0  | 0  | 0             | 1  | 0 | 0 | 2.83    | 1         |
+| Goniopora                       | sp            | 0  | 0  | 0  | 1             | 0  | 0 | 0 | 0.71    | 1         |
+| Monitopora                      | foveolata     | 1  | 2  | 0  | 0             | 0  | 0 | 0 | 0.09    | 3         |
+| Montastrea                      | curta         | 0  | 0  | 1  | 1             | 0  | 0 | 0 | 0.88    | 2         |
+| Montipora                       | calcarea      | 0  | 0  | 0  | 1             | 0  | 0 | 0 | 0.71    | 1         |
+| Montipora                       | caliculata    | 2  | 0  | 4  | 1             | 1  | 0 | 0 | 4.25    | 8         |
+| Montipora                       | efflorescens  | 0  | 2  | 6  | 6             | 2  | 0 | 0 | 11.04   | 16        |
+| Montipora                       | grisea        | 2  | 3  | 10 | 2             | 0  | 0 | 0 | 3.32    | 17        |
+| Montipora                       | nodosa        | 0  | 0  | 0  | 1             | 1  | 0 | 0 | 3.53    | 2         |
+| Montipora                       | tuberculosa   | 1  | 0  | 0  | 0             | 0  | 0 | 0 | 0.00    | 1         |
+| Montipora                       | venosa        | 3  | 4  | 1  | 0             | 0  | 0 | 0 | 0.37    | 8         |
+| Pavona                          | collines      | 0  | 0  | 0  | 1             | 0  | 0 | 0 | 0.71    | 1         |
+| Pavona                          | varians       | 0  | 1  | 1  | 0             | 0  | 0 | 0 | 0.22    | 2         |
+| Pocillopora                     | eydouxi       | 0  | 0  | 2  | 2             | 2  | 0 | 0 | 7.42    | 6         |
+| Pocillopora                     | meandrina     | 0  | 0  | 2  | 0             | 0  | 0 | 0 | 0.35    | 2         |
+| Pocillopora                     | verrucosa     | 0  | 1  | 0  | 0             | 0  | 0 | 0 | 0.04    | 1         |
+| Porites                         | rus           | 6  | 6  | 6  | 6             | 1  | 0 | 0 | 8.42    | 25        |
+| Psammocora                      | neirstrazi    | 1  | 0  | 0  | 0             | 0  | 0 | 0 | 0.00    | 1         |
+|                                 | TOTALS        | 37 | 47 | 94 | 26            | 10 | 2 | 0 | 88.14   | 216       |
+
+| Fagatele Bay<br>Transect 2 - 9m |              |    |    |    | Size<br>Class |    |   |   |         |           |
+|---------------------------------|--------------|----|----|----|---------------|----|---|---|---------|-----------|
+| Species                         |              | 1  | 2  | 3  | 4             | 5  | 6 | 7 | % cover | abundance |
+| Acropora                        | abrotanoides | 0  | 1  | 1  | 0             | 0  | 0 | 0 | 0.22    | 2         |
+| Acropora                        | austera      | 0  | 1  | 1  | 1             | 1  | 0 | 0 | 3.76    | 4         |
+| Acropora                        | juvenile     | 1  | 0  | 0  | 0             | 0  | 0 | 0 | 0.00    | 1         |
+| Acropora                        | palifera     | 0  | 1  | 0  | 0             | 0  | 0 | 0 | 0.04    | 1         |
+| Acropora                        | samoensis    | 1  | 7  | 5  | 0             | 0  | 0 | 0 | 1.20    | 13        |
+| Astreopora                      | cucullata    | 0  | 0  | 0  | 1             | 0  | 0 | 0 | 0.71    | 1         |
+| Galaxea                         | astreata     | 1  | 0  | 0  | 0             | 0  | 0 | 0 | 0.00    | 1         |
+| Galaxea                         | fascicularis | 0  | 0  | 0  | 2             | 0  | 0 | 0 | 1.41    | 2         |
+| Gardinoseris                    | planulata    | 0  | 0  | 0  | 0             | 0  | 1 | 0 | 11.31   | 1         |
+| Goniopora                       | somaliensis  | 0  | 0  | 0  | 1             | 0  | 0 | 0 | 0.71    | 1         |
+| Leptoria                        | phrygia      | 0  | 0  | 0  | 2             | 0  | 0 | 0 | 1.41    | 2         |
+| Montastrea                      | curta        | 0  | 0  | 3  | 0             | 0  | 0 | 0 | 0.53    | 3         |
+| Montipora                       | calcarea     | 0  | 0  | 1  | 0             | 0  | 0 | 0 | 0.18    | 1         |
+| Montipora                       | caliculata   | 6  | 1  | 2  | 0             | 0  | 0 | 0 | 0.43    | 9         |
+| Montipora                       | corbettensis | 0  | 1  | 0  | 0             | 0  | 0 | 0 | 0.04    | 1         |
+| Montipora                       | efflorescens | 0  | 3  | 6  | 2             | 4  | 2 | 0 | 36.54   | 17        |
+| Montipora                       | foveolata    | 5  | 3  | 0  | 0             | 0  | 0 | 0 | 0.16    | 8         |
+| Montipora                       | grisea       | 6  | 12 | 8  | 3             | 4  | 0 | 0 | 15.40   | 33        |
+| Montipora                       | hoffmeisteri | 0  | 0  | 1  | 0             | 0  | 0 | 0 | 0.18    | 1         |
+| Montipora                       | informis     | 0  | 2  | 0  | 0             | 0  | 0 | 0 | 0.09    | 2         |
+| Montipora                       | nodosa       | 1  | 1  | 2  | 3             | 1  | 0 | 0 | 5.35    | 8         |
+| Montipora                       | turgescens   | 0  | 1  | 0  | 0             | 0  | 0 | 0 | 0.04    | 1         |
+| Montipora                       | venosa       | 10 | 14 | 9  | 0             | 0  | 0 | 0 | 2.26    | 33        |
+| Pavona                          | collines     | 0  | 1  | 3  | 2             | 0  | 0 | 0 | 1.99    | 6         |
+| Pavona                          | varians      | 2  | 1  | 2  | 1             | 1  | 0 | 0 | 3.94    | 7         |
+| Pocillopora                     | eydouxi      | 1  | 2  | 1  | 1             | 1  | 0 | 0 | 3.80    | 6         |
+| Pocillopora                     | meandrina    | 0  | 2  | 0  | 1             | 0  | 0 | 0 | 0.80    | 3         |
+| Porites                         | rus          | 4  | 3  | 1  | 0             | 0  | 0 | 0 | 0.33    | 8         |
+| Stylocoenelia                   | armata       | 2  | 0  | 0  | 0             | 0  | 0 | 0 | 0.01    | 2         |
+|                                 | TOTALS       | 40 | 57 | 46 | 20            | 12 | 3 | 0 | 92.84   | 178       |
+
+| Fagatele Bay<br>Transect 2 - 12m |              |    |    |    |            |   |   |   |         |           |
+|----------------------------------|--------------|----|----|----|------------|---|---|---|---------|-----------|
+| Species                          |              | 1  | 2  | 3  | Class<br>4 | 5 | 6 | 7 | % cover | abundance |
+| Acropora                         | austera      | 2  | 3  | 1  | 1          | 1 | 0 | 0 | 3.85    | 8         |
+| Acropora                         | gemmifera    | 0  | 0  | 0  | 0          | 1 | 0 | 0 | 2.83    | 1         |
+| Acropora                         | hyacinthus   | 1  | 0  | 0  | 0          | 0 | 0 | 0 | 0.00    | 1         |
+| Acropora                         | juvenile     | 1  | 0  | 0  | 0          | 0 | 0 | 0 | 0.00    | 1         |
+| Acropora                         | sp           | 0  | 1  | 0  | 0          | 0 | 0 | 0 | 0.04    | 1         |
+| Cyphastrea                       | seralia      | 0  | 0  | 0  | 1          | 0 | 0 | 0 | 0.71    | 1         |
+| Favites                          | halicora     | 0  | 0  | 0  | 1          | 0 | 0 | 0 | 0.71    | 1         |
+| Galaxea                          | fascicularis | 0  | 3  | 3  | 0          | 0 | 0 | 0 | 0.66    | 6         |
+| Montastrea                       | curta        | 0  | 1  | 2  | 0          | 0 | 0 | 0 | 0.40    | 3         |
+| Montipora                        | caliculata   | 2  | 2  | 2  | 1          | 1 | 0 | 0 | 3.99    | 8         |
+| Montipora                        | corbettensis | 0  | 1  | 0  | 0          | 0 | 0 | 0 | 0.04    | 1         |
+| Montipora                        | efflorescens | 0  | 0  | 3  | 4          | 0 | 0 | 0 | 3.36    | 7         |
+| Montipora                        | foveolata    | 3  | 0  | 1  | 0          | 0 | 0 | 0 | 0.19    | 4         |
+| Montipora                        | grisea       | 2  | 5  | 12 | 3          | 0 | 0 | 0 | 4.47    | 22        |
+| Montipora                        | hoffmeisteri | 0  | 0  | 0  | 1          | 0 | 0 | 0 | 0.71    | 1         |
+| Montipora                        | informis     | 0  | 0  | 0  | 0          | 0 | 1 | 0 | 11.31   | 1         |
+| Montipora                        | juvenile     | 2  | 0  | 0  | 0          | 0 | 0 | 0 | 0.01    | 2         |
+| Montipora                        | tuberculata  | 0  | 0  | 0  | 2          | 0 | 0 | 0 | 1.41    | 2         |
+| Montipora                        | venosa       | 0  | 3  | 2  | 0          | 0 | 0 | 0 | 0.49    | 5         |
+| Pavona                           | collines     | 0  | 1  | 0  | 0          | 0 | 0 | 0 | 0.04    | 1         |
+| Pavona                           | varians      | 0  | 0  | 2  | 2          | 1 | 0 | 0 | 4.59    | 5         |
+| Pavona                           | venosa       | 0  | 0  | 0  | 1          | 0 | 0 | 0 | 0.71    | 1         |
+| Pocillopora                      | eydouxi      | 0  | 0  | 0  | 2          | 0 | 0 | 0 | 1.41    | 2         |
+| Pocillopora                      | verrucosa    | 0  | 0  | 1  | 0          | 0 | 0 | 0 | 0.18    | 1         |
+| Porites                          | rus          | 1  | 9  | 7  | 3          | 1 | 2 | 1 | 74.45   | 24        |
+| Psammocora                       | haimeana     | 1  | 0  | 0  | 0          | 0 | 0 | 0 | 0.00    | 1         |
+|                                  | TOTALS       | 15 | 29 | 36 | 22         | 5 | 3 | 1 | 116.57  | 111       |
+
+| Fagatele Bay<br>Transect 3 - 3m |               |    |    |    | Size<br>Class |   |   |   |         |           |
+|---------------------------------|---------------|----|----|----|---------------|---|---|---|---------|-----------|
+| Species                         |               | 1  | 2  | 3  | 4             | 5 | 6 | 7 | % cover | abundance |
+| Acropora                        | cowpatiformis | 13 | 25 | 24 | 26            | 2 | 0 | 0 | 29.44   | 90        |
+| Acropora                        | intermedia    | 0  | 2  | 2  | 0             | 0 | 0 | 0 | 0.44    | 4         |
+| Acropora                        | samoensis     | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Galaxea                         | fasicularis   | 1  | 2  | 3  | 0             | 0 | 0 | 0 | 0.62    | 6         |
+| Montipora                       | caliculata    | 2  | 4  | 2  | 1             | 0 | 0 | 0 | 1.25    | 9         |
+| Montipora                       | efflorescens  | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Montipora                       | foveolata     | 0  | 2  | 0  | 0             | 0 | 0 | 0 | 0.09    | 2         |
+| Montipora                       | grisea        | 0  | 2  | 2  | 0             | 0 | 0 | 0 | 0.44    | 4         |
+| Montipora                       | tuberculosa   | 1  | 2  | 3  | 4             | 0 | 0 | 0 | 3.45    | 10        |
+| Montipora                       | venosa        | 14 | 17 | 6  | 2             | 0 | 0 | 0 | 3.29    | 39        |
+| Pocillopora                     | eydouxi       | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Pocillopora                     | meandrina     | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Pocillopora                     | verrucosa     | 0  | 0  | 2  | 0             | 0 | 0 | 0 | 0.35    | 2         |
+| Psammocora                      | profundacella | 1  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 2         |
+| Stylocoenelia                   | armata        | 2  | 0  | 0  | 0             | 0 | 0 | 0 | 0.01    | 2         |
+|                                 | TOTALS        | 34 | 57 | 48 | 33            | 2 | 0 | 0 | 40.15   | 174       |
+
+| Fagatele Bay    |               |    |    |    | Size  |    |   |   |         |           |
+|-----------------|---------------|----|----|----|-------|----|---|---|---------|-----------|
+| Transect 3 - 6m |               |    |    |    | Class |    |   |   |         |           |
+| Species         |               | 1  | 2  | 3  | 4     | 5  | 6 | 7 | % cover | abundance |
+| Oxypora         | lacera        | 0  | 0  | 1  | 0     | 0  | 0 | 0 | 0.18    | 1         |
+| Acropora        | austera       | 0  | 0  | 0  | 0     | 0  | 1 | 0 | 11.31   | 1         |
+| Acropora        | crateriformis | 0  | 1  | 2  | 1     | 0  | 0 | 0 | 1.10    | 4         |
+| Acropora        | divaricata?   | 2  | 3  | 1  | 1     | 3  | 0 | 1 | 54.75   | 11        |
+| Acropora        | hyacinthus    | 0  | 0  | 0  | 0     | 1  | 0 | 0 | 2.83    | 1         |
+| Acropora        | intermedia    | 1  | 0  | 0  | 1     | 0  | 0 | 0 | 0.71    | 2         |
+| Acropora        | juvenile      | 1  | 1  | 0  | 0     | 0  | 0 | 0 | 0.05    | 2         |
+| Acropora        | nana          | 16 | 7  | 3  | 0     | 0  | 0 | 0 | 0.92    | 26        |
+| Acropora        | nasuta        | 0  | 1  | 0  | 0     | 0  | 0 | 0 | 0.04    | 1         |
+| Galaxea         | fasicularis   | 9  | 49 | 52 | 0     | 2  | 1 | 0 | 28.36   | 113       |
+| Goniastrea      | retiformis    | 0  | 0  | 0  | 0     | 1  | 0 | 0 | 2.83    | 1         |
+| Goniopora       | colunma       | 4  | 1  | 0  | 0     | 0  | 0 | 0 | 0.06    | 5         |
+| Hydnophora      | microconos    | 0  | 0  | 0  | 1     | 0  | 0 | 0 | 0.71    | 1         |
+| Leptoria        | phrygia       | 0  | 0  | 0  | 0     | 2  | 0 | 0 | 5.65    | 2         |
+| Montastrea      | curta         | 0  | 0  | 0  | 1     | 0  | 0 | 0 | 0.71    | 1         |
+| Montipora       | calcarea      | 0  | 0  | 2  | 0     | 0  | 0 | 0 | 0.35    | 2         |
+| Montipora       | caliculata    | 1  | 1  | 1  | 0     | 0  | 0 | 0 | 0.23    | 3         |
+| Montipora       | efflorescens  | 0  | 0  | 1  | 3     | 1  | 0 | 0 | 5.12    | 5         |
+| Montipora       | foveolata     | 5  | 6  | 3  | 0     | 0  | 0 | 0 | 0.82    | 14        |
+| Montipora       | grisea        | 4  | 8  | 7  | 7     | 1  | 0 | 0 | 9.39    | 27        |
+| Montipora       | informis      | 0  | 0  | 2  | 0     | 0  | 0 | 0 | 0.35    | 2         |
+| Montipora       | venosa        | 8  | 8  | 1  | 0     | 0  | 0 | 0 | 0.57    | 17        |
+| Pavona          | varians       | 0  | 0  | 1  | 0     | 0  | 0 | 0 | 0.18    | 1         |
+| Pocillopora     | danae         | 0  | 0  | 1  | 0     | 0  | 0 | 0 | 0.18    | 1         |
+| Pocillopora     | eydouxi       | 2  | 1  | 0  | 0     | 0  | 0 | 0 | 0.05    | 3         |
+| Pocillopora     | verrucosa     | 0  | 1  | 0  | 0     | 0  | 0 | 0 | 0.04    | 1         |
+| Pocillopora     | verrucosa     | 0  | 1  | 1  | 0     | 0  | 0 | 0 | 0.22    | 2         |
+| Porites         | rus           | 4  | 1  | 2  | 0     | 0  | 0 | 0 | 0.42    | 7         |
+| Stylocoenelia   | armata        | 1  | 0  | 0  | 0     | 0  | 0 | 0 | 0.00    | 1         |
+|                 | TOTALS        | 58 | 90 | 81 | 15    | 11 | 2 | 1 | 128.14  | 258       |
+
+| Fagatele Bay<br>Transect 3 - 9m |               |    |    |    | Size<br>Class |    |   |   |         |           |
+|---------------------------------|---------------|----|----|----|---------------|----|---|---|---------|-----------|
+| Species                         |               | 1  | 2  | 3  | 4             | 5  | 6 | 7 | % cover | abundance |
+| Acropora                        | crateriformis | 0  | 1  | 3  | 0             | 0  | 0 | 0 | 0.57    | 4         |
+| Acropora                        | intermedia    | 1  | 0  | 0  | 1             | 0  | 0 | 0 | 0.71    | 2         |
+| Acropora                        | juvenile      | 1  | 0  | 0  | 0             | 0  | 0 | 0 | 0.00    | 1         |
+| Acropora                        | nana          | 0  | 1  | 1  | 0             | 0  | 0 | 0 | 0.22    | 2         |
+| Acropora                        | nasuta        | 0  | 1  | 0  | 0             | 0  | 0 | 0 | 0.04    | 1         |
+| Acropora                        | samoensis     | 0  | 3  | 0  | 1             | 1  | 0 | 0 | 3.67    | 5         |
+| Acropora                        | tenuis        | 0  | 1  | 0  | 0             | 0  | 0 | 0 | 0.04    | 1         |
+| Cyphastrea                      | micropthalma  | 0  | 0  | 0  | 1             | 0  | 0 | 0 | 0.71    | 1         |
+| Echinopora                      | gemmacea      | 0  | 0  | 0  | 0             | 2  | 0 | 0 | 5.65    | 2         |
+| Galaxea                         | astreata      | 2  | 0  | 0  | 0             | 0  | 0 | 0 | 0.01    | 2         |
+| Galaxea                         | fasicularis   | 5  | 47 | 51 | 6             | 1  | 0 | 0 | 18.18   | 110       |
+| Montipora                       | calcarea      | 1  | 1  | 1  | 2             | 0  | 0 | 0 | 1.64    | 5         |
+| Montipora                       | caliculata    | 2  | 1  | 2  | 0             | 0  | 0 | 0 | 0.41    | 5         |
+| Montipora                       | efflorescens  | 0  | 0  | 1  | 6             | 2  | 0 | 0 | 10.07   | 9         |
+| Montipora                       | foveolata     | 0  | 1  | 0  | 0             | 0  | 0 | 0 | 0.04    | 1         |
+| Montipora                       | grisea        | 5  | 4  | 13 | 10            | 1  | 0 | 0 | 12.39   | 33        |
+| Montipora                       | hoffmeisteri  | 0  | 0  | 0  | 1             | 0  | 0 | 0 | 0.71    | 1         |
+| Montipora                       | informis      | 0  | 1  | 2  | 0             | 0  | 0 | 0 | 0.40    | 3         |
+| Montipora                       | nodosa        | 0  | 1  | 1  | 0             | 2  | 0 | 0 | 5.88    | 4         |
+| Montipora                       | tuberculosa   | 1  | 0  | 3  | 1             | 0  | 0 | 0 | 1.24    | 5         |
+| Montipora                       | turgescens    | 0  | 2  | 0  | 0             | 0  | 0 | 0 | 0.09    | 2         |
+| Montipora                       | venosa        | 5  | 8  | 1  | 0             | 0  | 0 | 0 | 0.55    | 14        |
+| Pavona                          | collines      | 1  | 0  | 0  | 1             | 0  | 0 | 0 | 0.71    | 2         |
+| Pavona                          | venosa        | 0  | 0  | 0  | 1             | 0  | 0 | 0 | 0.71    | 1         |
+| Pocillopora                     | eydouxi       | 1  | 1  | 3  | 0             | 0  | 0 | 0 | 0.58    | 5         |
+| Pocillopora                     | verrucosa     | 0  | 2  | 0  | 1             | 1  | 0 | 0 | 3.62    | 4         |
+| Porites                         | rus           | 0  | 2  | 1  | 1             | 0  | 0 | 0 | 0.97    | 4         |
+| Psammocora                      | haimeana      | 0  | 2  | 0  | 0             | 0  | 0 | 0 | 0.09    | 2         |
+|                                 | TOTALS        | 25 | 80 | 83 | 33            | 10 | 0 | 0 | 69.92   | 231       |
+
+| Fagatele Bay     |               |    |    |    | Size  |   |   |   |         |           |
+|------------------|---------------|----|----|----|-------|---|---|---|---------|-----------|
+| Transect 3 - 12m |               |    |    |    | Class |   |   |   |         |           |
+| Species          |               | 1  | 2  | 3  | 4     | 5 | 6 | 7 | % cover | abundance |
+| Acropora         | cerealis      | 0  | 0  | 0  | 1     | 0 | 0 | 0 | 0.71    | 1         |
+| Acropora         | clathrata     | 0  | 0  | 0  | 0     | 1 | 2 | 0 | 25.45   | 3         |
+| Acropora         | crateriformis | 0  | 2  | 0  | 0     | 0 | 0 | 0 | 0.09    | 2         |
+| Acropora         | hyacinthus    | 1  | 0  | 0  | 0     | 0 | 0 | 0 | 0.00    | 1         |
+| Acropora         | palifera      | 0  | 1  | 0  | 0     | 0 | 0 | 0 | 0.04    | 1         |
+| Acropora         | samoensis     | 0  | 0  | 1  | 0     | 0 | 0 | 0 | 0.18    | 1         |
+| Astreopora       | myriopthalma  | 0  | 1  | 0  | 0     | 0 | 0 | 0 | 0.04    | 1         |
+| Coscinarea       | columna       | 0  | 0  | 0  | 1     | 0 | 0 | 0 | 0.71    | 1         |
+| Galaxea          | astreata      | 2  | 0  | 0  | 0     | 0 | 0 | 0 | 0.01    | 2         |
+| Galaxea          | fasicularis   | 4  | 5  | 8  | 1     | 0 | 0 | 0 | 2.36    | 18        |
+| Hydnophora       | exesa         | 0  | 0  | 2  | 0     | 0 | 0 | 0 | 0.35    | 2         |
+| Montastrea       | curta         | 0  | 0  | 1  | 0     | 0 | 0 | 0 | 0.18    | 1         |
+| Montipora        | calcarea      | 0  | 0  | 0  | 1     | 0 | 0 | 0 | 0.71    | 1         |
+| Montipora        | caliculata    | 2  | 3  | 2  | 0     | 0 | 0 | 0 | 0.50    | 7         |
+| Montipora        | efflorescens  | 0  | 1  | 4  | 4     | 3 | 0 | 0 | 12.06   | 12        |
+| Montipora        | grisea        | 2  | 6  | 9  | 10    | 0 | 0 | 0 | 8.93    | 27        |
+| Montipora        | hoffmeisteri  | 0  | 1  | 1  | 0     | 1 | 0 | 0 | 3.05    | 3         |
+| Montipora        | informis      | 0  | 2  | 5  | 5     | 0 | 1 | 0 | 15.82   | 13        |
+| Montipora        | juvenile      | 1  | 0  | 0  | 0     | 0 | 0 | 0 | 0.00    | 1         |
+| Montipora        | nodosa        | 0  | 1  | 1  | 1     | 0 | 0 | 0 | 0.93    | 3         |
+| Montipora        | tuberculosa   | 0  | 1  | 3  | 0     | 0 | 0 | 0 | 0.57    | 4         |
+| Montipora        | turgescens    | 0  | 1  | 0  | 0     | 0 | 0 | 0 | 0.04    | 1         |
+| Montipora        | venosa        | 1  | 3  | 0  | 0     | 0 | 0 | 0 | 0.14    | 4         |
+| Pavona           | clavus        | 0  | 0  | 1  | 0     | 0 | 0 | 0 | 0.18    | 1         |
+| Pavona           | collines      | 0  | 3  | 2  | 1     | 0 | 0 | 0 | 1.19    | 6         |
+| Platygyra        | sinensis      | 0  | 0  | 0  | 0     | 0 | 1 | 0 | 11.31   | 1         |
+| Pocillopora      | eydouxi       | 0  | 0  | 1  | 0     | 0 | 0 | 0 | 0.18    | 1         |
+| Pocillopora      | meandrina     | 1  | 0  | 2  | 1     | 0 | 0 | 0 | 1.07    | 4         |
+| Pocillopora      | verrucosa     | 0  | 1  | 0  | 0     | 0 | 0 | 0 | 0.04    | 1         |
+| Porites          | rus           | 5  | 6  | 6  | 3     | 0 | 0 | 0 | 3.47    | 20        |
+|                  | TOTALS        | 19 | 38 | 49 | 29    | 5 | 4 | 0 | 90.31   | 144       |
+
+| Fagatele Bay    |               |    |    |    |               |   |   |   |         |           |
+|-----------------|---------------|----|----|----|---------------|---|---|---|---------|-----------|
+| Transect 4 - 3m |               |    |    |    | Size<br>Class |   |   |   |         |           |
+| Species         |               | 1  | 2  | 3  | 4             | 5 | 6 | 7 | % cover | abundance |
+| Acropora        | austera       | 1  | 0  | 0  | 0             | 1 | 0 | 0 | 2.83    | 2         |
+| Acropora        | crateriformis | 0  | 0  | 3  | 3             | 0 | 0 | 0 | 2.65    | 6         |
+| Acropora        | hyacinthus    | 0  | 0  | 1  | 1             | 1 | 0 | 0 | 3.71    | 3         |
+| Acropora        | intermedia    | 0  | 1  | 3  | 1             | 0 | 1 | 0 | 12.59   | 6         |
+| Echinopora      | gemmacea      | 0  | 0  | 3  | 5             | 2 | 0 | 0 | 9.72    | 10        |
+| Favites         | halicora      | 0  | 0  | 0  | 0             | 1 | 0 | 0 | 2.83    | 1         |
+| Galaxea         | fasicularis   | 0  | 2  | 1  | 0             | 0 | 0 | 0 | 0.27    | 3         |
+| Leptoria        | phrygia       | 0  | 0  | 1  | 0             | 1 | 0 | 0 | 3.00    | 2         |
+| Lobophyllia     | hemprichii    | 0  | 0  | 0  | 0             | 0 | 0 | 1 | 45.24   | 1         |
+| Montipora       | caliculata    | 0  | 2  | 0  | 0             | 0 | 0 | 0 | 0.09    | 2         |
+| Montipora       | foveolata     | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Montipora       | grisea        | 0  | 0  | 2  | 2             | 0 | 0 | 0 | 1.77    | 4         |
+| Montipora       | hoffmeisteri  | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Montipora       | venosa        | 19 | 22 | 9  | 0             | 0 | 0 | 0 | 2.66    | 50        |
+| Pocillopora     | danae         | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Pocillopora     | eydouxi       | 0  | 0  | 0  | 2             | 0 | 0 | 0 | 1.41    | 2         |
+| Porites         | rus           | 2  | 3  | 4  | 3             | 0 | 0 | 1 | 48.21   | 13        |
+| Psammocora      | profundacella | 0  | 4  | 2  | 0             | 0 | 0 | 0 | 0.53    | 6         |
+|                 | TOTALS        | 22 | 37 | 29 | 17            | 6 | 1 | 2 | 137.64  | 114       |
+
+| Fagatele Bay<br>Transect 4 - 6m |               |    |    |    | Size<br>Class |   |   |   |         |           |
+|---------------------------------|---------------|----|----|----|---------------|---|---|---|---------|-----------|
+| Species                         |               | 1  | 2  | 3  | 4             | 5 | 6 | 7 | % cover | abundance |
+| Acropora                        | crateriformis | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Acropora                        | hyacinthus    | 0  | 0  | 0  | 0             | 0 | 1 | 0 | 11.31   | 1         |
+| Acropora                        | intermedia    | 1  | 1  | 0  | 2             | 2 | 1 | 1 | 63.67   | 8         |
+| Acropora                        | juvenile      | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Acropora                        | palifera      | 0  | 1  | 1  | 0             | 0 | 0 | 0 | 0.22    | 2         |
+| Cyphastrea                      | serailia      | 0  | 0  | 0  | 0             | 1 | 0 | 0 | 2.83    | 1         |
+| Favia                           | pallida       | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Galaxea                         | fasicularis   | 6  | 1  | 0  | 0             | 0 | 0 | 0 | 0.07    | 7         |
+| Hydnophora                      | exesa         | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Lobophyllia                     | hemprichii    | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Merulina                        | scabricula    | 0  | 2  | 1  | 3             | 0 | 0 | 0 | 2.39    | 6         |
+| Montastrea                      | curta         | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Montipora                       | efflorescens  | 0  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Montipora                       | foveolata     | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Montipora                       | grisea        | 2  | 4  | 3  | 2             | 0 | 0 | 0 | 2.13    | 11        |
+| Montipora                       | nodosa        | 0  | 0  | 0  | 0             | 1 | 0 | 0 | 2.83    | 1         |
+| Montipora                       | venosa        | 17 | 6  | 1  | 1             | 0 | 0 | 0 | 1.23    | 25        |
+| Pavona                          | collines      | 1  | 1  | 0  | 0             | 0 | 0 | 0 | 0.05    | 2         |
+| Pavona                          | varians       | 4  | 0  | 1  | 0             | 0 | 0 | 0 | 0.20    | 5         |
+| Pocillopora                     | eydouxi       | 0  | 0  | 0  | 4             | 1 | 0 | 0 | 5.65    | 5         |
+| Porites                         | rus           | 34 | 14 | 3  | 1             | 0 | 0 | 0 | 2.02    | 52        |
+| Psammocora                      | profundacella | 1  | 1  | 0  | 0             | 0 | 0 | 0 | 0.05    | 2         |
+| Stylocoenelia                   | armata        | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+|                                 | TOTALS        | 70 | 32 | 13 | 14            | 5 | 2 | 1 | 95.95   | 137       |
+
+| Fagatele Bay<br>Transect 4 - 9m |               |    |    |    | Size<br>Class |   |   |   |         |           |
+|---------------------------------|---------------|----|----|----|---------------|---|---|---|---------|-----------|
+| Species                         |               | 1  | 2  | 3  | 4             | 5 | 6 | 7 | % cover | abundance |
+| Acropora                        | clathrata     | 0  | 0  | 0  | 0             | 0 | 1 | 0 | 11.31   | 1         |
+| Acropora                        | crateriformis | 1  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 2         |
+| Acropora                        | gemmifera     | 0  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Acropora                        | hyacinthus    | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Acropora                        | juvenile      | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Acropora                        | samoensis     | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Alveopora                       | spongiosa     | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Cyphastrea                      | serailia      | 0  | 0  | 0  | 0             | 1 | 0 | 0 | 2.83    | 1         |
+| Fungia                          | scutaria      | 0  | 0  | 2  | 0             | 0 | 0 | 0 | 0.35    | 2         |
+| Galaxea                         | astreata      | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Galaxea                         | fasicularis   | 0  | 0  | 2  | 0             | 0 | 0 | 0 | 0.35    | 2         |
+| Hydnophora                      | exesa         | 0  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Leptoseris                      | incrustans    | 1  | 3  | 0  | 0             | 0 | 0 | 0 | 0.14    | 4         |
+| Montastrea                      | curta         | 0  | 0  | 0  | 2             | 0 | 0 | 0 | 1.41    | 2         |
+| Montipora                       | calcarea      | 0  | 0  | 2  | 0             | 0 | 0 | 0 | 0.35    | 2         |
+| Montipora                       | caliculata    | 2  | 1  | 1  | 0             | 0 | 0 | 0 | 0.23    | 4         |
+| Montipora                       | efflorescens  | 0  | 1  | 4  | 6             | 3 | 0 | 0 | 13.47   | 14        |
+| Montipora                       | foveolata     | 5  | 4  | 0  | 0             | 0 | 0 | 0 | 0.20    | 9         |
+| Montipora                       | grisea        | 1  | 8  | 7  | 3             | 1 | 0 | 0 | 6.54    | 20        |
+| Montipora                       | informis      | 1  | 0  | 1  | 1             | 0 | 0 | 0 | 0.89    | 3         |
+| Montipora                       | nodosa        | 0  | 1  | 1  | 1             | 0 | 0 | 0 | 0.93    | 3         |
+| Montipora                       | venosa        | 7  | 2  | 1  | 0             | 0 | 0 | 0 | 0.30    | 10        |
+| Pavona                          | collines      | 0  | 2  | 2  | 0             | 0 | 0 | 0 | 0.44    | 4         |
+| Pavona                          | divaricata    | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Pavona                          | varians       | 0  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Pavona                          | venosa        | 1  | 1  | 0  | 0             | 0 | 0 | 0 | 0.05    | 2         |
+| Pocillopora                     | danae         | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Pocillopora                     | verrucosa     | 0  | 2  | 4  | 0             | 0 | 0 | 0 | 0.80    | 6         |
+| Porites                         | rus           | 8  | 8  | 2  | 6             | 1 | 3 | 0 | 41.74   | 28        |
+| Psammocora                      | haimeana      | 1  | 1  | 0  | 0             | 0 | 0 | 0 | 0.05    | 2         |
+|                                 | TOTALS        | 32 | 35 | 32 | 22            | 6 | 4 | 0 | 85.11   | 131       |
+
+| Fagatele Bay<br>Transect 4 - 12m |               |    |    |    | Size<br>Class |    |   |   |         |           |
+|----------------------------------|---------------|----|----|----|---------------|----|---|---|---------|-----------|
+| Species                          |               | 1  | 2  | 3  | 4             | 5  | 6 | 7 | % cover | abundance |
+| Acropora                         | austera       | 0  | 1  | 4  | 0             | 1  | 0 | 0 | 3.58    | 6         |
+| Acropora                         | crateriformis | 0  | 1  | 0  | 0             | 0  | 0 | 0 | 0.04    | 1         |
+| Acropora                         | sp            | 0  | 1  | 0  | 0             | 0  | 0 | 0 | 0.04    | 1         |
+| Echinophyllia                    | aspera        | 0  | 0  | 0  | 1             | 0  | 0 | 0 | 0.71    | 1         |
+| Favia                            | stelligera    | 0  | 0  | 0  | 0             | 1  | 0 | 0 | 2.83    | 1         |
+| Favites                          | abdita        | 0  | 0  | 0  | 0             | 1  | 0 | 0 | 2.83    | 1         |
+| Favites                          | halicora      | 0  | 0  | 0  | 1             | 0  | 0 | 0 | 0.71    | 1         |
+| Galaxea                          | fasicularis   | 2  | 7  | 3  | 0             | 0  | 0 | 0 | 0.85    | 12        |
+| Lobophyllia                      | hemprichii    | 0  | 0  | 0  | 0             | 1  | 0 | 0 | 2.83    | 1         |
+| Merulina                         | scabricula    | 1  | 0  | 0  | 0             | 0  | 0 | 0 | 0.00    | 1         |
+| Montastrea                       | curta         | 0  | 0  | 1  | 0             | 0  | 0 | 0 | 0.18    | 1         |
+| Montipora                        | caliculata    | 2  | 0  | 1  | 0             | 0  | 0 | 0 | 0.19    | 3         |
+| Montipora                        | efflorescens  | 0  | 0  | 1  | 3             | 0  | 0 | 0 | 2.30    | 4         |
+| Montipora                        | foveolata     | 6  | 4  | 0  | 0             | 0  | 0 | 0 | 0.21    | 10        |
+| Montipora                        | grisea        | 2  | 3  | 3  | 2             | 0  | 0 | 0 | 2.09    | 10        |
+| Montipora                        | nodosa        | 0  | 0  | 0  | 1             | 0  | 0 | 0 | 0.71    | 1         |
+| Montipora                        | tuberculosa   | 1  | 0  | 0  | 0             | 0  | 1 | 0 | 11.31   | 2         |
+| Montipora                        | venosa        | 3  | 6  | 2  | 0             | 0  | 0 | 0 | 0.63    | 11        |
+| Pavona                           | collines      | 0  | 1  | 0  | 0             | 0  | 0 | 0 | 0.04    | 1         |
+| Pavona                           | varians       | 0  | 0  | 1  | 1             | 0  | 0 | 0 | 0.88    | 2         |
+| Pocillopora                      | damicornis    | 1  | 0  | 0  | 0             | 0  | 0 | 0 | 0.00    | 1         |
+| Pocillopora                      | meandrina     | 0  | 0  | 1  | 0             | 0  | 0 | 0 | 0.18    | 1         |
+| Porites                          | rus           | 4  | 2  | 6  | 7             | 6  | 1 | 0 | 34.39   | 26        |
+| Psammocora                       | haimeana      | 3  | 3  | 0  | 0             | 0  | 0 | 0 | 0.15    | 6         |
+| Stylocoenelia                    | armata        | 1  | 0  | 0  | 0             | 0  | 0 | 0 | 0.00    | 1         |
+|                                  | TOTALS        | 26 | 29 | 23 | 16            | 10 | 2 | 0 | 67.68   | 106       |
+
+| Fagatele Bay<br>Transect 5 - 3m |              |    |    |    | Size<br>Class |   |   |   |         |           |
+|---------------------------------|--------------|----|----|----|---------------|---|---|---|---------|-----------|
+| Species                         |              | 1  | 2  | 3  | 4             | 5 | 6 | 7 | % cover | abundance |
+| Acropora                        | gemmifera    | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Acropora                        | hyacinthus   | 0  | 2  | 1  | 1             | 0 | 1 | 0 | 12.28   | 5         |
+| Acropora                        | nana         | 1  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 2         |
+| Acropora                        | nasuta       | 0  | 1  | 1  | 1             | 0 | 0 | 0 | 0.93    | 3         |
+| Acropora                        | samoensis    | 0  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Favia                           | pallida      | 0  | 2  | 0  | 0             | 0 | 0 | 0 | 0.09    | 2         |
+| Galaxea                         | fascicularis | 6  | 9  | 7  | 0             | 0 | 0 | 0 | 1.66    | 22        |
+| Goniastrea                      | retiformis   | 1  | 1  | 1  | 1             | 0 | 0 | 0 | 0.93    | 4         |
+| Montastrea                      | curta        | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Montipora                       | caliculata   | 4  | 5  | 5  | 1             | 0 | 0 | 0 | 1.83    | 15        |
+| Montipora                       | grisea       | 1  | 0  | 6  | 0             | 0 | 0 | 0 | 1.07    | 7         |
+| Montipora                       | venosa       | 10 | 4  | 1  | 0             | 0 | 0 | 0 | 0.40    | 15        |
+| Pocillopora                     | eydouxi      | 0  | 2  | 1  | 5             | 2 | 0 | 0 | 9.45    | 10        |
+| Pocillopora                     | meandrina    | 0  | 2  | 5  | 0             | 0 | 0 | 0 | 0.97    | 7         |
+| Pocillopora                     | verrucosa    | 0  | 2  | 1  | 5             | 0 | 0 | 0 | 3.80    | 8         |
+|                                 | TOTALS       | 23 | 30 | 32 | 15            | 2 | 1 | 0 | 34.66   | 103       |
+
+| Fagatele Bay    |               |    |    |    |               |   |   |   |         |           |
+|-----------------|---------------|----|----|----|---------------|---|---|---|---------|-----------|
+| Transect 5 - 6m |               |    |    |    | Size<br>Class |   |   |   |         |           |
+| Species         |               | 1  | 2  | 3  | 4             | 5 | 6 | 7 | % cover | abundance |
+| Acropora        | abrotanoides  | 0  | 0  | 0  | 0             | 1 | 0 | 0 | 2.83    | 1         |
+| Acropora        | cerealis      | 0  | 0  | 1  | 1             | 0 | 0 | 0 | 0.88    | 2         |
+| Acropora        | crateriformis | 0  | 1  | 2  | 1             | 0 | 0 | 0 | 1.10    | 4         |
+| Acropora        | gemmifera     | 1  | 0  | 2  | 0             | 1 | 0 | 0 | 3.19    | 4         |
+| Acropora        | hyacinthus    | 0  | 1  | 2  | 1             | 3 | 2 | 0 | 32.21   | 9         |
+| Acropora        | juvenile      | 2  | 1  | 0  | 0             | 0 | 0 | 0 | 0.05    | 3         |
+| Acropora        | palmerae      | 0  | 0  | 0  | 0             | 0 | 1 | 0 | 11.31   | 1         |
+| Echinopora      | gemmacea      | 0  | 2  | 0  | 0             | 0 | 0 | 0 | 0.09    | 2         |
+| Galaxea         | fasicularis   | 1  | 0  | 2  | 0             | 0 | 0 | 0 | 0.36    | 3         |
+| Montastrea      | curta         | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Montipora       | caliculata    | 1  | 2  | 2  | 0             | 0 | 0 | 0 | 0.45    | 5         |
+| Montipora       | efflorescens  | 0  | 0  | 0  | 1             | 1 | 0 | 0 | 3.53    | 2         |
+| Montipora       | grisea        | 0  | 7  | 6  | 2             | 1 | 0 | 0 | 5.61    | 16        |
+| Montipora       | juvenile      | 3  | 0  | 0  | 0             | 0 | 0 | 0 | 0.01    | 3         |
+| Montipora       | venosa        | 3  | 4  | 0  | 0             | 0 | 0 | 0 | 0.19    | 7         |
+| Pavona          | collines      | 0  | 0  | 0  | 2             | 0 | 0 | 0 | 1.41    | 2         |
+| Pocillopora     | meandrina     | 0  | 0  | 3  | 0             | 0 | 0 | 0 | 0.53    | 3         |
+| Pocillopora     | verrucosa     | 0  | 0  | 2  | 7             | 0 | 0 | 0 | 5.30    | 9         |
+|                 | TOTALS        | 11 | 19 | 22 | 15            | 7 | 3 | 0 | 69.11   | 77        |
+
+| Fagatele Bay<br>Transect 5 - 9m |               |   |    |    | Size<br>Class |   |   |   |         |           |
+|---------------------------------|---------------|---|----|----|---------------|---|---|---|---------|-----------|
+| Species                         |               | 1 | 2  | 3  | 4             | 5 | 6 | 7 | % cover | abundance |
+| Acropora                        | austera       | 0 | 0  | 2  | 0             | 0 | 0 | 0 | 0.35    | 2         |
+| Acropora                        | ceralis       | 0 | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Acropora                        | crateriformis | 0 | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Acropora                        | hyacinthus    | 1 | 0  | 2  | 0             | 3 | 3 | 1 | 88.01   | 10        |
+| Galaxea                         | fasicularis   | 0 | 3  | 8  | 0             | 0 | 0 | 0 | 1.55    | 11        |
+| Montastrea                      | curta         | 0 | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Montipora                       | caliculata    | 0 | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Montipora                       | efflorescens  | 0 | 0  | 0  | 0             | 1 | 0 | 0 | 2.83    | 1         |
+| Montipora                       | foveolata     | 1 | 1  | 0  | 0             | 0 | 0 | 0 | 0.05    | 2         |
+| Montipora                       | grisea        | 3 | 6  | 6  | 2             | 1 | 0 | 0 | 5.58    | 18        |
+| Montipora                       | informis      | 0 | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Montipora                       | venosa        | 3 | 4  | 1  | 0             | 0 | 0 | 0 | 0.37    | 8         |
+| Pavona                          | collines      | 0 | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Pavona                          | varians       | 0 | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Pocillopora                     | eydouxi       | 0 | 0  | 0  | 3             | 0 | 0 | 0 | 2.12    | 3         |
+| Pocillopora                     | meandrina     | 0 | 2  | 2  | 3             | 0 | 0 | 0 | 2.56    | 7         |
+| Pocillopora                     | verrucosa     | 0 | 0  | 4  | 6             | 0 | 0 | 0 | 4.95    | 10        |
+|                                 | TOTALS        | 8 | 19 | 26 | 17            | 5 | 3 | 1 | 110.80  | 79        |
+
+| Fagatele Bay     |              |    |   |    |               |   |   |   |         |           |
+|------------------|--------------|----|---|----|---------------|---|---|---|---------|-----------|
+| Transect 5 - 12m |              |    |   |    | Size<br>Class |   |   |   |         |           |
+| Species          |              | 1  | 2 | 3  | 4             | 5 | 6 | 7 | % cover | abundance |
+| Acropora         | abrotanoides | 0  | 1 | 0  | 1             | 0 | 0 | 0 | 0.75    | 2         |
+| Acropora         | clathrata    | 0  | 0 | 0  | 0             | 0 | 2 | 2 | 113.10  | 4         |
+| Acropora         | hyacinthus   | 0  | 0 | 0  | 0             | 1 | 3 | 1 | 82.00   | 5         |
+| Acropora         | juvenile     | 1  | 1 | 0  | 0             | 0 | 0 | 0 | 0.05    | 2         |
+| Acropora         | panniculata  | 0  | 0 | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Acropora         | samoensis    | 0  | 0 | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Acropora         | valida       | 0  | 0 | 0  | 0             | 1 | 0 | 0 | 2.83    | 1         |
+| Fungia           | fungites     | 0  | 0 | 2  | 0             | 0 | 0 | 0 | 0.35    | 2         |
+| Galaxea          | fasicularia  | 0  | 2 | 0  | 0             | 0 | 0 | 0 | 0.09    | 2         |
+| Montipora        | caliculata   | 1  | 0 | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Montipora        | grisea       | 2  | 1 | 2  | 0             | 0 | 0 | 0 | 0.41    | 5         |
+| Montipora        | informis     | 0  | 0 | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Montipora        | nodosa       | 0  | 0 | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Montipora        | venosa       | 1  | 0 | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Pavona           | collines     | 6  | 1 | 0  | 0             | 0 | 0 | 0 | 0.07    | 7         |
+| Pavona           | maldivensis  | 0  | 0 | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Pocillopora      | eydouxi      | 0  | 0 | 2  | 0             | 0 | 0 | 0 | 0.35    | 2         |
+| Pocillopora      | meandrina    | 0  | 0 | 2  | 0             | 0 | 0 | 0 | 0.35    | 2         |
+|                  | TOTALS       | 11 | 6 | 11 | 3             | 2 | 5 | 3 | 202.30  | 41        |
+
+| Fagatele Bay               |               |    |    |    | Size       |   |   |   |         |           |
+|----------------------------|---------------|----|----|----|------------|---|---|---|---------|-----------|
+| Transect 6 - 9m<br>Species |               | 1  | 2  | 3  | Class<br>4 | 5 | 6 | 7 | % cover | abundance |
+| Acropora                   | austera       | 0  | 0  | 2  | 0          | 0 | 0 | 0 | 0.35    | 2         |
+| Acropora                   | crateriformis | 0  | 1  | 0  | 0          | 0 | 0 | 0 | 0.04    | 1         |
+| Acropora                   | gemmifera     | 0  | 1  | 0  | 0          | 0 | 0 | 0 | 0.04    | 1         |
+| Acropora                   | juvenile      | 1  | 2  | 0  | 0          | 0 | 0 | 0 | 0.09    | 3         |
+| Astreopora                 | cucullata     | 0  | 0  | 0  | 1          | 0 | 0 | 0 | 0.71    | 1         |
+| Astreopora                 | myriopthalma  | 0  | 1  | 0  | 1          | 0 | 0 | 0 | 0.75    | 2         |
+| Favia                      | pallida       | 0  | 0  | 0  | 1          | 0 | 0 | 0 | 0.71    | 1         |
+| Galaxea                    | astreata      | 1  | 0  | 0  | 0          | 0 | 0 | 0 | 0.00    | 1         |
+| Galaxea                    | fascicularis  | 2  | 0  | 1  | 0          | 0 | 0 | 0 | 0.19    | 3         |
+| Goniastrea                 | retiformis    | 0  | 0  | 1  | 0          | 0 | 0 | 0 | 0.18    | 1         |
+| Hydnophora                 | microconos    | 1  | 0  | 1  | 1          | 0 | 0 | 0 | 0.89    | 3         |
+| Leptastrea                 | purpurea      | 1  | 3  | 0  | 0          | 0 | 0 | 0 | 0.14    | 4         |
+| Montastrea                 | curta         | 3  | 5  | 5  | 0          | 0 | 0 | 0 | 1.12    | 13        |
+| Montipora                  | calcarea      | 1  | 2  | 1  | 1          | 0 | 0 | 0 | 0.98    | 5         |
+| Montipora                  | effusa        | 0  | 1  | 2  | 0          | 0 | 0 | 0 | 0.40    | 3         |
+| Montipora                  | grisea        | 10 | 10 | 11 | 9          | 3 | 0 | 0 | 17.28   | 43        |
+| Montipora                  | nodosa        | 0  | 1  | 0  | 0          | 0 | 0 | 0 | 0.04    | 1         |
+| Montipora                  | turgescens    | 2  | 1  | 0  | 1          | 0 | 0 | 0 | 0.76    | 4         |
+| Pavona                     | collines      | 3  | 2  | 1  | 1          | 0 | 0 | 0 | 0.99    | 7         |
+| Pocillopora                | eydouxi       | 0  | 8  | 3  | 0          | 0 | 0 | 0 | 0.88    | 11        |
+| Pocillopora                | juvenile      | 3  | 0  | 0  | 0          | 0 | 0 | 0 | 0.01    | 3         |
+| Pocillopora                | meandrina     | 0  | 3  | 6  | 0          | 0 | 0 | 0 | 1.19    | 9         |
+| Pocillopora                | verrucosa     | 0  | 3  | 2  | 0          | 0 | 0 | 0 | 0.49    | 5         |
+| Porites                    | juvenile      | 2  | 0  | 0  | 0          | 0 | 0 | 0 | 0.01    | 2         |
+| Porites                    | lobata        | 1  | 1  | 0  | 0          | 0 | 0 | 0 | 0.05    | 2         |
+| Porites                    | solida        | 0  | 0  | 0  | 0          | 1 | 0 | 0 | 2.83    | 1         |
+|                            | TOTALS        | 31 | 45 | 36 | 16         | 4 | 0 | 0 | 31.12   | 132       |
+
+| Fagatele Bay     |              |    |    |    |       |   |   |   |         |           |
+|------------------|--------------|----|----|----|-------|---|---|---|---------|-----------|
+|                  |              |    |    |    | Size  |   |   |   |         |           |
+| Transect 6 - 12m |              |    |    |    | Class |   |   |   |         |           |
+| Species          |              | 1  | 2  | 3  | 4     | 5 | 6 | 7 | % cover | abundance |
+| Acanthastrea     | echinata     | 0  | 0  | 1  | 0     | 0 | 0 | 0 | 0.18    | 1         |
+| Acropora         | gemmifera    | 0  | 1  | 1  | 0     | 0 | 0 | 0 | 0.22    | 2         |
+| Acropora         | hyacinthus   | 3  | 2  | 0  | 0     | 0 | 0 | 0 | 0.10    | 5         |
+| Acropora         | juvenile     | 8  | 3  | 0  | 0     | 0 | 0 | 0 | 0.17    | 11        |
+| Acropora         | nasuta       | 0  | 1  | 2  | 0     | 0 | 0 | 0 | 0.40    | 3         |
+| Acropora         | samoensis    | 0  | 2  | 0  | 0     | 0 | 0 | 0 | 0.09    | 2         |
+| Astreopora       | myriopthalma | 0  | 0  | 0  | 1     | 1 | 0 | 0 | 3.53    | 2         |
+| Galaxea          | fascicularis | 1  | 6  | 7  | 1     | 0 | 0 | 0 | 2.21    | 15        |
+| Leptoria         | phrygia      | 0  | 0  | 0  | 1     | 0 | 0 | 0 | 0.71    | 1         |
+| Millepora        | sp           | 0  | 0  | 3  | 1     | 2 | 1 | 0 | 18.20   | 7         |
+| Montastrea       | curta        | 0  | 1  | 2  | 0     | 0 | 0 | 0 | 0.40    | 3         |
+| Montipora        | corbettensis | 0  | 0  | 1  | 0     | 0 | 0 | 0 | 0.18    | 1         |
+| Montipora        | grisea       | 1  | 5  | 1  | 0     | 0 | 0 | 0 | 0.40    | 7         |
+| Montipora        | turgescens   | 0  | 0  | 0  | 0     | 1 | 0 | 0 | 2.83    | 1         |
+| Pavona           | collines     | 6  | 0  | 0  | 1     | 0 | 0 | 0 | 0.74    | 7         |
+| Pocillopora      | eydouxi      | 5  | 4  | 2  | 2     | 0 | 0 | 0 | 1.97    | 13        |
+| Pocillopora      | juvenile     | 4  | 0  | 0  | 0     | 0 | 0 | 0 | 0.02    | 4         |
+| Pocillopora      | meandrina    | 0  | 2  | 5  | 2     | 0 | 0 | 0 | 2.39    | 9         |
+| Pocillopora      | verrucosa    | 1  | 1  | 1  | 0     | 0 | 0 | 0 | 0.23    | 3         |
+| Porites          | solida       | 0  | 0  | 0  | 3     | 0 | 0 | 0 | 2.12    | 3         |
+|                  | TOTALS       | 29 | 28 | 26 | 12    | 4 | 1 | 0 | 37.08   | 100       |
+
+| Fagatele Bay<br>Reef Flat - B |            |    |    |    | Size<br>Class |   |   |   |         |           |
+|-------------------------------|------------|----|----|----|---------------|---|---|---|---------|-----------|
+| Species                       |            | 1  | 2  | 3  | 4             | 5 | 6 | 7 | % cover | abundance |
+| Leptastrea                    | purpurea   | 3  | 1  | 0  | 0             | 0 | 0 | 0 | 0.06    | 4         |
+| Pavona                        | divaricata | 58 | 62 | 47 | 34            | 2 | 0 | 0 | 41.02   | 203       |
+| Porites                       | lichen?    | 4  | 9  | 13 | 2             | 1 | 0 | 0 | 6.96    | 29        |
+| Porites                       | lutea      | 0  | 0  | 2  | 0             | 0 | 0 | 0 | 0.35    | 2         |
+| Porites                       | rus        | 3  | 4  | 0  | 0             | 0 | 0 | 0 | 0.19    | 7         |
+| Psammocora                    | haimeana   | 4  | 5  | 3  | 0             | 0 | 0 | 0 | 0.77    | 12        |
+|                               | TOTALS     | 72 | 81 | 65 | 36            | 3 | 0 | 0 | 49.35   | 257       |
+
+| Fagatele Bay  |              |    |    |    | Size  |   |   |   |         |           |
+|---------------|--------------|----|----|----|-------|---|---|---|---------|-----------|
+| Reef Flat - C |              |    |    |    | Class |   |   |   |         |           |
+| Species       |              | 1  | 2  | 3  | 4     | 5 | 6 | 7 | % cover | abundance |
+| Fungia        | juvenile     | 1  | 0  | 0  | 0     | 0 | 0 | 0 | 0.00    | 1         |
+| Galaxea       | astreata     | 1  | 0  | 0  | 0     | 0 | 0 | 0 | 0.00    | 1         |
+| Galaxea       | fascicularis | 0  | 3  | 1  | 0     | 0 | 0 | 0 | 0.31    | 4         |
+| Millepora     | sp           | 0  | 1  | 0  | 0     | 0 | 0 | 0 | 0.04    | 1         |
+| Montipora     | venosa       | 2  | 1  | 0  | 0     | 0 | 0 | 0 | 0.05    | 3         |
+| Pavona        | divaricata   | 27 | 37 | 26 | 14    | 0 | 0 | 0 | 16.26   | 104       |
+| Pavona        | venosa       | 1  | 9  | 7  | 1     | 0 | 0 | 0 | 2.35    | 18        |
+| Porites       | cylindrica   | 10 | 10 | 12 | 8     | 0 | 0 | 0 | 8.27    | 40        |
+| Porites       | juvenile     | 5  | 0  | 0  | 0     | 0 | 0 | 0 | 0.02    | 5         |
+| Porites       | lichen?      | 27 | 5  | 0  | 0     | 0 | 0 | 0 | 0.35    | 32        |
+| Porites       | lutea        | 1  | 1  | 5  | 1     | 0 | 0 | 0 | 1.64    | 8         |
+| Porites       | rus          | 4  | 6  | 6  | 2     | 0 | 0 | 0 | 2.76    | 18        |
+| Psammocora    | haimeana     | 1  | 1  | 3  | 0     | 0 | 0 | 0 | 0.58    | 5         |
+|               | TOTALS       | 80 | 74 | 60 | 26    | 0 | 0 | 0 | 32.64   | 240       |
+
+#### **APPENDIX 4 – Coral Data 2004 (Pago Pago Harbour)**
+
+| Pago Pago Harbour |              |    |    |    |               |   |   |   |         |           |
+|-------------------|--------------|----|----|----|---------------|---|---|---|---------|-----------|
+| Aua - 3m          |              |    |    |    | Size<br>Class |   |   |   |         |           |
+| Species           |              | 1  | 2  | 3  | 4             | 5 | 6 | 7 | % cover | abundance |
+| Acropora          | hyacinthus   | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Acropora          | nana         | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Leptastrea        | purpurea     | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Millepora         | spp.         | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Montipora         | caliculata   | 1  | 1  | 1  | 0             | 0 | 0 | 0 | 0.23    | 3         |
+| Montipora         | efflorescens | 0  | 1  | 1  | 0             | 0 | 0 | 0 | 0.22    | 2         |
+| Montipora         | foveolata    | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Montipora         | grisea       | 3  | 14 | 20 | 5             | 1 | 0 | 0 | 10.53   | 43        |
+| Montipora         | informis     | 2  | 1  | 4  | 0             | 0 | 0 | 0 | 0.76    | 7         |
+| Montipora         | tuberculosa  | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Montipora         | turgescens   | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Pavona            | collines     | 1  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 2         |
+| Pavona            | varians      | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Pocillopora       | damicornis   | 5  | 2  | 3  | 0             | 0 | 0 | 0 | 0.64    | 10        |
+| Pocillopora       | danae        | 10 | 10 | 5  | 2             | 0 | 0 | 0 | 2.79    | 27        |
+| Pocillopora       | eydouxi      | 0  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Pocillopora       | meandrina    | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Pocillopora       | verrucosa    | 7  | 5  | 9  | 0             | 0 | 0 | 0 | 1.85    | 21        |
+| Pocillopora       | juvenile     | 6  | 0  | 0  | 0             | 0 | 0 | 0 | 0.03    | 6         |
+|                   | TOTALS       | 38 | 37 | 46 | 9             | 1 | 0 | 0 | 19.14   | 131       |
+
+| Pago Pago Harbour |             |    |    |    |               |   |   |   |         |           |
+|-------------------|-------------|----|----|----|---------------|---|---|---|---------|-----------|
+| Aua - 6m          |             |    |    |    | Size<br>Class |   |   |   |         |           |
+| Species           |             | 1  | 2  | 3  | 4             | 5 | 6 | 7 | % cover | abundance |
+| Favites           | abdita      | 0  | 0  | 1  | 0             | 0 | 0 | 0 | 0.18    | 1         |
+| Leptastrea        | purpurea    | 0  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Leptastrea        | sp          | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Leptoseris        | incrustans  | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Merulina          | scabricula  | 1  | 2  | 2  | 0             | 0 | 0 | 0 | 0.45    | 5         |
+| Millepora         | spp.        | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Montipora         | caliculata  | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Montipora         | grisea      | 5  | 5  | 4  | 2             | 0 | 0 | 0 | 2.37    | 16        |
+| Montipora         | informis    | 1  | 1  | 0  | 0             | 0 | 0 | 0 | 0.05    | 2         |
+| Montipora         | tuberculosa | 2  | 5  | 2  | 0             | 0 | 0 | 0 | 0.58    | 9         |
+| Pavona            | collines    | 0  | 1  | 1  | 0             | 0 | 0 | 0 | 0.22    | 2         |
+| Pavona            | venosa      | 1  | 2  | 0  | 1             | 0 | 0 | 0 | 0.80    | 4         |
+| Pocillopora       | damicornis  | 1  | 1  | 0  | 0             | 0 | 0 | 0 | 0.05    | 2         |
+| Pocillopora       | danae       | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Pocillopora       | eydouxi     | 1  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 2         |
+| Pocillopora       | juvenile    | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Pocillopora       | meandrina   | 0  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Porites           | rus         | 2  | 1  | 0  | 0             | 0 | 0 | 0 | 0.05    | 3         |
+| Psammocora        | haimeana    | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+|                   | TOTALS      | 17 | 22 | 10 | 6             | 0 | 0 | 0 | 7.06    | 55        |
+
+| Pago Pago Harbour |              |    |    |    |               |   |   |   |         |           |
+|-------------------|--------------|----|----|----|---------------|---|---|---|---------|-----------|
+| Rainmaker - 3m    |              |    |    |    | Size<br>Class |   |   |   |         |           |
+| Species           |              | 1  | 2  | 3  | 4             | 5 | 6 | 7 | % cover | abundance |
+| Acropora          | hyacinthus   | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Acropora          | juvenile     | 5  | 0  | 0  | 0             | 0 | 0 | 0 | 0.02    | 5         |
+| Leptastrea        | transversa   | 1  | 0  | 0  | 0             | 0 | 0 | 0 | 0.00    | 1         |
+| Millepora         | spp.         | 2  | 2  | 1  | 0             | 0 | 0 | 0 | 0.27    | 5         |
+| Montastrea        | corbettensis | 0  | 2  | 0  | 0             | 0 | 0 | 0 | 0.09    | 2         |
+| Montipora         | calcarea     | 0  | 2  | 0  | 0             | 0 | 0 | 0 | 0.09    | 2         |
+| Montipora         | caliculata   | 0  | 0  | 0  | 1             | 0 | 0 | 0 | 0.71    | 1         |
+| Montipora         | grisea       | 21 | 24 | 13 | 4             | 0 | 0 | 0 | 6.29    | 62        |
+| Montipora         | hoffmeisteri | 1  | 1  | 0  | 0             | 0 | 0 | 0 | 0.05    | 2         |
+| Montipora         | informis     | 5  | 5  | 1  | 1             | 0 | 0 | 0 | 1.13    | 12        |
+| Montipora         | juvenile     | 2  | 0  | 0  | 0             | 0 | 0 | 0 | 0.01    | 2         |
+| Montipora         | tuberculosa  | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+| Pavona            | collines     | 1  | 0  | 2  | 0             | 0 | 0 | 0 | 0.36    | 3         |
+| Pavona            | divaricata   | 1  | 2  | 2  | 0             | 0 | 0 | 0 | 0.45    | 5         |
+| Pavona            | varians      | 1  | 0  | 1  | 0             | 1 | 0 | 0 | 3.01    | 3         |
+| Pocillopora       | damicornis   | 9  | 0  | 1  | 0             | 0 | 0 | 0 | 0.22    | 10        |
+| Porites           | lutea        | 0  | 1  | 0  | 0             | 0 | 0 | 0 | 0.04    | 1         |
+|                   | TOTALS       | 50 | 40 | 21 | 6             | 1 | 0 | 0 | 12.79   | 118       |
+
+| Pago Pago Harbour |              |               |    |   |   |   |   |   |         |           |
+|-------------------|--------------|---------------|----|---|---|---|---|---|---------|-----------|
+| Rainmaker - 6m    |              | Size<br>Class |    |   |   |   |   |   |         |           |
+| Species           |              | 1             | 2  | 3 | 4 | 5 | 6 | 7 | % cover | abundance |
+| Diploastrea       | heliopora    | 0             | 0  | 0 | 0 | 0 | 0 | 1 | 45.24   | 1         |
+| Leptastrea        | transversa   | 1             | 0  | 0 | 0 | 0 | 0 | 0 | 0.00    | 1         |
+| Millepora         | spp.         | 1             | 0  | 1 | 0 | 0 | 0 | 0 | 0.18    | 2         |
+| Montipora         | grisea       | 4             | 6  | 1 | 0 | 0 | 0 | 0 | 0.46    | 11        |
+| Montipora         | hoffmeisteri | 0             | 1  | 0 | 0 | 0 | 0 | 0 | 0.04    | 1         |
+| Pavona            | varians      | 0             | 1  | 1 | 1 | 1 | 0 | 0 | 3.76    | 4         |
+| Pavona            | venosa       | 1             | 2  | 2 | 0 | 0 | 0 | 0 | 0.45    | 5         |
+| Pocillopora       | meandrina    | 1             | 0  | 0 | 0 | 0 | 0 | 0 | 0.00    | 1         |
+|                   | TOTALS       | 8             | 10 | 5 | 1 | 1 | 0 | 1 | 50.14   | 26        |
+
+#### **APPENDIX 5 – Fish Species List for Fagatele Bay**
+
+Updated list of all fish species recorded in Fagatele Bay National Marine Sanctuary, American Samoa up to, and including, 2004.
+
+# Class Chondrichthyes
+
+Order Carcharhiniformes
+
+Family Carcharhinidae
+
+*Carcharhinus melanopterus* (Quoy & Gaimard, 1824)
+
+#### Family Hemigaleidae
+
+*Triaenodon obesus* (Ruppell, 1837)
+
+# Order Myliobatiformes
+
+Family Myliobatidae
+
+*Aetobatus narinari* (Euphrasen, 1790)
+
+#### Class Osteichthyes
+
+#### Order Anguilliformes
+
+Family Muraenidae
+
+*Gymnothorax javanicus* (Bleeker, 1859)
+
+*Gymnothorax meleagris* (Shaw & Nodder 1795)
+
+#### Order Aulopiformes
+
+Family Synodontidae
+
+*Synodus* sp.
+
+### Order Beryciformes
+
+#### Family Holocentridae
+
+*Myripristis berndti* (Jordan & Evermann, 1903)
+
+*Myripristis violacea* Bleeker, 1851
+
+*Neoniphon opercularis* (Valenciennes, 1831)
+
+ *Neoniphon sammara* (Forsskal, 1775)
+
+*Sargocentron caudimaculatum* (Ruppell, 1838)
+
+*Sargocentron diadema* (Lacepede, 1801)
+
+ *Sargocentron microstoma* (Gunther, 1859)
+
+ *Sargocentron spiniferum* (Forsskal, 1775)
+
+ *Sargocentron tiere* (Cuvier, 1829)
+
+#### Order Syngnathiformes
+
+Family Aulostomidae
+
+*Aulostomus chinensis* (Linnaeus, 1758)
+
+#### Family Fistulariidae
+
+*Fistularia commersonii* Ruppell, 1838
+
+### Order Perciformes
+
+Family Serranidae
+
+Subfamily Anthiinae
+
+*Pseudanthias pascalus* (Jordan &Tanaka, 1927)
+
+#### Subfamily Epinephelinae
+
+*Aethaloperca rogaa* (Forsskal, 1775)
+
+*Anyperodon leucogrammicus* (Valenciennes, 1828)
+
+*Cephalopholis argus* (Bloch & Schneider, 1801)
+
+*Cephalopholis leopardus* (Lacepede, 1801)
+
+*Cephalopholis urodeta* Bloch & Schneider, 1801
+
+*Epinephelus hexagonatus* (Bloch & Schneider, 1801)
+
+*Epinephelus howlandi* (Gunther, 1873)
+
+*Epinephelus merra* Bloch, 1793
+
+*Epinephelus tauvina* (Forsskal, 1775)
+
+*Gracila albomarginata* (Fowler & Bean, 1930)
+
+ *Plectropomus leopardus* (Lacepede, 1802)
+
+*Variola louti* (Forsskal, 1775)
+
+#### Subfamily Grammistinae
+
+*Belonoperca chabanaudi* Fowler & Bean, 1930
+
+#### Family Apogonidae
+
+*Cheilodipterus macrodon* (Lacepede, 1802)
+
+#### Family Malacanthidae
+
+*Malacanthus latovittatus* (Lacepede, 1801)
+
+### Family Carangidae
+
+*Caranx melampygus* Cuvier, 1833
+
+ *Scomberoides lysan* (Forsskal, 1775)
+
+ *Trachinotis bailloni* (Lacepede, 1801)
+
+#### Family Coryphaenidae
+
+*Coryphaena hippurus* Linnaeus, 1758
+
+#### Family Lutjanidae
+
+*Aphareus furca* (Lacepede, 1802)
+
+*Aprion virescens* Valenciennes, 1830
+
+*Lutjanus bohar* (Forsskal, 1775)
+
+ *Lutjanus fulvus* (Bloch & Schneider, 1801)
+
+ *Lutjanus gibbus* (Forsskal, 1775)
+
+ *Lutjanus kasmira* (Forsskal, 1775)
+
+*Lutjanus monostigma* (Cuvier, 1828)
+
+*Macolor macularis* Fowler, 1931
+
+*Macolor niger* (Forsskal, 1775)
+
+#### Family Caesionidae
+
+*Caesio caerulaurea* Lacepede, 1801
+
+*Caesio cuning* (Bloch, 1791)
+
+*Caesio teres* Seale, 1906
+
+*Pterocaesio marri* Schultz, 1953
+
+*Pterocaesio tile* (Cuvier, 1830)
+
+*Pterocaesio trilineata* Carpenter, 1987
+
+#### Family Haemulidae
+
+*Plectorhinchus orientalis* (Bloch, 1793)
+
+#### Family Lethrinidae
+
+*Gnathodentex aurolineatus* (Lacepede, 1802)
+
+*Lethrinus harak* (Forsskal, 1775)
+
+*Monotaxis grandoculis* (Forsskal, 1775)
+
+# Family Mullidae
+
+*Mulloides flavolineatus* (Lacepede, 1801)
+
+*Mulloides vanicolensis* (Valenciennes, 1831)
+
+*Parupeneus barberinus* (Lacepede, 1801)
+
+ *Parupeneus bifasciatus* (Lacepede, 1801)
+
+ *Parupeneus cyclostomus* (Lacepede, 1801)
+
+ *Parupeneus multifasciatus* (Quoy & Gaimard, 1825)
+
+*Parupeneus pleurostigma* (Bennett, 1830)
+
+#### Family Pempheridae
+
+*Pempheris oualensis* Cuvier, 1831
+
+### Family Kyphosidae
+
+*Kyphosus cinerascens* (Forsskal, 1775)
+
+*Kyphosus vaigiensis* (Quoy & Gaimard, 1825)
+
+#### Family Chaetodontidae
+
+*Chaetodon auriga* Forsskal, 1775
+
+ *Chaetodon bennetti* Cuvier, 1831
+
+*Chaetodon citrinellus* Cuvier, 1831
+
+ *Chaetodon ephippium* Cuvier, 1831
+
+ *Chaetodon lineolatus* Cuvier, 1831
+
+*Chaetodon lunula* (Lacepede, 1803)
+
+*Chaetodon melannotus* Bloch & Schneider, 1801
+
+ *Chaetodon ornatissimus* Cuvier, 1831
+
+ *Chaetodon pelewensis* Kner, 1868
+
+ *Chaetodon quadrimaculatus* Gray, 1833
+
+ *Chaetodon rafflesi* Bennett, 1830
+
+ *Chaetodon reticulatus* Cuvier, 1831
+
+ *Chaetodon semeion* Bleeker, 1855
+
+*Chaetodon speculum* Cuvier, 1831
+
+ *Chaetodon trifascialis* Quoy & Gaimard, 1824
+
+*Chaetodon trifasciatus* Park. 1797
+
+ *Chaetodon ulietensis* Cuvier, 1831
+
+*Chaetodon unimaculatus* Bloch, 1787
+
+ *Chaetodon vagabundus* Linnaeus, 1758
+
+ *Forcipiger flavissimus* Jordan & McGregor, 1898
+
+ *Forcipiger longirostris* (Broussonet, 1782)
+
+ *Hemitaurichthys polylepis* (Bleeker, 1857)
+
+ *Heniochus chrysostomus* Cuvier, 1831
+
+ *Heniochus monoceros* Cuvier, 1831
+
+*Heniochus varius* (Cuvier, 1829)
+
+### Family Pomacanthidae
+
+*Apolemichthys trimaculatus* (Lacepede, 1831)
+
+*Centropyge bicolor* (Bloch, 1787)
+
+ *Centropyge bispinosus* (Gunther, 1860)
+
+*Centropyge flavissimus* (Cuvier, 1831)
+
+*Centropyge loriculus* (Gunther, 1874)
+
+*Pomacanthus imperator* (Bloch, 1787)
+
+*Pygoplites diacanthus* (Boddaert, 1772)
+
+#### Family Pomacentridae
+
+*Abudefduf septemfasciatus* (Cuvier, 1830)
+
+*Abudefduf sexfasciatus* (Lacepede, 1802)
+
+ *Abudefduf vaigiensis* (Quoy & Gaimard, 1825)
+
+*Amphiprion chrysopterus* Cuvier, 1830
+
+*Amphiprion melanopus* Bleeker, 1852
+
+*Chromis acares* Randall & Swerdloff, 1973
+
+*Chromis agilis* Smith, 1960
+
+*Chromis alpha* Randall, 1988
+
+ *Chromis amboinensis* (Bleeker, 1873)
+
+ *Chromis atripes* (Fowler & Bean, 1928)
+
+*Chromis atripectoralis* Welander & Schultz, 1951
+
+ *Chromis iomelas* Jordan & Seale, 1906
+
+ *Chromis margaritifer* Fowler, 1946
+
+ *Chromis vanderbilti* (Fowler, 1941)
+
+*Chromis weberi* Fowler & Bean, 1928
+
+*Chromis xanthura* (Bleeker, 1854)
+
+*Chrysiptera cyanea* (Quoy & Gaimard, 1824)
+
+*Chrysiptera glauca* (Cuvier, 1830)
+
+ *Chrysiptera leucopoma* (Lesson, 1830)
+
+*Dascyllus reticulatus* (Richardson, 1846)
+
+ *Dascyllus trimaculatus* (Ruppell, 1828)
+
+*Lepidozygus tapeinosoma* (Bleeker, 1856)
+
+*Neopomacentrus metallicus* (Jordan and Seale, 1906)
+
+*Plectroglyphidodon dickii* (Lienard, 1839)
+
+*Plectroglyphidodon johnstonianus* Fowler & Ball, 1924
+
+*Plectroglyphidodon lacrymatus* (Quoy & Gaimard, 1824)
+
+*Plectroglyphidodon leucozonus* (Bleeker, 1859)
+
+*Plectroglyphidodon phoenixensis* (Schultz, 1943)
+
+*Pomacentrus brachialis* (Cuvier, 1830)
+
+ *Pomacentrus coelestis* Jordan & Starks, 1901
+
+ *Pomacentrus vaiuli* Jordan & Seale, 1906
+
+*Pomachromis richardsoni* (Synder, 1909)
+
+*Pristotis jerdoni* (Day, 1873)
+
+*Stegastes albifasciatus* (Schlegel & Muller, 1839-44)
+
+*Stegastes fasciolatus* (Ogilby, 1889)
+
+*Stegastes nigricans* (Lacepede, 1802)
+
+#### Family Cirrhitidae
+
+*Cirrhitus pinnulatus* (Schneider, 1801)
+
+*Paracirrhites arcatus* (Cuvier, 1829)
+
+ *Paracirrhites forsteri* (Schneider, 1801)
+
+*Paracirrhites hemistictus* (Gunther, 1874)
+
+# Family Sphyraenidae
+
+*Sphyraena barracuda* (Walbaum, 1792)
+
+#### Family Labridae
+
+*Anampses caeruleopunctatus* Ruppell, 1829
+
+ *Anampses meleagrides* Valenciennes, 1840
+
+*Anampses twistii* Bleeker, 1856
+
+*Bodianus axillaris* (Bennett, 1831)
+
+*Bodianus loxozonus* (Synder, 1908)
+
+*Cheilinus chlorourus* (Bloch, 1791)
+
+*Cheilinus digrammus* (Lacepede, 1801)
+
+*Chelinus fasciatus* (Bloch, 1791)
+
+*Cheilinus oxycephalus* Bleeker, 1853
+
+*Cheilinus trilobatus* Lacepede, 1801
+
+ *Cheilinus undulatus* Ruppell, 1835
+
+*Cheilinus unifasciatus* Streets, 1877
+
+*Cirrhilabrus* sp.
+
+*Coris aygula* Lacepede, 1801
+
+*Coris gaimard* (Quoy & Gaimard, 1824)
+
+*Epibulus insidiator* (Pallas, 1770)
+
+*Gomphosus varius* Lacepede, 1801
+
+ *Halichoeres biocellatus* Schultz, 1960
+
+*Halichoeres hortulanus* (Lacepede, 1801)
+
+*Halichoeres margaritaceus* (Valenciennes, 1839)
+
+*Halichoeres marginatus* Ruppell, 1835
+
+*Halichoeres melanurus* (Bleeker, 1851)
+
+*Halichoeres ornatissimus* (Garrett, 1863)
+
+ *Halichores prosopeion* (Bleeker, 1853)
+
+ *Hemigymnus fasciatus* (Bloch, 1792)
+
+*Hemigymnus melapterus* (Bloch, 1791)
+
+ *Hologymnosus doliatus* (Lacepede, 1801)
+
+*Labrichthys unilineatus* (Guichenot, 1847)
+
+*Labroides bicolor* Fowler & Bean, 1928
+
+*Labroides dimidiatus* (Valenciennes, 1839)
+
+*Labroides rubrolabiatus* Randall, 1955
+
+*Labropsis australis* Randall, 1981
+
+*Labropsis xanthonota* Randall, 1981
+
+*Macropharyngodon meleagris* (Valenciennes, 1839)
+
+*Novaculichthys taeniourus* (Lacepede, 1801)
+
+*Pseudocheilinus evanidus* Jordan & Evermann, 1903
+
+ *Pseudocheilinus hexataenia* (Bleeker, 1857)
+
+ *Pseudocheilinus octotaenia* Jenkins, 1900
+
+*Pseudodax moluccanus* (Valenciennes, 1839)
+
+*Stethojulis bandanensis* (Bleeker, 1851)
+
+ *Stethojulis trilineata* (Bloch & Schneider, 1801)
+
+ *Thalassoma amblycephalum* (Bleeker, 1856)
+
+ *Thalassoma hardwicke* (Bennett, 1828)
+
+*Thalassoma lutescens* (Lay & Bennett, 1839)
+
+*Thalassoma purpureum* (Forrskal, 1775)
+
+ *Thalassoma quinquevittatum* (Lay & Bennett, 1839)
+
+*Thalassoma trilobatum* (Lacepede, 1801)
+
+#### Family Scaridae
+
+*Bolbometopon muricatum* (Valenciennes, 1840)
+
+*Calatomus carolinus* (Valenciennes, 1840)
+
+*Cetoscarus bicolor* (Ruppell, 1829)
+
+*Hipposcarus longiceps* (Valenciennes, 1840)
+
+*Scarus altipinnus* (Steindachner, 1879)
+
+ *Scarus dimidiatus* Bleeker, 1859
+
+*Scarus forsteni* (Bleeker, 1861)
+
+*Scarus frenatus* Lacepede, 1802
+
+ *Scarus frontalis* Valenciennes, 1840
+
+*Scarus ghobban* Forsskal, 1775
+
+*Scarus globiceps* Valenciennes, 1840
+
+ *Scarus microrhinos* Bleeker, 1854
+
+ *Scarus niger* Forsskal,1775
+
+ *Scarus oviceps* Valenciennes, 1840
+
+ *Scarus psittacus* Forsskal, 1775
+
+ *Scarus pyrrhurus* (Jordan & Seale, 1906)
+
+ *Scarus rubroviolaceus* Bleeker, 1847
+
+ *Scarus schlegeli* (Bleeker, 1861)
+
+*Scarus sordidus* Forsskal, 1775
+
+ *Scarus spinus* Kner, 1868
+
+# *Scarus tricolor* Randall & Choat, 1980
+
+#### Family Pinguipedidae
+
+*Parapercis clathrata* Ogilby, 1911  *Parapercis millipunctata* (Gunther, 1860)
+
+#### Family Blennidae
+
+#### Tribe Nemophini
+
+*Aspidontus taeniatus* Quoy & Gaimard, 1834 *Meiacanthus atrodorsalis* (Gunther, 1877)
+
+### Tribe Salarinii
+
+*Cirripectes polyzona* (Bleeker, 1868) *Cirripectes stigmaticus* Strasburg & Schultz, 1953
+
+ *Cirripectes variolosus* (Valenciennes, 1836)
+
+*Ecsenius bicolor* (Day, 1888)
+
+#### Family Gobiidae
+
+*Valenciennea strigata* (Brousonet, 1782)
+
+#### Family Microdesmidae
+
+### Subfamily Ptereleotrinae
+
+*Nemateleotris magnifica* Fowler, 1928 *Ptereleotris evides* (Jordan & Hubbs, 1925) *Ptereleotris heteroptera* (Bleeker, 1855)
+
+#### Family Acanthuridae
+
+#### Subfamily Acanthurinae
+
+*Acanthurus achilles* Shaw, 1803
+
+*Acanthurus albipectoralis* Allen & Ayling, 1987
+
+*Acanthurus blochii* Valenciennes, 1835
+
+ *Acanthurus guttatus* Forster, 1801
+
+ *Acanthurus lineatus* (Linnaeus, 1758)
+
+ *Acanthurus maculiceps* (Ahl, 1923)
+
+*Acanthurus mata* Cuvier, 1829
+
+ *Acanthurus nigricans* (Linnaeus, 1758)
+
+*Acanthurus nigricauda* Duncker & Mohr, 1929
+
+*Acanthurus nigrofuscus* (Forsskal, 1775)
+
+*Acanthurus nigroris* Valenciennes, 1835
+
+*Acanthurus olivaceus* Bloch & Schneider, 1801
+
+*Acanthurus pyroferus* Kittlitz, 1834
+
+ *Acanthurus thompsoni* (Fowler, 1923)
+
+*Acanthurus triostegus* (Linnaeus, 1758)
+
+*Acanthurus xanthopterus* Valenciennes, 1835
+
+*Ctenochaetus binotatus* Randall, 1955
+
+*Ctenochaetus striatus* (Quoy & Gaimard, 1825)
+
+*Ctenochaetus strigosus* (Bennett, 1828)
+
+*Zebrasoma scopas* (Cuvier, 1829)
+
+Z*ebrasoma veliferum* (Bloch, 1797)
+
+#### Subfamily Nasinae
+
+*Naso annulatus* (Quoy & Gaimard, 1825)
+
+*Naso brevitrostris* (Valenciennes, 1835)
+
+ *Naso lituratus* Forster, 1801
+
+ *Naso tuberosus* Lacepede, 1802
+
+ *Naso unicornis* (Forsskal, 1775)
+
+# Family Zanclidae
+
+*Zanclus cornutus* (Linnaeus, 1758)
+
+### Family Siganidae
+
+*Siganus argenteus* (Quoy & Gaimard, 1825)
+
+*Siganus punctatus* (Forster, 1801)
+
+*Siganus spinus* (Linnaeus, 1758)
+
+#### Family Scombridae
+
+*Gymnosarda unicolor* (Rüppell, 1838)
+
+#### Order Tetraodontiformes
+
+# Family Balistidae
+
+*Balistapus undulatus* (Park, 1797)
+
+*Balistoides conspicillum* (Bloch & Schneider, 1801)
+
+ *Balistoides viridescens* (Bloch & Schneider, 1801)
+
+ *Melichthys niger* (Bloch, 1786)
+
+*Melichthys vidua* (Solander, 1844)
+
+ *Odonus niger* (Rüppell, 1837)
+
+ *Pseudobalistes flavimarginatus* (Rüppell, 1829)
+
+*Rhinecanthus rectangulus* (Bloch & Schneider, 1801)
+
+*Sufflamen bursa* (Bloch & Schneider, 1801)
+
+#### Family Monacanthidae
+
+*Aluterus scriptus* (Osbeck, 1765)
+
+*Amanses scopas* Cuvier, 1829
+
+ *Cantherhines dumerilii* (Hollard, 1854)
+
+*Cantherhines pardalis* (Rüppell, 1837)
+
+*Oxymonacanthus longirostris* (Bloch & Schneider, 1801)
+
+*Pervagor melanocephalus* (Bleeker, 1853)
+
+#### Family Ostraciidae
+
+*Ostracion cubicus* Linnaeus, 1758
+
+*Ostracion meleagris* Shaw, 1796
+
+#### Family Tetraodontidae
+
+Subfamily Tetraodontinae
+
+*Arothron meleagris* Lacepède, 1802 *Arothron nigropunctatus* (Bloch & Schneider, 1801) Subfamily Canthigasterinae *Canthigaster amboinensis* (Bleeker, 1865) *Canthigaster solandri* (Richardson, 1844)
+
+#### **APPENDIX 6 – Historic fish transect summary data**
+
+Mean number of fish (and standard error) recorded on three replicate 30m transects at each of the historic fish survey sites, as recorded in September 2004.
+
+|                         | Cape Larsen |       | Fagatele Bay |      | Sita Bay |      |
+|-------------------------|-------------|-------|--------------|------|----------|------|
+|                         | mean        | se    | mean         | se   | mean     | se   |
+| ACANTHURIDAE            |             |       |              |      |          |      |
+| Acanthurus achilles     |             |       |              |      | 0.33     | 0.00 |
+| Acanthurus guttatus     |             |       |              |      | 6.00     | 1.53 |
+| Acanthurus lineatus     | 0.67        | 0.00  |              |      | 1.33     | 0.33 |
+| Acanthurus nigricans    | 2.67        | 1.63  | 3.33         | 0.67 | 3.00     | 1.00 |
+| Acanthurus nigrofuscus  | 3.67        | 2.04  | 0.33         |      | 1.67     | 0.67 |
+| Ctenochaetus striatus   | 50.33       | 14.66 | 28.33        | 5.21 | 18.33    | 4.48 |
+| Naso lituratus          |             |       |              |      | 1.67     | 0.33 |
+| Zebrasoma scopas        |             |       | 1.00         | 0.41 |          |      |
+| Zebrasoma veliferum     |             |       |              |      | 1.00     | 0.41 |
+| AULOSTOMIDAE            |             |       |              |      |          |      |
+| Aulostomus chinensis    | 0.33        |       |              |      |          |      |
+|                         |             |       |              |      |          |      |
+| BALISTIDAE              |             |       |              |      |          |      |
+| Balistapus undulatus    | 0.67        |       |              |      |          |      |
+| Balistoides viridescens |             |       | 0.33         |      |          |      |
+| Melichthys vidua        | 0.33        |       | 0.67         | 0.00 | 1.00     | 0.41 |
+| Sufflamen bursa         |             |       | 0.33         |      |          |      |
+| CAESIONIDAE             |             |       |              |      |          |      |
+| Pterocaesio tile        |             |       | 8.33         |      |          |      |
+| CARANGIDAE              |             |       |              |      |          |      |
+| Caranx melampygus       | 0.33        |       |              |      | 0.67     | 0.00 |
+|                         |             |       |              |      |          |      |
+| CHAETODONTIDAE          |             |       |              |      |          |      |
+| Chaetodon citrinellus   | 0.67        |       |              |      |          |      |
+| Chaetodon ornatissimus  |             |       | 0.33         |      |          |      |
+| Chaetodon reticulatus   | 2.67        | 1.20  | 3.00         | 0.58 | 2.00     | 0.82 |
+| Chaetodon trifasciatus  | 0.67        | 0.00  |              |      |          |      |
+| Chaetodon unimaculatus  |             |       | 3.00         | 0.41 |          |      |
+| Forcipiger flavissimus  | 1.33        | 0.33  | 0.33         |      |          |      |
+| Heniochus chrysostomus  | 1.00        |       |              |      |          |      |
+| CIRRHITIDAE             |             |       |              |      |          |      |
+| Paracirrhites arcatus   |             |       | 0.33         |      | 1.00     | 0.00 |
+| Paracirrhites forsteri  |             |       | 1.33         | 0.33 |          |      |
+|                         |             |       |              |      |          |      |
+| HAEMULIDAE              |             |       |              |      |          |      |
+| Plectorhinchus vittatus |             |       |              |      | 0.33     |      |
+
+|                            | Cape Larsen |      | Fagatele Bay |      |      | Sita Bay |  |
+|----------------------------|-------------|------|--------------|------|------|----------|--|
+|                            | mean        | se   | mean         | se   | mean | se       |  |
+| KYPHOSIDAE                 |             |      |              |      |      |          |  |
+| Kyphosus spp.              | 0.33        |      | 0.33         |      |      |          |  |
+|                            |             |      |              |      |      |          |  |
+| LABRIDAE                   |             |      |              |      |      |          |  |
+| Anampses twistii           | 0.33        |      |              |      |      |          |  |
+| Bodianus axillaris         | 0.67        | 0.00 |              |      | 0.33 |          |  |
+| Cheilinus fasciatus        |             |      | 0.33         |      |      |          |  |
+| Cheilinus trilobatus       | 0.33        |      |              |      |      |          |  |
+| Coris aygula               | 0.67        | 0.00 |              |      |      |          |  |
+| Coris gaimard              | 0.33        |      |              |      |      |          |  |
+| Epibulus insidiator        | 0.33        |      | 0.33         |      |      |          |  |
+| Gomphosus varius           |             |      | 0.33         |      | 0.33 |          |  |
+| Halichoeres hortulanus     | 1.67        | 0.33 |              |      | 0.67 | 0.00     |  |
+| Halichoeres marginatus     | 0.67        |      |              |      |      |          |  |
+| Hemigymnus fasciatus       | 1.00        | 0.41 |              |      |      |          |  |
+| Labroides bicolor          | 0.33        |      | 0.67         | 0.00 | 0.33 |          |  |
+| Labroides dimidiatus       | 1.33        | 0.82 |              |      | 0.33 |          |  |
+| Labroides rubrolabiatus    |             |      |              |      | 0.33 |          |  |
+| Oxycheilinus diagrammus    | 0.33        |      | 0.33         |      |      |          |  |
+| Pseudocheilinus hexataenia |             |      | 0.33         |      | 0.33 |          |  |
+| Stethojulis bandanensis    | 0.33        |      |              |      |      |          |  |
+| Thalassoma hardwicke       |             |      |              |      | 0.33 |          |  |
+| Thalassoma lutescens       |             |      | 0.67         | 0.00 |      |          |  |
+| Thalassoma quinquevittatum | 1.33        | 0.33 |              |      | 1.33 | 0.00     |  |
+| Thalassoma trilobatum      | 5.00        | 5.31 |              |      |      |          |  |
+| LETHRINIDAE                |             |      |              |      |      |          |  |
+|                            |             |      |              |      |      |          |  |
+| Monotaxis grandoculis      | 0.33        |      |              |      | 1.33 | 0.82     |  |
+| LUTJANIDAE                 |             |      |              |      |      |          |  |
+| Lutjanus fulvus            | 0.33        |      |              |      | 0.33 |          |  |
+| Lutjanus monostigma        |             |      | 0.67         | 0.00 | 0.33 |          |  |
+| Macolor macularis          | 0.67        | 0.00 | 0.67         | 0.00 |      |          |  |
+| MONACANTHIDAE              |             |      |              |      |      |          |  |
+| Amanses scopas             |             |      | 0.33         |      |      |          |  |
+| Cantherhines dumerilii     |             |      | 1.00         | 0.41 |      |          |  |
+|                            |             |      |              |      |      |          |  |
+| MULLIDAE                   |             |      |              |      |      |          |  |
+| Mulloides vanicolensis     |             |      |              |      | 1.67 |          |  |
+| Parupeneus bifasciatus     | 0.33        |      |              |      |      |          |  |
+| Parupeneus cyclostomus     | 2.33        | 1.22 | 0.33         |      |      |          |  |
+| Parupeneus multifasciatus  | 0.67        | 0.00 |              |      | 0.33 |          |  |
+| POMACANTHIDAE              |             |      |              |      |      |          |  |
+| Centropyge bispinosus      |             |      | 1.00         | 0.41 | 0.33 |          |  |
+
+|                               | Cape Larsen |       | Fagatele Bay |      | Sita Bay |       |
+|-------------------------------|-------------|-------|--------------|------|----------|-------|
+|                               | mean        | se    | mean         | se   | mean     | se    |
+| Centropyge flavissimus        |             |       |              |      | 0.33     |       |
+| Pomacanthus imperator         |             |       | 0.33         |      | 0.67     | 0.00  |
+| Pygoplites diacanthus         | 2.00        | 1.63  | 0.33         |      | 3.33     | 0.33  |
+|                               |             |       |              |      |          |       |
+| POMACENTRIDAE                 |             |       |              |      |          |       |
+| Chromis acares                | 2.33        | 2.04  | 8.33         | 2.33 |          |       |
+| Chromis iomelas               |             |       | 10.67        | 1.76 | 0.33     |       |
+| Chromis margaritifer          | 16.67       | 2.73  | 3.33         | 0.67 | 14.67    | 2.96  |
+| Chromis xanthura              | 1.33        |       | 0.33         |      | 0.67     | 0.00  |
+| Chrysiptera brownriggii       | 0.33        |       |              |      |          |       |
+| Chrysiptera taupou            | 43.67       | 15.98 |              |      | 15.00    | 10.00 |
+| Dascyllus trimaculatus        |             |       | 0.33         |      |          |       |
+| Neopomacentrus metallicus     |             |       |              |      | 1.67     |       |
+| Plectroglyphidodon dickii     | 2.33        | 0.88  | 3.67         | 1.20 | 4.00     | 2.00  |
+| Plectroglyphidodon            |             |       |              |      |          |       |
+| johnstonianus                 |             |       | 3.33         | 1.20 | 0.67     |       |
+| Plectroglyphidodon lacrymatus | 0.33        |       | 2.67         | 1.20 |          |       |
+| Pomacentrus brachialis        | 6.33        | 2.86  | 10.67        | 5.78 | 11.33    | 0.67  |
+| Pomacentrus vaiuli            | 10.67       | 6.69  | 1.33         | 0.00 | 4.67     | 1.20  |
+|                               |             |       |              |      |          |       |
+| SCARIDAE                      |             |       |              |      |          |       |
+| Calotomus carolinus           | 0.33        |       |              |      |          |       |
+| Chlorurus japanensis          | 5.00        | 1.22  |              |      | 6.00     | 1.00  |
+| Chlorurus microrhinos         |             |       | 0.33         |      | 0.33     |       |
+| Chlorurus sordidus            | 4.00        | 4.08  |              |      |          |       |
+| Scarus forsteni               | 0.33        |       | 0.67         | 0.00 |          |       |
+| Scarus frenatus               |             |       | 0.33         |      | 0.33     |       |
+| Scarus niger                  | 0.67        |       | 0.33         |      | 0.33     |       |
+| Scarus oviceps                |             |       | 1.00         |      | 0.33     |       |
+| Scarus psittacus              | 1.67        |       | 10.00        | 6.56 |          |       |
+|                               |             |       |              |      |          |       |
+| SERRANIDAE                    |             |       |              |      |          |       |
+| Cephalopholis argus           |             |       | 1.00         | 0.41 |          |       |
+| Cephalopholis urodeta         | 1.67        | 0.33  | 0.33         |      | 1.33     | 0.82  |
+| Pseudanthias pascalus         |             |       | 3.33         |      |          |       |
+| SIGANIDAE                     |             |       |              |      |          |       |
+| Siganus argenteus             | 3.67        | 2.86  |              |      | 18.33    |       |
+|                               |             |       |              |      |          |       |
+| SYNODONTIDAE                  |             |       |              |      |          |       |
+| Synodus spp.                  |             |       |              |      | 0.33     |       |
+| TETRAODONTIDAE                |             |       |              |      |          |       |
+| Arothron nigropunctatus       |             |       |              |      | 0.33     |       |
+| ZANCLIDAE                     |             |       |              |      |          |       |
+| Zanclus cornutus              |             |       |              |      | 0.67     | 0.00  |

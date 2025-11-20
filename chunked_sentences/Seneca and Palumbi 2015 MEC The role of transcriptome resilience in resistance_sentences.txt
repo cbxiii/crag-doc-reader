@@ -1,0 +1,1291 @@
+--- SENTENCE 1 ---
+Molecular Ecology (2015) doi: 10.1111/mec.13125
+
+#
+
+--- SENTENCE 2 ---
+The role of transcriptome resilience in resistance of corals to bleaching
+
+FRANCOIS O. SENECA† and STEPHEN R. PALUMB I Department of Biology, Stanford University, Hopkins Marine Station, Pacific Grove, CA 93950, USA
+
+###
+
+--- SENTENCE 3 ---
+Abstract
+
+Wild populations increasingly experience extreme conditions as climate change amplifies environmental variability.
+
+--- SENTENCE 4 ---
+How individuals respond to environmental extremes determines the impact of climate change overall.
+
+--- SENTENCE 5 ---
+The variability of response from individual to individual can represent the opportunity for natural selection to occur as a result of extreme conditions.
+
+--- SENTENCE 6 ---
+Here, we experimentally replicated the natural exposure to extreme temperatures of the reef lagoon at Ofu Island (American Samoa), where corals can experience severe heat stress during midday low tide.
+
+--- SENTENCE 7 ---
+We investigated the bleaching and transcriptome response of 20 Acropora hyacinthus colonies 5 and 20 h after exposure to control (29 °C) or heated (35 °C) conditions.
+
+--- SENTENCE 8 ---
+We found a highly dynamic transcriptome response: 27% of the coral transcriptome was significantly regulated 1 h postheat exposure.
+
+--- SENTENCE 9 ---
+Yet 15 h later, when heat-induced coral bleaching became apparent, only 12% of the transcriptome was differentially regulated.
+
+--- SENTENCE 10 ---
+A large proportion of responsive genes at the first time point returned to control levels, others remained differentially expressed over time, while an entirely different subset of genes was successively regulated at the second time point.
+
+--- SENTENCE 11 ---
+However, a noteworthy variability in gene expression was observed among individual coral colonies.
+
+--- SENTENCE 12 ---
+Among the genes of which expression lingered over time, fast return to normal levels was associated with low bleaching.
+
+--- SENTENCE 13 ---
+Colonies that maintained higher expression levels of these genes bleached severely.
+
+--- SENTENCE 14 ---
+Return to normal levels of gene expression after stress has been termed transcriptome resilience, and in the case of some specific genes may signal the physiological health and response ability of individuals to environmental stress.
+
+--- SENTENCE 15 ---
+Keywords: coral bleaching, gene expression, heat stress, resilience, transcriptomics
+
+Received 28 November 2014; revision received 16 February 2015; accepted 18 February 2015
+
+#### Introduction
+
+Global warming due to climate change involves shifts in mean annual temperatures but also an increased frequency of extremes (Seneviratne et al. 2014).
+
+--- SENTENCE 16 ---
+Exposure to transient extreme temperatures can cause mass mortality and dramatic transformation of an ecosystem (Dudgeon et al. 2010).
+
+--- SENTENCE 17 ---
+Essentially, the response of organisms to normal fluctuation in temperature is overwhelmed during extreme conditions.
+
+--- SENTENCE 18 ---
+As a consequence, the impact of climate change on natural assemblages
+
+Correspondence: Francois O. Seneca, Fax: 808 599 4817;
+
+† Present address: Kewalo Marine Laboratory, University of
+
+E-mail: seneca@hawaii.edu
+
+--- SENTENCE 19 ---
+Hawaii at Manoa, Honolulu, HI 96815, USA depends on the rate of exposure to environmental extremes, the rate of response and recovery, and the ability of individuals to acclimatize or populations to adapt (Palumbi et al. 2014).
+
+--- SENTENCE 20 ---
+Recent availability of transcriptome data from a wide variety of species makes it possible to more finely study the molecular stress response of organisms to extreme temperatures (Runcie et al. 2012; Kenkel et al. 2013; Xie et al. 2013) and can help us evaluate the capacity for acclimatization and adaptation in populations of key species (Hoffmann & Sgro 2011).
+
+--- SENTENCE 21 ---
+For reef-building cor als, environmental data from around the tropics suggest that ocean temperatures one or two degrees above average generate physiological stress (Jokiel & Coles 1990).
+
+--- SENTENCE 22 ---
+Prolonged low or acute level of temperature stress cause coral bleaching, the expulsion of essential endosymbiotic photosynthetic algae (reviewed by Weis 2008).
+
+--- SENTENCE 23 ---
+The combination of a defined temperature trigger (Tolleter et al. 2013), a disadvantageous physiological response and a battery of transcriptome tools makes the coral holobiont system adequate to describe the rates, magnitudes and duration of reaction to extreme climate events.
+
+--- SENTENCE 24 ---
+To date, twelve studies have investigated the transcriptomic changes in corals and anemones responding to heat stress.
+
+--- SENTENCE 25 ---
+These studies have targeted the partial or near complete transcriptomes of symbiotic cnidarians including temperate anemones (Richier et al. 2008; Moya et al. 2012), adult reef-building corals (DeSalvo et al. 2008, 2010; Bellantuono et al. 2012; Barshis et al. 2013) and coral embryos (Voolstra et al. 2009; Polato et al. 2010; Portune et al. 2010; Meyer et al. 2011).
+
+--- SENTENCE 26 ---
+Significantly regulated genes differ widely across these studies (DeSalvo et al. 2008, 2010; Rodriguez-Lanetty et al. 2009; Voolstra et al. 2009; Meyer et al. 2011; Bellantuono et al. 2012; Barshis et al. 2013).
+
+--- SENTENCE 27 ---
+Although change in apoptosis, antioxidant and heat-shock protein genes has been repeatedly observed after high temperature treatment, many other gene families are revealed in only one or a handful of studies.
+
+--- SENTENCE 28 ---
+Moreover, these studies typically follow transcriptional changes that occur when bleaching begins, well after heat treatments commence.
+
+--- SENTENCE 29 ---
+They show changes in transcription that occur after repeated daily heat stress, as water temperatures increase during the day, but have not focused on fast responses to extreme temperature changes.
+
+--- SENTENCE 30 ---
+Because the onset of bleaching occurs one or several days after strong heat stress, gene expression during bleaching may be very different from gene expression a few hours postacute heat exposure.
+
+--- SENTENCE 31 ---
+In addition, because of high variability in bleaching sensitivity among colonies, it is possible that the reaction of gene expression during acute heat stress, and the recovery of expression poststress, sets the stage for later bleaching.
+
+--- SENTENCE 32 ---
+Transcriptome tools are also being used to document acclimatization and adaptation among coral populations.
+
+--- SENTENCE 33 ---
+For example, some corals in Ofu Island, American Samoa, living in warm water back reef pools exhibit high heat tolerance by constitutively expressing more of certain stress-response genes (Barshis et al. 2013).
+
+--- SENTENCE 34 ---
+Corals living in cooler parts of this reef can acquire higher heat tolerance after transplantation and show acclimatization of gene expression patterns as well (Palumbi et al. 2014).
+
+--- SENTENCE 35 ---
+However, about half the difference in heat tolerance among populations is not due to acclimatization.
+
+--- SENTENCE 36 ---
+Furthermore, genetic differences at about 100 loci have been implicated in adaptation of these populations to repeated temperature extremes (Bay & Palumbi 2014).
+
+--- SENTENCE 37 ---
+Bellantuono et al. (2012) showed that corals could acquire higher heat tolerance in as little as 2 weeks, but showed no constitutive transcriptional changes associated with this physiological shift.
+
+--- SENTENCE 38 ---
+In this study, we conducted a whole-transcriptome controlled heat stress experiment on corals from the Ofu Island (American Samoa) lagoon, which can experience extreme daily change in temperatures during summer low tides (+6 °C above the 29 °C summer average) that can lead to bleaching.
+
+--- SENTENCE 39 ---
+Despite such high temperatures, there is a high abundance and diversity of live corals within the lagoon (Craig et al. 2001), some of which have shown relative resistance to those challenging temperature events (Oliver & Palumbi 2011) as well as evidence of postbleaching resilience (F.O. Seneca, personal observation).
+
+--- SENTENCE 40 ---
+The response of Ofu corals to such drastic change in temperature is relevant to corals elsewhere, for example, populations from the Arabian/Persian gulf can survive even more extreme temperature regime (Riegl et al. 2011).
+
+--- SENTENCE 41 ---
+Furthermore, it is becoming more evident that some corals can gain thermotolerance or become dominant with increasing exposure to bleaching temperatures (Guest et al. 2012; Pratchett et al. 2013; Kemp et al. 2014), which provides opportunities to study the mechanisms of acclimatization and/or adaptation to climate change.
+
+--- SENTENCE 42 ---
+We exposed 20 Acropora hyacinthus colonies to controlled bleaching conditions that mimic natural daily cycles of high heat stress during extreme temperature events.
+
+--- SENTENCE 43 ---
+We compared changes in gene expression at the onset of heat stress (1 h postheat exposure corresponding to the 5-h time point) and 15 h later at the onset of bleaching (i.e. at the 20-h time point) after colonies had been returned to normal temperatures.
+
+--- SENTENCE 44 ---
+The results show a surprisingly wide transcriptome response before bleaching begins, and rapid return to normal expression levels for many genes.
+
+--- SENTENCE 45 ---
+The return to normal gene expression levels varies from gene to gene and colony to colony and may signal the resilience of the transcriptome to environmental stress.
+
+--- SENTENCE 46 ---
+This variation in return to normal expression may underlie some of the variation in stress response seen in previous studies and adds to other components of the stress response in corals and other species.
+
+--- SENTENCE 47 ---
+# Materials and methods
+
+Sample preparation and experimental design
+
+Twelve small nubbins (~3 cm<sup>3</sup> ) of Acropora hyacinthus (cryptic species E in Ladner & Palumbi 2012) were cut from each of 20 colonies from the south lagoon of Ofu Island, American Samoa (14°11<sup>0</sup> S, 169°36<sup>0</sup> W), and glued underwater onto nylon bolts using two-part underwater epoxy stick (Loctite 82093).
+
+--- SENTENCE 48 ---
+The nubbins were evenly distributed among and screwed onto 12 egg crate platforms, which were then secured to the substratum randomly across the area of sampling for a period of acclimatization and growth.
+
+--- SENTENCE 49 ---
+After 17 months, eight nubbins from each of 18 colonies and four nubbins from each of two colonies were collected and used in a controlled heat stress experiment as in the following design: (18 colonies in duplicate + 2 colonies in singleton) 9 2 conditions 9 2 time points (Appendix S1, Supporting information).
+
+--- SENTENCE 50 ---
+Control subjects were kept at a constant 29 °C, while the heat stress treatment mimicked a natural bleaching temperature regime observed in the lagoon: heated corals were ramped from 29 to 35 °C over 3 h, held at 35 °C for 1 h, and then freely returned to 29 °C in ~2 h.
+
+--- SENTENCE 51 ---
+To coincide with the natural circadian rhythm of corals, the peak in heat stress was timed to occur in the early afternoon, when corals would normally experience temperature highs.
+
+--- SENTENCE 52 ---
+Samples were collected after 5 and 20 h from the start of the experiment.
+
+--- SENTENCE 53 ---
+The 5-h time point occurred 1 h after the peak in heat stress and was chosen to capture the changes taking place at the onset of heat stress.
+
+--- SENTENCE 54 ---
+Based on pilot experiments, the 20-h time point was chosen to investigate the changes taking place at the onset of visually detected bleaching.
+
+--- SENTENCE 55 ---
+At that time, heated colonies were graded on a five-point scale of bleaching (1-normal = same as control, 2-slight = a little pale, 3-moderate = half as coloured as control, 4-severe = very pale but still a tinge, 5-total = bone white) in relation to the control nubbins.
+
+--- SENTENCE 56 ---
+One half of each nubbin was preserved in RNA stabilizing buffer and stored at -80 °C until molecular analysis, and the other half was preserved in 100% ethanol for chlorophyll a pigment extraction.
+
+#### RNA isolation, sequencing and raw data processing
+
+Total RNA was extracted from each sample following the modified TRIzol Reagent (Life Technologies) protocol in Barshis et al.
+
+--- SENTENCE 57 ---
+(2013; Appendix S1, Supporting information).
+
+--- SENTENCE 58 ---
+A total of 152 libraries were constructed using 1 lg of total RNA following the TruSeq RNA Sample Prep v2 (LS) protocol (Illumina).
+
+--- SENTENCE 59 ---
+cDNA was synthesized using the SuperScript III reverse transcriptase (Life Technologies).
+
+--- SENTENCE 60 ---
+Purification of cDNAs throughout the TruSeq protocol was performed using the Agencourt AMPure XP system (Beckman Coulter).
+
+--- SENTENCE 61 ---
+Sequencing was performed on the Illumina HiSeq 2000 sequencer at the Huntsman Cancer Institute of the University of Utah.
+
+--- SENTENCE 62 ---
+All libraries were sequenced with 50-bp single-end sequencing length.
+
+--- SENTENCE 63 ---
+TruSeq raw sequences were processed following the pipeline methodology described in De Wit et al. (2012).
+
+--- SENTENCE 64 ---
+Reads were mapped to the de novo assembly constructed by Barshis et al. (2013) to produce the raw gene expression count data for further analysis.
+
+--- SENTENCE 65 ---
+# Gene expression and statistical analysis
+
+Gene expression analysis was performed with the DESEQ package (Anders & Huber 2010) in <sup>R</sup> (R Core Team 2014).
+
+--- SENTENCE 66 ---
+After normalization for variation in library size, the data variance (i.e. dispersion) was estimated and the significance of heat stress at two different time points evaluated using log ratio tests of nested negative binomial generalized linear models (GLMs), taking into account fixed expression differences between individual coral colonies regardless of heat stress (Appendix S1, Supporting information).
+
+--- SENTENCE 67 ---
+P-values were adjusted using the Benjamini– Hochberg (BH) method controlling the false discovery rate at a 0.01 level.
+
+--- SENTENCE 68 ---
+Differences in expression levels were calculated in four comparisons: (i) control vs. heated at 5 h, (ii) control vs. heated at 20 h, (iii) control at 5 h vs. control at 20 h, and (iv) heated at 5 h vs. heated at 20 h, corresponding to the onset of heat stress, the onset of bleaching, the effect of time/acclimation, and the change from heat stress to bleaching, respectively.
+
+--- SENTENCE 69 ---
+We applied two filters to exclude contiguous sequences (contigs) for which we had little power to detect expression differences from multiple test correction: (i) low contig average in normalized expression across samples with a cut-off of three reads (i.e. the sample average median for normalized expression level across all contigs) and (ii) high intercolony variability contigs (within-group mean <1 standard deviation).
+
+--- SENTENCE 70 ---
+PCAs were computed in <sup>R</sup> using the entire normalized expression data in the PCAGOPROMOTER package (Hansen et al. 2012).
+
+#### Functional analysis
+
+The 33 496 A. hyacinthus contigs were used to retrieve homologous gene identification codes (IDs) from Uni-Prot (UniProt Consortium 2008), KEGG (Kyoto Encyclopedia of Genes and Genomes, (Kanehisa et al. 2004) and GO (The Gene Ontology Consortium 2000) databases using the Basic Local Alignment Search Tool (NCBI).
+
+--- SENTENCE 71 ---
+The homologous gene IDs for the filtered differentially expressed contigs (DECs) subsets from the gene expression analyses were used in comparative and functional enrichment analyses using three methods: UniProt IDs with the Database for Annotation, Visualization and Integrated Discovery (DAVID 6.7; Huang et al. 2008), KEGG Orthology (KO) codes with KEGG mapper (Kanehisa et al. 2014) and GO terms with keywords to compute hypergeometric probabilities (Appendix S1, Supporting information).
+
+--- SENTENCE 72 ---
+## Results
+
+Our samples from 20 genetically distinct colonies exposed to control and heated conditions at two time points (5 and 20 h) constitute a total of 152 sequenced transcriptomes, which to our knowledge, is one of the largest and most replicated genomics data sets to study heat stress in a marine organism.
+
+--- SENTENCE 73 ---
+The reference transcriptome of Acropora hyacinthus used in this study was previously assembled de novo (Barshis et al. 2013) and consisted of 33 496 unique contigs including 24 980 (75%) matching nucleotide collection (nr/nt) entries (e-value < 10-4 , The National Center for Biotechnology Information).
+
+--- SENTENCE 74 ---
+Based on the 27 000 predicted transcripts from the genome of the congener Acropora digitifera (Shinzato et al. 2012), the data generated in this study likely represents a large fraction of the transcriptome of Acropora hyacinthus.
+
+--- SENTENCE 75 ---
+On average, over one million reads were analysed per sample, with 50% of the contigs represented by ≥3 reads on average across all samples.
+
+--- SENTENCE 76 ---
+Further comparison to curated functional databases led to the additional annotation of the transcriptome with 24 394 UniProt, 10 168 KEGG, 16 117 GO-Cellular Component, 18 297 GO-Biological Process and 17 448 GO-Molecular Function homologous gene IDs (e-value < 10-4 ).
+
+--- SENTENCE 77 ---
+Overall, the lists of DECs detected at both time points were significantly enriched for 71 functional annotation clusters (using EASE score < 0.05 and high classification stringency in DAVID 6.7; Huang et al. 2008) as well as 36 molecular pathways supported both by the mapping to KEGG Orthology and the representation of pathway keywords across GO terminologies (hypergeometric probability < 0.01).
+
+#### Overall transcriptome changes
+
+At the onset of heat stress, 1 h postheat exposure (5-h time point), a total of 8913 DECs (27% of all contigs, p-adj < 0.01; Fig.
+
+--- SENTENCE 78 ---
+1) were found between heated and control samples (negative binomial GLM with a paired design by genotypes).
+
+--- SENTENCE 79 ---
+Among these DECs, 4283 and 4630 were up- and downregulated, respectively (-19.2> fold change (FC) <36.9, FC medians at -1.9 and 1.8).
+
+--- SENTENCE 80 ---
+Fifteen hours later, when bleaching became obvious (Fig. 3b), 3846 DECs (12%) were detected between heated and control samples (1975 up- and 1871 downregulated, -18.6>
+
+--- SENTENCE 81 ---
+19.1, FC medians at -1.6 and 1.6), representing a drop of 15% in overall transcriptome activity.
+
+--- SENTENCE 82 ---
+Comparing expression in heated samples, 8372 DECs (25%) differed with time after heat stress (4247 up- and 4125 downregulated, -45.2> FC < 19.0, FC medians at
+
+!
+
+--- SENTENCE 83 ---
+1 Venn diagram showing the number of differentially expressed contigs detected in analyses addressing the change in gene expression level at the onset of heat stress, during the time interval leading to bleaching, and at the onset of bleaching.
+
+--- SENTENCE 84 ---
+Some of these were genes that returned to normal expression after changing at 5 h. Others altered expression only after the 5-h time point.
+
+--- SENTENCE 85 ---
+A similar analysis across time points using control samples revealed 3358 DECs (10%) that changed between 5 and 20 h in the control tanks.
+
+--- SENTENCE 86 ---
+These differences were influenced by circadian rhythm and acclimation to tank conditions (1517 up- and 1841 downregulated, -10.5>
+
+--- SENTENCE 87 ---
+FC < 14.4, FC medians at -1.5 and 1.4).
+
+--- SENTENCE 88 ---
+Principal component analyses (PCAs) corroborated the major gene expression patterns.
+
+--- SENTENCE 89 ---
+The PCA comparing controls between time points reveals some influence of time and acclimation, but the overall difference between time points is small when considering the large overlap in the 95% confidence intervals of each treatment (Fig. 2a).
+
+--- SENTENCE 90 ---
+Conversely, there was a clear separation of the 95% confidence intervals between the control and heated samples at 5 h (Fig. 2c) and between the heated samples at each time point (Fig. 2b).
+
+--- SENTENCE 91 ---
+In both analyses, the treatment groups distinctively separated along principal component 2, which explains 14% of the variance for both analyses (Fig.
+
+--- SENTENCE 92 ---
+By the time bleaching was observed (20 h), a portion of the heat stress-responsive transcripts had already returned to control activity level as shown by (Fig.
+
+--- SENTENCE 93 ---
+2d): (i) the overlap in the 95% confidence intervals between the heated and control samples and (ii) only 9% of the variance explained by principal component 2.
+
+--- SENTENCE 94 ---
+A detailed analysis of the gene expression profiles among all differentially expressed contigs detected in our experiments revealed four main subsets of contigs coexpressed over time.
+
+--- SENTENCE 95 ---
+We refer to these expression profiles as transient, slow return, late, and lingering responses for clarity.
+
+--- SENTENCE 96 ---
+Figure 3a shows the absolute mean fold change representative of these main gene
+
+!
+
+--- SENTENCE 97 ---
+2 PCAs of normalized expression values for all 33 496 contigs of each sample in all four comparisons: (a) 5 vs. 20 h in controls, (b) 5 vs. 20 h heated (c) control vs. heated at 5 h and (d) control vs. heated at 20 h.
+
+--- SENTENCE 98 ---
+Axes labels show the proportion of variance explained by each principal component.
+
+--- SENTENCE 99 ---
+Symbols (time points) and colours (treatments) explained in key at bottom.
+
+--- SENTENCE 100 ---
+The coloured ellipses show the 95% confidence intervals for each treatment, and the dotted line ellipse corresponds to the overall 95% confidence interval.
+
+expression profiles and the number of genes exemplifying them.
+
+--- SENTENCE 101 ---
+Transient response—genes that were different at 5 h but not at 20 h.
+
+--- SENTENCE 102 ---
+Among the differentially expressed contigs detected at 5 h, 5042 DECs (Fig. 1) showed different expression levels at 5 h in heated vs. control corals, but subsequently returned to control level by the time bleaching was observed at the 20-h time point (Fig. 1), except for eight contigs.
+
+--- SENTENCE 103 ---
+These changes in expression occurred in 57% of the contigs that showed a heat stress response at 5 h and thus represent the transient component in prebleaching gene expression activity.
+
+--- SENTENCE 104 ---
+This transient response was divided into 2311 upand 2731 downregulated contigs at 5 h.
+
+--- SENTENCE 105 ---
+The genes that were upregulated at 5 h but returned to control level at 20 h were significantly enriched for: (i) the GO-BP including apoptosis, protein transport/localization/processing, regulation of phosphorylation, and lymphocyte activation, (ii) the GO-MF including GTPase regulator and threonine-type endopeptidase activity, GTP and HSP binding and (iii) the GO-CC including cytoplasmic vesicle, membrane fraction and proteasome (Table 1).
+
+--- SENTENCE 106 ---
+Among the downregulated genes at 5 h that returned to control level at 20 h, two main cellular activities were identified from the functional annotation clusters (DAVID): (i) ribosomal RNA processing and protein import into nucleus and (ii) messenger RNA processing/transport (Table 1).
+
+--- SENTENCE 107 ---
+Slow return response—genes that were different at 5 h and were returning towards normal at 20 h.
+
+--- SENTENCE 108 ---
+Another smaller set of genes (1215 DECs) also showed expression changes in 5 h but not 20-h-heated samples.
+
+--- SENTENCE 109 ---
+However, they did not show significant differences between 5 and 20 h in heated samples.
+
+--- SENTENCE 110 ---
+For 178 of these contigs, this trend resulted from similar expression values seen in 5-h-heated and 20-h-heated samples, and a change in expression in 20 h controls instead.
+
+--- SENTENCE 111 ---
+The remaining 1037 contigs showed a tendency of heated samples to be more like control levels at 20 h, which resulted in no longer being significantly different from controls at 20 h, but not enough change had occurred to be statistically different from 5-h-heated samples.
+
+--- SENTENCE 112 ---
+These genes can be considered to be at an intermediate stage of the return to control level exemplified by the genes of the transient response.
+
+--- SENTENCE 113 ---
+These 1215 DECs were divided into 611 up- and 604 downregulated contigs.
+
+--- SENTENCE 114 ---
+Among the genes that were upregulated at 5 h, the GO-BP negative regulation of cell migration and the regulation of phospholipase/ lyase activity were significantly represented.
+
+--- SENTENCE 115 ---
+The downregulated contigs were enriched for the GO-BP antibiotic transport and mRNA splicing/processing (Table 1).
+
+!
+
+--- SENTENCE 116 ---
+[](_page_5_Figure_3.jpeg)
+
+Fig. 3 (a) Mean absolute fold change for DECs belonging to the four main gene expression profiles identified during the bleaching experiments.
+
+--- SENTENCE 117 ---
+(b) The average loss of chlorophyll a pigments in heated samples across colonies at the 20-h time point.
+
+--- SENTENCE 118 ---
+(c) Summer temperature anomaly logged in situ in the Ofu Island southern lagoon.
+
+--- SENTENCE 119 ---
+Late response—genes that were different at 20 h but not at 5 h. At the 20-h time point, 417 differentially expressed contigs that were at control level at 5 h, showed different expression levels in heated vs. control samples (Fig. 1), representing a late response relative to the heat stress.
+
+--- SENTENCE 120 ---
+Another larger set of 773 contigs showed a similar trend, however, like the Slow return genes, these genes (773 DECs) did not show different expression levels between 5 and 20 h in heated samples.
+
+--- SENTENCE 121 ---
+For 344 of the 773 DECs, the difference in expression levels at 20 h resulted from changes in the control samples over time.
+
+--- SENTENCE 122 ---
+The remaining 429 DECs were excluded from the 5 h comparison by the statistical filters.
+
+--- SENTENCE 123 ---
+Among the genes that were unresponsive to heat stress at 5 h but showed a significant change in expression at 20 h (417 and 773 DECs), 485 upregulated contigs were significantly enriched for proteinaceous extracellular matrix (ECM).
+
+--- SENTENCE 124 ---
+The 705 downregulated contigs at 20 h were enriched for regulation of actin and tissue morphogenesis (Table 1).
+
+--- SENTENCE 125 ---
+Lingering response—genes that were detected at both 5 and 20 h. There were 2656 contigs (2040 and 616 DECs) with different expression levels in heated vs. controls at both 5 and 20-h time points (Fig. 1).
+
+--- SENTENCE 126 ---
+The 616 contigs that were differentially expressed in heated vs. control samples at both time points remained the same in heated samples from 5 to 20 h, representing a lingering response to heat stress until the onset of bleaching.
+
+--- SENTENCE 127 ---
+The other 2040 contigs showed significant changes in expression levels at 5 and 20 h but also differed in heated samples between 5 and 20 h.
+
+--- SENTENCE 128 ---
+Similarly to the 1215 and 5042 DECs above, most of the genes represented in the 2040 DECs showed an attenuation towards control levels over time.
+
+--- SENTENCE 129 ---
+In other words, expression levels in heated samples were closer to control levels at 20 h than at 5 h.
+
+Of the combined 2656 DECs, 1235 and 1040 were up- and downregulated at both time points, respectively.
+
+--- SENTENCE 130 ---
+The remaining 381 DECs showed opposite fold changes at the two time points: 126 DECs upregulated at 5 h were downregulated at 20 h and 255 DECs exhibited the reverse pattern.
+
+--- SENTENCE 131 ---
+The consistently upregulated DECs (1235) represented the functional annotation clusters for regulation of immune system, apoptosis and transcription.
+
+--- SENTENCE 132 ---
+Other functional clusters included in the upregulated genes were G protein-coupled receptor protein signalling, myosin filament assembly, protein phosphorylation and vesicle targeting (Table 1).
+
+--- SENTENCE 133 ---
+The consistently downregulated genes (1040) were significantly enriched for: (i) the collagens, ECM and lysosome GO-CCs, (ii) the cation/ion transport, antioxidant activity, ubiquinone and steroid metabolic processes, nucleosome assembly and negative regulation of transcription GO-BPs and (iii) the ECM structural constituent, carbonate dehydratase activity, sodium and selenium ion binding, and serine hydrolase activity GO-MFs (Table 1).
+
+--- SENTENCE 134 ---
+Table 1 Broad biological processes, molecular functions and cellular components for which the transient, slow return, late and lingering DEC groups were enriched using Uni-Prot IDs (DAVID high classification stringency, EASE score <sup>&</sup>lt; 0.05)
+
+|                                                                                                                             | llu<br>lar<br>GO<br>Ce<br>ts<br>co<br>mp<br>on<br>en<br>_                                                                                                                                                                                                                                                                                                                | log<br>l p<br>GO<br>Bio<br>ica<br>roc<br>ess<br>es<br>_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | lec<br>ula<br>r f<br>GO<br>Mo<br>cti<br>un<br>on<br>s<br>_                                                                                                                                                                                                                                                 |
+|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tr<br>sie<br>ula<br>ted<br>nt:<br>an<br>up<br>reg<br>5 h<br>d r<br>at<br>an<br>eco<br>ve<br>r<br>tim<br>ov<br>er<br>e       | GO<br>:00<br>314<br>10~<br>las<br>mi<br>esi<br>cle<br>top<br>cy<br>c v<br>GO<br>:00<br>160<br>23~<br>las<br>mi<br>top<br>cy<br>c<br>mb<br>e-b<br>nd<br>ed<br>le<br>sic<br>me<br>ran<br>ou<br>ve<br>bra<br>-bo<br>de<br>d<br>GO<br>:00<br>31<br>988<br>~m<br>em<br>ne<br>un<br>sic<br>le<br>ve                                                                            | GO<br>:00<br>125<br>01~<br>ed<br>cel<br>l d<br>h<br>eat<br>pro<br>gra<br>mm<br>GO<br>:00<br>069<br>15~<br>is<br>tos<br>ap<br>op<br>GO<br>de<br>ath<br>:00<br>162<br>65~<br>cel<br>l d<br>h<br>GO<br>:00<br>082<br>19~<br>eat                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | GO<br>:00<br>605<br>89~<br>cle<br>osi<br>de<br>nu<br><br>trip<br>ho<br>ha<br>ula<br>ivi<br>tas<br>tor<br>act<br>ty<br>sp<br>e r<br>eg<br>GO<br>all<br>GT<br>:00<br>050<br>83~<br>Pa<br>sm<br>se<br>ula<br>ivi<br>tor<br>act<br>ty<br>reg<br>GO<br>:00<br>30<br>695<br>~G<br>TP<br>ula<br>tor<br>ase<br>reg |
+|                                                                                                                             | las<br>cle<br>GO<br>:00<br>444<br>33~<br>mi<br>esi<br>top<br>rt<br>cy<br>c v<br>pa<br>GO<br>:00<br>30<br>662<br>d v<br>esi<br>cle<br>mb<br>ate<br>~co<br>me<br>ran<br>e<br>GO<br>:00<br>30<br>659<br>las<br>cle<br>mi<br>esi<br>top<br>~cy<br>c v<br>mb<br>me<br>ran<br>e<br>GO<br>:00<br>125<br>06~<br>sic<br>le<br>mb                                                  | GO<br>:00<br>150<br>31~<br>tei<br>n t<br>ort<br>pro<br>ran<br>sp<br>GO<br>:00<br>45<br>184<br>bli<br>shm<br>f p<br>ein<br>loc<br>ali<br>ion<br>sta<br>t o<br>rot<br>zat<br>~e<br>en<br>GO<br>:00<br>08<br>104<br>loc<br>ali<br>ein<br>ion<br>rot<br>zat<br>~p                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | ivi<br>act<br>ty<br>P b<br>ind<br>GO<br>:00<br>055<br>25~<br>GT<br>ing<br>GO<br>:00<br>190<br>01~<br>l<br>gu<br>an<br>y<br>cle<br>de<br>bin<br>din<br>oti<br>nu<br>g<br>GO<br>l<br>:00<br>325<br>61~<br>gu<br>an<br>y<br>rib<br>leo<br>tid<br>e b<br>ind                                                   |
+|                                                                                                                             | ve<br>me<br>ran<br>e<br>GO<br>:00<br>058<br>39~<br>lex<br>tea<br>pro<br>som<br>e c<br>ore<br>co<br>mp                                                                                                                                                                                                                                                                    | GO<br>:00<br>30<br>163<br>ein<br>ab<br>oli<br>rot<br>cat<br>~p<br>c p<br>roc<br>ess<br>GO<br>lec<br>ule<br>ab<br>oli<br>:00<br>090<br>57~<br>cat<br>ma<br>cro<br>mo<br>c p<br>roc<br>ess<br>lys<br>olv<br>ed<br>cel<br>lul<br>GO<br>:00<br>51<br>603<br>is<br>inv<br>in<br>in<br>rot<br>ote<br>~p<br>eo<br>ar<br>pr<br>ab<br>oli<br>cat<br>c p<br>roc<br>ess<br>GO<br>:00<br>44<br>25<br>7~<br>cel<br>lul<br>ab<br>oli<br>in<br>ote<br>cat<br>ar<br>pr<br>c p<br>roc<br>ess<br>GO<br>llu<br>lar<br>lec<br>ule<br>ab<br>oli<br>:00<br>44<br>265<br>cat<br>~ce<br>ma<br>cro<br>mo<br>c p<br>roc<br>ess<br>GO<br>:00<br>199<br>41<br>od<br>ific<br>ati<br>-de<br>nd<br>ein<br>t p<br>rot<br>~m<br>on<br>pe<br>en<br>ab<br>oli<br>cat<br>c p<br>roc<br>ess<br>GO<br>od<br>ific<br>-de<br>nd<br>:00<br>43<br>632<br>ati<br>t<br>~m<br>on<br>pe<br>en<br>lec<br>ule<br>ab<br>oli<br>cat<br>ma<br>cro<br>mo<br>c p<br>roc<br>ess | ing<br>on<br>uc<br>GO<br>:00<br>31<br>072<br>~h<br>sh<br>ock<br>eat<br>n b<br>ind<br>tei<br>ing<br>pro                                                                                                                                                                                                     |
+|                                                                                                                             | GO<br>:00<br>056<br>26~<br>ins<br>olu<br>ble<br>fra<br>cti<br>on<br>GO<br>cel<br>l fr<br>:00<br>002<br>67~<br>ion<br>act<br>GO<br>mb<br>e f<br>:00<br>056<br>24~<br>tio<br>me<br>ran<br>rac<br>n                                                                                                                                                                         | GO<br>:00<br>45<br>32<br>1~l<br>iva<br>tio<br>te<br>act<br>eu<br>coc<br>y<br>n<br>GO<br>~ly<br>ho<br>:00<br>46<br>649<br>iva<br>tio<br>te<br>act<br>mp<br>cy<br>n<br>GO<br>ll a<br>:00<br>01<br>775<br>cti<br>tio<br>~ce<br>va<br>n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | GO<br>:00<br>042<br>98~<br>thr<br>nin<br>e-t<br>eo<br>yp<br>e<br>do<br>tid<br>ivi<br>act<br>ty<br>en<br>pe<br>p<br>ase<br>GO<br>thr<br>:00<br>700<br>03~<br>nin<br>e-t<br>eo<br>yp<br>e<br>tid<br>ivi<br>act<br>ty<br>pe<br>p<br>ase                                                                       |
+|                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                          | GO<br>:00<br>068<br>86~<br>int<br>ell<br>ula<br>ein<br>rot<br>tra<br>rt<br>rac<br>r p<br>ns<br>po<br>GO<br>llu<br>lar<br>loc<br>ali<br>:00<br>34<br>613<br>in<br>ion<br>ote<br>zat<br>~ce<br>pr<br>cel<br>lul<br>lec<br>ule<br>loc<br>ali<br>GO<br>:00<br>707<br>27~<br>ion<br>zat<br>ar<br>ma<br>cro<br>mo<br>GO<br>:00<br>42<br>325<br>lat<br>ion<br>of<br>ho<br>ho<br>lat<br>ion<br>~re<br>gu<br>p<br>sp<br>ry<br>GO<br>lat<br>of<br>kin<br>:00<br>45<br>859<br>ion<br>in<br>ivi<br>ote<br>act<br>ty<br>~re<br>gu<br>pr<br>ase<br>ula<br>f p<br>ho<br>ha<br>tab<br>oli<br>GO<br>:00<br>192<br>20~<br>tio<br>te<br>reg<br>n o<br>sp<br>me<br>c p<br>roc<br>ess<br>GO<br>:00<br>51<br>174<br>lat<br>ion<br>of<br>ho<br>ho<br>bo<br>lic<br>eta<br>~re<br>gu<br>p<br>sp<br>ru<br>s m<br>pr<br>oce<br>ss<br>GO<br>lat<br>of<br>kin<br>:00<br>435<br>49<br>ion<br>ivi<br>act<br>ty<br>~re<br>gu<br>ase                       |                                                                                                                                                                                                                                                                                                            |
+| Tr<br>sie<br>do<br>ula<br>ted<br>nt:<br>an<br>wn<br>reg<br>5 h<br>d r<br>at<br>an<br>eco<br>ve<br>r<br>tim<br>ov<br>er<br>e | GO<br>:00<br>31<br>974<br>bra<br>clo<br>sed<br>~m<br>em<br>ne<br>-en<br>lum<br>GO<br>:00<br>43<br>233<br>lle<br>lum<br>en<br>~o<br>rga<br>ne<br>en<br>GO<br>ell<br>ula<br>:00<br>700<br>13~<br>int<br>rac<br>r<br>ell<br>e l<br>org<br>an<br>um<br>en<br>GO<br>:00<br>31<br>98<br>1~n<br>lea<br>r l<br>uc<br>um<br>en<br>GO<br>bo<br>:00<br>058<br>40<br>~ri<br>som<br>e | GO<br>:00<br>42<br>254<br>~ri<br>bo<br>e b<br>iog<br>esi<br>som<br>en<br>s<br>GO<br>:00<br>160<br>72~<br>rR<br>NA<br>tab<br>oli<br>me<br>c p<br>roc<br>ess<br>GO<br>:00<br>063<br>64~<br>rR<br>NA<br>ssi<br>pr<br>oce<br>ng                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | GO<br>:00<br>168<br>59~<br>cis<br>-tr<br>an<br>s<br>iso<br>cti<br>vit<br>me<br>ras<br>e a<br>y<br>GO<br>tid<br>l-p<br>rol<br>l<br>:00<br>03<br>755<br>~p<br>ep<br>y<br>y<br>cis<br>s i<br>ivi<br>-tr<br>act<br>ty<br>an<br>som<br>era<br>se                                                                |
+
+Table 1Continued
+
+|                                                                           | llu<br>lar<br>GO<br>Ce<br>ts<br>co<br>mp<br>on<br>en<br>_                                                                                                                                                                                                                                                                                           | log<br>l p<br>GO<br>Bio<br>ica<br>roc<br>ess<br>es<br>_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | lec<br>ula<br>r f<br>GO<br>Mo<br>cti<br>un<br>on<br>s<br>_                                                                                                                                                                                                                                                                                                  |
+|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                           |                                                                                                                                                                                                                                                                                                                                                     | GO<br>lic<br>:00<br>083<br>80~<br>RN<br>A<br>ing<br>sp<br>GO<br>:00<br>063<br>97~<br>mR<br>NA<br>ssi<br>pr<br>oce<br>ng<br>GO<br>:00<br>160<br>71~<br>mR<br>NA<br>tab<br>oli<br>me<br>c p<br>roc<br>ess<br>GO<br>:00<br>51<br>028<br>RN<br>A<br>tra<br>rt<br>~m<br>ns<br>po<br>lei<br>cid<br>GO<br>:00<br>50<br>65<br>7~n<br>tra<br>rt<br>uc<br>c a<br>ns<br>po<br>GO<br>:00<br>50<br>658<br>~R<br>NA<br>tra<br>rt<br>ns<br>po<br>GO<br>ab<br>lis<br>hm<br>f R<br>NA<br>loc<br>ali<br>:00<br>512<br>36~<br>ion<br>est<br>t o<br>zat<br>en<br>GO<br>cle<br>ob<br>leo<br>sid<br>cle<br>de<br>:00<br>159<br>31~<br>oti<br>nu<br>ase<br>, n<br>uc<br>e,<br>nu<br>d n<br>lei<br>cid<br>tra<br>rt<br>an<br>uc<br>c a<br>ns<br>po<br>GO<br>:00<br>064<br>03~<br>RN<br>A<br>loc<br>ali<br>ion<br>zat<br>GO<br>:00<br>170<br>38~<br>tei<br>n i<br>ort<br>pro<br>mp<br>n l<br>liz<br>ell<br>GO<br>:00<br>333<br>65~<br>tei<br>ati<br>in<br>pro<br>oca<br>on<br>org<br>an<br>e<br>GO<br>:00<br>066<br>05~<br>tei<br>eti<br>n t<br>pro<br>arg<br>ng<br>GO<br>leu<br>:00<br>066<br>06~<br>tei<br>n i<br>int<br>ort<br>pro<br>mp<br>o n<br>uc<br>s<br>lea<br>GO<br>:00<br>51<br>170<br>r i<br>ort<br>~n<br>uc<br>mp<br>GO<br>:00<br>345<br>04~<br>tei<br>n l<br>liz<br>ati<br>in<br>cle<br>pro<br>oca<br>on<br>nu<br>us<br>GO<br>RN<br>A<br>lic<br>fic<br>:00<br>003<br>75~<br>ing<br>ia<br>eri<br>ati<br>cti<br>tra<br>est<br>sp<br>, v<br>ns<br>on<br>rea<br>on<br>s<br>lic<br>fic<br>GO<br>:00<br>003<br>77~<br>RN<br>A<br>ing<br>ia<br>eri<br>ati<br>cti<br>tra<br>est<br>sp<br>, v<br>ns<br>on<br>rea<br>on<br>s<br>wi<br>th<br>bu<br>lge<br>d a<br>de<br>sin<br>leo<br>hil<br>no<br>e a<br>s n<br>uc<br>p<br>e<br>GO<br>cle<br>mR<br>NA<br>lic<br>lic<br>:00<br>003<br>98~<br>ing<br>ia<br>nu<br>ar<br>sp<br>, v<br>sp<br>eo<br>som<br>e | GO<br>al<br>:00<br>03<br>735<br>~st<br>tur<br>ruc<br>sti<br>of<br>rib<br>tue<br>nt<br>con<br>oso<br>me                                                                                                                                                                                                                                                      |
+| Slo<br>ret<br>w<br>urn<br>:<br>ula<br>ted<br>5 h<br>at<br>up<br>reg       | GO<br>:00<br>058<br>40<br>~ri<br>bo<br>som<br>e<br>cle<br>GO<br>:00<br>30<br>127<br>~C<br>OP<br>II v<br>esi<br>at<br>co<br>GO<br>:00<br>125<br>07~<br>ER<br>Go<br>lg<br>i tr<br>to<br>ort<br>an<br>sp<br>le<br>mb<br>sic<br>ve<br>me<br>ran<br>e<br>GO<br>olg<br>:00<br>30<br>134<br>~E<br>R t<br>o G<br>i tr<br>ort<br>an<br>sp<br>sic<br>le<br>ve | GO<br>:00<br>303<br>36~<br>tiv<br>ula<br>tio<br>f c<br>ell<br>mi<br>tio<br>ne<br>ga<br>e r<br>eg<br>n o<br>gra<br>n<br>GO<br>:00<br>40<br>013<br>ati<br>ula<br>tio<br>f lo<br>oti<br>~n<br>eg<br>ve<br>reg<br>n o<br>com<br>on<br>GO<br>ula<br>f c<br>ell<br>:00<br>512<br>71~<br>tiv<br>tio<br>tio<br>ne<br>ga<br>e r<br>eg<br>n o<br>mo<br>n<br>f p<br>ho<br>ho<br>lip<br>by<br>GO<br>:00<br>072<br>00~<br>iva<br>tio<br>C<br>ivi<br>act<br>act<br>ty<br>n o<br>sp<br>ase<br>G-<br>tei<br>led<br>in<br>sig<br>lin<br>ath<br>tor<br>ote<br>pro<br>n c<br>ou<br>p<br>rec<br>ep<br>pr<br>na<br>g p<br>wa<br>y<br>led<br>IP3<br>d m<br>to<br>cou<br>p<br>sec<br>on<br>ess<br>en<br>ge<br>r<br>GO<br>f p<br>ho<br>ho<br>lip<br>:00<br>072<br>02~<br>iva<br>tio<br>C<br>ivi<br>act<br>act<br>ty<br>n o<br>sp<br>ase<br>GO<br>:00<br>105<br>18~<br>sit<br>ive<br>ula<br>tio<br>f p<br>ho<br>ho<br>lip<br>ivi<br>act<br>ty<br>po<br>reg<br>n o<br>sp<br>ase<br>GO<br>:00<br>108<br>63~<br>sit<br>ive<br>ula<br>tio<br>f p<br>ho<br>ho<br>lip<br>C<br>ivi<br>act<br>ty<br>po<br>reg<br>n o<br>sp<br>ase<br>GO<br>ula<br>f a<br>de<br>lat<br>las<br>:00<br>45<br>76<br>1~r<br>tio<br>cti<br>vit<br>eg<br>n o<br>ny<br>e c<br>yc<br>e a<br>y<br>ula<br>f ly<br>GO<br>:00<br>513<br>39~<br>tio<br>ivi<br>act<br>ty<br>reg<br>n o<br>ase<br>GO<br>:00<br>312<br>79~<br>ula<br>tio<br>f c<br>las<br>cti<br>vit<br>reg<br>n o<br>yc<br>e a<br>y                                                                                                                                                                                                                                                                                                                                                                                               | GO<br>:00<br>03<br>735<br>al<br>~st<br>tur<br>ruc<br>sti<br>of<br>rib<br>tue<br>nt<br>con<br>oso<br>me                                                                                                                                                                                                                                                      |
+| Slo<br>ret<br>w<br>urn<br>:<br>do<br>ula<br>ted<br>5 h<br>at<br>wn<br>reg | le<br>GO<br>:00<br>080<br>21~<br>tic<br>sic<br>syn<br>ap<br>ve<br>GO<br>:00<br>30<br>135<br>d v<br>esi<br>cle<br>ate<br>~co<br>GO<br>las<br>:00<br>444<br>33<br>mi<br>top<br>~cy<br>c<br>le<br>sic<br>rt<br>ve<br>pa                                                                                                                                | bio<br>GO<br>:00<br>42<br>89<br>1~a<br>nti<br>tic<br>tra<br>rt<br>ns<br>po<br>GO<br>:00<br>159<br>04~<br>lin<br>tet<br>e t<br>ort<br>rac<br>yc<br>ran<br>sp<br>GO<br>dru<br>:00<br>158<br>93~<br>tra<br>rt<br>g<br>ns<br>po                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | dru<br>hy<br>dr<br>GO<br>:00<br>153<br>07~<br>g:<br>og<br>en<br>tip<br>ivi<br>ort<br>act<br>ty<br>an<br>er<br>GO<br>lin<br>:00<br>084<br>93~<br>tet<br>rac<br>yc<br>e<br>cti<br>vit<br>tra<br>rte<br>ns<br>po<br>r a<br>y<br>GO<br>:00<br>155<br>20~<br>lin<br>tet<br>rac<br>yc<br>e:<br>hy<br>dr<br>tip<br>ivi<br>ort<br>act<br>ty<br>og<br>en<br>an<br>er |
+
+©
+
+Table 1Continued
+
+|                                                                                                                              | GO<br>Ce<br>llu<br>lar<br>ts<br>co<br>mp<br>on<br>en<br>_                                                                                                                                                                                                                | GO<br>Bio<br>log<br>ica<br>l p<br>roc<br>ess<br>es<br>_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | GO<br>Mo<br>lec<br>ula<br>r f<br>cti<br>un<br>on<br>s<br>_                                            |
+|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+|                                                                                                                              |                                                                                                                                                                                                                                                                          | lic<br>GO<br>:00<br>083<br>80~<br>RN<br>A<br>ing<br>sp<br>GO<br>:00<br>160<br>71~<br>mR<br>NA<br>tab<br>oli<br>me<br>c p<br>roc<br>ess<br>GO<br>mR<br>NA<br>:00<br>063<br>97~<br>ssi<br>pr<br>oce<br>ng                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | GO<br>:00<br>42<br>895<br>nti<br>bio<br>tic<br>~a<br>cti<br>vit<br>tra<br>rte<br>ns<br>po<br>r a<br>y |
+| ula<br>ted<br>La<br>te:<br>up<br>reg<br>ov<br>er<br>tim<br>nd<br>ula<br>ted<br>e a<br>up<br>reg<br>h<br>20<br>at             | llu<br>lar<br>GO<br>:00<br>31<br>012<br>trix<br>xtr<br>~e<br>ace<br>ma<br>GO<br>:00<br>055<br>78~<br>tei<br>pro<br>na<br>ceo<br>us<br>ell<br>ula<br>ix<br>ext<br>atr<br>rac<br>r m<br>ell<br>ula<br>GO<br>:00<br>444<br>21~<br>ext<br>rac<br>r<br>ion<br>rt<br>reg<br>pa |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                                                                       |
+| do<br>ula<br>ted<br>La<br>te:<br>wn<br>reg<br>ov<br>er<br>tim<br>nd<br>do<br>ula<br>ted<br>e a<br>wn<br>reg<br>h<br>20<br>at | GO<br>:00<br>312<br>24~<br>int<br>rin<br>sic<br>mb<br>to<br>me<br>ran<br>e<br>GO<br>ral<br>:00<br>160<br>21~<br>int<br>eg<br>mb<br>to<br>me<br>ran<br>e                                                                                                                  | ula<br>f a<br>oly<br>de<br>lym<br>GO<br>:00<br>080<br>64~<br>tio<br>cti<br>riz<br>ati<br>eri<br>ion<br>zat<br>reg<br>n o<br>n p<br>me<br>on<br>or<br>po<br>GO<br>:00<br>30<br>832<br>lat<br>ion<br>of<br>in<br>fila<br>len<br>th<br>act<br>nt<br>~re<br>gu<br>me<br>g<br>GO<br>lat<br>of<br>ke<br>let<br>:00<br>32<br>956<br>ion<br>in<br>iza<br>tio<br>act<br>tos<br>~re<br>gu<br>cy<br>on<br>org<br>an<br>n<br>GO<br>lat<br>of<br>fila<br>ba<br>sed<br>:00<br>32<br>970<br>ion<br>in<br>act<br>nt-<br>~re<br>gu<br>me<br>pr<br>oce<br>ss<br>GO<br>:00<br>30<br>83<br>7~n<br>ati<br>ula<br>tio<br>f a<br>cti<br>n fi<br>lam<br>oly<br>riz<br>ati<br>t p<br>eg<br>ve<br>reg<br>n o<br>en<br>me<br>on<br>GO<br>:00<br>322<br>72~<br>tiv<br>ula<br>tio<br>f p<br>ein<br>lym<br>eri<br>ion<br>rot<br>zat<br>ne<br>ga<br>e r<br>eg<br>n o<br>po<br>GO<br>n fi<br>lam<br>:00<br>51<br>693<br>cti<br>ing<br>t c<br>~a<br>en<br>ap<br>p<br>ula<br>f p<br>lex<br>bly<br>GO<br>:00<br>313<br>33~<br>tiv<br>tio<br>ein<br>rot<br>ne<br>ga<br>e r<br>eg<br>n o<br>co<br>mp<br>ass<br>em<br>GO<br>:00<br>30<br>834<br>lat<br>ion<br>of<br>in<br>fila<br>de<br>lym<br>eri<br>ion<br>act<br>nt<br>zat<br>~re<br>gu<br>me<br>po<br>GO<br>ula<br>f a<br>n fi<br>lam<br>t d<br>oly<br>:00<br>30<br>835<br>ati<br>tio<br>cti<br>riz<br>ati<br>~n<br>eg<br>ve<br>reg<br>n o<br>en<br>ep<br>me<br>on<br>GO<br>ula<br>f c<br>ke<br>let<br>:00<br>514<br>93~<br>tio<br>iza<br>tio<br>tos<br>reg<br>n o<br>y<br>on<br>org<br>an<br>n<br>GO<br>:00<br>43<br>242<br>ati<br>ula<br>tio<br>f p<br>ein<br>lex<br>dis<br>bly<br>rot<br>~n<br>eg<br>ve<br>reg<br>n o<br>co<br>mp<br>ass<br>em<br>GO<br>:00<br>514<br>94~<br>tiv<br>ula<br>tio<br>f c<br>ke<br>let<br>iza<br>tio<br>tos<br>ne<br>ga<br>e r<br>eg<br>n o<br>y<br>on<br>org<br>an<br>n<br>GO<br>lat<br>of<br>lex<br>dis<br>bly<br>:00<br>43<br>244<br>ion<br>in<br>ote<br>~re<br>gu<br>pr<br>co<br>mp<br>ass<br>em<br>ula<br>f c<br>ell<br>ula<br>bio<br>GO<br>:00<br>44<br>08<br>7~r<br>tio<br>sis<br>nt<br>eg<br>n o<br>r c<br>om<br>po<br>ne<br>ge<br>ne<br>GO<br>:00<br>106<br>39~<br>tiv<br>ula<br>tio<br>f o<br>lle<br>iza<br>tio<br>ne<br>ga<br>e r<br>eg<br>n o<br>rga<br>ne<br>org<br>an<br>n<br>GO<br>lat<br>of<br>fila<br>lym<br>:00<br>30<br>833<br>ion<br>in<br>eri<br>ion<br>act<br>nt<br>zat<br>~re<br>gu<br>me<br>po<br>GO<br>ho<br>of<br>ith<br>eli<br>:00<br>020<
+
+--- SENTENCE 135 ---
+br>09~<br>sis<br>mo<br>rp<br>ge<br>ne<br>an<br>ep<br>um<br>GO<br>:00<br>163<br>31~<br>ho<br>sis<br>of<br>bry<br>ic<br>ith<br>eli<br>mo<br>rp<br>ge<br>ne<br>em<br>on<br>ep<br>um<br>GO<br>:00<br>604<br>29~<br>ith<br>eli<br>de<br>lop<br>nt<br>ep<br>um<br>ve<br>me<br>GO<br>ho<br>:00<br>48<br>729<br>~ti<br>sis<br>ssu<br>e m<br>orp<br>ge<br>ne<br>ho<br>of<br>bry<br>ith<br>eli<br>GO<br>:00<br>163<br>31~<br>sis<br>ic<br>mo<br>rp<br>ge<br>ne<br>em<br>on<br>ep<br>um<br>GO<br>:00<br>018<br>38~<br>bry<br>ic<br>ith<br>eli<br>al<br>tub<br>e f<br>ati<br>em<br>on<br>ep<br>orm<br>on<br>GO<br>be<br>lum<br>for<br>:00<br>35<br>148<br>tio<br>~tu<br>en<br>ma<br>n |                                                                                                       |
+
+--- SENTENCE 136 ---
+| Lin<br>rin<br>ula<br>ted<br>ge<br>g:<br>up<br>reg<br>nd<br>h<br>5 a<br>20<br>at                                              |                                                                                                                                                                                                                                                                          | GO<br>:00<br>025<br>20~<br>im<br>de<br>lop<br>ste<br>nt<br>mu<br>ne<br>sy<br>m<br>ve<br>me<br>GO<br>he<br>lym<br>ho<br>id<br>de<br>lop<br>:00<br>485<br>34~<br>iet<br>ic<br>
+
+--- SENTENCE 137 ---
+nt<br>mo<br>po<br>or<br>p<br>org<br>an<br>ve<br>me<br>7~h<br>GO<br>:00<br>30<br>09<br>oie<br>sis<br>em<br>op                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | GO<br>:00<br>04<br>713<br>ein<br>osi<br>rot<br>tyr<br>~p<br>ne<br>kin<br>ivi<br>act<br>ty<br>ase      |
+
+|                                                                                       | llu<br>lar<br>GO<br>Ce<br>ts<br>co<br>mp<br>on<br>en<br>_
+
+--- SENTENCE 138 ---
+| lec<br>ula<br>r f<br>GO<br>Mo<br>cti<br>un<br>on<br>s<br>_                                                                                                                                                                              |
+|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                       |                                                                                                                                                                                                                                                                                                      | GO<br>:00<br>105<br>57<br>osi<br>tiv<br>ula<br>tio<br>f m<br>ole<br>le<br>bio<br>the<br>tic<br>~p<br>e r<br>eg<br>n o<br>acr<br>om<br>cu<br>syn<br>pr<br>oce<br>ss<br>GO<br>:00<br>313<br>28~<br>sit<br>ive<br>ula<br>tio<br>f c<br>ell<br>ula<br>r b<br>ios<br>the<br>tic<br>po<br>reg<br>n o<br>yn<br>pr<br>oce<br>ss<br>GO<br>ula<br>f m<br>ole<br>le<br>tab<br>oli<br>:00<br>106<br>04~<br>sit<br>ive<br>tio<br>po<br>reg<br>n o<br>acr<br>om<br>cu<br>me<br>c p<br>roc<br>ess<br>ula<br>f b<br>the<br>GO<br>:00<br>098<br>91~<br>sit<br>ive<br>tio<br>ios<br>tic<br>po<br>reg<br>n o<br>yn<br>pr<br>oce<br>ss<br>GO<br>:00<br>45<br>94<br>1~p<br>osi<br>tiv<br>ula<br>tio<br>f tr<br>ip<br>tio<br>e r<br>eg<br>n o<br>an<br>scr<br>n<br>GO<br>ula<br>f g<br>:00<br>106<br>28~<br>sit<br>ive<br>tio<br>sio<br>po<br>reg<br>n o<br>en<br>e e<br>xp<br>res<br>n<br>ula<br>f tr<br>de<br>nd<br>GO<br>:00<br>45<br>893<br>osi<br>tiv<br>tio<br>ip<br>tio<br>DN<br>A-<br>t<br>~p<br>e r<br>eg<br>n o<br>an<br>scr<br>n,<br>pe<br>en<br>GO<br>:00<br>45<br>935<br>osi<br>tiv<br>ula<br>tio<br>f n<br>leo<br>ba<br>cle<br>osi<br>de<br>leo<br>tid<br>~p<br>e r<br>eg<br>n o<br>uc<br>se,<br>nu<br>, n<br>uc<br>e<br>d n<br>lei<br>cid<br>tab<br>oli<br>an<br>uc<br>c a<br>me<br>c p<br>roc<br>ess<br>GO<br>ula<br>f R<br>tab<br>oli<br>:00<br>512<br>54<br>osi<br>tiv<br>tio<br>NA<br>~p<br>e r<br>eg<br>n o<br>me<br>c p<br>roc<br>ess<br>GO<br>:00<br>51<br>173<br>osi<br>tiv<br>ula<br>tio<br>f n<br>itr<br>nd<br>tab<br>oli<br>~p<br>e r<br>eg<br>n o<br>og<br>en<br>co<br>mp<br>ou<br>me<br>c p<br>roc<br>ess<br>GO<br>:00<
+
+--- SENTENCE 139 ---
+d<br>h<br>:00<br>125<br>01~<br>eat<br>pro<br>gra<br>mm<br>GO<br>:00<br>069<br>15~<br>is<br>tos<br>ap<br>op<br>GO<br>:00<br>082<br>19~<br>cel<br>l d<br>h<br>eat<br>GO<br>de<br>ath<br>:00<br>162<br>65~<br>GO<br>-he<br>lpe<br>:00<br>42<br>088<br>~T<br>r 1<br>e i<br>typ<br>mm<br>un<br>e r<br>esp<br>on<br>se<br>GO<br>:00<br>42<br>108<br>osi<br>tiv<br>ula<br>tio<br>f c<br>tok<br>ine<br>bio<br>the<br>tic<br>~p<br>e r<br>eg<br>n o<br>y<br>syn<br>pr<br>oce<br>ss<br>GO<br>:00<br>454<br>10~<br>ula<br>f in<br>leu<br>kin<br>-6<br>bio<br>the<br>sit<br>ive<br>tio<br>tic<br>ter<br>po<br>reg<br>n o<br>syn<br>pr<br>oce<br>ss<br>GO<br>ula<br>f a<br>:00<br>42<br>98<br>1~r<br>tio<br>is<br>tos<br>eg<br>n o<br>po<br>p<br>lat<br>of<br>cel<br>l d<br>h<br>GO<br>:00<br>109<br>41<br>ion<br>eat<br>~re<br>gu<br>GO<br>:00<br>43<br>06<br>7~r<br>ula<br>tio<br>f p<br>d c<br>ell<br>de<br>ath<br>eg<br>n o<br>rog<br>ram<br>me<br>GO<br>cle<br>thi<br>ck<br>fila<br>bly<br>:00<br>302<br>41<br>nt<br>~m<br>us<br>me<br>ass<br>em<br>fila<br>bly<br>GO<br>:00<br>31<br>034<br>sin<br>nt<br>~m<br>yo<br>me<br>ass<br>em<br>GO<br>:00<br>31<br>033<br>sin<br>fila<br>bly<br>dis<br>bly<br>nt<br>~m<br>yo<br>me<br>ass<br>em<br>or<br>ass<br>em<br>GO<br>:00<br>148<br>66~<br>ske<br>let<br>al<br>ofi<br>bri<br>l a<br>mb<br>ly<br>my<br>sse<br>GO<br>d p<br>ho<br>ho<br>lat<br>:00<br>064<br>68~<br>tei<br>mi<br>aci<br>ion<br>pro<br>n a<br>no<br>sp<br>ry<br>GO<br>:00<br>163<br>10~<br>ho<br>ho<br>lat<br>ion<br>p<br>sp<br>ry<br>GO<br>:00<br>06<br>796<br>ho<br>ha<br>tab<br>oli<br>te<br>~p<br>sp<br>me<br>c p<br>roc<br>ess<br>GO<br>ho<br>ho<br>tab<br>oli<br>:00<br>06<br>793<br>~p<br>sp<br>rus<br>me<br>c p<br>roc<br>ess<br>bli<br>shm<br>f v<br>cle<br>loc<br>ali<br>GO<br>:00<br>51<br>650<br>esi<br>ion<br>sta<br>t o<br>zat<br>~e<br>en<br>GO<br>:00<br>069<br>03~<br>sic<br>le<br>tin<br>tar<br>ve<br>ge<br>g<br>GO<br>cle<br>loc<br>ali<br>:00<br>51<br>648<br>esi<br>ion<br>zat<br>~v | GO<br>:00<br>048<br>60~<br>tei<br>n k<br>ina<br>pro<br>se<br>inh<br>ibi<br>ivi<br>tor<br>act<br>ty<br>GO<br>kin<br>inh<br>ibi<br>:00<br>192<br>10~<br>tor<br>ase<br>ivi<br>act<br>ty                                                    |
+| Lin<br>rin<br>ge<br>g:<br>do<br>ula<br>ted<br>wn<br>reg<br>nd<br>h<br>5 a<br>20<br>at | GO<br>:00<br>055<br>81~<br>col<br>lag<br>en<br>GO<br>:00<br>055<br>78~<br>tei<br>pro<br>na<br>ceo<br>us<br>ell<br>ula<br>ix<br>ext<br>atr<br>rac<br>r m<br>GO<br>:00<br>31<br>012<br>llu<br>lar<br>trix<br>xtr<br>~e<br>ace<br>ma<br>col<br>lag<br>GO<br>:00<br>055<br>86~<br>e I<br>II<br>typ<br>en | GO<br>:00<br>068<br>14~<br>sod<br>ium<br>ion<br>tra<br>rt<br>ns<br>po<br>GO<br>xid<br>:00<br>162<br>09~<br>tio<br>cti<br>vit<br>t a<br>an<br>an<br>y<br>GO<br>:00<br>166<br>84~<br>ido<br>red<br>cti<br>vit<br>ing<br>tas<br>act<br>ox<br>uc<br>e a<br>y,<br>on<br>ide<br>tor<br>pe<br>rox<br>as<br>ac<br>cep<br>GO<br>ida<br>:00<br>046<br>01~<br>ivi<br>act<br>ty<br>pe<br>rox<br>se                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | GO<br>:00<br>052<br>01~<br>ell<br>ula<br>ext<br>rac<br>r<br>al<br>trix<br>titu<br>str<br>tur<br>t<br>ma<br>uc<br>co<br>ns<br>en<br>GO<br>bo<br>:00<br>040<br>89~<br>te<br>car<br>na<br>de<br>hy<br>dra<br>cti<br>vit<br>tas<br>e a<br>y |
+
+©
+
+Table 1Continued
+
+| GO<br>Ce<br>llu<br>lar<br>ts<br>co<br>mp<br>on<br>en<br>_ | GO<br>log<br>l p<br>Bio<br>ica<br>roc<br>ess<br>es<br>_                                                             | GO<br>lec<br>ula<br>r f<br>Mo<br>cti<br>un<br>on<br>s<br>_                                                  |
+|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+|                                                           | GO<br>ofa<br>bo<br>lic<br>:00<br>42<br>375<br>uin<br>cto<br>eta<br>~q<br>on<br>e c<br>r m<br>pr<br>oce<br>ss        | GO<br>sod<br>bin<br>din<br>:00<br>314<br>02~<br>ium<br>ion<br>g                                             |
+|                                                           | biq<br>bo<br>lic<br>GO<br>:00<br>06<br>743<br>uin<br>eta<br>~u<br>on<br>e m<br>pr<br>oce<br>ss
+
+--- SENTENCE 140 ---
+| alk<br>ali<br>tal<br>GO<br>:00<br>314<br>20~<br>ion<br>me                                                   |
+|                                                           | GO<br>:00<br>06<br>744<br>biq<br>uin<br>e b<br>ios<br>the<br>tic<br>~u<br>on<br>yn<br>pr<br>oce<br>ss               | bin<br>din<br>g                                                                                             |
+|                                                           | GO<br>fac<br>bio<br>the<br>:00<br>454<br>26~<br>ino<br>tic<br>tor<br>qu<br>ne<br>co<br>syn<br>pr<br>oce<br>ss       |                                                                                                             |
+| ly<br>ole<br>GO<br>:00<br>003<br>23~<br>tic<br>va<br>cu   | ch<br>ole<br>rol<br>tab<br>oli<br>GO<br>:00<br>082<br>03~<br>ste<br>me<br>c p<br>roc<br>ess                         | GO<br>:00<br>082<br>36~<br>ine<br>-ty<br>ser<br>pe                                                          |
+| GO<br>:00<br>05<br>764<br>~ly<br>sos<br>om<br>e           | GO<br>:00<br>161<br>25~<br>rol<br>tab<br>oli<br>ste<br>me<br>c p<br>roc<br>ess                                      | tid<br>ivi<br>act<br>ty<br>pe<br>p<br>ase                                                                   |
+| GO<br>ole<br>:00<br>05<br>773<br>~v<br>acu                | GO<br>d m<br>bo<br>lic<br>:00<br>082<br>02~<br>roi<br>ste<br>eta<br>pr<br>oce<br>ss
+
+--- SENTENCE 141 ---
+| GO<br>hy<br>dr<br>ola<br>:00<br>171<br>71~<br>ine<br>ser<br>se<br>ivi<br>act<br>ty                          |
+|                                                           |                                                                                                                     | GO<br>:00<br>042<br>52~<br>ine<br>-ty<br>ser<br>pe<br>do<br>tid<br>ivi<br>act<br>ty<br>en<br>pe<br>p<br>ase |
+|
+
+--- SENTENCE 142 ---
+| GO<br>sel<br>bin<br>din<br>:00<br>084<br>30~<br>ium<br>en<br>g                                              |
+|                                                           | GO<br>:00<br>063<br>34~<br>cle<br>bly<br>nu<br>oso<br>me<br>ass<br>em                                               |                                                                                                             |
+
+--- SENTENCE 143 ---
+|                                                           | GO<br>:00<br>314<br>97~<br>ch<br>ati<br>mb<br>ly<br>rom<br>n a<br>sse                                               |                                                                                                             |
+|                                                           | GO<br>leo<br>:00<br>34<br>728<br>niz<br>ati<br>~n<br>uc<br>som<br>e o<br>rga<br>on                                  |                                                                                                             |
+|                                                           | ch<br>mb<br>ly<br>dis<br>bly<br>GO<br>:00<br>063<br>33~<br>ati<br>rom<br>n a<br>sse<br>or<br>ass<br>em
+
+--- SENTENCE 144 ---
+|                                                                                                             |
+|                                                           | GO<br>:00<br>45<br>892<br>ati<br>ula<br>tio<br>f tr<br>ip<br>tio<br>~n<br>eg<br>ve<br>reg<br>n o<br>an<br>scr<br>n, |                                                                                                             |
+|
+
+--- SENTENCE 145 ---
+| DN<br>A-<br>de<br>nd<br>t<br>pe<br>en                                                                               |                                                                                                             |
+|                                                           | GO<br>ula<br>f R<br>:00<br>512<br>53~<br>tiv<br>tio<br>NA<br>ne<br>ga<br>e r<br>eg<br>n o                           |                                                                                                             |
+
+--- SENTENCE 146 ---
+|                                                           | tab<br>oli<br>me<br>c p<br>roc<br>ess                                                                               |                                                                                                             |
+|                                                           | GO<br>:00<br>164<br>81~<br>tiv<br>ula<br>tio<br>f tr<br>ip<br>tio<br>ne<br>ga<br>e r<br>eg<br>n o<br>an<br>scr<br>n |                                                                                                             |
+
+!
+
+--- SENTENCE 147 ---
+4 Distribution of Pearson product moment correlation coefficients (RSQ) relating expression at 20 h after acute heat stress to bleaching score.
+
+--- SENTENCE 148 ---
+The Lingering category of genes has a larger set of high-correlation genes.
+
+--- SENTENCE 149 ---
+Inset: An example from TRAF3, which shows lower bleaching with lower expression at 20 h. Low bleaching and low expression occur when colonies return TRAF3 expression to near normal by 20 h. High bleaching and high expression occur when high levels are maintained over the time interval.
+
+--- SENTENCE 150 ---
+Molecular pathways involved in heat stress and bleaching responses
+
+Using the KEGG maps as backgrounds, 15 molecular pathways were significantly represented at 5 h (control vs. heated) and 24 pathways were identified at 20 h (control vs. heated; Table S1, Supporting information).
+
+--- SENTENCE 151 ---
+Four of these pathways were common to both time points.
+
+--- SENTENCE 152 ---
+Mapping against the KEGG Orthology system provides an informative and immediate visualization of the representation of genes potentially involved in the same molecular pathway(s) over a background of all genes present in the transcriptome.
+
+--- SENTENCE 153 ---
+Additionally, a complementary analysis using GO terms and keywords produced results based on much more exhaustive functional annotation information.
+
+--- SENTENCE 154 ---
+The GO analysis identified 24 and 22 enriched molecular pathways among DECs at 5 and 20 h, respectively (Table S1, Supporting information).
+
+--- SENTENCE 155 ---
+Sixteen pathways were in common to both time points.
+
+--- SENTENCE 156 ---
+Combining the results from the KEGG and GO analyses allowed identifying the five and eight most robust pathways for the 5 and 20 h comparisons, respectively (Table S1, Supporting information).
+
+--- SENTENCE 157 ---
+At 5 h, the pathways influenced by heat stress were protein processing in the endoplasmic reticulum, cell cycle, metabolism and pyruvate metabolism.
+
+--- SENTENCE 158 ---
+On the other hand, RNA transport, spliceosome, DNA replication, extracellular matrix receptor interaction, osteoclast differentiation, glutathione metabolism and mismatch repair were implicated during the onset of bleaching at 20 h.
+
+--- SENTENCE 159 ---
+Only one pathway was found to be in common to both analyses and both time points: ribosome biogenesis in eukaryotes.
+
+## Transcriptome resilience and bleaching
+
+The return of gene expression values to control levels after acute stress has been called transcriptome resilience and is a key feature of the gene expression patterns we observe.
+
+--- SENTENCE 160 ---
+For each colony, we correlated gene expression levels at 20 h against bleaching score (1 = none, 5 = total, see Materials and methods) for all contigs.
+
+--- SENTENCE 161 ---
+Overall, only about 5.3% of contigs had individually significant correlation coefficients (RSQ (18) > 0.444, P < 0.05), but contigs in the Lingering response category showed much higher levels (i.e. 18.4% for Lingering compared to 5.7% for Transient, 8.7% for Late, and 4.8% for Slow return response categories, 2 9 4 contingency table, P < 0.001, Fig. 4).
+
+--- SENTENCE 162 ---
+For example, expression at 20 h of the Tumor Necrosis Factor Receptor-associated Factor 3 gene (TRAF3) shows a significant positive correlation with bleaching, indicating that low expression correlates with low bleaching and high expression to high bleaching at 20 h (Fig. 4 inset).
+
+--- SENTENCE 163 ---
+For this gene, the low expression at 20 h in more resistant colonies resulted from a faster decline from high levels at 5 h.
+
+--- SENTENCE 164 ---
+In this case, a more rapid return to control levels (i.e. transcriptome resilience) is associated with thermal tolerance.
+
+--- SENTENCE 165 ---
+This pattern appears many times among Lingering genes: out of the 100 contigs with the best correlation between 20 h expression levels and bleaching, 91 showed more rapid return to control levels in more resistant colonies.
+
+--- SENTENCE 166 ---
+For these 100 genes, expression in colonies showing none or slight bleaching returned to 98% of control values whereas for colonies showing severe or complete bleaching, expression remained 2.5-fold higher than controls.
+
+--- SENTENCE 167 ---
+These data show that although Lingering genes remain differentially expressed on average across all colonies and throughout the experiment, in some colonies, transcriptome resilience for those same genes tends to be most associated with bleaching resistance.
+
+--- SENTENCE 168 ---
+# Discussion
+
+Our results show that corals mount a large and rapid transcriptional response to acute thermal stress that leads to bleaching.
+
+--- SENTENCE 169 ---
+Over ¼ of the transcriptome of A. hyacinthus was quickly influenced by the bleaching temperatures used here, but 57% of those genes showed clear transcriptome resilience (i.e. the Transient response) over 15 h.
+
+--- SENTENCE 170 ---
+In addition, among the genes still regulated after 15 h, some exhibit a fast return to normal expression in colonies showing bleaching resistance.
+
+--- SENTENCE 171 ---
+Our data also show that heat stress broadly affects protein processing, cell cycle and metabolism at first, while the later bleaching response correlated with activity in RNA transport, extracellular matrix, calcification, and DNA replication and repair.
+
+--- SENTENCE 172 ---
+# Immediate effects of heat stress on the coral transcriptome
+
+Previous heat and bleaching stress experiments on corals and other cnidarians have generally found fewer genes being regulated and lesser overlap between successive time points in response to thermal challenges than that documented here (Table S2, Supporting information).
+
+--- SENTENCE 173 ---
+The primary difference between our experimental design and previous studies is the use of an immediate poststress time point followed by a time point during bleaching within 24 h of the acute heat exposure.
+
+--- SENTENCE 174 ---
+Previous studies exposed adult corals for at least 1 day before collecting samples for gene expression.
+
+--- SENTENCE 175 ---
+Here, we took advantage of the natural system found in the backreef lagoon of Ofu Island, where corals can experience conditions that can trigger bleaching over a single tidal cycle during summer.
+
+--- SENTENCE 176 ---
+Those acute temperature anomalies capable of triggering bleaching over a shorter time period than what was observed in the past are likely to become more common and to occur in many other places across the tropics as climate change progresses (Cai et al. 2014).
+
+--- SENTENCE 177 ---
+In this study, we documented a much higher response to heat stress at earlier sampling time points.
+
+--- SENTENCE 178 ---
+The consistent response to heat stress across 20 coral colonies consisted of 27% of the transcriptome being influenced.
+
+--- SENTENCE 179 ---
+Other transcriptome-wide studies on marine organisms including copepods, mussels, oysters and fish have tended to find less gene expression activity (Lang et al. 2009; Lewis et al. 2010; Lockwood et al. 2010; Schoville et al. 2012; Liu et al. 2013).
+
+--- SENTENCE 180 ---
+For example, the molecular heat-shock response of copepods 1 h after exposure to 15 °C above ambient temperature (for 1 h) only involved 0.88–1.49% of the transcriptome (Schoville et al. 2012).
+
+--- SENTENCE 181 ---
+Similarly, mussels exposed to ramping temperature (1 °C/1 h) and held at 11, 15 and 19 °C above ambient for 1 h, showed change in only 3.4% of the genes investigated (Lockwood et al. 2010).
+
+--- SENTENCE 182 ---
+This difference between our study and others is partially the result of our large data set and differential gene expression detection methods.
+
+--- SENTENCE 183 ---
+However, even after applying a cut-off of twofold change on our list of DECs (FDR corrected P-value < 0.01), which represents an even more stringent detection level than in the studies aforementioned, 11% of the coral transcriptome is still engaged at this level.
+
+--- SENTENCE 184 ---
+The substantial gene expression changes detected immediately after heat stress suggests that corals may suffer a large energetic cost from their heat response due to declines in genes involved in metabolism and cell cycle.
+
+--- SENTENCE 185 ---
+In addition, the main source of energy for the host—their symbiotic algae—decreases as a result of bleaching.
+
+--- SENTENCE 186 ---
+It is therefore conceivable that the fate of the colony depends on a balance between the cost of the early molecular response and the source of energy still available for recovery after bleaching.
+
+--- SENTENCE 187 ---
+However, another aspect of the stress response demonstrated here in corals is likely to play a part in the colony's fate: its capacity to quickly return to homeostasis or transcriptome resilience.
+
+--- SENTENCE 188 ---
+# Transcriptome resilience postheat stress
+
+The experimental design used here revealed the capacity of corals to respond to improving environmental conditions quickly, a phenomenon described as transcriptome resilience by Franssen et al. (2011).
+
+--- SENTENCE 189 ---
+Over the 15-h time interval separating the early heat stress response from the onset of bleaching, 57% of the genes detected at the first time point returned to control expression levels.
+
+--- SENTENCE 190 ---
+This resilience may have reduced the number of genes seen to be involved in the heat stress response in some previous studies (Table S2, Supporting information).
+
+--- SENTENCE 191 ---
+Two prior studies used earlier time points, yet detected slight gene expression activity differences between 12, 24.5 and 48 h (Voolstra et al. 2009; Portune et al. 2010).
+
+--- SENTENCE 192 ---
+Here, the transient genes group showed evidence for protein degradation, transport, catabolic process, phosphorylation and chaperone activity being positively regulated as a result of heat stress and recovering quickly as conditions improved.
+
+--- SENTENCE 193 ---
+This provides evidence for the importance of maintenance of protein conformation and activity as well as the recycling of damage molecules shortly to minimize energetic cost.
+
+--- SENTENCE 194 ---
+On the other hand, the downregulation of ribosome and mRNA processing suggest a trade-off limiting post-transcriptional activity.
+
+--- SENTENCE 195 ---
+This may point to essential cellular mechanisms taking place at the forefront of the cellular heat stress response but which also have to be under tight regulatory control to allow for recovery and survival of the organism once the conditions improved.
+
+--- SENTENCE 196 ---
+Transcriptome resilience may therefore be important to the resistance of corals to climate change.
+
+--- SENTENCE 197 ---
+The capacity to rapidly return to homeostasis (normal cellular function) following stress is crucial to survival (de Nadal et al. 2011).
+
+--- SENTENCE 198 ---
+A study looking at congeners of a temperate seagrass species with different thermal backgrounds showed that they have similar molecular heat stress responses, but differ in the speed of their recovery postheat treatment (Franssen et al. 2011).
+
+--- SENTENCE 199 ---
+Such transcriptome resilience was proposed to be analogous to ecological resilience (Franssen et al. 2011).
+
+--- SENTENCE 200 ---
+In our study, transcriptome resilience linked to bleaching performance was discovered among genes that overall respond early to heat stress and remain differentially expressed at the onset of bleaching.
+
+--- SENTENCE 201 ---
+For these Lingering response genes, a return to control levels at the onset of bleaching correlates with resistance to bleaching.
+
+--- SENTENCE 202 ---
+In other words, colonies showing no or slight bleaching response had a subset of the Lingering response genes returned to control levels, whereas colonies severely to totally bleached were still expressing these genes at 2.5 fold higher levels than controls.
+
+--- SENTENCE 203 ---
+Whether these genes mediate bleaching when expressed at high or low levels for longer, or are symptoms of physiological stress levels is not yet known.
+
+## Gene expression changes occurring with the onset of bleaching
+
+At the 20-h time point, 31% of the genes that changed in expression had not changed by the 5-h time point (the Late genes).
+
+--- SENTENCE 204 ---
+These late genes include extra cellular matrix proteins, and genes involved in regulation of actin and morphogenesis of the epithelium, suggesting that structural events of cells and tissues, such as exocytosis and cell detachment (Weis 2008), are important at this stage.
+
+--- SENTENCE 205 ---
+On the other hand, 25% of the genes that responded early were still differentially expressed when bleaching became apparent (The Lingering genes).
+
+--- SENTENCE 206 ---
+For example, the positive regulation of the G protein-coupled receptor protein signalling pathway, kinase/kinase inhibitor activity, T-helper type immune response and apoptosis strongly suggest that the breakdown of symbiosis begins with the sensing of extracellular molecules and stress signal transduction leading to apoptosis.
+
+--- SENTENCE 207 ---
+In the light of recent findings on the role of the TNF pathway in apoptosis of corals (Quistad et al. 2014), we hypothesize that stress molecule receptors such as TNFR are involved in signalling.
+
+--- SENTENCE 208 ---
+Many other immune-related genes such as Toll-like receptor, C-type lectin and FC receptor homologues are in this Lingering category, supporting the role of an immune response in the initiation of bleaching.
+
+## Gene expression changes occurring with time in controls
+
+Natural light phases synchronize behavioural and physiological cycles over varying time periods in both plants and animals (Beckwith & Yanovsky 2014).
+
+--- SENTENCE 209 ---
+Corals like plants are sessile organisms depending on sunlight for energy and not surprisingly exhibit diel cycles of physiology and gene expression (Ruiz-Jones and Palumbi, submitted).
+
+--- SENTENCE 210 ---
+In this study, we timed the peak in heat stress to occur in the early afternoon (i.e. 14:00–15:00), an ecologically relevant time for corals to experience elevated temperature in the native field environment.
+
+--- SENTENCE 211 ---
+The same period also represents a significant stage in coral circadian rhythm, as demonstrated by the common peak in expression of a suite of genes independent of daylight or temperature (Levy et al. 2011).
+
+--- SENTENCE 212 ---
+Among those genes evident in the control comparison that fluctuated with time only, cryptochromes were some of the most regulated genes, corroborating the suggestion that this group follows a circadian rhythm (Levy et al. 2007).
+
+--- SENTENCE 213 ---
+In our experiment, cryptochrome-2 is notably downregulated over time in controls but not in heated samples.
+
+--- SENTENCE 214 ---
+Such an expression profile implies that heat stress inhibits normal circadian gene regulation.
+
+--- SENTENCE 215 ---
+This result highlights the importance of accounting for the natural temporal regulation of genes in the interpretation of coral bleaching gene expression.
+
+--- SENTENCE 216 ---
+# Evidence for TNF-mediated apoptosis during coral bleaching
+
+The importance of the coral TNF pathway in the bleaching response was emphasized by the involvement of many genes and several pathways with ties to the immune and apoptosis response.
+
+--- SENTENCE 217 ---
+In addition to its obvious function in disease response (Pinzon et al. 2014), coral immunity is attracting increasing attention for its possible role in adaptation to climate change (Hayes et al. 2010; Iguchi et al. 2011) through its likely involvement in symbiosis (Kvennefors et al. 2010).
+
+--- SENTENCE 218 ---
+Recent genomewide studies of bacterial cell wall exposure and the NOD-like receptor genes in corals have revealed an extraordinary complexity in immune-related genes compared to human and ecdysozoans (Hamada et al. 2013; Weiss et al. 2013), implicating the importance of coral immunity in the evolution of symbiosis with both diverse bacterial communities (Sharp & Ritchie 2012) and Symbiodinium types (Kvennefors et al. 2010).
+
+--- SENTENCE 219 ---
+We hypothesize that dysfunctional Symbiodinium cells caused by heat stress might cease to be accepted; as a result, the now foreign body triggers the TNF signalling pathway to lead to apoptosis, an immune response, or cell survival (Traylor-Knowles & Palumbi 2014).
+
+--- SENTENCE 220 ---
+The significance of coral TNF family genes was unmistakable in our results through several enriched biological processes and molecular functions, including apoptosis, lymphocyte activation and immune system development.
+
+--- SENTENCE 221 ---
+In a recent report, Quistad et al. (2014) showed that apoptosis and bleaching in corals could be triggered via the activation of the TNF pathway using human TNF-alpha and that corals possess more TNF family members than any organisms sequenced thus far.
+
+--- SENTENCE 222 ---
+In a subset of the corals from this experiment, we recently identified members of the TNF superfamily as components of thermo-tolerance (Barshis et al. 2013) acquired through acclimatization (Palumbi et al. 2014).
+
+--- SENTENCE 223 ---
+Despite these results, it remains to be shown, however, that TNF-mediated cellular events play a role in temperature driven coral bleaching.
+
+--- SENTENCE 224 ---
+We identified two distinct groups of TNFR genes in the present data set showing divergent regulation, and a potential connection to different downstream gene pathways (Traylor-Knowles et al. submitted).
+
+--- SENTENCE 225 ---
+The intracellular, TNFRlinked TRAF genes also play a significant role: in particular expression of TRAF3 at 20 h is linked to colony bleaching performance (Fig. 4 inset).
+
+--- SENTENCE 226 ---
+Altogether these results emphasize the central involvement of the TNF family and immunity in the coral response to climatedriven temperature anomalies.
+
+--- SENTENCE 227 ---
+We encourage future studies to investigate the role of the TNF signalling pathway during bleaching and in the fate of corals through climate change.
+
+--- SENTENCE 228 ---
+Multiple aspects of the response of corals to climate stress
+
+Future climate change is likely to increase the intensity and the frequency of ocean warming events and storms, the rate of ocean acidification and sea level rise.
+
+--- SENTENCE 229 ---
+Exposure to new environmental extremes constitutes a strong selective pressure, and populations that harbour adaptive polymorphisms in their response to extreme conditions may subsequently evolve.
+
+--- SENTENCE 230 ---
+Here, we studied the transcriptome-wide response to a simulated summer peak in temperature in a population of corals living across a marked temperature mosaic, to understand the effects of such anomalies on the molecular machinery of stress responses.
+
+--- SENTENCE 231 ---
+Previous work in this region has identified several mechanisms that are associated with coral bleaching.
+
+--- SENTENCE 232 ---
+Corals living at warmer conditions constitutively upregulate a set of genes that are otherwise induced only during heat stress.
+
+--- SENTENCE 233 ---
+By frontloading these gene products, these colonies may be better prepared to circumvent stress or respond to it (Barshis et al. 2013).
+
+--- SENTENCE 234 ---
+In addition, these colonies also show a combination of acclimatization and genetic adaptation.
+
+--- SENTENCE 235 ---
+Reciprocal transplants between warmer and cooler environments show that corals can acquire heat resistance and that acclimatization is associated with location-specific gene expression differences (Palumbi et al. 2014).
+
+--- SENTENCE 236 ---
+However, acclimatization accounts for approximately 50% of the enhanced resistance to warm water with the balance probably due to fixed effects such as evolutionary adaptation or epigenetics.
+
+--- SENTENCE 237 ---
+Bay & Palumbi (2014) showed that 114 loci were strong candidates for genes under selection for heat resistance in these corals.
+
+--- SENTENCE 238 ---
+These results suggested that heat resistance was a polygenic trait contributed to by many loci with diverse cellular functions.
+
+--- SENTENCE 239 ---
+To this palette of heat response mechanisms—frontloading, acclimatization and adaptation—the current study adds a fourth, transcriptome resilience.
+
+--- SENTENCE 240 ---
+By studying the short-term dynamics of gene expression response across many colonies for the first time, we found that many more genes than previously thought respond to acute heat stress.
+
+--- SENTENCE 241 ---
+The pace of return of some of these genes to normal levels within individual colonies is strongly associated with bleaching resistance among colonies showing a range of bleaching responses.
+
+--- SENTENCE 242 ---
+We do not know if this fast return to homeostasis of these genes in resistant colonies signals low potential for bleaching.
+
+--- SENTENCE 243 ---
+Alternatively, prolonged unusual gene expression level may cause bleaching.
+
+--- SENTENCE 244 ---
+Nevertheless, our data suggest two kinds of important areas for future research on stress resistance: shortterm expression dynamics and interindividual variation in gene expression.
+
+--- SENTENCE 245 ---
+In the current study, both have been important for discovery of transcriptome resilience as a stress-mitigating factor.
+
+--- SENTENCE 246 ---
+The exposure of populations to extreme conditions can spark diverse physiological responses and gene expression profiles in different individuals.
+
+--- SENTENCE 247 ---
+These different responses are the raw material for natural selection—either for increased acclimatory ability, increased stress resistance or both.
+
+--- SENTENCE 248 ---
+As climate change exerts a higher level of environmental extremes on populations, the basis for their ability to evolve in the future is an important area of research.
+
+#### Conclusion
+
+Our study reveals the surprising capacity of corals to mount a large and rapid molecular stress response to heat stress many hours prior to bleaching.
+
+--- SENTENCE 249 ---
+The later response shows important additional activity of the animal host transcriptome coinciding with the observation of bleaching.
+
+--- SENTENCE 250 ---
+Moreover, between the heat and bleaching stress responses, a large portion of the genes returned to control level by the time bleaching started, suggesting transcriptome resilience.
+
+--- SENTENCE 251 ---
+Importantly, the resilience of a subset of genes correlates with bleaching resistance.
+
+--- SENTENCE 252 ---
+Among the many molecular pathways detected, the TNF signalling pathway possibly linked to apoptosis stands out as the most likely path leading to the breakdown of the symbiosis between the host and the algae and may also play a role in the resistance to bleaching.
+
+--- SENTENCE 253 ---
+This study greatly improves the current state of knowledge on the gene expression activity in a key organism under heat and bleaching stress.
+
+--- SENTENCE 254 ---
+Further characterization of the immunity/apoptosis genes combined with population genetics surveys and detailed studies of naturally occurring variation in thermo-tolerance will shed light on the capacity of corals to acclimatize and/ or adapt to future climate change.
+
+--- SENTENCE 255 ---
+# Acknowledgements
+
+We thank C. Caruso and the rest of the staff at the National Park of American Samoa for access to field sites and logistical help; the Malae family at the Vaoto lodge for their hospitality; N. Traylor-Knowles, R. Bay, L. Ruiz-Jones, N. Rose, D. Tolleter, M. Morikawa, T. Bieri for valuable field assistance; D. Barshis, T. Oliver, P. Warner and two anonymous reviewers and the editor for providing comments.
+
+--- SENTENCE 256 ---
+This work was supported by the Gordon and Betty Moore Foundation.
+
+## References
+
+- Anders S, Huber W (2010)
+
+--- SENTENCE 257 ---
+Differential expression analysis for sequence count data.
+
+--- SENTENCE 258 ---
+Genome Biology, 11, R106.
+- Barshis DJ, Ladner JT, Oliver TA et al. (2013)
+
+--- SENTENCE 259 ---
+Genomic basis for coral resilience to climate change.
+
+--- SENTENCE 260 ---
+Proceedings of the National Academy of Sciences of the USA, 110, 1387–1392.
+- Barshis DJ, Ladner JT, Oliver TA, Palumbi SR (2014) Lineagespecific transcriptional profiles of Symbiodinium spp.
+
+--- SENTENCE 261 ---
+unaltered by heat stress in a coral host.
+
+--- SENTENCE 262 ---
+Molecular Biology and Evolution, 31, 1343–1352.
+- Bay RA, Palumbi SR (2014)
+
+--- SENTENCE 263 ---
+Multilocus adaptation associated with heat resistance in reef-building corals.
+
+--- SENTENCE 264 ---
+Current Biology, 24, 2952–2956.
+- Beckwith EJ, Yanovsky MJ (2014) Circadian regulation of gene expression: at the crossroads of transcriptional and post-transcriptional regulatory networks.
+
+--- SENTENCE 265 ---
+Current Opinion in Genetics & Development, 27, 35–42.
+- Bellantuono AJ, Granados-Cifuentes C, Miller DJ, Hoegh-Guldberg O, Rodriguez-Lanetty M (2012)
+
+--- SENTENCE 266 ---
+Coral thermal tolerance: tuning gene expression to resist thermal stress (SCA Ferse, Ed,).
+
+--- SENTENCE 267 ---
+PLoS One, 7, e50685.
+- Cai W, Borlace S, Lengaigne M et al. (2014)
+
+--- SENTENCE 268 ---
+Increasing frequency of extreme El Nino events due to greenhouse warm- ~ ing.
+
+--- SENTENCE 269 ---
+Nature Climate Change, 5, 1–6.
+- Craig P, Birkeland C, Belliveau S (2001) High temperatures tolerated by a diverse assemblage of shallow-water corals in American Samoa.
+
+--- SENTENCE 270 ---
+Coral Reefs, 20, 185–189.
+- De Wit P, Pespeni MH, Ladner JT et al. (2012)
+
+--- SENTENCE 271 ---
+The simple fool's guide to population genomics via RNA-Seq: an introduction to high-throughput sequencing data analysis.
+
+--- SENTENCE 272 ---
+Molecular Ecology Resources, 12, 1058–1067.
+- DeSalvo MK, Voolstra CR, Sunagawa S et al. (2008) Differential gene expression during thermal stress and bleaching in the Caribbean coral Montastraea faveolata.
+
+--- SENTENCE 273 ---
+Molecular Ecology, 17, 3952–3971.
+- DeSalvo MK, Sunagawa S, Voolstra CR, Medina M (2010) Transcriptomic responses to heat stress and bleaching in the elkhorn coral Acropora palmata.
+
+--- SENTENCE 274 ---
+Marine Ecology Progress Series, 402, 97–113.
+- Dudgeon SR, Aronson RB, Bruno JF, Precht WF (2010)
+
+--- SENTENCE 275 ---
+Phase shifts and stable states on coral reefs.
+
+--- SENTENCE 276 ---
+Marine Ecology Progress Series, 413, 201–216.
+- Franssen SU, Gu J, Bergmann N et al. (2011)
+
+--- SENTENCE 277 ---
+Transcriptomic resilience to global warming in the seagrass Zostera marina, a
+
+- marine foundation species.
+
+--- SENTENCE 278 ---
+Proceedings of the National Academy of Sciences of the USA, 108, 19276–19281.
+- Guest JR, Baird AH, Maynard JA et al. (2012) Contrasting patterns of coral bleaching susceptibility in 2010 suggest an adaptive response to thermal stress (MV Matz, Ed,).
+
+--- SENTENCE 279 ---
+PLoS One, 7, e33353.
+- Hamada M, Shoguchi E, Shinzato C et al. (2013)
+
+--- SENTENCE 280 ---
+The complex NOD-like receptor repertoire of the coral Acropora digitifera includes novel domain combinations.
+
+--- SENTENCE 281 ---
+Molecular Biology and Evolution, 30, 167–176.
+
+--- SENTENCE 282 ---
+- Hansen M, Gerds TA, Nielsen OH et al. (2012) PCAGOPROMOTER – an <sup>R</sup> package for biological and regulatory interpretation of principal components in genome-wide gene expression data (AB Khodursky, Ed,).
+
+--- SENTENCE 283 ---
+PLoS One, 7, e32394.
+- Hayes ML, Eytan RI, Hellberg ME (2010) High amino acid diversity and positive selection at a putative coral immunity gene (tachylectin-2).
+
+--- SENTENCE 284 ---
+BMC Evolutionary Biology, 10, 150.
+- Hoffmann AA, Sgro CM (2011)
+
+--- SENTENCE 285 ---
+Climate change and evolution ary adaptation.
+
+--- SENTENCE 286 ---
+Nature, 470, 479–485.
+- Huang DW, Sherman BT, Lempicki RA (2008) Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources.
+
+--- SENTENCE 287 ---
+Nature Protocols, 4, 44–57.
+- Iguchi A, Shinzato C, For^et S, Miller DJ (2011) Identification of fast-evolving genes in the scleractinian coral Acropora using comparative EST analysis (JH Badger, Ed,).
+
+--- SENTENCE 288 ---
+PLoS One, 6, e20140.
+- Jokiel PL, Coles SL (1990)
+
+--- SENTENCE 289 ---
+Response of Hawaiian and other Indo-Pacific reef corals to elevated temperature.
+
+--- SENTENCE 290 ---
+Coral Reefs, 8, 155–162.
+- Kanehisa M, Goto S, Kawashima S, Okuno Y, Hattori M (2004)
+
+--- SENTENCE 291 ---
+The KEGG resource for deciphering the genome.
+
+--- SENTENCE 292 ---
+Nucleic Acids Research, 32, D277–D280.
+
+--- SENTENCE 293 ---
+- Kanehisa M, Goto S, Sato Y et al. (2014) Data, information, knowledge and principle: back to metabolism in KEGG.
+
+--- SENTENCE 294 ---
+Nucleic Acids Research, 42, D199–D205.
+- Kemp DW, Hernandez-Pech X, Iglesias-Prieto R, Fitt WK, Schmidt GW (2014)
+
+--- SENTENCE 295 ---
+Community dynamics and physiology of Symbiodinium spp.
+
+--- SENTENCE 296 ---
+before, during, and after a coral bleaching event.
+
+--- SENTENCE 297 ---
+Limnology and Oceanography, 59, 788–797.
+- Kenkel CD, Goodbody-Gringley G, Caillaud D et al. (2013) Evidence for a host role in thermotolerance divergence between populations of the mustard hill coral (Porites astreoides) from different reef environments.
+
+--- SENTENCE 298 ---
+Molecular Ecology, 22, 4335–4348.
+- Kvennefors ECE, Leggat W, Kerr CC et al. (2010)
+
+--- SENTENCE 299 ---
+Analysis of evolutionarily conserved innate immune components in coral links immunity and symbiosis.
+
+--- SENTENCE 300 ---
+Developmental & Comparative Immunology, 34, 1219–1229.
+- Ladner JT, Palumbi SR (2012) Extensive sympatry, cryptic diversity and introgression throughout the geographic distribution of two coral species complexes.
+
+--- SENTENCE 301 ---
+Molecular Ecology, 21, 2224–2238.
+- Lang RP, Bayne CJ, Camara MD et al. (2009)
+
+--- SENTENCE 302 ---
+Transcriptome profiling of selectively bred Pacific Oyster Crassostrea gigas families that differ in tolerance of heat shock.
+
+--- SENTENCE 303 ---
+Marine Biotechnology, 11, 650–668.
+- Levy O, Appelbaum L, Leggat W et al. (2007)
+
+--- SENTENCE 304 ---
+Light-responsive cryptochromes from a simple multicellular animal, the coral Acropora millepora.
+
+--- SENTENCE 305 ---
+Science, 318, 467–470.
+- Levy O, Kaniewska P, Alon S et al. (2011) Complex diel cycles of gene expression in coral-algal symbiosis.
+
+--- SENTENCE 306 ---
+Science, 331, 175.
+
+- Lewis JM, Hori TS, Rise ML, Walsh PJ, Currie S (2010)
+
+--- SENTENCE 307 ---
+Transcriptome responses to heat stress in the nucleated red blood cells of the rainbow trout (Oncorhynchus mykiss).
+
+--- SENTENCE 308 ---
+Physiological Genomics, 42, 361–373.
+- Liu S, Wang X, Sun F et al. (2013) RNA-Seq reveals expression signatures of genes involved in oxygen transport, protein synthesis, folding, and degradation in response to heat stress in catfish.
+
+--- SENTENCE 309 ---
+Physiological Genomics, 45, 462–476.
+- Lockwood BL, Sanders JG, Somero GN (2010) Transcriptomic responses to heat stress in invasive and native blue mussels (genus Mytilus): molecular correlates of invasive success.
+
+--- SENTENCE 310 ---
+Journal of Experimental Biology, 213, 3548–3558.
+- Meyer E, Aglyamova GV, Matz MV (2011)
+
+--- SENTENCE 311 ---
+Profiling gene expression responses of coral larvae (Acropora millepora) to elevated temperature and settlement inducers using a novel RNA-Seq procedure.
+
+--- SENTENCE 312 ---
+Molecular Ecology, 20, 3599–3616.
+- Moya A, Huisman L, Ball EE et al. (2012)
+
+--- SENTENCE 313 ---
+Whole transcriptome analysis of the coral Acropora millepora reveals complex responses to CO2-driven acidification during the initiation of calcification.
+
+--- SENTENCE 314 ---
+Molecular Ecology, 21, 2440–2454.
+- de Nadal E, Ammerer G, Posas F (2011) Controlling gene expression in response to stress.
+
+--- SENTENCE 315 ---
+Genetics, 12, 833–845.
+- Oliver TA, Palumbi SR (2011)
+
+--- SENTENCE 316 ---
+Do fluctuating temperature environments elevate coral thermal tolerance?
+
+--- SENTENCE 317 ---
+Coral Reefs, 30, 429–440.
+- Palumbi SR, Barshis DJ, Traylor-Knowles N, Bay RA (2014)
+
+--- SENTENCE 318 ---
+Mechanisms of reef coral resistance to future climate change.
+
+--- SENTENCE 319 ---
+Science, 344, 895–898.
+- Pinzon CJH, Beach-Letendre J, Weil E, Mydlarz LD (2014) Relationship between phylogeny and immunity suggests older Caribbean coral lineages are more resistant to disease (CR Voolstra, Ed,).
+
+--- SENTENCE 320 ---
+PLoS One, 9, e104787.
+- Polato NR, Voolstra CR, Schnetzer J et al. (2010) Location-specific responses to thermal stress in larvae of the reef-building coral Montastraea faveolata (DA Carter, Ed,).
+
+--- SENTENCE 321 ---
+PLoS One, 5, e11221.
+- Portune KJ, Voolstra CR, Medina M, Szmant AM (2010)
+
+--- SENTENCE 322 ---
+Development and heat stress-induced transcriptomic changes during embryogenesis of the scleractinian coral Acropora palmata.
+
+--- SENTENCE 323 ---
+Marine Genomics, 3, 51–62.
+- Pratchett MS, McCowan D, Maynard JA, Heron SF (2013)
+
+--- SENTENCE 324 ---
+Changes in bleaching susceptibility among corals subject to ocean warming and recurrent bleaching in Moorea, French Polynesia (RMH Merks, Ed,).
+
+--- SENTENCE 325 ---
+PLoS One, 8, e70443.
+- Quistad SD, Stotland A, Barott KL et al. (2014) Evolution of TNF-induced apoptosis reveals 550 My of functional conservation.
+
+--- SENTENCE 326 ---
+Proceedings of the National Academy of Sciences of the USA, 111, 9567–9572.
+- R Core Team (2014) R:
+
+--- SENTENCE 327 ---
+A language and environment for statistical computing.
+
+--- SENTENCE 328 ---
+R Foundation for Statistical Computing, Vienna, Austria.
+- Richier S, Rodriguez-Lanetty M, Schnitzler CE, Weis VM (2008) Response of the symbiotic cnidarian Anthopleura elegantissima transcriptome to temperature and UV increase.
+
+--- SENTENCE 329 ---
+Comparative Biochemistry and Physiology.
+
+--- SENTENCE 330 ---
+Part D, Genomics & Proteomics, 3, 283–289.
+- Riegl BM, Purkis SJ, Al-Cibahy AS, Abdel-Moati MA, Hoegh-Guldberg O (2011)
+
+--- SENTENCE 331 ---
+Present limits to heat-adaptability in corals and population-level responses to climate extremes (CR Voolstra, Ed,).
+
+--- SENTENCE 332 ---
+PLoS One, 6, e24802.
+
+- Rodriguez-Lanetty M, Harii S, Hoegh-Guldberg O (2009)
+
+--- SENTENCE 333 ---
+Early molecular responses of coral larvae to hyperthermal stress.
+
+--- SENTENCE 334 ---
+Molecular Ecology, 18, 5101–5114.
+- Runcie DE, Garfield DA, Babbitt CC et al. (2012) Genetics of gene expression responses to temperature stress in a sea urchin gene network.
+
+--- SENTENCE 335 ---
+Molecular Ecology, 21, 4547–4562.
+- Schoville SD, Barreto FS, Moy GW, Wolff A, Burton RS (2012) Investigating the molecular basis of local adaptation to thermal stress: population differences in gene expression across the transcriptome of the copepod Tigriopus californicus.
+
+--- SENTENCE 336 ---
+BMC Evolutionary Biology, 12, 170.
+- Seneviratne SI, Donat MG, Mueller B, Alexander LV (2014)
+
+--- SENTENCE 337 ---
+No pause in the increase of hot temperature extremes.
+
+--- SENTENCE 338 ---
+Nature Climate Change, 4, 1–4.
+- Sharp KH, Ritchie KB (2012) Multi-partner interactions in corals in the face of climate change.
+
+--- SENTENCE 339 ---
+The Biological bulletin, 223, 66–77.
+- Shinzato C, Shoguchi E, Kawashima T et al. (2012) Using the Acropora digitifera genome to understand coral responses to environmental change.
+
+--- SENTENCE 340 ---
+Nature, 476, 320–323.
+- Stat M, Gates RD (2011)
+
+--- SENTENCE 341 ---
+Clade D Symbiodinium in scleractinian corals: a "nugget" of hope, a selfish opportunist, an ominous sign, or all of the above?
+
+--- SENTENCE 342 ---
+Journal of Marine Biology, 2011, 1–9.
+- The Gene Ontology Consortium (2000) Gene ontology: tool for the unification of biology.
+
+--- SENTENCE 343 ---
+Nature Genetics, 25, 25–29.
+- Tolleter D, Seneca FO, DeNofrio JC et al. (2013)
+
+--- SENTENCE 344 ---
+Coral bleaching independent of photosynthetic activity.
+
+--- SENTENCE 345 ---
+Current Biology, 23, 1782–1786.
+- Traylor-Knowles N, Palumbi SR (2014) Translational environmental biology: cell biology informing conservation.
+
+--- SENTENCE 346 ---
+Trends in Cell Biology, 24, 265–267.
+- UniProt Consortium (2008)
+
+--- SENTENCE 347 ---
+The universal protein resource (UniProt).
+
+--- SENTENCE 348 ---
+Nucleic Acids Research, 36, D190–5.
+- Voolstra CR, Schnetzer J, Peshkin L et al. (2009) Effects of temperature on gene expression in embryos of the coral Montastraea faveolata.
+
+--- SENTENCE 349 ---
+BMC Genomics, 10, 627.
+- Weis VM (2008) Cellular mechanisms of cnidarian bleaching: stress causes the collapse of symbiosis.
+
+--- SENTENCE 350 ---
+The Journal of Experimental Biology, 211, 3059–3066.
+- Weiss Y, For^et S, Hayward DC et al. (2013)
+
+--- SENTENCE 351 ---
+The acute transcriptional response of the coral Acropora millepora to immune challenge: expression of GiMAP/IAN genes links the innate immune responses of corals with those of mammals and plants.
+
+--- SENTENCE 352 ---
+BMC Genomics, 14, 400.
+- Xie F, Stewart CN Jr, Taki FA et al. (2013) High-throughput deep sequencing shows that microRNAs play important roles in switchgrass responses to drought and salinity stress.
+
+--- SENTENCE 353 ---
+Plant Biotechnology Journal, 12, 354–366.
+
+--- SENTENCE 354 ---
+F.O.S. designed and performed research.
+
+--- SENTENCE 355 ---
+F.O.S and S.R.P. analysed data and wrote the manuscript.
+
+#### Data accessibility
+
+Final transcriptome assembly, raw counts data files, <sup>R</sup> scripts and input files can be accessed on Dryad:
+
+#### 18 F. O. SENE CA and S. R. PALUMB I
+
+doi[:10.5061/dryad.hd922](http://dx.doi.org/10.5061/dryad.hd922).
+
+--- SENTENCE 356 ---
+Raw sequence data can be found on NCBI-Bioproject, Accession no: PRJNA274410.
+
+--- SENTENCE 357 ---
+Table S2.Cnidarian heat stress transcriptomics review Appendix S1.
+
+--- SENTENCE 358 ---
+Supplemental Materials and Methods.
+
+## Supporting information
+
+Additional supporting information may be found in the online version of this article.
+

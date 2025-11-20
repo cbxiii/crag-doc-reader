@@ -1,0 +1,122 @@
+### TEMPERATURE DATA SETS FOR NEARSHORE AND OFFSHORE WATERS OF AMERICAN SAMOA
+
+Peter Craig
+Dept. Marine & Wildlife Resources, American Samoa
+DMWR Biological Report Series No. 77
+
+The purpose of this brief report is to identify sources of information that present water temperature data in American Samoa.
+
+#### NEARSHORE COASTAL WATERS
+
+1. Afao Bay. Craig (1995) gathered nearshore water temperature data from 1990-95. Measurements were made at varying times of day using a mercury thermometer with a presumed accuracy of  $\pm$  0.5° C. The sample site was located approximately 100 m west of the main ava and temperature was measured at a depth of 0.3 m. This site was beyond the ava's outflow of warm water from the reeftop. Figure 1 shows the seasonal pattern of temperatures at this site. Monthly means (°C), for all years combined, were:
+
+| 1990-95 | mean | SE   | range     | n_ |
+|---------|------|------|-----------|----|
+| Jan     | 29.3 | 0.10 | 28.0-31.0 | 37 |
+| Feb     | 29.6 | 0.09 | 28.0-30.3 | 29 |
+| Mar     | 29.5 | 0.08 | 28.6-30.1 | 24 |
+| Apr     | 29.6 | 0.09 | 28-6-30.7 | 29 |
+| May     | 29.3 | 0.11 | 28.0-30.5 | 28 |
+| Jun     | 28.1 | 0.10 | 27.5-28.9 | 15 |
+| Jul     | 27.9 | 0.12 | 27.0-28.6 | 11 |
+| Aug     | 27.1 | 0.14 | 26.2-28.6 | 20 |
+| Sep     | 27.6 | 0.12 | 26.4-28.5 | 30 |
+| Oct     | 28.0 | 0.07 | 27.5-28.6 | 21 |
+| Nov     | 28.5 | 0.11 | 27.8-29.4 | 27 |
+| Dec     | 29.0 | 0.10 | 28.0-30.0 | 24 |
+
+- 2. Vaitogi. Sesepasara (1975) presented monthly surface samples collected at Vaitogi in 1973-75 (Fig. 2). Water samples were collected by bucket from the cliff and temperatures were measured with a mercury thermometer.
+- 3. Fagatele National Marine Sanctuary. In 1992, FNMS deployed constant recording thermographs in Fagatele Bay at two depths (4 and 12 m). Figures 3 and 4 show examples of these data sets (N. Daschbach, pers. comm.).
+
+4. Taima Bank. FNMS also put a constant recording thermograph on Taima Bank (15 m depth), approximately 100 m east of the bank's navigation bouy, beginning in 1992. Figure 5 shows an example of this data set (N. Daschbach, pers. comm.).
+
+5. Pago Pago Harbor. NOAA has monitored surface water temperatures in the harbor at the main dock since at least 1980 (Fig. 6). Salinities were also recorded (Fig. 7). In 1993, sampling was automated and relocated to DMWR's dock, primarily to monitor changes in water height. DMWR has access to these data.
+
+In addition, the American Samoa Environmental Protection Agency has a monthly monitoring program (primarily for nutrient levels) in the harbor.
+
+While harbor data sets are extensive, it should be noted that water temperatures in the harbor are probably not representative of nearshore water temperatures elsewhere around the island. Harbor conditions probably cause increased water temperatures due to limited circulation (water residency time of about 15-30 days) and heat absorbance due heavy sedimentation (after rainfalls) and phytoplankton blooms (from eutrophic conditions).
+
+#### OFFSHORE WATERS
+
+- 1. Near Tutuila Island. NOAA National Ocean Service measured XBT temperature profiles on two dates. On March 20, 1993, profiles were measured at 2 sites 1-5 miles south of Tutuila (Figs. 8 and 9). On November 16, 1993, profiles were taken at varying distances from Tutuila Island: 1, 5, 10, 20, 50, 100, and 200 nautical miles (Figs. 10-16).
+  - 2. Away from Tutuila Island. Fisheries Forum Agency (?) has a data set that includes some temperature profiles for this general region.
+
+#### STREAMS
+
+Stream temperature data were not located, but USGS has extensive data on stream flows at several locations on Tutuila Island.
+
+#### References:
+
+Craig, P. 1995. Life history and harvest of the surgeonfish Acanthurus lineatus in American Samoa.
+
+### NEARSHORE SEA TEMPERATURE temp5
+
+![](_page_2_Figure_1.jpeg)
+
+Figure 1.
+
+TEMPERATURE (C)
+
+![](_page_3_Figure_1.jpeg)
+
+Figure 2 (Vantogi shoreline)
+
+![](_page_4_Figure_0.jpeg)
+
+Fig. 3
+
+![](_page_4_Figure_2.jpeg)
+
+Fig. 4
+
+![](_page_4_Figure_4.jpeg)
+
+Deep Deployment, American Samoa Unit #
+
+Fig. 5.
+
+# Daily sea surface temperature readings taken at the Pago tide station
+
+![](_page_5_Figure_1.jpeg)
+
+Figure 6
+
+# Daily sea surface salinity readings taken at the Pago tide station
+
+![](_page_5_Figure_4.jpeg)
+
+Fyure 7
+
+![](_page_6_Figure_1.jpeg)
+
+![](_page_7_Figure_0.jpeg)
+
+![](_page_7_Figure_1.jpeg)
+
+lemperature (deg C)
+
+![](_page_8_Figure_1.jpeg)
+
+12
+
+![](_page_9_Figure_1.jpeg)
+
+; 3.
+
+![](_page_10_Figure_0.jpeg)
+
+![](_page_11_Figure_1.jpeg)
+
+THULL BE FIRE
+
+Figure 14 35 Š 8 ĸ K ,...., (\_\_) (deg (C) Temperature 17 10 3 S <u>(7)</u> S (3) 45.1 50 50 44 200 25 388 466 456 766 黑白老母怎么 OB 13 23.3 170 25.8 Temp: 36.3 depth: Critise: Cis Longi tude: Probe T-67 National Ocean Service Latitude Drop 007 Bottom Bucket Date 
+
+![](_page_13_Figure_1.jpeg)
+
+(16).
+
+7
+
+Figure \$16 001 3 ŝ Ö 800 S iņ Ņ 0 (deg Temperature 15 5 Įŗ, (") (%) ונים ניים ניים 466 10 10 10 686 φ 01 02 168 [<u>.</u> 聖中中日知识 w I 85.8 18.8 C. Co. 11 Bottom depth: Craise; 818 Longi tude Drop e85 Latitide Ocean Service Probe (1) E., p. 21 [mail Bate
+
+NNJ

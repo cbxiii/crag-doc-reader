@@ -1,0 +1,626 @@
+{
+  "table_of_contents": [
+    {
+      "title": "WATERSHED CLASSIFICATION <u>UPDATE</u> FOR AMERICAN SAMOA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          112.5,
+          141.75
+        ],
+        [
+          500.25,
+          141.75
+        ],
+        [
+          500.25,
+          158.25
+        ],
+        [
+          112.5,
+          158.25
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          272.830078125,
+          72.703125
+        ],
+        [
+          338.6540222167969,
+          72.703125
+        ],
+        [
+          338.6540222167969,
+          85.74151611328125
+        ],
+        [
+          272.830078125,
+          85.74151611328125
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          256.9921875,
+          73.74151611328125
+        ],
+        [
+          354.48199462890625,
+          73.74151611328125
+        ],
+        [
+          354.48199462890625,
+          85.74151611328125
+        ],
+        [
+          256.9921875,
+          85.74151611328125
+        ]
+      ]
+    },
+    {
+      "title": "METHODS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          275.3299865722656,
+          219.08148193359375
+        ],
+        [
+          336.7099914550781,
+          219.08148193359375
+        ],
+        [
+          336.7099914550781,
+          231.08148193359375
+        ],
+        [
+          275.3299865722656,
+          231.08148193359375
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          277.3125,
+          73.74151611328125
+        ],
+        [
+          332.9539794921875,
+          73.74151611328125
+        ],
+        [
+          332.9539794921875,
+          85.74151611328125
+        ],
+        [
+          277.3125,
+          85.74151611328125
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          268.34765625,
+          70.3814697265625
+        ],
+        [
+          343.1059875488281,
+          70.3814697265625
+        ],
+        [
+          343.1059875488281,
+          82.3814697265625
+        ],
+        [
+          268.34765625,
+          82.3814697265625
+        ]
+      ]
+    },
+    {
+      "title": "LITERATURE CITED",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          244.142578125,
+          98.72149658203125
+        ],
+        [
+          366.65802001953125,
+          98.72149658203125
+        ],
+        [
+          366.65802001953125,
+          110.72149658203125
+        ],
+        [
+          244.142578125,
+          110.72149658203125
+        ]
+      ]
+    },
+    {
+      "title": "Figure Legends",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          71.71875,
+          73.74151611328125
+        ],
+        [
+          152.16799926757812,
+          73.74151611328125
+        ],
+        [
+          152.16799926757812,
+          85.74151611328125
+        ],
+        [
+          71.71875,
+          85.74151611328125
+        ]
+      ]
+    },
+    {
+      "title": "American Samoa Watershed Classification\nJanuary 2016",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          196.72999572753906,
+          84.69140625
+        ],
+        [
+          419.9146423339844,
+          84.69140625
+        ],
+        [
+          419.9146423339844,
+          112.25927734375
+        ],
+        [
+          196.72999572753906,
+          112.25927734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          15
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          381
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          491
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          363
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          402
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          463
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          475
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          59
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          618
+        ],
+        [
+          "TableCell",
+          308
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          6
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio"
+}

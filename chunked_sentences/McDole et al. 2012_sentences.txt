@@ -1,0 +1,1296 @@
+--- SENTENCE 1 ---
+[](_page_0_Picture_1.jpeg)
+
+# Assessing Coral Reefs on a Pacific-Wide Scale Using the Microbialization Score
+
+Tracey McDole<sup>1\*</sup>, James Nulton<sup>2</sup>, Katie L. Barott<sup>1</sup>, Ben Felts<sup>2</sup>, Carol Hand<sup>2</sup>, Mark Hatay<sup>1</sup>, Hochul Lee<sup>2</sup>, Marc O. Nadon<sup>5,6</sup>, Bahador Nosrat<sup>1</sup>, Peter Salamon<sup>2</sup>, Barbara Bailey<sup>2</sup>, Stuart A. Sandin<sup>4</sup>, Bernardo Vargas-Angel<sup>3</sup>, Merry Youle<sup>1</sup>, Brian J. Zgliczynski<sup>4</sup>, Russell E. Brainard<sup>3</sup>, Forest Rohwer<sup>1</sup>
+
+1 Biology Department, San Diego State University, San Diego, California, United States of America, 2 Department of Math and Computer Sciences, San Diego State University, San Diego, California, United States of America, 3 Pacific Islands Fisheries Science Center, NOAA Fisheries, Honolulu, Hawaii, United States of America, 4 Scripps Institution of Oceanography, University of California San Diego, La Jolla, California, United States of America, 5 Rosenstiel School of Marine and Atmospheric Science, University of Miami, Florida, United States of America, 6 Joint Institute for Marine and Atmospheric Research, University of Hawaii at Manoa, Honolulu, Hawaii, United States of America
+
+####
+
+--- SENTENCE 2 ---
+Abstract
+
+The majority of the world's coral reefs are in various stages of decline.
+
+--- SENTENCE 3 ---
+While a suite of disturbances (overfishing, eutrophication, and global climate change) have been identified, the mechanism(s) of reef system decline remain elusive.
+
+--- SENTENCE 4 ---
+Increased microbial and viral loading with higher percentages of opportunistic and specific microbial pathogens have been identified as potentially unifying features of coral reefs in decline.
+
+--- SENTENCE 5 ---
+Due to their relative size and high per cell activity, a small change in microbial biomass may signal a large reallocation of available energy in an ecosystem; that is the microbialization of the coral reef.
+
+--- SENTENCE 6 ---
+Our hypothesis was that human activities alter the energy budget of the reef system, specifically by altering the allocation of metabolic energy between microbes and macrobes.
+
+--- SENTENCE 7 ---
+To determine if this is occurring on a regional scale, we calculated the basal metabolic rates for the fish and microbial communities at 99 sites on twenty-nine coral islands throughout the Pacific Ocean using previously established scaling relationships.
+
+--- SENTENCE 8 ---
+From these metabolic rate predictions, we derived a new metric for assessing and comparing reef health called the microbialization score.
+
+--- SENTENCE 9 ---
+The microbialization score represents the percentage of the combined fish and microbial predicted metabolic rate that is microbial.
+
+--- SENTENCE 10 ---
+Our results demonstrate a strong positive correlation between reef microbialization scores and human impact.
+
+--- SENTENCE 11 ---
+In contrast, microbialization scores did not significantly correlate with ocean net primary production, local chla concentrations, or the combined metabolic rate of the fish and microbial communities.
+
+--- SENTENCE 12 ---
+These findings support the hypothesis that human activities are shifting energy to the microbes, at the expense of the macrobes.
+
+--- SENTENCE 13 ---
+Regardless of oceanographic context, the microbialization score is a powerful metric for assessing the level of human impact a reef system is experiencing.
+
+--- SENTENCE 14 ---
+Citation: McDole T, Nulton J, Barott KL, Felts B, Hand C, et al. (2012)
+
+--- SENTENCE 15 ---
+Assessing Coral Reefs on a Pacific-Wide Scale Using the Microbialization Score. PLoS
+
+--- SENTENCE 16 ---
+ONE 7(9): e43233. doi:10.1371/
+
+--- SENTENCE 17 ---
+journal.pone.0043233
+
+Editor: Sebastian C. A. Ferse, Leibniz Center for Tropical Marine Ecology, Germany
+
+Received January 20, 2012; Accepted July 18, 2012; Published September 7, 2012
+
+**Copyright:**
+
+--- SENTENCE 18 ---
+© 2012 McDole et al.
+
+--- SENTENCE 19 ---
+This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+--- SENTENCE 20 ---
+This work was supported by National Science Foundation (NSF) (OCE-0927415) and a grant from CIFAR (LTRDTD62207).
+
+--- SENTENCE 21 ---
+The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+--- SENTENCE 22 ---
+Competing Interests: The authors have declared that no competing interests exist.
+
+--- SENTENCE 23 ---
+\* E-mail: tsmcdole@yahoo.com
+
+### Introduction
+
+The relationship between increasing human activity and decreasing fish biomass is well-established in coral reef systems
+
+--- SENTENCE 24 ---
+Although herbivore reduction due to overfishing probably facilitates coral to algal transitions, the mechanistic link between overfishing and coral mortality is not clear [4].
+
+--- SENTENCE 25 ---
+Much uncertainty about the mechanisms of reef decline linked to eutrophication and climate change also still exists [5–6].
+
+--- SENTENCE 26 ---
+In addition to increasing algal cover relative to hard coral cover, other effects of anthropogenically-driven disturbances include disease outbreaks, fewer links in trophic webs, and loss of physical structure and habitat complexity
+
+--- SENTENCE 27 ---
+Reef-associated microbial communities have been shown to respond to all of the above disturbances (overfishing, nutrient enrichment, thermal stress) by becoming less beneficial and more pathogenic, i.e. the proportion of sequences related to known pathogens typically increases [10–17].
+
+--- SENTENCE 28 ---
+Despite the epidemiological evidence linking the microbial ecology of coral reef systems to human activity, the largest study of coral reef microbial communities included only four coral atolls in the Line Islands, all clustered within one oceanographic region [14].
+
+--- SENTENCE 29 ---
+In this island chain a 10-fold increase in microbial and viral abundances in the overlying reef-water correlated with increasing human disturbance and was accompanied by decreased fish biomass [1,14].
+
+--- SENTENCE 30 ---
+Further, a large proportion of the microbial 16S rDNA sequence similarities on the most disturbed reefs were most closely related to known pathogens [14].
+
+--- SENTENCE 31 ---
+These reefs also had the highest incidences of coral disease and the lowest percent coral cover.
+
+--- SENTENCE 32 ---
+Other studies have also suggested that the total carbon flow through microbial pathways via detritus is inversely related to coral cover [18–19].
+
+--- SENTENCE 33 ---
+Ecosystems exhibit higher-level properties resulting from lower-level phenomena [20].
+
+--- SENTENCE 34 ---
+The energy available to a higher trophic level, for example, is reduced by the amount required to support the individual organisms in the lower level.
+
+--- SENTENCE 35 ---
+The Metabolic Theory
+
+of Ecology (MTE) predicts the metabolic rate of individual organisms based on the observation that most variation in an individual's metabolic rate can be explained by body size and temperature
+
+--- SENTENCE 36 ---
+Whole organism metabolic rate (*I*), defined as the amount of energy per unit time that an individual organism requires, is calculated using Equation 1:
+
+$$I = i_0 M^{\alpha} e^{-E/kT} \tag{1}$$
+
+Where  $i_0$  is the mass-independent normalization constant, M is the wet weight of the organism in grams, and  $\alpha$  is the scaling exponent.
+
+--- SENTENCE 37 ---
+The effects of temperature on metabolic rate are accounted for by  $e^{-E/kT}$
+
+--- SENTENCE 38 ---
+[21,23] where E is the activation energy, k is Boltzmann's constant  $(8.62 \times 10^{-5} \text{ eV K}^{-1})$ , and T is the water temperature at the site at the time of collection (in Kelvin).
+
+--- SENTENCE 39 ---
+Distinct scaling exponents have been derived for different physiological states and evolutionary groups
+
+--- SENTENCE 40 ---
+The process of replacing macroorganisms with microbes has been termed microbialization
+
+--- SENTENCE 41 ---
+In this study, Equation 1 was used to predict metabolic rates for all individual fish and microbes present in a 10 m<sup>3</sup> volume of reef water.
+
+--- SENTENCE 42 ---
+*Microbialization* refers to an increase in the percentage of the combined fish and microbial predicted metabolic rate that is microbial.
+
+--- SENTENCE 43 ---
+Island-level microbialization scores were derived for 29 islands (99 sites) within four oceanographic regions of the Pacific Ocean.
+
+--- SENTENCE 44 ---
+Our data show a strong significant positive correlation between microbialization scores and the NCEAS cumulative human impact scores at each island.
+
+--- SENTENCE 45 ---
+In comparison, microbialization scores did not correlate with the net primary production values.
+
+--- SENTENCE 46 ---
+These findings support the hypothesis that human activities rather than variation in oceanographic conditions are causing microbialization of coral reefs and that the microbialization score is a powerful metric for assessing and comparing reef health.
+
+### **Materials and Methods**
+
+### Site descriptions
+
+The twenty-nine islands included in this study were surveyed following the National Oceanic and Atmospheric Association (NOAA) 's Rapid Ecological Assessment (REA) protocol as part of the Coral Reef Ecosystem Division (CRED) and Pacific Reef Assessment and Monitoring Program (Pacific RAMP)
+
+--- SENTENCE 47 ---
+Multiple coral reef sites (average depth: 10 m) were sampled at each island in four broad regional groups: the Main Hawaiian Islands (MHI), Guam and the Mariana Islands (MARIANA), the American Samoa region (SAMOA), and the Pacific Remote Island Areas (PRIA) (Fig. 1, Table 1).
+
+--- SENTENCE 48 ---
+Microbial samples were collected during the 2008-2010 Pacific RAMP monitoring cruises: MHI (2008), MARIANAS (2009), SAMOA (2010), PRIA (2010).
+
+--- SENTENCE 49 ---
+For fish, belt survey data from 2001-2009 was used for all islands.
+
+--- SENTENCE 50 ---
+Because the REA survey protocol switched to the Stationary Point Count (SPC) method in 2009, 2010 fish data was not included.
+
+--- SENTENCE 51 ---
+Microbial and fish data collection sites at each island are not necessarily co-located.
+
+--- SENTENCE 52 ---
+Due to the variability inherent with observational fish data, the standard approach for estimating island means for fish abundance requires a large sample size.
+
+--- SENTENCE 53 ---
+To have an adequate sample size, this fish data was pooled from all sites and years.
+
+--- SENTENCE 54 ---
+Island-level averages and standard errors for fish and microbial biomass are provided in Table S2 and Fig.
+
+--- SENTENCE 55 ---
+Microbial metabolic rates were calculated per site then averaged by island.
+
+--- SENTENCE 56 ---
+Island-level averages for fish and microbial predicted metabolic rates were used to calculate one microbialization score for each island.
+
+### Collection of microbial data
+
+At each site, 4 replicate 2 l seawater samples were collected  $\sim$ 1 m above the benthos using polycarbonate Niskin bottles.
+
+--- SENTENCE 57 ---
+Microscopy grade glutaraldehyde was added to a final concentration of 0.3% v/v. Microbial cells were collected from each sample by filtration using a 0.2  $\mu$ m Anodisc filter (Whatman) and then stained with 5  $\mu$ g ml $^{-1}$  DAPI (Molecular Probes, Invitrogen) within 2 hours of collection
+
+--- SENTENCE 58 ---
+Filters were mounted on microscope slides and stored at  $-20^{\circ}$ C. For each site, 10 fields of view (5 fields for each of 2 replicate filters,  $\sim$ 200 cells per field) were examined by epifluorescence microscopy (excitation/emission:
+
+--- SENTENCE 59 ---
+358/461 nm) at 600× magnification.
+
+--- SENTENCE 60 ---
+Cell counts and dimensions were collected using ImagePro Software (Media Cybernetics) set for a size range of 0.00001–10  $\mu$ m for both length and width.
+
+--- SENTENCE 61 ---
+Cell volume (V) was calculated by considering all cells to be cylinders with hemispherical caps using Equation 2:
+
+$$V = \pi/4 \times w^2 (l - w/3) \tag{2}$$
+
+where l is length and w is width
+
+--- SENTENCE 62 ---
+No correction was made for possible cell shrinkage as a result of fixation.
+
+--- SENTENCE 63 ---
+Individual microbial cell volumes  $V(\mu m^3)$  were converted to mass in wet weight (g) using previously established size-dependent relationships for marine microbial communities [32].
+
+--- SENTENCE 64 ---
+Each cell volume V was next converted to dry weight using the linear relationship derived from data reported in Simon and Azam (1989) and shown in Equation 3.
+
+$$\log(y)
+
+--- SENTENCE 65 ---
+= 1.72 \log(x) - 12.63 \tag{3}$$
+
+where x is cell dry weight and y is cell volume ( $r^2 = 0.99$ ).
+
+--- SENTENCE 66 ---
+Then cell wet weight (z) was calculated using the linear relation shown in Equation 4 [32] ( $r^2 = 0.99$ ):
+
+$$\log(z) = 1.63 \log(x) - 2.0 \tag{4}$$
+
+### Collection of fish data
+
+This study includes fish data from all surveys performed at REA sites during the years 2001-2009.
+
+--- SENTENCE 67 ---
+The number of REA sites surveyed over this time period is provided for each island in Table S2.
+
+--- SENTENCE 68 ---
+Visual surveys provided a census of the reef fish community
+
+--- SENTENCE 69 ---
+Surveys were restricted to shallow-to-moderate depths along the forereef between 10-15 m with a majority of surveys completed along the 10 m isobaths.
+
+--- SENTENCE 70 ---
+At each site, a total of three 25 m long belt transect surveys were conducted by two different divers.
+
+--- SENTENCE 71 ---
+For each survey, the diver made two passes: during the first pass, all fish >20 cm in length were recorded in adjacent 4 m wide belts; during the second pass all fish ≤20 cm were recorded in 2 m wide belts.
+
+--- SENTENCE 72 ---
+Lengths were recorded to the nearest cm for fish < 5 cm and in 5 cm bins for all others [34].
+
+--- SENTENCE 73 ---
+Species-specific mass values for individual fish were calculated from length-weight relationships using FishBase [35-36].
+
+--- SENTENCE 74 ---
+The fish data was provided for each family as mean biomass (g m  $^{-2}$ ) and mean abundance (# individuals m<sup>-2</sup>), from which the mean mass per individual (g) was calculated.
+
+--- SENTENCE 75 ---
+Because surveys were carried out at an average water depth of 10 m and surveyors counted all fish in the water column up to the surface, the mean abundances (individuals per m<sup>2</sup>) represented the total number present in a 10 m<sup>3</sup> water column.
+
+!
+
+--- SENTENCE 76 ---
+Location of the 29 islands surveyed.
+
+--- SENTENCE 77 ---
+** Color scale indicates oceanic net primary production derived from satellite data using the Vertically Generalized Production Model (VGPM).
+
+--- SENTENCE 78 ---
+Circles indicate the relative NCEAS cumulative human impact score for each island.
+
+--- SENTENCE 79 ---
+For island abbreviations see Table 1. doi:10.1371/journal.pone.0043233.g001
+
+--- SENTENCE 80 ---
+### Metabolic rate calculations
+
+At each REA site, community-level metabolic rates were calculated by summing the individual metabolic rates (I) for all fish or microbes present in a standard volume of water  $(10 \text{ m}^3)$ .
+
+--- SENTENCE 81 ---
+Individual metabolic rates (I) in watts were calculated using Equation 1.
+
+--- SENTENCE 82 ---
+The mass independent normalization constant for fish,  $i_0$ ,  $(\ln[i_0] = 18.47)$  was extracted from the plots in Brown et al.
+
+--- SENTENCE 83 ---
+[21], while those for basal and active microbial states  $(4.61 \times 10^{16})$  and  $1.08 \times 10^{21}$ , respectively) were calculated from previously reported individual prokaryote metabolic rate values [25].
+
+--- SENTENCE 84 ---
+The predicted scaling exponents ( $\alpha$ ) used for microbes were 1.72 (basal) and 1.96 (active)
+
+--- SENTENCE 85 ---
+[25], while 0.71 was used for fish [21].
+
+--- SENTENCE 86 ---
+The activation energies (E) used were 0.61 eV for microbes [25] and 0.69 eV for fish [21].
+
+## Quantification of human impact
+
+The level of human impact was assessed from the cumulative global human impact map generated by the National Center for Ecological Analysis and Synthesis (NCEAS; http://www.nceas.ucsb.edu/globalmarine/impacts).
+
+--- SENTENCE 87 ---
+Using ArcGIS 9.3, "NoData" pixels corresponding to the land mass of each island were identified and converted into polygon format.
+
+--- SENTENCE 88 ---
+A 10 km zone was
+
+then calculated for each of these polygons, representing the immediate 10 km of sea surface around the border of each island in the study.
+
+--- SENTENCE 89 ---
+Using these zones, statistics were then performed on the NCEAS human impact raster in order to calculate the mean impact score.
+
+--- SENTENCE 90 ---
+These scores incorporate data related to: artisanal fishing; demersal destructive fishing; demersal non-destructive, high-bycatch fishing; demersal non-destructive low-bycatch fishing; inorganic pollution; invasive species; nutrient input; ocean acidification; benthic structures (e.g., oil rigs); organic pollution; pelagic high-bycatch fishing; pelagic low-bycatch fishing; population pressure; commercial activity (e.g., shipping); and anomalies in sea surface temperature and ultraviolet insolation.
+
+--- SENTENCE 91 ---
+Other indicators of reef system health were also considered in this study using benthic survey data collected at the same time as the microbial data.
+
+--- SENTENCE 92 ---
+Benthic surveys were performed using the survey methodology described in Vargas-Angel [37–38].
+
+--- SENTENCE 93 ---
+A principal components analysis was carried out using R on the following initial variables: coral disease prevalence, prevalence of coral colonies with compromised health (unidentified sub-lethal lesions including algal and cyanophyte interactions, and barnacle and tubeworm infestations), percent crustose corraline algae cover, percent coral cover, and the microbialization score [39,40].
+
+--- SENTENCE 94 ---
+Raw data sets were rescaled to give mean 0 and standard deviation of 1.
+
+--- SENTENCE 95 ---
+As a supplement to PCA analysis, k-means clustering was also
+
+Table 1.
+
+--- SENTENCE 96 ---
+Survey data and calculated values for 29 islands in the Pacific, grouped by region.
+
+--- SENTENCE 97 ---
+| REGION               |                                              | MICROBIAL COMMUNITY |
+
+--- SENTENCE 98 ---
+|                             | FISH COMMUNITY |
+
+--- SENTENCE 99 ---
+| OTHER         |        |                |
+|----------------------|----------------------------------------------|---------------------|---------------|-----------------------------|----------------|-----------------------------|---------------|--------|----------------|
+| Code                 | Island                                       | Abundance x 105     | Total Biomass | Metabolic Rate<br>Predicted | Total Biomass
+
+--- SENTENCE 100 ---
+| Metabolic Rate<br>Predicted | NPP           | Chla   | NCEAS<
+
+--- SENTENCE 101 ---
+br>Score |
+|                      |                                              | cells ml21          | g 10 m23      | W 10 m23                    |
+
+--- SENTENCE 102 ---
+g 10 m23       | W 10 m23                    | mg C m22 yr21 | mg l21
+
+--- SENTENCE 103 ---
+| GUAM & MARIANA ISLANDS (orange)
+
+--- SENTENCE 104 ---
+|                |                             |               |        |                |
+| AGR                  | Agrihan
+
+--- SENTENCE 105 ---
+| 2.6                 | 0.22          | 0.005                       | 84.54          | 0.007
+
+--- SENTENCE 106 ---
+| 155           | 0.11   | 7.7            |
+| AGU                  |
+
+--- SENTENCE 107 ---
+Aguijan                                      | 2.3                 | 0.16          | 0.006                       | 41.5           | 0.005                       | 125           | 0.34   | 9.9            |
+| ASC                  | Asuncion                                     | 2.7                 | 0.15          | 0.002                       | 182.54         | 0.011
+
+--- SENTENCE 108 ---
+| 159           | 0.11   | 7.6            |
+| FDP                  | Farallon de Pajaros                          | 2.7                 | 0.2           | 0.003                       | 103.18         | 0.007                       | 165           | 0.06   | 6.8            |
+| GUA                  | Guam                                         | 2.8                 | 0.27          | 0.012                       | 17.98          | 0.002
+
+--- SENTENCE 109 ---
+| 126           | 0.17   | 13.7           |
+| GUG
+
+--- SENTENCE 110 ---
+| Guguan                                       | 3.5                 | 0.27          | 0.002
+
+--- SENTENCE 111 ---
+| 145.03         | 0.012                       | 153           | 0.1    | 7.1            |
+| MAU                  | Maug                                         | 3                   | 0.24          | 0.003                       | 70.95          | 0.005
+
+--- SENTENCE 112 ---
+| 159           | 0.22   | 6.7            |
+| ROT                  | Rota                                         | 2.3                 | 0.17          | 0.003                       | 36.9           | 0.004                       | 125           | 0.07   | 9.4            |
+| SAI                  | Saipan                                       | 2.1                 | 0.21          | 0.017                       | 23.31          | 0.003                       | 143           | 0.1    | 11.2           |
+| TIN                  | Tinian                                       | 1.8                 | 0.17          | 0.004                       | 31.19          | 0.003                       | 143           | 0.05   | 10.3           |
+|                      | MAIN HAWAIIAN ISLANDS (MHI, blue)
+
+--- SENTENCE 113 ---
+|                     |               |                             |
+
+--- SENTENCE 114 ---
+|                             |               |        |                |
+| HAW                  |
+
+--- SENTENCE 115 ---
+Hawaii                                       | 4.7                 | 0.81          | 0.012                       | 51.24          | 0.004                       | 248           | 0.12   | 12.2           |
+| KAU                  | Kauai                                        | 2.8                 | 0.69          | 0.024                       | 33.39          | 0.002                       | 262           | 0.34   | 13             |
+| LAN                  | Lanai                                        | 3.3                 | 0.4           | 0.007                       | 33.44          | 0.002                       | 264           | 0.15   | 12.7           |
+| MAI                  | Maui                                         | 3                   | 0.56          | 0.019                       | 40.16          | 0.003                       | 258           | 0.21   | 14.2           |
+| MOL                  | Molokai                                      | 2.1                 | 0.32          | 0.006                       | 24.8           | 0.002                       | 270           | 0.1    | 12.8           |
+| NII/LEH              | Niihau & Lehua                               | 4.1                 | 1.29          | 0.05                        | 54.49          | 0.003                       | 234           | 0.22   | 10.7           |
+| OAH                  | Oahu                                         | 3.7                 | 1.53          | 0.076                       | 23.99          | 0.002                       | 270           | 0.19   | 15.6           |
+|                      | PACIFIC REMOTE ISLANDS & ATOLLS (PRIA, pink)
+
+--- SENTENCE 116 ---
+|                     |               |                             |                |
+
+--- SENTENCE 117 ---
+|               |        |                |
+| BAK                  | Baker                                        | 3.8                 | 0.33          | 0.004                       | 228.18         | 0.011
+
+--- SENTENCE 118 ---
+| 380           | 0.1    | 5.3            |
+|
+
+--- SENTENCE 119 ---
+HOW                  | Howland                                      | 4.5                 | 0.49          | 0.014                       | 195.37         | 0.022                       | 380           | 0.06   | 6.3            |
+| JAR                  | Jarvis                                       | 5.8                 | 0.46          | 0.005                       | 408.75         | 0.026
+
+--- SENTENCE 120 ---
+| 445           | 0.08   | 4              |
+| JOH                  | Johnston                                     | 3.5                 | 0.72          | 0.024                       | 91.6           | 0.005                       | 196           | 0.09   | 8.5            |
+| KIN                  | Kingman                                      | 1.7                 | 0.18          | 0.002                       | 514.84         | 0.015                       | 282           | 0.11   | 5.5            |
+| PAL                  | Palmyra                                      | 3.7                 | 0.22          | 0.002                       | 229.08         | 0.01                        | 307           | 0.16   | 8              |
+| WAK                  | Wake                                         | 2.2                 | 0.12          | 0.001                       | 161.4          | 0.008                       | 147           | 0.06   | 9.5            |
+| SAMOA REGION (green) |                                              |                     |               |                             |                |                             |               |        |                |
+| OFU/OLO              | Ofu & Olosega                                | 2.9                 | 0.19          | 0.003                       | 57.83          | 0.004                       | 139           | 0.07   | 8.4            |
+| ROS                  | Rose                                         | 3.2                 | 0.14          | 0.002                       | 82.98          | 0.007                       | 130           | 0.04   | 8.2            |
+| SWA                  | Swains                                       | 3.1                 | 0.26          | 0.004                       | 85.17          | 0.005                       | 148           | 0.04   | 8.6            |
+| TAU                  | Tau                                          | 3.3                 | 0.23          | 0.004                       | 44.77          | 0.004                       | 139           | 0.06   | 8.6            |
+|                      |                                              |                     |               |                             |                |                             |               |        |                |
+
+| REGION             |                                                                                                                            | MICROBIAL COMMUNITY         | NITY                                      |                                                                      | FISH COMMUNITY       |                             | OTHER                                       |                |                |
+|--------------------|----------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------------------------------------|----------------------------------------------------------------------|----------------------|-----------------------------|---------------------------------------------|----------------|----------------|
+| Code               | Island                                                                                                                     | Abundance x 10 <sup>5</sup> | Total Biomass                             | Predicted 10 <sup>5</sup> Total Biomass Metabolic Rate Total Biomass | Total Biomass        | Predicted<br>Metabolic Rate | MPP                                         | Chla           | NCEAS<br>Score |
+|                    |                                                                                                                            | cells ml <sup>-1</sup>      | g 10 m <sup>-3</sup> W 10 m <sup>-3</sup> |                                                                      | g 10 m <sup>-3</sup> | W 10 m <sup>-3</sup>        | mg C m $^{-2}$ yr $^{-1}$ $\mu$ g I $^{-1}$ | п <b>9</b> Г−1 |                |
+
+--- SENTENCE 121 ---
+| TUT                | Tutuila                                                                                                                    | 3.5                         | 0.25                                      | 0.006                                                                | 33.11                | 0.003                       | 151                                         | 0.15           | 12.4           |
+| Predicted metaboli | Predicted metabolic rates are basal rates.
+
+--- SENTENCE 122 ---
+NPP = net primary production.
+
+--- SENTENCE 123 ---
+Colors identify each island group in the figures.
+
+--- SENTENCE 124 ---
+Colors identify | y each island groul                       | p in the figures.
+
+--- SENTENCE 125 ---
+|                      |                             |                                             |                |                |
+
+performed on the same data matrix for k = 2-8 (100 iterations); the dissimilarity matrix was calculated using Gower's standardization [41].
+
+### Estimation of net primary production
+
+Productivity estimations for net primary productivity (NPP) (mg C m<sup>-2</sup> day<sup>-1</sup>) were derived from Moderate Resolution Imaging Spectroradiometer (MODIS) satellite data using the Vertically Generalized Production Model (VGPM: http://www. science.oregonstate.edu/ocean.productivity/standard.product.
+
+--- SENTENCE 126 ---
+This model, based on an algorithm by Behrenfeld and Falkowski (1997) calculates net primary production from satellitebased measurements of surface chla concentrations, while also taking into account sea surface temperature, daily photosynthetically active radiation, and a temperature-dependent photosynthetic efficiency factor [42].
+
+--- SENTENCE 127 ---
+Because these satellite data sets are less accurate for near-shore measurements, the satellite-based NPP values used here were estimated from the data for a 50 km radius ring surrounding each island, with the first 10 km around each island removed.
+
+--- SENTENCE 128 ---
+The nearshore chla concentrations (µg l<sup>-1</sup>) used in this study were obtained using fluorometric analysis [43].
+
+--- SENTENCE 129 ---
+The chla samples were collected in conjunction with the microbial samples at each site.
+
+--- SENTENCE 130 ---
+Discussion**
+
+### Predicted metabolic rates for the fish and microbes
+
+Field surveys carried out at 99 coral reef sites at 29 Pacific islands (Fig. 1) were used to calculate the biomass (g per 10 m<sup>3</sup>) and basal metabolic rate (W per 10 m<sup>3</sup>) for both the water column-associated microbial and fish communities (Table 1).
+
+--- SENTENCE 131 ---
+The high and low values for microbial biomass occurred on the islands of Oahu (1.53 g per 10 m<sup>3</sup>) and Wake Atoll (0.12 g per 10 m<sup>3</sup>), respectively.
+
+--- SENTENCE 132 ---
+This difference in microbial biomass equates to a 76fold increase in the rate of energy flux (W per 10 m<sup>3</sup> or J sec<sup>-1</sup> 10 m<sup>-3</sup>) on Oahu (0.076 W per 10 m<sup>3</sup>) relative to Wake Atoll (0.001 W per 10 m<sup>3</sup>).
+
+--- SENTENCE 133 ---
+The highest fish biomass was found on Kingman (514.84 g per 10 m<sup>3</sup>) and the lowest on Guam (17.98 g per 10 m<sup>3</sup>).
+
+--- SENTENCE 134 ---
+The metabolic requirements predicted for the fish communities on Kingman and Guam were 0.015 and 0.002 W per 10 m<sup>3</sup>, respectively.
+
+--- SENTENCE 135 ---
+This difference equates to a 7.5-fold reduction in the metabolic requirements of the fish community.
+
+--- SENTENCE 136 ---
+The largest differences in the predicted metabolic rates between each island represent a 100-fold change for the microbes, as compared to a 14-fold change for the fish (Table 1).
+
+--- SENTENCE 137 ---
+# Microbialization scores versus the NCEAS human impact score
+
+Based on the predicted metabolic rates for fish and microbes (Table 1), we are proposing a separate metric called the *microbialization score*, which represents the microbial share of the total predicted metabolic rate.
+
+--- SENTENCE 138 ---
+The microbialization score is the percentage of the combined fish and microbial predicted metabolic rate that is microbial:
+
+$$(W 10 \text{ m}^3_{microbes})/(W 10 \text{ m}^3_{microbes} + W 10 \text{ m}^3_{fish})
+
+--- SENTENCE 139 ---
+Although both increased microbial biomass and decreased fish biomass affect microbialization scores, microbial biomass has a proportionately greater impact on the combined predicted metabolic rate.
+
+--- SENTENCE 140 ---
+For example, on Oahu, the fish are responsible for only 3% of the combined predicted metabolic rate, but account
+
+Table 1.
+
+--- SENTENCE 141 ---
+Linear regression analysis of microbialization scores versus NCEAS cumulative human impact values (y = 8.19 x - 26.10;  $r^2 = 0.68$ ).
+
+--- SENTENCE 142 ---
+The microbialization score is the percentage of the combined fish and microbial predicted metabolic rate that is microbial.
+
+--- SENTENCE 143 ---
+Color denotes oceanographic region:
+
+--- SENTENCE 144 ---
+Guam and the Mariana Islands (orange circles), the Main Hawaiian Islands (blue circles), Pacific Remote Islands and Atolls (pink circles), and the Samoa region (green circles).
+
+--- SENTENCE 145 ---
+For island abbreviations see Table 1. doi:10.1371/journal.pone.0043233.g002
+
+for 94% of the total biomass.
+
+--- SENTENCE 146 ---
+Even on Kingman where we observed the highest fish biomass and microbial biomass represented less than 0.03% of the total biomass, the microbes still account for 13% of the combined predicted metabolic rate.
+
+--- SENTENCE 147 ---
+Recently, the NCEAS human impact score has been proposed as a cumulative metric of different anthropogenic stressors ranging from overfishing to predicted climate change events
+
+--- SENTENCE 148 ---
+As shown in Fig.
+
+--- SENTENCE 149 ---
+2, the microbialization score is positively correlated with the NCEAS score (linear regression,  $r^{2=0.68}$ ; Fig. 2).
+
+--- SENTENCE 150 ---
+The microbialization scores ranged from 8% at remote and relatively pristine Wake Island to 75–98% in the heavily-impacted main Hawaiian Islands (MHI).
+
+--- SENTENCE 151 ---
+Oahu, with the highest microbialization score (98%) also had the highest NCEAS score (15.59).
+
+--- SENTENCE 152 ---
+Johnston Atoll in the PRIA group appears to be an exception to the overall trend in that it has a high microbialization score (82%) but a relatively low NCEAS score (8.48).
+
+--- SENTENCE 153 ---
+In actuality, Johnston is heavily impacted by factors not reflected in the NCEAS scores including the addition of two artificial islands with paved runways formed by coral dredging, usage for both above-ground and underground nuclear tests in the 1950s and 1960s, and service as a chemical weapons depot until 2000.
+
+--- SENTENCE 154 ---
+The microbialization score appears to be a better indicator of these stressors than the NCEAS index of human impact.
+
+--- SENTENCE 155 ---
+A principal components analysis was carried out with the goal of visualizing how the microbialization score related to other indicators of reef health, including coral disease prevalence, prevalence of coral colonies with other signs of compromised health, percent crustose corraline algae cover, and percent coral cover (Fig.
+
+--- SENTENCE 156 ---
+The first two components accounted for 66% of the variation.
+
+--- SENTENCE 157 ---
+The first component (PC1) accounted for 46% of the variation and was driven in the positive direction (relative to 0) by coral disease incidence, other visible signs of compromised coral health, and microbialization score (Fig. S1).
+
+--- SENTENCE 158 ---
+A complete table of PCA loadings is provided in Table S3.
+
+--- SENTENCE 159 ---
+By comparison, variables which typically correlate positively with reef system health (% crustose coralline algal cover and % coral cover) were represented
+
+as vectors moving in the negative direction (relative to 0).
+
+--- SENTENCE 160 ---
+The separation by vector sign along PC1 supports the hypothesis that the microbialization score is a useful measure of reef system decline.
+
+--- SENTENCE 161 ---
+Because the PCA analysis indicated that there was separation in the data, we used k-means clustering as a supplementary analysis to determine how many groups there were.
+
+--- SENTENCE 162 ---
+K-means is a classical variance-based clustering method that defines n data points in d dimensions, into k clusters, so that the within clusters sun-of-squares is minimized
+
+--- SENTENCE 163 ---
+The within group sum of squares plotted against the number of clusters (k) indicated k=3 to be the optimal number (for k=2-8).
+
+--- SENTENCE 164 ---
+The 11 islands contained in cluster two (within-cluster sum of squares = 1.47) were negative for PC1 (Fig.
+
+--- SENTENCE 165 ---
+S1), while the 16 islands contained in cluster 3 were all positive on PC1 (within-cluster sum of squares = 2.06).
+
+--- SENTENCE 166 ---
+The two islands in the first k-means cluster were Lanai (LAN) and Guam (GUA) (within cluster sum-ofsquares = 0.32).
+
+### Microbialization scores versus combined metabolic rate
+
+The metabolic rates predicted for the combined microbial and fish communities at the 29 islands ranged by approximately one order of magnitude, from a low of 0.007 W per 10 m³ on Rota Island (MARIANA) to a high of 0.077 W per 10 m³ on Oahu (MHI) (Fig. 3, x-axis).
+
+--- SENTENCE 167 ---
+The combined predicted metabolic rate was not correlated with the microbialization score, which also varied widely among the islands, ranging from a low of 8% at Wake to a high of 97% at Oahu (Fig.
+
+--- SENTENCE 168 ---
+At the low end of this scale, increased microbalization scores were explained by reduced metabolic contribution from the fish.
+
+--- SENTENCE 169 ---
+However, higher microbialization scores were associated with a sharp rise in combined predicted metabolic rate driven primarily by increasing microbial metabolic rates.
+
+--- SENTENCE 170 ---
+This break-point may reflect the release of the microbes from some resource limitation.
+
+--- SENTENCE 171 ---
+# Predicted metabolic rates of fish and microbes versus primary production
+
+Net primary production (NPP) might be expected to be a significant factor driving variation in community metabolic rates.
+
+--- SENTENCE 172 ---
+Previous small-scale inter-island studies that correlated differences in microbial communities with varying local human impacts could not conclusively rule out inter-island variations in oceanographic conditions as a possible driving factor [14].
+
+--- SENTENCE 173 ---
+To address this issue, we surveyed net primary production (NPP) at islands in four oceanographic regions throughout the Pacific Basin (Table 1).
+
+--- SENTENCE 174 ---
+Estimated net primary production (NPP; mg C m<sup>-2</sup> day<sup>-1</sup>) derived from satellite data is shown in Fig.
+
+--- SENTENCE 175 ---
+1. NPP ranged from 125 mg C m<sup>-2</sup> day<sup>-1</sup> at Aguijan to 445 mg C m<sup>-2</sup> day<sup>-1</sup> at Jarvis (Table 1).
+
+--- SENTENCE 176 ---
+This predicted NPP was not a strong predictor of the combined fish + microbial metabolic rate at the island-level (nonlinear regression,  $R^2 = 0.21$ ; Fig. 4A).
+
+--- SENTENCE 177 ---
+Likewise, when the predicted NPP values were compared against the metabolic rates of the fish and microbial communities separately, R<sup>2</sup> values were 0.20 for fish and 0.054 for microbes (Table 1).
+
+--- SENTENCE 178 ---
+Large differences in NPP were observed between the geographic regions surveyed, but relatively little variation within each one (Fig.
+
+--- SENTENCE 179 ---
+Since the satellite data used for the above predictions omitted a 10 km ring around each island, nearshore chla concentrations were also measured as an alternative proxy for NPP.
+
+--- SENTENCE 180 ---
+These samples were collected with the microbial samples at each site.
+
+--- SENTENCE 181 ---
+The nearshore chla concentrations (µg l<sup>-1</sup>) explained even less of the inter-island variation in combined predicted metabolic rate (non-linear regression,  $R^2 = 0.08$ ; Fig. 4B).
+
+--- SENTENCE 182 ---
+For the individual communities,  $R^2$  values were 0.13 and 0.15 for fish and microbes, respectively (Table 1).
+
+!
+
+--- SENTENCE 183 ---
+Microbialization scores plotted against the combined fish + microbes predicted metabolic rates for each of the 29 islands surveyed.
+
+--- SENTENCE 184 ---
+Colors are as in Fig.
+
+--- SENTENCE 185 ---
+For island abbreviations see Table 1. doi:10.1371/journal.pone.0043233.q003
+
+### Microbialization scores and primary production
+
+The island microbialization scores did not correlate with predicted oceanic NPP values (Fig. 4C,  $R^{2=}0.004$ ) or nearshore chla concentrations (Fig.
+
+--- SENTENCE 186 ---
+However, higher nearshore chla concentrations associated with microbialization scores above a certain threshold ( $\sim$ 70%) are suggestive of eutrophication processes linked to human impact (Fig. 4D)
+
+--- SENTENCE 187 ---
+These analyses demonstrate that estimated reef primary production is not a significant driver of variation in either community metabolic rates or microbialization scores.
+
+--- SENTENCE 188 ---
+To further examine whether or not accounting for oceanographic context would improve our ability to predict reef microbialization, multiple linear regression analysis was performed.
+
+--- SENTENCE 189 ---
+In addition to the NCEAS score, satellite-based estimates of net primary production (NPP) and nearshore [chla] were included as variables.
+
+--- SENTENCE 190 ---
+This resulted in 4 models of interest: microbialization score =  $\beta_0 + \beta_1$ (NCEAS),  $y = \beta_0 + \beta_1$ (NCEAS)+ $\beta_2$ ( $y = \beta_0 + \beta_1(NCEAS) + \beta_2(NPP),$   $y = \beta_0 + \beta_1(NCEAS) + \beta_2(-\beta_0)$ chla)+\$\beta\_3(NPP)\$. Given that the NCEAS score was in the model, the p-values for chla and NPP were not significant by the t-test in the second and third models (p-value>0.1).
+
+--- SENTENCE 191 ---
+The only variable that was significant was the NCEAS score, having a highly significant p-value in all of the models (p-value<0.0001).
+
+--- SENTENCE 192 ---
+The model which included both chla and NPP as variables (y =  $\beta_0 + \beta_1$ (NCEAS)+ $\beta_2$ (chla)+ $\beta_3$ (NPP)) gave a multiple R<sup>2</sup> value of 0.706, which was not a significant improvement over the simplest  $(y = \beta_0 + \beta_1(NCEAS))$  which explained 68.4% of the variability of the microbialization score.
+
+--- SENTENCE 193 ---
+Next, Akaike's Information Criterion (AIC) was used for model selection between the 4 different statistical models.
+
+--- SENTENCE 194 ---
+AIC is the most widely known and used model selection criterion which consists of a "goodness-of-fit" term and a "penalty" term for increased number of model parameters [46].
+
+--- SENTENCE 195 ---
+The model with the lowest AIC value is selected as the best model.
+
+--- SENTENCE 196 ---
+The model having the smallest AIC was the model which did not include additional variables ( $y = \beta_0 + \beta_1 (NCEAS)$ ).
+
+--- SENTENCE 197 ---
+Although the exact mechanism(s) underlying
+
+the *process* of microbialization remain unclear, these analyses support the hypothesis that human activities alter the energy budget of the reef system, specifically by altering the allocation of metabolic energy between microbes and macrobes.
+
+--- SENTENCE 198 ---
+The finding that microbialization scores did not significantly correlate with ocean net primary production, local chla concentrations, or the combined metabolic rate of the fish and microbial communities suggests that the microbialization score may be a powerful metric for comparing and assessing reef degredation, particularly at large spatial scales.
+
+--- SENTENCE 199 ---
+Other measures of reef degredation which are more heavily influenced by oceanographic context (i.e. percent coral cover, percent algal cover) may be more easily confounded by non-human factors and are subsequently harder to interpret across large spatial scales.
+
+### Other considerations
+
+In this study, surveys of microbial and fish sizes were used to predict whole organism metabolic rates.
+
+--- SENTENCE 200 ---
+Ideally, the energetic requirements per unit time for fish and microbial communities would be measured empirically.
+
+--- SENTENCE 201 ---
+However, this is not practical over this large region.
+
+--- SENTENCE 202 ---
+To evaluate whether or not the MTE-based approach is a reasonable alternative to quantifying energy flux, the mean predicted metabolic rates for microbial communities were compared against experimental values reported from other studies (Table S1).
+
+--- SENTENCE 203 ---
+The means for both the predicted basal metabolic rates used in our analyses and the corresponding predicted active metabolic rates fall within the same range as the empirically-based measurements.
+
+--- SENTENCE 204 ---
+Similarly, differences in temperature at the time of sampling explained a small proportion of the variation in metabolic rate between islands.
+
+--- SENTENCE 205 ---
+Water temperature at the time of sampling ranged from 25–30°C.
+
+--- SENTENCE 206 ---
+For the microbial community-level metabolic rates, the standard deviation in the 29 island data set was 0.16 at the actual temperatures and 0.01 when all locations were corrected to the same temperature (20°C); for the fish community-level metabolic rates, the standard deviations were
+
+!
+
+--- SENTENCE 207 ---
+Measures of energy use versus metrics of primary production.
+
+--- SENTENCE 208 ---
+** (a) Non-linear regression analysis of the combined fish + microbes predicted metabolic rate versus net primary production (NPP) for the 29 surveyed islands.
+
+--- SENTENCE 209 ---
+NPP was derived from satellite data using the Vertically Generalized Production Model (VGPM).
+
+--- SENTENCE 210 ---
+(y = 0.00008x + 0.0012;  $R^2 = 0.21$ ) (b) Non-linear regression analysis of the combined fish + microbes predicted metabolic rate versus nearshore chla concentrations at the 29 surveyed islands (y = 0.54x + 0.01;  $R^2 = 0.08$ ) (c) Microbialization scores versus NPP derived from satellite data using the VGPM for the 29 surveyed islands.
+
+--- SENTENCE 211 ---
+(d) Microbialization scores versus nearshore chla concentrations at the 29 surveyed islands (y = 171.5x + 29.7;  $R^2 = 0.22$ ).
+
+--- SENTENCE 212 ---
+Colors are as in Fig.
+
+--- SENTENCE 213 ---
+For island abbreviations see Table 1. doi:10.1371/journal.pone.0043233.a004
+
+0.006 and 0.003, respectively.
+
+--- SENTENCE 214 ---
+Temperature correction increased the  $\rm r^2$  value for the regression analysis of community-level metabolic rate as a function of biomass by only 0.01% and 0.05% for fish and microbes, respectively.
+
+--- SENTENCE 215 ---
+Therefore, inter-island variation in temperature does not account for our observed trends.
+
+### **Conclusions**
+
+Overfishing, eutrophication, and global climate change are important drivers of the global loss of coral reefs.
+
+--- SENTENCE 216 ---
+However, the precise mechanism(s) by which these perturbations lead to coral decline have remained elusive.
+
+--- SENTENCE 217 ---
+We and others have previously argued that human activities are favoring the coral reef-associated microbes at the expense of the macrobes, a process called *microbialization*.
+
+--- SENTENCE 218 ---
+The data presented here supports this hypothesis over a wide swath of Pacific coral reefs and suggests that microbialization is a general process of reef decline.
+
+--- SENTENCE 219 ---
+Although the exact mechanism(s) driving the process of microbialization remain unclear, the microbialization score provides a way to diagnose the degree of microbialization that has occurred on reefs.
+
+--- SENTENCE 220 ---
+Fish were the primary movers of energy in the most pristine
+
+locations (i.e. fish were responsible for 97 and 87% of the total predicted metabolic rate on Wake (PRIA) and Kingman (PRIA), respectively) but made up only 3% of the total predicted metabolic rate on Oahu (MHI).
+
+--- SENTENCE 221 ---
+Microbialization scores reflect both increased microbial biomass and decreased fish biomass; however microbial biomass has a proportionately greater impact on metabolic rate.
+
+--- SENTENCE 222 ---
+This means that even a minor increase in the microbial load results in a substantial shift in community energy use; up to a 100-fold increase in the metabolic requirements of the microbes in the most heavily impacted reef systems.
+
+--- SENTENCE 223 ---
+This study has significant implications for the protection of coral reefs.
+
+--- SENTENCE 224 ---
+The degree of microbialization a reef is experiencing may be important for predicting its response to perturbation.
+
+--- SENTENCE 225 ---
+On Pacific coral reefs, microbialization may be set in motion by an increase in the percent cover of turf algae resulting from the loss of herbivorous fish.
+
+--- SENTENCE 226 ---
+Turf algae release large amounts of dissolved organic carbon (DOC) into the water column, a source of energy almost exclusively available to the microbes
+
+--- SENTENCE 227 ---
+Consequently, the process of microbialization is likely to have stabilization effects in the system once a castastophic regime shift to an algal-dominated state has occurred.
+
+### **Supporting Information**
+
+**Figure S1 Principal components analysis of reef system properties related to reef health.
+
+--- SENTENCE 228 ---
+The first two principal components account for 66% of the variability in the dataset (PC1 = 46%, PC2 = 20%).
+
+--- SENTENCE 229 ---
+Arrow length reflects the relative contribution of a variable to a PC axis.
+
+--- SENTENCE 230 ---
+MS = microbialization score; CCA = % crustose coralline algae cover; DZ = % coral disease prevalence; CO = % coral cover; CH = % coral with other indications of compromised health.
+
+--- SENTENCE 231 ---
+Symbol denotes oceanographic region:
+
+--- SENTENCE 232 ---
+Guam and the Mariana Islands (\*), the Main Hawaiian Islands (^), Pacific Remote Islands and Atolls (#), and the Samoa region (+).
+
+--- SENTENCE 233 ---
+Two groups of islands identified from k-means cluster analysis are divided along PC1 by the dotted line; the third group is circled (Lanai and Guam).
+
+--- SENTENCE 234 ---
+For island abbreviations, see Table 1. (TIF)
+
+**Figure S2 Mean microbial and fish biomass.
+
+--- SENTENCE 235 ---
+** (a) Mean microbial biomass with standard error.
+
+--- SENTENCE 236 ---
+Total number of sites where microbial data was collected = 99.
+
+--- SENTENCE 237 ---
+(b) Mean fish biomass with standard error.
+
+--- SENTENCE 238 ---
+Total number of sites where fish data was collected = 791.
+
+--- SENTENCE 239 ---
+The number of REA sites included is given in parentheses next to three-letter island code.
+
+--- SENTENCE 240 ---
+(TIF)
+
+Table S1 Comparison of mean MTE-based microbial metabolic rate predictions from this study with experimental measurements from marine systems <sup>1–5</sup>.
+
+--- SENTENCE 241 ---
+Rates of photosynthesis were converted from units of gross carbon production ( $P_g$ ) to units of power (W) using 39,444 J g<sup>-1</sup> C, the standard free energy change from the synthesis of glucose from  $CO_2$  and  $H_2O$  during photosynthesis at  $STP^6$ .
+
+--- SENTENCE 242 ---
+For conversion between rates of oxygen consumption or production in volume or mass units, we assumed that 1 ml  $O_2$  per second = 1.43 mg  $O_2$  per second  $O_2$  and  $O_3$  respiration we assumed that  $O_3$  per second  $O_3$  per second  $O_3$  ml  $O_4$  per second  $O_3$  ml  $O_4$  per second  $O_3$  ml  $O_4$  per second  $O_3$  ml  $O_4$  per second  $O_3$  ml  $O_4$  per second  $O_4$  metabolic rates in W per  $O_3$  were derived after calculating
+
+#### References
+
+- Sandin SA, Smith JE, DeMartini EE, Dinsdale EA, Donner SD, et al.
+
+--- SENTENCE 243 ---
+(2008)
+  Baselines and degradation of coral reefs in the Northern Line Islands.
+
+--- SENTENCE 244 ---
+3: e1548.
+- Knowlton N, Jackson JBC (2008)
+
+--- SENTENCE 245 ---
+Shifting Baselines, Local Impacts, and Global Change on Coral Reefs.
+
+--- SENTENCE 246 ---
+Biol 6: e54.
+- DeMartini EE, Friedlander AM, Sandin SA, Sala E (2008)
+
+--- SENTENCE 247 ---
+Differences in fishassemblage structure between fished and unfished atolls in the northern Line Islands, central Pacific.
+
+--- SENTENCE 248 ---
+Mar Ecol Prog Ser 365: 199–215.
+- Maliao RJ, Turingan RG, Lin J (2008) Phase-shift in coral reef communities in the Florida Keys National Marine Sanctuary (FKNMS), USA.
+
+--- SENTENCE 249 ---
+Mar Biol 154: 841–853.
+- Bourne DG, Garren M, Work TM, Rosenberg E, Smith GW, et al. (2009)
+
+--- SENTENCE 250 ---
+Microbial disease and the coral holobiont.
+
+--- SENTENCE 251 ---
+Trends Microbiol 17: 554–562.
+- Sokolow S (2009) Effects of a changing climate on the dynamics of coral infectious disease: a review of the evidence.
+
+--- SENTENCE 252 ---
+Dis Aquat Org 87: 5–18.
+- Essington TE, Beaudreau AH, Wiedenmann J (2006) Fishing through marine food webs.
+
+--- SENTENCE 253 ---
+Proc Natl Acad Sci USA 103: 3171–3175.
+- Greenstein BJ, Curran HA, Pandolfi JM (1998)
+
+--- SENTENCE 254 ---
+Shifting ecological baselines and the demise of *Acropora cervicomis* in the western North Atlantic and Caribbean Province: a Pleistocene perspective.
+
+--- SENTENCE 255 ---
+Coral Reefs 17: 249–261.
+- McCormick M (1994)
+
+--- SENTENCE 256 ---
+Comparison of field methods for measuring surface topography and their association with a tropical reef fish community.
+
+--- SENTENCE 257 ---
+Mar Ecol Prog Ser 112: 87–96.
+- Thurber RLV, Barott KL, Hall D, Liu H, Rodriguez-Mueller B, et al (2008)
+
+--- SENTENCE 258 ---
+Metagenomic analysis indicates that stressors induce production of herpes-like viruses in the coral *Porites compressa*.
+
+--- SENTENCE 259 ---
+Proc Natl Acad Sci USA 105: 18413–18418.
+- Bruno JF, Petes LE, Harvell DC, Hettinger A (2003)
+
+--- SENTENCE 260 ---
+Nutrient enrichment can increase the severity of coral diseases.
+
+--- SENTENCE 261 ---
+Ecol Lett 6: 1056–1061.
+- Bruno JF, Selig ER, Casey KS, Page CA, Willis BL, et al. (2007) Thermal stress and coral cover as drivers of coral disease outbreaks.
+
+--- SENTENCE 262 ---
+Biol 5:e124.
+- Kuntz NF, Kline DI, Sandin SA, Rohwer F (2005) Pathologies and mortality rates caused by organic carbon and nutrient stressors in three Caribbean coral species.
+
+--- SENTENCE 263 ---
+Mar Ecol Prog Ser 294: 173–180.
+
+--- SENTENCE 264 ---
+total daily energy use:  $P_g$  (from sunrise to sunset) +
+
+--- SENTENCE 265 ---
+Respiration (over a 24 hour period).
+
+--- SENTENCE 266 ---
+In studies where only dark incubation experiments were performed, total daily energy use was calculated assuming  $P_g/R_{24~hrs}=1$ .
+
+--- SENTENCE 267 ---
+When two measurements are listed for the same sample and conditions, they indicate high and low values.
+
+--- SENTENCE 268 ---
+B= predicted basal metabolic rate; A= predicted active metabolic rate.
+
+--- SENTENCE 269 ---
+(XLSX)
+
+Table S2 Summary table showing the number of REA sites where microbial or fish data (belt transect method only) was collected, time period of sampling, and standard error for biomass and abundance of the fish and microbial communities at each island.
+
+--- SENTENCE 270 ---
+(XLS)
+
+**Table S3** Summary table for Figure S1.
+
+--- SENTENCE 271 ---
+The importance of each component and the contribution (loadings) of each variable is shown.
+
+--- SENTENCE 272 ---
+MS = microbialization score; CCA = % crustose coralline algae cover; DZ = % coral disease prevalence; CO = % coral cover; CH = % coral with other indications of compromised health.
+
+--- SENTENCE 273 ---
+(XLS)
+
+### Acknowledgments
+
+NOAA's Coral Reef Ecosystem Division (CRED) and Pacific Reef Assessment and Monitoring Program (Pacific RAMP) helped support this work.
+
+--- SENTENCE 274 ---
+We thank G. West and J.P. DeLong for helpful discussions.
+
+--- SENTENCE 275 ---
+### **Author Contributions**
+
+Conceived and designed the experiments: FR TM MH SS.
+
+--- SENTENCE 276 ---
+Performed the experiments: TM.
+
+--- SENTENCE 277 ---
+Analyzed the data: TM MN BN BB.
+
+--- SENTENCE 278 ---
+Contributed reagents/materials/analysis tools: RB.
+
+--- SENTENCE 279 ---
+Wrote the paper: TM FR MY.
+
+--- SENTENCE 280 ---
+Collected microbial data: TM KB MH.
+
+--- SENTENCE 281 ---
+Collected and supplied benthic data: BVA.
+
+--- SENTENCE 282 ---
+Collected and supplied fish data:
+
+--- SENTENCE 283 ---
+Oversaw metabolic calculations: JN BF CH HL PS.
+
+- Dinsdale E, Pantos O, Smriga S, Edwards RA, Angly F, et al. (2008)
+
+--- SENTENCE 284 ---
+Microbial ecology of four coral atolls in the Northern Line Islands.
+
+--- SENTENCE 285 ---
+ONE 3: e1584.
+- Mao-Jones J, Ritchie KB, Jones LE, Ellner SP (2010)
+
+--- SENTENCE 286 ---
+How Microbial Community Composition Regulates Coral Disease Development.
+
+--- SENTENCE 287 ---
+PLoS Biol 8: e1000345.
+- Mouchka ME, Hewson I, Harvell CD (2010)
+
+--- SENTENCE 288 ---
+Coral-Associated Bacterial Assemblages: Current Knowledge and the Potential for Climate-Driven Impacts.
+
+--- SENTENCE 289 ---
+Int Comp Biol 50: 662–674.
+- Kelly LW, Barott KL, Dinsdale E, Friedlander AM, Nosrat B, et al. (2011)
+
+--- SENTENCE 290 ---
+Black reefs: iron-induced phase shifts on coral reefs.
+
+--- SENTENCE 291 ---
+ISME J. Available: [http://dx.doi.
+
+--- SENTENCE 292 ---
+Accessed 2011 Dec 21.
+- Johnson C, Klumpp D, Field J, Bradbury R (1995)
+
+--- SENTENCE 293 ---
+Carbon flux on coral reefs: effects of large shifts in community structure.
+
+--- SENTENCE 294 ---
+Mar Ecol Prog Ser 126: 123–143.
+- Arias-Gonzalez J, Delesalle B, Salvat B, Galzin R (1997)
+
+--- SENTENCE 295 ---
+Trophic functioning of the Tiahura reef sector, Moorea Island, French Polynesia.
+
+--- SENTENCE 296 ---
+Coral Reefs 16: 231– 246.
+- Ernest SKM, Enquist BJ, Brown JH, Charnov EL, Gillooly JF, et al. (2003)
+
+--- SENTENCE 297 ---
+Thermodynamic and metabolic effects on the scaling of production and population energy use.
+
+--- SENTENCE 298 ---
+Ecol Lett 6: 990–995.
+- Brown JH, Gillooly JF, Allen AP, Savage VM, West GB (2004)
+
+--- SENTENCE 299 ---
+Toward a metabolic theory of ecology.
+
+--- SENTENCE 300 ---
+Ecology 85: 1771–1789.
+- Gillooly JF, Brown JH, West GB, Savage VM, Charnov EL (2001) Effects of size and temperature on metabolic rate.
+
+--- SENTENCE 301 ---
+Science 293: 2248.
+- 23.
+
+--- SENTENCE 302 ---
+Four laws that drive the universe.
+
+--- SENTENCE 303 ---
+New York: Oxford University Press.
+- Peters ŘH (1986)
+
+--- SENTENCE 304 ---
+The ecological implications of body size.
+
+--- SENTENCE 305 ---
+New York: Cambridge University Press.
+- DeLong JP, Okie JG, Moses ME, Sibly RM, Brown JH (2010) Shifts in metabolic scaling, production, and efficiency across major evolutionary transitions of life.
+
+--- SENTENCE 306 ---
+Proc Natl Acad Sci USA 107: 12941.
+- Jackson JBC, Kirby MX, Berger WH, Bjorndal KA, Botsford LW, et al. (2001)
+
+--- SENTENCE 307 ---
+Historical overfishing and the recent collapse of coastal ecosystems.
+
+--- SENTENCE 308 ---
+Science 293: 690
+
+- 27.
+
+--- SENTENCE 309 ---
+The state of coral reef ecosystems of the United States and Pacific Freely Associated States.
+
+--- SENTENCE 310 ---
+US Dept. of Commerce, National Oceanic and Atmospheric Administration, National Ocean Service, National Centers for Coastal Ocean Science.
+- 28.
+
+--- SENTENCE 311 ---
+Hobbie JE, Daley RJ, Jasper S (1977) Use of nuclepore filters for counting bacteria by fluorescence microscopy.
+
+--- SENTENCE 312 ---
+Appl Environ Microbiol 33: 1225.
+- 29.
+
+--- SENTENCE 313 ---
+Porter KG, Feig YS (1980)
+
+--- SENTENCE 314 ---
+The use of DAPI for identifying and counting aquatic microflora.
+
+--- SENTENCE 315 ---
+Limnol Oceanogr 25: 943–948.
+- 30.
+
+--- SENTENCE 316 ---
+Noble RT, Fuhrman JA (1998) Use of SYBR Green I for rapid epifluorescence counts of marine viruses and bacteria.
+
+--- SENTENCE 317 ---
+Aquat Microb Ecol 14: 113–118.
+- 31.
+
+--- SENTENCE 318 ---
+Automatic determination of bacterioplankton biomass by image analysis.
+
+--- SENTENCE 319 ---
+Appl Environ Microbiol 51: 1199.
+- 32.
+
+--- SENTENCE 320 ---
+Simon M, Azam F (1989)
+
+--- SENTENCE 321 ---
+Protein content and protein synthesis rates of planktonic marine bacteria.
+
+--- SENTENCE 322 ---
+Mar Ecol Prog Ser 51: 201–213.
+- 33.
+
+--- SENTENCE 323 ---
+A critique of the visual census method for assessing coral reef fish populations.
+
+--- SENTENCE 324 ---
+Bull Mar Sci 32: 269–276.
+- 34.
+
+--- SENTENCE 325 ---
+Williams ID, Walsh WJ, Schroeder RE, Friedlander AM, Richards BL, et al. (2008)
+
+--- SENTENCE 326 ---
+Assessing the importance of fishing impacts on Hawaiian coral reef fish assemblages along regional-scale human population gradients.
+
+--- SENTENCE 327 ---
+Environ Conserv 35: 261–272.
+- 35.
+
+--- SENTENCE 328 ---
+Froese R, Pauly D (1994)
+
+--- SENTENCE 329 ---
+Fishbase as a tool for comparing the life history patterns of flatfish.
+
+--- SENTENCE 330 ---
+Neth J Sea Res 32: 235–239.
+- 36.
+
+--- SENTENCE 331 ---
+Kulbicki M, Guillemot N, Amand M (2005)
+
+--- SENTENCE 332 ---
+A general approach to lengthweight relationships for New Caledonian lagoon fishes.
+
+--- SENTENCE 333 ---
+Cybium 29: 235–252.
+
+- 37.
+
+--- SENTENCE 334 ---
+Coral health and disease assessment in the US Pacific Remote Island Areas.
+
+--- SENTENCE 335 ---
+Bull Mar Sci 84: 211–227.
+- 38.
+
+--- SENTENCE 336 ---
+Vargas-Angel B, Looney EE, Vetter OJ, Coccagna EF (2011)
+
+--- SENTENCE 337 ---
+Severe, widespread El Nino associated coral bleaching in the US Phoenix Islands.
+
+--- SENTENCE 338 ---
+Bull Mar Sci 87: 623–638.
+- 39.
+
+--- SENTENCE 339 ---
+The R Project for Statistical Computing website.
+
+--- SENTENCE 340 ---
+Available: http://www.Rproject.org/. Accessed 2012 Aug 1.
+- 40.
+
+--- SENTENCE 341 ---
+New York: Springer.
+- 41.
+
+--- SENTENCE 342 ---
+Some methods for classification and Analysis of Multivariate Observations.
+
+--- SENTENCE 343 ---
+Proceedings of 5th Berkeley Symposium on Mathematical Statistics and Probability.
+
+--- SENTENCE 344 ---
+University of California Press.
+
+--- SENTENCE 345 ---
+Behrenfeld MJ, Falkowski PG (1997)
+
+--- SENTENCE 346 ---
+A consumer's guide to phytoplankton primary productivity models.
+
+--- SENTENCE 347 ---
+Limnol Oceanogr 42: 1479–1491.
+- 43.
+
+--- SENTENCE 348 ---
+Strickland JDH, Parsons TR (1965)
+
+--- SENTENCE 349 ---
+A manual of sea water analysis: with special reference to the more common micronutrients and to particulate organic material.
+
+--- SENTENCE 350 ---
+Fish Res Board Can 125.
+- 44.
+
+--- SENTENCE 351 ---
+Halpern BS, Walbridge S, Selkoe KA, Kappel CV, Micheli F, et al. (2008)
+
+--- SENTENCE 352 ---
+A Global Map of Human Impact on Marine Ecosystems.
+
+--- SENTENCE 353 ---
+Science 319: 948–952.
+- 45.
+
+--- SENTENCE 354 ---
+Smith VH (2006) Responses of estuarine and coastal marine phytoplankton to nitrogen and phosphorus enrichment.
+
+--- SENTENCE 355 ---
+Limnol Oceanogr 51: 377–384.
+- 46.
+
+--- SENTENCE 356 ---
+A new look at the statistical model identification.
+
+--- SENTENCE 357 ---
+IEEE Transactions on Automatic Control 19(6): 716–723.
+- 47.
+
+--- SENTENCE 358 ---
+Haas AF, Nelson CE, Wegley-Kelly L, Carlson CA, Rohwer F, et al. (2011) Effects of Coral Reef Benthic Primary Producers on Dissolved Organic Carbon and Microbial Activity. PLoS
+

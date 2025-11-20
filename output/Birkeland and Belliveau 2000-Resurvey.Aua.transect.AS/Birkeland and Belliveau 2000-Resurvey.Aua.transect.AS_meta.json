@@ -1,0 +1,177 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Resurvey of the Aua Transect After the Ship Removal",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          109.236328125,
+          7.753906249999999
+        ],
+        [
+          500.25,
+          7.753906249999999
+        ],
+        [
+          500.25,
+          34.1171875
+        ],
+        [
+          109.236328125,
+          34.1171875
+        ]
+      ]
+    },
+    {
+      "title": "Charles Birkeland<sup>1</sup> and Stephanie A. Belliveau<sup>2</sup>",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          177.75,
+          40.3203125
+        ],
+        [
+          434.25,
+          40.3203125
+        ],
+        [
+          434.25,
+          55.82812499999999
+        ],
+        [
+          177.75,
+          55.82812499999999
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          44
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Footnote",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          340
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          297
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Birkeland and Belliveau 2000-Resurvey.Aua.transect.AS"
+}

@@ -1,0 +1,1242 @@
+--- SENTENCE 1 ---
+#### rspb.royalsocietypublishing.org
+
+# Research
+
+!
+
+--- SENTENCE 2 ---
+[](_page_0_Picture_4.jpeg)
+
+Cite this article:
+
+--- SENTENCE 3 ---
+Thomas L, Palumbi SR. 2017
+
+--- SENTENCE 4 ---
+The genomics of recovery from coral bleaching.
+
+--- SENTENCE 5 ---
+http://dx.doi.org/10.1098/rspb.2017.1790
+
+Received: 11 August 2017 Accepted: 22 September 2017
+
+#### Subject Category:
+
+Global change and conservation
+
+#### Subject Areas:
+
+ecology, genomics, physiology
+
+#### Keywords:
+
+coral bleaching, transcriptomics, recovery, Acropora hyacinthus
+
+#### Author for correspondence:
+
+Luke Thomas
+
+e-mail: [luke.thomas@live.com.au](mailto:luke.thomas@live.com.au)
+
+Electronic supplementary material is available online at [https://dx.doi.org/10.6084/m9.](https://dx.doi.org/10.6084/m9.figshare.c.3899386)
+
+--- SENTENCE 6 ---
+The genomics of recovery from coral bleaching
+
+Luke Thomas and Stephen R. Palumbi
+
+Department of Biology, Hopkins Marine Station, Stanford University, Pacific Grove, CA 93950, USA
+
+LT, [0000-0003-1095-9170](http://orcid.org/0000-0003-1095-9170)
+
+Ecological damage from periodic environmental extremes is often repaired in resilient ecosystems, but the rate of return to a non-damaged state is critical.
+
+--- SENTENCE 7 ---
+Measures of recovery of communities include biomass, productivity and diversity, while measures of recovery of individuals tend to focus on physiological conditions and the return to normal metabolic functioning.
+
+--- SENTENCE 8 ---
+Transcriptomics offers a window into the entire physiology of the organism under stress and can represent a holistic view of organismal recovery.
+
+--- SENTENCE 9 ---
+In this study, we track the recovery of seven colonies of Acropora hyacinthusfollowing a natural bleaching event.
+
+--- SENTENCE 10 ---
+We identified a large environmental stress response in the field that involved approximately 20% of the host transcriptome.
+
+--- SENTENCE 11 ---
+The transcriptome remained largely perturbed for at least six months after temperatures had cooled and four months after symbiont populations had recovered.
+
+--- SENTENCE 12 ---
+Moreover, a small set of genes did not recover to previous expression levels even 12 months after the event, about the time that normal growth rates resumed.
+
+--- SENTENCE 13 ---
+This study is among the first to incorporate transcriptomics into a longitudinal dataset of recovery from environmental stress.
+
+--- SENTENCE 14 ---
+The data demonstrate large and lasting effects on coral physiology long after environmental conditions return to normal and symbiont populations recover.
+
+--- SENTENCE 15 ---
+Introduction
+
+A key component of resilience is the capacity for recovery following disturbance.
+
+--- SENTENCE 16 ---
+This is often referred to as engineering resilience, measured as the rate of return to a predisturbance equilibrium
+
+--- SENTENCE 17 ---
+If disturbance occurs at a rate greater than recovery, then communities can experience irreversible change.
+
+--- SENTENCE 18 ---
+Understanding rates of recovery following disturbance is becoming increasingly critical as climate change begins to alter disturbance regimes.
+
+--- SENTENCE 19 ---
+This is particularly true for habitat-forming foundation species, for which the resilience of the entire ecosystem is ultimately hinged upon.
+
+--- SENTENCE 20 ---
+Mass-bleaching events are among the most threatening disturbances to coral reef ecosystems globally
+
+--- SENTENCE 21 ---
+While severe cases of coral bleaching can result in wide-spread mortality and phase shifts [[3](#page-7-0)], during more moderate bleaching events individual coral colonies show a remarkable capacity to recover [[4](#page-7-0)].
+
+--- SENTENCE 22 ---
+In order for this to occur, corals must rely on alternative forms of energy to account for the reduced levels of photosynthetically fixed carbon from their algal symbionts, which can decline by up to 90% in bleached colonies [\[5\]](#page-7-0).
+
+--- SENTENCE 23 ---
+Corals that can increase heterotrophy maintain high levels of energy reserves across the bleaching period and have quick recovery trajectories [[6,7\]](#page-7-0).
+
+--- SENTENCE 24 ---
+Most corals, however, rely on stored energy reserves to meet daily metabolic demands while bleached and experience significant declines in tissue biomass across the bleaching period [\[5\]](#page-7-0).
+
+--- SENTENCE 25 ---
+Recovering lost energy reserves after symbiont populations recover can take months, and as a result, periods of bleaching are often followed by strong declines in metabolically-intensive processes such as calcification, growth, and reproduction
+
+--- SENTENCE 26 ---
+To date, physiological studies of bleaching recovery have focused mainly on energy reserves, growth and reproduction [\[4](#page-7-0),[5,7,9](#page-7-0)–[18](#page-7-0)].
+
+--- SENTENCE 27 ---
+Transcriptomics additionally offers a window into the entire physiology of the organism under stress and is an emerging tool in natural populations [\[19\]](#page-7-0).
+
+--- SENTENCE 28 ---
+Recent studies applying transcriptomics to investigate thermal tolerance in corals have greatly improved our understanding of the physiological response to heat stress [\[20](#page-7-0)–[22\]](#page-7-0); however,
+
+!
+
+--- SENTENCE 29 ---
+The 2015 bleaching event on Ofu, American Samoa.
+
+--- SENTENCE 30 ---
+(a) Time-series temperature data taken from back-reef pool 400
+
+--- SENTENCE 31 ---
+[[25](#page-7-0)] in the National Park of American Samoa.
+
+--- SENTENCE 32 ---
+Red panel highlights the warm water event that struck the region in January 2015.
+
+--- SENTENCE 33 ---
+Vertical lines indicate approximate sample dates and the horizontal red line represents the NOAA regional bleaching threshold.
+
+--- SENTENCE 34 ---
+(b) Density plot comparing temperature data in January 2015 with the previous 3 years.
+
+--- SENTENCE 35 ---
+(c) Histogram of bleaching scores for all A. hyacinthus colonies (n ¼ 64) surveyed during bleaching in April 2015.
+
+--- SENTENCE 36 ---
+(Online version in colour.)
+
+--- SENTENCE 37 ---
+they have been limited to short time periods (generally less than 10 days) and there remains a lack of long-term transcriptomic experiments on the bleaching recovery process
+
+--- SENTENCE 38 ---
+Here, we present a longitudinal study of bleaching recovery in reef-building corals of the United States National Park of American Samoa to a climate driven warm-water event.
+
+--- SENTENCE 39 ---
+Using samples collected from Acropora hyacinthus at five time points spanning a year of recovery, our results highlight the lasting impacts of warm-water events on the physiology of the coral colony.
+
+--- SENTENCE 40 ---
+Our data indicate that the coral transcriptome can remain perturbed for up to 10 months after bleaching occurs and can have persistent effects on the physiology of an individual colony more than a year after bleaching.
+
+--- SENTENCE 41 ---
+If bleaching events begin to occur annually in the coming decades, rates of disturbance may soon outpace the capacity of some important reef-building coral species to recover.
+
+--- SENTENCE 42 ---
+Methods
+
+#### (a) The 2015 bleaching event
+
+Anomalous sea surface temperatures associated with strong El Nino conditions emerging in late 2014 triggered the longest and most severe global-scale bleaching event since records began in the 1980s
+
+--- SENTENCE 43 ---
+In January 2015, corals in the National Park of American Samoa on Ofu Island spent approximately 38% of their time above the NOAA regional bleaching threshold of 30.28C; the previous 3 years never exceeded 5% (figure 1a,b).
+
+--- SENTENCE 44 ---
+Bleaching in the Park on Ofu was first reported in February and reef-wide surveys in April showed that overall response in the dominant reef-building coral A. hyacinthus was relatively mild; the mean bleaching score across 64 surveyed colonies was 30% (figure 1c).
+
+#### (b) Sample collection and field data
+
+Seven colonies of A. hyacinthus (type C
+
+--- SENTENCE 45 ---
+[\[26\]](#page-7-0)) from the back-reef environment of Ofu Island were tagged, sampled, and monitored at five time-points spanning the bleaching event
+
+--- SENTENCE 46 ---
+[\(table 1](#page-2-0)): before bleaching representing baseline expression levels (August 2011), and then two months (April 2015), six months (August 2015), 10 months (December 2015) and 12 months (February 2016) after initial bleaching was observed in February 2015.
+
+--- SENTENCE 47 ---
+We focused on A. hyacinthus because it is one of the dominant reef-building species in Ofu, has large amounts of genomic resources available
+
+--- SENTENCE 48 ---
+[[21,27](#page-7-0)–[29\]](#page-8-0), and is one of the few species that we had samples in hand that predated the bleaching event.
+
+--- SENTENCE 49 ---
+Coral nubbins of approximately 2–4 cm in size were collected from colonies within 3 h of high-tide using garden clippers and preserved in RNAlater.
+
+--- SENTENCE 50 ---
+All colonies occurred at depths of approximately 0.5–1.0 m and were within a 2500 m2 area of back-reef.
+
+--- SENTENCE 51 ---
+We measured growth rates for the seven colonies by combing field collected maximum length measurements with colony photographs to calculate total colony area for each sample date using IMAGEJ [\[30\]](#page-8-0).
+
+--- SENTENCE 52 ---
+We used these data to calculate colony growth rates across the bleaching recovery period, presented as fraction of colony growth per month.
+
+--- SENTENCE 53 ---
+We returned to each colony in April 2016 to collect final data points on growth and mortality.
+
+--- SENTENCE 54 ---
+Growth rates across the recovery period were compared to pre-bleaching growth rates determined using a monthly average from growth data calculated over 6 years (2010–2016) as part of a larger growth study [[31](#page-8-0)].
+
+#### (c) Symbiont cell densities
+
+Symbiodinium cell densities were quantified using automated cell counting with the non-sorting Guava EasyCyte flow cytometer, as in Krediet et al.
+
+--- SENTENCE 55 ---
+Briefly, coral tissue was removed from the skeleton using a single-action siphon-feed airbrush (Paasche) filled with artificial seawater (33.5 ppt in deionized water) and needle sheared.
+
+--- SENTENCE 56 ---
+Algal counts were normalized to total protein of each corresponding sample using the DC protein assay (Bio-Rad).
+
+--- SENTENCE 57 ---
+#### (d) RNAseq
+
+Total RNA was extracted from tissue samples using Qiagen's RNAeasy Plus Kit, and 35 cDNA libraries (seven colonies for five
+
+<span id="page-2-0"></span>Table 1.
+
+--- SENTENCE 58 ---
+Colonies of A. hyacinthus monitored across the bleaching recovery period.
+
+--- SENTENCE 59 ---
+(Thermal microclimate was calculated from data collected from February to August 2011 and presented as per cent of time spent above 318C. Bleaching level was based on a visual bleaching score of 0 – 100% in April 2015.
+
+--- SENTENCE 60 ---
+Symbiont indicates the dominant cp23s haplotype in samples collected in April 2015, when colonies were bleached.
+
+--- SENTENCE 61 ---
+Mortality data were from the final time point, 14 months after initial bleaching.)
+
+--- SENTENCE 62 ---
+| colony ID | microclimate | bleaching (%) | symbiont (cp23s)
+
+--- SENTENCE 63 ---
+| D growth | mortality (%) |
+|-----------|--------------|---------------|------------------|----------|---------------|
+| AH13      | 0.411        | 20            | C2               | 20.007   | 0             |
+| AH14      | 0.297
+
+--- SENTENCE 64 ---
+| 20            | C2               | 20.012   | 0             |
+| AH18      | 0.155        | 80
+
+--- SENTENCE 65 ---
+| 20.06    | 90            |
+| AH21      | 0.334        | 20
+
+--- SENTENCE 66 ---
+| C2               | —        | 80            |
+
+--- SENTENCE 67 ---
+| AH25      | 0.05         | 0
+
+--- SENTENCE 68 ---
+| C2               | 0.083    | 0             |
+
+--- SENTENCE 69 ---
+| AH91      | 0.063
+
+--- SENTENCE 70 ---
+| 30            | C2               | —        | 0             |
+
+--- SENTENCE 71 ---
+| AH95      | 0.041        | 40            | C2               | 20.033   | 0             |
+
+dates) were generated using the Illumina TruSeq RNA Library Prep Kit v2 with Protoscript II Reverse Transcriptase.
+
+--- SENTENCE 72 ---
+The 35 libraries were multiplexed and sequenced across three lanes on a Hiseq2500 at the University of Utah Microarray and Genomic Analysis Core Facility.
+
+--- SENTENCE 73 ---
+Raw fastq files were mapped to a reference transcriptome
+
+--- SENTENCE 74 ---
+[[33\]](#page-8-0) under the very-sensitive mode with a minimum mapping quality of 10.
+
+--- SENTENCE 75 ---
+[\[34\]](#page-8-0) to generate counts for each contig in our reference transcriptome.
+
+--- SENTENCE 76 ---
+We also mapped raw reads to a reference FASTA file that included the common Symbiodinium chloroplast 23S (cp23s) sequences present on Ofu Island (clades C and D; [[35\]](#page-8-0)).
+
+--- SENTENCE 77 ---
+We calculated the proportion of reads that uniquely mapped to each reference sequence as a measure for symbiont composition.
+
+--- SENTENCE 78 ---
+To confirm that tissue samples collected at each time point corresponded to the same coral colony, we used FREEBAYES
+
+--- SENTENCE 79 ---
+[\[36\]](#page-8-0) to generate variant call files and VCFTOOLS [\[37](#page-8-0)] to filter using a mapping quality of 20, a minor allele frequency of 0.05 and with no missing data.
+
+#### (e) Targeting transcriptional modules
+
+The transcriptomic response to environmental stress often involves thousands of transcripts that can be summarized as the expression of a small number of co-regulated gene sets, or transcriptional modules [\[38\]](#page-8-0).
+
+--- SENTENCE 80 ---
+Transcriptional modules can represent distinct physiological units with individual functional enrichments that can dramatically simplify interpretations of the physiological stress response.
+
+--- SENTENCE 81 ---
+For example, the response to experimental acute heat stress (3 h temperature ramp to 358C with a 1 h hold) in A. hyacinthusinvolves thousands of transcripts that can be summarized as the expression of 23 transcriptional modules, some of which are significantly correlated with bleaching outcome after heat stress and enriched for molecular functions including sequencespecific DNA binding, motor activity and extracellular matrix structure
+
+--- SENTENCE 82 ---
+In addition, Ruiz-Jones & Palumbi [\[28](#page-7-0)] combined high-resolution transcriptomic and environmental profiling and identified an additional three transcriptional modules in A. hyacinthus that are upregulated during tidal heat pulses when extreme low tides cause temperatures to spike above 30.58C.
+
+--- SENTENCE 83 ---
+These modules are significantly enriched for transcription factors and gene products associated with the unfolded protein response [\[28](#page-7-0)].
+
+--- SENTENCE 84 ---
+We used these transcriptional modules to analyse our field-collected bleaching recovery dataset.
+
+--- SENTENCE 85 ---
+To do this, we first normalized our expression data with DESEQ2 v 1.6.3
+
+--- SENTENCE 86 ---
+[\[39](#page-8-0)] and matched the normalized matrix to a list of contigs comprising the three sub-bleaching field stress modules that respond to field stress experienced during extreme low tides
+
+--- SENTENCE 87 ---
+[\[28\]](#page-7-0) (modules RJ6, RJ9, RJ11) and the seven acute heat stress modules that correlate with bleaching outcome following experimental heat stress [\[27\]](#page-7-0) (modules R1, R4, R10, R12, R14, R15, R17).
+
+--- SENTENCE 88 ---
+We then used WGCNA
+
+--- SENTENCE 89 ---
+[\[40\]](#page-8-0) to calculate the expression of these 10 modules for each colony in our field-collected dataset across the bleaching recovery period.
+
+--- SENTENCE 90 ---
+To determine whether these transcriptional modules also comprised co-regulated gene sets in our field-collected dataset, we used Pearson product-moment correlation tests of contig expression and corresponding module eigengene.
+
+### (f) Transcriptome-wide gene expression
+
+In addition to the targeted module analysis, transcriptome-wide changes in individual gene expression were analysed on raw expression counts using DESEQ2 [\[39\]](#page-8-0).
+
+--- SENTENCE 91 ---
+We calculated pairwise comparisons independently for all dates relative to pre-bleaching baseline expression (August 2011) using Wald tests.
+
+--- SENTENCE 92 ---
+Differentially expressed contigs (DECs) were identified as those with a log fold change greater than two.
+
+--- SENTENCE 93 ---
+We carried out functional enrichment analyses using Uniprot accessions with the Database for Annotation, Visualization and Integrated Discovery (DAVID v. 6.8).
+
+--- SENTENCE 94 ---
+All analyses we corrected for multiple comparisons using the Benjamini and Hochberg (BH) method at the 0.05 significance level.
+
+--- SENTENCE 95 ---
+[\[41\]](#page-8-0) was used to perform a discriminant analysis of principle components (DAPC) on the normalized counts matrix after removing contigs with low counts or extreme outliers using DESEQ2.
+
+--- SENTENCE 96 ---
+Results
+
+#### (a) Bleaching, mortality and size changes
+
+Two months after initial bleaching, the intensity of pigment loss varied across the seven individual colonies, with visual bleaching score ranging from 0 to 80% (table 1).
+
+--- SENTENCE 97 ---
+All colonies regained full pigmentation by six months (electronic supplementary material, table S1).
+
+--- SENTENCE 98 ---
+AH18 was the only colony to display a strong bleaching phenotype in subsequent surveys; it showed 80% bleaching at 12 months, and 90% mortality at 14 months (electronic supplementary material, table S1).
+
+--- SENTENCE 99 ---
+Other mortality rates after bleaching were low except in AH21, which experienced 50% by August 2015 and 80% mortality by April 2016 (table 1).
+
+--- SENTENCE 100 ---
+We did not have suitable photographs to calculate growth rates for AH91.
+
+--- SENTENCE 101 ---
+For all other colonies except AH25, growth rates (measured as fraction of colony growth per month) declined across the recovery period (April 2015 to February 2016) relative to pre-bleaching baseline levels (table 1).
+
+--- SENTENCE 102 ---
+When excluding colonies that suffered partial mortality (i.e. AH18) or wave damage (i.e. AH25) at the final sample date, growth rates recovered to pre-bleaching levels in the remaining four colonies by April 2016 (electronic
+
+<span id="page-3-0"></span>![](_page_3_Figure_3.jpeg)
+
+--- SENTENCE 103 ---
+Changes in Symbiodinium communities across the bleaching recovery period.
+
+--- SENTENCE 104 ---
+(a) Symbiont densities for each sample date calculated using flow cytometry.
+
+--- SENTENCE 105 ---
+(b) Proportion of Symbiodinium clades C (light grey) and D (dark grey) for each colony determined by mapping raw sequence reads to reference Symbiodinium cp23s haplotypes
+
+--- SENTENCE 106 ---
+[[35](#page-8-0)].
+
+supplementary material, table S2).
+
+--- SENTENCE 107 ---
+For these four colonies, declines in growth rates and visual bleaching score showed a strong and significant relationship (r <sup>2</sup> ¼ 0.989, p ¼ 0.004).
+
+--- SENTENCE 108 ---
+### (b) RNAseq
+
+In total, 69 689 086 reads from 35 cDNA libraries were mapped to a reference A. hyacinthus transcriptome consisting of 33 496 coral contigs [[21\]](#page-7-0).
+
+--- SENTENCE 109 ---
+On average, 1 991 117 (+144 581 s.e.) reads per sample were successfully mapped to 31 737 contigs, with 13 253 contigs represented by a mean read depth greater than five (electronic supplementary material, table S3).
+
+--- SENTENCE 110 ---
+Clustering analyses based on 3946 single nucleotide polymorphisms (SNPs) showed that tissue samples collected on consecutive dates from AH25 actually comprised three distinct genotypes (electronic supplementary material, figure S1), indicating that tissue samples were mistakenly collected from a nearby colony on three of the five sampling dates.
+
+--- SENTENCE 111 ---
+As a result, we excluded AH25 for any individual-level gene expression analyses.
+
+#### (c) Symbiont recovery
+
+Symbiodinium cell densities had declined by 51% (+10% s.e.) in colonies two months after bleaching (figure 2).
+
+--- SENTENCE 112 ---
+Cell densities rebounded back to pre-bleaching baseline levels at six months and remained stable over the remaining sample dates.
+
+--- SENTENCE 113 ---
+An average of 158 reads per sample (range 22–626) mapped to the reference Symbiodinium sequence (cp23S).
+
+--- SENTENCE 114 ---
+All colonies were associated predominantly with clade C (showing 0.75–0.95 proportion of clade C mapped reads) at all time points, except for a single colony (AH13) which showed 60% clade D six months after bleaching but over 90% clade C four months before and after this time point (figure 2; electronic supplementary material, table S4).
+
+--- SENTENCE 115 ---
+SNP analysis confirmed that AH13 samples were in fact from the same colony in each time point (electronic supplementary material, figure S1).
+
+#### (d) A prolonged environmental stress response
+
+Using Pearson correlations of contig expression and corresponding module eigengenes, we determined that six of the stress response modules occurred as co-regulated gene sets in our natural bleaching recovery dataset (RJ6, RJ9, RJ11, R12, R15, R17; electronic supplementary material, figure S2).
+
+--- SENTENCE 116 ---
+Four of these modules have significant enrichment (gene ontology (GO) terms) for molecular functions: RJ6 is enriched for transcription factor activity, RJ9 for gene products essential to the unfolded protein response, R12 for sequence-specific DNA binding, and R15 for microtubule motor activity (electronic supplementary material, table S5).
+
+--- SENTENCE 117 ---
+Expression profiles for these stress response modules in our field-collected samples followed similar patterns: low expression in samples collected before the bleaching event, and a strong increase two months after bleaching [\(figure 3\)](#page-4-0).
+
+--- SENTENCE 118 ---
+Overall expression of the modules rose two months after the bleaching event while bleaching was still visually evident; however, these modules continued to increase in expression until six months after the bleaching event, when all colonies had returned to normal symbiont densities (figure 2).
+
+--- SENTENCE 119 ---
+This eigengene increase occurred despite cooler water temperatures during the April–August 2015 period.
+
+--- SENTENCE 120 ---
+Expression declined in December 2015 and remained low in February 2016 despite warmer water temperatures during the Austral summer.
+
+--- SENTENCE 121 ---
+Consistent with the targeted module analysis, differential gene expression analyses across time showed a large transcriptome-wide response in samples collected two and six months after bleaching relative to pre-bleaching baseline expression ([figure 4\)](#page-4-0).
+
+--- SENTENCE 122 ---
+A total of 4766 DECs (2805 upregulated and 1961 downregulated contigs) were identified between samples collected two months after bleaching and pre-bleaching baseline samples ([figure 4](#page-4-0)a; electronic supplementary material, dataset S1).
+
+--- SENTENCE 123 ---
+The top upregulated DECs at the two-month time point in April 2015 had annotations for proteins involved in response to stress and apoptosis, including heat-shock proteins, the transcription factor fosB, and BAG-domain containing proteins (electronic supplementary material, table S6 and dataset S1).
+
+--- SENTENCE 124 ---
+Functional enrichment analyses showed that the upregulated DECs at two months were significantly enriched ( p.adj , 0.05) for gene products associated with extracellular regions and calcium ion binding (electronic supplementary material, table S7).
+
+--- SENTENCE 125 ---
+Downregulated contigs had no significant functional enrichment.
+
+--- SENTENCE 126 ---
+Six months after bleaching in August 2015, the number of DECs relative to pre-bleaching baseline expression remained high at 4690 (2896 upregulated and 1794 downregulated) ([figure 4](#page-4-0)a; electronic supplementary material, dataset S2).
+
+--- SENTENCE 127 ---
+While the top DECs from April 2015 remained strongly
+
+<span id="page-4-0"></span>![](_page_4_Figure_3.jpeg)
+
+**Figure 3.**
+
+--- SENTENCE 128 ---
+Changes in transcriptional module expression across the bleaching recovery period.
+
+--- SENTENCE 129 ---
+Module eigengenes, representing the first principle component of the expression of all genes in that module, are on the *y*-axis and sample dates are on the *x*-axis.
+
+--- SENTENCE 130 ---
+Significant GO terms (p.adj < 0.05) are provided above each corresponding plot.
+
+--- SENTENCE 131 ---
+Module name and size are provided in corners of plot.
+
+--- SENTENCE 132 ---
+(Online version in colour.)
+
+!
+
+--- SENTENCE 133 ---
+Changes in transcriptome-wide gene expression across the bleaching recovery period.
+
+--- SENTENCE 134 ---
+(a) Regression of contig expression for each sample date (y-axis) against pre-bleaching baseline expression (x-axis).
+
+--- SENTENCE 135 ---
+Each point represents a differentially expressed contig (DECs, p.adj < 0.05) identified using DEStq2.
+
+--- SENTENCE 136 ---
+Points above the 1:1 line are upregulated and below the 1:1 are downregulated at the respective date relative to pre-bleaching baseline levels.
+
+--- SENTENCE 137 ---
+(b) DAPC of transcriptome-wide gene expression data.
+
+--- SENTENCE 138 ---
+Plot displays the density distribution of colonies along the first principle component and arrows mark the direction and magnitude of the transcriptional shift across the recovery period.
+
+--- SENTENCE 139 ---
+(Online version in colour.)
+
+upregulated in August 2015, the contigs with greatest increase in expression at the six-month time point in August 2015 were involved in amino acid modification and metabolism of complex sugars, and included two contigs with annotations for glycosyl-hydrolase family 5 proteins (endoglucanase and glycosyl hydrolase) and two for aspartate-beta hydroxylase domain containing proteins (electronic supplementary material, table S6 and dataset S2).
+
+--- SENTENCE 140 ---
+These contigs were more highly expressed at the six-month time point by 460- to 820-fold across all colonies and returned to normal in subsequent time points (electronic supplementary material, figure S3).
+
+--- SENTENCE 141 ---
+Functional enrichment analyses showed that upregulated DECs at six months were significantly enriched (p.adj < 0.05) for GO
+
+terms including extracellular regions, signalling, plasma membrane, response to stimulus and cell projection, among others (electronic supplementary material, table S7).
+
+--- SENTENCE 142 ---
+Downregulated DECs were functionally enriched for gene products associated with cellular compartments including vacuoles and endosomes.
+
+--- SENTENCE 143 ---
+By December 2015, 10 months after initial bleaching, the number of DECs relative to pre-bleaching baseline expression declined to 815 (electronic supplementary material, dataset S3), and remained low at the 12 month mark (figure 4a; electronic supplementary material, dataset S4).
+
+--- SENTENCE 144 ---
+A discriminant analysis of principle components (DAPC) based on 9839 contigs identified a clear transcriptome-wide shift in expression along the first principle component at
+
+two months relative to the pre-bleaching baseline
+
+--- SENTENCE 145 ---
+Consistent with the targeted module analysis, this response intensified at the six month time point in August 2015.
+
+--- SENTENCE 146 ---
+The response subsided by 10 months and returned to near pre-bleaching levels by 12 months ([figure 4](#page-4-0)b).
+
+#### (e) Lingering response genes
+
+Although the main stress response declined 10 months after initial bleaching, module eigengenes did not fully reach prebleaching levels
+
+--- SENTENCE 147 ---
+This lingering response was not restricted to these contigs.
+
+--- SENTENCE 148 ---
+Differential gene expression analyses in DESEQ2 identified 348 contigs that were significantly upregulated at two months, when bleaching was still evident, and that remained upregulated in all sample dates thereafter (electronic supplementary material, dataset S5).
+
+--- SENTENCE 149 ---
+These contigs were functionally enriched ( p.adj , 0.05) for gene products associated with sequence-specific DNA binding (electronic supplementary material, table S7), such as transcription factor proteins.
+
+--- SENTENCE 150 ---
+Furthermore, despite a strong decline in the overall number of DECs by 10 months, the top upregulated contigs at 10 and 12 months were still associated with apoptotic and stress response proteins, including heatshock proteins, tumour necrosis factor (TNF) receptors, and BAG-domain containing proteins (electronic supplementary material, table S6 and datasets S3 and S4), and remained functionally enriched ( p.adj , 0.05) for extracellular regions (electronic supplementary material, table S7).
+
+--- SENTENCE 151 ---
+# (f) Bleaching predicts the expression of stress genes a year later
+
+Pearson correlation coefficients showed that individual colony bleaching score measured in April 2015 significantly predicted ( p , 0.05) the expression of the transcriptional modules and hundreds of other stress response genes measured in February 2016, 12 months after bleaching (electronic supplementary material, figure S4).
+
+--- SENTENCE 152 ---
+There were 169 contigs that were in the top 10% tail of differential expression (log 2 fold change .
+
+--- SENTENCE 153 ---
+2.0, p.adj , 0.05) at two or six months (when the stress response was strongest) and that also fell in the top 10% tail of the Pearson correlation coefficient between visual bleaching score and expression at twelve months (electronic supplementary material, dataset S6).
+
+--- SENTENCE 154 ---
+Included in this list were the top five most upregulated contigs from both April and August 2015, when the environmental stress response was at its greatest.
+
+--- SENTENCE 155 ---
+This gene list was functionally enriched ( p.adj , 0.05) for response to chemical stimulus, with 36 genes involved in this annotation category, including transcription factors, heat-shock proteins, TNF and fibroblast growth receptors (electronic supplementary material, dataset S7).
+
+--- SENTENCE 156 ---
+Other GO categories that were marginally non-significant included positive regulation of signalling, response to stimulus, positive regulation of cell communication, and response to organic substance (electronic supplementary material, table S7).
+
+--- SENTENCE 157 ---
+Discussion
+
+Our data on the recovery process after coral bleaching show that a large part of the host transcriptome changed dramatically after bleaching and remained perturbed for several months after pigmentation returned to the colony.
+
+--- SENTENCE 158 ---
+Even 10–12 months after bleaching, hundreds of genes had not returned to baseline expression.
+
+--- SENTENCE 159 ---
+Across colonies, bleaching severity had a persistent effect on the transcriptome 12 months after the event: bleaching levels in April 2015 predicted gene expression patterns in February 2016.
+
+--- SENTENCE 160 ---
+Taken together, the results from this study highlight the lasting impacts of a warm-water event on the physiology of a coral colony.
+
+#### (a) Stages of bleaching recovery
+
+In this study, the return of Symbiodinium populations marked merely the first stage of bleaching recovery.
+
+--- SENTENCE 161 ---
+This is consistent with the generalized pattern of bleaching recovery from past studies, where symbionts and chlorophyll-a recover first, followed by tissue biomass and energy reserves, and finally growth and reproduction
+
+--- SENTENCE 162 ---
+Bleaching recovery is primarily associated with energetics; corals that are capable of increasing heterotrophy maintain energy reserves throughout the bleaching recovery period and thus have a rapid recovery trajectory
+
+--- SENTENCE 163 ---
+Corals that cannotincrease heterotrophy begin to consume stored energy reserves to meet basic metabolic demands, resulting in a significant decline in tissue biomass
+
+--- SENTENCE 164 ---
+Recovering those lost energy reserves takes time and often lags well behind the recovery of symbiont and chlorophyll-a levels [\[5,18,](#page-7-0)[44](#page-8-0)].
+
+--- SENTENCE 165 ---
+In this study we did not measure changes in energy reserves; however, the lag in transcriptome recovery we observed parallels previous observations that physiology recovers only slowly from bleaching.
+
+--- SENTENCE 166 ---
+Where we could measure them, growth rates recovered after February 2016, suggesting that growth recovery quickly followed transcriptome recovery.
+
+--- SENTENCE 167 ---
+Similarly, previous studies have shown skeletal extension rates to recover once tissue biomass is restored [\[4](#page-7-0)].
+
+--- SENTENCE 168 ---
+# (b) Recovery does not involve a shift in Symbiodinium clade
+
+Our data show that recovering from bleaching does not require a shift in Symbiodinium clade ([figure 2](#page-3-0)b).
+
+--- SENTENCE 169 ---
+This finding contrasts a number of other studies that have identified symbiont type to play a key role in the bleaching recovery process [\[45](#page-8-0)–[47](#page-8-0)].
+
+--- SENTENCE 170 ---
+In American Samoa, A. hyacinthus forms a flexible association with Symbiodinium clades C and D, with higher levels of the more thermally tolerant clade D occurring in high-temperature habitats [[35](#page-8-0)].
+
+--- SENTENCE 171 ---
+However, these colonies do not shift symbiont clade when transplanted to alternate microhabitats [[48\]](#page-8-0).
+
+--- SENTENCE 172 ---
+In the current study, one colony (AH13) shifted to higher levels of clade D at the six month time point
+
+--- SENTENCE 173 ---
+[\(figure 2](#page-3-0); electronic supplementary material, table S5) but shifted back to pre-bleaching proportions by the 10 month time point in December.
+
+--- SENTENCE 174 ---
+Photographs made of these times showed sediment intrusion and a wholesale die off of corals immediately surrounding AH13 after the February 2015 bleaching event.
+
+--- SENTENCE 175 ---
+Inspection of genetic variants confirmed that samples in August 2015 were AH13.
+
+--- SENTENCE 176 ---
+It is possible that the large changes in symbiont type in AH13 reflect microclimate—this colony is the shallowest, most shoreward of all the colonies in our study and showed the highest temperature levels ([table 1](#page-2-0)).
+
+--- SENTENCE 177 ---
+# (c) A lasting environmental stress response to a warm-
+
+#### water event
+
+We identified a large environmental stress response in corals exposed to a natural warm-water event.
+
+--- SENTENCE 178 ---
+Two months after initial bleaching, this response was largely similar to the response triggered during acute experimental heat stress, marked by changes in expression of genes associated with extracellular space, calcium ion homeostasis, heat shock and apoptotic proteins
+
+--- SENTENCE 179 ---
+Unlike the acute bleaching data, which show a decline in transcriptional changes within days, our data show that one portion of the environmental stress response intensified until at least the six month mark (figures
+
+--- SENTENCE 180 ---
+The environmental stress response in model organisms such as yeast, responds to a range of stressors, from heat stress to starvation, and is comprised of hundreds of genes that are common to a diverse range of environmental pressures, as well as a subset of genes unique to a particular environment [\[49](#page-8-0)].
+
+--- SENTENCE 181 ---
+Colonies in our current study initially bleached in February, so would have been surviving on reduced levels of photosynthetically fixed carbon for up to six months before symbiont populations fully returned by August 2015.
+
+--- SENTENCE 182 ---
+As a result, colonies may have consumed large portions of their energy reserves during this period, and the environmental stress response we see at the six month time point in August 2015 may be associated with nutrient deprivation rather than a heat stress response.
+
+--- SENTENCE 183 ---
+Past studies have shown that the recovery of lost energy reserves lags behind the recovery of symbiont populations [\[5](#page-7-0),[16](#page-7-0),[18](#page-7-0),[42](#page-8-0)], so we would expect the stress response to starvation to linger after symbiont densities recover until sufficient energy reserves were restored.
+
+--- SENTENCE 184 ---
+Top upregulated genes in corals at the six month mark were involved in amino acid modification and the metabolism of complex sugars (electronic supplementary material, table S6 and dataset S2).
+
+--- SENTENCE 185 ---
+Among the most upregulated genes in samples collected six months after bleaching were two transcripts with annotations for aspartate beta-hydroxylase, a protein involved in the hydroxylation of aspartic acid, an amino acid that is a metabolite in the urea cycle and a primary component of the organic skeletal matrix of scleractinian corals.
+
+--- SENTENCE 186 ---
+In addition, two of the top upregulated transcripts at six months had annotations for proteins of the glycosyl hydrolase family 5 (cellulase family A) (electronic supplementary material, table S6), which are common enzymes involved in the degradation of complex sugars, such as cellulose [\[50\]](#page-8-0).While most metazoans do not produce cellulase enzymes, the few that can are believed to have acquired their cellulolytic endoglucanases by horizontal gene transfer from their symbionts [\[50](#page-8-0)–[52](#page-8-0)].
+
+--- SENTENCE 187 ---
+Symbiodinium cells are encased in a cell wall containing cellulose [[53](#page-8-0)] and like other dinoflagellates must regulate the production and degradation of these walls during their life cycle
+
+--- SENTENCE 188 ---
+In culture, cellulase treatments can successfully digest isolated Symbiodinium cell walls [\[55\]](#page-8-0).
+
+--- SENTENCE 189 ---
+However, within coral cells, the fate of symbiont cell walls remains largely unknown.
+
+--- SENTENCE 190 ---
+Multiple layers of membranous material can accumulate between the symbiosome membrane and the vegetative algal cell wall
+
+--- SENTENCE 191 ---
+[\[53\]](#page-8-0), but it is unclear whether this is a possible nutrient source or alternatively a hindrance to symbiont replication.
+
+--- SENTENCE 192 ---
+An interesting question that follows is whether corals increase the production of cellulase-like enzymes to digest any nutrient-rich structures in Symbiodinium prior to expulsion, or if host-produced cellulase functions in rapid proliferation of symbionts during recovery.
+
+--- SENTENCE 193 ---
+Periods of nutrient deprivation in other coral genera have been shown to coincide with marked declines in symbiont densities and an increase in the intensity of algal cell degradation in the gastroderm of the coral [\[56\]](#page-8-0).
+
+--- SENTENCE 194 ---
+If this observation is general, then rapid symbiont expulsion after acute bleaching might be a slightly different phenomenon than later expulsion during starvation.
+
+--- SENTENCE 195 ---
+Furthermore, should these observations be repeated in other localities, species and bleaching events, then enzymatic assays of endoglucanase in seemingly recovered corals might be a practical assay of lingering negative effects of previous bleaching events.
+
+#### (d) Lingering physiological impacts of bleaching
+
+Natural bleaching events can have lasting implications on the physiology of the coral colony.
+
+--- SENTENCE 196 ---
+Previous transcriptome studies have shown lasting impacts on immune-related pathways in other genera of corals (Orbicella) exposed to a natural bleaching event, with changes in expression of apoptotic proteins up to a year after bleaching [[57\]](#page-8-0).
+
+--- SENTENCE 197 ---
+The predominant transcriptome response in our current study, involving up to 20% of the transcriptome, persisted up to six months after bleaching, and hundreds of genes remained upregulated for a year after bleaching.
+
+--- SENTENCE 198 ---
+Gene expression patterns that linger and do not return to baseline expression following acute experimental heat stress comprise functional annotation clusters for the regulation of the immune system, apoptosis, transcription, and protein signalling [\[29\]](#page-8-0).
+
+--- SENTENCE 199 ---
+Corals thriving in naturally extreme thermal environments frontload similar stress response genes as a mechanism to prepare an individual for frequently encountered stress [\[21](#page-7-0)].
+
+--- SENTENCE 200 ---
+The same mechanism may apply to corals exposed to natural warm-water events, where constitutive transcriptional activity is altered in order to better prepare individuals for future stress.
+
+--- SENTENCE 201 ---
+# (e) Bleaching has a persistent effect on the coral transcriptome
+
+Gene expression biomarkers that can accurately and rapidly assess the health of corals in situ represent a highly soughtafter tool for management that aims to take proactive approaches to coral reef conservation
+
+--- SENTENCE 202 ---
+In our dataset, individual colony bleaching level predicted eigengenes for five of the six stress modules, as well as the expression of approximately 200 stress response genes, at the final time point in those colonies (electronic supplementary material, figure S4 and dataset S6).
+
+--- SENTENCE 203 ---
+This list of genes included classic stress response genes such as heat-shock proteins and TNF receptors and was functionally enriched for gene products associated with cellular response to chemical stimulus and signalling (electronic supplementary material, dataset S7).
+
+--- SENTENCE 204 ---
+It may be the case that corals frontload a sub-set of stress response genes during warm summer months proportional to the level of bleaching stress they experienced the previous summer.
+
+--- SENTENCE 205 ---
+If this is the case, then in addition to monitoring the in situ health of a coral colony, gene expression biomarkers may be capable of assaying the bleaching history of a colony even when the main stress response has subsided.
+
+--- SENTENCE 206 ---
+Future studies that validate the results of high-throughput sequencing approaches with more classical biomarker development approaches using qPCR and protein assays will help verify whether any of the genes identified in this study using a RNAseq approach represent good candidate biomarkers for bleaching history.
+
+#### (f) Broader implications
+
+Understanding rates of recovery following severe disturbance is central to forecasting the response of coral reef ecosystems to rapid climate change.
+
+--- SENTENCE 207 ---
+Ecological recovery from severe bleaching events can take decades, yet, the individual coral <span id="page-7-0"></span>colony has a much faster recovery trajectory, which is an important component of resilience at the reef level.
+
+--- SENTENCE 208 ---
+Our data show that full recovery for the cosmopolitan reefbuilder A. hyacinthus can take more than a year.
+
+--- SENTENCE 209 ---
+The long time that individual colonies require to recover fully means that even this rapid mechanism is limited in effect when summer after summer imposes bleaching or sub-bleaching conditions.
+
+--- SENTENCE 210 ---
+Different coral species have markedly different rates of recovery
+
+--- SENTENCE 211 ---
+[16], which together with differential rates of mortality, will drive shifts in community composition and reef function as climate-driven bleaching events become more and more frequent.
+
+Ethics.
+
+--- SENTENCE 212 ---
+Tissue samples were collected under the Department of Marine and Wildlife Resources permit 2016/004 and National Park Service permit NPSA-2016-SCI-0003.
+
+--- SENTENCE 213 ---
+All datasets and files are archived in the Dryad repository:<http://dx.doi.org/10.5061/dryad.3444s>
+
+--- SENTENCE 214 ---
+L.T. and S.R.P. designed the project.
+
+--- SENTENCE 215 ---
+L.T. collected the samples and conducted laboratory work.
+
+--- SENTENCE 216 ---
+L.T. and S.R.P. analysed the data and drafted the manuscript.
+
+--- SENTENCE 217 ---
+L.T. and S.R.P. prepared the final version of this manuscript.
+
+--- SENTENCE 218 ---
+The authors declare no competing interests.
+
+--- SENTENCE 219 ---
+This research was supported by the Gordon and Betty Moore Foundation and the National Science Foundation's Rapid Response Research (RAPID) OCE-1547921 to S.R.P.
+
+Acknowledgements.
+
+--- SENTENCE 220 ---
+We are grateful for the logistical support from the National Park of American Samoa throughout this study.
+
+--- SENTENCE 221 ---
+We would like to thank Noah H. Rose for assistance in the field and with bioinformatics.
+
+--- SENTENCE 222 ---
+Thanks are also extended to E. Sheets, M. Morikawa and E. Lopez for their invaluable assistance in the field and for insightful discussion on the data.
+
+--- SENTENCE 223 ---
+Finally, we thank two anonymous reviewers for their constructive comments on earlier versions of this manuscript.
+
+--- SENTENCE 224 ---
+# References
+
+- 1.
+
+--- SENTENCE 225 ---
+Holling CS. 1973 Resilience and stability of ecological systems.
+
+--- SENTENCE 226 ---
+Syst. 4, 1– 23.
+
+--- SENTENCE 227 ---
+Hughes TP et al. 2017
+
+--- SENTENCE 228 ---
+Coral reefs in the Anthropocene.
+
+--- SENTENCE 229 ---
+Nature 546, 82 – 90.
+
+--- SENTENCE 230 ---
+Depczynski M et al. 2012 Bleaching, coral mortality and subsequent survivorship on a West Australian fringing reef.
+
+--- SENTENCE 231 ---
+Coral Reefs 32, 233– 238.
+
+--- SENTENCE 232 ---
+Mendes JM, Woodley JD. 2002
+
+--- SENTENCE 233 ---
+Effect of the 1995 1996 bleaching event on polyp tissue depth, growth, reproduction and skeletal band formation in Montastraea annularis.
+
+--- SENTENCE 234 ---
+Ser. 235, 93 – 102.
+
+--- SENTENCE 235 ---
+Rodrigues LJ, Grottoli AG. 2007
+
+--- SENTENCE 236 ---
+Energy reserves and metabolism as indicators of coral recovery from bleaching.
+
+--- SENTENCE 237 ---
+52, 1874 – 1882.
+
+--- SENTENCE 238 ---
+Grottoli AG, Rodrigues LJ, Palardy JE.
+
+--- SENTENCE 239 ---
+2006 Heterotrophic plasticity and resilience in bleached corals.
+
+--- SENTENCE 240 ---
+Nature 440, 1186 – 1189.
+
+--- SENTENCE 241 ---
+Hughes AD, Grottoli AG. 2013
+
+--- SENTENCE 242 ---
+Heterotrophic compensation: a possible mechanism for resilience of coral reefs to global warming or a sign of prolonged stress?
+
+--- SENTENCE 243 ---
+ONE 8, 1 – 10.
+
+--- SENTENCE 244 ---
+Goreau TJ, Macfarlane AH. 1990
+
+--- SENTENCE 245 ---
+Coral reefs following the 1987 – 1988 coral-bleaching event.
+
+--- SENTENCE 246 ---
+Coral Reefs 8, 211 – 215.
+
+--- SENTENCE 247 ---
+Szmant AM, Gassman NJ.
+
+--- SENTENCE 248 ---
+The effects of prolonged 'bleaching' on the tissue biomass and reproduction of the reef coral Montastrea annularis.
+
+--- SENTENCE 249 ---
+Coral Reefs 8, 217 – 224.
+
+--- SENTENCE 250 ---
+Baird AH, Marshall PA. 2002
+
+--- SENTENCE 251 ---
+Mortality, growth and reproduction in scleractinian corals following bleaching on the Great Barrier Reef.
+
+--- SENTENCE 252 ---
+Ser. 237, 133– 141.
+
+--- SENTENCE 253 ---
+Levas S, Grottoli AG, Schoepf V, Aschaffenburg M, Baumann J, Bauer JE, Warner ME. 2016
+
+--- SENTENCE 254 ---
+Can heterotrophic uptake of dissolved organic carbon and zooplankton mitigate carbon budget deficits in
+
+- annually bleached corals?
+
+--- SENTENCE 255 ---
+Coral Reefs 35, 495– 506.
+
+--- SENTENCE 256 ---
+[\(doi:10.1007/s00338-015-1390-z\)](http://dx.doi.org/10.1007/s00338-015-1390-z)
+- 12. Levas SJ, Grottoli AG, Hughes A, Osburn CL, Matsui Y. 2013 Physiological and biogeochemical traits of bleaching and recovery in the mounding species of coral Porites lobata: implications for resilience in mounding corals.
+
+--- SENTENCE 257 ---
+ONE 8, 32 – 35.
+
+--- SENTENCE 258 ---
+Anthony KRN, Hoogenboom MO, Maynard JA, Grottoli AG, Middlebrook R. 2009 Energetics approach to predicting mortality risk from environmental stress: a case study of coral bleaching.
+
+--- SENTENCE 259 ---
+Ecol. 23, 539– 550.
+
+--- SENTENCE 260 ---
+Grottoli AG, Rodrigues LJ. 2011 Bleached Porites compressa and Montipora capitata corals catabolize d13C-enriched lipids.
+
+--- SENTENCE 261 ---
+Coral Reefs 30, 687– 692.
+
+--- SENTENCE 262 ---
+Physiology and biogeochemistry of bleached and recovering corals.
+
+--- SENTENCE 263 ---
+PhD thesis, Department of Earth and Environmental Science, University of Pennsylvania, PA, USA.
+- 16.
+
+--- SENTENCE 264 ---
+Schoepf V, Grottoli AG, Levas SJ, Aschaffenburg MD, Baumann JH, Matsui Y, Warner ME. 2015
+
+--- SENTENCE 265 ---
+Annual coral bleaching and the long-term recovery capacity of coral.
+
+--- SENTENCE 266 ---
+Ward S, Harrison P, Hoegh-guldberg O. 2002 Coral bleaching reduces reproduction of scleractinian corals and increases susceptibility to future stress.
+
+--- SENTENCE 267 ---
+Coral Reef Symp. 2, 1123 – 1128.
+- 18.
+
+--- SENTENCE 268 ---
+Fitt WK, Spero HJ, Halas J, White MW, Porter JW. 1993
+
+--- SENTENCE 269 ---
+Coral reefs after the 1987 Caribbean 'bleaching event'.
+
+--- SENTENCE 270 ---
+Coral Reefs 12, 57 – 64.
+
+--- SENTENCE 271 ---
+[\(doi:10.1007/](http://dx.doi.org/10.1007/BF00302102) [BF00302102\)](http://dx.doi.org/10.1007/BF00302102)
+- 19. Franssen SU, Gu J, Bergmann N, Winters G, Klostermeier UC, Rosenstiel P, Bornberg-Bauer E, Reusch TBH. 2011 Transcriptomic resilience to global warming in the seagrass Zostera marina, a marine foundation species.
+
+--- SENTENCE 272 ---
+USA 108, 19 276– 19 281.
+
+--- SENTENCE 273 ---
+Bellantuono AJ, Hoegh-guldberg O, Rodriguez-Lanetty M. 2012 Resistance to thermal stress in corals without changes in symbiont composition.
+
+--- SENTENCE 274 ---
+B 279, 1100– 1107.
+
+--- SENTENCE 275 ---
+Barshis DJ, Ladner JT, Oliver T, Seneca FO, Traylor-Knowles N, Palumbi SR. 2013 Genomic basis for coral resilience to climate change.
+
+--- SENTENCE 276 ---
+USA 110, 1387 – 1392.
+
+--- SENTENCE 277 ---
+Bay RA, Palumbi SR. 2015 Rapid acclimation ability mediated by transcriptome changes in reef-building corals.
+
+--- SENTENCE 278 ---
+Evol. 7, 1602– 1612.
+
+--- SENTENCE 279 ---
+Maor-landaw K, Levy O. 2016 Survey of Cnidarian gene expression profiles in response to environmental stressors: summarizing 20 years of research, what are we heading for?
+
+--- SENTENCE 280 ---
+In The Cnidaria, past, present and future (eds S Goffredo, Z Dubinsky), pp. 523– 543.
+
+--- SENTENCE 281 ---
+Basel, Switzerland: Springer International Publishing.
+- 24.
+
+--- SENTENCE 282 ---
+Hughes TP et al. 2017 Global warming and recurrent mass bleaching of corals.
+
+--- SENTENCE 283 ---
+Nature 543, 373– 377.
+
+--- SENTENCE 284 ---
+Smith LW, Wirshing H, Baker AC, Birkeland C. 2008 Environmental versus genetic influences on growth rates of the corals Pocillopora eydouxi and Porites lobata.
+
+--- SENTENCE 285 ---
+Pacific Sci. 62, 57 – 69.
+
+--- SENTENCE 286 ---
+Ladner JT, Palumbi SR. 2012 Extensive sympatry, cryptic diversity and introgression throughout the geographic distribution of two coral species complexes.
+
+--- SENTENCE 287 ---
+Ecol. 21, 2224 – 2238.
+
+--- SENTENCE 288 ---
+Rose N, Seneca FO, Palumbi SR. 2016 Gene networks in the wild: identifying transcriptional modules that mediate coral resistance to experimental heat stress.
+
+--- SENTENCE 289 ---
+Evol. 8, 243– 252.
+
+--- SENTENCE 290 ---
+Ruiz-jones LJ, Palumbi SR. 2017 Tidal heat pulses on a reef trigger a fine-tuned transcriptional response in corals to maintain homeostasis.
+
+--- SENTENCE 291 ---
+Adv. 3, 1 – 10.
+
+--- SENTENCE 292 ---
+[\(doi:10.1126/sciadv.1601298\)](http://dx.doi.org/10.1126/sciadv.1601298)
+
+- <span id="page-8-0"></span>29.
+
+--- SENTENCE 293 ---
+Seneca FO, Palumbi SR. 2015
+
+--- SENTENCE 294 ---
+The role of transcriptome resilience in resistance of corals to bleaching.
+
+--- SENTENCE 295 ---
+Ecol. 24, 1387– 1641.
+
+--- SENTENCE 296 ---
+Schneider CA, Rasband WS, Eliceiri KW. 2012 NIH Image to ImageJ: 25 years of image analysis.
+
+--- SENTENCE 297 ---
+Methods 9, 671– 675.
+
+--- SENTENCE 298 ---
+Gold Z, Palumbi SR.
+
+--- SENTENCE 299 ---
+Long term growth rates and effects of bleaching in Acropora hyacinthus.
+
+--- SENTENCE 300 ---
+Coral Reefs.
+- 32.
+
+--- SENTENCE 301 ---
+Krediet CJ, DeNofrio JC, Caruso C, Burriesci MS, Cella K, Pringle JR. 2015
+
+--- SENTENCE 302 ---
+Rapid, precise, and accurate counts of Symbiodinium cells using the guava flow cytometer, and a comparison to other methods.
+
+--- SENTENCE 303 ---
+Langmead B, Salzberg SL. 2012 Fast gappedread alignment with Bowtie 2.
+
+--- SENTENCE 304 ---
+Methods 9, 357– 359.
+
+--- SENTENCE 305 ---
+Li H, Handsaker B, Wysoker A, Fennell T, Ruan J, Homer N, Marth G, Abecasis G, Durbin R. 2009
+
+--- SENTENCE 306 ---
+The sequence alignment/map format and SAMtools.
+
+--- SENTENCE 307 ---
+Bioinformatics 25, 2078– 2079.
+
+--- SENTENCE 308 ---
+Oliver T, Palumbi SR. 2010
+
+--- SENTENCE 309 ---
+Many corals host thermally resistant symbionts in high-temperature habitat.
+
+--- SENTENCE 310 ---
+Coral Reefs 30, 241 – 250.
+
+--- SENTENCE 311 ---
+Garrison E, Marth G. 2012 Haplotype-based variant detection from short-read sequencing.
+
+--- SENTENCE 312 ---
+ArXiv e-prints 2012, 1207:3907.
+
+--- SENTENCE 313 ---
+Danecek P et al. 2011
+
+--- SENTENCE 314 ---
+The variant call format and VCFtools.
+
+--- SENTENCE 315 ---
+Bioinformatics 27, 2156– 2158.
+
+--- SENTENCE 316 ---
+Civelek M, Lusis AJ.
+
+--- SENTENCE 317 ---
+Systems genetics approaches to understand complex traits.
+
+--- SENTENCE 318 ---
+Nat. Rev. Genet. 15, 34 – 48.
+
+--- SENTENCE 319 ---
+Love MI, Huber W, Anders S. 2014 Moderated estimation of fold change and dispersion for RNAseq data with DESeq2.
+
+--- SENTENCE 320 ---
+Langfelder P, Horvath S. 2008 WGCNA: an R package for weighted correlation network analysis.
+
+- BMC Bioinformatics 9, 559.
+
+--- SENTENCE 321 ---
+Jombart T. 2008 Adegenet: an R package for the multivariate analysis of genetic markers.
+
+--- SENTENCE 322 ---
+Bioinformatics 24, 1403– 1405.
+
+--- SENTENCE 323 ---
+Rodrigues LJ, Grottoli AG. 2006
+
+--- SENTENCE 324 ---
+Calcification rate and the stable carbon, oxygen, and nitrogen isotopes in the skeleton, host tissue, and zooxanthellae of bleached and recovering Hawaiian corals.
+
+--- SENTENCE 325 ---
+Acta 70, 2781– 2789.
+
+--- SENTENCE 326 ---
+Grottoli AG, Warner ME, Levas SJ, Aschaffenburg MD, Schoepf V, Mcginley M, Baumann J, Matsui Y. 2014
+
+--- SENTENCE 327 ---
+The cumulative impact of annual coral bleaching can turn some coral species winners into losers.
+
+--- SENTENCE 328 ---
+Biol. 20, 3823– 3833.
+
+--- SENTENCE 329 ---
+Fitt WK, McFarland FK, Warner ME, Chilcoat GC. 2000 Seasonal patterns of tissue biomass and densities of symbiotic dinoflagellates in reef corals and relation to coral bleaching.
+
+--- SENTENCE 330 ---
+45, 677 – 685.
+
+--- SENTENCE 331 ---
+Jones AM, Berkelmans R, van Oppen MJH, Mieog JC, Sinclair W. 2008
+
+--- SENTENCE 332 ---
+A community change in the algal endosymbionts of a scleractinian coral following a natural bleaching event: field evidence of acclimatization.
+
+--- SENTENCE 333 ---
+B 275, 1359 – 1365.
+
+--- SENTENCE 334 ---
+Baker AC. 2001 Reef corals bleach to survive change.
+
+--- SENTENCE 335 ---
+Nature 411, 765– 766.
+
+--- SENTENCE 336 ---
+Berkelmans R, van Oppen MJH.
+
+--- SENTENCE 337 ---
+The role of zooxanthellae in the thermal tolerance of corals: a 'nugget of hope' for coral reefs in an era of climate change.
+
+--- SENTENCE 338 ---
+B 273, 2305 – 2312.
+
+--- SENTENCE 339 ---
+Palumbi SR, Barshis DJ, Taylor-Knowles N, Bay RA.
+
+--- SENTENCE 340 ---
+2014 Mechanisms of reef coral resistance to future climate change.
+
+--- SENTENCE 341 ---
+Science 344, 895– 898.
+
+--- SENTENCE 342 ---
+Gasch AP, Werner-Washburne M. 2002
+
+--- SENTENCE 343 ---
+The genomics of yeast responses to environmental stress
+
+- and starvation.
+
+--- SENTENCE 344 ---
+Genomics 2, 181 192.
+
+--- SENTENCE 345 ---
+Davison A, Blaxter M. 2005 Ancient origin of glycosyl hydrolase family 9 cellulase genes.
+
+--- SENTENCE 346 ---
+Evol. 22, 1273– 1284.
+
+--- SENTENCE 347 ---
+Chapman JA et al.2010
+
+--- SENTENCE 348 ---
+The dynamic genome of Hydra.
+
+--- SENTENCE 349 ---
+Baumgarten S et al. 2015
+
+--- SENTENCE 350 ---
+The genome of Aiptasia, a sea anemone model for coral symbiosis.
+
+--- SENTENCE 351 ---
+USA 112, 11 893– 11 898.
+
+--- SENTENCE 352 ---
+Wakefield TS, Farmer MA, Kempf SC. 2000 Revised description of the fine structure of in situ 'Zooxanthellae' genus Symbiodinium.
+
+--- SENTENCE 353 ---
+Bull. 199, 76– 84.
+
+--- SENTENCE 354 ---
+Kwok ACM, Wong JTY.
+
+--- SENTENCE 355 ---
+The activity of a wallbound cellulase is required for and is coupled to cell cycle progression in the dinoflagellate Crypthecodinium cohnii.
+
+--- SENTENCE 356 ---
+Plant Cell 22, 1281– 1298.
+
+--- SENTENCE 357 ---
+Levin R, Suggett D, Nitschke M, van Oppen M, Steinberg P. 2017 Expanding the Symbiodinium toolkit through protoblast technology.
+
+--- SENTENCE 358 ---
+Titlyanov EA, Titlyanova TV, Leletkin VA, Tsukahara J, Van Woesik R, Yamazato K. 1996 Degradation of zooxanthellae and regulation of their density in hermatypic corals.
+
+--- SENTENCE 359 ---
+Ser. 139, 167– 178.
+
+--- SENTENCE 360 ---
+[\(doi:10.3354/meps139167\)](http://dx.doi.org/10.3354/meps139167)
+- 57. Pinzo´n JH, Kamel B, Burge CA, Harvell CD, Medina M, Weil E, Mydlarz LD. 2015
+
+--- SENTENCE 361 ---
+Whole transcriptome analysis reveals changes in expression of immunerelated genes during and after bleaching in a reefbuilding coral.
+
+--- SENTENCE 362 ---
+open sci. 2, 140214.
+
+--- SENTENCE 363 ---
+Louis YD, Bhagooli R, Kenkel CD, Baker AC, Dyall SD. 2016 Gene expression biomarkers of heat stress in scleractinian corals: promises and limitations.
+
+--- SENTENCE 364 ---
+Thomas L, Palumbi SR. 2017 Data from: The genomics of recovery from coral bleaching.
+

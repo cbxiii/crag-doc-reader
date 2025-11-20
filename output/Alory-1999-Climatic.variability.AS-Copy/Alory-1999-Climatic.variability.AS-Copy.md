@@ -1,0 +1,268 @@
+![](_page_0_Picture_3.jpeg)
+
+# Climatic variability in the vicinity of Wallis, Futuna, and Samoa islands
+
+ $(13^{\circ}-15^{\circ} \text{ S}, 180^{\circ}-170^{\circ} \text{ W})$ 
+
+Gaël ALORY, Thierry DELCROIX \*
+
+DEPARTMENT OF MARINE & WILDLIFE RESOURCES
+P.O. BOX 3730
+P.O. BOX 3730
+PAGO PAGO, AMERICAN SAMOA 96799
+
+Groupe ECOP, Institut de recherche pour le développement (IRD), BP A5, Nouméa, New Caledonia alory@noumea.ird.nc; delcroix@noumea.ird.nc
+
+(Received 27 November 1997, revised 15 December 1998, accepted 7 January 1999)
+
+Abstract – Mean conditions, seasonal, and ENSO-related (El Niño Southern Oscillation) variability in the vicinity of Wallis, Futuna, and Samoa islands (13°-15° S, 180°-170° W) over the 1973-1995 period are analysed for wind pseudo-stress, satellite-derived and in situ precipitation, sea surface temperature (SST) and salinity (SSS), sea level, and 0-450 m temperature and geostrophic current. The mean local conditions reflect the presence of the large scale features such as the western Pacific warm pool, the South Pacific Convergence Zone (SPCZ), and the South Pacific anticyclonic gyre. The seasonal changes are closely related to the meridional migrations of the SPCZ, which passes twice a year over the region of study. During the warm phase of ENSO (El Niño), we generally observe saltier-than-average SSS (of the order of 0.4), consistent with a rainfall deficit (0.4 m yr<sup>-1</sup>), a hint of colder-than-average surface temperature is also identified in subsurface (0.3°C), a weak tendency for westward geostrophic current anomalies (2 cm s<sup>-1</sup> at the surface), a sea level decrease (5-10 cm), together with easterly (5 m<sup>2</sup> s<sup>-2</sup>) and well marked southerly (10 m<sup>2</sup> s<sup>-2</sup>) wind pseudo-stress anomalies. Anomalies of similar magnitude, but of opposite sign, are detected during the cold phase of ENSO (La Niña). While these ENSO-related changes apply prior to the 1990s, they were not observed during the 1991–1994 period, which appears atypical. © Elsevier, Paris / Ifremer / Cnrs / Ird
+
+Wallis and Futuna / Samoa / El Niño Southern Oscillation / climatic variability
+
+Résumé – Variabilité climatique au large des îles Wallis, Futuna et Samoa (13°-15° S, 180°-170° W). Les conditions climatiques moyennes, les variations saisonnières et interannuelles associées au phénomène El Niño Oscillation Australe (ENOA) de la région située au voisinage des îles Wallis, Futuna et Samoa (13°-15° S, 180°-170° W) sont décrites pour les années 1973-1995. Les paramètres analysés comprennent la pseudo-tension du vent, les précipitations (estimations satellitales et mesures in situ), la température et la salinité de surface, le niveau de la mer, les profils verticaux 0-450 m de température et de courant géostrophique. Pour l'ensemble des paramètres, les conditions moyennes traduisent la présence des structures à grandes échelles du Pacifique tropical, à savoir les eaux chaudes (>28 °C) du Pacifique ouest, la zone de convergence des vents et le grand tourbillon anticyclonique du Pacifique sud. Les variations saisonnières sont pour l'essentiel liées à la migration nord-sud de la zone de convergence du Pacifique sud qui passe deux fois par an sur la région d'étude. Au cours de la phase chaude du phénomène ENOA (El Niño), on observe en général une salinité supérieure à la normale (de l'ordre de 0,4), cohérente avec une baisse des précipitations (-0,4 m an<sup>-1</sup>), une tendance au refroidissement des eaux de surface et de subsurface (-0,3 °C), une anomalie de courant géostrophique dirigée vers l'ouest (-2 cm s<sup>-1</sup> à la surface), une baisse du niveau de la mer (-5 à -10 cm), ainsi qu'une diminution modérée de la composante est-ouest des alizés (-5 m² s<sup>-2</sup>) et un renforcement marqué de la composante sud-nord (+10 m² s<sup>-2</sup>). Les anomalies observées au cours de la phase chaude
+
+<sup>\*</sup> Correspondence and reprints
+
+d'ENOA (El Niño) sont du même ordre de grandeur mais de signe opposé au cours de la phase froide d'ENOA (La Niña). Ces anomalies s'appliquent à la période antérieure à 1990, mais non à la période 1991-1994 qui apparaît comme « inhabituelle ». © Elsevier, Paris / Ifremer / Cnrs / Ird
+
+# Wallis et Futuna / Samoa / El Niño Oscillation Australe / variabilité climatique
+
+# 1. INTRODUCTION
+
+The ENSO (El Niño Southern Oscillation) phenomenon is the planet's most powerful climatic event at the interannual time scale. In the last 50 years, the tropical Pacific waters and atmosphere have experienced more than a dozen El Niño events, El Niño being the warm phase of ENSO, with the strongest in 1982–1983 and in 1997–1998. For the first time in 1997–1998, the international scientific community, as well as decision makers around the world, had the technical capability to follow the El Niño evolution almost in real time. This was the result of the development of an ocean monitoring system implemented during the last decade through international research programs [22, 34, 35] and from outstanding progress in real time data transmission to the general public through the World Wide Web.
+
+Bearing in mind that relevant signatures of on-going ENSO events are now directly observable, it is also possible to some extent to anticipate future impacts of ENSO using either dynamic [17] or statistical [2] models. The latter are based on the behaviour of past events whose signatures were quantified at the basin scale [11, 29]. Complementing these basin scale studies, regional ENSO variability and impacts have been documented also in delimited areas such as the south western tropical Pacific [3, 6, 10, 24, 29]. In line with these regional studies, the present paper aims to analyse the ENSO-related variability in the vicinity of Wallis, Futuna, and Samoa islands (13°-15° S, 180°-170° W; hereafter referred to as "the region", see figure 1), and to go beyond the ENSO variability to include the seasonal variability. The present analysis is a contribution to the international CLIVAR (Climate Variability and Prediction; see [35]) program, to the South Pacific Regional Environment Program (SPREP), and to a program of the Institut de Recherche pour le Développement (IRD) designed to identify and understand the regional ENSO behaviour.
+
+We will document the dominant signatures of the regional variability for relevant oceanic and atmospheric variables covering one to three decades. We will analyse changes in sea surface temperature (SST) and salinity (SSS), 0-450 m temperature profile, sea level (derived from 0/450 dbar dynamic height anomaly. GEOSAT and TOPEX/Poseidon altimeter measurements), surface geostrophic current, wind pseudo-stress, satellite-derived and in situ precipitation. Most of them are considered as key climatic variables in the previously cited WCRP programs. The paper is organised as follows: the data and data processing are presented in section 2, basin scale and regional long-term averages are discussed in section 3 in order to set the context, and the seasonal changes are then examined in section 4. The emphasis is put on ENSO in section 5 in order to identify its signature, if any, on the analysed variables. Conclusion and discussion are given in the last section.
+
+### 2. DATA AND DATA PROCESSING
+
+The 1961-1995 monthly SST data were derived from a 2°-latitude by 2°-longitude field grid [28]. The time series of grid points located in the region were averaged out to represent the regional SST variations. The SSS data were obtained from bucket measurements collected by a ship-of-opportunity program, hydrological and CTD (Conductivity, Temperature, Depth) measurements resulting from research cruises, and measurements by thermosalinographs installed on board merchant and research vessels. Details on the origins of these SSS data are available in [7, 12, 18]. The 1973-1995 SSS data were validated as in [9], and averaged monthly in the same region as for SST. On average, a monthly mean SSS is represented by 10 observations and the expected accuracy of a given observation is of the order of 0.1 [1]. The 0-450 m temperature profiles were derived from validated XBT measurements, collected from 1979 to 1995. The temperature data were linearly interpolated every 10 m from 0 to 250 m and every 25 m to 450 m. Although the XBT data had already been checked for flagrant errors, additional validation tests were made through objective criteria based on multiples ( $\pm$  5,  $\pm$  4 and  $\pm$  3.5) of standard deviation of temperature at each level in the 2° latitude by 10° longitude region - about 1 % of the
+
+![](_page_2_Figure_1.jpeg)
+
+Figure 1. Location of the region of study in relation to the tropical Pacific.
+
+data were rejected. The irregularly distributed temperature data, both in space and time, were gridded onto monthly values as in [11]. On average, a monthly mean temperature profile is represented by five observations [1], and the accuracy of any temperature measurement is of the order of 0.1 °C. Each monthly temperature profile was further converted into a profile of dynamic height anomaly relative to 450 dbar using the regional mean TS curve from [20]. In the tropics, where the ocean can be reasonably modelled as a two-layer system, changes in 0/450 dbar dynamic height anomaly can be used as a surrogate variable for changes in sea level [27]. Zonal and meridional components of geostrophic currents from 0 to 450 dbar were computed from the slopes of dynamic height anomalies calculated in the adjacent 2° latitude by 10° longitude regions. The errors in 0/450 dbar dynamic height anomaly and in zonal geostrophic current are about 5 dyn cm and 3 cm s<sup>-1</sup>, respectively [1].
+
+In addition to the 0/450 dbar dynamic height anomaly, sea level anomalies (i.e. relative to a given time period) were also available from satellite altimeter measurements: (a) GEOSAT from November 1986 to October 1988 [8], with values relative to the two year reference period November 1986-October 1988, and (b) TOPEX-Poseidon from October 1992 to the end of 1995 [23], with values relative to the 1993-1994 reference period. The data from GEOSAT (TOPEX/Poseidon) were averaged on 5 (10) day periods, filtered in time with a 30-days Hanning filter [4], with a spatial resolution of 5° longitude by 0.5° latitude (1° by 1°). Values of XBTderived sea level, averaged in time over each reference period, were added to the respective altimeter-derived sea level anomalies in order to compare similar quantities (mean + anomaly). Surface geostrophic currents were then computed from the three sea level estimates. Figure 2 indicates that the variations of satellite- and XBT-derived
+
+![](_page_3_Figure_1.jpeg)
+
+Figure 2. Top panels: Comparison between XBT-derived 0/450 dbar dynamic height anomalies (full lines) and altimeter-derived sea level anomalies (dashed lines). Bottom panels: Comparison between surface zonal geostrophic currents derived from 0/450 dbar dynamic height anomalies (full lines) and altimetric measurements (dashed lines). The comparisons are performed in a region located near Wallis, Futuna, and Samoa islands (figure 1). The GEOSAT satellite measurements cover the 1986–1989 period, the TOPEX/Poseidon satellite measurements cover the 1992–1995 period. Units are cm for sea level and cm s<sup>-1</sup> for currents.
+
+sea level, together with the surface zonal geostrophic currents, are relatively close to each other. The correlation coefficient between XBT- and altimeter-derived sea level is 0.59 (0.37) during the GEOSAT (TOPEX/Poseidon) period, and it is 0.57 (0.70) for the surface zonal geostrophic current. The differences between the two types of variations likely result from the fact that altimetry represents variations in the whole water column, while the in situ data are based on 0 to 450 dbar variations only. Moreover, the in situ data result from the use of a mean TS curve and so do not include the salinity variations. Given the resemblance in the curves shown on figure 2,
+
+and because the XBT-derived time series is by far the longest record, only the latter is considered in the following discussion.
+
+The surface wind came from the monthly 2° latitude by 2° longitude FSU (Florida State University) records of wind pseudo-stress, in m<sup>2</sup> s<sup>-2</sup> [16]. The 1961–1995 monthly time series of the grid points located in the region were averaged to represent the regional zonal and meridional wind pseudo-stress components. The 1979–1995 satellite-derived precipitation data were derived from [36]. The original 2.5° latitude by 2.5° longitude
+
+monthly time series available for the region were used to derive a regional time series using linear interpolation. The in situ precipitation (P), data at Leava, Hihifo, Wallis, and Maopopo (see table III for the locations) were obtained from Météo-France at Nouméa, New Caledonia. The SOI (Southern Oscillation Index) used is the CAC version (see the March 1986 Climate Diagnostic Bulletin published by the NOAA), similar to the SOI used in [31]. with an additional normalisation, resulting in a timeseries with a variance of one and a mean value of zero for the 1951-1980 period; it will be used to compare the timing of the interannual changes with the occurrence of ENSO events. To summarise, monthly regional time series were derived for SST (1961-1995), SSS (1973-1995), temperature from 0 to 450 m (1979-1995), XBTderived sea level (1979-1995), surface geostrophic current components from 0 to 450 m (1979-1995), wind pseudo-stress components (1961-1995), satellite-derived. and in situ precipitation (1979-1995). More details on the derivation of such times series for the whole tropical Pacific are given in [11].
+
+Climatological means, and seasonal and interannual variations were quantified for each variable on the basis of the above-mentioned fields. The climatological means were calculated both over 1979-1995, a period common for each variable, and over the maximum lengths of the time series; the results were nearly identical whatever the chosen time period and the 1979-1995 averages are presented. Time filtering was used to separate the seasonal and interannual signals for all variables. The interannual variations were estimated by filtering the monthly time series with a 25-month Hanning filter. This filter passes almost no signal at periods of one year and shorter, and passes about 90 % of the signal at periods of four years, which is the mean El Niño return interval [14]. The variations at periods equal to or shorter than one year (i.e. including mostly the seasonal variations) were then calculated as the residuals between the original time series and the 25-month filtered time series. To facilitate interpretation, the seasonal variations were converted into a mean seasonal cycle and a Fourier analysis was performed to extract the phase and amplitude of the annual harmonic.
+
+### 3. MEAN VALUES
+
+Maps of long-term mean wind pseudo-stress, rainfall, SST, SSS and 0/450 dbar dynamic height anomaly for the
+
+tropical Pacific (30° N-30° S) are displayed in figures 3a to e to set the context of the regional features. The regional mean values of each variable and the associated standard deviation are given in table I (the mean in situ P
+
+**Table 1.** Mean values and standard deviations of sea surface temperature (SST, °C), sea surface salinity (SSS), 0/450 dbar dynamic height anomaly (DH, dyn cm), zonal (Ug) and meridional (Vg) surface geostrophic current components (cm s<sup>-1</sup>), satellite-derived precipitation (P, m yr<sup>-1</sup>), zonal ( $\tau^x$ ) and meridional ( $\tau^y$ ) wind pseudostress (m<sup>2</sup> s<sup>-2</sup>), and wind pseudo-stress module ( $\tau$ , m<sup>2</sup> s<sup>-2</sup>) in the studied region. Positive values in Ug, Vg,  $\tau^x$ , and  $\tau^y$  denote eastward components.
+
+| Variable       | Mean  | Standard deviation |  |
+|----------------|-------|--------------------|--|
+| SST            | 28.6  | 0.6                |  |
+| SSS            | 35.1  | 0.4                |  |
+| DH             | 134.3 | 4.6                |  |
+| Ug ·           | -0.5  | 3.0                |  |
+| ٧g             | -0.1  | 0.6                |  |
+| P              | 2.7   | 1.3                |  |
+| τ* .           | -29.4 | 18.9               |  |
+| τ <sup>y</sup> | 10.4  | 14.6               |  |
+| τ              | 34.5  | 18.6               |  |
+
+values are given farther in table III). Figure 3a shows that the average direction of wind is NE in the northern hemisphere and SE in the southern hemisphere. These trade wind systems meet in the Intertropical Convergence Zone (ITCZ) along about 5°-10° N, and in the South Pacific Convergence Zone (SPCZ), roughly located along a line running from Papua New Guinea to Tahiti. Not shown in figure 3a, each convergence zone moves towards the equator during the fall of its respective hemisphere. Strong precipitations are associated with the ITCZ and the SPCZ (figure 3b). Hence, the SPCZ, located near the area of study, has a strong influence on the regional climate. The mean wind pseudo-stress in the region has an ESE direction and its modulus is 34.5 m<sup>2</sup> s<sup>-2</sup>. The mean satellite-derived precipitation is 2.7 m yr<sup>-1</sup>, and the mean in situ values range between 2.9 and 3.4 m yr<sup>-1</sup>; the differences between all estimates likely reflect spatial averaging and/or orographic effects. Figure 3c shows the Pacific warm pool in the west, with SST warmer than 28 °C, together with the relatively cold water in the east reflecting coastal and equatorial upwellings. The area of study, with a mean SST of 28.6 °C, is clearly located within the southern edge of the Pacific warm pool. Figure 3d portrays low salinity water associated with both convergence zones and the warm pool where
+
+![](_page_5_Figure_1.jpeg)
+
+Figure 3. Long-term mean (a) wind pseudo-stress. (b) precipitation, (c) sea surface temperature, (d) sea surface salinity, (e) 0/450 dbar dynamic height anomaly. Adapted from Delcroix [11]. The black dots in the south west region mark the studied region.
+
+precipitation is greater than evaporation. The mean regional SSS, under the influence of the SPCZ, is 35.1. Figure 3e shows that the area under study is situated on a local maximum in 0/450 dbar dynamic height anomaly (134 dyn cm), resulting from the proximity of the centre of the large-scale anticyclonic gyre [6]. The regional surface zonal (meridional) geostrophic current has a mean value of only -0.5 (-0.1) cm s<sup>-1</sup>, indicating that the gyre centre is located slightly to the south of the region.
+
+The mean 0-450 m profiles of temperature, salinity and zonal geostrophic current, together with the mean TS curve, are displayed in figures 4a to d. The temperature is almost homogeneous (28.5 °C) from the surface down to 50 m, then almost linearly decreases down to 450 m (0.05 °C m<sup>-1</sup>). The salinity and TS profiles show relatively warm and fresh water in the near surface layer (T > 28 °C; S < 35.3) reflecting the presence of the SPCZ, a tongue of high salinity water (T > 20 °C, S > 35.75) located at around 150 m representing the south Pacific tropical water originating farther east in the vicinity of French Polynesia [32], and cold and relatively fresh water (T < 10 °C, S < 34.7) below 400 m denoting the southwest Pacific central water [13]. The zonal geostrophic current, characterizing the southern branch of the South Equatorial Current, is directed to the west at all depths and reaches a maximum of -4 cm s<sup>-1</sup> at around 140 m.
+
+# 4. SEASONAL VARIATIONS
+
+For each variable, we computed standard deviation of the total, seasonal and interannual variations. The ratios of the seasonal and interannual variations to the total variations were used as a measure of the seasonal and interannual variability, respectively. These ratios, expressed as a percentage in table II, indicate that the seasonal variability is largely predominant for atmospheric variables and SST, that it is somewhat predominant for surface zonal geostrophic current, while for SSS and sea level it is the interannual variability that dominates.
+
+Table II. Ratios in percent of the interannual and seasonal variability to the total variability for the eight variables defined in table I.
+
+|             | SST | SSS | DH  | Ug  | P   | τ×  | τ <sup>y</sup> | τ   |
+|-------------|-----|-----|-----|-----|-----|-----|----------------|-----|
+| interannual |     |     |     |     |     |     |                |     |
+| seasonal    | 77% | 42% | 38% | 57% | 84% | 82% | 73%            | 80% |
+
+Figure 5 portrays the mean seasonal variations and the monthly standard deviations for the surface variables. The reconstructed annual cycles are also presented and values of the amplitude and phase are given in table III together with the percentage of variance explained by the annual harmonic. Table IV gives quantitative monthly values for the in situ precipitation. The wind pseudostress has a NE direction at the beginning of the year, and it then rotates clockwise to become SE by the middle of the year. This shift is reversed during the second half of the year. The north-south change in the wind pseudostress direction indicates that the SPCZ crosses over the study area twice a year. The magnitude of the wind pseudo-stress is proportional to both the SPCZ activity
+
+**Table III.** Amplitude, phase and percent of variance explained by the annual harmonic for the eight variables defined in *table I*. The units are as in *table I* for the amplitude and in Julian days for the phase (e.g. 15 is January the 15th).
+
+| Variable       | amplitude | phase | percent of variance explained |
+|----------------|-----------|-------|-------------------------------|
+| SST            | 0.73      | 75    | 78                            |
+| SSS            | 0.12      | 310   | 20                            |
+| DH             | 0.92      | 80    | 6                             |
+| Ug             | 0.61      | 225   | 4                             |
+| P              | 1.39      | 45    | 56                            |
+| τ*             | 17.5      | 55    | 46                            |
+| τ <sup>y</sup> | 13.5      | 230   | 50                            |
+| τ              | 16.5      | 240   | 43                            |
+
+Table IV. Monthly means, 1973–1995 means and standard deviations for in situ precipitation (m yr<sup>-1</sup>) at the four stations, Leava (14° 00' S, 178° 00' W), Hihifo (13° 16' S, 176° 08' W), Wallis (13° 16' S, 176° 08' W), and Maopopo (14° 15' S, 178° 09' W) located in the studied region.
+
+| -        | Leava | Hihifo | Wallis | Маороро |
+|----------|-------|--------|--------|---------|
+| Jan.     | 4.05  | 4.29   | 4.04   | 4.49    |
+| Feb.     | 4.21  | 3.61   | 3.41   | 4.51    |
+| Mar.     | 3.67  | 4.68   | 3.89   | 4.71    |
+| Apr.     | 4.81  | 4.34   | 4.09   | 4.46    |
+| May      | 3.86  | 2.83   | 2.75   | 3.44    |
+| June     | 1.82  | 1.66   | 1.39   | 1.64    |
+| July     | 1.64  | 1.86   | 1.30   | 1.60    |
+| Aug.     | 2.60  | 1.93   | 1.54   | 1.99    |
+| Sept.    | 2.97  | 2.71   | 2.23   | 2.59    |
+| Oct.     | 3.21  | 3.65   | 3.36   | 2.91    |
+| Nov.     | 2.59  | 3.07   | 2.70   | 2.63    |
+| Dec.     | 5.23  | 4.78   | 3.96   | 5.29    |
+| Mean     | 3.36  | 3.27   | 2.87   | 3.34    |
+| St. Dev. | 2.69  | 1.86   | 1.68   | 2.50    |
+
+![](_page_7_Figure_1.jpeg)
+
+Figure 4. The full lines represent the mean (a) temperature profile, (b) salinity profile, (c) temperature-salinity curve, (d) zonal geostrophic current relative to 450 dbar in the studied region. The dashed lines in (a) and (d) denote the mean values ± one standard deviation. The crosses in (a) and (c) are from Levitus et al. [20] data.
+
+![](_page_8_Figure_1.jpeg)
+
+Figure 5. Mean monthly values (full lines) of (a) precipitation, (b) zonal wind pseudo-stress, (c) meridional wind pseudo-stress, (d) wind pseudo-stress vector, (e) sea surface temperature, (f) sea surface salinity, (g) 0/450 dbar dynamic height anomaly, (h) surface zonal geostrophic current relative to 450 dbar in the studied region. The dashed lines in each panel denote the twelve mean monthly values ± one monthly standard deviation. The crosses in each panel represent the twelve mean values reconstructed from an annual harmonic Fourier analysis. Units are (a) m yr<sup>-1</sup>; (b-d) m<sup>2</sup> s<sup>-2</sup> and in (d) the vector length for July equals 52 m<sup>2</sup> s<sup>-2</sup> directed to the NW; (e) °C, (g) cm; (h) cm s<sup>-1</sup> and positive eastward.
+
+and its distance from the region. During the austral summer, the SPCZ is close to Wallis, Futuna, and Samoa, and it induces the heaviest rains and the weakest winds. By contrast, during the austral winter, the strongest winds and the weakest rains are linked to the northernmost position of the SPCZ. The SSS presents high monthly standard deviations and weak seasonal variations which can, however, be associated with the atmospheric forcing. Maximum SSS are observed about three months after the period of strong wind and weak precipitation (i.e. maximum Evaporation-Precipitation difference), consistent with the fact that it is the time derivative of SSS which is related to E-P (see [6]). The SST has a 0.25 °C monthly standard deviation and an annual amplitude of about 1.5 °C which indicates a very regular seasonal cycle. The
+
+maximum SST appears three months behind the maximum sunlight intensity illustrating that SST increases as long as the intensity of sunlight is higher than its mean annual value, which is consistent with the results of [21].
+
+The seasonal variations below the surface are shown in figures 6a to b for temperature and zonal geostrophic current. In the 0-75 m layer, the temperature is quite homogeneous in winter (> 27.5 °C) while a seasonal thermocline appears in summer. The seasonal temperature variations are small below 75 m depth. Weak seasonal variations appear for zonal geostrophic current with minimum westward values in the middle of the year. No simple reason was found to explain such a current variability, which may in any case not be significant given the estimated error.
+
+![](_page_9_Figure_1.jpeg)
+
+Figure 6. Mean monthly values of (a) temperature (b) surface zonal geostrophic current relative to 450 dbar in the studied region. Units are (a) °C, (b) cm s<sup>-1</sup> and negative westward.
+
+## 5. THE SIGNATURE OF ENSO
+
+As noted in the previous section, the interannual variations are more significant than the seasonal variations for SSS and sea level, and they cannot be neglected for the other variables. We then look for the signature of ENSO in all variables by comparing the interannual anomalies and the SOI (also filtered with a 25-month Hanning fil-
+
+ter). The comparison is guided by lagged correlation analysis.
+
+The interannual anomalies of satellite-derived precipitation, zonal and meridional wind pseudo-stress components, wind pseudo-stress modulus, SST, SSS, sea level, and surface zonal geostrophic current are compared qualitatively to the SOI in *figures 7a* to h. The associated zero-lag and maximum correlations between each variable and the SOI are given in *table V* for a quantitative
+
+Table V. Simultaneous (R0) and maximum (Rlag) correlations at given lag (months) between the interannual anomalies of the eight variables defined in *table 1*, and the Southern Oscillation Index (SOI). A positive lag indicates that the SOI leads the anomalies. Numbers in italics are not significant at the 95 % confidence level.
+
+| Variable         | R0    | Rlag  | Lag |
+|------------------|-------|-------|-----|
+| SST              | -0.45 | -0.46 | -5  |
+| SSS              | -0.47 | -0.50 | +2  |
+| DH               | 0.13  | 0.58  | +8  |
+| Ug               | 0.02  | 0.16  | +5  |
+| _                |       | -0.52 | -12 |
+| P                | 0.36  | 0.36  | 0   |
+| $\tau^{\lambda}$ | 0.51  | 0.54  | +3  |
+| $\tau^{y}$       | -0.90 | -0.92 | +1  |
+| τ                | -0.55 | -0.56 | +2  |
+
+comparison. Assuming that one value per year can be regarded as independent, the correlations in excess of about 0.4 for SST and the wind, and 0.5 for the other variables are significant at the 95 % level. For simplicity, the discussion below is based on the anomalies observed during an El Niño event; unless otherwise stated, the reverse anomalies would occur during a La Niña event. The wind pseudo-stress anomalies (figures 7b to d), especially the meridional component (R > 0.9), are the variables best linked to the SOI, with a maximum correlation above 0.5 at almost zero-lag (the difference between zero-lag and best correlation is not statistically significant). This good agreement is consistent with the fact that the SOI is based on a surface pressure difference between two locations (Tahiti and Darwin), which roughly bracket the area of study. During an El Niño event (SOI < 0), we observe southeasterly wind pseudostress anomalies reflecting an above-average amplitude and a clockwise rotation of the wind pseudo-stress following the eastward displacement of the warm pool [25] as well as the migration of the SPCZ towards the equator [26]. It is interesting to note that there is a decreasing trend in the interannual anomalies of the zonal wind
+
+![](_page_10_Figure_1.jpeg)
+
+Figure 7. Interannual anomalies (full lines; left vertical axes) of (a) precipitation, (b) zonal wind pseudo-stress, (c) meridional wind pseudo-stress, (d) wind pseudo-stress module, (e) sea surface temperature, (f) sea surface salinity, (g) 0/450 dbar dynamic height anomaly quoted as sea level, (h) and surface zonal geostrophic current relative to 450 dbar in the studied region. Units are (a) m yr<sup>-1</sup>, (b-d) m<sup>2</sup> s<sup>-2</sup>, (e) °C, (g) cm, (h) cm s<sup>-1</sup> and positive eastward. The dashed lines in each panel denote the 25-month Hanning filtered Southern Oscillation Index scaled on the right vertical axis.
+
+pseudo-stress component and wind pseudo-stress modulus, as already noted and discussed for the equatorial Pacific [5]; such a trend is beyond the scope of this paper. Figure 7a indicates that the El Niño events prior to the
+
+Figure 7a indicates that the El Niño events prior to the 1990s are associated with a rainfall shortage of the order of  $0.4 \text{ m yr}^{-1}$ , consistent with the displacement of the SPCZ towards the equator. During these El Niño periods, below average precipitation anomalies combined with above normal wind pseudo-stress modulus (figure 7d), thus stronger evaporation, are consistent with a SSS increase of about 0.4 (figure 7f), as confirmed by the negative correlation (R = -0.5) between SSS and SOI. Interestingly, both the precipitation and SSS anomalies do not present a good phase agreement with the SOI during the 1991-94 El Niño events, although these anomalies are consistent with each other. This last point, discussed further in the conclusion, illustrates that not all El Niño events are associated with a regional rainfall deficit and above-normal SSS. The qualitative and quantitative com-
+
+parison (R<0.3) between interannual anomalies of in situ precipitation recorded at the four stations of *table III* and the SOI was inconclusive (figures not shown), even prior to the 1990s, precluding the possible effects of ENSO on in situ P changes.
+
+Figure 7e indicates that the interannual SST variations have a maximum amplitude of  $0.7\,^{\circ}\text{C}$  peak-to-peak, which is relatively weak compared to the seasonal variations. Visually, the SST and the SOI are not strongly linked, though the correlation analysis (R = -0.45) suggests a tendency for SST to be warmer than average during an El Niño event, i.e. with the same sign as the SST anomalies observed in the eastern equatorial Pacific where the strongest ENSO signal is observed. The weakness of the SST anomalies during El Niño may reflect the fact that the region belongs to the warm pool where the upper layer has a very warm, and thus stable temperature. This is consistent with the hint that SST anomalies are better linked to the SOI during La Niña events (SOI > 0;
+
+![](_page_11_Figure_1.jpeg)
+
+Figure 8. Top (a): Time versus depth distribution of the interannual temperature anomalies in the studied region. Contour intervals are 0.25 °C. Middle: 25-month Hanning filtered Southern Oscillation Index. Bottom (b): Time-lag versus depth distribution of correlation coefficients (×100) between the interannual temperature anomalies and the SOI; the values are positive when the anomalies lag behind the SOI. The dashed lines in (a) and (b) denote negative values.
+
+1974-1975, 1989) when the warm pool does not reach the region.
+
+The subsurface temperature anomalies and the associated time-lag correlations are displayed in figures 8a, b. The anomalies range within ±1 °C, and the maximum correlations occur between 50 and 400 m around +8 (R > 0.6) and -14 (R < -0.6) month lags. The location of positive correlation (R > 0.6) in figure 8b reflects that during the El Niño events prior to the 1990s, cold anomalies appear subsurface about eight months behind the SOI minimum. Once again, this does not appear to apply for the 1990s El Niño events. The 1983 cold anomalies are consistent with the upward movements of isotherms observed around 14° S, which resulted from the observed southward displacement of the anticyclonic gyre axis [6]. No definite explanation was found to account for the location of negative correlation (R < -0.6) in figure 8b: this may be an artefact of the calculation reflecting the quasi-periodicity of El Niño at about twice the duration in time between the strongest positive and negative correlations (8 + 14 months).
+
+Prior to the 1990s, the cold subsurface temperature anomalies (figure 8a), associated with near surface saltier water (figure 7f), resulted in below-normal sea level anomalies (figure 7g), reaching a peak eight months behind the SOI (table V). Interestingly, at the time of writing (August 1998), the TOPEX/Poseidon-derived sea level anomalies associated with the 1997-1998 El Niño are negative (figure 9), consistent with the 1982-1983 and 1987 El Niño events, reaching a minimum of about -25 cm which is the lowest recorded value since 1980. The zonal geostrophic current anomalies at the surface are displayed in figure 7h. A possible ENSO-related signal appears after the 1982-1983 El Niño with the occurrence of westward current anomaly following the event. From there, no obvious relationships exist between the surface anomalies and the SOI, and similar conclusions would hold for the subsurface anomalies (not shown here). It should be borne in mind, however, that the weakness of the ENSO-related signal in zonal current, as compared to its accuracy, precludes a definite conclusion regarding its link with ENSO.
+
+### 6. SUMMARY AND CONCLUSION
+
+This paper is based on the study of oceanic and atmospheric data collected between 1973 and 1995 in the southwestern tropical Pacific, within an area centred on Wallis, Futuna, and Samoa islands (13°-15° S, 180°-170° W). The climatic variables studied were surface wind pseudo-stress, precipitation, SST and 0-450 m temperature, SSS, sea level and 0-450 m geostrophic current. Following the presentation of mean structures, the analysis of seasonal changes underlined the link between the different variables. We showed, in particular, that seasonal changes in these variables depend directly on the seasonal variations of the large-scale climatic structures such as the SPCZ. The objective of this work was also to search for an ENSO signal in these variables. The comparison between interannual anomalies and the SOI revealed an influence of ENSO on the variables studied.
+
+Generally speaking, during the warm phase of ENSO (SOI < 0, El Niño), we observed saltier-than-average SSS (of the order of 0.4), consistent with a rainfall deficit (0.4 m yr<sup>-1</sup>), cold surface temperature anomalies also identified in subsurface (0.3 °C), a weak tendency for westward current anomalies (2 cm s<sup>-1</sup> at the surface), a sea level decrease (5-10 cm), together with easterly (5 m<sup>2</sup> s<sup>-2</sup>) and well marked southerly (10 m<sup>2</sup> s<sup>-2</sup>) wind pseudo-stress anomalies. Conversely, anomalies of similar magnitude but of opposite sign were detected during the cold phase of ENSO (SOI>0, La Niña). Obviously, a bit of caution is required in any attempt to generalise such anomalies to all El Niño and La Niña events. It is clear that the 1973-1995 record length is limited and includes only 4-5 El Niño and 2 La Niña events. Hence, the authors recognise the limitations in the interpretation of the results including the levels of statistical significance.
+
+Another possible limitation of the results concerns the relevance of the large-scale structure for analysing local anomalies, in particular for the atmospheric variables. As an example, it is worth noting that an ENSO signal was detected for satellite-derived precipitation averaged over the area of study (10° longitude by 2° latitude) but not for precipitation in the islands. This is probably the case for the wind near the islands due to possible orographic effects. Hence, some uncertainties remain here, and they need to be clarified for application purposes. This would require high resolution spatial sampling which is presently not available. The authors believe, however, that such a limitation probably does not apply to the oceanic variables. As a matter of fact, sensitivity tests were performed using both high resolution thermosalinograph (SST and SSS measurements every 1.5 km) and TOPEX/ Poseidon data (sea level measurements every 7 km). For these variables, the zonal and meridional decorrelation scales were found larger than the 10° longitude and
+
+![](_page_13_Figure_1.jpeg)
+
+Figure 9. Comparison between TOPEX/Poseidon-derived sea level anomalies (full line; left scale) and the Southern Oscillation Index (dashed line, right scale), in the studied region. Units are cm for sea level and the anomalies are relative to the November 1992—August 1998 period. Note the well-marked negative sea level anomalies by the end of the 1997–98 El Niño event.
+
+2° latitude of the area of study. Also, the standard deviation of the numerous TOPEX/Poseidon sea level measurements obtained in this area for a given month ranges between 2-3 cm, i.e. one order of magnitude smaller than the interannual changes (figure 9). These last results likely reflect that the area of study is mainly in the open ocean with very few emerged surfaces.
+
+It is interesting to point out that most variables, while being more or less related to the SOI prior to the 1990s, differ from the SOI during the 1991–1994 period. This period has been variously described as the longest El Niño event on record [33], as a succession of three El Niño events [15], or as being dominated by decadal variations [19]. Hence, the poor correlation between the regional anomalies and the SOI during the 1991–1994 period may reflect that other mechanisms than those usually attributed to ENSO were involved during that period. Such a hypothesis is consistent with basin-scale analysis of ocean data, as well as by the poor ability of previously successful dynamic models in predicting the 1991–1994 anomalies [15].
+
+The large-scale mechanisms involved in the regional climatic anomalies during El Niño events were identified as being: the eastward spreading of the warm pool, migration of the SPCZ towards the equator and its intensity, and the southward displacement of the south Pacific anticyclonic gyre. As a consequence, it appears that a study of regional ENSO effects cannot be conducted without a basic knowledge of the large-scale mechanisms involved.
+
+Hence, it would be appropriate to study the relationships between the SPCZ and the large-scale gyre displacements, as both structures are at the root of interannual variations in the southwest tropical Pacific. The SPCZ has a direct influence on wind intensity, direction and curl. It can modify the vertical movements of isotherms through Ekman pumping [6] which can result in a displacement of the anticyclonic gyre. Finally, as the data sets used in this study are available for the whole tropical Pacific, the same type of regional zoom can be done in other areas following a similar approach, as well as for the recent 1997–1998 event.
+
+# Acknowledgements
+
+The SST data were kindly provided by D. Reynolds from NOAA. The SSS data set represents the combined efforts of many ORSTOM colleagues involved in the ship-ofopportunity programs (buckets and thermosalinographs), and in particular owes much to J.R. Donguy and C. Hénin. The temperature profiles, derived mainly from XBT, and with additional CTD measurements, were collected at the TOGA Subsurface Data Centre in Brest. France, and provided by M.C. Fabri from IFREMER. The satellite-derived precipitation data were provided by P. Xie and P. Arkin from NOAA; the in situ precipitation data were provided by L. Maitrepierre from Météo-France in Nouméa. The wind measurements were obtained from J.J. O'Brien and colleagues from the Florida State University. The authors are very grateful for having had the opportunity to use all of these data. They would also like to thank anonymous reviewers for their constructive comments on an earlier version of this manuscript. For one of us (GA), this investigation is part of a Mémoire de Diplôme d'Études Approfondies de l'Université d'Aix Marseille II undertaken while visiting the ORSTOM Centre in Nouméa. Support from this Institute has been greatly appreciated. This work was supported by the "Regional P011" convention between the South Pacific Regional Environment Program (SPREP) and the IRD (ex ORSTOM) via the Caisse Française de Développement.
+
+# REFERENCES
+
+DEA, Sciences de la mer, Océanographie Physique, Centre ORSTOM de Nouméa, 1997, 45 p.
+
+<sup>[1]</sup> Alory G., Étude de l'environnement océanique et météorologique des îles Wallis, Futuna et Samoa, Mémoire de
+
+- [2] Barnston A., Ropelewski C., Prediction of ENSO episodes using canonical correlation analysis, J. Climate 5 (1992) 1316-1345.
+- [3] Basher R., Zheng X., Tropical cyclones in the south-west Pacific: spatial patterns and relationships to Southern Oscillation and sea surface temperature, J. Climate 8 (1995) 1249– 1260.
+- [4] Blackman R.B., Tukey J.W., The measurement of power spectra, Dover publications Inc., New York, 1958, 190 p.
+- [5] Clarke A., Lebedev A., Long-term changes in the equatorial Pacific trade winds, J. Climate 9 (1996) 1020-1029.
+- [6] Delcroix T., Hénin C., Mechanisms of subsurface thermal structure and sea surface thermohaline variabilities in the southwestern tropical Pacific during 1979-85, J. Mar. Res. 47 (1989) 777-812.
+- [7] Delcroix T., Hénin C., Seasonal and interannual variations of sea-surface salinity in the tropical Pacific Ocean, J. Geophys. Res. 96 (1991) 22135–22150.
+- [8] Delcroix T., Boulanger J.P., Masia M., Menkes C., GEOSATderived sea level and surface-current anomalies in the equatorial Pacific, during the 1986-89 El Niño and La Niña, J. Geophys. Res. 99 (1994) 25093-25107.
+- -[9] Delcroix T., Hénin C., Porte V., Arkin P., Precipitation and sea-surface salinity in the tropical Pacific Ocean, Deep-Sea Res, 43 (1996) 1123-1141.
+- [10] Delcroix T., Lenormand O., ENSO signals in the vicinity of New Caledonia, Oceanol. Acta 20 (1997) 481-491.
+- [11] Delcroix T., Observed surface oceanic and atmospheric variability in the tropical Pacific at seasonal and ENSO time scales: a tentative overview, J. Geophys. Res. 103 (1998) 18611–18633.
+- [12] Donguy J.R., Hénin C., Relations entre les précipitations et la salinité de surface dans l'océan Pacifique tropical sud-ouest basées sur un échantillonnage de surface de 1956 à 1973. Ann. Hydrogr. 4 (1976) 53-59.
+- [13] Emery W., Meincke J., Global water masses: summary and review, Oceanol. Acta 9 (1986) 383-391.
+- [14] Enfield D., Cid L., Low-frequency changes in El Niño Southern Oscillation, J. Climate 4 (1991) 1137-1146.
+- [15] Goddard L., Graham N., El Niño in the 1990s, J. Geophys. Res. 102 (1997) 10423-10436.
+- [16] Goldenberg S., O'Brien J.J., Time and space variability of tropical wind stress, Mon. Wea. Rev. 109 (1981) 1190-1207.
+- [17] Ji M., Leetmaa A., Kousky V.E., Coupled model forecasts of ENSO during the 1980s and 1990s at the National Meteorological Center, J. Climate 9 (in press).
+- [18] Hénin C., Grelet J., A merchant ship thermosalinograph network in the Pacific ocean. Deep-Sea Res. 11-12 (1996) 1833-1856.
+- [19] Latif M., Kleeman R., Eckert C., Greenhouse warming, decadal variability, or El Niño? An attempt to understand the anomalous 1990s, J. Geophys. Res. (1997) 2221-2239.
+
+- [20] Levitus S., Burgett R., Boyer T. P., World Ocean Atlas 1994, Volume 3, Salinity. NOAA Atlas, NESDIS 3, U.S. Dept. of Commerce, Washington, D.C. (1994), 97 p.
+- [21] Liu T., Zhang A., Bishop J., Evaporation and solar irradiance as regulators of sea surface temperature in annual and interannual changes, J. Geophys. Res. 99 (1994) 12623–12637.
+- [22] McPhaden M., and collaborators, The Tropical Ocean Global Atmosphere (TOGA) observing system: a decade of progress, J. Geophys. Res. 103 (1997) 14169-14240.
+- [23] Menkes C., Boulanger J.-P., Busalacchi A.J., Evaluation of TOPEX and basin-wide Tropical Ocean and Global Atmosphere-Tropical Atmosphere Ocean sea surface topographies and derived geostrophic currents, J. Geophys. Res. 100 (1996) 25087-25099.
+- [24] Morris M., Roemmich D., Cornuelle B, Observations of variability in the South Pacific Subtropical gyre, J. Phys. Oceanogr. 26 (1996) 2359–2380.
+- [25] Picaut J., Delcroix T., Equatorial wave sequence associated with the warm pool displacement during the 1986-1989 El Niño and La Niña, J. Geophys. Res. 100 (1995) 18398-18408.
+- [26] Rasmusson E., Carpenter T., Variations in tropical sea-surface temperature and surface wind fields associated with the southern oscillation/El Niño, Mon. Wea. Rev. 110 (1982) 354– 384.
+- [27] Rébert J.P., Donguy J.R., Eldin G., Wyrtki K., Relations between sea level, thermocline depth, heat content, and dynamic height in the tropical Pacific, J. Geophys. Res. 90 (1985) 11719-11725.
+- [28] Reynolds D., Smith T., Improved global sea surface temperature analyses using optimum interpolation, J. Climate 7 (1994) 929-948.
+- [29] Sprintall J., Roemmich D., Stanton B., Bailey R., Regional climate variability and ocean heat transport in the southwest Pacific ocean, J. Geophys. Res. 100 (1995) 15865-15871.
+- [30] Ropelewski C., Halpert M., Quantifying Southern Oscillationprecipitation relationships, J. Climate 9 (1996) 1043-1059.
+- [31] Trenberth K., Signal versus noise in the Southern Oscillation, Mon. Wea, Rev. 112 (1984) 326-332.
+- [32] Tsuchiya M., Upper waters of the intertropical Pacific ocean, Johns Hopkins Oceanographic Studies 4 (1968), 50 p.
+- [33] Trenberth K., Hoar T., The 1990-1995 El Niño-Southern Oscillation event: longest on record, Geophys. Res. Let. 23 (1996) 57-60.
+- [34] WCRP, Scientific plan for the TOGA Coupled Ocean-Atmosphere Response Experiment, World Climate Research Program publications series #3, addendum, January 1990.
+- [35] WCRP. CLIVAR: A study of climate variability and predictability, science plan, World Climate Research Program publications series #89, August 1995.
+- [36] Xie P., Arkin P., Analyses of global monthly precipitation using gauge observations, satellite estimates, and numerical model predictions. J. Climate 9 (1996) 840-858.

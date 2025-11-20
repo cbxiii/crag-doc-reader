@@ -1,0 +1,1256 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Remote Sensing of Environment",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          199.162109375,
+          86.4560546875
+        ],
+        [
+          401.01953125,
+          86.4560546875
+        ],
+        [
+          401.01953125,
+          101.40435791015625
+        ],
+        [
+          199.162109375,
+          101.40435791015625
+        ]
+      ]
+    },
+    {
+      "title": "Fluid lensing and machine learning for centimeter-resolution airborne\nassessment of coral reefs in American Samoa",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          37.25,
+          164.3828125
+        ],
+        [
+          458.640625,
+          164.3828125
+        ],
+        [
+          458.640625,
+          196.5299072265625
+        ],
+        [
+          37.25,
+          196.5299072265625
+        ]
+      ]
+    },
+    {
+      "title": "ARTICLE INFO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.212890625,
+          263.6328125
+        ],
+        [
+          111.84512329101562,
+          263.6328125
+        ],
+        [
+          111.84512329101562,
+          273.34326171875
+        ],
+        [
+          35.212890625,
+          273.34326171875
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          203.13059997558594,
+          265.18359375
+        ],
+        [
+          257.2578125,
+          265.18359375
+        ],
+        [
+          257.2578125,
+          273.34326171875
+        ],
+        [
+          203.13059997558594,
+          273.34326171875
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          37.25,
+          575.7275390625
+        ],
+        [
+          96.77729797363281,
+          575.7275390625
+        ],
+        [
+          96.77729797363281,
+          586.2395324707031
+        ],
+        [
+          37.25,
+          586.2395324707031
+        ]
+      ]
+    },
+    {
+      "title": "1.1. Remote sensing & mapping of coral reefs",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          37.59062576293945,
+          498.18847656249994
+        ],
+        [
+          191.32302856445312,
+          498.18847656249994
+        ],
+        [
+          191.32302856445312,
+          506.71777343749994
+        ],
+        [
+          37.59062576293945,
+          506.71777343749994
+        ]
+      ]
+    },
+    {
+      "title": "1.2. Novel contributions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          305.857421875,
+          529.2041015625
+        ],
+        [
+          388.5425720214844,
+          529.2041015625
+        ],
+        [
+          388.5425720214844,
+          538.0501251220703
+        ],
+        [
+          305.857421875,
+          538.0501251220703
+        ]
+      ]
+    },
+    {
+      "title": "1.3. Airborne fluid lensing and 3D Cm-scale aquatic remote sensing without\nocean wave distortion",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.8203125,
+          686.6083984375
+        ],
+        [
+          557.6080932617188,
+          686.6083984375
+        ],
+        [
+          557.6080932617188,
+          705.4059600830078
+        ],
+        [
+          303.8203125,
+          705.4059600830078
+        ]
+      ]
+    },
+    {
+      "title": "1.4. 3D aquatic ecosystem assessment",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          305.857421875,
+          581.9306640625
+        ],
+        [
+          434.8070373535156,
+          581.9306640625
+        ],
+        [
+          434.8070373535156,
+          590.4599609375
+        ],
+        [
+          305.857421875,
+          590.4599609375
+        ]
+      ]
+    },
+    {
+      "title": "1.5. Machine learning for coral reef mapping",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          36.66796875,
+          696.6884765625
+        ],
+        [
+          190.2812957763672,
+          696.6884765625
+        ],
+        [
+          190.2812957763672,
+          705.4091949462891
+        ],
+        [
+          36.66796875,
+          705.4091949462891
+        ]
+      ]
+    },
+    {
+      "title": "2. Methods",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          306.6015930175781,
+          369.861328125
+        ],
+        [
+          350.2256774902344,
+          369.861328125
+        ],
+        [
+          350.2256774902344,
+          380.2106018066406
+        ],
+        [
+          306.6015930175781,
+          380.2106018066406
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Airborne fluid lensing American Samoa field campaign & dataset",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          305.56640625,
+          612.9462890625
+        ],
+        [
+          542.104248046875,
+          612.9462890625
+        ],
+        [
+          542.104248046875,
+          621.7291564941406
+        ],
+        [
+          305.56640625,
+          621.7291564941406
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Ground truth reference map creation through manual segmentation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          36.0859375,
+          529.2041015625
+        ],
+        [
+          279.4351806640625,
+          529.2041015625
+        ],
+        [
+          279.4351806640625,
+          538.0513763427734
+        ],
+        [
+          36.0859375,
+          538.0513763427734
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Supervised machine learning algorithm for automated percent coral\ncover & coral morphology segmentation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          303.8203125,
+          571.462890625
+        ],
+        [
+          549.2415771484375,
+          571.462890625
+        ],
+        [
+          549.2415771484375,
+          590.3167877197266
+        ],
+        [
+          303.8203125,
+          590.3167877197266
+        ]
+      ]
+    },
+    {
+      "title": "2.4. Experimental and generalized classification error assessment",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          304.7556675062972,
+          534.5816808309726
+        ],
+        [
+          527.3203125,
+          534.5816808309726
+        ],
+        [
+          527.3203125,
+          543.9365234375
+        ],
+        [
+          304.7556675062972,
+          543.9365234375
+        ]
+      ]
+    },
+    {
+      "title": "3. Results",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          36.376953125,
+          108.55468749999999
+        ],
+        [
+          76.29469299316406,
+          108.55468749999999
+        ],
+        [
+          76.29469299316406,
+          116.82196044921875
+        ],
+        [
+          36.376953125,
+          116.82196044921875
+        ]
+      ]
+    },
+    {
+      "title": "4. Discussion",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          305.275390625,
+          348.92578125
+        ],
+        [
+          358.0798645019531,
+          348.92578125
+        ],
+        [
+          358.0798645019531,
+          357.3690490722656
+        ],
+        [
+          305.275390625,
+          357.3690490722656
+        ]
+      ]
+    },
+    {
+      "title": "5. Conclusions",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          306.5998840332031,
+          299.30078125
+        ],
+        [
+          363.470458984375,
+          299.30078125
+        ],
+        [
+          363.470458984375,
+          307.86968994140625
+        ],
+        [
+          306.5998840332031,
+          307.86968994140625
+        ]
+      ]
+    },
+    {
+      "title": "Declaration of competing interest",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          36.376953125,
+          298.525390625
+        ],
+        [
+          166.169921875,
+          298.525390625
+        ],
+        [
+          166.169921875,
+          307.87481689453125
+        ],
+        [
+          36.376953125,
+          307.87481689453125
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          36.0859375,
+          372.962890625
+        ],
+        [
+          111.35320281982422,
+          372.962890625
+        ],
+        [
+          111.35320281982422,
+          381.1217346191406
+        ],
+        [
+          36.0859375,
+          381.1217346191406
+        ]
+      ]
+    },
+    {
+      "title": "Appendix A. Supplementary data",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          36.0859375,
+          538.5087890625
+        ],
+        [
+          165.1847381591797,
+          538.5087890625
+        ],
+        [
+          165.1847381591797,
+          548.4767303466797
+        ],
+        [
+          36.0859375,
+          548.4767303466797
+        ]
+      ]
+    },
+    {
+      "title": "Author contributions",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          36.0859375,
+          591.2353515625
+        ],
+        [
+          117.95492553710938,
+          591.2353515625
+        ],
+        [
+          117.95492553710938,
+          600.8043365478516
+        ],
+        [
+          36.0859375,
+          600.8043365478516
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          35.794921875,
+          684.2822265625
+        ],
+        [
+          78.75667572021484,
+          684.2822265625
+        ],
+        [
+          78.75667572021484,
+          694.9133377075195
+        ],
+        [
+          35.794921875,
+          694.9133377075195
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          389
+        ],
+        [
+          "Line",
+          128
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          302
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          87
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          285
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          131
+        ],
+        [
+          "Span",
+          99
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Code",
+          2
+        ],
+        [
+          "Equation",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          85
+        ],
+        [
+          "Span",
+          64
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          289
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          188
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          304
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          414
+        ],
+        [
+          "Line",
+          144
+        ],
+        [
+          "ListItem",
+          34
+        ],
+        [
+          "Reference",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          263
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "ListItem",
+          30
+        ],
+        [
+          "Reference",
+          28
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Chirayath and Instreela 2019 airborne assessment coral reefs"
+}

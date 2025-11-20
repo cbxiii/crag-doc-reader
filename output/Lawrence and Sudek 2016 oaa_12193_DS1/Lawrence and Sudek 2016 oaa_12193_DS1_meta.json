@@ -1,0 +1,514 @@
+{
+  "table_of_contents": [
+    {
+      "title": "American Samoa Territorial Monitoring Program Manu'a Reef Flat Baseline Surveys, February 2015.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.375,
+          74.18145751953125
+        ],
+        [
+          553.5078125,
+          74.18145751953125
+        ],
+        [
+          553.5078125,
+          86.15869140625
+        ],
+        [
+          57.375,
+          86.15869140625
+        ]
+      ]
+    },
+    {
+      "title": "Reef Fish Survey Results",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          54.0,
+          73.96868896484375
+        ],
+        [
+          164.24429321289062,
+          73.96868896484375
+        ],
+        [
+          164.24429321289062,
+          84.98760986328125
+        ],
+        [
+          54.0,
+          84.98760986328125
+        ]
+      ]
+    },
+    {
+      "title": "Benthic Survey Results",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          54.0,
+          347.66015625
+        ],
+        [
+          157.74317932128906,
+          347.66015625
+        ],
+        [
+          157.74317932128906,
+          359.0675964355469
+        ],
+        [
+          54.0,
+          359.0675964355469
+        ]
+      ]
+    },
+    {
+      "title": "Fish Survey Data Summary",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          54.0,
+          73.96868896484375
+        ],
+        [
+          176.30859375,
+          73.96868896484375
+        ],
+        [
+          176.30859375,
+          84.98760986328125
+        ],
+        [
+          54.0,
+          84.98760986328125
+        ]
+      ]
+    },
+    {
+      "title": "Benthic Survey Data Summary",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.490234375,
+          358.8486633300781
+        ],
+        [
+          192.41290283203125,
+          358.8486633300781
+        ],
+        [
+          192.41290283203125,
+          369.8675842285156
+        ],
+        [
+          53.490234375,
+          369.8675842285156
+        ]
+      ]
+    },
+    {
+      "title": "List of appendices",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.19140625,
+          645.3815155029297
+        ],
+        [
+          143.01564025878906,
+          645.3815155029297
+        ],
+        [
+          143.01564025878906,
+          657.3587188720703
+        ],
+        [
+          53.19140625,
+          657.3587188720703
+        ]
+      ]
+    },
+    {
+      "title": "Appendix 1: Survey Site GPS coordinates",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.7890625,
+          74.18145751953125
+        ],
+        [
+          252.28089904785156,
+          74.18145751953125
+        ],
+        [
+          252.28089904785156,
+          86.15869140625
+        ],
+        [
+          53.7890625,
+          86.15869140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          14
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "TableCell",
+          124
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          849
+        ],
+        [
+          "TableCell",
+          366
+        ],
+        [
+          "Line",
+          178
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          284
+        ],
+        [
+          "TableCell",
+          145
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          27
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Caption",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "PictureGroup",
+          4
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Lawrence and Sudek 2016 oaa_12193_DS1"
+}
