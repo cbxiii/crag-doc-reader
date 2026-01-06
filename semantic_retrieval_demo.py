@@ -162,10 +162,10 @@ def main():
 
     # Batch-run queries from JSON and synthesize responses
     if index is not None and len(sentences) > 0:
-        queries_path = Path("queries/coral_queries.json")
+        queries_path = Path("queries/chatgpt_queries.json")
         OUTPUT_DIR = Path("responses")
         OUTPUT_DIR.mkdir(exist_ok=True)
-        out_path = OUTPUT_DIR / "query_responses.json"
+        out_path = OUTPUT_DIR / "chatgpt_query_responses.json"
         responses = []
 
         try:
