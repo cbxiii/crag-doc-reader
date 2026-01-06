@@ -107,7 +107,7 @@ def split_into_sentences(text: str, file_path: str, file_title: str) -> List[Sen
 
 
 # Storage paths
-STORAGE_DIR = Path("vector_store_2")
+STORAGE_DIR = Path("vector_store")
 STORAGE_DIR.mkdir(exist_ok=True)
 
 EMBEDDINGS_FILE = STORAGE_DIR / "embeddings.npy"
@@ -205,13 +205,14 @@ def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]
     ])
 
     prompt = f"""Based on the following context, answer the question. Be specific and cite sources.
+            Answer like an established expert who has been researching this topic for 20+ years.
 
-Context:
-{context}
+            Context:
+            {context}
 
-Question: {query}
+            Question: {query}
 
-Answer:"""
+            Answer:"""
 
     try:
         response = ollama.generate(model=model, prompt=prompt)
@@ -290,29 +291,63 @@ def main():
 
         print(f"✓ Processed and saved. Total: {len(sentences)} sentences from {len(processed_files)} files")
 
-    # Example search + synthesize
+    # Batch-run queries from JSON and synthesize responses
     if index is not None and len(sentences) > 0:
-        query = "What is the definition of an algal turf?"
-        results = search(index, sentences, query, top_k=5)
+        queries_path = Path("queries/coral_queries.json")
+        out_path = STORAGE_DIR / "query_responses.json"
+        responses = []
 
-        print(f"Query: {query}\n")
-        print("Top 5 Results:")
-        print("=" * 60)
+        try:
+            with open(queries_path, 'r', encoding='utf-8') as qf:
+                queries_obj = json.load(qf)
+        except Exception as e:
+            print(f"Error loading queries file {queries_path}: {e}")
+            queries_obj = []
 
-        for i, (sentence, score) in enumerate(results, 1):
-            print(f"{i}. Score: {score:.4f} | File: {sentence.file_title}")
-            print(f"   Section: {sentence.section_header}")
-            print(f"   Text: {sentence.text[:120]}...")
-            print()
+        import time
 
-        # Synthesize answer
-        model = "llama3.2:3b"
-        answer = synthesize_answer(query, results, model)
+        for idx, item in enumerate(queries_obj, 1):
+            qtext = item['query'] if isinstance(item, dict) and 'query' in item else (item if isinstance(item, str) else "")
+            if not qtext:
+                continue
 
-        print("Answer:")
-        print("=" * 60)
-        print(answer)
-        print("=" * 60)
+            print(f"[{idx}/{len(queries_obj)}] Query: {qtext}")
+
+            try:
+                results = search(index, sentences, qtext, top_k=5)
+            except Exception as e:
+                print(f"Search error for query: {e}")
+                responses.append({"query": qtext, "error": str(e)})
+                continue
+
+            for i, (sentence, score) in enumerate(results, 1):
+                print(f"{i}. Score: {score:.4f} | File: {sentence.file_title} | Section: {sentence.section_header}")
+
+            model = "llama3.2:3b"
+            try:
+                answer = synthesize_answer(qtext, results, model)
+            except Exception as e:
+                answer = f"Error during synthesis: {e}"
+
+            responses.append({
+                "query": qtext,
+                "response": answer,
+                "top_results": [
+                    {"text": s.text, "file_title": s.file_title, "section_header": s.section_header, "score": score}
+                    for s, score in results
+                ]
+            })
+
+            # brief pause to avoid hammering LLM/embedding service
+            time.sleep(1)
+
+        try:
+            with open(out_path, 'w', encoding='utf-8') as outf:
+                json.dump(responses, outf, indent=2, ensure_ascii=False)
+            print(f"Saved {len(responses)} query responses to {out_path}")
+        except Exception as e:
+            print(f"Error saving responses to {out_path}: {e}")
+
     else:
         print("No index or sentences available for search/synthesis.")
 
