@@ -7,7 +7,7 @@ Features:
 - Generate embeddings using Qwen3-Embedding via Ollama
 - Store embeddings in FAISS for fast similarity search
 - Perform semantic search with cosine similarity
-- Synthesize answers using an LLM
+- Synthesize answers using an LLM (Llama3.2)
 
 Note: This file is intended as a runnable script; adjust model names, installation,
 and local Ollama / FAISS configuration as needed for your environment.
@@ -28,7 +28,7 @@ import nltk
 
 # Download NLTK punkt tokenizer non-interactively (quiet)
 nltk.download('punkt', quiet=True)
-
+nltk.download('punkt_tab', quiet=True)
 
 @dataclass
 class SentenceWithSource:
