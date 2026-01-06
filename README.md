@@ -1,162 +1,97 @@
-# CRAG Document Reader
 
-A comprehensive PDF processing and OCR toolkit that extracts embedded images, converts pages to high-resolution images, preprocesses them with OpenCV, and performs OCR using Tesseract.
+# CRAG Document Reader — CRAG RAG Toolkit
 
-## Features
+This repository contains tools used to build a retrieval-augmented generation (RAG) system over the CRAG library (American Samoan coral reef research). The codebase focuses on extracting text and images from legacy reports and PDFs, preprocessing and chunking the content, creating embeddings, storing them in a vector store, and building a retriever + generation pipeline for question answering and summarization.
 
-- **Load PDFs** with PyMuPDF (fitz)
-- **Extract embedded images** at high quality
-- **Render PDF pages** to high-resolution images (configurable DPI)
-- **Image preprocessing** with OpenCV:
-  - Deskewing (automatic rotation correction)
-  - Binarization (adaptive thresholding)
-  - Denoising and cleanup
-- **OCR text extraction** using Tesseract
-- **Batch processing** support
-- **Multiple language** support for OCR
+**This README now documents the current scripts, the end-to-end RAG build process, and quick usage examples.**
 
-## Quick Start
+**Repository Snapshot:**
+- **Files & artifacts:** [README.md](README.md), [extract_markdown.py](extract_markdown.py), [extract_metadata.py](extract_metadata.py), [describe_images.py](describe_images.py), [text_split.py](text_split.py), [semantic_retrieval_demo.py](semantic_retrieval_demo.py), `semantic_retrieval_demo.ipynb`, [summarize.py](summarize.py), [summaries.json](summaries.json), [image_descriptions.json](image_descriptions.json), [paper_metadata.json](paper_metadata.json), [requirements.txt](requirements.txt), [test_installation.py](test_installation.py), [test_torch.py](test_torch.py).
+- **Data folders:** `output/` (source PDFs and processed outputs), `vector_store/` (persisted embeddings), `queries/` (e.g., `queries/coral_queries.json`).
 
-### 1. Install Dependencies
+**High-level goals:**
+- Ingest historical CRAG PDFs and reports.
+- Extract and normalize text and image metadata.
+- Chunk and embed content for semantic search.
+- Build a retriever that provides grounded context to an LLM for accurate answers and summaries.
 
+**How the RAG system was built — step-by-step**
+
+**1. Collection & organization**
+- **Source files:** Place PDF reports and related files under `output/`. This repository contains many pre-collected reports from CRAG, organized by year and study in subfolders.
+
+**2. Text and metadata extraction**
+- **Script:** [extract_markdown.py](extract_markdown.py) (uses marker-pdf)
+- **What it does:** Uses marker-pdf-based extraction to pull full document content (text, captions, embedded images and basic layout) into markdown and associated image files. This single-step extractor is the primary way we ingest the historical CRAG PDFs.
+- **Supporting scripts:** [extract_metadata.py](extract_metadata.py) pulls bibliographic metadata into `paper_metadata.json` and [describe_images.py](describe_images.py) generates `image_descriptions.json` describing figures and plates detected in the extracted output.
+
+**3. OCR and image preprocessing**
+- **Tools used:** Tesseract (system dependency), `opencv-python`, and Pillow for cleaning and deskewing where necessary.
+- **Why:** Many legacy reports are scans; preprocessing improves OCR accuracy. See `test_installation.py` to verify Tesseract and basic libs.
+
+**4. Text cleaning & chunking**
+- **Script:** [text_split.py](text_split.py)
+- **Process:** Normalize whitespace, remove scanner artifacts, optionally keep figure captions with paragraphs. Split long pages into overlapping chunks (e.g., 500–1000 tokens with 50–200 token overlap) suitable for embedding and retrieval.
+
+**5. Embeddings & vector store**
+- **Vector store directory:** `vector_store/` — persisted embeddings and metadata.
+- **Embedding options:** The project is model-agnostic; you can use OpenAI embeddings, Cohere, or local sentence-transformers (Hugging Face). The demo code supports swapping providers in `semantic_retrieval_demo.py`.
+- **Typical flow:** For each chunk produced by `text_split.py`, create an embedding vector, and store the tuple (vector, chunk_text, source_id, page, chunk_index, metadata) in the vector store (FAISS, Chroma, or cloud services like Pinecone/Weaviate).
+
+**6. Retriever & RAG pipeline**
+- **Script / demo:** [semantic_retrieval_demo.py](semantic_retrieval_demo.py) and `semantic_retrieval_demo.ipynb`.
+- **Pattern:** Given a question, the retriever finds the top-k semantically similar chunks. Those chunks are formatted into a context prompt (include citations: file and page) and sent with a user prompt to an LLM to generate grounded answers or summaries.
+- **Prompt engineering:** Use short system instructions to ask the model to cite sources, prefer in-context evidence, and avoid hallucination. Optionally apply a reranker step to reorder retrieved chunks by exact-match signals.
+
+**7. Post-processing, aggregation & outputs**
+- **Summaries:** Use [summarize.py](summarize.py) to create consolidated summaries and store results in `summaries.json`.
+- **Queries & benchmarks:** `queries/coral_queries.json` contains example queries used to validate retrieval quality.
+
+**8. Iterate & evaluate**
+- Run sample queries, inspect retrieved snippets and LLM answers, adjust chunk sizes, embedding model, and prompt templates.
+- Store curated Q/A examples and adjust retrieval parameters (k, score threshold, reranker) as needed.
+
+**Quick usage examples**
+
+- **Install Python deps:**
 ```bash
-# Install Python packages
 pip install -r requirements.txt
 ```
 
-**IMPORTANT:** You must also install Tesseract OCR engine separately! See [INSTALLATION_GUIDE.md](INSTALLATION_GUIDE.md) for detailed instructions.
-
-### 2. Test Your Installation
-
+- **Verify installation & Tesseract:**
 ```bash
 python test_installation.py
 ```
+(On macOS: `brew install tesseract` if not installed.)
 
-This will verify that all packages and Tesseract are properly installed.
 
-### 3. Run the OCR Processor
-
-**Interactive mode:**
+- **Run metadata and markdown extraction (example):**
 ```bash
-python pdf_ocr_processor.py
+python extract_metadata.py --input output/1998_report/ --out-file paper_metadata.json
+python extract_markdown.py --input output/1998_report/ --out-file extracted_markdown.md
 ```
 
-**Programmatic use:**
-```python
-from pdf_ocr_processor import PDFOCRProcessor
-
-processor = PDFOCRProcessor("your_file.pdf", "output")
-processor.load_pdf()
-processor.extract_embedded_images()
-results = processor.process_all_pages(dpi=300, lang='eng')
-processor.close()
-```
-
-See [example_usage.py](example_usage.py) for more examples.
-
-## Files
-
-- **`pdf_ocr_processor.py`** - Main OCR processor class with all functionality
-- **`example_usage.py`** - Example scripts showing programmatic usage
-- **`test_installation.py`** - Verify all dependencies are installed correctly
-- **`file_checker.py`** - Quick utility to check if a PDF needs OCR
-- **`INSTALLATION_GUIDE.md`** - Detailed installation instructions
-- **`requirements.txt`** - Python package dependencies
-
-## Installation Requirements
-
-### Python Packages (via pip)
-- `pymupdf` - PDF manipulation
-- `opencv-python` - Image processing
-- `numpy` - Numerical operations
-- `pytesseract` - Python wrapper for Tesseract
-- `Pillow` - Image handling
-
-### System Requirements
-- **Tesseract OCR Engine** - Must be installed separately!
-  - **Windows:** Download from [UB-Mannheim/tesseract](https://github.com/UB-Mannheim/tesseract/wiki)
-  - **macOS:** `brew install tesseract`
-  - **Linux:** `sudo apt-get install tesseract-ocr`
-
-See [INSTALLATION_GUIDE.md](INSTALLATION_GUIDE.md) for complete instructions.
-
-## Usage Examples
-
-### Check if a PDF needs OCR
+- **Chunk text & build embeddings (example):**
 ```bash
-python file_checker.py
+python text_split.py --input extracted_markdown.md --chunks-dir chunks/
+# then run your embedding pipeline over files in chunks/ and persist to vector_store/
 ```
 
-### Process a single PDF
+- **Start the semantic retrieval demo:**
 ```bash
-python pdf_ocr_processor.py
+python semantic_retrieval_demo.py
 ```
+Or open and run `semantic_retrieval_demo.ipynb` to interactively explore queries.
 
-### Process programmatically
-```python
-from pdf_ocr_processor import PDFOCRProcessor
+**Where outputs live**
+- `vector_store/` — persisted embeddings and metadata for retrieval.
+- `responses/` - responses that the model generated for queries
+- `summaries.json`, `image_descriptions.json`, `paper_metadata.json` — processed artifacts produced by the pipeline.
 
-# Process entire PDF
-processor = PDFOCRProcessor("document.pdf", "output")
-processor.load_pdf()
-processor.extract_embedded_images()
-results = processor.process_all_pages(dpi=300, lang='eng')
-processor.close()
+**Notes & recommendations**
+- Keep raw PDFs in `output/` and keep processed artifacts under distinct folders per document to simplify provenance.
+- If using cloud embedding services, secure API keys via environment variables and do not commit them.
+- For local setups, `sentence-transformers` is a good option to avoid API costs; FAISS is a fast local vector index.
 
-# Access results
-for result in results:
-    print(f"Page {result['page_num']}: {len(result['text'])} characters")
-```
-
-## Output Structure
-
-When processing a PDF, the following directory structure is created:
-
-```
-output/
-├── extracted_images/          # Embedded images from PDF
-│   ├── page1_img1.png
-│   └── page1_img2.jpg
-├── page_images/               # Original rendered pages
-│   ├── page_1_original.png
-│   └── page_2_original.png
-├── processed_images/          # Preprocessed pages (deskewed, cleaned)
-│   ├── page_1_processed.png
-│   └── page_2_processed.png
-├── page_1_text.txt           # Extracted text per page
-├── page_2_text.txt
-└── all_pages_text.txt        # Combined text from all pages
-```
-
-## Configuration Options
-
-- **DPI:** Higher DPI (e.g., 400-600) gives better OCR accuracy but slower processing (default: 300)
-- **Language:** Specify OCR language code (default: 'eng')
-  - Spanish: `lang='spa'`
-  - French: `lang='fra'`
-  - German: `lang='deu'`
-  - Multiple: `lang='eng+spa'`
-
-## Troubleshooting
-
-### "TesseractNotFoundError"
-Tesseract OCR engine is not installed or not in PATH. See [INSTALLATION_GUIDE.md](INSTALLATION_GUIDE.md).
-
-### Poor OCR results
-- Increase DPI (try 400 or 600)
-- Check if the PDF is very low quality
-- Install appropriate language packs for non-English documents
-
-### Import errors
-Run `pip install -r requirements.txt` to ensure all Python packages are installed.
-
-## Performance Notes
-
-- Processing time: ~5-15 seconds per page (depending on hardware and DPI)
-- DPI 300: Good balance of quality and speed
-- DPI 600: Better accuracy, 4x slower
-- Memory usage: ~100-500MB per page at 300 DPI
-
-## License
-
-See LICENSE file for details.
+---
+Updated to reflect the current codebase and to document the step-by-step RAG build process for the CRAG corpus.

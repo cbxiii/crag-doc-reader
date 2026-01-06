@@ -294,7 +294,9 @@ def main():
     # Batch-run queries from JSON and synthesize responses
     if index is not None and len(sentences) > 0:
         queries_path = Path("queries/coral_queries.json")
-        out_path = STORAGE_DIR / "query_responses.json"
+        OUTPUT_DIR = Path("responses")
+        OUTPUT_DIR.mkdir(exist_ok=True)
+        out_path = OUTPUT_DIR / "query_responses.json"
         responses = []
 
         try:
