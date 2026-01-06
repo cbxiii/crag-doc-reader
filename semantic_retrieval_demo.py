@@ -26,142 +26,11 @@ import numpy as np
 import faiss
 import nltk
 
-# Download NLTK punkt tokenizer non-interactively (quiet)
-nltk.download('punkt', quiet=True)
-nltk.download('punkt_tab', quiet=True)
-
-@dataclass
-class SentenceWithSource:
-    """Container for a sentence with its source information"""
-    text: str
-    file_path: str
-    file_title: str  # MD file title for tracking
-    line_number: int
-    section_header: str = ""
-
-
-def get_embedding(text: str, model: str = "qwen3-embedding:8b") -> np.ndarray:
-    """Get embedding vector for text using Ollama
-
-    Args:
-        text (str): The text to generate an embedding for
-        model (str, optional): The model to use. Defaults to "qwen3-embedding:8b".
-
-    Returns:
-        np.ndarray: The embedding vector (float32) or None on error
-    """
-    try:
-        response = ollama.embeddings(model=model, prompt=text)
-        return np.array(response['embedding'], dtype=np.float32)
-    except Exception as e:
-        print(f"Error getting embedding: {e}")
-        return None
-
-
-def split_into_sentences(text: str, file_path: str, file_title: str) -> List[SentenceWithSource]:
-    """Split text into sentences while tracking source information
-
-    Args:
-        text (str): The text to split into sentences
-        file_path (str): The path to the file the text is from
-        file_title (str): The title of the file
-
-    Returns:
-        List[SentenceWithSource]: A list of sentences with source information
-    """
-    sentences_with_source = []
-    lines = text.split('\n')
-    current_section = ""
-
-    for line_num, line in enumerate(lines, 1):
-        line = line.strip()
-        if not line:
-            continue
-
-        # Track section headers
-        if line.startswith('#'):
-            current_section = line.strip('#').strip()
-            continue
-
-        # Skip tables, images, and short lines
-        if '|' in line or line.startswith('---') or line.startswith('![]') or line.startswith('Fig.'):
-            continue
-
-        # Split into sentences
-        sentences = nltk.sent_tokenize(line)
-
-        for sentence in sentences:
-            sentence = sentence.strip()
-            if len(sentence) > 20:  # Filter short sentences
-                sentences_with_source.append(
-                    SentenceWithSource(
-                        text=sentence,
-                        file_path=file_path,
-                        file_title=file_title,
-                        line_number=line_num,
-                        section_header=current_section,
-                    )
-                )
-
-    return sentences_with_source
-
-
-# Storage paths
-STORAGE_DIR = Path("vector_store")
-STORAGE_DIR.mkdir(exist_ok=True)
-
-EMBEDDINGS_FILE = STORAGE_DIR / "embeddings.npy"
-FAISS_INDEX_FILE = STORAGE_DIR / "index.faiss"
-METADATA_FILE = STORAGE_DIR / "metadata.json"
-
-print(f"Storage directory: {STORAGE_DIR.absolute()}")
-
-
-def load_existing_data():
-    """Load existing embeddings, index, and metadata if they exist
-
-    Returns:
-        Tuple[List[SentenceWithSource], np.ndarray, faiss.Index, set]: sentences, embeddings, index, processed_files
-    """
-    if METADATA_FILE.exists():
-        with open(METADATA_FILE, 'r', encoding='utf-8') as f:
-            metadata = json.load(f)
-
-        embeddings = np.load(EMBEDDINGS_FILE) if EMBEDDINGS_FILE.exists() else None
-        index = faiss.read_index(str(FAISS_INDEX_FILE)) if FAISS_INDEX_FILE.exists() else None
-
-        # Reconstruct sentences from metadata
-        sentences = [SentenceWithSource(**item) for item in metadata['sentences']]
-        processed_files = set(metadata.get('processed_files', []))
-
-        print(f"Loaded {len(sentences)} sentences from {len(processed_files)} files")
-        return sentences, embeddings, index, processed_files
-
-    return [], None, None, set()
-
-
-def save_data(sentences: List[SentenceWithSource], embeddings: np.ndarray, index: faiss.Index, processed_files: set, model: str = "qwen3-embedding:8b"):
-    """Save embeddings, FAISS index, and metadata"""
-    # Save embeddings
-    np.save(EMBEDDINGS_FILE, embeddings)
-
-    # Save FAISS index
-    faiss.write_index(index, str(FAISS_INDEX_FILE))
-
-    # Save metadata
-    metadata = {
-        'sentences': [asdict(s) for s in sentences],
-        'processed_files': list(processed_files),
-        'embedding_model': model,
-        'dimension': embeddings.shape[1],
-        'total_sentences': len(sentences),
-    }
-
-    with open(METADATA_FILE, 'w', encoding='utf-8') as f:
-        json.dump(metadata, f, indent=2)
-
-    print(f"Saved {len(sentences)} sentences, embeddings, and FAISS index")
-
+from vector_store_utils import (
+    SentenceWithSource,
+    get_embedding,
+    load_existing_data,
+)
 
 def search(index: faiss.Index, sentences: List[SentenceWithSource], query: str, top_k: int = 5) -> List[Tuple[SentenceWithSource, float]]:
     """Search for most similar sentences to query
@@ -226,70 +95,70 @@ def main():
     sentences, embeddings, index, processed_files = load_existing_data()
     print(f"Previously processed files: {processed_files}")
 
-    # Specify MD file to process
-    md_file_path = r"output/Dahl-1972-Ecology.reef.algae.AS/Dahl-1972-Ecology.reef.algae.AS.md"
-    file_path = Path(md_file_path).resolve()
-    file_title = file_path.stem  # Use filename without extension as title
+    # # Specify MD file to process
+    # md_file_path = r"output/Dahl-1972-Ecology.reef.algae.AS/Dahl-1972-Ecology.reef.algae.AS.md"
+    # file_path = Path(md_file_path).resolve()
+    # file_title = file_path.stem  # Use filename without extension as title
 
-    print(f"File: {file_path}")
-    print(f"Title: {file_title}")
+    # print(f"File: {file_path}")
+    # print(f"Title: {file_title}")
 
-    # Check if already processed
-    if file_title in processed_files:
-        print(f"⚠️ '{file_title}' already processed. Skipping...")
-    else:
-        print(f"✓ New file - will process")
+    # # Check if already processed
+    # if file_title in processed_files:
+    #     print(f"⚠️ '{file_title}' already processed. Skipping...")
+    # else:
+    #     print(f"✓ New file - will process")
 
-    # Process new file if not already done
-    if file_title not in processed_files:
-        # Read file
-        with open(file_path, 'r', encoding='utf-8') as f:
-            content = f.read()
+    # # Process new file if not already done
+    # if file_title not in processed_files:
+    #     # Read file
+    #     with open(file_path, 'r', encoding='utf-8') as f:
+    #         content = f.read()
 
-        # Extract sentences
-        new_sentences = split_into_sentences(content, str(file_path), file_title)
-        print(f"Extracted {len(new_sentences)} sentences")
+    #     # Extract sentences
+    #     new_sentences = split_into_sentences(content, str(file_path), file_title)
+    #     print(f"Extracted {len(new_sentences)} sentences")
 
-        # Generate embeddings
-        print("Generating embeddings...")
-        new_embeddings = []
-        for i, sentence in enumerate(new_sentences):
-            if i % 10 == 0:
-                print(f"  {i+1}/{len(new_sentences)}")
+    #     # Generate embeddings
+    #     print("Generating embeddings...")
+    #     new_embeddings = []
+    #     for i, sentence in enumerate(new_sentences):
+    #         if i % 10 == 0:
+    #             print(f"  {i+1}/{len(new_sentences)}")
 
-            embedding = get_embedding(sentence.text, model="qwen3-embedding:0.6b")
-            if embedding is not None:
-                new_embeddings.append(embedding)
-            else:
-                # Fallback to zero vector
-                print(f"  {i+1}/{len(new_sentences)}: Failed to generate embedding")
-                new_embeddings.append(np.zeros(1024, dtype=np.float32))
+    #         embedding = get_embedding(sentence.text, model="qwen3-embedding:0.6b")
+    #         if embedding is not None:
+    #             new_embeddings.append(embedding)
+    #         else:
+    #             # Fallback to zero vector
+    #             print(f"  {i+1}/{len(new_sentences)}: Failed to generate embedding")
+    #             new_embeddings.append(np.zeros(1024, dtype=np.float32))
 
-        new_embeddings = np.vstack(new_embeddings)
+    #     new_embeddings = np.vstack(new_embeddings)
 
-        # Normalize for cosine similarity
-        faiss.normalize_L2(new_embeddings)
+    #     # Normalize for cosine similarity
+    #     faiss.normalize_L2(new_embeddings)
 
-        # Merge with existing data
-        if embeddings is not None:
-            embeddings = np.vstack([embeddings, new_embeddings])
-            sentences.extend(new_sentences)
-        else:
-            embeddings = new_embeddings
-            sentences = new_sentences
+    #     # Merge with existing data
+    #     if embeddings is not None:
+    #         embeddings = np.vstack([embeddings, new_embeddings])
+    #         sentences.extend(new_sentences)
+    #     else:
+    #         embeddings = new_embeddings
+    #         sentences = new_sentences
 
-        # Rebuild FAISS index
-        dimension = embeddings.shape[1]
-        index = faiss.IndexFlatIP(dimension)
-        index.add(embeddings)
+    #     # Rebuild FAISS index
+    #     dimension = embeddings.shape[1]
+    #     index = faiss.IndexFlatIP(dimension)
+    #     index.add(embeddings)
 
-        # Mark as processed
-        processed_files.add(file_title)
+    #     # Mark as processed
+    #     processed_files.add(file_title)
 
-        # Save everything
-        save_data(sentences, embeddings, index, processed_files)
+    #     # Save everything
+    #     save_data(sentences, embeddings, index, processed_files)
 
-        print(f"✓ Processed and saved. Total: {len(sentences)} sentences from {len(processed_files)} files")
+    #     print(f"✓ Processed and saved. Total: {len(sentences)} sentences from {len(processed_files)} files")
 
     # Batch-run queries from JSON and synthesize responses
     if index is not None and len(sentences) > 0:
