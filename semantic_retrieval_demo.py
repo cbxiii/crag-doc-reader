@@ -17,14 +17,11 @@ and local Ollama / FAISS configuration as needed for your environment.
 # pip install ollama faiss-cpu nltk numpy
 
 import json
-from dataclasses import dataclass, asdict
 from pathlib import Path
 from typing import List, Tuple
 
 import ollama
-import numpy as np
 import faiss
-import nltk
 
 from vector_store_utils import (
     SentenceWithSource,
@@ -94,71 +91,6 @@ def main():
     # Load existing data
     sentences, embeddings, index, processed_files = load_existing_data()
     print(f"Previously processed files: {processed_files}")
-
-    # # Specify MD file to process
-    # md_file_path = r"output/Dahl-1972-Ecology.reef.algae.AS/Dahl-1972-Ecology.reef.algae.AS.md"
-    # file_path = Path(md_file_path).resolve()
-    # file_title = file_path.stem  # Use filename without extension as title
-
-    # print(f"File: {file_path}")
-    # print(f"Title: {file_title}")
-
-    # # Check if already processed
-    # if file_title in processed_files:
-    #     print(f"⚠️ '{file_title}' already processed. Skipping...")
-    # else:
-    #     print(f"✓ New file - will process")
-
-    # # Process new file if not already done
-    # if file_title not in processed_files:
-    #     # Read file
-    #     with open(file_path, 'r', encoding='utf-8') as f:
-    #         content = f.read()
-
-    #     # Extract sentences
-    #     new_sentences = split_into_sentences(content, str(file_path), file_title)
-    #     print(f"Extracted {len(new_sentences)} sentences")
-
-    #     # Generate embeddings
-    #     print("Generating embeddings...")
-    #     new_embeddings = []
-    #     for i, sentence in enumerate(new_sentences):
-    #         if i % 10 == 0:
-    #             print(f"  {i+1}/{len(new_sentences)}")
-
-    #         embedding = get_embedding(sentence.text, model="qwen3-embedding:0.6b")
-    #         if embedding is not None:
-    #             new_embeddings.append(embedding)
-    #         else:
-    #             # Fallback to zero vector
-    #             print(f"  {i+1}/{len(new_sentences)}: Failed to generate embedding")
-    #             new_embeddings.append(np.zeros(1024, dtype=np.float32))
-
-    #     new_embeddings = np.vstack(new_embeddings)
-
-    #     # Normalize for cosine similarity
-    #     faiss.normalize_L2(new_embeddings)
-
-    #     # Merge with existing data
-    #     if embeddings is not None:
-    #         embeddings = np.vstack([embeddings, new_embeddings])
-    #         sentences.extend(new_sentences)
-    #     else:
-    #         embeddings = new_embeddings
-    #         sentences = new_sentences
-
-    #     # Rebuild FAISS index
-    #     dimension = embeddings.shape[1]
-    #     index = faiss.IndexFlatIP(dimension)
-    #     index.add(embeddings)
-
-    #     # Mark as processed
-    #     processed_files.add(file_title)
-
-    #     # Save everything
-    #     save_data(sentences, embeddings, index, processed_files)
-
-    #     print(f"✓ Processed and saved. Total: {len(sentences)} sentences from {len(processed_files)} files")
 
     # Batch-run queries from JSON and synthesize responses
     if index is not None and len(sentences) > 0:

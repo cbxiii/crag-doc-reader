@@ -13,7 +13,7 @@ This repository contains tools used to build a retrieval-augmented generation (R
 - Ingest historical CRAG PDFs and reports.
 - Extract and normalize text and image metadata.
 - Chunk and embed content for semantic search.
-- Build a retriever that provides grounded context to an LLM for accurate answers and summaries.
+- Build a retriever that provides grounded context to an LLM for accurate answers and summaries about research findings and data.
 
 **How the RAG system was built — step-by-step**
 
