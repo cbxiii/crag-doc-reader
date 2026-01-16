@@ -29,6 +29,33 @@ from vector_store_utils import (
     load_existing_data,
 )
 
+
+# --- Pydantic models for structured LLM responses ---
+from pydantic import BaseModel, ValidationError
+from pydantic_ai import Agent
+from typing import Optional
+
+
+class SourceItem(BaseModel):
+    text: str
+    file_title: str
+    section_header: Optional[str]
+    score: Optional[float]
+
+
+class AnswerModel(BaseModel):
+    summary: str
+    sources: List[SourceItem]
+    references_included: bool = False
+
+
+# Helper to detect reference-like headers
+def is_reference_section(header: str) -> bool:
+    if not header:
+        return False
+    h = header.strip().lower()
+    return any(k in h for k in ("references", "literature cited", "bibliography", "works cited"))
+
 def search(index: faiss.Index, sentences: List[SentenceWithSource], query: str, top_k: int = 5) -> List[Tuple[SentenceWithSource, float]]:
     """Search for most similar sentences to query
 
@@ -64,27 +91,36 @@ def search(index: faiss.Index, sentences: List[SentenceWithSource], query: str, 
 
 
 def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]], model: str = "llama3:8b") -> str:
-    """Use LLM to synthesize answer from relevant sentences"""
+    """Use LLM to synthesize a structured answer (JSON) from relevant sentences.
+
+    Returns the raw text response from the model (expected JSON). Caller should parse
+    with the `AnswerModel` Pydantic schema.
+    """
+
     context = "\n\n".join([
         f"[{sent.file_title}] {sent.section_header}\n{sent.text}"
         for sent, score in results
     ])
 
-    prompt = f"""Based on the following context, answer the question. Be specific and cite sources.
-            Answer like an established expert who has been researching this topic for 20+ years.
+    # Instruction: return JSON matching our simple pydantic schema
+    prompt = f"""
+You are a concise subject-matter expert. Given the context snippets below, produce a JSON object with the following keys: `summary` (short answer), `sources` (an array of objects with keys `text`, `file_title`, `section_header`, and `score`), and `references_included` (boolean).
 
-            Context:
-            {context}
+Only include sources that you directly used in the summary. Do NOT invent or hallucinate sources — every listed source must match one of the provided context snippets. If you cannot answer from the provided context, set `summary` to an empty string and provide an empty `sources` array.
 
-            Question: {query}
+Context snippets (each is one passage you may cite):
+{context}
 
-            Answer:"""
+User question: {query}
+
+Return ONLY valid JSON that conforms to the schema. Do not add any explanatory text.
+"""
 
     try:
         response = ollama.generate(model=model, prompt=prompt)
-        return response['response']
+        return response.get('response', '')
     except Exception as e:
-        return f"Error: {e}"
+        return json.dumps({"summary": "", "sources": [], "references_included": False, "error": str(e)})
 
 
 def main():
@@ -123,22 +159,52 @@ def main():
                 responses.append({"query": qtext, "error": str(e)})
                 continue
 
-            for i, (sentence, score) in enumerate(results, 1):
+            # Filter out reference-like sections unless the user explicitly asks for references
+            wants_references = any(k in qtext.lower() for k in ("reference", "references", "literature cited", "bibliography"))
+            filtered_results = [r for r in results if not is_reference_section(r[0].section_header)]
+            if not filtered_results and wants_references:
+                # if user asked for references, allow reference sections
+                filtered_results = results
+
+            for i, (sentence, score) in enumerate(filtered_results, 1):
                 print(f"{i}. Score: {score:.4f} | File: {sentence.file_title} | Section: {sentence.section_header}")
 
             model = "llama3.2:3b"
+            raw_response = synthesize_answer(qtext, filtered_results, model)
+
+            # Try to parse structured JSON into our Pydantic model and validate sources
+            parsed_struct = None
+            parse_error = None
             try:
-                answer = synthesize_answer(qtext, results, model)
-            except Exception as e:
-                answer = f"Error during synthesis: {e}"
+                parsed = json.loads(raw_response)
+                parsed_struct = AnswerModel(**parsed)
+
+                # Validate that every cited source in parsed_struct.sources exists in retrieved candidates
+                retrieved_texts = {s.text for s, _ in filtered_results}
+                mismatches = []
+                for src in parsed_struct.sources:
+                    if src.text not in retrieved_texts:
+                        mismatches.append({"text": src.text, "file_title": src.file_title})
+
+                validation_notes = {
+                    "mismatched_cited_sources": mismatches,
+                    "references_were_requested": wants_references,
+                }
+
+            except (json.JSONDecodeError, ValidationError) as e:
+                parse_error = str(e)
+                parsed_struct = None
+                validation_notes = {"parse_error": parse_error, "references_were_requested": wants_references}
 
             responses.append({
                 "query": qtext,
-                "response": answer,
+                "raw_response": raw_response,
+                "parsed": parsed_struct.dict() if parsed_struct is not None else None,
                 "top_results": [
                     {"text": s.text, "file_title": s.file_title, "section_header": s.section_header, "score": score}
-                    for s, score in results
-                ]
+                    for s, score in filtered_results
+                ],
+                "validation": validation_notes,
             })
 
             # brief pause to avoid hammering LLM/embedding service
