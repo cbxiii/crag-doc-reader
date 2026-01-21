@@ -19,35 +19,35 @@ and local Ollama / FAISS configuration as needed for your environment.
 import json
 from pathlib import Path
 from typing import List, Tuple
-
 import ollama
 import faiss
-
+import time
 from vector_store_utils import (
     SentenceWithSource,
     get_embedding,
     load_existing_data,
 )
-
-
-# --- Pydantic models for structured LLM responses ---
-from pydantic import BaseModel, ValidationError
+from pydantic import BaseModel
 from pydantic_ai import Agent
-from typing import Optional
-
 
 class SourceItem(BaseModel):
     text: str
     file_title: str
-    section_header: Optional[str]
-    score: Optional[float]
-
+    section_header: str
+    score: float
 
 class AnswerModel(BaseModel):
     summary: str
     sources: List[SourceItem]
-    references_included: bool = False
 
+class OllamaAdapter:
+    def __init__(self, model: str = "llama3.2:3b"):
+        self.model = model
+
+    def __call__(self, prompt: str, **kwargs) -> str:
+        # pass any kwargs (temperature, max_tokens) if you wish
+        resp = ollama.generate(model=self.model, prompt=prompt, **kwargs)
+        return resp.get("response", "")
 
 # Helper to detect reference-like headers
 def is_reference_section(header: str) -> bool:
@@ -89,6 +89,18 @@ def search(index: faiss.Index, sentences: List[SentenceWithSource], query: str, 
 
     return results
 
+PROMPT_TEMPLATE = """
+You are a concise subject-matter expert. Given the context snippets below, produce a JSON object with the following keys: `summary` (short answer), `sources` (an array of objects with keys `text`, `file_title`, `section_header`, and `score`).
+
+Only include sources that you directly used in the summary. Do NOT invent or hallucinate sources — every listed source must match one of the provided context snippets. If you cannot answer from the provided context, set `summary` to an empty string and provide an empty `sources` array.
+
+Context snippets (each is one passage you may cite):
+{context}
+
+User question: {query}
+
+Return ONLY valid JSON that conforms to the schema. Do not add any explanatory text.
+"""
 
 def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]], model: str = "llama3:8b") -> str:
     """Use LLM to synthesize a structured answer (JSON) from relevant sentences.
@@ -102,25 +114,20 @@ def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]
         for sent, score in results
     ])
 
-    # Instruction: return JSON matching our simple pydantic schema
-    prompt = f"""
-You are a concise subject-matter expert. Given the context snippets below, produce a JSON object with the following keys: `summary` (short answer), `sources` (an array of objects with keys `text`, `file_title`, `section_header`, and `score`), and `references_included` (boolean).
+    prompt = PROMPT_TEMPLATE.format(context=context, query=query)
 
-Only include sources that you directly used in the summary. Do NOT invent or hallucinate sources — every listed source must match one of the provided context snippets. If you cannot answer from the provided context, set `summary` to an empty string and provide an empty `sources` array.
-
-Context snippets (each is one passage you may cite):
-{context}
-
-User question: {query}
-
-Return ONLY valid JSON that conforms to the schema. Do not add any explanatory text.
-"""
+    llama = OllamaAdapter(model=model)
 
     try:
-        response = ollama.generate(model=model, prompt=prompt)
-        return response.get('response', '')
+        answer_agent = Agent(  
+            model=llama,
+            output_type=AnswerModel,
+            system_prompt=prompt,
+        )
+        response = answer_agent.run_sync(prompt)
+        return response.model_dump_json()
     except Exception as e:
-        return json.dumps({"summary": "", "sources": [], "references_included": False, "error": str(e)})
+        return json.dumps({"summary": "", "sources": [], "error": str(e)})
 
 
 def main():
@@ -128,12 +135,11 @@ def main():
     sentences, embeddings, index, processed_files = load_existing_data()
     print(f"Previously processed files: {processed_files}")
 
-    # Batch-run queries from JSON and synthesize responses
     if index is not None and len(sentences) > 0:
         queries_path = Path("queries/chatgpt_queries.json")
         OUTPUT_DIR = Path("responses")
         OUTPUT_DIR.mkdir(exist_ok=True)
-        out_path = OUTPUT_DIR / "01_16_2026_chatgpt_query_responses.json"
+        out_path = OUTPUT_DIR / "chatgpt_queries_responses.json"
         responses = []
 
         try:
@@ -142,8 +148,6 @@ def main():
         except Exception as e:
             print(f"Error loading queries file {queries_path}: {e}")
             queries_obj = []
-
-        import time
 
         for idx, item in enumerate(queries_obj, 1):
             qtext = item['query'] if isinstance(item, dict) and 'query' in item else (item if isinstance(item, str) else "")
@@ -159,67 +163,39 @@ def main():
                 responses.append({"query": qtext, "error": str(e)})
                 continue
 
-            # Filter out reference-like sections unless the user explicitly asks for references
-            wants_references = any(k in qtext.lower() for k in ("reference", "references", "literature cited", "bibliography"))
-            filtered_results = [r for r in results if not is_reference_section(r[0].section_header)]
-            if not filtered_results and wants_references:
-                # if user asked for references, allow reference sections
-                filtered_results = results
-
-            for i, (sentence, score) in enumerate(filtered_results, 1):
+            for i, (sentence, score) in enumerate(results, 1):
                 print(f"{i}. Score: {score:.4f} | File: {sentence.file_title} | Section: {sentence.section_header}")
 
             model = "llama3.2:3b"
-            raw_response = synthesize_answer(qtext, filtered_results, model)
-
-            # Try to parse structured JSON into our Pydantic model and validate sources
-            parsed_struct = None
-            parse_error = None
             try:
-                parsed = json.loads(raw_response)
-                parsed_struct = AnswerModel(**parsed)
-
-                # Validate that every cited source in parsed_struct.sources exists in retrieved candidates
-                retrieved_texts = {s.text for s, _ in filtered_results}
-                mismatches = []
-                for src in parsed_struct.sources:
-                    if src.text not in retrieved_texts:
-                        mismatches.append({"text": src.text, "file_title": src.file_title})
-
-                validation_notes = {
-                    "mismatched_cited_sources": mismatches,
-                    "references_were_requested": wants_references,
-                }
-
-            except (json.JSONDecodeError, ValidationError) as e:
-                parse_error = str(e)
-                parsed_struct = None
-                validation_notes = {"parse_error": parse_error, "references_were_requested": wants_references}
+                answer = synthesize_answer(qtext, results, model)
+            except Exception as e:
+                answer = f"Error during synthesis: {e}"
 
             responses.append({
                 "query": qtext,
-                "raw_response": raw_response,
-                "parsed": parsed_struct.dict() if parsed_struct is not None else None,
+                "response": answer,
                 "top_results": [
                     {"text": s.text, "file_title": s.file_title, "section_header": s.section_header, "score": score}
-                    for s, score in filtered_results
-                ],
-                "validation": validation_notes,
+                    for s, score in results
+                ]
             })
 
-            # brief pause to avoid hammering LLM/embedding service
             time.sleep(1)
 
         try:
+            out_obj = {
+                "prompt": PROMPT_TEMPLATE,
+                "responses": responses
+            }
             with open(out_path, 'w', encoding='utf-8') as outf:
-                json.dump(responses, outf, indent=2, ensure_ascii=False)
+                json.dump(out_obj, outf, indent=2, ensure_ascii=False)
             print(f"Saved {len(responses)} query responses to {out_path}")
         except Exception as e:
             print(f"Error saving responses to {out_path}: {e}")
 
     else:
         print("No index or sentences available for search/synthesis.")
-
 
 if __name__ == "__main__":
     main()
