@@ -139,7 +139,8 @@ def main():
         queries_path = Path("queries/chatgpt_queries.json")
         OUTPUT_DIR = Path("responses")
         OUTPUT_DIR.mkdir(exist_ok=True)
-        out_path = OUTPUT_DIR / "chatgpt_queries_responses.json"
+        timestamp = time.strftime("%m_%d_%Y_%H%M%S")
+        out_path = OUTPUT_DIR / f"{timestamp}_chatgpt_queries_responses.json"
         responses = []
 
         try:
