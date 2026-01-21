@@ -1,25 +1,15 @@
-"""Semantic Retrieval Demo
+"""Semantic Retrieval 
 
 This script is a direct conversion of the `semantic_retrieval_demo.ipynb` notebook.
 
 Features:
-- Extract sentences from MD files with source tracking
-- Generate embeddings using Qwen3-Embedding via Ollama
-- Store embeddings in FAISS for fast similarity search
 - Perform semantic search with cosine similarity
-- Synthesize answers using an LLM (Llama3.2)
-
-Note: This file is intended as a runnable script; adjust model names, installation,
-and local Ollama / FAISS configuration as needed for your environment.
+- Synthesize answers using an LLM 
 """
-
-# Install required packages (run manually if needed):
-# pip install ollama faiss-cpu nltk numpy
 
 import json
 from pathlib import Path
 from typing import List, Tuple
-import ollama
 import faiss
 import time
 from vector_store_utils import (
@@ -29,6 +19,11 @@ from vector_store_utils import (
 )
 from pydantic import BaseModel
 from pydantic_ai import Agent
+import dotenv
+from datetime import datetime
+from zoneinfo import ZoneInfo
+
+dotenv.load_dotenv()
 
 class SourceItem(BaseModel):
     text: str
@@ -40,21 +35,12 @@ class AnswerModel(BaseModel):
     summary: str
     sources: List[SourceItem]
 
-class OllamaAdapter:
-    def __init__(self, model: str = "llama3.2:3b"):
-        self.model = model
-
-    def __call__(self, prompt: str, **kwargs) -> str:
-        # pass any kwargs (temperature, max_tokens) if you wish
-        resp = ollama.generate(model=self.model, prompt=prompt, **kwargs)
-        return resp.get("response", "")
-
 # Helper to detect reference-like headers
-def is_reference_section(header: str) -> bool:
-    if not header:
-        return False
-    h = header.strip().lower()
-    return any(k in h for k in ("references", "literature cited", "bibliography", "works cited"))
+# def is_reference_section(header: str) -> bool:
+#     if not header:
+#         return False
+#     h = header.strip().lower()
+#     return any(k in h for k in ("references", "literature cited", "bibliography", "works cited"))
 
 def search(index: faiss.Index, sentences: List[SentenceWithSource], query: str, top_k: int = 5) -> List[Tuple[SentenceWithSource, float]]:
     """Search for most similar sentences to query
@@ -102,7 +88,7 @@ User question: {query}
 Return ONLY valid JSON that conforms to the schema. Do not add any explanatory text.
 """
 
-def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]], model: str = "llama3:8b") -> str:
+def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]]) -> str:
     """Use LLM to synthesize a structured answer (JSON) from relevant sentences.
 
     Returns the raw text response from the model (expected JSON). Caller should parse
@@ -116,16 +102,14 @@ def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]
 
     prompt = PROMPT_TEMPLATE.format(context=context, query=query)
 
-    llama = OllamaAdapter(model=model)
-
     try:
         answer_agent = Agent(  
-            model=llama,
+            model='openai:gpt-4o-mini',
             output_type=AnswerModel,
             system_prompt=prompt,
         )
         response = answer_agent.run_sync(prompt)
-        return response.model_dump_json()
+        return response.output
     except Exception as e:
         return json.dumps({"summary": "", "sources": [], "error": str(e)})
 
@@ -139,7 +123,7 @@ def main():
         queries_path = Path("queries/chatgpt_queries.json")
         OUTPUT_DIR = Path("responses")
         OUTPUT_DIR.mkdir(exist_ok=True)
-        timestamp = time.strftime("%m_%d_%Y_%H%M%S")
+        timestamp = datetime.now(ZoneInfo("Pacific/Honolulu")).strftime("%m_%d_%Y_%I:%M%p")
         out_path = OUTPUT_DIR / f"{timestamp}_chatgpt_queries_responses.json"
         responses = []
 
@@ -167,9 +151,8 @@ def main():
             for i, (sentence, score) in enumerate(results, 1):
                 print(f"{i}. Score: {score:.4f} | File: {sentence.file_title} | Section: {sentence.section_header}")
 
-            model = "llama3.2:3b"
             try:
-                answer = synthesize_answer(qtext, results, model)
+                answer = synthesize_answer(qtext, results)
             except Exception as e:
                 answer = f"Error during synthesis: {e}"
 
