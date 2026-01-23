@@ -17,7 +17,7 @@ from vector_store_utils import (
     get_embedding,
     load_existing_data,
 )
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from pydantic_ai import Agent
 import dotenv
 from datetime import datetime
@@ -26,14 +26,14 @@ from zoneinfo import ZoneInfo
 dotenv.load_dotenv()
 
 class SourceItem(BaseModel):
-    text: str
-    file_title: str
-    section_header: str
-    score: float
+    text: str = Field(description="The exact text segment cited.")
+    file_title: str = Field(description="Title of the source file.")
+    section_header: str = Field(description="Header of the section.")
+    score: float = Field(description="Relevance score of the text segment.")
 
 class AnswerModel(BaseModel):
-    summary: str
-    sources: List[SourceItem]
+    summary: str = Field(description="Concise summary of the answer.")
+    sources: List[SourceItem] = Field(description="List of source items directly used to generate the summary.")
 
 # Helper to detect reference-like headers
 # def is_reference_section(header: str) -> bool:
@@ -76,42 +76,41 @@ def search(index: faiss.Index, sentences: List[SentenceWithSource], query: str, 
     return results
 
 PROMPT_TEMPLATE = """
-You are a concise subject-matter expert. Given the context snippets below, produce a JSON object with the following keys: `summary` (short answer), `sources` (an array of objects with keys `text`, `file_title`, `section_header`, and `score`).
-
-Only include sources that you directly used in the summary. Do NOT invent or hallucinate sources — every listed source must match one of the provided context snippets. If you cannot answer from the provided context, set `summary` to an empty string and provide an empty `sources` array.
-
-Context snippets (each is one passage you may cite):
-{context}
-
-User question: {query}
-
-Return ONLY valid JSON that conforms to the schema. Do not add any explanatory text.
+    You are a concise subject-matter expect in the field. 
+    Use to provided context to answer the user's question as accurately as possible. 
+    If the answer is not in the context, state that you cannot answer. 
+    Do NOT hallucinate sources.
 """
 
-def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]]) -> str:
-    """Use LLM to synthesize a structured answer (JSON) from relevant sentences.
+answer_agent = Agent(  
+    model='openai:gpt-4o-mini',
+    output_type=AnswerModel,
+    system_prompt=PROMPT_TEMPLATE,
+)
 
-    Returns the raw text response from the model (expected JSON). Caller should parse
-    with the `AnswerModel` Pydantic schema.
+def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]]) -> AnswerModel:
+    """
+    Synthesizes an answer using the Answer Agent.
+    Returns an AnswerModel Object.
     """
 
     context = "\n\n".join([
-        f"[{sent.file_title}] {sent.section_header}\n{sent.text}"
+        f"--- Source (Score: {score:.4f}) ---\n"
+        f"File: {sent.file_title}\n"
+        f"Section: {sent.section_header}\n"
+        f"Text: {sent.text}"
         for sent, score in results
     ])
 
-    prompt = PROMPT_TEMPLATE.format(context=context, query=query)
-
+    user_prompt = (
+        f"User Question: {query}\n\n"
+        f"Context: \n{context}\n\n"
+    )
     try:
-        answer_agent = Agent(  
-            model='openai:gpt-4o-mini',
-            output_type=AnswerModel,
-            system_prompt=prompt,
-        )
-        response = answer_agent.run_sync(prompt)
+        response = answer_agent.run_sync(user_prompt)
         return response.output
     except Exception as e:
-        return json.dumps({"summary": "", "sources": [], "error": str(e)})
+        return AnswerModel(summary=f"Error generating response: {e}.", sources=[])
 
 
 def main():
@@ -119,67 +118,71 @@ def main():
     sentences, embeddings, index, processed_files = load_existing_data()
     print(f"Previously processed files: {processed_files}")
 
-    if index is not None and len(sentences) > 0:
-        queries_path = Path("queries/chatgpt_queries.json")
-        OUTPUT_DIR = Path("responses")
-        OUTPUT_DIR.mkdir(exist_ok=True)
-        timestamp = datetime.now(ZoneInfo("Pacific/Honolulu")).strftime("%m_%d_%Y_%I:%M%p")
-        out_path = OUTPUT_DIR / f"{timestamp}_chatgpt_queries_responses.json"
-        responses = []
+    if index is None or len(sentences) == 0:
+        print("No existing index or sentences found. Please process files first.")
+        return
+
+    queries_path = Path("queries/chatgpt_queries.json")
+    OUTPUT_DIR = Path("responses")
+    OUTPUT_DIR.mkdir(exist_ok=True)
+
+    timestamp = datetime.now(ZoneInfo("Pacific/Honolulu")).strftime("%m_%d_%Y_%I:%M%p")
+    out_path = OUTPUT_DIR / f"{timestamp}_chatgpt_queries_responses.json"
+
+    responses = []
+
+    try:
+        with open(queries_path, 'r', encoding='utf-8') as qf:
+            queries_obj = json.load(qf)
+    except Exception as e:
+        print(f"Error loading queries file {queries_path}: {e}")
+        queries_obj = []
+
+    for idx, item in enumerate(queries_obj, 1):
+        qtext = item['query'] if isinstance(item, dict) and 'query' in item else (item if isinstance(item, str) else "")
+        if not qtext:
+            continue
+
+        print(f"[{idx}/{len(queries_obj)}] Query: {qtext}")
 
         try:
-            with open(queries_path, 'r', encoding='utf-8') as qf:
-                queries_obj = json.load(qf)
+            results = search(index, sentences, qtext, top_k=5)
         except Exception as e:
-            print(f"Error loading queries file {queries_path}: {e}")
-            queries_obj = []
+            print(f"Search error for query: {e}")
+            responses.append({"query": qtext, "error": str(e)})
+            continue
 
-        for idx, item in enumerate(queries_obj, 1):
-            qtext = item['query'] if isinstance(item, dict) and 'query' in item else (item if isinstance(item, str) else "")
-            if not qtext:
-                continue
+        for i, (sentence, score) in enumerate(results, 1):
+            print(f"{i}. Score: {score:.4f} | File: {sentence.file_title} | Section: {sentence.section_header}")
 
-            print(f"[{idx}/{len(queries_obj)}] Query: {qtext}")
+        answer = synthesize_answer(qtext, results)
 
-            try:
-                results = search(index, sentences, qtext, top_k=5)
-            except Exception as e:
-                print(f"Search error for query: {e}")
-                responses.append({"query": qtext, "error": str(e)})
-                continue
+        response_entry = {
+            "query": qtext,
+            "response": answer.summary,
+            "sources": [source.model_dump() for source in answer.sources],
+            "top_results": [
+                {"text": s.text, "file_title": s.file_title, "section_header": s.section_header, "score": score}
+                for s, score in results
+            ]
+        }
 
-            for i, (sentence, score) in enumerate(results, 1):
-                print(f"{i}. Score: {score:.4f} | File: {sentence.file_title} | Section: {sentence.section_header}")
+        responses.append(response_entry)
+        time.sleep(1)
 
-            try:
-                answer = synthesize_answer(qtext, results)
-            except Exception as e:
-                answer = f"Error during synthesis: {e}"
-
-            responses.append({
-                "query": qtext,
-                "response": answer,
-                "top_results": [
-                    {"text": s.text, "file_title": s.file_title, "section_header": s.section_header, "score": score}
-                    for s, score in results
-                ]
-            })
-
-            time.sleep(1)
-
-        try:
-            out_obj = {
-                "prompt": PROMPT_TEMPLATE,
-                "responses": responses
-            }
-            with open(out_path, 'w', encoding='utf-8') as outf:
-                json.dump(out_obj, outf, indent=2, ensure_ascii=False)
-            print(f"Saved {len(responses)} query responses to {out_path}")
-        except Exception as e:
-            print(f"Error saving responses to {out_path}: {e}")
-
-    else:
-        print("No index or sentences available for search/synthesis.")
+    try:
+        out_obj = {
+            "meta":{
+                "timestamp": timestamp,
+                "model": answer_agent.model.model_name,
+                "prompt": PROMPT_TEMPLATE},
+            "responses": responses
+        }
+        with open(out_path, 'w', encoding='utf-8') as outf:
+            json.dump(out_obj, outf, indent=2, ensure_ascii=False)
+        print(f"Saved {len(responses)} query responses to {out_path}")
+    except Exception as e:
+        print(f"Error saving responses to {out_path}: {e}")
 
 if __name__ == "__main__":
     main()
