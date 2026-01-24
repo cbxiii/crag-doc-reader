@@ -26,7 +26,7 @@ class SentenceWithSource:
 
 
 # Storage paths
-STORAGE_DIR = Path("vector_store")
+STORAGE_DIR = Path("/media/volume/crag-vectorstore")
 STORAGE_DIR.mkdir(exist_ok=True)
 
 EMBEDDINGS_FILE = STORAGE_DIR / "embeddings.npy"
