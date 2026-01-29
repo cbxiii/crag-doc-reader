@@ -36,11 +36,12 @@ class AnswerModel(BaseModel):
     sources: List[SourceItem] = Field(description="List of source items directly used to generate the summary.")
 
 # Helper to detect reference-like headers
-# def is_reference_section(header: str) -> bool:
-#     if not header:
-#         return False
-#     h = header.strip().lower()
-#     return any(k in h for k in ("references", "literature cited", "bibliography", "works cited"))
+def is_invalid_source(header: str) -> bool:
+    if not header:
+        return False
+    h = header.strip().lower()
+    forbidden_terms = ["references", "works cited", "bibliography", "literature cited"]
+    return any(term in h for term in forbidden_terms)
 
 def search(index: faiss.Index, sentences: List[SentenceWithSource], query: str, top_k: int = 5) -> List[Tuple[SentenceWithSource, float]]:
     """Search for most similar sentences to query
@@ -85,7 +86,7 @@ PROMPT_TEMPLATE = """
 answer_agent = Agent(  
     model='openai:gpt-4o-mini',
     output_type=AnswerModel,
-    system_prompt=PROMPT_TEMPLATE,
+    instructions=PROMPT_TEMPLATE,
 )
 
 def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]]) -> AnswerModel:
@@ -111,6 +112,41 @@ def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]
         return response.output
     except Exception as e:
         return AnswerModel(summary=f"Error generating response: {e}.", sources=[])
+
+def synthesize_with_validation(query: str,
+    initial_results: List[Tuple[SentenceWithSource, float]],
+    max_retries: int = 2) -> AnswerModel:
+    curr_context = initial_results
+
+    for attempt in range(max_retries + 1):
+        answer: AnswerModel = synthesize_answer(query, curr_context)
+        invalid_source_indices = []
+
+        for i, source in enumerate(answer.sources):
+            if is_invalid_source(source.section_header):
+                invalid_source_indices.append(i)
+                print(f"Flagged invalid source: '{source.file_title}' ({source.section_header})")
+        
+        if not invalid_source_indices:
+            return answer
+        
+        if attempt == max_retries:
+            print("Max retries reached. Returning last answer.")
+            answer.sources = [
+                s for i, s in enumerate(answer.sources) if i not in invalid_source_indices
+            ]
+            return answer
+        
+        print(f"Validation failed. Removing {len(invalid_source_indices)} invalid sources and regenerating...")
+
+        invalid_source_texts = {answer.sources[i].text for i in invalid_source_indices}
+        
+        curr_context = [
+            (sent, score) for sent, score in curr_context
+            if sent.text not in invalid_source_texts
+        ]
+    
+    return answer
 
 
 def main():
@@ -155,7 +191,7 @@ def main():
         for i, (sentence, score) in enumerate(results, 1):
             print(f"{i}. Score: {score:.4f} | File: {sentence.file_title} | Section: {sentence.section_header}")
 
-        answer = synthesize_answer(qtext, results)
+        answer = synthesize_with_validation(qtext, results)
 
         response_entry = {
             "query": qtext,
