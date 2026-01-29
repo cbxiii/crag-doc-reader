@@ -197,10 +197,6 @@ def main():
             "query": qtext,
             "response": answer.summary,
             "sources": [source.model_dump() for source in answer.sources],
-            "top_results": [
-                {"text": s.text, "file_title": s.file_title, "section_header": s.section_header, "score": score}
-                for s, score in results
-            ]
         }
 
         responses.append(response_entry)
