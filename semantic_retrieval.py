@@ -182,7 +182,7 @@ def main():
         print(f"[{idx}/{len(queries_obj)}] Query: {qtext}")
 
         try:
-            results = search(index, sentences, qtext, top_k=5)
+            results = search(index, sentences, qtext, top_k=10)
         except Exception as e:
             print(f"Search error for query: {e}")
             responses.append({"query": qtext, "error": str(e)})
