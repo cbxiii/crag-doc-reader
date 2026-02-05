@@ -85,10 +85,10 @@ if prompt:
         if show_sources and hasattr(answer, "sources") and answer.sources:
             with st.expander("Sources used (click to expand)"):
                 for s in answer.sources:
-                    title = getattr(s, "file_title", s.get("file_title", ""))
-                    section = getattr(s, "section_header", s.get("section_header", ""))
-                    text = getattr(s, "text", s.get("text", ""))
-                    score = getattr(s, "score", s.get("score", ""))
+                    title = s.file_title
+                    section = s.section_header
+                    text = s.text
+                    score = s.score
                     st.write(f"**{title}** — {section} — score: {score}")
                     st.write(text)
 
