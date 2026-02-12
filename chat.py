@@ -14,26 +14,21 @@ if "messages" not in st.session_state:
     st.session_state.messages = []  # type: ignore
 
 # Sidebar: load vector store and options
-with st.sidebar:
-    st.header("Vector Store")
-    if "vs_status" not in st.session_state:
-        st.session_state.vs_status = "not_loaded"
-    if st.button("Reload vector store") or st.session_state.vs_status == "not_loaded":
-        try:
-            sentences, embeddings, index, processed_files = load_existing_data()
-            st.session_state.sentences = sentences
-            st.session_state.embeddings = embeddings
-            st.session_state.index = index
-            st.session_state.processed_files = processed_files
-            st.session_state.vs_status = "loaded"
-            st.success(f"Loaded {len(sentences)} sentences. Processed files: {len(processed_files)}")
-        except Exception as e:
-            st.session_state.vs_status = "error"
-            st.error(f"Error loading vector store: {e}")
+if "vs_status" not in st.session_state:
+    st.session_state.vs_status = "not_loaded"
+if st.button("Reload vector store") or st.session_state.vs_status == "not_loaded":
+    try:
+        sentences, embeddings, index, processed_files = load_existing_data()
+        st.session_state.sentences = sentences
+        st.session_state.embeddings = embeddings
+        st.session_state.index = index
+        st.session_state.processed_files = processed_files
+        st.session_state.vs_status = "loaded"
+    except Exception as e:
+        st.session_state.vs_status = "error"
+        st.error(f"Error loading vector store: {e}")
 
-    top_k = st.slider("Top K results", min_value=1, max_value=20, value=5)
-    show_sources = st.checkbox("Show sources", value=True)
-
+show_sources = st.checkbox("Show sources", value=True)
 
 # display chat messages from history on app rerun
 for message in st.session_state.messages:
@@ -42,11 +37,11 @@ for message in st.session_state.messages:
 
 prompt = st.chat_input("Ask a question about the research papers within the CRAG Library.")
 if prompt:
+    # add user message to chat history
+    st.session_state.messages.append({"role": "user", "content": prompt})
     # display user message in chat message container
     with st.chat_message("user"):
         st.markdown(prompt)
-    # add user message to chat history
-    st.session_state.messages.append({"role": "user", "content": prompt})
 
     # If vector store not loaded, show helpful message
     index = st.session_state.get("index")
@@ -60,7 +55,7 @@ if prompt:
     else:
         # run search
         try:
-            results: List[Tuple] = search(index, sentences, prompt, top_k=top_k)
+            results: List[Tuple] = search(index, sentences, prompt, top_k=10)
         except Exception as e:
             err = f"Search error: {e}"
             with st.chat_message("assistant"):
@@ -69,14 +64,12 @@ if prompt:
             results = []
 
         # synthesize answer (with validation)
-        try:
-            answer = synthesize_with_validation(prompt, results)
-            assistant_text = answer.summary
-        except Exception as e:
-            assistant_text = f"Error generating answer: {e}"
-
-        # display assistant response
         with st.chat_message("assistant"):
+            try:
+                answer = synthesize_with_validation(prompt, results)
+                assistant_text = answer.summary
+            except Exception as e:
+                assistant_text = f"Error generating answer: {e}"
             st.markdown(assistant_text)
 
         st.session_state.messages.append({"role": "assistant", "content": assistant_text})
@@ -91,14 +84,3 @@ if prompt:
                     score = s.score
                     st.write(f"**{title}** — {section} — score: {score}")
                     st.write(text)
-
-        # small affordance: button to regenerate using same results
-        if st.button("Regenerate answer"):
-            try:
-                regenerated = synthesize_with_validation(prompt, results)
-                regen_text = regenerated.summary
-            except Exception as e:
-                regen_text = f"Regeneration error: {e}"
-            with st.chat_message("assistant"):
-                st.markdown(regen_text)
-            st.session_state.messages.append({"role": "assistant", "content": regen_text})
