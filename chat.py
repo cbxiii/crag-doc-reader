@@ -82,5 +82,6 @@ if prompt:
                     section = s.section_header
                     text = s.text
                     score = s.score
-                    st.write(f"**{title}** — {section} — score: {score}")
                     st.write(text)
+                    st.caption(f"**{title}** — {section} — relevance: {score}")
+                    st.write("---")
