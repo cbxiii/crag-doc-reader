@@ -1,0 +1,6 @@
+{
+  "prompt": "\nYou are a concise subject-matter expert. Given the context snippets below, produce a JSON object with the following keys: `summary` (short answer), `sources` (an array of objects with keys `text`, `file_title`, `section_header`, and `score`).\n\nOnly include sources that you directly used in the summary. Do NOT invent or hallucinate sources — every listed source must match one of the provided context snippets. If you cannot answer from the provided context, set `summary` to an empty string and provide an empty `sources` array.\n\nContext snippets (each is one passage you may cite):\n{context}\n\nUser question: {query}\n\nReturn ONLY valid JSON that conforms to the schema. Do not add any explanatory text.\n",
+  "responses": [
+    {
+      "query": "What is a coral reef and why are reefs important to island ecosystems like American Samoa?",
+      "response": 

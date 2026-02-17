@@ -1,0 +1,2856 @@
+{
+  "meta": {
+    "timestamp": "01_24_2026_11:31AM",
+    "model": "gpt-4o-mini",
+    "prompt": "\n    You are a concise subject-matter expect in the field. \n    Use to provided context to answer the user's question as accurately as possible. \n    If the answer is not in the context, state that you cannot answer. \n    Do NOT hallucinate sources.\n"
+  },
+  "responses": [
+    {
+      "query": "What is a coral reef and why are reefs important to island ecosystems like American Samoa?",
+      "response": "A coral reef is an underwater ecosystem made up of colonies of coral polyps, which provide habitat for various fish and shellfish. Coral reefs are critical to island ecosystems like American Samoa as they offer essential habitats for marine life, support fisheries, contribute to tourism, and are integral to the culture of the region.",
+      "sources": [
+        {
+          "text": "The coral reef ecosystem and the fish and shellfish habitat it provides in American Samoa forms the",
+          "file_title": "Cornish-2002-Coral.reef.program.AS",
+          "section_header": "Background:",
+          "score": 0.7843
+        },
+        {
+          "text": "Coral reefs are an important natural resource in American Samoa.",
+          "file_title": "Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy",
+          "section_header": "American Samoa",
+          "score": 0.7711
+        },
+        {
+          "text": "The coral reefs of American Samoa are an important fisheries and tourism resource, and an integral part of the Samoan culture.",
+          "file_title": "1996 - Mundy1996 Quantitative survey of corals, DMWR",
+          "section_header": "INTRODUCTION",
+          "score": 0.7671
+        }
+      ],
+      "top_results": [
+        {
+          "text": "The coral reef ecosystem and the fish and shellfish habitat it provides in American Samoa forms the",
+          "file_title": "Cornish-2002-Coral.reef.program.AS",
+          "section_header": "**Background:**",
+          "score": 0.7842684984207153
+        },
+        {
+          "text": "Through the American Samoa's State of the Reefs, we can become educated on the basics of the coral reef ecosystem, their importance to American Samoa, the status of the health of the coral reefs and their threats, what is being done to protect and preserve them.",
+          "file_title": "CRAG-2000-Status.reefs.AS-Copy",
+          "section_header": "Greetings:",
+          "score": 0.7749582529067993
+        },
+        {
+          "text": "Coral reefs are an important natural resource in American Samoa.",
+          "file_title": "Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy",
+          "section_header": "American Samoa",
+          "score": 0.7710692882537842
+        },
+        {
+          "text": "The coral reefs of American Samoa are an important fisheries and tourism resource, and an integral part of the Samoan culture.",
+          "file_title": "1996 - Mundy1996 Quantitative survey of corals, DMWR",
+          "section_header": "INTRODUCTION",
+          "score": 0.7670741081237793
+        },
+        {
+          "text": "Coral reefs constitute one of American Samoa most valuable resources and are subjected to a wide variety of uses and functions, some of which may be conflicting.",
+          "file_title": "AECOS-1980-Coral.reef.inventory.AS",
+          "section_header": "PROJECT SCOPÉ AND OBJECTIVES",
+          "score": 0.759323239326477
+        }
+      ]
+    },
+    {
+      "query": "Where is Pago Pago Harbor and why is it significant in coral reef research?",
+      "response": "Pago Pago Harbor is located in the Samoan Archipelago and is significant in coral reef research due to its rich coral reefs and diverse marine life, making it an ideal location for scientific studies and experiments on coral ecosystems.",
+      "sources": [
+        {
+          "text": "The reefs of Pago Pago Harbor warrant special mention.",
+          "file_title": "1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago",
+          "section_header": "Tutuila Island",
+          "score": 0.8304
+        },
+        {
+          "text": "Coral cover as a function of location in Pago Pago Harbor.",
+          "file_title": "2008 The_state_of_the_coral_reef_habitat_in_A",
+          "section_header": "Bays: Pago Pago Harbor, Vatia Bay, and Fagasa Bay",
+          "score": 0.7873
+        },
+        {
+          "text": "of Pago Pago, with its rich coral reefs, offered an ideal location for experiments of this nature.",
+          "file_title": "Hoffmeister-1925-Corals.Fiji.AS",
+          "section_header": "THE SAMOAN EXPEDITION.",
+          "score": 0.7839
+        }
+      ],
+      "top_results": [
+        {
+          "text": "The reefs of Pago Pago Harbor warrant special mention.",
+          "file_title": "1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago",
+          "section_header": "Tutuila Island",
+          "score": 0.8304478526115417
+        },
+        {
+          "text": "Coral cover as a function of location in Pago Pago Harbor.",
+          "file_title": "2008 The_state_of_the_coral_reef_habitat_in_A",
+          "section_header": "Bays: Pago Pago Harbor, Vatia Bay, and Fagasa Bay",
+          "score": 0.7873084545135498
+        },
+        {
+          "text": "of Pago Pago, with its rich coral reefs, offered an ideal location for experiments of this nature.",
+          "file_title": "Hoffmeister-1925-Corals.Fiji.AS",
+          "section_header": "THE SAMOAN EXPEDITION.",
+          "score": 0.7839221954345703
+        },
+        {
+          "text": "From coral reef in front of hospital, Pago Pago Harbor.",
+          "file_title": "Fowler and Silvester-1922-Collection.fishes.AS",
+          "section_header": "Callyodon rubro-violaceus (Steindachner).",
+          "score": 0.7704366445541382
+        },
+        {
+          "text": "long, from coral in reef in front of hospital, Pago Pago Harbor.",
+          "file_title": "Fowler and Silvester-1922-Collection.fishes.AS",
+          "section_header": "Chætodon melannotus Schneider.",
+          "score": 0.7637514472007751
+        }
+      ]
+    },
+    {
+      "query": "Who was Alfred G. Mayor and what was his contribution to coral reef science?",
+      "response": "Alfred G. Mayor (1868 – 1922) was a marine biologist and zoologist who directed the Department of Marine Biology at the Carnegie Institution of Washington. He significantly contributed to coral reef science by establishing quantitative studies of coral reefs, including a notable transect study in 1917, which served as a model for ecological research into reefs.",
+      "sources": [
+        {
+          "text": "the late Dr. Alfred G. Mayor, has done considerable work on the study of coral reefs and problems relating to them.",
+          "file_title": "Hoffmeister-1925-Corals.Fiji.AS",
+          "section_header": "INTRODUCTION.",
+          "score": 0.7285
+        },
+        {
+          "text": "Alfred Mayor of the Carnegie Institute in Washington DC established a transect for a quantitative study of the corals across a reef flat from the shore to the reef crest in 1917.",
+          "file_title": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+          "section_header": "*Corals in Pago Pago Harbor*",
+          "score": 0.7154
+        },
+        {
+          "text": "The early expeditions led by Alfred G. Mayor 'became a paradigm model for ecological research into reefs' (Bowen 2015, p. 91).",
+          "file_title": "2021 - Birkeland et al Different resiliences in coral communities Aua",
+          "section_header": "1. INTRODUCTION",
+          "score": 0.7004
+        }
+      ],
+      "top_results": [
+        {
+          "text": "For a number of years the Department of Marine Biology of the Carnegie Institution of Washington, under the direction of the late Dr. Alfred G. Mayor, has done considerable work on the study of coral reefs and problems relating to them.",
+          "file_title": "Hoffmeister-1925-Corals.Fiji.AS",
+          "section_header": "INTRODUCTION.",
+          "score": 0.7285276055335999
+        },
+        {
+          "text": "Portrait of marine biologist and zoologist Alfred G. Mayor (1868 – 1922) as a young man.",
+          "file_title": "KAUST news release on Aua transects",
+          "section_header": "World's longest coral survey: a century of change at Aua reef",
+          "score": 0.7167876958847046
+        },
+        {
+          "text": "Alfred Mayor of the Carnegie Institute in Washington DC established a transect for a quantitative study of the corals across a reef flat from the shore to the reef crest in 1917.",
+          "file_title": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+          "section_header": "*Corals in Pago Pago Harbor*",
+          "score": 0.715392529964447
+        },
+        {
+          "text": "Of the late director of the Department of Marine Biology of this institution, Dr. Alfred G. Mayor, I wish to here express my appreciation of his unfailing sympathetic interest in my work.",
+          "file_title": "Cary-1931-Coral.reefs.Tutuila.AS",
+          "section_header": "INTRODUCTION",
+          "score": 0.7043604850769043
+        },
+        {
+          "text": "The early expeditions led by Alfred G. Mayor 'became a paradigm model for ecological re search into reefs' (Bowen 2015, p. 91).",
+          "file_title": "2021 - Birkeland et al Different resiliences in coral communities Aua",
+          "section_header": "1. INTRODUCTION",
+          "score": 0.7004349231719971
+        }
+      ]
+    },
+    {
+      "query": "What is a reef transect and how is it used to study coral communities?",
+      "response": "A reef transect is a survey method used to collect data on coral communities, typically employing techniques like line intercept and belt transects. These methodologies help researchers assess coral species distribution and health within specified areas by recording the presence and abundance of corals along a straight line or within a defined belt width.",
+      "sources": [
+        {
+          "text": "A critical evaluation of the Line Intercept Transect methodology for surveying sessile coral reef benthos.",
+          "file_title": "1996 - Mundy1996 Quantitative survey of corals, DMWR",
+          "section_header": "REFERENCES",
+          "score": 0.8126
+        },
+        {
+          "text": "Belt transect methods were used to survey coral communities in 2007/2008.",
+          "file_title": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+          "section_header": "*Corals*",
+          "score": 0.8
+        },
+        {
+          "text": "The data from transects can be used to provide information on where coral species live.",
+          "file_title": "2011 TMP report",
+          "section_header": "**Coral Species**",
+          "score": 0.7921
+        },
+        {
+          "text": "A coral was considered to be within the transect if its centre was within the belt width.",
+          "file_title": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+          "section_header": "*Field Surveys*",
+          "score": 0.7772
+        }
+      ],
+      "top_results": [
+        {
+          "text": "A critical evaluation of the Line Intercept Transect methodology for surveying sessile coral reef benthos.",
+          "file_title": "1996 - Mundy1996 Quantitative survey of corals, DMWR",
+          "section_header": "REFERENCES",
+          "score": 0.812616765499115
+        },
+        {
+          "text": "Belt transect methods were used to survey coral communities in 2007/2008.",
+          "file_title": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+          "section_header": "*Corals*",
+          "score": 0.8000028133392334
+        },
+        {
+          "text": "The data from transects can be used to provide information on where coral species live.",
+          "file_title": "2011 TMP report",
+          "section_header": "**Coral Species**",
+          "score": 0.7921016216278076
+        },
+        {
+          "text": "Coral reef fish transect data set.",
+          "file_title": "Fenner et al. State of Coral Reef ecosystems in American Samoa",
+          "section_header": "**REFERENCES**",
+          "score": 0.7877179384231567
+        },
+        {
+          "text": "A coral was considered to be within the transect if its centre was within the belt width.",
+          "file_title": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+          "section_header": "*Field Surveys*",
+          "score": 0.7771746516227722
+        }
+      ]
+    },
+    {
+      "query": "What kinds of corals were most common on the Aua reef in 1917?",
+      "response": "In 1917, the most common corals on the Aua reef were *Porites cylindrica* and *Pocillopora* species, particularly abundant on the reef flat.",
+      "sources": [
+        {
+          "text": "In 1917, there was high coral cover on the outer reef flat, mostly *Porites cylindrica* and *Pocillopora* spp.",
+          "file_title": "2007,  2008  - Fenner et al. 2008 Long-term FBNMS and Tutuila",
+          "section_header": "The Aua Transect",
+          "score": 0.7796
+        },
+        {
+          "text": "Mayor recorded an abundance of coral species on the Aua reef from shore to crest in 1917.",
+          "file_title": "KAUST news release on Aua transects",
+          "section_header": "Degrees of resiliency",
+          "score": 0.8537
+        },
+        {
+          "text": "In 1917, corals were most abundant on the reef flat.",
+          "file_title": "2021 - Supplementary Tables and Figures",
+          "section_header": "SUPPLEMENTARY FIGURES",
+          "score": 0.7999
+        },
+        {
+          "text": "In 1917, there were many coral colonies over all but the very inner section of the transect at Aua, which went from shore to the reef crest.",
+          "file_title": "2012 TMP report",
+          "section_header": "Detailed Report",
+          "score": 0.7907
+        },
+        {
+          "text": "The most abundant corals at the beginning of the survey in 1917 were recorded on the reef flat (Figs.",
+          "file_title": "2021 - Birkeland et al Different resiliences in coral communities Aua",
+          "section_header": "4.1. Consistent differences in resilience of coral communities over the past century",
+          "score": 0.7742
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Mayor recorded an abundance of coral species on the Aua reef from shore to crest in 1917.",
+          "file_title": "KAUST news release on Aua transects",
+          "section_header": "**Degrees of resiliency**",
+          "score": 0.8537313938140869
+        },
+        {
+          "text": "Figure S2 - In 1917, corals were most abundant on the reef flat.",
+          "file_title": "2021 - Supplementary Tables and Figures",
+          "section_header": "SUPPLEMENTARY FIGURES",
+          "score": 0.7999123334884644
+        },
+        {
+          "text": "In 1917, there were many coral colonies over all but the very inner section of the transect at Aua, which went from shore to the reef crest.",
+          "file_title": "2012 TMP report",
+          "section_header": "**Detailed Report**:",
+          "score": 0.7906812429428101
+        },
+        {
+          "text": "In 1917, there was high coral cover on the outer reef flat, mostly *Porites cylindrica* and *Pocillopora* spp.",
+          "file_title": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+          "section_header": "*The Aua Transect*",
+          "score": 0.7796056866645813
+        },
+        {
+          "text": "The most abundant corals at the beginning of the survey in 1917 were recorded on the reef flat (Figs.",
+          "file_title": "2021 - Birkeland et al Different resiliences in coral communities Aua",
+          "section_header": "**4.1. Consistent differences in resilience of coral communities over the past century**",
+          "score": 0.7742246985435486
+        }
+      ]
+    },
+    {
+      "query": "What human activities can negatively impact coral reefs?",
+      "response": "Human activities that can negatively impact coral reefs include overfishing, poor water quality, eutrophication, sedimentation, and habitat degradation. These activities hinder the recovery and health of coral reef ecosystems.",
+      "sources": [
+        {
+          "text": "based human-induced impacts such as eutrophication and sedimentation which inhibit recovery of the coral reef ecosystem.",
+          "file_title": "Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy",
+          "section_header": "American Samoa",
+          "score": 0.8131
+        },
+        {
+          "text": "there are any detectable impacts from human activities (particularly due to fishing or poor water quality) on these reefs.",
+          "file_title": "2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S",
+          "section_header": "**Long Term Monitoring and Survey Objectives**",
+          "score": 0.8037
+        },
+        {
+          "text": "The following is a summary of some of the human activities that have also contributed to coral reef degradation in the region:",
+          "file_title": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+          "section_header": "4.4 Habitat Degradation",
+          "score": 0.8019
+        },
+        {
+          "text": "In many locations, coral reef resources are at risk by human activities that are either overexploiting the resource or degrading the habitat.",
+          "file_title": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+          "section_header": "IV. SPECIAL MANAGEMENT ISSUES",
+          "score": 0.8019
+        }
+      ],
+      "top_results": [
+        {
+          "text": "based human-induced impacts such as eutrophication and sedimentation which inhibit recovery of the coral reef ecosystem.",
+          "file_title": "Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy",
+          "section_header": "American Samoa",
+          "score": 0.8131048679351807
+        },
+        {
+          "text": "Human impacts on coral reefs can be reduced in the following ways:",
+          "file_title": "1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago",
+          "section_header": "3. Minimizing human impacts on coral reefs",
+          "score": 0.8066616058349609
+        },
+        {
+          "text": "- there are any detectable impacts from human activities (particularly due to fishing or poor water quality) on these reefs.",
+          "file_title": "2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S",
+          "section_header": "**Long Term Monitoring and Survey Objectives**",
+          "score": 0.8036535978317261
+        },
+        {
+          "text": "The following is a summary of some of the human activities that have also contributed to coral reef degradation in the region:",
+          "file_title": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+          "section_header": "4.4 Habitat Degradation",
+          "score": 0.8019485473632812
+        },
+        {
+          "text": "In many locations, coral reef resources are at risk by human activities that are either overexploiting the resource or degrading the habitat.",
+          "file_title": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+          "section_header": "IV. SPECIAL MANAGEMENT ISSUES",
+          "score": 0.8018619418144226
+        }
+      ]
+    },
+    {
+      "query": "Why is having historical baseline data important in environmental studies?",
+      "response": "Having historical baseline data is crucial in environmental studies as it provides a reference for comparing current and future trends, thus enhancing scientific knowledge and informing societal decisions.",
+      "sources": [
+        {
+          "text": "scientific exercise that can provide historic baselines of knowledge for comparison with current and future trends, and thus provide a valuable service to science and society.",
+          "file_title": "Zeller Booth Craig Pauly 2006",
+          "section_header": "Discussion",
+          "score": 0.7573
+        }
+      ],
+      "top_results": [
+        {
+          "text": "<span id=\"page-7-0\"></span>scientific exercise that can provide historic baselines of knowledge for comparison with current and future trends, and thus provide a valuable service to science and society.",
+          "file_title": "Zeller Booth Craig Pauly 2006",
+          "section_header": "Discussion",
+          "score": 0.7573394775390625
+        },
+        {
+          "text": "Environmental baselines in Long Island Sound, 1972-73.",
+          "file_title": "Wass-1984-Annotated.checklist.fish.AS",
+          "section_header": "National Marine Fisheries Service, Special Scientific Report—Fisheries",
+          "score": 0.7478432655334473
+        },
+        {
+          "text": "Appendix Environmental Data",
+          "file_title": "2008 Smith et al Pac Sci - back reef pools RTE",
+          "section_header": "Literature Cited",
+          "score": 0.7236013412475586
+        },
+        {
+          "text": "Base-line data should be analyzed to examine variations among seasons, locations, and years.",
+          "file_title": "Friedlander-1993-Assess.fish.pop.ntl.park.AS",
+          "section_header": "**RESULTS**",
+          "score": 0.7234640121459961
+        },
+        {
+          "text": "Analysis of UNEP World Conservation Monitoring Center data.",
+          "file_title": "Rose Atoll NWR Final CCP_May 2014(1)",
+          "section_header": "**Appendix N. References**",
+          "score": 0.7221286296844482
+        }
+      ]
+    },
+    {
+      "query": "What does the term 'hermatypic coral' mean?",
+      "response": "The term 'hermatypic coral' refers to coral species that are significant contributors to the reef-building process, meaning they play a crucial role in forming coral reefs.",
+      "sources": [
+        {
+          "text": "Scleractinian corals can be hermatypic (significant contributors to the reef-building process) or ahermatypic.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "2.1.1 Taxonomy and morphology of scleractinian corals",
+          "score": 0.7073
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Scleractinian corals can be hermatypic (significant contributors to the reef-building process) or ahermatypic.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**2.1.1 Taxonomy and morphology of scleractinian corals**",
+          "score": 0.7073450088500977
+        },
+        {
+          "text": "hermatypic corals, black coral, precious corals, blue coral, organpipe corals, fire corals, lace corals, etc.",
+          "file_title": "King - 1995 - American Samoa Fishing Regulations",
+          "section_header": "24.0901 Definitions:",
+          "score": 0.6945031881332397
+        },
+        {
+          "text": "The same four genera of hermatypic corals still predominate, but their relative proportions have altered.",
+          "file_title": "1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect",
+          "section_header": "RESULTS",
+          "score": 0.6676970720291138
+        },
+        {
+          "text": "Descriptive reef terminology.",
+          "file_title": "AECOS-1980-Coral.reef.inventory.AS",
+          "section_header": "LITERATURE CITED",
+          "score": 0.6635556817054749
+        },
+        {
+          "text": "Descriptive reef terminology.",
+          "file_title": "ACOES-1980-Coral.reef.inventory.AS",
+          "section_header": "LITERATURE CITED",
+          "score": 0.6635556817054749
+        }
+      ]
+    },
+    {
+      "query": "What is dredging and how can it affect coral reefs?",
+      "response": "Dredging is the process of excavating soil or sediment from the bottom of water bodies, which can have detrimental effects on coral reefs. The silt produced during dredging activities can bury coral and suffocate sensitive reef organisms. Additionally, the increased sediment and turbidity from dredging can raise the prevalence of coral diseases and negatively impact overall coral reef health.",
+      "sources": [
+        {
+          "text": "Silt from dredging activities buries corals and suffocates sensitive reef organisms.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "Coastal Development and Runoff",
+          "score": 0.8607
+        },
+        {
+          "text": "Sediment and turbidity associated with offshore dredging increase coral disease prevalence on nearby reefs.",
+          "file_title": "Messina, Fagaalu R2R noaa_8439_DS1",
+          "section_header": "References",
+          "score": 0.8271
+        },
+        {
+          "text": "Sedimentation resulting from mining, development, and tree removal has been demonstrated to have a negative effect on coral reef health.",
+          "file_title": "CRAG-2000-Status.reefs.AS-Copy",
+          "section_header": "Village Management of Resources",
+          "score": 0.8171
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Silt from dredging activities buries corals and suffocates sensitive reef organisms.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "Coastal Development and Runoff",
+          "score": 0.8607232570648193
+        },
+        {
+          "text": "Characteristics of coral and coral dredging.",
+          "file_title": "Maragos  1993 impact of coastal construction on coral reefs",
+          "section_header": "**References**",
+          "score": 0.8364647626876831
+        },
+        {
+          "text": "Sediment and turbidity associated with offshore dredging increase coral disease prevalence on nearby reefs.",
+          "file_title": "Messina, Fagaalu R2R noaa_8439_DS1",
+          "section_header": "References",
+          "score": 0.8271142244338989
+        },
+        {
+          "text": "Lethal and sublethal effects of dredging on coral reefs.",
+          "file_title": "Maragos  1993 impact of coastal construction on coral reefs",
+          "section_header": "**References**",
+          "score": 0.8186964988708496
+        },
+        {
+          "text": "Sedimentation resulting from mining, development, and tree removal has been demonstrated to have a negative effect on coral reef health.",
+          "file_title": "CRAG-2000-Status.reefs.AS-Copy",
+          "section_header": "Village Management of Resources",
+          "score": 0.8171342015266418
+        }
+      ]
+    },
+    {
+      "query": "How does freshwater runoff from heavy rain affect coral health?",
+      "response": "Freshwater runoff from heavy rain negatively impacts coral health by causing freshwater \"kills\" and disrupting coral reproduction.",
+      "sources": [
+        {
+          "text": "This freshwater runoff can be detrimental to coral reefs, by resulting in freshwater \"kills\" or interfering with coral reproduction (Maragos 1992, Richmond 1993a).",
+          "file_title": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+          "section_header": "Freshwater Kills and Flooding",
+          "score": 0.8233
+        }
+      ],
+      "top_results": [
+        {
+          "text": "This freshwater runoff can be detrimental to coral reefs, by resulting in freshwater \"kills\" or interfering with coral reproduction (Maragos 1992, Richmond 1993a).",
+          "file_title": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+          "section_header": "Freshwater Kills and Flooding",
+          "score": 0.8233044147491455
+        },
+        {
+          "text": "Effects of terrestrial runoff on the ecology of corals and coral reefs: Review and synthesis.",
+          "file_title": "Shuler 2019 hydrology-06-00018-v2",
+          "section_header": "References and Notes",
+          "score": 0.804383397102356
+        },
+        {
+          "text": "Effects of terrestrial runoff on the ecology of corals and coral reefs: review and synthesis.",
+          "file_title": "Messina Dissertation 2018 Terrigenous_sediment_dynamics_",
+          "section_header": "<span id=\"page-60-0\"></span>**1.7. References for Chapter One**",
+          "score": 0.8017909526824951
+        },
+        {
+          "text": "Effects of terrestrial runoff on the ecology of corals and coral reefs: review and synthesis.",
+          "file_title": "Comeros-Raynal 2021 Terrestrial Run off in AS",
+          "section_header": "**References**",
+          "score": 0.8017909526824951
+        },
+        {
+          "text": "Effects of terrestrial runoff on the ecology of corals and coral reefs: review and synthesis.",
+          "file_title": "Atkinson-2005-Study.watershed.AS",
+          "section_header": "**Literature Cited**",
+          "score": 0.8017909526824951
+        }
+      ]
+    },
+    {
+      "query": "How did coral abundance on the Aua transect change between 1917 and 1973?",
+      "response": "Coral abundance along the Aua transect changed significantly from 1917 to 1973, with major alterations in the coral assemblage observed after a 1973 resurvey of 1917 reef transects. Specific metrics and details of these changes, however, are not provided in the context.",
+      "sources": [
+        {
+          "text": "Major alterations to the coral assemblage near Ava Point evident after a 1973 resurvey of 1917 reef transects.",
+          "file_title": "AECOS-1980-Coral.reef.inventory.AS",
+          "section_header": "FRINGING REEF",
+          "score": 0.7827
+        },
+        {
+          "text": "The abundance of each of four coral genera along the Aua transect during each of three surveys: 1917 (Mayor, 1924a), 1973 (Dahl and Lamberts, 1977), and 1995 (this study).",
+          "file_title": "1997 Green et al. 78 yr Aua",
+          "section_header": "DISCUSSION",
+          "score": 0.8178
+        },
+        {
+          "text": "Coral density has changed substantially over time along the Aua transect (Fig.",
+          "file_title": "2013-06 Birkeland et al Aua transects screen res",
+          "section_header": "Results",
+          "score": 0.8053
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Density of corals from 1917 to 2007 along the Aua transect from the shore to the reef crest.",
+          "file_title": "2013-06 Birkeland et al Aua transects screen res",
+          "section_header": "**Methods**",
+          "score": 0.8340345621109009
+        },
+        {
+          "text": "Species diversity of corals along the Aua transect from 1917 to 2007.",
+          "file_title": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+          "section_header": "*The Aua Transect*",
+          "score": 0.8178656101226807
+        },
+        {
+          "text": "3}}$ : The abundance of each of four coral genera along the Aua transect during each of three surveys: 1917 (Mayor, 1924a), 1973 (Dahl and Lamberts, 1977), and 1995 (this study).",
+          "file_title": "1997 Green et al.  78 yr Aua",
+          "section_header": "DISCUSSION",
+          "score": 0.8178244233131409
+        },
+        {
+          "text": "Coral density has changed substantially over time along the Aua transect (Fig.",
+          "file_title": "2013-06 Birkeland et al Aua transects screen res",
+          "section_header": "**Results**",
+          "score": 0.8052665591239929
+        },
+        {
+          "text": "Major alterations to the coral assemblage near Ava Point evident after a 1973 resurvey of 1917 reef transects.",
+          "file_title": "AECOS-1980-Coral.reef.inventory.AS",
+          "section_header": "FRINGING REEF",
+          "score": 0.7827267646789551
+        }
+      ]
+    },
+    {
+      "query": "Which coral genera increased or decreased on the Aua reef over time?",
+      "response": "The number of coral genera increased on reef flats over time at Aua reef. Specific genera changes are not detailed in the provided context.",
+      "sources": [
+        {
+          "text": "The number of genera and species of corals increased on reef flats over time.",
+          "file_title": "2011 TMP report",
+          "section_header": "**Abstract**",
+          "score": 0.7802
+        }
+      ],
+      "top_results": [
+        {
+          "text": "(in press) found that there have been dramatic changes in the coral communities at Aua this century.",
+          "file_title": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+          "section_header": "2.3.1 American Samoa",
+          "score": 0.8174362182617188
+        },
+        {
+          "text": "There have been dramatic changes in the coral reef community at Aua this century.",
+          "file_title": "1997 Green et al.  78 yr Aua",
+          "section_header": "ABSTRACT",
+          "score": 0.8122029304504395
+        },
+        {
+          "text": "Comparison of distribution and numbers of total corals and major genera observed on the Aua line in 1917 and 1973.",
+          "file_title": "1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect",
+          "section_header": "RESULTS",
+          "score": 0.7835761308670044
+        },
+        {
+          "text": "Species diversity of corals along the Aua transect from 1917 to 2007.",
+          "file_title": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+          "section_header": "*The Aua Transect*",
+          "score": 0.7807708978652954
+        },
+        {
+          "text": "The number of genera and species of corals increased on reef flats over time.",
+          "file_title": "2011 TMP report",
+          "section_header": "**Abstract**",
+          "score": 0.7802046537399292
+        }
+      ]
+    },
+    {
+      "query": "How were Mayor's original transects relocated during later resurveys?",
+      "response": "Mayor's original transects were relocated by matching his maps and photos with recent maps and the actual shore contour, and by carefully following the descriptions from Mayor's work and Dahl and Lamberts' studies, as well as utilizing photographs and maps from both sources.",
+      "sources": [
+        {
+          "text": "by matching Mayor's maps and photos with recent maps and the actual shore contour.",
+          "file_title": "1997 Green et al.  78 yr Aua",
+          "section_header": "MATERIALS AND METHODS",
+          "score": 0.7866
+        },
+        {
+          "text": "The transect line was relocated by carefully following the description of the location of the transect in Mayor (1924) and Dahl and Lamberts (1977).",
+          "file_title": "2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS",
+          "section_header": "Survey techniques – The Aua Transect",
+          "score": 0.7832
+        },
+        {
+          "text": "by carefully following the description of the location of the transect in Mayor (1924a) and Dahl and Lamberts (1977), as well as by using the photographs and maps in both papers.",
+          "file_title": "1997 Green et al.  78 yr Aua",
+          "section_header": "MATERIALS AND METHODS",
+          "score": 0.7039
+        }
+      ],
+      "top_results": [
+        {
+          "text": "However, they were able to relocate the transect by matching Mayor's maps and photos with recent maps and the actual shore contour.",
+          "file_title": "1997 Green et al.  78 yr Aua",
+          "section_header": "MATERIALS AND METHODS",
+          "score": 0.7865718603134155
+        },
+        {
+          "text": "The transect line was relocated by carefully following the description of the location of the transect in Mayor (1924) and Dahl and Lamberts (1977).",
+          "file_title": "2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS",
+          "section_header": "**Survey techniques – The Aua Transect**",
+          "score": 0.7831898927688599
+        },
+        {
+          "text": "by carefully following the description of the location of the transect in Mayor (1924a) and Dahl and Lamberts (1977), as well as by using the photographs and maps in both papers.",
+          "file_title": "1997 Green et al.  78 yr Aua",
+          "section_header": "MATERIALS AND METHODS",
+          "score": 0.7038900256156921
+        },
+        {
+          "text": "We report on a recent resurvey of some of Mayor's sites.",
+          "file_title": "1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect",
+          "section_header": "Environmental Impact on a Samoan Coral Reef: A Resurvey of Mayor's 1917 Transect<sup>1</sup>",
+          "score": 0.7017956972122192
+        },
+        {
+          "text": "The transect was re-located",
+          "file_title": "1997 Green et al.  78 yr Aua",
+          "section_header": "MATERIALS AND METHODS",
+          "score": 0.6949405074119568
+        }
+      ]
+    },
+    {
+      "query": "What methodological challenges arise when comparing reef surveys decades apart?",
+      "response": "Methodological challenges in comparing reef surveys conducted decades apart include variations in survey methodologies, differences in data compilation across different investigators, and changes in reef ecosystems over time.",
+      "sources": [
+        {
+          "text": "Data were compiled from individual surveys conducted by different investigators at different reefs using different methodologies sometimes separated by decades.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "National Trends in Coral Reef Ecosystems",
+          "score": 0.7756
+        },
+        {
+          "text": "This information will then be compared with the results of previous surveys in the Territory, to describe changes which have occurred in reef habitats over the last two decades.",
+          "file_title": "Craig-1994-Workshop.id.fish.issues.AS-Copy",
+          "section_header": "COMPONENT 2. REEF FISH ECOLOGY",
+          "score": 0.7751
+        }
+      ],
+      "top_results": [
+        {
+          "text": "In Comparing Coral Reef Survey Methods.",
+          "file_title": "Musberger-2004-Monitor.fisheries.AS-Copy",
+          "section_header": "**References**",
+          "score": 0.831355631351471
+        },
+        {
+          "text": "A simulation study of coral reef survey methods.",
+          "file_title": "Musberger-2004-Monitor.fisheries.AS-Copy",
+          "section_header": "**References**",
+          "score": 0.7903687953948975
+        },
+        {
+          "text": "Data were compiled from individual surveys conducted by different investigators at different reefs using different methodologies sometimes separated by decades.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "National Trends in Coral Reef Ecosystems",
+          "score": 0.7755632400512695
+        },
+        {
+          "text": "This information will then be compared with the results of previous surveys in the Territory, to describe changes which have occurred in reef habitats over the last two decades.",
+          "file_title": "Craig-1994-Workshop.id.fish.issues.AS-Copy",
+          "section_header": "COMPONENT 2. REEF FISH ECOLOGY",
+          "score": 0.7750996351242065
+        },
+        {
+          "text": "A comparative survey of coral reef research sites.",
+          "file_title": "Wells-1988-Coral.reefs.AS",
+          "section_header": "References",
+          "score": 0.7739872932434082
+        }
+      ]
+    },
+    {
+      "query": "How did urbanization around Pago Pago Harbor influence reef conditions?",
+      "response": "Urbanization around Pago Pago Harbor has led to increasing stress on reef communities due to rapid population expansion and industrial development. This has resulted in adverse conditions for the reefs, such as eutrophication, pollution, sediment runoff, and physical disturbances like dredging and filling.",
+      "sources": [
+        {
+          "text": "rapid population expansion and industrial development, particularly in Pago Pago harbour, have placed the reef communities under increasing stress.",
+          "file_title": "1996 - Mundy1996 Quantitative survey of corals, DMWR",
+          "section_header": "INTRODUCTION",
+          "score": 0.8129
+        },
+        {
+          "text": "eutrophication from heavily urbanized Pago Pago Harbor also stressed adjacent reefs in 1992.",
+          "file_title": "Brainard-2006-PIFSC.cruise.rpt.2002.AS",
+          "section_header": "<u>Tutuila</u>",
+          "score": 0.7936
+        },
+        {
+          "text": "Pollution is localized but has caused extensive damage to reefs in the deep-water Pago Pago harbor in the recent past.",
+          "file_title": "Cornish-2002-Coral.reef.program.AS",
+          "section_header": "2) Introduction",
+          "score": 0.7856
+        },
+        {
+          "text": "Reefs in Pago Pago Harbor have been dredged, filled or built over, and subjected to a variety of other disturbances, such as nutrients from the canneries and sediment runoff.",
+          "file_title": "Fenner et al. State of Coral Reef ecosystems in American Samoa",
+          "section_header": "Results and Discussion",
+          "score": 0.7848
+        },
+        {
+          "text": "the reefs in Pago Pago Harbor have suffered many of these, and most are now dead.",
+          "file_title": "Fenner - AS Archipelago Field guide  Verson 1",
+          "section_header": "**Human Impacts on Reefs and Conservation**",
+          "score": 0.7809
+        }
+      ],
+      "top_results": [
+        {
+          "text": "In addition, rapid population expansion and industrial development, particularly in Pago Pago harbour, have placed the reef communities under increasing stress.",
+          "file_title": "1996 - Mundy1996 Quantitative survey of corals, DMWR",
+          "section_header": "INTRODUCTION",
+          "score": 0.8129066228866577
+        },
+        {
+          "text": "Moreover, eutrophication from heavily urbanized Pago Pago Harbor also stressed adjacent reefs in 1992.",
+          "file_title": "Brainard-2006-PIFSC.cruise.rpt.2002.AS",
+          "section_header": "<u>Tutuila</u>",
+          "score": 0.7936044931411743
+        },
+        {
+          "text": "Pollution is localized but has caused extensive damage to reefs in the deep-water Pago Pago harbor in the recent past.",
+          "file_title": "Cornish-2002-Coral.reef.program.AS",
+          "section_header": "2) Introduction",
+          "score": 0.7855954170227051
+        },
+        {
+          "text": "Reefs in Pago Pago Harbor have been dredged, filled or built over, and subjected to a variety of other disturbances, such as nutrients from the canneries and sediment runoff.",
+          "file_title": "Fenner et al. State of Coral Reef ecosystems in American Samoa",
+          "section_header": "Results and Discussion",
+          "score": 0.7848004102706909
+        },
+        {
+          "text": "Coral reefs can be damaged by many human activities, and the reefs in Pago Pago Harbor have suffered many of these, and most are now dead.",
+          "file_title": "Fenner - AS Archipelago Field guide  Verson 1",
+          "section_header": "**Human Impacts on Reefs and Conservation**",
+          "score": 0.7808916568756104
+        }
+      ]
+    },
+    {
+      "query": "What evidence suggests the Aua reef may be recovering from past disturbances?",
+      "response": "Evidence suggesting that the Aua reef may be recovering from past disturbances includes indications that both human and natural impacts have led to changes, with suggestions that the reef is now recovering from earlier damaging events. Additionally, knowledge of coral species tolerances supports the view that the Aua reef is gradually recuperating from earlier stress, as mentioned in multiple studies. Furthermore, treatment projects are underway that may also contribute to this recovery.",
+      "sources": [
+        {
+          "text": "it is suggested that the Aua reef may now be recovering from earlier damaging events.",
+          "file_title": "1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect",
+          "section_header": "Environmental Impact on a Samoan Coral Reef: A Resurvey of Mayor's 1917 Transect",
+          "score": 0.8881
+        },
+        {
+          "text": "What is known of species tolerances in corals also supports the view that the Aua reef is gradually recovering from earlier stress.",
+          "file_title": "1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect",
+          "section_header": "DISCUSSION",
+          "score": 0.8723
+        },
+        {
+          "text": "Dahl and Lamberts (1977) suggested that Aua Reef is gradually recovering from earlier stress.",
+          "file_title": "Wells-1988-Coral.reefs.AS",
+          "section_header": "Disturbances and Deficiencies",
+          "score": 0.84
+        },
+        {
+          "text": "The coral reefs of Tutuila and Aunu'u have shown a dramatic recovery from the large scale disturbances of the last few decades.",
+          "file_title": "2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S",
+          "section_header": "**Recovery from Large Scale Disturbances on Tutuila and Aunu'u**",
+          "score": 0.7896
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Both human and natural impacts may be responsible for the observed changes; it is suggested that the Aua reef may now be recovering from earlier damaging events.",
+          "file_title": "1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect",
+          "section_header": "Environmental Impact on a Samoan Coral Reef: A Resurvey of Mayor's 1917 Transect<sup>1</sup>",
+          "score": 0.8880892992019653
+        },
+        {
+          "text": "What is known of species tolerances in corals also supports the view that the Aua reef is gradually recovering from earlier stress.",
+          "file_title": "1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect",
+          "section_header": "DISCUSSION",
+          "score": 0.8723433017730713
+        },
+        {
+          "text": "Treatment projects are, however, under way (see below) and Dahl and Lamberts (1977) suggested that Aua Reef is gradually recovering from earlier stress.",
+          "file_title": "Wells-1988-Coral.reefs.AS",
+          "section_header": "Disturbances and Deficiencies",
+          "score": 0.8400321006774902
+        },
+        {
+          "text": "The coral reefs of Tutuila and Aunu'u have shown a dramatic recovery from the large scale disturbances of the last few decades.",
+          "file_title": "2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S",
+          "section_header": "**Recovery from Large Scale Disturbances on Tutuila and Aunu'u**",
+          "score": 0.7895758152008057
+        },
+        {
+          "text": "In addition to the reef flat, the reef slopes at Aua also appear to have been severely degraded in the last four decades.",
+          "file_title": "1997 Green et al.  78 yr Aua",
+          "section_header": "DISCUSSION",
+          "score": 0.7741215229034424
+        }
+      ]
+    },
+    {
+      "query": "How did changes in water circulation and turbidity affect coral distribution in the harbor?",
+      "response": "Changes in water circulation due to factors like dredging and effluent led to increased turbidity and altered habitat conditions, reducing coral abundance and affecting their distribution. Areas that are more turbid and eutrophic support fewer coral-associated organisms, while sedimentation and pollution have detrimental effects on coral reefs.",
+      "sources": [
+        {
+          "text": "This suggests that the relatively turbid and eutrophic conditions at these outer harbor sites near the entrance support biota that occur both on coral reefs and in harbors, but that the coral reef associated organisms decline with further movement into the harbor.",
+          "file_title": "Coles-2003-Intro.marine.species.NPSA.AS-Copy",
+          "section_header": "C. Present Survey",
+          "score": 0.7838
+        },
+        {
+          "text": "Dredging further destroyed nearshore reef and seagrass beds and greatly altered circulation in the harbor.",
+          "file_title": "Maragos  1993 impact of coastal construction on coral reefs",
+          "section_header": "*Sedimentation Effects on Coral Reefs*",
+          "score": 0.7661
+        },
+        {
+          "text": "The striking decrease in coral abundance at 6 m depth on the reef at the Rainmaker Hotel and the slight decrease in coral abundance at Fatu Rock may result from increased turbidity and perhaps even toxic effects of polluted harbor waters.",
+          "file_title": "1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay",
+          "section_header": "FOLLOWING the OUTBREAK of Acanthaster planci 1978-1979",
+          "score": 0.7579
+        },
+        {
+          "text": "The lower coral cover on the north side of the harbor may have been produced at least partly by the cannery effluent.",
+          "file_title": "2007 TMP report",
+          "section_header": "**Harbor**",
+          "score": 0.751
+        }
+      ],
+      "top_results": [
+        {
+          "text": "This suggests that the relatively turbid and eutrophic conditions at these outer harbor sites near the entrance support biota that occur both on coral reefs and in harbors, but that the coral reef associated organisms decline with further movement into the harbor.",
+          "file_title": "Coles-2003-Intro.marine.species.NPSA.AS-Copy",
+          "section_header": "C. Present Survey",
+          "score": 0.7838015556335449
+        },
+        {
+          "text": "Dredging further destroyed nearshore reef and seagrass beds and greatly altered circulation in the harbor.",
+          "file_title": "Maragos  1993 impact of coastal construction on coral reefs",
+          "section_header": "*Sedimentation Effects on Coral Reefs*",
+          "score": 0.7661192417144775
+        },
+        {
+          "text": "The striking decrease in coral abundance at 6 m depth on the reef at the Rainmaker Hotel and the slight decrease in coral abundance at Fatu Rock may result from increased turbidity and perhaps even toxic effects of polluted harbor waters.",
+          "file_title": "1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay",
+          "section_header": "FOLLOWING the OUTBREAK of Acanthaster planci 1978-1979",
+          "score": 0.7579442262649536
+        },
+        {
+          "text": "The lower coral cover on the north side of the harbor may have been produced at least partly by the cannery effluent.",
+          "file_title": "2007 TMP report",
+          "section_header": "**Harbor**",
+          "score": 0.7510112524032593
+        },
+        {
+          "text": "Impacts included large amounts of coral rubble and redistributed sediments in shallow water in affected areas.",
+          "file_title": "National Marine Sanctuary Condition Report",
+          "section_header": "**Cyclones**",
+          "score": 0.7411605715751648
+        }
+      ]
+    },
+    {
+      "query": "Why did Pocillopora become more dominant while Porites declined?",
+      "response": "Pocillopora became more dominant while Porites declined due to substantial increases in Pocillopora colonies and declines in Porites abundance observed in multiple studies over time.",
+      "sources": [
+        {
+          "text": "Pocillopora has become more abundant replacing Porites.",
+          "file_title": "Wells-1988-Coral.reefs.AS",
+          "section_header": "Manu'a Group",
+          "score": 0.8499
+        },
+        {
+          "text": "Porites was a numerically dominant genus, and in 2006 Pocillopora was a dominant genus.",
+          "file_title": "Brainard et al. 2008 NOAA report for 2002-2006",
+          "section_header": "4.5.3 Temporal Comparison—Coral and Coral Disease",
+          "score": 0.7863
+        },
+        {
+          "text": "Porites and Psammocora colonies have declined in abundance, while Pocillopora colonies have increased substantially.",
+          "file_title": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+          "section_header": "2.3.1 American Samoa",
+          "score": 0.7857
+        },
+        {
+          "text": "Numbers of Psammocora and Porites decreased by half, while Pocillopora, especially P. damicornis, increased fivefold.",
+          "file_title": "1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect",
+          "section_header": "RESULTS",
+          "score": 0.7652
+        }
+      ],
+      "top_results": [
+        {
+          "text": "*Pocillopora* has become more abundant replacing *Porites*.",
+          "file_title": "Wells-1988-Coral.reefs.AS",
+          "section_header": "Manu'a Group",
+          "score": 0.8498887419700623
+        },
+        {
+          "text": "In 2004, *Porites* was a numerically dominant genus, and in 2006 *Pocillopora* was a dominant genus.",
+          "file_title": "Brainard et al. 2008 NOAA report for 2002-2006",
+          "section_header": "**4.5.3 Temporal Comparison—Coral and Coral Disease**",
+          "score": 0.7863094806671143
+        },
+        {
+          "text": "For example, Porites and Psammocora colonies have declined in abundance, while Pocillopora colonies have increased substantially.",
+          "file_title": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+          "section_header": "2.3.1 American Samoa",
+          "score": 0.7857499122619629
+        },
+        {
+          "text": "The non-*Montipora* spp have increased in size and the branching *Pocillopora* spp have become less relatively abundant over time.",
+          "file_title": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+          "section_header": "**SUMMARY**",
+          "score": 0.7780460119247437
+        },
+        {
+          "text": "Numbers of *Psammocora* and *Porites* decreased by half, while *Pocillopora,* especially *P. damicornis,* increased fivefold.",
+          "file_title": "1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect",
+          "section_header": "RESULTS",
+          "score": 0.7651900053024292
+        }
+      ]
+    },
+    {
+      "query": "How were coral species identifications standardized between historical and modern surveys?",
+      "response": "Coral species identifications were standardized between historical and modern surveys through systematic approaches that included both in-situ identifications by experts and sampling methods for specific species. Historical records, such as species diversity along transects, allowed comparisons over time. Surveys documented species composition consistently across different years, enhancing comparability.",
+      "sources": [
+        {
+          "text": "Overview of Coral Genera and Species Composition compared to 1995 Survey",
+          "file_title": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+          "section_header": "RESULTS",
+          "score": 0.8057
+        },
+        {
+          "text": "Corals were identified *in situ* to species (by the second author).",
+          "file_title": "2010_Kenyon et al_ARB 586_Rose",
+          "section_header": "Benthic Surveys",
+          "score": 0.7586
+        },
+        {
+          "text": "Species diversity of corals along the Aua transect from 1917 to 2007.",
+          "file_title": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+          "section_header": "*The Aua Transect*",
+          "score": 0.752
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Overview of Coral Genera and Species Composition compared to 1995 Survey",
+          "file_title": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+          "section_header": "RESULTS",
+          "score": 0.8057352304458618
+        },
+        {
+          "text": "In rare circumstances, samples of some corals were also collected to assist in identifications.",
+          "file_title": "2010_Kenyon et al_ARB 586_Rose",
+          "section_header": "Benthic Surveys",
+          "score": 0.7597728967666626
+        },
+        {
+          "text": "Corals were identified *in situ* to species (by the second author).",
+          "file_title": "2010_Kenyon et al_ARB 586_Rose",
+          "section_header": "Benthic Surveys",
+          "score": 0.7585615515708923
+        },
+        {
+          "text": "Summary of scleractinian and soft coral species recorded at each survey site.",
+          "file_title": "Green and Hunter 1988 preliminary NPSA Tutuila",
+          "section_header": "REFERENCES",
+          "score": 0.7539337277412415
+        },
+        {
+          "text": "Species diversity of corals along the Aua transect from 1917 to 2007.",
+          "file_title": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+          "section_header": "*The Aua Transect*",
+          "score": 0.7520080804824829
+        }
+      ]
+    },
+    {
+      "query": "What role do storms and extreme rainfall events play in long-term reef change?",
+      "response": "Storms and extreme rainfall events are significant stressors on coral reefs, contributing to long-term changes through physical damage and altering water quality. These events can influence coral recovery patterns and lead to a decline in coral health.",
+      "sources": [
+        {
+          "text": "Multiple stressors on coral reefs: a long-term perspective.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "REFERENCES",
+          "score": 0.7801
+        },
+        {
+          "text": "Hurricanes and Caribbean coral reefs: Impacts, recovery patterns, and role in long-term decline.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "REFERENCES",
+          "score": 0.7787
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Multiple stressors on coral reefs: a long-term perspective.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.7801211476325989
+        },
+        {
+          "text": "Multiple stressors on coral reefs: a long-term perspective.",
+          "file_title": "2008 The_state_of_the_coral_reef_habitat_in_A",
+          "section_header": "**References**",
+          "score": 0.7801211476325989
+        },
+        {
+          "text": "Hurricanes and Caribbean coral reefs: Impacts, recovery patterns, and role in long-term decline.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.7786756157875061
+        },
+        {
+          "text": "Mechanisms of reef coral resistance to future climate change.",
+          "file_title": "Naugle MS Oliver TA, Barshis DJ et al 2021",
+          "section_header": "REFERENCES",
+          "score": 0.7665306329727173
+        },
+        {
+          "text": "Mechanisms of reef coral resistance to future climate change.",
+          "file_title": "Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef",
+          "section_header": "**References**",
+          "score": 0.7665306329727173
+        }
+      ]
+    },
+    {
+      "query": "How do long-term transect studies help distinguish between natural and human-induced reef changes?",
+      "response": "Long-term transect studies help differentiate natural and human-induced changes in coral reefs by providing ongoing data that captures both types of impacts over time. These studies allow researchers to observe shifts in reef communities and assess the causes of ecological changes, helping to identify patterns specific to human activities versus natural processes.",
+      "sources": [
+        {
+          "text": "Coral reef degradation: a long-term study of human and natural impacts.",
+          "file_title": "Hunter-1995-Review.coral.reefs.fishery.AS-Copy",
+          "section_header": "Literature Cited",
+          "score": 0.8003
+        },
+        {
+          "text": "A study of biological impact caused by natural and man-induced changes in a tropical reef.",
+          "file_title": "1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities",
+          "section_header": "LITERATURE CITED",
+          "score": 0.772
+        },
+        {
+          "text": "Identifying ecological change and its causes: a case study on coral reefs.",
+          "file_title": "Comeros-Raynal 2021 Terrestrial Run off in AS",
+          "section_header": "**References**",
+          "score": 0.771
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Coral reef degradation: a long-term study of human and natural impacts.",
+          "file_title": "Hunter-1995-Review.coral.reefs.fishery.AS-Copy",
+          "section_header": "Literature Cited",
+          "score": 0.8003202676773071
+        },
+        {
+          "text": "The present paper discusses the changes in the reef communities along this transect over the next century.",
+          "file_title": "2021 - Birkeland et al Different resiliences in coral communities Aua",
+          "section_header": "1. INTRODUCTION",
+          "score": 0.792243242263794
+        },
+        {
+          "text": "A study of biological impact caused by natural and man-induced changes in a tropical reef.",
+          "file_title": "1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities",
+          "section_header": "LITERATURE CITED",
+          "score": 0.7720253467559814
+        },
+        {
+          "text": "Identifying ecological change and its causes: a case study on coral reefs.",
+          "file_title": "Comeros-Raynal 2021 Terrestrial Run off in AS",
+          "section_header": "**References**",
+          "score": 0.7710483074188232
+        },
+        {
+          "text": "Decedal changes in reef-building communities: implications for reef growth and monitoring programs.",
+          "file_title": "Cornish and Didonato Polydactyla American Samoa",
+          "section_header": "References",
+          "score": 0.7592424154281616
+        }
+      ]
+    },
+    {
+      "query": "What are the ecological implications of a shift from Porites-dominated to Pocillopora-dominated reefs?",
+      "response": "The ecological implications of a shift from Porites-dominated to Pocillopora-dominated reefs can include changes in biodiversity, competitive dynamics, and resilience against environmental stressors. Such shifts may also lead to increased susceptibility to macroalgae dominance, affecting the overall health of the reef ecosystem and its ability to recover from disturbances.",
+      "sources": [
+        {
+          "text": "Shift from coral to macroalgae dominance on a volcanically acidified reef.",
+          "file_title": "Barkley et al. 2022 carbonate accretion rates higher in AS",
+          "section_header": "References",
+          "score": 0.7847
+        },
+        {
+          "text": "Predicted disappearance of coral-reef ramparts: A direct result of major ecological disturbances.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "Bibliography Bibliography",
+          "score": 0.7828
+        },
+        {
+          "text": "contributed to the shift from a coral-dominated ecosystem to a macroalgae-dominated system on many reefs.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "CONCLUSIONS CONCLUSIONS",
+          "score": 0.7852
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Coral-algal phase shifts on coral reefs: Ecological and environmental aspects.",
+          "file_title": "NPSA_Condition Assessment 2019",
+          "section_header": "<span id=\"page-99-0\"></span>*4.2.6. Literature Cited*",
+          "score": 0.7855926156044006
+        },
+        {
+          "text": "contributed to the shift from a coral-dominated ecosystem to a macroalgae-dominated system on many reefs.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "**CONCLUSIONS CONCLUSIONS**",
+          "score": 0.7851979732513428
+        },
+        {
+          "text": "Shift from coral to macroalgae dominance on a volcanically acidified reef.",
+          "file_title": "Barkley et al. 2022 carbonate accretion rates higher in AS",
+          "section_header": "References",
+          "score": 0.7847452163696289
+        },
+        {
+          "text": "Predicted disappearance of coral-reef ramparts: A direct result of major ecological disturbances.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "**Bibliography Bibliography**",
+          "score": 0.7828470468521118
+        },
+        {
+          "text": "Increasing relative abundance of *Porites astreoides* on Caribbean reefs mediated by an overall decline in coral cover.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.7798551321029663
+        }
+      ]
+    },
+    {
+      "query": "How reliable are historical coral counts given differences in taxonomy and survey techniques?",
+      "response": "Historical coral counts may be influenced by differences in taxonomy and survey techniques, impacting their reliability. Various sources discuss the challenges of comparing coral reef survey methods and assess biodiversity estimates, indicating that current methodologies may underrepresent true coral diversity due to inconsistencies in techniques.",
+      "sources": [
+        {
+          "text": "Overview of Coral Genera and Species Composition compared to 1995 Survey",
+          "file_title": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+          "section_header": "RESULTS",
+          "score": 0.8133
+        },
+        {
+          "text": "In Comparing Coral Reef Survey Methods.",
+          "file_title": "Musberger-2004-Monitor.fisheries.AS-Copy",
+          "section_header": "**References**",
+          "score": 0.8073
+        },
+        {
+          "text": "A critique of the visual census method for assessing coral reef fish populations.",
+          "file_title": "Fenner-2006-Corel.reef.mon.program.AS",
+          "section_header": "**References**",
+          "score": 0.8061
+        },
+        {
+          "text": "Are current estimates of coral reef biodiversity too low?",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.7937
+        },
+        {
+          "text": "Precision and accuracy of visual census techniques for fish assemblages on coral patch reefs.",
+          "file_title": "Friedlander-1993-Assess.fish.pop.ntl.park.AS",
+          "section_header": "Literature Cited",
+          "score": 0.7933
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Overview of Coral Genera and Species Composition compared to 1995 Survey",
+          "file_title": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+          "section_header": "RESULTS",
+          "score": 0.8132516145706177
+        },
+        {
+          "text": "In Comparing Coral Reef Survey Methods.",
+          "file_title": "Musberger-2004-Monitor.fisheries.AS-Copy",
+          "section_header": "**References**",
+          "score": 0.8072662353515625
+        },
+        {
+          "text": "A critique of the visual census method for assessing coral reef fish populations.",
+          "file_title": "Fenner-2006-Corel.reef.mon.program.AS",
+          "section_header": "<span id=\"page-41-0\"></span>**References**",
+          "score": 0.8060522675514221
+        },
+        {
+          "text": "Are current estimates of coral reef biodiversity too low?",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.7936666011810303
+        },
+        {
+          "text": "Precision and accuracy of visual census techniques for fish assemblages on coral patch reefs.",
+          "file_title": "Friedlander-1993-Assess.fish.pop.ntl.park.AS",
+          "section_header": "Literature Cited",
+          "score": 0.793337345123291
+        }
+      ]
+    },
+    {
+      "query": "What does the Aua transect tell us about reef resilience in semi-enclosed harbors?",
+      "response": "The Aua transect provides insights into the resilience of coral reefs in semi-enclosed harbors by identifying coral resilience potential and evaluating reef damage mitigation strategies. It highlights the importance of monitoring coral reef health and assessing management strategies to enhance resilience.",
+      "sources": [
+        {
+          "text": "Identifying coral reef resilience potential in Tutuila, American Samoa based on NOAA coral reef monitoring data.",
+          "file_title": "Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience",
+          "section_header": "Recommended citation:",
+          "score": 0.7865
+        },
+        {
+          "text": "Mitigation of reef damage at Kawaihae Harbor through transplantation of reef corals.",
+          "file_title": "Kolinski 2006 assessment of transplanted corals at Aua after 5 years",
+          "section_header": "References",
+          "score": 0.785
+        },
+        {
+          "text": "Assessing relative resilience potential of coral reefs to inform management.",
+          "file_title": "Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience",
+          "section_header": "Literature Cited",
+          "score": 0.7816
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Capturing the cornerstones of coral reef resilience: linking theory to practice.",
+          "file_title": "CH4_Fish_Coral_from noaa_nccos_132",
+          "section_header": "**REFERENCES**",
+          "score": 0.7881605625152588
+        },
+        {
+          "text": "Capturing the cornerstones of coral reef resilience: linking theory to practice.",
+          "file_title": "Kendall M, Poti M 2011",
+          "section_header": "**REFERENCES**",
+          "score": 0.7881605625152588
+        },
+        {
+          "text": "Identifying coral reef resilience potential in Tutuila, American Samoa based on NOAA coral reef monitoring data.",
+          "file_title": "Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience",
+          "section_header": "**Recommended citation:**",
+          "score": 0.786495566368103
+        },
+        {
+          "text": "Mitigation of reef damage at Kawaihae Harbor through transplantation of reef corals.",
+          "file_title": "Kolinski 2006 assessment of transplanted corals at Aua after 5 years",
+          "section_header": "**References**",
+          "score": 0.7849776744842529
+        },
+        {
+          "text": "Assessing relative resilience potential of coral reefs to inform management.",
+          "file_title": "Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience",
+          "section_header": "**Literature Cited**",
+          "score": 0.7815545201301575
+        }
+      ]
+    },
+    {
+      "query": "How might reduced coral colony size affect reef structural complexity over time?",
+      "response": "Reduced coral colony size can lead to declines in the structural complexity of reefs, as smaller colonies contribute less to the overall architecture. This can result in a flattening of coral reefs over time, negatively impacting the habitat for diverse marine species.",
+      "sources": [
+        {
+          "text": "The importance of structural complexity in coral reef ecosystems.",
+          "file_title": "WilliamsetalPLOSOne2015",
+          "section_header": "References",
+          "score": 0.8197
+        },
+        {
+          "text": "Flattening of Caribbean coral reefs: region-wide declines in architectural complexity.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.7959
+        },
+        {
+          "text": "Flattening of Caribbean coral reefs: region-wide declines in architectural complexity.",
+          "file_title": "2012 TMP report",
+          "section_header": "**References**",
+          "score": 0.7959
+        },
+        {
+          "text": "Flattening of Careibbean coral reefs: region-wide declines in architechtural complexity.",
+          "file_title": "2008 The_state_of_the_coral_reef_habitat_in_A",
+          "section_header": "**References**",
+          "score": 0.7852
+        },
+        {
+          "text": "The influence of adjacent systems on the structure and function of coral reefs .",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "Bibliography Bibliography",
+          "score": 0.7837
+        }
+      ],
+      "top_results": [
+        {
+          "text": "The importance of structural complexity in coral reef ecosystems.",
+          "file_title": "WilliamsetalPLOSOne2015",
+          "section_header": "References",
+          "score": 0.8197464346885681
+        },
+        {
+          "text": "Flattening of Caribbean coral reefs: region-wide declines in architectural complexity.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.7958506941795349
+        },
+        {
+          "text": "Flattening of Caribbean coral reefs: region-wide declines in architectural complexity.",
+          "file_title": "2012 TMP report",
+          "section_header": "**References**",
+          "score": 0.7958506941795349
+        },
+        {
+          "text": "Flattening of Careibbean coral reefs: region-wide declines in architechtural complexity.",
+          "file_title": "2008 The_state_of_the_coral_reef_habitat_in_A",
+          "section_header": "**References**",
+          "score": 0.7851965427398682
+        },
+        {
+          "text": "The influence of adjacent systems on the structure and function of coral reefs.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "**Bibliography Bibliography**",
+          "score": 0.7836905717849731
+        }
+      ]
+    },
+    {
+      "query": "What are the limitations of using percent coral cover versus colony counts in long-term studies?",
+      "response": "The limitations of using percent coral cover in long-term studies include its reliance on qualitative visual estimates, which can lead to inaccuracies in measuring coral health and density. In contrast, colony counts provide more precise data about coral populations, leading to better-informed conservation strategies.",
+      "sources": [
+        {
+          "text": "Coral percent cover was determined by qualitative visual estimates.",
+          "file_title": "Brainard et al. 2008 NOAA report for 2002-2006",
+          "section_header": "*2004 Spatial Surveys*",
+          "score": 0.7556
+        }
+      ],
+      "top_results": [
+        {
+          "text": "It is important to note that coral percent cover was determined by qualitative visual estimates.",
+          "file_title": "Brainard et al. 2008 NOAA report for 2002-2006",
+          "section_header": "<span id=\"page-407-0\"></span>*2004 Spatial Surveys*",
+          "score": 0.7631068229675293
+        },
+        {
+          "text": "It is important to note that coral percent cover was determined by qualitative visual estimates.",
+          "file_title": "Brainard et al. 2008 NOAA report for 2002-2006",
+          "section_header": "<span id=\"page-266-0\"></span>*2004 Spatial Surveys*",
+          "score": 0.7631068229675293
+        },
+        {
+          "text": "It is important to note that coral percent cover was determined by qualitative visual estimates.",
+          "file_title": "Brainard et al. 2008 NOAA report for 2002-2006",
+          "section_header": "*2004 Spatial Surveys*",
+          "score": 0.7631068229675293
+        },
+        {
+          "text": "It is important to note that coral percent cover was determined by qualitative visual estimates.",
+          "file_title": "Brainard et al. 2008 NOAA report for 2002-2006",
+          "section_header": "<span id=\"page-116-0\"></span>*2004 Spatial Surveys*",
+          "score": 0.7631068229675293
+        },
+        {
+          "text": "Coral percent cover was determined by qualitative visual estimates.",
+          "file_title": "Brainard et al. 2008 NOAA report for 2002-2006",
+          "section_header": "*2004 Spatial Surveys*",
+          "score": 0.7555694580078125
+        }
+      ]
+    },
+    {
+      "query": "How do changes in herbivore populations interact with coral community shifts?",
+      "response": "Changes in herbivore populations can significantly influence coral community structures and shifts by altering levels of herbivory. Increased herbivore species richness and feeding complementarity affects coral reef community structure, while variability in herbivory can lead to changes in algal communities on the reefs. These dynamics can result in phase shifts within coral ecosystems and impact their resilience to climate change.",
+      "sources": [
+        {
+          "text": "Herbivore species richness and feeding complementarity affect community structure and function on a coral reef.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "REFERENCES",
+          "score": 0.8539
+        },
+        {
+          "text": "Partitioning herbivory and its effects on coral reef algal communities.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "REFERENCES",
+          "score": 0.8422
+        },
+        {
+          "text": "Phase shifts, herbivory, and the resilience of coral reefs to climate change.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "REFERENCES",
+          "score": 0.8405
+        },
+        {
+          "text": "Effect of herbivore grazing intensity on coral-reef algal communities - biomass and primary productivity.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "REFERENCES",
+          "score": 0.8184
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Herbivore species richness and feeding complementarity affect community structure and function on a coral reef.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.8539180755615234
+        },
+        {
+          "text": "Partitioning herbivory and its effects on coral reef algal communities.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.8421633243560791
+        },
+        {
+          "text": "Phase shifts, herbivory, and the resilience of coral reefs to climate change.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.8405070304870605
+        },
+        {
+          "text": "Phase shifts, herbivory, and the resilience of coral reefs to climate change.",
+          "file_title": "2008 The_state_of_the_coral_reef_habitat_in_A",
+          "section_header": "**References**",
+          "score": 0.8405070304870605
+        },
+        {
+          "text": "Effect of herbivore grazing intensity on coral-reef algal communities - biomass and primary productivity.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.8183759450912476
+        }
+      ]
+    },
+    {
+      "query": "In what ways do algal communities influence coral recovery after disturbance?",
+      "response": "Algal communities can influence coral recovery after disturbances by impacting the replenishment of corals. The presence of benthic algae can affect the overall resilience of coral reefs, potentially shaping the long-term recovery processes of coral communities.",
+      "sources": [
+        {
+          "text": "Effects of benthic algae on the replenishment of corals and the implications for the resilience of coral reefs.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "REFERENCES",
+          "score": 0.8565
+        },
+        {
+          "text": "Effects of benthic algae on the replenishment of corals and the implications for the resilience of coral reefs.",
+          "file_title": "National Marine Sanctuary Condition Report",
+          "section_header": "Acknowledgements",
+          "score": 0.8565
+        },
+        {
+          "text": "Effects of benthic algae on the replenishment of corals and the implications for the resilience of coral reefs.",
+          "file_title": "2012 TMP report",
+          "section_header": "References",
+          "score": 0.8565
+        },
+        {
+          "text": "Effects of benthic algae on the replenishment of corals and the implications for the resilience of coral reefs.",
+          "file_title": "2008 The_state_of_the_coral_reef_habitat_in_A",
+          "section_header": "References",
+          "score": 0.8565
+        },
+        {
+          "text": "Longterm recovery process of a coral community after a catastrophic disturbance.",
+          "file_title": "Musberger-2004-Monitor.fisheries.AS-Copy",
+          "section_header": "References",
+          "score": 0.851
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Effects of benthic algae on the replenishment of corals and the implications for the resilience of coral reefs.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.8564789891242981
+        },
+        {
+          "text": "Effects of benthic algae on the replenishment of corals and the implications for the resilience of coral reefs.",
+          "file_title": "National Marine Sanctuary Condition Report",
+          "section_header": "**Acknowledgements**",
+          "score": 0.8564789891242981
+        },
+        {
+          "text": "Effects of benthic algae on the replenishment of corals and the implications for the resilience of coral reefs.",
+          "file_title": "2012 TMP report",
+          "section_header": "**References**",
+          "score": 0.8564789891242981
+        },
+        {
+          "text": "Effects of benthic algae on the replenishment of corals and the implications for the resilience of coral reefs.",
+          "file_title": "2008 The_state_of_the_coral_reef_habitat_in_A",
+          "section_header": "**References**",
+          "score": 0.8564789891242981
+        },
+        {
+          "text": "Longterm recovery process of a coral community after a catastrophic disturbance.",
+          "file_title": "Musberger-2004-Monitor.fisheries.AS-Copy",
+          "section_header": "**References**",
+          "score": 0.8510299921035767
+        }
+      ]
+    },
+    {
+      "query": "How can data from the Aua transect inform modern reef management and conservation strategies?",
+      "response": "Data from the Aua transect provides long-term quantitative monitoring of coral reef changes over decades, offering valuable insights for modern reef management and conservation strategies. It tracks living coral cover and trends, contributing to understanding reef dynamics in the context of American Samoa's ecosystems.",
+      "sources": [
+        {
+          "text": "Living coral cover through time along the Aua quantitative permanent transect.",
+          "file_title": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+          "section_header": "The Aua Transect",
+          "score": 0.7628
+        },
+        {
+          "text": "A good example of this is the \"Aua transect\" survey, which has great value as a measure of changes in the inner harbor over decades and forms a piece in the puzzle of coral reef monitoring in American Samoa.",
+          "file_title": "Cornish-2002-Coral.reef.program.AS",
+          "section_header": "Introduction",
+          "score": 0.7375
+        },
+        {
+          "text": "Re-surveys of the 1917 transect have provided quantitative information on trends at the reef at Aua over 83 years, the longest quantitative reef monitoring anywhere.",
+          "file_title": "Craig et al. 2005 review of state of coral reef ecosystem AS",
+          "section_header": "Results and Discussion",
+          "score": 0.7375
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Living coral cover through time along the Aua quantitative permanent transect.",
+          "file_title": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+          "section_header": "*The Aua Transect*",
+          "score": 0.7627989053726196
+        },
+        {
+          "text": "We are confident that the Aua transect is in good hands for the long-term monitoring to continue.\"",
+          "file_title": "KAUST news release on Aua transects",
+          "section_header": "**A community of change**",
+          "score": 0.7452548146247864
+        },
+        {
+          "text": "A good example of this is the \"Aua transect\" survey, which has great value as a measure of changes in the inner harbor over decades and forms a piece in the puzzle of coral reef monitoring in American Samoa, even if it does not mesh with the larger monitoring initiatives.",
+          "file_title": "Cornish-2002-Coral.reef.program.AS",
+          "section_header": "Introduction",
+          "score": 0.7375078201293945
+        },
+        {
+          "text": "Re-surveys of the 1917 transect have provided quantitative information on trends at the reef at Aua over 83 years, the longest quantitative reef monitoring anywhere (Mayor, 1924; Dahl and Lamberts, 1977; Dahl, 1981; Birkeland and Green, 1999; Birkeland and Belliveau, 2000).",
+          "file_title": "Craig et al. 2005 review of state of coral reef ecosystem AS",
+          "section_header": "Results and Discussion",
+          "score": 0.7372874021530151
+        },
+        {
+          "text": "This raises the question of how representative the transect is of the condition of the reef at Aua and in Pago Pago Harbor in general.",
+          "file_title": "1997 Green et al.  78 yr Aua",
+          "section_header": "DISCUSSION",
+          "score": 0.7341206073760986
+        }
+      ]
+    },
+    {
+      "query": "What statistical or sampling biases should be considered when comparing 1917 and 1973 reef data?",
+      "response": "When comparing 1917 and 1973 reef data, important biases to consider include: the impact of different methodologies used in surveys, as data were compiled from various investigators at different reefs. This can introduce sampling bias because inconsistencies in techniques could affect what data is recorded and how it is interpreted. Additionally, the time separation of decades may lead to temporal bias, as environmental changes may influence reef conditions differently across the years. Lastly, the neglect of random sampling approaches in coral reef surveys may result in non-representative samples that skew results.",
+      "sources": [
+        {
+          "text": "Data were compiled from individual surveys conducted by different investigators at different reefs using different methodologies sometimes separated by decades.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "National Trends in Coral Reef Ecosystems",
+          "score": 0.7263
+        },
+        {
+          "text": "Has random sampling been neglected in coral reef faunal surveys?",
+          "file_title": "2008 TMP report",
+          "section_header": "References",
+          "score": 0.7227
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Temporal benthic trends by major reef type from 2017-2021.",
+          "file_title": "Library_Report_ASCRMP_FY23",
+          "section_header": "<span id=\"page-14-0\"></span>*Results*",
+          "score": 0.7568281888961792
+        },
+        {
+          "text": "Data were compiled from individual surveys conducted by different investigators at different reefs using different methodologies sometimes separated by decades.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "National Trends in Coral Reef Ecosystems",
+          "score": 0.7263307571411133
+        },
+        {
+          "text": "Temporal comparisons of reef fish populations at Midway Atoll, Northwestern Hawaiian Islands: Statistical Power in Retrospect.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "**Bibliography Bibliography**",
+          "score": 0.7261530160903931
+        },
+        {
+          "text": "Has random sampling been neglected in coral reef faunal surveys?",
+          "file_title": "2008 TMP report",
+          "section_header": "**References**",
+          "score": 0.7226662039756775
+        },
+        {
+          "text": "Dates of collection of benthic coral diversity data for each reef slope site.",
+          "file_title": "2011 TMP report",
+          "section_header": "**Methods**",
+          "score": 0.7162847518920898
+        }
+      ]
+    },
+    {
+      "query": "What long-term trends in reef fish populations have been observed in American Samoa?",
+      "response": "Long-term trends in reef fish populations in American Samoa indicate that they are in relatively good health and may improve if current trends of resource utilization and socio-economic factors continue positively. This assessment follows three millennia of resource use and recent changes over the past century.",
+      "sources": [
+        {
+          "text": "It therefore appears that reef fish populations in American Samoa are in relatively good health and are likely to stay the same or improve if current trends continue.",
+          "file_title": "Fenner et al. State of Coral Reef ecosystems in American Samoa",
+          "section_header": "The Subsistence Fishery",
+          "score": 0.881
+        },
+        {
+          "text": "Trends in reef fish populations and the associated fishery after three millennia of resource utilization and a century of socio-economic change in American Samoa.",
+          "file_title": "AS Healthy Coral Reef Strategy_v2020-2025",
+          "section_header": "RESOURCES & CITATIONS",
+          "score": 0.8875
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Trends in reef fish populations and the associated fishery after three millennia of resource utilization and a century of socio-economic change in American Samoa.",
+          "file_title": "AS Healthy Coral Reef Strategy_v2020-2025",
+          "section_header": "RESOURCES & CITATIONS",
+          "score": 0.8874914646148682
+        },
+        {
+          "text": "It therefore appears that reef fish populations in American Samoa are in relatively good health and are likely to stay the same or improve if current trends continue.",
+          "file_title": "Fenner et al. State of Coral Reef ecosystems in American Samoa",
+          "section_header": "*The Subsistence Fishery*",
+          "score": 0.8809952139854431
+        },
+        {
+          "text": "Trends in reef fish population and associated fishery after three millennia of resource utilization and a century of socio-economic changes in American Samoa.",
+          "file_title": "Fenner - AS Archipelago Field guide  Verson 1",
+          "section_header": "**References**",
+          "score": 0.8808804750442505
+        },
+        {
+          "text": "Trends in reef fish population and associated fishery after three millennia of resource utilization and a century of socio-economic changes in American Samoa.",
+          "file_title": "Fenner Samoa Sheppard book 2019",
+          "section_header": "REFERENCES",
+          "score": 0.8808804750442505
+        },
+        {
+          "text": "Trends in reef fish population and associated fishery after three millennia of resource utilization and a century of socio-economic changes in American Samoa.",
+          "file_title": "2008 The_state_of_the_coral_reef_habitat_in_A",
+          "section_header": "**References**",
+          "score": 0.8808804750442505
+        }
+      ]
+    },
+    {
+      "query": "How are reef fish surveys conducted and what metrics are commonly used?",
+      "response": "Reef fish surveys are conducted using methods such as underwater visual surveys and transect surveys, where divers observe and document fish species and numbers. Additional metrics collected during these surveys include the estimated hard coral cover and reef topography (vertical relief). Fisheries-dependent surveys also track fish harvests to document species and quantities extracted from the reefs.",
+      "sources": [
+        {
+          "text": "Annual surveys of fish harvests or creel surveys (fisheries-dependent surveys) document the actual species and quantities of fish extracted from the reefs.",
+          "file_title": "Craig et al. 2005 review of state of coral reef ecosystem AS",
+          "section_header": "FISH",
+          "score": 0.8099
+        },
+        {
+          "text": "During fish surveys, data are also collected on reef topography (vertical relief) and estimated hard coral cover.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "Current Conservation Management",
+          "score": 0.8065
+        },
+        {
+          "text": "The reef fish assessment team surveys transects 1, 2, and 3 and conducts four stationary point count surveys.",
+          "file_title": "Brainard et al. 2008 NOAA report for 2002-2006",
+          "section_header": "*REA Disciplines and Methods*",
+          "score": 0.7822
+        },
+        {
+          "text": "Underwater visual surveys (fisheries-independent surveys) describe the kinds of fish observed by divers on the reef.",
+          "file_title": "Craig et al. 2005 review of state of coral reef ecosystem AS",
+          "section_header": "FISH",
+          "score": 0.7807
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Annual surveys of fish harvests or creel surveys (fisheries-dependent surveys) document the actual species and quantities of fish extracted from the reefs.",
+          "file_title": "Craig et al. 2005 review of state of coral reef ecosystem AS",
+          "section_header": "FISH",
+          "score": 0.8098677396774292
+        },
+        {
+          "text": "During fish surveys, data are also collected on reef topography (vertical relief) and estimated hard coral cover.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "Current Conservation Management",
+          "score": 0.8064904808998108
+        },
+        {
+          "text": "The reef fish assessment team surveys transects 1, 2, and 3 and conducts four stationary point count surveys.",
+          "file_title": "Brainard et al. 2008 NOAA report for 2002-2006",
+          "section_header": "*REA Disciplines and Methods*",
+          "score": 0.7821949124336243
+        },
+        {
+          "text": "Underwater visual surveys (fisheries-independent surveys) describe the kinds of fish observed by divers on the reef.",
+          "file_title": "Craig et al. 2005 review of state of coral reef ecosystem AS",
+          "section_header": "FISH",
+          "score": 0.7806808948516846
+        },
+        {
+          "text": "Collection and sampling of reef fishes.",
+          "file_title": "Musberger-2004-Monitor.fisheries.AS-Copy",
+          "section_header": "**References**",
+          "score": 0.7790120840072632
+        }
+      ]
+    },
+    {
+      "query": "How do changes in coral communities affect reef fish diversity?",
+      "response": "Changes in coral communities, such as habitat degradation and destruction of hermatypic corals, significantly impact reef fish diversity. These alterations can lead to shifts in the structure of fish communities, affecting their diversity and abundance. Exploitation of reef systems is also a critical factor influencing these changes.",
+      "sources": [
+        {
+          "text": "Exploitation and habitat degradation as agents of change within coral reef fish communities.",
+          "file_title": "2008 The_state_of_the_coral_reef_habitat_in_A",
+          "section_header": "References",
+          "score": 0.8822
+        },
+        {
+          "text": "Changes in structure of coral reef fish communities by destruction of Hermatypic corals: observational and experimental views.",
+          "file_title": "Buckley-1986-Impact.Acanthast.fish.comm.AS",
+          "section_header": "LITERATURE CITED",
+          "score": 0.8768
+        },
+        {
+          "text": "Variety in coral reef communities.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "Bibliography Bibliography",
+          "score": 0.8756
+        },
+        {
+          "text": "Fishing and its impact on coral reef fish communities.",
+          "file_title": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+          "section_header": "IX. REFERENCES",
+          "score": 0.8652
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Exploitation and habitat degradation as agents of change within coral reef fish communities.",
+          "file_title": "2008 The_state_of_the_coral_reef_habitat_in_A",
+          "section_header": "**References**",
+          "score": 0.8822376728057861
+        },
+        {
+          "text": "Exploitation and habitat degradation as agents of change within coral reef fish communities.",
+          "file_title": "WilliamsetalPLOSOne2015",
+          "section_header": "References",
+          "score": 0.8822376728057861
+        },
+        {
+          "text": "Changes in structure of coral reef fish communities by destruction of Hermatypic corals: observational and experimental views.",
+          "file_title": "Buckley-1986-Impact.Acanthast.fish.comm.AS",
+          "section_header": "LITERATURE CITED",
+          "score": 0.8767648339271545
+        },
+        {
+          "text": "Variety in coral reef communities.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "**Bibliography Bibliography**",
+          "score": 0.8755695819854736
+        },
+        {
+          "text": "Fishing and its impact on coral reef fish communities.",
+          "file_title": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+          "section_header": "IX. REFERENCES",
+          "score": 0.8651559352874756
+        }
+      ]
+    },
+    {
+      "query": "What indicators suggest a reef ecosystem is under stress?",
+      "response": "Indicators suggesting a reef ecosystem is under stress include significant changes measured over time that impact coral health and resilience. These indicators can arise from multiple stressors, whether natural or anthropogenic, which may adversely affect the overall reef conditions, including biodiversity and ecological functions.",
+      "sources": [
+        {
+          "text": "Indicators of such impacts (or recovery from stresses) are those that can sensitively measure significant changes on reef systems over periods of time that are meaningful to resource managers.",
+          "file_title": "Hunter-1993-Ofu.reef.survey.AS",
+          "section_header": "INTRODUCTION AND GENERAL PURPOSE",
+          "score": 0.8185
+        },
+        {
+          "text": "Coral reef system response to some natural and anthropogenic stresses.",
+          "file_title": "Maragos  1993 impact of coastal construction on coral reefs",
+          "section_header": "**References**",
+          "score": 0.8177
+        },
+        {
+          "text": "Multiple stressor effects on coral reef ecosystems.",
+          "file_title": "Naugle MS Oliver TA, Barshis DJ et al 2021",
+          "section_header": "REFERENCES",
+          "score": 0.8208
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Multiple stressor effects on coral reef ecosystems.",
+          "file_title": "Naugle MS Oliver TA, Barshis DJ et al 2021",
+          "section_header": "REFERENCES",
+          "score": 0.820848822593689
+        },
+        {
+          "text": "Reefs at risk: a map-based indicator of threats to the world's coral reefs.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.8208193182945251
+        },
+        {
+          "text": "Indicators of such impacts (or recovery from stresses) are those that can sensitively measure significant changes on reef systems over periods of time that are meaningful to resource managers.",
+          "file_title": "Hunter-1993-Ofu.reef.survey.AS",
+          "section_header": "INTRODUCTION AND GENERAL PURPOSE",
+          "score": 0.8184597492218018
+        },
+        {
+          "text": "Coral reef system response to some natural and anthropogenic stresses.",
+          "file_title": "Maragos  1993 impact of coastal construction on coral reefs",
+          "section_header": "**References**",
+          "score": 0.8176666498184204
+        },
+        {
+          "text": "Health of coral reefs.",
+          "file_title": "Craig-1994-Workshop.id.fish.issues.AS-Copy",
+          "section_header": "B. Prioritization of Fisheries-related Issues",
+          "score": 0.8157496452331543
+        }
+      ]
+    },
+    {
+      "query": "How can marine protected areas influence long-term reef and fish trends?",
+      "response": "Marine protected areas (MPAs) can positively influence long-term trends in reef health and fish populations by providing a managed environment where overfishing is reduced and biodiversity is preserved. This leads to an increase in fish populations and healthier coral reefs, as demonstrated by the effects observed in community-managed reserves.",
+      "sources": [
+        {
+          "text": "Application of marine reserves to reef fisheries management.",
+          "file_title": "Lawrence-2005-Reef.fish.comm.AS",
+          "section_header": "6 References",
+          "score": 0.7815
+        },
+        {
+          "text": "The effect of community managed marine reserves in the Philippines on their associated coral reef fish populations.",
+          "file_title": "WPRFMC-2005-Fishery.eco.plan.AS",
+          "section_header": "CHAPTER 11: REFERENCES",
+          "score": 0.7767
+        },
+        {
+          "text": "The effect of community managed marine reserves in the Philippines on their associated coral reef fish populations.",
+          "file_title": "WPRFMC-2005-Fishery.eco.plan.pelagic.AS",
+          "section_header": "CHAPTER 11: REFERENCES",
+          "score": 0.7767
+        },
+        {
+          "text": "Sociocultural aspects of establishing marine protected areas.",
+          "file_title": "Friedlander-1993-Assess.fish.pop.ntl.park.AS",
+          "section_header": "Literature Cited",
+          "score": 0.775
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Application of marine reserves to reef fisheries management.",
+          "file_title": "Lawrence-2005-Reef.fish.comm.AS",
+          "section_header": "**6 References**",
+          "score": 0.7814695835113525
+        },
+        {
+          "text": "Application of marine reserves to reef fisheries management.",
+          "file_title": "Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries",
+          "section_header": "**LITERATURE CITED**",
+          "score": 0.7814695835113525
+        },
+        {
+          "text": "The effect of community managed marine reserves in the Philippines on their associated coral reef fish populations.",
+          "file_title": "WPRFMC-2005-Fishery.eco.plan.AS",
+          "section_header": "**CHAPTER 11: REFERENCES**",
+          "score": 0.7766627073287964
+        },
+        {
+          "text": "The effect of community managed marine reserves in the Philippines on their associated coral reef fish populations.",
+          "file_title": "WPRFMC-2005-Fishery.eco.plan.pelagic.AS",
+          "section_header": "**CHAPTER 11: REFERENCES**",
+          "score": 0.7766627073287964
+        },
+        {
+          "text": "Sociocultural aspects of establishing marine protected areas.",
+          "file_title": "Friedlander-1993-Assess.fish.pop.ntl.park.AS",
+          "section_header": "Literature Cited",
+          "score": 0.774992823600769
+        }
+      ]
+    },
+    {
+      "query": "What lessons from historical reef studies are most relevant under modern climate change?",
+      "response": "Historical reef studies emphasize the mechanisms of reef coral resistance to climate change, which are critical for understanding and preserving reef ecosystems in the face of modern climate challenges.",
+      "sources": [
+        {
+          "text": "Mechanisms of reef coral resistance to future climate change.",
+          "file_title": "NPSA_Condition Assessment 2019",
+          "section_header": "<span id=\"page-99-0\"></span>*4.2.6. Literature Cited*",
+          "score": 0.8244
+        },
+        {
+          "text": "Mechanisms of reef coral resistance to future climate change.",
+          "file_title": "Naugle MS Oliver TA, Barshis DJ et al 2021",
+          "section_header": "REFERENCES",
+          "score": 0.8244
+        },
+        {
+          "text": "Mechanisms of reef coral resistance to future climate change.",
+          "file_title": "Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef",
+          "section_header": "**References**",
+          "score": 0.8244
+        },
+        {
+          "text": "Mechanisms of reef coral resistance to future climate change.",
+          "file_title": "Rose Bay Palumbi poygenic evolution Ofu",
+          "section_header": "**LITERATURE CITED**",
+          "score": 0.8244
+        },
+        {
+          "text": "Mechanisms of reef coral resistance to future climate change.",
+          "file_title": "Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance",
+          "section_header": "References",
+          "score": 0.8244
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Mechanisms of reef coral resistance to future climate change.",
+          "file_title": "NPSA_Condition Assessment 2019",
+          "section_header": "<span id=\"page-99-0\"></span>*4.2.6. Literature Cited*",
+          "score": 0.8244485855102539
+        },
+        {
+          "text": "Mechanisms of reef coral resistance to future climate change.",
+          "file_title": "Naugle MS Oliver TA, Barshis DJ et al 2021",
+          "section_header": "REFERENCES",
+          "score": 0.8244485855102539
+        },
+        {
+          "text": "Mechanisms of reef coral resistance to future climate change.",
+          "file_title": "Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef",
+          "section_header": "**References**",
+          "score": 0.8244485855102539
+        },
+        {
+          "text": "Mechanisms of reef coral resistance to future climate change.",
+          "file_title": "Rose Bay Palumbi poygenic evolution Ofu",
+          "section_header": "**LITERATURE CITED**",
+          "score": 0.8244485855102539
+        },
+        {
+          "text": "Mechanisms of reef coral resistance to future climate change.",
+          "file_title": "Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance",
+          "section_header": "References",
+          "score": 0.8244485855102539
+        }
+      ]
+    },
+    {
+      "query": "What is coral bleaching and why does it occur?",
+      "response": "Coral bleaching is a phenomenon that occurs when corals become stressed, leading to the expulsion of the symbiotic algae (zooxanthellae) that live within their tissues. This can happen due to various factors such as increased water temperatures, pollution, and changes in water quality. When corals lose these algae, they turn white (bleach) and lose their primary source of nutrition, making them vulnerable to disease and mortality.",
+      "sources": [
+        {
+          "text": "Coral bleaching: causes and consequences.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "REFERENCES",
+          "score": 0.7943
+        },
+        {
+          "text": "Coral bleaching: causes and consequences.",
+          "file_title": "2017 Coelho et al. mitigation by shading",
+          "section_header": "References",
+          "score": 0.7943
+        },
+        {
+          "text": "Coral bleaching: causes and consequences.",
+          "file_title": "Rose Bay Palumbi poygenic evolution Ofu",
+          "section_header": "**LITERATURE CITED**",
+          "score": 0.7943
+        },
+        {
+          "text": "Coral bleaching: causes and consequences.",
+          "file_title": "AS Healthy Coral Reef Strategy_v2020-2025",
+          "section_header": "RESOURCES & CITATIONS",
+          "score": 0.7943
+        },
+        {
+          "text": "Coral bleaching––how and why?",
+          "file_title": "Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance",
+          "section_header": "References",
+          "score": 0.7722
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Coral bleaching: causes and consequences.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.7943453788757324
+        },
+        {
+          "text": "Coral bleaching: causes and consequences.",
+          "file_title": "2017 Coelho et al. mitigation by shading",
+          "section_header": "References",
+          "score": 0.7943453788757324
+        },
+        {
+          "text": "Coral bleaching: causes and consequences.",
+          "file_title": "Rose Bay Palumbi poygenic evolution Ofu",
+          "section_header": "**LITERATURE CITED**",
+          "score": 0.7943453788757324
+        },
+        {
+          "text": "Coral bleaching: causes and consequences.",
+          "file_title": "AS Healthy Coral Reef Strategy_v2020-2025",
+          "section_header": "RESOURCES & CITATIONS",
+          "score": 0.7943453788757324
+        },
+        {
+          "text": "Coral bleaching––how and why?",
+          "file_title": "Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance",
+          "section_header": "References",
+          "score": 0.7721691131591797
+        }
+      ]
+    },
+    {
+      "query": "What types of fish are most commonly found on fringing reefs in American Samoa?",
+      "response": "The most commonly found fish on fringing reefs in American Samoa are surgeonfish and parrotfish, which are primarily herbivores that feed on filamentous algae.",
+      "sources": [
+        {
+          "text": "Some of the most common fish on American Samoa reefs are surgeonfish and parrotfish, most of which are herbivores that eat filamentous algae.",
+          "file_title": "Fenner - AS Archipelago Field guide  Verson 1",
+          "section_header": "The Coral Reefs of the Samoan Archipelago",
+          "score": 0.8519
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Some of the most common fish on American Samoa reefs are surgeonfish and parrotfish, most of which are herbivores that eat filamentous algae.",
+          "file_title": "Fenner - AS Archipelago Field guide  Verson 1",
+          "section_header": "**The Coral Reefs of the Samoan Archipelago**",
+          "score": 0.8519353866577148
+        },
+        {
+          "text": "Fringing reefs on exposed coasts are the most common marine habitat of American Samoa, and are where all reef gleaning and most fishing occurs.",
+          "file_title": "Peshut-2007-arsenic in AS fish, shellfish",
+          "section_header": "2. Methods",
+          "score": 0.8283997774124146
+        },
+        {
+          "text": "The reefs of American Samoa are primarily fringing reefs, with some offshore banks.",
+          "file_title": "1996 - Mundy1996 Quantitative survey of corals, DMWR",
+          "section_header": "INTRODUCTION",
+          "score": 0.8212851881980896
+        },
+        {
+          "text": "The coral reef fisheries of American Samoa currently target most large reef fish species.",
+          "file_title": "Cornish-2002-Coral.reef.program.AS",
+          "section_header": "APPROACH: Objective 1:",
+          "score": 0.8207813501358032
+        },
+        {
+          "text": "The coastal waters of American Samoa support a diverse fish fauna of approximately 1000 fish species, mostly associated with coral reefs.",
+          "file_title": "Craig-1994-Workshop.id.fish.issues.AS-Copy",
+          "section_header": "A. Prioritization of Fish Resources",
+          "score": 0.8174519538879395
+        }
+      ]
+    },
+    {
+      "query": "How do scientists visually estimate fish size during underwater surveys?",
+      "response": "Scientists visually estimate fish size during underwater surveys by observing the fish directly and estimating their total length in centimeters, which is then recorded onto underwater paper.",
+      "sources": [
+        {
+          "text": "Visual estimation of fish size is an important component of these surveys for several reasons.",
+          "file_title": "Brown2022_NPSA_Fish_Trend_2010-2019",
+          "section_header": "Introduction",
+          "score": 0.8242
+        },
+        {
+          "text": "The size of each fish (total length in cm) was estimated visually and recorded directly onto underwater paper.",
+          "file_title": "Cornish-2002-Coral.reef.program.AS",
+          "section_header": "Fish survey methods",
+          "score": 0.801
+        },
+        {
+          "text": "Fish sizes were estimated visually.",
+          "file_title": "Craig et al. 2005 review of state of coral reef ecosystem AS",
+          "section_header": "Methods",
+          "score": 0.8056
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Visual estimation of fish size is an important component of these surveys for several reasons.",
+          "file_title": "Brown2022_NPSA_Fish_Trend_2010-2019",
+          "section_header": "<span id=\"page-14-0\"></span>**Introduction**",
+          "score": 0.8241816163063049
+        },
+        {
+          "text": "Fish sizes were estimated visually.",
+          "file_title": "Craig et al. 2005 review of state of coral reef ecosystem AS",
+          "section_header": "*Methods*",
+          "score": 0.8056243062019348
+        },
+        {
+          "text": "The size of each fish (total length in cm) was estimated visually and recorded directly onto underwater paper.",
+          "file_title": "Cornish-2002-Coral.reef.program.AS",
+          "section_header": "Fish survey methods",
+          "score": 0.8010237216949463
+        },
+        {
+          "text": "The size of each fish (total length in cm) was estimated visually and recorded directly onto underwater paper.",
+          "file_title": "2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S",
+          "section_header": "Reef Fish Communities",
+          "score": 0.8010237216949463
+        },
+        {
+          "text": "The size of each fish (total length in cm) was estimated visually and recorded directly onto underwater paper.",
+          "file_title": "1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago",
+          "section_header": "Fish survey methods",
+          "score": 0.8010237216949463
+        }
+      ]
+    },
+    {
+      "query": "How did fish species richness change in the National Park of American Samoa between 2010 and 2019?",
+      "response": "Fish species richness in the National Park of American Samoa was documented from 2010 to 2019, but specific changes over that period are not detailed in the provided sources. Indicators of fish diversity and richness were collected through various surveys, indicating ongoing research but lacking quantitative changes in richness during that timeframe.",
+      "sources": [
+        {
+          "text": "Fish diversity (H') at the 15 fixed sites (averaged over 10 years) and 135 temporary sites surveyed in the National Park of American Samoa from 2010–2019 (N = 285 total transects represented by black dots).",
+          "file_title": "Brown2022_NPSA_Fish_Trend_2010-2019",
+          "section_header": "**Status of Fish Assemblage Characteristics**",
+          "score": 0.8143
+        },
+        {
+          "text": "Species and genus richness of fishes (panels A and B, respectively) for reporting units in American Samoa surveyed in 2015, 2016, and 2018.",
+          "file_title": "Vargas - Angel 2019",
+          "section_header": "Temporal Comparisons",
+          "score": 0.806
+        }
+      ],
+      "top_results": [
+        {
+          "text": "** Top ten fish species by biomass (g m-2) at the National Park of American Samoa averaged over the study period from 2010 to 2019.",
+          "file_title": "Brown2022_NPSA_Fish_Trend_2010-2019",
+          "section_header": "<span id=\"page-27-0\"></span>**Top Ten Fish Species**",
+          "score": 0.8257735967636108
+        },
+        {
+          "text": "** Fish diversity (H') at the 15 fixed sites (averaged over 10 years) and 135 temporary sites surveyed in the National Park of American Samoa from 2010–2019 (N = 285 total transects represented by black dots).",
+          "file_title": "Brown2022_NPSA_Fish_Trend_2010-2019",
+          "section_header": "<span id=\"page-23-1\"></span>**Status of Fish Assemblage Characteristics**",
+          "score": 0.8143308162689209
+        },
+        {
+          "text": "Species and genus richness of fishes (panels A and B, respectively) for reporting units in American Samoa surveyed in 2015, 2016, and 2018.",
+          "file_title": "Vargas - Angel 2019",
+          "section_header": "<span id=\"page-29-0\"></span>Temporal Comparisons",
+          "score": 0.8060482144355774
+        },
+        {
+          "text": "Mean species (A) and generic (B) richness of fishes for reporting units in American Samoa surveyed in 2018.",
+          "file_title": "Vargas - Angel 2019",
+          "section_header": "<span id=\"page-27-0\"></span>2018 Reporting Unit Estimates",
+          "score": 0.8032640218734741
+        },
+        {
+          "text": "** Fish richness at survey sites across Samoa and American Samoa.",
+          "file_title": "Kendall M, Poti M 2011",
+          "section_header": "**Fish Richness: American Samoa**",
+          "score": 0.7951159477233887
+        }
+      ]
+    },
+    {
+      "query": "What is a split-panel sampling design and why is it used in reef monitoring programs?",
+      "response": "A split-panel sampling design is used to monitor benthic communities and other ecological parameters by dividing the study area into separate panels where different sampling strategies can be employed. This design allows for random selection of sites, improving the reliability and validity of the data collected. It is particularly beneficial in reef monitoring programs as it helps in understanding the spatial variations in these ecosystems over time, as demonstrated by the sampling of thirty randomly selected sites annually.",
+      "sources": [
+        {
+          "text": "A split panel sampling design was utilized to monitor benthic communities, with thirty randomly selected sites sampled annually.",
+          "file_title": "NPSA_Condition Assessment 2019",
+          "section_header": "Primary data sources",
+          "score": 0.8049
+        },
+        {
+          "text": "A split panel sampling design was used with 30 transects sampled annually on hard-bottom substrate.",
+          "file_title": "Brown2022_NPSA_Fish_Trend_2010-2019",
+          "section_header": "Executive Summary",
+          "score": 0.7443
+        }
+      ],
+      "top_results": [
+        {
+          "text": "A split panel sampling design was utilized to monitor benthic communities, with thirty randomly selected sites sampled annually.",
+          "file_title": "NPSA_Condition Assessment 2019",
+          "section_header": "Primary data sources",
+          "score": 0.8048725128173828
+        },
+        {
+          "text": "A split panel sampling design was used with 30 transects sampled annually on hard-bottom substrate.",
+          "file_title": "Brown2022_NPSA_Fish_Trend_2010-2019",
+          "section_header": "<span id=\"page-9-0\"></span>**Executive Summary**",
+          "score": 0.7442623376846313
+        },
+        {
+          "text": "Pacific reef assessment and monitoring program.",
+          "file_title": "NPSA_Condition Assessment 2019",
+          "section_header": "<span id=\"page-120-1\"></span>*4.3.6. Literature Cited*",
+          "score": 0.7041807174682617
+        },
+        {
+          "text": "Pacific reef assessment and monitoring program.",
+          "file_title": "NPSA_Condition Assessment 2019",
+          "section_header": "<span id=\"page-99-0\"></span>*4.2.6. Literature Cited*",
+          "score": 0.7041807174682617
+        },
+        {
+          "text": "A split panel field design was utilized, with 30 randomly selected sites sampled annually.",
+          "file_title": "NPSA_Condition Assessment 2019",
+          "section_header": "Primary data sources",
+          "score": 0.6988614797592163
+        }
+      ]
+    },
+    {
+      "query": "How do cyclones and tsunamis alter reef structure and fish habitat?",
+      "response": "Cyclones and tsunamis can significantly alter the structure of coral reefs and impact fish habitats. Cyclone waves affect coral assemblages, leading to potential degradation of the habitat. This dynamic can threaten reef fishes, making them either at risk or resilient depending on the disturbance's intensity and frequency.",
+      "sources": [
+        {
+          "text": "Effects of cyclone waves on massive coral assemblages on the Great Barrier Reef: meteorology, hydrodynamics and demography.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "REFERENCES",
+          "score": 0.7784
+        },
+        {
+          "text": "Multiple disturbances and the global degradation of coral reefs: are reef fishes at risk or resilient?",
+          "file_title": "2008 The_state_of_the_coral_reef_habitat_in_A",
+          "section_header": "References",
+          "score": 0.7722
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Effects of cyclone 'Joy' on nearshore coral communities of the Great Barrier Reef.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.7969976663589478
+        },
+        {
+          "text": "Effects of Cyclone Joy' on nearshore coral communities of the Great Barrier Reef.",
+          "file_title": "Cornish and Didonato Polydactyla American Samoa",
+          "section_header": "References",
+          "score": 0.7836273908615112
+        },
+        {
+          "text": "Effects of cyclone waves on massive coral assemblages on the Great Barrier Reef: meteorology, hydrodynamics and demography.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.7783840298652649
+        },
+        {
+          "text": "Multiple disturbances and the global degradation of coral reefs: are reef fishes at risk or resilient?",
+          "file_title": "2008 The_state_of_the_coral_reef_habitat_in_A",
+          "section_header": "**References**",
+          "score": 0.7721922397613525
+        },
+        {
+          "text": "Multiple disturbances and the global degradation of coral reefs: are reef fishes at risk or resilient?",
+          "file_title": "WilliamsetalPLOSOne2015",
+          "section_header": "References",
+          "score": 0.7721922397613525
+        }
+      ]
+    },
+    {
+      "query": "What differences exist between reef conditions inside protected areas versus unprotected areas?",
+      "response": "Reef conditions in protected areas typically exhibit less human disturbance and better ecological health compared to unprotected areas, which face challenges from fishing and other human impacts.",
+      "sources": [
+        {
+          "text": "Defining reef fish habitat utilization patterns in Hawaii: comparisons between marine protected areas and areas open to fishing.",
+          "file_title": "Schroeder et al.  2008",
+          "section_header": "Literature Cited",
+          "score": 0.7841
+        },
+        {
+          "text": "It is dedicated to discriminating between human disturbance and natural variation within the reefs and reef-related habitats.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "The National Coral Reef Monitoring Network –",
+          "score": 0.7691
+        },
+        {
+          "text": "Condition of Coral Reefs",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "Introduction Introduction",
+          "score": 0.7681
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Defining reef fish habitat utilization patterns in Hawaii: comparisons between marine protected areas and areas open to fishing.",
+          "file_title": "Schroeder et al.  2008",
+          "section_header": "Literature Cited",
+          "score": 0.7841241955757141
+        },
+        {
+          "text": "It is dedicated to discriminating between human disturbance and natural variation within the reefs and reef-related habitats.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "The National Coral Reef Monitoring Network –",
+          "score": 0.7691241502761841
+        },
+        {
+          "text": "Defining reef fish habitat utilization patterns in Hawaii: implications for the effective design of marine protected areas.",
+          "file_title": "Brown2022_NPSA_Fish_Trend_2010-2019",
+          "section_header": "<span id=\"page-48-0\"></span>**Literature Cited**",
+          "score": 0.7689370512962341
+        },
+        {
+          "text": "Condition of Coral Reefs",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "**Introduction Introduction**",
+          "score": 0.7681290507316589
+        },
+        {
+          "text": "conditions of coral reefs.\"",
+          "file_title": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+          "section_header": "IX. REFERENCES",
+          "score": 0.7625944018363953
+        }
+      ]
+    },
+    {
+      "query": "How does sedimentation from coastal development affect coral recruitment?",
+      "response": "Sedimentation from coastal development adversely affects coral recruitment by increasing turbidity and altering the environmental conditions necessary for coral larvae to settle and grow. The review of literature highlights various environmental impacts of sediment disturbance on corals, including the challenges faced during the recruitment phase due to sedimentation and associated turbidity.",
+      "sources": [
+        {
+          "text": "Environmental impacts of dredging and other sediment disturbances on corals: a review.",
+          "file_title": "Comeros-Raynal 2021 Terrestrial Run off in AS",
+          "section_header": "References",
+          "score": 0.8491
+        },
+        {
+          "text": "Environmental impacts of dredging and other sediment disturbances on corals: a review.",
+          "file_title": "Biggs Messina Waddell Fagaalu noaa_17110_DS1",
+          "section_header": "References",
+          "score": 0.8479
+        },
+        {
+          "text": "Environmental impacts of dredging and other sediment disturbances on corals: a review.",
+          "file_title": "Messina, Fagaalu R2R noaa_8439_DS1",
+          "section_header": "References",
+          "score": 0.8479
+        },
+        {
+          "text": "Environmental impacts of dredging and other sediment disturbances on corals: a review.",
+          "file_title": "Messina Dissertation 2018 Terrigenous_sediment_dynamics_",
+          "section_header": "References for Introduction and Conclusion",
+          "score": 0.8479
+        },
+        {
+          "text": "Coral populations and growth patterns: responses to sedimentation and turbidity associated with dredging.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "REFERENCES",
+          "score": 0.8466
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Environmental impacts of dredging and other sediment disturbances on corals: a review.",
+          "file_title": "Comeros-Raynal 2021 Terrestrial Run off in AS",
+          "section_header": "**References**",
+          "score": 0.8491107225418091
+        },
+        {
+          "text": "Environmental impacts of dredging and other sediment disturbances on corals: A review.",
+          "file_title": "Biggs Messina Waddell Fagaalu noaa_17110_DS1",
+          "section_header": "References",
+          "score": 0.8478697538375854
+        },
+        {
+          "text": "Environmental impacts of dredging and other sediment disturbances on corals: A review.",
+          "file_title": "Messina, Fagaalu R2R noaa_8439_DS1",
+          "section_header": "References",
+          "score": 0.8478697538375854
+        },
+        {
+          "text": "Environmental impacts of dredging and other sediment disturbances on corals: A review.",
+          "file_title": "Messina Dissertation 2018 Terrigenous_sediment_dynamics_",
+          "section_header": "<span id=\"page-164-0\"></span>**References for Introduction and Conclusion**",
+          "score": 0.8478697538375854
+        },
+        {
+          "text": "Coral populations and growth patterns: responses to sedimentation and turbidity associated with dredging.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.846624493598938
+        }
+      ]
+    },
+    {
+      "query": "How can long-term declines in fish numerical density occur alongside stable or increasing biomass?",
+      "response": "Long-term declines in fish numerical density can occur while biomass remains stable or even increases due to various factors such as changes in fishing pressures, species composition, and ecological dynamics. For instance, though fishing pressure may decrease, biomass can stay constant or grow without a corresponding increase in the number of individual fish. This situation may arise from factors like fewer species being present or changes in the reproductive success of remaining individuals. Further observations are necessary to determine the actual trends in fish communities.",
+      "sources": [
+        {
+          "text": "Fishing pressure appears to be decreasing, but fish biomass has not increased during the reporting period.",
+          "file_title": "National Marine Sanctuary Condition Report",
+          "section_header": "Question 13: What are the levels of human activities that may adversely influence living resources and how are they changing?",
+          "score": 0.7614
+        },
+        {
+          "text": "Total fish density declined 24% during 2010-15 for unknown reasons.",
+          "file_title": "NPSA_Condition Assessment 2019",
+          "section_header": "Fish density",
+          "score": 0.7423
+        },
+        {
+          "text": "Further observations will be needed to determine whether these long-term trends of decline or increase in the fish community are real.",
+          "file_title": "Brown2022_NPSA_Fish_Trend_2010-2019",
+          "section_header": "Discussion",
+          "score": 0.7729
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Sharp declines in fish biomass at the low end of that human population scale are consistent with earlier smaller-scale",
+          "file_title": "WilliamsetalPLOSOne2015",
+          "section_header": "Impacts of Humans",
+          "score": 0.7808560132980347
+        },
+        {
+          "text": "Further observations will be needed to determine whether these long-term trends of decline or increase in the fish community are real.",
+          "file_title": "Brown2022_NPSA_Fish_Trend_2010-2019",
+          "section_header": "<span id=\"page-33-0\"></span>**Discussion**",
+          "score": 0.7729370594024658
+        },
+        {
+          "text": "Fishing pressure appears to be decreasing, but fish biomass has not increased during the reporting period.",
+          "file_title": "National Marine Sanctuary Condition Report",
+          "section_header": "<span id=\"page-170-0\"></span>**Question 13: What are the levels of human activities that may adversely influence living resources and how are they changing?**",
+          "score": 0.7613835334777832
+        },
+        {
+          "text": "Fishing pressure appears to be decreasing, but fish biomass has not increased during the reporting period.",
+          "file_title": "National Marine Sanctuary Condition Report",
+          "section_header": "*Question 12: What is the status of biodiversity and how is it changing?*",
+          "score": 0.7613835334777832
+        },
+        {
+          "text": "Total fish density declined 24% during 2010-15 for unknown reasons.",
+          "file_title": "NPSA_Condition Assessment 2019",
+          "section_header": "*Fish density*",
+          "score": 0.7423497438430786
+        }
+      ]
+    },
+    {
+      "query": "What does a shift in trophic composition reveal about fishing pressure on reef ecosystems?",
+      "response": "A shift in trophic composition on coral reefs indicates alterations in fish communities due to fishing pressures, which can lead to ecosystem imbalances such as reduced predator populations and consequent increases in prey species, affecting overall reef health.",
+      "sources": [
+        {
+          "text": "Fish trophic relationships that structure reef communities.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "Bibliography",
+          "score": 0.8178
+        },
+        {
+          "text": "Effects of fishing on the ecosystem structure of coral reefs.",
+          "file_title": "Lawrence-2005-Reef.fish.comm.AS",
+          "section_header": "6 References",
+          "score": 0.8175
+        },
+        {
+          "text": "Populations and ecosystem effect of reef fishing.",
+          "file_title": "WilliamsetalPLOSOne2015",
+          "section_header": "References",
+          "score": 0.817
+        },
+        {
+          "text": "Impacts of fishing on tropical reef ecosystems.",
+          "file_title": "Craig-2007-Sub.harvest.coral.reef.AS-Copy",
+          "section_header": "References",
+          "score": 0.8126
+        },
+        {
+          "text": "A test of trophic cascade theory: fish and benthic assemblages across a predator density gradient on coral reefs.",
+          "file_title": "Brown2022_NPSA_Fish_Trend_2010-2019",
+          "section_header": "Literature Cited",
+          "score": 0.8064
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Fish trophic relationships that structure reef communities.",
+          "file_title": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+          "section_header": "**Bibliography Bibliography**",
+          "score": 0.8177934885025024
+        },
+        {
+          "text": "Effects of fishing on the ecosystem structure of coral reefs.",
+          "file_title": "Lawrence-2005-Reef.fish.comm.AS",
+          "section_header": "**6 References**",
+          "score": 0.8174529671669006
+        },
+        {
+          "text": "Populations and ecosystem effect of reef fishing.",
+          "file_title": "WilliamsetalPLOSOne2015",
+          "section_header": "References",
+          "score": 0.8169695138931274
+        },
+        {
+          "text": "Impacts of fishing on tropical reef ecosystems.",
+          "file_title": "Craig-2007-Sub.harvest.coral.reef.AS-Copy",
+          "section_header": "**References**",
+          "score": 0.8126324415206909
+        },
+        {
+          "text": "A test of trophic cascade theory: fish and benthic assemblages across a predator density gradient on coral reefs.",
+          "file_title": "Brown2022_NPSA_Fish_Trend_2010-2019",
+          "section_header": "<span id=\"page-48-0\"></span>**Literature Cited**",
+          "score": 0.8064456582069397
+        }
+      ]
+    },
+    {
+      "query": "How can historical reef data be integrated with modern monitoring to detect regime shifts?",
+      "response": "Integrating historical reef data with modern monitoring involves analyzing trends from past data to identify baseline conditions and significant shifts, allowing for the detection of regime changes. This approach can help in assessing causes of shifts and predicting future responses to environmental changes, enhancing reef management strategies.",
+      "sources": [
+        {
+          "text": "Such monitoring of major events will allow the identification of the causes of some major shifts in reef communities.",
+          "file_title": "Craig et al. 2005 review of state of coral reef ecosystem AS",
+          "section_header": "Short-Term Monitoring of Coral Bleaching",
+          "score": 0.8
+        },
+        {
+          "text": "Decedal changes in reef-building communities: implications for reef growth and monitoring programs.",
+          "file_title": "Cornish and Didonato Polydactyla American Samoa",
+          "section_header": "References",
+          "score": 0.7657
+        },
+        {
+          "text": "2015 Predicting climate-driven regime shifts versus rebound potential in coral reefs.",
+          "file_title": "lawrence-et-al-quantifying-spatial-gradients-in-coral-reef",
+          "section_header": "References",
+          "score": 0.7567
+        },
+        {
+          "text": "2015 Predicting climate-driven regime shifts versus rebound potential in coral reefs.",
+          "file_title": "Heenan natural herv fish Royal Soc B 2016",
+          "section_header": "References",
+          "score": 0.7567
+        },
+        {
+          "text": "Temporal benthic trends by major reef type from 2017-2021.",
+          "file_title": "Library_Report_ASCRMP_FY23",
+          "section_header": "*Results*",
+          "score": 0.7519
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Such monitoring of major events will allow the identification of the causes of some major shifts in reef communities.",
+          "file_title": "Craig et al. 2005 review of state of coral reef ecosystem AS",
+          "section_header": "**Short-Term Monitoring of Coral Bleaching**",
+          "score": 0.7999975681304932
+        },
+        {
+          "text": "Decedal changes in reef-building communities: implications for reef growth and monitoring programs.",
+          "file_title": "Cornish and Didonato Polydactyla American Samoa",
+          "section_header": "References",
+          "score": 0.7656610608100891
+        },
+        {
+          "text": "2015 Predicting climate-driven regime shifts versus rebound potential in coral reefs.",
+          "file_title": "lawrence-et-al-quantifying-spatial-gradients-in-coral-reef",
+          "section_header": "References",
+          "score": 0.756737470626831
+        },
+        {
+          "text": "2015 Predicting climate-driven regime shifts versus rebound potential in coral reefs.",
+          "file_title": "Heenan natural herv fish Royal Soc B 2016",
+          "section_header": "References",
+          "score": 0.756737470626831
+        },
+        {
+          "text": "Temporal benthic trends by major reef type from 2017-2021.",
+          "file_title": "Library_Report_ASCRMP_FY23",
+          "section_header": "<span id=\"page-14-0\"></span>*Results*",
+          "score": 0.7519265413284302
+        }
+      ]
+    },
+    {
+      "query": "What are the strengths and weaknesses of belt transect surveys for assessing reef fish assemblages?",
+      "response": "Strengths of belt transect surveys include the ability to quantify numerical abundance and lengths of species, providing detailed assessments of reef fish assemblages. They allow for systematic coverage of the surveyed area and facilitate comparisons across different sites. However, weaknesses may include potential biases in species detection, observer expertise needed for accurate identification, and limitations related to environmental conditions that may affect visibility and fish behavior during surveys.",
+      "sources": [
+        {
+          "text": "Fish assemblages at each site were assessed using snorkelling equipment and a standard underwater visual belt transect survey method to quantify the numerical abundance and lengths of reef fish identified to species level.",
+          "file_title": "Lawrence-2005-Reef.fish.comm.AS",
+          "section_header": "*2.3.2 Visual census technique*",
+          "score": 0.787
+        },
+        {
+          "text": "A large-scale field comparison of strip transect and stationary point count methods for conducting length-based underwater visual surveys of reef fish populations.",
+          "file_title": "WilliamsetalPLOSOne2015",
+          "section_header": "References",
+          "score": 0.796
+        }
+      ],
+      "top_results": [
+        {
+          "text": "Evaluating the use of roving diver and transect surveys to assess the coral reef fish assemblage off southeastern Hispaniola.",
+          "file_title": "Fenner-2006-Corel.reef.mon.program.AS",
+          "section_header": "<span id=\"page-41-0\"></span>**References**",
+          "score": 0.8061802387237549
+        },
+        {
+          "text": "A large-scale field comparison of strip transect and stationary point count methods for conducting length-based underwater visual surveys of reef fish populations.",
+          "file_title": "WilliamsetalPLOSOne2015",
+          "section_header": "References",
+          "score": 0.795994758605957
+        },
+        {
+          "text": "Fish assemblages at each site were assessed using snorkelling equipment and a standard underwater visual belt transect survey method to quantify the numerical abundance and lengths of reef fish identified to species level.",
+          "file_title": "Lawrence-2005-Reef.fish.comm.AS",
+          "section_header": "*2.3.2 Visual census technique*",
+          "score": 0.7869787216186523
+        },
+        {
+          "text": "A critical evaluation of the Line Intercept Transect methodology for surveying sessile coral reef benthos.",
+          "file_title": "1996 - Mundy1996 Quantitative survey of corals, DMWR",
+          "section_header": "REFERENCES",
+          "score": 0.7760227918624878
+        },
+        {
+          "text": "The reef fish assessment team surveys transects 1, 2, and 3 and conducts four stationary point count surveys.",
+          "file_title": "Brainard et al. 2008 NOAA report for 2002-2006",
+          "section_header": "*REA Disciplines and Methods*",
+          "score": 0.7728331089019775
+        }
+      ]
+    },
+    {
+      "query": "How do differences between fringing reefs and barrier reefs influence coral community structure in American Samoa?",
+      "response": "The context does not provide information on how differences between fringing reefs and barrier reefs specifically influence coral community structure in American Samoa.",
+      "sources": [],
+      "top_results": [
+        {
+          "text": "Geologic setting and ecological functioning of corals reefs in American Samoa.",
+          "file_title": "Brown2022_NPSA_Fish_Trend_2010-2019",
+          "section_header": "<span id=\"page-48-0\"></span>**Literature Cited**",
+          "score": 0.8774980306625366
+        },
+        {
+          "text": "Geologic setting and ecological functioning of coral reefs in American Samoa.",
+          "file_title": "Comeros-Raynal 2021 Terrestrial Run off in AS",
+          "section_header": "**References**",
+          "score": 0.8772202730178833
+        },
+        {
+          "text": "Geologic setting and ecological functioning of coral reefs in American Samoa.",
+          "file_title": "Rose Atoll NWR Final CCP_May 2014(1)",
+          "section_header": "**Appendix N. References**",
+          "score": 0.8772202730178833
+        },
+        {
+          "text": "Geologic setting and ecological functioning of coral reefs in American Samoa.",
+          "file_title": "2008 The_state_of_the_coral_reef_habitat_in_A",
+          "section_header": "**References**",
+          "score": 0.8772202730178833
+        },
+        {
+          "text": "Geologic setting and ecological functioning of coral reefs in American Samoa.",
+          "file_title": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+          "section_header": "**REFERENCES**",
+          "score": 0.8772202730178833
+        }
+      ]
+    },
+    {
+      "query": "How can century-scale reef datasets be used to model future coral reef trajectories under climate change and coastal development pressures?",
+      "response": "Century-scale reef datasets can be utilized to project future coral reef conditions under climate change and coastal development pressures by analyzing historical trends and patterns. These datasets allow researchers to assess the impacts of global warming, ocean acidification, and local environmental changes, providing insights into potential trajectories of coral reef health and resilience.",
+      "sources": [
+        {
+          "text": "Projecting coral reef futures under global warming and ocean acidification.",
+          "file_title": "2018 Barshis et al.",
+          "section_header": "References",
+          "score": 0.7663
+        },
+        {
+          "text": "Projecting coral reef futures under global warming and ocean acidification.",
+          "file_title": "2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles",
+          "section_header": "References",
+          "score": 0.7603
+        },
+        {
+          "text": "Local-scale projections of coral reef futures and implications of the Paris Agreement.",
+          "file_title": "2018_Safaie et al 2018 NComm High frequency temperature variability reduces",
+          "section_header": "References",
+          "score": 0.7541
+        },
+        {
+          "text": "Implications for our coral reefs in a changing climate over the next few decades--Hints from the past 22 years.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "REFERENCES",
+          "score": 0.748
+        },
+        {
+          "text": "Local-scale projections of coral reef futures and implications of the Paris Agreement.",
+          "file_title": "AS Coral Reef Resiliency NOAA",
+          "section_header": "References",
+          "score": 0.7389
+        }
+      ],
+      "top_results": [
+        {
+          "text": "[Projecting coral reef futures under global warming and ocean acidification.",
+          "file_title": "2018 Barshis et al.",
+          "section_header": "References",
+          "score": 0.7663233876228333
+        },
+        {
+          "text": "Projecting coral reef futures under global warming and ocean acidification.",
+          "file_title": "2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles",
+          "section_header": "References",
+          "score": 0.7603380680084229
+        },
+        {
+          "text": "Local-scale projections of coral reef futures and implications of the Paris Agreement.",
+          "file_title": "2018_Safaie et al 2018 NComm High frequency temperature variability reduces",
+          "section_header": "References",
+          "score": 0.7541439533233643
+        },
+        {
+          "text": "Implications for our coral reefs in a changing climate over the next few decades--Hints from the past 22 years.",
+          "file_title": "2011 full NOAA_Tech_Memo_PIFSC_27",
+          "section_header": "**REFERENCES**",
+          "score": 0.7479907870292664
+        },
+        {
+          "text": "\"Local-scale projections of coral reef futures and implications of the Paris Agreement.\"",
+          "file_title": "AS Coral Reef Resiliency NOAA",
+          "section_header": "References",
+          "score": 0.7388743162155151
+        }
+      ]
+    }
+  ]
+}

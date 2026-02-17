@@ -4,6 +4,7 @@ import numpy as np
 import pytesseract
 from pathlib import Path
 import os
+from PIL import Image
 
 """
 Smart PDF processor that:
@@ -115,7 +116,7 @@ class SmartPDFProcessor:
         
         return extracted_images
     
-    def detect_and_extract_figures(self, page_num, dpi=300):
+    def detect_and_extract_figures(self, page_num, dpi=300, page_image=None):
         """
         Detect figure regions on a page and extract them separately.
         Uses computer vision to distinguish figures from text.
@@ -123,22 +124,26 @@ class SmartPDFProcessor:
         Args:
             page_num: Page number (0-indexed)
             dpi: Resolution for rendering
+            page_image: Optionally pass a pre-rendered image
             
         Returns:
             list: List of extracted figure paths
         """
-        # Render page to image
-        page = self.doc[page_num]
-        zoom = dpi / 72
-        mat = pymupdf.Matrix(zoom, zoom)
-        pix = page.get_pixmap(matrix=mat, alpha=False)
-        
-        img = np.frombuffer(pix.samples, dtype=np.uint8).reshape(pix.height, pix.width, pix.n)
-        
-        if pix.n == 3:
-            img = cv2.cvtColor(img, cv2.COLOR_RGB2BGR)
-        elif pix.n == 4:
-            img = cv2.cvtColor(img, cv2.COLOR_RGBA2BGR)
+        # Use pre-rendered image if provided
+        if page_image is not None:
+            img = page_image
+        else:
+            page = self.doc[page_num]
+            zoom = dpi / 72
+            mat = pymupdf.Matrix(zoom, zoom)
+            pix = page.get_pixmap(matrix=mat, alpha=False)
+            mode = "RGBA" if pix.alpha else "RGB"
+            pil_img = Image.frombytes(mode, [pix.width, pix.height], pix.samples)
+            img = np.array(pil_img)
+            if mode == "RGB":
+                img = cv2.cvtColor(img, cv2.COLOR_RGB2BGR)
+            elif mode == "RGBA":
+                img = cv2.cvtColor(img, cv2.COLOR_RGBA2BGR)
         
         # Convert to grayscale
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
@@ -155,10 +160,9 @@ class SmartPDFProcessor:
         
         extracted_figures = []
         figure_count = 0
-        
-        # Filter contours by size (figures are typically large regions)
-        min_area = (img.shape[0] * img.shape[1]) * 0.05  # At least 5% of page
-        max_area = (img.shape[0] * img.shape[1]) * 0.8   # At most 80% of page
+        page_area = img.shape[0] * img.shape[1]
+        min_area = page_area * 0.01  # Lowered to 1%
+        max_area = page_area * 0.8   # At most 80% of page
         
         for contour in contours:
             area = cv2.contourArea(contour)
@@ -177,7 +181,9 @@ class SmartPDFProcessor:
                     gray_roi = cv2.cvtColor(figure_roi, cv2.COLOR_BGR2GRAY)
                     non_white_ratio = np.sum(gray_roi < 240) / gray_roi.size
                     
-                    if non_white_ratio > 0.1:  # At least 10% non-white pixels
+                    # Require some color variance
+                    color_var = np.std(figure_roi)
+                    if non_white_ratio > 0.1 and color_var > 10:  # Require some color variance
                         figure_count += 1
                         figure_filename = f"page{page_num + 1}_figure{figure_count}.png"
                         figure_path = self.figures_dir / figure_filename
@@ -193,18 +199,16 @@ class SmartPDFProcessor:
         zoom = dpi / 72
         mat = pymupdf.Matrix(zoom, zoom)
         pix = page.get_pixmap(matrix=mat, alpha=False)
-        
-        img = np.frombuffer(pix.samples, dtype=np.uint8).reshape(pix.height, pix.width, pix.n)
-        
-        if pix.n == 3:
+        mode = "RGBA" if pix.alpha else "RGB"
+        pil_img = Image.frombytes(mode, [pix.width, pix.height], pix.samples)
+        img = np.array(pil_img)
+        if mode == "RGB":
             img = cv2.cvtColor(img, cv2.COLOR_RGB2BGR)
-        elif pix.n == 4:
+        elif mode == "RGBA":
             img = cv2.cvtColor(img, cv2.COLOR_RGBA2BGR)
-        
         page_filename = f"page_{page_num + 1}_original.png"
         page_path = self.pages_dir / page_filename
         cv2.imwrite(str(page_path), img)
-        
         return img
     
     def _detect_and_fix_orientation(self, image):
@@ -213,7 +217,19 @@ class SmartPDFProcessor:
             return image
         
         try:
-            osd = pytesseract.image_to_osd(image, config='--psm 0', timeout=10)
+            # Convert OpenCV BGR image to PIL RGB image
+            if image.ndim == 3:
+                pil_image = Image.fromarray(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
+            else:
+                pil_image = Image.fromarray(image)  # Grayscale
+            
+            try:
+                # Try with timeout first
+                osd = pytesseract.image_to_osd(pil_image, config='--psm 0', timeout=10)
+            except TypeError:
+                # If timeout not supported, retry without it
+                osd = pytesseract.image_to_osd(pil_image, config='--psm 0')
+                
             rotate = 0
             for line in osd.splitlines():
                 if 'Rotate:' in line:
@@ -293,8 +309,6 @@ class SmartPDFProcessor:
             print("  Page is scanned - using OCR")
             # Render page
             original_image = self.render_page_to_image(page_num, dpi)
-            
-            # Preprocess
             processed_image = self.preprocess_for_ocr(original_image)
             
             # Save processed image
@@ -312,7 +326,7 @@ class SmartPDFProcessor:
         # Detect and extract figures (for scanned pages)
         figures = []
         if not has_text:
-            figures = self.detect_and_extract_figures(page_num, dpi)
+            figures = self.detect_and_extract_figures(page_num, dpi, page_image=original_image)
         
         # Save text
         text_filename = f"page_{page_num + 1}_text.txt"
