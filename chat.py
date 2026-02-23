@@ -79,17 +79,18 @@ if prompt := st.chat_input("Ask a question about the research papers within the 
                     assistant_text = f"Error generating answer: {e}"
                 st.markdown(assistant_text)
 
+                # optionally show sources
+                if show_sources and hasattr(answer, "sources") and answer.sources:
+                    with st.expander("Sources used (click to expand)"):
+                        for s in answer.sources:
+                            title = s.file_title
+                            section = s.section_header
+                            text = s.text
+                            score = s.score
+                            st.write(text)
+                            st.caption(f"**{title}** — {section} — relevance: {score}")
+                            st.write("---")
+
         st.session_state.messages.append({"role": "assistant", "content": assistant_text})
 
-        # optionally show sources
-        if show_sources and hasattr(answer, "sources") and answer.sources:
-            with st.expander("Sources used (click to expand)"):
-                for s in answer.sources:
-                    title = s.file_title
-                    section = s.section_header
-                    text = s.text
-                    score = s.score
-                    st.write(text)
-                    st.caption(f"**{title}** — {section} — relevance: {score}")
-                    st.write("---")
         
