@@ -27,6 +27,11 @@ if st.button("Reload vector store") or st.session_state.vs_status == "not_loaded
         st.session_state.vs_status = "error"
         st.error(f"Error loading vector store: {e}")
 
+# clear chat
+if st.button("Clear chat history"):
+    st.session_state.messages = []
+    st.rerun()
+
 show_sources = st.checkbox("Show sources", value=True)
 
 # display chat messages from history on app rerun
@@ -88,7 +93,3 @@ if prompt := st.chat_input("Ask a question about the research papers within the 
                     st.caption(f"**{title}** — {section} — relevance: {score}")
                     st.write("---")
         
-        # clear chat
-        if st.button("Clear chat history"):
-            st.session_state.messages = []
-            st.rerun()
