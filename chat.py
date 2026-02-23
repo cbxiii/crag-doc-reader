@@ -11,9 +11,8 @@ st.set_page_config(page_title="CRAGBot")
 st.title("CRAGBot")
 
 if "messages" not in st.session_state:
-    st.session_state.messages = []  # type: ignore
+    st.session_state.messages = []
 
-# Sidebar: load vector store and options
 if "vs_status" not in st.session_state:
     st.session_state.vs_status = "not_loaded"
 if st.button("Reload vector store") or st.session_state.vs_status == "not_loaded":
@@ -33,10 +32,10 @@ show_sources = st.checkbox("Show sources", value=True)
 # display chat messages from history on app rerun
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
-        st.markdown(message["content"])
+        if message["content"]:
+            st.markdown(message["content"])
 
-prompt = st.chat_input("Ask a question about the research papers within the CRAG Library.")
-if prompt:
+if prompt := st.chat_input("Ask a question about the research papers within the CRAG Library."):
     # add user message to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
     # display user message in chat message container
@@ -65,12 +64,15 @@ if prompt:
 
         # synthesize answer (with validation)
         with st.chat_message("assistant"):
-            try:
-                answer = synthesize_with_validation(prompt, results)
-                assistant_text = answer.summary
-            except Exception as e:
-                assistant_text = f"Error generating answer: {e}"
-            st.markdown(assistant_text)
+            with st.spinner("Generating answer..."):
+                try:
+                    # Pass recent chat history so the LLM can reference prior messages
+                    history = st.session_state.messages[-6:]
+                    answer = synthesize_with_validation(prompt, results, history=history)
+                    assistant_text = answer.summary
+                except Exception as e:
+                    assistant_text = f"Error generating answer: {e}"
+                st.markdown(assistant_text)
 
         st.session_state.messages.append({"role": "assistant", "content": assistant_text})
 
@@ -85,3 +87,8 @@ if prompt:
                     st.write(text)
                     st.caption(f"**{title}** — {section} — relevance: {score}")
                     st.write("---")
+        
+        # clear chat
+        if st.button("Clear chat history"):
+            st.session_state.messages = []
+            st.rerun()

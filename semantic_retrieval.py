@@ -9,7 +9,7 @@ Features:
 
 import json
 from pathlib import Path
-from typing import List, Tuple
+from typing import List, Tuple, Optional, Dict
 import faiss
 import time
 from vector_store_utils import (
@@ -89,9 +89,11 @@ answer_agent = Agent(
     instructions=PROMPT_TEMPLATE,
 )
 
-def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]]) -> AnswerModel:
+def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]], history: Optional[List[Dict]] = None) -> AnswerModel:
     """
     Synthesizes an answer using the Answer Agent.
+    Accepts an optional `history` list of role/content dicts and prepends a short
+    conversation transcript to the prompt so the model can use recent context.
     Returns an AnswerModel Object.
     """
 
@@ -103,10 +105,29 @@ def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]
         for sent, score in results
     ])
 
+    # Build conversation history prefix (keep last N messages)
+    history_prefix = ""
+    if history:
+        try:
+            N = 6
+            recent = history[-N:]
+            parts = ["Conversation history:"]
+            for m in recent:
+                role = m.get("role", "user")
+                text = m.get("content", "")
+                # truncate long messages to keep prompt size reasonable
+                if len(text) > 1000:
+                    text = text[:1000] + "..."
+                parts.append(f"- {role}: {text}")
+            history_prefix = "\n".join(parts) + "\n\n"
+        except Exception:
+            history_prefix = ""
+
     user_prompt = (
-        f"User Question: {query}\n\n"
+        f"{history_prefix}User Question: {query}\n\n"
         f"Context: \n{context}\n\n"
     )
+
     try:
         response = answer_agent.run_sync(user_prompt)
         return response.output
@@ -115,11 +136,12 @@ def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]
 
 def synthesize_with_validation(query: str,
     initial_results: List[Tuple[SentenceWithSource, float]],
+    history: Optional[List[Dict]] = None,
     max_retries: int = 2) -> AnswerModel:
     curr_context = initial_results
 
     for attempt in range(max_retries + 1):
-        answer: AnswerModel = synthesize_answer(query, curr_context)
+        answer: AnswerModel = synthesize_answer(query, curr_context, history=history)
         invalid_source_indices = []
 
         for i, source in enumerate(answer.sources):
@@ -191,7 +213,8 @@ def main():
         for i, (sentence, score) in enumerate(results, 1):
             print(f"{i}. Score: {score:.4f} | File: {sentence.file_title} | Section: {sentence.section_header}")
 
-        answer = synthesize_with_validation(qtext, results)
+        # No chat history when running batch queries from file
+        answer = synthesize_with_validation(qtext, results, history=None)
 
         response_entry = {
             "query": qtext,
