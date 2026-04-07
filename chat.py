@@ -37,8 +37,20 @@ show_sources = st.checkbox("Show sources", value=True)
 # display chat messages from history on app rerun
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
-        if message["content"]:
+        if message.get("content"):
             st.markdown(message["content"])
+
+        # Render persisted sources for assistant messages (if any)
+        if message.get("role") == "assistant" and show_sources and message.get("sources"):
+            with st.expander("Sources used (click to expand)"):
+                for s in message.get("sources", []):
+                    title = s.get("file_title", "")
+                    section = s.get("section_header", "")
+                    text = s.get("text", "")
+                    score = s.get("score", "")
+                    st.write(text)
+                    st.caption(f"**{title}** — {section} — relevance: {score}")
+                    st.write("---")
 
 if prompt := st.chat_input("Ask a question about the research papers within the CRAG Library."):
     # add user message to chat history
@@ -76,21 +88,49 @@ if prompt := st.chat_input("Ask a question about the research papers within the 
                     answer = synthesize_with_validation(prompt, results, history=history)
                     assistant_text = answer.summary
                 except Exception as e:
+                    answer = None
                     assistant_text = f"Error generating answer: {e}"
+
                 st.markdown(assistant_text)
 
-                # optionally show sources
-                if show_sources and hasattr(answer, "sources") and answer.sources:
+                # Build a serializable sources list (cap to top 5) and optionally show them
+                serialized_sources = []
+                if answer is not None and hasattr(answer, "sources") and answer.sources:
+                    raw_sources = list(answer.sources)[:5]
+                    for s in raw_sources:
+                        if isinstance(s, dict):
+                            file_title = s.get("file_title", "")
+                            section_header = s.get("section_header", "")
+                            text = s.get("text", "")
+                            score = s.get("score", "")
+                        else:
+                            file_title = getattr(s, "file_title", "")
+                            section_header = getattr(s, "section_header", "")
+                            text = getattr(s, "text", "")
+                            score = getattr(s, "score", "")
+
+                        # Normalize to simple serializable types
+                        try:
+                            score_val = float(score) if score is not None and score != "" else None
+                        except Exception:
+                            score_val = None
+
+                        serialized_sources.append({
+                            "file_title": str(file_title) if file_title is not None else "",
+                            "section_header": str(section_header) if section_header is not None else "",
+                            "text": str(text) if text is not None else "",
+                            "score": score_val,
+                        })
+
+                # show sources immediately for the current assistant response
+                if show_sources and serialized_sources:
                     with st.expander("Sources used (click to expand)"):
-                        for s in answer.sources:
-                            title = s.file_title
-                            section = s.section_header
-                            text = s.text
-                            score = s.score
-                            st.write(text)
-                            st.caption(f"**{title}** — {section} — relevance: {score}")
+                        for s in serialized_sources:
+                            st.write(s.get("text", ""))
+                            st.caption(f"**{s.get('file_title','')}** — {s.get('section_header','')} — relevance: {s.get('score')}")
                             st.write("---")
 
-        st.session_state.messages.append({"role": "assistant", "content": assistant_text})
+        # Persist assistant message and its serializable sources so they survive reruns
+        st.session_state.messages.append({"role": "assistant", "content": assistant_text, "sources": serialized_sources})
 
         
