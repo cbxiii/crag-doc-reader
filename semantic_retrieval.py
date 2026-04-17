@@ -94,7 +94,7 @@ Tone: concise, factual, and citation-focused. Avoid speculation and maintain tra
 """
 
 answer_agent = Agent(  
-    model='openai:gpt-4o-mini',
+    model='openai:gpt-5',
     output_type=AnswerModel,
     instructions=PROMPT_TEMPLATE,
 )
