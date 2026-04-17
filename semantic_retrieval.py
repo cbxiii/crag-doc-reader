@@ -59,7 +59,7 @@ def search(index: faiss.Index, sentences: List[SentenceWithSource], query: str, 
         raise ValueError("No index loaded. Process files first.")
 
     # Get and normalize query embedding
-    query_embedding = get_embedding(query, model="qwen3-embedding:0.6b")
+    query_embedding = get_embedding(query)
     if query_embedding is None:
         return []
 
