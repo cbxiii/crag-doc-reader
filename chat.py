@@ -27,6 +27,16 @@ if st.button("Reload vector store") or st.session_state.vs_status == "not_loaded
         st.session_state.vs_status = "error"
         st.error(f"Error loading vector store: {e}")
 
+with st.sidebar:
+    st.header("Vector Store Status")
+    if st.session_state.vs_status == "loaded":
+        st.success("Vector store loaded successfully!")
+        st.write(f"Processed files: {st.session_state.processed_files}")
+    elif st.session_state.vs_status == "error":
+        st.error("Error loading vector store. Please check the console for details.")
+    else:
+        st.warning("Vector store not loaded. Please click the button above to load it.")
+
 # clear chat
 if st.button("Clear chat history"):
     st.session_state.messages = []
@@ -40,7 +50,7 @@ for message in st.session_state.messages:
         if message["content"]:
             st.markdown(message["content"])
 
-if prompt := st.chat_input("Ask a question about the research papers within the CRAG Library."):
+if prompt := st.chat_input("Ask a question about the CRAG Library."):
     # add user message to chat history
     st.session_state.messages.append({"role": "user", "content": prompt})
     # display user message in chat message container
@@ -69,28 +79,28 @@ if prompt := st.chat_input("Ask a question about the research papers within the 
 
         # synthesize answer (with validation)
         with st.chat_message("assistant"):
-            with st.spinner("Generating answer..."):
+            final_output = {}
+            # need function for yield to work
+            def stream_wrapper():
+                answer_stream = synthesize_with_validation(prompt, results, st.session_state.messages)
                 try:
-                    # Pass recent chat history so the LLM can reference prior messages
-                    history = st.session_state.messages[-6:]
-                    answer = synthesize_with_validation(prompt, results, history=history)
-                    assistant_text = answer.summary
-                except Exception as e:
-                    assistant_text = f"Error generating answer: {e}"
-                st.markdown(assistant_text)
+                    while True:
+                        yield next(answer_stream)
+                except StopIteration as e:
+                    final_output['data'], final_output['msgs'] = e.value
+            
+            full_summary = st.write_stream(stream_wrapper())
 
-                # optionally show sources
-                if show_sources and hasattr(answer, "sources") and answer.sources:
-                    with st.expander("Sources used (click to expand)"):
-                        for s in answer.sources:
-                            title = s.file_title
-                            section = s.section_header
-                            text = s.text
-                            score = s.score
-                            st.write(text)
-                            st.caption(f"**{title}** — {section} — relevance: {score}")
-                            st.write("---")
-
-        st.session_state.messages.append({"role": "assistant", "content": assistant_text})
-
-        
+            # optionally show sources
+            if 'data' in final_output and show_sources:
+                answer = final_output['data']
+                st.session_state.messages.extend(final_output['msgs'])
+                with st.expander("Sources used (click to expand)"):
+                    for s in answer.sources:
+                        title = s.file_title
+                        section = s.section_header
+                        text = s.text
+                        score = s.score
+                        st.write(text)
+                        st.caption(f"**{title}** — {section} — relevance: {score}")
+                        st.write("---")

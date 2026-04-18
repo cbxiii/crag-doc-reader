@@ -19,6 +19,7 @@ from vector_store_utils import (
 )
 from pydantic import BaseModel, Field
 from pydantic_ai import Agent
+from pydantic_ai.messages import ModelMessage
 import dotenv
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -94,16 +95,14 @@ Tone: concise, factual, and citation-focused. Avoid speculation and maintain tra
 """
 
 answer_agent = Agent(  
-    model='openai:gpt-5',
+    model='openai:gpt-5.2',
     output_type=AnswerModel,
     instructions=PROMPT_TEMPLATE,
 )
 
-def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]], history: Optional[List[Dict]] = None) -> AnswerModel:
+def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]], history: List[ModelMessage] = None):
     """
-    Synthesizes an answer using the Answer Agent.
-    Accepts an optional `history` list of role/content dicts and prepends a short
-    conversation transcript to the prompt so the model can use recent context.
+    Synthesizes an answer stream using the Answer Agent, given context from the search results.
     Returns an AnswerModel Object.
     """
 
@@ -115,34 +114,17 @@ def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]
         for sent, score in results
     ])
 
-    # Build conversation history prefix (keep last N messages)
-    history_prefix = ""
-    if history:
-        try:
-            N = 6
-            recent = history[-N:]
-            parts = ["Conversation history:"]
-            for m in recent:
-                role = m.get("role", "user")
-                text = m.get("content", "")
-                # truncate long messages to keep prompt size reasonable
-                if len(text) > 1000:
-                    text = text[:1000] + "..."
-                parts.append(f"- {role}: {text}")
-            history_prefix = "\n".join(parts) + "\n\n"
-        except Exception:
-            history_prefix = ""
-
     user_prompt = (
-        f"{history_prefix}User Question: {query}\n\n"
+        f"User Question: {query}\n\n"
         f"Context: \n{context}\n\n"
     )
 
-    try:
-        response = answer_agent.run_sync(user_prompt)
-        return response.output
-    except Exception as e:
-        return AnswerModel(summary=f"Error generating response: {e}.", sources=[])
+    with answer_agent.run_stream_sync(user_prompt, message_history=history) as stream:
+        for partial_model in stream.stream_structured(debounce_by=0.01):
+            # yield summary field for typewriter effect in the UI
+            yield partial_model.summary
+        
+        return stream.get_data(), stream.new_messages()
 
 def synthesize_with_validation(query: str,
     initial_results: List[Tuple[SentenceWithSource, float]],
@@ -179,7 +161,6 @@ def synthesize_with_validation(query: str,
         ]
     
     return answer
-
 
 def main():
     # Load existing data
@@ -223,8 +204,15 @@ def main():
         for i, (sentence, score) in enumerate(results, 1):
             print(f"{i}. Score: {score:.4f} | File: {sentence.file_title} | Section: {sentence.section_header}")
 
+        # exhausting generator to get final answer (no streaming in this batch mode)
         # No chat history when running batch queries from file
-        answer = synthesize_with_validation(qtext, results, history=None)
+        gen = synthesize_answer(qtext, results, history=None)
+
+        try:
+            for _ in gen:
+                pass
+        except StopIteration as e:
+            answer, _ = e.value
 
         response_entry = {
             "query": qtext,
@@ -237,10 +225,11 @@ def main():
 
     try:
         out_obj = {
-            "meta":{
+            "meta": {
                 "timestamp": timestamp,
                 "model": answer_agent.model.model_name,
-                "prompt": PROMPT_TEMPLATE},
+                "prompt": PROMPT_TEMPLATE
+            },
             "responses": responses
         }
         with open(out_path, 'w', encoding='utf-8') as outf:
