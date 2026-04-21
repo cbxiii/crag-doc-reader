@@ -60,7 +60,7 @@ for message in st.session_state.messages:
             if show_sources and sources:
                 with st.expander("Sources used (click to expand)"):
                     for s in sources:
-                        title = s.title
+                        title = s.file_title
                         section = s.section_header
                         text = s.text
                         score = s.score
