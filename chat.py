@@ -1,8 +1,10 @@
 import streamlit as st
 import dotenv
 from typing import List, Tuple
+import time
+from pydantic_ai.messages import ModelMessage, ModelRequest, ModelResponse, UserPromptPart, TextPart
 
-from semantic_retrieval import search, synthesize_answer, synthesize_with_validation
+from semantic_retrieval import search, synthesize_answer, AnswerModel
 from vector_store_utils import load_existing_data
 
 dotenv.load_dotenv()
@@ -11,7 +13,7 @@ st.set_page_config(page_title="CRAGBot")
 st.title("CRAGBot")
 
 if "messages" not in st.session_state:
-    st.session_state.messages = []
+    st.session_state.messages: List[ModelMessage] = [] # type: ignore
 
 if "vs_status" not in st.session_state:
     st.session_state.vs_status = "not_loaded"
@@ -46,13 +48,30 @@ show_sources = st.checkbox("Show sources", value=True)
 
 # display chat messages from history on app rerun
 for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        if message["content"]:
-            st.markdown(message["content"])
+    role = "user" if isinstance(message, ModelRequest) else "assistant"
+
+    with st.chat_message(role):
+        for part in message.parts:
+            if hasattr(part, "content"):
+                st.markdown(part.content)
+        
+        if role == "assistant" and hasattr(message, "metadata"):
+            sources = message.metadata.get("sources", [])
+            if show_sources and sources:
+                with st.expander("Sources used (click to expand)"):
+                    for s in sources:
+                        title = s.title
+                        section = s.section_header
+                        text = s.text
+                        score = s.score
+                        st.write(text)
+                        st.caption(f"**{title}** — {section} — relevance: {score}")
+                        st.write("---")
 
 if prompt := st.chat_input("Ask a question about the CRAG Library."):
     # add user message to chat history
-    st.session_state.messages.append({"role": "user", "content": prompt})
+    user_msg = ModelRequest(parts=[UserPromptPart(content=prompt)])
+    st.session_state.messages.append(user_msg)
     # display user message in chat message container
     with st.chat_message("user"):
         st.markdown(prompt)
@@ -79,23 +98,25 @@ if prompt := st.chat_input("Ask a question about the CRAG Library."):
 
         # synthesize answer (with validation)
         with st.chat_message("assistant"):
-            final_output = {}
-            # need function for yield to work
+            try:
+                answer = synthesize_answer(prompt, results, message_history=st.session_state.messages)
+                assistant_text = answer.summary
+            except Exception as e:
+                assistant_text = f"Error generating response: {e}."
+                
             def stream_wrapper():
-                gen = synthesize_answer(prompt, results, st.session_state.messages)
-                try:
-                    while True:
-                        yield next(gen)
-                except StopIteration as e:
-                    if e.value:
-                        final_output['data'], final_output['msgs'] = e.value
+                for word in assistant_text.split(" "):
+                    yield word + " "
+                    time.sleep(0.05)
             
-            full_summary = st.write_stream(stream_wrapper())
+            st.write_stream(stream_wrapper())
 
+            assistant_msg = ModelResponse(parts=[TextPart(content=assistant_text)])
+            if hasattr(answer, "sources"):
+                assistant_msg.metadata = {"sources": answer.sources}
+            st.session_state.messages.append(assistant_msg)
             # optionally show sources
-            if 'data' in final_output and show_sources:
-                answer = final_output['data']
-                st.session_state.messages.extend(final_output['msgs'])
+            if show_sources and hasattr(answer, "sources") and answer.sources:
                 with st.expander("Sources used (click to expand)"):
                     for s in answer.sources:
                         title = s.file_title

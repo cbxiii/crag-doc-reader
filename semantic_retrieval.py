@@ -104,7 +104,7 @@ def synthesize_answer(query: str,
     results: List[Tuple[SentenceWithSource, float]],
     history: List[ModelMessage] = None):
     """
-    Synthesizes an answer stream using the Answer Agent, given context from the search results.
+    Synthesizes an answer using the Answer Agent, given context from the search results.
     Returns an AnswerModel Object.
     """
 
@@ -121,13 +121,11 @@ def synthesize_answer(query: str,
         f"Context: \n{context}\n\n"
     )
 
-    with answer_agent.run_stream_sync(user_prompt, message_history=history) as result:
-        for response in result.stream_responses(debounce_by=0.01):
-            # yield summary field for typewriter effect in the UI
-            if response.summary:
-                yield response.summary
-        
-        return result.get_output(), result.new_messages()
+    try:
+        response = answer_agent.run_sync(user_prompt, message_history=history)
+        return response.output
+    except Exception as e:
+        return AnswerModel(summary=f"Error generating answer: {e}", sources=[])
 
 def synthesize_with_validation(query: str,
     initial_results: List[Tuple[SentenceWithSource, float]],
