@@ -100,7 +100,7 @@ if prompt := st.chat_input("Ask a question about the CRAG Library."):
         with st.chat_message("assistant"):
             answer = None
             try:
-                answer = synthesize_answer(prompt, results, message_history=st.session_state.messages)
+                answer = synthesize_answer(prompt, results, history=st.session_state.messages)
                 assistant_text = answer.summary
             except Exception as e:
                 assistant_text = f"Error generating response: {e}."
