@@ -33,7 +33,7 @@ with st.sidebar:
     st.header("Vector Store Status")
     if st.session_state.vs_status == "loaded":
         st.success("Vector store loaded successfully!")
-        st.write(f"# of processed files: {len(st.session_state.processed_files)}")
+        st.write(f"## Number of processed files: {len(st.session_state.processed_files)}")
     elif st.session_state.vs_status == "error":
         st.error("Error loading vector store. Please check the console for details.")
     else:
