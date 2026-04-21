@@ -2,7 +2,7 @@ import streamlit as st
 import dotenv
 from typing import List, Tuple
 
-from semantic_retrieval import search, synthesize_with_validation
+from semantic_retrieval import search, synthesize_answer, synthesize_with_validation
 from vector_store_utils import load_existing_data
 
 dotenv.load_dotenv()
@@ -82,12 +82,13 @@ if prompt := st.chat_input("Ask a question about the CRAG Library."):
             final_output = {}
             # need function for yield to work
             def stream_wrapper():
-                answer_stream = synthesize_with_validation(prompt, results, st.session_state.messages)
+                gen = synthesize_answer(prompt, results, st.session_state.messages)
                 try:
                     while True:
-                        yield next(answer_stream)
+                        yield next(gen)
                 except StopIteration as e:
-                    final_output['data'], final_output['msgs'] = e.value
+                    if e.value:
+                        final_output['data'], final_output['msgs'] = e.value
             
             full_summary = st.write_stream(stream_wrapper())
 

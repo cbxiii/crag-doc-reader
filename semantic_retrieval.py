@@ -100,7 +100,9 @@ answer_agent = Agent(
     instructions=PROMPT_TEMPLATE,
 )
 
-def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]], history: List[ModelMessage] = None):
+def synthesize_answer(query: str,
+    results: List[Tuple[SentenceWithSource, float]],
+    history: List[ModelMessage] = None):
     """
     Synthesizes an answer stream using the Answer Agent, given context from the search results.
     Returns an AnswerModel Object.
@@ -119,12 +121,13 @@ def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]
         f"Context: \n{context}\n\n"
     )
 
-    with answer_agent.run_stream_sync(user_prompt, message_history=history) as stream:
-        for partial_model in stream.stream_structured(debounce_by=0.01):
+    with answer_agent.run_stream_sync(user_prompt, message_history=history) as result:
+        for response in result.stream_responses(debounce_by=0.01):
             # yield summary field for typewriter effect in the UI
-            yield partial_model.summary
+            if response.summary:
+                yield response.summary
         
-        return stream.get_data(), stream.new_messages()
+        return result.get_output(), result.new_messages()
 
 def synthesize_with_validation(query: str,
     initial_results: List[Tuple[SentenceWithSource, float]],
