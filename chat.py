@@ -98,6 +98,7 @@ if prompt := st.chat_input("Ask a question about the CRAG Library."):
 
         # synthesize answer (with validation)
         with st.chat_message("assistant"):
+            answer = None
             try:
                 answer = synthesize_answer(prompt, results, message_history=st.session_state.messages)
                 assistant_text = answer.summary
@@ -112,17 +113,19 @@ if prompt := st.chat_input("Ask a question about the CRAG Library."):
             st.write_stream(stream_wrapper())
 
             assistant_msg = ModelResponse(parts=[TextPart(content=assistant_text)])
-            if hasattr(answer, "sources"):
-                assistant_msg.metadata = {"sources": answer.sources}
+            if answer is not None:
+                if hasattr(answer, "sources"):
+                    assistant_msg.metadata = {"sources": answer.sources}
+                # optionally show sources
+                if show_sources and hasattr(answer, "sources") and answer.sources:
+                    with st.expander("Sources used (click to expand)"):
+                        for s in answer.sources:
+                            title = s.file_title
+                            section = s.section_header
+                            text = s.text
+                            score = s.score
+                            st.write(text)
+                            st.caption(f"**{title}** — {section} — relevance: {score}")
+                            st.write("---")
+
             st.session_state.messages.append(assistant_msg)
-            # optionally show sources
-            if show_sources and hasattr(answer, "sources") and answer.sources:
-                with st.expander("Sources used (click to expand)"):
-                    for s in answer.sources:
-                        title = s.file_title
-                        section = s.section_header
-                        text = s.text
-                        score = s.score
-                        st.write(text)
-                        st.caption(f"**{title}** — {section} — relevance: {score}")
-                        st.write("---")
