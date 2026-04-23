@@ -29,6 +29,7 @@ if st.button("Reload vector store") or st.session_state.vs_status == "not_loaded
         st.session_state.vs_status = "error"
         st.error(f"Error loading vector store: {e}")
 
+# check vector store status
 with st.sidebar:
     st.header("Vector Store Status")
     if st.session_state.vs_status == "loaded":
@@ -100,8 +101,9 @@ if prompt := st.chat_input("Ask a question about the CRAG Library."):
         with st.chat_message("assistant"):
             answer = None
             try:
-                answer = synthesize_answer(prompt, results, history=st.session_state.messages)
-                assistant_text = answer.summary
+                with st.spinner("Generating response..."):
+                    answer = synthesize_answer(prompt, results, history=st.session_state.messages)
+                    assistant_text = answer.summary
             except Exception as e:
                 assistant_text = f"Error generating response: {e}."
                 
