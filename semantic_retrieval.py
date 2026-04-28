@@ -9,7 +9,7 @@ Features:
 
 import json
 from pathlib import Path
-from typing import List, Tuple
+from typing import List, Tuple, Optional, Dict
 import faiss
 import time
 from vector_store_utils import (
@@ -19,6 +19,7 @@ from vector_store_utils import (
 )
 from pydantic import BaseModel, Field
 from pydantic_ai import Agent
+from pydantic_ai.messages import ModelMessage
 import dotenv
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -59,7 +60,7 @@ def search(index: faiss.Index, sentences: List[SentenceWithSource], query: str, 
         raise ValueError("No index loaded. Process files first.")
 
     # Get and normalize query embedding
-    query_embedding = get_embedding(query, model="qwen3-embedding:0.6b")
+    query_embedding = get_embedding(query)
     if query_embedding is None:
         return []
 
@@ -77,21 +78,33 @@ def search(index: faiss.Index, sentences: List[SentenceWithSource], query: str, 
     return results
 
 PROMPT_TEMPLATE = """
-    You are a concise subject-matter expect in the field. 
-    Use to provided context to answer the user's question as accurately as possible. 
-    If the answer is not in the context, state that you cannot answer. 
-    Do NOT hallucinate sources.
+You are a concise subject-matter expert in the relevant field.
+Use the provided context to answer the user's question as accurately as possible.
+If the answer is not contained in the provided context, explicitly state that you cannot answer from the context and do NOT hallucinate sources.
+
+Small-talk handling:
+- If the user's input is casual small-talk (greetings, asking the assistant's name/identity, thanks, brief niceties), reply concisely and politely without invoking or fabricating document sources.
+- Example canned replies the system prefers when appropriate: "I am CRAGBot, a research assistant for the CRAG Library." "Hello — ask me about the research papers in the CRAG Library." "You're welcome — happy to help."
+- For capability or scope questions (e.g., "What can you do?"), give a short factual description limited to the assistant's role (searching, summarizing, and citing the CRAG Library).
+
+Primary instruction for document questions:
+- Always prioritize information extracted from the supplied Context (the source excerpts). When you use a source, make it explicit in the assistant output (include file title and section header in your reasoning or citations).
+- If the context is insufficient, say so and suggest a next step (e.g., "I don't see an answer in the provided context; you can ask me to search for related terms or provide the document.").
+
+Tone: concise, factual, and citation-focused. Avoid speculation and maintain transparency about when information comes from the provided context versus when it is unknown.
 """
 
 answer_agent = Agent(  
-    model='openai:gpt-4o-mini',
+    model='openai:gpt-5.2',
     output_type=AnswerModel,
     instructions=PROMPT_TEMPLATE,
 )
 
-def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]]) -> AnswerModel:
+def synthesize_answer(query: str,
+    results: List[Tuple[SentenceWithSource, float]],
+    history: List[ModelMessage] = None):
     """
-    Synthesizes an answer using the Answer Agent.
+    Synthesizes an answer using the Answer Agent, given context from the search results.
     Returns an AnswerModel Object.
     """
 
@@ -107,19 +120,21 @@ def synthesize_answer(query: str, results: List[Tuple[SentenceWithSource, float]
         f"User Question: {query}\n\n"
         f"Context: \n{context}\n\n"
     )
+
     try:
-        response = answer_agent.run_sync(user_prompt)
+        response = answer_agent.run_sync(user_prompt, message_history=history)
         return response.output
     except Exception as e:
-        return AnswerModel(summary=f"Error generating response: {e}.", sources=[])
+        return AnswerModel(summary=f"Error generating answer: {e}", sources=[])
 
 def synthesize_with_validation(query: str,
     initial_results: List[Tuple[SentenceWithSource, float]],
+    history: Optional[List[Dict]] = None,
     max_retries: int = 2) -> AnswerModel:
     curr_context = initial_results
 
     for attempt in range(max_retries + 1):
-        answer: AnswerModel = synthesize_answer(query, curr_context)
+        answer: AnswerModel = synthesize_answer(query, curr_context, history=history)
         invalid_source_indices = []
 
         for i, source in enumerate(answer.sources):
@@ -147,7 +162,6 @@ def synthesize_with_validation(query: str,
         ]
     
     return answer
-
 
 def main():
     # Load existing data
@@ -191,7 +205,15 @@ def main():
         for i, (sentence, score) in enumerate(results, 1):
             print(f"{i}. Score: {score:.4f} | File: {sentence.file_title} | Section: {sentence.section_header}")
 
-        answer = synthesize_with_validation(qtext, results)
+        # exhausting generator to get final answer (no streaming in this batch mode)
+        # No chat history when running batch queries from file
+        gen = synthesize_answer(qtext, results, history=None)
+
+        try:
+            for _ in gen:
+                pass
+        except StopIteration as e:
+            answer, _ = e.value
 
         response_entry = {
             "query": qtext,
@@ -204,10 +226,11 @@ def main():
 
     try:
         out_obj = {
-            "meta":{
+            "meta": {
                 "timestamp": timestamp,
                 "model": answer_agent.model.model_name,
-                "prompt": PROMPT_TEMPLATE},
+                "prompt": PROMPT_TEMPLATE
+            },
             "responses": responses
         }
         with open(out_path, 'w', encoding='utf-8') as outf:

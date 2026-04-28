@@ -25,7 +25,7 @@ from vector_store_utils import (
 )
 
 
-def process_and_add(md_path: str, model: str = "qwen3-embedding:0.6b") -> None:
+def process_and_add(md_path: str) -> None:
     # check if ollama is reachable
     try:
         ollama.list()
@@ -57,6 +57,7 @@ def process_and_add(md_path: str, model: str = "qwen3-embedding:0.6b") -> None:
 
     new_embeddings_list = []
     dim = None
+    model = "qwen3-embedding:0.6b"
     for i, s in enumerate(new_sentences, 1):
         if i % 10 == 0:
             print(f"  processing {i}/{len(new_sentences)}")

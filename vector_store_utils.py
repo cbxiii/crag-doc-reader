@@ -34,7 +34,8 @@ FAISS_INDEX_FILE = STORAGE_DIR / "index.faiss"
 METADATA_FILE = STORAGE_DIR / "metadata.json"
 
 
-def get_embedding(text: str, model: str = "qwen3-embedding:0.6b") -> Optional[np.ndarray]:
+def get_embedding(text: str) -> Optional[np.ndarray]:
+    model: str = "qwen3-embedding:0.6b"
     try:
         resp = ollama.embeddings(model=model, prompt=text)
         return np.array(resp['embedding'], dtype=np.float32)
@@ -43,7 +44,7 @@ def get_embedding(text: str, model: str = "qwen3-embedding:0.6b") -> Optional[np
         return None
 
 
-def split_into_sentences(text: str, file_path: str, file_title: str) -> List[SentenceWithSource]:
+def split_into_chunks(text: str, file_path: str, file_title: str, window_size: int = 3, overlap: int = 1) -> List[SentenceWithSource]:
     sentences_with_source: List[SentenceWithSource] = []
     lines = text.split('\n')
     current_section = ""
@@ -73,8 +74,29 @@ def split_into_sentences(text: str, file_path: str, file_title: str) -> List[Sen
                         section_header=current_section,
                     )
                 )
+    # creating chunks w/ sliding windows
+    chunks = []
+    for i in range(0, len(sentences_with_source), window_size - overlap):
+        window = sentences_with_source[i:i + window_size]
+        if not window:
+            continue
 
-    return sentences_with_source
+        # merge text of sentences in the window
+        combined_text = " ".join(s.text for s in window)
+        chunk = SentenceWithSource(
+            text=combined_text,
+            file_path=window[0].file_path,
+            file_title=window[0].file_title,
+            line_number=window[0].line_number,
+            section_header=window[0].section_header,
+        )
+        chunks.append(chunk)
+
+        # stop if we've reached the end
+        if i + window_size >= len(sentences_with_source):
+            break
+
+    return chunks
 
 
 def load_existing_data() -> Tuple[List[SentenceWithSource], Optional[np.ndarray], Optional[faiss.Index], Set[str]]:

@@ -1,87 +1,154 @@
 import streamlit as st
+import streamlit_authenticator as stauth
 import dotenv
 from typing import List, Tuple
+import time
+import yaml
 
-from semantic_retrieval import search, synthesize_with_validation
+from pydantic_ai.messages import ModelMessage, ModelRequest, ModelResponse, UserPromptPart, TextPart
+
+from semantic_retrieval import search, synthesize_answer
 from vector_store_utils import load_existing_data
 
 dotenv.load_dotenv()
 
-st.set_page_config(page_title="CRAGBot")
-st.title("CRAGBot")
+with open("config.yaml", "r") as f:
+    config = yaml.safe_load(f)
 
-if "messages" not in st.session_state:
-    st.session_state.messages = []  # type: ignore
+authenticator = stauth.Authenticate(
+    config['credentials'],
+    config['cookie']['name'],
+    config['cookie']['key'],
+    config['cookie']['expiry_days']
+)
 
-# Sidebar: load vector store and options
-if "vs_status" not in st.session_state:
-    st.session_state.vs_status = "not_loaded"
-if st.button("Reload vector store") or st.session_state.vs_status == "not_loaded":
-    try:
-        sentences, embeddings, index, processed_files = load_existing_data()
-        st.session_state.sentences = sentences
-        st.session_state.embeddings = embeddings
-        st.session_state.index = index
-        st.session_state.processed_files = processed_files
-        st.session_state.vs_status = "loaded"
-    except Exception as e:
-        st.session_state.vs_status = "error"
-        st.error(f"Error loading vector store: {e}")
+name, authentication_status, username = authenticator.login("Login", "main")
 
-show_sources = st.checkbox("Show sources", value=True)
+if authentication_status:
+    authenticator.logout("Logout", "sidebar")
+    st.set_page_config(page_title="CRAGBot")
+    st.title("Welcome to CRAGBot, {name}!")
 
-# display chat messages from history on app rerun
-for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
+    if "messages" not in st.session_state:
+        st.session_state.messages: List[ModelMessage] = [] # type: ignore
 
-prompt = st.chat_input("Ask a question about the research papers within the CRAG Library.")
-if prompt:
-    # add user message to chat history
-    st.session_state.messages.append({"role": "user", "content": prompt})
-    # display user message in chat message container
-    with st.chat_message("user"):
-        st.markdown(prompt)
-
-    # If vector store not loaded, show helpful message
-    index = st.session_state.get("index")
-    sentences = st.session_state.get("sentences", [])
-
-    if index is None:
-        assistant_text = "No vector store index loaded. Please load the vector store from the sidebar."
-        with st.chat_message("assistant"):
-            st.markdown(assistant_text)
-        st.session_state.messages.append({"role": "assistant", "content": assistant_text})
-    else:
-        # run search
+    if "vs_status" not in st.session_state:
+        st.session_state.vs_status = "not_loaded"
+    if st.button("Reload vector store") or st.session_state.vs_status == "not_loaded":
         try:
-            results: List[Tuple] = search(index, sentences, prompt, top_k=10)
+            sentences, embeddings, index, processed_files = load_existing_data()
+            st.session_state.sentences = sentences
+            st.session_state.embeddings = embeddings
+            st.session_state.index = index
+            st.session_state.processed_files = processed_files
+            st.session_state.vs_status = "loaded"
         except Exception as e:
-            err = f"Search error: {e}"
+            st.session_state.vs_status = "error"
+            st.error(f"Error loading vector store: {e}")
+
+    # check vector store status
+    with st.sidebar:
+        st.header("Vector Store Status")
+        if st.session_state.vs_status == "loaded":
+            st.success("Vector store loaded successfully!")
+            st.write(f"## Number of processed files: {len(st.session_state.processed_files)}")
+        elif st.session_state.vs_status == "error":
+            st.error("Error loading vector store. Please check the console for details.")
+        else:
+            st.warning("Vector store not loaded. Please click the button above to load it.")
+
+    # clear chat
+    if st.button("Clear chat history"):
+        st.session_state.messages = []
+        st.rerun()
+
+    show_sources = st.checkbox("Show sources", value=True)
+
+    # display chat messages from history on app rerun
+    for message in st.session_state.messages:
+        role = "user" if isinstance(message, ModelRequest) else "assistant"
+
+        with st.chat_message(role):
+            for part in message.parts:
+                if hasattr(part, "content"):
+                    st.markdown(part.content)
+            
+            if role == "assistant" and hasattr(message, "metadata"):
+                sources = message.metadata.get("sources", [])
+                if show_sources and sources:
+                    with st.expander("Sources used (click to expand)"):
+                        for s in sources:
+                            title = s.file_title
+                            section = s.section_header
+                            text = s.text
+                            score = s.score
+                            st.write(text)
+                            st.caption(f"**{title}** — {section} — relevance: {score}")
+                            st.write("---")
+
+    if prompt := st.chat_input("Ask a question about the CRAG Library."):
+        # add user message to chat history
+        user_msg = ModelRequest(parts=[UserPromptPart(content=prompt)])
+        st.session_state.messages.append(user_msg)
+        # display user message in chat message container
+        with st.chat_message("user"):
+            st.markdown(prompt)
+
+        # If vector store not loaded, show helpful message
+        index = st.session_state.get("index")
+        sentences = st.session_state.get("sentences", [])
+
+        if index is None:
+            assistant_text = "No vector store index loaded. Please load the vector store from the sidebar."
             with st.chat_message("assistant"):
-                st.markdown(err)
-            st.session_state.messages.append({"role": "assistant", "content": err})
-            results = []
-
-        # synthesize answer (with validation)
-        with st.chat_message("assistant"):
+                st.markdown(assistant_text)
+            st.session_state.messages.append({"role": "assistant", "content": assistant_text})
+        else:
+            # run search
             try:
-                answer = synthesize_with_validation(prompt, results)
-                assistant_text = answer.summary
+                results: List[Tuple] = search(index, sentences, prompt, top_k=10)
             except Exception as e:
-                assistant_text = f"Error generating answer: {e}"
-            st.markdown(assistant_text)
+                err = f"Search error: {e}"
+                with st.chat_message("assistant"):
+                    st.markdown(err)
+                st.session_state.messages.append({"role": "assistant", "content": err})
+                results = []
 
-        st.session_state.messages.append({"role": "assistant", "content": assistant_text})
+            # generate answer and stream response
+            with st.chat_message("assistant"):
+                answer = None
+                try:
+                    with st.spinner("Generating response..."):
+                        answer = synthesize_answer(prompt, results, history=st.session_state.messages)
+                        assistant_text = answer.summary
+                except Exception as e:
+                    assistant_text = f"Error generating response: {e}."
+                    
+                def stream_wrapper():
+                    for word in assistant_text.split(" "):
+                        yield word + " "
+                        time.sleep(0.05)
+                
+                st.write_stream(stream_wrapper())
 
-        # optionally show sources
-        if show_sources and hasattr(answer, "sources") and answer.sources:
-            with st.expander("Sources used (click to expand)"):
-                for s in answer.sources:
-                    title = s.file_title
-                    section = s.section_header
-                    text = s.text
-                    score = s.score
-                    st.write(text)
-                    st.caption(f"**{title}** — {section} — relevance: {score}")
-                    st.write("---")
+                assistant_msg = ModelResponse(parts=[TextPart(content=assistant_text)])
+                if answer is not None:
+                    if hasattr(answer, "sources"):
+                        assistant_msg.metadata = {"sources": answer.sources}
+                    # optionally show sources
+                    if show_sources and hasattr(answer, "sources") and answer.sources:
+                        with st.expander("Sources used (click to expand)"):
+                            for s in answer.sources:
+                                title = s.file_title
+                                section = s.section_header
+                                text = s.text
+                                score = s.score
+                                st.write(text)
+                                st.caption(f"**{title}** — {section} — relevance: {score}")
+                                st.write("---")
+
+                st.session_state.messages.append(assistant_msg)
+elif authentication_status == False:
+    st.error("Username/password is incorrect")
+elif authentication_status == None:
+    st.warning("Please enter your username and password")
