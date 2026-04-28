@@ -114,7 +114,7 @@ if authentication_status:
                 st.session_state.messages.append({"role": "assistant", "content": err})
                 results = []
 
-            # synthesize answer (with validation)
+            # generate answer and stream response
             with st.chat_message("assistant"):
                 answer = None
                 try:
