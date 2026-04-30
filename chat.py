@@ -15,6 +15,8 @@ dotenv.load_dotenv()
 with open("config.yaml", "r") as f:
     config = yaml.safe_load(f)
 
+stauth.Hasher.hash_passwords(config['credentials'])
+
 authenticator = stauth.Authenticate(
     config['credentials'],
     config['cookie']['name'],
