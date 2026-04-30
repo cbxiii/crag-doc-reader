@@ -22,12 +22,12 @@ authenticator = stauth.Authenticate(
     config['cookie']['expiry_days']
 )
 
-name, authentication_status, username = authenticator.login("Login", "main")
+name, authentication_status, username = authenticator.login(location='main')
 
 if authentication_status:
     authenticator.logout("Logout", "sidebar")
     st.set_page_config(page_title="CRAGBot")
-    st.title("Welcome to CRAGBot, {name}!")
+    st.title(f"Welcome to CRAGBot, {name}!")
 
     if "messages" not in st.session_state:
         st.session_state.messages: List[ModelMessage] = [] # type: ignore
