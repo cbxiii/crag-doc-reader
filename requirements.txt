@@ -9,3 +9,5 @@ nltk
 pydantic-ai
 streamlit
 streamlit-authenticator
+pytest
+python-dotenv

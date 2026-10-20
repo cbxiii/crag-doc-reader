@@ -95,3 +95,30 @@ Or open and run `semantic_retrieval_demo.ipynb` to interactively explore queries
 
 ---
 Updated to reflect the current codebase and to document the step-by-step RAG build process for the CRAG corpus.
+
+## Synthetic ground-truth dataset
+
+`generate_ground_truth.py` creates one evidence-grounded question and answer per selected Markdown section. Install dependencies with `pip install -r requirements.txt`, then put `OPENAI_API_KEY` in your environment or a local `.env` file. The script loads `.env` and reads only `OPENAI_API_KEY` for provider authentication.
+
+Preview the workload and estimated calls without writing outputs or contacting a model:
+
+```bash
+python generate_ground_truth.py --dry-run --limit 3
+```
+
+Run a one-paper smoke generation, then validate saved records without API calls:
+
+```bash
+python generate_ground_truth.py --limit 1 --model openai:gpt-4o-mini
+python generate_ground_truth.py --validate-only
+```
+
+Generate the full corpus with the default `openai:gpt-4o-mini` model:
+
+```bash
+python generate_ground_truth.py
+```
+
+The default run resumes by skipping only complete papers whose source hash still matches. Use `--force` to regenerate saved papers. Partial results and changed sources are regenerated automatically. Change the model with `--model openai:gpt-5.2`; `--max-sections-per-paper`, `--min-section-words`, `--max-retries`, and `--limit` tune the work.
+
+Per-paper artifacts mirror Markdown paths under `synthetic_ground_truth/papers/` and include schema version, source SHA-256, completion status, selected-section counts, records, and failures. `dataset.jsonl` holds successful records sorted by source path and line number; `failures.jsonl` contains failed section or paper work. Successful records include deterministic ID, paper and source paths, section heading and one-based source line range, model, question, answer, and exact evidence chunks. Outputs are rebuilt from per-paper artifacts so resumed runs do not append duplicates.
