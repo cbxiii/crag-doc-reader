@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi.md",
+  "source_sha256": "697a32fe46f10df3d30ad5a749ea88acabec761e905dd126e248de51b7ad55d1",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "c7f000dfd9a7408022e6240b",
+      "paper_id": "2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi",
+      "source_path": "output/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi.md",
+      "section_heading": "Coral-associated marine fungi form novel lineages and heterogeneous assemblages",
+      "section_start_line": 5,
+      "section_end_line": 18,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did fungal community phylogenetic diversity differ between Acropora hyacinthus colonies from the warmer pool and the colder pool?",
+      "ground_truth_answer": "Colonies in the warmer pool contained more phylogenetically diverse fungal communities than the colder pool and contained statistically significant 'indicator' species.",
+      "ground_truth_chunks": [
+        "Colonies in the warmer pool contained more phylogenetically diverse fungal communities than the colder pool and contained statistically significant 'indicator' species.",
+        "Phylogenetic analysis of coral-associated fungal ribosomal DNA amplicons showed a high diversity of Basidiomycetes and Ascomycetes, including several clades separated from known fungal taxa by long and well-supported branches."
+      ]
+    },
+    {
+      "record_id": "14d056208382363c25ce4bdc",
+      "paper_id": "2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi",
+      "source_path": "output/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi.md",
+      "section_heading": "Materials and methods",
+      "section_start_line": 41,
+      "section_end_line": 52,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many A. hyacinthus coral colonies were sampled for DNA analysis from each pool?",
+      "ground_truth_answer": "18 colonies per pool (36 total colonies).",
+      "ground_truth_chunks": [
+        "For DNA analysis, individual coral fragments ( $\\sim 2\\,\\mathrm{cm^3}$  per fragment) were sampled from 18 colonies of *A. hyacinthus* in each pool (36 total colonies) and stored in 70% ethanol until subsequent nucleic acid extraction."
+      ]
+    },
+    {
+      "record_id": "a6b825194be1c9883fee5323",
+      "paper_id": "2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi",
+      "source_path": "output/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi.md",
+      "section_heading": "Nucleic acid extractions",
+      "section_start_line": 53,
+      "section_end_line": 62,
+      "model": "openai:gpt-4o-mini",
+      "question": "What buffer replaced 250 ml of 100% isopropanol during the final precipitation step in the RNA extraction protocol?",
+      "ground_truth_answer": "250 ml of high salt buffer (0.8 M Na citrate, 1.2 M NaCl).",
+      "ground_truth_chunks": [
+        "standard TRIzol extraction was performed according to the manufacturer's specifications with the replacement of 250 ml of 100% isopropanol with 250 ml of high salt buffer (0.8 M Na citrate, 1.2 M NaCl) during the final precipitation step."
+      ]
+    },
+    {
+      "record_id": "1127b2c094560db67e1398d0",
+      "paper_id": "2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi",
+      "source_path": "output/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi.md",
+      "section_heading": "PCR and 454 sequencing of genomic DNA",
+      "section_start_line": 67,
+      "section_end_line": 70,
+      "model": "openai:gpt-4o-mini",
+      "question": "What sequencing platform was used for pyrosequencing the pooled PCR products?",
+      "ground_truth_answer": "The 454 Life Sciences FLX Titanium platform.",
+      "ground_truth_chunks": [
+        "PCR products were cleaned using the QIAquick PCR Purification Kit (Qiagen, Valencia, CA, USA) following the manufacturer's instructions, quantified using a Qubit Fluorometer (Invitrogen), pooled into equimolar concentrations and pyrosequenced at the Duke University ISGP Sequencing Facility on one of eight regions of a plate using the 454 Life Sciences FLX Titanium platform."
+      ]
+    },
+    {
+      "record_id": "2ea003db07bfc830883113dd",
+      "paper_id": "2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi",
+      "source_path": "output/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi.md",
+      "section_heading": "Bioinformatic processing of 454 DNA amplicon sequences",
+      "section_start_line": 71,
+      "section_end_line": 92,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which analytic pipeline was used to de-multiplex, quality-control process, and cluster 454 reads into OTUs?",
+      "ground_truth_answer": "MOTHUR v.1.14.0.",
+      "ground_truth_chunks": [
+        "Base calls and quality scores derived from the 454 sequencer were 'de-multiplexed', quality-control processed and clustered into operation taxonomic units (OTUs) using the MOTHUR v.1.14.0 analytic pipeline ([Schloss](#page-10-0) et al., 2009)."
+      ]
+    },
+    {
+      "record_id": "81e41eaa45947a6f2aed2d31",
+      "paper_id": "2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi",
+      "source_path": "output/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi.md",
+      "section_heading": "Illumina sequencing of mRNA",
+      "section_start_line": 99,
+      "section_end_line": 110,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many libraries were sequenced with 76-bp paired-end reads and how many with 36-bp single-end reads?",
+      "ground_truth_answer": "Seven libraries were sequenced with 76-bp paired-end reads and four libraries were sequenced with 36-bp single-end reads.",
+      "ground_truth_chunks": [
+        "The sample of one individual's ambient-temperature treatment was not sequenced, thus 11 total libraries were constructed from 6 individuals: 5 from ambient and 6 from heat-stressed duplicates.",
+        "Seven of these libraries were sequenced by Illumina Corp. with a 76-bp paired-end sequencing length (152 bp per sequence total) and the remaining four libraries were sequenced using single-end sequencing and a length of 36 bp in the lab of Dr Arend Sidow (Stanford University)."
+      ]
+    },
+    {
+      "record_id": "4699e0a0581d28e4a38acf06",
+      "paper_id": "2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi",
+      "source_path": "output/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi.md",
+      "section_heading": "Results",
+      "section_start_line": 111,
+      "section_end_line": 130,
+      "model": "openai:gpt-4o-mini",
+      "question": "After removing coral-derived sequences, how many high-quality fungal sequences remained?",
+      "ground_truth_answer": "26 022 high-quality fungal sequences remained.",
+      "ground_truth_chunks": [
+        "Following initial DNA sequence processing, 57 415 reads were retained. In all, 28 083 sequences, nearly half of all reads, derived from the coral animals themselves and were subsequently removed from the data set, leaving 26 022 high-quality fungal sequences."
+      ]
+    },
+    {
+      "record_id": "6507b73c92ab5c53200dca45",
+      "paper_id": "2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi",
+      "source_path": "output/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi.md",
+      "section_heading": "Fungal community transcriptomics",
+      "section_start_line": 188,
+      "section_end_line": 197,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many contigs matched fungal sequences with BLAST matches above the cutoff thresholds?",
+      "ground_truth_answer": "5736 contigs matched fungal sequences with BLAST matches above the cutoff thresholds.",
+      "ground_truth_chunks": [
+        "In all, 5736 contigs matched fungal sequences with BLAST matches above our cutoff thresholds (>40% similarity and with *E*-values <10<sup>-5</sup>).",
+        "Out of these matches, 4515 contigs were mapped to hypothetical fungal proteins in Genbank."
+      ]
+    },
+    {
+      "record_id": "15637764dfdea648bf5ccc25",
+      "paper_id": "2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi",
+      "source_path": "output/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi.md",
+      "section_heading": "Discussion",
+      "section_start_line": 206,
+      "section_end_line": 225,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the average BLAST match similarity to the best reference sequence for the 28S gene reported in the Discussion section?",
+      "ground_truth_answer": "The average BLAST match was 97% similar to the best reference sequence.",
+      "ground_truth_chunks": [
+        "We found several groups in the Agaricomycetes, Ustilaginomycetes, Eurotiomycetes and Dothideomycetes that form separate, well-supported clades with branch lengths suggesting novel lineages (Supplementary Figures S1–S3).",
+        "The fact that our average BLAST match was only 97% similar to the best reference sequence of the commonly sequenced and slowly evolving 28S gene indicates a large degree of divergence from known species."
+      ]
+    },
+    {
+      "record_id": "0ffdd9ed56d55be81457b6c3",
+      "paper_id": "2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi",
+      "source_path": "output/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi/2011_Amend Barshis and Oliver 2011 ISME Journal Coral associated marine fungi.md",
+      "section_heading": "Conclusion",
+      "section_start_line": 240,
+      "section_end_line": 243,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did Symbiodinium genotype and water temperature have a discernable impact on the fungal community as a whole in this study?",
+      "ground_truth_answer": "No. Within this study, Symbiodinium genotype and water temperature had no discernable impact on the fungal community as a whole, though they did impact the distribution patterns of some individual OTUs.",
+      "ground_truth_chunks": [
+        "We show that within our study, Symbiodinium genotype and water temperature had no discernable impact on the fungal community as a whole, but did impact the distribution patterns of some individual OTUs."
+      ]
+    }
+  ],
+  "failures": []
+}

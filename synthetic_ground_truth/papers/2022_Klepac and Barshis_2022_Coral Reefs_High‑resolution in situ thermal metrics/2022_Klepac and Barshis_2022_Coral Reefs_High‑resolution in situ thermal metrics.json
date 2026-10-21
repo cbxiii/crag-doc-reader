@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics.md",
+  "source_sha256": "b743d31849eca0a8f70298fde054da5d9062bcb938e97492e9be637da67cafbb",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "dfc6b408fa9dd4610e7553da",
+      "paper_id": "2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics",
+      "source_path": "output/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics.md",
+      "section_heading": "High‑resolution in situ thermal metrics coupled with acute heat stress experiments reveal diferential coral bleaching susceptibility",
+      "section_start_line": 5,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "By how much were maximum monthly means higher in in situ data compared to remotely sensed data?",
+      "ground_truth_answer": "Approximately 0.6 °C higher in in situ data.",
+      "ground_truth_chunks": [
+        "We found ~ 0.6 °C higher maximum monthly means for *in situ* versus remotely sensed data, which resulted in fewer degree heating weeks."
+      ]
+    },
+    {
+      "record_id": "20b7f4c2911774bca2f0dae1",
+      "paper_id": "2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics",
+      "source_path": "output/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics.md",
+      "section_heading": "Introduction",
+      "section_start_line": 25,
+      "section_end_line": 44,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the sizes and typical temperature ranges of the HV, MV, and LV backreef pools at Ofu Island described in the Introduction?",
+      "ground_truth_answer": "HV pool: 4400 m^3 at low tide; experiences summer temperatures as high as 35 °C with up to 6 °C daily fluctuations. MV pool: 51,300 m^3 at low tide; daily range 28 to 33 °C. LV pool: size unknown; daily range 28 to 32.5 °C.",
+      "ground_truth_chunks": [
+        "These backreef pools are<5 km apart and nearly identical in species diversity and percent live coral cover yet have distinct diferences in small-scale environmental variability driven by tidal cycle and pool size (Craig et al. [2001;](#page-10-9) Smith et al. [2007;](#page-12-6) Oliver and Palumbi [2011](#page-11-9)). The HV pool (4400 m<sup>3</sup> at low tide) experiences summer temperatures as high as 35 °C, with up to 6 °C daily fuctuations (Craig et al. [2001,](#page-10-9) Klepac and Barshis [2020](#page-11-24)), whereas the moderately variable pool (MV; 51,300 m<sup>3</sup> at low tide) ranges daily from 28 to 33 °C, and the less variable (LV; size unknown) pool ranges daily from 28 to 32.5 °C (Klepac and Barshis [2020](#page-11-24))."
+      ]
+    },
+    {
+      "record_id": "0fe4d2d1340d5f5922f99071",
+      "paper_id": "2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics",
+      "source_path": "output/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics.md",
+      "section_heading": "Ofu backreef temperature profling",
+      "section_start_line": 51,
+      "section_end_line": 64,
+      "model": "openai:gpt-4o-mini",
+      "question": "What month and value did the NOAA CRW dataset identify as the maximum monthly mean (MMM) across years 1985–2012 for Ofu Island?",
+      "ground_truth_answer": "April, 28.9 °C.",
+      "ground_truth_chunks": [
+        "The NOAA CRW dataset's calculated month with the highest maximum temperature (MMM) across years 1985–2012 was April (28.9 °C) and was applied to the NPSA dataset for each pool to then calculate NOAA CRW Hot spots and Degree Heating Weeks for the backreef pools of Ofu following NOAA's CRW SST climatology product methodology (Liu et al. [2006](#page-11-25)).",
+        "April was the site-specifc MMM to calculate hot spots and *in situ*, bleaching year excluded, DHWs."
+      ]
+    },
+    {
+      "record_id": "491f374a23993a711a3d3d29",
+      "paper_id": "2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics",
+      "source_path": "output/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics.md",
+      "section_heading": "Coral growth and acute heat stress assays",
+      "section_start_line": 65,
+      "section_end_line": 72,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many ramets were collected per colony per transplant group, and what was the total number of ramets per timepoint in the coral growth and acute heat stress assays?",
+      "ground_truth_answer": "Two ramets were collected per colony per transplant group, totaling 120 ramets per timepoint.",
+      "ground_truth_chunks": [
+        "At 1 month (August 5–8, 2016) and 6 months (February 9–11, 2017) following transplantation, two ramets were collected per colony per transplant group (2 ramets\\*10 colonies\\*6 transplant groups, *n*=120 ramets/timepoint) from the grids in the three backreef pools, scrubbed to remove fouling organisms, and buoyant weighed prior to controlled thermal stress experiments."
+      ]
+    },
+    {
+      "record_id": "17ddee4c27e1462f37630427",
+      "paper_id": "2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics",
+      "source_path": "output/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics.md",
+      "section_heading": "Natural bleaching of donor colonies",
+      "section_start_line": 79,
+      "section_end_line": 86,
+      "model": "openai:gpt-4o-mini",
+      "question": "During the 6-month timepoint bleaching event, what samples and measurements were taken from donor colonies?",
+      "ground_truth_answer": "They sampled small cores (2 cm^2) from both affected (lightest visible) and healthy (darkest visible) regions of donor colonies, recorded the percent area bleached for each colony, measured chlorophyll concentration and surface area, and averaged healthy and affected chlorophyll values to produce a mean chlorophyll value for each colony.",
+      "ground_truth_chunks": [
+        "We sampled small cores (2 cm<sup>2</sup> ) of both afected (i.e., lightest visible area) and healthy (i.e., darkest visible area) regions of donor colonies at all sites.",
+        "In addition, we recorded the percent area bleached for each colony.",
+        "Chlorophyll concentration and surface area were processed and measured as aforementioned. Healthy and afected chlorophyll values were averaged to\n\n![](_page_3_Picture_12.jpeg)\n\nproduce a mean chlorophyll value of each colony to account for potential intra-colony physiological diferences."
+      ]
+    },
+    {
+      "record_id": "3d1d368f53ca1f335c8ea687",
+      "paper_id": "2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics",
+      "source_path": "output/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics.md",
+      "section_heading": "Statistical analyses",
+      "section_start_line": 87,
+      "section_end_line": 96,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were in situ Degree Heating Weeks (DHWs) compared across pools in the Statistical analyses section?",
+      "ground_truth_answer": "They were compared using a sliding window analysis followed by a Wilcox rank-sum test for 2-week windows (sliding by 1 week) where DHWs were greater than 0 °C week−1; multiple tests were sequentially Bonferroni adjusted.",
+      "ground_truth_chunks": [
+        "*In situ* DHWs were compared across pools using a sliding window analysis followed by a Wilcox rank-sum test (*stats*) for 2-week windows (sliding by 1 week) where DHWs were greater than 0 °C week−1 (sensu Sale et al. [2019](#page-12-10)).",
+        "Multiple tests were sequentially Bonferroni adjusted."
+      ]
+    },
+    {
+      "record_id": "cffda2263cf389324567c5cd",
+      "paper_id": "2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics",
+      "source_path": "output/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics.md",
+      "section_heading": "Coral growth",
+      "section_start_line": 137,
+      "section_end_line": 144,
+      "model": "openai:gpt-4o-mini",
+      "question": "After 1 month of transplantation, how did weekly growth rates of HV corals transplanted into the MV pool compare to MV native corals?",
+      "ground_truth_answer": "HV corals transplanted into the MV pool had seven times greater weekly growth rates than MV native corals (HV\\_MV 0.138±0.05 g week−1 vs. MV\\_MV 0.019±0.04; *p*=0.05).",
+      "ground_truth_chunks": [
+        "Weekly growth rates for *P. lobata* difered by the interaction between time and transplant group.",
+        "After 1 month of transplantation, HV corals transplanted into the MV pool had seven times greater weekly growth rates than MV native corals (HV\\_MV 0.138±0.05 g week−1 vs. MV\\_MV 0.019±0.04; *p*=0.05; Fig. [3\\)](#page-6-0)."
+      ]
+    },
+    {
+      "record_id": "5865ee966811dce5714a7bad",
+      "paper_id": "2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics",
+      "source_path": "output/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics.md",
+      "section_heading": "Symbiodiniaceae photophysiology under experimental and natural stress",
+      "section_start_line": 145,
+      "section_end_line": 156,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which transplant groups had approximately 1.2-fold higher Fv/Fm values after 21 h of heat stress?",
+      "ground_truth_answer": "Heated MV_MV and MV_HV corals.",
+      "ground_truth_chunks": [
+        "Overall, there was a signifcant efect of transplant group (*p*<0.01), treatment (*p*<0.01), and the interaction of the two (*p*<0.01) on *Fv/Fm* values after 21 h of heat stress. Heated MV\\_MV and MV\\_HV corals had ~ 1.2-fold higher *Fv/Fm* values in comparison with all other transplant groups (Fig. [4](#page-6-1)A)."
+      ]
+    },
+    {
+      "record_id": "766b95487d0c53dbf881dde9",
+      "paper_id": "2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics",
+      "source_path": "output/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics.md",
+      "section_heading": "The complex relationship between thermal variability and bleaching sensitivity",
+      "section_start_line": 163,
+      "section_end_line": 178,
+      "model": "openai:gpt-4o-mini",
+      "question": "In this study, which native pool's Porites lobata corals exhibited greater Fv/Fm values and higher tolerance limits under experimental acute heat stress, the MV (moderately variable) pool or the HV (highly variable) pool?",
+      "ground_truth_answer": "Native MV (moderately variable) P. lobata corals exhibited greater Fv/Fm values and had higher tolerance limits than HV corals.",
+      "ground_truth_chunks": [
+        "Similar to Barshis et al. ([2018](#page-10-7)), there was an efect of native reef environment on chlorophyll fuorescence under experimental acute heat stress, however, it was native MV corals that had greater *Fv/Fm* values than HV native and transplanted ramets.",
+        "Also, native MV coral *Fv/Fm* values were not afected by acute heat stress in February (6-mo), and total chlorophyll of MV ramets transplanted into the HV pool did not respond to acute heat stress in August (1-mo), suggesting that MV corals had greater tolerance limits than other backreef *P. lobata* examined herein.",
+        "we consistently found no efect of the HV common garden increasing bleaching tolerance *and* increased tolerance limits in MV *P. lobata* over two bleaching years (Klepac & Barshis [2020](#page-11-24); this study)."
+      ]
+    },
+    {
+      "record_id": "136cef253ff1d477d17c6da6",
+      "paper_id": "2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics",
+      "source_path": "output/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics.md",
+      "section_heading": "High‑resolution temperature metrics coupled with physiological diagnostics reveal diferential bleaching responses",
+      "section_start_line": 179,
+      "section_end_line": 204,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which high-resolution heat-loading metric did the section say aligned with physiological diagnostics (CBASS and Fv/Fm) to reveal greater heat loading in the HV pool?",
+      "ground_truth_answer": "High-resolution DHHH (high-resolution heat loading metrics, DHHH).",
+      "ground_truth_chunks": [
+        "Yet, the most consistent pattern (though subtle) observed among the various thermal metrics was the higher-resolution DHHH revealed greater heat loading in HV, which aligns with increased bleaching sensitivity of HV corals (Klepac and Barshis [2020;](#page-11-24) this study).",
+        "Here, highresolution heat loading metrics (DHHH) align with physiological diagnostics (CBASS and *Fv/Fm*) to reveal potential sublethal or subbleaching stress in the HV pool."
+      ]
+    }
+  ],
+  "failures": []
+}

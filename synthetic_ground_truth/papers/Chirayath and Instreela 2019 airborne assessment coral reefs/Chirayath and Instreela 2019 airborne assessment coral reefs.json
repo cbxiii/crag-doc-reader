@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs.md",
+  "source_sha256": "41e097a55996822b880b3eb14477470c783a996230c2dd9bc64cb4e3cb378b62",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "37623930a03fd639900df276",
+      "paper_id": "Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs",
+      "source_path": "output/Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs.md",
+      "section_heading": "ABSTRACT",
+      "section_start_line": 22,
+      "section_end_line": 31,
+      "model": "openai:gpt-4o-mini",
+      "question": "What four morphological classes does the algorithm segment the coral reef into?",
+      "ground_truth_answer": "Branching coral, mounding coral, basalt rock, and sand.",
+      "ground_truth_chunks": [
+        "the algorithm separates living structure from nonliving structure and segments the coral reef into four distinct morphological classes – branching coral, mounding coral, basalt rock, and sand."
+      ]
+    },
+    {
+      "record_id": "324177210053346c3631f74e",
+      "paper_id": "Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs",
+      "source_path": "output/Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 32,
+      "section_end_line": 43,
+      "model": "openai:gpt-4o-mini",
+      "question": "Given typical coral growth rates mentioned in the Introduction, what spatial resolution scale is needed to assess reef change?",
+      "ground_truth_answer": "Effective spatial resolutions at the cm-scale are needed to assess change.",
+      "ground_truth_chunks": [
+        "With typical coral growth rates of ~1 cm per year,",
+        "effective spatial resolutions at the cm-scale are needed to assess change ([Chirayath and Earle, 2016](#page-12-2); [Edinger et al., 2000;](#page-12-3) [Storlazzi et al., 2016](#page-13-2))."
+      ]
+    },
+    {
+      "record_id": "47848c1c2b2d0a7c66d130d3",
+      "paper_id": "Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs",
+      "source_path": "output/Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs.md",
+      "section_heading": "1.2. Novel contributions",
+      "section_start_line": 54,
+      "section_end_line": 57,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were the algorithm's data products validated?",
+      "ground_truth_answer": "They were validated through error analysis with in-situ ground-truth mapping and underwater photogrammetry from the surveyed areas.",
+      "ground_truth_chunks": [
+        "The data products of the algorithm are validated through error analysis with in-situ ground-truth mapping and underwater photogrammetry from the surveyed areas."
+      ]
+    },
+    {
+      "record_id": "35a86ce0753a1208e51c40bb",
+      "paper_id": "Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs",
+      "source_path": "output/Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs.md",
+      "section_heading": "1.3. Airborne fluid lensing and 3D Cm-scale aquatic remote sensing without ocean wave distortion",
+      "section_start_line": 58,
+      "section_end_line": 75,
+      "model": "openai:gpt-4o-mini",
+      "question": "What minimum imaging frame rate does airborne fluid lensing typically require for successful reconstructions?",
+      "ground_truth_answer": "Airborne fluid lensing typically requires full-frame multispectral (at least RGB bands) imagery at ~100 Hz with concurrent sun angle and telemetry data.",
+      "ground_truth_chunks": [
+        "Airborne fluid lensing typically requires full-frame multispectral (at least RGB bands) imagery at ~100 Hz with concurrent sun angle and telemetry data for successful reconstructions of aquatic systems."
+      ]
+    },
+    {
+      "record_id": "6f14528f8e5143de9881d5e4",
+      "paper_id": "Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs",
+      "source_path": "output/Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs.md",
+      "section_heading": "1.5. Machine learning for coral reef mapping",
+      "section_start_line": 88,
+      "section_end_line": 103,
+      "model": "openai:gpt-4o-mini",
+      "question": "What supervised machine learning model did the paper implement for automated segmentation of cm-resolution 3D multispectral imagery?",
+      "ground_truth_answer": "A probabilistic naïve-Bayes supervised model.",
+      "ground_truth_chunks": [
+        "For this study, we employ supervised machine learning for multiclass classification using training data from each output class.",
+        "In this paper, we implement a probabilistic naïve-Bayes supervised model and focus on the implementation of a supervised multi-class algorithm developed specifically for an efficient and accurate automated approach to segmenting cm-resolution 3D multispectral imagery from airborne fluid lensing data."
+      ]
+    },
+    {
+      "record_id": "f9c519bff8caaf61df46957e",
+      "paper_id": "Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs",
+      "source_path": "output/Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs.md",
+      "section_heading": "2. Methods",
+      "section_start_line": 104,
+      "section_end_line": 109,
+      "model": "openai:gpt-4o-mini",
+      "question": "What two data products does the algorithm produce?",
+      "ground_truth_answer": "1) A two-class living versus nonliving structure map (used to derive percent cover). 2) A coral reef morphology product that segments reef morphology into four classes: branching coral, mounding coral, rock, and sand.",
+      "ground_truth_chunks": [
+        "The algorithm is designed to produce two data products from the 3D imagery.",
+        "The first product is a two-class living versus nonliving structure map. This map is used to derive percent cover, defined as the ratio of living structure, e.g. Porites and Acropora coral genera and turf algae, to non-living structure, representative of depauperate environments, e.g. basalt rock, sand, and bleached coral, in a 2D orthorectified image.",
+        "The second product, coral reef morphology, segments reef morphology into four distinct classes of branching coral, mounding coral, rock, and sand."
+      ]
+    },
+    {
+      "record_id": "225e2ef23e9ce70fde7216c4",
+      "paper_id": "Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs",
+      "source_path": "output/Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs.md",
+      "section_heading": "2.3. Supervised machine learning algorithm for automated percent coral cover & coral morphology segmentation",
+      "section_start_line": 128,
+      "section_end_line": 190,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which supervised machine learning algorithm and estimator were used for automated coral reef morphology segmentation in this study?",
+      "ground_truth_answer": "A supervised naïve-Bayes predictive algorithm using a Maximum a Posteriori (MAP) estimator (Naive-Bayes MAP estimation).",
+      "ground_truth_chunks": [
+        "There are promising steps forward in improving multi-class SVM learning models ([Hsu and Chih-Jen Lin, 2003\\)](#page-12-24), although this limitation, coupled with the relative computational efficiency of probabilistic models, ultimately makes a supervised naïve-Bayes predictive algorithm a well-suited choice for achieving the efficient and accurate multi-class classification pursued in this study.",
+        "y_{MAP} = arg_Y \\max P(Y|X) = arg_Y \\max P(X|Y)P(Y)",
+        "Naive-Bayes Maximum a Posteriori (MAP) Estimation"
+      ]
+    },
+    {
+      "record_id": "baa699065e1c73c851b715c0",
+      "paper_id": "Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs",
+      "source_path": "output/Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs.md",
+      "section_heading": "2.4. Experimental and generalized classification error assessment",
+      "section_start_line": 191,
+      "section_end_line": 212,
+      "model": "openai:gpt-4o-mini",
+      "question": "What formula defines the generalized classifier error S_generalized in section 2.4?",
+      "ground_truth_answer": "S_generalized = \\sum_{i=1}^{n} |X_i - \\hat{X}_i|.",
+      "ground_truth_chunks": [
+        "Both the experimental and generalized error were calculated as a means for quantifying classifier performance. To determine the generalized classifier error, test data from regions corresponding to the manually segmented images from the training set are reclassified. In other words, let  $x_{test} \\triangleq X_{raw}$ , where  $X_{raw}$  contains the original pixel values in the training set, and perform automated classification on  $x_{test}$  using lines 007–013 from Fig. 5. The resulting reclassified set  $\\hat{X}$ , and the generalized error,  $S_{generalized}$ , is defined as the L1-norm of this result such that:\n\n$$S_{generalized} = \\sum_{i=1}^{n} |X_i - \\hat{X}_i|$$"
+      ]
+    },
+    {
+      "record_id": "02f1870aedd85bedebfd1ec4",
+      "paper_id": "Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs",
+      "source_path": "output/Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs.md",
+      "section_heading": "4. Discussion",
+      "section_start_line": 229,
+      "section_end_line": 280,
+      "model": "openai:gpt-4o-mini",
+      "question": "What accuracy did the 3D MAP segmentation achieve for percent cover determination?",
+      "ground_truth_answer": "Approximately 95%.",
+      "ground_truth_chunks": [
+        "The algorithm output using 3D MAP segmentation achieved approximately 95% accuracy for percent cover determination, but the 4D MAP segmentation result, incorporating bathymetric data, did not further reduce the segmentation error ([Fig. 11](#page-10-1)) as expected.",
+        "The automated segmentation results presented in [Fig. 6](#page-7-0), and error analysis presented in [Fig. 11](#page-10-1), demonstrate that the algorithm and airborne fluid lensing are capable of segmenting complex coral reef morphologies and distinguishing living coral using remote sensing with > 92% accuracy ([Fig. 12](#page-11-0))."
+      ]
+    },
+    {
+      "record_id": "37a231b9d128c0f93c4a0cfd",
+      "paper_id": "Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs",
+      "source_path": "output/Chirayath and Instreela 2019 airborne assessment coral reefs/Chirayath and Instreela 2019 airborne assessment coral reefs.md",
+      "section_heading": "5. Conclusions",
+      "section_start_line": 281,
+      "section_end_line": 294,
+      "model": "openai:gpt-4o-mini",
+      "question": "Using a user-selected training subset of about 1% of the dataset, what accuracies does the algorithm achieve for (a) discriminating living vs nonliving structure and (b) segmenting coral reef morphological classes?",
+      "ground_truth_answer": "The algorithm discriminates living structure from nonliving structure with 95% accuracy and segments coral reef into four morphological classes with 92% accuracy.",
+      "ground_truth_chunks": [
+        "Provided a user-selected training subset of 3D multispectral images, comprising close to 1% of the total dataset, the algorithm discriminates living structure from nonliving structure with 95% accuracy and segments the coral reef into four distinct morphological classes of branching coral, mounding coral, basalt rock, and sand, with 92% accuracy ([Fig. 12\\)](#page-11-0)."
+      ]
+    }
+  ],
+  "failures": []
+}

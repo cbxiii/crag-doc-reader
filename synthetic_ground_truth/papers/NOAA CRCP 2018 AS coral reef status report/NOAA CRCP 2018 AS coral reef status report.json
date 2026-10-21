@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report.md",
+  "source_sha256": "2757ae722eee59bdf2c33d9f166359f508f85079faf447376cd9685f53b0ee90",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "518e0e17eb0a2cc687da6998",
+      "paper_id": "NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report",
+      "source_path": "output/NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report.md",
+      "section_heading": "Coral reefs are important",
+      "section_start_line": 3,
+      "section_end_line": 8,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which program established the National Coral Reef Monitoring Program (NCRMP) and in what year?",
+      "ground_truth_answer": "The National Oceanic and Atmospheric Administration (NOAA) Coral Reef Conservation Program (CRCP) established the NCRMP in 2011.",
+      "ground_truth_chunks": [
+        "The National Oceanic and Atmospheric Administration (NOAA) Coral Reef Conservation Program (CRCP) leads efforts to monitor and conserve coral reef resources and the ecosystem services they provide for current and future generations.",
+        "In 2011, CRCP established the National Coral Reef Monitoring Program (NCRMP)—an integrated and focused monitoring effort with partners across the U.S. and its territories."
+      ]
+    },
+    {
+      "record_id": "860bd5f33d51aae64d839902",
+      "paper_id": "NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report",
+      "source_path": "output/NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report.md",
+      "section_heading": "reefs are under threat",
+      "section_start_line": 17,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are three ways that land-based sources of pollution impact coral reefs?",
+      "ground_truth_answer": "1) Sedimentation, which smothers corals with dirt; 2) Nutrient enrichment, which can lead to overgrowth of corals by seaweeds; and 3) The introduction of toxins and diseases into the system.",
+      "ground_truth_chunks": [
+        "Land-based sources of pollution result from agriculture, deforestation, land clearing, storm water, impervious surfaces, coastal development, road construction, and oil and chemical spills.",
+        "This pollution impacts coral reefs in many ways, including 1) sedimentation, which smothers corals with dirt, 2) nutrient enrichment, which can lead to overgrowth of corals by seaweeds, and 3) the introduction of toxins and diseases into the system."
+      ]
+    },
+    {
+      "record_id": "c0cd78f0c495fd3b69f8ac23",
+      "paper_id": "NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report",
+      "source_path": "output/NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report.md",
+      "section_heading": "CORALS & ALGAE",
+      "section_start_line": 33,
+      "section_end_line": 48,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which islands in American Samoa experience most of the impacts from COTS infestations?",
+      "ground_truth_answer": "Swains and Tutuila Islands.",
+      "ground_truth_chunks": [
+        "Several recent COTS infestations on American Samoa reefs may be linked to nutrient inputs.",
+        "Corals at Swains and Tutuila Islands experience most of the impacts."
+      ]
+    },
+    {
+      "record_id": "d0172c532b9b03a44cb84efe",
+      "paper_id": "NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report",
+      "source_path": "output/NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report.md",
+      "section_heading": "AMERICAN SAMOA",
+      "section_start_line": 76,
+      "section_end_line": 119,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the 70 villages in American Samoa have resource management plans in place?",
+      "ground_truth_answer": "20%",
+      "ground_truth_chunks": [
+        "Of the 70 villages in American Samoa, 20% have resource management plans in place, 7% of coral reef area"
+      ]
+    },
+    {
+      "record_id": "3ddfe11577460fdc9c39fdc8",
+      "paper_id": "NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report",
+      "source_path": "output/NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report.md",
+      "section_heading": "MULIAVA (ROSE ATOLL)",
+      "section_start_line": 120,
+      "section_end_line": 125,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the land area of Rose Atoll in square miles?",
+      "ground_truth_answer": "About 0.03 square miles of land.",
+      "ground_truth_chunks": [
+        "Rose Atoll consists of about 0.03 square miles of land, 2.5 square miles of lagoon, and a narrow barrier reef."
+      ]
+    },
+    {
+      "record_id": "06ac7e795fe8aaa853c500e6",
+      "paper_id": "NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report",
+      "source_path": "output/NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report.md",
+      "section_heading": "NORTH & SOUTH TUTUILA",
+      "section_start_line": 126,
+      "section_end_line": 131,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many residents does the island of Tutuila have?",
+      "ground_truth_answer": "Nearly 56,000 residents.",
+      "ground_truth_chunks": [
+        "The island of Tutuila is the Territory's administrative center and is by far the largest and most populated island of American Samoa, with nearly 56,000 residents."
+      ]
+    },
+    {
+      "record_id": "dc43ca417a650fa92d7ffc5b",
+      "paper_id": "NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report",
+      "source_path": "output/NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report.md",
+      "section_heading": "0-59% Critical",
+      "section_start_line": 156,
+      "section_end_line": 185,
+      "model": "openai:gpt-4o-mini",
+      "question": "What happened to American Samoa reefs in 2015?",
+      "ground_truth_answer": "High temperature stress, bleaching, and mortality hit American Samoa reefs hard in 2015; severe bleaching and mortality occurred on shallow inshore and lagoonal reefs along southern Tutuila, while higher survival occurred on forereef habitats in deeper waters.",
+      "ground_truth_chunks": [
+        "High temperature stress, bleaching, and mortality hit American Samoa reefs hard in 2015.",
+        "Severe bleaching and mortality occurred on shallow inshore and lagoonal reefs along southern Tutuila.",
+        "Higher survival occurred on forereef habitats in deeper waters throughout American Samoa."
+      ]
+    },
+    {
+      "record_id": "7241dcdb9454c600f8d1d57d",
+      "paper_id": "NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report",
+      "source_path": "output/NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report.md",
+      "section_heading": "Samoans support reef management",
+      "section_start_line": 196,
+      "section_end_line": 217,
+      "model": "openai:gpt-4o-mini",
+      "question": "What reef management measures are listed in the 'Samoans support reef management' section?",
+      "ground_truth_answer": "The section lists: Community-based Village MPAs; Temporary fishing closure areas; Permanent no-take MPAs; 2012 expansion of Fagatele NMS; and a ban on fishing “big fish.”",
+      "ground_truth_chunks": [
+        "Community-based Village MPAs\n\nTemporary fishing closure areas\n\nPermanent no-take MPAs\n\n2012 expansion of Fagatele NMS\n\nBan on fishing \"big fish\"",
+        "Biodiversity is a measure of the variety of living organisms. High biodiversity of corals, fish, and other organisms helps keep the ecosystem in balance and makes it resilient to environmental impacts. Although we measure biodiversity, the science is not yet mature enough to score biodiversity in an area. As the science and analysis progress, we will look to include biodiversity scores in future status reports."
+      ]
+    },
+    {
+      "record_id": "418b473d1ae3ace746fd7642",
+      "paper_id": "NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report",
+      "source_path": "output/NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report.md",
+      "section_heading": "STATUS REPORT FRAMEWORK",
+      "section_start_line": 218,
+      "section_end_line": 256,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many fish and benthic indicators were assessed to evaluate biological condition in the American Samoa status report?",
+      "ground_truth_answer": "Three fish indicators and five benthic indicators were assessed to evaluate biological condition.",
+      "ground_truth_chunks": [
+        "For the American Samoa status report, three fish indicators and five benthic indicators were assessed to evaluate biological condition, three indicators were assessed to evaluate climate impacts, and three indicators were assessed to evaluate human connections."
+      ]
+    },
+    {
+      "record_id": "6ea95c101ed99dac23aa9388",
+      "paper_id": "NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report",
+      "source_path": "output/NOAA CRCP 2018 AS coral reef status report/NOAA CRCP 2018 AS coral reef status report.md",
+      "section_heading": "WHAT YOU CAN DO TO HELP",
+      "section_start_line": 257,
+      "section_end_line": 304,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to 'WHAT YOU CAN DO TO HELP', what should you do with fishing nets and other gear when you leave?",
+      "ground_truth_answer": "Be responsible by taking fishing nets and other gear with you when you leave.",
+      "ground_truth_chunks": [
+        "Be responsible by taking fishing nets and other gear with you when you leave."
+      ]
+    }
+  ],
+  "failures": []
+}

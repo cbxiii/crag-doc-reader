@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS.md",
+  "source_sha256": "9e27978822f938ecfae2154a18422f928e94ed5ad6404eeb16c2078c08e503c8",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "da741fd4e20c175754637f71",
+      "paper_id": "Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS",
+      "source_path": "output/Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS.md",
+      "section_heading": "OVERVIEW:",
+      "section_start_line": 9,
+      "section_end_line": 20,
+      "model": "openai:gpt-4o-mini",
+      "question": "On what dates did the ASRAMP 2004 cruise aboard the NOAA ship Oscar Elton Sette take place?",
+      "ground_truth_answer": "February 3 – 24, 2004.",
+      "ground_truth_chunks": [
+        "The NOAA ship *Oscar Elton Sette* successfully completed the biennial American Samoa Reef Assessment and Monitoring Program (ASRAMP 2004) cruise to monitor, map, and conduct strategic research of the coral reef ecosystems of American Samoa over the period February 3 – 24, 2004."
+      ]
+    },
+    {
+      "record_id": "8279e829b1d76cf6e16b66cb",
+      "paper_id": "Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS",
+      "source_path": "output/Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS.md",
+      "section_heading": "Benthic Observations: (Molly Timmers and Rusty Brainard) Ta'u Island",
+      "section_start_line": 180,
+      "section_end_line": 183,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the average live coral cover recorded in the 18 towed-diver habitat surveys?",
+      "ground_truth_answer": "23.9% live coral cover.",
+      "ground_truth_chunks": [
+        "For the 18 towed-diver habitat surveys, there was an average of 23.9% live coral cover with 4.67% appearing pale (or stressed), and 1.12% appearing white. A total of 0.31% appeared to have recently died."
+      ]
+    },
+    {
+      "record_id": "3cfb35b8dfa5a1298a09c1cc",
+      "paper_id": "Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS",
+      "source_path": "output/Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS.md",
+      "section_heading": "Overview of Fishes",
+      "section_start_line": 222,
+      "section_end_line": 229,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral reef fish species were observed at Tutuila Island in 2004, and what was the percent increase compared to 2002?",
+      "ground_truth_answer": "338 species were observed at Tutuila in 2004, a 48% increase from 2002.",
+      "ground_truth_chunks": [
+        "The total number of coral reef fish species CRED documented in 2002 for each of the islands was 127 for Ta'u, 168 for Ofu/Olosega, 222 for Rose Atoll, 168 for Swains\n\nIsland, and 228 for Tutuila Island.",
+        "The total number of fish species observed in 2004 was: 227 at Ta'u (79% increase), 271 at Ofu/Olosega (61% increase), 272 at Rose Atoll (23% increase), 220 at Swains Island (31% increase), and 338 (48% increase) for Tutuila."
+      ]
+    },
+    {
+      "record_id": "ebf05b67fd869682d7e83e4a",
+      "paper_id": "Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS",
+      "source_path": "output/Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS.md",
+      "section_heading": "Notes on Rare Species, Alternate Color-morphs, and Range Extensions",
+      "section_start_line": 312,
+      "section_end_line": 337,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species was observed twice at Ofu/Olosega and whose sighting represents a considerable range extension?",
+      "ground_truth_answer": "The blackbelly Picasso fish, Rhinecanthus verracosa, was observed twice at Ofu/Olosega and this sighting represents a considerable range extension.",
+      "ground_truth_chunks": [
+        "The blackbelly Picasso fish, *Rhinecanthus verracosa* (Balistidae) was observed twice at Ofu/Olosega. This species is known only from the Indian Ocean east to the Solomon Islands, Great Barrier Reef (Australia), Vanuatu and southern Japan; this sighting represents a considerable range extension."
+      ]
+    },
+    {
+      "record_id": "1740f5568f8c6c31c0d60be0",
+      "paper_id": "Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS",
+      "source_path": "output/Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS.md",
+      "section_heading": "Damselfish:",
+      "section_start_line": 422,
+      "section_end_line": 432,
+      "model": "openai:gpt-4o-mini",
+      "question": "At which location was the \"white tail\" morph of Stegastes fasiolatus found solely?",
+      "ground_truth_answer": "It was found solely at Tau Island.",
+      "ground_truth_chunks": [
+        "- *Stegastes fasiolatus* (Pomacentridae) had \"white tail\" morph that was found solely at Tau Island, was absent from Rose Atoll, and dominated or coexisted with the normal morph at Ofu/Olosega."
+      ]
+    },
+    {
+      "record_id": "61dfa82d984862085926306a",
+      "paper_id": "Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS",
+      "source_path": "output/Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS.md",
+      "section_heading": "Site Descriptions:",
+      "section_start_line": 557,
+      "section_end_line": 568,
+      "model": "openai:gpt-4o-mini",
+      "question": "At the TAU-7 site on Ta`u Island, which organisms were reported as the most abundant in the photoquadrats?",
+      "ground_truth_answer": "Crustose coralline algae and turf algae.",
+      "ground_truth_chunks": [
+        "Crustose coralline algae as well as turf algae were the most abundant in the photoquadrats."
+      ]
+    },
+    {
+      "record_id": "fda67e859b0030d1cf152234",
+      "paper_id": "Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS",
+      "source_path": "output/Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS.md",
+      "section_heading": "OLO4 2/6/04",
+      "section_start_line": 597,
+      "section_end_line": 600,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which organisms were seen in the photoquadrats at the OLO4 site on 2/6/04?",
+      "ground_truth_answer": "Crustose coralline algae, an encrusting brown assumed to be a *Lobophora* sp., turf algae, Blue green algae, *Amphiroa* sp., *Halimeda* sp., and *Peysonnelia* sp.",
+      "ground_truth_chunks": [
+        "Crustose coralline algae, an encrusting brown assumed to be a *Lobophora* sp., turf algae, Blue green algae, *Amphiroa* sp., *Halimeda* sp., and *Peysonnelia* sp. were seen in the photoquadrats.",
+        "Additionally, *Jania* sp., *Chlorodesmis* sp., and other *Halimeda* spp. were found during the random swim."
+      ]
+    },
+    {
+      "record_id": "02d19f256d8a180d03de8e90",
+      "paper_id": "Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS",
+      "source_path": "output/Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS.md",
+      "section_heading": "ROS 4 and 22 2/9/04",
+      "section_start_line": 723,
+      "section_end_line": 726,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which algal genus was reported as completely absent at sites 4 and 22?",
+      "ground_truth_answer": "Microdictyon sp.",
+      "ground_truth_chunks": [
+        "They differed in the complete absence of *Microdictyon* sp. and there was seemingly less branched coralline.",
+        "In addition to the these, *Halimeda* spp., turf algae, *Dictyosphaeria versluysii*, and *Dictyota* sp. were seen in the photoquadrats."
+      ]
+    },
+    {
+      "record_id": "8503da6c338639c38a377db8",
+      "paper_id": "Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS",
+      "source_path": "output/Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS.md",
+      "section_heading": "ROS-9P 2004-02- 11 14' 33.072 168' 09.619 CREWS buoy site",
+      "section_start_line": 945,
+      "section_end_line": 948,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which survey site had the greatest diversity of invertebrate species?",
+      "ground_truth_answer": "Site ROS-05 had the greatest diversity of invertebrate species.",
+      "ground_truth_chunks": [
+        "The ROS-05 site, on the other hand appears to be quite healthy and had the greatest diversity of invertebrate species of any site."
+      ]
+    },
+    {
+      "record_id": "a030c15cdd0aa764e067e769",
+      "paper_id": "Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS",
+      "source_path": "output/Brainard-2004-NOAA.cruise.rpt.AS/Brainard-2004-NOAA.cruise.rpt.AS.md",
+      "section_heading": "SCIENTIFIC PERSONNEL:",
+      "section_start_line": 1089,
+      "section_end_line": 1142,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who is listed as Chief Scientist for the towboard and oceanography teams?",
+      "ground_truth_answer": "Russell E. Brainard, Ph.D.",
+      "ground_truth_chunks": [
+        "- Russell E. Brainard, Ph.D., Chief Scientist, towboard and oceanography teams, Pacific Islands Fisheries Science Center (PIFSC), Coral Reef Ecosystem Division (CRED)"
+      ]
+    }
+  ],
+  "failures": []
+}

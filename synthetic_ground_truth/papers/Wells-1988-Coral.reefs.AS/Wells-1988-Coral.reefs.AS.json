@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS.md",
+  "source_sha256": "8226664cf0e723ecfac7ba8233e5ec0a364bb79628946ae4602d8299a2fd65a0",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "ad23e990397c1efa6b8ae48f",
+      "paper_id": "Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS",
+      "source_path": "output/Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS.md",
+      "section_heading": "General Description",
+      "section_start_line": 7,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the land area of American Samoa?",
+      "ground_truth_answer": "76 sq. mi.",
+      "ground_truth_chunks": [
+        "The land area covers 76 sq. mi."
+      ]
+    },
+    {
+      "record_id": "e00d2b2a86f60eb01e6420a7",
+      "paper_id": "Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS",
+      "source_path": "output/Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS.md",
+      "section_heading": "Manu'a Group",
+      "section_start_line": 21,
+      "section_end_line": 66,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which turtle species are reported to nest mainly on Rose Atoll and have apparently scattered nesting elsewhere, principally in the Manu'a group?",
+      "ground_truth_answer": "Green Turtles (Chelonia mydas) and Hawksbills (Eretmochelys imbricata).",
+      "ground_truth_chunks": [
+        "Leatherback Turtles Dermochelys coriacea, Olive Ridleys Lepidochelys olivacea and Loggerheads Caretta caretta have been recorded in American Samoan waters, and both Green Turtles Chelonia mydas and Hawksbills Eretmochelys imbricata nest, mainly on Rose Atoll with apparently scattered nesting elsewhere, principally in the Manu'a group, although it is possible that Eretmochelys also nests sparsely on Tutuila (Amerson et al., 1982; Anon., 1979; Johannes, 1986)."
+      ]
+    },
+    {
+      "record_id": "5e05816edc6d9bf1462dd1d6",
+      "paper_id": "Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS",
+      "source_path": "output/Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS.md",
+      "section_heading": "Reef Resources",
+      "section_start_line": 67,
+      "section_end_line": 72,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many tonnes of fish per year are taken by shoreline recreational fishing in American Samoa?",
+      "ground_truth_answer": "About 300 tonnes of fish a year.",
+      "ground_truth_chunks": [
+        "Shoreline recreational fishing is traditionally important and about 300 tonnes of fish a year are taken in this way."
+      ]
+    },
+    {
+      "record_id": "6aca9586b5146daac3b35735",
+      "paper_id": "Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS",
+      "source_path": "output/Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS.md",
+      "section_heading": "Disturbances and Deficiencies",
+      "section_start_line": 73,
+      "section_end_line": 98,
+      "model": "openai:gpt-4o-mini",
+      "question": "What species caused the severe infestation on Tutuila reefs in 1978-1979?",
+      "ground_truth_answer": "Acanthaster planci.",
+      "ground_truth_chunks": [
+        "The reefs of Tutuila were subjected to a severe infestation of Acanthaster planci in 1978-1979 (Beulig et al., 1981; Birkeland and Randall, 1979).",
+        "Damage, particularly to Acropora, was widespread with reefs at the following sites being severely damaged or wiped out: Taema, Nafanua, Faga'itua Bay, Aunu'u, Onenoa, Aoa, Sailele, Masefau, Afono, Vatia, Tafeu Cove, Fagasa, Fagafue, Aasu, Aoloau, Fagamalo, Maloata, Poloa, Vailoatai, Fagatele, Fagalua (Larsen) Bay and the airport."
+      ]
+    },
+    {
+      "record_id": "2335c6298315cc9eb25385dd",
+      "paper_id": "Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS",
+      "source_path": "output/Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS.md",
+      "section_heading": "Legislation and Management",
+      "section_start_line": 99,
+      "section_end_line": 116,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does Public Law 16-58 prohibit in American Samoa?",
+      "ground_truth_answer": "Public Law 16-58 prohibits the use of poison in territorial waters and provides punishment by fines and/or imprisonment; territorial law also prohibits the use of dynamite to harvest fish and other marine resources.",
+      "ground_truth_chunks": [
+        "At present Public Law 16-58 prohibits the use of poison in territorial waters and provides punishment by fines and/or imprisonment; territorial law also prohibits the use of dynamite to harvest fish and other marine resources.",
+        "Attempts are being made to control the use of dynamite and bleach with a public awareness campaign using newspapers, television and lectures (Itano in litt., 29.7.87)."
+      ]
+    },
+    {
+      "record_id": "bde3d0bc7b9ba3e02e858059",
+      "paper_id": "Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS",
+      "source_path": "output/Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS.md",
+      "section_heading": "FAGATELE BAY NATIONAL MARINE SANCTUARY",
+      "section_start_line": 245,
+      "section_end_line": 288,
+      "model": "openai:gpt-4o-mini",
+      "question": "What caused the destruction of about 90% of the hard corals in Fagatele Bay in late 1978 and early 1979?",
+      "ground_truth_answer": "In late 1978 and early 1979 hard corals were heavily predated by Acanthaster, resulting in about 90% of the reef being destroyed; recent surveys indicate coral cover is regenerating.",
+      "ground_truth_chunks": [
+        "In late 1978 and early 1979, hard corals were heavily predated by *Acanthaster*, 90% of the reef being destroyed; recent surveys indicate that coral cover is regenerating (Thomas, 1985).",
+        "The pristine nature of the bay provides ideal conditions for the study of coral regeneration following Acanthaster predation."
+      ]
+    },
+    {
+      "record_id": "2368486c23a9069274225abc",
+      "paper_id": "Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS",
+      "source_path": "output/Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS.md",
+      "section_heading": "GOAT ISLAND POINT - UTULEI REEF",
+      "section_start_line": 289,
+      "section_end_line": 316,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the estimated annual catches of fish and invertebrates in the Goat Island Point - Utulei Reef area?",
+      "ground_truth_answer": "Annual catches are estimated at 4524 kg of fish and 3271 kg of invertebrates.",
+      "ground_truth_chunks": [
+        "The area is important for recreational and subsistence fisheries, particularly for villagers from Utulei. Annual catches are estimated at 4524 kg fish and 3271 kg invertebrates (Wass, 1983).",
+        "It is the most popular area for recreational diving, snorkelling, boating and water sports."
+      ]
+    },
+    {
+      "record_id": "cac66e7772c45df568256772",
+      "paper_id": "Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS",
+      "source_path": "output/Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS.md",
+      "section_heading": "PAPALOLOA POINT",
+      "section_start_line": 317,
+      "section_end_line": 340,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species of blue coral is reported as being more abundant around Ofu than at other sites in American Samoa?",
+      "ground_truth_answer": "Heliopora coerulea.",
+      "ground_truth_chunks": [
+        "A depression lies just off shore here, about 1.5-2.5 m deep, which has numerous large microatolls of Heliopora coerulea, 3-5 m in diameter.",
+        "Blue Coral Heliopora coerulea is present and is more abundant around Ofu than at any of the other sites at which it is known to occur in American Samoa."
+      ]
+    },
+    {
+      "record_id": "8269be0b09eb826617a89961",
+      "paper_id": "Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS",
+      "source_path": "output/Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS.md",
+      "section_heading": "ROSE ATOLL NATIONAL WILDLIFE REFUGE",
+      "section_start_line": 341,
+      "section_end_line": 424,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the total seabird population of American Samoa is resident on Rose Atoll, and approximately how many birds does this represent?",
+      "ground_truth_answer": "About 97% of the total seabird population of American Samoa is resident on Rose Atoll, representing about 312,000 birds of 20 species.",
+      "ground_truth_chunks": [
+        "About 97% of the total seabird population of American Samoa is resident on the atoll, with about 312 000 birds of 20 species."
+      ]
+    },
+    {
+      "record_id": "755733b46f8f4d0fd884d2ad",
+      "paper_id": "Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS",
+      "source_path": "output/Wells-1988-Coral.reefs.AS/Wells-1988-Coral.reefs.AS.md",
+      "section_heading": "SWAINS ATOLL",
+      "section_start_line": 425,
+      "section_end_line": 455,
+      "model": "openai:gpt-4o-mini",
+      "question": "At the Taulaga transect facing due west, what was the live coral cover down to 50 ft (15 m) in April 1987?",
+      "ground_truth_answer": "It had decreased to 7-12%.",
+      "ground_truth_chunks": [
+        "At one transect site facing due west, at Taulaga, live coral cover down to 50 ft (15 m) had decreased from 95-100% (recorded in December 1986) to 7-12% (April 1987)."
+      ]
+    }
+  ],
+  "failures": []
+}

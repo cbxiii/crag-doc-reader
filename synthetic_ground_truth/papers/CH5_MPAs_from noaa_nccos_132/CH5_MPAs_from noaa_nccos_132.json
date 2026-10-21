@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132.md",
+  "source_sha256": "c948aa4404a534b699a1e12e45db66539d439ab08f575c2db4da8520f3390cfc",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "a03b3d2b850b4e8506691e29",
+      "paper_id": "CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132",
+      "source_path": "output/CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 5,
+      "section_end_line": 34,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the objectives of this chapter?",
+      "ground_truth_answer": "The objectives were: (1) Characterize the reef fishes, corals, habitats, and other key features of each existing MPA relative to all of American Samoa; (2) Evaluate the distribution of MPA sites in the context of the biogeographic regions and ecological hotspots defined in Chapter 4 and identify key areas not currently in the network; (3) Summarize the area of reef ecosystem, by bottom type and reef type, that is currently protected relative to American Samoa overall.",
+      "ground_truth_chunks": [
+        "In this chapter of the assessment we focus our analysis only on the MPAs of American Samoa.",
+        "The objectives of this chapter were to:\n\n- 1) Characterize the reef fishes, corals, habitats, and other key features of each existing MPA relative to all of American Samoa.\n- 2) Evaluate the distribution of MPA sites in the context of the biogeographic regions and ecological hotspots defined in Chapter 4 and identify key areas not currently in the network.\n- 3) Summarize the area of reef ecosystem, by bottom type and reef type, that is currently protected relative to American Samoa overall."
+      ]
+    },
+    {
+      "record_id": "12a92069dffff88570051fc6",
+      "paper_id": "CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132",
+      "source_path": "output/CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132.md",
+      "section_heading": "Size and regulatory comparisons among MPAs",
+      "section_start_line": 127,
+      "section_end_line": 130,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why did the authors scale the size of the habitat pie chart for each MPA relative to the total area of potential reef ecosystem within it?",
+      "ground_truth_answer": "They scaled pie-chart sizes to evaluate each MPA's relative contribution to the overall network and to compare proportions of benthic habitats while taking total protected area into consideration, because a small MPA with a high proportion of reef can protect less reef area than a larger MPA with a lower proportion.",
+      "ground_truth_chunks": [
+        "We compared the sizes among MPAs by scaling the size of the habitat pie chart for each MPA relative to the total area of potential reef ecosystem within it.",
+        "Scal ing the size of pie charts in this manner allowed us to evaluate the relative contributions of each MPA to the overall network and also to compare the proportions of benthic habitats among the MPAs while taking into consideration the total area protected.",
+        "This is significant because an MPA that has a high proportion of reef habitats but that is very small may actually protect a smaller reef area than an MPA that has a lower propor tion of reef habitats but a much larger overall area."
+      ]
+    },
+    {
+      "record_id": "a5cf3e88084a08f25c6dbcfc",
+      "paper_id": "CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132",
+      "source_path": "output/CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132.md",
+      "section_heading": "Overview",
+      "section_start_line": 219,
+      "section_end_line": 228,
+      "model": "openai:gpt-4o-mini",
+      "question": "How often is the Amanave CFMP reserve opened for subsistence fishing?",
+      "ground_truth_answer": "It is opened for subsistence fishing one month every year.",
+      "ground_truth_chunks": [
+        "The reserve is closed to all commercial and recreational fishing apart from when it is opened for subsistence fishing one month every year."
+      ]
+    },
+    {
+      "record_id": "708e1ab420722f4569947246",
+      "paper_id": "CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132",
+      "source_path": "output/CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132.md",
+      "section_heading": "Habitat Composition, Reef Fish, and Coral Communities",
+      "section_start_line": 330,
+      "section_end_line": 333,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the area within the Aua CFMP reserve is comprised of coral reef and hardbottom structures?",
+      "ground_truth_answer": "~82% of the area within the Aua CFMP reserve.",
+      "ground_truth_chunks": [
+        "Coral reef and hardbottom structures together comprise ~82% of the area within the Aua CFMP reserve (Figure 5.19a)."
+      ]
+    },
+    {
+      "record_id": "0d236ce09776d3ef04e67b7b",
+      "paper_id": "CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132",
+      "source_path": "output/CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132.md",
+      "section_heading": "Habitat Composition, Reef Fish, and Coral Communities",
+      "section_start_line": 475,
+      "section_end_line": 478,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the Masausi CFMP reserve area is comprised of coral reef and hardbottom structures?",
+      "ground_truth_answer": "~59% of the reserve area.",
+      "ground_truth_chunks": [
+        "The Masausi CFMP reserve is dominated by coral reef and hardbottom structures, which together comprise ~59% of its area (Figure 5.29a).",
+        "Coral reef structures, mostly aggregate reef, comprise ~18% of the area, while ~40% of the area is covered by algal plain."
+      ]
+    },
+    {
+      "record_id": "36be8007cef6e7e64e64b762",
+      "paper_id": "CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132",
+      "source_path": "output/CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132.md",
+      "section_heading": "Habitat Composition, Reef Fish, and Coral Communities",
+      "section_start_line": 574,
+      "section_end_line": 589,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the Ofu Vaoto Marine Park's benthic habitat is composed of coral reef structures?",
+      "ground_truth_answer": "Coral reef structures comprise ~34% of the area.",
+      "ground_truth_chunks": [
+        "The benthic habitat in the Ofu Vaoto Marine Park is dominated by coral reef and hardbottom structures, which together comprise ~85% of its area (Figure 5.37a). Coral reef structures comprise ~34% of the area and include spur and groove (~24%) and aggregate reef (~10%)."
+      ]
+    },
+    {
+      "record_id": "82a4332ceb7cb5b314d65297",
+      "paper_id": "CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132",
+      "source_path": "output/CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132.md",
+      "section_heading": "Habitat Composition, Reef Fish, and Coral Communities",
+      "section_start_line": 670,
+      "section_end_line": 673,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentages of the Sailele CFMP reserve are comprised of aggregate reef and pavement?",
+      "ground_truth_answer": "Aggregate reef comprises ~24% of the area, and pavement covers ~45% of the area.",
+      "ground_truth_chunks": [
+        "The Sailele CFMP reserve is dominated by coral reef and hardbottom structures, which together comprise the entire area within the reserve (Figure 5.45a).",
+        "Coral reef structures in the form of aggregate reef comprise ~24% of the area, while pavement covers ~45% of the area.",
+        "About 48% and ~35% of the coral reef and hardbottom in the reserve are in the reef flat and fore reef zones, respectively, compared to only ~9% and ~22% around American Samoa (Figure 5.45b)."
+      ]
+    },
+    {
+      "record_id": "22f69837b49edc9fe3dd3e5f",
+      "paper_id": "CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132",
+      "source_path": "output/CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132.md",
+      "section_heading": "Habitat Composition, Reef Fish, and Coral Communities",
+      "section_start_line": 778,
+      "section_end_line": 789,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the benthic habitat in this park unit is comprised of coral reef and hardbottom structures?",
+      "ground_truth_answer": "They together comprise ~71% of the area.",
+      "ground_truth_chunks": [
+        "The benthic habitat in this park unit is dominated by coral reef and hardbottom structures, which together comprise ~71% of the area (Figure 5.53a).",
+        "Coral reef structures comprise ~32% of the area and include mostly spur and groove (~24%) and aggregated patch reefs (~6%)."
+      ]
+    },
+    {
+      "record_id": "5d5d514c41d3ffc8d1659d96",
+      "paper_id": "CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132",
+      "source_path": "output/CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132.md",
+      "section_heading": "Biogeographic Characteristics",
+      "section_start_line": 862,
+      "section_end_line": 869,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which bioregion is identified as a hotspot for coral cover that overlaps most of the Tutuila unit of the National Park?",
+      "ground_truth_answer": "Bioregion 12.",
+      "ground_truth_chunks": [
+        "Most of the Tutuila unit of the National Park overlaps with a biogeographic region along the north shore of Tutuila that is a hotspot for coral cover (Bioregion 12, Chapter 4).",
+        "The region's fish and coral communities are similar to those around Fagaitua Bay on the SE coast of Tutuila."
+      ]
+    },
+    {
+      "record_id": "0682f7a8b58b12ed36525a37",
+      "paper_id": "CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132",
+      "source_path": "output/CH5_MPAs_from noaa_nccos_132/CH5_MPAs_from noaa_nccos_132.md",
+      "section_heading": "CONCLUSIONS",
+      "section_start_line": 1018,
+      "section_end_line": 1039,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which existing MPA currently encompasses the mesophotic banks around Tutuila?",
+      "ground_truth_answer": "The Fagamalo No-Take MPA.",
+      "ground_truth_chunks": [
+        "For example, the mesophotic banks around Tutuila have some vibrant coral reef communities that may be less vulnerable to climate change and nearshore stressors than shallower reefs (Riegl and Piller 2003, Bare et al. 2010) but are poorly represented in the existing MPA network.",
+        "Only the Fagamalo No-Take MPA encompasses such features around Tutuila presently."
+      ]
+    }
+  ],
+  "failures": []
+}

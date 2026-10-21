@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2012 TMP report/2012 TMP report.md",
+  "source_sha256": "b5de6fda1d37c93dc9567b9450cd14987a53f6cb66b030ecf1d1e143752559b7",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "0ed9e6b736b8a091ff9d42c0",
+      "paper_id": "2012 TMP report/2012 TMP report",
+      "source_path": "output/2012 TMP report/2012 TMP report.md",
+      "section_heading": "Executive Summary",
+      "section_start_line": 46,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the current average coral cover in American Samoa according to the Executive Summary?",
+      "ground_truth_answer": "Average coral cover is 36%.",
+      "ground_truth_chunks": [
+        "- Average coral cover is now 36%, higher than the averages for the Pacific, South Pacific, U.S. Pacific, Indian Ocean, Great Barrier Reef, and Caribbean. The latter two have just 10% and 8-18% coral cover left, respectively. Coral cover is lower than it was here before crown-of-thorns starfish ate almost all the coral in 1978, and lower than it was in the past in the Pacific, Indian Ocean and Caribbean.",
+        "- Coral cover has increased over the 8 years of this monitoring program, while coral cover has decreased in the Caribbean, Pacific, Indian Ocean, Red Sea, and Great Barrier Reef."
+      ]
+    },
+    {
+      "record_id": "bad2e7778d080f030d937f68",
+      "paper_id": "2012 TMP report/2012 TMP report",
+      "source_path": "output/2012 TMP report/2012 TMP report.md",
+      "section_heading": "Reef Slopes",
+      "section_start_line": 174,
+      "section_end_line": 265,
+      "model": "openai:gpt-4o-mini",
+      "question": "What range and mean of coral cover were reported across the 11 reef slope sites?",
+      "ground_truth_answer": "Coral cover ranged between 13% and 59%, with a mean of 36%.",
+      "ground_truth_chunks": [
+        " Benthic cover on each of the 11 sites is shown in Figure 2 below. There are large differences between sites. Coral cover is highest at Aunu'u, Fagamalo, Leone, Aoa, and Fagatele. It is lowest in Vatia, Amaua, and Faga'alu. Coral cover ranged between 13% and 59%, with a mean of 36%."
+      ]
+    },
+    {
+      "record_id": "ca926eb33a402c65e27afe51",
+      "paper_id": "2012 TMP report/2012 TMP report",
+      "source_path": "output/2012 TMP report/2012 TMP report.md",
+      "section_heading": "Aoa",
+      "section_start_line": 302,
+      "section_end_line": 309,
+      "model": "openai:gpt-4o-mini",
+      "question": "Between which years did coral cover at Aoa increase to a new higher level?",
+      "ground_truth_answer": "Between 2007 and 2008.",
+      "ground_truth_chunks": [
+        "Coral cover did not show net change until between 2007 and 2008, at which an increase to a new higher level occurred.",
+        "Coral cover at Aoa is now quite high at over 50%, one of the highest of the sites in the monitoring program."
+      ]
+    },
+    {
+      "record_id": "e3cfec6bf1a5b3806cacba8f",
+      "paper_id": "2012 TMP report/2012 TMP report",
+      "source_path": "output/2012 TMP report/2012 TMP report.md",
+      "section_heading": "Genera",
+      "section_start_line": 387,
+      "section_end_line": 412,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral genus has the most cover in transects?",
+      "ground_truth_answer": "Montipora has the most cover in transects.",
+      "ground_truth_chunks": [
+        "Coral genera with the most cover in transects are shown in Figure 27. This pattern is similar to those in previous years. *Montipora* has the most cover, followed by *Porites*, *Acropora*, and *Pavona*, and other genera have less cover."
+      ]
+    },
+    {
+      "record_id": "fed1e26eec282379dc9f0b2b",
+      "paper_id": "2012 TMP report/2012 TMP report",
+      "source_path": "output/2012 TMP report/2012 TMP report.md",
+      "section_heading": "Invertebrates",
+      "section_start_line": 459,
+      "section_end_line": 472,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which invertebrate was recorded as the most common in the 50 cm wide belt transects?",
+      "ground_truth_answer": "The orange sponge *Sylissa* sp.",
+      "ground_truth_chunks": [
+        "The orange sponge *Sylissa* sp. was the most common invertebrate, followed by the encrusting sponge *Dysdea* sp., groups of holes produced by an unknown species, the colonial ascidian *Atriolum robustum*, tiny hermit crabs in holes in corals, the small burrowing urchin *Echinostrephus* wp., the Christmas tree worm, *Spirobrachus gigantea*, and grooves in coral produced by alpheid (snapping) shrimp."
+      ]
+    },
+    {
+      "record_id": "18dc54551e51210f6026a130",
+      "paper_id": "2012 TMP report/2012 TMP report",
+      "source_path": "output/2012 TMP report/2012 TMP report.md",
+      "section_heading": "Gataivai",
+      "section_start_line": 549,
+      "section_end_line": 556,
+      "model": "openai:gpt-4o-mini",
+      "question": "Between which years did coral cover at Gataivai experience the largest drop?",
+      "ground_truth_answer": "Between 2011 and 2012.",
+      "ground_truth_chunks": [
+        "Coral cover shows a slight decreasing trend over the monitoring period, with the largest drop between 2011 and 2012.",
+        "The cause of this drop is not known, the transect tapes are placed close to the same location each year."
+      ]
+    },
+    {
+      "record_id": "b5c8b1886b5c4332df5054f2",
+      "paper_id": "2012 TMP report/2012 TMP report",
+      "source_path": "output/2012 TMP report/2012 TMP report.md",
+      "section_heading": "Genera",
+      "section_start_line": 617,
+      "section_end_line": 642,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which three coral genera had the most cover on both reef slopes and reef flats?",
+      "ground_truth_answer": "Montipora, Porites and Acropora.",
+      "ground_truth_chunks": [
+        "*Acropora* is the genus with the most cover on reef flats, followed by *Montipora*, *Porites*, *Pocillopora*, *Pavona* and *Isopora*.",
+        "On reef slopes, the genera with the most cover were *Montipora, Porites*, *Acropora*, *Pavona*, *Leptastrea* and *Pocillopora*, in that order, as shown in Figure 26.",
+        "*Montipora*, *Porites* and *Acropora* were the three genera with the most cover on both slopes and reef flats, but their order was different in the two zones."
+      ]
+    },
+    {
+      "record_id": "72475ff7aa0bdab7888975fa",
+      "paper_id": "2012 TMP report/2012 TMP report",
+      "source_path": "output/2012 TMP report/2012 TMP report.md",
+      "section_heading": "1. The Introduced and Invasive Soft Coral, Carijoa riisei",
+      "section_start_line": 837,
+      "section_end_line": 844,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where and at approximately what depth did the DMWR diving team first observe Carijoa riisei in November 2012?",
+      "ground_truth_answer": "In front of the cannery in the harbor, at about 50 feet deep.",
+      "ground_truth_chunks": [
+        "About November, 2012, a DMWR diving team including the author surveyed an area in front of the cannery in the harbor where there will be a construction project. During the survey, Alice Lawrence took a couple pictures at about 50 feet deep of something she had not seen before. Later she showed them to the author, and it was clear that it was *Carijoa riisei*."
+      ]
+    },
+    {
+      "record_id": "51e2917c04adff6d6bc1a66a",
+      "paper_id": "2012 TMP report/2012 TMP report",
+      "source_path": "output/2012 TMP report/2012 TMP report.md",
+      "section_heading": "4. Disease",
+      "section_start_line": 855,
+      "section_end_line": 864,
+      "model": "openai:gpt-4o-mini",
+      "question": "In April 2012, what specific signs of disease were observed on Acropora muricata staghorn in the Onososopo backreef pool?",
+      "ground_truth_answer": "The staghorn was partly dead with white sections near the ends of some branches; often the branch tip remained alive with a white band about 5-10 cm long below it; sometimes part of the white area was light green indicating earlier death; the condition appears to be a disease and there was a sharp demarcation between diseased area near the mouth of the harbor and adjacent healthy area.",
+      "ground_truth_chunks": [
+        "In April, 2012, an area of *Acropora muricata* staghorn in the Onososopo backreef pool was observed by the author to be partly dead, with white sections near the ends of some branches.",
+        "Often the branch tip remained alive, but a white band about 5-10 cm long was below it.",
+        "This appears to be a disease. There was a sharp demarcation between the area nearest the mouth of the harbor which had this disease, and the much larger area next to it that did not."
+      ]
+    },
+    {
+      "record_id": "5a795ef544cd8dd3f7ab2099",
+      "paper_id": "2012 TMP report/2012 TMP report",
+      "source_path": "output/2012 TMP report/2012 TMP report.md",
+      "section_heading": "Appendix III. Coral bleaching patterns among coral species",
+      "section_start_line": 1090,
+      "section_end_line": 1098,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral genera are reported as most vulnerable to bleaching and which genus is reported as less subject to bleaching?",
+      "ground_truth_answer": "Acropora, Millepora, and Pocillopora are reported as most vulnerable to bleaching; Porites is reported as less subject to bleaching.",
+      "ground_truth_chunks": [
+        "In general, they have reported that *Acropora*, *Millepora*, and *Pocillopora* are among the genera most vulnerable to bleaching. *Porites* is among the genera less subject to bleaching.",
+        "Branching species are generally more subject to bleaching than massives."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Visiting Diver Application/Visiting Diver Application.md",
+  "source_sha256": "4589427aba0f4dbf1e37a554a5d213d8f7d954a1d93d7ab4f13a8eb1f0bab904",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "9aedab6db207b564948a365b",
+      "paper_id": "Visiting Diver Application/Visiting Diver Application",
+      "source_path": "output/Visiting Diver Application/Visiting Diver Application.md",
+      "section_heading": "Visiting Diver Application Name Date of Birth (MM/DD/YYYY) Job title Emergency Contact Relationship to applicant Phone numbers of emergency contact (home and mobile) Please attach the following supporting documents: 1. Diving medical clearance from a physician. 2. Copy of highest diving certifications. 3. Proof of valid liability coverage. 4. Proof of active diver status from a university, government agency, or AAUS organizational member (if applicable). 5. List of personnel equipment intended for use (including manufacturer's names, models, serial numbers, and proof of service). \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ Date of most recent dive (MM/DD/YYYY). \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ Date of last diving medical (MM/DD/YYYY). \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ Number of dives completed in the last 12 months. Please list any SCUBA specialties or other relevant certifications below:",
+      "section_start_line": 3,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "What supporting documents must be attached to the Visiting Diver Application?",
+      "ground_truth_answer": "The application requires: 1) Diving medical clearance from a physician; 2) Copy of highest diving certifications; 3) Proof of valid liability coverage; 4) Proof of active diver status from a university, government agency, or AAUS organizational member (if applicable); 5) List of personnel equipment intended for use (including manufacturer's names, models, serial numbers, and proof of service).",
+      "ground_truth_chunks": [
+        "Please attach the following supporting documents: 1. Diving medical clearance from a physician. 2. Copy of highest diving certifications. 3. Proof of valid liability coverage. 4. Proof of active diver status from a university, government agency, or AAUS organizational member (if applicable). 5. List of personnel equipment intended for use (including manufacturer's names, models, serial numbers, and proof of service).",
+        "Please list any SCUBA specialties or other relevant certifications below:"
+      ]
+    }
+  ],
+  "failures": []
+}

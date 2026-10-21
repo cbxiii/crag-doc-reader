@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Craig P  1998 temporal spwning patters acanthurids labrids/Craig P  1998 temporal spwning patters acanthurids labrids.md",
+  "source_sha256": "2a33f2460414be41ad32268e2e29a319fa5171c706edba01592df6b5d46f4660",
+  "status": "complete",
+  "selected_section_count": 4,
+  "successful_record_count": 4,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "f333062fe0b5ba741c9fdf72",
+      "paper_id": "Craig P  1998 temporal spwning patters acanthurids labrids/Craig P  1998 temporal spwning patters acanthurids labrids",
+      "source_path": "output/Craig P  1998 temporal spwning patters acanthurids labrids/Craig P  1998 temporal spwning patters acanthurids labrids.md",
+      "section_heading": "Temporal Spawning Patterns of Several Surgeonfishes and Wrasses in American Samoa <sup>1</sup>",
+      "section_start_line": 1,
+      "section_end_line": 6,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what times of day did each of the five studied species spawn in American Samoa?",
+      "ground_truth_answer": "A. lineatus spawned at dawn; Thalassoma quinquevittatum and T. hardwickii spawned during daytime; A. guttatus and A. triostegus spawned at dusk.",
+      "ground_truth_chunks": [
+        "Three coral reef surgeonfishes *(Acanthurus guttatus, A. triostegus, A. lineatus)* and two wrasses *(Thalassoma quinquevittatum, T hardwickii)* spawned year-round in American Samoa.",
+        "Spawning occurred in or adjacent to the channel draining the fringing reef at specific times of day: dawn (A. *lineatus),* daytime *(T quinquevittatum, T hardwickii),* or dusk *(A. guttatus, A. triostegus);* and spawning time tracked seasonal changes in day length."
+      ]
+    },
+    {
+      "record_id": "06e15de74e4e5dbba3c4605d",
+      "paper_id": "Craig P  1998 temporal spwning patters acanthurids labrids/Craig P  1998 temporal spwning patters acanthurids labrids",
+      "source_path": "output/Craig P  1998 temporal spwning patters acanthurids labrids/Craig P  1998 temporal spwning patters acanthurids labrids.md",
+      "section_heading": "MATERIALS AND METHODS",
+      "section_start_line": 7,
+      "section_end_line": 12,
+      "model": "openai:gpt-4o-mini",
+      "question": "How was confirmation of spawning determined?",
+      "ground_truth_answer": "By the upward rush of fish, culminating in the production of visible milt clouds.",
+      "ground_truth_chunks": [
+        "Confirmation of spawning was determined by the upward rush of fish, culminating in the production of visible milt clouds."
+      ]
+    },
+    {
+      "record_id": "77c309d29fea46a5a066ce90",
+      "paper_id": "Craig P  1998 temporal spwning patters acanthurids labrids/Craig P  1998 temporal spwning patters acanthurids labrids",
+      "source_path": "output/Craig P  1998 temporal spwning patters acanthurids labrids/Craig P  1998 temporal spwning patters acanthurids labrids.md",
+      "section_heading": "RESULTS",
+      "section_start_line": 13,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which surgeonfish species had Macolor niger observed feeding on the eggs during all observed spawning periods?",
+      "ground_truth_answer": "Acanthurus lineatus.",
+      "ground_truth_chunks": [
+        "Acanthurus lineatus, a territorial surgeonfish, migrated at dawn to a \"traditional\" site that partially overlapped the spawning site used by A. guttatus in the outer portion of the reef outlet channel. Groups of 50–200 fish began spawning at least 5–15 min before sunrise (Figure 2) in water depths of 3–5 m. Spawning color was as described by Robertson (1983). Typically 10–30 egg predators (M. niger) hovered nearby and fed on the eggs during all spawning periods observed on 27 dates. One attack was observed on the spawners, apparently by Lutjanus bohar Forskål."
+      ]
+    },
+    {
+      "record_id": "8adea8caa06cf9349a0e09af",
+      "paper_id": "Craig P  1998 temporal spwning patters acanthurids labrids/Craig P  1998 temporal spwning patters acanthurids labrids",
+      "source_path": "output/Craig P  1998 temporal spwning patters acanthurids labrids/Craig P  1998 temporal spwning patters acanthurids labrids.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 47,
+      "section_end_line": 60,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Acanthurus species in the study spawns primarily during the austral spring and summer months (September-February)?",
+      "ground_truth_answer": "A. lineatus.",
+      "ground_truth_chunks": [
+        "This holds true for at least one of the fishes described in this paper: A. lineatus spawns primarily during the austral spring and summer months of September-February (Craig et al. 1997), even though some spawning occurred monthly."
+      ]
+    }
+  ],
+  "failures": []
+}

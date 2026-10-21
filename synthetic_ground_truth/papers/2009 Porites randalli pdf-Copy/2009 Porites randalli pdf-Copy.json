@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2009 Porites randalli pdf-Copy/2009 Porites randalli pdf-Copy.md",
+  "source_sha256": "a21e06fd50bae482c6eef18e498114ca568c9d4388697e23d6815e833f7ce36c",
+  "status": "complete",
+  "selected_section_count": 5,
+  "successful_record_count": 5,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "299c3c3519f3746d38cd47e0",
+      "paper_id": "2009 Porites randalli pdf-Copy/2009 Porites randalli pdf-Copy",
+      "source_path": "output/2009 Porites randalli pdf-Copy/2009 Porites randalli pdf-Copy.md",
+      "section_heading": "Abstract",
+      "section_start_line": 11,
+      "section_end_line": 16,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the typical color and maximum colony diameter of Porites randalli, and how large are its corallites?",
+      "ground_truth_answer": "Porites randalli typically forms small pale green colonies usually <5 cm in diameter; its corallites are approximately 1 mm in diameter.",
+      "ground_truth_chunks": [
+        "*P. randalli* typically forms small pale green colonies that are usually <5 cm in diameter, with a surface reticulated with small (0.5 cm–2 cm) nubbins or protuberances.",
+        "Corallites are approximately 1 mm in diameter and are sunken with a visible ring of pali."
+      ]
+    },
+    {
+      "record_id": "68d9157c379ff778b06b47ef",
+      "paper_id": "2009 Porites randalli pdf-Copy/2009 Porites randalli pdf-Copy",
+      "source_path": "output/2009 Porites randalli pdf-Copy/2009 Porites randalli pdf-Copy.md",
+      "section_heading": "Introduction",
+      "section_start_line": 17,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "During the 2002 warming event, what proportion of Porites randalli spec. nov. colonies were reported as bleached?",
+      "ground_truth_answer": "92.9% of Porites randalli spec. nov. colonies were reported as bleached.",
+      "ground_truth_chunks": [
+        "In a survey during 2002, there was a period of bleaching from unusually warm seawater and 92.9% of the *P. randalli* **spec. nov**. were bleached (Fisk and Birkeland 2002).",
+        "the average for all coral colonies was only\n\n*<sup>2</sup> Hawaii Cooperative Fishery Research Unit, U.S. Geological Survey, University of Hawaii at Manoa, Honolulu, HI, 96822*\n\n7.7% (n=5246)."
+      ]
+    },
+    {
+      "record_id": "7adaf3ce65280b7971bee53e",
+      "paper_id": "2009 Porites randalli pdf-Copy/2009 Porites randalli pdf-Copy",
+      "source_path": "output/2009 Porites randalli pdf-Copy/2009 Porites randalli pdf-Copy.md",
+      "section_heading": "Materials and methods",
+      "section_start_line": 33,
+      "section_end_line": 36,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were portions of the coral skeleton prepared and imaged for scanning electron microscopy (SEM)?",
+      "ground_truth_answer": "Portions of the skeleton were mounted on stubs and sputter-coated with gold particles, and imaged with a Hitachi S-800 Field Emission Scanning Electron Microscope operated at 15KV with a WD of 20 mm.",
+      "ground_truth_chunks": [
+        "Portions of the skeleton were mounted on stubs and sputter-coated with gold particles for imaging with a Hitachi S-800 Field Emission Scanning Electron Microscope operated at 15KV with a WD of 20 mm."
+      ]
+    },
+    {
+      "record_id": "d5df21f10e14ec8018b14e31",
+      "paper_id": "2009 Porites randalli pdf-Copy/2009 Porites randalli pdf-Copy",
+      "source_path": "output/2009 Porites randalli pdf-Copy/2009 Porites randalli pdf-Copy.md",
+      "section_heading": "Systematic Account",
+      "section_start_line": 37,
+      "section_end_line": 83,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the average longest corallite diameter reported for Porites randalli, and how many measurements were taken?",
+      "ground_truth_answer": "The corallites averaged 1.16 mm (± 0.067 SE) in longest diameter, based on n=60 measurements from 6 individuals (range 0.59–1.69 mm).",
+      "ground_truth_chunks": [
+        "The corallites averaged 1.16 mm ( $\\pm$  0.067 SE) in longest diameter to the midpoint of each wall (min 0.59, max 1.69, n=60 from 6 individuals), with an average distance between corallites of 1.13 mm ( $\\pm$  0.12 SE, min 0.73, max 1.51)."
+      ]
+    },
+    {
+      "record_id": "17d29924cd5b25d50893bfe6",
+      "paper_id": "2009 Porites randalli pdf-Copy/2009 Porites randalli pdf-Copy",
+      "source_path": "output/2009 Porites randalli pdf-Copy/2009 Porites randalli pdf-Copy.md",
+      "section_heading": "Discussion",
+      "section_start_line": 84,
+      "section_end_line": 87,
+      "model": "openai:gpt-4o-mini",
+      "question": "What newly recognized coral species is discussed, what was it previously called, and which species might it be confused with in the field?",
+      "ground_truth_answer": "The Discussion names Porites randalli spec. nov., which was previously known as Porites sp. 2; genetic work indicates it is distinct from similar congeners, but it can be confused at first glance with a morphotype or young colony of P. annae or P. lichen.",
+      "ground_truth_chunks": [
+        "Many workers have recognized the distinctive colony and corallite-level characteristics of *Porites randalli* **spec. nov**., which was previously known as *Porites* sp. 2.",
+        "Recent genetic work indicates that *P. randalli* is distinct from congeners with a similar appearance in the region (Forsman *et al.* 2009).",
+        "*Porites randalli* **spec. nov**. is an example of a relatively small coral that can be easily overlooked in the field, and can be confused at first glance with a morphotype or young colony of *P. annae* or *P. lichen*."
+      ]
+    }
+  ],
+  "failures": []
+}

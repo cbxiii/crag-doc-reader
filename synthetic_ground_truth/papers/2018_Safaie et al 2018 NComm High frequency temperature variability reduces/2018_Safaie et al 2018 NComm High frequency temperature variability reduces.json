@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2018_Safaie et al 2018 NComm High frequency temperature variability reduces/2018_Safaie et al 2018 NComm High frequency temperature variability reduces.md",
+  "source_sha256": "a43e9c7f2b9fdceab059a961a9c9d19ced3b6a93c615cbf0444812e870fcc0aa",
+  "status": "complete",
+  "selected_section_count": 6,
+  "successful_record_count": 6,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "b42a073562029a90d99d928c",
+      "paper_id": "2018_Safaie et al 2018 NComm High frequency temperature variability reduces/2018_Safaie et al 2018 NComm High frequency temperature variability reduces",
+      "source_path": "output/2018_Safaie et al 2018 NComm High frequency temperature variability reduces/2018_Safaie et al 2018 NComm High frequency temperature variability reduces.md",
+      "section_heading": "High frequency temperature variability reduces the risk of coral bleaching",
+      "section_start_line": 7,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which covariate did the authors find to be the most influential predictor of coral bleaching prevalence?",
+      "ground_truth_answer": "High-frequency temperature variability—specifically the average daily temperature range (DTR) of the 30 days preceding a bleaching observation.",
+      "ground_truth_chunks": [
+        "We find that high-frequency temperature variability (i.e., daily temperature range) was the most influential factor in predicting bleaching prevalence and had a mitigating effect, such that a 1 °C increase in daily temperature range would reduce the odds of more severe bleaching by a factor of 33.",
+        "After standardizing all covariates and fitting them to ordinal-valued bleaching prevalence scores using ordinal logistic regression (OLR) models (Methods), we conclude that high-frequency temperature variability, specifically the average daily temperature range (DTR) of the 30 days preceding a bleaching observation, is the most influential covariate in predicting the bleaching response, and serves to attenuate the prevalence of bleaching."
+      ]
+    },
+    {
+      "record_id": "355916907d2e2aee6e203965",
+      "paper_id": "2018_Safaie et al 2018 NComm High frequency temperature variability reduces/2018_Safaie et al 2018 NComm High frequency temperature variability reduces",
+      "source_path": "output/2018_Safaie et al 2018 NComm High frequency temperature variability reduces/2018_Safaie et al 2018 NComm High frequency temperature variability reduces.md",
+      "section_heading": "Results",
+      "section_start_line": 23,
+      "section_end_line": 72,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the variation in the explanatory variables is accounted for by the first principal component in the PCA?",
+      "ground_truth_answer": "44.2%",
+      "ground_truth_chunks": [
+        "The first principal component accounts for 44.2% of the variation in the explanatory variables, and is largely driven by high-frequency temperature variability and cumulative thermal stress.",
+        "Biplot of principal components analysis (PCA) showing the first two components (44.2% and 18.8%, respectively) that explain the majority of the variance in the matrix of 20 in situ explanatory variables (Table 1) used to explain bleaching prevalence."
+      ]
+    },
+    {
+      "record_id": "df3b6c6e73951a34105dfe22",
+      "paper_id": "2018_Safaie et al 2018 NComm High frequency temperature variability reduces/2018_Safaie et al 2018 NComm High frequency temperature variability reduces",
+      "source_path": "output/2018_Safaie et al 2018 NComm High frequency temperature variability reduces/2018_Safaie et al 2018 NComm High frequency temperature variability reduces.md",
+      "section_heading": "The effect of diurnal temperature variability on bleaching. Ordinal logistic regression (\"logit\") models were computed for all",
+      "section_start_line": 73,
+      "section_end_line": 110,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which explanatory variable was identified as the most influential mitigating factor for bleaching prevalence in the highest-ranked logit model?",
+      "ground_truth_answer": "High-frequency temperature variability, specifically DTR<sub>30</sub> (the average daily temperature range over the 30 days preceding a bleaching event), was the most influential mitigating factor for bleaching prevalence.",
+      "ground_truth_chunks": [
+        "In the best model (Fig. 3a), high-frequency temperature variability, specifically the average DTR over the 30 days preceding a bleaching event (DTR<sub>30</sub>, Table 1) was the most influential metric for predicting bleaching prevalence score, with greater daily temperature variability serving as a mitigating factor (Fig. 3b).",
+        "**b** The best model (i.e.  $\\Delta$ AlC<sub>C</sub> = 0) included six variables, of which high-frequency temperature variability was the absolute most influential and also greatest mitigating factor to bleaching prevalence."
+      ]
+    },
+    {
+      "record_id": "3645ac22a00dd1aa60f78ef4",
+      "paper_id": "2018_Safaie et al 2018 NComm High frequency temperature variability reduces/2018_Safaie et al 2018 NComm High frequency temperature variability reduces",
+      "source_path": "output/2018_Safaie et al 2018 NComm High frequency temperature variability reduces/2018_Safaie et al 2018 NComm High frequency temperature variability reduces.md",
+      "section_heading": "Discussion",
+      "section_start_line": 111,
+      "section_end_line": 124,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Discussion, what effect do high-frequency (daily or tidal) temperature fluctuations have on coral resistance to bleaching?",
+      "ground_truth_answer": "They often expose corals to short-term elevated temperatures that encourage greater tolerance (via acclimation or adaptation) to thermal stress while being brief enough to avoid mortality, and corals in areas of high-frequency temperature variability show resistance to bleaching across reef regions worldwide.",
+      "ground_truth_chunks": [
+        "As discussed, recent work highlights the importance of short-term temperature history (daily-weekly periods) for coral acclimatization to higher temperatures 19, such that corals subject to warmer than average temperatures prior to thermal stress may exhibit a greater tolerance to acute temperature stress<sup>23</sup>.",
+        "In the context of these studies and in keeping with other site-specific and experimental studies<sup>19,26,45,47,59</sup>, our results suggest that temperature fluctuations on daily or tidal timescales are often sufficient to expose corals to temperatures high enough to encourage greater tolerance (via acclimation or adaptation) to thermal stress, but for time periods short enough to avoid mortality <sup>19,48</sup>.",
+        "Further, our results establish that the resistance of corals located in areas of high-frequency temperature variability to bleaching occurs in reef regions throughout the world."
+      ]
+    },
+    {
+      "record_id": "7f13cd70969ae677eb1a0f8c",
+      "paper_id": "2018_Safaie et al 2018 NComm High frequency temperature variability reduces/2018_Safaie et al 2018 NComm High frequency temperature variability reduces",
+      "source_path": "output/2018_Safaie et al 2018 NComm High frequency temperature variability reduces/2018_Safaie et al 2018 NComm High frequency temperature variability reduces.md",
+      "section_heading": "Methods",
+      "section_start_line": 125,
+      "section_end_line": 170,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many locations provided the water temperature time series used in this study?",
+      "ground_truth_answer": "118 locations.",
+      "ground_truth_chunks": [
+        "Data synthesis. Water temperature time series from 118 locations, representing five major ocean basins where tropical coral reefs are found (Western Indian Ocean, Pacific Ocean, Caribbean Sea, Great Barrier Reef, and Red Sea), were obtained from existing records of in situ temperature data.",
+        "First, if necessary, temperature time series were resampled or linearly interpolated to maintain a constant sampling interval, chosen to be 3 h so as to resolve spectral frequencies of up to 4 cpd."
+      ]
+    },
+    {
+      "record_id": "93dd22765083e586caec0b3c",
+      "paper_id": "2018_Safaie et al 2018 NComm High frequency temperature variability reduces/2018_Safaie et al 2018 NComm High frequency temperature variability reduces",
+      "source_path": "output/2018_Safaie et al 2018 NComm High frequency temperature variability reduces/2018_Safaie et al 2018 NComm High frequency temperature variability reduces.md",
+      "section_heading": "Additional information",
+      "section_start_line": 270,
+      "section_end_line": 286,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under which license is this article published?",
+      "ground_truth_answer": "Attribution 4.0 International License (Creative Commons Attribution 4.0 International License).",
+      "ground_truth_chunks": [
+        "Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.",
+        "To view a copy of this license, visit [http://creativecommons.org/](http://creativecommons.org/licenses/by/4.0/) [licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/)."
+      ]
+    }
+  ],
+  "failures": []
+}

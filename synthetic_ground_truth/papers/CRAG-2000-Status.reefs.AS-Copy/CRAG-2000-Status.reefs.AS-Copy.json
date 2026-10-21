@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy.md",
+  "source_sha256": "c0f82daae11df0f933ad4fbe3f44ab556c4ac9377d64615f9f19c9a35c42613c",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "3547b26c9c55d0c3d49a8484",
+      "paper_id": "CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy",
+      "source_path": "output/CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy.md",
+      "section_heading": "Greetings:",
+      "section_start_line": 26,
+      "section_end_line": 41,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who signed the 'Greetings' message?",
+      "ground_truth_answer": "TAUESE P.F. SUNIA, Governor, Territory of American Samoa.",
+      "ground_truth_chunks": [
+        "Sincerely,\n\nTAUESE P.F. SUNIA\n\nGovernor\n\n**Territory of American Samoa**"
+      ]
+    },
+    {
+      "record_id": "8463b462fa61ad518269f5c6",
+      "paper_id": "CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy",
+      "source_path": "output/CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy.md",
+      "section_heading": "American Samoa's Exclusive Economic Zone",
+      "section_start_line": 114,
+      "section_end_line": 119,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the approximate area of American Samoa's Exclusive Economic Zone?",
+      "ground_truth_answer": "Approximately 197,000 square kilometers.",
+      "ground_truth_chunks": [
+        "The EEZ of American Samoa is approximately 197,000 square kilometers, close to the size of the state of Utah."
+      ]
+    },
+    {
+      "record_id": "bb6335ef49ba87bdb95af7dd",
+      "paper_id": "CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy",
+      "source_path": "output/CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy.md",
+      "section_heading": "FISHERIES",
+      "section_start_line": 202,
+      "section_end_line": 232,
+      "model": "openai:gpt-4o-mini",
+      "question": "When did American Samoa ban SCUBA fishing?",
+      "ground_truth_answer": "In April 2001 an executive order was signed by Governor Tauese banning the future of SCUBA fishing in the territory.",
+      "ground_truth_chunks": [
+        "Recently American Samoa has achieved a noteworthy milestone in the maintenance of its coral reefs. In April 2001, an executive order was signed by Governor Tauese banning the future of SCUBA fishing in the territory. Recognized for it's extreme destructiveness to coral reefs around the world, SCUBA fishing provides man with a formidable advantage over marine species. SCUBA fishing had been a major commercial operation for approximately six years before this order was issued in response to several concerned\n\ngroups recognizing the overfished resources in the\n\nterritory."
+      ]
+    },
+    {
+      "record_id": "5d6dad36a6c3ae3ca2d95e9a",
+      "paper_id": "CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy",
+      "source_path": "output/CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy.md",
+      "section_heading": "Samoan Legends and Traditions",
+      "section_start_line": 265,
+      "section_end_line": 294,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the retelling in this section, why do fishermen braid coconut leaves into rat-shaped baits to catch octopus?",
+      "ground_truth_answer": "The story says the rat tricked the octopus by leaving droppings on its head, making the octopus consider the rat its enemy; consequently fishermen braid coconut leaves into a rat-shaped tail because when an octopus spots what looks like a rat it leaps and wraps its eight tentacles around the disguised rat.",
+      "ground_truth_chunks": [
+        "As the octopus reached up to the top of it's head, it found that the rat had left droppings on it's head. The octopus got very mad.",
+        "From then until today the octopus considers the rat to be it's enemy. This is where one of the famous baits for fishing octopus originated. The fishermen braid coconut leaves together in the form of a rat tail. As soon as an octopus spots this, it leaps and wraps it's eight tentacles around the disguised rat."
+      ]
+    },
+    {
+      "record_id": "627617e1a1fdc8bf71551803",
+      "paper_id": "CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy",
+      "source_path": "output/CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy.md",
+      "section_heading": "LOCAL THREATS",
+      "section_start_line": 321,
+      "section_end_line": 370,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which starfish species is listed as a local threat in the 'LOCAL THREATS' section?",
+      "ground_truth_answer": "Crown of Thorns Starfish",
+      "ground_truth_chunks": [
+        "Crown of Thorns Starfish"
+      ]
+    },
+    {
+      "record_id": "785c8c9d2d8a7844017dbc7c",
+      "paper_id": "CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy",
+      "source_path": "output/CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy.md",
+      "section_heading": "The plastic epidemic - and other debris",
+      "section_start_line": 405,
+      "section_end_line": 432,
+      "model": "openai:gpt-4o-mini",
+      "question": "What effects do plastic bags, diapers, wrappers, and Styrofoam have on reefs and marine animals according to the section 'The plastic epidemic - and other debris'?",
+      "ground_truth_answer": "They cover the reefs, choke the coral, and cause animals to die.",
+      "ground_truth_chunks": [
+        "Plastic bags, diapers, wrappers, and Styrofoam cover the reefs,\n\nchoke the coral, and cause animals to die.",
+        "Fishing line and 6- pack rings entangles and strangles corals, turtles, marine birds, etc."
+      ]
+    },
+    {
+      "record_id": "dc041cf0c319c85318aaba2e",
+      "paper_id": "CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy",
+      "source_path": "output/CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy.md",
+      "section_heading": "\"That's a Beautiful Shell You Have\"",
+      "section_start_line": 471,
+      "section_end_line": 488,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the passage, what ecological roles do shells serve if left in the ocean or on the beach?",
+      "ground_truth_answer": "They serve as homes to hermit crabs, shelter for small fish, future sand for beaches, and can accumulate (for example oyster shells) to form islands.",
+      "ground_truth_chunks": [
+        "What we forget to consider is what these shells would be if they were left in the ocean or on the beach. They would be homes to hermit crabs, shelter for small fish and future sand for our beaches.",
+        "There are numerous islands in Florida made simply by the accumulation of oyster shells."
+      ]
+    },
+    {
+      "record_id": "ce657eca44dfbfd70c732db3",
+      "paper_id": "CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy",
+      "source_path": "output/CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy.md",
+      "section_heading": "Marine Protected Areas",
+      "section_start_line": 525,
+      "section_end_line": 547,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which marine protected area in American Samoa prohibits fishing?",
+      "ground_truth_answer": "Rose Atoll National Wildlife Sanctuary (Rose Atoll).",
+      "ground_truth_chunks": [
+        "Marine protected areas in American Samoa. Fishing is prohibited at Rose Atoll, but subsistence fishing is permitted at the other sites.",
+        "| Rose Atoll National Wildlife Sanctuary  | 1973        | Rose Atoll         | 158.8 | 39,251  |"
+      ]
+    },
+    {
+      "record_id": "d8bc72ed51dc040b7bace552",
+      "paper_id": "CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy",
+      "source_path": "output/CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy.md",
+      "section_heading": "Village Management of Resources",
+      "section_start_line": 574,
+      "section_end_line": 585,
+      "model": "openai:gpt-4o-mini",
+      "question": "What land-based activities mentioned in the section negatively affect coral reefs?",
+      "ground_truth_answer": "Sedimentation from mining, development, and tree removal; increased nutrients from fertilizers, piggeries and cattle farms leading to eutrophication; continued alteration of the shoreline from sandmining, seawalls, and jetties (affecting currents and potentially burying reefs); and trash entering the ocean.",
+      "ground_truth_chunks": [
+        "Sedimentation resulting from mining, development, and tree removal has been demonstrated to have a negative effect on coral reef health.",
+        "Increased nutrients from fertilizers, piggeries and cattle farms lead to eutrophication of bays.",
+        "Continued alteration of the shoreline from sandmining, seawalls, and jetties affects current patterns. This change in water movement may lead to burial of some reefs, and lower sources of necessary inputs to others. Trash from the land falls gradually into the ocean on a steady basis yet streams quickly into the sea during large rain events."
+      ]
+    },
+    {
+      "record_id": "faf86379524871e2538c03aa",
+      "paper_id": "CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy",
+      "source_path": "output/CRAG-2000-Status.reefs.AS-Copy/CRAG-2000-Status.reefs.AS-Copy.md",
+      "section_heading": "IMAGE CREDITS",
+      "section_start_line": 644,
+      "section_end_line": 680,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which pages include images or graphics credited to Peter Craig?",
+      "ground_truth_answer": "Pages 8-9, Page 10, Page 15, and Page 18.",
+      "ground_truth_chunks": [
+        "Pages 8-9: all graphics courtesy of Peter Craig,",
+        "Page 10: longlining courtesy of Peter Craig,",
+        "Page 15 flood courtesy of Peter Craig, longliners courtesy of NOAA,\n\nPage 18 young dancer courtesy of Peter Craig,"
+      ]
+    }
+  ],
+  "failures": []
+}

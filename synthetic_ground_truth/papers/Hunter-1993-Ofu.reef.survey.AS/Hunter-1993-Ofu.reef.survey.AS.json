@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS.md",
+  "source_sha256": "38bf066e33286016d8f5f41e5170d29f87fb007b97b1dec376ed85eb929b0771",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "c93b56385eb11a44ccbbd3cd",
+      "paper_id": "Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS",
+      "source_path": "output/Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS.md",
+      "section_heading": "EXPEDITION TEAM MEMBERS:",
+      "section_start_line": 7,
+      "section_end_line": 59,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which expedition team member was affiliated with Bishop Museum?",
+      "ground_truth_answer": "W. H. Magruder.",
+      "ground_truth_chunks": [
+        "W. H. Magruder Department of Botany Bishop Museum Honolulu, HI 86813 A. M. Friedlander"
+      ]
+    },
+    {
+      "record_id": "51ab2db5045d083ba251546a",
+      "paper_id": "Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS",
+      "source_path": "output/Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS.md",
+      "section_heading": "Coral Diversity and Abundance",
+      "section_start_line": 109,
+      "section_end_line": 112,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which relative abundance value corresponds to >80% coral cover in the survey?",
+      "ground_truth_answer": "A relative abundance value of 5 corresponds to >80% coral cover.",
+      "ground_truth_chunks": [
+        "At each site, all species of corals within a circular area of approximately 30 m in diameter (700 m<sup>2</sup>) were recorded and assigned a relative abundance value of 1-5, as follows: 5=>80%, 4=31-80%, 3=11-30%, 2=6-10%, 1=1-5% (Done and Navin, 1990)."
+      ]
+    },
+    {
+      "record_id": "ee3c491513178929707dc8cc",
+      "paper_id": "Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS",
+      "source_path": "output/Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS.md",
+      "section_heading": "Site Summaries",
+      "section_start_line": 151,
+      "section_end_line": 168,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which site exhibited the highest percent cover of live coral and what was that percentage?",
+      "ground_truth_answer": "Site H — 30.4%.",
+      "ground_truth_chunks": [
+        "Site H. This site exhibited the highest percent cover of live coral (30.4%) along the southeast fringing reef, with extensive thickets of branching *Acropora* (often inhabited by\n\nterritorial damselfish) dominating the area. One *Acanthaster* and several fresh feeding scars were observed near the transects. The ratio of live vs. dead coral cover was 1:1 at this site, and the index of spatial heterogeneity was 1.5."
+      ]
+    },
+    {
+      "record_id": "ccc82309a0c791de3eead6c8",
+      "paper_id": "Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS",
+      "source_path": "output/Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS.md",
+      "section_heading": "Seaweeds of the proposed National Park on Ofu, American Samoa",
+      "section_start_line": 255,
+      "section_end_line": 274,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which division of seaweeds is most diverse in the proposed National Park area on Ofu?",
+      "ground_truth_answer": "Red seaweeds are the most diverse division, followed by green seaweeds and then brown seaweeds.",
+      "ground_truth_chunks": [
+        "Most of the seaweeds in the park area are coralline red seaweeds and small turfforming red, brown, or green algal species.",
+        "Red seaweeds are by far the most diverse division\npresent, followed by green seaweeds and then brown seaweeds."
+      ]
+    },
+    {
+      "record_id": "bc457525c460375aae7bbb7e",
+      "paper_id": "Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS",
+      "source_path": "output/Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 321,
+      "section_end_line": 367,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many fish species were observed during the present study on Ofu Island?",
+      "ground_truth_answer": "288 species.",
+      "ground_truth_chunks": [
+        "Wass (1984) identified 991 species of fish from American Samoa. He collected in a wide variety of habitats and depths using ichthyocides and other destructive methods. In a two year study around the island of Tutuila, American Samoa, Wass (n.d.) observed 356 species of fishes in transects and subsequent 20 minute searches in surveys conducted at 57 sites around the island. The lower number of species observed during the present study on Ofu Island (288 species) resulted from sampling in a restricted number of habitats and primarily in shallow water (<5 m)."
+      ]
+    },
+    {
+      "record_id": "47941596513e943a9540be5a",
+      "paper_id": "Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS",
+      "source_path": "output/Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS.md",
+      "section_heading": "Ofu Reef Survey--1992",
+      "section_start_line": 905,
+      "section_end_line": 947,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many Acanthaster individuals were recorded in transect 1 in the first data block of the Ofu Reef Survey--1992 section?",
+      "ground_truth_answer": "11",
+      "ground_truth_chunks": [
+        "Transects:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 1            | 2      | 3    | Areal        |          | 1            | 2     | 3        | Areal   |   | 1              | 2     | 3 | Areal      ",
+        "| Acanthaster                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 11           | 0      | 0    | 1.22         |          | 0            | 0     | 13       | 1.44    |   | 11             | .0    | 0 | 1.22        |"
+      ]
+    },
+    {
+      "record_id": "f4ba4a7a24bc1745b08fb83d",
+      "paper_id": "Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS",
+      "source_path": "output/Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS.md",
+      "section_heading": "Offshore-Airport",
+      "section_start_line": 2054,
+      "section_end_line": 2107,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of hard substratum is recorded at the Offshore-Airport site?",
+      "ground_truth_answer": "80%",
+      "ground_truth_chunks": [
+        "| % hard substratum                       |                                                  | 80%                                   | live coral                                       | 5%                                 |"
+      ]
+    },
+    {
+      "record_id": "ae6f92e9cf34f0661b65e3df",
+      "paper_id": "Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS",
+      "source_path": "output/Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS.md",
+      "section_heading": "DATA SOURCE: VIDEO TRANSECTS",
+      "section_start_line": 2442,
+      "section_end_line": 2458,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the counts for Acanthaster in transects 1, 2, and 3 (first set) and what is the reported areal % cover?",
+      "ground_truth_answer": "Counts for transects 1, 2, 3: 11, 0, 0; Areal % Cover: 1.22",
+      "ground_truth_chunks": [
+        "Transects:    | <u>1</u> | <u>2</u> | <u>3</u> | Areal   |",
+        "Acanthaster   | 11       | 0        | 0        | 1.22    | 0            | . 0      | 13       | 1.44    | - 11       | 0        | 0        | 1.22    "
+      ]
+    },
+    {
+      "record_id": "7244636509d8fc203904ed64",
+      "paper_id": "Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS",
+      "source_path": "output/Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS.md",
+      "section_heading": "CHLOROPHYTA (GREEN SEAWEEDS)",
+      "section_start_line": 2582,
+      "section_end_line": 2614,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the collection number, location, site, date, and depth recorded for Halimeda opuntia in this section?",
+      "ground_truth_answer": "Collection number 3630; Location: Reef flat off hurricane house; Site: G; Date: 11-Sep-93; Depth: 0-3 m.",
+      "ground_truth_chunks": [
+        "| Halimeda opuntia          | 3630  | Reef flat off hurricane house    | G    | 11-Sep-93 | 0-3 m |"
+      ]
+    },
+    {
+      "record_id": "e4f9fdf93cc59644788647d6",
+      "paper_id": "Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS",
+      "source_path": "output/Hunter-1993-Ofu.reef.survey.AS/Hunter-1993-Ofu.reef.survey.AS.md",
+      "section_heading": "Tauta, tautu",
+      "section_start_line": 3557,
+      "section_end_line": 3565,
+      "model": "openai:gpt-4o-mini",
+      "question": "What threshold change in coral or algal cover over two consecutive surveys should trigger investigation of possible reef degradation causes?",
+      "ground_truth_answer": "Declines in coral cover or increases of algal cover of ±10% at any site over two consecutive surveys.",
+      "ground_truth_chunks": [
+        "It is recommended that future monitoring surveys at the six permanent sites be continued on a bi-annual basis. After the first two years, annual surveys should be sufficient to monitor reef health, barring any outbreaks of coral predators (e.g. Acanthaster, Drupella) or changes in land use patterns on Ofu.",
+        "Declines in coral cover or increases of algal cover of  $\\pm$  10% at any site over two consecutive surveys should be used as a minimal signal that possible causes of reef degradation should be investigated."
+      ]
+    }
+  ],
+  "failures": []
+}

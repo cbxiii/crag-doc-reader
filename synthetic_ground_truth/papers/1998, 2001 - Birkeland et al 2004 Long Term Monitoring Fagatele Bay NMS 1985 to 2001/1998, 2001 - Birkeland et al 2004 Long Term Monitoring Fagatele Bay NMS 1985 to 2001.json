@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001.md",
+  "source_sha256": "82be75cbe1c6da8aae4874de1f60c1586b9fffa26e4ea29262e65746359c8863",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "d17630595824bf30d016bb35",
+      "paper_id": "1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001",
+      "source_path": "output/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001.md",
+      "section_heading": "EXECUTIVE SUMMARY",
+      "section_start_line": 13,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "In which years were the permanent transects in Fagatele Bay re-surveyed?",
+      "ground_truth_answer": "They were re-surveyed in 1998 and 2001.",
+      "ground_truth_chunks": [
+        "- · Permanent transects in Fagatele Bay were re-surveyed in 1998 and 2001 to assess changes in coral and fish communities through time."
+      ]
+    },
+    {
+      "record_id": "9bb19750e3270bcdbb9c1db9",
+      "paper_id": "1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001",
+      "source_path": "output/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001.md",
+      "section_heading": "Fishes",
+      "section_start_line": 78,
+      "section_end_line": 83,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who conducted the fish counts in April 1998 and February 2001?",
+      "ground_truth_answer": "Alison Green.",
+      "ground_truth_chunks": [
+        "Surveys were conducted in April 1998 and February 2001.",
+        "In both years a single observer, Alison Green, conducted the fish counts."
+      ]
+    },
+    {
+      "record_id": "e6560d1548202139009154ff",
+      "paper_id": "1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001",
+      "source_path": "output/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001.md",
+      "section_heading": "Data analysis",
+      "section_start_line": 106,
+      "section_end_line": 117,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Data analysis section, how was the area of each coral colony calculated?",
+      "ground_truth_answer": "Area calculated as area of a circle i.e. p*(v(length*width))².",
+      "ground_truth_chunks": [
+        "For each year (1998 and 2001), coral data were summarised to determine the average size of each colony (area calculated as area of a circle i.e. p\\*(v(length\\*width))²), the size-range of colonies of each species at each site, the density and cover of each coral species per square metre at each site, as well as the overall density and cover of corals at each site.",
+        "density of corals per hectare = n/Q*[10000/(Sd/Q)^2] relative density of corals = (n/Q)*100 coral cover (m²/ha) = mean colony area * density /10000 relative coral cover = coral cover /total coral cover*100"
+      ]
+    },
+    {
+      "record_id": "83f2c9964e75143d3ede9133",
+      "paper_id": "1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001",
+      "source_path": "output/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001.md",
+      "section_heading": "Sites around Tutuila Island – 1998",
+      "section_start_line": 140,
+      "section_end_line": 147,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two coral species were the most abundant outside of Fagatele Bay in the 1998 Tutuila surveys?",
+      "ground_truth_answer": "*Montipora grisea* (81 colonies) and *Montipora verrilli* (59 colonies).",
+      "ground_truth_chunks": [
+        "*Montipora grisea* (81 colonies) and *Montipora verrilli* (59 colonies) were the two most abundant species recorded outside of Fagatele Bay."
+      ]
+    },
+    {
+      "record_id": "1b70de77e301619d604c9aca",
+      "paper_id": "1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001",
+      "source_path": "output/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001.md",
+      "section_heading": "Trends in coral populations 1995-2001 – Tutuila Island",
+      "section_start_line": 160,
+      "section_end_line": 892,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which sites sampled consistently from 1995 to 2001 showed increases in coral abundance, cover and colony size?",
+      "ground_truth_answer": "Cape Larsen and inside Masefau Bay.",
+      "ground_truth_chunks": [
+        "Nontheless, for those sites which were sampled consistently from 1995 to 2001, increases in coral abundance, cover and colony size were apparent only at Cape Larsen and inside Masefau Bay (Tables 6, 7 and 8).",
+        "| Cape Larsen | 2-3m  | 1982 | 7.88                               |\n|             |       | 1985 | 7.81                               |\n|             |       | 1988 | 14.13                              |\n|             |       | 1995 | 11.22                              |\n|             |       | 1998 | 6.8                                |\n|             |       | 2001 | 23.8                               |\n|             | 6m    | 1982 | 7.57                               |\n|             |       | 1985 | 12.17                              |\n|             |       | 1988 | 12                                 |\n|             |       | 1995 | 5.77                               |\n|             |       | 1998 | 15.55                              |\n|             |       | 2001 | 21.57                              |",
+        "| Masefau Bay (inside) | 2-3m  | 1982 | 2.89                               |\n|                      |       | 1985 | 3.51                               |\n|                      |       | 1988 | 4.2                                |\n|                      |       | 1995 | 7.38                               |\n|                      |       | 1998 | 2.3                                |\n|                      |       | 2001 | 11.12                              |\n|                      | 6m    | 1982 | 5.93                               |\n|                      |       | 1985 | 8.14                               |\n|                      |       | 1988 | 12.41                              |\n|                      |       | 1995 | 5.3                                |\n|                      |       | 1998 |                                    |\n|                      |       | 2001 | 16.82                              |"
+      ]
+    },
+    {
+      "record_id": "f4653f47c1cfff9f1a9581fd",
+      "paper_id": "1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001",
+      "source_path": "output/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001.md",
+      "section_heading": "Trends in fish populations 1995-2001 – Fagatele Bay",
+      "section_start_line": 1007,
+      "section_end_line": 1012,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did overall fish abundance in Fagatele Bay change between 1995 and 2001, and how did the 2001 abundance compare to levels recorded in 1985?",
+      "ground_truth_answer": "Overall fish abundance in Fagatele Bay showed a gradual increase from 1995 to 2001 (slight increase 1995–1998 and a more dramatic increase 1998–2001), though the reef flat did not follow this trend; however, the 2001 abundance remained lower than the levels recorded in 1985.",
+      "ground_truth_chunks": [
+        "The abundance of fish in Fagatele Bay has shown a gradual increase over the last six years.",
+        "With the exception of the reef flat areas, all sites showed a slight increase in abundance from 1995 to 1998, with a more dramatic increase between 1998 and 2001.",
+        "However, the overall abundance of fish in Fagatele Bay in the 2001 surveys is still lower than levels recorded in the first survey in 1985 (Figure 3)."
+      ]
+    },
+    {
+      "record_id": "c61c8c5bb9f347da5b2768b1",
+      "paper_id": "1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001",
+      "source_path": "output/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001.md",
+      "section_heading": "Coral and Fish Communities around Tutuila Island",
+      "section_start_line": 2005,
+      "section_end_line": 2012,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Tutuila sites does the section recommend should continue to be monitored despite discontinuing other local surveys?",
+      "ground_truth_answer": "Exceptions include the sites in Pago Pago Harbour (Rainmaker and Aua), and continued long-term fish monitoring at three sites: Fagatele Bay, Sita Bay, and Cape Larsen.",
+      "ground_truth_chunks": [
+        "Therefore, we recommend that these surveys be discontinued in future, especially since archipelago-wide surveys, which commenced in the mid 1990s (Green 1996, Mundy 1996, Fisk & Birkeland 2002, Green et al 2002), provide much more comprehensive data. Exceptions should include the sites in Pago Pago Harbour (Rainmaker and Aua), which should continue to be monitored because of their value for long term monitoring and management of the harbour.",
+        "The long term monitoring of fishes at three sites around the island (Fagatele Bay, Sita Bay, Cape Larsen) should also continue, because it is the oldest quantitative fish data for the island, and the only data set that predates the Crown-of-Thorns starfish outbreak in the late 1970s."
+      ]
+    },
+    {
+      "record_id": "a8958fa67c135515db63a1c5",
+      "paper_id": "1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001",
+      "source_path": "output/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001.md",
+      "section_heading": "Suborder Faviina",
+      "section_start_line": 3843,
+      "section_end_line": 3912,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species and entries of the genus Goniastrea are listed under Suborder Faviina?",
+      "ground_truth_answer": "Goniastrea edwardsi; Goniastrea favulus; Goniastrea pectinata; Goniastrea retiformis; Goniastrea sp. 1.",
+      "ground_truth_chunks": [
+        "*Goniastrea edwardsi* Chevalier, 1971\n\n*Goniastrea favulus* (Dana, 1846)\n\n*Goniastrea pectinata* (Ehrenberg, 1834)\n\n*Goniastrea retiformis* (Lamarck, 1816)\n\n*Goniastrea* sp. 1"
+      ]
+    },
+    {
+      "record_id": "a0c01279ac46bd3edf26eb6d",
+      "paper_id": "1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001",
+      "source_path": "output/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001.md",
+      "section_heading": "Family Pomacentridae",
+      "section_start_line": 4303,
+      "section_end_line": 4374,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Amphiprion species are listed in the 'Family Pomacentridae' section?",
+      "ground_truth_answer": "Amphiprion chrysopterus and Amphiprion melanopus.",
+      "ground_truth_chunks": [
+        "*Amphiprion chrysopterus* Cuvier, 1830",
+        "*Amphiprion melanopus* Bleeker, 1852"
+      ]
+    },
+    {
+      "record_id": "023da829f8fe931ed757deaa",
+      "paper_id": "1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001",
+      "source_path": "output/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001/1998, 2001 - Birkeland et al 2004 Long Term Monitoring Fagatele Bay NMS 1985 to 2001.md",
+      "section_heading": "Subfamily Acanthurinae",
+      "section_start_line": 4567,
+      "section_end_line": 4610,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many Acanthurus species are listed in the Subfamily Acanthurinae section?",
+      "ground_truth_answer": "16 Acanthurus species.",
+      "ground_truth_chunks": [
+        "*Acanthurus achilles* Shaw, 1803\n\n*Acanthurus albipectoralis* Allen & Ayling, 1987\n\n*Acanthurus blochii* Valenciennes, 1835\n\n *Acanthurus guttatus* Forster, 1801\n\n *Acanthurus lineatus* (Linnaeus, 1758)\n\n *Acanthurus maculiceps* (Ahl, 1923)\n\n*Acanthurus mata* Cuvier, 1829\n\n *Acanthurus nigricans* (Linnaeus, 1758)\n\n*Acanthurus nigricauda* Duncker & Mohr, 1929\n\n*Acanthurus nigrofuscus* (Forsskal, 1775)\n\n*Acanthurus nigroris* Valenciennes, 1835\n\n*Acanthurus olivaceus* Bloch & Schneider, 1801\n\n*Acanthurus pyroferus* Kittlitz, 1834\n\n *Acanthurus thompsoni* (Fowler, 1923)\n\n*Acanthurus triostegus* (Linnaeus, 1758)\n\n*Acanthurus xanthopterus* Valenciennes, 1835"
+      ]
+    }
+  ],
+  "failures": []
+}

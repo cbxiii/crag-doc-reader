@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al..md",
+  "source_sha256": "9b56c7cedf5b1982071d73f7aaa0d43c46ed5220b099a84056c64880b513b827",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "73016a4dffe29cb78666c93b",
+      "paper_id": "NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al.",
+      "source_path": "output/NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al..md",
+      "section_heading": "Introduction",
+      "section_start_line": 36,
+      "section_end_line": 53,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many distinct benthic habitat types were mapped directly into the GIS?",
+      "ground_truth_answer": "Thirty-two distinct benthic habitat types were mapped directly into the GIS.",
+      "ground_truth_chunks": [
+        "Thirty-two distinct benthic habitat types (i.e., four major and 14 detailed geomorphological structure classes; eight major and 18 detailed biological cover types) within eleven zones were mapped directly into a geographic information system (GIS) using visual interpretation of orthorectified IKONOS satellite imagery."
+      ]
+    },
+    {
+      "record_id": "0f3fc420c562936c0d5c12ea",
+      "paper_id": "NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al.",
+      "source_path": "output/NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al..md",
+      "section_heading": "Chapter 1: Description of Cover Types",
+      "section_start_line": 212,
+      "section_end_line": 233,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of substrate coverage defines Continuous Turf?",
+      "ground_truth_answer": "90 percent or greater of the substrate.",
+      "ground_truth_chunks": [
+        "**Continuous Turf:** Turf algae covering 90 percent or greater of the substrate. May include blowouts of less than 10 percent of the total area that are too small to be mapped independently (less than the MMU)."
+      ]
+    },
+    {
+      "record_id": "29f093bad92e18a76d8f348c",
+      "paper_id": "NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al.",
+      "source_path": "output/NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al..md",
+      "section_heading": "Description of Zones",
+      "section_start_line": 298,
+      "section_end_line": 341,
+      "model": "openai:gpt-4o-mini",
+      "question": "How is the 'Reef Crest' zone defined in the 'Description of Zones' section?",
+      "ground_truth_answer": "The flattened, emergent (especially during low tides) or nearly emergent segment of a reef that lies between the back reef and fore reef; breaking waves will often be visible at its seaward edge.",
+      "ground_truth_chunks": [
+        "**Reef Crest:** The flattened, emergent (especially during low tides) or nearly emergent segment of a reef. This zone lies between the back reef and fore reef zones. Breaking waves will often be visible in aerial images at the seaward edge of this zone.",
+        "**Typical Habitats:** reef rubble, aggregated coral"
+      ]
+    },
+    {
+      "record_id": "1f5b30473e711ae3eb0b4e60",
+      "paper_id": "NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al.",
+      "source_path": "output/NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al..md",
+      "section_heading": "Setting the Projection Parameters for the Image Data",
+      "section_start_line": 392,
+      "section_end_line": 397,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which View properties must be set to match the image data so that shapefiles are created in decimal degrees and the MMU, scale restriction, and other spatial functions work correctly?",
+      "ground_truth_answer": "The projection properties of the View must be set to those of the image data — specifically the Map and Distance Units and the Projection information (set via View/Properties). If these are set, shapefiles will be unprojected (in decimal degrees) and the MMU, scale restriction, and other spatial functions will work; if not, shapefiles will be created in the image projection coordinates and those functions will not work.",
+      "ground_truth_chunks": [
+        "The projection properties of the View must be set to those of the image data from which habitats are being interpreted.",
+        "To set the projection properties, select \"View/Properties\" and set the Map and Distance Units as well as the Projection information of the image.",
+        "If this information is not set, the shapefile will be created in the projection coordinates of the image files (not in decimal degrees) and the MMU, scale restriction, and other spatial functions of the extension will not work."
+      ]
+    },
+    {
+      "record_id": "ec108e63edf254b68304a125",
+      "paper_id": "NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al.",
+      "source_path": "output/NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al..md",
+      "section_heading": "Scale Restriction",
+      "section_start_line": 498,
+      "section_end_line": 505,
+      "model": "openai:gpt-4o-mini",
+      "question": "What happens if digitizing is attempted while a scale restriction is in place and the view is not at the specified scale?",
+      "ground_truth_answer": "A message box will offer to zoom the view to the proper scale; if \"No\" is selected, a polygon cannot be digitized.",
+      "ground_truth_chunks": [
+        "If digitizing is attempted while a scale restriction is in place and the view is not at the specified scale, a message box will offer to zoom the view to the proper scale. If \"No\" is selected, a polygon cannot be digitized.",
+        "Set the scale restriction by selecting \"Habitat Digitizer/Set Scale Restriction\". Enter a number in the text box and select \"Apply New Restriction\"."
+      ]
+    },
+    {
+      "record_id": "effc243229ed113ed705c135",
+      "paper_id": "NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al.",
+      "source_path": "output/NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al..md",
+      "section_heading": "Introduction",
+      "section_start_line": 549,
+      "section_end_line": 552,
+      "model": "openai:gpt-4o-mini",
+      "question": "What processing steps were implemented to optimize the satellite imagery for visual interpretation?",
+      "ground_truth_answer": "Orthorectification, pansharpening, deglinting, and generating normalized reflectance values.",
+      "ground_truth_chunks": [
+        "In order to optimize the satellite imagery for visual interpretation, a number of processing steps were implemented to enhance the geopositioning and clarity of the imagery.",
+        "These steps include: orthorectification to remove spatial distortions in the imagery due to relief displacement; pansharpening; deglinting; and generating normalized reflectance values."
+      ]
+    },
+    {
+      "record_id": "b224bd70791c19d9244a56fc",
+      "paper_id": "NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al.",
+      "source_path": "output/NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al..md",
+      "section_heading": "Ground Control Points (GCPs) for Georeferencing",
+      "section_start_line": 569,
+      "section_end_line": 576,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many islands had ground control data gathered by NOAA's National Geodetic Survey (NGS)?",
+      "ground_truth_answer": "Seventeen of the twenty-one islands.",
+      "ground_truth_chunks": [
+        "NOAA's National Geodetic Survey (NGS) gathered ground control data (horizontally accurate to within 5 cm of its location on the earth) on seventeen of the twenty-one islands mapped in the U.S. Pacific Territories (see Figure).",
+        "Fixed ground features visible in the IKONOS imagery were selected for ground control points (GCPs) which were then used to georeference the imagery (i.e., link the image pixels to a real world coordinate system such as Universal Transverse Mercator)."
+      ]
+    },
+    {
+      "record_id": "771221e06e98a2d59d725470",
+      "paper_id": "NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al.",
+      "source_path": "output/NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al..md",
+      "section_heading": "Finalizing the Process",
+      "section_start_line": 607,
+      "section_end_line": 614,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what file format were the final mosaics created?",
+      "ground_truth_answer": "The final mosaics were created in \"img\" file format (georeferenced image file).",
+      "ground_truth_chunks": [
+        "Final mosaics were created in \"img\" file format (georeferenced image file) with the following projection parameters Universal Transverse Mercator (UTM) Zone 55 North for Guam and the Commonwealth of the Northern Mariana Islands, HARN UTM Zone 2 South for American Samoa , North American Datum 83."
+      ]
+    },
+    {
+      "record_id": "4b373be100409d2162002426",
+      "paper_id": "NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al.",
+      "source_path": "output/NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al..md",
+      "section_heading": "Introduction",
+      "section_start_line": 678,
+      "section_end_line": 685,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral reef test areas were selected for the accuracy assessment?",
+      "ground_truth_answer": "Sixteen coral reef test areas were selected.",
+      "ground_truth_chunks": [
+        "A statistically robust data set composed of random field habitat observations were collected within the test areas to assess the accuracy of the mapped product.",
+        "Sixteen coral reef test areas were selected based on the diversity of the habitat types and to assure that all benthic habitats throughout the U.S. Pacific Territories were represented."
+      ]
+    },
+    {
+      "record_id": "650d6b1662bf9bb30372f4ec",
+      "paper_id": "NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al.",
+      "source_path": "output/NOAA Benthic Habitats AS et al/NOAA Benthic Habitats AS et al..md",
+      "section_heading": "Results of Overall Accuracy Assessment of Benthic Habitat Map Products",
+      "section_start_line": 720,
+      "section_end_line": 741,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the overall accuracy and Tau values reported for Detailed Structure in the Mariana Archipelago?",
+      "ground_truth_answer": "Overall Accuracy = 92.6%; Tau = 0.92.",
+      "ground_truth_chunks": [
+        "| Map Category        | Overall Accuracy | Tau  |  |  |",
+        "| Detailed Structure  | 92.6 %           | 0.92 |  |  |"
+      ]
+    }
+  ],
+  "failures": []
+}

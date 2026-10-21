@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck.md",
+  "source_sha256": "155eedc99fe4c91bc03d597b8aa6e32a25f18534b58d6947a1ec94b803a62b48",
+  "status": "complete",
+  "selected_section_count": 5,
+  "successful_record_count": 5,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "46358f6a7bef2b0ba9b8b8b4",
+      "paper_id": "Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck",
+      "source_path": "output/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck.md",
+      "section_heading": "CHRONOLOGY OF TRIPS TO ROSE ATOLL SUBSEQUENT TO THE WRECK OF THE JIN SHIANG FA ON 14 OCTOBER 1993.",
+      "section_start_line": 1,
+      "section_end_line": 25,
+      "model": "openai:gpt-4o-mini",
+      "question": "On what date did the U.S. Army Corps of Engineers survey for military debris occur, and which participant is listed for that trip?",
+      "ground_truth_answer": "10 August 1996; participant: N. Palaia.",
+      "ground_truth_chunks": [
+        "| 10 August 1996      | N. Palaia                                                                                                  | U.S. Army Corps<br>of Eng. survey for<br>military debris                                       |"
+      ]
+    },
+    {
+      "record_id": "cce9aaab652babdaf1cf2a8e",
+      "paper_id": "Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck",
+      "source_path": "output/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck.md",
+      "section_heading": "Background:",
+      "section_start_line": 34,
+      "section_end_line": 39,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many green turtles were estimated to be nesting on Rose Island in the early 1990s?",
+      "ground_truth_answer": "It is estimated that 24-36 green turtles were nesting there in the early 1990's.",
+      "ground_truth_chunks": [
+        "It is estimated that 24-36 green turtles were nesting there in the early 1990's (Tuato'o-Bartley, 1993)."
+      ]
+    },
+    {
+      "record_id": "a9868c67b74a4f3d16814bc2",
+      "paper_id": "Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck",
+      "source_path": "output/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck.md",
+      "section_heading": "NIGHTLY SURVEYS",
+      "section_start_line": 42,
+      "section_end_line": 57,
+      "model": "openai:gpt-4o-mini",
+      "question": "During what times should nightly surveys be conducted?",
+      "ground_truth_answer": "Beginning shortly before dusk (~1830) and ending shortly after sunrise (~0530).",
+      "ground_truth_chunks": [
+        "- 1. Beginning shortly before dusk (~1830) and ending shortly after sunrise (~0530), hourly walk around the perimeter of the island looking for fresh crawls. Rely only upon ambient light so as not to frighten away potential nesting turtles."
+      ]
+    },
+    {
+      "record_id": "03c25f3acaee2de05a4d4534",
+      "paper_id": "Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck",
+      "source_path": "output/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck.md",
+      "section_heading": "Results:",
+      "section_start_line": 58,
+      "section_end_line": 75,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many new sea turtle nests were counted between Days 2 and 8?",
+      "ground_truth_answer": "Six new nests were counted between Days 2 and 8.",
+      "ground_truth_chunks": [
+        "Between Days 2 and 8, six new nests were counted.",
+        "Of these, two were confirmed by visual observation during egg laying and four were discovered within a few hours of the nesting event."
+      ]
+    },
+    {
+      "record_id": "9b3d7c2c1ce73c737277c4ac",
+      "paper_id": "Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck",
+      "source_path": "output/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck/Scletz Saili K 2005 Chronology of trips to Rose Atoll after ship wreck.md",
+      "section_heading": "Summary:",
+      "section_start_line": 76,
+      "section_end_line": 81,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the primary threats to green turtle hatchlings on Rose Island reported in the summary?",
+      "ground_truth_answer": "Natural predators — birds, crabs, and reef sharks — with reef sharks appearing to take the largest percentage of hatchlings upon entry into the sea.",
+      "ground_truth_chunks": [
+        "Threats to hatchlings are natural predators (i.e., birds, crabs, and reef sharks) with reef sharks seeming to take the largest percentage of hatchlings upon entry into the sea."
+      ]
+    }
+  ],
+  "failures": []
+}

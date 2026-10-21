@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B.md",
+  "source_sha256": "6d6db3f2919f879b44eae3a45af1a523b94558fb8f171e6696c9aee055bf64f8",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "66724f221e14bac87198c052",
+      "paper_id": "2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B",
+      "source_path": "output/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B.md",
+      "section_heading": "C. N. Klepac and D. J. Barshis",
+      "section_start_line": 33,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did transplantation into the high variability (HV) pool increase thermal tolerance in Porites lobata and Goniastrea retiformis?",
+      "ground_truth_answer": "No. For both species, photosynthetic efficiency and chlorophyll loss following acute heat stress did not differ between ramets transplanted into the HV pool and their respective native ramets; additionally, HV native P. lobata exhibited the greatest bleaching susceptibility.",
+      "ground_truth_chunks": [
+        "For both species, photosynthetic efficiency and chlorophyll loss following acute heat stress did not differ between ramets transplanted into the HV pool and respective native pool.",
+        "Moreover, HV native P. lobata exhibited the greatest bleaching susceptibility compared to MV and LV natives and there was no effect of acute heat stress on MV P. lobata."
+      ]
+    },
+    {
+      "record_id": "46458035f1bc8a4d557cf25e",
+      "paper_id": "2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B",
+      "source_path": "output/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 41,
+      "section_end_line": 52,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two dominant massive coral species were tested in the Ofu backreef during the study?",
+      "ground_truth_answer": "Porites lobata and Goniastrea retiformis.",
+      "ground_truth_chunks": [
+        "Here, we test the scope for thermal tolerance in two dominant massive coral species, Porites lobata and Goniastrea retiformis in the Ofu backreef during an extremely warm year."
+      ]
+    },
+    {
+      "record_id": "13fe3894b3ede527a281650f",
+      "paper_id": "2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B",
+      "source_path": "output/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B.md",
+      "section_heading": "(a) Coral collection and transplantation",
+      "section_start_line": 55,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many cores were collected in total per species?",
+      "ground_truth_answer": "360 cores per species.",
+      "ground_truth_chunks": [
+        "Thirty colonies (n = 5 genets site−<sup>1</sup> species−<sup>1</sup> ) of two common massive coral species, P. lobata and G. retiformis, were sampled to remove 24 cores/ ramets from each genet in each site (n = 360 cores total species−<sup>1</sup> )."
+      ]
+    },
+    {
+      "record_id": "86d631a52080c9d8518ffb31",
+      "paper_id": "2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B",
+      "source_path": "output/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B.md",
+      "section_heading": "(c) Symbiodiniaceae physiology under heat stress",
+      "section_start_line": 67,
+      "section_end_line": 76,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were Fv/Fm values normalized for statistical analyses in the experiments?",
+      "ground_truth_answer": "Normalized Fv/Fm values (21–0 h)/0 h were used for statistical analyses to correct for between ramet variation in starting values.",
+      "ground_truth_chunks": [
+        "Normalized Fv/F<sup>m</sup> values (21–0 h)/0 h were used for statistical analyses to correct for between ramet variation in starting values."
+      ]
+    },
+    {
+      "record_id": "0592ca0478dfac730e6b23db",
+      "paper_id": "2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B",
+      "source_path": "output/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B.md",
+      "section_heading": "(d) Symbiodiniaceae genotyping",
+      "section_start_line": 77,
+      "section_end_line": 90,
+      "model": "openai:gpt-4o-mini",
+      "question": "What DNA region was targeted for amplification to identify Symbiodiniaceae in the study?",
+      "ground_truth_answer": "A 350 bp segment of the internal transcribed spacer region 2 (ITS2) ribosomal DNA (rDNA) was used for amplification.",
+      "ground_truth_chunks": [
+        "We used a 350 bp segment of the internal transcribed spacer region 2 (ITS2) ribosomal DNA (rDNA) for amplification.",
+        "The ITS2 region was amplified using Symbiodiniaceae specific primers, ITS-Dino-forward [53] and its2rev2-reverse [54]."
+      ]
+    },
+    {
+      "record_id": "5a480477fad4576b11fd6670",
+      "paper_id": "2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B",
+      "source_path": "output/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B.md",
+      "section_heading": "(e) Statistical analyses",
+      "section_start_line": 91,
+      "section_end_line": 96,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were multiple comparisons across factors and interaction terms assessed for the linear mixed-effects models?",
+      "ground_truth_answer": "They were assessed post hoc using general linear hypothesis testing and multiple comparisons (glht function), specifying Tukey's test.",
+      "ground_truth_chunks": [
+        "Multiple comparisons across factors and interaction terms were assessed post hoc using general linear hypothesis testing and multiple comparisons (glht function; [\\[62\\]](#page-8-0)) for linear mixed-effects models, specifying Tukey's test."
+      ]
+    },
+    {
+      "record_id": "531f522e85b1dbd599e1964c",
+      "paper_id": "2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B",
+      "source_path": "output/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B.md",
+      "section_heading": "(a) Anomalously high Ofu temperatures",
+      "section_start_line": 99,
+      "section_end_line": 104,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many days did the HV pool exceed the NOAA CRW bleaching threshold of 30.2°C during the experimental period (July 2015 to July 2016)?",
+      "ground_truth_answer": "125 days.",
+      "ground_truth_chunks": [
+        "The HV pool had a total of 125 days in which the daily maximum exceeded the bleaching threshold, versus 93 and 81 days over the threshold for the MV and LV pools, respectively.",
+        "Moreover, the HV pool had 72 and 27 days above 31 and 32°C, versus 38 and 8 for the MV pool, and 33 and 12 days for the LV pool."
+      ]
+    },
+    {
+      "record_id": "bdf7be47675a67ca007642f5",
+      "paper_id": "2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B",
+      "source_path": "output/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B.md",
+      "section_heading": "heat stress",
+      "section_start_line": 111,
+      "section_end_line": 122,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did acute heat stress reduce Fv/Fm in MV-native P. lobata?",
+      "ground_truth_answer": "No. MV native P. lobata were not affected by acute heat stress; their Fv/Fm values were approximately 1.2–1.8 times higher in MV heated corals than heated HV and LV corals for both time points.",
+      "ground_truth_chunks": [
+        "ForP. lobata, acute heat stress reducedFv/F<sup>m</sup> (calculated asloss normalized to starting value; see Material and methods) for HV and LV natives and MV and LV corals transplanted into the HV pool ( p < 0.0001; [figure 2](#page-4-0)b, denoted with '\\*').",
+        "However, MV native P. lobata were not affected by acute heat stress (electronic supplementary material, tables S3 and S5), and Fv/F<sup>m</sup> values were approximately 1.2–1.8 times higher in MV heated corals than heated HV and LV corals for both time points [\\(figure 2](#page-4-0)b; electronic supplementary material, table S5)."
+      ]
+    },
+    {
+      "record_id": "ba416ee0ecb56752ce5f96d3",
+      "paper_id": "2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B",
+      "source_path": "output/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B.md",
+      "section_heading": "(d) Stable symbiodinaceae composition",
+      "section_start_line": 123,
+      "section_end_line": 128,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Symbiodiniaceae ITS2 type dominated Porites lobata, at what proportion, and did its Cladocopium community composition change over time?",
+      "ground_truth_answer": "Cladocopium ITS2 type C15 dominated P. lobata at greater than 99%, and the Cladocopium community composition did not change over time.",
+      "ground_truth_chunks": [
+        "In P. lobata, Cladocopium ITS2 type C15 (NCBI accession no. AY239369.1) was dominant at greater than 99%, but a few coral individuals contained background proportions (less than 1%) of Cladocopium ITS2 type C40 (AY258485.1; electronic supplementary material, figure S4A; table S7).",
+        "For P. lobata, Cladocopium community composition did not change over time."
+      ]
+    },
+    {
+      "record_id": "8e71027f316861d6307fda60",
+      "paper_id": "2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B",
+      "source_path": "output/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B/2020_Klepac and Barshis_2020_Proceedings of the Royal Society B.md",
+      "section_heading": "4. Discussion",
+      "section_start_line": 129,
+      "section_end_line": 154,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did corals transplanted for one year into the HV pool increase growth or improve photophysiological responses following acute heat stress?",
+      "ground_truth_answer": "No. Corals transplanted for one year into the HV pool did not increase growth or improve photophysiological responses following acute heat stress.",
+      "ground_truth_chunks": [
+        "Corals transplanted for one year into the site with the highest variability (the HV pool common garden) did not increase growth or improve photophysiological responses following acute heat stress, as observed in previous studies [\\[8](#page-7-0)].",
+        "Despite persistent high magnitudes of thermal variability, the HV pool did not increase heat tolerance of massive coral species during our study, which complicates the notion that HV thermal habitats are universally beneficial for increasing the adaptive and acclimatory potential of all coral species."
+      ]
+    }
+  ],
+  "failures": []
+}

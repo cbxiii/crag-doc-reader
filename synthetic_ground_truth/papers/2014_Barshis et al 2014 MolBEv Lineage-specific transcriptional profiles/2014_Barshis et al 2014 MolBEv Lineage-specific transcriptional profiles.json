@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles.md",
+  "source_sha256": "8a5116f03708201577fc6aeeae9cd4c0e59a11f726df082c1f8162567cb97931",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "c4b3fac5e92cd9a5e6948702",
+      "paper_id": "2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles",
+      "source_path": "output/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles.md",
+      "section_heading": "Abstract",
+      "section_start_line": 11,
+      "section_end_line": 16,
+      "model": "openai:gpt-4o-mini",
+      "question": "After 3 days of elevated thermal exposure, did the Symbiodinium transcriptome show detectable gene expression changes?",
+      "ground_truth_answer": "No — the authors report no detectable change in gene expression across the dinoflagellate transcriptome after 3 days of elevated thermal exposure, despite physical evidence of symbiosis breakdown.",
+      "ground_truth_chunks": [
+        "Here, we examine the transcriptome-wide response to heat stress via RNA-Seq of two types of Symbiodinium, the putatively thermotolerant type D2 and the more susceptible type C3K, resident within the same coral host species, Acropora hyacinthus.",
+        "Contrary to previous findings with coral hosts, we find no detectable change in gene expression across the dinoflagellate transcriptome after 3 days of elevated thermal exposure, despite physical evidence of symbiosis breakdown."
+      ]
+    },
+    {
+      "record_id": "e574dd7378853e956f331e50",
+      "paper_id": "2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles",
+      "source_path": "output/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles.md",
+      "section_heading": "Results",
+      "section_start_line": 35,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the mean ambient and elevated temperatures used in the 3-day simulated bleaching exposure?",
+      "ground_truth_answer": "Ambient mean = 29.2 °C; elevated mean = 31.9 °C.",
+      "ground_truth_chunks": [
+        "Here, we subjected A. hyacinthus (cryptic species E from Ladner and Palumbi 2012) corals from two locations, a highly variable (HV) back reef dominated by clade D (identified by sequence as Internal Transcribed Spacer region 2 [ITS2]-type D2) and a moderately variable (MV) back reef dominated by clade C (ITS2-type C3k; Craig et al. 2001; Barshis et al. 2010; Oliver and Palumbi 2011) to a 3-day simulated bleaching exposure (ambient mean = 29.2 °C and elevated mean = 31.9 °C)."
+      ]
+    },
+    {
+      "record_id": "dccad81a2ca3d8fffb3fb74f",
+      "paper_id": "2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles",
+      "source_path": "output/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles.md",
+      "section_heading": "Symbiodinium Community Characterization and Heat Stress Analysis",
+      "section_start_line": 41,
+      "section_end_line": 60,
+      "model": "openai:gpt-4o-mini",
+      "question": "After FDR correction, were there any significant differences in gene expression between control and heated treatment groupings for C or D-type Symbiodinium?",
+      "ground_truth_answer": "No. There were no significant differences in gene expression between control and heated treatment groupings for either C or D-type Symbiodinium after FDR correction across 50,763 assembled contigs (FDR = 5%, minimum q value of 0.279 for C and 1.00 for D), demonstrating no consistent transcriptional response to the elevated thermal exposure.",
+      "ground_truth_chunks": [
+        "There were no significant\n\n<span id=\"page-2-0\"></span>differences in gene expression between control and heated treatment groupings for either C or D-type Symbiodinium after false discovery rate (FDR) correction across 50,763 assembled contigs (26,986 and 23,777 for C and D, respectively, FDR = 5%, minimum q value of 0.279 for C and 1.00 for D), demonstrating no consistent transcriptional response to the elevated thermal exposure in either the heat-tolerant or susceptible phylotypes."
+      ]
+    },
+    {
+      "record_id": "cd1245e57a88183f537d4f86",
+      "paper_id": "2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles",
+      "source_path": "output/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles.md",
+      "section_heading": "Differences within the Same Host Genetic Background",
+      "section_start_line": 88,
+      "section_end_line": 91,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many differentially expressed genes (DEGs) were observed between Symbiodinium types within the same identical host background, and out of how many genes after filtering?",
+      "ground_truth_answer": "113 DEGs out of 3,067 after variance and low expression filtering were evident between types within the same identical host background.",
+      "ground_truth_chunks": [
+        "In these two individual samples, 113 DEGs out of 3,067 after variance and low expression filtering were evident between types within the same identical host background ([supplementary table S5,](http://mbe.oxfordjournals.org/lookup/suppl/doi:10.1093/molbev/msu107/-/DC1) [Supplementary Material](http://mbe.oxfordjournals.org/lookup/suppl/doi:10.1093/molbev/msu107/-/DC1) online).",
+        "In our heat stress experiment, two coral individuals hosted a mixture of C versus DSymbiodinium under control conditions (18.9% and 23.4% D and 81.1% and 76.6% C for corals 68c and 45c, respectively)."
+      ]
+    },
+    {
+      "record_id": "3a33e6c0cd369b491521445e",
+      "paper_id": "2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles",
+      "source_path": "output/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles.md",
+      "section_heading": "Discussion",
+      "section_start_line": 92,
+      "section_end_line": 95,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did Symbiodinium exhibit a consistent gene expression response to elevated thermal conditions in the study?",
+      "ground_truth_answer": "No. The data show little to no consistent response in Symbiodinium gene expression to elevated thermal conditions across thousands of genes for two divergent phylotypes from two different clades.",
+      "ground_truth_chunks": [
+        "The data from this study show little to no consistent response in Symbiodinium gene expression to elevated thermal conditions across thousands of genes for two divergent phylotypes from two different clades.",
+        "This is in stark contrast to our previous analysis of coral host gene expression from the same experiment, with the same statistical power, where heat stress significantly altered coral gene expression (up to 27-fold) across hundreds of cnidarian genes ([Barshis et al.](#page-8-0) [2013\\)](#page-8-0)."
+      ]
+    },
+    {
+      "record_id": "9d71709c0e15a7bc98bc98db",
+      "paper_id": "2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles",
+      "source_path": "output/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles.md",
+      "section_heading": "Deep-Rooted Expression Differences between Phylotypes",
+      "section_start_line": 122,
+      "section_end_line": 127,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the putative Hsp70/Hsp90/CytP450 orthologs showed significant differences among types while remaining unresponsive to heat treatment?",
+      "ground_truth_answer": "12 out of 15 (80%).",
+      "ground_truth_chunks": [
+        "Additionally, 12 out of 15 (80%) of the putative Hsp70/Hsp90/CytP450 orthologs also showed significant differences among types, while remaining unresponsive to heat treatment (table 2)."
+      ]
+    },
+    {
+      "record_id": "03dae6539babaceb1901a095",
+      "paper_id": "2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles",
+      "source_path": "output/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles.md",
+      "section_heading": "Conclusions",
+      "section_start_line": 128,
+      "section_end_line": 131,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Conclusions section, how does the transcriptional response of Symbiodinium to thermal stress compare with that of the host cnidarian?",
+      "ground_truth_answer": "The section states that host cnidarians show a multitude of cellular processes responding to thermal stress, whereas the transcriptional response of Symbiodinium appears either nonexistent or highly treatment specific in most gene expression studies to date.",
+      "ground_truth_chunks": [
+        "It is well established that a multitude of cellular processes respond to thermal stress in the host cnidarian (e.g., DeSalvo et al. 2008; Meyer et al. 2011; Barshis et al. 2013); however, the transcriptional response of Symbiodinium to thermal stress appears either nonexistent (e.g., Leggat et al. 2011a; Putnam et al. 2013; this study) or highly treatment specific (Baumgarten et al. 2013) in most studies of gene expression to date.",
+        "Whether Symbiodinium transcriptional architecture is fundamentally different from the majority of eukaryotic organisms, their gene expression response is tuned to particular stressors, buffered or determined by their host partner, and/or evolutionarily constrained based on phylogenetic history all remain to be determined."
+      ]
+    },
+    {
+      "record_id": "54f0f076183fc7c3ab28b225",
+      "paper_id": "2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles",
+      "source_path": "output/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles.md",
+      "section_heading": "Reciprocal Transplantation Experiment",
+      "section_start_line": 138,
+      "section_end_line": 143,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which colony IDs selected and sampled on August 22, 2011 had originally come from the MV pool?",
+      "ground_truth_answer": "AH40, AH68, and AH70.",
+      "ground_truth_chunks": [
+        "At noon on August 22, 2011, we selected and sampled six colonies that had survived transplantation into both the HV and MV pools for analysis of gene expression patterns; three had originally come from the HV pool (AH02, AH07, and AH75)\n\nand three had originated in the MV pool (AH40, AH68, and AH70).",
+        "Six colonies were transplanted from the HV Pool (AH02, AH04, AH06, AH07, AH09, and AH75) and 12 from the MV Pool (AH27, AH55, AH69, AH68, AH65, AH61, AH64, AH40, AH28, AH70, AH11, and AH31)."
+      ]
+    },
+    {
+      "record_id": "ada05f27d5fb7c5d4329126b",
+      "paper_id": "2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles",
+      "source_path": "output/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles.md",
+      "section_heading": "Symbiodinium Phylotype Identification",
+      "section_start_line": 144,
+      "section_end_line": 151,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Symbiodinium phylotypes were indicated by the initial analyses of the sampled reads?",
+      "ground_truth_answer": "Initial analyses indicated two phylotypes: ITS-types C3k (100% match) and D2 (1 bp different).",
+      "ground_truth_chunks": [
+        "Initial analyses, using sequences representing all clades of *Symbiodinium*, indicated that our sampled reads matched only two phylotypes, ITS-types C3k (100% match), and D2 (1 bp different; data not shown).",
+        "This is consistent with previous work on the same coral species and locations using direct sequencing of ITS1 and cp23S (Oliver and Palumbi 2011)"
+      ]
+    },
+    {
+      "record_id": "2b42b5b0849b426be9ae911a",
+      "paper_id": "2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles",
+      "source_path": "output/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles/2014_Barshis et al 2014 MolBEv Lineage-specific transcriptional profiles.md",
+      "section_heading": "Sequence Mapping and Differential Expression Analysis",
+      "section_start_line": 164,
+      "section_end_line": 171,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which software and parameters were used to map the sequencing data?",
+      "ground_truth_answer": "Data were mapped using BWA aln with parameters -n 0.005 -k 5 -l (Li and Durbin 2009).",
+      "ground_truth_chunks": [
+        "Data were mapped using BWA (aln -n 0.005 -k 5 -l; Li and Durbin 2009) to a combined reference assembly consisting of 1) 33,496 A. hyacinthus contigs from Barshis et al. (2013), 2) 26,986 Symbiodinium clade C contigs from Ladner et al. (2012), and 3) 23,777 Symbiodinium clade D contigs from Ladner et al. (2012)."
+      ]
+    }
+  ],
+  "failures": []
+}

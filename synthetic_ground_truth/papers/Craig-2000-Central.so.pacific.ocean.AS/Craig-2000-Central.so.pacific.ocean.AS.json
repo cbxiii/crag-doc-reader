@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS.md",
+  "source_sha256": "0c2b1579d0c25f5a1033623ddda61a6766bc05fab11b1203ffaa1d9982e9af6a",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "bad7c106fdda5fa9e785a627",
+      "paper_id": "Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS",
+      "source_path": "output/Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS.md",
+      "section_heading": "THE CENTRAL SOUTH PACIFIC OCEAN (AMERICAN SAMOA)",
+      "section_start_line": 20,
+      "section_end_line": 29,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the most serious environmental problem facing American Samoa according to the section?",
+      "ground_truth_answer": "The most serious environmental problem is its uncontrolled population growth rate (2.5%).",
+      "ground_truth_chunks": [
+        "The most serious environmental problem facing American Samoa is its uncontrolled population growth rate (2.5%).",
+        "The current population of 63,000 in 2000 is already straining the environment, with extensive harbour pollution, loss of coastal habitats by urban expansion, and coastal sedimentation from poor upland management practices."
+      ]
+    },
+    {
+      "record_id": "3d92971aa2a6c79322c87528",
+      "paper_id": "Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS",
+      "source_path": "output/Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS.md",
+      "section_heading": "THE REGION",
+      "section_start_line": 30,
+      "section_end_line": 35,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many islands make up American Samoa and what are their names?",
+      "ground_truth_answer": "American Samoa consists of seven islands: Tutuila, Aunu'u, Ofu, Olosega, Ta'u, Swains and Rose.",
+      "ground_truth_chunks": [
+        "American Samoa consists of seven islands in the eastern portion of the Samoan Archipelago (14°S, 168–173°W): Tutuila, Aunu'u, Ofu, Olosega, Ta'u, Swains and Rose (Fig. 1).",
+        "The islands are small, ranging in size from the populated high island of Tutuila (145 km²) to the remote and uninhabited Rose Atoll (4 km²)."
+      ]
+    },
+    {
+      "record_id": "cb2a7118672006b5055cb71f",
+      "paper_id": "Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS",
+      "source_path": "output/Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS.md",
+      "section_heading": "Coral Reefs",
+      "section_start_line": 60,
+      "section_end_line": 71,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral species occur in American Samoa?",
+      "ground_truth_answer": "Over 200 coral species occur in American Samoa.",
+      "ground_truth_chunks": [
+        "Over 200 coral species occur in American Samoa, representing over half of all coral species found throughout the Indo-Pacific region (Hunter et al., 1993; Maragos et al., 1994; Veron, 1995; Mundy, 1996)."
+      ]
+    },
+    {
+      "record_id": "fb2341b9eb53b7c5c604ba6f",
+      "paper_id": "Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS",
+      "source_path": "output/Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS.md",
+      "section_heading": "Other Coastal Environments on the Main Islands",
+      "section_start_line": 72,
+      "section_end_line": 89,
+      "model": "openai:gpt-4o-mini",
+      "question": "On which islands in American Samoa were mangroves historically found according to Whistler (1976)?",
+      "ground_truth_answer": "Whistler (1976) reported mangroves were found only on two of the seven islands: Tutuila and Aunu'u.",
+      "ground_truth_chunks": [
+        "Whistler (1976) estimated that there were 51 ha (127 acres)\n\n![](_page_4_Picture_10.jpeg)\n\nFig. 5. Volcanic mountains and fringing reefs on Ofu and Olosega Islands, American Samoa. Population levels here are low (25 people/km<sup>2</sup>) and declining slightly as people move to the main island (Tutuila) for jobs or schooling.\n\n![](_page_4_Picture_12.jpeg)\n\nFig. 6. Urban and industrial expansion around Pago Pago Harbour on the main island of Tutuila, where 96% of the territory's population dwells, mostly along the shoreline of this steeply sloped island.\n\nof mangroves in the territory, found only on two of the seven islands (Tutuila, Aunu'u).",
+        "The largest remaining mangrove area is at Nu'uuli Pala Lagoon (34 ha, 85 acres) on Tutuila Island."
+      ]
+    },
+    {
+      "record_id": "8895c32190337ed7d5eddcde",
+      "paper_id": "Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS",
+      "source_path": "output/Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS.md",
+      "section_heading": "Atolls",
+      "section_start_line": 90,
+      "section_end_line": 93,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two islands in the archipelago are remote atolls?",
+      "ground_truth_answer": "Swains and Rose atolls.",
+      "ground_truth_chunks": [
+        "Two of the islands in the archipelago are remote atolls: Swains and Rose atolls.",
+        "They differ from the islands described above in that they are geologically much older, and all that remains of these sunken mountains are small atolls."
+      ]
+    },
+    {
+      "record_id": "1ce0d25aed3e2978d0f52ce7",
+      "paper_id": "Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS",
+      "source_path": "output/Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS.md",
+      "section_heading": "POPULATIONS AFFECTING THE AREA",
+      "section_start_line": 102,
+      "section_end_line": 119,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the estimated population of American Samoa in 2000 and its growth rate?",
+      "ground_truth_answer": "The population was estimated at 63,000 in 2000 and was increasing at approximately 2.5% per year (doubling time 28 years).",
+      "ground_truth_chunks": [
+        "population estimate of 63,000 in 2000 is increasing at a rate of approximately 2.5%, which equates to a doubling time of 28 years."
+      ]
+    },
+    {
+      "record_id": "080c49980e1c1a05500693ec",
+      "paper_id": "Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS",
+      "source_path": "output/Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS.md",
+      "section_heading": "RURAL FACTORS",
+      "section_start_line": 120,
+      "section_end_line": 129,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of Tutuila Island's land area has a slope greater than 70%?",
+      "ground_truth_answer": "50% of the land area has a slope greater than 70%.",
+      "ground_truth_chunks": [
+        "With 50% of the land area having a slope of greater than 70%, there is relatively little level land to use."
+      ]
+    },
+    {
+      "record_id": "ab5bba3686dfa2b00ce6e087",
+      "paper_id": "Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS",
+      "source_path": "output/Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS.md",
+      "section_heading": "Habitat Loss",
+      "section_start_line": 132,
+      "section_end_line": 139,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of wetland losses occurred over the last 30 years, and what was the main cause?",
+      "ground_truth_answer": "28%, due mainly to urban expansion.",
+      "ground_truth_chunks": [
+        "Cumulative wetland losses over the last 30 years have been substantial (28%), due mainly to urban expansion.",
+        "The largest mangrove areas on the island were either reclaimed (inner Pago Pago Harbour) or significantly reduced by urban development (Nu'uuli Pala Lagoon)."
+      ]
+    },
+    {
+      "record_id": "a72353701edaa3ffd79f9ce1",
+      "paper_id": "Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS",
+      "source_path": "output/Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS.md",
+      "section_heading": "Industrial Activities and Impacts",
+      "section_start_line": 150,
+      "section_end_line": 159,
+      "model": "openai:gpt-4o-mini",
+      "question": "By how much did total nitrogen and total phosphorous levels change in the inner harbour after the canneries altered their waste disposal practices in the early 1990s?",
+      "ground_truth_answer": "Total nitrogen decreased from 0.63 mg/l to 0.04 mg/l, and total phosphorous decreased from 0.07 mg/l to 0.04 mg/l.",
+      "ground_truth_chunks": [
+        "However, in the early 1990s the canneries were required to construct a pipe to dispose of their treated cleaning waste at a 47-m depth in the outer harbour where there is better water circulation, and to haul high strength fish waste 8 km offshore. These actions significantly decreased the nutrient levels in the inner harbour, from 0.63 mg/l to 0.04 mg/l total nitrogen, and from 0.07 mg/l to 0.04 mg/l total phosphorous (ASEPA, 1998)."
+      ]
+    },
+    {
+      "record_id": "cb45e83b410bd3d18deaff17",
+      "paper_id": "Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS",
+      "source_path": "output/Craig-2000-Central.so.pacific.ocean.AS/Craig-2000-Central.so.pacific.ocean.AS.md",
+      "section_heading": "PROTECTIVE MEASURES",
+      "section_start_line": 160,
+      "section_end_line": 180,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which marine protected area in American Samoa prohibits all fishing?",
+      "ground_truth_answer": "Rose Atoll National Wildlife Sanctuary.",
+      "ground_truth_chunks": [
+        "Marine protected areas in American Samoa. Fishing is prohibited at Rose Atoll; subsistence fishing by villagers is permitted at the other locations.",
+        "Fishing is prohibited altogether at Rose Atoll National Wildlife Sanctuary."
+      ]
+    }
+  ],
+  "failures": []
+}

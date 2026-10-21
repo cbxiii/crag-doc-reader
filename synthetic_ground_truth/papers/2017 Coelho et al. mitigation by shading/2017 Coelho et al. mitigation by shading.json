@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading.md",
+  "source_sha256": "6fae824755f5f5b38404a6efd67266058244b6c61a6df0a844d2273f42ae9c44",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "cdc585e9fd653600768ce6b9",
+      "paper_id": "2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading",
+      "source_path": "output/2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading.md",
+      "section_heading": "Shading as a mitigation tool for coral bleaching in three common Indo-Pacific species",
+      "section_start_line": 11,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which author is affiliated with the Department of Biology, University of Hawai'i at Manoa?",
+      "ground_truth_answer": "C. Birkeland",
+      "ground_truth_chunks": [
+        "V.R. Coelho<sup>a</sup>, D. Fenner<sup>b,1</sup>, C. Caruso<sup>c,2</sup>, B.R. Bayles<sup>a,d</sup>, Y. Huang<sup>a</sup>, C. Birkeland<sup>e</sup>",
+        "- <span id=\"page-0-7\"></span><sup>e</sup> Department of Biology, University of Hawai'i at Manoa, 2538 McCarthy Mall, Honolulu, HI 96822, United States"
+      ]
+    },
+    {
+      "record_id": "51153b3667c15a009c62557d",
+      "paper_id": "2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading",
+      "source_path": "output/2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 27,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Introduction, what criteria define Bleaching Alert Level 2 in the Coral Reef Watch-Bleaching Alert System (CRW-BAS)?",
+      "ground_truth_answer": "Bleaching Alert Level 2 is defined as HotSpot ≥ 1 °C and DHW ≥ 8.",
+      "ground_truth_chunks": [
+        "One \"Degree Heating Week\" (DHW) corresponds to temperatures 1 °C above the maximum monthly mean SST for 7 days. DHW 2 is the same as DHW 1 but for 14 days, or temperatures 2 °C above the maximum monthly mean SST for 7 days, and so on.",
+        "Based on cumulative thermal stress, a bleaching warning system was developed: No Stress (HotSpot ≤ 0 °C), Bleaching Watch (0 °C < HotSpot < 1 °C), Bleaching Warning (HotSpot ≥ 1 °C and 0 < DHW < 4), Bleaching Alert Level 1 (HotSpot ≥ 1 °C and 4 ≤ DHW < 8), and Bleaching Alert Level 2 (HotSpot ≥ 1 °C and DHW ≥ 8)."
+      ]
+    },
+    {
+      "record_id": "fd63d5ae64ce8c246d42120f",
+      "paper_id": "2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading",
+      "source_path": "output/2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading.md",
+      "section_heading": "2. Methods",
+      "section_start_line": 59,
+      "section_end_line": 62,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the two locations where the shaded/not-shaded experiments were conducted in the Methods section?",
+      "ground_truth_answer": "An outdoor shaded/notshaded aquarium experiment near reef-flat pools in the National Park of American Samoa on Ofu Island, and a shaded/not-shaded platform experiment in a reef pool in Tutuila.",
+      "ground_truth_chunks": [
+        "A shaded/notshaded aquarium experiment was set-up outdoors, under natural sunlight, near some reef-flat pools in the National Park of American Samoa on Ofu Island.",
+        "Also, a shaded/not-shaded platform experiment was carried out in a reef pool in Tutuila in which corals have shown repeated annual summer bleaching for several years [\\(Fenner and](#page-10-9) [Heron, 2008](#page-10-9))."
+      ]
+    },
+    {
+      "record_id": "d23db287b291504d5409c2ae",
+      "paper_id": "2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading",
+      "source_path": "output/2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading.md",
+      "section_heading": "2.2. Ofu experiment",
+      "section_start_line": 77,
+      "section_end_line": 86,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral fragments per species were placed in each aquarium, and what were the total numbers of corals and fragments per species in the Ofu experiment?",
+      "ground_truth_answer": "Approximately 30 coral fragments per species were placed in each of the 8 aquaria; total of 702 corals, with 234 fragments per species.",
+      "ground_truth_chunks": [
+        "Approximately 30 coral fragments per species were placed in each of 8 aquaria, with a total of 702 corals; 234 fragments per species (Fig. 1, and Fig. A1 in the Appendix, Supplementary material)."
+      ]
+    },
+    {
+      "record_id": "a7ab439bfd1806cc1a487236",
+      "paper_id": "2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading",
+      "source_path": "output/2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading.md",
+      "section_heading": "2.2.2. Light measurements",
+      "section_start_line": 101,
+      "section_end_line": 104,
+      "model": "openai:gpt-4o-mini",
+      "question": "What instruments were used to measure PAR and UV radiation?",
+      "ground_truth_answer": "PAR was measured with an underwater spherical quantum sensor and a light meter (LiCor*; LI-193SA, LI-250A). UV radiation was measured with a UV radiation sensor and datalogging radiometer (Solar Light*; PMA 2104, PMA 2100) that detected biologically weighted UV in the 280 to 370 nm range.",
+      "ground_truth_chunks": [
+        "Irradiance was measured with an underwater spherical quantum sensor, and light meter, (LiCor\\*; LI-193SA, LI-250A) for PAR, and a UV radiation sensor, and datalogging radiometer (Solar Light\\*; PMA 2104, PMA 2100), that detected biologically weighted UV, also called \"sunburning\" UV radiation, in the 280 to 370 nm range following closely the erythema action spectrum (Appendix, Fig. A3).",
+        "The UV sensor's peak relative spectral response was between 280 and 300 nm."
+      ]
+    },
+    {
+      "record_id": "9a694baf1d5a2d3d0e4b44e5",
+      "paper_id": "2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading",
+      "source_path": "output/2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading.md",
+      "section_heading": "2.3. Tutuila experiment",
+      "section_start_line": 105,
+      "section_end_line": 116,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species were reported as common or abundant in the Coconut Point pool used for the Tutuila experiment?",
+      "ground_truth_answer": "Two of the most common species were A. muricata and P. cylindrica; Pocillopora damicornis colonies were also abundant.",
+      "ground_truth_chunks": [
+        "The study site was a large pool in Coconut Point, Nu'uuli, where two of the most common coral species are *A. muricata* and *P. cylindrica. Pocillopora damicornis* colonies are also abundant in this pool and were"
+      ]
+    },
+    {
+      "record_id": "68601f26d9dee6c234205384",
+      "paper_id": "2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading",
+      "source_path": "output/2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading.md",
+      "section_heading": "2.4.2. Coral color",
+      "section_start_line": 182,
+      "section_end_line": 236,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did the authors categorize coral color scores into non-bleached and bleached for the Cox proportional hazards analysis?",
+      "ground_truth_answer": "Non-bleached: color score above 2; Bleached: color score of 2 or less.",
+      "ground_truth_chunks": [
+        "We categorized the data for the Ofu experiment in two sets: non-bleached, color score above 2; or bleached, color score of 2 or less (pale group, [Siebeck et al., 2006](#page-11-3))."
+      ]
+    },
+    {
+      "record_id": "9f34baf6766cf7a926b3b2f6",
+      "paper_id": "2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading",
+      "source_path": "output/2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading.md",
+      "section_heading": "3.1. Ofu experiment: coral growth",
+      "section_start_line": 318,
+      "section_end_line": 323,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the GLM model, by how much did average monthly growth change for thermally stressed corals under each shade treatment relative to the control?",
+      "ground_truth_answer": "Relative to the control, average monthly growth decreased by 0.26 g for thermally stressed corals with no shade, decreased by 0.17 g for thermally stressed corals with 50% shade, and decreased by 0.19 g for thermally stressed corals with 75% shade.",
+      "ground_truth_chunks": [
+        "Results from the GLM model revealed statistically significant relationships between species and experimental conditions in relation to growth. Relative to the control group, the average monthly growth decreased by 0.26 g in thermally stressed corals with no shade, decreased by 0.17 g in thermally stressed corals with 50% shade, and decreased by 0.19 g in thermally stressed corals with 75% shade."
+      ]
+    },
+    {
+      "record_id": "b8fef50163d80e77f81c67cf",
+      "paper_id": "2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading",
+      "source_path": "output/2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading.md",
+      "section_heading": "3.2. Ofu experiment: coral color",
+      "section_start_line": 324,
+      "section_end_line": 379,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what Degree Heating Week (DHW) did thermally stressed corals without shade reach a 2-unit decrease in mean color score for all species combined?",
+      "ground_truth_answer": "DHW 4.",
+      "ground_truth_chunks": [
+        "However, all corals under thermal stress and no shade did decrease by at least 2 color scores by the middle of the experiment (DHW 4), except for P. damicornis [\\(Tables 4 and 5](#page-6-0)). By the end of the experiment (DHW 8) all of them had decreased by 2 scores or more in comparison to the starting point (DHW 0).",
+        "The 2 units difference decrease in mean color score from the beginning of the experiment (DHW 0) for thermally stressed corals without shade was reached at DHW 4 for all species combined (2.0 units difference), DHW 3 for A. muricata (2.1), DHW 4 for P."
+      ]
+    },
+    {
+      "record_id": "a6479fdfadb1100ddbdbcb34",
+      "paper_id": "2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading",
+      "source_path": "output/2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading.md",
+      "section_heading": "4. Discussion",
+      "section_start_line": 390,
+      "section_end_line": 486,
+      "model": "openai:gpt-4o-mini",
+      "question": "In the Ofu experiment, which shading level (50% or 75%) offered better protection against bleaching?",
+      "ground_truth_answer": "Heavier shading (75%) offered better protection than lighter shading (50%) in the Ofu experiment.",
+      "ground_truth_chunks": [
+        "The analysis of coral color score as an indicator of stress in the Ofu experiment, showed that both levels of shading were protective against bleaching in conditions of cumulative thermal stress for all species, but were particularly beneficial for the most sensitive ones: *A. muricata* and *P. cylindrica*.",
+        "Heavier shading (75%) offered better protection than lighter shading (50%) in this experiment, possibly because of the intense light"
+      ]
+    }
+  ],
+  "failures": []
+}

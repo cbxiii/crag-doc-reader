@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment.md",
+  "source_sha256": "0d9a714163e2320af56e4e6f16c71500efd3e4753c98de588483fc905e6b5e70",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "743588d26210fa5114bba848",
+      "paper_id": "1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment",
+      "source_path": "output/1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment.md",
+      "section_heading": "Abstract",
+      "section_start_line": 28,
+      "section_end_line": 37,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where in Fagatele Bay were corals recovering most rapidly?",
+      "ground_truth_answer": "In deep water at the central region of the bay.",
+      "ground_truth_chunks": [
+        "corals were recovering most rapidly in deep water at the central region of the bay.",
+        "Therefore, we found more corals in shallow water, but a greater recovery rate in deeper water."
+      ]
+    },
+    {
+      "record_id": "a3f4fb7e34a137be20cff3ca",
+      "paper_id": "1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment",
+      "source_path": "output/1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 38,
+      "section_end_line": 45,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many permanent transects were established in Fagatele Bay and to what depth did they run?",
+      "ground_truth_answer": "Six permanent transects were established, and they ran to a depth of 12 m.",
+      "ground_truth_chunks": [
+        "In order that changes in the coral and fish communities could be monitored along the transects in Fagatele Bay, a series of permanent transect markers were established.",
+        "Six transects were established in Fagatele Bay at approximately even intervals between the east and west borders of the marine sanctuary, running perpendicular to shore from the reef margin to a depth of 12 m."
+      ]
+    },
+    {
+      "record_id": "06330f22071758e5601c38b3",
+      "paper_id": "1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment",
+      "source_path": "output/1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment.md",
+      "section_heading": "METHODS",
+      "section_start_line": 46,
+      "section_end_line": 63,
+      "model": "openai:gpt-4o-mini",
+      "question": "What survey method was used to measure coral abundances in the METHODS section?",
+      "ground_truth_answer": "The corals were surveyed using the point-quarter method.",
+      "ground_truth_chunks": [
+        "The corals were surveyed using the point-quarter method as described in detail in the previous report on Fagatele Bay National Marine Sanctuary (Birkeland et al. 1987).",
+        "An advantage of the point-quarter method over the quadrat method is that when the individual colonies are scattered widely, the point-quarter method allows the investigator to measure precisely the abundances of the corals whereas only zeroes are collected by the quadrat method."
+      ]
+    },
+    {
+      "record_id": "c0d173b294bfcf9e2199a4e3",
+      "paper_id": "1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment",
+      "source_path": "output/1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment.md",
+      "section_heading": "RESULTS",
+      "section_start_line": 64,
+      "section_end_line": 77,
+      "model": "openai:gpt-4o-mini",
+      "question": "Were any holothuroids or Acanthaster planci observed in Fagatele Bay during the 1988 surveys?",
+      "ground_truth_answer": "No. In the combined (Birkeland, Randall, Amesbury) 33 man-days of field-work in 1988, not a single holothuroid or Acanthaster planci was observed.",
+      "ground_truth_chunks": [
+        "Because of the remarkable lack of holothuroids in our detailed survey of 1985 (1140-m<sup>2</sup> of transects plus hours of searching outside the transects), we were constantly on the look-out and made a determined effort to find any holothuroids in Fagatele Bay in 1988.",
+        "In our (Birkeland, Randall, Amesbury) combined (33 mandays) of field-work, not a single holothuroid or <u>Acanthaster planci</u> was observed."
+      ]
+    },
+    {
+      "record_id": "776ea649cc656588109f9ab8",
+      "paper_id": "1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment",
+      "source_path": "output/1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 78,
+      "section_end_line": 101,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which site showed a spectacular decrease in coral abundance and an increase in mean colony size between 1982 and 1988?",
+      "ground_truth_answer": "The coral community near the Rainmaker Hotel.",
+      "ground_truth_chunks": [
+        "The coral community near the Rainmaker Hotel showed opposite trends to all the other communities around the island (Tables 6, 7, and 8). There has been a spectacular decrease in coral abundance (11.58 colonies m<sup>-2</sup> in 1982, 0.84 in 1985, and 0.25 in 1988), a decrease in coral cover (27.7% in 1982, 19.2% in 1985, and 18.7% in 1988), and a major increase in mean colony size (12 cm diameter in 1982, 22 cm in 1985, and 41 cm in 1988).",
+        "The cause might be pollution and sedimentation. Sedimentation differentially affects small colonies and inhibits recruitment. Therefore, what might be happening is that the larger colonies are surviving, but small colonies are dying and there has been essentially no recruitment. The coral community at the Rainmaker Hotel is slowly dying, while the communities at other sites around Tutuila, including Fagatele Bay, are recovering."
+      ]
+    },
+    {
+      "record_id": "0fb1e651a49cd89132e0ef5e",
+      "paper_id": "1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment",
+      "source_path": "output/1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 1508,
+      "section_end_line": 1514,
+      "model": "openai:gpt-4o-mini",
+      "question": "In which month and year was Fagatele Bay officially designated a Marine Sanctuary?",
+      "ground_truth_answer": "April 1985.",
+      "ground_truth_chunks": [
+        "Fagatele Bay on the island of Tutuila, American Samoa, was officially designated a Marine Sanctuary by the National Oceanographic and Atmospheric Administration of the U. S. Department of Commerce in April 1985."
+      ]
+    },
+    {
+      "record_id": "9be1756076614532cfdab702",
+      "paper_id": "1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment",
+      "source_path": "output/1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment.md",
+      "section_heading": "MATERIALS AND METHODS",
+      "section_start_line": 1515,
+      "section_end_line": 1528,
+      "model": "openai:gpt-4o-mini",
+      "question": "What distance from the transect line was surveyed during the fish censuses?",
+      "ground_truth_answer": "Fishes observed within one meter of either side of the transect line (a 2-m corridor) were surveyed.",
+      "ground_truth_chunks": [
+        "The transect censuses, in each case, were carried out by a diver using scuba gear who swam the length of the transect line (30 or 100 m, as appropriate) enumerating fishes by species which were observed within one meter of either side of the transect line.",
+        "The differences may be attributed to different estimates of the width of the 2-m corridor which was censused along the transect line or by different lengths of time spent by the two investigators in running the line."
+      ]
+    },
+    {
+      "record_id": "f7d7e61d7ef9ad792390e5e5",
+      "paper_id": "1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment",
+      "source_path": "output/1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment.md",
+      "section_heading": "Assessment of Fish Communities in Fagatele Bay",
+      "section_start_line": 1531,
+      "section_end_line": 1538,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the range of fish density per 30-meter transect recorded in the Fagatele Bay surveys?",
+      "ground_truth_answer": "Fish density ranged from 25 to 119 per transect (60  $\\rm m^2$ ).",
+      "ground_truth_chunks": [
+        "A total of twenty 30-meter transects were censused at the six survey sites in Fagatele Bay (Table 1).",
+        "Fish density ranged from 25 to 119 per transect (60  $\\rm m^2$ ), and the number of species per transect location ranged from 17 to 56."
+      ]
+    },
+    {
+      "record_id": "e77edfd11b8356545b5f3a51",
+      "paper_id": "1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment",
+      "source_path": "output/1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment.md",
+      "section_heading": "Recovery from Acanthaster Damage",
+      "section_start_line": 1539,
+      "section_end_line": 1552,
+      "model": "openai:gpt-4o-mini",
+      "question": "By 1985, what proportion of the fish communities at Fagatele Bay and Cape Larsen were herbivorous fishes?",
+      "ground_truth_answer": "They comprised 35.5 to 39.2% of the fish communities.",
+      "ground_truth_chunks": [
+        "Herbivorous fishes at Fagatele and Cape Larsen increased greatly in abundance to comprise 35.5 to 39.2% of the fish communities in 1985; at Sita the increase of herbivorous fishes was considerably less."
+      ]
+    },
+    {
+      "record_id": "9a04a61602b23edbcbe742cb",
+      "paper_id": "1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment",
+      "source_path": "output/1988  - Birkeland et al. 1994 Coral and reef-fish assessment/1988  - Birkeland et al. 1994 Coral and reef-fish assessment.md",
+      "section_heading": "Other Surveys Around Tutuila",
+      "section_start_line": 1553,
+      "section_end_line": 1558,
+      "model": "openai:gpt-4o-mini",
+      "question": "At how many additional sites around Tutuila were fish surveys carried out along 30-m transects?",
+      "ground_truth_answer": "Twelve additional sites.",
+      "ground_truth_chunks": [
+        "Fish surveys were carried out along 30-m transects at twelve additional sites around Tutuila (Table 4)."
+      ]
+    }
+  ],
+  "failures": []
+}

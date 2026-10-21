@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy.md",
+  "source_sha256": "95eef729de4c2f8c18fc1de2ece58c8bc5b59b4b2abd380ac72304e726c20345",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "57582e647cfe41eb7077db6a",
+      "paper_id": "Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy",
+      "source_path": "output/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy.md",
+      "section_heading": "SUMMARY",
+      "section_start_line": 60,
+      "section_end_line": 71,
+      "model": "openai:gpt-4o-mini",
+      "question": "What policy action does the study recommend regarding SCUBA spearfishing?",
+      "ground_truth_answer": "it is recommendation of this study that the use of SCUBA spearfishing be outlawed.",
+      "ground_truth_chunks": [
+        "that SCUBA spearfishing accounts for up to an estimated 89% of the total annual yield,",
+        "it is recommendation of this study that the use of SCUBA spearfishing be outlawed."
+      ]
+    },
+    {
+      "record_id": "d22d9d2a9f07c500ddea2177",
+      "paper_id": "Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy",
+      "source_path": "output/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy.md",
+      "section_heading": "Characterization of the parrotfish community",
+      "section_start_line": 124,
+      "section_end_line": 135,
+      "model": "openai:gpt-4o-mini",
+      "question": "What transect size and replication were used to count parrotfishes at each depth within each site?",
+      "ground_truth_answer": "Five replicate 50 x 5m transects at each depth within each site, a total of 2500 m^2 per depth.",
+      "ground_truth_chunks": [
+        "Parrotfishes were counted using visual census techniques along five replicate 50 x 5m transects at each depth within each site, a total of 2500 m<sup>2</sup> per depth."
+      ]
+    },
+    {
+      "record_id": "0537b3db3ca04f4ddb17907c",
+      "paper_id": "Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy",
+      "source_path": "output/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy.md",
+      "section_heading": "Biological characteristics of the catch",
+      "section_start_line": 146,
+      "section_end_line": 159,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many parrotfish were included in the length-frequency analysis for February - March 1997?",
+      "ground_truth_answer": "2641 fish.",
+      "ground_truth_chunks": [
+        "Length-frequencies were calculated for 10 of the most abundant species (initial phase, female and male fish combined) in the catch for 3 sampling periods; February - March 1997 (2641 fish), September - October 1997 (2027 fish), and May 1998 (2074 fish)."
+      ]
+    },
+    {
+      "record_id": "93f8b00c1193cfecadfd7bb4",
+      "paper_id": "Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy",
+      "source_path": "output/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy.md",
+      "section_heading": "Age validation studies",
+      "section_start_line": 229,
+      "section_end_line": 232,
+      "model": "openai:gpt-4o-mini",
+      "question": "What dosage of oxytetracycline was injected into the fish during age validation?",
+      "ground_truth_answer": "50 mg kg^-1 body weight.",
+      "ground_truth_chunks": [
+        "Following a 2 week acclimatization period each fish was injected in the visceral cavity with a solution of oxytetracycline and saline with a dosage of 50 mg kg<sup>-1</sup> body weight (McFarlane & Beamish, 1987)."
+      ]
+    },
+    {
+      "record_id": "d30dd4c48cea3b777588a412",
+      "paper_id": "Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy",
+      "source_path": "output/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy.md",
+      "section_heading": "Species composition",
+      "section_start_line": 281,
+      "section_end_line": 290,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which parrotfish species was most common in spearfish catches during the study?",
+      "ground_truth_answer": "Scarus pyrrhurus.",
+      "ground_truth_chunks": [
+        "The most common species of parrotfish in spearfish catches was *Scarus pyrrhurus* followed by *S. rubroviolaceous*, *S. oviceps*, *S. forsteni*, *Chlorurus sordidus* (Fig. 7, see appendix II for species identification)."
+      ]
+    },
+    {
+      "record_id": "706cb4d73140481c0e47fb3f",
+      "paper_id": "Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy",
+      "source_path": "output/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy.md",
+      "section_heading": "Spatial Distribution of Effort",
+      "section_start_line": 299,
+      "section_end_line": 304,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which side of the island was visited the majority of the time over the three sampling periods?",
+      "ground_truth_answer": "The south side of the island.",
+      "ground_truth_chunks": [
+        "A breakdown of the frequency of visitation by area shows that the south side of the island was visited the majority of the time over the duration of the 3 sampling periods (Fig. 12)."
+      ]
+    },
+    {
+      "record_id": "fac9a40e8f9e71d1f686d9c4",
+      "paper_id": "Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy",
+      "source_path": "output/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy.md",
+      "section_heading": "Size-at-age, growth and mortality",
+      "section_start_line": 379,
+      "section_end_line": 408,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the von Bertalanffy growth function parameters (L∞, K, t0) estimated for Chlorurus gibbus?",
+      "ground_truth_answer": "L∞ = 46.8 cm, K = 0.427, t0 = 0.123 (r² = 0.948).",
+      "ground_truth_chunks": [
+        "Maximum size of *C. gibbus* taken in the fishery (S.L. = 46.7 cm) agreed closely with  $L_{\\infty}$  estimated from the von Bertalanffy growth function ( $L_{\\infty}$  = 46.8 cm, K = 0.427,  $t_0$  = 0.123,  $r^2$  = 0.948) fitted to size-at-age data."
+      ]
+    },
+    {
+      "record_id": "c3b7ee69bc4019de78b13d67",
+      "paper_id": "Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy",
+      "source_path": "output/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy.md",
+      "section_heading": "Biological characteristics of the catch",
+      "section_start_line": 451,
+      "section_end_line": 468,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the parrotfish standing crop did the combined subsistence (1995) and estimated artisanal (1997) catch represent?",
+      "ground_truth_answer": "18.7% of the standing crop.",
+      "ground_truth_chunks": [
+        "The total standing crop of parrotfish was estimated by visual census in 1997 to be 189 mt. If the subsistence catch for 1995 of 4.8 mt is carried through (data is not available for 1997) and added to the estimated total artisanal catch of 30.6 mt in 1997, the resulting total represents 18.7% of the standing crop.",
+        "This percentage of standing crop can be considered as 'heavy' when compared with fishing pressure on Philippine reefs (Russ & St John, 1988)."
+      ]
+    },
+    {
+      "record_id": "8b8cb10db42fc6cbda2f724e",
+      "paper_id": "Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy",
+      "source_path": "output/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy.md",
+      "section_heading": "CONCLUSION",
+      "section_start_line": 493,
+      "section_end_line": 496,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two parrotfish species are identified as most likely to be overfished in the study?",
+      "ground_truth_answer": "*C. gibbus* and *S. rubroviolaceous*.",
+      "ground_truth_chunks": [
+        "The two species most likely to be over fished are *C. gibbus* and *S. rubroviolaceous* for the following reasons.",
+        "Firstly, the populations of these species are in decline."
+      ]
+    },
+    {
+      "record_id": "cb1e3e7eb7f400bb75453db3",
+      "paper_id": "Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy",
+      "source_path": "output/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy/Page-1998-Bio.artisanal.catch.parrotfishes.AS-Copy.md",
+      "section_heading": "Scarus pyrrhurus Fuga-si'umu",
+      "section_start_line": 637,
+      "section_end_line": 856,
+      "model": "openai:gpt-4o-mini",
+      "question": "What feature distinguishes initial phase Scarus pyrrhurus from other species' initial phases?",
+      "ground_truth_answer": "Initial phase Scarus pyrrhurus are easily distinguishable by a red/orange caudal fin; pale blotches on this individual are not seen in freshly caught or live fish.",
+      "ground_truth_chunks": [
+        "Initial phase; these fish are easily distinguishable from other species initial phases by a red/orange caudal fin; pale blotches on this individual are not seen in freshly caught or live fish."
+      ]
+    }
+  ],
+  "failures": []
+}

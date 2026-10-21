@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System.md",
+  "source_sha256": "eeaea9faeba3b3ffe0f3b078637d542bfe5509558ab08666327da623c05c1da3",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "a5dd92dab7f55bc29a7b53a0",
+      "paper_id": "Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System",
+      "source_path": "output/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 53,
+      "section_end_line": 72,
+      "model": "openai:gpt-4o-mini",
+      "question": "Since 2000, what percentage of American Samoa's coral reef area is encompassed by MPAs, and what percentage is in no-take reserves?",
+      "ground_truth_answer": "Approximately 25 percent of coral reef area is encompassed by MPAs, and nearly 7 percent of reefs are in no-take reserves.",
+      "ground_truth_chunks": [
+        "Marine protected areas (MPAs) are a primary marine conservation strategy in the **US** territory of American Samoa, which has a goal to protect 20 percent of its coral reef area under \"no-take\" MPAs.",
+        "Since 2000, total MPA coverage in American Samoa has expanded to encompass approximately **25** percent of coral reef area in the territory, with nearly **7** percent of reefs in notake reserves."
+      ]
+    },
+    {
+      "record_id": "570f63086da5cd2cf574e18e",
+      "paper_id": "Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System",
+      "source_path": "output/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System.md",
+      "section_heading": "3. The governance context for marine resource management in American Samoa",
+      "section_start_line": 127,
+      "section_end_line": 150,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who is eligible to serve in the American Samoa legislature?",
+      "ground_truth_answer": "Only individuals holding matai title can serve in the legislature.",
+      "ground_truth_chunks": [
+        "representative structure of the **US** system with modifications appropriate to Samoan tradition. So only individuals holding *matai<sup>2</sup><sup>8</sup>*title can serve in the legislature, and villages function under a system of chiefs and a village council made of *matai-titled* representatives."
+      ]
+    },
+    {
+      "record_id": "6c560e38bc4421707a820442",
+      "paper_id": "Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System",
+      "source_path": "output/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System.md",
+      "section_heading": "4. American Samoa's system of MPAs",
+      "section_start_line": 151,
+      "section_end_line": 168,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to section 4, what area, percentage of reef area, and number of sites does the American Samoa MPA system oversee?",
+      "ground_truth_answer": "The American Samoa MPA system oversees approximately 35,203 km<sup>2</sup>, or about 25 percent of the territory's approximately 117 km<sup>2</sup> of reef area, across 27 sites.",
+      "ground_truth_chunks": [
+        "As a result, the American Samoa MPA system is now composed of federal, territorial, and villagebased management bodies together overseeing approximately 35,203 km<sup>2</sup>, or about 25 percent of the territory's approximately 117 km<sup>2</sup> of reef area, <sup>34</sup> across 27 sites. <sup>35</sup>"
+      ]
+    },
+    {
+      "record_id": "756a0f07dd65bdd3aade09b7",
+      "paper_id": "Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System",
+      "source_path": "output/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System.md",
+      "section_heading": "4.1.2 National Park ofAmerican Samoa (NPSA)",
+      "section_start_line": 193,
+      "section_end_line": 244,
+      "model": "openai:gpt-4o-mini",
+      "question": "For how long are the park land leases for the National Park of American Samoa village waters, and when did they begin?",
+      "ground_truth_answer": "They are leased for 50 years, beginning in 1988.",
+      "ground_truth_chunks": [
+        "Collectively, these sites include waters of five villages that are under lease for a period of **50** years starting in **1988.39**",
+        "<sup>39</sup>An Act to Establish the National Park of American Samoa, Pub. L. **No.100-571, §** 2,102 Stat.2879 **(1988).**"
+      ]
+    },
+    {
+      "record_id": "35b455b5cd9c304f0cd07747",
+      "paper_id": "Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System",
+      "source_path": "output/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System.md",
+      "section_heading": "4.2 Territorial managed areas",
+      "section_start_line": 245,
+      "section_end_line": 248,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which territorial agencies designated marine management sites in American Samoa, and what specific sites/types did they designate?",
+      "ground_truth_answer": "Three Special Management Areas (SMAs) in estuarine habitat — inner Pago Pago Harbor, Pala Lagoon, and Leone SMA — are under the jurisdiction of ASDOC, and the Office of Parks and Recreation (PR) designated a marine park on Ofu Island.",
+      "ground_truth_chunks": [
+        "Three Special Management Areas (SMAs) exist in estuarine habitat and are under the jurisdiction of **ASDOC.** They include inner Pago Pago Harbor and two of the small remaining mangrove areas on Tutuila, Pala Lagoon, and Leone **SMA. <sup>4</sup> 1**",
+        "Additionally, the Office of Parks and Recreation (PR) designated a marine park on Ofu Island.4 2"
+      ]
+    },
+    {
+      "record_id": "141a605cde3d64513b439f36",
+      "paper_id": "Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System",
+      "source_path": "output/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System.md",
+      "section_heading": "4.4 Informal managed areas",
+      "section_start_line": 269,
+      "section_end_line": 272,
+      "model": "openai:gpt-4o-mini",
+      "question": "Since what year has the owner of Tisa's Barefoot Bar enforced local fishing restrictions in Alega Bay?",
+      "ground_truth_answer": "Since 1989.",
+      "ground_truth_chunks": [
+        "In Alega Bay, for example, the owner of the local beach and Tisa's Barefoot Bar has tenure over village waterside property and has enforced local fishing restrictions since the business's opening in **1989.**"
+      ]
+    },
+    {
+      "record_id": "6e5781d8741ea1f7dff7e572",
+      "paper_id": "Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System",
+      "source_path": "output/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System.md",
+      "section_heading": "5. Governance strengths and challenges in meeting MPA network goals",
+      "section_start_line": 273,
+      "section_end_line": 276,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of coral reef area in the territory is within no-take reserves?",
+      "ground_truth_answer": "Nearly 7 percent of coral reef area in the territory is within no-take reserves.",
+      "ground_truth_chunks": [
+        "MPAs now cover approximately **25** percent of coral reef area in the territory, with nearly **7** percent of coral reef area within no-take reserves.",
+        "While this is an impressive accomplishment when compared to global MPA statistics, the territory still falls far short of its stated goal of 20 percent of coral reef area under no-take MPAs.4 6"
+      ]
+    },
+    {
+      "record_id": "33be2a55c6420b8649cbcfc4",
+      "paper_id": "Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System",
+      "source_path": "output/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System.md",
+      "section_heading": "5.2 Compliance and enforcement",
+      "section_start_line": 289,
+      "section_end_line": 300,
+      "model": "openai:gpt-4o-mini",
+      "question": "What enforcement action did Fagamalo village officials take in 2005 and what charges did they face?",
+      "ground_truth_answer": "In 2005 Fagamalo village officials confiscated a vessel fishing in their no-take MPA, leaving two poachers stranded at sea, and were charged with attempted murder and abandonment.",
+      "ground_truth_chunks": [
+        "In **2005,** for example, the village of Fagamalo encountered difficulties when residents tried to enforce village regulations prohibiting fishing under the CFMP. Village officials confiscated a vessel fishing in their no-take MPA, leaving two poachers stranded at sea.<sup>49</sup>",
+        "The Fagamalo officials were charged with attempted murder and abandonment for endangering the lives of the fishermen, but their defense was that they were acting in accordance with village regulations formalized under an agreement between the village and DMWR. The acting judge on the case noted that \"[w] hile village regulations and conditions regarding fishery management are statutorily permitted, we have serious reservations about the legality of having village members impose criminal-type sanctions (for example, imposition of fines, impounding vessels, making arrests) outside of the American Samoa judicial system.\"so This prompted DMWR to develop legislation enabling village-level enforcement through local deputies,<sup>5</sup>and, since then, the CFMP program has had authority to officially deputize community members at all of their sites."
+      ]
+    },
+    {
+      "record_id": "33c887854be033ef359f1d1a",
+      "paper_id": "Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System",
+      "source_path": "output/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System.md",
+      "section_heading": "5.3 Challenges in agency coordination and leadership",
+      "section_start_line": 301,
+      "section_end_line": 324,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, why is CRAG limited in its ability to coordinate MPA implementation in American Samoa?",
+      "ground_truth_answer": "Because CRAG's leadership is composed of governor-appointed agency directors so its focus is highly dependent on the incumbent territorial administration, it has no directive power of its own, and its success relies on cultivating unity and shared goals among agency directors—a process that adds complexity and can create conflict.",
+      "ground_truth_chunks": [
+        "An independent body, CRAG, is in place to coordinate federal, territorial, and local units, and it receives yearly **US** federal funding for distribution among local institutions to support efforts to protect coral reefs in the territory. But since CRAG leadership includes the governorappointed directors of each member agency, the group's focus is **highly** dependent on the priorities of the incumbent territorial administration. CRAG, as a coordinating body, has no directive power of its own, so its success relies on cultivating unity and shared goals amongst agency directors, a process that **by** its nature adds complexity to-and sometimes creates conflict in-MPA governance.",
+        "Leadership, or a lack thereof, at multiple levels has also played a strong role in fostering or hindering success of the territory's current MPA system. CRAG's influence as a coordinating body waxes and wanes with the shifting priorities of the territory's executive leadership."
+      ]
+    },
+    {
+      "record_id": "24c425cfd90533f38eca6741",
+      "paper_id": "Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System",
+      "source_path": "output/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System/Raynal, Levine, Comeros-Raynal 2016 American Samoa_s Marine Protected Area System.md",
+      "section_heading": "6. Conclusion: Opportunities and challenges in American Samoa's system of MPAs",
+      "section_start_line": 341,
+      "section_end_line": 353,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the main obstacles to MPA planning and implementation in American Samoa's system of MPAs?",
+      "ground_truth_answer": "The main obstacles are lack of coordination across MPAs and confusing or disjointed institutional relationships, along with changing priorities of leadership at the territorial, agency, and village levels.",
+      "ground_truth_chunks": [
+        "While the goals of American Samoa's MPA system are clear for the most part, institutional relationships are, in many cases, confusing or disjointed.",
+        "The lack of coordination across MPAs is an obstacle to MPA planning and implementation, as are the changing priorities of leadership at the territorial, agency, and village levels."
+      ]
+    }
+  ],
+  "failures": []
+}

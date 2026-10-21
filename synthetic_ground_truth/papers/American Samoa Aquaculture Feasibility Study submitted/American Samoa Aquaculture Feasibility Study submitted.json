@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "source_path": "output/American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted.md",
+  "source_sha256": "9499428bb1555b3c7d4c74f6fa5d09cebb11c11fcc57bb2e4a4fb66eaf186933",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "d8208f9386c88840d4b0b493",
+      "paper_id": "American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted",
+      "source_path": "output/American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted.md",
+      "section_heading": "Background and Purpose",
+      "section_start_line": 21,
+      "section_end_line": 28,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who funded the feasibility study of aquaculture opportunities for American Samoa?",
+      "ground_truth_answer": "The American Samoa Coast Zone Management Program (ASCZMP) of the Department of Commerce (DOC).",
+      "ground_truth_chunks": [
+        "The American Samoa Coast Zone Management Program (ASCZMP) of the Department of Commerce (DOC) funded a feasibility study of aquaculture opportunities for American Samoa in recognition of the economic potential of this activity."
+      ]
+    },
+    {
+      "record_id": "20544954e2f4e30394b6ea40",
+      "paper_id": "American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted",
+      "source_path": "output/American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted.md",
+      "section_heading": "Findings and recommendations",
+      "section_start_line": 155,
+      "section_end_line": 180,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the 'Findings and recommendations' section, how long of dedicated technical assistance is required for each aquaculture project?",
+      "ground_truth_answer": "A minimum of three to five years of dedicated technical assistance is required (and generally longer-term support is needed).",
+      "ground_truth_chunks": [
+        "- Dedicated technical assistance for a minimum of three to five years for each project is required. Generally longer-term support is needed. This assistance is best delivered by local extension agents that have sufficient resources and expertise to render technical support. Local extension agents can be supported by non-resident specialists as needed. For example, there are researchers and extension specialists who work with all of the",
+        "- The government must be willing to provide three to five years of technical support as well as some of the initial financing, although contributions from stakeholders (e.g. part of the financing, labor) should be required in order to avoid over dependence on government financial support."
+      ]
+    },
+    {
+      "record_id": "6371590aa1faf27f64dc0255",
+      "paper_id": "American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted",
+      "source_path": "output/American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted.md",
+      "section_heading": "SWOT ANALYSIS FOR AQUACULTURE IN AMERICAN SAMOA",
+      "section_start_line": 181,
+      "section_end_line": 213,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which factors that caused failure for past projects still exist according to the SWOT analysis?",
+      "ground_truth_answer": "Lack of compliance with regulations; Theft and poaching; Scarcity of financing.",
+      "ground_truth_chunks": [
+        "•<br>Lack of compliance",
+        "•<br>Theft and poaching",
+        "•<br>Scarcity of financing"
+      ]
+    },
+    {
+      "record_id": "5b9da11d53b28b0917058e8d",
+      "paper_id": "American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted",
+      "source_path": "output/American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted.md",
+      "section_heading": "Tilapia",
+      "section_start_line": 228,
+      "section_end_line": 252,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of American Samoa's 2017 imports did non-fillet frozen fish represent?",
+      "ground_truth_answer": "14.8%.",
+      "ground_truth_chunks": [
+        "Non-fillet frozen fish represented 14.8% of \\$123M AS imports in 2017."
+      ]
+    },
+    {
+      "record_id": "96448f9e270c86f5092f8566",
+      "paper_id": "American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted",
+      "source_path": "output/American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted.md",
+      "section_heading": "Seaweed (limu)",
+      "section_start_line": 253,
+      "section_end_line": 276,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which three seaweed species are reported as consumed in American Samoa?",
+      "ground_truth_answer": "Caulerpa racemosa; Caulerpa spp.; and Halymenia durvillei.",
+      "ground_truth_chunks": [
+        "A review of the literature finds that three species are consumed in American Samoa: *Caulerpa racemosa*; *Caulerpa* spp. and *Halymenia durvillei.*",
+        "The Samoan name for *Caulerpa* (Seagrapes in English) is reported as *limu fuafua* and *H. durvillei* may be *limu mumu* (Skelton 2003)."
+      ]
+    },
+    {
+      "record_id": "424abcdc0113f5994e65d2ae",
+      "paper_id": "American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted",
+      "source_path": "output/American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted.md",
+      "section_heading": "Other bivalves (oysters, clams, mussels)",
+      "section_start_line": 319,
+      "section_end_line": 356,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are two ways juvenile bivalves can be obtained for culture without a local hatchery?",
+      "ground_truth_answer": "Import Pacific Oyster spat from a Hawaii hatchery, and collect wild spat (spat collection).",
+      "ground_truth_chunks": [
+        "There are two ways in which juvenile bivalves can be obtained for culture without the need for a local hatchery.",
+        "One immediate possibility is to import a limited number of Pacific Oyster spat (juveniles) from a Hawaii hatchery to test in a few sites such as Masefau.",
+        "A second low-cost option which does not involve much technology is wild spat collection."
+      ]
+    },
+    {
+      "record_id": "195d4756cdc0c02141fb4d94",
+      "paper_id": "American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted",
+      "source_path": "output/American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted.md",
+      "section_heading": "Coral and live rock",
+      "section_start_line": 357,
+      "section_end_line": 384,
+      "model": "openai:gpt-4o-mini",
+      "question": "How is live rock produced for seawater aquaria according to the section?",
+      "ground_truth_answer": "Live rock is produced by placing suitable substrate (\"base rock\") in the aquatic environment and allowing it to be naturally colonized by marine organisms (e.g., coralline algae, coral, small animals). The substrate may be natural or artificial and is usually lightweight (old bleached coral or cement mixtures are options); care must be taken to place substrate where it will not impact reefs and to ensure harvested live rock is actually cultured. A pilot is recommended to test sites for the most attractive colonization.",
+      "ground_truth_chunks": [
+        "Live rock is a product used in seawater aquaria and is in high demand since most seawater aquaria require many pounds of it. It is used in aquaria as a biological filter, to introduce new organisms and for decoration. Live rock is produced by putting suitable substrate \"base rock\" in the aquatic environment and allowing it to be colonized naturally by marine organisms such as coralline algae, coral and small animals. The substrate can be natural or artificial, but usually attempts are made to use a light weight substrate to reduce shipping costs. Old, bleached coral can be used as well as mixtures of cement and other materials. As long as the substrate is placed in areas where it will not impact the reef, this can be a highly sustainable activity. Care must also be taken that the live rock harvested is actually cultured, and that live coral is not being harvested under the guise of producing live rock.",
+        "To start live rock production, a pilot would be needed to test different sites to determine in which area the colonization of the base rock results in the most attractive assortment of organisms."
+      ]
+    },
+    {
+      "record_id": "f65a78d4cfdede78349ee139",
+      "paper_id": "American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted",
+      "source_path": "output/American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted.md",
+      "section_heading": "Marine Fish",
+      "section_start_line": 389,
+      "section_end_line": 412,
+      "model": "openai:gpt-4o-mini",
+      "question": "What alternatives does the section list for obtaining stock for culturing marine or brackish water fish in American Samoa until a local hatchery exists?",
+      "ground_truth_answer": "1) Work with hatcheries in other areas to buy fish fingerlings for stocking; 2) Use capture-based methods to obtain stock for local species (for example, capturing juvenile fish locally).",
+      "ground_truth_chunks": [
+        "Until such a hatchery exists in American Samoa, there are other options for culturing marine or brackish water fish: 1) work with hatcheries in other areas to buy fish fingerlings for stocking; or 2) use capture-based methods to obtain stock for local species.",
+        "A simpler and much less expensive option is to stock aquaculture operations using juvenile fish that are captured locally."
+      ]
+    },
+    {
+      "record_id": "08699224292f7365c071d8a4",
+      "paper_id": "American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted",
+      "source_path": "output/American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted.md",
+      "section_heading": "Education and Extension Capacity",
+      "section_start_line": 413,
+      "section_end_line": 422,
+      "model": "openai:gpt-4o-mini",
+      "question": "What staffing does the section say is needed to advance pilot aquaculture projects or further assessment in American Samoa?",
+      "ground_truth_answer": "At least one highly qualified aquaculture extension agent would need to be hired and placed at one of the agencies.",
+      "ground_truth_chunks": [
+        "One deficit, however, is the lack of dedicated aquaculture extension agents with experience culturing multiple species and with resources to train and assist aquaculture stakeholders.",
+        "In order to advance with either pilot projects or further assessment, at least one highly qualified aquaculture extension agent would need to be hired and placed at one of the agencies."
+      ]
+    },
+    {
+      "record_id": "9c85a2cc8a616bbe88e3cc0a",
+      "paper_id": "American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted",
+      "source_path": "output/American Samoa Aquaculture Feasibility Study submitted/American Samoa Aquaculture Feasibility Study submitted.md",
+      "section_heading": "Summary and next steps",
+      "section_start_line": 431,
+      "section_end_line": 450,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species does the section identify as the most feasible opportunities for small-scale aquaculture development in American Samoa?",
+      "ground_truth_answer": "Tilapia, giant clams, bivalves obtainable through spat collection, seaweed, corals; and marine fish that can be collected from the wild as juveniles or fingerlings could also be considered.",
+      "ground_truth_chunks": [
+        "The most feasible opportunities for small-scale aquaculture development are, by species: tilapia, giant clams, bivalves that can be obtained through spat collection, seaweed and corals.",
+        "Marine fish that can be collected from the wild as juveniles or fingerlings as a source for fish farms could also be considered."
+      ]
+    }
+  ],
+  "failures": []
+}

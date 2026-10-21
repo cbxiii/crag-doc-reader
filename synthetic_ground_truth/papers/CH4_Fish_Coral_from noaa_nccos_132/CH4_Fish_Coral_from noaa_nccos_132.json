@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132.md",
+  "source_sha256": "f3e944a7ba1d5cf030c2e9285e97a0177fcfd57b827dcdbc43ac0432deb29668",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "9967bbbbd692fa85e51e3d65",
+      "paper_id": "CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132",
+      "source_path": "output/CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 5,
+      "section_end_line": 36,
+      "model": "openai:gpt-4o-mini",
+      "question": "What six general groups of variables did the assessment focus on?",
+      "ground_truth_answer": "Percent cover of live coral; morphological variety of corals; community structure or relative abundance of corals; biomass of reef fish; variety of reef fish; and community structure or relative abundance of reef fish.",
+      "ground_truth_chunks": [
+        "We took the approach of using more datasets for greater geographic coverage and information density at the expense of taxonomic resolution. The assessment focused on six general groups of variables: percent cover of live coral, morphological variety of corals, community structure or relative abundance of corals, biomass of reef fish, variety of reef fish, and community structure or relative abundance of reef fish."
+      ]
+    },
+    {
+      "record_id": "3a954e3f952f228b74ade467",
+      "paper_id": "CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132",
+      "source_path": "output/CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132.md",
+      "section_heading": "Coral Reef Status Report",
+      "section_start_line": 81,
+      "section_end_line": 84,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many sites around Tutuila and the Manu'a Islands were surveyed in 1994-95 for the Coral Reef Status Report?",
+      "ground_truth_answer": "28 sites.",
+      "ground_truth_chunks": [
+        "In this study, 28 sites around Tutuila and the Manu'a Islands, 6 sites around Rose Atoll, and 2 sites at Swains Island were surveyed in 1994-95 using visual census techniques (Figure 4.1).",
+        "Sites at Tutuila and Manu'a were resurveyed in 2002."
+      ]
+    },
+    {
+      "record_id": "f93897a07f34b489d6db9bb1",
+      "paper_id": "CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132",
+      "source_path": "output/CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132.md",
+      "section_heading": "Rapid Ecological Assessment",
+      "section_start_line": 93,
+      "section_end_line": 96,
+      "model": "openai:gpt-4o-mini",
+      "question": "What depth strata were used for sampling beginning in 2008 and more comprehensively in 2010?",
+      "ground_truth_answer": "Sampling effort was distributed based on three depth strata: 0-6 m, 6-18 m, and 18-30 m.",
+      "ground_truth_chunks": [
+        "Beginning in 2008, but more comprehensively in 2010, sampling effort was distributed based on the areas of three depth strata (0-6, 6-18 and 18-30 m)."
+      ]
+    },
+    {
+      "record_id": "e2701a88fe15f940c3e63b49",
+      "paper_id": "CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132",
+      "source_path": "output/CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132.md",
+      "section_heading": "Fish Reserves Monitoring",
+      "section_start_line": 107,
+      "section_end_line": 114,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many replicate transects and what length are used to record fish and coral data within each fish reserve?",
+      "ground_truth_answer": "Fish and coral data are recorded using five replicate 50 m transects per reserve.",
+      "ground_truth_chunks": [
+        "Fish and coral data are recorded at 5 replicate 50 m transects that are randomly placed within each reserve."
+      ]
+    },
+    {
+      "record_id": "17875af71cae393ad9bcb1e6",
+      "paper_id": "CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132",
+      "source_path": "output/CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132.md",
+      "section_heading": "Identification of Biogeographic Patterns",
+      "section_start_line": 151,
+      "section_end_line": 156,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were biogeographic regions (\"Bioregions\") identified in this study?",
+      "ground_truth_answer": "Bioregions were identified by (1) visually examining each island for spatial patterns in sites categorized as high, medium, or low to find clusters of similar values, and (2) identifying prominent coastal geomorphology features on either side of those clusters to define physical boundaries. This process was done for all six variables so adjacent regions differ in their relative proportions of high, medium, and low values or coral and fish communities for at least one variable.",
+      "ground_truth_chunks": [
+        "First, each island was visually examined for spatial patterns in the high, medium, and low values of the survey sites with the goal of identifying clusters of similar values.",
+        "Second, prominent features of coastal geomorphology (e.g. points, banks, bays, exposure, and even specific villages) were identified on either side of the clusters with the goal of defining the physical boundaries of each distinct region.",
+        "This process was conducted for all six variables such that adjacent regions differ in their relative proportions of high, medium, and low values or coral and fish communities for at least one variable."
+      ]
+    },
+    {
+      "record_id": "64148c5a0d32199d23fef21b",
+      "paper_id": "CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132",
+      "source_path": "output/CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132.md",
+      "section_heading": "Distribution Of Survey Effort",
+      "section_start_line": 167,
+      "section_end_line": 180,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which island had the greatest number of studies and survey sites, making its results the most robust in the assessment?",
+      "ground_truth_answer": "Tutuila had the greatest number of studies and survey sites, making results for that island the most robust in the assessment.",
+      "ground_truth_chunks": [
+        "By far the greatest number of studies and survey sites occurred around Tutuila for all variables making results for that island the most robust in the assessment.",
+        "For example, an average of 14 survey sites from 4 studies included coral cover data within Bioregions around Tutuila whereas much larger Bioregions around Samoa were represented by an average of only 6 sites from 2 studies."
+      ]
+    },
+    {
+      "record_id": "7401fdb718e83c0d49c2e4b7",
+      "paper_id": "CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132",
+      "source_path": "output/CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132.md",
+      "section_heading": "Coral Richness: Samoa",
+      "section_start_line": 199,
+      "section_end_line": 202,
+      "model": "openai:gpt-4o-mini",
+      "question": "What proportion of Savai'i's coastline was rated as having high coral richness?",
+      "ground_truth_answer": "50% of the coastline.",
+      "ground_truth_chunks": [
+        "Results summarized by island revealed that a very large proportion of Savai'i (50% of the coastline) was rated as having high coral richness compared to Upolu (<25%).",
+        "Coral richness for Samoa overall was rated as high for ~35% of the coastline (Figure 4.4a)."
+      ]
+    },
+    {
+      "record_id": "13eaab174bb43609a112af7c",
+      "paper_id": "CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132",
+      "source_path": "output/CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132.md",
+      "section_heading": "Fish Biomass: Samoa",
+      "section_start_line": 221,
+      "section_end_line": 230,
+      "model": "openai:gpt-4o-mini",
+      "question": "What proportion of Samoa's coastlines were classified as having high fish biomass in surveys?",
+      "ground_truth_answer": "Only approximately 10% of Samoa's coastlines were classified as having high fish biomass.",
+      "ground_truth_chunks": [
+        "Fish biomass in surveys around Samoa overall showed that only ~10% of coastlines were classified as having high biomass with the remainder divided approximately evenly between the low and medium categories (Figure 4.6a).",
+        "A relatively large proportion of Savai'i, ~22% of coastline, had high fish biomass whereas none of Upolu's coast was classified as high."
+      ]
+    },
+    {
+      "record_id": "e49ced6867f92fb3dd1fba18",
+      "paper_id": "CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132",
+      "source_path": "output/CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132.md",
+      "section_heading": "Fish Richness: American Samoa",
+      "section_start_line": 245,
+      "section_end_line": 254,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which island in American Samoa had very few sites classified as high fish richness and nearly half of the remaining sites classified as having low richness?",
+      "ground_truth_answer": "Rose Atoll (Rose; Bioregion 17).",
+      "ground_truth_chunks": [
+        "The exception was Rose Atoll which had very few sites classified as high and nearly half the remaining sites classified as having low richness.",
+        "whereas Rose (Bioregion 17) had only ~5% of values in the high category and nearly 50% in the low category."
+      ]
+    },
+    {
+      "record_id": "a20fd8b18044706d59ae31e9",
+      "paper_id": "CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132",
+      "source_path": "output/CH4_Fish_Coral_from noaa_nccos_132/CH4_Fish_Coral_from noaa_nccos_132.md",
+      "section_heading": "CONCLUSIONS",
+      "section_start_line": 324,
+      "section_end_line": 357,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which islands or regions were identified as notable hotspots for fish and corals using the variables considered in this study?",
+      "ground_truth_answer": "The study identified northern Savai'i; parts of northwestern and southwestern Tutuila; the eastern tip of Tutuila; the Manu'a Island group; and Swains Island as notable hotspots for fish and corals. It also noted smaller site-scale hotspots exist but were not the focus of the study.",
+      "ground_truth_chunks": [
+        "Reef fish and corals are distributed unevenly around the islands of the Samoan Archipelago. Among the most notable hotspots for fish and corals using the variables considered here were northern Savai'i, parts of northwestern and southwestern Tutuila, the eastern tip of Tutuila, the Manu'a Island group, and Swains Island, although many other regions were identified as important for particular variables.",
+        "Smaller hotspots at the scale of individual sites were evident as well (e.g. a site with high coral cover surrounded by many low cover sites) but were not the focus of this study and should be the subject of separate, finer-scale analyses."
+      ]
+    }
+  ],
+  "failures": []
+}

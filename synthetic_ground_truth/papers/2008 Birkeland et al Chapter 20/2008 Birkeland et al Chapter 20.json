@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20.md",
+  "source_sha256": "3887b77f47333664c468ad0a77c2f03a06f72071029173426721cad606ecb009",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "405afbb83e64748c676db4e1",
+      "paper_id": "2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20",
+      "source_path": "output/2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20.md",
+      "section_heading": "20.1 Introduction",
+      "section_start_line": 7,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which bay does the National Marine Sanctuary Program (US Department of Commerce) manage in American Samoa?",
+      "ground_truth_answer": "Fagatele Bay.",
+      "ground_truth_chunks": [
+        "The coral reefs of American Samoa are integrated into a national protected areas system with the National Park of American Samoa (US Department of Interior) managing some coral reefs on the north coast of Tutuila near Vatia and along the shores of southern Ofu , and southeastern Ta'u , while the National Marine Sanctuary Program (US Department of Commerce) manages Fagatele Bay ."
+      ]
+    },
+    {
+      "record_id": "ff1e702f8159253592b8b6bc",
+      "paper_id": "2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20",
+      "source_path": "output/2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20.md",
+      "section_heading": "20.2 Geographic Setting",
+      "section_start_line": 23,
+      "section_end_line": 30,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what rate and in which direction is the Pacific Plate moving that carries the Samoan Islands?",
+      "ground_truth_answer": "About 7 cm/ year from southeast towards the northwest.",
+      "ground_truth_chunks": [
+        "American Samoa is situated in the south Pacific Ocean on the Pacific Plate , the largest of the world's tectonic plates.",
+        "Like other archipelagoes on the Pacific Plate (e.g., Hawaiian, Society, Marquesa, Tuamotu, and Caroline Islands), the Samoan Islands are being carried along the path traveled by the plate, moving from southeast towards the northwest at about 7 cm/ year."
+      ]
+    },
+    {
+      "record_id": "b61baed475f4e7252088fde1",
+      "paper_id": "2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20",
+      "source_path": "output/2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20.md",
+      "section_heading": "20.3 Geologic Setting of American Samoan Coral Reefs",
+      "section_start_line": 31,
+      "section_end_line": 86,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which submarine volcano has been identified as the active Samoan hotspot?",
+      "ground_truth_answer": "Vailulu'u submarine volcano (originally called Rockne volcano, then Fa'afafine).",
+      "ground_truth_chunks": [
+        "However, to the west of Rose atoll is situated Vailulu'u submarine volcano (originally called Rockne volcano, then Fa'afafine; Johnson 1984; Hart et al. 1999), which has been identified as the active Samoan hotspot (Hart et al. 2000) and which is the true southeastern extreme of the Samoan chain.",
+        "American Samoa is situated in the Samoan Chain, a linear hotspot trace originating at Vailulu'u Seamount (the active hotspot) and extending through the Manu'a group (Ofu , Olosega and Ta'u ) to Tutuila ."
+      ]
+    },
+    {
+      "record_id": "fcd9bffe756e0c1b8ab4c842",
+      "paper_id": "2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20",
+      "source_path": "output/2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20.md",
+      "section_heading": "20.5 History of Biological Research",
+      "section_start_line": 105,
+      "section_end_line": 138,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which hermatypic alcyonacean species did Cary's reef cores at Utulei show formed a major portion of the 40 m thick reef structure?",
+      "ground_truth_answer": "The compacted spicules of *Sinularia polydactyla* (presumably Cary's *Sclerophytum densum*).",
+      "ground_truth_chunks": [
+        "Alcyonaceans were prevalent along Cary's transects and 75% of the reef flat pavement was composed of compacted spicules deposited by the hermatypic alcyonaceans.",
+        "*Sinularia polydactyla* (Fig. 20.12a) is a major hermatypic reef-building species of soft coral in some locations in the Pacific, and Cary's reef cores at Utulei showed that the compacted spicules of *S. polydactyla* (presumably Cary's *Sclerophytum densum*) formed a major portion of the 40 m thick reef structure."
+      ]
+    },
+    {
+      "record_id": "393e7d8f8c4a58401bddfa28",
+      "paper_id": "2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20",
+      "source_path": "output/2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20.md",
+      "section_heading": "20.6 Biodiversity",
+      "section_start_line": 139,
+      "section_end_line": 164,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the reported and adjusted numbers of scleractinian coral species names in the transect survey technical reports?",
+      "ground_truth_answer": "The reports listed 337 scleractinian coral species names, which were reduced to 329 after removing synonymies and unidentified species.",
+      "ground_truth_chunks": [
+        "The total number of scleractinian coral species names in the technical reports of the transect surveys to date is 337, but removal of synonymies and unidentified species reduce the number of names to 329."
+      ]
+    },
+    {
+      "record_id": "4d0ff73ad5d14ffb9ecd3e0a",
+      "paper_id": "2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20",
+      "source_path": "output/2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20.md",
+      "section_heading": "20.7 Zonation and Community Patterns",
+      "section_start_line": 165,
+      "section_end_line": 174,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coast of Tutuila had significantly more cover of crustose coralline algae?",
+      "ground_truth_answer": "The south coast of Tutuila had significantly more cover of crustose coralline algae.",
+      "ground_truth_chunks": [
+        "Fenner (2006) and Sabater and Tofaeono (2006) found significantly more cover of crustose coralline algae on the south coast of Tutuila than on the north coast and conversely, filamentous algae was more prevalent on the north coast."
+      ]
+    },
+    {
+      "record_id": "2dc5e5e18f07c7cb71974bf1",
+      "paper_id": "2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20",
+      "source_path": "output/2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20.md",
+      "section_heading": "20.8 Effects of Human Activities and Conservation Issues",
+      "section_start_line": 175,
+      "section_end_line": 178,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did Whaylen and Fenner (2006) find a significant correlation between human activities and living coral cover at the 35 sites they assessed on Tutuila?",
+      "ground_truth_answer": "No — they found no significant correlation.",
+      "ground_truth_chunks": [
+        "Whaylen and Fenner (2006) assessed the correlations between human activities and living coral cover at 35 sites from the combined data from their own surveys and the surveys of Sabater and Tofaeono (2006) and found no significant correlation.",
+        "Likewise, they did not find a correlation between human activities and either crustose coralline algal cover or filamentous algal cover."
+      ]
+    },
+    {
+      "record_id": "2fa2232e8a7b8a8e3e4610e2",
+      "paper_id": "2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20",
+      "source_path": "output/2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20.md",
+      "section_heading": "20.8.2 Fishing Pressure",
+      "section_start_line": 189,
+      "section_end_line": 228,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the average biomass of fishes on American Samoan reefs reported in section 20.8.2 (give values in g/m2 and mt/km2)?",
+      "ground_truth_answer": "The biomass averaged 56 g/m2 (range 29–114 g/m2), equivalent to 56 mt/km2 (0.56 mt/ha); this is much lower than typical western tropical Atlantic (160–200 mt/km2) and Pacific (93–239 mt/km2) reef values.",
+      "ground_truth_chunks": [
+        "The biomass of fish species selected for surveying averaged 56 g/m2 with a range of 29–114 g/m2 , or 56 mt/km2 (0.56 mt/ha).",
+        "The typical biomass of fishes (Fig. 19) on the western tropical Atlantic coral reefs was 160–200 mt/km2 (Randall 1963; Munro 1983) and on Pacific coral reefs 93– 239 mt/km2 (Goldman and Talbot 1976; Williams and Hatcher 1983)."
+      ]
+    },
+    {
+      "record_id": "730d4541355f93d6e3bc357a",
+      "paper_id": "2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20",
+      "source_path": "output/2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20.md",
+      "section_heading": "20.9 Present Status of Reef Health",
+      "section_start_line": 229,
+      "section_end_line": 252,
+      "model": "openai:gpt-4o-mini",
+      "question": "Six years after the 1979 outbreak of Acanthaster planci, what percentage cover did crustose coralline algae generally have on the forereef slope, and what was their cover at 3 and 5 m depths?",
+      "ground_truth_answer": "They generally covered about 57% of the forereef slope, with about 65% cover at 3 and 5 m depths.",
+      "ground_truth_chunks": [
+        "Crustose coralline algae seem especially prevalent on the forereefs of American Samoa . Six years after the 1979 outbreak of *Acanthaster planci* , the coralline algae generally covered about 57% of the forereef slope, with about 65% cover at 3 and 5 m depths (Birkeland et al. 1987)."
+      ]
+    },
+    {
+      "record_id": "728e7635b1b2a0b99aacc8ab",
+      "paper_id": "2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20",
+      "source_path": "output/2008 Birkeland et al Chapter 20/2008 Birkeland et al Chapter 20.md",
+      "section_heading": "20.10 A Chronology of Major Events and Surveys of Coral Reefs in American Samoa",
+      "section_start_line": 253,
+      "section_end_line": 326,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year was Fagatele Bay National Marine Sanctuary officially established?",
+      "ground_truth_answer": "1985.",
+      "ground_truth_chunks": [
+        "**1985**: Fagatele Bay National Marine Sanctuary officially established by US Department of Commerce and American Samoa Department of Commerce. Quantitave baseline established for coral-reef monitoring (Birkeland et al. 1987)"
+      ]
+    }
+  ],
+  "failures": []
+}

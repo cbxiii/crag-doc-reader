@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience.md",
+  "source_sha256": "b9464af9c0108277c3069ee1dcd122bd6b6e031b5c1ccdfcee713b7908e1eaf2",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "8e3e4f6aa878835381546598",
+      "paper_id": "Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience",
+      "source_path": "output/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience.md",
+      "section_heading": "Abstract",
+      "section_start_line": 21,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the relative mortality of Acropora gemmifera compared to Acropora hyacinthus after repeated heat extremes?",
+      "ground_truth_answer": "Acropora gemmifera had six-fold lower mortality than Acropora hyacinthus.",
+      "ground_truth_chunks": [
+        "Despite a similar bleaching response, the species *Acropora gemmifera* recovered faster based on transcriptome‐wide gene expression patterns and had a more dynamic algal sym‐ biont community than *Acropora hyacinthus* growing on the same reef.",
+        "Moreover, *A. gemmifera* had higher survival to repeated heat extremes, with six‐fold lower mor‐ tality than *A. hyacinthus*."
+      ]
+    },
+    {
+      "record_id": "864c4c37af190475aaefefc5",
+      "paper_id": "Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience",
+      "source_path": "output/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience.md",
+      "section_heading": "2.1 | Bleaching and mortality",
+      "section_start_line": 55,
+      "section_end_line": 66,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many bleached coral colonies were sampled and monitored after the April 2015 bleaching survey?",
+      "ground_truth_answer": "We collected tissue samples from 30 bleached colonies and monitored these colonies over a year.",
+      "ground_truth_chunks": [
+        "In April 2015, we carried out reef‐wide visual bleaching surveys in the MVP and scored colonies of *Acropora gemmifera* and *Acropora hyacinthus* as either healthy (≤10% pigment loss), mildly bleached (10%–50% pigment loss), moderately bleached (50%–80% pigment loss) or severely bleached (>80% pigment loss).",
+        "We collected tissue samples from 30 bleached colonies of *A. hyacinthus* and *A. gemmifera* and continued to monitor these colonies every four months for an additional three timepoints (August 2015, December 2015, April 2016), spanning a year of recovery."
+      ]
+    },
+    {
+      "record_id": "f1e70a11e93c47eb4c2f9c25",
+      "paper_id": "Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience",
+      "source_path": "output/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience.md",
+      "section_heading": "2.3 | Coral physiology with RNA sequencing",
+      "section_start_line": 71,
+      "section_end_line": 74,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many RNA libraries were constructed and which library preparation kit and reverse transcriptase were used?",
+      "ground_truth_answer": "In total 36 libraries were constructed using the Illumina TruSeq2 RNA Library Prep Kit v2 with Protoscript II Reverse Transcriptase.",
+      "ground_truth_chunks": [
+        "For these 36 field‐collected samples (five colonies of *A. gemmifera* and four colonies of *A. hyacinthus* across four time‐ points), total RNA was extracted from small nubbins approximately 1 cm<sup>3</sup> in size using Qiagen's RNAeasy Plus Kit.",
+        "In total 36 libraries were constructed using the Illumina TruSeq2 RNA Library Prep Kit v2 with Protoscript II Reverse Transcriptase."
+      ]
+    },
+    {
+      "record_id": "388fed5614177f4496ca1454",
+      "paper_id": "Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience",
+      "source_path": "output/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience.md",
+      "section_heading": "2.5 | Transcriptomic resilience",
+      "section_start_line": 87,
+      "section_end_line": 92,
+      "model": "openai:gpt-4o-mini",
+      "question": "What adjusted p-value cutoff was used to identify differentially expressed contigs?",
+      "ground_truth_answer": "Differentially expressed contigs were identified as those with an adjusted p-value <0.1.",
+      "ground_truth_chunks": [
+        "Independent DESeq2 analyses were carried out for the April versus December and August versus December timepoints in each species.",
+        "Differentially expressed contigs were identified as those with an adjusted *p*‐value <0.1 (Benjamini & Hochberg, 1995)."
+      ]
+    },
+    {
+      "record_id": "adbfcb4db9d9f14828c63341",
+      "paper_id": "Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience",
+      "source_path": "output/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience.md",
+      "section_heading": "3.2 | Mortality",
+      "section_start_line": 105,
+      "section_end_line": 108,
+      "model": "openai:gpt-4o-mini",
+      "question": "In August 2017, what were the partial and complete mortality rates for A. hyacinthus and A. gemmifera?",
+      "ground_truth_answer": "A. hyacinthus: 90% partial mortality and 85% complete mortality. A. gemmifera: 40% partial mortality and 0% complete mortality (no colonies showed complete mortality).",
+      "ground_truth_chunks": [
+        "Rates of partial mortality had increased to 90% in *A. hyacinthus* (Figure 3a) and 85% of colonies had completely died (Figure 3b).",
+        "In contrast, rates of partial mortality in *A. gemmifera* remained low at 40% (Figure 3a) and not one colony showed com‐ plete mortality by August 2017 (Figure 3b)."
+      ]
+    },
+    {
+      "record_id": "35e762ddda06675f5a6c242c",
+      "paper_id": "Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience",
+      "source_path": "output/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience.md",
+      "section_heading": "3.3 | Symbiont shifts",
+      "section_start_line": 109,
+      "section_end_line": 114,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did the symbiont community of A. gemmifera change across the 2015 bleaching event?",
+      "ground_truth_answer": "It shifted gradually from a mixed community of Durusdinium and Cladocopium at the start of bleaching in April 2015 to Cladocopium dominance across the recovery period, and this pattern was consistent when mapping reads to Cp23S, ITS1 and ITS2 genic regions.",
+      "ground_truth_chunks": [
+        "*A. gemmifera* showed a gradual shift from a mixed community of *Durusdinium* and *Cladocopium* at the start of bleaching in April 2015 to *Cladocopium* dominance across the recovery period (Figure 4; Table S1).",
+        "This was pattern was consistent when mapping reads to both Cp23S, ITS1 and ITS2 genic regions."
+      ]
+    },
+    {
+      "record_id": "ac0beca43ac268e02a07ab86",
+      "paper_id": "Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience",
+      "source_path": "output/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience.md",
+      "section_heading": "3.5 | Physiological response in the field",
+      "section_start_line": 141,
+      "section_end_line": 158,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many differentially expressed contigs were identified in bleached colonies of A. gemmifera in April 2015?",
+      "ground_truth_answer": "3,504 differentially expressed contigs.",
+      "ground_truth_chunks": [
+        "Differential gene expression analyses identified a total of 3,504 differentially expressed contigs in bleached colonies of *A. gemmifera* in April 2015 (Figure 6a).",
+        "This number declined to only twelve differentially expressed contigs four months later in August 2015 (Figure 6b)."
+      ]
+    },
+    {
+      "record_id": "c3e55b121d3e17204d65f0b7",
+      "paper_id": "Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience",
+      "source_path": "output/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience.md",
+      "section_heading": "4.1 | Rates of physiological recovery",
+      "section_start_line": 169,
+      "section_end_line": 172,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long did it take for transcriptomes to return to baseline for A. gemmifera and A. hyacinthus after bleaching according to this section?",
+      "ground_truth_answer": "Transcriptomes returned to a nearly baseline state within four months for A. gemmifera; for A. hyacinthus they remained perturbed at four months and only returned to normal by eight months.",
+      "ground_truth_chunks": [
+        "we show that transcrip‐ tomes returned to a nearly baseline state within four months for *A. gemmifera* (Figure 5).",
+        "For *A. hyacinthus* colonies, transcrip‐ tome patterns remained perturbed at the four month timepoint in August 2015 and only returned to normal by our eight month assay in December 2015."
+      ]
+    },
+    {
+      "record_id": "b077717d4a5e127273a0fb97",
+      "paper_id": "Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience",
+      "source_path": "output/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience.md",
+      "section_heading": "4.3 | Response to repeated stress events",
+      "section_start_line": 179,
+      "section_end_line": 184,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did this study track the same individual coral colonies across the 2015 and 2017 bleaching events?",
+      "ground_truth_answer": "Yes. The study tracked the same individual colonies in the 2015 and 2017 bleaching events, so there was no chance for differential selection in their system and the effects observed were due to different susceptibilities of the same individuals to serial events.",
+      "ground_truth_chunks": [
+        "We observed greater mortality due to bleaching in 2017 even though the local heat impact was similar to that of 2015 (Figure 3), indicating that the mechanisms that allow particular species to recover rapidly from single events may be compromised under recurrent bleaching (Grottoli et al., 2014; Levas et al., 2016; Schoepf et al., 2015).",
+        "In contrast, our study tracked the same individual colonies in the 2015 and 2017 bleaching events, so there was no chance for differential selection in our system, and the effects we saw were due to different susceptibilities of the same individuals to serial events."
+      ]
+    },
+    {
+      "record_id": "5c159044e974dafe4d51f10e",
+      "paper_id": "Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience",
+      "source_path": "output/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience/Thomas et al_2019_Molecular Ecology_Transcriptomic resilience.md",
+      "section_heading": "DATA AVAILABILITY",
+      "section_start_line": 201,
+      "section_end_line": 204,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the SRA accession number where the raw sequence data have been deposited?",
+      "ground_truth_answer": "PRJNA522650",
+      "ground_truth_chunks": [
+        "Raw sequence data for the *Acropora gemmifera* heat stress experi‐ ment and field collected samples of *A. gemmifera* and *Acropora hyacinthus* has been deposited on GenBank (SRA accession [PRJNA522650](info:ddbj-embl-genbank/PRJNA522650): [https://www.ncbi.nlm.nih.gov/sra/PRJNA522650\\)](https://www.ncbi.nlm.nih.gov/sra/PRJNA522650) and will be made publicly available upon acceptance of this manuscript.",
+        "All data sets (Data Sets S1–S8) and associated bioinformatic scripts have been uploaded onto Open Science Framework ([https://doi.org/10.17605/](https://doi.org/10.17605/OSF/.IO/DH9GA) [OSF/.IO/DH9GA](https://doi.org/10.17605/OSF/.IO/DH9GA))."
+      ]
+    }
+  ],
+  "failures": []
+}

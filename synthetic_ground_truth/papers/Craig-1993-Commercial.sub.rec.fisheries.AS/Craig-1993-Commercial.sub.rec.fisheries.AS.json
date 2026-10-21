@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS.md",
+  "source_sha256": "db284f4371cfe6393e93711c25197661e8bc6a9dd503804b0e2b310cec44c5dc",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "9271e81006fd171327c194f9",
+      "paper_id": "Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS",
+      "source_path": "output/Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS.md",
+      "section_heading": "Introduction",
+      "section_start_line": 5,
+      "section_end_line": 18,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the domestic catch and value was taken by the shoreline subsistence fishery?",
+      "ground_truth_answer": "78% of the domestic catch and 80% of the domestic value.",
+      "ground_truth_chunks": [
+        "Most of the catch (78%) and value (80%) was taken by the shoreline subsistence fishery that occurs on the coral reefs surrounding the islands.",
+        "This includes four fisheries: 1) a shoreline subsistence fishery, 2) an artisanal fishery for offshore pelagic fishes, 3) an artisanal fishery for offshore bottomfish, and 4) a recreational tournament fishery."
+      ]
+    },
+    {
+      "record_id": "e9385e24cf5b88f71b55c17d",
+      "paper_id": "Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS",
+      "source_path": "output/Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS.md",
+      "section_heading": "Study Area",
+      "section_start_line": 19,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the total land area of American Samoa reported in the Study Area section?",
+      "ground_truth_answer": "The total land area is only 77 mi.<sup>2</sup>.",
+      "ground_truth_chunks": [
+        "The total land area is only 77 mi.<sup>2</sup>."
+      ]
+    },
+    {
+      "record_id": "e3e3298137017c91a23b7413",
+      "paper_id": "Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS",
+      "source_path": "output/Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS.md",
+      "section_heading": "Data Collection System",
+      "section_start_line": 23,
+      "section_end_line": 42,
+      "model": "openai:gpt-4o-mini",
+      "question": "How frequently per week are the artisanal fisheries sampled by DMWR data collectors?",
+      "ground_truth_answer": "They are sampled two weekdays and one weekend (or holiday) per week.",
+      "ground_truth_chunks": [
+        "General procedures for DMWR data collectors are to sample the artisanal fisheries two weekdays and one weekend (or holiday) per week, as described in detail by Aitaoto et al. (1991).",
+        "During sample days, a creel survey is conducted as boats dock at designated harbors between 0500 and 2100 h. The fishermen are interviewed and their catches examined."
+      ]
+    },
+    {
+      "record_id": "61d7c9a62515e02668941cf0",
+      "paper_id": "Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS",
+      "source_path": "output/Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS.md",
+      "section_heading": "Domestic Fisheries",
+      "section_start_line": 53,
+      "section_end_line": 62,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of fish are sold in recreational tournaments, the shoreline subsistence fishery, the artisanal bottomfish fishery, and the artisanal pelagic fishery?",
+      "ground_truth_answer": "Recreational tournaments: 10% sold; shoreline subsistence fishery: 25% sold; artisanal bottomfish fishery: 65% sold; artisanal pelagic fishery: 85% sold.",
+      "ground_truth_chunks": [
+        "Recreational tournaments (10% sold), shoreline subsistence fishery (25%), artisanal bottomfish fishery (65%), artisanal pelagic fishery (85%)."
+      ]
+    },
+    {
+      "record_id": "f600a47f7b92742341cc0b17",
+      "paper_id": "Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS",
+      "source_path": "output/Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS.md",
+      "section_heading": "Shoreline Subsistence Fishery",
+      "section_start_line": 63,
+      "section_end_line": 105,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the island-wide shoreline subsistence catch on Tutuila Island in 1991 and its estimated value?",
+      "ground_truth_answer": "The 1991 island-wide subsistence catch on Tutuila Island was 439,000 pounds and was worth $768,000 (at an average rate of $1.75/pound).",
+      "ground_truth_chunks": [
+        "The 1991 island-wide subsistence catch on Tutuila Island was 439,000 pounds and was worth \\$768,000 at the average rate of \\$1.75/pound (Ponwith, 1992).",
+        "Expanding these data to include limited catches in the Manu'a islands produces a total subsistence catch in the Territory of 456,000 lb, worth \\$798,000."
+      ]
+    },
+    {
+      "record_id": "559c6cd2230879d94b4dc7da",
+      "paper_id": "Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS",
+      "source_path": "output/Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS.md",
+      "section_heading": "Artisanal Fisheries",
+      "section_start_line": 106,
+      "section_end_line": 121,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the two components of the current offshore artisanal fishery in American Samoa?",
+      "ground_truth_answer": "Trolling for pelagic fishes in surface waters, and vertical handlines (with baited hooks) for bottomfish.",
+      "ground_truth_chunks": [
+        "The two components of the current offshore artisanal fishery are 1) trolling for pelagic fishes in surface waters and 2) vertical handlines (with baited hooks) for bottomfish (Aitaoto et al., 1991).",
+        "The average catch was about 130 pounds per trip in both fisheries, and the annual catch per vessel averaged 910 pounds of bottomfish and 3,030 pounds of pelagic fish."
+      ]
+    },
+    {
+      "record_id": "a03d53d0d4f698680551fc2b",
+      "paper_id": "Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS",
+      "source_path": "output/Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS.md",
+      "section_heading": "Artisanal Pelagic Fishery",
+      "section_start_line": 122,
+      "section_end_line": 163,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many pounds of pelagic fish did the artisanal fishery catch in 1991 and what was its value?",
+      "ground_truth_answer": "94,900 pounds, worth about $144,200 (average price $1.52/pound).",
+      "ground_truth_chunks": [
+        "The artisanal catch of pelagic fish totaled 94,900 pounds in 1991, worth about \\$144,200 (this includes the value of pelagic fish retained for personal use) at an average price of \\$1.52/pound.",
+        "Catches have ranged from 100,000 to 240,000 pounds in recent years (Fig. 4), and consisted primarily of skipjack and yellowfin tuna (Table 2)."
+      ]
+    },
+    {
+      "record_id": "4ad72bd4aa98325acecbb246",
+      "paper_id": "Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS",
+      "source_path": "output/Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS.md",
+      "section_heading": "Tournament Fishery",
+      "section_start_line": 178,
+      "section_end_line": 240,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the total domestic landings in 1991 was contributed by tournament fishing?",
+      "ground_truth_answer": "3% of the total domestic landings in 1991.",
+      "ground_truth_chunks": [
+        "Tournament fishing is becoming increasingly important in American Samoa, and it contributed 3% of the total domestic landings in 1991 in only 16 days of fishing.",
+        "The catch during this short period nearly equalled the yearly artisanal bottomfish harvest and amounted to 19% of the artisanal pelagic harvest."
+      ]
+    },
+    {
+      "record_id": "63022c78dba3952171d7a1f6",
+      "paper_id": "Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS",
+      "source_path": "output/Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS.md",
+      "section_heading": "Commercial Tuna Fishery",
+      "section_start_line": 241,
+      "section_end_line": 250,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the components of the current commercial tuna fleet serving American Samoa and the approximate number of vessels in each component?",
+      "ground_truth_answer": "The current fleet consists of: 1) U.S. purse seiners that fish for skipjack and yellowfin tuna (about 30 vessels), 2) U.S. trollers that fish for albacore (about 30 vessels), and 3) foreign longliners that fish for albacore, yellowfin tuna, and bigeye tuna (about 70 vessels, mostly Taiwanese).",
+      "ground_truth_chunks": [
+        "The current fleet consists of 1) U.S. purse seiners that fish for skipjack and yellowfin tuna (about 30 vessels), 2) U.S. trollers that fish for albacore (about 30 vessels), and 3) foreign longliners that fish for albacore, yellowfin tuna, and bigeye tuna (about 70 vessels, mostly Taiwanese)."
+      ]
+    },
+    {
+      "record_id": "2d52e0c398e1ae3a81d241a0",
+      "paper_id": "Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS",
+      "source_path": "output/Craig-1993-Commercial.sub.rec.fisheries.AS/Craig-1993-Commercial.sub.rec.fisheries.AS.md",
+      "section_heading": "Discussion",
+      "section_start_line": 251,
+      "section_end_line": 272,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which domestic fishery in American Samoa is described as the least developed in the Discussion section?",
+      "ground_truth_answer": "The fishery for pelagic fishes (tuna, marlin, swordfish, etc.) in the offshore waters of the Territory.",
+      "ground_truth_chunks": [
+        "Probably the least developed domestic fishery is that for pelagic fishes (tuna, marlin, swordfish, etc.) in the offshore waters of the Territory.",
+        "First, there are few local vessels at present that are large enough to undertake the multipleday fishing trips necessary to fish profitably. None have freezer capabilities, and an adequate shoreside supply of ice is not yet available. Second, an increased supply of fish would quickly saturate local demands for fish, thus necessitating off-island marketing and shipping costs. Third, although pelagic resources are vast, their local availability may fluctuate because of seasonal variations or local depletions. Thus, a successful fishing enterprise by local residents would need to resolve important issues regarding vessel capabilities, marketing, and the availability of high-valued pelagic fishes in Territorial waters."
+      ]
+    }
+  ],
+  "failures": []
+}

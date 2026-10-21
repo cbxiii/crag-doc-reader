@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay.md",
+  "source_sha256": "999a3b30a0090079734ba7583a0d3c681e410fd2a9165da9a33e64b1b786f3b4",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "d5cbce7ac868a6ef4a4e4104",
+      "paper_id": "1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay",
+      "source_path": "output/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay.md",
+      "section_heading": "BIOLOGICAL RESOURCE ASSESSMENT OF THE FAGATELE BAY NATIONAL MARINE SANCTUARY",
+      "section_start_line": 3,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "When was the document published?",
+      "ground_truth_answer": "August 1987.",
+      "ground_truth_chunks": [
+        "Washington, D.C. August 1987"
+      ]
+    },
+    {
+      "record_id": "2c76a331b8e43864591e750e",
+      "paper_id": "1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay",
+      "source_path": "output/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay.md",
+      "section_heading": "NOAA TECHNICAL MEMORANDA SERIES NOS/MEMD",
+      "section_start_line": 73,
+      "section_end_line": 91,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under what contract number was the research sponsored?",
+      "ground_truth_answer": "Under Contract 40AANC502436.",
+      "ground_truth_chunks": [
+        "This work is the result of research sponsored by the U.S.",
+        "Under Contract 40AANC502436"
+      ]
+    },
+    {
+      "record_id": "38212f3a1380be8f6fc6a826",
+      "paper_id": "1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay",
+      "source_path": "output/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay.md",
+      "section_heading": "Relation of this Project to Previous Studies",
+      "section_start_line": 261,
+      "section_end_line": 268,
+      "model": "openai:gpt-4o-mini",
+      "question": "Is the project reported here the first quantitative survey of the marine fauna and flora of Fagatele Bay?",
+      "ground_truth_answer": "Yes. The section states that the project reported here is the first quantitative survey of the marine fauna and flora of Fagatele Bay.",
+      "ground_truth_chunks": [
+        "Although numerous surveys have been made of the marine habitats of Tutuila (USACHED 1980; Randall and Devaney 1974; Helfrich 1975; Dahl 1971), only two have specifically dealt with Fagatele Bay (Wass 1978a; USACHED 1980:197-200).",
+        "The project that we report on here is the first quantitative survey of the marine fauna and flora of Fagatele Bay."
+      ]
+    },
+    {
+      "record_id": "7f2701a583ca93a6098b8683",
+      "paper_id": "1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay",
+      "source_path": "output/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay.md",
+      "section_heading": "Location of Transects",
+      "section_start_line": 273,
+      "section_end_line": 288,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the permanent transect markers made of and what were their dimensions?",
+      "ground_truth_answer": "They were large, galvanized, 3/4-inch (1.9 cm) diameter spikes.",
+      "ground_truth_chunks": [
+        "These permanent markers are large, galvanized, 3/4-inch (1.9 cm) diameter spikes.",
+        "They were driven into the substrate with a 10-pound (4.5 kg) sledge hammer."
+      ]
+    },
+    {
+      "record_id": "7eeb7717986184e0f5377848",
+      "paper_id": "1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay",
+      "source_path": "output/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay.md",
+      "section_heading": "Macroinvertebrates",
+      "section_start_line": 379,
+      "section_end_line": 388,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many quadrats did each line transect consist of, and what area did each quadrat cover?",
+      "ground_truth_answer": "Each transect consisted of 6 quadrats, each covering an area of 10  $\\text{m}^2$.",
+      "ground_truth_chunks": [
+        "Macroinvertebrates occurring within 1 m on\n\nboth sides of the transect line were identified and recorded along 5-m intervals of the line.",
+        "Therefore, each transect consisted of 6 quadrats, each covering an area of 10  $\\text{m}^2$ ."
+      ]
+    },
+    {
+      "record_id": "92f24723ae35564169f7e062",
+      "paper_id": "1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay",
+      "source_path": "output/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay.md",
+      "section_heading": "Overall Setting",
+      "section_start_line": 407,
+      "section_end_line": 432,
+      "model": "openai:gpt-4o-mini",
+      "question": "Into what two principal geomorphic regions can the reefs of Fagatele Bay be divided?",
+      "ground_truth_answer": "A relatively shallow reef platform that extends outward from the shoreline, and the forereef slope that dips downward from the outer edge of the reef platform (or from the shoreline where such shallow platforms are absent).",
+      "ground_truth_chunks": [
+        "The reefs of Fagatele Bay can be divided into two principal geomorphic regions consisting of a relatively shallow reef platform that extends outward from the shoreline, and the forereef slope that dips downward from the outer edge of the reef platform, or from the shoreline where such shallow platforms are absent.",
+        "Both the shallow reef platform and the forereef slope can be subdivided into a number of conspicuous physiographic zones."
+      ]
+    },
+    {
+      "record_id": "6b5d8982496d0932701721f7",
+      "paper_id": "1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay",
+      "source_path": "output/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay.md",
+      "section_heading": "Forereef Slope Zone",
+      "section_start_line": 455,
+      "section_end_line": 472,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what depth does the outer reef slope zone begin on the forereef slope?",
+      "ground_truth_answer": "The outer reef slope zone begins at a depth of about 6 to 9 meters.",
+      "ground_truth_chunks": [
+        "A noticeable increase in the angle of downward dip occurs on the forereef slope at a depth of 6 to 9 meters along Transects 1,2,3,4, and 5, which marks the beginning of the outer reef slope zone.",
+        "At most locations (except at Transect 6) between 3 and 9 meters depth, the degree of forereef slope decreases forming a submarine terrace zone."
+      ]
+    },
+    {
+      "record_id": "2607a25023901691ef266da7",
+      "paper_id": "1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay",
+      "source_path": "output/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay.md",
+      "section_heading": "Algae and Substrate Cover",
+      "section_start_line": 505,
+      "section_end_line": 699,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the overall percent cover for the marine plant community along all transects in Fagatele Bay?",
+      "ground_truth_answer": "78 (s = 18).",
+      "ground_truth_chunks": [
+        "The overall percent cover for the marine plant community along all transects in Fagatele Bay was 78 (s = 18).",
+        "| all algae<br>crustose and articulate<br>coralline algae | 78.0 ± 18.2<br>57.1 ± 14.1 | 85.3 ± 12.6<br>65.6 ± 2.9 | 85.6± 9.6<br>63.9±11.8 | 75.2 ±6.7<br>56.3 ±7.7 | 72.8± 27.8<br>48.5± 18.6 |"
+      ]
+    },
+    {
+      "record_id": "6aaf543b8ae1c93e085d975a",
+      "paper_id": "1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay",
+      "source_path": "output/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay.md",
+      "section_heading": "Fishes",
+      "section_start_line": 764,
+      "section_end_line": 3400,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many fish species were observed in Fagatele Bay during the survey?",
+      "ground_truth_answer": "A total of 215 species was observed in the bay.",
+      "ground_truth_chunks": [
+        "A total of 215 species was observed in the bay."
+      ]
+    },
+    {
+      "record_id": "f066276f3e54f0069ebc5c87",
+      "paper_id": "1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay",
+      "source_path": "output/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay/1982, 1985 -  Birkeland et al 1987 Biological Resource Assessment Fagatele Bay.md",
+      "section_heading": "INFLUENCE of <u>Acanthaster-Induced</u> CORAL KILLS on FISH COMMUNITIES AT FAGATELE BAY and at CAPE LARSEN",
+      "section_start_line": 3735,
+      "section_end_line": 4150,
+      "model": "openai:gpt-4o-mini",
+      "question": "What effect did removing the Ctenochaetus striatus counts have on the 1985 total fish counts for each study area?",
+      "ground_truth_answer": "When the numbers of Ctenochaetus striatus were subtracted from each total, the 1985 totals were each less than the earlier totals for the same area.",
+      "ground_truth_chunks": [
+        "The unusually large numbers of <u>Ctenochaetus</u> <u>striatus</u> in April 1985 again confuse the analysis.",
+        "When the numbers of  $\\underline{C}$ . striatus are subtracted from each total, however, the 1985 totals are each less than the earlier totals for the same area."
+      ]
+    }
+  ],
+  "failures": []
+}

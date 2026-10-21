@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Littler and Littler 1998 CCA fungal disease/Littler and Littler 1998 CCA fungal disease.md",
+  "source_sha256": "e5761f8584b2198e2165df8123775afc65ced168de5fea86df74dfc39673abe4",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "eccf584e82ffc45912b43716",
+      "paper_id": "Littler and Littler 1998 CCA fungal disease/Littler and Littler 1998 CCA fungal disease",
+      "source_path": "output/Littler and Littler 1998 CCA fungal disease/Littler and Littler 1998 CCA fungal disease.md",
+      "section_heading": "An undescribed fungal pathogen of reef-forming crustose coralline algae discovered in American Samoa",
+      "section_start_line": 3,
+      "section_end_line": 12,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which crustose coralline alga species was primarily attacked by the undescribed black fungal pathogen in American Samoa?",
+      "ground_truth_answer": "The fungus primarily attacked the Pacific algal-ridge former, Porolithon onkodes (Foslie) Foslie.",
+      "ground_truth_chunks": [
+        "It co-occurred with the only other known pathogen of coralline algae, CLOD (Littler and Littler 1995) and also primarily attacked the Pacific algal-ridge former, *Porolithon onkodes* (Foslie) Foslie."
+      ]
+    }
+  ],
+  "failures": []
+}

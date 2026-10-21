@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "source_path": "output/CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis.md",
+  "source_sha256": "1fd722cd9ea2ca0663ec0cd01f60f88ba25fa75f94ccd4b80d41995dbc05d37e",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "bd498227c4f5c581d500e0d1",
+      "paper_id": "CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis",
+      "source_path": "output/CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis.md",
+      "section_heading": "Abstract",
+      "section_start_line": 1,
+      "section_end_line": 4,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Abstract, how does the emerging field of genomics contribute to understanding coral acclimatization and adaptation to climate change?",
+      "ground_truth_answer": "Genomics enables investigation of variation in gene sequences and gene activity in corals and Symbiodinium—providing the raw material to identify molecular response pathways and potential targets for acclimatization and adaptive natural selection, which can improve models of coral survival.",
+      "ground_truth_chunks": [
+        "The emerging field of genomics (i.e., genome scale genetics) holds great promise for investigation of the raw material needed for coral acclimatization and adaptation to climate change: variation in the gene sequences and activity of the molecular response pathways enabling corals and Symbiodinium to maintain key biological functions under environmental stress.",
+        "A growing number of studies of gene expression signatures and gene frequency distributions are finding a diverse array of potential targets both for acclimatization potential and adaptive natural selection in climate change resistance.",
+        "Additionally, research is consistently finding greater acclimatization and adaptive potential than previously thought, which when incorporated into models of coral survival in the future significantly improves the shortterm outlook for reef persistence."
+      ]
+    },
+    {
+      "record_id": "f86874ade4842b83a18c72b1",
+      "paper_id": "CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis",
+      "source_path": "output/CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis.md",
+      "section_heading": "7.2 The Role of Genomics in Coral Climate Change Science",
+      "section_start_line": 35,
+      "section_end_line": 38,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what advantages have recent sequencing technologies provided for genomics studies of corals?",
+      "ground_truth_answer": "High-throughput sequencing can generate billions of base pairs per run—orders of magnitude more than previous technologies—and allows simultaneous investigation of tens of thousands of genes within a single experiment, enabling examination of mechanisms behind coral adaptation and acclimatization (e.g., bleaching resistance, recovery, and growth/calcification/reproduction under anomalous conditions).",
+      "ground_truth_chunks": [
+        "High-throughput (also known at next generation) sequencing technologies are now capable of generating billions of base pairs (single DNA nucleotides) during a sequencing run. This data generation is orders of magnitude greater than previous technologies and allows for the simultaneous investigation of tens of thousands of genes within a single experiment.",
+        "In terms of corals, these genomic technologies enable examination of the mechanisms behind the adaptation and acclimatization potential of traits that will allow corals to survive climate change: e.g. bleaching resistance, recovery from disturbance, and growth/calcification/reproduction under anomalous conditions (low pH, increased sedimentation, high temperature events)."
+      ]
+    },
+    {
+      "record_id": "354036fbb8532fffe3878a5c",
+      "paper_id": "CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis",
+      "source_path": "output/CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis.md",
+      "section_heading": "7.3.1 Evidence for and Against Coral Thermal Acclimation",
+      "section_start_line": 47,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the effect of a 10-day pre-conditioning exposure to 3°C below the bleaching threshold on Acropora millepora in Bellantuono et al. (2012b)?",
+      "ground_truth_answer": "The 10-day pre-conditioning exposure resulted in complete bleaching resistance to a subsequent 8-day exposure to 31°C compared to non-preconditioned corals; this enhanced resistance was not due to any apparent change in Symbiodinium type or microbial associates. A follow-up gene-expression study found only nine differentially expressed genes between preconditioned and non-preconditioned corals, with preconditioned corals showing lower magnitude expression changes.",
+      "ground_truth_chunks": [
+        "In contrast, a short-term thermal acclimation study by Bellantuono et al. ([2012b\\)](#page-11-0) showed that a 10-day pre-conditioning exposure of Acropora millepora from the Great Barrier Reef to 3 C below their bleaching threshold (28 C) resulted in complete bleaching resistance to a subsequent 8-day exposure to 31 C compared to non-preconditioned corals.",
+        "This enhanced bleaching resistance was not due to any apparent change in Symbiodinium type or microbial associates (Bellantuono et al. [2012b\\)](#page-11-0).",
+        "A follow up study examining the gene expression response following similar preconditioning treatments found only nine differentially expressed genes separated preconditioned and non-preconditioned corals (Bellantuono et al. [2012a\\)](#page-11-0). In fact, there was almost complete overlap between the differentially expressed genes in preconditioned and non-preconditioned corals under heat stress. However, out of all of these shared genes, preconditioned corals had lower levels of expression changes compared to non-preconditioned corals, suggesting it is the magnitude of expression change, not the specific genes themselves that may be indicative of acclimation gains in heat resistance (Bellantuono et al. [2012a](#page-11-0))."
+      ]
+    },
+    {
+      "record_id": "aad516591e4f6e135a747229",
+      "paper_id": "CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis",
+      "source_path": "output/CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis.md",
+      "section_heading": "7.3.2.1 Little Is Known About Acclimatization to Ocean Acidification",
+      "section_start_line": 63,
+      "section_end_line": 68,
+      "model": "openai:gpt-4o-mini",
+      "question": "What did Crook et al. (2013) find regarding long-term acclimatization of Porites astreoides to chronic low pH exposure?",
+      "ground_truth_answer": "Crook et al. (2013) found no evidence for long-term acclimatization in calcification of Porites astreoides to chronic low pH exposure; P. astreoides from submarine springs that reach lows of pH 7 showed as great a reduction in calcification as the same species from normal pH areas when exposed to acidification, suggesting long-term natural exposure did not induce acclimatization.",
+      "ground_truth_chunks": [
+        "However, Crook et al. ([2013\\)](#page-11-0) found no evidence for long term acclimatization in calcification of Porites astreoides to chronic exposure to low pH submarine springs in Quintana Roo, Mexico, despite these corals spending their entire lifetime in these conditions.",
+        "They found P. astreoides from the submarine springs, which reach lows of pH 7, showed as great a reduction in calcification as the same species from multiple areas across the Caribbean with normal pH conditions when exposed to acidification conditions, suggesting hundreds to thousands of years of natural exposure to reduced pH did not induce an acclimatization response (Crook et al. [2013\\)](#page-11-0)."
+      ]
+    },
+    {
+      "record_id": "81c49fbfcf8348c34916ab8b",
+      "paper_id": "CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis",
+      "source_path": "output/CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis.md",
+      "section_heading": "7.3.2.3 The Timing and Magnitude of Coral Acclimatization",
+      "section_start_line": 73,
+      "section_end_line": 76,
+      "model": "openai:gpt-4o-mini",
+      "question": "What time scales of acclimation gains in coral thermal tolerance are supported by multiple lines of evidence?",
+      "ground_truth_answer": "Both short-term (1–2 week) and longterm (1–2 years) acclimation gains.",
+      "ground_truth_chunks": [
+        "For acclimatization to effectively aid in coral survival of climate change it must be sufficient in timing and magnitude to alleviate stress caused by subsequent high temperature and low pH exposures. To date, there are multiple lines of evidence supporting both short-term (1–2 week) and longterm (1–2 years) acclimation gains in coral thermal tolerance (e.g. Middlebrook et al. [2008](#page-12-0); Bellantuono et al. 2012; Palumbi et al. [2014](#page-12-0)).",
+        "Another promising study found that Pocillopora damicornis from a highly thermally variable upwelling reef in Taiwan were able to fully acclimate to 9 months of exposure to 30 C compared to controls at 26.5 C, suggesting historical, natural exposure to upwelling variability contributed to the acclimation potential to future thermal challenge (Mayfield et al. [2013\\)](#page-12-0)."
+      ]
+    },
+    {
+      "record_id": "2d5c1761dbff6e9044ec96af",
+      "paper_id": "CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis",
+      "source_path": "output/CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis.md",
+      "section_heading": "7.4.1 The Contribution of Novel Mutation to Coral Climate Change Adaptation",
+      "section_start_line": 83,
+      "section_end_line": 86,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why is novel mutation considered an unlikely contributor to rapid climate change adaptation in reef-building corals?",
+      "ground_truth_answer": "Because novel mutations generally act more slowly than standing genetic variation — they can have potentially deleterious effects that have not been \"vetted\" and occur at lower initial frequency — and reef‑building corals specifically have long generation times (years to decades), can reproduce asexually, and have older individuals that contribute to the gene pool for hundreds of years, all of which make novel mutation an unlikely contributor to rapid adaptation.",
+      "ground_truth_chunks": [
+        "Generally, it is believed adaptation from novel mutation occurs more slowly than that from standing genetic diversity due to: (a) potential deleterious influence of a particular mutation that has not been present in the environment long enough to be \"vetted\" under various environmental scenarios, and (b) new mutations likely occur in lower frequency than standing variants and may take longer to become established in a population (Barrett and Schluter [2008](#page-11-0)).",
+        "In terms of reef-building corals, their long generation times (years to decades), ability to asexually reproduce, and <span id=\"page-6-0\"></span>the persistence of older individuals contributing to the gene pool for hundreds of years all make novel mutation an unlikely contributor to rapid adaptation to climate change."
+      ]
+    },
+    {
+      "record_id": "1c6aa142506f1241a43520f7",
+      "paper_id": "CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis",
+      "source_path": "output/CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis.md",
+      "section_heading": "7.4.2.1 Is Variation in Coral Thermal Tolerance Genetically Determined and Heritable? The Host Perspective",
+      "section_start_line": 95,
+      "section_end_line": 110,
+      "model": "openai:gpt-4o-mini",
+      "question": "Have genome or transcriptome scans identified candidate genetic loci associated with coral thermal tolerance?",
+      "ground_truth_answer": "Yes. Lundgren et al. (2013) found significant correlations between allele frequencies and thermal habitat in up to 55% of examined gene markers, and a transcriptome-wide scan (Bay and Palumbi 2014) identified 114 highly divergent loci with allele frequency correlations with temperature.",
+      "ground_truth_chunks": [
+        "Lundgren et al. ([2013](#page-12-0)) performed a gene mining investigation to find specific candidate genes for adaptive genetic markers in Pocillopora damicornis and Acropora millepora across the thermal gradient from the northern to the southern Great Barrier Reef. They found significant correlations between allele frequencies (proportion of a particular genotype in the population) and thermal habitat type in up to 55 % of the gene markers examined, representing evidence for one of the first sets of candidate genes for adaptive environmental stress tolerance in corals (Lundgren et al. [2013](#page-12-0)).",
+        "A different, transcriptome-wide scan between Acropora hyacinthus from a thermally tolerant vs. a more thermally susceptible population in American Samoa (the same populations investigated in Oliver and Palumbi [2011;](#page-12-0) Barshis et al. [2013](#page-11-0); Palumbi et al. [2014](#page-12-0)), identified 114 highly divergent genetic loci as candidates for environmental selection for heat resistance (Bay and Palumbi [2014](#page-11-0)). Many of these loci showed significant allele frequency correlations with temperature, in the form of amount of time spent above the local bleaching threshold of 31 C."
+      ]
+    },
+    {
+      "record_id": "136aafbe2767b1c3e7fa2af3",
+      "paper_id": "CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis",
+      "source_path": "output/CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis.md",
+      "section_heading": "7.4.3 Coral Climate Change Adaptation in Real Time",
+      "section_start_line": 119,
+      "section_end_line": 128,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral genera showed the greatest increase in tolerance between 1998 and 2002 on the Great Barrier Reef according to Maynard et al. (2008)?",
+      "ground_truth_answer": "Acroporids and pocilloporids (Acropora and Pocillopora).",
+      "ground_truth_chunks": [
+        "Maynard et al. [\\(2008](#page-12-0)) found a 30–100 % reduction in bleaching severity across three major coral genera (Acropora, Pocillopora, and Porites) during a severe thermal stress event on the Great Barrier Reef in 2002 when compared to a previous event in 1998.",
+        "Acroporids and pocilloporids showed the greatest increase in tolerance, despite being more susceptible to thermal stress than Porites spp."
+      ]
+    },
+    {
+      "record_id": "0e138ca16e8b6b4f9baac03d",
+      "paper_id": "CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis",
+      "source_path": "output/CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis.md",
+      "section_heading": "7.5 Summary",
+      "section_start_line": 139,
+      "section_end_line": 144,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to section 7.5, is there a single gene or gene family implicated in coral temperature tolerance?",
+      "ground_truth_answer": "No. The section states there is no single gene or gene family implicated in coral temperature tolerance; instead variation in the magnitude and composition of the stress response across many physiological and cellular processes underlies thermal tolerance.",
+      "ground_truth_chunks": [
+        "There is no single gene or gene family implicated in coral temperature <span id=\"page-10-0\"></span>tolerance, but variation in both the magnitude and composition of the stress response across a multitude of different physiological and cellular processes.",
+        "This represents a diverse array of potential targets both for acclimatization potential and adaptive natural selection in climate change resistance."
+      ]
+    },
+    {
+      "record_id": "a280005bee1eecc25a6db21a",
+      "paper_id": "CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis",
+      "source_path": "output/CRA Chapter 7 - Barshis/CRA Chapter 7 - Barshis.md",
+      "section_heading": "7.5.2 A Cautionary Note",
+      "section_start_line": 156,
+      "section_end_line": 161,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to section 7.5.2, which fields are said to truly test the effects of genotype on organismal phenotype?",
+      "ground_truth_answer": "The fields of quantitative genetics and cell biology are said to truly test the effects of genotype on organismal phenotype.",
+      "ground_truth_chunks": [
+        "Genome wide scanning and gene expression profiling are powerful tools, but ultimately only describe a correlation between genotypic and phenotypic variability.",
+        "It is really the fields of quantitative genetics (e.g. controlled crosses, artificially selected family lines) and cell biology (e.g. gene knockdowns, cell cultures, genetic mutants, and genetic modifications) that truly test the effects of genotype on organismal phenotype and ultimately, the contributions of acclimatization and adaptation to coral survival in an uncertain future."
+      ]
+    }
+  ],
+  "failures": []
+}

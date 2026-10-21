@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS.md",
+  "source_sha256": "f8772955ad5ad4aa6d5771f5194e00e0316958e771fd87a03cefffc1509bff0a",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "14a0f82e2e07cc9bee49c49b",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS.md",
+      "section_heading": "EXECUTIVE SUMMARY",
+      "section_start_line": 15,
+      "section_end_line": 33,
+      "model": "openai:gpt-4o-mini",
+      "question": "Does the American Samoa Archipelago Fishery Ecosystem Plan establish any new fishery management regulations at this time?",
+      "ground_truth_answer": "No. This FEP does not establish any new fishery management regulations at this time; it consolidates existing fishery regulations for demersal species.",
+      "ground_truth_chunks": [
+        "This FEP does not establish any new fishery management regulations at this time but rather consolidates existing fishery regulations for demersal species.",
+        "Specifically, this FEP identifies as management unit species those current management unit species known to be present in waters around American Samoa and incorporates all of the management provisions of the Bottomfish and Seamount Groundfish FMP, the Crustaceans FMP, the Precious Corals FMP, and the Coral Reef Ecosystems FMP that are applicable to the area."
+      ]
+    },
+    {
+      "record_id": "fdf96ab67d85fba4f3c1e142",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS.md",
+      "section_heading": "2.5 Data and Information Needs",
+      "section_start_line": 1024,
+      "section_end_line": 1027,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why have many existing datasets in the Western Pacific Region proven difficult to utilize and integrate?",
+      "ground_truth_answer": "Because of differences in collection methodologies coupled with a lack of meta-data or documentation of how the data were collected and coded, resulting in incompatible datasets and data that are virtually inaccessible except to the primary researchers.",
+      "ground_truth_chunks": [
+        "Some of this information has been processed and analyzed by fishery scientists and managers; however, much has proven difficult to utilize and integrate due to differences in collection methodologies coupled with a lack of meta-data or documentation of how the data were collected and coded.",
+        "This has resulted in incompatible datasets as well as data that are virtually inaccessible to anyone except the primary researchers."
+      ]
+    },
+    {
+      "record_id": "8a3a0765f8e519415b8e1ffe",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS.md",
+      "section_heading": "3.2.12.2 Melanesia",
+      "section_start_line": 1260,
+      "section_end_line": 1275,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two islands make up nearly 85 percent of the total land area of the Republic of Fiji Islands?",
+      "ground_truth_answer": "Viti Levu and Vanua Levu.",
+      "ground_truth_chunks": [
+        "The two largest islands, Viti Levu and Vanua Levu, make up nearly 85 percent of the total land area of the Republic of Fiji Islands."
+      ]
+    },
+    {
+      "record_id": "c5277167a51b8f3135b28251",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS.md",
+      "section_heading": "3.3.4.1 Sea Turtles",
+      "section_start_line": 1512,
+      "section_end_line": 1515,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Pacific sea turtle species or populations are listed as endangered under the Endangered Species Act?",
+      "ground_truth_answer": "The breeding populations of Mexico's olive ridley sea turtles (Lepidochelys olivacea), leatherback sea turtles (Dermochelys coriacea), hawksbill turtles (Eretmochelys imbricata), and the green sea turtle population nesting on the Pacific coast of Mexico are listed as endangered.",
+      "ground_truth_chunks": [
+        "The breeding populations of Mexico's olive ridley sea turtles (*Lepidochelys olivacea*) are currently listed as endangered, while all other ridley populations are listed as threatened.",
+        "Leatherback sea turtles (*Dermochelys coriacea*) and hawksbill turtles (*Eretmochelys imbricata*) are also classified as endangered.",
+        "Loggerhead (*Caretta caretta*) and green sea turtles (*Chelonia mydas*) are listed as threatened (the green sea turtle is listed as threatened throughout its Pacific range, except for the endangered population nesting on the Pacific coast of Mexico)."
+      ]
+    },
+    {
+      "record_id": "bf24f7803b2494b36a7501de",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS.md",
+      "section_heading": "4.6 Description of American Samoa Fishing Communities",
+      "section_start_line": 1818,
+      "section_end_line": 1827,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the domestic purse seine harvest in the central and western Pacific occurred outside the U.S. EEZ from 1990 to 1998?",
+      "ground_truth_answer": "About 95 percent.",
+      "ground_truth_chunks": [
+        "From 1990 to 1998, about 95 percent of the domestic purse seine harvest in the central and western Pacific occurred outside the U.S. EEZ, with most of the fishing taking place between Papua New Guinea, the Federated States of Micronesia, and Kiribati."
+      ]
+    },
+    {
+      "record_id": "781e9fffecb7ca9591aed32a",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS.md",
+      "section_heading": "5.6.4 Gear Restrictions",
+      "section_start_line": 2107,
+      "section_end_line": 2112,
+      "model": "openai:gpt-4o-mini",
+      "question": "Are CRE MUS allowed to be taken using poisons, explosives, or intoxicating substances?",
+      "ground_truth_answer": "No. CRE MUS may not be taken by means of poisons, explosives, or intoxicating substances; possession and use of these materials is prohibited.",
+      "ground_truth_chunks": [
+        "Allowable gear types include: (1) Hand harvest; (2) spear; (3) slurp gun; (4) hand/dip net; (5) hoop net for Kona crab; (6) throw net; (7) barrier net; (8) surround/purse net that is attended at all times; (9) hook-and-line (powered and unpowered handlines, rod and reel, and trolling); (10) crab and fish traps with vessel ID number affixed; and (11) remote operating vehicles/submersibles. New fishing gears that are not included in the allowable gear list may be allowed under the special permit provision.",
+        "CRE MUS may not be taken by means of poisons, explosives, or intoxicating substances. Possession and use of these materials is prohibited."
+      ]
+    },
+    {
+      "record_id": "5c501dd37e3217fafe53ff75",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS.md",
+      "section_heading": "Conservation Measures",
+      "section_start_line": 2685,
+      "section_end_line": 2696,
+      "model": "openai:gpt-4o-mini",
+      "question": "What equipment and supplies should be on-site at facilities that handle oil or hazardous substances according to the Conservation Measures?",
+      "ground_truth_answer": "Containment equipment and sufficient supplies to combat spills should be on-site.",
+      "ground_truth_chunks": [
+        "- 4. Containment equipment and sufficient supplies to combat spills should be on-site at all facilities that handle oil or hazardous substances."
+      ]
+    },
+    {
+      "record_id": "12dfde8768859af651b3b2f9",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS.md",
+      "section_heading": "8.6 Marine Mammal Protection Act (MMPA)",
+      "section_start_line": 3006,
+      "section_end_line": 3011,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under section 118 of the MMPA, into how many categories does NMFS classify U.S. commercial fisheries on the List of Fisheries (LOF)?",
+      "ground_truth_answer": "Three categories.",
+      "ground_truth_chunks": [
+        "Under section 118 of the Marine Mammal Protection Act (MMPA), NMFS must publish, at least annually, a List of Fisheries (LOF) that classifies U.S. commercial fisheries into one of three categories.",
+        "These categories are based on the level of serious injury and mortality of marine mammals that occurs incidental to each fishery."
+      ]
+    },
+    {
+      "record_id": "02ed49abb63394d339728fa9",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS.md",
+      "section_heading": "Section 665.107 At-sea observer coverage.",
+      "section_start_line": 3484,
+      "section_end_line": 3490,
+      "model": "openai:gpt-4o-mini",
+      "question": "Within how many hours will the Pacific Islands Regional Office advise the vessel owner or operator of any observer requirement?",
+      "ground_truth_answer": "Within 72 hours (not including weekends or holidays) of receipt of the notice.",
+      "ground_truth_chunks": [
+        "(b) The Pacific Islands Regional Office will advise the vessel owner or operator of any observer requirement within 72 hours (not including weekends or holidays) of receipt of the notice. If an observer is required, the owner or operator will be informed of the terms and conditions of observer coverage, and the time and place of embarkation of the observer."
+      ]
+    },
+    {
+      "record_id": "d161ccfd1d0cffcc8f47763d",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.AS/WPRFMC-2005-Fishery.eco.plan.AS.md",
+      "section_heading": "Section 665.146 Framework procedures.",
+      "section_start_line": 4088,
+      "section_end_line": 4116,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what date each year must the Council-appointed Archipelagic Plan Team prepare an annual report on the fisheries in the management area?",
+      "ground_truth_answer": "By June 30 of each year.",
+      "ground_truth_chunks": [
+        "- (b) *Annual report.* By June 30 of each year, the Council-appointed Archipelagic Plan Team will prepare an annual report on the fisheries in the management area. The report will contain, among other things, recommendations for Council action and an assessment of the urgency and effects of such action(s)."
+      ]
+    }
+  ],
+  "failures": []
+}

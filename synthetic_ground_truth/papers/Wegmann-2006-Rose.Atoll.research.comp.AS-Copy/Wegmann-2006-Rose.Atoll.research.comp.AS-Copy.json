@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy.md",
+  "source_sha256": "5e7341c20ec70da1807fed9ed9f0c20e0a6eb72b1c3a5432da0ab8f25f4d4ea3",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "8b0d3734bed29bd14aaace45",
+      "paper_id": "Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy",
+      "source_path": "output/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy.md",
+      "section_heading": "Background",
+      "section_start_line": 125,
+      "section_end_line": 149,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many hectares of submerged reef are included in Rose Atoll National Wildlife Refuge?",
+      "ground_truth_answer": "15,878 hectares of submerged reef.",
+      "ground_truth_chunks": [
+        "Rose Atoll National Wildlife Refuge (Rose) consists of 2 small islets, totaling 6 hectares of emergent land, and 15,878 hectares of submerged reef."
+      ]
+    },
+    {
+      "record_id": "242e68f3dc8a8a9c2941a6cc",
+      "paper_id": "Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy",
+      "source_path": "output/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy.md",
+      "section_heading": "Invasive Terrestrial Invertebrates",
+      "section_start_line": 290,
+      "section_end_line": 293,
+      "model": "openai:gpt-4o-mini",
+      "question": "When was the Pulvinaria urbicola infestation first noticed?",
+      "ground_truth_answer": "It was first noticed in 2002.",
+      "ground_truth_chunks": [
+        "Of notable concern is the scale insect (*Pulvinaria urbicola*) infestation that was first noticed in 2002 (J. Burgett 2005 USFWS pers. com.).",
+        "Scale insects concentrate on the petioles and leaves of the atoll's dominant canopy tree, *Pisonia grandis*."
+      ]
+    },
+    {
+      "record_id": "8f162d3b31a8828f1de2e2c7",
+      "paper_id": "Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy",
+      "source_path": "output/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy.md",
+      "section_heading": "Oceanography",
+      "section_start_line": 336,
+      "section_end_line": 361,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many deep-water CTD casts to 500 m were performed around Rose Atoll in 2006?",
+      "ground_truth_answer": "A total of 17 deepwater CTDs were done around Rose in 2006.",
+      "ground_truth_chunks": [
+        "Deep-water conductivity temperature depth (CTD) casts to a depth of 500 m were also part of shipboard operations, producing a depth profile of salinity (via conductivity), temperature, dissolved oxygen, and fluorescence.",
+        "In 2006, a total of 17 deepwater CTDs were done around Rose, with water samples collected for laboratory analysis of chlorophyll, nutrients, and dissolved inorganic carbon (DIC)."
+      ]
+    },
+    {
+      "record_id": "b5e2fea7ace5456ea42b07fb",
+      "paper_id": "Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy",
+      "source_path": "output/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy.md",
+      "section_heading": "Shorebirds",
+      "section_start_line": 645,
+      "section_end_line": 667,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many migratory shorebird species regularly use Rose Atoll NWR as a foraging stop?",
+      "ground_truth_answer": "Seven.",
+      "ground_truth_chunks": [
+        "Rose Atoll NWR is a regular foraging stop for 7 migratory shorebirds (**Table 12**).",
+        "**Table 12: Rose Island shorebird counts from 1975 to 1993 (numbers equal total counted within the given year)**"
+      ]
+    },
+    {
+      "record_id": "32ba833a3544d465b41515ca",
+      "paper_id": "Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy",
+      "source_path": "output/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy.md",
+      "section_heading": "Coral",
+      "section_start_line": 842,
+      "section_end_line": 857,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which four coral genera comprised 10% or more of the numerical total in the 2004 surveys at Rose, and what was the range and location of live coral cover recorded?",
+      "ground_truth_answer": "The four most common corals were *Pocillopora*, *Montastrea*, *Montipora*, and *Favia*. Live coral cover ranged from a low of 7% near the shipwreck on the SW side to a high of 28% at a site on the SE side.",
+      "ground_truth_chunks": [
+        "At the 12 sites surveyed, the 4 most common corals (comprising 10% or more of the numerical total) were *Pocillopora*, *Montastrea*, *Montipora*, and *Favia*.",
+        "Live coral cover ranged from a low of 7% near the shipwreck on the SW side, to a high value of\n\n28% at a site on the SE side."
+      ]
+    },
+    {
+      "record_id": "fbbe63bd39172ab10ac6f22d",
+      "paper_id": "Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy",
+      "source_path": "output/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy.md",
+      "section_heading": "Marine Mammals",
+      "section_start_line": 940,
+      "section_end_line": 945,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many species of toothed whales (Odontocetae) have been reported specifically for Rose Atoll?",
+      "ground_truth_answer": "Two species of toothed whales have been reported specifically for Rose Atoll.",
+      "ground_truth_chunks": [
+        "Only 2 species of toothed whales (Odontocetae) have been reported specifically for Rose: a historical account reports the skull of a medium sized blackfish on the beach at Rose (Mayor 1921), and a pilotwhale (*Globicephala meleana*) was observed 60 years later, along with a porpoise in the genus *Stenella* (Shallenberger 1980)."
+      ]
+    },
+    {
+      "record_id": "44c277216d65ec6654e7a95a",
+      "paper_id": "Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy",
+      "source_path": "output/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy.md",
+      "section_heading": "Executive Summary",
+      "section_start_line": 1244,
+      "section_end_line": 1255,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the estimated total cost of the restoration for Rose Atoll NWR?",
+      "ground_truth_answer": "$1,277,400.",
+      "ground_truth_chunks": [
+        "The Natural Resource Trustees have estimated the total cost of this restoration to be \\$1,277,400."
+      ]
+    },
+    {
+      "record_id": "1329c5db01989c7f519ca935",
+      "paper_id": "Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy",
+      "source_path": "output/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy.md",
+      "section_heading": "2.3 Emergency Restoration",
+      "section_start_line": 1306,
+      "section_end_line": 1309,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many tons of metallic debris were removed from the reef flats during the July and August 1999 emergency restoration actions?",
+      "ground_truth_answer": "75 tons (about 99%)",
+      "ground_truth_chunks": [
+        "Emergency restoration actions in July and August 1999 succeeded in the removal of 75 tons (about 99%) of the metallic debris from the reef flats, as well as approximately 2 tons of debris from the lagoon."
+      ]
+    },
+    {
+      "record_id": "b66557cc1fac1d5340f59f37",
+      "paper_id": "Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy",
+      "source_path": "output/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy.md",
+      "section_heading": "3.3 Recent Field Surveys and Natural Recovery",
+      "section_start_line": 1363,
+      "section_end_line": 1378,
+      "model": "openai:gpt-4o-mini",
+      "question": "As of 1997, which echinoderm populations were reported as reduced or absent near the grounding site?",
+      "ground_truth_answer": "The sea urchin population continued to be reduced within 1000 m of the grounding site, and sea cucumbers remained absent near the grounding site.",
+      "ground_truth_chunks": [
+        "- ➢ The sea urchin population continued to be reduced within 1000 m of the grounding site as of 1997.",
+        "- ➢ Sea cucumbers remain absent near the grounding site."
+      ]
+    },
+    {
+      "record_id": "000462958744f575b7ee9f9e",
+      "paper_id": "Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy",
+      "source_path": "output/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy/Wegmann-2006-Rose.Atoll.research.comp.AS-Copy.md",
+      "section_heading": "Appendix 7: Reef Fishes of Rose Atoll",
+      "section_start_line": 1586,
+      "section_end_line": 1919,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the relative abundance value reported for Blue-green chromis (Chromis viridis) in Table 1?",
+      "ground_truth_answer": "3.1",
+      "ground_truth_chunks": [
+        "| Pomacentridae  | Blue-green chromis                | Chromis viridis            | 3.1            |"
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Common corals of Amerian Samoa/Common corals of Amerian Samoa.md",
+  "source_sha256": "e954cc038e4b54ca3c0a06fa9e9b65a0d65f60a221b3946aa64bbfc53dffd3c5",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "78fce0742a15ca29dcd1945f",
+      "paper_id": "Common corals of Amerian Samoa/Common corals of Amerian Samoa",
+      "source_path": "output/Common corals of Amerian Samoa/Common corals of Amerian Samoa.md",
+      "section_heading": "Common Corals of American Samoa",
+      "section_start_line": 1,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which agencies collaborate in the Coral Reef Advisory Group (CRAG)?",
+      "ground_truth_answer": "The Department of Marine and Wildlife Resources (DMWR); the Department of Commerce (DOC; including AS Coastal Management Program & Fagatele Bay National Marine Sanctuary); the American Samoa Environmental Protection Agency (EPA); the American Samoa Community College (ASCC); and the National Park of American Samoa (NPS).",
+      "ground_truth_chunks": [
+        "The group is a collaboration of five local agencies: the Department of Marine and Wildlife Resources (DMWR), the Department of Commerce (DOC; including AS Coastal Management Program & Fagatele Bay National Marine Sanctuary), the American Samoa Environmental Protection Agency (EPA), the American Samoa Community College (ASCC), and the National Park of American Samoa (NPS).",
+        "Member agencies work together by mutual consensus to manage coral reefs with the vision \"to protect and conserve reefs for the benefit of the people of American Samoa, the United States, and the world\"."
+      ]
+    },
+    {
+      "record_id": "d3661ba2bec9540deaba95b6",
+      "paper_id": "Common corals of Amerian Samoa/Common corals of Amerian Samoa",
+      "source_path": "output/Common corals of Amerian Samoa/Common corals of Amerian Samoa.md",
+      "section_heading": "Reef structure",
+      "section_start_line": 70,
+      "section_end_line": 77,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the reef flat and when can it be snorkeled?",
+      "ground_truth_answer": "The reef flat is a hard, nearly flat reef that begins right at the low tide line; it is the area people walk out on at low tide and it can be snorkeled at mid to high tide.",
+      "ground_truth_chunks": [
+        "Along most of the shoreline though, there is hard, nearly flat reef that begins right at the low tide line, called \"reef flat.\" It is the area that people walk out on at low tide and it can be snorkeled at mid to high tide."
+      ]
+    },
+    {
+      "record_id": "e454705dc439d53743e4dc77",
+      "paper_id": "Common corals of Amerian Samoa/Common corals of Amerian Samoa",
+      "source_path": "output/Common corals of Amerian Samoa/Common corals of Amerian Samoa.md",
+      "section_heading": "Zooxanthellae",
+      "section_start_line": 86,
+      "section_end_line": 93,
+      "model": "openai:gpt-4o-mini",
+      "question": "What role do zooxanthellae play in the nutrition of coral polyps?",
+      "ground_truth_answer": "Zooxanthellae are tiny, single-celled algae in coral tissues that convert sunlight into food and leak most of that food out, which is taken up by the coral polyp and helps the coral to grow.",
+      "ground_truth_chunks": [
+        "Corals are very unusual among animals, in that their tissues contain tiny, single-celled plants or algae, called \"zooxanthellae\" (Fig. 3).",
+        "When sunlight strikes these tiny algae cells, they convert it into food, just like the leaves of plants on land. The algae cells leak most of that food out, which is taken up by the coral polyp, helping the coral to grow."
+      ]
+    },
+    {
+      "record_id": "e2180eac5077f1b2be937878",
+      "paper_id": "Common corals of Amerian Samoa/Common corals of Amerian Samoa",
+      "source_path": "output/Common corals of Amerian Samoa/Common corals of Amerian Samoa.md",
+      "section_heading": "Summary",
+      "section_start_line": 102,
+      "section_end_line": 105,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral species are reported to be in American Samoa according to the Summary?",
+      "ground_truth_answer": "There are over 250 coral species in American Samoa.",
+      "ground_truth_chunks": [
+        "There are over 250 coral species in American Samoa alone, and coral colonies even within a species can be variable in their appearance."
+      ]
+    },
+    {
+      "record_id": "b81b84cf9c46e5ed169959da",
+      "paper_id": "Common corals of Amerian Samoa/Common corals of Amerian Samoa",
+      "source_path": "output/Common corals of Amerian Samoa/Common corals of Amerian Samoa.md",
+      "section_heading": "Acropora muricata (Staghorn coral) - Previously referred to as A. formosa",
+      "section_start_line": 116,
+      "section_end_line": 121,
+      "model": "openai:gpt-4o-mini",
+      "question": "What distinctive color feature appears on the end of every branch of Acropora muricata in American Samoa?",
+      "ground_truth_answer": "It has a purple tip on the end of every branch.",
+      "ground_truth_chunks": [
+        "It is tan to brown, and it has a purple tip on the end of every branch.",
+        "The purple tip is a very good distinguishing feature of this species in American Samoa."
+      ]
+    },
+    {
+      "record_id": "803322e30ff5c1315945670d",
+      "paper_id": "Common corals of Amerian Samoa/Common corals of Amerian Samoa",
+      "source_path": "output/Common corals of Amerian Samoa/Common corals of Amerian Samoa.md",
+      "section_heading": "Pocillopora damicornis (Cauliflower coral)",
+      "section_start_line": 130,
+      "section_end_line": 137,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the typical characteristics of the branch tips of Pocillopora damicornis?",
+      "ground_truth_answer": "Branch tips are always round and are usually a shade of light brown.",
+      "ground_truth_chunks": [
+        "Branch tips are always round and are usually a shade of light brown."
+      ]
+    },
+    {
+      "record_id": "a73e5fb4890fdb1ddddceb7b",
+      "paper_id": "Common corals of Amerian Samoa/Common corals of Amerian Samoa",
+      "source_path": "output/Common corals of Amerian Samoa/Common corals of Amerian Samoa.md",
+      "section_heading": "Millepora platyphylla (Fire coral)",
+      "section_start_line": 174,
+      "section_end_line": 181,
+      "model": "openai:gpt-4o-mini",
+      "question": "How thick can the paddles of Millepora platyphylla grow?",
+      "ground_truth_answer": "The paddles can be up to about ½ inch thick.",
+      "ground_truth_chunks": [
+        " The paddles can be a variety of shapes and sizes, and are up to about ½ inch thick.",
+        " It is brown or yellow-brown in color.",
+        " Fire corals have their name because they can produce a fiery sting on tender skin. Their stings are not dangerous and only cause light pain for a short period of time."
+      ]
+    },
+    {
+      "record_id": "b7845e8c9d673e8d295eb84f",
+      "paper_id": "Common corals of Amerian Samoa/Common corals of Amerian Samoa",
+      "source_path": "output/Common corals of Amerian Samoa/Common corals of Amerian Samoa.md",
+      "section_heading": "Isopora crateriformis",
+      "section_start_line": 224,
+      "section_end_line": 231,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the maximum colony diameter of Isopora crateriformis?",
+      "ground_truth_answer": "Colonies are up to about a foot and a half in diameter.",
+      "ground_truth_chunks": [
+        "Colonies are up to about a foot and a half in diameter, and are a reddish-brown, sometimes with green centers on the tubular corallites.",
+        "This species has recently been listed under the Endangered Species Act (ESA)."
+      ]
+    },
+    {
+      "record_id": "a1a120c7391d76842cd95d9e",
+      "paper_id": "Common corals of Amerian Samoa/Common corals of Amerian Samoa",
+      "source_path": "output/Common corals of Amerian Samoa/Common corals of Amerian Samoa.md",
+      "section_heading": "Montastrea curta",
+      "section_start_line": 244,
+      "section_end_line": 251,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the diameter of the corallites in Montastrea curta?",
+      "ground_truth_answer": "The corallites are about ¼ inch in diameter.",
+      "ground_truth_chunks": [
+        "The corallites are about ¼ inch in diameter, circular and relatively uniform."
+      ]
+    },
+    {
+      "record_id": "23dccb0920bb6e61eb52c54a",
+      "paper_id": "Common corals of Amerian Samoa/Common corals of Amerian Samoa",
+      "source_path": "output/Common corals of Amerian Samoa/Common corals of Amerian Samoa.md",
+      "section_heading": "Porites (mound)",
+      "section_start_line": 282,
+      "section_end_line": 292,
+      "model": "openai:gpt-4o-mini",
+      "question": "What colors are mounding Porites commonly and sometimes found in?",
+      "ground_truth_answer": "They are commonly a yellow-brown or green, sometimes brown, rarely purple.",
+      "ground_truth_chunks": [
+        "They are commonly a yellow-brown or green, sometimes brown, rarely purple."
+      ]
+    }
+  ],
+  "failures": []
+}

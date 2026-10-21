@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012.md",
+  "source_sha256": "a92e19e663da58bce9e144e554fb7e070c32b2957834c6db699a74f7349512c9",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "2d7397d56d591e5339d19d78",
+      "paper_id": "Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012",
+      "source_path": "output/Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012.md",
+      "section_heading": "Abstract",
+      "section_start_line": 9,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Symbiodinium clade is hypothesized to provide the coral holobiont with elevated thermal tolerance?",
+      "ground_truth_answer": "Clade D is hypothesized to provide the coral holobiont with elevated thermal tolerance.",
+      "ground_truth_chunks": [
+        "One group of Symbiodinium that is hypothesized to be important for the future of reefs is clade D, which, in general, seems to provide the coral holobiont (i.e., coral host and associated symbiont community) with elevated thermal tolerance."
+      ]
+    },
+    {
+      "record_id": "a3a90bf1b3e25ee48a89ff49",
+      "paper_id": "Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012",
+      "source_path": "output/Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012.md",
+      "section_heading": "Sample collection",
+      "section_start_line": 37,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many colonies of Acropora hyacinthus were sampled from Ofu Island?",
+      "ground_truth_answer": "Sixteen colonies were sampled.",
+      "ground_truth_chunks": [
+        "Sixteen colonies of A. hyacinthus were sampled from the backreef pools on the south side of Ofu Island, American Samoa (14°11'S, 169°36'W)."
+      ]
+    },
+    {
+      "record_id": "0bfaf4df060f36702c6c229e",
+      "paper_id": "Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012",
+      "source_path": "output/Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012.md",
+      "section_heading": "Extraction and sequencing",
+      "section_start_line": 41,
+      "section_end_line": 50,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many libraries were constructed and sequenced in total?",
+      "ground_truth_answer": "In total, 31 libraries were constructed and sequenced.",
+      "ground_truth_chunks": [
+        "In total, 31 libraries were constructed and sequenced using the Illumina Genome Analyzer II (Illumina; Additional file [1](#page-10-0): Table S1).",
+        "One of the elevated temperature samples (colony 3) was not sequenced due to poor RNA extraction."
+      ]
+    },
+    {
+      "record_id": "8d34601966da5f47eb51105c",
+      "paper_id": "Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012",
+      "source_path": "output/Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012.md",
+      "section_heading": "De novo transcriptome assembly",
+      "section_start_line": 59,
+      "section_end_line": 66,
+      "model": "openai:gpt-4o-mini",
+      "question": "What similarity criteria were used to identify putative Symbiodinium contigs in each assembly?",
+      "ground_truth_answer": "Putative Symbiodinium contigs were identified based on sequence similarity: BLASTN hits ≥100 bp with ≥75% identity or TBLASTX hits ≥50 amino acids with ≥85% identity to ESTs from Symbiodinium sp. KB8, sp. MF1.05b, sp. C3, and Polarella glacialis.",
+      "ground_truth_chunks": [
+        "Therefore, we identified putative Symbiodinum contigs for each assembly based on sequence similarity (BLASTN ≥100bp, ≥75% identity or TBLASTX ≥50 amino acids, ≥85% identity) to ESTs from Symbiodinium sp. KB8 (clade A), sp. MF1.05b (clade B; <http://medinalab.org/zoox/>) and sp. C3 (clade C) [\\[41](#page-12-0)], and Polarella glacialis (unpublished data) [[42](#page-12-0)]."
+      ]
+    },
+    {
+      "record_id": "656cef9518ec8ab7526c6909",
+      "paper_id": "Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012",
+      "source_path": "output/Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012.md",
+      "section_heading": "Rates of protein evolution",
+      "section_start_line": 79,
+      "section_end_line": 94,
+      "model": "openai:gpt-4o-mini",
+      "question": "What maximum tree length cutoff (# substitutions per codon) was used for 4-taxa analyses?",
+      "ground_truth_answer": "A maximum tree length cutoff of 8 substitutions per codon was used for 4-taxa analyses.",
+      "ground_truth_chunks": [
+        "Regardless, we chose to be somewhat conservative by setting a maximum tree length cutoff (# substitutions per codon) of 2 times the number of taxa in the tree.",
+        "This resulted in a maximum tree length of 8 for 4-taxa analyses and 6 for 3-taxa analyses."
+      ]
+    },
+    {
+      "record_id": "d3336243e63b188483814cbc",
+      "paper_id": "Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012",
+      "source_path": "output/Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012.md",
+      "section_heading": "Symbiodinium community compositions and de novo transcriptome assembly",
+      "section_start_line": 101,
+      "section_end_line": 108,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many contigs were produced in the de novo assemblies for clade C and clade D?",
+      "ground_truth_answer": "Clade C assembly: 26,986 contigs; Clade D assembly: 23,777 contigs.",
+      "ground_truth_chunks": [
+        "After BLAST-based filtering and joining (Additional file 5: Table S4), the clade C assembly consists of 26,986 contigs (mean length=464, N50=534) and the clade D assembly contains 23,777\n\ncontigs (mean length=698, N50=920).",
+        "A total of 9184 clade C contigs (34.0%) had good BLASTX hits to 6626 different proteins in Swiss-Prot, and 10,629 of the clade D contigs (44.7%) had good hits to 7374 proteins."
+      ]
+    },
+    {
+      "record_id": "fcb59234d44646e03c67137d",
+      "paper_id": "Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012",
+      "source_path": "output/Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012.md",
+      "section_heading": "Rates of protein evolution",
+      "section_start_line": 113,
+      "section_end_line": 168,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many orthologs were found to have significantly different rates of dN/dS along the clade D lineage in the 1139 multi-branch codeml analyses?",
+      "ground_truth_answer": "207 orthologs (18%) were found to have significantly different rates of dN/dS along the clade D lineage (p<0.05).",
+      "ground_truth_chunks": [
+        "Of the 1139 multi-branch *codeml* analyses (ABCD and BCD), 207 orthologs (18%) were found to have significantly different rates of  $d_{\\rm N}/d_{\\rm S}$  along the clade D lineage (p<0.05; Additional file 6: Table S5-Additional file 7: Table S6); 74 (6.4%) had higher than average rates, while 133 (11.6%) exhibited rates that were lower than average.",
+        "Of these, 48 loci (23%) remained significant after Benjamini-Hochberg false discovery rate (FDR) correction ( $\\alpha$ =0.05) [57] and 136 (65.7%) remained significant after Sequential Goodness of Fit (SGoF) correction ( $\\alpha$ =0.05) [58] (Additional file 6: Table S5-Additional file 7: Table S6)."
+      ]
+    },
+    {
+      "record_id": "c28084ef85493abdd1ae0a56",
+      "paper_id": "Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012",
+      "source_path": "output/Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012.md",
+      "section_heading": "Genes with elevated dN/dS along the clade D lineage",
+      "section_start_line": 203,
+      "section_end_line": 220,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which desaturase-related ortholog showed significantly elevated dN/dS along the clade D lineage?",
+      "ground_truth_answer": "A desaturase (4-taxa ortholog 515, ωD=0.094, ωBG=0.041) similar to the palmitoyl-monogalactosyldiacylglycerol delta-7 desaturase (FAD5).",
+      "ground_truth_chunks": [
+        "Our analysis revealed one desaturase involved in unsaturated fatty acid synthesis with significantly elevated dN/dS along the clade D lineage (4-taxa ortholog 515, ωD=0.094, ωBG=0.041; Additional",
+        "This ortholog is very similar to the palmitoyl-monogalactosyldiacylglycerol delta-7 desaturase (FAD5) in Arabidopsis thaliana (BLASTX evalue=3×10-104), which is involved in early stages of desaturation of fatty acids used in the synthesis of thylakoid membranes [[66](#page-12-0)]."
+      ]
+    },
+    {
+      "record_id": "0c71fc1b9770b957e3f6bbbc",
+      "paper_id": "Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012",
+      "source_path": "output/Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012.md",
+      "section_heading": "Mixed assemblages of symbiodinium",
+      "section_start_line": 221,
+      "section_end_line": 228,
+      "model": "openai:gpt-4o-mini",
+      "question": "What did high-throughput sequencing reveal about the co-occurrence of Symbiodinium clades C and D in Acropora hyacinthus colonies sampled in this study?",
+      "ground_truth_answer": "High-throughput sequencing showed that all 16 Acropora hyacinthus colonies exhibited some proportion of both clades C and D when pooled across two samples from each colony (background frequencies 0.1–49.4%), even though PCR-based cp23S genotyping detected only a single clade per colony, indicating prevalent low-frequency background strains and potential for symbiont 'shuffling'.",
+      "ground_truth_chunks": [
+        "All 16 colonies of Acropora hyacinthus sampled in this study exhibit some proportion of both clades C and D when results are pooled across the two samples from each colony (background frequencies: 0.1-49.4%), despite the fact that PCR-based cp23S genotyping detected only a single clade in each of these colonies.",
+        "The ubiquitous presence of both clades C and D within A. hyacinthus colonies in Ofu illustrates the strong potential within this population for symbiont 'shuffling' (i.e., changing the proportions of different symbionts already coexisting within a coral colony) to play a role in acclimatization of individual colonies in response to environmental fluctuations."
+      ]
+    },
+    {
+      "record_id": "c2569b80786819e4dbb4d4cb",
+      "paper_id": "Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012",
+      "source_path": "output/Ladner Barshis Palumbi 2012/Ladner Barshis Palumbi 2012.md",
+      "section_heading": "Additional files",
+      "section_start_line": 237,
+      "section_end_line": 260,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which additional file contains the results of the Gene Ontology enrichment analyses of four different subsets of orthologs?",
+      "ground_truth_answer": "Additional file 10: Table S9.",
+      "ground_truth_chunks": [
+        "[Additional file 10: Table S9.](http://www.biomedcentral.com/content/supplementary/1471-2148-12-217-S10.xlsx) Results of the Gene Ontology enrichment analyses of four different subsets of orthologs."
+      ]
+    }
+  ],
+  "failures": []
+}

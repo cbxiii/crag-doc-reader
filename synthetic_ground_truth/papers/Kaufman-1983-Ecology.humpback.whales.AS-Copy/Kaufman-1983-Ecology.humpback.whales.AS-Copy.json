@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Kaufman-1983-Ecology.humpback.whales.AS-Copy/Kaufman-1983-Ecology.humpback.whales.AS-Copy.md",
+  "source_sha256": "e12a31465a387269510d7aa0f2227eadf226a771466f28ad8e127e70bd73a135",
+  "status": "complete",
+  "selected_section_count": 3,
+  "successful_record_count": 3,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "1b4be0dd0439d95ae403acc7",
+      "paper_id": "Kaufman-1983-Ecology.humpback.whales.AS-Copy/Kaufman-1983-Ecology.humpback.whales.AS-Copy",
+      "source_path": "output/Kaufman-1983-Ecology.humpback.whales.AS-Copy/Kaufman-1983-Ecology.humpback.whales.AS-Copy.md",
+      "section_heading": "Kaufman-1983-Ecology.humpback.whales.AS-Copy.md",
+      "section_start_line": 1,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to this section, where do the four feeding populations of humpback whales winter or calve?",
+      "ground_truth_answer": "In the West Indies.",
+      "ground_truth_chunks": [
+        "Lawrence-Labrador-Newfoundland-Grand Bank; western Greenland; and Iceland.",
+        "No interchange of individuals between those feeding areas has yet been found but all four feeding populations winter or calve in the West **Indies.**"
+      ]
+    },
+    {
+      "record_id": "9ef9103386d539e5bbd3af99",
+      "paper_id": "Kaufman-1983-Ecology.humpback.whales.AS-Copy/Kaufman-1983-Ecology.humpback.whales.AS-Copy",
+      "source_path": "output/Kaufman-1983-Ecology.humpback.whales.AS-Copy/Kaufman-1983-Ecology.humpback.whales.AS-Copy.md",
+      "section_heading": "ECOLOGY OF HUMPB WHALES IN AMERICAN",
+      "section_start_line": 15,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "Between which dates were humpback whales observed in American Samoan waters, and when did peak concentrations occur?",
+      "ground_truth_answer": "They were observed from June 26 to Nov. 15, with peak concentrations occurring from Sept. 15 to Oct. 1.",
+      "ground_truth_chunks": [
+        "Humpbacks were observed inhabiting the near-shore waters of primarily 100 fathans or less fran June 26 to Nov. 15 with peak concentrations occurring fran Sept. 15 to Oct. 1."
+      ]
+    },
+    {
+      "record_id": "2b0f031846352f2455b96f43",
+      "paper_id": "Kaufman-1983-Ecology.humpback.whales.AS-Copy/Kaufman-1983-Ecology.humpback.whales.AS-Copy",
+      "source_path": "output/Kaufman-1983-Ecology.humpback.whales.AS-Copy/Kaufman-1983-Ecology.humpback.whales.AS-Copy.md",
+      "section_heading": "DEMOGRAPHICS OF HUMPBACK WHALES OFF SOUTHWEST MAUI, HAWAII",
+      "section_start_line": 25,
+      "section_end_line": 31,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many calves were observed in the study off southwest Maui from 1980 through 1983?",
+      "ground_truth_answer": "188 calves.",
+      "ground_truth_chunks": [
+        "A total of 1218 hours of observation found, excluding single sightings, 1634 pods including 3215 animals of which 188 were calves."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Vargas-Angel Godwin Brainard 2008 Swains Diplosoma/Vargas-Angel Godwin Brainard 2008 Swains Diplosoma.md",
+  "source_sha256": "327571378ddfc4b2ac694c638a9bf2613b159d1d569cc6f2f12092dd4c88dcb9",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "bf9c2ae67f70d8be7b868092",
+      "paper_id": "Vargas-Angel Godwin Brainard 2008 Swains Diplosoma/Vargas-Angel Godwin Brainard 2008 Swains Diplosoma",
+      "source_path": "output/Vargas-Angel Godwin Brainard 2008 Swains Diplosoma/Vargas-Angel Godwin Brainard 2008 Swains Diplosoma.md",
+      "section_heading": "Invasive didemnid tunicate spreading across coral reefs at remote Swains Island, American Samoa",
+      "section_start_line": 1,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "What maximum relative abundances of Diplosoma similis were recorded at two sites within the major center of occurrence around Swains Island during the March 2008 surveys?",
+      "ground_truth_answer": "Relative abundances as high as 76.5% and 35.0%.",
+      "ground_truth_chunks": [
+        "Towed-diver benthic surveys, covering 28.6 ha (28.6 km · 10 m, 3.2–21.4 m depth) of forereef habitat encircling the island, confirmed widespread occurrence of the tunicate, with elevated abundance observed along the north-northwest side of the island.",
+        "Fifteen, 25-m line-point intercept survey transects (50 cm intervals at 10.9– 13.9 m depths) at eight long-term (established since 2002) monitoring stations around Swains indicated relative abundances of D. similis as high as 76.5% and 35.0% at two sites within the major center of occurrence (Fig. 1a), and between 0% and 23.5% for the remaining six sites."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega.md",
+  "source_sha256": "196fc8eafe94eff7f9eb79c982dce757e61a87935758bc4b87f3e299282e9c67",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "88190763217893f069492905",
+      "paper_id": "McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega",
+      "source_path": "output/McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega.md",
+      "section_heading": "RULES ADOPTED BY THE BOARD OF REGENTS OF THE UNIVERSITY OF HAWAII NOV. 8, 1955 WITH REGARD TO THE REPRODUCTION OF GRADUATE THESES",
+      "section_start_line": 13,
+      "section_end_line": 23,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under these rules, whose consent is required before publishing quotations or excerpts from a graduate thesis?",
+      "ground_truth_answer": "The consent of the author and of the Graduate School Council is required.",
+      "ground_truth_chunks": [
+        "- (b) No individual or corporation or other organization may publish quotations or excerpts from a graduate thesis without the consent of the author and of the Graduate School Council.",
+        "- (a) No person or corporation may publish or reproduce in any manner, without the consent of the Graduate School Council, a graduate thesis which has been submitted to the University in partial fulfillment of the requirements for an advanced degree."
+      ]
+    },
+    {
+      "record_id": "20fe915b8db39ca741c23c5c",
+      "paper_id": "McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega",
+      "source_path": "output/McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega.md",
+      "section_heading": "Previous Investigations",
+      "section_start_line": 171,
+      "section_end_line": 207,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who was the first American geologist to visit Ofu and Olosega?",
+      "ground_truth_answer": "Daly (1924).",
+      "ground_truth_chunks": [
+        "Daly (1924, pp. 132-135) was the first American geologist to visit Ofu and Olosega.",
+        "He recognized that both islands were merely the remnant of a larger basaltic volcano.",
+        "Daly thought both islands were largely composed of pyroclastic material, with basaltic flows\n\npredominating only at the northwestern end of Ofu and the southeastern end of Olosega."
+      ]
+    },
+    {
+      "record_id": "56209f512b4f5c6f92f52e9c",
+      "paper_id": "McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega",
+      "source_path": "output/McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega.md",
+      "section_heading": "Gravity Measurements",
+      "section_start_line": 250,
+      "section_end_line": 255,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the reported range of the absolute Bouguer gravity anomalies of Ofu and Olosega, and where are the low and high values located?",
+      "ground_truth_answer": "They range from a low of plus 260 milligals at Alaufau on the west coast of Ofu to a high of plus 312 milligals on the beach at Sunu'itao, also on Ofu.",
+      "ground_truth_chunks": [
+        "The absolute Bouguer gravity anomalies of Ofu and Olosega range from a low of plus 260 milligals at Alaufau on the west coast of Ofu, to a high of plus 312 milligals on the beach at Sunu'itao, also on Ofu (Machesky, 1964)."
+      ]
+    },
+    {
+      "record_id": "a2c219d6580b65f433b617fa",
+      "paper_id": "McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega",
+      "source_path": "output/McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega.md",
+      "section_heading": "Description.",
+      "section_start_line": 338,
+      "section_end_line": 365,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the height of the sea cliffs behind Olosega village, and how do they relate to the island's summit?",
+      "ground_truth_answer": "They reach a height of 2095 feet and extend directly to the summit of the island.",
+      "ground_truth_chunks": [
+        "Behind Olosega village the sea cliffs reach a spectacular height of 2095 feet--directly to the sumit of the island."
+      ]
+    },
+    {
+      "record_id": "0fd14f4177325881a5ee1c46",
+      "paper_id": "McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega",
+      "source_path": "output/McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega.md",
+      "section_heading": "Submarine features.",
+      "section_start_line": 426,
+      "section_end_line": 441,
+      "model": "openai:gpt-4o-mini",
+      "question": "How close does the Manu's Ridge rise to the surface between Olosega and Ta'u, and where is that feature located relative to Olosega?",
+      "ground_truth_answer": "It rises to within about 130 feet of the surface 5.2 miles southeast of Olosega and is marked as the submarine volcano on USC&GS chart no. 4190.",
+      "ground_truth_chunks": [
+        "Between Olosega and Ta'u, the Manu's Ridge rises to within about 130 feet of the surface 5.2 miles southeast of Olosega and is marked as the submarine volcano on USC&GS chart no. 4190.",
+        "Stearns' position (1944) for the submarine volcano is within the 100 fathom closed contour 2.2 miles southeast of Olosega."
+      ]
+    },
+    {
+      "record_id": "5bd6b3b9106a5e9aadd9f9cd",
+      "paper_id": "McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega",
+      "source_path": "output/McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega.md",
+      "section_heading": "Stratigraphic Section of Extra-caldera Volcanics Along the Trail at Maga Point, Olosega.",
+      "section_start_line": 510,
+      "section_end_line": 525,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the total thickness of the stratigraphic section at Maga Point, Olosega?",
+      "ground_truth_answer": "414 feet.",
+      "ground_truth_chunks": [
+        "| Total thickness of section                                                                                                                                                                                                                                | 414                 |"
+      ]
+    },
+    {
+      "record_id": "444763e0e1f089e8ee15c0c3",
+      "paper_id": "McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega",
+      "source_path": "output/McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega.md",
+      "section_heading": "Definition",
+      "section_start_line": 644,
+      "section_end_line": 649,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, are the Intrusive Volcanics older or younger than the Intra-caldera and Extra-caldera Volcanics?",
+      "ground_truth_answer": "The Intrusive Volcanics are generally older than the Intra-caldera Volcanics, but are younger than the Extra-caldera Volcanics.",
+      "ground_truth_chunks": [
+        "This would indicate that the Intrusive Volcanics are generally older than the Intra-caldera Volcanics, but are younger than the Extra-caldera Volcanics.",
+        "The Intrusive Volcanics are composed of the dikes and plugs which intruded the Extra-caldera and the Intra-caldera Volcanics."
+      ]
+    },
+    {
+      "record_id": "0fff3868d7d4452a020620d0",
+      "paper_id": "McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega",
+      "source_path": "output/McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega.md",
+      "section_heading": "Stratigraphic Section of Intra-caldera Volcanics Along the Trail to Sinapoto, Ofu",
+      "section_start_line": 706,
+      "section_end_line": 738,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the reported total thickness of the stratigraphic section?",
+      "ground_truth_answer": "221+ feet.",
+      "ground_truth_chunks": [
+        "| Top                                                                                                                                                                                                                                                                                                                                                                              | Thickness (feet) |",
+        "| Total thickness of section                                                                                                                                                                                                                                                                                                                                                       | 221+             |"
+      ]
+    },
+    {
+      "record_id": "6adb63a6c111b35b1ef44163",
+      "paper_id": "McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega",
+      "source_path": "output/McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega.md",
+      "section_heading": "Beachrock",
+      "section_start_line": 771,
+      "section_end_line": 778,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the typical grain types and cementing material of the intertidal beachrock?",
+      "ground_truth_answer": "The grains are sub-angular to rounded remains of calcareous marine organisms, predominately of sand size, with only minor amounts of volcanic detritus; they have been cemented by calcium carbonate.",
+      "ground_truth_chunks": [
+        "Beachrock, a cemented calcareous sandstone or conglomerate, occurs within the intertidal zone along beaches and on the 15 feet bench.",
+        "The grains are sub-angular to rounded remains of calcareous marine organisms, which have been cemented by calcium carbonate. They are predominately of sand size on the Wentworth scale. Only minor amounts of volcanic detritus are present in the beachrock."
+      ]
+    },
+    {
+      "record_id": "b363fbb309b698e12ff9ef03",
+      "paper_id": "McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega",
+      "source_path": "output/McCoy 1965 Geology Ofu-Oosega/McCoy 1965 Geology Ofu-Oosega.md",
+      "section_heading": "GEOLOGIC HISTORY",
+      "section_start_line": 832,
+      "section_end_line": 869,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the dimensions of the caldera formed by repeated summit pit-crater collapses on the Ofu-Olosega volcano?",
+      "ground_truth_answer": "The caldera is 3 miles long and 1-1/2 miles wide.",
+      "ground_truth_chunks": [
+        "Repeated collapse of numerous pit craters on the summit eventually produced a caldera 3 miles long and 1-1/2 miles wide. Lava flows ponded within the caldera and partly filled it.",
+        "2) Through repeated collapse of the summit, a caldera 3 miles long and 1-1/2 miles wide was produced. Flows partly filled the caldera."
+      ]
+    }
+  ],
+  "failures": []
+}

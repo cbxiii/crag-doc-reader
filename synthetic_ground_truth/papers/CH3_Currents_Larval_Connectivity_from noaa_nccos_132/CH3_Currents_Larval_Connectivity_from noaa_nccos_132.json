@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "source_path": "output/CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132.md",
+  "source_sha256": "87b6db24ef62b3c74b7a4e9f5e3c4a2bfa365ca2fce208ba232fb82778965048",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "48a760c797674730ffec8d2e",
+      "paper_id": "CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132",
+      "source_path": "output/CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 5,
+      "section_end_line": 33,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the stated goals of this chapter?",
+      "ground_truth_answer": "The chapter's goals were to: (1) Quantify and describe regional ocean currents in the Samoan Archipelago; (2) Model the potential transport pathways of virtual larvae among island sources throughout the region; (3) Identify key sources and destinations of larvae for each island; and (4) Quantify the influence of various combinations of larval life history characteristics (e.g. larval longevity, daily mortality rate) on those connections.",
+      "ground_truth_chunks": [
+        "The goals of this chapter were to:\n\n- 1. Quantify and describe regional ocean currents in the Samoan Archipelago,\n- 2. Model the potential transport pathways of virtual larvae among island sources throughout the region,\n- 3. Identify key sources and destinations of larvae for each island, and,\n- 4. Quantify the influence of various combinations of larval life history characteristics (e.g. larval longevity, daily mortality rate) on those connections."
+      ]
+    },
+    {
+      "record_id": "0bb1e89ff750e3e0f9a170ed",
+      "paper_id": "CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132",
+      "source_path": "output/CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132.md",
+      "section_heading": "Mass spawning events and start dates of larval transport",
+      "section_start_line": 78,
+      "section_end_line": 83,
+      "model": "openai:gpt-4o-mini",
+      "question": "What starting dates were used for each model year in the simulations?",
+      "ground_truth_answer": "The starting dates used were 3 November 2004, 23 October 2005, 11 November 2006, 1 November 2007, and 20 October 2008.",
+      "ground_truth_chunks": [
+        "Starting dates for each model year were identified as six days after the first full moon to occur after October 12.",
+        "These dates were 3 November 2004, 23 October 2005, 11 November 2006, 1 November 2007, and 20 October 2008."
+      ]
+    },
+    {
+      "record_id": "0c525def93062a032b0128a6",
+      "paper_id": "CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132",
+      "source_path": "output/CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132.md",
+      "section_heading": "Mortality",
+      "section_start_line": 120,
+      "section_end_line": 125,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, how many larvae out of 1000 would remain after 20 days in the plankton at daily mortality rates of 3%, 18%, and 46%?",
+      "ground_truth_answer": "Approximately 544 would remain at 3% daily mortality, 19 would remain at 18% daily mortality, and less than 1 would remain at 46% daily mortality.",
+      "ground_truth_chunks": [
+        "For example, for every 1000 larvae produced at a source, after 20 days in the plankton, approximately 544 would remain if daily mortality were 3%, 19 would remain if mortality were 18%, and less than 1 would remain if mortality were 46%.",
+        "In the present study, we investigated the influence of a range of daily mortality rates including 3%, 18%, and 46% to reflect the spectrum of known values (Cowen et al. 2000)."
+      ]
+    },
+    {
+      "record_id": "100fb146b01b9444886ab7c7",
+      "paper_id": "CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132",
+      "source_path": "output/CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132.md",
+      "section_heading": "South Equatorial Current",
+      "section_start_line": 198,
+      "section_end_line": 217,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the typical velocity of the South Equatorial Current (SEC) based on drifter data?",
+      "ground_truth_answer": "~25 cm/s.",
+      "ground_truth_chunks": [
+        "Typical velocity based on drifter data is ~25 cm/s.",
+        "Although its latitude is variable among seasons and years, this component of the SEC seldom extends far below ~9° S"
+      ]
+    },
+    {
+      "record_id": "234e050e9a775b30cfba8c8d",
+      "paper_id": "CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132",
+      "source_path": "output/CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132.md",
+      "section_heading": "Larval Connectivity: Overall Patterns",
+      "section_start_line": 252,
+      "section_end_line": 297,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which ocean current primarily controlled the overall spatial pattern of larval connectivity in the study region?",
+      "ground_truth_answer": "The SEC (South Equatorial Current) primarily controlled the overall spatial pattern of larval connectivity.",
+      "ground_truth_chunks": [
+        "Overall, the spatial pattern of connectivity was controlled by the SEC with islands to the east providing larvae to both themselves and islands to the west.",
+        "The pattern of transport is such that most of the larvae either settle at the source or are transported to destinations downstream to the west, including the islands of Samoa, but often not as far as Wallis Island and its associated seamounts and not in very high proportions."
+      ]
+    },
+    {
+      "record_id": "791d77f59b94b75d92f4fca1",
+      "paper_id": "CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132",
+      "source_path": "output/CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132.md",
+      "section_heading": "Destinations",
+      "section_start_line": 324,
+      "section_end_line": 337,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of larvae spawned from southern Savai'i are retained there for the low mortality scenario and 10 day PLD?",
+      "ground_truth_answer": "Nearly 25% of the larvae spawned from southern Savai'i are retained there for the low mortality scenario and 10 day PLD.",
+      "ground_truth_chunks": [
+        "Nearly 25% of the larvae spawned from southern Savai'i are retained there for the low mortality scenario and 10 day PLD (Figure 3.15).",
+        "Most larvae from Savai'i's south coast are transported to the southwest via the SEC and have reached Wallis and the northern islands and seamounts of the Tonga group (Niuafo'ou, Tafahi, etc.) after only 10 days (Figure 3.14)."
+      ]
+    },
+    {
+      "record_id": "6de82f7a25f41a1889bde67b",
+      "paper_id": "CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132",
+      "source_path": "output/CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132.md",
+      "section_heading": "Destinations",
+      "section_start_line": 398,
+      "section_end_line": 411,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of larvae from Upolu's north coast return there for the short PLD and low mortality scenarios?",
+      "ground_truth_answer": "Over 40% of the larvae from Upolu's north coast return there for the short PLD and low mortality scenarios.",
+      "ground_truth_chunks": [
+        "The northern coast of Upolu is the largest source of larvae in the Samoan Archipelago with more potential reef area than all the islands and seamounts of American Samoa combined (Figure 3.11, Table 3.3).",
+        "Over 40% of the larvae from Upolu's north coast return there for the short PLD and low mortality scenarios (Figure 3.24).",
+        "A large proportion of larvae from northern Upolu settle at Savai'i for all mortality scenarios (Figure 3.25)."
+      ]
+    },
+    {
+      "record_id": "554f62541802bdf69536a4a0",
+      "paper_id": "CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132",
+      "source_path": "output/CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132.md",
+      "section_heading": "Destinations",
+      "section_start_line": 470,
+      "section_end_line": 483,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which destinations receive a high proportion of larvae originating from East Bank at 10-day, 20–30 day, and longer PLDs?",
+      "ground_truth_answer": "At 10-day PLD: South Bank. At 20–30 day PLDs: Tutuila and Upolu. At longer PLDs: islands farther west.",
+      "ground_truth_chunks": [
+        "A high proportion of larvae settle at South Bank at the 10 day PLD, Tutuila and Upolu at 20 to 30 day PLDs and islands farther west for longer PLDs (Figure 3.34).",
+        "East Bank has virtually no retention of locally produced larvae (Figure 3.33)."
+      ]
+    },
+    {
+      "record_id": "ed816e0a8ca73a557e12a5ed",
+      "paper_id": "CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132",
+      "source_path": "output/CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132.md",
+      "section_heading": "Sources",
+      "section_start_line": 532,
+      "section_end_line": 535,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage range of arriving larvae in the Manu'a Islands are reliant on outside larval sources depending on PLD and daily mortality rate?",
+      "ground_truth_answer": "0-90% of their arriving larvae.",
+      "ground_truth_chunks": [
+        "The Manu'a Islands are reliant on outside larval sources for a wide range, 0-90%, of their arriving larvae depending on PLD and daily mortality rate (Figure 3.39).",
+        "Nearly all larvae with a 100 day PLD are from outside sources whereas a high proportion of self seeding occurs for larvae in the 10-30 day PLD range."
+      ]
+    },
+    {
+      "record_id": "4beef0ae9dcdc26c05910fdd",
+      "paper_id": "CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132",
+      "source_path": "output/CH3_Currents_Larval_Connectivity_from noaa_nccos_132/CH3_Currents_Larval_Connectivity_from noaa_nccos_132.md",
+      "section_heading": "CONCLUSIONS",
+      "section_start_line": 586,
+      "section_end_line": 609,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two locations in the Samoan Archipelago does the Conclusions section identify as worthy of consideration for special protection due to isolation and likely slower recovery?",
+      "ground_truth_answer": "Rose Atoll and Swains Island.",
+      "ground_truth_chunks": [
+        "Sites such as Rose Atoll and Swains Island are far upstream from any large larval sources and thus may be among the slowest to recover following a disturbance due to a lack of recruits.",
+        "For these two reasons (probable slower recovery potential following disturbance and biogeographic uniqueness/isolation) these sites are worthy of consideration for special protection status."
+      ]
+    }
+  ],
+  "failures": []
+}

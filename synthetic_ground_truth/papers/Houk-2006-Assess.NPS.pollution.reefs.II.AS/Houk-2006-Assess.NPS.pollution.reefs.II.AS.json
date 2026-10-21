@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS.md",
+  "source_sha256": "ef571193619a16da56cbff529d39b92ea38f0d5c54f9a41c903cbf3e61cbfc40",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "3c18fa16ba3453d22e4d793e",
+      "paper_id": "Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS",
+      "source_path": "output/Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS.md",
+      "section_heading": "Abstract",
+      "section_start_line": 21,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two sites had the lowest human population density and highest biological integrity, representing fully supportive waterbodies for geomorphology class 2 and 3, respectively?",
+      "ground_truth_answer": "Tafau and Fagatele.",
+      "ground_truth_chunks": [
+        "Tafau and Fagatele had the lowest human population density and the highest biological integrity, representing fully supportive waterbodies for geomorphology class 2 and 3, respectively.",
+        "Four significant measures were selected for their use in reef 'health' assessments; 1) coral diversity per unit area, 2) total coral diversity, 3) coral community evenness, and 4) a benthic substrate ratio."
+      ]
+    },
+    {
+      "record_id": "46ec304c403ed08f3cc48294",
+      "paper_id": "Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS",
+      "source_path": "output/Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 27,
+      "section_end_line": 38,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many geomorphological classes of survey locations are identified in the study and how is each class characterized?",
+      "ground_truth_answer": "Three classes. Class 1: sites most exposed to prevailing oceanic swells, limited lateral Holocene accretion (small reef flats), and extremely steep reef slopes with little living coral. Class 2: low oceanic exposure, reefs formed upon the edges of volcanic valleys (relatively steep slopes). Class 3: low oceanic exposure, reefs adjacent to laterally accreting flats with very gradual slopes.",
+      "ground_truth_chunks": [
+        "Three, visually distinct geomorphological 'settings' (referred to as classes herein) exist among the 12 survey locations included in this study (Figure 1a-c, Table 1). Class 1 consists of sites that are most exposed to prevailing oceanic swells and thus have had limited, lateral Holocene accretion (e.g. small reef flats) and formed extremely steep reef slopes with little living coral. Class 2 and 3 are similar in their low oceanic exposure and reef flat development but differ in their bathymetric slope, possibly a consequence of the underlying volcanic bedrock (Table 1). Class 2 consists of reefs that were formed upon the edges of volcanic valleys (relatively steep slopes), while class 3 consists of reefs adjacent to laterally accreting flats, with very gradual slopes."
+      ]
+    },
+    {
+      "record_id": "a464f92a67471e34accb8433",
+      "paper_id": "Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS",
+      "source_path": "output/Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS.md",
+      "section_heading": "2.1. Study Location",
+      "section_start_line": 41,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what depth were the reef surveys completed at each site in the Study Location section?",
+      "ground_truth_answer": "Surveys at each site were completed at a uniform depth of 9 – 11 m.",
+      "ground_truth_chunks": [
+        "At each site surveys were completed at a uniform depth of 9 – 11 m."
+      ]
+    },
+    {
+      "record_id": "24af3f02855419f881a91271",
+      "paper_id": "Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS",
+      "source_path": "output/Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS.md",
+      "section_heading": "2.3. Coral Communities",
+      "section_start_line": 51,
+      "section_end_line": 68,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were the geometric diameters (z) of coral colonies calculated?",
+      "ground_truth_answer": "Geometric diameters were calculated as the square root of the product of the two measured diameters: z (cm) = (xy)^{1/2}, where x and y are the diameters of each coral colony.",
+      "ground_truth_chunks": [
+        "Geometric diameters (z) were calculated based upon the geometric formula;\n\n$$z (cm) = (xy)^{1/2}$$\n (1)\n\nwhere (x) and (y) are the diameters of each coral colony."
+      ]
+    },
+    {
+      "record_id": "acb140769c3e8e1fc41a9e28",
+      "paper_id": "Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS",
+      "source_path": "output/Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS.md",
+      "section_heading": "2.4. Coral Diversity",
+      "section_start_line": 69,
+      "section_end_line": 72,
+      "model": "openai:gpt-4o-mini",
+      "question": "What statistic was calculated as a measure of the number of coral species present while accounting for abundance and community evenness?",
+      "ground_truth_answer": "Margalef's d-statistic.",
+      "ground_truth_chunks": [
+        "Coral diversity per unit area represents the number of coral species that were found in the quadrat surveys (8 m<sup>2</sup> ).",
+        "Margalef's d-statistic was calculated as a measure of the number of coral species present, making some allowance for the abundance of individuals, or community evenness (Clarke and Warwick, 2001)."
+      ]
+    },
+    {
+      "record_id": "d129aa95ebc734d53b0a5b56",
+      "paper_id": "Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS",
+      "source_path": "output/Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS.md",
+      "section_heading": "2.6. Fish",
+      "section_start_line": 77,
+      "section_end_line": 82,
+      "model": "openai:gpt-4o-mini",
+      "question": "What method and radius were used to estimate fish abundances?",
+      "ground_truth_answer": "Fish abundances were estimated using 5 replicates of a modified, Bohnsack stationary point count (SPC) with a radius of 7.5 m.",
+      "ground_truth_chunks": [
+        "Fish abundances were estimated using 5 replicates of a modified, Bohnsack stationary point count (SPC), with a radius of 7.5 m (Bohnsack and Bannerot, 1986)."
+      ]
+    },
+    {
+      "record_id": "af82361c0e23cd7a248d5e2f",
+      "paper_id": "Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS",
+      "source_path": "output/Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS.md",
+      "section_heading": "2.7. Data Analysis",
+      "section_start_line": 83,
+      "section_end_line": 97,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which four biological measures were selected for 'health' assessment and used as biocriteria to evaluate water quality?",
+      "ground_truth_answer": "Coral diversity per unit area; total diversity; community evenness; and the benthic substrate ratio.",
+      "ground_truth_chunks": [
+        "Based upon CCA's and linear correlation results, four biological measures were selected for 'health' assessment and used as biocritera to evaluate water quality. These are coral diversity per unit area, total diversity, community evenness, and the benthic substrate ratio (4).",
+        "BEN_RAT = \\frac{\\% \\text{ cover of (coral + soft coral + all other coralline algae)}}{\\text{cover of (macroalgae + turf algae + inhibitive coralline algae)}}"
+      ]
+    },
+    {
+      "record_id": "af0dd3a3a587f78c658632bf",
+      "paper_id": "Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS",
+      "source_path": "output/Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS.md",
+      "section_heading": "3.2. Environmental Variables and Community Composition",
+      "section_start_line": 106,
+      "section_end_line": 113,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which environmental variable was significantly correlated to the first species axis in geomorphology class 2?",
+      "ground_truth_answer": "Human population density (HPD) was the only environmental variable significantly correlated to the first species axis in geomorphology class 2.",
+      "ground_truth_chunks": [
+        "Only one environmental variable, human population density (HPD), was significantly correlated to the first species axis while no significant relationships were found with the second (Table 4).",
+        "The CCA shows a significant, negative relationship between \"HPD\" and canonical axis 1."
+      ]
+    },
+    {
+      "record_id": "f993ba5fc007a546894b9e50",
+      "paper_id": "Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS",
+      "source_path": "output/Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS.md",
+      "section_heading": "3.3. Correlation Analysis",
+      "section_start_line": 114,
+      "section_end_line": 123,
+      "model": "openai:gpt-4o-mini",
+      "question": "In geomorphology class 2, which biological measure showed a perfect negative relationship with human population density?",
+      "ground_truth_answer": "Coral diversity per unit area.",
+      "ground_truth_chunks": [
+        "Negative correlations were found between human population density and several site specific, biological measures in geomorphology class 2 (Table 5, Figure 7).",
+        "Notably, a perfect, negative relationship was found with coral diversity per unit area, while significant, negative relations were found with total coral diversity and community evenness (Figure 6)."
+      ]
+    },
+    {
+      "record_id": "2d4238979fd921dbf95ccdd0",
+      "paper_id": "Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS",
+      "source_path": "output/Houk-2006-Assess.NPS.pollution.reefs.II.AS/Houk-2006-Assess.NPS.pollution.reefs.II.AS.md",
+      "section_heading": "4. Discussion",
+      "section_start_line": 128,
+      "section_end_line": 141,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Discussion, which watershed statistics were positively related to abundances of inhibitive coralline algae?",
+      "ground_truth_answer": "Human population density and watershed volume.",
+      "ground_truth_chunks": [
+        "The abundances of inhibitive coralline algae were positively related to two watershed statistics, human population density and watershed volume.",
+        "In the present study, CCA's show that human population density had a positive relationship with inhibitive coralline algae in geomorphology class 2 and 3."
+      ]
+    }
+  ],
+  "failures": []
+}

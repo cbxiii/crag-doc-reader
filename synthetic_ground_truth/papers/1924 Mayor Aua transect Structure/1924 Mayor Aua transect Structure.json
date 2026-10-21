@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "source_path": "output/1924 Mayor Aua transect Structure/1924 Mayor Aua transect Structure.md",
+  "source_sha256": "3b28e196e2a092e40d5843ce4255e05ffb6696d5169f0675a4be5c49987211c3",
+  "status": "complete",
+  "selected_section_count": 2,
+  "successful_record_count": 2,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "fb67bd7c43e4276b9881a844",
+      "paper_id": "1924 Mayor Aua transect Structure/1924 Mayor Aua transect Structure",
+      "source_path": "output/1924 Mayor Aua transect Structure/1924 Mayor Aua transect Structure.md",
+      "section_heading": "STRUCTURE OF THE SAMOAN REEFS.",
+      "section_start_line": 5,
+      "section_end_line": 192,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral genus chiefly composes the patches now growing on elevated places of the submerged barrier reef (e.g., Nafanua bank west of Aunuu Island and the Taema bank south of Pago Pago Harbor)?",
+      "ground_truth_answer": "The patches consist chiefly of living Acropora (the fastest-growing corals).",
+      "ground_truth_chunks": [
+        "These patches consist chiefly of living Acropora, the fastest-growing of all corals, and there is no doubt that the ancient barrier reef will in time be restored and regain the surface of the sea in these places.",
+        "the barrier reef probably being composed chiefly of Acropora, which are the fastest growing of all corals, but must have pure agitated ocean-water in which to thrive, and the fringing reef of Porites, Psammocora, and Alcyonaria, which thrive best in water containing silt and away from the direct surge of the breakers."
+      ]
+    },
+    {
+      "record_id": "e38eca56a33d9880f406d4fc",
+      "paper_id": "1924 Mayor Aua transect Structure/1924 Mayor Aua transect Structure",
+      "source_path": "output/1924 Mayor Aua transect Structure/1924 Mayor Aua transect Structure.md",
+      "section_heading": "II. ECOLOGY OF THE AUA CORAL-REEF, PAGO PAGO HARBOR.",
+      "section_start_line": 193,
+      "section_end_line": 391,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Aua Line survey, at what distance from shore is the lithothamnium ridge located and which coral is dominant there?",
+      "ground_truth_answer": "About 870 feet from shore; the short stumpy incrusting Acropora leptocyathus is the dominant coral.",
+      "ground_truth_chunks": [
+        "This is the region of the lithothamnium ridge. Bottom hard smooth rock veneered with lithothamnium. No loose erratic boulders here, either large or small, except a few large ones caught and held in crevices. The breakers dash hard upon this ridge and the short stumpy incrusting Acropora leptocyathus is the dominant coral, being the only one able to withstand the dash of the breakers."
+      ]
+    }
+  ],
+  "failures": []
+}

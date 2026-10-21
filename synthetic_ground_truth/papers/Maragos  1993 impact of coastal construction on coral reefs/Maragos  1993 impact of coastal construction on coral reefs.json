@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs.md",
+  "source_sha256": "285c69a1f64442646d311670b14dc8db04e5ba179483a13f8934106aa1bb60f7",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "944b136f4a0b49a69fe28bf8",
+      "paper_id": "Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs",
+      "source_path": "output/Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs.md",
+      "section_heading": "Impact of coastal construction on coral reefs in the U.S.‐affiliated pacific Islands",
+      "section_start_line": 15,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "In which journal, volume/issue, and page range was this article published?",
+      "ground_truth_answer": "Coastal Management, volume 21, issue 4, pages 235-269.",
+      "ground_truth_chunks": [
+        "James Evans Maragos (1993) Impact of coastal construction on coral reefs in the U.S.‐affiliated pacific Islands, Coastal Management, 21:4, 235-269, DOI: [10.1080/08920759309362207](http://www.tandfonline.com/action/showCitFormats?doi=10.1080/08920759309362207)"
+      ]
+    },
+    {
+      "record_id": "1b2fdc0508d3e76e94009fe7",
+      "paper_id": "Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs",
+      "source_path": "output/Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs.md",
+      "section_heading": "Historical Perspective",
+      "section_start_line": 49,
+      "section_end_line": 62,
+      "model": "openai:gpt-4o-mini",
+      "question": "What activity required considerable coastal construction for support facilities in the Marshall Islands (Bikini and Enewetak Atolls), Johnston Atoll, and later Christmas Atoll?",
+      "ground_truth_answer": "Nuclear weapons testing required considerable coastal construction for support facilities.",
+      "ground_truth_chunks": [
+        "In addition, the nuclear weapons testing in the Marshall Islands (Bikini and Enewetak Atolls), Johnston Atoll, and later nuclear tests at Christmas Atoll required considerable coastal construction for support facilities (Maragos 1986)."
+      ]
+    },
+    {
+      "record_id": "d14d91661078c4e77f124796",
+      "paper_id": "Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs",
+      "source_path": "output/Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs.md",
+      "section_heading": "Excavation and Dredging Techniques",
+      "section_start_line": 83,
+      "section_end_line": 109,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does pipeline dredging involve?",
+      "ground_truth_answer": "Pipeline dredging uses a pipe and pumps to provide suction; bottom material is sucked in with seawater to form a slurry that is transported through the pipe to a disposal site, where the slurry is either discharged back into the water at a distance from the dredging site or discharged on shore into a basin to be drained, dried, and used for fill or other construction purposes.",
+      "ground_truth_chunks": [
+        "Pipeline dredging involves use of a pipe and pumps to provide suction; bottom material is sucked in with seawater to create a slurry mixture that is transported through the pipe to a disposal site; the slurry is either discharged back into the water at some distance away from the dredging site or is discharged on shore in a basin where the material can be drained of water, dried, and used for fill or other construction purposes."
+      ]
+    },
+    {
+      "record_id": "27b577eb02fb7529219e927e",
+      "paper_id": "Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs",
+      "source_path": "output/Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs.md",
+      "section_heading": "Direct Ecological Effects of Excavation and Dredging on Reefs",
+      "section_start_line": 150,
+      "section_end_line": 153,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, which type of sediment impact is described as causing more severe and longer lasting impacts on coral reef communities?",
+      "ground_truth_answer": "Accumulating sediments pose more severe and longer lasting impacts.",
+      "ground_truth_chunks": [
+        "However, an increasing body of evidence suggest that accumulating sediments pose more severe and longer lasting impacts (see Losey 1973; Maragos 1982-1983,1984a; Rogers 1990).",
+        "Monitoring of a dredging operation at Barbers Point (Figure 4), Oahu (Hawaii), indicated that small encrusting species or those living in crevices or in shaded areas are more likely to succumb to accumulating sediment (Aecos, Inc. 1985, 1986; Maragos 1983a)."
+      ]
+    },
+    {
+      "record_id": "f07e320147757a91e1663ac9",
+      "paper_id": "Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs",
+      "source_path": "output/Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs.md",
+      "section_heading": "Indirect Effects of Dredging and Quarrying on Coral Reefs",
+      "section_start_line": 178,
+      "section_end_line": 183,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what factors inhibited recolonization or recovery of corals on dredged surfaces in Kaneohe Bay and other sites?",
+      "ground_truth_answer": "Sewage pollution (water pollution/sewage discharges) inhibited recolonization of corals on dredged surfaces; removal of sewage outfalls accelerated recolonization in Kaneohe Bay. Deep, murky waters and reduced light penetration (from sedimentation) also seemed to inhibit coral recovery, possibly due to light limitation.",
+      "ground_truth_chunks": [
+        "The potential synergistic effects of water pollution such as sewage discharges can also inhibit coral recolonization on dredged surfaces based on studies in Pala Lagoon (Figure 2) (Helfrich 1975) and Kaneohe Bay (Evans and Hunter 1992; Evans et al. 1986; Hunter and Evans 1993; Maragos 1972; Maragos et al. 1985).",
+        "In the case of the Kaneohe Bay example, recolonization of corals on dredged surfaces was accelerated after removal of sewage outfalls from nearby lagoon environments (Figure 5).",
+        "Dredged surfaces in deep and murky waters at Pou Bay, Truk (Figure 7) (Devaney et al. 1975) and Kaneohe Bay, Hawaii (Figure 5) (Maragos 1972, 1974b) also seemed to have inhibited coral recovery, possibly due to light limitation."
+      ]
+    },
+    {
+      "record_id": "739f4ea2b1e198502ab5abb4",
+      "paper_id": "Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs",
+      "source_path": "output/Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs.md",
+      "section_heading": "Mitigating the Impacts of Explosives",
+      "section_start_line": 204,
+      "section_end_line": 209,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, how does packing explosives into holes or covering them affect damage from shock and concussion?",
+      "ground_truth_answer": "Explosives packed into holes, crevices, or covered (e.g., with sandbags) will cause less damage from shock and concussion; similarly, drilling and shooting in predrilled holes with smaller charges and tamping provides buffering and has caused little noticeable impact.",
+      "ground_truth_chunks": [
+        "Explosives packed into holes or crevices or covered with sandbags and so forth will cause less damage from shock and concussion.",
+        "On the other hand, drilling and shooting operations have caused little noticeable or documented impacts on reef environments, due to the smaller charges and the buffering from shock and concussion afforded by their loading and tamping in predrilled holes.",
+        "As such, drilling and shooting serves as a technique to mitigate the impacts of blasting and is especially feasible for blasting or quarring activities on shallow reef flats."
+      ]
+    },
+    {
+      "record_id": "7732a675daa60c185648bafe",
+      "paper_id": "Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs",
+      "source_path": "output/Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs.md",
+      "section_heading": "Effects of Roadway or Causeway Construction",
+      "section_start_line": 228,
+      "section_end_line": 243,
+      "model": "openai:gpt-4o-mini",
+      "question": "What impact did road causeways have on lagoon ecosystems at Palmyra Atoll?",
+      "ground_truth_answer": "Road causeways completely blocked exchange of lagoon waters to the open ocean causing the catastrophic collapse of lagoon ecosystems; some recovery was reported 20 and 30 years later after waves and currents breached several sections of the causeways.",
+      "ground_truth_chunks": [
+        "At Palmyra Atoll (Figure 8), road causeways completely blocked exchange of lagoon waters to the open ocean causing the catastrophic collapse of lagoon ecosystems (Dawson 1959); 20 and 30 years later some recovery was reported in the lagoon after waves and currents breached several sections of the causeways (Maragos 1979b, 1988).",
+        "In these examples, ecological impacts included reduction of water exchange, aggravated water pollution from sewage discharges, and blockage of migratory pathways used by reef fishes."
+      ]
+    },
+    {
+      "record_id": "8fec12c7997548f8e659e552",
+      "paper_id": "Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs",
+      "source_path": "output/Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs.md",
+      "section_heading": "Evaluation of Completed Projects on Coral Reefs",
+      "section_start_line": 274,
+      "section_end_line": 277,
+      "model": "openai:gpt-4o-mini",
+      "question": "Since 1970, what types of preconstruction environmental baseline data were often collected as part of the environmental impact assessment or planning process?",
+      "ground_truth_answer": "Water quality, current studies, and biological and aerial photographic analysis.",
+      "ground_truth_chunks": [
+        "Since 1970, many of these projects involved collection of preconstruction environmental baseline data as part of the environmental impact assessment or planning process.",
+        "Water quality, current studies, and biological and aerial photographic analysis might be incorporated into some studies to broaden the evaluation of impacts and their duration."
+      ]
+    },
+    {
+      "record_id": "df2117c5647413bf2835055a",
+      "paper_id": "Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs",
+      "source_path": "output/Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs.md",
+      "section_heading": "Environmental Surveys",
+      "section_start_line": 292,
+      "section_end_line": 295,
+      "model": "openai:gpt-4o-mini",
+      "question": "What types of ecological baseline surveys should be required for all alternative sites potentially feasible for a proposed project?",
+      "ground_truth_answer": "Qualitative reconnaissance surveys, possibly followed by more detailed quantitative biological, water quality, and current studies.",
+      "ground_truth_chunks": [
+        "Ecological baseline surveys, including as a minimum, qualitative reconnaissance surveys possibly followed by more detailed quantitative biological, water quality, and current studies, should be required for all alternative sites potentially feasible for a proposed project."
+      ]
+    },
+    {
+      "record_id": "d4625c867b78727a74b62203",
+      "paper_id": "Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs",
+      "source_path": "output/Maragos  1993 impact of coastal construction on coral reefs/Maragos  1993 impact of coastal construction on coral reefs.md",
+      "section_heading": "Long-Range Planning and Management for Coastal Resources",
+      "section_start_line": 326,
+      "section_end_line": 337,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which U.S.-affiliated Pacific islands have established coastal area management programs, and where are such programs being developed?",
+      "ground_truth_answer": "Programs have been established in Hawaii, Guam, American Samoa, and Northern Mariana Islands; programs are being developed in Kosrae and the Marshall Islands.",
+      "ground_truth_chunks": [
+        "In the U.S.-affiliated Pacific islands, coastal area management programs have been established in Hawaii, Guam, American Samoa, and Northern Mariana Islands and are being developed in Kosrae and the Marshall Islands."
+      ]
+    }
+  ],
+  "failures": []
+}

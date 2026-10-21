@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS.md",
+  "source_sha256": "0b2274517c39fb5d36cece741fd4832a44df0dbf15171b5077d849f415dd2e0e",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "5e915d177177943dad6849ec",
+      "paper_id": "Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS",
+      "source_path": "output/Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 42,
+      "section_end_line": 51,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many borings were made through one of the reefs?",
+      "ground_truth_answer": "Three.",
+      "ground_truth_chunks": [
+        "Since the study of material obtained by boring through the reef with a core drill offers the best opportunity for this determination, three borings were made through one of the reefs where the present conditions had been most intensively studied."
+      ]
+    },
+    {
+      "record_id": "3559ceb8e9323399786071d4",
+      "paper_id": "Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS",
+      "source_path": "output/Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS.md",
+      "section_heading": "CHARACTER OF THE PHYSICAL ENVIRONMENT OF THE UTELEI REEFS",
+      "section_start_line": 94,
+      "section_end_line": 135,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what speed did overhanging breakers sometimes reach when they rushed across the reef?",
+      "ground_truth_answer": "They sometimes reached a speed frequently as great as 175 feet per minute.",
+      "ground_truth_chunks": [
+        "The velocity of the currents over different portions of the reef surface was determined at several locations and under different conditions of tides and weather. The observations were made by determining the distance a floating object, as the midrib of a cocoanut leaf, would be carried in one minute.",
+        "As the tide rises, the velocity of the currents constantly increases, until the water has reached such a depth that when a wave reaches the border of the reef it continues as an overhanging breaker which rushes across the reef at a speed frequently as great at 175 feet per minute."
+      ]
+    },
+    {
+      "record_id": "5d845663062ec8fb0979714e",
+      "paper_id": "Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS",
+      "source_path": "output/Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS.md",
+      "section_heading": "SPECIES OF ALCYONARIA OCCURRING ON REEFS OF TUTUILA",
+      "section_start_line": 150,
+      "section_end_line": 241,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many Alcyonaria species are considered to compose the alcyonarian fauna on the reefs of Tutuila?",
+      "ground_truth_answer": "Four species.",
+      "ground_truth_chunks": [
+        "Indeed one of the forms recorded by Dana is found so rarely, that for all practical purposes the alcyonarian fauna may be considered composed of four species only."
+      ]
+    },
+    {
+      "record_id": "2b5c0502bf6e14b5b01c0dd9",
+      "paper_id": "Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS",
+      "source_path": "output/Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS.md",
+      "section_heading": "TEMPERATURE EXPERIMENTS",
+      "section_start_line": 260,
+      "section_end_line": 267,
+      "model": "openai:gpt-4o-mini",
+      "question": "How was survival determined after the heating in the temperature experiments?",
+      "ground_truth_answer": "After 12 to 36 hours the specimens were examined by holding them over the side of a moving launch; colonies whose soft tissues were quickly washed away were considered killed, and survivors (all forms except S. rigidum when uninjured) contracted strongly, allowing comparison of injury by contractile response.",
+      "ground_truth_chunks": [
+        "After from 12 to 36 hours the specimens were examined to determine which of them had survived. This was done by holding\n\nthem over the side of a moving launch, when the soft tissues would be quickly washed away if the colony had been killed.",
+        "All of the forms except S. rigidum were, when uninjured by the heating, capable of contracting strongly when treated in this manner, so that the relative extent of the injury caused by different lengths of exposure could be compared on the basis of this reaction."
+      ]
+    },
+    {
+      "record_id": "d8d1e20028c98a31d20461af",
+      "paper_id": "Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS",
+      "source_path": "output/Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS.md",
+      "section_heading": "RESPIRATION EXPERIMENTS",
+      "section_start_line": 336,
+      "section_end_line": 353,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species is described as occurring only in the most protected locations and having by far the most rapid respiration?",
+      "ground_truth_answer": "Nephthya flexile.",
+      "ground_truth_chunks": [
+        "The very marked difference in respiratory activity between the finely branched Nephthya and the practically smooth-surfaced Sarcophytum especially emphasizes this relationship.",
+        "Sclerophytum rigidum, the constant inhabitant of especially well-aerated water, has a low oxygen consumption; S. confertum, the most adaptable species, stands in an intermediate position as regards respiration, while Nephthya flexile which occurs only in the most protected locations, but can best withstand silting, has by far the most rapid respiration."
+      ]
+    },
+    {
+      "record_id": "c454bded91447efd228e51b9",
+      "paper_id": "Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS",
+      "source_path": "output/Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS.md",
+      "section_heading": "GROWTH RATES OF SAMOAN ALCYONARIA",
+      "section_start_line": 504,
+      "section_end_line": 586,
+      "model": "openai:gpt-4o-mini",
+      "question": "In Table 9 (Measurements of S. densum), which specimen had the largest relative area after three years, and what was the ratio?",
+      "ground_truth_answer": "Specimen 25 — 1:14.10.",
+      "ground_truth_chunks": [
+        "Consequently in the fourth and fifth columns are given the ratio to the original area of the area attained after fifteen months and three years, respectively.",
+        "| 25                   | Under west line 8.7' N. base.                         | $9\" \\times 7.5\" \\times 21\"$                                 | 1:2.05                            | 1:14.10                          |"
+      ]
+    },
+    {
+      "record_id": "f4eea928f3063bab7bad8bdb",
+      "paper_id": "Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS",
+      "source_path": "output/Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS.md",
+      "section_heading": "THE STRUCTURE OF THE CORAL REEFS IN PAGO PAGO HARBOR",
+      "section_start_line": 776,
+      "section_end_line": 789,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the reef's surface area was observed to be covered with living Sclerophytum?",
+      "ground_truth_answer": "At least 75% of the reef's surface area.",
+      "ground_truth_chunks": [
+        "Observations at many other points scattered widely over the surface of this reef showed that at least 75 per cent of its surface area is, or has been very recently, covered with living *Sclerophytum* for a period of sufficient length to allow the formation of spicule rock from a small fraction of an inch to several inches in thickness."
+      ]
+    },
+    {
+      "record_id": "30d6c070e9a398b52395c1b3",
+      "paper_id": "Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS",
+      "source_path": "output/Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS.md",
+      "section_heading": "LOG OF DRILLING NO. 1 THROUGH THE UTELEI REEF",
+      "section_start_line": 808,
+      "section_end_line": 911,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the final depth of the bore in the Utelei reef drilling and what material comprised the last 6 inches?",
+      "ground_truth_answer": "The final depth of the bore was 124 feet, and the last 6 inches were a clean-cut core of wave-worn basalt.",
+      "ground_truth_chunks": [
+        "From the 121-foot level to the final depth of the bore at 124 feet, the last 6 inches of which were represented by a clean-cut core of wave-worn basalt, the core was composed of laval mud and fragments of coral which appeared to have been loose when taken up by the drill, rather than to have been broken off by the cutting tool."
+      ]
+    },
+    {
+      "record_id": "e5e599f42a2be88033c10a7a",
+      "paper_id": "Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS",
+      "source_path": "output/Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS.md",
+      "section_heading": "IMPORTANCE OF ALCYONARIA IN FORMATION OF PACIFIC REEFS",
+      "section_start_line": 964,
+      "section_end_line": 987,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which genus of Alcyonaria on the Samoan reefs is described as having spicules cemented into a solid mass denser and stronger than the skeleton of most madrepores?",
+      "ground_truth_answer": "Sclerophytum.",
+      "ground_truth_chunks": [
+        "The absence of spicules in bottom samples of loose material from the Samoan reefs would not necessarily indicate the absence of Alcyonaria, but rather that the most common Alcyonaria—species of the genus Sclerophytum—have their spicules cemented into a solid mass more dense and stronger than the skeleton of any madrepores except a massive Porites or Siphastræa.",
+        "On the more exposed reefs in Pago Pago harbor and about the periphery of the island, Sclerophytum densum is a regularly occurring component of the fauna on the vertical surface beyond the rim of the reef. Here its skeletal remains, as a veneering of spicule rock, form a most important binding material to support or consolidate the skeletons of the madrepores which it has overgrown, and in many instances killed."
+      ]
+    },
+    {
+      "record_id": "656904ab1e9e3fbcf45a43d6",
+      "paper_id": "Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS",
+      "source_path": "output/Cary-1931-Coral.reefs.Tutuila.AS/Cary-1931-Coral.reefs.Tutuila.AS.md",
+      "section_heading": "PLATE 1",
+      "section_start_line": 1069,
+      "section_end_line": 1145,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Fig. 3 in PLATE 1, what species occupies the dark areas on the outer portion of the reef?",
+      "ground_truth_answer": "Sclerophytum confertum.",
+      "ground_truth_chunks": [
+        "Fig. 3—View across reef from origin of line 2. Dark areas on outer portion of reef are occupied by living Sclerophytum confertum."
+      ]
+    }
+  ],
+  "failures": []
+}

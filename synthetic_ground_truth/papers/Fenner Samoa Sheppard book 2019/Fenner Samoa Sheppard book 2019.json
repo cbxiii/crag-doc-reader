@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019.md",
+  "source_sha256": "34fad4fa468b8b825ff8ceb3b22592cde44aa84c4f5c102c20f1c7c07b7c9d74",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "b9980fc23b6b3a130702e4c4",
+      "paper_id": "Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019",
+      "source_path": "output/Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019.md",
+      "section_heading": "28.1.1 Geography, Topography, Geological Description",
+      "section_start_line": 9,
+      "section_end_line": 20,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what rate does the Pacific Plate move westward beneath the Samoan hotspot?",
+      "ground_truth_answer": "About 7 cm per year.",
+      "ground_truth_chunks": [
+        "The archipelago rests on a hotspot on the Pacific Plate, which moves westward about 7 cm per year."
+      ]
+    },
+    {
+      "record_id": "0084fa7c6bc1e5b8f0ba3e7f",
+      "paper_id": "Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019",
+      "source_path": "output/Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019.md",
+      "section_heading": "28.4.1.2 Disease",
+      "section_start_line": 127,
+      "section_end_line": 140,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Work & Rameyer (2005), what proportion of coral colonies in American Samoa were affected by disease?",
+      "ground_truth_answer": "0.14% of colonies.",
+      "ground_truth_chunks": [
+        "Coral diseases are widespread in American Samoa and present at most sites (Work & Rameyer, 2005), but only a very small proportion of colonies are affected (0.14%).",
+        "So far, a total of 15 coral diseases have been reported."
+      ]
+    },
+    {
+      "record_id": "1f4fc145e0c4eb715402c8ba",
+      "paper_id": "Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019",
+      "source_path": "output/Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019.md",
+      "section_heading": "28.5 INTRODUCED AND ENDANGERED SPECIES",
+      "section_start_line": 159,
+      "section_end_line": 162,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many nonindigenous or cryptogenic marine species were found in American Samoa, and where were most of them located?",
+      "ground_truth_answer": "A study found 28 nonindigenous or cryptogenic marine species in American Samoa, mostly in Pago Pago Harbor.",
+      "ground_truth_chunks": [
+        "A study of introduced marine species found 28 nonindigenous or cryptogenic marine species in American Samoa, mostly in Pago Pago Harbor (Coles et al., 2003).",
+        "None have been reported to be invasive, although the snowflake soft coral (Carijoa riisei) that is reported to be invasive in Hawaii is common on the docks in Apia Harbor, Upolu (P. Skelton, personal communication) and one colony has been found near the canneries in Pago Pago Harbor (Fenner, 2013b)."
+      ]
+    },
+    {
+      "record_id": "69645613d19bb003f555a9e5",
+      "paper_id": "Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019",
+      "source_path": "output/Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019.md",
+      "section_heading": "28.5.2.2 Summary of Reef Health",
+      "section_start_line": 201,
+      "section_end_line": 204,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which American Samoa island had the highest impact score based on the National Center for Ecological Analysis and Synthesis scoring system, and what was the score?",
+      "ground_truth_answer": "Tutuila, with a score of 12.4.",
+      "ground_truth_chunks": [
+        "An impact score based on the National Center for Ecological Analysis and Synthesis scoring system has been generated for the marine environment for each of the islands. Tutuila scored 12.4, Ofu-Olosega 8.4, Ta'u and Swains 8.6, and Rose 8.2.",
+        "For comparison, Oahu scored 15.6 and Jarvis (Line Islands) scored 4."
+      ]
+    },
+    {
+      "record_id": "049b736d305ef3c471792fc6",
+      "paper_id": "Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019",
+      "source_path": "output/Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019.md",
+      "section_heading": "28.5.4 Seagrass Beds",
+      "section_start_line": 213,
+      "section_end_line": 216,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many seagrass species does American Samoa have and what genus are they in?",
+      "ground_truth_answer": "American Samoa has only two species of seagrass, and they are in the genus Halophila.",
+      "ground_truth_chunks": [
+        "American Samoa has only two species of seagrass, which are in the same genus (*Halophila*)."
+      ]
+    },
+    {
+      "record_id": "cdd0ffb935c234827ba14edd",
+      "paper_id": "Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019",
+      "source_path": "output/Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019.md",
+      "section_heading": "28.9 CITIES AND PEOPLE, DEVELOPMENT, ECONOMICS, AND CHANGE",
+      "section_start_line": 245,
+      "section_end_line": 250,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what is the total economic value per year of coral reefs in American Samoa when including resident and visitor nonuse values?",
+      "ground_truth_answer": "$5.1 million a year.",
+      "ground_truth_chunks": [
+        "A study of the economic value of coral reefs and mangroves in American Samoa found that coral reefs had recreational benefits of \\$73,000 per year, fisheries benefits of \\$759,000, coastal protection benefits of \\$447,000 a year, and a total economic value which includes resident and visitor nonuse values, of \\$5.1 million a year.",
+        "When potential nonuse benefits accruing to the US general public are included, the overall benefits could be in the order of at least US\\$10 million/year for coral reefs and US\\$1.5 million/year for mangroves."
+      ]
+    },
+    {
+      "record_id": "64631270d34dff78f32ba166",
+      "paper_id": "Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019",
+      "source_path": "output/Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019.md",
+      "section_heading": "28.9.2.2 Forest Clearance",
+      "section_start_line": 263,
+      "section_end_line": 266,
+      "model": "openai:gpt-4o-mini",
+      "question": "What factors make logging unprofitable in American Samoa?",
+      "ground_truth_answer": "Most native trees are too small and not straight enough to be commercially valuable; the slopes are too steep to log; and the islands are too small and remote for logging to be profitable.",
+      "ground_truth_chunks": [
+        "In American Samoa, most of the native trees are too small and not straight enough to be commercially valuable, the slopes too steep to log, and islands too small and remote for logging to be profitable.",
+        "The slopes are also too steep for coconut groves, so most of the territory retains uncut forest, which holds water and soil from runoff."
+      ]
+    },
+    {
+      "record_id": "0ec0f3de3905935caaa605cc",
+      "paper_id": "Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019",
+      "source_path": "output/Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019.md",
+      "section_heading": "28.10.4 Tourism",
+      "section_start_line": 317,
+      "section_end_line": 322,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many tourist arrivals did Independent Samoa have in 2005?",
+      "ground_truth_answer": "Independent Samoa had 100,000 tourist arrivals in 2005.",
+      "ground_truth_chunks": [
+        "Tourists that visit Independent Samoa are primarily from New Zealand and Australia. It had 100,000 tourist arrivals in 2005, and tourism has been growing. Independent Samoa has the capacity and space for more tourists and welcomes them. By the year 1997, tourism brought in SAT102 million per year (Skelton, Bell, Mulipola, & Trevor, 2000)."
+      ]
+    },
+    {
+      "record_id": "75fe4ee60443182eb704eb97",
+      "paper_id": "Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019",
+      "source_path": "output/Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019.md",
+      "section_heading": "28.10.4 Tourism",
+      "section_start_line": 349,
+      "section_end_line": 354,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which countries are the primary source of tourists to Independent Samoa?",
+      "ground_truth_answer": "New Zealand and Australia.",
+      "ground_truth_chunks": [
+        "Tourists that visit Independent Samoa are primarily from New Zealand and Australia."
+      ]
+    },
+    {
+      "record_id": "b4852c04e65b642f8231e485",
+      "paper_id": "Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019",
+      "source_path": "output/Fenner Samoa Sheppard book 2019/Fenner Samoa Sheppard book 2019.md",
+      "section_heading": "28.13 SUMMARY, PROGNOSES, OR NEEDS",
+      "section_start_line": 383,
+      "section_end_line": 386,
+      "model": "openai:gpt-4o-mini",
+      "question": "What regulations or actions does section 28.13 suggest have been among the most helpful for maintaining reef health in American Samoa?",
+      "ground_truth_answer": "Banning scuba spearfishing and culling of crown-of-thorns starfish.",
+      "ground_truth_chunks": [
+        "Large reef fish species are overfished, reef flats have been dredged or built on, and crown-ofthorns starfish outbreaks have killed large amounts of coral.",
+        "Perhaps, the banning of scuba spearfishing and culling of crown-of-thorns starfish have been among the most helpful regulations and actions."
+      ]
+    }
+  ],
+  "failures": []
+}

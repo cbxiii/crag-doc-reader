@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2).md",
+  "source_sha256": "9641492ef320f3cf4818b74221c8f67760ea7781a0510c6634bf3082baa032c7",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "7c078c28b9c069bf67895ea8",
+      "paper_id": "1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)",
+      "source_path": "output/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2).md",
+      "section_heading": "Twenty Years of Disturbance and Change in Fagatele Bay National Marine Sanctuary, American Samoa <sup>1</sup>",
+      "section_start_line": 1,
+      "section_end_line": 34,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which major disturbances affected the coral reef communities in Fagatele Bay National Marine Sanctuary between 1979 and 1994?",
+      "ground_truth_answer": "A crown-of-thorns starfish invasion in 1979, two major hurricanes (1990 and 1991), and a coral bleaching event in 1994 possibly associated with unusually high water temperatures.",
+      "ground_truth_chunks": [
+        "The coral community was devastated by a crown-of-thorns starfish invasion in 1979 and has recently been affected by two major hurricanes (1990 and 1991) and a period of unusually high water temperature (1994).",
+        "An outbreak of the crown-ofthorns starfish devastated the coral communities in 1979, which led to a dramatic reduction in live coral cover in the bay (Figure 2 [Birkeland et al. 1987])."
+      ]
+    },
+    {
+      "record_id": "fb8508e3500d5146fbbde284",
+      "paper_id": "1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)",
+      "source_path": "output/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2).md",
+      "section_heading": "Survey Design",
+      "section_start_line": 45,
+      "section_end_line": 67,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many replicate coral transects were surveyed at the reef slope (9 m) in 1985?",
+      "ground_truth_answer": "6",
+      "ground_truth_chunks": [
+        "|                   | CORALS |      |      | FISHES |      |      |",
+        "| Reef slope (9 m)  | 6      | 5    | 6    | 0      | 6    | 6    |"
+      ]
+    },
+    {
+      "record_id": "8356067bb6b6482cd643b593",
+      "paper_id": "1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)",
+      "source_path": "output/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2).md",
+      "section_heading": "Fish Survey Methods",
+      "section_start_line": 74,
+      "section_end_line": 81,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the duration of the count for each transect?",
+      "ground_truth_answer": "The duration of the count for each transect was approximately 10 min.",
+      "ground_truth_chunks": [
+        "The duration of the count for each transect was approximately 10 min."
+      ]
+    },
+    {
+      "record_id": "e559d99a46fe4fcc7ce234b4",
+      "paper_id": "1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)",
+      "source_path": "output/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2).md",
+      "section_heading": "CORAL COVER",
+      "section_start_line": 124,
+      "section_end_line": 131,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral families had mean colony size ranging from 5-20 cm?",
+      "ground_truth_answer": "Acroporidae, Agariciidae, Faviidae, Pocilloporidae, and Poritidae.",
+      "ground_truth_chunks": [
+        "Coral colony size varied among families, although no clear pattern was apparent through time (Figure 7).",
+        "In general, mean colony size ranged from small to medium (diameter = 5-20 cm) for the Acroporidae, Agariciidae, Faviidae, Pocilloporidae, and Poritidae and tended to be smaller (diameter = 1-10 cm) for the other families."
+      ]
+    },
+    {
+      "record_id": "93c876ad626cea69e879c8e6",
+      "paper_id": "1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)",
+      "source_path": "output/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2).md",
+      "section_heading": "CORAL COLONY SIZE",
+      "section_start_line": 154,
+      "section_end_line": 191,
+      "model": "openai:gpt-4o-mini",
+      "question": "Between 1988 and 1995, at which depths did coral colony size decrease?",
+      "ground_truth_answer": "Coral colony size decreased at depths of 6–9 m between 1988 and 1995.",
+      "ground_truth_chunks": [
+        "Both coral cover and colony size decreased at depths of 6–9 m from 1988 to 1995 (Figure 3), probably as a result of the hurricanes."
+      ]
+    },
+    {
+      "record_id": "05eaa05ae3b43f7528f0ec15",
+      "paper_id": "1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)",
+      "source_path": "output/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2).md",
+      "section_heading": "TABLE 2",
+      "section_start_line": 192,
+      "section_end_line": 222,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the ranges of mean coral abundance (per 10 m2) reported for Fagatele Bay NMS and for other locations around Tutuila Island in 1995?",
+      "ground_truth_answer": "Fagatele Bay NMS: 60-92 per 10 m2; Other locations: 3-26 per 10 m2.",
+      "ground_truth_chunks": [
+        "| Corals                          |                    |                    |  |",
+        "| Mean abundance (per 10 m2)      | 60-92              | 3-26               |  |"
+      ]
+    },
+    {
+      "record_id": "b1b4552c87c115773d2a712f",
+      "paper_id": "1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)",
+      "source_path": "output/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2).md",
+      "section_heading": "APPENDIX I (continued)",
+      "section_start_line": 310,
+      "section_end_line": 392,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under Family Poritidae, which Porites species are listed in the subgenus Synaraea?",
+      "ground_truth_answer": "Porites (Synaraea) convexa Verrill, 1864; Porites (Synaraea) rus (Forskal, 1775).",
+      "ground_truth_chunks": [
+        "    Porites (Synaraea) convexa Verrill, 1864",
+        "    Porites (Synaraea) rus (Forskal, 1775)"
+      ]
+    },
+    {
+      "record_id": "f3cb0016003d7e9d23d33e2f",
+      "paper_id": "1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)",
+      "source_path": "output/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2).md",
+      "section_heading": "FISH SPECIES RECORDED IN FAGATELE BAY NATIONAL MARINE SANCTUARY, AMERICAN SAMOA",
+      "section_start_line": 399,
+      "section_end_line": 459,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species are recorded under Family Holocentridae in this section?",
+      "ground_truth_answer": "Myripristis berndti (Jordan & Everrnann, 1903); Myripristis violacea Bleeker, 1851; Neoniphon opercularis (Valenciennes, 1831); Neoniphon sammara (ForskaJ, 1775); Sargocentron caudimaculatum (Ruppell, 1838); Sargocentron diadema (Lacepede, 1801); Sargocentron microstoma (Gunther, 1859); Sargocentron spiniferum (Forskal, 1775); Sargocentron tiere (Cuvier, 1829).",
+      "ground_truth_chunks": [
+        "  Order Beryciforrnes\n    Family Holocentridae\n           Myripristis berndti (Jordan & Everrnann, 1903)\n           Myripristis violacea Bleeker, 1851\n           Neoniphon opercularis (Valenciennes, 1831)\n           Neoniphon sammara (ForskaJ, 1775)\n           Sargocentron caudimaculatum (Ruppell, 1838)\n           Sargocentron diadema (Lacepede, 1801)\n           Sargocentron microstoma (Gunther, 1859)\n           Sargocentron spiniferum (Forskal, 1775)\n           Sargocentron tiere (Cuvier, 1829)"
+      ]
+    },
+    {
+      "record_id": "11da5505334fd7dcfc4ae60f",
+      "paper_id": "1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)",
+      "source_path": "output/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2).md",
+      "section_heading": "APPENDIX 2 (continued)",
+      "section_start_line": 464,
+      "section_end_line": 469,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which family is Apolemichthys trimaculatus listed under in this section?",
+      "ground_truth_answer": "Family Pomacanthidae.",
+      "ground_truth_chunks": [
+        "Family Pomacanthidae *Apolemichthys trimaculatus* (Lacepede, 1831) *Centropyge bispinosus* (Giinther, 1860) *Centropyge flavissimus* (Cuvier, 1831) *Centropyge loriculus* (Giinther, 1874) *Pomacanthus imperator* (Bloch, 1787) *Pygoplites diacanthus* (Boddaert, 1772)"
+      ]
+    },
+    {
+      "record_id": "1e04ba0d64fc4b6a4ce1baec",
+      "paper_id": "1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)",
+      "source_path": "output/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2)/1999 Green et al  20 Years of Disturbance and Change in FBNMS (2).md",
+      "section_heading": "APPENDIX 2 (continued)",
+      "section_start_line": 588,
+      "section_end_line": 705,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species of the family Zanclidae is listed in this section?",
+      "ground_truth_answer": "Zanclus cornutus (Linnaeus, 1758).",
+      "ground_truth_chunks": [
+        "Family Zanclidae\n\n*Zanclus cornutus* (Linnaeus, 1758)"
+      ]
+    }
+  ],
+  "failures": []
+}

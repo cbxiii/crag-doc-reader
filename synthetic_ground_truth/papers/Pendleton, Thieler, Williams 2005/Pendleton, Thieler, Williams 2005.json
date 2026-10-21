@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005.md",
+  "source_sha256": "3e32814d411141e52d1c7fe12c9ff990627cb661297f8d6b660104830ed66eee",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "c87b26cdb46eebaf30e84dc6",
+      "paper_id": "Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005",
+      "source_path": "output/Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005.md",
+      "section_heading": "For Additional Information:",
+      "section_start_line": 25,
+      "section_end_line": 28,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where can you view the USGS online fact sheet for this project in PDF format?",
+      "ground_truth_answer": "At http://pubs.usgs.gov/fs/fs095-02/.",
+      "ground_truth_chunks": [
+        "See the National Park Unit Coastal Vulnerability study at [http://woodshole.er.usgs.gov/project-pages/nps-cvi/,](http://woodshole.er.usgs.gov/project-pages/nps-cvi/) the National Coastal Vulnerability study at [http://woodshole.er.usgs.gov/project-pages/cvi/](http://woodshole.er.usgs.gov/project-pages/cvi), or view the USGS online fact sheet for this project in PDF format at <http://pubs.usgs.gov/fs/fs095-02/>."
+      ]
+    },
+    {
+      "record_id": "4aee568ff2dd0a42de533ca4",
+      "paper_id": "Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005",
+      "source_path": "output/Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005.md",
+      "section_heading": "Contact:",
+      "section_start_line": 29,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the street address for the U.S. Geological Survey contact listed in the Contact section?",
+      "ground_truth_answer": "384 Woods Hole Road Woods Hole, MA 02543",
+      "ground_truth_chunks": [
+        "Elizabeth A. Pendleton, E. Robert Thieler, S. Jeffress Williams U.S. Geological Survey 384 Woods Hole Road Woods Hole, MA 02543 [ependleton@usgs.gov,](mailto:ependleton@usgs.gov) [rthieler@usgs.gov](mailto:rthieler@usgs.gov), [jwilliams@usgs.gov](mailto:jwilliams@usgs.gov) Telephone: 508-457-2259 or 508-548-8700"
+      ]
+    },
+    {
+      "record_id": "209a7bf471093535b42d69bb",
+      "paper_id": "Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005",
+      "source_path": "output/Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005.md",
+      "section_heading": "Introduction",
+      "section_start_line": 73,
+      "section_end_line": 89,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which six variables does the vulnerability index focus on in the Introduction?",
+      "ground_truth_answer": "Geomorphology; Historical shoreline change rate; Regional coastal slope; Relative sea-level change; Mean significant wave height; Mean tidal range.",
+      "ground_truth_chunks": [
+        "The vulnerability index determined here focuses on six variables that strongly influence coastal evolution:\n\n- 1. Geomorphology\n- 2. Historical shoreline change rate\n- 3. Regional coastal slope\n- 4. Relative sea-level change\n- 5. Mean significant wave height\n- 6. Mean tidal range",
+        "These variables can be divided into two groups: 1) geologic variables and 2) physical process variables. The geologic variables are geomorphology, historic shoreline change rate, and coastal slope; they account for a shoreline's relative resistance to erosion, long-term erosion/accretion trend, and its susceptibility to flooding, respectively. The physical process variables include significant wave height, tidal range, and sea-level change, all of which contribute to the inundation hazards of a particular section of coastline over time scales from hours to centuries."
+      ]
+    },
+    {
+      "record_id": "843f37d2fb1b50cd90900470",
+      "paper_id": "Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005",
+      "source_path": "output/Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005.md",
+      "section_heading": "Data Ranking",
+      "section_start_line": 90,
+      "section_end_line": 93,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the 'Data Ranking' section, how are shorelines with erosion/accretion rates between -1.0 and +1.0 m/yr ranked?",
+      "ground_truth_answer": "They are ranked as being of moderate vulnerability in terms of that particular variable.",
+      "ground_truth_chunks": [
+        "Shorelines with erosion/accretion rates between -1.0 and +1.0 m/yr are ranked as being of moderate vulnerability in terms of that particular variable."
+      ]
+    },
+    {
+      "record_id": "0161912b5f2611800a52b219",
+      "paper_id": "Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005",
+      "source_path": "output/Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005.md",
+      "section_heading": "The National Park of American Samoa",
+      "section_start_line": 94,
+      "section_end_line": 103,
+      "model": "openai:gpt-4o-mini",
+      "question": "On which islands does the National Park of American Samoa reside?",
+      "ground_truth_answer": "Tutuila, Ofu, Olosega, and Ta'u.",
+      "ground_truth_chunks": [
+        "The National Park of American Samoa is separated into 3 main units on four islands. The four islands on which the park resides are: Tutuila (the largest and most populous of American Samoa), Ofu, Olosega, and Ta'u.",
+        "Rose and Swain atolls are also within the US Territory of American Samoa, but there are no National Parklands on these islands."
+      ]
+    },
+    {
+      "record_id": "ed748cd9a5d32144c18aea25",
+      "paper_id": "Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005",
+      "source_path": "output/Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005.md",
+      "section_heading": "Geologic Variables",
+      "section_start_line": 110,
+      "section_end_line": 117,
+      "model": "openai:gpt-4o-mini",
+      "question": "What range of regional coastal slopes was calculated for the National Park of American Samoa, and what vulnerability category does this correspond to?",
+      "ground_truth_answer": "Regional coastal slopes for National Park of American Samoa fall within 4.6% - 14.7%, corresponding to the low to high vulnerability category.",
+      "ground_truth_chunks": [
+        "<span id=\"page-6-0\"></span>The determination of r**egional coastal slope** is an indication of the relative vulnerability to inundation and the potential rapidity of shoreline retreat because low-sloping coastal regions should retreat faster than steeper regions (Pilkey and Davis, 1987).",
+        "Regional coastal slopes for National Park of American Samoa fall within the low to high vulnerability category (4.6% - 14.7%) (Figure 9)."
+      ]
+    },
+    {
+      "record_id": "ee7e57610f3c375ce94d59f1",
+      "paper_id": "Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005",
+      "source_path": "output/Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005.md",
+      "section_heading": "Physical Process Variables",
+      "section_start_line": 118,
+      "section_end_line": 129,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the reported rate of sea-level rise for Pago Pago on Tutuila?",
+      "ground_truth_answer": "1.48 +/- 0.56 mm/yr based on 52 years of data (Zervas, 2001).",
+      "ground_truth_chunks": [
+        "The rate of sea-level rise for Pago Pago on Tutuila is 1.48 +/- 0.56 mm/yr based on 52 years of data (Zervas, 2001).",
+        "Relative sea-level rise for National Park of American Samoa falls within the very low vulnerability category based on water elevation data in Pago Pago (Figure 10)."
+      ]
+    },
+    {
+      "record_id": "2b7ff6de352c45414d442b49",
+      "paper_id": "Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005",
+      "source_path": "output/Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005.md",
+      "section_heading": "Coastal Vulnerability Index",
+      "section_start_line": 130,
+      "section_end_line": 139,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which six variables are used in the Coastal Vulnerability Index (CVI) formula?",
+      "ground_truth_answer": "The six variables are geomorphology; shoreline erosion/accretion rate; coastal slope; relative sea-level rise rate; mean significant wave height; and mean tide range.",
+      "ground_truth_chunks": [
+        "$$CVI = \\frac{\\sqrt{a*b*c*d*e*f}}{6}$$",
+        "where, a = geomorphology, b = shoreline erosion/accretion rate, c = coastal slope, d =relative sea-level rise rate, e = mean significant wave height, and f = mean tide range."
+      ]
+    },
+    {
+      "record_id": "43272519683abceec6b9a89d",
+      "paper_id": "Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005",
+      "source_path": "output/Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005.md",
+      "section_heading": "Discussion",
+      "section_start_line": 146,
+      "section_end_line": 153,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which variables are identified as the most influential in the coastal vulnerability index (CVI) for American Samoa?",
+      "ground_truth_answer": "Geomorphology, regional coastal slope, significant wave height, and tidal range (to a lesser extent).",
+      "ground_truth_chunks": [
+        "The geologic variables show the most spatial variability and thus have the most influence on CVI variability (Figure 13).",
+        "The most influential variables in the CVI are geomorphology, regional coastal slope, significant wave height, and tidal range to a lesser extent; therefore they may be considered the dominant factors controlling how American Samoa will evolve as sea level rises."
+      ]
+    },
+    {
+      "record_id": "274f2305cc74ecb7aa782a10",
+      "paper_id": "Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005",
+      "source_path": "output/Pendleton, Thieler, Williams 2005/Pendleton, Thieler, Williams 2005.md",
+      "section_heading": "Conclusions",
+      "section_start_line": 154,
+      "section_end_line": 162,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which variables are identified as the most important in determining the spatial variability of the CVI for American Samoa?",
+      "ground_truth_answer": "Geomorphology, regional coastal slope, and significant wave height.",
+      "ground_truth_chunks": [
+        "As ranked in this study, geomorphology, regional coastal slope, and significant wave height are the most important variables in determining the spatial variability of the CVI for American Samoa.",
+        "Tidal range, shoreline change, and sea-level rise rate do not contribute to the spatial variability in the coastal vulnerability index."
+      ]
+    }
+  ],
+  "failures": []
+}

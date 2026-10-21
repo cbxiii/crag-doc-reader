@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Craig-1995-Coral.reef.troubles.AS/Craig-1995-Coral.reef.troubles.AS.md",
+  "source_sha256": "da2aeca322401f149c0fa766d6935b5c51704a09deba2813c9ce889ef0b24154",
+  "status": "complete",
+  "selected_section_count": 2,
+  "successful_record_count": 2,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "beec7581d382d9a3d409e899",
+      "paper_id": "Craig-1995-Coral.reef.troubles.AS/Craig-1995-Coral.reef.troubles.AS",
+      "source_path": "output/Craig-1995-Coral.reef.troubles.AS/Craig-1995-Coral.reef.troubles.AS.md",
+      "section_heading": "CORAL REEF TROUBLES IN AMERICAN SAMOA",
+      "section_start_line": 1,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "By how much has live coral coverage around Tutuila Island dropped within the past two decades?",
+      "ground_truth_answer": "Live coral coverage around Tutuila Island has dropped from about 60 per cent to 10 per cent within the past two decades.",
+      "ground_truth_chunks": [
+        "More recently, the reefs experienced a major coral bleaching episode in 1994, which affected up to 80 per cent of the coral at some locations.",
+        "As a result, live coral coverage around Tutuila Island has dropped from about 60 per cent to 10 per cent within the past two decades."
+      ]
+    },
+    {
+      "record_id": "081cf65aa0cf16ad6cea8439",
+      "paper_id": "Craig-1995-Coral.reef.troubles.AS/Craig-1995-Coral.reef.troubles.AS",
+      "source_path": "output/Craig-1995-Coral.reef.troubles.AS/Craig-1995-Coral.reef.troubles.AS.md",
+      "section_heading": "Overfishing",
+      "section_start_line": 27,
+      "section_end_line": 59,
+      "model": "openai:gpt-4o-mini",
+      "question": "What has happened to giant clams (Tridacna spp.) in American Samoa?",
+      "ground_truth_answer": "They have been overharvested: one species is locally extinct and the other two are scarce.",
+      "ground_truth_chunks": [
+        "Some highly prized resources such as giant clams (*Tridacna* spp.) have been overharvested.",
+        "One species is locally extinct and the other two are scarce."
+      ]
+    }
+  ],
+  "failures": []
+}

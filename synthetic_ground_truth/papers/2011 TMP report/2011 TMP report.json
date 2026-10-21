@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2011 TMP report/2011 TMP report.md",
+  "source_sha256": "9094aae4095983dbd885c8a9e31f3af5604ce1541d1d4edb37ff2ee03451b5de",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "a52831fb8187f20bd4a8d5ca",
+      "paper_id": "2011 TMP report/2011 TMP report",
+      "source_path": "output/2011 TMP report/2011 TMP report.md",
+      "section_heading": "Executive Summary",
+      "section_start_line": 51,
+      "section_end_line": 64,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the reported average coral cover on reef slopes in American Samoa according to the Executive Summary?",
+      "ground_truth_answer": "Average coral cover on reef slopes is now 31%.",
+      "ground_truth_chunks": [
+        "- Average coral cover on reef slopes is now 31%, higher than the averages for the Pacific, South Pacific, U.S. Pacific, Great Barrier Reef, and Caribbean. The latter two have just 10% and 8% coral cover left. Coral cover is lower than it was here before crown-of-thorns starfish ate almost all the coral in 1978, and lower than it was in the past in the Pacific and Caribbean."
+      ]
+    },
+    {
+      "record_id": "a26957da9176d2872606e083",
+      "paper_id": "2011 TMP report/2011 TMP report",
+      "source_path": "output/2011 TMP report/2011 TMP report.md",
+      "section_heading": "Coral Biodiversity Data",
+      "section_start_line": 612,
+      "section_end_line": 649,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the mean number of coral species recorded in one-hour roving biodiversity dives at core sites (outside the harbor)?",
+      "ground_truth_answer": "61 species.",
+      "ground_truth_chunks": [
+        "The mean number of species in the core sites (outside the harbor) was 61, and for the sites in the harbor it was 40 (shown more clearly in Figure 41).",
+        "There was no overlap in the number of species in the two groups."
+      ]
+    },
+    {
+      "record_id": "082c2b1972af6ded994763a2",
+      "paper_id": "2011 TMP report/2011 TMP report",
+      "source_path": "output/2011 TMP report/2011 TMP report.md",
+      "section_heading": "Coral Genera",
+      "section_start_line": 834,
+      "section_end_line": 859,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral genus had the most cover on reef flats?",
+      "ground_truth_answer": "Acropora.",
+      "ground_truth_chunks": [
+        "*Acropora* is the genus with the most cover on reef flats, followed by *Montipora*, *Porites*, *Pavona*, and *Pocillopora*."
+      ]
+    },
+    {
+      "record_id": "0435dad3e0a22b7380ed7f60",
+      "paper_id": "2011 TMP report/2011 TMP report",
+      "source_path": "output/2011 TMP report/2011 TMP report.md",
+      "section_heading": "Ofu-Olosega Reef Flats and Pools",
+      "section_start_line": 1060,
+      "section_end_line": 1079,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the average coral cover overall on Ofu-Olosega reef flats in 2011?",
+      "ground_truth_answer": "Average coral cover overall was just under 20%.",
+      "ground_truth_chunks": [
+        "Average coral cover overall was just under 20%, close to that on Tutuila when reef flats were first surveyed in 2007 (Figure 67)."
+      ]
+    },
+    {
+      "record_id": "b63ecbaf7a7477b87a810290",
+      "paper_id": "2011 TMP report/2011 TMP report",
+      "source_path": "output/2011 TMP report/2011 TMP report.md",
+      "section_heading": "2/20/11",
+      "section_start_line": 1255,
+      "section_end_line": 1270,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral genera did the author report as diseased in Vatia?",
+      "ground_truth_answer": "Acropora and Pocillopora (including a digitate Acropora identified as A. monticulosa).",
+      "ground_truth_chunks": [
+        "All I saw was on > *Acropora* and *Pocillopora*.",
+        "A digitate *Acropora* species that has > pyramid-shaped branchlets, *A. monticulosa*, virtually every colony had it, > and some were completely dead."
+      ]
+    },
+    {
+      "record_id": "a6ea0bd2e3a0f8fd4822bea9",
+      "paper_id": "2011 TMP report/2011 TMP report",
+      "source_path": "output/2011 TMP report/2011 TMP report.md",
+      "section_heading": "4/15/11",
+      "section_start_line": 1323,
+      "section_end_line": 1326,
+      "model": "openai:gpt-4o-mini",
+      "question": "What debris item did Doug report finding during the dive at Leone?",
+      "ground_truth_answer": "A ladder that was built to get into a boat (it curved at the top to hold on to the edge of the boat).",
+      "ground_truth_chunks": [
+        "I only saw one item of debris, it was a ladder that was built to get into a boat with (it curved at the top to hold on to the edge of the boat).",
+        "But I saw no other debris."
+      ]
+    },
+    {
+      "record_id": "e020a4bc432d1a7ec31edbc9",
+      "paper_id": "2011 TMP report/2011 TMP report",
+      "source_path": "output/2011 TMP report/2011 TMP report.md",
+      "section_heading": "Amaua",
+      "section_start_line": 1357,
+      "section_end_line": 1360,
+      "model": "openai:gpt-4o-mini",
+      "question": "What macroalgae is mostly present on the lower slope at Amaua?",
+      "ground_truth_answer": "Halimeda.",
+      "ground_truth_chunks": [
+        "That lower slope has high macroalgae cover which is mostly *Halimeda*, but also has some low mounds of *Lobophyllia* coral, and below that some *Mycedium* plates."
+      ]
+    },
+    {
+      "record_id": "5fa3ae3ce1c40f0eb1ca11c2",
+      "paper_id": "2011 TMP report/2011 TMP report",
+      "source_path": "output/2011 TMP report/2011 TMP report.md",
+      "section_heading": "Vatia",
+      "section_start_line": 1393,
+      "section_end_line": 1396,
+      "model": "openai:gpt-4o-mini",
+      "question": "How tall are the \"microatolls\" of Porites on the Vatia reef flat?",
+      "ground_truth_answer": "They are about 2–4 cm tall.",
+      "ground_truth_chunks": [
+        "These \"microatolls\" are very short rings of live coral that can be up to around 1 m diameter, but only about 2-4 cm tall."
+      ]
+    },
+    {
+      "record_id": "10869758eb995c72b68e9e90",
+      "paper_id": "2011 TMP report/2011 TMP report",
+      "source_path": "output/2011 TMP report/2011 TMP report.md",
+      "section_heading": "Alofau",
+      "section_start_line": 1455,
+      "section_end_line": 1460,
+      "model": "openai:gpt-4o-mini",
+      "question": "What species of staghorn coral is reported as the most common in the pool in front of the eastern part of the malai in Alofau?",
+      "ground_truth_answer": "Acropora muricata.",
+      "ground_truth_chunks": [
+        "The pool in front of the eastern part of the malai in Alofau has fairly murky water with 8 m visibility currently.",
+        "The coral is all staghorn, mostly *Acropora muricata*."
+      ]
+    },
+    {
+      "record_id": "c3c685e37ec28e88d67ad61c",
+      "paper_id": "2011 TMP report/2011 TMP report",
+      "source_path": "output/2011 TMP report/2011 TMP report.md",
+      "section_heading": "The State of Coral Reef Fish in American Samoa, 2011.",
+      "section_start_line": 1495,
+      "section_end_line": 1513,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral reef fish species are known in American Samoa?",
+      "ground_truth_answer": "About 945 species of coral reef fish are known.",
+      "ground_truth_chunks": [
+        "About 945 species of coral reef fish are known."
+      ]
+    }
+  ],
+  "failures": []
+}

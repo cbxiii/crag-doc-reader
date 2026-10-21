@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience.md",
+  "source_sha256": "bc5511b21a12b9c09397bd24a73d84b38fb88f5300b65b690615505ded24072e",
+  "status": "complete",
+  "selected_section_count": 7,
+  "successful_record_count": 7,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "a1c55507a7f4099875d9963a",
+      "paper_id": "Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience",
+      "source_path": "output/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience.md",
+      "section_heading": "Background",
+      "section_start_line": 60,
+      "section_end_line": 81,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many factors affecting coral reef resilience did scientists identify in the Background section?",
+      "ground_truth_answer": "Eleven factors.",
+      "ground_truth_chunks": [
+        "Scientists have identified eleven factors that affect the resilience of coral reefs, or the ability of reefs to resist environmental stress and recover when they have been impacted (McClanahan et al., 2012).",
+        "We used quantifiable metrics associated with eleven factors to assess the resilience potential of reefs around Tutuila and Aunu'u Islands (Table 1)."
+      ]
+    },
+    {
+      "record_id": "55607740ffc6fcbf9e009d87",
+      "paper_id": "Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience",
+      "source_path": "output/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience.md",
+      "section_heading": "Methods",
+      "section_start_line": 82,
+      "section_end_line": 91,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why was a secondary composite score (Composite 8) calculated and what purpose does it serve?",
+      "ground_truth_answer": "Three factors (pollution, sedimentation, and fishing pressure) could not be evaluated for the offshore Taema Bank because they are closely associated with watersheds or adjacent communities. Composite 8 was calculated for all zones using the remaining eight resilience factors to allow comparison that included Taema Bank and to illustrate the influence of specific resilience factors, while the principal analysis is based on Composite 11.",
+      "ground_truth_chunks": [
+        "The primary resilience score calculated from all 11 metrics is referred to as \"Composite 11.\"",
+        "However, three factors (poll ution, sedimentation, and fishing pressure) could not be evaluated for the offshore Taema Bank as they are closely associated with watersheds or communities adjacent to the reef.",
+        "To allow for a comparison which included Taema Bank, a secondary composite score (Composite 8) was calculated for all zones based on the remaining eight resilience factors. The Composite 8 Score is presented as a means of comparing Taema Bank to other zones, but also to illustrate the influence of specific resilience factors, but the principal analysis and interpretation of resilience potential is based on the Composite 11 resilience score."
+      ]
+    },
+    {
+      "record_id": "13923bf83c3a21237c637e65",
+      "paper_id": "Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience",
+      "source_path": "output/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience.md",
+      "section_heading": "Results and Discussion",
+      "section_start_line": 92,
+      "section_end_line": 127,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which zones had the highest Composite 11 resilience scores?",
+      "ground_truth_answer": "The four highest Composite 11 scores were at specially managed areas: the community managed no-take zone at Fagamalo; the mixed-use western Sanctuary zone off Aunu'u Island; the Sanctuary zone at Fagatele Bay; and the Sanctuary zone east of Aunu'u Island.",
+      "ground_truth_chunks": [
+        "The four highest scores were calculated for specially managed areas: the community managed no-take zone at Fagamalo and the mixed-use western Sanctuary zone off Aunu'u Island received the two highest scores, followed by the Sanctuary zones at Fagatele Bay and east of Aunu'u Island.",
+        "As indicated by the size of the markers, zones in the Group 3 have the highest Composite 11 resilience scores."
+      ]
+    },
+    {
+      "record_id": "ec5386844e049cb986df3fb4",
+      "paper_id": "Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience",
+      "source_path": "output/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience.md",
+      "section_heading": "Crown-of-thorns Seastars",
+      "section_start_line": 128,
+      "section_end_line": 133,
+      "model": "openai:gpt-4o-mini",
+      "question": "During ESD surveys around Tutuila in 2015, what percentage of coral colonies had recent mortality attributed to crown-of-thorns seastar (COTS) predation?",
+      "ground_truth_answer": "Less than 1%.",
+      "ground_truth_chunks": [
+        "Although there was an active outbreak of crown-of-thorns seastars (COTS) while the ESD was conducting surveys around Tutuila in 2015, predation was recorded only rarely – less than 1% of coral colonies had recent mortality attributed to COTS predation.",
+        "This result may be due in part to the survey protocol used by ESD. Colonies are only recorded if there is living tissue remaining. Therefore, colonies that had suffered complete mortality due to COTS predation would not be recorded."
+      ]
+    },
+    {
+      "record_id": "ab9be4c0760ac9952cecaaa8",
+      "paper_id": "Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience",
+      "source_path": "output/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience.md",
+      "section_heading": "Conclusions",
+      "section_start_line": 134,
+      "section_end_line": 137,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which geographic zone scored the highest resilience potential when all 11 metrics are considered?",
+      "ground_truth_answer": "Northeast Tutuila scored the highest.",
+      "ground_truth_chunks": [
+        "Resilience potential varies among geographically defined zones, with Northeast Tutuila scoring the highest, Northwest and Southwest zones intermediate, and Southeast Tutuila scoring the lowest when all 11 resilience metrics are considered."
+      ]
+    },
+    {
+      "record_id": "029926656417970afdbbe72a",
+      "paper_id": "Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience",
+      "source_path": "output/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience.md",
+      "section_heading": "Future directions",
+      "section_start_line": 138,
+      "section_end_line": 141,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were the factors included in the analytical framework identified?",
+      "ground_truth_answer": "They were identified as important to supporting reef resilience through a review of evidence and expert opinion of 50 coral reef scientists (McClanahan et al., 2012).",
+      "ground_truth_chunks": [
+        "Factors included in the analytical framework used in this project were identified as important to supporting reef resilience through a review of evidence and expert opinion of 50 coral reef scientists (McClanahan et al., 2012).",
+        "The framework is therefore based on vetted scientific concepts, and it has been used to evaluate resilience potential of reefs in several other locations in the Pacific (Maynard et al., 2012; Maynard et al., 2015; PIFSC, 2015; Maynard et al., 2016)."
+      ]
+    },
+    {
+      "record_id": "5d9b2c6a222cdc1be4362bfe",
+      "paper_id": "Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience",
+      "source_path": "output/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience/Schumacher Vargas-Angel Heron 2018 Tutuila coral resilience.md",
+      "section_heading": "Appendix A – Detailed summary of resilience scores",
+      "section_start_line": 163,
+      "section_end_line": 228,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which zone had the highest Composite 11 score in Table A.1?",
+      "ground_truth_answer": "Fagamalo had the highest Composite 11 score, with a Composite 11 value of 0.925 and Rank 1.",
+      "ground_truth_chunks": [
+        "| Zone      | Rank | 11    | Ble   | DZ    | Div   | FP    | Herb  | Rec   | MA    | Dam   | Poll  | Sed   | Var   | Coral | Color Code       |",
+        "| Fagamalo  | 1    | 0.925 | 0.998 | 0.845 | 0.974 | 1.000 | 1.000 | 0.896 | 0.911 | 0.996 | 1.000 | 0.880 | 0.674 | 6.5   | Mean             |"
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "source_path": "output/SwainsReport_LowRes/SwainsReport_LowRes.md",
+  "source_sha256": "4492a25ce5893120261493d1424e28d0045b5353a2972ef7e84b7c43f8cb01d2",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "40448dacda3009b96909a006",
+      "paper_id": "SwainsReport_LowRes/SwainsReport_LowRes",
+      "source_path": "output/SwainsReport_LowRes/SwainsReport_LowRes.md",
+      "section_heading": "Maritime Heritage Program Series: Number 6",
+      "section_start_line": 31,
+      "section_end_line": 50,
+      "model": "openai:gpt-4o-mini",
+      "question": "What will the Maritime Heritage Program Series reports examine?",
+      "ground_truth_answer": "They will examine the maritime cultural landscape of America in all of its aspects, including overviews, historical studies, excavation and survey reports, and genealogical studies.",
+      "ground_truth_chunks": [
+        "These reports will examine the maritime cultural landscape of America in all of its aspects, from overviews, historical studies, excavation and survey reports to genealogical studies."
+      ]
+    },
+    {
+      "record_id": "0e46cafebb934053a1c5fb9c",
+      "paper_id": "SwainsReport_LowRes/SwainsReport_LowRes",
+      "source_path": "output/SwainsReport_LowRes/SwainsReport_LowRes.md",
+      "section_heading": "Bathymetry",
+      "section_start_line": 852,
+      "section_end_line": 857,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the spacing between bathymetric survey transects?",
+      "ground_truth_answer": "20 m spacing between lines.",
+      "ground_truth_chunks": [
+        "Parallel transects were surveyed in an east-west direction across the lagoon from shore to shore with 20 m spacing between lines."
+      ]
+    },
+    {
+      "record_id": "8293d331f9a98d951d7e5fd8",
+      "paper_id": "SwainsReport_LowRes/SwainsReport_LowRes",
+      "source_path": "output/SwainsReport_LowRes/SwainsReport_LowRes.md",
+      "section_heading": "Reef flat",
+      "section_start_line": 1136,
+      "section_end_line": 1141,
+      "model": "openai:gpt-4o-mini",
+      "question": "How far does the reef flat extend to the reef crest around Swains Island?",
+      "ground_truth_answer": "95-268 m.",
+      "ground_truth_chunks": [
+        "Beyond the beach, the reef flat extends 95-268 m to the reef crest, and surrounds the island completely."
+      ]
+    },
+    {
+      "record_id": "4c26e8da07eea240493cc294",
+      "paper_id": "SwainsReport_LowRes/SwainsReport_LowRes",
+      "source_path": "output/SwainsReport_LowRes/SwainsReport_LowRes.md",
+      "section_heading": "Fale Foundation Feature 1",
+      "section_start_line": 1450,
+      "section_end_line": 1471,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the approximate dimensions of the traditional raised fale foundation described in the section?",
+      "ground_truth_answer": "Its dimensions are approximately 11.5 meters by 6 meters.",
+      "ground_truth_chunks": [
+        "The first is a traditional style raised fale foundation similar to those found in Samoa and Tokelau. The foundations long axis is oriented on an east – west axis. Its dimensions are approximately 11.5 meters by 6 meters.",
+        "It is raised approximately 40-50 cm."
+      ]
+    },
+    {
+      "record_id": "d46d23dac916c428b2f713e0",
+      "paper_id": "SwainsReport_LowRes/SwainsReport_LowRes",
+      "source_path": "output/SwainsReport_LowRes/SwainsReport_LowRes.md",
+      "section_heading": "Stone Pier",
+      "section_start_line": 1942,
+      "section_end_line": 1977,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the dimensions of the stone pier on the southern shore of the lagoon near Etena?",
+      "ground_truth_answer": "The pier is 14.2 meters long and 1.6 meters wide.",
+      "ground_truth_chunks": [
+        "The pier is made entirely of cut beach rock stone. It is 14.2 meters long and 1.6 meters wide."
+      ]
+    },
+    {
+      "record_id": "38b54fd57a4fa43079221479",
+      "paper_id": "SwainsReport_LowRes/SwainsReport_LowRes",
+      "source_path": "output/SwainsReport_LowRes/SwainsReport_LowRes.md",
+      "section_heading": "Feature 4",
+      "section_start_line": 2236,
+      "section_end_line": 2239,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many green glass bottles line the grave monument in Feature 4?",
+      "ground_truth_answer": "28 green glass bottles.",
+      "ground_truth_chunks": [
+        "This grave monument is lined with 28 green glass bottles and has a coral rubble interior fill.",
+        "There are 9 bottles on the south side of the feature, 4 bottles on the eastern end of the feature, and 15 bottles on the north side."
+      ]
+    },
+    {
+      "record_id": "562737d0d4909b4ad5bc2756",
+      "paper_id": "SwainsReport_LowRes/SwainsReport_LowRes",
+      "source_path": "output/SwainsReport_LowRes/SwainsReport_LowRes.md",
+      "section_heading": "Grindstone",
+      "section_start_line": 2528,
+      "section_end_line": 2551,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the dimensions and axial hole size of the grinding wheel described in the 'Grindstone' section?",
+      "ground_truth_answer": "The wheel is 64cm in diameter by 14cm thick, with a 7cm square hole at its axis.",
+      "ground_truth_chunks": [
+        "The wheel is 64cm in diameter by 14cm thick, with a 7cm square hole at its axis."
+      ]
+    },
+    {
+      "record_id": "59615c51f9613293a0eb81ac",
+      "paper_id": "SwainsReport_LowRes/SwainsReport_LowRes",
+      "source_path": "output/SwainsReport_LowRes/SwainsReport_LowRes.md",
+      "section_heading": "Geomorphology studies at Swains Island",
+      "section_start_line": 2825,
+      "section_end_line": 2830,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which plant genus is cited in the section as being intentionally cultivated and possibly used for voyaging navigation at Swains Island?",
+      "ground_truth_answer": "Pandanus",
+      "ground_truth_chunks": [
+        "Trees in the Pacific are often resources of intentional use, and therefore the distribution pattern of Cordia, Pandanus, Cocos species etc. can reveal information about past lifestyles.",
+        "Pandanus in particular is cited in Ickes' 2009 dissertation as being intentionally cultivated for its useful products as well as its possible role in voyaging navigation or way-finding from Tokelau (Ickes 2009: 177)."
+      ]
+    },
+    {
+      "record_id": "ed989b052080fed6986cdc01",
+      "paper_id": "SwainsReport_LowRes/SwainsReport_LowRes",
+      "source_path": "output/SwainsReport_LowRes/SwainsReport_LowRes.md",
+      "section_heading": "Diving Procedures",
+      "section_start_line": 3052,
+      "section_end_line": 3080,
+      "model": "openai:gpt-4o-mini",
+      "question": "To what maximum depth is free diving limited according to the Diving Procedures section?",
+      "ground_truth_answer": "Free diving is limited to 30-feet and shallower.",
+      "ground_truth_chunks": [
+        "Free diving will be limited to 30-feet and shallower, and limited to areas where there are no potential underwater entanglements."
+      ]
+    },
+    {
+      "record_id": "00c540c2e35d44cac763d452",
+      "paper_id": "SwainsReport_LowRes/SwainsReport_LowRes",
+      "source_path": "output/SwainsReport_LowRes/SwainsReport_LowRes.md",
+      "section_heading": "The National Marine Sanctuary System",
+      "section_start_line": 3370,
+      "section_end_line": 3382,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many marine protected areas are in the National Marine Sanctuary System?",
+      "ground_truth_answer": "14 marine protected areas.",
+      "ground_truth_chunks": [
+        "The Office of National Marine Sanctuaries, part of the National Oceanic and Atmospheric Administration, serves as the trustee for a system of 14 marine protected areas encompassing more than 170,000 square miles of ocean and Great Lakes waters.",
+        "The 13 national marine sanctuaries and one marine national monument within the National Marine Sanctuary System represent areas of America's ocean and Great Lakes environment that are of special national significance."
+      ]
+    }
+  ],
+  "failures": []
+}

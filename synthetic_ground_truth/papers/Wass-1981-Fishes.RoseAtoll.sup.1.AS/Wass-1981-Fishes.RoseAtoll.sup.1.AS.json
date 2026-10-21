@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Wass-1981-Fishes.RoseAtoll.sup.1.AS/Wass-1981-Fishes.RoseAtoll.sup.1.AS.md",
+  "source_sha256": "97fab508b3805e59c5a9f26a6bb162fc7caa095fe9654c7e2c5e9dd8d979c239",
+  "status": "complete",
+  "selected_section_count": 4,
+  "successful_record_count": 4,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "1f6bb2740635bdac4c1a6a60",
+      "paper_id": "Wass-1981-Fishes.RoseAtoll.sup.1.AS/Wass-1981-Fishes.RoseAtoll.sup.1.AS",
+      "source_path": "output/Wass-1981-Fishes.RoseAtoll.sup.1.AS/Wass-1981-Fishes.RoseAtoll.sup.1.AS.md",
+      "section_heading": "THE FISHES OF ROSE ATOLL - Supplement I",
+      "section_start_line": 1,
+      "section_end_line": 10,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many SCUBA dives were conducted during the March 23-25, 1982 survey described in this supplement?",
+      "ground_truth_answer": "Three SCUBA dives were conducted.",
+      "ground_truth_chunks": [
+        "The survey described herein was conducted March 23-25, 1982.",
+        "Observations were made during three SCUBA dives and while being towed on the surface behind an outboard-powered skiff at the locations noted in Figure 1."
+      ]
+    },
+    {
+      "record_id": "6692fbfcb6616d9bcec5e420",
+      "paper_id": "Wass-1981-Fishes.RoseAtoll.sup.1.AS/Wass-1981-Fishes.RoseAtoll.sup.1.AS",
+      "source_path": "output/Wass-1981-Fishes.RoseAtoll.sup.1.AS/Wass-1981-Fishes.RoseAtoll.sup.1.AS.md",
+      "section_heading": "Results",
+      "section_start_line": 11,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what depth does the Reef Front Habitat begin in this study?",
+      "ground_truth_answer": "It begins at a depth of about 4 m.",
+      "ground_truth_chunks": [
+        "The Reef Front Habitat is located on the seaward side of the reef. As defined in the present study, it begins at a depth of about 4 m. and consists of an irregular and often steep slope to a depth of about 50 m."
+      ]
+    },
+    {
+      "record_id": "2cfee0c0695ee66e1233dec1",
+      "paper_id": "Wass-1981-Fishes.RoseAtoll.sup.1.AS/Wass-1981-Fishes.RoseAtoll.sup.1.AS",
+      "source_path": "output/Wass-1981-Fishes.RoseAtoll.sup.1.AS/Wass-1981-Fishes.RoseAtoll.sup.1.AS.md",
+      "section_heading": "Discussion",
+      "section_start_line": 23,
+      "section_end_line": 42,
+      "model": "openai:gpt-4o-mini",
+      "question": "How does fish species diversity at Rose Atoll reef front compare to reef fronts around Tutuila?",
+      "ground_truth_answer": "The fish community at Rose Atoll is lacking in diversity compared with reef fronts around Tutuila: Tutuila surveys averaged 106 species, while Rose showed fewer overall — only eight damselfish species at Rose versus 12–15 at Tutuila, and only three parrotfish species at Rose versus 8–12 at Tutuila. However, large carnivorous groupers, jacks and snappers are more abundant at Rose than at Tutuila.",
+      "ground_truth_chunks": [
+        "When compared to reef fronts around Tutuila, the fish community at Rose Atoll is lacking in diversity. The number of species observed during 31 surveys in reef front habitats around Tutuila averaged 106 even though considerably less time was spent listing species than during the present study.",
+        "Only eight species were observed at Rose while 12-15 damsels were commonly observed on reef fronts around Tutuila.",
+        "Likewise, 8-12 species of parrotfishes were usually observed on reef fronts around Tutuila while only three were seen at Rose. Large, carnivorous species of groupers, jacks and snappers, however, are more abundant at Rose than at Tutuila."
+      ]
+    },
+    {
+      "record_id": "cd21ddd7d0193b92b124cb4a",
+      "paper_id": "Wass-1981-Fishes.RoseAtoll.sup.1.AS/Wass-1981-Fishes.RoseAtoll.sup.1.AS",
+      "source_path": "output/Wass-1981-Fishes.RoseAtoll.sup.1.AS/Wass-1981-Fishes.RoseAtoll.sup.1.AS.md",
+      "section_heading": "Additional Notes",
+      "section_start_line": 43,
+      "section_end_line": 242,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species added to the list of lagoon fishes at Rose Atoll was reported as common in shallow sandy areas on the lagoon side of the reef?",
+      "ground_truth_answer": "Carangoides ferdau.",
+      "ground_truth_chunks": [
+        "They are: Adioryx tiere,\n\nFlammeo opercularis, Carangoides ferdau, Chaetodon flavirostris, C. lineolatus and Scarus atropectoralis (tentatively identified as Scarus caudofasciatus in the previous report).",
+        "All are uncommon with the exception of Carangoides ferdau which is common in shallow sandy areas on the lagoon side of the reef."
+      ]
+    }
+  ],
+  "failures": []
+}

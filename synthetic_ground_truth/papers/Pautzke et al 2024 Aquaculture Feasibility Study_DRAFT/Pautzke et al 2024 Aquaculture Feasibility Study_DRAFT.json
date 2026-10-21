@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT.md",
+  "source_sha256": "d10e568b1872687cc9910546b39a8dd9d89224ebed48ce1033f0a10f9ac4db7c",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "0821ef4b0266fa258e06f7db",
+      "paper_id": "Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT",
+      "source_path": "output/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT.md",
+      "section_heading": "<span id=\"page-1-0\"></span>Thank You",
+      "section_start_line": 11,
+      "section_end_line": 20,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who provided the vision for mariculture and aquaculture in American Samoa and offered support for this mariculture project?",
+      "ground_truth_answer": "Mr. Keniseli Lafaele.",
+      "ground_truth_chunks": [
+        "Thank you to everyone who supported the development and execution of this project, especially Mr. Keniseli Lafaele. He has a vision, one in which mariculture and aquaculture can help support food security for the people of American Samoa. Mr. Lafaele brought this idea to the table during the development of the American Samoa Ocean Plan, and then offered his support of this mariculture project first as the Director of American Samoa's Department of Commerce, then as a cultural liaison directly facilitating our community engagement.",
+        "Without the support of Mr. Lafaele, staff at the Department of Commerce, Department of Marine and Wildlife Resources, the community members, and business owners, this project would not have been a success. Fa`afetai tele lava!"
+      ]
+    },
+    {
+      "record_id": "3876c777bb8c8bde6c34ec8b",
+      "paper_id": "Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT",
+      "source_path": "output/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT.md",
+      "section_heading": "Marine fish",
+      "section_start_line": 229,
+      "section_end_line": 232,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which marine fish species is the only one included in this section as suitable for farming?",
+      "ground_truth_answer": "Mullet.",
+      "ground_truth_chunks": [
+        "Due to the difficulty growing these fish, only mullet, which is readily available to catch and grow to maturity in a nearshore net pen, is included here."
+      ]
+    },
+    {
+      "record_id": "1e05bbd44b38436779b04428",
+      "paper_id": "Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT",
+      "source_path": "output/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT.md",
+      "section_heading": "<span id=\"page-24-1\"></span>Local Restaurant and Grocers",
+      "section_start_line": 353,
+      "section_end_line": 360,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which aquaculture products were reported as currently being imported and sold?",
+      "ground_truth_answer": "Tilapia (some local supply), swai (catfish from Vietnam), shrimp, salmon (from New Zealand), and various vegetables.",
+      "ground_truth_chunks": [
+        "Current aquaculture products being imported and sold are mainly tilapia (some local supply), swai (catfish from Vietnam), shrimp, salmon (from New Zealand) and various vegetables.",
+        "The list includes mud crabs, limu (seaweed), faisua (giant clam), freshwater eel, fe'e (octopus), kuikui (urchin), mullet, sea cucumber, and alili (sea snail), snapper, milk fish, parrot fish, and vegetables such as tutuila lettuce, cucumber and cabbage."
+      ]
+    },
+    {
+      "record_id": "eb9b3479cd2ad63afce19039",
+      "paper_id": "Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT",
+      "source_path": "output/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT.md",
+      "section_heading": "<span id=\"page-48-0\"></span>Masausi",
+      "section_start_line": 537,
+      "section_end_line": 544,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species are listed as current species in Masausi?",
+      "ground_truth_answer": "sea cucumber, faisua, alili, limu",
+      "ground_truth_chunks": [
+        "Current species: sea cucumber, faisua, alili, limu[21][22][23][24]",
+        "Masausi is on the northern side of Tutuila. It has extensive sea cucumbers and alili, as well as some red limu and faisua."
+      ]
+    },
+    {
+      "record_id": "ab9f2b83e2b026c7ff1459a7",
+      "paper_id": "Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT",
+      "source_path": "output/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT.md",
+      "section_heading": "Materials and Equipment",
+      "section_start_line": 681,
+      "section_end_line": 684,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the 'Materials and Equipment' section, how long in advance may specialized aquaculture items need to be ordered and shipped to the island?",
+      "ground_truth_answer": "Approximately 3 months.",
+      "ground_truth_chunks": [
+        "It was noted that basic aquaculture supplies and equipment may be obtained on the island through three stores.",
+        "Therefore, specialized pumps, nets/netting, feed or chemicals may need to be ordered well in advance (approximately 3 months) and shipped to the island."
+      ]
+    },
+    {
+      "record_id": "49a6b2a4955056a9e7762768",
+      "paper_id": "Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT",
+      "source_path": "output/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT.md",
+      "section_heading": "<span id=\"page-71-0\"></span>ANALYSIS OF REGULATIONS",
+      "section_start_line": 911,
+      "section_end_line": 922,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which federal agencies have jurisdiction over aspects of aquaculture operations in American Samoa?",
+      "ground_truth_answer": "The National Oceanic and Atmospheric Administration (NOAA), the U.S. Fish and Wildlife Service (USFWS), the U.S. Army Corps of Engineers (USACE), and others.",
+      "ground_truth_chunks": [
+        "At the federal level, several agencies have jurisdiction over aspects of aquaculture operations, including the National Oceanic and Atmospheric Administration (NOAA), the U.S. Fish and Wildlife Service (USFWS), the U.S. Army Corps of Engineers (USACE), and others."
+      ]
+    },
+    {
+      "record_id": "2b6c7299066989285bc9d957",
+      "paper_id": "Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT",
+      "source_path": "output/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT.md",
+      "section_heading": "<span id=\"page-78-1\"></span>International Regulations",
+      "section_start_line": 1085,
+      "section_end_line": 1107,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which U.S. agency issues CITES permits for aquaculture operations in American Samoa?",
+      "ground_truth_answer": "The U.S. Fish & Wildlife Service's Division of Management Authority issues CITES permits.",
+      "ground_truth_chunks": [
+        "CITES import and export permits are often required for international trade of certain species.",
+        "As a U.S. Territory, such permits would be issued by the U.S. Fish & Wildlife Service's Division of Management Authority."
+      ]
+    },
+    {
+      "record_id": "890b2e6f6f81354512f60a64",
+      "paper_id": "Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT",
+      "source_path": "output/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT.md",
+      "section_heading": "<span id=\"page-90-0\"></span>APPENDIX A: Additional Mariculture Fish Species",
+      "section_start_line": 1360,
+      "section_end_line": 1363,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species were identified in APPENDIX A as having potential for aquaculture?",
+      "ground_truth_answer": "The appendix lists faisua (giant clam), tilapia, freshwater eel, freshwater prawn, mullet, red limu, green limu (sea grapes), sea cucumber, alili (turban snail), mud crab (or mangrove crab), oyster, milkfish, fe'e (octopus), and kuikui (urchin).",
+      "ground_truth_chunks": [
+        "Several species were identified for their potential for aquaculture, including faisua (giant clam), tilapia, freshwater eel, freshwater prawn, mullet, red limu, green limu (sea grapes), sea cucumber, alili (turban snail), mud crab (or mangrove crab), oyster, milkfish, fe'e (octopus), and kuikui (urchin), which were discussed above.",
+        "However, there are several additional species not identified by the community members during our visit (e.g. tuna) that may have the potential to be grown in the future."
+      ]
+    },
+    {
+      "record_id": "6cd01a3ff2f6887a16d5bbb7",
+      "paper_id": "Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT",
+      "source_path": "output/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT.md",
+      "section_heading": "Pearl Oysters",
+      "section_start_line": 1463,
+      "section_end_line": 1470,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long after implantation can cultured pearls first be harvested?",
+      "ground_truth_answer": "About 2–3 years after implantation.",
+      "ground_truth_chunks": [
+        "After 2-3 years, the implanted pearl can be harvested, cleaned, assessed for quality, and hopefully sold.",
+        "After 2-3 years, the first pearls can be harvested, but it may take 2-3 harvests to begin making money (Haws 2002)."
+      ]
+    },
+    {
+      "record_id": "e0f3785974ae03911c480af4",
+      "paper_id": "Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT",
+      "source_path": "output/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT/Pautzke et al 2024 Aquaculture Feasibility Study_DRAFT.md",
+      "section_heading": "Marketing",
+      "section_start_line": 1594,
+      "section_end_line": 1596,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the buying price per piece for kuroko (A. bicolor pacifica)?",
+      "ground_truth_answer": "The buying price is USD $1 per piece.",
+      "ground_truth_chunks": [
+        "After 5-6 months of culture, kuroko (*A. bicolor pacifica*) may be sold directly abroad or sold to other exporters. The market size for export is 6 to 7 inches, weighing approximately 6-7 g or at 150 pieces per kilogram. The buying price is USD \\$1 per piece."
+      ]
+    }
+  ],
+  "failures": []
+}

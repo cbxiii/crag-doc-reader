@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila.md",
+  "source_sha256": "8014ae57ffb91f3169cd8053c30aacc195a06b3dc724d3293b8323c5c5d63a09",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "b59e5318ef89cff1a360f3ac",
+      "paper_id": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+      "source_path": "output/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila.md",
+      "section_heading": "Corals:",
+      "section_start_line": 13,
+      "section_end_line": 19,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral species did the latest survey encounter within the transects in Fagatele Bay, and what is the new total number of coral species recorded in Fagatele Bay?",
+      "ground_truth_answer": "The latest survey encountered 94 species within the transects and added four new species, bringing the total number of species recorded in Fagatele Bay to 168 (previously 164).",
+      "ground_truth_chunks": [
+        "We encountered 94 species within the areas specifically within our transects, a small part of Fagatele Bay.",
+        "A total of 164 species of corals were previously recorded from Fagatele Bay, but this latest survey found yet another four species not previously recorded: *Acropora formosa, Montipora hispida*, *Fungia concinna* and *Fungia klunzingeri*, bringing the total number of species in Fagatele Bay to 168."
+      ]
+    },
+    {
+      "record_id": "2beca95d9aa3d6ee78b726a6",
+      "paper_id": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+      "source_path": "output/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 71,
+      "section_end_line": 80,
+      "model": "openai:gpt-4o-mini",
+      "question": "In which months and years were the surveys documented in this report conducted?",
+      "ground_truth_answer": "November, 2007 and May, 2008.",
+      "ground_truth_chunks": [
+        "This report documents the results from surveys in Fagatele Bay National Marine Sanctuary conducted in November, 2007 and May, 2008."
+      ]
+    },
+    {
+      "record_id": "108985ec588928fdd1295510",
+      "paper_id": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+      "source_path": "output/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila.md",
+      "section_heading": "Benthos",
+      "section_start_line": 93,
+      "section_end_line": 102,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many points were sampled along the 30 m fish belt transects following the method established by Green et al (2004)?",
+      "ground_truth_answer": "Forty-eight points were sampled along the 30 m fish belt transects (NB: except at Fagasa, where three 30 m transects were laid end to end, for a total of 144 points per transect).",
+      "ground_truth_chunks": [
+        "Following the method established by Green et al (2004), forty-eight points were sampled along the 30 m fish belt transects.",
+        "The substrate under the tape was identified every two meters and the substrate at a point approximately 1 m on either side of, and perpendicular to the tape at 1m was also identified (NB: except at Fagasa, where three 30 m transects were laid end to end, for a total of 144 points per transect)."
+      ]
+    },
+    {
+      "record_id": "5b79bf69048ba781f6c79a51",
+      "paper_id": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+      "source_path": "output/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila.md",
+      "section_heading": "The Aua Transect",
+      "section_start_line": 117,
+      "section_end_line": 120,
+      "model": "openai:gpt-4o-mini",
+      "question": "What area size were the quadrats used to count corals on the Aua Transect?",
+      "ground_truth_answer": "0.25 m^2",
+      "ground_truth_chunks": [
+        "The corals were counted in 0.25 m<sup>2</sup> quadrats that were tossed haphazardly within about 10 m to either side of the transect, with an equal number of quadrats on each side, within a set of zones between the shore and the reef crest."
+      ]
+    },
+    {
+      "record_id": "3369acfcb4cbaa37f976c54e",
+      "paper_id": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+      "source_path": "output/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila.md",
+      "section_heading": "Fagatele Bay National Marine Sanctuary",
+      "section_start_line": 143,
+      "section_end_line": 307,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species was the most common in Fagatele Bay in 2007/8, and how many colonies of it were recorded?",
+      "ground_truth_answer": "Galaxea fascicularis — 531 colonies.",
+      "ground_truth_chunks": [
+        "A total of 2417 coral colonies belonging to 94 species were recorded during surveys in Fagatele Bay in 2007/8. The most common coral in the bay (531 colonies) was *Galaxea fascicularis*.",
+        "Galaxea fascicularis<br>531<br>2.1<br>3<br>0.02<br>Gardinoseris planulata<br>2<br>0.7<br>Goniastrea retiformis<br>44<br>3.0"
+      ]
+    },
+    {
+      "record_id": "9a8d6c5bf3b2eff1d36ddea7",
+      "paper_id": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+      "source_path": "output/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila.md",
+      "section_heading": "Benthic Cover in Fagatele Bay",
+      "section_start_line": 459,
+      "section_end_line": 528,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the reported range of coral percent cover in Fagatele Bay surveys?",
+      "ground_truth_answer": "Coral cover ranged from 14.6% to 55.3%.",
+      "ground_truth_chunks": [
+        "Coral cover ranged from 14.6% to 55.3%, while macroalgae cover ranged from 17.8 - 83.3 %.",
+        "Sub-total CORALS<br>2007           | 47.9 | 37.5 | 22.9 | 47.9 | -    | -    | 51.1 | 18.8 | 14.6 | -    | 52.1 | 33.3 | 55.3 | 31.3 | -    | -    | 25.0 | 31.3 | 50.0 | _    |"
+      ]
+    },
+    {
+      "record_id": "dd5c1a7e891199726d0a579e",
+      "paper_id": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+      "source_path": "output/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila.md",
+      "section_heading": "Corals in Pago Pago Harbor –2007",
+      "section_start_line": 616,
+      "section_end_line": 623,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species had the highest number of colonies recorded in Pago Pago Harbor in 2007?",
+      "ground_truth_answer": "Montipora grisea — 80 colonies.",
+      "ground_truth_chunks": [
+        "A total of 401 coral colonies belonging to 30 species were recorded in the surveys at the two sites in Pago Pago Harbor in 2007.",
+        "The most common coral was *Montipora grisea* (80 colonies) closely followed by *Pavona varians* (78 colonies)."
+      ]
+    },
+    {
+      "record_id": "2fa742ce36c837cb180a90ff",
+      "paper_id": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+      "source_path": "output/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila.md",
+      "section_heading": "The Aua Transect",
+      "section_start_line": 749,
+      "section_end_line": 786,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year did a massive recruitment of Acropora nana begin along the Aua transect?",
+      "ground_truth_answer": "1999.",
+      "ground_truth_chunks": [
+        "The corals were few in 1995-1998, but starting with a massive recruitment of *Acropora nana* in 1999, density has remained high on the outer part of the transect with solid substrata, but low on the rubble sections of the middle part of the transect and essentially non existent in the burrow pit.",
+        "There used to be a variety of *Acropora* species on the reef crest, but Acropora nana now dominates nearly exclusively."
+      ]
+    },
+    {
+      "record_id": "f0b897f887e8dcb8988e81e9",
+      "paper_id": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+      "source_path": "output/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila.md",
+      "section_heading": "Historic Fish Transects 2004-2007",
+      "section_start_line": 826,
+      "section_end_line": 933,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the total number of reef fish recorded on transect T2 at Cape Larsen in November 2007?",
+      "ground_truth_answer": "159",
+      "ground_truth_chunks": [
+        "| Family         | Species                    | T1 | T2          | T3 | T1           | T2 | T3 | T1       | T2 | T3 |",
+        "| TOTAL          |                                  | 119 | 159 | 116 | 69 | 78 | 73 | 137 | 96 | 109 |"
+      ]
+    },
+    {
+      "record_id": "a06529ac2bee05000d332a55",
+      "paper_id": "2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila",
+      "source_path": "output/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila/2007,  2008  - Fenneret al. 2008 Long-term FBNMS and Tutuila.md",
+      "section_heading": "Fish communities",
+      "section_start_line": 962,
+      "section_end_line": 972,
+      "model": "openai:gpt-4o-mini",
+      "question": "What caused the peaks in fish density in 1985 and 2001?",
+      "ground_truth_answer": "The peaks were primarily due to surgeonfishes; these pulses are associated with mass recruitment events of C. striatus.",
+      "ground_truth_chunks": [
+        "- Changes in density (particularly peaks in abundance in 1985 and 2001) were primarily due to surgeonfishes (see Fig 10, Green et al 2005). These pulses are associated with mass recruitment events of *C. striatus* (Birkeland et al 1987; Green et al 2005)."
+      ]
+    }
+  ],
+  "failures": []
+}

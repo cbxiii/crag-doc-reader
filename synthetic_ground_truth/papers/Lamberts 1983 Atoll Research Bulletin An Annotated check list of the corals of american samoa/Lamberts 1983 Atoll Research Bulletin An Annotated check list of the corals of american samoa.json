@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa.md",
+  "source_sha256": "38e81996244161a6a21b3f9bf14e894aa96d7cccc54be97b51b39e6643f97d2f",
+  "status": "complete",
+  "selected_section_count": 6,
+  "successful_record_count": 6,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "37deb1fe7418cc006d276960",
+      "paper_id": "Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa",
+      "source_path": "output/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa.md",
+      "section_heading": "SUMMARY",
+      "section_start_line": 9,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral species (including non-scleractinian) from American Samoa are listed in the summary?",
+      "ground_truth_answer": "A total of 177 species (including 3 species of non-scleractinian corals).",
+      "ground_truth_chunks": [
+        "A total of 177 species (including 3 species of non-scleractinian corals) belonging to 48 genera and subgenera (including the genera Millepora and Heliopora) known to date are listed with data as of frequency of occurrence and habitat,"
+      ]
+    },
+    {
+      "record_id": "ff55195550f58f353ce6c486",
+      "paper_id": "Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa",
+      "source_path": "output/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 15,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "On which islands in American Samoa did the author conduct collecting?",
+      "ground_truth_answer": "On the five major inhabited islands: Tutuila, Aunu\"u, Ofu, Olesega, and Taau.",
+      "ground_truth_chunks": [
+        "My collecting was done on the five major inhabited islands of American Samoa which the largest, Tutuila, Aunu\"u (a small island Located L mi (Le6 km) off the southeast coast of Tutuila), Ofu, Olesega, and Taau.",
+        "The latter three islands are collectively referred to as the Manu\"a group and lie about *46* miles (105 km) east of Tutuila,"
+      ]
+    },
+    {
+      "record_id": "80b8a50bd2167769562f3bd7",
+      "paper_id": "Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa",
+      "source_path": "output/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa.md",
+      "section_heading": "MATERIAL AND METHODS",
+      "section_start_line": 25,
+      "section_end_line": 34,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many specimens were collected during the Samoa trips and in what years were the trips made?",
+      "ground_truth_answer": "690 specimens were collected during four trips to Samoa made between 1973 and 1979.",
+      "ground_truth_chunks": [
+        "My co2lections of 690 specimens were made during four trips to Samoa between 1973-79."
+      ]
+    },
+    {
+      "record_id": "62dccdb099cad47d0164ae74",
+      "paper_id": "Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa",
+      "source_path": "output/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa.md",
+      "section_heading": "ANNOTATED LIST",
+      "section_start_line": 35,
+      "section_end_line": 534,
+      "model": "openai:gpt-4o-mini",
+      "question": "What abundance and depth range does the ANNOTATED LIST give for Porites lutea?",
+      "ground_truth_answer": "Abundant; All collecting sites (0-30m).",
+      "ground_truth_chunks": [
+        "Porites lutea Edwards & Haimes, 1851 (H, P&S)\n\nAbundant, All collecting sites (0-30m)"
+      ]
+    },
+    {
+      "record_id": "5a4a9a20126f326009c59764",
+      "paper_id": "Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa",
+      "source_path": "output/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa.md",
+      "section_heading": "Genus TUBASTREA Lesson 1831",
+      "section_start_line": 535,
+      "section_end_line": 582,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the recorded abundance and depth range for Tubastrea coccinea in this section?",
+      "ground_truth_answer": "Rare; recorded at Aua reef slope and Faga itua pass at depths 1–3m.",
+      "ground_truth_chunks": [
+        "Tubastrea coccinea Lesson, 1831\n\nRare, Aua reef slope, Faga itua pass (1-3m)"
+      ]
+    },
+    {
+      "record_id": "d6c7a85681a444a28238467b",
+      "paper_id": "Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa",
+      "source_path": "output/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa/Lamberts 1983 Atoll Research Bulletin An Annotated check list of the corals of american samoa.md",
+      "section_heading": "CONCLUSIONS",
+      "section_start_line": 583,
+      "section_end_line": 592,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many species of scleractinian corals are presented in the checklist?",
+      "ground_truth_answer": "174 species of scleractinian corals.",
+      "ground_truth_chunks": [
+        "In all, 174 species of scleractinian corals are presented."
+      ]
+    }
+  ],
+  "failures": []
+}

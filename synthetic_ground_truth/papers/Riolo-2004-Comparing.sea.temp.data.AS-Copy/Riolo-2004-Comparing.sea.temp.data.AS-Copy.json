@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy.md",
+  "source_sha256": "bc177735b0d160062db411934271ca2a584d91442ef463197fd364718f8eb544",
+  "status": "complete",
+  "selected_section_count": 8,
+  "successful_record_count": 8,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "daa6352294d2bbfb81ffd980",
+      "paper_id": "Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy",
+      "source_path": "output/Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy.md",
+      "section_heading": "Sea Surface Temperature",
+      "section_start_line": 7,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "How do Robinson, Wells & Charnock (1984) define true sea surface temperature?",
+      "ground_truth_answer": "They define true sea surface temperature as the temperature of the first few millimetres of the ocean surface (skin).",
+      "ground_truth_chunks": [
+        "Robinson, Wells & Charnock (1984) define true sea surface temperature as the temperature of the first few millimetres of the ocean surface (skin).",
+        "Since this is exactly what a radiometer viewing the ocean surface measure (Schluessel *et al*, 1990), it can be said that remotely sensed values for SST constitute the true sea surface temperature."
+      ]
+    },
+    {
+      "record_id": "3397ac408900ba34f37dc30a",
+      "paper_id": "Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy",
+      "source_path": "output/Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy.md",
+      "section_heading": "Comparing satellite derived SST with in-situ sea temperature",
+      "section_start_line": 27,
+      "section_end_line": 48,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Strong et al., what was the best match mean difference and uncertainty between in situ temperatures and satellite SSTs at Miyako Island?",
+      "ground_truth_answer": "0.10+/-0.29°C",
+      "ground_truth_chunks": [
+        "During the three month period, the mean difference between *in situ*\n\ntemperatures and SSTs at the pixels closest to them ranged from -0.55+/-0.51°C to 0.54+/-0.84°C with the best match of 0.10+/-0.29°C in the Miyako Island, and 0.02+/- 0.49°C in the Okinawa Island."
+      ]
+    },
+    {
+      "record_id": "065ebfe1aeb0533e7bd3e9ab",
+      "paper_id": "Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy",
+      "source_path": "output/Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy.md",
+      "section_heading": "NOAA/NASA Pathfinder Advanced Very High Resolution Radiometer (AVHRR) SST",
+      "section_start_line": 51,
+      "section_end_line": 56,
+      "model": "openai:gpt-4o-mini",
+      "question": "What spatial resolutions are available for the Pathfinder AVHRR SST dataset?",
+      "ground_truth_answer": "4 km, 9 km, 18 km, and 54 km.",
+      "ground_truth_chunks": [
+        "These data is available until 2004 at daily, 8-day and monthly averages and 4km, 9km, 18km, and 54km resolutions.",
+        "The datasets utilized in this analysis are night and day passes, subsetted Pathfinder Version 5.0 Sea Surface Temperature Data, for the period 1985 to present, resolution of 4 X 4 km, provided by Kenneth S. Casey at NOAA National Oceanographic Data Center in Silver Spring MD."
+      ]
+    },
+    {
+      "record_id": "66dc19910bccd8f6319642f8",
+      "paper_id": "Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy",
+      "source_path": "output/Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy.md",
+      "section_heading": "In-situ temperature logger in the Vatia Bay, American Samoa",
+      "section_start_line": 57,
+      "section_end_line": 60,
+      "model": "openai:gpt-4o-mini",
+      "question": "What depth and geographic coordinates does the section report for the ONSET data logger in Vatia Bay?",
+      "ground_truth_answer": "Approximately at 2 meters depth (at low tide) and 14 deg 15' 9\" latitude and 170 deg, 40', 8\" longitude.",
+      "ground_truth_chunks": [
+        "The in-situ data logger is deployed and maintained by Peter Craig from the American Samoa National Park Service.",
+        "The ONSET data logger is located approximately at 2 meters depth (at low tide) and, 14 deg 15' 9\" latitude and 170 deg, 40', 8\" longitude in the Vatia Bay on the main island of Tutuila."
+      ]
+    },
+    {
+      "record_id": "b27a01e2b5e9052340549bbf",
+      "paper_id": "Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy",
+      "source_path": "output/Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy.md",
+      "section_heading": "METHODS",
+      "section_start_line": 67,
+      "section_end_line": 129,
+      "model": "openai:gpt-4o-mini",
+      "question": "What formula was applied to convert satellite pixel values to temperature?",
+      "ground_truth_answer": "Temperature = (pixel value * 0.15) - 3",
+      "ground_truth_chunks": [
+        "To obtain temperature values from the pixel values the following formula needs to be applied:\n\nTemperature = \n$$(pixel value * 0.15) - 3$$",
+        "The ASCII file data were written in the form of Julian date, pixel1 value, pixel2 value, temperature1, temperature2."
+      ]
+    },
+    {
+      "record_id": "e2fa1bde060b1e759f8d4219",
+      "paper_id": "Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy",
+      "source_path": "output/Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy.md",
+      "section_heading": "Day and Night 8 days average comparison pixel2",
+      "section_start_line": 134,
+      "section_end_line": 159,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the mean bias and standard deviation reported for '8 Days P2' (In-situ – satellite Temp.)?",
+      "ground_truth_answer": "Mean bias = 0.29; Standard deviation = 0.31.",
+      "ground_truth_chunks": [
+        "| DATASET    | Mean bias                   | Stand.    | Bias range  | #       |",
+        "| 8 Days P2  | 0.29                        | 0.31      | 0.03 – 0.74 | 15      |"
+      ]
+    },
+    {
+      "record_id": "6d8481d1139b832d23a0b2eb",
+      "paper_id": "Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy",
+      "source_path": "output/Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 160,
+      "section_end_line": 167,
+      "model": "openai:gpt-4o-mini",
+      "question": "Do AVHRR Pathfinder 4x4 km SST data tend to underestimate temperatures in Vatia Bay compared to in-situ loggers?",
+      "ground_truth_answer": "Yes — AVHRR data tend to underestimate the temperature in Vatia Bay relative to in-situ loggers; all mean biases between in-situ and AVHRR data are positive.",
+      "ground_truth_chunks": [
+        "AVHRR data tend to underestimate the temperature in the Vatia Bay (all mean biases between insitu and AVHRR data are positive).",
+        "This is probably due to under-correction for atmospheric water vapor and cloud effects between 20ºS-20ºN (Kilpatrick et al., 2001) as well as to the averaging over colder off shore water included in the 4x4km pixel."
+      ]
+    },
+    {
+      "record_id": "7c39fe09b6108f7594d6628b",
+      "paper_id": "Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy",
+      "source_path": "output/Riolo-2004-Comparing.sea.temp.data.AS-Copy/Riolo-2004-Comparing.sea.temp.data.AS-Copy.md",
+      "section_heading": "CONCLUSION",
+      "section_start_line": 168,
+      "section_end_line": 173,
+      "model": "openai:gpt-4o-mini",
+      "question": "What spatial resolution of AVHRR satellite data does the study propose for long-term monitoring of thermal stresses over coral reef areas in American Samoa?",
+      "ground_truth_answer": "High resolution (4X4km) AVHRR satellite data.",
+      "ground_truth_chunks": [
+        "This study opens the opportunity of using high resolution (4X4km) AVHRR satellite data for long term monitoring of thermal stresses over coral reef areas in American Samoa and provide a case of study to be used at much wider geographical extent.",
+        "Historical temperature data as far back as 1985 become meaningfully available and bring valuable information on environmental conditions to be used in conjunction with historical coral bleaching observations and coral monitoring data."
+      ]
+    }
+  ],
+  "failures": []
+}

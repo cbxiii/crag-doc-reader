@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Coward 2020 Ta_u (1)/Coward 2020 Ta_u (1).md",
+  "source_sha256": "b0d75cad4755ed437eae19effbbe739ed9c887b34c35c8f1a590cd551985f37f",
+  "status": "complete",
+  "selected_section_count": 5,
+  "successful_record_count": 5,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "d9707a21a8aaa3d0b944266c",
+      "paper_id": "Coward 2020 Ta_u (1)/Coward 2020 Ta_u (1)",
+      "source_path": "output/Coward 2020 Ta_u (1)/Coward 2020 Ta_u (1).md",
+      "section_heading": "OPEN A new record for a massive Porites colony at Ta'u Island, American Samoa",
+      "section_start_line": 5,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the measurements (height, circumference, and diameter) of the largest Porites colony measured in November 2019 at Ta'u, American Samoa?",
+      "ground_truth_answer": "It measured 8 m tall, 69 m in circumference, and had a diameter of 22.4 m.",
+      "ground_truth_chunks": [
+        "This coral was measured in November 2019 as part of an effort to catalogue all large (≥ 2 m diameter) Porites colonies around Ta'u.",
+        "The largest colony measured 8 m tall, 69 m in circumference and had a diameter of 22.4 m."
+      ]
+    },
+    {
+      "record_id": "7ae5c97d71c7ff70f54344d7",
+      "paper_id": "Coward 2020 Ta_u (1)/Coward 2020 Ta_u (1)",
+      "source_path": "output/Coward 2020 Ta_u (1)/Coward 2020 Ta_u (1).md",
+      "section_heading": "Method",
+      "section_start_line": 27,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "On which dates were the tow-board surveys around Ta'u conducted?",
+      "ground_truth_answer": "From November 25–27, 2019.",
+      "ground_truth_chunks": [
+        "From November 25–27, 2019 tow-board surveys were conducted on the northern, eastern, and western sides of Ta'u (Fig. 2).",
+        "SCUBA dives were conducted on November 26 and 27, 2019, to document fve of the newly catalogued corals recorded during the surveys."
+      ]
+    },
+    {
+      "record_id": "6b94aad5b9ab8484cd79afd5",
+      "paper_id": "Coward 2020 Ta_u (1)/Coward 2020 Ta_u (1)",
+      "source_path": "output/Coward 2020 Ta_u (1)/Coward 2020 Ta_u (1).md",
+      "section_heading": "Results and discussion",
+      "section_start_line": 41,
+      "section_end_line": 73,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many individual colonies exceeding 10 m in diameter (scale 3) were identified during the tow-board surveys?",
+      "ground_truth_answer": "84 individual colonies.",
+      "ground_truth_chunks": [
+        "Tow-board surveys covered a distance of 21.5 km and the efort identifed 84 individual colonies exceeding 10 m in diameter (scale 3; Fig. 2), 393 colonies between 6–10 m (scale 2) and 498 colonies between 2–5 m (scale 1)."
+      ]
+    },
+    {
+      "record_id": "be46266069c82d1744e92bf4",
+      "paper_id": "Coward 2020 Ta_u (1)/Coward 2020 Ta_u (1)",
+      "source_path": "output/Coward 2020 Ta_u (1)/Coward 2020 Ta_u (1).md",
+      "section_heading": "Additional information",
+      "section_start_line": 126,
+      "section_end_line": 137,
+      "model": "openai:gpt-4o-mini",
+      "question": "To whom should correspondence and requests for materials be addressed?",
+      "ground_truth_answer": "G.C.",
+      "ground_truth_chunks": [
+        "**Correspondence** and requests for materials should be addressed to G.C."
+      ]
+    },
+    {
+      "record_id": "00ec5e934975e0c468af7be8",
+      "paper_id": "Coward 2020 Ta_u (1)/Coward 2020 Ta_u (1)",
+      "source_path": "output/Coward 2020 Ta_u (1)/Coward 2020 Ta_u (1).md",
+      "section_heading": "Terms and Conditions",
+      "section_start_line": 138,
+      "section_end_line": 167,
+      "model": "openai:gpt-4o-mini",
+      "question": "Does Springer Nature permit the creation of a product or service that generates revenue from Springer Nature journal content?",
+      "ground_truth_answer": "No. Springer Nature does not permit creating a product or service that creates revenue, royalties, rent or income from their content or its inclusion as part of a paid service or for other commercial gain.",
+      "ground_truth_chunks": [
+        "In line with the restriction against commercial use, Springer Nature does not permit the creation of a product or service that creates revenue, royalties, rent or income from our content or its inclusion as part of a paid for service or for other commercial gain.",
+        "For these purposes, Springer Nature considers academic use (by researchers and students) to be non-commercial."
+      ]
+    }
+  ],
+  "failures": []
+}

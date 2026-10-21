@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2010 TMP report/2010 TMP report.md",
+  "source_sha256": "8152223d44926de055546ee13d39a4983cb1aa9d838701cb7c41ddd2c4dfc12c",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "d94375d6c1fec679804c04e8",
+      "paper_id": "2010 TMP report/2010 TMP report",
+      "source_path": "output/2010 TMP report/2010 TMP report.md",
+      "section_heading": "Abstract",
+      "section_start_line": 36,
+      "section_end_line": 53,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the coral cover for the two reef slope sites surveyed in 2010?",
+      "ground_truth_answer": "32% coral cover.",
+      "ground_truth_chunks": [
+        "Only 2 sites on the reef slopes were surveyed in 2010. Coral cover for the two sites has not shown any trend over the last 6 years, and in 2010 was 32%, very similar to that of the average of all 12 sites in previous years."
+      ]
+    },
+    {
+      "record_id": "67ecadd2bab4a39922ac3f71",
+      "paper_id": "2010 TMP report/2010 TMP report",
+      "source_path": "output/2010 TMP report/2010 TMP report.md",
+      "section_heading": "Methods",
+      "section_start_line": 54,
+      "section_end_line": 114,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what depth contour were the four 50-m transect tapes laid in the core monitoring?",
+      "ground_truth_answer": "They were laid on a depth contour between 8 and 10 m deep.",
+      "ground_truth_chunks": [
+        "In the core monitoring, four 50-m tapes were laid on a depth contour between 8 and 10 m deep."
+      ]
+    },
+    {
+      "record_id": "3c0de45b1164a2ad4fe755b0",
+      "paper_id": "2010 TMP report/2010 TMP report",
+      "source_path": "output/2010 TMP report/2010 TMP report.md",
+      "section_heading": "Coral Life forms",
+      "section_start_line": 139,
+      "section_end_line": 158,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral lifeform was most common according to the mean cover shown in Figure 4?",
+      "ground_truth_answer": "Encrusting.",
+      "ground_truth_chunks": [
+        "The mean cover of the different coral lifeforms is shown in Figure 4.",
+        "Encrusting continues to be the most common lifeform, followed by branching, column, and table."
+      ]
+    },
+    {
+      "record_id": "841a30b79b7ae799c9ebeb7f",
+      "paper_id": "2010 TMP report/2010 TMP report",
+      "source_path": "output/2010 TMP report/2010 TMP report.md",
+      "section_heading": "Genera",
+      "section_start_line": 159,
+      "section_end_line": 184,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which genus was reported as the most abundant in Figure 7, and why?",
+      "ground_truth_answer": "Acropora was the most abundant because only two sites are represented, and one of those is Aunu'u, which has a high abundance of Acropora.",
+      "ground_truth_chunks": [
+        "Figure 7 shows the mean cover of the most common genera. *Acropora* was the most abundant because only two sites are represented, and one of those is Aunu'u, with a high abundance of *Acropora*.",
+        "Figure 10 shows the trends in generic composition in transects in the two sites. The amount of *Acropora* increased at the expense of *Montipora* for these two sites between 2006 and 2008, for unknown reasons."
+      ]
+    },
+    {
+      "record_id": "d541a98064af4ad2992f9570",
+      "paper_id": "2010 TMP report/2010 TMP report",
+      "source_path": "output/2010 TMP report/2010 TMP report.md",
+      "section_heading": "Coral Species",
+      "section_start_line": 185,
+      "section_end_line": 210,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species was the most common at Faga'alu?",
+      "ground_truth_answer": "Pavona varians.",
+      "ground_truth_chunks": [
+        "*Montipora* encrusting was the most common species at Aunu'u and *Pavona varians* was the most common species at Faga'alu."
+      ]
+    },
+    {
+      "record_id": "25f8ac01878dc865374e5446",
+      "paper_id": "2010 TMP report/2010 TMP report",
+      "source_path": "output/2010 TMP report/2010 TMP report.md",
+      "section_heading": "Invertebrates",
+      "section_start_line": 229,
+      "section_end_line": 248,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is Stylissa described as in the 'Invertebrates' section?",
+      "ground_truth_answer": "Stylissa is a sponge.",
+      "ground_truth_chunks": [
+        "Stylissa is a sponge.",
+        "Stylissa is a sponge."
+      ]
+    },
+    {
+      "record_id": "c64897a546b22298a740763f",
+      "paper_id": "2010 TMP report/2010 TMP report",
+      "source_path": "output/2010 TMP report/2010 TMP report.md",
+      "section_heading": "Reef Flats",
+      "section_start_line": 249,
+      "section_end_line": 268,
+      "model": "openai:gpt-4o-mini",
+      "question": "Was there a trend in the live coral index on the outer reef flat?",
+      "ground_truth_answer": "No. The live coral index on the outer reef flat was high and there was no trend.",
+      "ground_truth_chunks": [
+        "Figure 22 shows the trends in the live coral index on the outer reef flat. The live coral index was high like on the reef slopes, and there was no trend."
+      ]
+    },
+    {
+      "record_id": "c119294e1cc7670875973346",
+      "paper_id": "2010 TMP report/2010 TMP report",
+      "source_path": "output/2010 TMP report/2010 TMP report.md",
+      "section_heading": "Trends for Individual Sites",
+      "section_start_line": 269,
+      "section_end_line": 294,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which site showed a strong increase in coral cover over all three years?",
+      "ground_truth_answer": "Faga'alu — the coral cover at Faga'alu increased strongly, particularly from 2007 to 2008, and the increase was observed over all three years.",
+      "ground_truth_chunks": [
+        "Trends in cover on the outer reef flat at Faga'alu are shown in Figure 26.",
+        "The coral cover at Faga'alu increased strongly, particularly from 2007 to 2008. The fact that the increase was over all three years suggests it may be real."
+      ]
+    },
+    {
+      "record_id": "1e4b15008f10cb43561e5d73",
+      "paper_id": "2010 TMP report/2010 TMP report",
+      "source_path": "output/2010 TMP report/2010 TMP report.md",
+      "section_heading": "Effects of the Tsunami",
+      "section_start_line": 311,
+      "section_end_line": 350,
+      "model": "openai:gpt-4o-mini",
+      "question": "What happened to the plate coral formations at Faga'alu at 18 m depth as a result of the tsunami?",
+      "ground_truth_answer": "The tsunami ripped out all of the plate coral formations in deep water at Faga'alu (18 m), and the live coral cover was primarily replaced by turf algae on the exposed coral rock.",
+      "ground_truth_chunks": [
+        "At Faga'alu at 18 m depth, however, there was a large decrease in the coral cover as shown in Figure 32.",
+        "This documents the change caused by the tsunami, which ripped out all of the plate coral formations in deep water at Faga'alu.",
+        "The live coral cover was primarily replaced by turf algae on the exposed coral rock."
+      ]
+    },
+    {
+      "record_id": "87ce9259d4404dcedad0a897",
+      "paper_id": "2010 TMP report/2010 TMP report",
+      "source_path": "output/2010 TMP report/2010 TMP report.md",
+      "section_heading": "Appendix 1.",
+      "section_start_line": 385,
+      "section_end_line": 407,
+      "model": "openai:gpt-4o-mini",
+      "question": "What coral cover percentage have five different monitoring programs reported for Tutuila reef slopes?",
+      "ground_truth_answer": "About 30% coral cover on Tutuila reef slopes.",
+      "ground_truth_chunks": [
+        "Five different monitoring programs have all reported coral cover of about 30% on Tutuila reef slopes using transects.",
+        "The Territorial Monitoring Program (TMP) of DMWR finds no downward trends in coral cover in at least 4 years, and maybe a slight increase; both the Key Reef Species and CRED programs show increases."
+      ]
+    }
+  ],
+  "failures": []
+}

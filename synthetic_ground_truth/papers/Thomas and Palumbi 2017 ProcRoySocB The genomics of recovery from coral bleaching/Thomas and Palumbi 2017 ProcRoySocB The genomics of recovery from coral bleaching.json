@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching.md",
+  "source_sha256": "7294b7974ad5c76af7f41d8420231dc4c10e040df58b59c3d031b8ee6831d7c9",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "02f3b63364c0b18ccca5397f",
+      "paper_id": "Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching",
+      "source_path": "output/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching.md",
+      "section_heading": "The genomics of recovery from coral bleaching",
+      "section_start_line": 31,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the host transcriptome was involved in the environmental stress response identified in the field?",
+      "ground_truth_answer": "Approximately 20% of the host transcriptome.",
+      "ground_truth_chunks": [
+        "We identified a large environmental stress response in the field that involved approximately 20% of the host transcriptome.",
+        "The transcriptome remained largely perturbed for at least six months after temperatures had cooled and four months after symbiont populations had recovered."
+      ]
+    },
+    {
+      "record_id": "b1039af7a1d561ed71e3a4c9",
+      "paper_id": "Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching",
+      "source_path": "output/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching.md",
+      "section_heading": "(a) The 2015 bleaching event",
+      "section_start_line": 59,
+      "section_end_line": 62,
+      "model": "openai:gpt-4o-mini",
+      "question": "In January 2015, what percentage of their time did corals in the National Park of American Samoa on Ofu Island spend above the NOAA regional bleaching threshold?",
+      "ground_truth_answer": "Approximately 38% of their time.",
+      "ground_truth_chunks": [
+        "In January 2015, corals in the National Park of American Samoa on Ofu Island spent approximately 38% of their time above the NOAA regional bleaching threshold of 30.28C; the previous 3 years never exceeded 5% (figure 1a,b)."
+      ]
+    },
+    {
+      "record_id": "fe9d220cf94b9b4eb65c6e52",
+      "paper_id": "Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching",
+      "source_path": "output/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching.md",
+      "section_heading": "(d) RNAseq",
+      "section_start_line": 71,
+      "section_end_line": 88,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which software and settings were used to map raw fastq files to the reference transcriptome?",
+      "ground_truth_answer": "Raw fastq files were mapped using BOWTIE2.2.6 in very-sensitive mode with a minimum mapping quality of 10.",
+      "ground_truth_chunks": [
+        "Raw fastq files were mapped to a reference transcriptome [\\[21](#page-7-0)] using BOWTIE2.2.6 [[33\\]](#page-8-0) under the very-sensitive mode with a minimum mapping quality of 10."
+      ]
+    },
+    {
+      "record_id": "e0a4d6e1e5e79dc5afadec2d",
+      "paper_id": "Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching",
+      "source_path": "output/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching.md",
+      "section_heading": "(f) Transcriptome-wide gene expression",
+      "section_start_line": 95,
+      "section_end_line": 98,
+      "model": "openai:gpt-4o-mini",
+      "question": "What tool was used to analyse raw expression counts for transcriptome-wide gene expression?",
+      "ground_truth_answer": "DESEQ2",
+      "ground_truth_chunks": [
+        "In addition to the targeted module analysis, transcriptome-wide changes in individual gene expression were analysed on raw expression counts using DESEQ2 [\\[39\\]](#page-8-0).",
+        "Differentially expressed contigs (DECs) were identified as those with a log fold change greater than two."
+      ]
+    },
+    {
+      "record_id": "765df429f5126bf5b15e43e2",
+      "paper_id": "Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching",
+      "source_path": "output/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching.md",
+      "section_heading": "(b) RNAseq",
+      "section_start_line": 111,
+      "section_end_line": 114,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why was AH25 excluded from individual-level gene expression analyses?",
+      "ground_truth_answer": "Clustering analyses based on 3946 single nucleotide polymorphisms (SNPs) showed that tissue samples collected on consecutive dates from AH25 comprised three distinct genotypes, indicating that samples were mistakenly collected from a nearby colony on three of the five sampling dates; as a result, AH25 was excluded from any individual-level gene expression analyses.",
+      "ground_truth_chunks": [
+        "Clustering analyses based on 3946 single nucleotide polymorphisms (SNPs) showed that tissue samples collected on consecutive dates from AH25 actually comprised three distinct genotypes (electronic supplementary material, figure S1), indicating that tissue samples were mistakenly collected from a nearby colony on three of the five sampling dates.",
+        "As a result, we excluded AH25 for any individual-level gene expression analyses."
+      ]
+    },
+    {
+      "record_id": "c02c333863bc2a6ed1c56104",
+      "paper_id": "Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching",
+      "source_path": "output/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching.md",
+      "section_heading": "(e) Lingering response genes",
+      "section_start_line": 145,
+      "section_end_line": 148,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many contigs were significantly upregulated at two months and remained upregulated in all subsequent sample dates?",
+      "ground_truth_answer": "348 contigs.",
+      "ground_truth_chunks": [
+        "Differential gene expression analyses in DESEQ2 identified 348 contigs that were significantly upregulated at two months, when bleaching was still evident, and that remained upregulated in all sample dates thereafter (electronic supplementary material, dataset S5).",
+        "These contigs were functionally enriched ( p.adj , 0.05) for gene products associated with sequence-specific DNA binding (electronic supplementary material, table S7), such as transcription factor proteins."
+      ]
+    },
+    {
+      "record_id": "6586265e9f80fe28f9fd06e2",
+      "paper_id": "Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching",
+      "source_path": "output/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching.md",
+      "section_heading": "4. Discussion",
+      "section_start_line": 153,
+      "section_end_line": 156,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Discussion, how long after bleaching did hundreds of genes remain different from baseline expression?",
+      "ground_truth_answer": "Even 10–12 months after bleaching, hundreds of genes had not returned to baseline expression.",
+      "ground_truth_chunks": [
+        "Even 10–12 months after bleaching, hundreds of genes had not returned to baseline expression."
+      ]
+    },
+    {
+      "record_id": "da4fcfa9791e80a1b2362012",
+      "paper_id": "Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching",
+      "source_path": "output/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching.md",
+      "section_heading": "(b) Recovery does not involve a shift in Symbiodinium clade",
+      "section_start_line": 161,
+      "section_end_line": 164,
+      "model": "openai:gpt-4o-mini",
+      "question": "Does recovery from bleaching involve a shift in Symbiodinium clade in this study?",
+      "ground_truth_answer": "No. Recovery does not require a shift in Symbiodinium clade; only one colony (AH13) showed a temporary shift to higher levels of clade D at six months but reverted to pre-bleaching proportions by ten months.",
+      "ground_truth_chunks": [
+        "Our data show that recovering from bleaching does not require a shift in Symbiodinium clade ([figure 2](#page-3-0)b).",
+        "In the current study, one colony (AH13) shifted to higher levels of clade D at the six month time point [\\(figure 2](#page-3-0); electronic supplementary material, table S5) but shifted back to pre-bleaching proportions by the 10 month time point in December.",
+        "It is possible that the large changes in symbiont type in AH13 reflect microclimate—this colony is the shallowest, most shoreward of all the colonies in our study and showed the highest temperature levels ([table 1](#page-2-0))."
+      ]
+    },
+    {
+      "record_id": "9340fd0b6227d40ccb833e7b",
+      "paper_id": "Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching",
+      "source_path": "output/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching.md",
+      "section_heading": "(d) Lingering physiological impacts of bleaching",
+      "section_start_line": 177,
+      "section_end_line": 180,
+      "model": "openai:gpt-4o-mini",
+      "question": "What functional annotation clusters are associated with gene expression patterns that linger after acute experimental heat stress?",
+      "ground_truth_answer": "They comprise functional annotation clusters for the regulation of the immune system, apoptosis, transcription, and protein signalling.",
+      "ground_truth_chunks": [
+        "Gene expression patterns that linger and do not return to baseline expression following acute experimental heat stress comprise functional annotation clusters for the regulation of the immune system, apoptosis, transcription, and protein signalling [\\[29\\]](#page-8-0)."
+      ]
+    },
+    {
+      "record_id": "c04a6b209fa33d214bde71fd",
+      "paper_id": "Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching",
+      "source_path": "output/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching/Thomas and Palumbi 2017 ProcRoySocB The genomics of recovery from coral bleaching.md",
+      "section_heading": "(f) Broader implications",
+      "section_start_line": 185,
+      "section_end_line": 200,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to this section, how long can full recovery for the reef-building coral Acropora hyacinthus take?",
+      "ground_truth_answer": "Full recovery for Acropora hyacinthus can take more than a year.",
+      "ground_truth_chunks": [
+        "Our data show that full recovery for the cosmopolitan reefbuilder A. hyacinthus can take more than a year.",
+        "The long time that individual colonies require to recover fully means that even this rapid mechanism is limited in effect when summer after summer imposes bleaching or sub-bleaching conditions."
+      ]
+    }
+  ],
+  "failures": []
+}

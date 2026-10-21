@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR.md",
+  "source_sha256": "f467c1002ff9272da50d597d0b1b409b289f77873073b19aa9cde26bcfc321db",
+  "status": "complete",
+  "selected_section_count": 7,
+  "successful_record_count": 7,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "b7d69de98d47c4b20f533c53",
+      "paper_id": "Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR",
+      "source_path": "output/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR.md",
+      "section_heading": "ABSTRACT",
+      "section_start_line": 23,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "What population density range defines the 'intermediate' watershed class?",
+      "ground_truth_answer": ">500 but less than 1000 individuals/mi^2.",
+      "ground_truth_chunks": [
+        "From population density data, four watershed classes were defined: pristine (<100 individuals/mi<sup>2</sup> ), minimal (>100 but less than 500 individuals/mi<sup>2</sup> ), intermediate (>500 but less than 1000 individuals/mi<sup>2</sup> ), and extensive (>1000 individuals/mi<sup>2</sup> )."
+      ]
+    },
+    {
+      "record_id": "280ff68f0bd46d9f4ffe20db",
+      "paper_id": "Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR",
+      "source_path": "output/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 27,
+      "section_end_line": 38,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the population of Tutuila?",
+      "ground_truth_answer": "55,414 people.",
+      "ground_truth_chunks": [
+        "With 55,414 people, Tutuila is the most densely populated island (average density=1045 individuals/mi<sup>2</sup> )."
+      ]
+    },
+    {
+      "record_id": "b6d25ee71db377295cefb1dd",
+      "paper_id": "Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR",
+      "source_path": "output/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR.md",
+      "section_heading": "METHODS",
+      "section_start_line": 39,
+      "section_end_line": 44,
+      "model": "openai:gpt-4o-mini",
+      "question": "What data source and year were used to approximate the level of human disturbance within local watersheds on Tutuila?",
+      "ground_truth_answer": "US Census data from 2000 (Census 2000) downloaded from the Census 2000 website were used to approximate human disturbance.",
+      "ground_truth_chunks": [
+        "Instead, US Census data from 2000 were used to approximate the level of human disturbance within local watersheds.",
+        "Data were downloaded from the Census 2000 website (www.census2000.gov).",
+        "Watershed populations were calculated by summing village population totals within each watershed (following Pedersen 2000)."
+      ]
+    },
+    {
+      "record_id": "a72f3c53a01b43395fd5cdef",
+      "paper_id": "Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR",
+      "source_path": "output/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR.md",
+      "section_heading": "RESULTS",
+      "section_start_line": 45,
+      "section_end_line": 50,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the RESULTS section, what population density cutoffs were used to classify watersheds as pristine, minimal disturbance, intermediate disturbance, and extensive modification?",
+      "ground_truth_answer": "Pristine: less than 100 individuals/mi^2. Minimal disturbance: greater than 100 but below 500 individuals/mi^2. Intermediate disturbance: above 500 but less than 1000 individuals/mi^2. Extensive modification: around (at or above) 1000 individuals/mi^2.",
+      "ground_truth_chunks": [
+        "The break in the distribution of the first group was arbitrarily set at 100 individuals/mi<sup>2</sup> . Watersheds below that density point were considered **pristine**.",
+        "This was an arbitrary decision, but, in lieu of other supporting data to more carefully distinguish among these watersheds, this decision was acceptable. Thus, below the 500 individuals/mi<sup>2</sup> but greater than 100 individuals/mi<sup>2</sup> , watersheds were considered as showing **minimal** disturbance. Above 500 but less than 1000 individuals/mi<sup>2</sup> , units were classified as showing **intermediate** disturbance.",
+        "The major break at around 1,000 individuals/mi<sup>2</sup> marked the transition into watersheds showing **extensive** modification."
+      ]
+    },
+    {
+      "record_id": "7b21c3d2df92cffeaa4b1cda",
+      "paper_id": "Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR",
+      "source_path": "output/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 51,
+      "section_end_line": 66,
+      "model": "openai:gpt-4o-mini",
+      "question": "What population density threshold marks the upper boundary of watersheds considered 'pristine' in the classification scheme?",
+      "ground_truth_answer": "100 individuals/mi<sup>2</sup>.",
+      "ground_truth_chunks": [
+        "The first break, set arbitrarily at 100 individuals/mi<sup>2</sup> , marks the upper boundary of watersheds considered pristine."
+      ]
+    },
+    {
+      "record_id": "997763bd4676cb8f9674b2a2",
+      "paper_id": "Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR",
+      "source_path": "output/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR.md",
+      "section_heading": "Utility in Aquatic Monitoring",
+      "section_start_line": 67,
+      "section_end_line": 80,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the perennial stream basins on Tutuila are less than 1 km^2?",
+      "ground_truth_answer": "122/141 (87%) of the perennial stream basins are less than 1 km^2.",
+      "ground_truth_chunks": [
+        "There are 163 streams on Tutuila, 141 of which are considered perennial (Burger and Maciolek 1981).",
+        "Specifically, 122/141 (87%) of the perennial stream basins are less than 1 km<sup>2</sup> ."
+      ]
+    },
+    {
+      "record_id": "40e4cc9890c6ffc48c405fca",
+      "paper_id": "Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR",
+      "source_path": "output/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR/Didonato 2004 DEVELOPING_AN_INITIAL_WATERSHED_CLASSIFICATION_FOR.md",
+      "section_heading": "Figure Legend",
+      "section_start_line": 93,
+      "section_end_line": 113,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many watersheds were included in the cumulative distribution frequency (CDF) of population density shown in Figure 1?",
+      "ground_truth_answer": "41 watersheds.",
+      "ground_truth_chunks": [
+        "Figure 1. A cumulative distribution frequency (CDF) of population density (mi-2) for 41 watersheds of American Samoa."
+      ]
+    }
+  ],
+  "failures": []
+}

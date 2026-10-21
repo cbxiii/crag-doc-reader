@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy.md",
+  "source_sha256": "c03dcabef866d2a03cb9bebbf290996310a82f0285e428376db70bf85f573b89",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "ed113f4950d3eddabec05dc2",
+      "paper_id": "Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy",
+      "source_path": "output/Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy.md",
+      "section_heading": "1. STATEMENT OF NEED",
+      "section_start_line": 24,
+      "section_end_line": 37,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the current population of American Samoa and how long is it expected to take to double?",
+      "ground_truth_answer": "The current population is 52,000 and it is expected to double in 19 years.",
+      "ground_truth_chunks": [
+        "The current population (52,000) is expected to double in only 19 years."
+      ]
+    },
+    {
+      "record_id": "2138ab542b44f9d1442fc015",
+      "paper_id": "Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy",
+      "source_path": "output/Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy.md",
+      "section_heading": "3. SUMMARY REPORT FOR PREVIOUS 5-YEAR PLAN",
+      "section_start_line": 47,
+      "section_end_line": 70,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the summary, what two significant findings resulted from improvements in catch and effort data programs for local inshore reef fisheries?",
+      "ground_truth_answer": "Inshore reef fish resources account for over half of all fish caught by Samoans, and CPUE for this fishery has dropped by 50%.",
+      "ground_truth_chunks": [
+        "A major emphasis has been to review and upgrade programs that collect basic catch and effort data in local fisheries. Significant improvements in data collection and analytical procedures have been made. Results indicate that substantial changes have occurred in these fisheries during the past several years. Two significant findings were that inshore reef fish\n\nresources account for over half of all fish caught by Samoans, and that CPUE for this fishery has dropped by 50%. DMWR is examining the latter point."
+      ]
+    },
+    {
+      "record_id": "7824c81e8a2de37845cf0d60",
+      "paper_id": "Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy",
+      "source_path": "output/Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy.md",
+      "section_heading": "4. WORKSHOP ON PRIORITIZING FISH ISSUES",
+      "section_start_line": 71,
+      "section_end_line": 78,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the overall objective of the September 1994 DMWR planning workshop in American Samoa?",
+      "ground_truth_answer": "The overall objective was to focus DMWR's efforts on a short list of realistic and achievable goals for the next 5-year period.",
+      "ground_truth_chunks": [
+        "Thus the overall objective of the workshop was to focus DMWR's efforts on a short list of realistic and achievable goals for the next 5-year period.",
+        "A planning workshop for fisheries management was conducted in September 1994 by DMWR in American Samoa. The purpose of the workshop was to update DMWR's 5-year plan for fisheries programs."
+      ]
+    },
+    {
+      "record_id": "e122612e9503dccfb723a684",
+      "paper_id": "Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy",
+      "source_path": "output/Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy.md",
+      "section_heading": "Workshop Methods",
+      "section_start_line": 89,
+      "section_end_line": 111,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the activities or objectives for each of the three days of the workshop?",
+      "ground_truth_answer": "Day 1: Workshop objectives were explained; DMWR staff described the current status of fish and related environmental problems; existing and proposed projects were presented; a Samoan perspective on fisheries issues from a village survey was presented. Day 2: Field trips were conducted to familiarize participants with the local environment. Day 3: Fisheries and related environmental issues were prioritized to guide DMWR for the next 5-year period, with emphasis on whether issues were important to American Samoa and whether DMWR could realistically accomplish the work given its limited resources.",
+      "ground_truth_chunks": [
+        "- <u>Day 1.</u> Objectives of the workshop were explained. The current status of fish and related environmental problems were described by DMWR staff. Existing and proposed projects were presented. A Samoan perspective on fisheries issues, based on a village survey, was also presented.",
+        "- Day 2. Field trips to familiarize participants with the local environment.",
+        "- <u>Day 3.</u> Fisheries and related environmental issues were prioritized to indicate the direction DMWR should take during the next 5-year period. An emphasis was placed on evaluating whether the issue was important to American Samoa, and whether DMWR, with its limited resources, could realistically accomplish the work."
+      ]
+    },
+    {
+      "record_id": "ac2c374cda2d99620f991733",
+      "paper_id": "Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy",
+      "source_path": "output/Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy.md",
+      "section_heading": "A. Prioritization of Fish Resources",
+      "section_start_line": 114,
+      "section_end_line": 129,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which fishery did DMWR rank as the highest priority and what score did it receive?",
+      "ground_truth_answer": "The inshore subsistence/artisanal fishery was ranked high and received 36 points.",
+      "ground_truth_chunks": [
+        "To determine rankings, each fishery was ranked as being a high, moderate, or low priority for DMWR by each of the 12 workshop participants. A group average was determined by a numerical ranking (high priority = 3 points, moderate priority = 2 points, low priority = 1 point), thus the highest possible score was 36 points (12 x 3) and the lowest was 12 points (12 x 1). A summary of results follows:",
+        "| <ol> <li>Inshore subsistence/artisanal</li> </ol> | high (36 points)  |\n| fishery                                           |                   |"
+      ]
+    },
+    {
+      "record_id": "7a53c88b8c3d2d30ff77b73c",
+      "paper_id": "Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy",
+      "source_path": "output/Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy.md",
+      "section_heading": "CATCH PER UNIT EFFORT",
+      "section_start_line": 142,
+      "section_end_line": 164,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the domestic catch did trolling for pelagic fishes account for in 1993?",
+      "ground_truth_answer": "36% of the domestic catch in 1993.",
+      "ground_truth_chunks": [
+        "Trolling for pelagic fishes (tuna, marlin, wahoo, etc.) accounted for 36% of the domestic catch in 1993.",
+        "Fish aggregation devices (FADs) were introduced in local waters in 1979 and have proven to be a popular way to increase the CPUE of widely dispersed pelagic fishes."
+      ]
+    },
+    {
+      "record_id": "4027d41fa02ae8a42c369344",
+      "paper_id": "Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy",
+      "source_path": "output/Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy.md",
+      "section_heading": "B. Prioritization of Fisheries-related Issues",
+      "section_start_line": 165,
+      "section_end_line": 216,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which issues were ranked as high priority for DMWR in the prioritization exercise?",
+      "ground_truth_answer": "Health of coral reefs; Public concerns; Public education; Training local staff.",
+      "ground_truth_chunks": [
+        "| 1         | Health of coral reefs            | high (36 points)   |\n| 2         | Public concerns                  | high (36)          |\n| 3         | Public education                 | high (36)          |\n| 4         | Training local staff             | high (36)          |"
+      ]
+    },
+    {
+      "record_id": "9d20d2c7681145f70b532488",
+      "paper_id": "Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy",
+      "source_path": "output/Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy.md",
+      "section_heading": "5. FY95-99 PROJECT COMPONENTS",
+      "section_start_line": 225,
+      "section_end_line": 240,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which INFORMATION EXCHANGE jobs are planned for every year FY95–FY99?",
+      "ground_truth_answer": "Both Job 1 (Technical assistance) and Job 2 (Scientific exchange) are planned for every year FY95–FY99.",
+      "ground_truth_chunks": [
+        "3.        | INFORMATION EXCHANGE Job 1. Technical assistance                                   | x  | x         | x  | x  | x  |",
+        "           | Job 2. Scientific exchange                                                         | x  | x         | X  | x  | x  |"
+      ]
+    },
+    {
+      "record_id": "23ce83d6bd1b9f314dc159af",
+      "paper_id": "Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy",
+      "source_path": "output/Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy.md",
+      "section_heading": "COMPONENT 1. FISHERIES MANAGEMENT",
+      "section_start_line": 241,
+      "section_end_line": 254,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the primary means to enhance fishing opportunities described in the APPROACH section?",
+      "ground_truth_answer": "The primary means is the deployment of FADs (fish aggregation devices) in offshore deep waters.",
+      "ground_truth_chunks": [
+        "Fisheries statistics (participation counts, harvest quantity, CPUE, value, species, gear type) and biological information about harvested species (length, weight) will be collected during standardized participation surveys, creel censuses, and market inspections.",
+        "The primary means to enhance fishing opportunities will be the deployment of FADs in offshore deep waters."
+      ]
+    },
+    {
+      "record_id": "23eccfbaa5b86de8d8167ef5",
+      "paper_id": "Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy",
+      "source_path": "output/Craig-1994-Workshop.id.fish.issues.AS-Copy/Craig-1994-Workshop.id.fish.issues.AS-Copy.md",
+      "section_heading": "COMPONENT 3. INFORMATION EXCHANGE",
+      "section_start_line": 273,
+      "section_end_line": 285,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the two objectives listed under COMPONENT 3. INFORMATION EXCHANGE?",
+      "ground_truth_answer": "(1) Provide technical information and assistance regarding fisheries issues in American Samoa to government agencies and the public. (2) Disseminate information to the scientific community by presenting information and papers at meetings and submitting articles to scientific journals.",
+      "ground_truth_chunks": [
+        "OBJECTIVES: (1) Provide technical information and assistance regarding fisheries issues in American Samoa to government agencies and the public. (2) Disseminate information to the scientific community by presenting information and papers at meetings and submitting articles to scientific journals."
+      ]
+    }
+  ],
+  "failures": []
+}

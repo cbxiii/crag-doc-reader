@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019.md",
+  "source_sha256": "0b7b1b65f2c5d28da622012c3ca86e794e96f9a542652e8fa6ed346591119d6b",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "3d3a0acdf052b41d06cdea81",
+      "paper_id": "Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019",
+      "source_path": "output/Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019.md",
+      "section_heading": "ABSTRACT",
+      "section_start_line": 31,
+      "section_end_line": 36,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of Tutuila residents receive drinking water from groundwater?",
+      "ground_truth_answer": "Over 90% of the island's residents.",
+      "ground_truth_chunks": [
+        "Groundwater provides drinking water to over 90% of the island's residents."
+      ]
+    },
+    {
+      "record_id": "f6990545f90d62b3d53d82e3",
+      "paper_id": "Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019",
+      "source_path": "output/Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019.md",
+      "section_heading": "1.4.1 Pleistocene Volcanic Shields",
+      "section_start_line": 168,
+      "section_end_line": 183,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which of Tutuila's four volcanic shields shows no evidence of a caldera collapse?",
+      "ground_truth_answer": "The westerly Taputapu Shield shows no evidence of a caldera collapse.",
+      "ground_truth_chunks": [
+        "During the island's hot-spot phase, four overlapping volcanic shields (Pago, Taputapu, Olomoana, and Alofau) (Fig. 3) were thought to have contemporaneously erupted over about a half-million years, starting around 1.5 Ma (Stearns 1944, McDougall 1985).",
+        "The neighboring Alofau Shield may also have experienced a similar caldera collapse, whereas the westerly Taputapu Shield shows no evidence of such an event."
+      ]
+    },
+    {
+      "record_id": "1af982dd6d5887a8af816eb5",
+      "paper_id": "Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019",
+      "source_path": "output/Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019.md",
+      "section_heading": "1.6 Hydrogeologic Units on Tutuila",
+      "section_start_line": 214,
+      "section_end_line": 225,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which shields were consolidated into the Pleistocene Older-Volcanics Unit in Izuka et al. (2007), and why?",
+      "ground_truth_answer": "The Taputapu and Pago Shields were consolidated into the Pleistocene Older-Volcanics Unit because lack of data precluded their differentiation into separate hydrogeologic units.",
+      "ground_truth_chunks": [
+        "The Taputapu and Pago Shields were consolidated into one low-conductivity unit—the Pleistocene Older-Volcanics Unit—as lack of data precluded their differentiation into separate hydrogeologic units."
+      ]
+    },
+    {
+      "record_id": "d02644910c88c6e8c39de881",
+      "paper_id": "Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019",
+      "source_path": "output/Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019.md",
+      "section_heading": "Iliili Borehole",
+      "section_start_line": 341,
+      "section_end_line": 364,
+      "model": "openai:gpt-4o-mini",
+      "question": "Between what depths in TGH-3 is an anomalous low-temperature plateau observed?",
+      "ground_truth_answer": "Between -175 to -280 m below sea level.",
+      "ground_truth_chunks": [
+        "However, between -175 to -280 m below sea level an anomalous 'low'-temperature plateau is observed.",
+        "The zone of constant temperature in TGH-3 from -175 to -280 m below sea level indicates a region where the flow of water is sufficient to overcome the geothermal gradient."
+      ]
+    },
+    {
+      "record_id": "c3cf5dd29f843762860d6035",
+      "paper_id": "Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019",
+      "source_path": "output/Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019.md",
+      "section_heading": "2.4.1 Water Levels",
+      "section_start_line": 452,
+      "section_end_line": 461,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to section 2.4.1, what do near sea level water levels in the Tafuna-Leone Plain generally support?",
+      "ground_truth_answer": "They generally support observations of high hydraulic conductivity.",
+      "ground_truth_chunks": [
+        "Near sea level water levels in the Tafuna-Leone Plain generally support observations of high hydraulic conductivity, whereas wells in valley-fill alluvial aquifers and Pleistocene rocks have more variable water levels suggesting these areas have more heterogeneous conductivity distributions."
+      ]
+    },
+    {
+      "record_id": "ff86d4b0eec444a409fdfd91",
+      "paper_id": "Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019",
+      "source_path": "output/Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019.md",
+      "section_heading": "2.4.5 High Chloride Wells",
+      "section_start_line": 530,
+      "section_end_line": 578,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the U.S. EPA recommended limit for chloride (Cl-) according to section 2.4.5?",
+      "ground_truth_answer": "250 mg/L.",
+      "ground_truth_chunks": [
+        "A number of Tutuila's wells produce water with levels of chloride (Cl- ) that exceed the U.S. Environmental Protection Agency (EPA) recommended limit of 250 mg/L.",
+        "Although well depth is not the only factor controlling groundwater Cl- concentrations, an assessment of existing production wells in the Pleistocene rocks shows that only wells deeper than approximately -20 m are currently producing water with elevated Cl- levels (Fig. 22)."
+      ]
+    },
+    {
+      "record_id": "c36490b44e49c45a8cc96e75",
+      "paper_id": "Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019",
+      "source_path": "output/Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019.md",
+      "section_heading": "2.8 Streamflow Analysis",
+      "section_start_line": 646,
+      "section_end_line": 713,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Perreault (2010), what percentage of the average flow in the eleven analyzed Tutuila drainages was baseflow versus runoff?",
+      "ground_truth_answer": "On average, 33% of the flow was baseflow and 66% was runoff.",
+      "ground_truth_chunks": [
+        "Based on data from Perreault (2010), the eleven analyzed drainages discharged (on average) 33% of their flow as baseflow and 66% as runoff."
+      ]
+    },
+    {
+      "record_id": "1c616de2c48595fdb9a93477",
+      "paper_id": "Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019",
+      "source_path": "output/Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019.md",
+      "section_heading": "Leone Series Pyroclastics",
+      "section_start_line": 756,
+      "section_end_line": 759,
+      "model": "openai:gpt-4o-mini",
+      "question": "What types of volcanic cones make up the north-south trending ridge running down the center of the Tafuna-Leone Plain?",
+      "ground_truth_answer": "The ridge is comprised of ash and cinder cones; ash cones are primarily distributed in the southern portion of the ridge and cinder cones are primarily found in the more northerly section.",
+      "ground_truth_chunks": [
+        "The north-south trending ridge running down the center of the Tafuna-Leone Plain is comprised of ash and cinder cones.",
+        "Since ash cones are primarily distributed in the southern portion of the ridge, and cinder cones are primarily found in the more northerly section, it may be reasonable to assume that the northern section has better water bearing properties."
+      ]
+    },
+    {
+      "record_id": "5ef02b7bc2ee1de2a667417b",
+      "paper_id": "Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019",
+      "source_path": "output/Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019.md",
+      "section_heading": "Taputapu Shield",
+      "section_start_line": 784,
+      "section_end_line": 805,
+      "model": "openai:gpt-4o-mini",
+      "question": "What observations support the statement that the Taputapu Shield may have experienced less erosion and mass wasting than the Pago Shield?",
+      "ground_truth_answer": "The Taputapu Shield is observed to be younger (Tarling 1965, McDougall 1985) and to have a lower average slope (22°) than the Pago Shield (28°); Figure 32 further notes the Taputapu slope (23°) excludes a subdued topography region covered by Holocene Aoloaou cinders.",
+      "ground_truth_chunks": [
+        "- 2. The Taputapu Shield may have experienced less erosion and mass wasting, which are processes that serve to reduce connectivity between permeable zones. This is supported by the observations that it is younger (Tarling 1965, McDougall 1985), and has a lower average slope (22°) then the Pago Shield (28°) (Fig. 32).",
+        "Figure 32. Average slope (°) of geologic units. Note: The Taputapu Shield slope (23°) excludes the subdued topography region covered by Holocene Aoloaou cinders (shown in grey)."
+      ]
+    },
+    {
+      "record_id": "9e246ae93be1d75fe5307fe7",
+      "paper_id": "Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019",
+      "source_path": "output/Shuler Eyre Al-Kadi 2019/Shuler Eyre Al-Kadi 2019.md",
+      "section_heading": "5.0 CONCLUSIONS",
+      "section_start_line": 828,
+      "section_end_line": 835,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the conclusions, what may be the primary controlling factor influencing water resources availability in any given area?",
+      "ground_truth_answer": "The hydrologic connectivity between adjacent zones of variable permeability.",
+      "ground_truth_chunks": [
+        "In general, the hydrologic connectivity between adjacent zones of variable permeability may be the primary controlling factor influencing the water resources availability of any given area.",
+        "Conditions found during well drilling are likely to be site specific, in which case it will be difficult to predict the regional connectivity of any given location without extensive pump testing."
+      ]
+    }
+  ],
+  "failures": []
+}

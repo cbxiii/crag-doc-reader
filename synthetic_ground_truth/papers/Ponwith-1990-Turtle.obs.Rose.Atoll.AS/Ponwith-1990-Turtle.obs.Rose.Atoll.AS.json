@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Ponwith-1990-Turtle.obs.Rose.Atoll.AS/Ponwith-1990-Turtle.obs.Rose.Atoll.AS.md",
+  "source_sha256": "af4dcec6b084b8ff64c17f41631a52f2ed6f997c3b649a4f4234c1a01912044e",
+  "status": "complete",
+  "selected_section_count": 4,
+  "successful_record_count": 4,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "0529e5bea863494899d4bfa8",
+      "paper_id": "Ponwith-1990-Turtle.obs.Rose.Atoll.AS/Ponwith-1990-Turtle.obs.Rose.Atoll.AS",
+      "source_path": "output/Ponwith-1990-Turtle.obs.Rose.Atoll.AS/Ponwith-1990-Turtle.obs.Rose.Atoll.AS.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 16,
+      "section_end_line": 19,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long did the project on Rose Atoll last?",
+      "ground_truth_answer": "Six weeks.",
+      "ground_truth_chunks": [
+        "A six week project, jointly funded by the Department of Marine and Wildlife Resources (DMWR), the U.S. Fish and Wildlife Service (USF&W), and Office of Development Planning was conducted to eradicate the rat population on Rose Atoll."
+      ]
+    },
+    {
+      "record_id": "33be022055edfc11547787a2",
+      "paper_id": "Ponwith-1990-Turtle.obs.Rose.Atoll.AS/Ponwith-1990-Turtle.obs.Rose.Atoll.AS",
+      "source_path": "output/Ponwith-1990-Turtle.obs.Rose.Atoll.AS/Ponwith-1990-Turtle.obs.Rose.Atoll.AS.md",
+      "section_heading": "METHODS",
+      "section_start_line": 20,
+      "section_end_line": 27,
+      "model": "openai:gpt-4o-mini",
+      "question": "On what dates were nightly surveys conducted on Rose Island?",
+      "ground_truth_answer": "Nightly surveys were conducted from 18 October to 28 November, 1990.",
+      "ground_truth_chunks": [
+        "Nightly surveys were conducted on Rose Island from 18 October to 28 November, 1990."
+      ]
+    },
+    {
+      "record_id": "6e4547e4baea131b9794642d",
+      "paper_id": "Ponwith-1990-Turtle.obs.Rose.Atoll.AS/Ponwith-1990-Turtle.obs.Rose.Atoll.AS",
+      "source_path": "output/Ponwith-1990-Turtle.obs.Rose.Atoll.AS/Ponwith-1990-Turtle.obs.Rose.Atoll.AS.md",
+      "section_heading": "RESULTS AND DISCUSSION",
+      "section_start_line": 28,
+      "section_end_line": 43,
+      "model": "openai:gpt-4o-mini",
+      "question": "What species were all turtles seen during the study?",
+      "ground_truth_answer": "All turtles seen during the study were green turtles (Chelonia mydas).",
+      "ground_truth_chunks": [
+        "All turtles seen during the study, both hatchling and adult, were green turtles (Chelonia mydas)."
+      ]
+    },
+    {
+      "record_id": "81ffaeb9f0edda42437604fd",
+      "paper_id": "Ponwith-1990-Turtle.obs.Rose.Atoll.AS/Ponwith-1990-Turtle.obs.Rose.Atoll.AS",
+      "source_path": "output/Ponwith-1990-Turtle.obs.Rose.Atoll.AS/Ponwith-1990-Turtle.obs.Rose.Atoll.AS.md",
+      "section_heading": "RECOMMENDATIONS",
+      "section_start_line": 44,
+      "section_end_line": 70,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the RECOMMENDATIONS section, what data should be maintained so pit counts can be used to estimate egg-bearing nests?",
+      "ground_truth_answer": "Maintain data on the number of false pits dug per nest for each witnessed nesting event, and apply that ratio to future pit counts to get a rough indicator of egg-bearing nests.",
+      "ground_truth_chunks": [
+        "If the ratio of blank pits to actual nests remains constant over the years, pit counts can be used as a relative index of abundance, but not as indicator of successful nesting.",
+        "However, if data were maintained on the number of false pits dug per nest for each witnessed nesting event, that ratio could be applied to future pit counts to get a rough indicator of egg-bearing nests."
+      ]
+    }
+  ],
+  "failures": []
+}

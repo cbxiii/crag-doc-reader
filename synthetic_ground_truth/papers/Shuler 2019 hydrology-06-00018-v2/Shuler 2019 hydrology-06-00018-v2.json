@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2.md",
+  "source_sha256": "5af8ba722baac11e2740b20c741d47dfcb0854cc4d5b4e60e39f776235ee66ad",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "30dbde37d68990ae517744e4",
+      "paper_id": "Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2",
+      "source_path": "output/Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2.md",
+      "section_heading": "Assessment of Terrigenous Nutrient Loading to Coastal Ecosystems along a Human Land-Use Gradient, Tutuila, American Samoa",
+      "section_start_line": 7,
+      "section_end_line": 27,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the abstract of the section, which nutrient vector is often underappreciated by resource managers and how did its nutrient flux compare to baseflow in the study watersheds?",
+      "ground_truth_answer": "Submarine groundwater discharge (SGD) is often underappreciated by resource managers, and the study found that SGD-derived nutrient flux was more significant than baseflow nutrient flux in all watersheds.",
+      "ground_truth_chunks": [
+        "However, resource managers are often focused on addressing point source or surface water discharge, whereas the impact of submarine groundwater discharge (SGD) as a nutrient vector is often unappreciated.",
+        "Results show SGD-derived nutrient flux was more significant than baseflow nutrient flux in all watersheds, and  $\\delta^{15}N$  values in water and algae suggested wastewater or manure are likely sources of elevated nutrient levels."
+      ]
+    },
+    {
+      "record_id": "1e5469c011db2bbc58ede335",
+      "paper_id": "Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2",
+      "source_path": "output/Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2.md",
+      "section_heading": "2.1. Water Sample Collection and Analysis:",
+      "section_start_line": 81,
+      "section_end_line": 92,
+      "model": "openai:gpt-4o-mini",
+      "question": "What instrument and laboratory were used to analyze dissolved inorganic nutrients in the water samples?",
+      "ground_truth_answer": "Dissolved inorganic nutrients were analyzed at the SOEST Laboratory for Analytical Biogeochemistry (S-LAB) using a Seal Analytical AA3 Nutrient Autoanalyzer.",
+      "ground_truth_chunks": [
+        "All samples were collected in acid washed 60 mL HDPE or new polypropylene bottles that were triple-rinsed with sample water during collection. Water samples were filtered on-site with 0.45  $\\mu$ m hydrophilic polyethersulfone capsule filters (Pall AquaPrep 600).",
+        "All samples were analyzed for total dissolved nitrogen (TDN) and dissolved inorganic nutrients (silica (Si), nitrate (NO<sub>3</sub><sup>-</sup>) + nitrite (NO<sub>2</sub><sup>-</sup>) herein referred to as (N + N), ammonium  $(NH_4^+)$  and phosphate  $(PO_4^{3-})$  at the SOEST Laboratory for Analytical Biogeochemistry (S-LAB) using a Seal Analytical AA3 Nutrient Autoanalyzer.",
+        "Isotopic analysis was conducted at the University of Hawai'i Stable Isotope Biogeochemistry Lab on a Thermo Finnigan MAT252 coupled to a GasBench II (Thermo Fisher Scientific Inc., Waltham, MA, USA) using the denitrifier method of Sigman et al. [53]."
+      ]
+    },
+    {
+      "record_id": "45835370e1af33981b61b8f2",
+      "paper_id": "Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2",
+      "source_path": "output/Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2.md",
+      "section_heading": "2.3. SGD and Nutrient Flux Calculations",
+      "section_start_line": 105,
+      "section_end_line": 116,
+      "model": "openai:gpt-4o-mini",
+      "question": "What model was used to convert 222Rn concentrations to SGD fluxes?",
+      "ground_truth_answer": "The non-steady state 222Rn mass-balance model of Burnett and Dulaiova [28].",
+      "ground_truth_chunks": [
+        "To convert <sup>222</sup>Rn concentrations to SGD fluxes, the non-steady state <sup>222</sup>Rn mass-balance model of Burnett and Dulaiova [\\[28\\]](#page-23-2) was used."
+      ]
+    },
+    {
+      "record_id": "7ae53fd01aeb19fd149f564a",
+      "paper_id": "Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2",
+      "source_path": "output/Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2.md",
+      "section_heading": "3.1. Water Quality Results: Nutrient Levels",
+      "section_start_line": 135,
+      "section_end_line": 138,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which study location had the highest dissolved inorganic nitrogen (DIN) concentration in coastal surface waters?",
+      "ground_truth_answer": "Pala Lagoon had the highest DIN in coastal surface waters, 8.0 ± 13.0 µmol/L.",
+      "ground_truth_chunks": [
+        "Concentrations of DIN in coastal surface waters and CGW showed statistically significant differences between all study locations (ANOVA *p*-values of >0.002), with Pala Lagoon having the highest (8.0 ± 13.0 µmol/L) and Oa Bay the lowest (1.2. ± 1.5 µmol/L) DIN values in coastal surface waters."
+      ]
+    },
+    {
+      "record_id": "e5480e2bde9370bcd5d44acc",
+      "paper_id": "Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2",
+      "source_path": "output/Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2.md",
+      "section_heading": "3.3. Water Quality Results: Nearshore–Offshore Gradient",
+      "section_start_line": 147,
+      "section_end_line": 176,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percentages were average DIN concentrations higher in nearshore samples compared to offshore samples in Faga'alu, Oa, Vatia, and Pala Lagoon?",
+      "ground_truth_answer": "Average DIN concentrations were 124% higher in Faga'alu, 208% higher in Oa, 332% higher in Vatia, and 610% higher in Pala Lagoon (nearshore vs. offshore).",
+      "ground_truth_chunks": [
+        "When all coastal surface water sampled from sites located within 50 m of the coastline were pooled, they showed average DIN concentrations that were 124%, 208%, 332%, and 610% higher than samples taken more than 50 m offshore in Faga'alu, Oa, Vatia, and Pala Lagoon, respectively.",
+        "|                    | Nearshore | 13.2 (16.0) | 3.2 (2.9) | 3.1 (6.7)  | 1.5 (1.9) |\n| DIN [µmol/L]       | Offshore  | 2.2 (4.3)   | 2.6 (1.1) | 0.9 (0.6)  | 0.8 (0.5) |"
+      ]
+    },
+    {
+      "record_id": "fdcfe51d658a53d041d20220",
+      "paper_id": "Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2",
+      "source_path": "output/Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2.md",
+      "section_heading": "3.6. SGD Rates and Associated Nutrient Fluxes",
+      "section_start_line": 205,
+      "section_end_line": 224,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which study location showed the highest absolute SGD magnitude when tidal cycle averaged <sup>222</sup>Rn-derived SGD rates were upscaled with spatially distributed SGD information?",
+      "ground_truth_answer": "Pala Lagoon.",
+      "ground_truth_chunks": [
+        "When tidal cycle averaged SGD rates from the <sup>222</sup>Rn time series were upscaled with spatially distributed SGD information from <sup>222</sup>Rn surveys, Pala Lagoon showed the highest-absolute SGD magnitude and Oa Bay had the lowest (Table 4).",
+        "Nutrient flux rates in SGD followed the expected pattern of impact, with Pala Lagoon having almost two orders of magnitude higher nutrient fluxes than the other sites."
+      ]
+    },
+    {
+      "record_id": "c82451066823814fcf64ce34",
+      "paper_id": "Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2",
+      "source_path": "output/Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2.md",
+      "section_heading": "3.8. Validation of SGD Measurements",
+      "section_start_line": 262,
+      "section_end_line": 281,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Table 5 in section 3.8, what was the measured fresh SGD and its 1σ standard deviation for Pala Lagoon?",
+      "ground_truth_answer": "Measured fresh SGD for Pala Lagoon was 68,482 m³/d with a 1σ standard deviation of 74,126 m³/d.",
+      "ground_truth_chunks": [
+        "| Pala<br>Lagoon        | 2886        | 15,508              | 68,362                                | 71,139          | 49,968                           | 52,744          | 68,482 (74,126)                   |"
+      ]
+    },
+    {
+      "record_id": "48bab5d880d0c4292fbbe7cd",
+      "paper_id": "Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2",
+      "source_path": "output/Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2.md",
+      "section_heading": "4.2.1. Highly Impacted",
+      "section_start_line": 313,
+      "section_end_line": 320,
+      "model": "openai:gpt-4o-mini",
+      "question": "What range of δ <sup>15</sup>N values was measured in spring and stream samples in Pala Lagoon?",
+      "ground_truth_answer": "They ranged from 7.2 to 9.2‰.",
+      "ground_truth_chunks": [
+        "Almost all spring and stream samples in Pala Lagoon showed some enriched δ <sup>15</sup>N values, ranging from 7.2 to 9.2‰, with little co-enrichment in δ <sup>18</sup>O values, which indicates this enrichment is likely not the result of denitrification.",
+        "This, in combination with Pala Lagoon's high DIN flux indicates wastewater or manure sources within the watershed are the main sources of DIN, a conclusion that is also supported by land-use data."
+      ]
+    },
+    {
+      "record_id": "58d29323c85688efaa1244b4",
+      "paper_id": "Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2",
+      "source_path": "output/Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2.md",
+      "section_heading": "4.2.3. Least Impacted",
+      "section_start_line": 337,
+      "section_end_line": 348,
+      "model": "openai:gpt-4o-mini",
+      "question": "What non-anthropogenic sources of phosphorus to Oa Bay are identified in section 4.2.3?",
+      "ground_truth_answer": "The section identifies natural weathering of phosphorus-rich oceanic basalts (leaching of TDP from weathered rock/groundwater) and biological addition from seabird guano as non-anthropogenic P sources to Oa Bay.",
+      "ground_truth_chunks": [
+        "Although Oa Bay typically had lower DIN and δ <sup>15</sup>N values, area scaled PO<sup>4</sup> <sup>3</sup><sup>−</sup> loading in Oa was found to be the second highest of the four studied watersheds. This relatively high PO<sup>4</sup> <sup>3</sup><sup>−</sup> loading in a pristine location, as well as a general lack of correlation between PO<sup>4</sup> <sup>3</sup><sup>−</sup> and expected land-use impact in the other watersheds, suggests that coastal P loading on Tutuila is likely to be controlled by factors other than land use.",
+        "This apparent P surplus in Tutuila's waters may be attributed in part to natural weathering of volcanic rock. The oceanic basalts from which Tutuila is constructed contain amounts of phosphorus that are up to three-times higher than in continental rocks [\\[76\\]](#page-25-11), and as this rock is weathered and dissolved by groundwater, high concentrations of TDP are able to leach out [\\[73\\]](#page-25-8).",
+        "Another potential non-anthropogenic P-source prevalent in Pacific Islands, and particularly in less-impacted locations such as Oa Bay, is biological addition from seabird guano."
+      ]
+    },
+    {
+      "record_id": "7c98210559d7312f95c1e98f",
+      "paper_id": "Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2",
+      "source_path": "output/Shuler 2019 hydrology-06-00018-v2/Shuler 2019 hydrology-06-00018-v2.md",
+      "section_heading": "<span id=\"page-21-3\"></span><span id=\"page-21-2\"></span>Appendix A",
+      "section_start_line": 377,
+      "section_end_line": 396,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which watershed showed a 106% change in SGD flux when residence time was decreased by 50%?",
+      "ground_truth_answer": "Pala (48.8 h).",
+      "ground_truth_chunks": [
+        "| Pala (48.8 h)                  | 106%                      | 96%                        |  |  |",
+        "| Residence Time)                | Res. Time Decrease by 50% | Res. Time Increase by 200% |  |  |"
+      ]
+    }
+  ],
+  "failures": []
+}

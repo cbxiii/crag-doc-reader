@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2013-06 Birkeland et al Aua transects screen res/2013-06 Birkeland et al Aua transects screen res.md",
+  "source_sha256": "779fcb7455f8648aa6b95262cf718aa1ae792bf71dec9eca7861a5fcda06a6e2",
+  "status": "complete",
+  "selected_section_count": 5,
+  "successful_record_count": 5,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "3fc13e45ceaa447c0bd265d9",
+      "paper_id": "2013-06 Birkeland et al Aua transects screen res/2013-06 Birkeland et al Aua transects screen res",
+      "source_path": "output/2013-06 Birkeland et al Aua transects screen res/2013-06 Birkeland et al Aua transects screen res.md",
+      "section_heading": "A.L. DAHL",
+      "section_start_line": 21,
+      "section_end_line": 34,
+      "model": "openai:gpt-4o-mini",
+      "question": "What factor did the authors identify as largely determining the rate of recovery (resilience) of the coral communities after disturbance?",
+      "ground_truth_answer": "Stability of the substratum.",
+      "ground_truth_chunks": [
+        "The large stable blocks provided a natural experiment that demonstrated resilience (rate of recovery) of the coral communities after chronic or acute disturbance was determined largely by stability of the substratum.",
+        "In contrast, we found that recovery has been substantially slower or absent behind the reef crest, where the substratum is primarily loose rubble.",
+        "Recovery is now proceeding in this zone by the slow accumulation of *Acropora muricata* colonies that are large enough to become established on the loose substratum."
+      ]
+    },
+    {
+      "record_id": "d38fde7bf7a6d81447475c80",
+      "paper_id": "2013-06 Birkeland et al Aua transects screen res/2013-06 Birkeland et al Aua transects screen res",
+      "source_path": "output/2013-06 Birkeland et al Aua transects screen res/2013-06 Birkeland et al Aua transects screen res.md",
+      "section_heading": "Introduction",
+      "section_start_line": 35,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Mayor's 1917 survey, which coral species dominated the reef flat from about 15 m from shore to 160 m?",
+      "ground_truth_answer": "Porites cylindrica.",
+      "ground_truth_chunks": [
+        "In Mayor's 1917 survey, the reef flat was covered by branching corals, with *Porites cylindrica* dominant from about 15 m from shore to 160 m and with *Acropora* spp. (mostly *A. muricata = A. formosa*) dominant on the outer 90 m (Fig. 1)."
+      ]
+    },
+    {
+      "record_id": "2d649e77fe8c74ba50708dca",
+      "paper_id": "2013-06 Birkeland et al Aua transects screen res/2013-06 Birkeland et al Aua transects screen res",
+      "source_path": "output/2013-06 Birkeland et al Aua transects screen res/2013-06 Birkeland et al Aua transects screen res.md",
+      "section_heading": "Methods",
+      "section_start_line": 59,
+      "section_end_line": 68,
+      "model": "openai:gpt-4o-mini",
+      "question": "What quadrat size was used to count corals in the Methods section?",
+      "ground_truth_answer": "0.25 m^2 quadrats.",
+      "ground_truth_chunks": [
+        "Corals were counted in 0.25 m<sup>2</sup> quadrats that were tossed haphazardly within about 10 m to either side of the transect, with an equal number of quadrats on each side, within a set of zones established by Mayor (1924) between the shore and the reef crest."
+      ]
+    },
+    {
+      "record_id": "6f27171b0a6d49563b4ada15",
+      "paper_id": "2013-06 Birkeland et al Aua transects screen res/2013-06 Birkeland et al Aua transects screen res",
+      "source_path": "output/2013-06 Birkeland et al Aua transects screen res/2013-06 Birkeland et al Aua transects screen res.md",
+      "section_heading": "Results",
+      "section_start_line": 69,
+      "section_end_line": 92,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Acropora species experienced a massive recruitment in 1999 and became predominant on the outer part of the Aua transect?",
+      "ground_truth_answer": "Acropora nana.",
+      "ground_truth_chunks": [
+        "The corals were few in 1995-1998, but starting with a massive recruitment of *Acropora nana* in 1999, density has remained high on the outer part of the transect with solid substrata, but low on the rubble sections of the middle part of the transect.",
+        "There used to be a variety of *Acropora* species on the reef crest (see Fig. VB in Mayor 1924), but *Acropora nana* is now predominant (Fig. 6)*.*"
+      ]
+    },
+    {
+      "record_id": "5e33eb99807cb1352942f009",
+      "paper_id": "2013-06 Birkeland et al Aua transects screen res/2013-06 Birkeland et al Aua transects screen res",
+      "source_path": "output/2013-06 Birkeland et al Aua transects screen res/2013-06 Birkeland et al Aua transects screen res.md",
+      "section_heading": "Discussion",
+      "section_start_line": 93,
+      "section_end_line": 130,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Discussion, what is the main reason corals remain scarce on the extensive inner reef flat rubble zone at Aua?",
+      "ground_truth_answer": "The scarcity is primarily due to lack of stable solid substrata: juvenile corals die when rubble is overturned by water motion, so substratum stability (availability of solid substrata) is the key limiting factor.",
+      "ground_truth_chunks": [
+        "The corals that are on the few large blocks among the rubble appear to be in fine health (Fig. 8), so water quality and abundance of larval supply are unlikely to be as important in this case as availability of solid substrata.",
+        "The most likely reason for the scarcity of corals in the rubble zone is death of juvenile corals on rubble that has been overturned by water motion since larval recruitment.",
+        "This demonstrates that substratum stability is the key determining factor under relatively uniform conditions of water quality and larval recruitment."
+      ]
+    }
+  ],
+  "failures": []
+}

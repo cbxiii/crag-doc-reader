@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Ziegler et al 2017 NatComm Bacterial community dynamics/Ziegler et al 2017 NatComm Bacterial community dynamics.md",
+  "source_sha256": "faad97e68b3eb69aaddbfdafba3aa622dbfdad6ab8196d9c0f6bd5b5515466c1",
+  "status": "complete",
+  "selected_section_count": 6,
+  "successful_record_count": 6,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "d48b92e0d3d2f7ece7f77eb9",
+      "paper_id": "Ziegler et al 2017 NatComm Bacterial community dynamics/Ziegler et al 2017 NatComm Bacterial community dynamics",
+      "source_path": "output/Ziegler et al 2017 NatComm Bacterial community dynamics/Ziegler et al 2017 NatComm Bacterial community dynamics.md",
+      "section_heading": "Bacterial community dynamics are linked to patterns of coral heat tolerance",
+      "section_start_line": 9,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "Does exposure to thermal bleaching conditions change the microbiome of heat-sensitive corals but not heat-tolerant corals?",
+      "ground_truth_answer": "Yes. Exposing these corals to thermal bleaching conditions changes the microbiome for heat-sensitive corals, but not for heat-tolerant corals growing in habitats with natural high heat extremes.",
+      "ground_truth_chunks": [
+        "Exposing these corals to thermal bleaching conditions changes the microbiome for heat-sensitive corals, but not for heat-tolerant corals growing in habitats with natural high heat extremes.",
+        "Subsequent exposure of these corals to thermal bleaching conditions changes the microbial community of heat-sensitive corals coming from a more stable, cooler environment."
+      ]
+    },
+    {
+      "record_id": "99328cac72c478a772332fcc",
+      "paper_id": "Ziegler et al 2017 NatComm Bacterial community dynamics/Ziegler et al 2017 NatComm Bacterial community dynamics",
+      "source_path": "output/Ziegler et al 2017 NatComm Bacterial community dynamics/Ziegler et al 2017 NatComm Bacterial community dynamics.md",
+      "section_heading": "Results",
+      "section_start_line": 27,
+      "section_end_line": 78,
+      "model": "openai:gpt-4o-mini",
+      "question": "After 17 months of reciprocal transplantation, were the microbiomes of non-native corals transplanted into each pool distinguishable from the microbiomes of the native corals in the same pool?",
+      "ground_truth_answer": "No — 17 months after transplantation, the microbiomes of non-native corals transplanted into each pool could not be distinguished from the microbiomes of the native corals in the same pool (ANOSIM, HV pool R = 0.013, MV pool R = 0.005, both P > 0.05).",
+      "ground_truth_chunks": [
+        "Reciprocal transplantation of coral colonies between the two thermally distinct environments strikingly demonstrated that coral microbial communities fully adjusted to the new environmental conditions: 17 months after transplantation, the microbiomes of non-native corals transplanted into each pool could not be distinguished from the microbiomes of the native corals in the same pool (Fig. 1c, ANOSIM, HV pool  $R\\!=\\!0.013$ , MV pool  $R\\!=\\!0.005$ , both  $P\\!>\\!0.05$ ).",
+        "At the same time, cross-transplanted fragments were significantly different from their back-transplanted (genet) counterparts (Fig. 1c, ANOSIM, HV pool  $R\\!=\\!0.149$ ,  $P\\!<\\!0.005$ , MV pool  $R\\!=\\!0.184$ ,  $P\\!<\\!0.001$ )."
+      ]
+    },
+    {
+      "record_id": "aa36059131cc1f26412c9456",
+      "paper_id": "Ziegler et al 2017 NatComm Bacterial community dynamics/Ziegler et al 2017 NatComm Bacterial community dynamics",
+      "source_path": "output/Ziegler et al 2017 NatComm Bacterial community dynamics/Ziegler et al 2017 NatComm Bacterial community dynamics.md",
+      "section_heading": "Microbial functional profiles change with thermal habitat.",
+      "section_start_line": 79,
+      "section_end_line": 96,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many functional traits and proteins distinguished the microbial communities between the HV and MV coral pools?",
+      "ground_truth_answer": "128 functional traits and 28 proteins.",
+      "ground_truth_chunks": [
+        "Among all functional traits identified using predictive metagenomic analysis, 128 functional traits and 28 proteins distinguished the microbial communities between both pools (Supplementary Data 5).",
+        "Functional profiles of microbial communities were distinct between HV and MV corals (Table 1)."
+      ]
+    },
+    {
+      "record_id": "34ef145a72d9a481923463b1",
+      "paper_id": "Ziegler et al 2017 NatComm Bacterial community dynamics/Ziegler et al 2017 NatComm Bacterial community dynamics",
+      "source_path": "output/Ziegler et al 2017 NatComm Bacterial community dynamics/Ziegler et al 2017 NatComm Bacterial community dynamics.md",
+      "section_heading": "Discussion",
+      "section_start_line": 97,
+      "section_end_line": 112,
+      "model": "openai:gpt-4o-mini",
+      "question": "After 17 months of reciprocal transplantation between the HV and MV pools, did microbiomes of non-native Acropora hyacinthus corals adjust to the new environmental conditions and become similar to native corals in the same pool?",
+      "ground_truth_answer": "Yes. After 17 months of transplantation, microbiomes of non-native corals adjusted to the new environmental conditions and were not significantly different from native corals in the same pool.",
+      "ground_truth_chunks": [
+        "Native coral colonies in the two pools had different microbial communities. Moreover, after 17 months of transplantation, microbiomes of non-native corals transplanted into each pool adjusted to the new environmental conditions and were not significantly different from native corals in the same pool.",
+        "Nevertheless, while we did not transfer microbiomes between HV and MV corals, the long-term transplantation effectively resulted in HV corals harbouring an MV microbiome and MV corals harbouring an HV microbiome associated with higher and lower susceptibility to coral bleaching, respectively."
+      ]
+    },
+    {
+      "record_id": "cdfdc6030b438f427aee4d36",
+      "paper_id": "Ziegler et al 2017 NatComm Bacterial community dynamics/Ziegler et al 2017 NatComm Bacterial community dynamics",
+      "source_path": "output/Ziegler et al 2017 NatComm Bacterial community dynamics/Ziegler et al 2017 NatComm Bacterial community dynamics.md",
+      "section_heading": "Methods",
+      "section_start_line": 113,
+      "section_end_line": 142,
+      "model": "openai:gpt-4o-mini",
+      "question": "What temperature treatment profile was applied to corals in the heat stress experiment?",
+      "ground_truth_answer": "Corals in the heat stress treatment were exposed to increasing temperatures from 29 °C to 35 °C over 3 h, held at 35 °C for 1 h, and returned to 29 °C within 2 h; control tanks were kept at a constant 29 °C.",
+      "ground_truth_chunks": [
+        "Corals in the heat stress treatment were exposed to increasing temperatures from 29 to 35 °C over 3 h, held at 35 °C for 1 h, and returned to 29 °C within 2 h, while the control temperature was kept",
+        "<span id=\"page-6-0\"></span>at a constant 29 °C (Fig. 1b)."
+      ]
+    },
+    {
+      "record_id": "48db3174098ef793a0519ba3",
+      "paper_id": "Ziegler et al 2017 NatComm Bacterial community dynamics/Ziegler et al 2017 NatComm Bacterial community dynamics",
+      "source_path": "output/Ziegler et al 2017 NatComm Bacterial community dynamics/Ziegler et al 2017 NatComm Bacterial community dynamics.md",
+      "section_heading": "Additional information",
+      "section_start_line": 205,
+      "section_end_line": 223,
+      "model": "openai:gpt-4o-mini",
+      "question": "Do the authors declare any competing financial interests?",
+      "ground_truth_answer": "No. The authors declare no competing financial interests.",
+      "ground_truth_chunks": [
+        "Competing financial interests: The authors declare no competing financial interests."
+      ]
+    }
+  ],
+  "failures": []
+}

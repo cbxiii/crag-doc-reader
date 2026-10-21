@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Coastal Currents_final production/Coastal Currents_final production.md",
+  "source_sha256": "0f302b0f2f43936584eca2722d9ac4a3a04386f1f04c453ab2ccc873bccddc83",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "b24029a8d45eb79861b8c34f",
+      "paper_id": "Coastal Currents_final production/Coastal Currents_final production",
+      "source_path": "output/Coastal Currents_final production/Coastal Currents_final production.md",
+      "section_heading": "Citation",
+      "section_start_line": 13,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "What equipment was purchased with the funding provided for the project?",
+      "ground_truth_answer": "An Acoustic Doppler Current Profiler (ADCP) was purchased.",
+      "ground_truth_chunks": [
+        "Funding for this project was provided by the Western Pacific Regional Fisheries Management Council's NOAA Coral Reef Conservation Grant, award number NA09NMF4410038. The funding paid for the purchase of an Acoustic Doppler Current Profiler (ADCP) to carry out current surveys in American Samoa.",
+        "The project was initiated by the No Take MPA Program (DMWR) with a view to gaining information on connectivity of priority locations for Marine Protected Area (MPA) locations in Tutuila."
+      ]
+    },
+    {
+      "record_id": "29ec163fbb16b3470b5244f6",
+      "paper_id": "Coastal Currents_final production/Coastal Currents_final production",
+      "source_path": "output/Coastal Currents_final production/Coastal Currents_final production.md",
+      "section_heading": "What are Tides?",
+      "section_start_line": 42,
+      "section_end_line": 45,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what is the difference in height between high tide and low tide in Samoa, and how large can it be in some parts of the world?",
+      "ground_truth_answer": "In Samoa the difference is no more than about three feet; in some parts of the world it can be as much as fifty feet — \"as high as six aiga buses piled on top of each other.\"",
+      "ground_truth_chunks": [
+        "In Samoa, the difference in the height of the ocean between high tide and low tide is no more than about three feet but in some parts of the world, it is as much as fifty feet.",
+        "That's as high as six aiga buses piled on top of each other!!"
+      ]
+    },
+    {
+      "record_id": "754ea7cef709b49992ca4f5a",
+      "paper_id": "Coastal Currents_final production/Coastal Currents_final production",
+      "source_path": "output/Coastal Currents_final production/Coastal Currents_final production.md",
+      "section_heading": "Large Scale Currents in the Samoan Archipelago",
+      "section_start_line": 84,
+      "section_end_line": 103,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which large-scale ocean current usually flows past American Samoa due to the trade winds?",
+      "ground_truth_answer": "The South Equatorial Current usually flows past American Samoa.",
+      "ground_truth_chunks": [
+        "From March to September, the winds in American Samoa generally blow from the south east (also known as the **trade winds**) and from October to February, they generally blow from the north east (during the Cyclone season).",
+        "The trade winds push the water from the East Pacific Ocean towards the west and cause the **South Equatorial Current** to usually flow past American Samoa."
+      ]
+    },
+    {
+      "record_id": "6223ea55a65a4cb72165b3e8",
+      "paper_id": "Coastal Currents_final production/Coastal Currents_final production",
+      "source_path": "output/Coastal Currents_final production/Coastal Currents_final production.md",
+      "section_heading": "Currents and Coral Reefs",
+      "section_start_line": 116,
+      "section_end_line": 127,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what are the reasons coral reefs depend on currents?",
+      "ground_truth_answer": "They depend on currents for transport of coral and fish larvae; distribution of plankton; and movement of sediment and pollution towards or away from coral reefs.",
+      "ground_truth_chunks": [
+        "Coral reefs depend on the currents for a number of reasons such as: transport of coral and fish larvae; distribution of **plankton**; and movement of sediment and pollution towards or away from coral reefs.",
+        "Currents ultimately affect the formation of coral reefs and therefore play a role in determining their shape and size."
+      ]
+    },
+    {
+      "record_id": "833ca6a5ba66c7ebed9b7034",
+      "paper_id": "Coastal Currents_final production/Coastal Currents_final production",
+      "source_path": "output/Coastal Currents_final production/Coastal Currents_final production.md",
+      "section_heading": "Sediment transport and pollution pathways.",
+      "section_start_line": 146,
+      "section_end_line": 155,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why is information on localized current patterns important for coral reef managers in Tutuila?",
+      "ground_truth_answer": "Because Tutuila has steep mountains and many streams that carry sediment directly to the reef during heavy rain, so knowing localized current patterns is important for managing sediment and pollution delivery around sources such as stream mouths.",
+      "ground_truth_chunks": [
+        "Tutuila has steep mountains and lots of streams that carry sediment directly to the reef during heavy rain.",
+        "Information on localized current patterns is therefore very important for coral reef managers, especially around possible sources of sediment and pollution (such as stream mouths)."
+      ]
+    },
+    {
+      "record_id": "59ddfee5ef97f4ddec8992b4",
+      "paper_id": "Coastal Currents_final production/Coastal Currents_final production",
+      "source_path": "output/Coastal Currents_final production/Coastal Currents_final production.md",
+      "section_heading": "How were ADCP surveys carried out?",
+      "section_start_line": 172,
+      "section_end_line": 187,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long did each ADCP survey last and why?",
+      "ground_truth_answer": "Depending on the weather, each survey lasted 12.5 hours in order to capture a full tidal cycle (e.g. low – high – low).",
+      "ground_truth_chunks": [
+        "Depending on the weather, each survey lasted 12.5 hours in order to capture a full tidal cycle (e.g. low – high – low).",
+        "The timing of these cycles are driven by the sun and moon, so are well known."
+      ]
+    },
+    {
+      "record_id": "1a25f42ad4be10c952a7e2c5",
+      "paper_id": "Coastal Currents_final production/Coastal Currents_final production",
+      "source_path": "output/Coastal Currents_final production/Coastal Currents_final production.md",
+      "section_heading": "Site 2: Aunu'u lsland",
+      "section_start_line": 214,
+      "section_end_line": 231,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many surveys were carried out around Aunu'u between September 2010 and June 2011?",
+      "ground_truth_answer": "Three surveys were carried out.",
+      "ground_truth_chunks": [
+        "Current surveys were carried out in Aunu'u to predict the likely pathways of larvae originating there.",
+        "Three surveys were carried out between September 2010 and June 2011 around the grid shown on page ten."
+      ]
+    },
+    {
+      "record_id": "f3686381b6cf182da94ec832",
+      "paper_id": "Coastal Currents_final production/Coastal Currents_final production",
+      "source_path": "output/Coastal Currents_final production/Coastal Currents_final production.md",
+      "section_heading": "Site 3: Taema Bank",
+      "section_start_line": 248,
+      "section_end_line": 263,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many surveys were carried out around Taema Bank and when were they conducted?",
+      "ground_truth_answer": "Three surveys were carried out between November 2010 and August 2011.",
+      "ground_truth_chunks": [
+        "Three surveys were carried out between November 2010 and August 2011 around the grid shown on page ten.",
+        "The survey track (see page ten) covered part of Taema Bank and Nafanua Bank, to the east."
+      ]
+    },
+    {
+      "record_id": "aa32d86e3142284b5861238c",
+      "paper_id": "Coastal Currents_final production/Coastal Currents_final production",
+      "source_path": "output/Coastal Currents_final production/Coastal Currents_final production.md",
+      "section_heading": "Results",
+      "section_start_line": 298,
+      "section_end_line": 313,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the direction and maximum speed of the currents during high tide around Amanave?",
+      "ground_truth_answer": "During high tide, the currents were strongly southwards, at speeds up to fifty centimeters per second.",
+      "ground_truth_chunks": [
+        "During high tide, the currents were strongly southwards, at speeds up to fifty centimeters per second.",
+        "However, to the south of Amanave, the currents were towards the north west. This indicates that the currents 'swirl', or eddy around the tip of the island."
+      ]
+    },
+    {
+      "record_id": "365433b596bc55ef2589b508",
+      "paper_id": "Coastal Currents_final production/Coastal Currents_final production",
+      "source_path": "output/Coastal Currents_final production/Coastal Currents_final production.md",
+      "section_heading": "Next Steps",
+      "section_start_line": 326,
+      "section_end_line": 341,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which program is carrying out drifter surveys using GPS units around Tutuila?",
+      "ground_truth_answer": "DMWR's MPA Program.",
+      "ground_truth_chunks": [
+        "In addition to ADCP surveys, drifter surveys are currently being carried out by DMWR's MPA Program using **GPS** units which drift in the ocean and simulate where larvae could go to.",
+        "The drifter data will be combined with the ADCP data (presented here) to develop a computer numerical model."
+      ]
+    }
+  ],
+  "failures": []
+}

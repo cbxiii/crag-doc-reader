@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS.md",
+  "source_sha256": "9b9fa5af0fde4a811b2730438dad168ad90b57c556e51d25eac5fd538dae058d",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "87905d51906ba46cacb4ea04",
+      "paper_id": "Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS",
+      "source_path": "output/Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS.md",
+      "section_heading": "List of Acronyms",
+      "section_start_line": 76,
+      "section_end_line": 96,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does the acronym DOC stand for in this section?",
+      "ground_truth_answer": "American Samoa Department of Commerce.",
+      "ground_truth_chunks": [
+        "| DOC                   | American Samoa Department of Commerce                                                                             |"
+      ]
+    },
+    {
+      "record_id": "60c17ea70c4a1905b2f59fc1",
+      "paper_id": "Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS",
+      "source_path": "output/Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS.md",
+      "section_heading": "Parameters and Methods in Core Sampling Regime",
+      "section_start_line": 163,
+      "section_end_line": 174,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many replicates were conducted for bottom cover and for fish in the ASCRMP monitoring?",
+      "ground_truth_answer": "Four replicates for bottom cover and six replicates for fish.",
+      "ground_truth_chunks": [
+        "Four replicates for bottom cover and six replicates for fish were conducted."
+      ]
+    },
+    {
+      "record_id": "00e69cb0a66e23c2112e1806",
+      "paper_id": "Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS",
+      "source_path": "output/Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS.md",
+      "section_heading": "Database",
+      "section_start_line": 229,
+      "section_end_line": 238,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were the 2005 ASCRMP data entered in the interim?",
+      "ground_truth_answer": "All data from the 2005 ASCRMP were entered from separate computers into Microsoft Excel spreadsheets.",
+      "ground_truth_chunks": [
+        "In the interim, all data from the 2005 ASCRMP were entered from separate computers into Microsoft Excel spreadsheets."
+      ]
+    },
+    {
+      "record_id": "3ac1dfe72a3fdef22b8404b3",
+      "paper_id": "Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS",
+      "source_path": "output/Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS.md",
+      "section_heading": "Low Tide Event",
+      "section_start_line": 399,
+      "section_end_line": 402,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species was primarily killed during the low tide events?",
+      "ground_truth_answer": "The principle coral killed was a staghorn, *Acropora aspera*.",
+      "ground_truth_chunks": [
+        "The principle coral killed was a staghorn, *Acropora aspera*, which lives in some large patches on some of the reef flats.",
+        "It appears that a majority of this species was killed."
+      ]
+    },
+    {
+      "record_id": "b4ef81ce86cd9d38c4ece5a0",
+      "paper_id": "Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS",
+      "source_path": "output/Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS.md",
+      "section_heading": "Fish Abundance during Core Sampling Regime",
+      "section_start_line": 440,
+      "section_end_line": 457,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the average number of Pone during the core sampling regime?",
+      "ground_truth_answer": "The number of Pone averaged 21.2 individuals per  $g/m^2$ , with a range of 6.2-33 individuals per  $g/m^2$ .",
+      "ground_truth_chunks": [
+        "The number of Pone averaged 21.2 individuals per  $g/m^2$ , with a range of 6.2-33 individuals per  $g/m^2$ .",
+        "| Number of Pone         | 21.2 |"
+      ]
+    },
+    {
+      "record_id": "73af7c3e35ac83b3bd1e0758",
+      "paper_id": "Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS",
+      "source_path": "output/Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS.md",
+      "section_heading": "Key Reef Fish Species during Supplemental Monitoring",
+      "section_start_line": 522,
+      "section_end_line": 553,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which serranid species was sighted at all monitoring sites during the supplemental monitoring?",
+      "ground_truth_answer": "Variola louti (Yellow-edge Lyretail) was sighted at all monitoring sites (100%SF).",
+      "ground_truth_chunks": [
+        "*Variola louti* (Yellow-edge Lyretail) was the most commonly sighted serranid species and was sighted at all of the monitoring sites (100%SF)."
+      ]
+    },
+    {
+      "record_id": "abe3c4189b5ddda0f2deabab",
+      "paper_id": "Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS",
+      "source_path": "output/Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS.md",
+      "section_heading": "Dive and Boat Safety",
+      "section_start_line": 628,
+      "section_end_line": 633,
+      "model": "openai:gpt-4o-mini",
+      "question": "What dive safety equipment should be included on each diver's equipment for every field day?",
+      "ground_truth_answer": "Each diver should have a dive safety sausage, a whistle, and a dive light.",
+      "ground_truth_chunks": [
+        "dive safety equipment should be included on each diver's equipment for every field day.",
+        "Dive safety equipment includes dive safety sausage, whistle, and dive light."
+      ]
+    },
+    {
+      "record_id": "f72f9f6875bf540c408f0c22",
+      "paper_id": "Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS",
+      "source_path": "output/Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS.md",
+      "section_heading": "<span id=\"page-44-0\"></span>Aoa",
+      "section_start_line": 740,
+      "section_end_line": 768,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the percentage of crustose coralline algal cover at Aoa?",
+      "ground_truth_answer": "34.0%",
+      "ground_truth_chunks": [
+        "Aoa had high live coral cover (36.0%) and high crustose coralline algal cover (34.0%)."
+      ]
+    },
+    {
+      "record_id": "5dc48895c7e87675d5f65b0b",
+      "paper_id": "Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS",
+      "source_path": "output/Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS.md",
+      "section_heading": "Leone",
+      "section_start_line": 922,
+      "section_end_line": 954,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which fish group had the highest biomass at Leone and what was its biomass?",
+      "ground_truth_answer": "The fish group with the highest biomass at Leone was parrotfish, with 31.54 g/  $m^2$.",
+      "ground_truth_chunks": [
+        "Leone had high live coral cover (35.8%), high crustose coralline algal cover (39.8%), and low macroagal and filamentous algal covers. The fish group with the highest biomass at Leone was parrotfish (31.54 g/  $m^2$ ).",
+        "| Mean fish biomass              | 46.35 g/m2 |"
+      ]
+    },
+    {
+      "record_id": "d39e09ad5b117287872c515a",
+      "paper_id": "Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS",
+      "source_path": "output/Fenner-2006-Corel.reef.mon.program.AS/Fenner-2006-Corel.reef.mon.program.AS.md",
+      "section_heading": "Appendix 3 -- Site to Site Comparison",
+      "section_start_line": 1178,
+      "section_end_line": 1216,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which site had the highest fish biodiversity during the supplemental monitoring for biodiversity, and how many species were recorded there?",
+      "ground_truth_answer": "Aunu'u, with 152 fish species.",
+      "ground_truth_chunks": [
+        "During the supplemental monitoring for biodiversity, a total of 270 fish species were recorded. The site with the highest biodiversity was Aunu'u with 152 fish species, minimum was at Fagasa with 90 fish species, and mean was 123 fish species."
+      ]
+    }
+  ],
+  "failures": []
+}

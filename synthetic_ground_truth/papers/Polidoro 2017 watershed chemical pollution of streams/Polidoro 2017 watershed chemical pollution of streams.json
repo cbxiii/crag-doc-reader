@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Polidoro 2017 watershed chemical pollution of streams/Polidoro 2017 watershed chemical pollution of streams.md",
+  "source_sha256": "ae21e50d5e50ad02099a9e2850ab8ef1807cf692077a15219e912bb1ac3b8905",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "efbfd4dd07c7abc18df238ba",
+      "paper_id": "Polidoro 2017 watershed chemical pollution of streams/Polidoro 2017 watershed chemical pollution of streams",
+      "source_path": "output/Polidoro 2017 watershed chemical pollution of streams/Polidoro 2017 watershed chemical pollution of streams.md",
+      "section_heading": "Abstract",
+      "section_start_line": 10,
+      "section_end_line": 79,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which pesticide banned by the US EPA in 2006 was detected in several stream sites?",
+      "ground_truth_answer": "Parathion.",
+      "ground_truth_chunks": [
+        "Parathion, which has been banned by the US Environmental Protection Agency since 2006, was detected in several stream sites.",
+        "The most commonly detected pesticides in coastal streams were benthiocarb, diazinon, ethion, fenitrothion and parathion, with malathion detected very high quantities (>30 µg/L) only in surface waters in a taro farm adjacent to the landfill (Figure 2), likely due to sampling after a recent application."
+      ]
+    }
+  ],
+  "failures": []
+}

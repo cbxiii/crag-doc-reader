@@ -1,0 +1,143 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1).md",
+  "source_sha256": "8bec15a33dc1385d6918de7b351507746bfe9c8f408c6c10f1bda3f24a694bc0",
+  "status": "complete",
+  "selected_section_count": 9,
+  "successful_record_count": 9,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "6e6799325c8b167961209ac2",
+      "paper_id": "Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1)",
+      "source_path": "output/Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1).md",
+      "section_heading": "Abstract",
+      "section_start_line": 11,
+      "section_end_line": 16,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percentage did coral cover decline on shallow reefs between 2015 and 2018?",
+      "ground_truth_answer": "Shallow reefs experienced a relative 50% decline in coral cover between 2015 and 2018.",
+      "ground_truth_chunks": [
+        "Shallow reefs experienced the largest changes with a relative 50% decline in coral cover, which was replaced by CCA between 2015 and 2018."
+      ]
+    },
+    {
+      "record_id": "2aebe950add6107eabba0adb",
+      "paper_id": "Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1)",
+      "source_path": "output/Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1).md",
+      "section_heading": "Introduction",
+      "section_start_line": 25,
+      "section_end_line": 54,
+      "model": "openai:gpt-4o-mini",
+      "question": "What degree heating weeks (DHW) did Swains reach in April 2016, and how does that compare to the typical threshold for reef-wide bleaching?",
+      "ground_truth_answer": "In April 2016, heat stress at Swains reached 6 °C-weeks, which exceeds the typical 4 °C-weeks threshold above which reef-wide bleaching usually occurs.",
+      "ground_truth_chunks": [
+        "In April 2016, heat stress reached 6 °C-weeks (Fig. [1](#page-2-0)b), exceeding the 4 °C-weeks threshold above which reef-wide bleaching typically occurs (Liu et al. [2014\\)](#page-11-17)."
+      ]
+    },
+    {
+      "record_id": "e70adb5c86d81acae8d752ef",
+      "paper_id": "Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1)",
+      "source_path": "output/Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1).md",
+      "section_heading": "Methods",
+      "section_start_line": 55,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "What benthic taxa dominate mid depth reefs (6–18 m) around Swains Island?",
+      "ground_truth_answer": "Mid depth reefs between 6 and 18 m have been dominated by foliose Montipora.",
+      "ground_truth_chunks": [
+        "Mid depth reefs between 6 and 18 m have been dominated by foliose *Montipora*."
+      ]
+    },
+    {
+      "record_id": "53e627edffd07b5273d15fb5",
+      "paper_id": "Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1)",
+      "source_path": "output/Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1).md",
+      "section_heading": "Benthic surveys",
+      "section_start_line": 59,
+      "section_end_line": 68,
+      "model": "openai:gpt-4o-mini",
+      "question": "In which years were benthic cover surveys conducted?",
+      "ground_truth_answer": "2010, 2012, 2015, 2018, and 2023.",
+      "ground_truth_chunks": [
+        "Benthic cover surveys were conducted in 2010, 2012, 2015 (prior the bleaching-level heat stress), 2018, and 2023 using a stratified random sampling design (*n*=178 across all survey years)."
+      ]
+    },
+    {
+      "record_id": "b7ef257aa3939d8d752b2bb2",
+      "paper_id": "Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1)",
+      "source_path": "output/Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1).md",
+      "section_heading": "Data analysis",
+      "section_start_line": 73,
+      "section_end_line": 90,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which R package and function were used to run the survey-weighted generalized linear models for percent cover?",
+      "ground_truth_answer": "They used the 'survey' package in R and the svyglm function; percent cover was modeled with quasibinomial svyglm models with a logit link.",
+      "ground_truth_chunks": [
+        "To account for the complex NCRMP survey design, all response variables were weighted by the inverse of their selection probability for a given depth stratum and survey year using the 'survey' package in R (Lumley [2022](#page-11-20)).",
+        "To test how the cover of different benthic functional groups changed in each depth zone following the 2016 heat stress event, we used survey-weighted generalized linear models (GLMs) using the *svyglm* function followed by post hoc tests using the 'emmeans' package for each depth strata separately.",
+        "For percent cover, we used quasibinomial svyglm models with a logit link with year (categorical) and functional group as interacting fixed effects."
+      ]
+    },
+    {
+      "record_id": "e91fad1eeed67ba4e9b729e3",
+      "paper_id": "Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1)",
+      "source_path": "output/Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1).md",
+      "section_heading": "Heat stress",
+      "section_start_line": 93,
+      "section_end_line": 96,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many °C-weeks above the regional coral bleaching threshold did Swains Island experience between December 2015 and April 2016?",
+      "ground_truth_answer": "6 °C-weeks.",
+      "ground_truth_chunks": [
+        "Between December 2015 and April 2016, Swains Island experienced moderate heat stress, culminating in 6 °C-weeks above the regional coral bleaching threshold (Fig. [1](#page-2-0)b).",
+        "Temperatures in shallow habitats warmed slightly earlier and at a faster rate starting in December 2015 and were 0.07–0.2 °C warmer than mid and deep habitats in March 2016, just before the peak of the heat stress event in April 2016."
+      ]
+    },
+    {
+      "record_id": "b2b82a57776a88cd90d442ed",
+      "paper_id": "Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1)",
+      "source_path": "output/Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1).md",
+      "section_heading": "Benthic cover",
+      "section_start_line": 97,
+      "section_end_line": 124,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which functional group became the dominant functional group on mid depth reefs by 2023?",
+      "ground_truth_answer": "Upright macroalgae.",
+      "ground_truth_chunks": [
+        "In contrast, upright macroalgae cover was stable until 2018, but increased by 20.8% by 2023 and is now the dominant functional group (*p*=0.007)."
+      ]
+    },
+    {
+      "record_id": "d540f1e030e08460794092e1",
+      "paper_id": "Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1)",
+      "source_path": "output/Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1).md",
+      "section_heading": "Coral community demography",
+      "section_start_line": 125,
+      "section_end_line": 152,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which depth stratum showed a significant change in adult colony community composition between 2015 and 2023?",
+      "ground_truth_answer": "The shallow depth stratum only (PERMANOVA: shallow, F1,22 = 2.35, *p*=0.03; mid depth, F1,17 = 1.21, *p*=0.31; deep, F1,7 = 1.89, *p*=0.08).",
+      "ground_truth_chunks": [
+        "Between 2015 and 2023 the community composition of adult colonies only changed in the shallow depth stratum (PERMANOVA: shallow, F1,22 = 2.35, *p*=0.03; mid depth, F1,17 = 1.21, *p*=0.31; deep, F1,7 = 1.89, *p*=0.08), with each year significantly different from the others (Fig. [3](#page-6-0); *p*<0.005 for all pairwise adonis comparisons).",
+        "PER-MANOVA results are reported in the corner of each depth stratum plot, \\* indicates significant effect of year (*p*<0.05)"
+      ]
+    },
+    {
+      "record_id": "821b5519872468a00f0416c6",
+      "paper_id": "Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1)",
+      "source_path": "output/Couch CS et al. 2024 recovery mild heat stress Swains (1)/Couch CS et al. 2024 recovery mild heat stress Swains (1).md",
+      "section_heading": "Discussion",
+      "section_start_line": 153,
+      "section_end_line": 192,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which benthic taxon predominantly replaced live coral cover on the shallow forereef between 2015 and 2018?",
+      "ground_truth_answer": "Crustose coralline algae (CCA).",
+      "ground_truth_chunks": [
+        "This coincided with the relative loss of almost half of live coral cover on the shallow forereef, which was predominantly replaced by CCA between 2015 and 2018.",
+        "On shallow reefs (3–6 m), CCA colonized the substrate previously occupied by coral by 2018, preserving calcifier dominance."
+      ]
+    }
+  ],
+  "failures": []
+}

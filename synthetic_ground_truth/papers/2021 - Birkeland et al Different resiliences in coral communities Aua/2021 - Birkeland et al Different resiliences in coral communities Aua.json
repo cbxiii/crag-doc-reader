@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua.md",
+  "source_sha256": "9f6d27ac86ae1a7374075c6183a4eba8a3a6cb9ed6e4a0c59bb2dab1896e3737",
+  "status": "complete",
+  "selected_section_count": 9,
+  "successful_record_count": 9,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "2ce341ed114e7dbc4a700084",
+      "paper_id": "2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua",
+      "source_path": "output/2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua.md",
+      "section_heading": "Different resiliencies in coral communities over ecological and geological time scales in American Samoa",
+      "section_start_line": 3,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of successful coral recruits were found on crustose coralline algae (CCA)?",
+      "ground_truth_answer": "94% of successful coral recruits were found on CCA.",
+      "ground_truth_chunks": [
+        "Successful coral recruits were found on CCA 94% of the time, yet living coral cover correlated negatively with CCA cover as they became alternative winners in competition.",
+        "The coral community on the reef crest was resilient over the century, occasionally being seriously damaged but always recovering rapidly. In contrast, the originally most dense coral community on the reef flat has been steadily deteriorating throughout the century."
+      ]
+    },
+    {
+      "record_id": "de27239eb1646f5c27289c11",
+      "paper_id": "2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua",
+      "source_path": "output/2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua.md",
+      "section_heading": "1. INTRODUCTION",
+      "section_start_line": 23,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Introduction, what are the two aspects of resilience for coral communities?",
+      "ground_truth_answer": "The two aspects are rapid recovery (reliable recruitment and rapid growth) and tolerance or resistance (acclimatization, epigenetic changes, symbiont shifting, and/or adaptation).",
+      "ground_truth_chunks": [
+        "Resilience has 2 aspects: rapid recovery and tolerance.",
+        "A resilient response to irregular or unpredictable disturbances is usually rapid recovery (reliable recruitment and rapid growth), while a resilient response to frequent events or stressors is tolerance or resistance (acclimatization, epigenetic changes, symbiont shifting, and/or adaptation)."
+      ]
+    },
+    {
+      "record_id": "a6f2644c6926759fb380f8d0",
+      "paper_id": "2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua",
+      "source_path": "output/2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua.md",
+      "section_heading": "2.1. Transects",
+      "section_start_line": 61,
+      "section_end_line": 80,
+      "model": "openai:gpt-4o-mini",
+      "question": "What size quadrats did Mayor (1924) use to survey the coral community on the transect at Aua?",
+      "ground_truth_answer": "Mayor used large quadrats 7.3 m on each side (53.3 m²).",
+      "ground_truth_chunks": [
+        "Mayor surveyed the coral community by staking out large quadrats (7.3 m each side = 53.3 m2 ) at specific distances from the shoreline and counting the number of coral colonies in each quadrat."
+      ]
+    },
+    {
+      "record_id": "a0f57691e443433244b29b5f",
+      "paper_id": "2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua",
+      "source_path": "output/2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua.md",
+      "section_heading": "2.2. Taxonomy",
+      "section_start_line": 81,
+      "section_end_line": 86,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Gabrielson et al. (2018) as reported in this section, how many distinct species does Porolithon onkodes consist of in the western Pacific?",
+      "ground_truth_answer": "At least 20 distinct species.",
+      "ground_truth_chunks": [
+        "Gabrielson et al. (2018) ex amined the genomics of *P. onkodes* and report that *P. onkodes* consists of at least 20 distinct species in the western Pacific alone.",
+        "Several species have been synonymized into *P. onkodes*, including *P. pachydermum* in the Atlantic (Adey & Macintyre 1973, Maneveldt & Keats 2014)."
+      ]
+    },
+    {
+      "record_id": "dbb4fddb9f251259113821b6",
+      "paper_id": "2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua",
+      "source_path": "output/2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua.md",
+      "section_heading": "3.1. Consistent differences in resilience of coral communities over the past century",
+      "section_start_line": 89,
+      "section_end_line": 108,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of coral recruits were found on crustose coralline algae (CCA) in the study?",
+      "ground_truth_answer": "94% of the 800 coral recruits (754 of 800) were found on crustose coralline algae (CCA).",
+      "ground_truth_chunks": [
+        "Of 800 coral re cruits, 754 (94%) were found on crustose coralline alga (CCA) and the other 46 (6%) recruits were found on substrata other than CCA (Table S2).",
+        "CCA occupied an average of 32% of the surface area (Vroom 2011), so we would have expected 256 re cruits by chance (χ<sup>2</sup> = 1422, p < 0.001)."
+      ]
+    },
+    {
+      "record_id": "d7b8274dc51c3401e517ce33",
+      "paper_id": "2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua",
+      "source_path": "output/2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua.md",
+      "section_heading": "3.2. Consistent differences between two neighboring reef communities through the Holocene",
+      "section_start_line": 109,
+      "section_end_line": 118,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to this section, what was the main compositional difference between the cores from the Aua transect and the Utulei transect?",
+      "ground_truth_answer": "The Aua transect core was dominated throughout by scleractinians, while the Utulei transect cores consisted substantially of spiculite down to the basalt with scattered pieces of scleractinian corals (mostly Porites).",
+      "ground_truth_chunks": [
+        "The core from the Aua transect was dominated throughout by scleractinians.",
+        "The cores from the Utulei transect consisted substantially of spiculite down to the basalt.",
+        "There were scattered pieces of scleractinian corals, mostly *Porites*, mixed in the spiculite (Cary 1931)."
+      ]
+    },
+    {
+      "record_id": "a268b282fa5eb086ac0c842b",
+      "paper_id": "2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua",
+      "source_path": "output/2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua.md",
+      "section_heading": "4.1. Consistent differences in resilience of coral communities over the past century",
+      "section_start_line": 121,
+      "section_end_line": 144,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species is considered a keystone species for binding loose rubble and determining resilience of coral communities on the reef crest?",
+      "ground_truth_answer": "Porolithon onkodes.",
+      "ground_truth_chunks": [
+        "*Porolithon onkodes* is considered a keystone species because it determines the resilience of coral com munities on the reef crest and other areas of strong water motion.",
+        "This resilience in American Samoa has been attributed to the ability of *P. onkodes* to bind loose rubble into a stable substratum (Birkeland et al. 2008)."
+      ]
+    },
+    {
+      "record_id": "3fcdd4f5caf9b67f3a3a7405",
+      "paper_id": "2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua",
+      "source_path": "output/2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua.md",
+      "section_heading": "4.2. Consistent differences between two neighboring reef communities through the Holocene",
+      "section_start_line": 145,
+      "section_end_line": 178,
+      "model": "openai:gpt-4o-mini",
+      "question": "What average accretion rate would the scleractinian reef at Aua have had to maintain to keep up with average Holocene sea level rise?",
+      "ground_truth_answer": "The scleractinian reef would have had to accrete an average of 4.4 mm yr−1.",
+      "ground_truth_chunks": [
+        "Over 11 000 yr ago, the sea level was 48 m below the present level (Blanchon 2011), the depth of the Aua reef, so presumably when the reef originated.",
+        "The scleractinian reef would have had to accrete an average of 4.4 mm yr−1 to keep up with the average rising sea level."
+      ]
+    },
+    {
+      "record_id": "93c0dc2609239c5528406f22",
+      "paper_id": "2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua",
+      "source_path": "output/2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua.md",
+      "section_heading": "5. CONCLUSIONS",
+      "section_start_line": 179,
+      "section_end_line": 184,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Conclusions, what is the proposed explanation for the consistent differences in resilience of coral communities on the Aua transect and between neighboring reef communities through the Holocene?",
+      "ground_truth_answer": "Relative differences in wave energies.",
+      "ground_truth_chunks": [
+        "The consistent differences in resilience of coral communities on the Aua transect over the past century and the consistent differences between 2 neighboring reef communities through the Holocene may both be explained by relative differences in wave energies.",
+        "Rates of calcium carbonate deposition, the effectively binding *Porolithon onkodes*, and the dissolution-resistant dolomite in its skeleton are associated with high-energy reef crests and reef fronts where there is usually reliable recruitment and rapid recovery from disturbances.",
+        "Areas sheltered from wave action have substantially lower rates of calcium carbonate deposition, the CCA do not have substantial dolomite and do not effectively bind substrata, and therefore the coral communities often do not recover from disturbances."
+      ]
+    }
+  ],
+  "failures": []
+}

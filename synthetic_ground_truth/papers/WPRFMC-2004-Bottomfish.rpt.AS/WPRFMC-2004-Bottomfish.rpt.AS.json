@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "source_path": "output/WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS.md",
+  "source_sha256": "9c83bb9a6dbff7c7969cfa5247b1240d02b0eeaedaaeb5a87e1032b43a77793b",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "7ed826b8a4fffcc8c024050c",
+      "paper_id": "WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS",
+      "source_path": "output/WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS.md",
+      "section_heading": "Appendix 2. Guam",
+      "section_start_line": 89,
+      "section_end_line": 129,
+      "model": "openai:gpt-4o-mini",
+      "question": "On which page(s) is '4. Recommendations' listed in Appendix 2. Guam?",
+      "ground_truth_answer": "2-6",
+      "ground_truth_chunks": [
+        "| 4. Recommendations                                           | 2-6  |"
+      ]
+    },
+    {
+      "record_id": "59219e132a694dbc778e0bb3",
+      "paper_id": "WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS",
+      "source_path": "output/WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS.md",
+      "section_heading": "1.1.1 Landings information",
+      "section_start_line": 230,
+      "section_end_line": 246,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the BMUS landings (lb) reported for American Samoa (AS)?",
+      "ground_truth_answer": "26,239 lb",
+      "ground_truth_chunks": [
+        "Table 1. Regional Summary of 2003 Bottomfish Species",
+        "| BMUS Landings (lb) | 26,239          | 118,206   | 41,710     | 494,569   | 272,569     | 77,000        | 145,000       |"
+      ]
+    },
+    {
+      "record_id": "4c6bd9b1f468662076501f5b",
+      "paper_id": "WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS",
+      "source_path": "output/WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS.md",
+      "section_heading": "1.2.4 Spawning Potential Ratio",
+      "section_start_line": 311,
+      "section_end_line": 314,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Bottomfish FMP (Amendment 3, 1990), what SPR value indicates that recruitment overfishing has occurred?",
+      "ground_truth_answer": "If SPR is less than or equal to 0.20, recruitment overfishing has occurred (spawners reduced to 20% or less of unexploited stock level).",
+      "ground_truth_chunks": [
+        "The spawning potential ratio (SPR) is the ratio of the spawning stock biomass per recruit, at the current level of fishing, to the spawning stock biomass per recruit that would occur in the absence of fishing.",
+        "According to the overfishing definition contained in the Bottomfish FMP (Amendment 3, 1990), if SPR is less than or equal to 0.20, recruitment overfishing has occurred (i.e., spawners have been reduced to 20%, or less, of their unexploited stock level)."
+      ]
+    },
+    {
+      "record_id": "17ffe609287f3d91e7a4e794",
+      "paper_id": "WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS",
+      "source_path": "output/WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS.md",
+      "section_heading": "2.2.1 Descriptors",
+      "section_start_line": 401,
+      "section_end_line": 408,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the inflation-adjusted average bottomfish price in 2003 and how did it compare to the long term average?",
+      "ground_truth_answer": "The 2003 inflation-adjusted average bottomfish price was $3.11 and it was 25.4% below the long term average.",
+      "ground_truth_chunks": [
+        "The 2003 inflation-adjusted average bottomfish price of \\$3.11 increased very slightly from last year and is 25.4% below the long term average."
+      ]
+    },
+    {
+      "record_id": "070b6110221d21821d9c76d6",
+      "paper_id": "WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS",
+      "source_path": "output/WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS.md",
+      "section_heading": "2.3.1 Descriptors",
+      "section_start_line": 432,
+      "section_end_line": 445,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percentage did MHI bottomfish landings decrease from 2002 to 2003?",
+      "ground_truth_answer": "They decreased by 24.7%.",
+      "ground_truth_chunks": [
+        "Although the data for 2003 is incomplete, preliminary data shows that 2003 landings of 272,569 pounds are the lowest total landings seen in the 18-years of data that were collected between 1986 and the present. The 24.7% decrease in MHI bottomfish landings from 2002 to 2003 may be partially attributed to the 40.6% decline in number of trips taken in the MHI."
+      ]
+    },
+    {
+      "record_id": "fd2d8e435239c039b1539948",
+      "paper_id": "WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS",
+      "source_path": "output/WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS.md",
+      "section_heading": "2.4.2 Indicators",
+      "section_start_line": 484,
+      "section_end_line": 489,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did the average bottomfish catch per trip change from 2002 to 2003?",
+      "ground_truth_answer": "It decreased from 101 lb/trip in 2002 to 89 lb/trip in 2003.",
+      "ground_truth_chunks": [
+        "The average bottomfish catch per trip decreased from 101 lb/trip in 2002 to 89 lb/trip in 2003."
+      ]
+    },
+    {
+      "record_id": "f915c4f866276a31defeb9fe",
+      "paper_id": "WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS",
+      "source_path": "output/WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS.md",
+      "section_heading": "3.2.1 Use-it or Lose it Requirement for Permit Renewal (Calendar Yr 2003)",
+      "section_start_line": 516,
+      "section_end_line": 519,
+      "model": "openai:gpt-4o-mini",
+      "question": "What landing requirements did NMFS set for renewing a Mau Zone limited entry permit for calendar year 2003?",
+      "ground_truth_answer": "The vessel had to make a minimum of 5 separate landings, each of which consisted of at least 500 pounds of bottomfish management unit species, from the Mau Zone during the previous permit year.",
+      "ground_truth_chunks": [
+        "Mau Zone limited entry permits expire on December 31 each year.",
+        "NMFS will renew a permit for the following year if the permit holder's vessel made a minimum of 5 separate landings, each of which consisted of at least 500 pounds of bottomfish management unit species, from the Mau Zone during the previous permit year."
+      ]
+    },
+    {
+      "record_id": "da02cfa662a57b2e89cbffde",
+      "paper_id": "WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS",
+      "source_path": "output/WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS.md",
+      "section_heading": "4.1 NOAA Fisheries Office for Law Enforcement Pacific Islands Enforcement Division",
+      "section_start_line": 579,
+      "section_end_line": 602,
+      "model": "openai:gpt-4o-mini",
+      "question": "How much in financial penalties resulted from violations of the MSFCMA during the third quarter of 2003?",
+      "ground_truth_answer": "$143,817.81.",
+      "ground_truth_chunks": [
+        "During the third quarter of 2003, there were four prominent enforcement actions resulting from violations of the MSFCMA which have resulted in financial penalties totaling \\$143,817.81."
+      ]
+    },
+    {
+      "record_id": "67640e0012739b9883667b2f",
+      "paper_id": "WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS",
+      "source_path": "output/WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS.md",
+      "section_heading": "Selected Historical Annual Statistics",
+      "section_start_line": 664,
+      "section_end_line": 692,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the CPUE (lb/trip-hr) in 1988?",
+      "ground_truth_answer": "17.3",
+      "ground_truth_chunks": [
+        "| 1988      | 63136                  | 17.3                 | \\$149971            | \\$2.48                | 115.3 | 32                 |"
+      ]
+    },
+    {
+      "record_id": "bb66ec730bd8760a79ff593a",
+      "paper_id": "WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS",
+      "source_path": "output/WPRFMC-2004-Bottomfish.rpt.AS/WPRFMC-2004-Bottomfish.rpt.AS.md",
+      "section_heading": "STATUS OF BOTTOMFISH STOCKS 2003 APPLICATION OF CONTROL RULES",
+      "section_start_line": 1151,
+      "section_end_line": 1272,
+      "model": "openai:gpt-4o-mini",
+      "question": "What MSST value was used for the bottomfish complex, and what natural mortality value was that based on?",
+      "ground_truth_answer": "MSST = 0.70 (70% of CPUEmsy), based on a selected natural mortality of 0.30.",
+      "ground_truth_chunks": [
+        "The biomass threshold, MSST, is defined as 1.0 minus natural mortality. Natural mortality for species of the bottomfish complex is poorly estimated. Various sources report natural mortality estimates ranging from 0.30 to 0.90. We have selected the precautionary value of 0.30 for the purpose of establishing the MSST. The resulting MSST is 0.70."
+      ]
+    }
+  ],
+  "failures": []
+}

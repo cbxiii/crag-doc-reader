@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology.md",
+  "source_sha256": "75915c7e8b723aff39011825d51ea1e5c08b1a81f42c92533fed5b35928ae817",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "f9e890d32ca651744264bfa3",
+      "paper_id": "Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology",
+      "source_path": "output/Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology.md",
+      "section_heading": "TUTUILA, AMERICAN SAMOA COASTAL RESOURCE INVENTORY SITES: RECONNAISSANCE SHORELINE GEOLOGY",
+      "section_start_line": 3,
+      "section_end_line": 17,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who is listed as the author of the report 'TUTUILA, AMERICAN SAMOA COASTAL RESOURCE INVENTORY SITES: RECONNAISSANCE SHORELINE GEOLOGY'?",
+      "ground_truth_answer": "Bruce M. Richmond.",
+      "ground_truth_chunks": [
+        "by\nBruce M. Richmond<sup>1</sup>\n1995\nOpen-File Report 95-512",
+        "<sup>1</sup> U.S. Geological Survey, Menlo Park, California"
+      ]
+    },
+    {
+      "record_id": "10ead8da137c658d9515fbf5",
+      "paper_id": "Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology",
+      "source_path": "output/Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 74,
+      "section_end_line": 81,
+      "model": "openai:gpt-4o-mini",
+      "question": "Approximately what percentage of Tutuila's coast is bordered by a fringing reef?",
+      "ground_truth_answer": "Approximately 60%.",
+      "ground_truth_chunks": [
+        "Of the 125 km of coast (78 mi.) approximately 60% is bordered by a fringing reef and about 20% of the natural coast was fronted by beach (much of this coast is now fronted by engineering structures)."
+      ]
+    },
+    {
+      "record_id": "380b3d3abf961d21024d2b54",
+      "paper_id": "Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology",
+      "source_path": "output/Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology.md",
+      "section_heading": "CHARACTERISTICS OF THE NATURAL COASTAL SYSTEM",
+      "section_start_line": 100,
+      "section_end_line": 109,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the two primary types of coastline on Tutuila?",
+      "ground_truth_answer": "The two primary types of coastline on Tutuila are: (a) depositional coasts consisting of coastal plains, beaches, wetlands and mangrove forests, and (b) erosional coasts characterized by seacliffs.",
+      "ground_truth_chunks": [
+        "There are two primary types of coastline on Tutuila: a) depositional coasts consisting of coastal plains, beaches, wetlands and mangrove forests, and b) erosional coasts characterized by seacliffs.",
+        "Although there is overlap between the two, such as a cliffed coast fronted by a narrow cobble or sand beach, in general they are distinguishable. Moreover, a beach undergoing erosion is still primarily a depositional feature."
+      ]
+    },
+    {
+      "record_id": "a1e4e627daddb2123bc02c1f",
+      "paper_id": "Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology",
+      "source_path": "output/Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology.md",
+      "section_heading": "Cliffed Coasts",
+      "section_start_line": 144,
+      "section_end_line": 153,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coast of Tutuila is described as being mostly cliffed with little or no fringing reef development?",
+      "ground_truth_answer": "Most of the north coast of Tutuila is cliffed with little or no fringing reef development.",
+      "ground_truth_chunks": [
+        "Most of the north coast of Tutuila is cliffed with little or no fringing reef development with the exception of the deep embayments at Aoa, Masefau, Afono, Vatia, Fagasa, Fagafue, Aasu, Aoloau, and Maloata.",
+        "The south coast is also cliffed however, in general, the cliffs are lower, less rugged, and interrupted by more prominent valley development than along the north coast."
+      ]
+    },
+    {
+      "record_id": "bd6d36f159c80a89da8319e4",
+      "paper_id": "Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology",
+      "source_path": "output/Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology.md",
+      "section_heading": "Area 2: Breakers point to Cape Matatula",
+      "section_start_line": 162,
+      "section_end_line": 187,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which segment of Area 2 represents the longest, relatively undisturbed, open-coast sandy shoreline on Tutuila?",
+      "ground_truth_answer": "Matuli Point to Cape Matatula.",
+      "ground_truth_chunks": [
+        "2) Matuli Point to Cape Matatula. This area does not contain any of the offshore inventory sites but it is extremely important as a coastal site because it represents the longest, relatively undisturbed, opencoast sandy shoreline on Tutuila.",
+        "A gently-curved carbonate sand beach extends about 2 km from Lealaeli Hill to Fagasa Point (Plate 4)."
+      ]
+    },
+    {
+      "record_id": "fe6895ded51b12b976eed143",
+      "paper_id": "Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology",
+      "source_path": "output/Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology.md",
+      "section_heading": "Area 3: Cape Matatula to Pola Island",
+      "section_start_line": 188,
+      "section_end_line": 195,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which bay in Area 3 has nearly 800 m of seawall?",
+      "ground_truth_answer": "Masefau Bay.",
+      "ground_truth_chunks": [
+        "In general, shoreline erosion does not appear critical except for Masefau Bay where there is nearly 800 m of seawall."
+      ]
+    },
+    {
+      "record_id": "6d337708e80256edf9309183",
+      "paper_id": "Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology",
+      "source_path": "output/Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology.md",
+      "section_heading": "Area 5: Cape Taputapu to Logologo Pt.",
+      "section_start_line": 204,
+      "section_end_line": 213,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the dominant beach sediment within Leone Bay and how does it differ from other beaches in Area 5?",
+      "ground_truth_answer": "Terrigenous sand is the dominant beach sediment within Leone Bay, whereas carbonate sand predominates along the other beaches.",
+      "ground_truth_chunks": [
+        "Terrigenous sand is the dominant beach\n\nsediment within Leone Bay whereas carbonate sand predominates along the other beaches.",
+        "A narrow finger of beachrock in line with the current shoreline extends across the mouth of Leafu Stream at Leone, which probably denotes a former shoreline position of the barrier spit and beach."
+      ]
+    },
+    {
+      "record_id": "2069d03a6ddc8ca42255539d",
+      "paper_id": "Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology",
+      "source_path": "output/Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology.md",
+      "section_heading": "Area 7: Fogagogo to Breakers Pt. (excluding Pago Pago Harbor).",
+      "section_start_line": 220,
+      "section_end_line": 223,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the net longshore drift direction of the Coconut Pt. barrier spit in Area 7?",
+      "ground_truth_answer": "From northeast to southwest.",
+      "ground_truth_chunks": [
+        "The Coconut Pt. barrier spit is composed mostly of carbonate sand and the morphology indicates a growth direction (net longshore drift direction) from northeast to southwest.",
+        "Most of the seaward edge of the spit shoreline is undergoing erosion with rates of 1 to 1.5 m/yr in the south and about 0.5 m/yr in the north (U.S. Army Corps of Engineers, 1980, 1989)."
+      ]
+    },
+    {
+      "record_id": "ca3e56f544b123c26eada6d2",
+      "paper_id": "Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology",
+      "source_path": "output/Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology.md",
+      "section_heading": "SHORELINE SITE DESCRIPTIONS",
+      "section_start_line": 352,
+      "section_end_line": 1225,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the width of the fringing reef adjacent to Site 3 (Aua)?",
+      "ground_truth_answer": "Up to 300 m wide.",
+      "ground_truth_chunks": [
+        "Adjacent Reef Characteristics: The fringing reef is up to 300 m wide and a small patch reef, Amu'ula Rock, occurs offshore. The inner reef flat is covered by sediment. The seaward edge of the reef flat is highly irregular, probably due to freshwater outflow of the streams."
+      ]
+    },
+    {
+      "record_id": "a992d3fcff1db92a88df70cd",
+      "paper_id": "Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology",
+      "source_path": "output/Richmond BM 1995 AS shoreline geology/Richmond BM 1995 AS shoreline geology.md",
+      "section_heading": "CONTOUR INTERVAL 40 FEET",
+      "section_start_line": 1286,
+      "section_end_line": 1337,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the supplementary contour interval?",
+      "ground_truth_answer": "20 feet.",
+      "ground_truth_chunks": [
+        "#### **CONTOUR INTERVAL 40 FEET**",
+        "SUPPLEMENTARY CONTOUR INTERVAL 20 FEET"
+      ]
+    }
+  ],
+  "failures": []
+}

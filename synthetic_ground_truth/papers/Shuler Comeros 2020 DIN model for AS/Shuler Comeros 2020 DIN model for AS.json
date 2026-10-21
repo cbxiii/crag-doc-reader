@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS.md",
+  "source_sha256": "a27c7757bdf580fc9ad3cc4490f2fe5de7225156d0143e0b66490fe1325a6da7",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "1c8889ec180e30f12b6da65e",
+      "paper_id": "Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS",
+      "source_path": "output/Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS.md",
+      "section_heading": "Abstract",
+      "section_start_line": 9,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Abstract, which pathway delivered more terrigenous dissolved inorganic nitrogen (DIN) to the coastal zone?",
+      "ground_truth_answer": "Submarine groundwater discharge (SGD) delivered more terrigenous DIN to the coastal zone than surface water pathways.",
+      "ground_truth_chunks": [
+        "Submarine groundwater discharge (SGD) was found to deliver more terrigenous DIN to the coastal zone than surface water pathways, supporting findings from other tropical islands.",
+        "On-site wastewater disposal systems were also found to be the primary anthropogenic sources of DIN to coastal waters."
+      ]
+    },
+    {
+      "record_id": "b8bf3bc685cc196b22fea9d9",
+      "paper_id": "Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS",
+      "source_path": "output/Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS.md",
+      "section_heading": "Study Location",
+      "section_start_line": 37,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the three primary nonpoint nutrient sources previously identified on Tutuila?",
+      "ground_truth_answer": "The three primary nonpoint nutrient sources identified are on-site wastewater disposal systems (OSDS), piggeries (small backyard-scale livestock-rearing operations), and agricultural fertilizers.",
+      "ground_truth_chunks": [
+        "The three primary nonpoint nutrient sources previously identified on Tutuila include on-site wastewater disposal systems (OSDS), piggeries (small backyard-scale livestock-rearing operations), and agricultural fertilizers (Shuler et al. [2017\\)](#page-16-0)."
+      ]
+    },
+    {
+      "record_id": "72876cfb40df39cbb0dce65a",
+      "paper_id": "Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS",
+      "source_path": "output/Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS.md",
+      "section_heading": "Step 1. Island-Wide Water Discharge Rates from All Three Hydrologic Pathways",
+      "section_start_line": 61,
+      "section_end_line": 76,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the weighted average baseflow-to-groundwater-recharge ratio (Q-BF/GW-R) calculated for the gauged watersheds?",
+      "ground_truth_answer": "The weighted average Q-BF/GW-R from all gauged watersheds was 0.33 ± 0.17 (33 ± 17%).",
+      "ground_truth_chunks": [
+        "For the watersheds with available stream gauge data, the measured Q-BF/GW-R ratios ranged from 0.08 to 0.49 and the weighted average (weights based on streamflow data period of record) from all gauged watersheds was 0.33 ±\n\n0.17, which can be interpreted to mean that an estimated 33 ± 17% of the island's recharge discharges to the ocean as baseflow in streams, and 1.0–33% or 67% discharges as SGD, assuming that the system is at steady state and all recharge not discharged as baseflow discharges as SGD.",
+        "We applied this average ratio to the SWB2-calculated GW-R in ungauged watersheds to estimate island-wide SGD and baseflow rates, respectively."
+      ]
+    },
+    {
+      "record_id": "57a730a6e375359dbcfe1a55",
+      "paper_id": "Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS",
+      "source_path": "output/Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS.md",
+      "section_heading": "Observed DIN Loads",
+      "section_start_line": 93,
+      "section_end_line": 146,
+      "model": "openai:gpt-4o-mini",
+      "question": "Of the 93 watersheds delineated for this project, how many were sampled for surface water nutrients and how many were sampled for coastal springs?",
+      "ground_truth_answer": "Thirty-four (34) watersheds were sampled for surface water nutrients, and twenty-two (22) watersheds were sampled for coastal springs.",
+      "ground_truth_chunks": [
+        "Of the ninety-three (93) watersheds delineated for this project, thirty-four (34) were sampled for surface water nutrients, and coastal springs were sampled in twenty-two (22).",
+        "However, of these, only thirteen (13) were sampled for both surface waters and coastal springs (Fig. 3), partially due to the fact that hydrogeologic regions with more SGD (i.e., more prevalent coastal springs) often have fewer surface water features."
+      ]
+    },
+    {
+      "record_id": "d28429367c89a2937433496d",
+      "paper_id": "Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS",
+      "source_path": "output/Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS.md",
+      "section_heading": "Step 4. Model Calibration Process",
+      "section_start_line": 161,
+      "section_end_line": 164,
+      "model": "openai:gpt-4o-mini",
+      "question": "What optimization algorithm was used to perform parameter optimization of the DIN release rates?",
+      "ground_truth_answer": "Parameter optimization was performed using the Nelder–Mead unconstrained minimization method (Nelder and Mead [1965]), implemented in Python using scipy.optimize.minimize.",
+      "ground_truth_chunks": [
+        "Parameter optimization was performed using the Nelder–Mead unconstrained minimization method (Nelder and Mead [1965](#page-16-0)).",
+        "The optimization was implemented in Python using the scipy.optimize.minimize function ([https://](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.optimize.minimize.html) [docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.optimize.minimize.html) [optimize.minimize.html\\)](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.optimize.minimize.html)."
+      ]
+    },
+    {
+      "record_id": "a6dadc6eb3babce91509db51",
+      "paper_id": "Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS",
+      "source_path": "output/Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS.md",
+      "section_heading": "Management Decision-Making Framework",
+      "section_start_line": 190,
+      "section_end_line": 197,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where did the authors make the model input data, code, and results available?",
+      "ground_truth_answer": "They made them available in an open-access repository at https://doi.org/10.5281/zenodo.3462869.",
+      "ground_truth_chunks": [
+        "The model workflow is documented as an interactive Jupyter\n\n![](_page_7_Picture_10.jpeg)\n\nNotebook (Kluyver et al. 2016) that contains results and explanations, as well as fully executable code, which can be used to reproduce or modify the model output.",
+        "We made all model input data, code, and results available to anyone, including stakeholders or other researchers in an open-access repository [\\(https://doi.org/10.5281/zenodo.3462869\\)](https://doi.org/10.5281/zenodo.3462869)."
+      ]
+    },
+    {
+      "record_id": "8bebfb545f2323616d8830a9",
+      "paper_id": "Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS",
+      "source_path": "output/Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS.md",
+      "section_heading": "Exploration of Correlation Relationships",
+      "section_start_line": 212,
+      "section_end_line": 239,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which nutrient source is identified as a primary control on baseflow and SGD DIN loads?",
+      "ground_truth_answer": "OSDS (on-site sewage disposal systems) is identified as a primary control on baseflow and SGD DIN loads.",
+      "ground_truth_chunks": [
+        "with OSDS loading on the y-axis suggest that OSDS is a primary control on baseflow and SGD DIN loads, (2) low slopes in agricultural source plots suggest that this is the least important anthropogenic source, (3) large DIN loads in SGD suggest that groundwater is an important nutrientdelivery pathway that deserves additional management attention, (4) lower r <sup>2</sup> in regressions, including surface runoff, suggests that runoff-stage nutrient fluxes are not as well predicted by the model as baseflow-stage fluxes, which is reasonable because of typically larger variability in surface runoff nutrient concentrations, and (5) high r 2 (0.74) for the total modeled vs. total observed loading plot indicates that the model calibration performed satisfactorily."
+      ]
+    },
+    {
+      "record_id": "43bad5a58de4fee3e2f0a96a",
+      "paper_id": "Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS",
+      "source_path": "output/Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS.md",
+      "section_heading": "Identification of Tutuila DIN Hotspots",
+      "section_start_line": 248,
+      "section_end_line": 273,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which specific villages or areas did the DIN-loading model identify as hotspots on Tutuila?",
+      "ground_truth_answer": "Tula, Aoa, Amouli, and Alao Villages in Eastern Tutuila, and the Seetaga area of Western Tutuila.",
+      "ground_truth_chunks": [
+        "Our model produced higher- resolution estimates and predicted particular villages in Eastern Tutuila, such as Tula, Aoa, Amouli, and Alao Villages, and the Seetaga area of Western Tutuila to be DIN-loading hotspots as well.",
+        "These villages may be subject to DIN-loading impacts that are higher than expected in comparison with adjacent watersheds, highlighting the need for additional land use or nutrient source management attention in particular villages."
+      ]
+    },
+    {
+      "record_id": "0b36ea7935a25e6fdc9242c4",
+      "paper_id": "Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS",
+      "source_path": "output/Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS.md",
+      "section_heading": "The Importance of Different Sources and Hydrologic Pathways",
+      "section_start_line": 280,
+      "section_end_line": 289,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, how much higher is OSDS loading compared to DIN loading from other sources?",
+      "ground_truth_answer": "OSDS loading is generally two to four times higher than DIN loading from other sources.",
+      "ground_truth_chunks": [
+        "Specifically, the model shows that OSDS loading is generally two to four times higher than DIN loading from other sources.",
+        "Shuler et al. ([2017\\)](#page-16-0) found a similar result, suggesting that on the Tafuna–Leone Plain, OSDS units account for 300% more total N loading to groundwater than N sourced from pigs."
+      ]
+    },
+    {
+      "record_id": "67bdaac9674e598ff892b380",
+      "paper_id": "Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS",
+      "source_path": "output/Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS.md",
+      "section_heading": "Data Availability",
+      "section_start_line": 298,
+      "section_end_line": 311,
+      "model": "openai:gpt-4o-mini",
+      "question": "What license is the model code released under?",
+      "ground_truth_answer": "The model code is licensed under the GNU General Public License v3.0.",
+      "ground_truth_chunks": [
+        "The model code is licensed under the GNU General Public License v3.0, which is an open-access license designed to explicitly affirm any user's unlimited permission to run, copy, and use the unmodified code from this repository."
+      ]
+    }
+  ],
+  "failures": []
+}

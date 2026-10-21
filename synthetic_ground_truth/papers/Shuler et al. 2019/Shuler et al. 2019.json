@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Shuler et al. 2019/Shuler et al. 2019.md",
+  "source_sha256": "8d84b36f8e7062cce0cc392fbdd2f1b77566c81a14fc60dc58b78943ccd570b4",
+  "status": "partial",
+  "selected_section_count": 10,
+  "successful_record_count": 9,
+  "failure_count": 1,
+  "records": [
+    {
+      "record_id": "351ce903509af06e56a649a4",
+      "paper_id": "Shuler et al. 2019/Shuler et al. 2019",
+      "source_path": "output/Shuler et al. 2019/Shuler et al. 2019.md",
+      "section_heading": "1 Understanding Surface Water - Groundwater",
+      "section_start_line": 1,
+      "section_end_line": 34,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the corresponding author's email address?",
+      "ground_truth_answer": "cshuler@hawaii.edu",
+      "ground_truth_chunks": [
+        "\\*cshuler@hawaii.edu",
+        "\\* Corresponding author"
+      ]
+    },
+    {
+      "record_id": "e1ca6f73cea40e43d8c5869a",
+      "paper_id": "Shuler et al. 2019/Shuler et al. 2019",
+      "source_path": "output/Shuler et al. 2019/Shuler et al. 2019.md",
+      "section_heading": "<sup>158</sup>2. Study Area",
+      "section_start_line": 78,
+      "section_end_line": 85,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the three primary anthropogenic nutrient sources on Tutuila identified in the section?",
+      "ground_truth_answer": "On-Site wastewater Disposal Systems (OSDS); widespread small-scale pig farming operations; and agricultural fertilizers.",
+      "ground_truth_chunks": [
+        "The three primary anthropogenic nutrient 187 sources on Tutuila have been previously determined to be: (1) On-Site wastewater Disposal 188 Systems (OSDS), (2) widespread small-scale pig farming operations, and (3) agricultural 189 fertilizers (Falkland et al., 2002; Polidoro et al., 2017; Shuler et al., 2017); but the relative 190 impact of each source on coastal ecosystems remains poorly understood."
+      ]
+    },
+    {
+      "record_id": "2c9366aaabd68ab762b591d8",
+      "paper_id": "Shuler et al. 2019/Shuler et al. 2019",
+      "source_path": "output/Shuler et al. 2019/Shuler et al. 2019.md",
+      "section_heading": "3.2 Radon-Based SGD Field Estimates",
+      "section_start_line": 142,
+      "section_end_line": 195,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many 222Rn measurements were taken in the time-series at the fixed nearshore location, and over what duration?",
+      "ground_truth_answer": "261 measurements taken over a 48-hour period.",
+      "ground_truth_chunks": [
+        "We assessed temporal (tide-\n\ndependent) variability with a time-series of 261 <sup>222</sup>Rn measurements taken from a fixed nearshore 262 location over a 48-hour period.",
+        "Dissolved <sup>222</sup>Rn was used as a groundwater tracer in a temporally and spatially distributed non-steady-state radon flux model to calculate bay-wide SGD rates following the methods of Burnett & Dulaiova (2003) and Dulaiova et al. (2010)."
+      ]
+    },
+    {
+      "record_id": "dae3380b5fbe9e05e0c8f6cf",
+      "paper_id": "Shuler et al. 2019/Shuler et al. 2019",
+      "source_path": "output/Shuler et al. 2019/Shuler et al. 2019.md",
+      "section_heading": "305 3.2.3 SGD Flux Scaling, Fresh and Recirculated Fractions",
+      "section_start_line": 208,
+      "section_end_line": 217,
+      "model": "openai:gpt-4o-mini",
+      "question": "What ambient 222Rn activity value was used in the SGD flux model for oceanic or atmospheric sources?",
+      "ground_truth_answer": "An ambient 222Rn activity of 0.03 dpm/L was used.",
+      "ground_truth_chunks": [
+        "We assumed that ambient 309 <sup>222</sup>Rn activities from oceanic or atmospheric sources were comparable to those found in the Hawaiian Islands, and used an ambient 310 <sup>222</sup>Rn activity of 0.03 dpm/L (Kelly and Glenn, 2012), a local excess 311 <sup>222</sup>Rn activity of 0.08 dpm/L supported by in situ <sup>226</sup>Ra (Street et al., 2008), and an offshore 312 <sup>222</sup>Rn activity of 0.087 dpm/L, derived from the offshore <sup>226</sup> 313 Ra (Fröllje et al., 2016)."
+      ]
+    },
+    {
+      "record_id": "044b1acadf7a20fe5f3364c6",
+      "paper_id": "Shuler et al. 2019/Shuler et al. 2019",
+      "source_path": "output/Shuler et al. 2019/Shuler et al. 2019.md",
+      "section_heading": "3.3.2 SWAT Model Nutrient Transport Calibration",
+      "section_start_line": 242,
+      "section_end_line": 253,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the top three most sensitive nutrient parameters identified during the SWAT nutrient transport calibration?",
+      "ground_truth_answer": "(1) the filtration capacity of stream edge; (2) the denitrification threshold soil water content; and (3) the in‑stream rate constant for hydrolysis of organic N to NH4+.",
+      "ground_truth_chunks": [
+        "The nutrient transport calibration used the same methods as the hydrologic portion of SWAT, with the top three most sensitive nutrient parameters being: (1) the filtration capacity of stream edge, (2) the denitrification threshold soil water content, and (3) the in-stream rate constant for hydrolysis of organic N to  $NH_4^+$ .",
+        "Model calibration attempts were suspended with the best simulation only able to bracket 60% of the calibration data (nine of the NH<sub>4</sub><sup>+</sup> measurements and fifteen of the NO<sub>3</sub><sup>-</sup> measurements) at the 95% PPU."
+      ]
+    },
+    {
+      "record_id": "9bb5d1b5b678758d4f8ed81f",
+      "paper_id": "Shuler et al. 2019/Shuler et al. 2019",
+      "source_path": "output/Shuler et al. 2019/Shuler et al. 2019.md",
+      "section_heading": "489 4.2 Characterization of Baseflow Components",
+      "section_start_line": 268,
+      "section_end_line": 323,
+      "model": "openai:gpt-4o-mini",
+      "question": "What arithmetic mean fractions of high-level baseflow and recently discharged basal-lens baseflow at site S1 were used for nutrient flux calculations?",
+      "ground_truth_answer": "The arithmetic mean fractions used were 67% high-level baseflow and 33% recently discharged basal-lens baseflow.",
+      "ground_truth_chunks": [
+        "Results from 2014 data indicate stream water at site S1 was composed of 67% high-level baseflow (2,368 m<sup>3</sup>/d) and 33% (1,156 m<sup>3</sup>/d) recently discharged basal-lens baseflow, and <sup>222</sup>Rn-based unmixing results from 2016 data show that stream water at site S1 was composed of 66% high-level baseflow (2,412 m<sup>3</sup>/d) and 34% (1,217 m<sup>3</sup>/d) recently discharged basal-lens baseflow.",
+        "When these four separate and independent assessments of streamflow partitioning are averaged, the arithmetic mean fractions of high-level baseflow and recently discharged basal-lens baseflow at site S1 are 67% and 33%, respectively, which were the fractions we used for calculations of nutrient fluxes through these pathways."
+      ]
+    },
+    {
+      "record_id": "af305e1eaebb3b5a0ba91b4b",
+      "paper_id": "Shuler et al. 2019/Shuler et al. 2019",
+      "source_path": "output/Shuler et al. 2019/Shuler et al. 2019.md",
+      "section_heading": "571 4.3.3 Total SGD and Nutrient Flux Scaling with Coastal Survey Data",
+      "section_start_line": 340,
+      "section_end_line": 375,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the calculated scaling factors for the southern and northern plumes relative to the central plume?",
+      "ground_truth_answer": "0.10 ± 0.08 for the southern plume and 0.32 ± 0.21 for the northern plume.",
+      "ground_truth_chunks": [
+        "Calculated 577 scaling factors were 0.10 ± 0.08 for the southern plume and 0.32 ± 0.21 for the northern 578 plume, or in other words, SGD rates estimated during the survey showed the southern and 579 northern plumes discharged 10% and 32%, respectively, of the central plume's SGD rate (see 580 section 4.3.2)."
+      ]
+    },
+    {
+      "record_id": "3adcdca91a14827e69395d79",
+      "paper_id": "Shuler et al. 2019/Shuler et al. 2019",
+      "source_path": "output/Shuler et al. 2019/Shuler et al. 2019.md",
+      "section_heading": "741 5.3 Nitrogen Source Tracing",
+      "section_start_line": 434,
+      "section_end_line": 441,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does the correlation between δ15N_N+N values and DIN values suggest about the source of sampled DIN?",
+      "ground_truth_answer": "It suggests a large component of sampled DIN originates from a high δ15N_N+N source, such as wastewater or manure, rather than synthetic agricultural fertilizers.",
+      "ground_truth_chunks": [
+        "742 While extensive source dependent nutrient tracing efforts were not performed in this study, moderate correlation between elevated DIN concentrations and δ 743 <sup>15</sup>NN+N isotopes in baseflow and coastal surface water (r<sup>2</sup> 744 of 0.93 and 0.45, respectively) provided insight into the transport history of nutrients from source to sink.",
+        "The correlation between δ 745 <sup>15</sup>NN+N values and DIN values suggests a large component of sampled DIN originates from a high δ 746 <sup>15</sup>NN+N source, 747 such as wastewater or manure, as opposed to synthetic agricultural fertilizers, which typically\n\nhave δ 748 <sup>15</sup>NN+N values near 0 ‰ (Kendall and Aravena, 2000)."
+      ]
+    },
+    {
+      "record_id": "a47a33dead9fd1a3846ed169",
+      "paper_id": "Shuler et al. 2019/Shuler et al. 2019",
+      "source_path": "output/Shuler et al. 2019/Shuler et al. 2019.md",
+      "section_heading": "Figures",
+      "section_start_line": 727,
+      "section_end_line": 751,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which figure displays the daily streamflow hydrograph comparing observed flow (from Messina, 2016) and SWAT modeled flow?",
+      "ground_truth_answer": "Figure 3",
+      "ground_truth_chunks": [
+        "Figure 3: Daily streamflow hydrograph showing observed flow (from Messina, 2016) (black line) and SWAT modeled flow (blue dashed line). The date and flow value of our seepage run is indicated for comparative purposes (red dot)."
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "record_id": "06249ef027223627b162f617",
+      "source_path": "output/Shuler et al. 2019/Shuler et al. 2019.md",
+      "section_heading": "670 5.1 Implications for Natural Resources Management",
+      "section_start_line": 410,
+      "section_end_line": 419,
+      "attempt_count": 3,
+      "error": "ValueError: evidence chunk is not an exact substring of the supplied section"
+    }
+  ]
+}

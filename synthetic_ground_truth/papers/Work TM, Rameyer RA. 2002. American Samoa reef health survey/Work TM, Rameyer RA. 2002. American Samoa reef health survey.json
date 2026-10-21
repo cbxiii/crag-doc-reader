@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Work TM, Rameyer RA. 2002. American Samoa reef health survey/Work TM, Rameyer RA. 2002. American Samoa reef health survey.md",
+  "source_sha256": "059562b155aa9985d6070294cd70e95cd52e32aba6aebab2f616272cf0e82ec0",
+  "status": "complete",
+  "selected_section_count": 7,
+  "successful_record_count": 7,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "1a0c85eb41b9986fe183c8ec",
+      "paper_id": "Work TM, Rameyer RA. 2002. American Samoa reef health survey/Work TM, Rameyer RA. 2002. American Samoa reef health survey",
+      "source_path": "output/Work TM, Rameyer RA. 2002. American Samoa reef health survey/Work TM, Rameyer RA. 2002. American Samoa reef health survey.md",
+      "section_heading": "SUMMARY",
+      "section_start_line": 17,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the most common gross lesions observed in the corals surveyed?",
+      "ground_truth_answer": "Bleaching, growth anomalies, and tissue necrosis.",
+      "ground_truth_chunks": [
+        "Grossly, the most common lesions in corals were bleaching, growth anomalies, and tissue necrosis.",
+        "On histology, depletion of zooxanthellae from coral tissue was most often seen followed by tissue necrosis associated with algae or fungi, hyperplasia of gastrovascular canals, or uncomplicated tissue necrosis."
+      ]
+    },
+    {
+      "record_id": "2d44cfe244308ac77782d4d4",
+      "paper_id": "Work TM, Rameyer RA. 2002. American Samoa reef health survey/Work TM, Rameyer RA. 2002. American Samoa reef health survey",
+      "source_path": "output/Work TM, Rameyer RA. 2002. American Samoa reef health survey/Work TM, Rameyer RA. 2002. American Samoa reef health survey.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 23,
+      "section_end_line": 28,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the objectives of the 2002 coral health survey in American Samoa funded by the US Fish and Wildlife Service?",
+      "ground_truth_answer": "The objectives were to identify and describe gross and microscopic morphology of lesions in corals, and where possible to determine the cause of these lesions.",
+      "ground_truth_chunks": [
+        "In 2002, the US Fish and Wildlife Service funded the National Wildlife Health Center Hawaii Field Station to conduct surveys of coral health in American Samoa.",
+        "The objectives of the survey were to identify and describe gross and microscopic morphology of lesions in corals, and where possible to determine the cause of these lesions."
+      ]
+    },
+    {
+      "record_id": "624486acbbf9600af172f490",
+      "paper_id": "Work TM, Rameyer RA. 2002. American Samoa reef health survey/Work TM, Rameyer RA. 2002. American Samoa reef health survey",
+      "source_path": "output/Work TM, Rameyer RA. 2002. American Samoa reef health survey/Work TM, Rameyer RA. 2002. American Samoa reef health survey.md",
+      "section_heading": "METHODS",
+      "section_start_line": 29,
+      "section_end_line": 38,
+      "model": "openai:gpt-4o-mini",
+      "question": "What fixative was used to preserve coral samples and how long were they fixed?",
+      "ground_truth_answer": "Corals were preserved in Helleys fixative (Barszcz and Yevich, 1975) with added salt and were allowed to fix for 24 hr.",
+      "ground_truth_chunks": [
+        "Corals were preserved in Helleys fixative (Barszcz and Yevich, 1975) with added salt and allowed to fix for 24 hr.",
+        "The fixative was decanted and the coral rinsed with fresh water once every 12 hr for 24 hr."
+      ]
+    },
+    {
+      "record_id": "2b6c2fa96fb8617e379d206d",
+      "paper_id": "Work TM, Rameyer RA. 2002. American Samoa reef health survey/Work TM, Rameyer RA. 2002. American Samoa reef health survey",
+      "source_path": "output/Work TM, Rameyer RA. 2002. American Samoa reef health survey/Work TM, Rameyer RA. 2002. American Samoa reef health survey.md",
+      "section_heading": "RESULTS",
+      "section_start_line": 39,
+      "section_end_line": 56,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the most common microscopic diagnosis observed in the coral samples?",
+      "ground_truth_answer": "Depletion of zooxanthellae was the most common microscopic diagnosis.",
+      "ground_truth_chunks": [
+        "Of the microscopic diagnoses, depletion of zooxanthellae was the most common followed by tissue necrosis associated with algae or fungi, hyperplasia of gastrovascular canals, or uncomplicated tissue necrosis; skeletal hypertrophy and ciliate infections were seen in 1 and 2 corals, respectively (Table 3).",
+        "Grossly, corals with this lesion were bleached. On microscopy, the hallmark of this lesion was absence of zooxanthellae from the gastrodermis (Fig. 8)."
+      ]
+    },
+    {
+      "record_id": "3752dde468b1f1c8f5c4bc34",
+      "paper_id": "Work TM, Rameyer RA. 2002. American Samoa reef health survey/Work TM, Rameyer RA. 2002. American Samoa reef health survey",
+      "source_path": "output/Work TM, Rameyer RA. 2002. American Samoa reef health survey/Work TM, Rameyer RA. 2002. American Samoa reef health survey.md",
+      "section_heading": "Incidental findings",
+      "section_start_line": 61,
+      "section_end_line": 68,
+      "model": "openai:gpt-4o-mini",
+      "question": "In which coral family and which species were gram-negative aggregates of putative bacteria most often seen?",
+      "ground_truth_answer": "They were most often seen in Acroporidae, including A. abrotenoides, A. digitifera, and A. hyacinthus.",
+      "ground_truth_chunks": [
+        "The most notable was the presence of gram-negative aggregates of putative bacteria within gastrodermis or\n\nepithelium of a variety of corals (Fig. 9G-H; 13A-B).",
+        "These suspect bacterial inclusions were most often seen in *Acroporidae* including *A. abrotenoides*, *A. digitifera*, and *A. hyacinthus,*  however, other species including *P. lactuca, Platygyra* sp., *P. eydouxi*, and *P. meandrina* were affected."
+      ]
+    },
+    {
+      "record_id": "db829f269b1e75c28a9b428f",
+      "paper_id": "Work TM, Rameyer RA. 2002. American Samoa reef health survey/Work TM, Rameyer RA. 2002. American Samoa reef health survey",
+      "source_path": "output/Work TM, Rameyer RA. 2002. American Samoa reef health survey/Work TM, Rameyer RA. 2002. American Samoa reef health survey.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 69,
+      "section_end_line": 94,
+      "model": "openai:gpt-4o-mini",
+      "question": "What unexpected finding was associated with bleaching in Samoan corals?",
+      "ground_truth_answer": "Infection with ciliates.",
+      "ground_truth_chunks": [
+        "Ciliate infection associated with bleaching was an unexpected finding.",
+        "In contrast, ciliates in Samoan corals were closely associated with or directly invading intact tissues.",
+        "Although ciliates were noted only in two instances, the role of these organisms in bleaching awaits further studies."
+      ]
+    },
+    {
+      "record_id": "8e2e30101d48adbbc4979fbd",
+      "paper_id": "Work TM, Rameyer RA. 2002. American Samoa reef health survey/Work TM, Rameyer RA. 2002. American Samoa reef health survey",
+      "source_path": "output/Work TM, Rameyer RA. 2002. American Samoa reef health survey/Work TM, Rameyer RA. 2002. American Samoa reef health survey.md",
+      "section_heading": "RECOMMENDATIONS",
+      "section_start_line": 95,
+      "section_end_line": 102,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which specific role involving ciliates do the recommendations state should be further elucidated?",
+      "ground_truth_answer": "The role of ciliates in bleaching of corals needs to be further elucidated.",
+      "ground_truth_chunks": [
+        "- 3) The role of ciliates in bleaching of corals needs to be further elucidated."
+      ]
+    }
+  ],
+  "failures": []
+}

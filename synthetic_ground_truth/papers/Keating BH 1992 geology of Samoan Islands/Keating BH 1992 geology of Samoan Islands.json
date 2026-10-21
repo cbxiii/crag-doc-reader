@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands.md",
+  "source_sha256": "6aacbc8feff2edd21eb3d2dbef03ab8b457daaa7ae7bec9534f94f31199fa18f",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "5b0287c616f46f3e5640681e",
+      "paper_id": "Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands",
+      "source_path": "output/Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands.md",
+      "section_heading": "ABSTRACT",
+      "section_start_line": 38,
+      "section_end_line": 41,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the abstract, what type of lava predominates in the Samoan chain?",
+      "ground_truth_answer": "The Samoan chain consists dominantly of alkali lavas (rather than tholeiitic lavas).",
+      "ground_truth_chunks": [
+        "The chain is unusual, particularly when compared with the Hawaiian chain, because the islands are volcanically active on both the eastern and western ends of the chain, the islands are larger westward, the easternmost edifice is an atoll not an active seamount, and the chain consists dominantly of alkali rather than tholeiitic lavas."
+      ]
+    },
+    {
+      "record_id": "aabb9ec9ed727705c3b6e49d",
+      "paper_id": "Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands",
+      "source_path": "output/Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands.md",
+      "section_heading": "GENERAL DESCRIPTION OF THE ISLANDS",
+      "section_start_line": 120,
+      "section_end_line": 213,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which volcanic formation on Upolu is described as having cones erupted in the last 200 years?",
+      "ground_truth_answer": "Aopo Volcanics.",
+      "ground_truth_chunks": [
+        "The features used to differentiate between the rock units include (Kear and Wood, 1959):",
+        "- Aopo Volcanics cones erupted in last 200 years, fresh porphyritic pahoehoe flows and a'a flows common only around cones which fill older valleys and spill out over coasts to fill lagoons and cover the barrier reef."
+      ]
+    },
+    {
+      "record_id": "267b6b41863840dd5fc1c26f",
+      "paper_id": "Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands",
+      "source_path": "output/Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands.md",
+      "section_heading": "Offshore Manganese Deposits",
+      "section_start_line": 315,
+      "section_end_line": 324,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Exon (1982), why are manganese nodules in the Samoan EEZ rare and of low economic grade?",
+      "ground_truth_answer": "Exon (1982) attributes the rarity to high sedimentation rates from volcanic debris that are detrimental to Mn nodule formation, and attributes the low nickel and copper grades to low plankton production; because the seafloor is well above the calcite compensation depth calcareous plankton are not dissolved and do not release metals to the seafloor where Mn concentrates.",
+      "ground_truth_chunks": [
+        "Manganese nodules were found to be rare, and to be of low ecomonic grades.",
+        "Exon (1982) ascribes the rarity to the high sedimentation rates caused by volcanic input of debris, which is detrimental to Mn nodule formation.",
+        "Exon also concludes that the low grades of nickel and copper observed reflect the low production of plankton generally associated with deposits. Because the seafloor is well above the calcite compensation depth, calcareous plankton are not dissolved\n\nand do not release metals to the seafloor where Mn concentration takes place."
+      ]
+    },
+    {
+      "record_id": "ecd36414ff1abc807bc85fc5",
+      "paper_id": "Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands",
+      "source_path": "output/Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands.md",
+      "section_heading": "Aunuu",
+      "section_start_line": 481,
+      "section_end_line": 498,
+      "model": "openai:gpt-4o-mini",
+      "question": "What feature forms the eastern half of Aunuu islet?",
+      "ground_truth_answer": "A tuff cone forms the eastern half of the islet.",
+      "ground_truth_chunks": [
+        "A tuff cone forms the eastern half of the islet.",
+        "It is breached on the eastern margin, forming Maamaa Cove."
+      ]
+    },
+    {
+      "record_id": "dbcfffad331ca619a1613db3",
+      "paper_id": "Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands",
+      "source_path": "output/Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands.md",
+      "section_heading": "Sea Cliffs and Caves .",
+      "section_start_line": 576,
+      "section_end_line": 585,
+      "model": "openai:gpt-4o-mini",
+      "question": "What height range did sea cliffs on Tutuila reach as a result of the 6 m stand of sea level?",
+      "ground_truth_answer": "They reached 10 to 100 m in height.",
+      "ground_truth_chunks": [
+        "In American Samoa, sea-cut caves and benches are present on Tutuila at 6 m and 3 m above present high tide level. The 6 m stand of sea level produced notable erosion of lavas on all sides of Tutuila, producing cliffs of 10 to 100 m in height."
+      ]
+    },
+    {
+      "record_id": "1e20738a24627616934bcd8b",
+      "paper_id": "Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands",
+      "source_path": "output/Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands.md",
+      "section_heading": "Intra-Caldera Volcanic Units",
+      "section_start_line": 638,
+      "section_end_line": 653,
+      "model": "openai:gpt-4o-mini",
+      "question": "What steep dip angle do the intra-caldera beds reach where they interfinger and merge with talus breccia?",
+      "ground_truth_answer": "They reach 32°.",
+      "ground_truth_chunks": [
+        "The beds are nearly horizontal near the source. Where they have steep dips (reaching 32°) they interfinger and merge with talus breccia, suggesting they accumulated concurrently with the talus at the foot of the caldera wall."
+      ]
+    },
+    {
+      "record_id": "e9d8eee5cf5ed491b771f3ae",
+      "paper_id": "Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands",
+      "source_path": "output/Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands.md",
+      "section_heading": "Relative Ages",
+      "section_start_line": 712,
+      "section_end_line": 717,
+      "model": "openai:gpt-4o-mini",
+      "question": "What radiometric date did Natland and Turner (1985) obtain near the base of the volcanic pile on Tutuila island?",
+      "ground_truth_answer": "1.5 Ma.",
+      "ground_truth_chunks": [
+        "Recent radiometric dating by Natland and Turner (1985) has yielded a date near the base of the volcanic pile on Tutuila island of 1.5 Ma."
+      ]
+    },
+    {
+      "record_id": "b5f2bd39bc5b3f5ea7ce6d6a",
+      "paper_id": "Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands",
+      "source_path": "output/Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands.md",
+      "section_heading": "Hydrology",
+      "section_start_line": 832,
+      "section_end_line": 853,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Hydrology section, what does the Ghyben-Herzberg theory estimate about the ratio of fresh groundwater below sea level to fresh water above sea level?",
+      "ground_truth_answer": "It estimates that for every foot of fresh water above sea level there will be 40 feet (12 m) of fresh water below sea level before encountering salt water.",
+      "ground_truth_chunks": [
+        "The theory developed by Ghyben and Herzberg (Ghyben, 1888 and Herzberg, 1901) and elaborated upon by Hubbert (1940), estimates that for every foot of fresh water above sea level, there will be 40 feet (12 m) of fresh water below it before the salt water is encountered."
+      ]
+    },
+    {
+      "record_id": "2c35effbc4ab020327a89b9f",
+      "paper_id": "Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands",
+      "source_path": "output/Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands.md",
+      "section_heading": "Reef Growth Stage",
+      "section_start_line": 954,
+      "section_end_line": 957,
+      "model": "openai:gpt-4o-mini",
+      "question": "What provided a stable base for the reefs to grow?",
+      "ground_truth_answer": "The planation of the flanks of the volcanoes by wave action provided a stable base for the reefs to grow.",
+      "ground_truth_chunks": [
+        "The planation of the flanks of the volcanoes by wave action has provided a stable base for the reefs to grow."
+      ]
+    },
+    {
+      "record_id": "b1531f9e2810e3cef225c0c5",
+      "paper_id": "Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands",
+      "source_path": "output/Keating BH 1992 geology of Samoan Islands/Keating BH 1992 geology of Samoan Islands.md",
+      "section_heading": "Tectonic setting",
+      "section_start_line": 1034,
+      "section_end_line": 1043,
+      "model": "openai:gpt-4o-mini",
+      "question": "Do the authors consider the current paleomagnetic, radiometric, and geochemical data sufficient to conclusively support a hot spot origin for the Samoan islands?",
+      "ground_truth_answer": "No. The authors state that these data remain very limited; although broadly consistent with a hot spot origin, they also permit alternative models (e.g., progressive volcanism toward Savaii), so variations of the hot spot model must be examined.",
+      "ground_truth_chunks": [
+        "At the present time, the paleomagnetic, radiometric, and geochemical data remain very limited.",
+        "the available data can also be used to support a model for progressive volcanism toward Savaii, which is quite inconsistent with a hot spot model.",
+        "Thus, although the data are \"broadly consistent with a hot spot mode of origin for the volcanoes,\" as stated by McDougall (personal communications, 1984), it is important that variations of the hot spot mode of origin be examined in order to explain the anomalous patterns of volcanism observed in the Samoan Islands."
+      ]
+    }
+  ],
+  "failures": []
+}

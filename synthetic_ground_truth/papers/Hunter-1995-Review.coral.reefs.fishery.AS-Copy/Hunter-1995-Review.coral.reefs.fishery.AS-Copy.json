@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy.md",
+  "source_sha256": "3aadb18e1633152dba6fa653bfc507ad96a29246e2d466b79fdc36960161ade6",
+  "status": "complete",
+  "selected_section_count": 8,
+  "successful_record_count": 8,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "1536f49704598502bd1edeff",
+      "paper_id": "Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy",
+      "source_path": "output/Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy.md",
+      "section_heading": "EXECUTIVE SUMMARY",
+      "section_start_line": 11,
+      "section_end_line": 29,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the estimated overall area of coral reef habitat in the WPRFMC region, and how much of that is under WPRFMC fisheries management jurisdiction?",
+      "ground_truth_answer": "The overall coral reef habitat area is estimated at 15,852 km², of which 10,762 km² is under WPRFMC fisheries management jurisdiction.",
+      "ground_truth_chunks": [
+        "The overall area of coral reef habitat in the Western Pacific Regional Fisheries Management Council (WPRFMC) region is estimated at 15,852 km² the majority of which (10,762 km²) is under WPRFMC fisheries management jurisdiction (generally 3-200 nm from shore)."
+      ]
+    },
+    {
+      "record_id": "8f06551a38519d28354b93d5",
+      "paper_id": "Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy",
+      "source_path": "output/Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy.md",
+      "section_heading": "Objectives",
+      "section_start_line": 30,
+      "section_end_line": 39,
+      "model": "openai:gpt-4o-mini",
+      "question": "For which specific islands, atolls, and reefs did the review aim to define locations and areas of reefs within 0-3 nm and 3-200 nm from shore?",
+      "ground_truth_answer": "Hawaii (Main Hawaiian Islands and Northwest Hawaiian Islands), American Samoa, Guam, the Northern Marianas, Johnston, Howland, Baker, Jarvis, Palmyra, Kingman Reef, and Wake.",
+      "ground_truth_chunks": [
+        "- Define locations and areas of reefs [total km² per island/atoll/ or shoal] within 0-3 nm and 3-200 nm from shore for Hawaii [Main Hawaiian Islands (MHI) and Northwest Hawaiian Islands (NWHI)], American Samoa, Guam, the Northern Marianas, Johnston, Howland, Baker, Jarvis, Palmyra, Kingman Reef and Wake;"
+      ]
+    },
+    {
+      "record_id": "fc1b203710ae635972e2764f",
+      "paper_id": "Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy",
+      "source_path": "output/Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy.md",
+      "section_heading": "Reef Areas in the WPRFMC Region",
+      "section_start_line": 40,
+      "section_end_line": 81,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the combined estimated area of reef areas in the WPRFMC region?",
+      "ground_truth_answer": "The combined estimated area is 15,852 km².",
+      "ground_truth_chunks": [
+        "The WPRFMC region comprises a total of 106 recognized reef areas with a combined estimated area of 15,852 km²."
+      ]
+    },
+    {
+      "record_id": "1ccb4365db197c76b35b0632",
+      "paper_id": "Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy",
+      "source_path": "output/Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy.md",
+      "section_heading": "Human Use of Reef Resources",
+      "section_start_line": 82,
+      "section_end_line": 105,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the estimated present demand for live rock in the U.S. and European aquarium trade per year?",
+      "ground_truth_answer": "The present demand for live rock in the U.S. and European aquarium trade is estimated to be 1000 tons/year.",
+      "ground_truth_chunks": [
+        "The present demand for live rock in the U.S. and European aquarium trade is estimated to be 1000 tons/year (Delreek and Sprunge, 1994).",
+        "Domestic harvest of live rock in the U.S. provides less than half of this amount.",
+        "Reported landings of live rock in Florida totaled approximately 390 tons in 1992 (Wells, et al., 1994)."
+      ]
+    },
+    {
+      "record_id": "431c49b48f834bea5685c952",
+      "paper_id": "Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy",
+      "source_path": "output/Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy.md",
+      "section_heading": "Condition and Quality of Coral Reefs in the WPRFMC Region",
+      "section_start_line": 106,
+      "section_end_line": 115,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which reefs in the WPRFMC region have probably suffered the most damage and degradation?",
+      "ground_truth_answer": "The reefs in American Samoa have probably suffered the most damage and degradation.",
+      "ground_truth_chunks": [
+        "Of all reefs in the WPRFMC region, those in American Samoa have probably suffered the most damage and degradation.",
+        "Living coral cover on reefs surrounding Tutuila is currently very low (3-13%, down from 60%) because of a series of typhoons and crown-of-thorns sea star infestations, coupled in some areas with siltation stress, pollution and over-fishing (American Samoa Department of Wildlife and Marine Resources Advisory, December, 1994).",
+        "For reef fishes, catch-per-unit-effort in American Samoa has declined 50% over the past 15 years (Craig, et al., 1993) and industrial pollution has created unsafe levels of heavy metals and hydrocarbons in fish caught in Pago Pago harbor (American Samoa Dept. of Health, 1991)."
+      ]
+    },
+    {
+      "record_id": "3ff016d1816b638277e267c0",
+      "paper_id": "Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy",
+      "source_path": "output/Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy.md",
+      "section_heading": "Management Needs for Corals and Reefs in the AFPI-EEZ",
+      "section_start_line": 116,
+      "section_end_line": 141,
+      "model": "openai:gpt-4o-mini",
+      "question": "What management options are suggested for a potential WPRFMC Coral Reef Fisheries Management Plan?",
+      "ground_truth_answer": "The plan may include limited entry, catch limits, protected areas or reserves, and seasonal restrictions.",
+      "ground_truth_chunks": [
+        "Management options for a potential WPRFMC Coral Reef Fisheries\n\nManagement Plan may include elements similar to those of other fisheries:\n\nlimited entry, catch limits, protected areas or reserves, or seasonal\n\nrestrictions."
+      ]
+    },
+    {
+      "record_id": "c80a1015323097669500f224",
+      "paper_id": "Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy",
+      "source_path": "output/Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy.md",
+      "section_heading": "Protected Waters from:",
+      "section_start_line": 223,
+      "section_end_line": 258,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which entity is listed under the 3-200 nm column for American Samoa?",
+      "ground_truth_answer": "WPRFMC",
+      "ground_truth_chunks": [
+        "| American Samoa                         |            |           | American Samoa       | WPRFMC   |"
+      ]
+    },
+    {
+      "record_id": "84c0a0288d6d277dc1260957",
+      "paper_id": "Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy",
+      "source_path": "output/Hunter-1995-Review.coral.reefs.fishery.AS-Copy/Hunter-1995-Review.coral.reefs.fishery.AS-Copy.md",
+      "section_heading": "Acronyms:",
+      "section_start_line": 259,
+      "section_end_line": 474,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does the acronym WPRFMC stand for?",
+      "ground_truth_answer": "Western Pacific Regional Fishery Management Council",
+      "ground_truth_chunks": [
+        "WPRFMC=Western Pacific Regional Fishery Management Council"
+      ]
+    }
+  ],
+  "failures": []
+}

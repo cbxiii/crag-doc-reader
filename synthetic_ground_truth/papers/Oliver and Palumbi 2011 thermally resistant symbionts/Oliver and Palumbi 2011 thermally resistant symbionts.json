@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts.md",
+  "source_sha256": "d3e1081c57042245601ab19b135365aa00bc9d75ef3a3d50e61a75f301e9e45c",
+  "status": "partial",
+  "selected_section_count": 10,
+  "successful_record_count": 9,
+  "failure_count": 1,
+  "records": [
+    {
+      "record_id": "0d4b4579973952c33437d105",
+      "paper_id": "Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts",
+      "source_path": "output/Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts.md",
+      "section_heading": "Many corals host thermally resistant symbionts in high-temperature habitat",
+      "section_start_line": 3,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many of the nine coral species hosted a putatively thermally resistant member of clade D Symbiodinium at least once?",
+      "ground_truth_answer": "Eight of the nine species hosted a putatively thermally resistant member of clade D Symbiodinium at least once.",
+      "ground_truth_chunks": [
+        "Eight of nine species hosted a putatively thermally resistant member of clade D Symbiodinium at least once, one of which hosted this clade D symbiont exclusively."
+      ]
+    },
+    {
+      "record_id": "2bf45f92ec718773a7a594e4",
+      "paper_id": "Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts",
+      "source_path": "output/Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts.md",
+      "section_heading": "Introduction",
+      "section_start_line": 23,
+      "section_end_line": 42,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the minimum per-species sample size in the genetic survey presented in the Introduction?",
+      "ground_truth_answer": "A minimum per-species sample size of 10.",
+      "ground_truth_chunks": [
+        "Here, we present a genetic survey taken from nine species of coral in five genera sampled from thermally distinct habitats, with a minimum per-species sample size of 10."
+      ]
+    },
+    {
+      "record_id": "78d3d2b7c7394fdae40ea5c8",
+      "paper_id": "Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts",
+      "source_path": "output/Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts.md",
+      "section_heading": "Cp23s sequencing",
+      "section_start_line": 69,
+      "section_end_line": 74,
+      "model": "openai:gpt-4o-mini",
+      "question": "What cp23s forward and reverse primer sequences were used for PCR amplification?",
+      "ground_truth_answer": "The primers were cp23s1: GCTGTAACT ATAACGGTCC (forward) and cp23s2: CCATCGTATTGAACCCAGC (reverse).",
+      "ground_truth_chunks": [
+        "Genomic DNA was extracted from all samples using Nucleospin columns (Clontech) and then PCR-amplified using cp23s forward and reverse primers: cp23s1: GCTGTAACT ATAACGGTCC; cp23s2: CCATCGTATTGAACCCAGC."
+      ]
+    },
+    {
+      "record_id": "d9df55d7c4fed3c6e93821b5",
+      "paper_id": "Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts",
+      "source_path": "output/Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts.md",
+      "section_heading": "Pool temperatures",
+      "section_start_line": 81,
+      "section_end_line": 84,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many times did the smaller pool reach temperatures above 33C during the 8-year record, and how many times did the larger pool do so?",
+      "ground_truth_answer": "The smaller pool reached temperatures above 33C 66 times, compared to the larger pool's 3 times.",
+      "ground_truth_chunks": [
+        "This difference in the thermal extremes of the two pools is most striking during summer low-tide series, in which the smaller pool experiences 2- to 4-h periods during the day in which temperatures commonly reached above 33C (66 times on record, compared to the larger pool's 3 times), and reached an 8-year maximum of 35.4C (compared to the larger pool's 33.03C).",
+        "While the mean temperatures of the two pools were similar over the 8-year record (small: 28.9C; large: 28.8C), the smaller pool showed high variability in daily temperatures with high maxima and low minima, while the larger pool showed more moderate temperature swings (Fig. [1\\)](#page-2-0)."
+      ]
+    },
+    {
+      "record_id": "618a7d7b18da6d20911d312c",
+      "paper_id": "Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts",
+      "source_path": "output/Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts.md",
+      "section_heading": "Clade identities",
+      "section_start_line": 85,
+      "section_end_line": 90,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which clades of Symbiodinium were found in the two Samoa pools?",
+      "ground_truth_answer": "Symbiodinium clades A, C, and D were found in the two Samoa pools.",
+      "ground_truth_chunks": [
+        "Across 217 samples from nine species, we found Symbiodinium from clades A, C, and D in the two Samoa pools.",
+        "There was a single cp23s haplotype in clade A and one in clade D, but we found four separate clade C haplotypes (Fig. [2\\)](#page-4-0)."
+      ]
+    },
+    {
+      "record_id": "37658195ffde5a56c05112a0",
+      "paper_id": "Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts",
+      "source_path": "output/Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts.md",
+      "section_heading": "Distinct clade proportions across pools",
+      "section_start_line": 91,
+      "section_end_line": 116,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two species sampled hosted only a single clade of Symbiodinium, and which clades did they host?",
+      "ground_truth_answer": "Acropora formosa hosted the D symbiont exclusively; Millepora divaricata hosted the A symbiont exclusively.",
+      "ground_truth_chunks": [
+        "Of the nine species sampled, Acropora formosa hosted the D symbiont exclusively, Millepora divaricata hosted the A symbiont exclusively, and the remaining seven hosted",
+        "Millepora divaricata had the clade A symbiont in all samples from both pools (Fig. [3](#page-6-0))."
+      ]
+    },
+    {
+      "record_id": "462801159c9b38da07373f61",
+      "paper_id": "Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts",
+      "source_path": "output/Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts.md",
+      "section_heading": "Hotter habitat, more clade D",
+      "section_start_line": 165,
+      "section_end_line": 172,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the authors' data, how many of the seven species showed significantly higher proportions of clade D across the sampled habitats?",
+      "ground_truth_answer": "Five of seven species.",
+      "ground_truth_chunks": [
+        "Our data show significantly higher proportions of putatively heat-tolerant members of clade D in five of seven species across the sampled habitats.",
+        "Our data show a consistent, multispecies trend to higher proportions of clade D in the hotter thermal regime on a local scale while controlling for host species and potential regional differences."
+      ]
+    },
+    {
+      "record_id": "574ece1c732f3b76f3589826",
+      "paper_id": "Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts",
+      "source_path": "output/Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts.md",
+      "section_heading": "A subtle discrimination among C-types",
+      "section_start_line": 173,
+      "section_end_line": 180,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Symbiodinium subclades were found exclusively in Acropora and Pocillopora in this section?",
+      "ground_truth_answer": "Acropora hosted subclade C2 exclusively, while Pocillopora hosted sub-clade C1 exclusively.",
+      "ground_truth_chunks": [
+        "The clade C symbionts hosted by Acropora exclusively belonged to subclade C2, whereas the clade C symbionts from Pocillopora exclusively belonged to sub-clade C1."
+      ]
+    },
+    {
+      "record_id": "c6b6a7d1573af1ee756d4a57",
+      "paper_id": "Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts",
+      "source_path": "output/Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts.md",
+      "section_heading": "Prospects for the future of coral–symbiont acclimation",
+      "section_start_line": 181,
+      "section_end_line": 190,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Symbiodinium clade is described as putatively heat-tolerant and prevalent in coral communities around American Samoa?",
+      "ground_truth_answer": "Clade D Symbiodinium (D Symbiodinium).",
+      "ground_truth_chunks": [
+        "Putatively heat-tolerant clade\n\n![](_page_7_Picture_14.jpeg)\n\n<span id=\"page-8-0\"></span>D Symbiodinium are prevalent in coral communities living in warm-water habits around American Samoa (Oliver and Palumbi 2009), and it is possible that fewer species will host clade D in other areas where these symbionts are less common."
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "record_id": "0b33ca23d07062365f14e03b",
+      "source_path": "output/Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts.md",
+      "section_heading": "Methods",
+      "section_start_line": 43,
+      "section_end_line": 48,
+      "attempt_count": 3,
+      "error": "ValueError: evidence chunk is not an exact substring of the supplied section"
+    }
+  ]
+}

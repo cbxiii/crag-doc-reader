@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger.md",
+  "source_sha256": "9e4f517561922831f59225f569e2162464451e35c2b9a17e6f3476efec9f9e4f",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "32b04e82464f8dac3db3852f",
+      "paper_id": "Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger",
+      "source_path": "output/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger.md",
+      "section_heading": "Tidal heat pulses on a reef trigger a fine-tuned transcriptional response in corals to maintain homeostasis",
+      "section_start_line": 3,
+      "section_end_line": 10,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which cellular response was enriched among genes activated only on days with strong tides, high temperature, and large diel pH and oxygen changes?",
+      "ground_truth_answer": "The unfolded protein response (an ancient cellular response to endoplasmic reticulum stress).",
+      "ground_truth_chunks": [
+        "The transcriptomic time series data allowed us to identify a set of genes with coordinated expression that were activated only on days with strong tides, high temperature, and large diel pH and oxygen changes.",
+        "The responsive genes are enriched for gene products essential to the unfolded protein response, an ancient cellular response to endoplasmic reticulum stress."
+      ]
+    },
+    {
+      "record_id": "b61cc8a63ea861a3848badda",
+      "paper_id": "Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger",
+      "source_path": "output/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger.md",
+      "section_heading": "Tidally driven environmental change",
+      "section_start_line": 23,
+      "section_end_line": 34,
+      "model": "openai:gpt-4o-mini",
+      "question": "On which days during the 17-day monitoring period did midday low tides occur?",
+      "ground_truth_answer": "Midday low tides occurred on days 7, 8, and 9.",
+      "ground_truth_chunks": [
+        "On days 1 and 2 and then again on days 13 and 14, the highest tides occurred around midday, whereas on days 7, 8, and 9, low tides occurred around midday (1208, 1258, and 1348, respectively).",
+        "Midday low tides on days 7 and 8 resulted in high temperature, pH, and dissolved oxygen (DO) saturation levels: Temperature reached about 31.5°C (Fig. 1C), pH reached about 8.15, and DO saturation exceeded 200% (fig. S2)."
+      ]
+    },
+    {
+      "record_id": "1978f1b583430bf9c40ccb2d",
+      "paper_id": "Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger",
+      "source_path": "output/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger.md",
+      "section_heading": "Environmentally driven transcriptional regulation of coexpressed genes",
+      "section_start_line": 45,
+      "section_end_line": 74,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which gene modules were identified as significantly associated with changes in the environment?",
+      "ground_truth_answer": "RJ9, RJ6, and RJ11.",
+      "ground_truth_chunks": [
+        "We identified three gene modules (RJ9, RJ6, and RJ11) that are significantly associated with changes in the environment (ANOVA,",
+        "The expression of module RJ9 had a positive relationship to temperature, pH, and DO saturation and a negative relationship to depth (ANOVA, FDRcorrected, all P < 0.0001).",
+        "The expression of module RJ6 also had a relationship to temperature and the magnitude of day-night variability in light, temperature, pH, and DO saturation (ANOVA, FDR-corrected, all P < 0.01) (table S2)."
+      ]
+    },
+    {
+      "record_id": "2bcec6421396505da9a92153",
+      "paper_id": "Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger",
+      "source_path": "output/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger.md",
+      "section_heading": "Expression profile of the UPR and calcium homeostasis module",
+      "section_start_line": 81,
+      "section_end_line": 94,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many contigs are in the UPR and calcium homeostasis module?",
+      "ground_truth_answer": "There are 177 contigs in the UPR and calcium homeostasis module.",
+      "ground_truth_chunks": [
+        "The UPR and calcium homeostasis module is comprised of 168 contigs that are positively correlated to each other, and the remaining 5% have negative correlations (that is, they decrease when the other 95%",
+        "There are 177 contigs in this module, as demonstrated by the colony heat maps (Fig. 3)."
+      ]
+    },
+    {
+      "record_id": "0c7969973a41063a39e8ea94",
+      "paper_id": "Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger",
+      "source_path": "output/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger.md",
+      "section_heading": "Temperature spikes trigger transcriptomic response",
+      "section_start_line": 105,
+      "section_end_line": 114,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many days per year do temperatures reach or exceed 30.5°C in the sampled area?",
+      "ground_truth_answer": "Temperatures reach or exceed 30.5°C on approximately 85 days in a typical year (about 2.5% of the time).",
+      "ground_truth_chunks": [
+        "In the area we sampled, temperatures reach or exceed 30.5°C on approximately 85 days in a typical year, for a total of about 2.5% of the time.",
+        "Although the corals activated the UPR on days above 30.5°C, the response was short lived: The expression returned to baseline levels a day later when temperatures fell below 30°C (Fig. 1, C and D)."
+      ]
+    },
+    {
+      "record_id": "10d7c739298fd1f0c34b7c2c",
+      "paper_id": "Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger",
+      "source_path": "output/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger.md",
+      "section_heading": "The role of the UPR",
+      "section_start_line": 119,
+      "section_end_line": 128,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which genes involved in calcium ion binding and calcium homeostasis were identified in A. hyacinthus's UPR and calcium homeostasis module?",
+      "ground_truth_answer": "Calcium-binding protein CML19, calreticulin, calsequestrin-2, calumenin, reticulocalbin-3, SERCA2, synaptotagmin-4, and synaptotagmin-7.",
+      "ground_truth_chunks": [
+        "In A. hyacinthus, we identified at least seven different genes in the UPR and calcium homeostasis module that are involved in calcium ion binding and calcium homeostasis: calcium-binding protein CML19, calreticulin, calsequestrin-2, calumenin, reticulocalbin-3, SERCA2, synaptotagmin-4, and synaptotagmin-7.",
+        "SERCA2 is involved in controlling the influx and efflux of calcium ions in the ER and is activated by a UPR-associated transcription factor (42)."
+      ]
+    },
+    {
+      "record_id": "3d1ec0bb9ad7e42444afa12d",
+      "paper_id": "Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger",
+      "source_path": "output/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger.md",
+      "section_heading": "CONCLUSIONS",
+      "section_start_line": 145,
+      "section_end_line": 148,
+      "model": "openai:gpt-4o-mini",
+      "question": "What cellular stress response was activated in Acropora hyacinthus in response to temporary heat pulses during strong midday low tides?",
+      "ground_truth_answer": "Temporary heat pulses triggered transcriptional changes and the activation of the unfolded protein response (UPR) in A. hyacinthus.",
+      "ground_truth_chunks": [
+        "Temporary heat pulses during strong midday low tides on the reef triggered transcriptional changes and the activation of the UPR in A. hyacinthus.",
+        "Our field experiment highlights the role of the UPR during these short-term stress events and suggests that it is the first line of defense corals initiate when coping with environmental stress."
+      ]
+    },
+    {
+      "record_id": "2edd8888f035850f79b14742",
+      "paper_id": "Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger",
+      "source_path": "output/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger.md",
+      "section_heading": "Environmental data",
+      "section_start_line": 155,
+      "section_end_line": 158,
+      "model": "openai:gpt-4o-mini",
+      "question": "How frequently did the continuous-recording SeaFET pH sensor record pH?",
+      "ground_truth_answer": "It recorded pH every 20 min.",
+      "ground_truth_chunks": [
+        "A continuous-recording pH sensor (SeaFET), which recorded pH every 20 min, was located within 30 m of the colonies."
+      ]
+    },
+    {
+      "record_id": "9c2c67ab30a1420d81b915fc",
+      "paper_id": "Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger",
+      "source_path": "output/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger.md",
+      "section_heading": "Gene module identification",
+      "section_start_line": 173,
+      "section_end_line": 176,
+      "model": "openai:gpt-4o-mini",
+      "question": "What correlation type and weighting power were used in the WGCNA analysis to identify modules?",
+      "ground_truth_answer": "Unsigned Pearson correlations with a weighting power of 14 were used.",
+      "ground_truth_chunks": [
+        "We used unsigned Pearson correlations with a weighting power of 14 and four blocks ranging in size from 3088 to 4996 contigs to identify modules."
+      ]
+    },
+    {
+      "record_id": "6eafd90c1c3d1800eb721936",
+      "paper_id": "Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger",
+      "source_path": "output/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger.md",
+      "section_heading": "SUPPLEMENTARY MATERIALS",
+      "section_start_line": 189,
+      "section_end_line": 216,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which supplementary figure shows the expression profiles in A. hyacinthus of the three environmentally responsive modules during the time series?",
+      "ground_truth_answer": "fig. S4.",
+      "ground_truth_chunks": [
+        "fig. S4. Expression profiles in A. hyacinthus of the three environmentally responsive modules during the time series."
+      ]
+    }
+  ],
+  "failures": []
+}

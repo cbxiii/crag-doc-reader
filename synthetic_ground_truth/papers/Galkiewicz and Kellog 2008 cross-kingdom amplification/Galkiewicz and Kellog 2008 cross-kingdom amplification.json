@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Galkiewicz and Kellog 2008 cross-kingdom amplification/Galkiewicz and Kellog 2008 cross-kingdom amplification.md",
+  "source_sha256": "6fe1afc155e5dd771f6aaa5630fec4498fe8e0abbd6531113c2a80ab34cb1423",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "1048d0e3350bd5e76a0b937b",
+      "paper_id": "Galkiewicz and Kellog 2008 cross-kingdom amplification/Galkiewicz and Kellog 2008 cross-kingdom amplification",
+      "source_path": "output/Galkiewicz and Kellog 2008 cross-kingdom amplification/Galkiewicz and Kellog 2008 cross-kingdom amplification.md",
+      "section_heading": "Cross-Kingdom Amplification Using Bacteria-Specific Primers: Complications for Studies of Coral Microbial Ecology",
+      "section_start_line": 1,
+      "section_end_line": 117,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many of the 101 clones sequenced were most similar to cnidarian 18S rRNA genes?",
+      "ground_truth_answer": "100 of the 101 sequenced clones were most similar to cnidarian 18S rRNA genes.",
+      "ground_truth_chunks": [
+        "DNA from 101 clones amplified by the putative \"*Bacteria*specific\" primer sets were sequenced, and 100 were most similar to cnidarian 18S rRNA genes and not to bacterial 16S rRNA genes.",
+        "The most similar sequence for 100 clones (E value of 0; 97% similarity; percent query identity ranging from 95 to 100%) was an 18S rRNA gene of *Javania insignis* (Duncan 1876) (GenBank accession number AJ133555) (36), an Indo-Pacific stony coral, and the top five matches for all 100 clones were scleractinian corals (Table 2)."
+      ]
+    }
+  ],
+  "failures": []
+}

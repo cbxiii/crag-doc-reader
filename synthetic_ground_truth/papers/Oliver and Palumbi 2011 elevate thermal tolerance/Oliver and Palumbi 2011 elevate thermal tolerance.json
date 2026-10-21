@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance.md",
+  "source_sha256": "9744b9234cec8951d44dfefde50959f2847c198c31532da0a8c7ccfdc10658ed",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "84a8fd716b636ed3cce0e403",
+      "paper_id": "Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance",
+      "source_path": "output/Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance.md",
+      "section_heading": "Do fluctuating temperature environments elevate coral thermal tolerance?",
+      "section_start_line": 3,
+      "section_end_line": 50,
+      "model": "openai:gpt-4o-mini",
+      "question": "In the heated treatment, what were the mortalities for moderate pool corals hosting heat-sensitive and heat-resistant symbionts, and what was the mortality for variable pool corals hosting heat-resistant symbionts?",
+      "ground_truth_answer": "Moderate pool corals showed nearly 50% mortality whether they hosted heat-sensitive (49.2  $\u0000\u0000\\pm$  6.5% SE; C2) or heat-resistant (47.0  $\u0000\u0000\\pm$  11.2% SE; D) symbionts; variable pool corals hosting heat-resistant symbionts survived well, showing low mortalities (16.6 \\pm 8.8% SE) statistically indistinguishable from controls held at ambient temperatures (5.1–8.3  $\u0000\\pm$  3.3–8.3% SE).",
+      "ground_truth_chunks": [
+        "In the heated treatment, moderate pool corals showed nearly 50% mortality whether they hosted heat-sensitive (49.2  $\\pm$  6.5% SE; C2) or heat-resistant (47.0  $\\pm$  11.2% SE; D) symbionts.",
+        "resistant symbionts, survived well, showing low mortalities\n\n $(16.6 \\pm 8.8\\% \\text{ SE})$  statistically indistinguishable from con-\n\ntrols held at ambient temperatures (5.1–8.3  $\\pm$  3.3–8.3% SE)."
+      ]
+    },
+    {
+      "record_id": "392e837e50f1c11c5c2f26ec",
+      "paper_id": "Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance",
+      "source_path": "output/Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance.md",
+      "section_heading": "Introduction",
+      "section_start_line": 51,
+      "section_end_line": 76,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Introduction, how did corals from the thermally variable pool compare to corals from the thermally moderate pool in terms of mortality and photochemical efficiency?",
+      "ground_truth_answer": "Corals from the thermally variable pool showed lower mortality and less severe declines in photochemical efficiency than corals from the thermally moderate pool; all corals from the variable pool hosted heat-resistant symbionts.",
+      "ground_truth_chunks": [
+        "The most variable of these pools reaches 34–35C during summer low tides and shows a daily temperature range of as much as 6C.",
+        "We show that corals from the thermally variable pool, all of which hosted heat-resistant symbionts, show lower mortality and less severe declines in photochemical efficiency than corals from the thermally moderate pool, regardless of symbiont type."
+      ]
+    },
+    {
+      "record_id": "badc5f7b4e60efd49e6b8411",
+      "paper_id": "Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance",
+      "source_path": "output/Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance.md",
+      "section_heading": "Repeated experiment",
+      "section_start_line": 85,
+      "section_end_line": 100,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many times and when was the heating experiment repeated?",
+      "ground_truth_answer": "The heating experiment was repeated three times: once in March 2006 and twice in March 2007.",
+      "ground_truth_chunks": [
+        "The heating experiment was repeated three times, once in March 2006 and twice in March 2007.",
+        "March marks the end of the summer season, in which corals have been exposed to intermittent high temperatures for up to 2 months, and temperatures still remain high."
+      ]
+    },
+    {
+      "record_id": "c11017ca77b3cbb80d37e647",
+      "paper_id": "Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance",
+      "source_path": "output/Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance.md",
+      "section_heading": "Heating stress",
+      "section_start_line": 101,
+      "section_end_line": 104,
+      "model": "openai:gpt-4o-mini",
+      "question": "By how much was the elevated tank's mean temperature raised above ambient?",
+      "ground_truth_answer": "The elevated tank's mean was raised 3.5C above ambient for a period of four to 5 days.",
+      "ground_truth_chunks": [
+        "The ambient tank's water temperatures remained comparable to the lagoon temperatures (Median: 28.0C, Max: 33.3C—Figs. 2a, b, [3,](#page-4-0) [4\\)](#page-4-0).",
+        "The elevated temperature tank's mean was raised 3.5C above ambient for a period of four to 5 days (Median: 31.5C, Max: 35.0C—Fig. [4a](#page-4-0), b)."
+      ]
+    },
+    {
+      "record_id": "6930922515551c641d730035",
+      "paper_id": "Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance",
+      "source_path": "output/Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance.md",
+      "section_heading": "Experimental data collection",
+      "section_start_line": 137,
+      "section_end_line": 144,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what times each day did the researchers monitor coral mortality during the experiment?",
+      "ground_truth_answer": "Twice daily, at 1000 and 1500 h.",
+      "ground_truth_chunks": [
+        "Twice daily, at 1000 and 1500 h, we monitored for coral mortality, by observing coral tissue sloughing off the",
+        "Corals were noted as dead when all tissue had sloughed off, leaving only skeleton."
+      ]
+    },
+    {
+      "record_id": "cf5d8dfc85e57bc6a3b5c865",
+      "paper_id": "Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance",
+      "source_path": "output/Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance.md",
+      "section_heading": "Photosystem II photochemical efficiency: PAM fluorometry",
+      "section_start_line": 145,
+      "section_end_line": 150,
+      "model": "openai:gpt-4o-mini",
+      "question": "What instrument settings were used for the PAM fluorometry measurements?",
+      "ground_truth_answer": "Measuring Light Intensity = 11; Saturation Intensity = 8; Saturation Pulse Width = 0.8 s; Gain = 1–2; Damping = 2. The instrument was calibrated to produce Fo measurements of 300–500 units and gain was minimized to avoid amplifying noise.",
+      "ground_truth_chunks": [
+        "We calibrated the instrument to produce Fo measurements of 300–500 units across multiple healthy coral fragments, minimizing gain to avoid amplifying noise (Piniak and Brown [2009](#page-10-0), Fitt et al. [2001](#page-10-0)).",
+        "Instrument settings were as follows: Measuring Light Intensity = 11; Saturation Intensity = 8; Saturation Pulse Width = 0.8 s; Gain = 1–2; Damping = 2."
+      ]
+    },
+    {
+      "record_id": "f9c750d1ce779d5e799fb426",
+      "paper_id": "Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance",
+      "source_path": "output/Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance.md",
+      "section_heading": "Statistical analysis",
+      "section_start_line": 161,
+      "section_end_line": 168,
+      "model": "openai:gpt-4o-mini",
+      "question": "What statistical method was used to analyze the mortality data, and how were survivors handled?",
+      "ground_truth_answer": "Mortality was analyzed using Cox proportional hazards regression (as implemented in R), with individuals that survived to the end of the experimental period treated as censored.",
+      "ground_truth_chunks": [
+        "To analyze the mortality data, we used Cox proportional hazards regression as implemented in R (Crawley [2007](#page-10-0)), with censoring of individuals that survived to the end of the experimental period.",
+        "We used a multifactor model, with (1) experimental run, (2) temperature treatment, and (3) the treatment by experimental group interaction as factors."
+      ]
+    },
+    {
+      "record_id": "d3c979d6d98a02d684c2abcb",
+      "paper_id": "Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance",
+      "source_path": "output/Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance.md",
+      "section_heading": "Lagoon pool temperature records",
+      "section_start_line": 171,
+      "section_end_line": 176,
+      "model": "openai:gpt-4o-mini",
+      "question": "Across 8 years, how many days with temperatures above 32°C did the small pool and the large pool experience?",
+      "ground_truth_answer": "Small pool: over 225 days; Large pool: about 50 days (across 8 years).",
+      "ground_truth_chunks": [
+        "High temperature events also differ as: across 8 years, the small pool experienced over 225 days with temperatures above 32°C compared to only about 50 in the large pool (Fig. 2b, Fisher's exact test P < 0.01; Fig. 3a)."
+      ]
+    },
+    {
+      "record_id": "a7e0881c7abc7811e3dfac3b",
+      "paper_id": "Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance",
+      "source_path": "output/Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance.md",
+      "section_heading": "Stress treatments",
+      "section_start_line": 185,
+      "section_end_line": 206,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the mean slopes of decline in Fv/Fm for corals that died versus corals that survived, and was the difference statistically significant?",
+      "ground_truth_answer": "Corals that died had a mean slope of -0.062 ± 0.0078 SE, survivors had a mean slope of -0.021 ± 0.0015 SE, and the difference was highly significant (two-sample *t*-test P = 7.7e-6).",
+      "ground_truth_chunks": [
+        "Steep declines in Fv/Fm were strongly associated with coral mortality in our experimental samples. Corals that did not survive the experiment-hosted algae that showed significantly steeper Fv/Fm declines than corals that survived (mean slope of corals that died:  $-0.062 \\pm 0.0078$  SE; mean slope of survivors:  $-0.021 \\pm 0.0015$  SE; two-sample *t*-test P = 7.7e-6; ESM Fig. S7a)."
+      ]
+    },
+    {
+      "record_id": "4516f53ac813abd1e02be410",
+      "paper_id": "Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance",
+      "source_path": "output/Oliver and Palumbi 2011 elevate thermal tolerance/Oliver and Palumbi 2011 elevate thermal tolerance.md",
+      "section_heading": "Discussion",
+      "section_start_line": 207,
+      "section_end_line": 250,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Discussion, what two factors likely contributed to the unusually low mortalities in corals from the smaller pool?",
+      "ground_truth_answer": "They hosted the high temperature-resistant Symbiodinium D, and they had survived either selection or acclimatization to their native, thermally variable pool.",
+      "ground_truth_chunks": [
+        "Our experimental results show that the corals naturally growing in a thermally variable lagoon pool resisted heat stress, while those corals from a larger, more moderate pool suffered high mortalities, regardless of their Symbiodinium type.",
+        "The unusually low mortalities seen in the smaller pool's corals are likely due to at least two simultaneous factors. First, all the corals in the smaller pool hosted the high temperature-resistant Symbiodinium D (Rowan [2004;](#page-10-0) Berkelmans and van Oppen [2006\\)](#page-9-0), and second, they all had survived either selection or acclimatization to their native, thermally variable pool."
+      ]
+    }
+  ],
+  "failures": []
+}

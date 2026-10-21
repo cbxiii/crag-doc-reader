@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS.md",
+  "source_sha256": "4e7257beb9db88b63bbf1681cad3da257dc5daa508e532dc68ba7dd879c18af6",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "201dd67e5eba9eee39a8bc01",
+      "paper_id": "Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS",
+      "source_path": "output/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS.md",
+      "section_heading": "7.1. Geographical context",
+      "section_start_line": 15,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which island is the largest island in American Samoa, and how was it formed?",
+      "ground_truth_answer": "The largest island in American Samoa is Tutuila; it was formed from the coalescence of a number of young volcanoes.",
+      "ground_truth_chunks": [
+        "The largest island in American Samoa is Tutuila, an elongate island formed from the coalescence of a number of young volcanoes."
+      ]
+    },
+    {
+      "record_id": "19d582c9cf5a4c42b0a6dc72",
+      "paper_id": "Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS",
+      "source_path": "output/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS.md",
+      "section_heading": "7.2.b. The geological record in American Samoa",
+      "section_start_line": 47,
+      "section_end_line": 74,
+      "model": "openai:gpt-4o-mini",
+      "question": "What migration rate of the centre of volcanism from Manua to Tutuila did McDougall (1985) derive?",
+      "ground_truth_answer": "About 10 cm/year.",
+      "ground_truth_chunks": [
+        "When all the ages of shield-building volcanism in American Samoa are examined together, it is evident that the youngest volcanism occurred in the east (on Tau) and the oldest in the west (on Tutuila).",
+        "From the available dates, a rate of migration of the centre of volcanism from Manua to Tutuila of about 10 cm/year was derived by McDougall (1985)."
+      ]
+    },
+    {
+      "record_id": "fbcbba90ab7dc4b662023d38",
+      "paper_id": "Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS",
+      "source_path": "output/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS.md",
+      "section_heading": "7.2.c. The geological record in Western Samoa",
+      "section_start_line": 75,
+      "section_end_line": 116,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Kear and Wood (1959), what is the probable age of the Salani Volcanics?",
+      "ground_truth_answer": "Kear and Wood (1959) suggested a probable age for the Salani Volcanics of the Last Interglacial (~125 000 BP).",
+      "ground_truth_chunks": [
+        "The Salani Volcanics were erupted in both main islands following a period of quiescence after the end of Fagaloa/Vanu volcanism.",
+        "The degree of weathering of the lavas suggested to Kear and Wood (1959) a probable age for this activity of Last Interglacial (~125 000 BP)."
+      ]
+    },
+    {
+      "record_id": "e65d608ad014c78ff9ba1107",
+      "paper_id": "Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS",
+      "source_path": "output/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS.md",
+      "section_heading": "7.3.a. Recent land/sea-level changes in American Samoa",
+      "section_start_line": 131,
+      "section_end_line": 166,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the average elevations of the three levels of emergence on Tutuila reported in this section?",
+      "ground_truth_answer": "The three levels average approximately 3.9 m (high-level), 1.55 m (second/lower level), and 0.25 m (lowest level).",
+      "ground_truth_chunks": [
+        "This level of emergence averages 3.9 m and is represented by a large piece of emerged reef in Vatia Bay (Plate 7.1).",
+        "A second, lower level of emergence ranges from 0.87 to 2.4 m and averages 1.55 m.",
+        "The lowest level of emergence is represented by emerged reef 0.06-0.39 m (average 0.25 m) and is confined to the north coast of Tutuila."
+      ]
+    },
+    {
+      "record_id": "29f8776a9015972215827482",
+      "paper_id": "Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS",
+      "source_path": "output/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS.md",
+      "section_heading": "7.3.b. Recent land/sea-level changes on Upolu, Western Samoa",
+      "section_start_line": 167,
+      "section_end_line": 250,
+      "model": "openai:gpt-4o-mini",
+      "question": "What emergence levels did Kear and Wood (1959) identify on Upolu, and with which deposits were they associated?",
+      "ground_truth_answer": "Kear and Wood (1959) identified sedimentary evidence of emergence at 1.5–2.4 m (associated with the Tafagamanu Sand), 4.6 m (associated with the Nuutele Sand) and 9 m (associated with the Vini Tuff).",
+      "ground_truth_chunks": [
+        "In their 1959 account of the geology of Western Samoa, Kear and Wood found sedimentary evidence of emergence at 1.5-2.4 m (Tafagamanu Sand), 4.6 m (Nuutele Sand) and 9 m (Vini Tuff). The latter two levels are found almost exclusively on the smaller islands in Western Samoa.",
+        "Kear and Wood (1959) regarded shore platforms 1.8-2.4 m above sea level on the coast east of Apia as coeval with the Tafagamanu Sand level, which they regarded as being formed at a higher sea level, dated at the type site to 1180±55 BP (Grant-Taylor and Rafter 1962)."
+      ]
+    },
+    {
+      "record_id": "41305dc3309aaef053ca85fd",
+      "paper_id": "Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS",
+      "source_path": "output/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS.md",
+      "section_heading": "7.3.d. Recent land/sea-level changes on Uvéa (Wallis) Island",
+      "section_start_line": 271,
+      "section_end_line": 278,
+      "model": "openai:gpt-4o-mini",
+      "question": "What elevations of emerged shorelines have been reported on Uvéa (Wallis) Island?",
+      "ground_truth_answer": "Emerged shorelines have been reported at 7.6 m and 1.7 m.",
+      "ground_truth_chunks": [
+        "Evidence of emergence similar to that in Samoa exists on Uvéa (Stearns 1945).",
+        "There are emerged shorelines at 7.6 m and 1.7 m which are largely erosional in character but also include patches of emerged reef and 'marine conglomeratic limestone'."
+      ]
+    },
+    {
+      "record_id": "80c284ec12a518171963d478",
+      "paper_id": "Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS",
+      "source_path": "output/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS.md",
+      "section_heading": "7.4.a. Timing of shield-building volcanism",
+      "section_start_line": 281,
+      "section_end_line": 305,
+      "model": "openai:gpt-4o-mini",
+      "question": "What rate of movement of the lithosphere over the hotspot is indicated by the best-fitting regression line?",
+      "ground_truth_answer": "7.69 cm/year.",
+      "ground_truth_chunks": [
+        "When these ages are plotted (Figure 7.7), the best-fitting regression line yields a rate of movement of the lithosphere over a fixed hotspot some 150 km east of Tau of 7.69 cm/year.",
+        "This figure is within Duncan's (1985) estimate of 7.7±2.5 cm/year for the age-progressive trend along the Samoa island-seamount chain."
+      ]
+    },
+    {
+      "record_id": "960ada1e08bc2d0f87e473e8",
+      "paper_id": "Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS",
+      "source_path": "output/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS.md",
+      "section_heading": "7.4.c. Late Quaternary tectonic history",
+      "section_start_line": 330,
+      "section_end_line": 351,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which island has a band of 3.9 m emergence oriented about 110° and where does it cross?",
+      "ground_truth_answer": "Tutuila — the band of 3.9 m emergence crosses the island from Afulei to Vatia and is oriented about 110°.",
+      "ground_truth_chunks": [
+        "On Tutuila, the band of 3.9 m emergence crosses the island in a band from Afulei to Vatia.",
+        "Interestingly, the orientation of this band is about 110°, the same as that of the post-erosional volcanic rift."
+      ]
+    },
+    {
+      "record_id": "c25fa26a46ca753ae636e0bf",
+      "paper_id": "Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS",
+      "source_path": "output/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS.md",
+      "section_heading": "7.4.d. Holocene sea levels in Samoa",
+      "section_start_line": 352,
+      "section_end_line": 394,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the new interpretation in this section, when did the maximum Holocene sea level culminating in the formation of the Tafagamanu Sand occur?",
+      "ground_truth_answer": "About 2000 BP.",
+      "ground_truth_chunks": [
+        "The new interpretation shown in Figure 7.11 suggests that the maximum Holocene sea level culminated in the formation of the Tafagamanu Sand about 2000 BP.",
+        "Contemporary sea level may have slightly exceeded 2 m above its present mean level."
+      ]
+    },
+    {
+      "record_id": "a00748248485d89527a56564",
+      "paper_id": "Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS",
+      "source_path": "output/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS/Nunn PD 1998 Valcanism, tectonism, sea-levelchange in AS.md",
+      "section_heading": "Notes",
+      "section_start_line": 403,
+      "section_end_line": 416,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does note 6 state about the Lapita cultural complex?",
+      "ground_truth_answer": "Note 6 states that the significance of the Lapita cultural complex is explained in Chapter 9, and that Lapita is the name given to the earliest settlers of this part of the Pacific Islands.",
+      "ground_truth_chunks": [
+        "- 6 The significance of the Lapita cultural complex is explained in Chapter 9. Lapita is the name given to the earliest settlers of this part of the Pacific Islands."
+      ]
+    }
+  ],
+  "failures": []
+}

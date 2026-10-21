@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "source_path": "output/CRAG-2003-Global.warming.AS-Copy/CRAG-2003-Global.warming.AS-Copy.md",
+  "source_sha256": "eeddba8256a0587cc2e477c9d1e95a5e7aeb047bdff4efbad7e1c43c04d578e6",
+  "status": "complete",
+  "selected_section_count": 2,
+  "successful_record_count": 2,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "77543438034b430375ab8945",
+      "paper_id": "CRAG-2003-Global.warming.AS-Copy/CRAG-2003-Global.warming.AS-Copy",
+      "source_path": "output/CRAG-2003-Global.warming.AS-Copy/CRAG-2003-Global.warming.AS-Copy.md",
+      "section_heading": "Summary Sheet: Global warming & climate change In American Samoa",
+      "section_start_line": 1,
+      "section_end_line": 18,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percentage is coral calcification predicted to be reduced over this century due to increased carbon dioxide, according to the summary?",
+      "ground_truth_answer": "Coral calcification is predicted to be reduced by 35% over this century.",
+      "ground_truth_chunks": [
+        "Additionally, increased levels of carbon dioxide (the main greenhouse gas) will reduce the growth (calcification rate) of corals by 35% over this century, so some reefs may erode and others may not be able to keep up with the predicted rate of sea level rise."
+      ]
+    },
+    {
+      "record_id": "c4fe193ce6c18e43715bd054",
+      "paper_id": "CRAG-2003-Global.warming.AS-Copy/CRAG-2003-Global.warming.AS-Copy",
+      "source_path": "output/CRAG-2003-Global.warming.AS-Copy/CRAG-2003-Global.warming.AS-Copy.md",
+      "section_heading": "Related efforts to date in American Samoa include:",
+      "section_start_line": 19,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which locations in American Samoa have National Park temperature monitoring been conducted according to the section?",
+      "ground_truth_answer": "Outer Vatia Bay and Ofu lagoon.",
+      "ground_truth_chunks": [
+        "- 5. National Park temperature monitoring in outer Vatia Bay and Ofu lagoon"
+      ]
+    }
+  ],
+  "failures": []
+}

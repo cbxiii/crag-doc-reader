@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "source_path": "output/skelton-2003-seaweeds-as/skelton-2003-seaweeds-as.md",
+  "source_sha256": "274d9386c77b73fe29cdb1882afdd01321d65374903822a969dc744977b0e800",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "bbc97286940989b886990d43",
+      "paper_id": "skelton-2003-seaweeds-as/skelton-2003-seaweeds-as",
+      "source_path": "output/skelton-2003-seaweeds-as/skelton-2003-seaweeds-as.md",
+      "section_heading": "EXECUTIVE SUMMARY",
+      "section_start_line": 25,
+      "section_end_line": 38,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many algal and seagrass species were enumerated in the study?",
+      "ground_truth_answer": "A total of 239 algal and seagrass species were enumerated.",
+      "ground_truth_chunks": [
+        "A total of 635 specimens were analyzed and 239 algal and seagrass species were enumerated.",
+        "The red algae (Rhodophyta) had the highest number of species with 133 identified. The green algae (Chlorophyta) had 60 species, the brown algae (Phaeophyta) had 29, and the blue-green (Cyanophyta) 27; only two seagrass species were found."
+      ]
+    },
+    {
+      "record_id": "4b991e8e47fd065bc682106d",
+      "paper_id": "skelton-2003-seaweeds-as/skelton-2003-seaweeds-as",
+      "source_path": "output/skelton-2003-seaweeds-as/skelton-2003-seaweeds-as.md",
+      "section_heading": "Algae",
+      "section_start_line": 128,
+      "section_end_line": 131,
+      "model": "openai:gpt-4o-mini",
+      "question": "Approximately what percentage of all marine plants do algae comprise?",
+      "ground_truth_answer": "About 90%.",
+      "ground_truth_chunks": [
+        "Algae comprise about 90% of all marine plants."
+      ]
+    },
+    {
+      "record_id": "a76069b88d986680656dc52a",
+      "paper_id": "skelton-2003-seaweeds-as/skelton-2003-seaweeds-as",
+      "source_path": "output/skelton-2003-seaweeds-as/skelton-2003-seaweeds-as.md",
+      "section_heading": "2.0 MATERIALS AND METHODS",
+      "section_start_line": 267,
+      "section_end_line": 308,
+      "model": "openai:gpt-4o-mini",
+      "question": "What concentration of formalin in seawater was used to soak specimens, and for how long minimum?",
+      "ground_truth_answer": "Specimens were soaked in a 5% formalin/seawater solution for a minimum of 2 days.",
+      "ground_truth_chunks": [
+        "All specimens were soaked in a 5% formalin/seawater solution for a minimum of 2 days."
+      ]
+    },
+    {
+      "record_id": "8112f9435b6f88c2cbff3be9",
+      "paper_id": "skelton-2003-seaweeds-as/skelton-2003-seaweeds-as",
+      "source_path": "output/skelton-2003-seaweeds-as/skelton-2003-seaweeds-as.md",
+      "section_heading": "Chrysymenia kaernbachii Grunow",
+      "section_start_line": 439,
+      "section_end_line": 452,
+      "model": "openai:gpt-4o-mini",
+      "question": "To what width do plants of Chrysymenia kaernbachii spread?",
+      "ground_truth_answer": "The plants spread to 10cm wide.",
+      "ground_truth_chunks": [
+        "The plants spread to 10cm wide."
+      ]
+    },
+    {
+      "record_id": "09261000aeef85f37d82a582",
+      "paper_id": "skelton-2003-seaweeds-as/skelton-2003-seaweeds-as",
+      "source_path": "output/skelton-2003-seaweeds-as/skelton-2003-seaweeds-as.md",
+      "section_heading": "Meristotheca procumbens Gabrielson & Kraft",
+      "section_start_line": 625,
+      "section_end_line": 636,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the maximum width of the expanded flat blades of Meristotheca procumbens?",
+      "ground_truth_answer": "The expanded flat blades spread to 5cm wide.",
+      "ground_truth_chunks": [
+        "The expanded flat blades spread to 5cm wide."
+      ]
+    },
+    {
+      "record_id": "dca609ae92a52c550ecaf412",
+      "paper_id": "skelton-2003-seaweeds-as/skelton-2003-seaweeds-as",
+      "source_path": "output/skelton-2003-seaweeds-as/skelton-2003-seaweeds-as.md",
+      "section_heading": "Turbinaria ornata Turner",
+      "section_start_line": 779,
+      "section_end_line": 790,
+      "model": "openai:gpt-4o-mini",
+      "question": "What heights does Turbinaria ornata reach in sheltered places versus reef crest and high impact areas?",
+      "ground_truth_answer": "In sheltered places it grows to 15cm; along the reef crest and high impact areas it reaches a height of 5cm or less.",
+      "ground_truth_chunks": [
+        "The color is olive green, light brown to dark brown. In sheltered places it grows to 15cm, whereas along the reef crest and high impact areas a height of 5cm or less is seen."
+      ]
+    },
+    {
+      "record_id": "115486cd938302380c399c04",
+      "paper_id": "skelton-2003-seaweeds-as/skelton-2003-seaweeds-as",
+      "source_path": "output/skelton-2003-seaweeds-as/skelton-2003-seaweeds-as.md",
+      "section_heading": "Dictyosphaeria versluysii Weber-van Bosse",
+      "section_start_line": 961,
+      "section_end_line": 976,
+      "model": "openai:gpt-4o-mini",
+      "question": "How wide do the cushions of Dictyosphaeria versluysii grow?",
+      "ground_truth_answer": "They grow to 5cm wide.",
+      "ground_truth_chunks": [
+        "It is tough, globular to compressed, fairly solid cushions, to 5cm wide."
+      ]
+    },
+    {
+      "record_id": "050cbe038aecab863ef57421",
+      "paper_id": "skelton-2003-seaweeds-as/skelton-2003-seaweeds-as",
+      "source_path": "output/skelton-2003-seaweeds-as/skelton-2003-seaweeds-as.md",
+      "section_heading": "Ventricaria ventricosa",
+      "section_start_line": 1113,
+      "section_end_line": 1124,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the common name given to Ventricaria ventricosa?",
+      "ground_truth_answer": "Sailorman's eyeball.",
+      "ground_truth_chunks": [
+        "CN: Sailorman's eyeball. SN: \\*Limu paluni",
+        "When sailors gazed into the clear tropical waters they were shocked to see what appeared to be an eyeball staring back at them; hence the name Sailorman's eyeball. This alga provides an ideal substratum for the red crustose coralline alga (*Hydrolithon farinosum*)."
+      ]
+    },
+    {
+      "record_id": "0efba5bd5c5644925fbfb5e6",
+      "paper_id": "skelton-2003-seaweeds-as/skelton-2003-seaweeds-as",
+      "source_path": "output/skelton-2003-seaweeds-as/skelton-2003-seaweeds-as.md",
+      "section_heading": "Field guide to American Samoan marine plants",
+      "section_start_line": 1295,
+      "section_end_line": 1298,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many species of marine plants does the report illustrate?",
+      "ground_truth_answer": "The report illustrates 67 species of marine plants.",
+      "ground_truth_chunks": [
+        "This report illustrates 67 species of marine plants found during the surveys."
+      ]
+    },
+    {
+      "record_id": "7605be9ceb281bf53dfe2a8d",
+      "paper_id": "skelton-2003-seaweeds-as/skelton-2003-seaweeds-as",
+      "source_path": "output/skelton-2003-seaweeds-as/skelton-2003-seaweeds-as.md",
+      "section_heading": "Marine Plants of American Samoa – P.A. Skelton. December 2003.",
+      "section_start_line": 2424,
+      "section_end_line": 2441,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, how many species are listed for the entry with code 372 (Sym loc p ca)?",
+      "ground_truth_answer": "2 sp.",
+      "ground_truth_chunks": [
+        "| 372                                                                                            | Sym<br>loc<br>p<br>ca         | 2<br>sp.                       |   |   |   |   |   |   |   |   |   |    |    |    |    |    | 1  |    |    |    |    |    |   |    |    |    |    |    |"
+      ]
+    }
+  ],
+  "failures": []
+}

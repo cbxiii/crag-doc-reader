@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2007 TMP report/2007 TMP report.md",
+  "source_sha256": "750a1c56fd69753cd22991d934a808fc01bd2a6853448b578532eb42c98c6cb5",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "9ff71955dda9e8509853e829",
+      "paper_id": "2007 TMP report/2007 TMP report",
+      "source_path": "output/2007 TMP report/2007 TMP report.md",
+      "section_heading": "Abstract",
+      "section_start_line": 46,
+      "section_end_line": 57,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did the mean benthic cover for all 12 sites change from 2005 to 2007?",
+      "ground_truth_answer": "No. The mean benthic cover for all 12 sites was unchanged from 2005 to 2007; all differences between years were less than 3% and attributed to random chance.",
+      "ground_truth_chunks": [
+        "The mean benthic cover for all 12 sites was unchanged from 2005 to 2007.",
+        "All differences between years of all benthic categories were less than 3%, and due to random chance.",
+        "Thus, there was no loss of corals, but also no evidence of increase in corals."
+      ]
+    },
+    {
+      "record_id": "371be9d3a952e7a924ed46ba",
+      "paper_id": "2007 TMP report/2007 TMP report",
+      "source_path": "output/2007 TMP report/2007 TMP report.md",
+      "section_heading": "Reef Slopes",
+      "section_start_line": 120,
+      "section_end_line": 227,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which new site was added to the Reef Slopes surveys and why?",
+      "ground_truth_answer": "Masacre Bay was added to the Reef Slopes surveys to improve geographic balance.",
+      "ground_truth_chunks": [
+        "In addition to the 11 sites done in previous years, one new site was added, Masacre Bay, to improve geographic balance.",
+        "The new site, Masacre Bay, has relatively high crustose calcareous algae cover, more typical of south side sites than north side sites."
+      ]
+    },
+    {
+      "record_id": "f3e914407aecc915df58a345",
+      "paper_id": "2007 TMP report/2007 TMP report",
+      "source_path": "output/2007 TMP report/2007 TMP report.md",
+      "section_heading": "Bioerosion and indicator species",
+      "section_start_line": 228,
+      "section_end_line": 239,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, have boring sponges (Cliona or Siphonodyction) been reported from American Samoa?",
+      "ground_truth_answer": "No. The section states that no species of Cliona or Siphonodyction was reported from Pago Pago harbor, the author has not observed or photographed boring sponges anywhere in American Samoa, and concludes boring sponges are rare or absent.",
+      "ground_truth_chunks": [
+        "Although the harbor would be the most likely place to find boring sponges, no species of *Cliona* or *Siphonodyction* was reported from there (Coles et al. 2003). The author has not observed or photographed boring sponges anywhere in American Samoa.",
+        "This evidence appears to be consistent with the view that boring sponges are rare or absent in American Samoa, and that bioerosion is particularly low in American Samoa."
+      ]
+    },
+    {
+      "record_id": "25105fea748cd4bfdc4b5e1c",
+      "paper_id": "2007 TMP report/2007 TMP report",
+      "source_path": "output/2007 TMP report/2007 TMP report.md",
+      "section_heading": "Lifeforms",
+      "section_start_line": 356,
+      "section_end_line": 401,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which lifeform was the most common across all sites in the study?",
+      "ground_truth_answer": "Encrusting.",
+      "ground_truth_chunks": [
+        "At most sites, the most common lifeform was encrusting, though at Nuuuli, column was the most common lifeform.",
+        "Encrusting is the most common lifeform, followed by column, branching, massive, and table in that order."
+      ]
+    },
+    {
+      "record_id": "0b2950642d76019ca35947fb",
+      "paper_id": "2007 TMP report/2007 TMP report",
+      "source_path": "output/2007 TMP report/2007 TMP report.md",
+      "section_heading": "Reef Flats",
+      "section_start_line": 492,
+      "section_end_line": 547,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the mean percent cover of turf algae on the outer reef flats?",
+      "ground_truth_answer": "Nearly 47% cover.",
+      "ground_truth_chunks": [
+        "As can be seen from the graph, the most abundant benthic category was turf algae, with a mean of nearly 47% cover, followed by coral with 21% cover and coralline algae with 15% cover."
+      ]
+    },
+    {
+      "record_id": "566b8b38dec22abcd55decc6",
+      "paper_id": "2007 TMP report/2007 TMP report",
+      "source_path": "output/2007 TMP report/2007 TMP report.md",
+      "section_heading": "Coral Lifeforms",
+      "section_start_line": 548,
+      "section_end_line": 605,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which site on the outer reef flats had unusually high coral cover and was dominated by branching corals?",
+      "ground_truth_answer": "Utelei.",
+      "ground_truth_chunks": [
+        "Utelei, which had unusually high coral cover, was dominated by branching corals, so the mean cover of branching corals was greater than that of encrusting corals."
+      ]
+    },
+    {
+      "record_id": "c53e940eb85cf3098b999116",
+      "paper_id": "2007 TMP report/2007 TMP report",
+      "source_path": "output/2007 TMP report/2007 TMP report.md",
+      "section_heading": "oral Recruitment C",
+      "section_start_line": 648,
+      "section_end_line": 677,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the average density per square meter of Pocillopora damicornis recruits counted in the rebar frame placements?",
+      "ground_truth_answer": "An average of 107.2 colonies per square meter.",
+      "ground_truth_chunks": [
+        "Recruits were counted in six placements of th frame. An average of 28.8 *P. cylindrica* colonies were counted per square meter, and an average of 107.2 colonies of *P. damicornis* were counted per square meter. Sizes of *P. damicornis* were reco"
+      ]
+    },
+    {
+      "record_id": "26a056197cccf4324b720428",
+      "paper_id": "2007 TMP report/2007 TMP report",
+      "source_path": "output/2007 TMP report/2007 TMP report.md",
+      "section_heading": "leaching B",
+      "section_start_line": 732,
+      "section_end_line": 761,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which staghorn (Acropora) species were reported bleaching in the backreef pools?",
+      "ground_truth_answer": "Acropora muricata (=formosa), A. nobilis (?=intersepta), and A. pulchra.",
+      "ground_truth_chunks": [
+        "Bleaching of staghorn corals (*Acropora muricata, A. pulchra and A. nobilis*) in backreef pools at the airport and Alofau were begun in late 2003, and continued in 2007.",
+        "The staghorn species that bleach in the back reef pools are *Acropora muricata* (=*formosa*), *A. nobilis* (?=*intersepta*) and *A. pulchra*."
+      ]
+    },
+    {
+      "record_id": "2a6927538e12b2acec3d824e",
+      "paper_id": "2007 TMP report/2007 TMP report",
+      "source_path": "output/2007 TMP report/2007 TMP report.md",
+      "section_heading": "Invertebrates",
+      "section_start_line": 762,
+      "section_end_line": 781,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which invertebrate was the most common invertebrate recorded?",
+      "ground_truth_answer": "The orange lump sponge, Stylissa sp., was the most common invertebrate recorded.",
+      "ground_truth_chunks": [
+        "The orange lum\n\nsponge, *Stylissa* sp., was the most common invertebrate recorded, followed by the thin grey encrusting sponge *Dysdea* sp., followed by the small burrowing urchin, *Echinostrephus moliaris*.",
+        "The orange lump sponge, *Stylissa* sp. has increased dramatically, as has the encrusting sponge, *Dysidea* sp."
+      ]
+    },
+    {
+      "record_id": "02ec926c2aec9430968a2730",
+      "paper_id": "2007 TMP report/2007 TMP report",
+      "source_path": "output/2007 TMP report/2007 TMP report.md",
+      "section_heading": "Species",
+      "section_start_line": 814,
+      "section_end_line": 829,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which golden alga (chrysophyte) was reported for the first time in American Samoa in this section?",
+      "ground_truth_answer": "Chrysocystis fragilis (the \"Golden Noodle Algae\").",
+      "ground_truth_chunks": [
+        "A golden alga (chrysophyte) has been observed periodically, primarily on shallow rubble beds, such as in Alofau. It is sometimes called the \"Golden Noodle Algae,\" *Chrysocystis fragilis.* Cells are embedded in a gelatinous matrix, and colonies are fragile and easily disintegrate.",
+        "This is the first report of it for American Samoa."
+      ]
+    }
+  ],
+  "failures": []
+}

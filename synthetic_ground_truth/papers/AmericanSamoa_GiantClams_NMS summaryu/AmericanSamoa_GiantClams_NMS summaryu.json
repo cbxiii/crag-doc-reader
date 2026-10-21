@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "source_path": "output/AmericanSamoa_GiantClams_NMS summaryu/AmericanSamoa_GiantClams_NMS summaryu.md",
+  "source_sha256": "4e12ad52a2b3508c225ec7118b68ea3552b81efb05d818e00cd63b322aaa8842",
+  "status": "complete",
+  "selected_section_count": 4,
+  "successful_record_count": 4,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "cf78eeab1301d7604f919bb8",
+      "paper_id": "AmericanSamoa_GiantClams_NMS summaryu/AmericanSamoa_GiantClams_NMS summaryu",
+      "source_path": "output/AmericanSamoa_GiantClams_NMS summaryu/AmericanSamoa_GiantClams_NMS summaryu.md",
+      "section_heading": "Species Description",
+      "section_start_line": 13,
+      "section_end_line": 18,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where are giant clams (Tridacna maxima) generally found in American Samoa?",
+      "ground_truth_answer": "They are generally found in the Rose Atoll, the north and west sides of Ta'u Island, and on the tops or slopes of the reef in shallow and clear waters.",
+      "ground_truth_chunks": [
+        "Giant clams, *Tridacna maxima*, are generally found in the Rose atoll, the North and west sides of Ta'u Island, and on the tops or slopes of the reef in shallow and clear waters."
+      ]
+    },
+    {
+      "record_id": "ce5278868d30fe21dfebcac8",
+      "paper_id": "AmericanSamoa_GiantClams_NMS summaryu/AmericanSamoa_GiantClams_NMS summaryu",
+      "source_path": "output/AmericanSamoa_GiantClams_NMS summaryu/AmericanSamoa_GiantClams_NMS summaryu.md",
+      "section_heading": "Sensitivity",
+      "section_start_line": 29,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Sensitivity section, how does ocean acidification affect giant clams?",
+      "ground_truth_answer": "It reduces calcification, impairing growth and recruitment, and will directly affect survival and growth of giant clams.",
+      "ground_truth_chunks": [
+        "Ocean acidification will directly affect the survival and growth of giant clams reducing calcification and impairing growth and recruitment.4",
+        "Ocean<br>acidification                                                                                                 | Reduced\tcalcification,\timpairing\tgrowth\tand\trecruitment.4                                                                                                          |  |  |"
+      ]
+    },
+    {
+      "record_id": "5e7d7f33e3de85adee02f77b",
+      "paper_id": "AmericanSamoa_GiantClams_NMS summaryu/AmericanSamoa_GiantClams_NMS summaryu",
+      "source_path": "output/AmericanSamoa_GiantClams_NMS summaryu/AmericanSamoa_GiantClams_NMS summaryu.md",
+      "section_heading": "Exposure† Moderate Exposure Low High Mod Confidence",
+      "section_start_line": 59,
+      "section_end_line": 69,
+      "model": "openai:gpt-4o-mini",
+      "question": "By 2060 what will happen to aragonite saturation state according to the section?",
+      "ground_truth_answer": "By 2060 the aragonite saturation state will fall below 3.5 and continue declining thereafter, resulting in reduced calcification and growth.",
+      "ground_truth_chunks": [
+        "Under future climate conditions over the next 20 years, Giant clams will experience warmer sea surface temperatures, altered precipitation, and ocean acidification which will likely affect recruitment, and survival.",
+        "By\t2060:\taragonite\tsaturation\tstate\twill\tfall\tbelow\t3.5,\tand\tcontinue<br>declining\tthereafter<br>resulting\tin\treduced\tcalcification\tand\tgrowth."
+      ]
+    },
+    {
+      "record_id": "99079ecd8b915cb73cd86782",
+      "paper_id": "AmericanSamoa_GiantClams_NMS summaryu/AmericanSamoa_GiantClams_NMS summaryu",
+      "source_path": "output/AmericanSamoa_GiantClams_NMS summaryu/AmericanSamoa_GiantClams_NMS summaryu.md",
+      "section_heading": "Adaptive Capacity‡",
+      "section_start_line": 70,
+      "section_end_line": 104,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the adaptive capacity ranking and confidence for 'Extent, status, & dispersal ability' for giant clams?",
+      "ground_truth_answer": "Moderate-high adaptive capacity; Moderate confidence.",
+      "ground_truth_chunks": [
+        "| Extent,\tstatus,\t&\tdispersal\tability                    | Transboundary\tspecies.<br>•         |  |  |",
+        "| Moderate-high adaptive\tcapacity<br>Moderate confidence | Dispersal\tdepends\ton\tcurrents.<br>• |  |  |"
+      ]
+    }
+  ],
+  "failures": []
+}

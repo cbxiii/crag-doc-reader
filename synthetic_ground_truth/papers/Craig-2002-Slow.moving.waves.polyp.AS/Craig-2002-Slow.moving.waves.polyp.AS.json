@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Craig-2002-Slow.moving.waves.polyp.AS/Craig-2002-Slow.moving.waves.polyp.AS.md",
+  "source_sha256": "e140955f5866f467b812d93c59203d97f3581e2325b76d600c848cd28efe2823",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "e45c7d5be6f5c8c4a1064552",
+      "paper_id": "Craig-2002-Slow.moving.waves.polyp.AS/Craig-2002-Slow.moving.waves.polyp.AS",
+      "source_path": "output/Craig-2002-Slow.moving.waves.polyp.AS/Craig-2002-Slow.moving.waves.polyp.AS.md",
+      "section_heading": "Slow-moving waves of polyp retraction traverse Porites lobata mounds",
+      "section_start_line": 1,
+      "section_end_line": 35,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the average rate at which the bands of retracted polyps moved across Porites lobata mounds?",
+      "ground_truth_answer": "They moved at an average rate of 0.55 cm/h (SD = 0.15), equivalent to 13 cm/day.",
+      "ground_truth_chunks": [
+        "These bands moved across the *Porites* mounds at an average rate of 0.55 cm/h (SD = 0.15) or 13 cm/day.",
+        "At that rate, it would take approximately 17 days to completely traverse the average size of the hemispherical *Porites* mounds in the study area (average = 425-cm base circumference, 80-cm height, 220-cm dome curvature)."
+      ]
+    }
+  ],
+  "failures": []
+}

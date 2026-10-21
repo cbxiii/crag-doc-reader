@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Hart 2000 AS Vailulu_u/Hart 2000 AS Vailulu_u.md",
+  "source_sha256": "027ca9e437b268ad06aecb03601db7b253a69a9e2201b06b71a204dc57a1b3b4",
+  "status": "complete",
+  "selected_section_count": 7,
+  "successful_record_count": 7,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "a5ff05fefe102121837ad574",
+      "paper_id": "Hart 2000 AS Vailulu_u/Hart 2000 AS Vailulu_u",
+      "source_path": "output/Hart 2000 AS Vailulu_u/Hart 2000 AS Vailulu_u.md",
+      "section_heading": "S. Lyons",
+      "section_start_line": 45,
+      "section_end_line": 64,
+      "model": "openai:gpt-4o-mini",
+      "question": "What isotopic ratios (87Sr/86Sr, 143Nd/144Nd, and 206Pb/204Pb) are reported for Vailulu'u Seamount?",
+      "ground_truth_answer": "87Sr/86Sr: 0.7052–0.7067; 143Nd/144Nd: 0.51267–0.51277; 206Pb/204Pb: 19.19–19.40.",
+      "ground_truth_chunks": [
+        "Isotopically, the volcano is strongly EM2 in character and clearly of Samoan pedigree (87Sr/86Sr: 0.7052-0.7067; 143Nd/144Nd: 0.51267-0.51277; 206Pb/204Pb: 19.19-19.40)."
+      ]
+    },
+    {
+      "record_id": "7cc8d902a1f8d1ac72f89209",
+      "paper_id": "Hart 2000 AS Vailulu_u/Hart 2000 AS Vailulu_u",
+      "source_path": "output/Hart 2000 AS Vailulu_u/Hart 2000 AS Vailulu_u.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 65,
+      "section_end_line": 80,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Introduction, what do the authors claim about Vailulu'u and the Samoan hotspot?",
+      "ground_truth_answer": "They state that Vailulu'u is of Samoan lineage and represents the current location of the Samoan hotspot.",
+      "ground_truth_chunks": [
+        "We show that Vailulu'u is of Samoan lineage and represents the current location of the Samoan hotspot.",
+        "Its shallow depth provides easy access, its simple morphology and enclosed crater will allow estimation of hydrothermal fluxes, and its geochemical pedigree as a Samoan volcano gives it a highly characteristic mantle source signature."
+      ]
+    },
+    {
+      "record_id": "1ed970e10e541e2e5ba203c7",
+      "paper_id": "Hart 2000 AS Vailulu_u/Hart 2000 AS Vailulu_u",
+      "source_path": "output/Hart 2000 AS Vailulu_u/Hart 2000 AS Vailulu_u.md",
+      "section_heading": "2. Structure and Morphology",
+      "section_start_line": 81,
+      "section_end_line": 110,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the depth and width of Vailulu'u's summit crater?",
+      "ground_truth_answer": "Vailulu'u's summit crater is 400 m deep and 2 km wide.",
+      "ground_truth_chunks": [
+        "Vailulu'u's summit includes a 400-m-deep and 2-km-wide crater (Figure 3).",
+        "The crater and rim of Vailulu'u are ovalshaped, with two well-developed pit craters defining the northern two thirds of the crater and two minor depressions present on a bench in the southern third of the crater (Figure 3)."
+      ]
+    },
+    {
+      "record_id": "2a63f1a50ed768723f2a0bed",
+      "paper_id": "Hart 2000 AS Vailulu_u/Hart 2000 AS Vailulu_u",
+      "source_path": "output/Hart 2000 AS Vailulu_u/Hart 2000 AS Vailulu_u.md",
+      "section_heading": "3. Temporal Aspects of Vailulu'u Volcanism",
+      "section_start_line": 111,
+      "section_end_line": 130,
+      "model": "openai:gpt-4o-mini",
+      "question": "What 210Pb/226Ra activity ratio was measured for the crater floor sample from Vailulu'u, and what eruption age does that ratio suggest?",
+      "ground_truth_answer": "An activity ratio of 1.71, suggesting an eruption age of less than 30–50 years.",
+      "ground_truth_chunks": [
+        "complete U-series nuclides, one from the floor of the crater and one from the outer NE slope of the summit cone (<sup>210</sup>Po and <sup>210</sup>Pb by counting [Fleer and Bacon, 1984], <sup>226</sup>Ra and <sup>230</sup>Th by mass spectrometry [Sims et al., 1999]).",
+        "The crater floor sample shows <sup>210</sup>Po/<sup>210</sup>Pb equilibrium but <sup>210</sup>Pb/<sup>226</sup>Ra disequilibria (activity ratio of 1.71). This suggests an eruption age of less than 30–50 years."
+      ]
+    },
+    {
+      "record_id": "3a36c7e494c9c339016789a4",
+      "paper_id": "Hart 2000 AS Vailulu_u/Hart 2000 AS Vailulu_u",
+      "source_path": "output/Hart 2000 AS Vailulu_u/Hart 2000 AS Vailulu_u.md",
+      "section_heading": "4. Pedigree of Vailulu'u Volcano",
+      "section_start_line": 131,
+      "section_end_line": 134,
+      "model": "openai:gpt-4o-mini",
+      "question": "What mantle isotope signature does Vailulu'u show, and what is the range of helium isotope ratios reported compared to subaerial Samoa?",
+      "ground_truth_answer": "Vailulu'u shows a strong enriched mantle 2 (EM2) mantle signature; helium isotope data on samples from five dredges range from 7.8 to 10.4 Ra, barely overlapping the known subaerial Samoa range of 10–26 Ra.",
+      "ground_truth_chunks": [
+        "Vailulu'u shows a strong enriched mantle 2 (EM2) mantle signature, which is the hallmark of Samoan volcanism.",
+        "Helium isotope data on samples from five dredges range from 7.8 to 10.4 Ra and barely overlap the known range from subaerial Samoa (10–26 Ra [Farley and Neroda, 1998])."
+      ]
+    },
+    {
+      "record_id": "3274c10e3d46e13f5c702224",
+      "paper_id": "Hart 2000 AS Vailulu_u/Hart 2000 AS Vailulu_u",
+      "source_path": "output/Hart 2000 AS Vailulu_u/Hart 2000 AS Vailulu_u.md",
+      "section_heading": "5. Water Column Characteristics Over Vailulu'u Volcano",
+      "section_start_line": 135,
+      "section_end_line": 164,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the maximum manganese (Mn) concentration measured inside the crater's deepest NTU smog layer during the DeepFreeze 2000 cruise?",
+      "ground_truth_answer": "Up to peak values of 0.4 ppb (7.3 nmol/kg).",
+      "ground_truth_chunks": [
+        "Background Mn in deep water outside the crater ranges from 0.002 to 0.003 ppb; inside the crater, in the deepest part of the NTU smog layer, the Mn ranges up to peak values of 0.4 ppb (7.3 nmol/kg).",
+        "Ambient Mn levels in the water column are in the range 0.002-0.004 ppb."
+      ]
+    },
+    {
+      "record_id": "603e4c6778be5910b6e2910e",
+      "paper_id": "Hart 2000 AS Vailulu_u/Hart 2000 AS Vailulu_u",
+      "source_path": "output/Hart 2000 AS Vailulu_u/Hart 2000 AS Vailulu_u.md",
+      "section_heading": "6. Illations and Implications",
+      "section_start_line": 165,
+      "section_end_line": 172,
+      "model": "openai:gpt-4o-mini",
+      "question": "What evidence in the section indicates that Vailulu'u volcano is currently active?",
+      "ground_truth_answer": "Evidence includes seismic events in 1973 and 1995; lack of any sediment cover on the seamount; fresh basalt and pristine glass in dredges from all levels; radiometric ages ranging from 5 to 50 years; and a summit crater over 400 m deep filled with highly turbid water showing Mn concentration anomalies and a smog layer extending as a halo for many kilometers.",
+      "ground_truth_chunks": [
+        "Vailulu'u volcano is clearly a young and currently active submarine volcano. Its activity is reflected in seismic events in 1973 and 1995. the lack of any sediment cover on the seamount, fresh basalt and pristine glass in dredges from all levels of the volcano, and radiometric ages ranging from 5 to 50 years.",
+        "The summit is marked by a sharply delineated crater over 400 m deep, filled with highly turbid water with Mn concentration anomalies that are several orders of magnitude above ambient levels. This smog layer extends out as a halo for many kilometers in all directions, in a narrow depth interval defined by the range in depths of the rim of the summit crater."
+      ]
+    }
+  ],
+  "failures": []
+}

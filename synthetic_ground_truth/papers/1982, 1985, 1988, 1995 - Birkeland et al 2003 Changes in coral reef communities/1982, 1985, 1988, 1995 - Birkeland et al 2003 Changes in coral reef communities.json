@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities.md",
+  "source_sha256": "5943e7f0882141a076ce5c6c3db0d317bf454103794376087b420b51b2e15d5f",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "01bbebd57880cb5149d8ad74",
+      "paper_id": "1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities",
+      "source_path": "output/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities.md",
+      "section_heading": "Suggested citation:",
+      "section_start_line": 27,
+      "section_end_line": 34,
+      "model": "openai:gpt-4o-mini",
+      "question": "What page is the cited work listed on?",
+      "ground_truth_answer": "p. 237",
+      "ground_truth_chunks": [
+        "Birkeland, C.<sup>1</sup> , Randall, R.<sup>1</sup> , Green, A.<sup>2</sup> , Smith, B.<sup>1</sup> , and Wilkins, S.<sup>1</sup>. 2003. Changes in the coral reef communities of Fagatele Bay NMS and Tutuila Island (American Samoa), 1982-1995. Fagatele Bay National Marine Sanctuary Science Series. Pago Pago, AS. p. 237"
+      ]
+    },
+    {
+      "record_id": "6e5d1f380f12d7287af2f0c9",
+      "paper_id": "1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities",
+      "source_path": "output/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities.md",
+      "section_heading": "Previous Studies",
+      "section_start_line": 187,
+      "section_end_line": 202,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many specimens of reef-building corals were collected during the 1979 assessment?",
+      "ground_truth_answer": "525 specimens.",
+      "ground_truth_chunks": [
+        "During the 1979 assessment 525 specimens of reefbuilding corals were collected for systematic studies."
+      ]
+    },
+    {
+      "record_id": "2c7b044e81f29a1de0d4bff9",
+      "paper_id": "1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities",
+      "source_path": "output/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities.md",
+      "section_heading": "Discussion and summary of Acanthaster planci effects",
+      "section_start_line": 249,
+      "section_end_line": 260,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what primarily achieved coral skeletal integrity after Acanthaster planci predation?",
+      "ground_truth_answer": "Coral skeletal integrity was achieved primarily by the relatively rapid colonization and encrustation of the newly exposed corallum surfaces by crustose corallines.",
+      "ground_truth_chunks": [
+        "In conclusion, the coral reefs, as well as most of the individual coral colonies, retained their structural integrity in a wide range of habitats.",
+        "Coral skeletal integrity was achieved primarily by the relatively rapid colonization and encrustation of the newly exposed corallum surfaces by another primary reef framework builder, the crustose corallines."
+      ]
+    },
+    {
+      "record_id": "96193f56ebdd98aa76ecb3cf",
+      "paper_id": "1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities",
+      "source_path": "output/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities.md",
+      "section_heading": "Transect 2",
+      "section_start_line": 295,
+      "section_end_line": 308,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral genus constituted most of the new shingle deposits added to the reef flat south of the transect?",
+      "ground_truth_answer": "Acropora",
+      "ground_truth_chunks": [
+        "Although the reef flat area south of the transect site was previously veneered by rubble across much of its surface, significant new deposits consisting mostly of *Acropora* shingle has been added to the surface.",
+        "The new shingle deposits are especially conspicuous at the reef flat-reef margin boundary where the deposits form a linear ridge."
+      ]
+    },
+    {
+      "record_id": "127552036f5b2f82861b542a",
+      "paper_id": "1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities",
+      "source_path": "output/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities.md",
+      "section_heading": "Transect 6",
+      "section_start_line": 349,
+      "section_end_line": 358,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species recorded on Transect 6 in 1985 were not encountered on the transect or observed in the area during the 1995 assessment?",
+      "ground_truth_answer": "Acropora azurea and Galaxea fascicularis were recorded on the transect in 1985 but were not encountered on the transect or observed in the area during the 1995 assessment.",
+      "ground_truth_chunks": [
+        "In our 1985 assessment, 14 colonies of *Acropora azurea* were encountered on the transect. None were encountered on the transect in 1988, but one was observed in the area, and during the 1995 assessment, none were encountered on the transect or observed in the area.",
+        "In the 1985 and 1988 assessments, *Galaxea fascicularis* was encountered on the transect 11 and 7 times respectively, but during the 1995 assessment it was neither encountered on the transect or observed in the area."
+      ]
+    },
+    {
+      "record_id": "515ca55d658dffb384f5e41c",
+      "paper_id": "1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities",
+      "source_path": "output/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 2094,
+      "section_end_line": 2530,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which encrusting sponge was not recorded in 1985 but covered considerable areas of substrate in 1995?",
+      "ground_truth_answer": "The encrusting sponge Dysidea sp. (Dysidea herbacea complex).",
+      "ground_truth_chunks": [
+        "The encrusting sponge *Dysidea* sp. (*Dysidea herbacea* complex) was not recorded in 1985, but this sponge covered considerable areas of substrate in 1995.",
+        "The decline in sea urchins and the increase in sponges and overall diversity may be successional stages in recovery of the ecosystem."
+      ]
+    },
+    {
+      "record_id": "9005f066cd3b51504f2dfe5b",
+      "paper_id": "1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities",
+      "source_path": "output/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities.md",
+      "section_heading": "Table 16 continued",
+      "section_start_line": 2595,
+      "section_end_line": 2615,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species in Table 16 continued have an 'X' in the first data column (the column labeled 15 under TRANSECT 1)?",
+      "ground_truth_answer": "Dictyota friabilis and Gelidium pussilum.",
+      "ground_truth_chunks": [
+        "Dictyota friabilis<br>Setch.                       | X  |    | 1.0 (16) | 1.0 (16) |    |           |    | X  |    | 1.0 (16) | X  |",
+        "Gelidium pussilum<br>(Stackh.) LeJolis             | X  |    | X        |          |    |           |    |    | X  |          |    |"
+      ]
+    },
+    {
+      "record_id": "396e6625f526488f5d5435c4",
+      "paper_id": "1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities",
+      "source_path": "output/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 2962,
+      "section_end_line": 2967,
+      "model": "openai:gpt-4o-mini",
+      "question": "What major disturbances have affected the coral reefs of American Samoa in the last two decades?",
+      "ground_truth_answer": "They experienced a major outbreak of the corallivorous starfish Acanthaster planci, two devastating hurricanes, a mass coral bleaching event, and in some locations (e.g., Pago Pago Harbor) human impacts including sedimentation, eutrophication and pollution.",
+      "ground_truth_chunks": [
+        "The coral reefs of American Samoa have suffered many destructive impacts in the last two decades, including a major outbreak of the corallivorous starfish *Acanthaster planci,* two devastating hurricanes and a mass coral bleaching event (see Coral Communities).",
+        "In addition, the reefs in some locations, such as Pago Pago Harbor, have been subjected to human impacts including sedimentation, eutrophication and pollution (Craig *et al.* 1995, see Coral Communities)."
+      ]
+    },
+    {
+      "record_id": "978a86e1171d3b1e4804c4c6",
+      "paper_id": "1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities",
+      "source_path": "output/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities.md",
+      "section_heading": "Changes in the fish communities of Fagatele Bay from 1985 to 1995",
+      "section_start_line": 2996,
+      "section_end_line": 3013,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many fish species were recorded on the reef slope transects in Fagatele Bay in 1995?",
+      "ground_truth_answer": "A total of 133 fish species were recorded on the reef slope transects in Fagatele Bay in 1995.",
+      "ground_truth_chunks": [
+        "A total of 133 fish species were recorded on the reef slope transects in Fagatele Bay in 1995.",
+        "This fish community was characterized by three acanthurid species *(Ctenochaetus striatus, Acanthurus nigrofuscus* and *Acanthurus nigricans),* one labrid species *(Thalassoma quinquevittatum),* five pomacentrid species *(Chrysiptera leucompoma, Pomacentrus vaiuli, Chromis acares, Pomacentrus brachialis* and *Plectrogylphidodon lacrymatus)* and one species of scarid *(Scarus sordidus)* Tables 22a-c."
+      ]
+    },
+    {
+      "record_id": "eb2eabce03d49070a962e569",
+      "paper_id": "1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities",
+      "source_path": "output/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities/1982, 1985, 1988, 1995 - Birkeland et al 2003 Changes in coral reef communities.md",
+      "section_heading": "by Charles Birkeland",
+      "section_start_line": 5466,
+      "section_end_line": 5506,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Table 28 in this section, what was the total number of orange band disease (CLOD) occurrences recorded across all transects?",
+      "ground_truth_answer": "4",
+      "ground_truth_chunks": [
+        "| Totals |                    | 4    | 11      | 876                    |"
+      ]
+    }
+  ],
+  "failures": []
+}

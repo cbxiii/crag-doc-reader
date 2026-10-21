@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009.md",
+  "source_sha256": "0630a2179e6cddb9f8aad96cf0960a0498c497c4a82c78d621a7785a46beae56",
+  "status": "complete",
+  "selected_section_count": 8,
+  "successful_record_count": 8,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "b6250a348217bd08651fe0c2",
+      "paper_id": "Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009",
+      "source_path": "output/Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009.md",
+      "section_heading": "Shape-shifting corals: Molecular markers show morphology is evolutionarily plastic in Porites",
+      "section_start_line": 7,
+      "section_end_line": 28,
+      "model": "openai:gpt-4o-mini",
+      "question": "When was the article published?",
+      "ground_truth_answer": "24 February 2009.",
+      "ground_truth_chunks": [
+        "Published: 24 February 2009"
+      ]
+    },
+    {
+      "record_id": "fb41e7a83d851b735aed5d30",
+      "paper_id": "Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009",
+      "source_path": "output/Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009.md",
+      "section_heading": "Abstract",
+      "section_start_line": 29,
+      "section_end_line": 36,
+      "model": "openai:gpt-4o-mini",
+      "question": "Into how many genetically divergent groups did specimens matching the description of 'Porites lutea' sort?",
+      "ground_truth_answer": "They sorted into three genetically divergent groups.",
+      "ground_truth_chunks": [
+        "Nuclear and mitochondrial markers were congruent, clearly resolving many traditionally recognized species; however, branching and mounding varieties were genetically indistinguishable within at least two clades, and specimens matching the description of '*Porites lutea*' sorted into three genetically divergent groups."
+      ]
+    },
+    {
+      "record_id": "2a74fdc4b562f571f0c9e5f0",
+      "paper_id": "Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009",
+      "source_path": "output/Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009.md",
+      "section_heading": "Background",
+      "section_start_line": 37,
+      "section_end_line": 48,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which molecular markers did the study use to examine evolution and biodiversity in Porites?",
+      "ground_truth_answer": "The study used the nuclear ribosomal ITS region and mitochondrial markers: cytochrome c oxidase subunit I (COI) and the 'putative control region'.",
+      "ground_truth_chunks": [
+        "The nuclear ribosomal ITS region (a portion of the ribosomal cistron consisting of two rapidly evolving internal transcribed spacers and the 5.8S gene) is among the most widely used molecular markers for species-level studies in plants [9], fungi [10], and corals [11-29].",
+        "We explore patterns of evolution and biodiversity in *Porites* with both the ITS region and mitochondrial markers (cytochrome c oxidase subunit I and the 'putative control region')."
+      ]
+    },
+    {
+      "record_id": "325373712c945675465389db",
+      "paper_id": "Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009",
+      "source_path": "output/Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009.md",
+      "section_heading": "Results",
+      "section_start_line": 49,
+      "section_end_line": 174,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Pacific clades did the ITS phylograms not support traditional species designations for?",
+      "ground_truth_answer": "Clades I, II, III and V.",
+      "ground_truth_chunks": [
+        "ITS phylograms supported traditional species designations, with the exception of four Pacific clades: I, II, III and V (Figure 1).",
+        "Clade I contained both branching and mounding morphospecies collected across a broad geographic range (Caribbean, Eastern Pacific, Hawaii, Indo-West Pacific). Branching morphospecies (*P. cylindrica*, *P. compressa*, *P. duerdeni*, and *P. annae*) were genetically indistinguishable from each other, and from mounding morphospecies (*P. lobata*, and *P. solida*)."
+      ]
+    },
+    {
+      "record_id": "725e11579962931b89052cf3",
+      "paper_id": "Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009",
+      "source_path": "output/Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009.md",
+      "section_heading": "Discussion",
+      "section_start_line": 175,
+      "section_end_line": 200,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Discussion, which clades tend to contain broadcast spawning species and which clades tend to contain brooding species?",
+      "ground_truth_answer": "Clades I–V tend to contain broadcast spawning species (e.g., P. lobata, P. compressa, P. cylindrica), while Clades VI–XII tend to contain brooding species (e.g., P. astreoides, P. porites, P. hawaiiensis).",
+      "ground_truth_chunks": [
+        "The phylogenetic work is also an important starting point for studying the evolution of a variety of traits; for example, it is interesting to note that Clades I-V tend to contain broadcast spawning species such as *P. lobata, P. compressa*, and *P. cylindrica*, while Clades VI-XII tend to contain brooding species such as *P. astreoides*, *P. porites*, and *P. hawaiiensis*."
+      ]
+    },
+    {
+      "record_id": "27ee47c906f335349a4208c9",
+      "paper_id": "Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009",
+      "source_path": "output/Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009.md",
+      "section_heading": "Conclusion",
+      "section_start_line": 201,
+      "section_end_line": 204,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which molecular marker did the Conclusion state was particularly informative for the genus Porites?",
+      "ground_truth_answer": "The ITS region was particularly informative in this genus.",
+      "ground_truth_chunks": [
+        "The ITS region was particularly informative in this genus, and can be a valuable tool for elucidating patterns of evolution and biodiversity in corals.",
+        "Cytochrome c oxidase subunit 1 (COI) has very low levels of polymorphism and has limitations as a useful tool for delimitating coral species [42]; however, it was informative when combined and compared in a multiple marker approach."
+      ]
+    },
+    {
+      "record_id": "e1d447e44d77c27d50686b6f",
+      "paper_id": "Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009",
+      "source_path": "output/Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009.md",
+      "section_heading": "Methods",
+      "section_start_line": 205,
+      "section_end_line": 208,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which gene regions were amplified using the newly designed primers and what are their primer sequences?",
+      "ground_truth_answer": "The newly designed primers amplified the cytochrome c oxidase subunit I mitochondrial gene using ZCO1 5'-TCA ACT AAT CAT AAA GAT ATT GGT ACG-3' and ZCO1R 5'-TAA ACC TCT GGA TGC CCA AA-3', and the nuclear ribosomal ITS region using ITSZ1 5'-TAA AAG TCG TAA CAA GGT TTC CGT A-3' and ITSZ2 5'-CCT CCG CTT ATT GAT ATG CTT AAA T-3'. The \"putative mitochondrial control region\" was amplified with primers from Volmer & Palumbi [6].",
+      "ground_truth_chunks": [
+        "Several new primers were designed for this study with the aid of Primer 3 v 0.4.0 [43]. The primers amplify the cytochrome c oxidase subunit I mitochondrial gene (ZCO1 5'-TCA ACT AAT CAT AAA GAT ATT GGT ACG-3', ZCO1R 5'-TAA ACC TCT GGA TGC CCA AA-3') and the nuclear ribosomal ITS region (ITSZ1 5'-TAA AAG TCG TAA CAA GGT TTC CGT A-3', ITSZ2 5'-CCT CCG CTT ATT GAT ATG CTT AAA T-3').",
+        "The \"putative mitochondrial control region\" was amplified with primers from Volmer & Palumbi [6]."
+      ]
+    },
+    {
+      "record_id": "ecfe5bf6f787bbdaf01ae26c",
+      "paper_id": "Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009",
+      "source_path": "output/Forsman Barshis Hunter Toonen 2009/Forsman Barshis Hunter Toonen 2009.md",
+      "section_heading": "Phylogenetic Analysis",
+      "section_start_line": 209,
+      "section_end_line": 212,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the run length, stopping criterion, and burn-in used for the Bayesian analysis of the complete ITS dataset?",
+      "ground_truth_answer": "The complete ITS data set was run for 10 million generations in MrBayes 3.1.2, until the standard deviation of the split frequencies was below 0.01, with a burn-in period of 2.5 million generations.",
+      "ground_truth_chunks": [
+        "The complete ITS data set was run for 10 million generations in MrBayes 3.1.2 [46], until the standard deviation of the split frequencies was below 0.01, with a burn-in period of 2.5 million generations."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source_path": "output/1981 COTS in culture and language/1981 COTS in culture and language.md",
+  "source_sha256": "19838f931e76b88ac2fc69481737dc354ab546540780a376492efdc1b68263e7",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "b8cff589627fc416cb0d55a6",
+      "paper_id": "1981 COTS in culture and language/1981 COTS in culture and language",
+      "source_path": "output/1981 COTS in culture and language/1981 COTS in culture and language.md",
+      "section_heading": "Charles Birkeland 1/",
+      "section_start_line": 5,
+      "section_end_line": 35,
+      "model": "openai:gpt-4o-mini",
+      "question": "What traditional cure for injury from stepping on Acanthaster is described by high island cultures, and does it require using the same individual starfish?",
+      "ground_truth_answer": "They turn the injured Acanthaster over and place it mouth-down on the wound (or let it 'suck out' the poison); some accounts state it must be the same individual Acanthaster that caused the injury for the cure to work.",
+      "ground_truth_chunks": [
+        "When I was studying an Acanthaster outbreak in Palau, I accidentally jabbed my knee strongly against an Acanthaster and came to the boat with a lot of blood dripping out of six cuts in my knee. The boatman, Ngirbauliad (\"Yahd\") Mineich, advised me to take one of the Acanthaster and place it mouth down on the bloody knee.",
+        "This cure was common knowledge among Ponapean fishermen and it works if you are sure to use the same individual Acanthaster that harmed you as the individual to cure you. If you are jabbed by one Acanthaster and lift another to cure your pain, it will be of no use."
+      ]
+    }
+  ],
+  "failures": []
+}

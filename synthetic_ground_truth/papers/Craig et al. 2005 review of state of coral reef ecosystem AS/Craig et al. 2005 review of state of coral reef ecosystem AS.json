@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS.md",
+  "source_sha256": "98e7ca2514b5a4631963df6f9754d03334b67fd6f8ee50ecce0bf841a8e4bf43",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "f792eb9ce2e3bab834efb94b",
+      "paper_id": "Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS",
+      "source_path": "output/Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS.md",
+      "section_heading": "INTRODUCTION AND SETTING",
+      "section_start_line": 7,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the total area of coral reefs (to the 100 m depth) in American Samoa?",
+      "ground_truth_answer": "The total area of coral reefs (to the 100 m depth) in the Territory is 296 km².",
+      "ground_truth_chunks": [
+        "The islands range in size from the populated high island of Tutuila (138 km<sup>2</sup> ) to the uninhabited and remote Rose Atoll (4 km<sup>2</sup> ). The total area of coral reefs (to the 100 m depth) in the Territory is 296 km<sup>2</sup> . Due to the steepness of the main islands, shallow water habitats around the islands are limited and consist primarily of fringing coral reefs (85% of total coral reef area) with a few offshore banks (12%) and two atolls (3%)."
+      ]
+    },
+    {
+      "record_id": "40a9c40d6f4c194b96d9c39c",
+      "paper_id": "Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS",
+      "source_path": "output/Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS.md",
+      "section_heading": "Coastal Development and Runoff",
+      "section_start_line": 49,
+      "section_end_line": 64,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the population density of Tutuila and how does it compare to Manhattan?",
+      "ground_truth_answer": "The population density of Tutuila is 1,350 people per km^2, and this surpasses the population density of Manhattan in New York City.",
+      "ground_truth_chunks": [
+        "Most of the population of American Samoa resides on Tutuila.",
+        "As a result, the population density of the island is 1,350 people per km<sup>2</sup>, which surpasses the population density of Manhattan in New York City, even though the island is semi-rural and the tallest structures are two stories high."
+      ]
+    },
+    {
+      "record_id": "76124b4e17e60615483c15e0",
+      "paper_id": "Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS",
+      "source_path": "output/Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS.md",
+      "section_heading": "Marine Debris",
+      "section_start_line": 91,
+      "section_end_line": 94,
+      "model": "openai:gpt-4o-mini",
+      "question": "What kinds of debris litter the shallow and deep harbor bottom in Pago Pago Harbor?",
+      "ground_truth_answer": "The shallow and deep harbor bottom is littered with fuel barrels, car batteries, and other debris; there is also a 57-year old sunken ship (*U.S.S. Chehalis*) in the harbor that may still contain a fuel load.",
+      "ground_truth_chunks": [
+        "Marine debris is not presently a major problem except in the industrialized Pago Pago Harbor.",
+        "In addition to a 57-year old sunken ship (*U.S.S. Chehalis*) in the harbor that may still contain a fuel load, the shallow and deep harbor bottom is littered with fuel barrels, car batteries, and other debris."
+      ]
+    },
+    {
+      "record_id": "1b9b880156ffcc0cc0476448",
+      "paper_id": "Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS",
+      "source_path": "output/Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS.md",
+      "section_heading": "Bishop Museum Introduced Marine Species Survey",
+      "section_start_line": 140,
+      "section_end_line": 159,
+      "model": "openai:gpt-4o-mini",
+      "question": "What types of marine organisms were included in the Bishop Museum Introduced Marine Species Survey?",
+      "ground_truth_answer": "Macroinvertebrates, benthic macroalgae, and fish.",
+      "ground_truth_chunks": [
+        "A survey of marine organisms (macroinvertebrates, benthic macroalgae, fish) was conducted in Pago Pago Harbor, Fagatele Bay National Marine Sanctuary, the National Park on Tutuila Island, and other core sites to detect introduced marine species (Coles et al., 2003)."
+      ]
+    },
+    {
+      "record_id": "dd4bd6658ead739caae474fa",
+      "paper_id": "Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS",
+      "source_path": "output/Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS.md",
+      "section_heading": "Stream Monitoring",
+      "section_start_line": 190,
+      "section_end_line": 197,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many streams were selected for monitoring in the first year, and how were they distributed among watershed classes?",
+      "ground_truth_answer": "Eight streams were selected in the first year, two from each of four watershed classes.",
+      "ground_truth_chunks": [
+        "Streams are initially classified into four groups according to local population density as an indicator of the potential human impact on local streams.",
+        "In the first year, eight streams were selected, two from each of four watershed classes."
+      ]
+    },
+    {
+      "record_id": "7b75e3774612a596b3681a73",
+      "paper_id": "Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS",
+      "source_path": "output/Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS.md",
+      "section_heading": "Long-Term Monitoring in Tutuila",
+      "section_start_line": 236,
+      "section_end_line": 255,
+      "model": "openai:gpt-4o-mini",
+      "question": "Since what year has long-term monitoring of corals at selected sites around Tutuila Island been ongoing?",
+      "ground_truth_answer": "Since 1982.",
+      "ground_truth_chunks": [
+        "Long-term monitoring of corals at selected sites around Tutuila Island has been ongoing since 1982."
+      ]
+    },
+    {
+      "record_id": "5b63ab67d6298d13006e7a03",
+      "paper_id": "Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS",
+      "source_path": "output/Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS.md",
+      "section_heading": "Benthic Habitat Mapping",
+      "section_start_line": 292,
+      "section_end_line": 299,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year was the CCMA-BT near-shore benthic habitat mapping project completed?",
+      "ground_truth_answer": "2004.",
+      "ground_truth_chunks": [
+        "The project, which was completed in 2004, mapped 71.5 km² of nearshore habitat in the islands and produced a series of 45 maps that are currently being distributed via a print atlas, CD-ROM, and on-line at http://biogeo.nos.noaa.gov/products/us\\_pac\\_terr/."
+      ]
+    },
+    {
+      "record_id": "8822b5dab4ee6eb65e96113b",
+      "paper_id": "Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS",
+      "source_path": "output/Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS.md",
+      "section_heading": "Fish Harvest Surveys (Creel Surveys)",
+      "section_start_line": 346,
+      "section_end_line": 367,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the per capita catch in the outer islands of Manu'a according to the section?",
+      "ground_truth_answer": "73 kg/ person",
+      "ground_truth_chunks": [
+        "However, in the outer islands of Manu'a, the per capita catch was much higher at 73 kg/ person (Craig et al., 2004)."
+      ]
+    },
+    {
+      "record_id": "624c1542ce41f15fb6a3cb83",
+      "paper_id": "Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS",
+      "source_path": "output/Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS.md",
+      "section_heading": "Marine Protected Areas Program",
+      "section_start_line": 416,
+      "section_end_line": 442,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Marine Protected Area in American Samoa is identified as the only long-term, no-take MPA?",
+      "ground_truth_answer": "Rose Atoll.",
+      "ground_truth_chunks": [
+        "Table 11.3. Coral reef area contained within MPAs in American Samoa. Only Rose Atoll is a long-term, no-take MPA. Source: P. Craig, pers. obs.",
+        "| Rose Atoll | Rose Atoll NWR    | 158.1          | 9.9                                | 11.6   |"
+      ]
+    },
+    {
+      "record_id": "62898225241028b2ea48c9b6",
+      "paper_id": "Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS",
+      "source_path": "output/Craig et al. 2005 review of state of coral reef ecosystem AS/Craig et al. 2005 review of state of coral reef ecosystem AS.md",
+      "section_heading": "Gaps",
+      "section_start_line": 469,
+      "section_end_line": 476,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the 'Gaps' section, what factors make boat-based enforcement patrols in American Samoa unsafe or unsupported?",
+      "ground_truth_answer": "Funding must be found to ensure enforcement operations conducted on boats are safe; the U.S. Coast Guard station does not possess capabilities for water-based rescue or assistance; and there is no radio system in the Territory to support patrol activities.",
+      "ground_truth_chunks": [
+        "In addition, funding must also be found to ensure that enforcement operations conducted on boats are safe. While American Samoa does have a U.S. Coast Guard presence, the USCG station does not possess the capabilities for water-based rescue or assistance, and there is no radio system in place in the Territory to support patrol activities."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Garrison et al 2007 Mar Poll Bull (2)/Garrison et al 2007 Mar Poll Bull (2).md",
+  "source_sha256": "7cd68ae7c88ae98601a2609e03ffebff416cdccc58c5785d175ec6b27a8633c5",
+  "status": "complete",
+  "selected_section_count": 2,
+  "successful_record_count": 2,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "8dc23eecbff7e790479256d8",
+      "paper_id": "Garrison et al 2007 Mar Poll Bull (2)/Garrison et al 2007 Mar Poll Bull (2)",
+      "source_path": "output/Garrison et al 2007 Mar Poll Bull (2)/Garrison et al 2007 Mar Poll Bull (2).md",
+      "section_heading": "Garrison et al 2007 Mar Poll Bull (2).md",
+      "section_start_line": 1,
+      "section_end_line": 11,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which entry in this section provides reference methods for determining petroleum hydrocarbons in sediments?",
+      "ground_truth_answer": "UNEP/IOC/IAEA, 1992. Determination of petroleum hydrocarbons in sediments. Reference Methods for Marine Pollution Studies 20. UNEP, 75 pp.",
+      "ground_truth_chunks": [
+        "- UNEP/IOC/IAEA, 1992. Determination of petroleum hydrocarbons in sediments. Reference Methods for Marine Pollution Studies 20. UNEP, 75 pp."
+      ]
+    },
+    {
+      "record_id": "725f4912f3852f48bc1bd8bc",
+      "paper_id": "Garrison et al 2007 Mar Poll Bull (2)/Garrison et al 2007 Mar Poll Bull (2)",
+      "source_path": "output/Garrison et al 2007 Mar Poll Bull (2)/Garrison et al 2007 Mar Poll Bull (2).md",
+      "section_heading": "Identifying nutrient sources to three lagoons at Ofu and Olosega, American Samoa using d15N of benthic macroalgae",
+      "section_start_line": 12,
+      "section_end_line": 198,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the mean δ15N values reported for Dictyosphaeria versluysii and Halimeda sp. in Table 3?",
+      "ground_truth_answer": "Dictyosphaeria versluysii: 1.0 ± 0.7; Halimeda sp.: 3.8 ± 0.6.",
+      "ground_truth_chunks": [
+        "| Dictyosphaeria versluysii | $1.0 \\pm 0.7$                                   | $0.9 \\pm 0.2$                 | $12.6 \\pm 3.1$              |",
+        "| Halimeda sp.              | $3.8 \\pm 0.6$                                   | $0.6 \\pm 0.2$                 | $13.8 \\pm 7.4$              |"
+      ]
+    }
+  ],
+  "failures": []
+}

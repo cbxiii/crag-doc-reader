@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS.md",
+  "source_sha256": "dfa989aea1bfdaa81c30bf2bb14489e8eb0a9dfd5c72089b62e01d77f66024e4",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "3e1ef622aaf78d32e7f7a705",
+      "paper_id": "Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS",
+      "source_path": "output/Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS.md",
+      "section_heading": "Nutrient thresholds to protect water quality and coral reefs",
+      "section_start_line": 11,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which U.S. territories are represented among the author affiliations in this section?",
+      "ground_truth_answer": "Guam and American Samoa.",
+      "ground_truth_chunks": [
+        "- <span id=\"page-0-0\"></span><sup>a</sup> University of Guam Marine Laboratory, UOG Station, Mangilao, GU 96923, USA",
+        "- <span id=\"page-0-3\"></span><sup>c</sup> Coral Reef Advisory Group, Department of Marine and Wildlife Resources, Pago Pago, AS 96799, American Samoa"
+      ]
+    },
+    {
+      "record_id": "aaf057995b6de95ea5407e5d",
+      "paper_id": "Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS",
+      "source_path": "output/Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS.md",
+      "section_heading": "ABSTRACT",
+      "section_start_line": 25,
+      "section_end_line": 28,
+      "model": "openai:gpt-4o-mini",
+      "question": "What dissolved inorganic nitrogen (DIN) benchmark range did the study recommend to protect coastal water quality and coral reefs surrounding Tutuila, American Samoa?",
+      "ground_truth_answer": "0.1 to 0.15 mg l^{-1}",
+      "ground_truth_chunks": [
+        "Exceedance criteria were considered alongside biological data to recommend a  $0.1 \\text{ to } 0.15 \\text{ mg l}^{-1}$  benchmark to protect coastal water quality and coral reefs surrounding Tutuila, American Samoa."
+      ]
+    },
+    {
+      "record_id": "07fdd6bc447e8b78b4da6213",
+      "paper_id": "Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS",
+      "source_path": "output/Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS.md",
+      "section_heading": "2. Materials and methods",
+      "section_start_line": 47,
+      "section_end_line": 50,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many watersheds were examined in the study on Tutuila, American Samoa?",
+      "ground_truth_answer": "34 watersheds.",
+      "ground_truth_chunks": [
+        "We examined 34 watersheds that represented a gradient of pristine-to-high human influence around the island.",
+        "These watersheds have previously been classified in accordance with their human population levels as pristine, moderate, or extensive ([DiDonato, 2004;](#page-6-14) [Tuitele et al., 2016\\)](#page-6-15)."
+      ]
+    },
+    {
+      "record_id": "1a3cab53778e9684d41b1f26",
+      "paper_id": "Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS",
+      "source_path": "output/Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS.md",
+      "section_heading": "2.1. Water-quality data",
+      "section_start_line": 51,
+      "section_end_line": 56,
+      "model": "openai:gpt-4o-mini",
+      "question": "Over what period and how frequently were water-quality samples collected from the streams?",
+      "ground_truth_answer": "Water-quality samples were collected monthly from September 2016 to September 2017, during the same 3‑day timeframe each month that coincided with the lowest tides during new moon phases.",
+      "ground_truth_chunks": [
+        "Water-quality data were collected from 34 streams on a monthly basis from September 2016 to September 2017.",
+        "Sampling was conducted during the same 3-day timeframe each month.",
+        "The 3-day sampling period coincided with the lowest tides during new moon phases."
+      ]
+    },
+    {
+      "record_id": "1da08694f495ba7b89bc9bd5",
+      "paper_id": "Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS",
+      "source_path": "output/Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS.md",
+      "section_heading": "2.2. Coral-assemblage data",
+      "section_start_line": 57,
+      "section_end_line": 60,
+      "model": "openai:gpt-4o-mini",
+      "question": "What three metrics were derived from the coral colony data to represent coral assemblage condition?",
+      "ground_truth_answer": "The three metrics were: (1) assemblage heterogeneity (mean multivariate difference between replicate quadrates at a site), (2) skewness of colony-size distributions (with larger values indicating more compromised assemblages dominated by smaller individuals), and (3) Shannon–Weaver evenness (with larger values indicating more species with more equal abundances).",
+      "ground_truth_chunks": [
+        "The metrics were: (1) assemblage heterogeneity (i.e., mean multivariate difference between replicate quadrates at a site, with larger values representing more functionally-diverse assemblages) ([Oksanen et al., 2010](#page-6-18)), (2) skewness of colony-size distributions with larger values indicating more compromised assemblages dominated by smaller individuals, and (3) Shannon–Weaver evenness with larger values indicating more species with more equal abundances.",
+        "Metric 2 was rescaled inversely to match the low-to-high intuitive manner for defining condition. Metrics were then standardized, and the mean was taken to represent a latent variable describing the coral assemblage."
+      ]
+    },
+    {
+      "record_id": "4f86ad543c808061c48b1391",
+      "paper_id": "Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS",
+      "source_path": "output/Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS.md",
+      "section_heading": "2.4. Data analyses",
+      "section_start_line": 67,
+      "section_end_line": 70,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what time intervals were rainfall and wind data examined for predicting daily DIN loadings?",
+      "ground_truth_answer": "Rainfall and wind data were examined (1) day, (2) days, and (1) week prior to sampling.",
+      "ground_truth_chunks": [
+        "Rainfall and wind data were examined (1) day, (2) days, and (1) week prior to sampling."
+      ]
+    },
+    {
+      "record_id": "1ef0665d367fca8cecab1f4c",
+      "paper_id": "Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS",
+      "source_path": "output/Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS.md",
+      "section_heading": "2.5. DIN thresholds",
+      "section_start_line": 71,
+      "section_end_line": 76,
+      "model": "openai:gpt-4o-mini",
+      "question": "What three classes were used to reclassify waterbodies based on the Box-Cox transformed y-intercept values, and how was each class defined?",
+      "ground_truth_answer": "They split the Box-Cox transformed y-intercept values into three classes: (i) \"pristine\" — values below the mean minus one standard deviation (little human impact); (ii) \"moderate\" — values between the mean and the upper and lower standard deviations; and (iii) \"extensive\" — values above the mean plus one standard deviation (highest human impact).",
+      "ground_truth_chunks": [
+        "We repeated a pre-defined classification process, noted above, to split the Box-Cox transformed, normally-distributed vector of y-intercepts into three classes that represented: (i) values below the mean minus one standard deviation as \"pristine\" with little human impact, (ii) values between the mean and upper and lower standard deviations as \"moderate\", and (iii) values above the mean plus one standard deviation as \"extensive\" with highest human impact ([DiDonato, 2004\\)](#page-6-14)."
+      ]
+    },
+    {
+      "record_id": "5f4a7b0129f086c835ed8213",
+      "paper_id": "Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS",
+      "source_path": "output/Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS.md",
+      "section_heading": "3. Results",
+      "section_start_line": 77,
+      "section_end_line": 106,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which environmental variables and lag times were significant predictors of daily stream dissolved inorganic nitrogen (DIN) concentrations in the best-fit mixed model?",
+      "ground_truth_answer": "Rainfall (2-day lag, positive), windspeed (1-week lag, negative), and sea-surface temperature (SST, 5-day lag, negative); rainfall interacted with windspeed and SST, and the best-fit mixed model included varying y-intercepts for each site.",
+      "ground_truth_chunks": [
+        "Daily stream DIN concentrations were positively related to rainfall (2-day lag time), negatively related to windspeed (1-week lag time), and negatively related to sea-surface temperature (SST, 5-day lag time) ([Fig. 2](#page-3-1)a; χ2 = 115.4, P < 0.001, ΔAIC = 144 comparing best-fit mixed model with the null mixed model).",
+        "The latter two terms were interactive with rainfall, and a third interactive term including all variables modulated the response but had the weakest effect.",
+        "The bestfit model required varying y-intercepts for each site that were indicative of mean annual stream DIN concentrations, or human factors (i.e., ΔAIC = 111 comparing models with and without random effects, [Fig. 2](#page-3-1)b), and log-transformation of daily stream DIN concentrations (Supplemental Fig. S2)."
+      ]
+    },
+    {
+      "record_id": "f08f42ba29645e319fd57ba7",
+      "paper_id": "Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS",
+      "source_path": "output/Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS.md",
+      "section_heading": "5. Conclusions",
+      "section_start_line": 125,
+      "section_end_line": 128,
+      "model": "openai:gpt-4o-mini",
+      "question": "What did the present study model and recommend?",
+      "ground_truth_answer": "The study modeled daily DIN loading across a tropical Pacific island and recommended a transparent process to develop legislative water-quality criteria to protect coastal waters and coral reefs.",
+      "ground_truth_chunks": [
+        "While improving past development is very difficult to regulate and often relies upon government-funded projects, ensuring new development adheres to accurate and relevant nutrient criteria is highly desirable [\\(Gannon et al., 1996;](#page-6-36) [Morgan and Owens,](#page-6-37) [2001\\)](#page-6-37).",
+        "The present study helped to fill this gap by modeling daily DIN loading across a tropical Pacific island and recommending a transparent process to develop legislative water-quality criteria to protect coastal waters and coral reefs."
+      ]
+    },
+    {
+      "record_id": "98ee3f566bcedf5ecca4f789",
+      "paper_id": "Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS",
+      "source_path": "output/Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS.md",
+      "section_heading": "CRediT authorship contribution statement",
+      "section_start_line": 129,
+      "section_end_line": 132,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which author is credited with Funding acquisition?",
+      "ground_truth_answer": "Mia Comeros-Raynal.",
+      "ground_truth_chunks": [
+        "**Mia Comeros-Raynal:**Conceptualization, Methodology, Investigation, Data curation, Software, Visualization, Writing - review & editing, Funding acquisition."
+      ]
+    }
+  ],
+  "failures": []
+}

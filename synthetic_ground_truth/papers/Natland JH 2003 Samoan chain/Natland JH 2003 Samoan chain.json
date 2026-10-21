@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain.md",
+  "source_sha256": "c77aef74227efc3af56caeb03639a57d7a5b23b84c4b0f744f66c2757ef0a209",
+  "status": "complete",
+  "selected_section_count": 8,
+  "successful_record_count": 8,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "c2e0ab7bdcffe09fd12e39d9",
+      "paper_id": "Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain",
+      "source_path": "output/Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain.md",
+      "section_heading": "Abstract",
+      "section_start_line": 17,
+      "section_end_line": 20,
+      "model": "openai:gpt-4o-mini",
+      "question": "What type of lava has erupted from the Samoan post-erosional volcanic rift system?",
+      "ground_truth_answer": "Nephelinite-series mafic lavas.",
+      "ground_truth_chunks": [
+        "One fracture, the Samoan post-erosional volcanic rift system, is superimposed on at least three of these, has small vents spaced only 1-6 km (average 2 km) apart, has erupted only nephelinite-series mafic lavas, and has been active along a length of > 200 km since the Quaternary."
+      ]
+    },
+    {
+      "record_id": "87a61414ebc4b3c5b626129d",
+      "paper_id": "Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain",
+      "source_path": "output/Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain.md",
+      "section_heading": "Introduction",
+      "section_start_line": 21,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Introduction, what mechanism is proposed to explain Samoan volcanism?",
+      "ground_truth_answer": "Samoan volcanism results from tapping of a shallow enriched asthenospheric layer through fractures induced by deformation of the Pacific plate near the Tonga Trench.",
+      "ground_truth_chunks": [
+        "Then I apply simple principles of fracture mechanics to explain that Samoan volcanism results from tapping of a shallow enriched asthenospheric layer through fractures induced by deformation of the Pacific plate near the Tonga Trench (see also Cracks & Stress page)."
+      ]
+    },
+    {
+      "record_id": "41d66e2b0bc3f3f33ace0348",
+      "paper_id": "Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain",
+      "source_path": "output/Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain.md",
+      "section_heading": "Bathymetry",
+      "section_start_line": 25,
+      "section_end_line": 60,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Bathymetry section, what length range do the seamount ridges of the Samoan chain have based on satellite altimetry?",
+      "ground_truth_answer": "They are 100-250 km long.",
+      "ground_truth_chunks": [
+        "Bathymetry derived from satellite altimetry (Figure 1a) shows that the several seamount ridges of the Samoan chain are 100-250 km long (see scale bar in Figure 1b), but many can clearly be linked end to end as longer curving lineaments that are broken by short gaps."
+      ]
+    },
+    {
+      "record_id": "9157da6aaaa6134656afb2c9",
+      "paper_id": "Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain",
+      "source_path": "output/Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain.md",
+      "section_heading": "Patterns of Samoan Volcanism",
+      "section_start_line": 61,
+      "section_end_line": 70,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the average separation of post-erosional volcanic cones on Upolu and how many cones were measured?",
+      "ground_truth_answer": "On Upolu the average separation of 43 cones spaced over 84 km is 2.0 ± 1.2 km.",
+      "ground_truth_chunks": [
+        "On Upolu the average separation of 43 cones spaced over 84 km is 2.0 ± 1.2 km."
+      ]
+    },
+    {
+      "record_id": "bc3447e3ec06d65df80fc5f1",
+      "paper_id": "Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain",
+      "source_path": "output/Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain.md",
+      "section_heading": "Structural Interpretation",
+      "section_start_line": 71,
+      "section_end_line": 82,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why is the Samoan post-erosional rift described as orthogonal to the direction of least principal stress?",
+      "ground_truth_answer": "Because flexure of the Pacific Plate toward the Tonga Trench produces tensional stress across the bend, so the rift system is for the most part orthogonal to the direction of least principal stress, which is toward the transform portion of the Tonga Trench.",
+      "ground_truth_chunks": [
+        "Alignments of volcanoes and subordinate vents have often been described in terms of propagation of fractures in a direction perpendicular to that of least principal stress, in accordance with principles of fracture mechanics (cf. *Lawn & Wilshaw*, 1975; *Atkinson*, 1987). This can either be perpendicular to the direction of tension, as in the flanking rift systems of Hawaiian volcanoes (e.g., *Fiske & Jackson*, 1972), or parallel to the direction of compression, as in Pacific arc systems (*Nakamura*, 1977).",
+        "I have described the Samoan post-erosional rift as extending along the crest of a sideways bend of the underlying Pacific Plate toward the Tonga Trench (Figure 1c; *Natland*, 1980). Flexure of the plate toward the trench produces tensional stress across the bend. Therefore the rift system is for the most part orthogonal to the direction of least principal stress, which is toward the transform portion of the Tonga Trench. The stresses that control the location, width, and length of the post-erosional rift zone are within the lithosphere, not the superstructure of the volcanic ridges."
+      ]
+    },
+    {
+      "record_id": "bc9e0a501825b5643ff0cb5f",
+      "paper_id": "Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain",
+      "source_path": "output/Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain.md",
+      "section_heading": "Geochemistry",
+      "section_start_line": 83,
+      "section_end_line": 94,
+      "model": "openai:gpt-4o-mini",
+      "question": "What isotopic ratio and isotopic signature characterize many Samoan shield and post-erosional basalts?",
+      "ground_truth_answer": "Many Samoan shield and post-erosional basalts have 87Sr/86Sr > 0.705, which is a hallmark of the EMII isotopic signature.",
+      "ground_truth_chunks": [
+        "Many Samoan shield and post-erosional basalts have 87Sr/86Sr > 0.705, a characteristic of several volcanic chains in Polynesia (*Hedge*, 1978, *Hart*, 1982), and a hallmark of the EMII isotopic signature (*Zindler & Hart*, 1986; *Hofmann*, 1997)."
+      ]
+    },
+    {
+      "record_id": "09636fba4415ebea228da14d",
+      "paper_id": "Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain",
+      "source_path": "output/Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain.md",
+      "section_heading": "A Chemically Heterogeneous Source Layer beneath the Lithosphere",
+      "section_start_line": 95,
+      "section_end_line": 120,
+      "model": "openai:gpt-4o-mini",
+      "question": "What simple explanation does the section propose for why distinctive lavas have simultaneously erupted across Samoa since the Quaternary?",
+      "ground_truth_answer": "That the shallow asthenosphere beneath Samoa harbors a laterally enriched layer of readily fusible mantle material; when deep fractures penetrate the lithosphere they tap this enriched layer and enriched lavas erupt.",
+      "ground_truth_chunks": [
+        "The simplest possibility is that everywhere beneath Samoa the shallow asthenosphere harbors an enriched layer of readily fusible mantle material. Wherever a deep fracture penetrates the lithosphere, enriched lavas erupt; what erupts is what each fracture encounters."
+      ]
+    },
+    {
+      "record_id": "d72c07a25cd557b6803669cb",
+      "paper_id": "Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain",
+      "source_path": "output/Natland JH 2003 Samoan chain/Natland JH 2003 Samoan chain.md",
+      "section_heading": "Comment",
+      "section_start_line": 121,
+      "section_end_line": 130,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what do geochemists ascribe the isotopic end-members EMI, EMII, and HiMu in ocean-island basalts to?",
+      "ground_truth_answer": "EMI and EMII represent varieties of sediment, and HiMu represents some type of hydrothermally altered ocean crust.",
+      "ground_truth_chunks": [
+        "Geochemists now tend to ascribe the various isotopic end-members in ocean-island basalts to materials that must once have been at the Earth's surface. EMI and EMII thus represent varieties of sediment, and HiMu some type of hydrothermally altered ocean crust (*Zindler & Hart*, 1986; *Hofmann*, 1997; *Stracke et al.*, 2003)."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "source_path": "output/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef.md",
+  "source_sha256": "58b91aa6fe4861d4c7c231c30589d118b23a7a2e7866e96bb7109bd41333084e",
+  "status": "partial",
+  "selected_section_count": 10,
+  "successful_record_count": 9,
+  "failure_count": 1,
+  "records": [
+    {
+      "record_id": "1792c4c2f6384e1fbcbac9dc",
+      "paper_id": "lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef",
+      "source_path": "output/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef.md",
+      "section_heading": "Quantifying spatial gradients in coral reef benthic communities using multivariate dispersion",
+      "section_start_line": 35,
+      "section_end_line": 44,
+      "model": "openai:gpt-4o-mini",
+      "question": "What benthic community characteristics were associated with low-, medium-, and high-dispersion sites?",
+      "ground_truth_answer": "Low-dispersion sites were characterized by high hard coral cover; medium-dispersion sites were generally dominated by crustose coralline algae; high-dispersion sites were dominated by turf and fleshy coralline algae.",
+      "ground_truth_chunks": [
+        "Benthic communities with low, medium and high dispersion each had distinct and consistent underlying benthic community characteristics. Low dispersion sites were consistently characterized by high hard coral cover, medium dispersion sites were generally dominated by crustose coralline algae, while high dispersion sites were dominated by turf and fleshy coralline algae.",
+        "Variability in hard coral and turf algal cover explained 42% of the underlying variation in benthic community dispersion across sites, while site-level gradients in human impacts and environmental factors did not correlate well with variations in benthic community dispersion."
+      ]
+    },
+    {
+      "record_id": "e560666bf5682a91394a8e0e",
+      "paper_id": "lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef",
+      "source_path": "output/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 45,
+      "section_end_line": 74,
+      "model": "openai:gpt-4o-mini",
+      "question": "What metric did the authors apply to characterize coral reef benthic community variability?",
+      "ground_truth_answer": "They applied the multivariate dispersion metric (Anderson's 'multivariate dispersion'), a measure of beta diversity that quantifies variability in ecological communities in multivariate space.",
+      "ground_truth_chunks": [
+        "Beta diversity, a measure of biodiversity related to species turnover, can be used to estimate the variability in species composition among sampling units for a given area at a given spatial scale [\\[39](#page-17-0)]. Anderson [[40\\]](#page-17-0) developed the 'multivariate dispersion' metric, as a measure of beta diversity, which quantifies the variability in ecological communities (in multivariate space) among independent sampling units [\\(figure 1\\)](#page-2-0).",
+        "Here, we apply and assess the use of the multivariate dispersion metric to characterize coral reef benthic communities."
+      ]
+    },
+    {
+      "record_id": "1406dcb792d3609118051ad2",
+      "paper_id": "lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef",
+      "source_path": "output/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef.md",
+      "section_heading": "2.1. Study area",
+      "section_start_line": 77,
+      "section_end_line": 80,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what depth and how far from major stream mouths were the survey sites located?",
+      "ground_truth_answer": "Survey sites were located at 10 m depth and approximately 250 m out from any major stream mouth.",
+      "ground_truth_chunks": [
+        "To ensure comparability, survey sites were located in bays on the forereef habitat at 10 m depth and approximately 250 m out from any major stream mouth ([figure 2](#page-4-0)*b*)."
+      ]
+    },
+    {
+      "record_id": "57b07137e56a3dbb0d306d79",
+      "paper_id": "lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef",
+      "source_path": "output/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef.md",
+      "section_heading": "2.3. Quantifying human impacts and environmental factors",
+      "section_start_line": 87,
+      "section_end_line": 98,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were dissolved inorganic nitrogen concentrations measured and summarized for each survey site?",
+      "ground_truth_answer": "Dissolved inorganic nitrogen concentrations were measured using a SEAL Analytical AA3 HR nutrient analyzer, and for each survey site the 12‑month mean, standard deviation and maximum were calculated from samples collected (monthly where possible) from 26 streams between September 2016 and September 2017 (with two sites sampled only twice and two sites not sampled).",
+      "ground_truth_chunks": [
+        "Dissolved inorganic nitrogen was used as a proxy of 'water quality' owing to it often being the most abundant and bioavailable form of nitrogen and relatively straightforward and economical to analyse [\\[59](#page-17-0)]. Dissolved inorganic nitrogen concentrations (in mg l−1) were measured using a SEAL Analytical AA3 HR nutrient analyzer [[50\\]](#page-17-0).",
+        "Mean, standard deviation and maximum dissolved inorganic nitrogen were calculated for each survey site using data from samples collected at 26 streams, which were located within major watersheds associated with each survey site. The samples were collected at the same time each month over a 12-month period between September 2016 and September 2017 with a few exceptions. Two of the survey sites were only sampled twice, and another two sites were not sampled at all owing to the inaccessibility of the stream from land. As each sample represents a snapshot in time, we calculated the 12 month mean, standard deviation and maximum value for each site to account for any seasonal variations in rainfall and storm events."
+      ]
+    },
+    {
+      "record_id": "62481528f9913fad29fd7e5f",
+      "paper_id": "lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef",
+      "source_path": "output/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef.md",
+      "section_heading": "2.4. Statistical analyses",
+      "section_start_line": 99,
+      "section_end_line": 144,
+      "model": "openai:gpt-4o-mini",
+      "question": "What distance measure did the authors use to calculate distances to the group centroid in the betadisper analysis, and why?",
+      "ground_truth_answer": "They used distance to spatial median as the distance measure because it is less affected by outliers.",
+      "ground_truth_chunks": [
+        "We used distance to spatial median as our distance measure (the point in the multivariate cloud that minimizes the sum of the distances from each replicate observation to that point) as it is less affected by outliers [\\[63](#page-18-0)].",
+        "Calculations of multivariate dispersion were run on a Euclidean similarity matrix for the mean percentage cover of the 10 major benthic variables."
+      ]
+    },
+    {
+      "record_id": "acab7a11c52f6b97f77951ea",
+      "paper_id": "lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef",
+      "source_path": "output/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef.md",
+      "section_heading": "3.1. Intra-island gradients in benthic cover",
+      "section_start_line": 147,
+      "section_end_line": 162,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which biogeographical sector had the highest mean hard coral cover, and what was that mean?",
+      "ground_truth_answer": "The northeast sector had the highest mean hard coral cover: 35.6% ± 7.4%.",
+      "ground_truth_chunks": [
+        "Mean (± s.e.) hard coral cover peaked in the northeast (35.6% ± 7.4%) and was lowest in the southeast (22.4% ± 4.9%) [\\(figure 3](#page-7-0)*a*)."
+      ]
+    },
+    {
+      "record_id": "77e75f2ed6374f1af555f003",
+      "paper_id": "lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef",
+      "source_path": "output/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef.md",
+      "section_heading": "3.4. Ecological drivers of multivariate dispersion among sites",
+      "section_start_line": 199,
+      "section_end_line": 214,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the underlying variation in benthic community multivariate dispersion across the 28 sites was explained by variations in hard coral and turf algae cover?",
+      "ground_truth_answer": "41.5%",
+      "ground_truth_chunks": [
+        "Variations in hard coral and turf algae cover (top-performing model) explained 41.5% of the underlying variation in benthic community multivariate dispersion across the 28 sites (table 2).",
+        "Benthic community multivariate dispersion was negatively correlated with hard coral cover and positively correlated with turf algae cover ([figure 8\\)](#page-12-0)."
+      ]
+    },
+    {
+      "record_id": "18a77a80d44e0da442bb093f",
+      "paper_id": "lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef",
+      "source_path": "output/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef.md",
+      "section_heading": "3.5. Correlations between benthic community multivariate dispersion and human impacts and environmental factors",
+      "section_start_line": 215,
+      "section_end_line": 243,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which single predictor explained the largest proportion of the overall variation in benthic community multivariate dispersion, and what percentage did it explain?",
+      "ground_truth_answer": "Benthic habitat complexity; it explained 10.2% (Table 3 shows 10.213%).",
+      "ground_truth_chunks": [
+        "Variations in benthic habitat complexity, reef steepness and population density (the top three performing models) explained only 10.2, 7.4 and 7.3% of the overall variability in benthic community multivariate dispersion respectively (table 3).",
+        "| 62.854 | 10.213    | 225.2  | habitat complexity (10.2%)                                  |"
+      ]
+    },
+    {
+      "record_id": "1fa9eba403c6be60a2ca5de3",
+      "paper_id": "lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef",
+      "source_path": "output/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef.md",
+      "section_heading": "4. Discussion",
+      "section_start_line": 244,
+      "section_end_line": 283,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which benthic attributes explained most of the underlying variation in benthic community dispersion across sites in the Discussion section?",
+      "ground_truth_answer": "Variability in hard coral and turf algae cover explained most of the underlying variation in benthic community dispersion across sites.",
+      "ground_truth_chunks": [
+        "We found that variability in hard coral and turf algae cover explained most of the underlying variation in benthic community dispersion across sites.",
+        "Low-dispersion sites were consistently characterized by high coral cover, dominated by encrusting corals and a diverse assemblage of rapid-growing, branching and corymbose coral genera in low abundances. Medium dispersion sites were generally dominated by CCA and coral genera with opportunistic life-history strategies while high dispersion sites were dominated by turf algae and fleshy coralline algae."
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "record_id": "45042cfbee4379792f211a14",
+      "source_path": "output/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef/lawrence-et-al-quantifying-spatial-gradients-in-coral-reef.md",
+      "section_heading": "3.2. Gradients in benthic community multivariate dispersion",
+      "section_start_line": 163,
+      "section_end_line": 168,
+      "attempt_count": 3,
+      "error": "ValueError: evidence chunk is not an exact substring of the supplied section"
+    }
+  ]
+}

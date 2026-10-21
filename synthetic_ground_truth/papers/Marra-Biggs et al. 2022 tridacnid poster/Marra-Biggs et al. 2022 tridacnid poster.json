@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Marra-Biggs et al. 2022 tridacnid poster/Marra-Biggs et al. 2022 tridacnid poster.md",
+  "source_sha256": "88156b4b2166b8bbd1b760f25bc41b7d5b0610990d6c8e2f978f96dba25bc290",
+  "status": "complete",
+  "selected_section_count": 2,
+  "successful_record_count": 2,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "64a5de76d1fade0e11448769",
+      "paper_id": "Marra-Biggs et al. 2022 tridacnid poster/Marra-Biggs et al. 2022 tridacnid poster",
+      "source_path": "output/Marra-Biggs et al. 2022 tridacnid poster/Marra-Biggs et al. 2022 tridacnid poster.md",
+      "section_heading": "A Comparative Phylogenetic Investigation of Tridacninae: a Mitochondrial vs Nuclear Analysis",
+      "section_start_line": 5,
+      "section_end_line": 27,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, are the mitochondrial and nuclear phylogenies congruent?",
+      "ground_truth_answer": "No — the mitochondrial phylogeny is congruent with previous studies (Fauvelot et al 2020 and Tan et al 2021), while preliminary nuclear phylogenies built with 'Seanome' are incongruent with existing mitochondrial trees.",
+      "ground_truth_chunks": [
+        "Our study's resulting mitochondrial phylogeny is congruent with the tree constructed in Fauvelot et al 2020 and Tan et al 2021.",
+        "Using the program 'Seanome', we built preliminary nuclear phylogenies which are incongruent with existing mitochondrial trees*.*"
+      ]
+    },
+    {
+      "record_id": "f5e4197b1ee9c110d12dd35f",
+      "paper_id": "Marra-Biggs et al. 2022 tridacnid poster/Marra-Biggs et al. 2022 tridacnid poster",
+      "source_path": "output/Marra-Biggs et al. 2022 tridacnid poster/Marra-Biggs et al. 2022 tridacnid poster.md",
+      "section_heading": "First Record of Tridacna Noae in American Sāmoa",
+      "section_start_line": 28,
+      "section_end_line": 37,
+      "model": "openai:gpt-4o-mini",
+      "question": "What methods did the authors use to identify Tridacna noae in the Samoan archipelago?",
+      "ground_truth_answer": "They used morphologic characteristics and ez-RAD genetic techniques to identify Tridacna noae.",
+      "ground_truth_chunks": [
+        "The most recent study of the status of giant clams in the Samoan Archipelago [was published ov](https://www.researchgate.net/publication/366840417)er 20 years ago, without molecular corroboration of visual identifications.",
+        "Using morphologic characteristics and ez-RAD genetic techniques, we identified the existence of *Tridacna noae* in the Samoan archipelago, presenting the first observation and a resulting range expansion."
+      ]
+    }
+  ],
+  "failures": []
+}

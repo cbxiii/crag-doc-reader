@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change.md",
+  "source_sha256": "843a9451c65cc34c05cea31210870017dbc59707e0c2f07fdb7fdbb5bb62ebfe",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "3216fa7e48925f1b754a249b",
+      "paper_id": "UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change",
+      "source_path": "output/UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change.md",
+      "section_heading": "\"Intelligence is the ability to adapt to change.\"",
+      "section_start_line": 9,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the IPCC quote in the section, what observed changes to the climate system since the 1950s are listed?",
+      "ground_truth_answer": "The atmosphere and ocean have warmed; the amounts of snow and ice have diminished; sea level has risen; and the concentrations of greenhouse gases have increased.",
+      "ground_truth_chunks": [
+        "\"Warming of the climate system is unequivocal, and since the 1950s, many of the observed changes are unprecedented over decades to millennia.",
+        "The atmosphere and ocean have warmed, the amounts of snow and ice have diminished, sea level has risen, and the concentrations of greenhouse gases have increased.\""
+      ]
+    },
+    {
+      "record_id": "7d073630723774a4ca5058e1",
+      "paper_id": "UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change",
+      "source_path": "output/UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change.md",
+      "section_heading": "Sea Grant's Mission",
+      "section_start_line": 142,
+      "section_end_line": 149,
+      "model": "openai:gpt-4o-mini",
+      "question": "What activities does Sea Grant provide to increase citizens' understanding and responsible use of the nation's ocean, coastal, and Great Lakes resources?",
+      "ground_truth_answer": "Integrated research, extension, and education activities.",
+      "ground_truth_chunks": [
+        "Sea Grant's mission is to provide integrated research, extension, and education activities that increase citizens' understanding and responsible use of the nation's ocean, coastal, and Great Lakes resources and support the informed personal, policy, and management decisions that are integral to realizing this vision."
+      ]
+    },
+    {
+      "record_id": "0d833ca75d74c3d0804cc5f9",
+      "paper_id": "UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change",
+      "source_path": "output/UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change.md",
+      "section_heading": "The Precautionary Principle and 'No Regrets' Approaches",
+      "section_start_line": 243,
+      "section_end_line": 252,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what action does the Precautionary Principle require when human activities may lead to morally unacceptable harm that is scientifically plausible but uncertain?",
+      "ground_truth_answer": "It requires that \"actions shall be taken to avoid or diminish that harm\" — i.e., err on the side of caution and take proactive climate adaptation action because inaction could lead to further harm.",
+      "ground_truth_chunks": [
+        "The Precautionary Principle requires that \"when human activities may lead to morally unacceptable harm that is scientifically plausible but uncertain, actions shall be taken to avoid or diminish that harm\" (COMEST, 2005).",
+        "It boils down to erring on the side of caution.",
+        "The precautionary principle suggests that society should take proactive climate adaptation action because inaction could lead to further harm."
+      ]
+    },
+    {
+      "record_id": "05dd3d2d9535ea21d3df8a1b",
+      "paper_id": "UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change",
+      "source_path": "output/UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change.md",
+      "section_heading": "<span id=\"page-16-0\"></span>III. CLIMATE CHANGE IMPACTS TO HAWAI'I'S ECOSYSTEMS",
+      "section_start_line": 314,
+      "section_end_line": 329,
+      "model": "openai:gpt-4o-mini",
+      "question": "What climate changes are likely to impact Hawai'i's ecosystems?",
+      "ground_truth_answer": "Accelerated sea-level rise; ocean and atmospheric warming; increased flooding; ocean acidification; changing distributions of terrestrial and marine biota; and changing intensity and frequency of storms.",
+      "ground_truth_chunks": [
+        "Some of the changes likely to impact Hawai'i's ecosystems include accelerated sea-level rise, ocean and atmospheric warming, increased flooding, ocean acidification, changing distributions of terrestrial and marine biota, changing intensity and frequency of storms among others (Figure 5)."
+      ]
+    },
+    {
+      "record_id": "3003723e8dc8aaf1ef2ac007",
+      "paper_id": "UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change",
+      "source_path": "output/UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change.md",
+      "section_heading": "<span id=\"page-20-0\"></span>B. CORAL REEFS AND OTHER NEARSHORE HABITATS",
+      "section_start_line": 371,
+      "section_end_line": 378,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what localized anthropogenic influences contribute to degradation of coral reefs and other nearshore habitats?",
+      "ground_truth_answer": "Sedimentation, direct physical impacts, overfishing, nutrient loading from runoff, and erosion.",
+      "ground_truth_chunks": [
+        "Coral reefs and other nearshore habitats face degradation from both climate change and localized anthropogenic influences, including but not limited to, sedimentation, direct physical impacts, overfishing, nutrient loading from runoff, and erosion."
+      ]
+    },
+    {
+      "record_id": "84dc5fd9e24a260b6564c7eb",
+      "paper_id": "UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change",
+      "source_path": "output/UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change.md",
+      "section_heading": "PROJECTIONS",
+      "section_start_line": 448,
+      "section_end_line": 466,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to a survey of 90 experts in the sea-level rise field, what were the mean sea-level rise estimates by the year 2100 for low and high emission concentration scenarios?",
+      "ground_truth_answer": "Mean estimates were 1 ft (0.3 m) for the low emission scenario and 3 ft (0.9 m) for the high emission scenario by the year 2100.",
+      "ground_truth_chunks": [
+        "- A survey of 90 experts in the field of sea-level rise research produced mean estimates of 1 ft and 3 ft (0.3 m and 0.9m) by the year 2100 for low and high emission concentration scenarios, respectively (Figure 10) (NOAA, 2012, Codiga and Wager, 2011; Richardson, 2009; Hansen, 2007; Horton et al., 2013)."
+      ]
+    },
+    {
+      "record_id": "844c8e50f7dcc73bd859bb0f",
+      "paper_id": "UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change",
+      "source_path": "output/UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change.md",
+      "section_heading": "COMMENT: RESEARCH PROGRESS AND POLICY",
+      "section_start_line": 523,
+      "section_end_line": 526,
+      "model": "openai:gpt-4o-mini",
+      "question": "What factors cause the rates of temperature change to vary spatially across Hawai'i?",
+      "ground_truth_answer": "The rates vary spatially depending on land uses, topography, and trade wind and precipitation patterns.",
+      "ground_truth_chunks": [
+        "Although the average atmospheric and land surface temperature trends in Hawai'i have risen and are projected to continue rising, the rates will vary spatially depending on land uses, topography, and trade wind and precipitation patterns."
+      ]
+    },
+    {
+      "record_id": "ff1db0c87099c103835d5c89",
+      "paper_id": "UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change",
+      "source_path": "output/UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change.md",
+      "section_heading": "5. Human Health",
+      "section_start_line": 582,
+      "section_end_line": 591,
+      "model": "openai:gpt-4o-mini",
+      "question": "What examples of climate-related human health risks are listed in the section as affecting Hawai'i?",
+      "ground_truth_answer": "The section lists increased levels of vector-borne diseases; water-borne diseases such as cholera; fish poisoning; heat-related illnesses; mental health problems; respiratory diseases and other non-communicable diseases; and injury and death from tropical storms and cyclones.",
+      "ground_truth_chunks": [
+        "Hawai'i faces some of the same risks to human health that other Pacific Islands face, such as increased levels of vector-borne diseases, water-borne diseases such as cholera, fish poisoning, heat-related illnesses, mental health problems, respiratory diseases and other non-communicable diseases, and injury and death from tropical\n\nstorms and cyclones (SPC, 2013; Colwell, 1996; Lewis, 2012).",
+        "Due to the state's robust sanitation and healthcare infrastructure, Hawai'i residents are less vulnerable to many of these threats than many other Pacific Island locations."
+      ]
+    },
+    {
+      "record_id": "b867c8dc389f28651209f57d",
+      "paper_id": "UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change",
+      "source_path": "output/UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change.md",
+      "section_heading": "Hawai'i's Leadership in the Face of Climate Change",
+      "section_start_line": 648,
+      "section_end_line": 659,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which sub-national government was the first to sign onto the Majuro Declaration for Climate Leadership?",
+      "ground_truth_answer": "Nawa'i.",
+      "ground_truth_chunks": [
+        "- Nawa'i was the first sub-national government to sign onto the Majuro Declaration for Climate Leadership"
+      ]
+    },
+    {
+      "record_id": "5f3a9c11df94a8f0d28a9f6a",
+      "paper_id": "UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change",
+      "source_path": "output/UH Sea Grant 14 Hawaii climate change/UH Sea Grant 14 Hawaii climate change.md",
+      "section_heading": "Other Resources:",
+      "section_start_line": 729,
+      "section_end_line": 788,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which organization hosts the Sea Level Rise and Coastal Flooding Impacts Viewer listed in Other Resources?",
+      "ground_truth_answer": "NOAA (NOAA Sea Level Rise and Coastal Flooding Impacts Viewer).",
+      "ground_truth_chunks": [
+        "NOAA Sea Level Rise and Coastal Flooding Impacts Viewer",
+        "http://www.csc.noaa.gov/digitalcoast/tools/slrviewer"
+      ]
+    }
+  ],
+  "failures": []
+}

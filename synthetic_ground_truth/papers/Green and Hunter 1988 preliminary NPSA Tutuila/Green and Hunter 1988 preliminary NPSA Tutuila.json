@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila.md",
+  "source_sha256": "eeda62a1750a15df0e011e81b502ed0a7ed4f092215e76db75db84f07067ba42",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "71894c5eb060d02ee0d8e7ac",
+      "paper_id": "Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila",
+      "source_path": "output/Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 53,
+      "section_end_line": 72,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the specific objectives of the Tutuila Unit coral reef survey described in the INTRODUCTION?",
+      "ground_truth_answer": "The objectives were: (i) determine the extent of coral reef development within the park; (ii) assess the general condition of these reefs; (iii) describe the coral reef communities in terms of presence and relative abundance of coral and fish species and other selected species of local/national importance (e.g., giant clams, crown-of-thorns starfish, turtles and marine mammals); and (iv) assess whether and how these reefs appear to be presently or potentially impacted by human activities.",
+      "ground_truth_chunks": [
+        "The specific objectives of this survey were to:",
+        "- i) determine the extent of coral reef development within the park;\n- ii) assess the general condition of these reefs:\n- iii) describe the coral reef communities on these reefs, in terms of the presence and relative abundance of coral and fish species, as well as other selected species that are considered to be of local and/or national importance (e.g. giant clams, crown-of-thorns starfish, turtles and marine mammals); and\n- iv) assess whether and how these reefs appear to be presently or potentially impacted by human activities."
+      ]
+    },
+    {
+      "record_id": "f45dabfe4cfb071baa68a261",
+      "paper_id": "Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila",
+      "source_path": "output/Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila.md",
+      "section_heading": "Coral Survey Methods",
+      "section_start_line": 93,
+      "section_end_line": 102,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what uniform depth were quantitative methods used to describe substratum characteristics on the reef slope at each site?",
+      "ground_truth_answer": "10 m",
+      "ground_truth_chunks": [
+        "Quantitative methods were used to describe the substratum characteristics (corals and other benthic organisms) at a uniform depth (10 m) on the reef slope at each site.",
+        "This provides a\n\n<sup>&</sup>lt;sup>3</sup>The general term \"coral reef\" can have different meanings in different contexts. From a geological perspective, the term is reserved for accretional deposits of calcium carbonate produced by corals, coralline algae, and associated organisms. In a biological sense, a coral-based community may also be termed a \"reef\" although, because of early successional stage, high bioerosion rates or storm-damage, no net carbonate accretion has occurred. Here, we use the term \"reef\" in the latter sense, and note where true accretion (fringing or fore reefs) was apparent.\n\n![](_page_4_Figure_0.jpeg)\n\nmeasure of coral cover at each site and establishes a baseline for the long-term monitoring of these reefs."
+      ]
+    },
+    {
+      "record_id": "f87a7e076495142e7f1d636e",
+      "paper_id": "Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila",
+      "source_path": "output/Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila.md",
+      "section_heading": "Fish Survey Methods",
+      "section_start_line": 115,
+      "section_end_line": 124,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long did the observer spend swimming around each site to record additional fish species in deeper and shallower water?",
+      "ground_truth_answer": "10-15 mins.",
+      "ground_truth_chunks": [
+        "In order to provide a more complete species list for each site, the observer also spent 10-15 mins swimming around the site in deeper (10 m to the bottom of the slope) and shallower water (3 to 10 m) at each site. All species observed in the area were recorded at this time."
+      ]
+    },
+    {
+      "record_id": "d45029efb3f1a1035f15edcc",
+      "paper_id": "Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila",
+      "source_path": "output/Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila.md",
+      "section_heading": "Macroinvertebrates",
+      "section_start_line": 239,
+      "section_end_line": 246,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which macro-invertebrates were reported as ubiquitous in the survey areas?",
+      "ground_truth_answer": "Burrowing urchins (\"tuitui\", Echinometra spp.), encrusting sponges, and tunicates.",
+      "ground_truth_chunks": [
+        "Burrowing urchins (\"tuitui\", Echinometra spp.), encrusting sponges, and tunicates were the only ubiquitous macro-invertebrates noted in the survey areas."
+      ]
+    },
+    {
+      "record_id": "472cb42a02b400efb5f43b9b",
+      "paper_id": "Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila",
+      "source_path": "output/Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila.md",
+      "section_heading": "1. FAGASA",
+      "section_start_line": 279,
+      "section_end_line": 294,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species dominated the reef slope coral cover at Fagasa (10 m)?",
+      "ground_truth_answer": "The reef slope coral cover at 10 m was dominated by massive corals, especially Porites cylindrica and P. rus.",
+      "ground_truth_chunks": [
+        "The coral community at Fagasa was unique in the relative abundance of the finger coral, *Porites cylindrica*.",
+        "Coral cover on the reef slope (depth = 10 m) was moderate (32%) and clearly dominated by massive corals (Fig. 3), especially *Porites cylindrica* and *P. rus*."
+      ]
+    },
+    {
+      "record_id": "8ec474210d3085d3ccd1220f",
+      "paper_id": "Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila",
+      "source_path": "output/Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila.md",
+      "section_heading": "5. AGAPIE",
+      "section_start_line": 337,
+      "section_end_line": 348,
+      "model": "openai:gpt-4o-mini",
+      "question": "What density of giant clams was recorded at the Agapie site?",
+      "ground_truth_answer": "Density = 7.8/100 m^2.",
+      "ground_truth_chunks": [
+        "Giant clams were common at this site (density = 7.8/100 m<sup>2</sup>) and ranged in size from 3 to 23 cm (mean size = 11.0 cm, n=14). This was the largest number of giant clams recorded in the survey."
+      ]
+    },
+    {
+      "record_id": "d2c4e2951d3e524002425006",
+      "paper_id": "Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila",
+      "source_path": "output/Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila.md",
+      "section_heading": "8. VAAOGEOGE",
+      "section_start_line": 379,
+      "section_end_line": 392,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the mean fish density recorded at 10 m depth at Vaaogeoge?",
+      "ground_truth_answer": "The mean fish density at 10 m was 12,111 individuals per ha.",
+      "ground_truth_chunks": [
+        "Fish species richness was moderate with 71 species observed, 38 of which were recorded on the transects at 10 m (Fig. 7, Table 3). Fish abundance was high with a mean density of 12,111 individuals per ha recorded at 10 m (Fig. 7)."
+      ]
+    },
+    {
+      "record_id": "96be202d3e43456e523214a1",
+      "paper_id": "Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila",
+      "source_path": "output/Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila.md",
+      "section_heading": "11. POLA EAST",
+      "section_start_line": 419,
+      "section_end_line": 430,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the mean fish density recorded at 10 m at Pola East?",
+      "ground_truth_answer": "14,222 individuals per ha.",
+      "ground_truth_chunks": [
+        "Fish species richness was moderately low with 60 species observed, 34 of which were recorded on the transects at 10 m (Fig. 7, Table 3).",
+        "Fish abundance was high with a mean density of 14,222 individuals per ha recorded at 10 m (Fig. 7)."
+      ]
+    },
+    {
+      "record_id": "8cb8b1e0ca3b40f8363a8736",
+      "paper_id": "Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila",
+      "source_path": "output/Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila.md",
+      "section_heading": "14. VAIOLA",
+      "section_start_line": 459,
+      "section_end_line": 472,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the coral cover percentage on the reef slope at 10 m at Vaiola?",
+      "ground_truth_answer": "65%",
+      "ground_truth_chunks": [
+        "Coral cover was high (65%: Fig. 2) on the reef slope at 10 m, and made up of a mixed assemblage of encrusting, branching, massive, digitate and plate coral (Fig. 3)."
+      ]
+    },
+    {
+      "record_id": "1ce26bea5c49ebd1bc59e48a",
+      "paper_id": "Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila",
+      "source_path": "output/Green and Hunter 1988 preliminary NPSA Tutuila/Green and Hunter 1988 preliminary NPSA Tutuila.md",
+      "section_heading": "MANAGEMENT RECOMMENDATIONS",
+      "section_start_line": 503,
+      "section_end_line": 512,
+      "model": "openai:gpt-4o-mini",
+      "question": "How often do the management recommendations suggest repeating the coral reef health surveys?",
+      "ground_truth_answer": "These surveys should be repeated at regular intervals, perhaps every one to three years.",
+      "ground_truth_chunks": [
+        "- 1. Continue monitoring the coral reef communities in the park. These surveys should include concurrent, quantitative surveys of corals, fishes, macroinvertebrates and algae at each site. Surveys should be conducted a several depths at each site (eg. 5 m, 10 m, and 20 m), and should by done by specialist observers in each field. These surveys should be repeated at regular intervals, perhaps every one to three years, to monitor coral reef health."
+      ]
+    }
+  ],
+  "failures": []
+}

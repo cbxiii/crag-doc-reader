@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "source_path": "output/AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS.md",
+  "source_sha256": "f707756303c544f79ec2d820eeb20b96df336312f3329692d8595b6169389997",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "6166fc161b024b2630da6aee",
+      "paper_id": "AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS",
+      "source_path": "output/AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "PREFACE",
+      "section_start_line": 20,
+      "section_end_line": 33,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which federal office provided a grant for this publication and under which provision of law?",
+      "ground_truth_answer": "The Office of Coastal Zone Management, National Oceanic and Atmospheric Administration, under the provisions of Section 305 of the Coastal Zone Management Act of 1972 (P.L. 92-583, as amended).",
+      "ground_truth_chunks": [
+        "This publication is financed in part by a federal grant from the Office of Coastal Zone Management, National Oceanic and Atmospheric Administration, under the provisions of Section 305 of the Coastal Zone Management Act of 1972 (P.L. 92-583, as amended)."
+      ]
+    },
+    {
+      "record_id": "6caf549a04e565cf25e05f58",
+      "paper_id": "AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS",
+      "source_path": "output/AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "FRINGING REEF (OFF THE RAINMAKER HOTEL)",
+      "section_start_line": 1307,
+      "section_end_line": 1314,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which major stony corals occur on the reef front at depths of 25 to 90 feet (8 to 28 m) off The Rainmaker Hotel?",
+      "ground_truth_answer": "Pachyseris speciosa; Echinophyllia aspera; Porites (Synaraea) horizontalata; and Diploastrea heliopora.",
+      "ground_truth_chunks": [
+        "Both stony and soft corals colonize the reef front at depths of 25 to 90 feet (8 to 28 m). Major stony corals occuring here include <u>Pachyseris speciosa</u>, <u>Echinophyllia aspera</u>, <u>Porites</u> (<u>Synaraea</u>) <u>horizontalata</u>, and <u>Diploastrea heliopora</u>."
+      ]
+    },
+    {
+      "record_id": "13573d1a958241c1aa0ea791",
+      "paper_id": "AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS",
+      "source_path": "output/AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "RINGING REEF",
+      "section_start_line": 2587,
+      "section_end_line": 2612,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the approximate depth and width of the channel that parallels the shoreline north of Anape'ape'a Point?",
+      "ground_truth_answer": "About 3 feet (1 m) deep and 20 to 30 feet (6 to 9 m) wide.",
+      "ground_truth_chunks": [
+        "A channel about 3 feet (1 m) deep and 20 to 30 feet (6 to 9 m) wide parallels the shoreline.",
+        "The bottom of the channel is silted rubble littered with boulders and refuse."
+      ]
+    },
+    {
+      "record_id": "be63a9dcee57c20e40a86f42",
+      "paper_id": "AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS",
+      "source_path": "output/AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "EASTERN DISTRICT",
+      "section_start_line": 4463,
+      "section_end_line": 4480,
+      "model": "openai:gpt-4o-mini",
+      "question": "What map number is referenced in the EASTERN DISTRICT section?",
+      "ground_truth_answer": "MAP 11",
+      "ground_truth_chunks": [
+        "MAP 11",
+        "MAP 11"
+      ]
+    },
+    {
+      "record_id": "110fc126ba7ee983c5aaf116",
+      "paper_id": "AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS",
+      "source_path": "output/AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "FRINGING REEF",
+      "section_start_line": 6128,
+      "section_end_line": 6131,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the reef front at a depth of 30 feet off the northwestern tip of Fagafue Bay mouth is covered by coral, and which coral genus is mostly responsible?",
+      "ground_truth_answer": "Coral, mostly Acropora, covers 75 to 80% of the reef front at that depth.",
+      "ground_truth_chunks": [
+        "Coral, mostly Acropora, covers 75 to 80% of the reef front at a depth of 30 feet (9 m), off the northwestern tip of Fagafue Bay mouth."
+      ]
+    },
+    {
+      "record_id": "7ce40d51be5315faad70c062",
+      "paper_id": "AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS",
+      "source_path": "output/AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "FRINGING REEF",
+      "section_start_line": 8484,
+      "section_end_line": 8493,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species is the dominant fish of the outer ava just beyond the reef margin?",
+      "ground_truth_answer": "Acanthurus lineatus.",
+      "ground_truth_chunks": [
+        "Acanthurus lineatus is the dominant fish of the outer ava just beyond the reef margin (48)."
+      ]
+    },
+    {
+      "record_id": "12f6d0dc1792027b801de8db",
+      "paper_id": "AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS",
+      "source_path": "output/AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "AVATELE PASSAGE",
+      "section_start_line": 9709,
+      "section_end_line": 9714,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the depths within the narrow channel of Avatele Passage?",
+      "ground_truth_answer": "Depths range from 3 to 26 feet (1 to 8 m).",
+      "ground_truth_chunks": [
+        "Tidal currents are strong within the channel. Depths range from 3 to 26 feet (1 to 8 m) and the bathymetry is highly irregular."
+      ]
+    },
+    {
+      "record_id": "069c4d2d9fd8d1570677c52c",
+      "paper_id": "AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS",
+      "source_path": "output/AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "SEA CLIFFS",
+      "section_start_line": 10942,
+      "section_end_line": 10971,
+      "model": "openai:gpt-4o-mini",
+      "question": "How high is the sea cliff behind Ofu Village?",
+      "ground_truth_answer": "About 80 feet (25 m) high.",
+      "ground_truth_chunks": [
+        "Along the western coast, particularly behind Ofu Village, the cliff is only about 80 feet (25 m) high; elsewhere the cliff is generally 200 to 400 feet (60 to 120 m) high."
+      ]
+    },
+    {
+      "record_id": "6a32bcd34dc277a317b7aa4b",
+      "paper_id": "AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS",
+      "source_path": "output/AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "FRINGING REEF (OFF POUONO POINT)",
+      "section_start_line": 11835,
+      "section_end_line": 11840,
+      "model": "openai:gpt-4o-mini",
+      "question": "How deep and wide is the 'boat channel' just off the beach north of Pouono Point?",
+      "ground_truth_answer": "The boat channel is 2 to 3 feet (0.6 to 1.0 m) deep and 10 to 20 feet (3 to 6 m) wide.",
+      "ground_truth_chunks": [
+        "Just off the beach north of Pouono Point there is a narrow depression 2 to 3 feet (0.6 to 1.0 m) deep.",
+        "This rubble and sand-bottom \"boat channel\" is 10 to 20 feet (3 to 6 m) wide and bordered seaward by a consolidated reef platform."
+      ]
+    },
+    {
+      "record_id": "29416f8cad24d3f67f63fd6e",
+      "paper_id": "AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS",
+      "source_path": "output/AECOS-1980-Coral.reef.inventory.AS/AECOS-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "MAIA BEACH AND OFFSHORE",
+      "section_start_line": 13006,
+      "section_end_line": 13030,
+      "model": "openai:gpt-4o-mini",
+      "question": "Through what feature do swimmers and fishers access the open ocean from Maia Beach, and how do sea conditions affect this access?",
+      "ground_truth_answer": "Access to the open ocean is through a rip channel; breakers across the channel limit safe exit and entry to infrequent periods of calm seas.",
+      "ground_truth_chunks": [
+        "Access to the open ocean is through a rip channel.",
+        "Breakers across this channel limit safe exit and entry to infrequent periods of calm seas (ASCRI)."
+      ]
+    }
+  ],
+  "failures": []
+}

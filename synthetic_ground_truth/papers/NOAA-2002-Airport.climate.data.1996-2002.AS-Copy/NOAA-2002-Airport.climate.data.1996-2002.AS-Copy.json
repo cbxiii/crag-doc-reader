@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy.md",
+  "source_sha256": "4831f5ec4ac76530cf28481175dbca7d487242d4423adf0d7b4a9d08fe3380f6",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "978e17008cb7cbce0fe7c8c7",
+      "paper_id": "NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy",
+      "source_path": "output/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy.md",
+      "section_heading": "ANNUAL CLIMATOLOGICAL SUMMARY (1966)",
+      "section_start_line": 1,
+      "section_end_line": 31,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the total precipitation (TPCP) for May 1966 at Pago Pago WSO AP?",
+      "ground_truth_answer": "20.48 inches",
+      "ground_truth_chunks": [
+        "| Elem-  | MMXT | MMNT | MNTM | DPNT    | HTDD    | CLDD    | EMXT      |      | EMNP   |      | DT90  | DX32  | DT32   | DT00 | TPCP  | DPNP    | EMXP          |      | TSNW   | MXSD    |      | DP01  | DP05     | DP10  |",
+        "| 5      | 86.7 | 73.4 | 80.1 |         |         |         | 90+       | 25   | 68     | 4    | 2     | 0     | 0      | 0    | 20.48 |         | 3.67          | 15   | 0.0    | 0       |      | 20    | 14       | 6     |"
+      ]
+    },
+    {
+      "record_id": "b96564c4b2a64094209bb0d4",
+      "paper_id": "NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy",
+      "source_path": "output/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy.md",
+      "section_heading": "ANNUAL CLIMATOLOGICAL SUMMARY (1970)",
+      "section_start_line": 124,
+      "section_end_line": 153,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the annual total precipitation (TPCP) recorded for 1970 at Pago Pago WSO AP?",
+      "ground_truth_answer": "134.96",
+      "ground_truth_chunks": [
+        "| Elem-  | MMXT | MMNT                                                                                            | MNTM | DPNT    | HTDD    | CLDD    | EMXT |     | EMNP |      | DT90  | DX32  | DT32   | DT00 | TPCP   | DPNP    | EMXP          |       | TSNW    | MXSD    |     | DP01  | DP05     | DP10  |",
+        "| Annual | 85.3 | 74.5                                                                                            | 79.9 |         |         |         | 90   | Nov | 63   | Sep  | 7     | 0     | 0      | 0    | 134.96 |         | 5.29          | Dec   | 0.0     | 0       |     | 182   | 74       | 34    |"
+      ]
+    },
+    {
+      "record_id": "36c7a4c0d3aef2f2e17fc16b",
+      "paper_id": "NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy",
+      "source_path": "output/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy.md",
+      "section_heading": "ANNUAL CLIMATOLOGICAL SUMMARY (1974)",
+      "section_start_line": 246,
+      "section_end_line": 276,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the annual total precipitation (TPCP Total) for 1974 at PAGO PAGO WSO AP?",
+      "ground_truth_answer": "77.89 inches.",
+      "ground_truth_chunks": [
+        "| Elem-  | MMXT | MMNT | MNTM | DPNT    | HTDD    | CLDD    | EMXT    |        | EMNP         |      | DT90  | DX32  | DT32   | DT00 | TPCP  | DPNP    | EMXP          |      | TSNW   | MXSD     |      | DP01  | DP05     | DP10  |",
+        "| Annual | 85.1 | 74.1 | 79.6 | 0.0     |         |         | 89      | Dec    | 65           | Aug  | 0     | 0     | 0      | 0    | 77.89 | -50.65  | 3.36          | May  | 0.0    | 0        |      | 138   | 46       | 23    |"
+      ]
+    },
+    {
+      "record_id": "65e021230b09158cff1db08c",
+      "paper_id": "NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy",
+      "source_path": "output/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy.md",
+      "section_heading": "ANNUAL CLIMATOLOGICAL SUMMARY (1978)",
+      "section_start_line": 368,
+      "section_end_line": 397,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the annual mean maximum temperature (MMXT Mean Max.) at Pago Pago WSO AP for 1978?",
+      "ground_truth_answer": "85.2 °F.",
+      "ground_truth_chunks": [
+        "| Annual | 85.2 | 75.1                                                                                                                                                            | 80.1 | 0.5     |         |         | 91   | Dec | 64   | Jul | 3    | 0     | 0      | 0    | 153.03 | 24.49   | 5.82          | Aug   | 0.0    | 0       |     | 170  | 85       | 49   |"
+      ]
+    },
+    {
+      "record_id": "b29bdf9afd70a0fdca8376ec",
+      "paper_id": "NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy",
+      "source_path": "output/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy.md",
+      "section_heading": "ANNUAL CLIMATOLOGICAL SUMMARY (1982)",
+      "section_start_line": 490,
+      "section_end_line": 519,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the annual total precipitation (TPCP) for 1982 at Pago Pago WSO AP?",
+      "ground_truth_answer": "106.30",
+      "ground_truth_chunks": [
+        "| Elem-  | MMXT | MMNT                                                                                                                                                   | MNTM | DPNT    | HTDD    | CLDD    | EMXT |     | EMNP |     | DT90 | DX32  | DT32   | DT00 | TPCP   | DPNP    | EMXP          |       | TSNW    | MXSD    |      | DP01 | DP05     | DP10  |",
+        "| Annual | 85.3 | 75.7                                                                                                                                                   | 80.6 | 1.0     | 0       | 5766    | 91   | Apr | 67   | Jul | 8    | 0     | 0      | 0    | 106.30 | -22.24  | 6.94          | Feb   | 0.0     | 0       |      | 139  | 49       | 28    |"
+      ]
+    },
+    {
+      "record_id": "191666d818eea2431be060e7",
+      "paper_id": "NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy",
+      "source_path": "output/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy.md",
+      "section_heading": "ANNUAL CLIMATOLOGICAL SUMMARY (1986)",
+      "section_start_line": 612,
+      "section_end_line": 641,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the annual mean minimum temperature (MMNT) for 1986 at PAGO PAGO WSO AP?",
+      "ground_truth_answer": "76.1",
+      "ground_truth_chunks": [
+        "| Annual | 85.4 | 76.1                                                                                                                                   | 80.8 | 0.7     | 0       | 5848    | 92   | Dec | 69   | Jul | 12   | 0     | 0      | 0    | 149.88 | 25.92   | 6.89          | Jan      | 0.0    | 0        | ,    | 176   | 80       | 40   |"
+      ]
+    },
+    {
+      "record_id": "a10d07e08797775f2ce52906",
+      "paper_id": "NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy",
+      "source_path": "output/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy.md",
+      "section_heading": "ANNUAL CLIMATOLOGICAL SUMMARY (1990)",
+      "section_start_line": 733,
+      "section_end_line": 762,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the annual TPCP value for 1990 at Pago Pago WSO AP?",
+      "ground_truth_answer": "105.33",
+      "ground_truth_chunks": [
+        "| Elem-  | MMXT | MMNT                                                                                                                                                        | MNTM | DPNT    | HTDD    | CLDD    | EMXT |      | EMNP |     | DT90 | DX32  | DT32   | DT00 | TPCP   | DPNP    | EMXP          |       | TSNW    | MXSD    |      | DP01 | DP05     | DP10  |",
+        "| Annual | 85.4 | 76.7                                                                                                                                                        | 81.1 | 1.0     | 0       | 5945    | 92   | Oct  | 68   | May | 1    | 0     | 0      | 0    | 105.33 | -18.63  | 8.25          | Feb   | 0.0     | 0       |      | 157  | 66       | 28    |"
+      ]
+    },
+    {
+      "record_id": "9a3d668d7ae405ab69e2a74a",
+      "paper_id": "NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy",
+      "source_path": "output/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy.md",
+      "section_heading": "ANNUAL CLIMATOLOGICAL SUMMARY (1994)",
+      "section_start_line": 853,
+      "section_end_line": 882,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the annual total precipitation (TPCP) for 1994 at PAGO PAGO WSO AP?",
+      "ground_truth_answer": "162.06 inches.",
+      "ground_truth_chunks": [
+        "| Elem-  | MMXT | MMNT | MNTM | DPNT    | HTDD    | CLDD    | EMXT    |      | EMNP   |      | DT90  | DX32  | DT32   | DT00 | TPCP   | DPNP    | EMXP          |       | TSNW    | MXSD    |      | DP01  | DP05     | DP10  |",
+        "| Annual | 86.2 | 77.3 | 81.8 | 1.6     | 0       | 6201    | 94      | Mar  | 70     | Sep  | 55    | 0     | 0      | 0    | 162.06 | 40.26   | 5.41          | Nov   | 0.0     | 0       |      | 192   | 91       | 55    |"
+      ]
+    },
+    {
+      "record_id": "c2ca1f78989596e11c18cf14",
+      "paper_id": "NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy",
+      "source_path": "output/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy.md",
+      "section_heading": "ANNUAL CLIMATOLOGICAL SUMMARY (1998)",
+      "section_start_line": 974,
+      "section_end_line": 1004,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the total annual precipitation (TPCP Total) for 1998 at Pago Pago WSO AP?",
+      "ground_truth_answer": "55.04",
+      "ground_truth_chunks": [
+        "| Elem-  | MMXT | MMNT | MNTM | DPNT    | HTDD    | CLDD    | EMXT      |      | EMNP   |      | DT90  | DX32  | DT32   | DT00 | TPCP  | DPNP    | EMXP          |      | TSNW   | MXSD    |      | DP01  | DP05     | DP10  |",
+        "| Annual | M    | M    | М    | М       | M       | М       | M         | Feb  | M      | May  | М     | M     | M      | M    | 55.04 | -66.76  | 3.65          | Mar  | 0.0    | 0       |      | 103   | 35       | 10    |"
+      ]
+    },
+    {
+      "record_id": "64abe6d28b063e1d381afbde",
+      "paper_id": "NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy",
+      "source_path": "output/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy/NOAA-2002-Airport.climate.data.1996-2002.AS-Copy.md",
+      "section_heading": "ANNUAL CLIMATOLOGICAL SUMMARY (2002)",
+      "section_start_line": 1098,
+      "section_end_line": 1146,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the highest recorded maximum temperature in 2002 at Pago Pago WSO AP, and in which month did it occur?",
+      "ground_truth_answer": "95°F, in February.",
+      "ground_truth_chunks": [
+        "| 2      | 91.1 | 79.7 | 85.4 | 3.6     | 0       | 581     | 95      | 3    | 77     | 27   | 26    | 0     | 0      | 0    | 4.85   | -7.29   | 2.05          | 15    | 0.0     | 0       |      | 9        | 3        | 1     |",
+        "| Annual | 88.2 | 78.9 | 83.6 | 2.6     | 0       | 6846    | 95      | Feb  | 72     | Oct  | 120   | 0     | 0      | 0    | 112.80 | -6.16   | 3.86          | Jul   | 0.0     | 0       |      | 143      | 76       | 36    |"
+      ]
+    }
+  ],
+  "failures": []
+}

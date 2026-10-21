@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs.md",
+  "source_sha256": "8f2102ca2f1fdc67c55906b50f5de4244a08e0517d406d4765cd5a30caa46e72",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "d7018a4d1aa1ea75bdcaabca",
+      "paper_id": "Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs",
+      "source_path": "output/Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs.md",
+      "section_heading": "High-resolution physical and biogeochemical variability from a shallow back reef on Ofu, American Samoa: an end-member perspective",
+      "section_start_line": 5,
+      "section_end_line": 20,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the ratio of net community calcification to net community production reported for the Ofu back reef, and what did the authors conclude this indicates about reef metabolism?",
+      "ground_truth_answer": "The ratio was 0.15 ± 0.01, indicating that metabolism on the back reef was dominated by primary production and respiration.",
+      "ground_truth_chunks": [
+        "was  $0.15 \\pm 0.01$ , indicating that metabolism on the back reef was dominated by primary production and respiration.",
+        "Similar to other back reef systems, the back reefs of Ofu are carbon sinks during the daytime."
+      ]
+    },
+    {
+      "record_id": "7006c90bfb200db630ae62bb",
+      "paper_id": "Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs",
+      "source_path": "output/Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs.md",
+      "section_heading": "Introduction",
+      "section_start_line": 21,
+      "section_end_line": 42,
+      "model": "openai:gpt-4o-mini",
+      "question": "When was the short, high-resolution pilot field study of Pool 100 on Ofu conducted?",
+      "ground_truth_answer": "Between November 13 and 20, 2011.",
+      "ground_truth_chunks": [
+        "We present results from a short, high-resolution physical and biogeochemical pilot field study of Pool 100 on Ofu conducted between November 13 and 20, 2011."
+      ]
+    },
+    {
+      "record_id": "a2f00837a0c9369b0e7701fa",
+      "paper_id": "Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs",
+      "source_path": "output/Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs.md",
+      "section_heading": "Water sampling and analysis",
+      "section_start_line": 49,
+      "section_end_line": 74,
+      "model": "openai:gpt-4o-mini",
+      "question": "What aggregate flow rate was used to pump water from all eight tubes?",
+      "ground_truth_answer": "Water from all eight tubes was pumped at an aggregate rate of 16 L min^-1 (2 L min^-1 per tube).",
+      "ground_truth_chunks": [
+        "Water from all eight tubes was continuously pumped at an aggregate rate of 16 L min<sup>-1</sup> (2 L min<sup>-1</sup> tube<sup>-1</sup>) using an impeller pump.",
+        "Equal lengths of tubing and constant pumping rates ensured the same residence time for water in all of the tubes (2.7 min)."
+      ]
+    },
+    {
+      "record_id": "fa4c116efa6fdce6f25b7f59",
+      "paper_id": "Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs",
+      "source_path": "output/Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs.md",
+      "section_heading": "Carbon system calculations",
+      "section_start_line": 75,
+      "section_end_line": 82,
+      "model": "openai:gpt-4o-mini",
+      "question": "What precision (1 SD) did the Monte Carlo simulation estimate for calculated pCO<sub>2</sub>?",
+      "ground_truth_answer": "13 µatm.",
+      "ground_truth_chunks": [
+        "Estimated precisions (1 SD) of DIC, pCO<sub>2</sub>, and  $\\Omega_{\\text{aragonite}}$  are 10 µmol kg<sup>-1</sup>, 13 µatm, and 0.065 units, respectively."
+      ]
+    },
+    {
+      "record_id": "2cf4fc13c1dc1c8769f0547e",
+      "paper_id": "Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs",
+      "source_path": "output/Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs.md",
+      "section_heading": "Offshore carbon system chemistry",
+      "section_start_line": 83,
+      "section_end_line": 88,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why did the authors include offshore data from the 2010 and 2012 CRED cruises even though their study period was in November 2011?",
+      "ground_truth_answer": "Because they did not have direct offshore measurements during November 2011, so they intentionally included all data from both depths at all three sites over the 2010 and 2012 sampling cruises to better estimate the interannual mean and standard deviation of the offshore carbon system chemistry.",
+      "ground_truth_chunks": [
+        "We used offshore temperature, salinity, pressure, DIC, and TA collected by NOAA Coral Reef Ecosystem Division (CRED) research cruises in 2010 and 2012 (Fig. 1a) to compare against the Pool 100 diel cycle variability.",
+        "Since we did not have direct offshore measurements during our study period in November 2011, we intentionally included all data from both depths at all three sites over the two sampling cruises in 2010 and 2012 in order to better estimate the interannual mean and standard deviation of the offshore carbon system chemistry."
+      ]
+    },
+    {
+      "record_id": "9eecb4b6513c41954c4206b9",
+      "paper_id": "Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs",
+      "source_path": "output/Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs.md",
+      "section_heading": "Estimates of heat exchange and transport time",
+      "section_start_line": 106,
+      "section_end_line": 131,
+      "model": "openai:gpt-4o-mini",
+      "question": "What equation (for a well-mixed water column) relates the time rate of change of temperature to the effective heat flux in this section?",
+      "ground_truth_answer": "For a well-mixed water column, Equation 4: \\(\\frac{\\partial T}{\\partial t} = \\frac{H_{\\text{eff}}}{\\rho c_{\\text{p}} h(t)}\\).",
+      "ground_truth_chunks": [
+        "For a well-mixed water column, Eq. 3 becomes:\n\n$$\\frac{\\partial T}{\\partial t} = \\frac{H_{\\text{eff}}}{\\rho c_{\\text{p}} h(t)} \\tag{4}$$"
+      ]
+    },
+    {
+      "record_id": "bd9020ef4e59cd6de69acadc",
+      "paper_id": "Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs",
+      "source_path": "output/Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs.md",
+      "section_heading": "Community metabolism",
+      "section_start_line": 132,
+      "section_end_line": 153,
+      "model": "openai:gpt-4o-mini",
+      "question": "How was the NCC/NCP ratio determined from the sTA–sDIC relationship in this study?",
+      "ground_truth_answer": "The NCC/NCP ratio was calculated using the best-fit slope m_bestfit of the sTA–sDIC relationship (determined by a type II major axis regression) with the formula NCC/NCP = m_bestfit / (2 - m_bestfit).",
+      "ground_truth_chunks": [
+        "We used a type II major axis regression to determine the best-fit slope for the sTA–sDIC relationship ( $m_{\\text{bestfit}}$ ). We derived an expression for the NCC/NCP ratio by re-arranging Eq. 5 from Suzuki and Kawahata (2003):",
+        "$$\\frac{\\text{NCC}}{\\text{NCP}} = \\frac{m_{\\text{bestfit}}}{2 - m_{\\text{bestfit}}} \\tag{8}$$"
+      ]
+    },
+    {
+      "record_id": "74d6aef1723e9129340e2e69",
+      "paper_id": "Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs",
+      "source_path": "output/Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs.md",
+      "section_heading": "Hydrodynamics",
+      "section_start_line": 156,
+      "section_end_line": 169,
+      "model": "openai:gpt-4o-mini",
+      "question": "During the short-term study, what range of current speeds was observed in the back reef and how did they vary with tidal position?",
+      "ground_truth_answer": "Flow was strongly dependent on tidal position and ranged from nearly zero at low tide up to 15 cm s^-1 at high tide.",
+      "ground_truth_chunks": [
+        "Flow was strongly dependent on tidal position (Fig. 2a) and presumably offshore wave forcing (which was not measured), and ranged from nearly zero at low tide up to 15 cm s<sup>-1</sup> at high tide (Fig. 2b)."
+      ]
+    },
+    {
+      "record_id": "4b6cf814899a4edc5ce39f82",
+      "paper_id": "Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs",
+      "source_path": "output/Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs.md",
+      "section_heading": "Community metabolism",
+      "section_start_line": 218,
+      "section_end_line": 244,
+      "model": "openai:gpt-4o-mini",
+      "question": "What upper-bound estimates for net community calcification (NCC) and net community production (NCP) did the authors calculate for November 18, 2011?",
+      "ground_truth_answer": "NCC = 9 mmol C m<sup>-2</sup> h<sup>-1</sup>; NCP = 34 mmol C m<sup>-2</sup> h<sup>-1</sup>.",
+      "ground_truth_chunks": [
+        "The NCC and NCP rate estimates are upper bound estimates because the timing of the maximum temperature in Pool 100 (used to calculate DT and hence s) corresponds to the timing of the",
+        "We calculated values of 9 mmol C m<sup>-2</sup> h<sup>-1</sup> for NCC and 34 mmol C m<sup>-2</sup> h<sup>-1</sup> for NCP."
+      ]
+    },
+    {
+      "record_id": "9770ec447c3cd69e3ca0b408",
+      "paper_id": "Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs",
+      "source_path": "output/Koweek Ofu pool variation 2015 Coral Reefs/Koweek Ofu pool variation 2015 Coral Reefs.md",
+      "section_heading": "Discussion",
+      "section_start_line": 245,
+      "section_end_line": 280,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the NCC/NCP ratio measured in Pool 100 and what does it reflect about the back reef system?",
+      "ground_truth_answer": "The NCC/NCP ratio was 0.15 ± 0.01, reflecting a back reef system dominated by photosynthesis and respiration.",
+      "ground_truth_chunks": [
+        "The NCC/NCP ratio of 0.15 ± 0.01 reflects a back reef system dominated by photosynthesis and respiration.",
+        "Coral reef ecosystems with low values of NCC/NCP are subject to larger carbon system variability than those with high values of NCC/NCP."
+      ]
+    }
+  ],
+  "failures": []
+}

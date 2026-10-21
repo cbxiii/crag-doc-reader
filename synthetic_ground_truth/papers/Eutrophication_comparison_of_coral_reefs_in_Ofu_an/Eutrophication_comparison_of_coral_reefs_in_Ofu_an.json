@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an.md",
+  "source_sha256": "b5f53e4724ea51dbaa652db88f899f3d7d7701dcb9e951b0203468e0edc21eb3",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "218f399238903b7796a3d766",
+      "paper_id": "Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an",
+      "source_path": "output/Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an.md",
+      "section_heading": "Eutrophication comparison of coral reefs in Ofu and Olosega",
+      "section_start_line": 17,
+      "section_end_line": 30,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which author is affiliated with the National Park of American Samoa?",
+      "ground_truth_answer": "P. Craig.",
+      "ground_truth_chunks": [
+        "V.H. Garrison<sup>1</sup>, K. Kroeger<sup>2</sup>, D. Fenner<sup>3</sup>, and P. Craig<sup>4</sup>",
+        "<sup>&</sup>lt;sup>4</sup> National Park of American Samoa, Pago Pago, American Samoa 96799"
+      ]
+    },
+    {
+      "record_id": "46b71e9883a2b870a7a9247b",
+      "paper_id": "Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an",
+      "source_path": "output/Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an.md",
+      "section_heading": "Background",
+      "section_start_line": 31,
+      "section_end_line": 52,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the major factors causing degradation of nearshore habitats in American Samoa?",
+      "ground_truth_answer": "Sedimentation, pollution, nutrient enrichment from surface runoff or groundwater, and trampling.",
+      "ground_truth_chunks": [
+        "Sedimentation, pollution, nutrient enrichment from surface runoff or groundwater, and trampling are the major factors causing the changes (Peshut and Brooks, 2005).",
+        "Nutrient enrichment (from cesspools) of groundwater and the lagoon, as well as trampling during gleaning of reef organisms, are possible factors affecting the spatial relief and benthic composition of the lagoons."
+      ]
+    },
+    {
+      "record_id": "a8cb183438131ff1cbefbb39",
+      "paper_id": "Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an",
+      "source_path": "output/Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an.md",
+      "section_heading": "Methods",
+      "section_start_line": 53,
+      "section_end_line": 87,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which study sites were selected for sampling in the Methods section?",
+      "ground_truth_answer": "The study was conducted at Ofu and Olosega islands (Manu'a island group, 96 km ENE of Tutuila, American Samoa). Three study sites were selected: two reef flats off Ofu Island (one seaward of Ofu Village and the 'pristine' site To'aga) and a reef flat off Olosega Island seaward of Olosega Village.",
+      "ground_truth_chunks": [
+        "This study was conducted at Ofu and Olosega islands (in the Manu'a island group), which are located 96 km ENE of Tutuila, American Samoa (Fig. 1).",
+        "Three study sites were selected: two reef flats off Ofu Island (one seaward of Ofu Village and the other at a \"pristine\" site with no human settlement, To'aga); and a reef flat off Olosega Island seaward of Olosega Village (Fig. 1)."
+      ]
+    },
+    {
+      "record_id": "9c61362b1d7dc9f0b9c890fa",
+      "paper_id": "Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an",
+      "source_path": "output/Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an.md",
+      "section_heading": "Laboratory",
+      "section_start_line": 108,
+      "section_end_line": 111,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what temperature were macroalgae samples dried in the laboratory?",
+      "ground_truth_answer": "60°C.",
+      "ground_truth_chunks": [
+        "More than 200 macroalgae samples were further cleaned of sand and fouling organisms in the lab, rinsed with fresh water, placed in aluminum weighing boats, and dried at 60°C until constant weight.",
+        "Treated samples were dried at 60°C to remove HCl, 1to 4 mg of sample weighed in tin capsules, and capsules sealed for  $\\delta^{13}$ C analysis."
+      ]
+    },
+    {
+      "record_id": "d12c84ecc9752a295a5f9b62",
+      "paper_id": "Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an",
+      "source_path": "output/Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an.md",
+      "section_heading": "Results",
+      "section_start_line": 112,
+      "section_end_line": 156,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the total percent live coral on the To'aga, Ofu, and Olosega transects?",
+      "ground_truth_answer": "To'aga: 22.81%; Ofu: 10.05%; Olosega: 6.47%.",
+      "ground_truth_chunks": [
+        "Living coral cover was lowest on the Olosega (6.47%) and Ofu (10.05%) transects and highest at To'aga (22.81%; Fig. 5).",
+        "| Total % live coral on transect | 22.81  | 10.05 | 6.47    |"
+      ]
+    },
+    {
+      "record_id": "7eff461dd731dabe41627ffd",
+      "paper_id": "Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an",
+      "source_path": "output/Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an.md",
+      "section_heading": "Dictyosphaeria versluysii",
+      "section_start_line": 157,
+      "section_end_line": 174,
+      "model": "openai:gpt-4o-mini",
+      "question": "Was there a significant difference in Dictyosphaeria versluysii δ15N values among the three sites?",
+      "ground_truth_answer": "No — there was no significant difference in Dictyosphaeria versluysii δ15N values among the three sites (p = 0.44; Table 4).",
+      "ground_truth_chunks": [
+        "There was no significant difference in *Dictyosphaeria versluysii*  $\\delta^{15}$ N values among the three sites (p=0.44; Table 4).",
+        "| Among sites                          | 1.029     | 0.662          | 0.4405                    | ns      |"
+      ]
+    },
+    {
+      "record_id": "45e9ad9127ee7b03ced1e87c",
+      "paper_id": "Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an",
+      "source_path": "output/Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an.md",
+      "section_heading": "Halimeda sp.",
+      "section_start_line": 175,
+      "section_end_line": 178,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which site had significantly greater Halimeda sp. δ15N values, and what were the reported mean ± SE values for each site?",
+      "ground_truth_answer": "To'aga had significantly greater Halimeda sp. δ15N values (4.45 ± 0.48) than Ofu (3.47 ± 0.41) and Olosega (3.61 ± 0.38).",
+      "ground_truth_chunks": [
+        "There was a significant difference in *Halimeda* sp.  $\\delta^{15}$ N values among sites (p=0.0004), with To'aga (4.45 ± 0.48) greater than Ofu (3.47± 0.41) and Olosega (3.61± 0.38; Table 4).",
+        "There was no significant difference in  $\\delta^{15}$ N among stations at Ofu (p = 0.0598); and a significant difference among stations at Olosega (p=0.022) and To'aga (p = 0.014; Table 4), with values generally increasing from shore to the reef-crest (Fig. 7)."
+      ]
+    },
+    {
+      "record_id": "9d128cadc2732e197e01cdaf",
+      "paper_id": "Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an",
+      "source_path": "output/Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an.md",
+      "section_heading": "Water samples",
+      "section_start_line": 183,
+      "section_end_line": 206,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which lagoon-water site had the highest phosphate (PO4^-3) concentration in the samples?",
+      "ground_truth_answer": "Olosega nearshore lagoon, with phosphate = 2.7 µM.",
+      "ground_truth_chunks": [
+        "Similarly, phosphate concentrations in lagoon-water samples were highest from Olosega (Table 5).",
+        "| Olosega nearshore lagoon | 0.3               | 4.4                            | 2.7             | 0.3             | 0.5     | 7.7     | 8.2     |"
+      ]
+    },
+    {
+      "record_id": "9e772ca3001621fe2736ee09",
+      "paper_id": "Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an",
+      "source_path": "output/Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an.md",
+      "section_heading": "Discussion",
+      "section_start_line": 233,
+      "section_end_line": 259,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Discussion, what do the low δ15N values of macroalgae suggest about the major nutrient sources to the Ofu-Olosega lagoons during the study?",
+      "ground_truth_answer": "They indicate the major sources of nutrients were most likely oceanic/atmospheric, and not animal/anthropogenic, at the time of the study.",
+      "ground_truth_chunks": [
+        "Values of  $\\delta^{15}$ N in this study (Table 3) were close to or lower than those reported for oligotrophic suspended particulate matter (4-5%; Waser and others, 2000), pelagic and coastal marine seaweeds (5-8%; Minagawa and Wada, 1984), and euphotic layer DIN (7-10%; Minagawa and Wada, 1986).",
+        "The low  $\\delta^{15}$ N values of the macroalgae, the low nutrient concentrations of lagoon waters, the lack of correlation between  $\\delta^{15}N$  values and distance from shore, and the low concentrations of nutrients in well-water samples indicate that the major sources of nutrients to the three Ofu-Olosega lagoons at the time of this study were most likely oceanic/atmospheric, and not animal/anthropogenic in origin."
+      ]
+    },
+    {
+      "record_id": "5d1b3f625ae264b72d63c46a",
+      "paper_id": "Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an",
+      "source_path": "output/Eutrophication_comparison_of_coral_reefs_in_Ofu_an/Eutrophication_comparison_of_coral_reefs_in_Ofu_an.md",
+      "section_heading": "Conclusions",
+      "section_start_line": 260,
+      "section_end_line": 263,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Conclusions, what is the predominant origin of the nitrogen influx in Ofu and Olosega lagoons?",
+      "ground_truth_answer": "Oceanic/atmospheric origin.",
+      "ground_truth_chunks": [
+        "From this study, Ofu and Olosega lagoons seem to have good water quality, with nitrogen influx of predominantly oceanic/atmospheric origin.",
+        "At the time of this study, anthropogenic sources of nutrients were not detected in macroalgae in the lagoons."
+      ]
+    }
+  ],
+  "failures": []
+}

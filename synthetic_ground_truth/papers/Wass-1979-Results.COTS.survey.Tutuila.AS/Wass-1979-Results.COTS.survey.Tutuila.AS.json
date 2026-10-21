@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS.md",
+  "source_sha256": "d7f4a944bd051c714309c93a764ae661cedad7fc8bc4b5aed3823b06021a8edc",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "49f9c4f44103e4df4be89363",
+      "paper_id": "Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS",
+      "source_path": "output/Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 16,
+      "section_end_line": 21,
+      "model": "openai:gpt-4o-mini",
+      "question": "What prompted the Office of Marine Resources, Government of American Samoa, to conduct a field survey of reef areas?",
+      "ground_truth_answer": "Initial observations of A. planci infestations along with increasing reports of other reefs being infested by A. planci, prompting a survey to determine the distribution and abundance of the starfish and to assess the extent of resulting coral damage around Tutuila Island and offshore coral banks.",
+      "ground_truth_chunks": [
+        "At this time, similar coral banks between Taema Bank and Anuu Island were reported to be free of A. planci infestation, although increased numbers of the starfish were being reported from the inshore fringing reefs along the south coast between Nuuuli and Aumi Villages.",
+        "These initial observations along with increasing reports of other reefs infested by A. planci prompted the Office of Marine Resources, Government of American Samoa, to conduct a field survey of reef areas to determine the distribution and abundance of the starfish and to assess the extent of the resulting coral damage around Tutuila Island and offshore coral banks."
+      ]
+    },
+    {
+      "record_id": "717aa7c8dfd5c73267e39261",
+      "paper_id": "Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS",
+      "source_path": "output/Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS.md",
+      "section_heading": "METHODS",
+      "section_start_line": 22,
+      "section_end_line": 37,
+      "model": "openai:gpt-4o-mini",
+      "question": "What corridor width was used to count A. planci during 100-meter reef-flat walks at low tide?",
+      "ground_truth_answer": "They were counted within a corridor four meters wide (two meters on each side of the observer).",
+      "ground_truth_chunks": [
+        "Reefflat platforms were surveyed by making 100 meter walks across the surface during low tides. During these reef walks A. planci were counted within a corridor four meters wide (two meters on each side of the observer) and the percentage of coral coverage recently killed (white bleached color) by the starfish was estimated."
+      ]
+    },
+    {
+      "record_id": "46e83833152095fa17a8051c",
+      "paper_id": "Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS",
+      "source_path": "output/Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS.md",
+      "section_heading": "Sector II",
+      "section_start_line": 54,
+      "section_end_line": 61,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many A. planci were observed across the three transects in Sector II?",
+      "ground_truth_answer": "91 A. planci.",
+      "ground_truth_chunks": [
+        "A total of 91 A. planci were observed along the entire length of the three transects across Sector II.",
+        "This total gives an average starfish density of  $1/28.7 \\text{ m}^2$  for the three transects and on overall population for Sector II at 13000."
+      ]
+    },
+    {
+      "record_id": "6f4b673320ff291607bafd37",
+      "paper_id": "Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS",
+      "source_path": "output/Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS.md",
+      "section_heading": "Sector III",
+      "section_start_line": 62,
+      "section_end_line": 71,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many A. planci were counted along the two transects in Sector III?",
+      "ground_truth_answer": "A total of 209 A. planci were counted along the two transects of Sector III.",
+      "ground_truth_chunks": [
+        "Only 27 A. planci were observed in this mostly dead coral zone.",
+        "Numbers of starfish increased dramatically on the shallower upper bank surface where 182 were counted along the two transects.",
+        "A total of 209 A. planci were counted along the two transects of Sector III giving it an average starfish density of  $1/9.8 \\text{ m}^2$  and on overall population of 68000."
+      ]
+    },
+    {
+      "record_id": "b25a93dc1f2c06a6ad0eae93",
+      "paper_id": "Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS",
+      "source_path": "output/Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS.md",
+      "section_heading": "Sector IV",
+      "section_start_line": 72,
+      "section_end_line": 100,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the estimated average starfish density (per square meter) along the A. planci front in Sector IV?",
+      "ground_truth_answer": "15.9/m²",
+      "ground_truth_chunks": [
+        "Two quadrats at this location averaged 400 starfish each. On February 1, 1978 the starfish front was surveyed again at two more locations. Two quadrats at the first of these two survey sites, located on a bearing in line with the television tower on Alava Mountain and the\n\ntop-most peak at Breakers Point, averaged 364 starfish inch. At the second survey site, located on a bearing in line with the television tower on Alava Mountain and the middle part of Breakers Point, two quadrats averaged 340 starfish each.",
+        "Based upon densities from these three survey sites the average starfish density along the front was estimated at 15.9/m²."
+      ]
+    },
+    {
+      "record_id": "749f6c54657d3c90a40ebc7a",
+      "paper_id": "Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS",
+      "source_path": "output/Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS.md",
+      "section_heading": "Reef Flat Surveys Along the Southeast Coast",
+      "section_start_line": 111,
+      "section_end_line": 114,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which reef-flat areas along the southeast coast were found to be heavily infested with A. planci?",
+      "ground_truth_answer": "Most of the reef-flat platforms between Nuuuli and Fatumafuti Villages to the west of Pago Pago Harbor, and the reef flat east of the harbor mouth at Lauliituai Village.",
+      "ground_truth_chunks": [
+        "Reef flat surveys along the southeast coast were conducted during the first five weeks of 1978.",
+        "Most of the reef-flat platforms between Nuuuli and Fatumafuti Villages to the west of Pago Pago Harbor and the reef flat east of the harbor mouth at Lauliituai Village were found to be heavily infested with A. planci."
+      ]
+    },
+    {
+      "record_id": "75e8b7a48c5a29eb7b62bc00",
+      "paper_id": "Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS",
+      "source_path": "output/Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS.md",
+      "section_heading": "Forereef Slope Surveys Along the Southern Coast",
+      "section_start_line": 115,
+      "section_end_line": 148,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many A. planci were counted at Lauliituai Village during the May 5, 1978 scuba dives?",
+      "ground_truth_answer": "Ten A. planci were counted at Lauliituai Village (4 by one diver and 6 by the other).",
+      "ground_truth_chunks": [
+        "On May 5, 1978 the forereef slopes near Alega and Lauliituai Villages were resurveyed by two divers by making five minute scuba dives in opposite directions. At Alega Village no A. planci were observed, but one fresh and one old feeding scar, possibly attributable to starfish feeding, were seen.",
+        "At Lauliituai Village ten A. planci were counted (4 by one diver and 6 by the other) and considerable coral damage was observed at 20 to 26 meter depth."
+      ]
+    },
+    {
+      "record_id": "dd5a299f2622b39301c39f69",
+      "paper_id": "Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS",
+      "source_path": "output/Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS.md",
+      "section_heading": "Forereef Slope Surveys Along the Eastern Coasts",
+      "section_start_line": 149,
+      "section_end_line": 170,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many A. planci were counted between Papalao Point and Ogefao Village?",
+      "ground_truth_answer": "1080 A. planci were counted.",
+      "ground_truth_chunks": [
+        "From the relatively short distance between Papalao Point and Ogefao Village 1080 A. planci were counted."
+      ]
+    },
+    {
+      "record_id": "65ea73f6749e00b1eacc9c9d",
+      "paper_id": "Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS",
+      "source_path": "output/Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS.md",
+      "section_heading": "Forereef Slopes Surveyed Along the Northwestern Coast",
+      "section_start_line": 179,
+      "section_end_line": 184,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many Acanthaster planci were observed between Faga Point and Maloata Bay?",
+      "ground_truth_answer": "236",
+      "ground_truth_chunks": [
+        "Within each of the sectors the following numbers of A. planci were observed: 27 between Luania Rocks and Tiaoalii Rock, 10 between Tiaoalii Rock and Leopard Point, 112 between Faiaiulu and Faga Points, 236 between Faga Point and Maloata Bay, 30 between Fagamalo Village and Paapala Cove, 39 between Pa Cove and around Square Head, 6 between Tolotolooteoti and Mataututele Points, none between Aoloau Bay and a prominent point to the east, 3 in the vicinity of Nuutavana Rock where considerable dead corals were found, none between Siliage Point and Asau Village, none between Fagatiale and Ogegasa Points, and none between Agalua Rock and Cape Larsen.",
+        "With the exception of the sector in the vicinity of Nuutavana Rock and the last two sectors surveyed, there was no reef damage whatsoever along this section of the coast.",
+        "On the last two sectors surveyed no starfish were observed, but many dead reef corals were seen."
+      ]
+    },
+    {
+      "record_id": "9bd7d17df6c11dd068f26599",
+      "paper_id": "Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS",
+      "source_path": "output/Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS.md",
+      "section_heading": "Other Surveys",
+      "section_start_line": 189,
+      "section_end_line": 191,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where were numerous A. planci found during the first week of January 1979?",
+      "ground_truth_answer": "On a reef opposite the east end of the runway at Tufuna Airport, in water ranging from 3 to 6 meters deep.",
+      "ground_truth_chunks": [
+        "During the first week of January 1979 numerous A. planci were found on a reef opposite the east end of the runway at Tufuna Airport.",
+        "The star-fish here were very numerous, but scattered, in water ranging from 3 to 6 meters deep."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Gove et al. 2016 island mass effect/Gove et al. 2016 island mass effect.md",
+  "source_sha256": "4db6452895758f5c2a17f1517d38488d6b2539d86d78a9331164f2cd97a51b45",
+  "status": "complete",
+  "selected_section_count": 6,
+  "successful_record_count": 6,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "eb2a193f02bde99595d3e6e5",
+      "paper_id": "Gove et al. 2016 island mass effect/Gove et al. 2016 island mass effect",
+      "source_path": "output/Gove et al. 2016 island mass effect/Gove et al. 2016 island mass effect.md",
+      "section_heading": "Near-island biological hotspots in barren ocean basins",
+      "section_start_line": 9,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of coral reef ecosystems surveyed exhibited the Island Mass Effect (IME)?",
+      "ground_truth_answer": "91% of the coral reef ecosystems surveyed.",
+      "ground_truth_chunks": [
+        "We show that IME is a near-ubiquitous feature among a majority (91%) of coral reef ecosystems surveyed, creating near-island 'hotspots' of phytoplankton biomass throughout the upper water column."
+      ]
+    },
+    {
+      "record_id": "1eec1a80bad409b68b54f8a5",
+      "paper_id": "Gove et al. 2016 island mass effect/Gove et al. 2016 island mass effect",
+      "source_path": "output/Gove et al. 2016 island mass effect/Gove et al. 2016 island mass effect.md",
+      "section_heading": "Results",
+      "section_start_line": 25,
+      "section_end_line": 78,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of island- and atoll-reef ecosystems displayed localized nearshore enhancement in long-term chlorophyll-a associated with the IME?",
+      "ground_truth_answer": "91% (n=32).",
+      "ground_truth_chunks": [
+        "We found that 91% (n=32) of island- and atoll-reef ecosystems displayed localized nearshore enhancement in long-term chlorophyll-a associated with the IME."
+      ]
+    },
+    {
+      "record_id": "fd40b7b273028717ed4737e4",
+      "paper_id": "Gove et al. 2016 island mass effect/Gove et al. 2016 island mass effect",
+      "source_path": "output/Gove et al. 2016 island mass effect/Gove et al. 2016 island mass effect.md",
+      "section_heading": "Discussion",
+      "section_start_line": 79,
+      "section_end_line": 88,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Discussion, by how much could individual coral reef islands and atolls increase nearshore phytoplankton biomass over background oceanic conditions?",
+      "ground_truth_answer": "Individual coral reef islands and atolls were capable of increasing the nearshore standing stock of phytoplankton biomass by up to 86% over background oceanic conditions.",
+      "ground_truth_chunks": [
+        "Individual coral reef island and atolls were capable of increasing the nearshore standing stock of phytoplankton biomass by up to 86% over background oceanic conditions, forming biological hotspots across an otherwise barren ocean landscape."
+      ]
+    },
+    {
+      "record_id": "a57185b2cc113aad6308bb01",
+      "paper_id": "Gove et al. 2016 island mass effect/Gove et al. 2016 island mass effect",
+      "source_path": "output/Gove et al. 2016 island mass effect/Gove et al. 2016 island mass effect.md",
+      "section_heading": "Methods",
+      "section_start_line": 89,
+      "section_end_line": 140,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which predictors were included in the final best-specified GLM (model 1) for abs(b)?",
+      "ground_truth_answer": "The best-specified model included Geomorphic Type, Reef Area, Bathymetric Slope, Population Status, and the interaction Reef Area: Geomorphic Type.",
+      "ground_truth_chunks": [
+        "Following this iterative process, elevation, latitude, SST (mean and standard deviation) and the standard deviations of current speed and precipitation were removed. Remaining predictors were geomorphic type (atoll vs island), reef area, land area, bathymetric slope, population status (populated vs unpopulated), mean precipitation and mean current speed.",
+        "The resulting best-specified model was:\n\n(1)  $abs(b) \\sim Geomorphic Type + Reef Area + Bathymetric Slope + Population Status + Reef Area: Geomorphic Type$ "
+      ]
+    },
+    {
+      "record_id": "c22feebb96c37ebdf1899727",
+      "paper_id": "Gove et al. 2016 island mass effect/Gove et al. 2016 island mass effect",
+      "source_path": "output/Gove et al. 2016 island mass effect/Gove et al. 2016 island mass effect.md",
+      "section_heading": "Author contributions",
+      "section_start_line": 208,
+      "section_end_line": 211,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which authors developed and implemented the analysis?",
+      "ground_truth_answer": "J.M.G., M.A.M., G.J.W. and A.B.N.",
+      "ground_truth_chunks": [
+        "J.M.G., M.A.M., G.J.W. and A.B.N. developed and implemented the analysis;"
+      ]
+    },
+    {
+      "record_id": "6d77fc5f48bb608db3ef7d99",
+      "paper_id": "Gove et al. 2016 island mass effect/Gove et al. 2016 island mass effect",
+      "source_path": "output/Gove et al. 2016 island mass effect/Gove et al. 2016 island mass effect.md",
+      "section_heading": "Additional information",
+      "section_start_line": 212,
+      "section_end_line": 226,
+      "model": "openai:gpt-4o-mini",
+      "question": "Do the authors declare any competing financial interests?",
+      "ground_truth_answer": "The authors declare no competing financial interests.",
+      "ground_truth_chunks": [
+        "Competing financial interests: The authors declare no competing financial interests."
+      ]
+    }
+  ],
+  "failures": []
+}

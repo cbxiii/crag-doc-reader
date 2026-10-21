@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Cornish and Didonato Polydactyla American Samoa/Cornish and Didonato Polydactyla American Samoa.md",
+  "source_sha256": "e7d741d7ece4ec1c36a60aef901239ec74d8d7d9478ac3a2ffc3fb5ee8ae9aa3",
+  "status": "complete",
+  "selected_section_count": 6,
+  "successful_record_count": 6,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "eda8294fcbaf079333523bff",
+      "paper_id": "Cornish and Didonato Polydactyla American Samoa/Cornish and Didonato Polydactyla American Samoa",
+      "source_path": "output/Cornish and Didonato Polydactyla American Samoa/Cornish and Didonato Polydactyla American Samoa.md",
+      "section_heading": "Abstract",
+      "section_start_line": 17,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percentage did alcyoniid cover decline between the initial survey and 85 years later?",
+      "ground_truth_answer": "99% cover.",
+      "ground_truth_chunks": [
+        "One of the earliest quantitative surveys of soft corals, on a reef flat in Pago Pago Harbour, American Samoa, was repeated 85 years later.",
+        "The alcyoniid communities there, which were the dominant benthic organisms during the initial survey, have suffered a drastic decline of 99% cover in the interim."
+      ]
+    },
+    {
+      "record_id": "46d48bf348d60a752547cb87",
+      "paper_id": "Cornish and Didonato Polydactyla American Samoa/Cornish and Didonato Polydactyla American Samoa",
+      "source_path": "output/Cornish and Didonato Polydactyla American Samoa/Cornish and Didonato Polydactyla American Samoa.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 23,
+      "section_end_line": 50,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does this paper describe a resurvey of?",
+      "ground_truth_answer": "A resurvey of Cary's transect work on the Utulei reef flat in 2002.",
+      "ground_truth_chunks": [
+        "This paper describes a resurvey of Cary's transect work on the Utulei reef flat in 2002."
+      ]
+    },
+    {
+      "record_id": "c359da7dcea1dd6506455d4b",
+      "paper_id": "Cornish and Didonato Polydactyla American Samoa/Cornish and Didonato Polydactyla American Samoa",
+      "source_path": "output/Cornish and Didonato Polydactyla American Samoa/Cornish and Didonato Polydactyla American Samoa.md",
+      "section_heading": "2.1. Study area",
+      "section_start_line": 53,
+      "section_end_line": 60,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which of Cary's five transects have almost entirely disappeared due to reclamation around Goat Island?",
+      "ground_truth_answer": "Lines 2, 3, and 4 have almost entirely disappeared.",
+      "ground_truth_chunks": [
+        "Three of the five transects, Lines 2, 3, and 4 have almost entirely disappeared under the reclamation over the reef flats around Goat Island in the late 1960s.",
+        "Reclamation also occurred to widen the coastal road over the reef flat to the south of the Utulei cove and buried the start points of Lines 1 and 5 but most of each transect remains."
+      ]
+    },
+    {
+      "record_id": "529fe48f985f06e792b2c0ca",
+      "paper_id": "Cornish and Didonato Polydactyla American Samoa/Cornish and Didonato Polydactyla American Samoa",
+      "source_path": "output/Cornish and Didonato Polydactyla American Samoa/Cornish and Didonato Polydactyla American Samoa.md",
+      "section_heading": "2.2. Methods",
+      "section_start_line": 61,
+      "section_end_line": 70,
+      "model": "openai:gpt-4o-mini",
+      "question": "What statistical test and data transformation were used to analyze percentage soft coral cover for Line 1 and Line 5 from 1917 to 2002?",
+      "ground_truth_answer": "A paired t-test was used following a square root of the arcsin transformation.",
+      "ground_truth_chunks": [
+        "Percentage soft coral cover data for Line 1 and 5 from 1917 to 2002 were analyzed for changes over time using a paired t-test following a square root of the arcsin transformation."
+      ]
+    },
+    {
+      "record_id": "bc51b0af3cb40ecf1006488a",
+      "paper_id": "Cornish and Didonato Polydactyla American Samoa/Cornish and Didonato Polydactyla American Samoa",
+      "source_path": "output/Cornish and Didonato Polydactyla American Samoa/Cornish and Didonato Polydactyla American Samoa.md",
+      "section_heading": "3. Results",
+      "section_start_line": 71,
+      "section_end_line": 98,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percentage did mean alcyoniid (soft coral) cover on Line 1 decline between 1917 and 2002?",
+      "ground_truth_answer": "99.3% decrease.",
+      "ground_truth_chunks": [
+        "All alcyoniid species contributed a mean of 13.5% cover on Line 1 in 1917. Of the 37, 25 · 25 ft squares, 28 (74%) had some soft coral present, and the maximum cover was 96% (Fig. 2). In 2002 on the same transect the alcyoniids contributed just 0.1% cover, a decrease of 99.3%."
+      ]
+    },
+    {
+      "record_id": "198e4c02ccef85e6c37e0377",
+      "paper_id": "Cornish and Didonato Polydactyla American Samoa/Cornish and Didonato Polydactyla American Samoa",
+      "source_path": "output/Cornish and Didonato Polydactyla American Samoa/Cornish and Didonato Polydactyla American Samoa.md",
+      "section_heading": "4. Conclusions",
+      "section_start_line": 99,
+      "section_end_line": 139,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the authors, what were the primary causes of the decline of alcyoniid communities on the Utulei reef flat?",
+      "ground_truth_answer": "The authors state the primary causes were physical disturbances from reclamation (1940s to early 1960s), compounded by pollution from tuna canneries (mid-1950s to late 1980s), and periodic oil spills.",
+      "ground_truth_chunks": [
+        "Anthropogenic factors are more likely to be responsible for the decline in alcyoniids at Utulei given the long history of disturbance to Pago Pago Harbour. The population of American Samoa has risen from over 5,000 people in 1900 to over 60,000 in 2001, and more than 10,000 people now live along the shores of Pago Pago Harbour (American Samoa Government, 2002). Large areas of shallow reef on the southern shore of the inner harbour north of Utulei were laid barren in the 1920s following the construction of a naval base there (Cary, 1931) and the US Navy also dredged a number of inshore areas for landfill between 1942 and 1945. Other reclamation over the decades covered inner portions of the Utulei reef in the early 1940s to create a tank farm, 24 acres of reef in the southern part of the outer harbour in 1951 (Enright, pers. comm.), and again at Utulei to widen the road over the start of Cary's Line 1 and 5 in the early 1960s. Residents recall seeing heavy equipment on shallow areas of the Utulei reef and the current beach there was formed by trucking in large quantities of sand (Scanlan, pers. comm.), undoubtedly resulting in severe disturbance to the reef flat. Additional stress likely occurred when the reef around Goat Island at the northern point of Utulei was reclaimed in 1966, and from oil spills that were commonly observed in the area 1969–1971 (Maragos, pers. comm.).",
+        "We believe that the primary causes of the decline to alcyoniid communities on the Utulei reef flat were the physical disturbances caused by reclamation from the 1940s to early 1960s, compounded by pollution from the tuna canneries from the mid-1950s to late 1980s and periodic oil spills."
+      ]
+    }
+  ],
+  "failures": []
+}

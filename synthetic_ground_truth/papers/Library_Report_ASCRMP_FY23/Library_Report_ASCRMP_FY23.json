@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23.md",
+  "source_sha256": "4bfc8932a66989494f6f39d5288e52a015f5274d5aee1165ebad7ff6f8fae6fe",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "a5932f7f193bb9b166f257f7",
+      "paper_id": "Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23",
+      "source_path": "output/Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23.md",
+      "section_heading": "Correspondance emails",
+      "section_start_line": 18,
+      "section_end_line": 25,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the email address listed for Motusaga Vaeoso?",
+      "ground_truth_answer": "m.s.vaeoso@gmail.com",
+      "ground_truth_chunks": [
+        "Motusaga Vaeoso: [m.s.vaeoso@gmail.com](mailto:m.s.vaeoso@gmail.com)"
+      ]
+    },
+    {
+      "record_id": "5685572d1f2470d0c4382eae",
+      "paper_id": "Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23",
+      "source_path": "output/Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23.md",
+      "section_heading": "<span id=\"page-3-1\"></span>Climate Change",
+      "section_start_line": 65,
+      "section_end_line": 72,
+      "model": "openai:gpt-4o-mini",
+      "question": "By April 2024, what Degree Heating Weeks (DHW) value was reached in American Samoa and what bleaching Alert Level did that correspond to?",
+      "ground_truth_answer": "By April 2024 American Samoa reached 8 degree heating weeks (DHW), corresponding to an Alert Level 2 heat stress (a threshold considered to be associated with bleaching and mortality likely).",
+      "ground_truth_chunks": [
+        "By April 2024, we had reached an Alert Level 2 heat stress with 8-degree heating weeks (DHW), or a threshold considered to be associated with bleaching and mortality likely (Figure 2).",
+        "Degree Heating Weeks (DHW) indicates accumulated heat stress and acts as a metric for assessing thermal stress in the reef environment."
+      ]
+    },
+    {
+      "record_id": "c381423c2a7006e2dde2f3d3",
+      "paper_id": "Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23",
+      "source_path": "output/Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23.md",
+      "section_heading": "<span id=\"page-7-0\"></span>Survey Design and Protocols",
+      "section_start_line": 97,
+      "section_end_line": 134,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many semi-permanent sites around Tutuila does the ASCRMP currently have, and how often are they surveyed?",
+      "ground_truth_answer": "The ASCRMP currently has 12 semi-permanent sites around Tutuila, and they are surveyed annually.",
+      "ground_truth_chunks": [
+        "The ASCRMP currently has 12 semi-permanent sites around Tutuila surveyed annually (Figures 3 and 4)."
+      ]
+    },
+    {
+      "record_id": "d808d5b241c2337674068d07",
+      "paper_id": "Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23",
+      "source_path": "output/Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23.md",
+      "section_heading": "<span id=\"page-11-0\"></span>Monitoring Protocols",
+      "section_start_line": 193,
+      "section_end_line": 196,
+      "model": "openai:gpt-4o-mini",
+      "question": "If resources are limited, when does the section recommend carrying out Tier 2 surveys during a bleaching event?",
+      "ground_truth_answer": "If resources are limited, the section recommends carrying out Tier 2 surveys towards the peak of the bleaching event.",
+      "ground_truth_chunks": [
+        "If resources allow, surveying the start, middle, and end of the bleaching event is advantageous to collect information on bleaching progression through time.",
+        "If resources are limited, carrying out Tier 2 surveys towards the peak of the bleaching event is recommended to collect the most meaningful information (i.e., functional groups affected, severity, and mortality)."
+      ]
+    },
+    {
+      "record_id": "736c0abbac16b0231eb3c995",
+      "paper_id": "Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23",
+      "source_path": "output/Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23.md",
+      "section_heading": "<span id=\"page-13-0\"></span>Data Analyses",
+      "section_start_line": 229,
+      "section_end_line": 236,
+      "model": "openai:gpt-4o-mini",
+      "question": "What watershed and fishing-access predictors were examined in the regression analyses of fish trends?",
+      "ground_truth_answer": "Watershed influences: size, population, and nitrogen loading from ASEPA data; Fishing-access indicators: wave energy, boat distances from major ports, and road distances from major populations.",
+      "ground_truth_chunks": [
+        "We examined watershed influences (size, population, nitrogen loading from ASEPA data) and indicators of fishing access (wave energy, boat distances from major ports, and road distances from major populations).",
+        "From these regression plots, we can appreciate potential drivers of the fish populations and understand where management or enforcement needs may exist."
+      ]
+    },
+    {
+      "record_id": "09345cbacd06145b2ce0bf3f",
+      "paper_id": "Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23",
+      "source_path": "output/Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23.md",
+      "section_heading": "<span id=\"page-25-1\"></span>Time Swims and Transect Snorkeling Surveys on Reef Flats",
+      "section_start_line": 315,
+      "section_end_line": 339,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which monitoring site showed the highest bleaching extent (50-90%) and which species were most affected there?",
+      "ground_truth_answer": "Airport pools; species affected included multiple thickets of Acropora species (mainly A. muricata and A. robusta), Leptastrea, purpurea, Goniastrea reniformis, Table Acropora hyacinthus, Acropora hebes, and paling.",
+      "ground_truth_chunks": [
+        "Airport pools, with 50-90%, were the most affected.",
+        "| Airport<br>pools    | 01/11/2024 | 30-31   | 1-4   | 10-50%              | Paling<br>and<br>Bleached+<br>partial<br>dead | Multiple<br>thickets<br>of<br>Acroproa<br>species<br>(mainly<br>A.<br>muricata<br>and<br>A.<br>robusta)<br>Leptastrea |",
+        "|           | 04/10/2024 | 32    | 1-4     | 50-90% | Mortality                                        | purpurea and Goniastrea reniformis, Table Acropora hyacinthus, Acroproa hebes and paling                                                                                                                                                 |"
+      ]
+    },
+    {
+      "record_id": "f38d5887e10ea0552d01a153",
+      "paper_id": "Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23",
+      "source_path": "output/Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23.md",
+      "section_heading": "<span id=\"page-29-0\"></span>Classification of the Bleaching Events",
+      "section_start_line": 366,
+      "section_end_line": 379,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Table 5, what is the suggested survey method for a Moderate Bleaching Event?",
+      "ground_truth_answer": "Tier 1, then if resources allow Tier 2, and then Tier 3.",
+      "ground_truth_chunks": [
+        "| Moderate<br>Bleaching<br>Event | 10-50%<br>colonies<br>are<br>white<br>at<br>multiple<br>sites.<br>OR<br>severe<br>bleaching<br>(>50%)<br>from<br>a<br>few        | Tier<br>1,<br>then<br>if<br>resources<br>allow<br>Tier<br>2,<br>and<br>then<br>Tier<br>3 |"
+      ]
+    },
+    {
+      "record_id": "baf5346e6a5e1c866f8d84ac",
+      "paper_id": "Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23",
+      "source_path": "output/Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23.md",
+      "section_heading": "<span id=\"page-65-0\"></span>Fish Surveys",
+      "section_start_line": 537,
+      "section_end_line": 570,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which fish functional groups were the primary response to climate disturbances between 2015 and 2021?",
+      "ground_truth_answer": "Small-bodied parrotfish and surgeonfish.",
+      "ground_truth_chunks": [
+        "Heat stress removes corals and creates an abundance of non-calcifying turf and macroalgae that provide food for small-bodied parrotfish and surgeonfish. These",
+        "two fish functional groups were the primary response to climate disturbances between 2015 and 2021."
+      ]
+    },
+    {
+      "record_id": "813ee00d4b78a73640357554",
+      "paper_id": "Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23",
+      "source_path": "output/Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23.md",
+      "section_heading": "<span id=\"page-72-0\"></span>Discussion",
+      "section_start_line": 597,
+      "section_end_line": 604,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which monitored sites showed negative growth in benthic cover in the Discussion section?",
+      "ground_truth_answer": "Vatia (in a sandy reef environment), Fagasa (in wave-protected areas), Faga'alu (in the southern region), and Fagamalo (in the north).",
+      "ground_truth_chunks": [
+        "The analysis of benthic cover trends across the monitored sites reveals that most sites exhibit net positive growth.",
+        "However, certain sites show negative growth, including Vatia in a sandy reef environment, Fagasa in wave-protected areas, Faga'alu in the southern region, and Fagamalo in the north."
+      ]
+    },
+    {
+      "record_id": "5c44d295cf1e6ad8683337fd",
+      "paper_id": "Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23",
+      "source_path": "output/Library_Report_ASCRMP_FY23/Library_Report_ASCRMP_FY23.md",
+      "section_heading": "<span id=\"page-73-1\"></span>Recommendation for the Future",
+      "section_start_line": 611,
+      "section_end_line": 615,
+      "model": "openai:gpt-4o-mini",
+      "question": "What management approach does the report strongly recommend for coral reef conservation in American Samoa?",
+      "ground_truth_answer": "Implementing adaptive management strategies that address climate change impacts and local stressors, combined with continuous monitoring, research, and preparedness to respond promptly to major bleaching events.",
+      "ground_truth_chunks": [
+        "Based on this report's findings, we strongly recommend implementing adaptive management strategies for coral reef conservation in American Samoa.",
+        "These strategies should address the impacts of climate change on reef ecosystems, including their effects on fish and benthic populations across various sites.",
+        "Furthermore, we emphasize the importance of continuous monitoring and research efforts to gain deeper insights into the future impact of climate change on coral reef ecosystems. It is essential to be prepared to respond to major bleaching events promptly and effectively to understand how ecosystem functions may change and potential management interventions."
+      ]
+    }
+  ],
+  "failures": []
+}

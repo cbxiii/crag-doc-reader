@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Chase and Normark Tutuila Bathymetry GSA-2/Chase and Normark Tutuila Bathymetry GSA-2.md",
+  "source_sha256": "86357ca96a3521e131cbdc37239e97a39e3ecbef9bda9a8c0d93c4577704f247",
+  "status": "partial",
+  "selected_section_count": 0,
+  "successful_record_count": 0,
+  "failure_count": 1,
+  "records": [],
+  "failures": [
+    {
+      "source_path": "output/Chase and Normark Tutuila Bathymetry GSA-2/Chase and Normark Tutuila Bathymetry GSA-2.md",
+      "error": "no eligible sections",
+      "attempt_count": 0
+    }
+  ]
+}

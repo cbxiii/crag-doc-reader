@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS.md",
+  "source_sha256": "413aa6d6188772db6eebbf965fbf9f6af54639380b89299d2ef9543c0bed0b82",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "4b1a16d1283022149416c14a",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS.md",
+      "section_heading": "EXECUTIVE SUMMARY",
+      "section_start_line": 15,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "Does the Pacific Pelagic Fishery Ecosystem Plan (FEP) establish new fishery management regulations at this time?",
+      "ground_truth_answer": "No. The FEP does not establish any new fishery management regulations at this time; it creates the organizational structure for developing and implementing Fishery Ecosystem Plans and establishes a framework for managing resources and integrating ecosystem approaches.",
+      "ground_truth_chunks": [
+        "The Pacific Pelagic FEP establishes the framework under which the Council will manage fishery resources, and begin the integration and implementation of ecosystem approaches to management of Pacific pelagic species.",
+        "This FEP does not establish any new fishery management regulations at this time but rather creates the organizational structure for developing and implementing Fishery Ecosystem Plans that explicitly incorporate community input and local knowledge into the management process."
+      ]
+    },
+    {
+      "record_id": "c6f9910dd581b1a45dfdba5c",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS.md",
+      "section_heading": "2.5 Data and Information Needs",
+      "section_start_line": 706,
+      "section_end_line": 709,
+      "model": "openai:gpt-4o-mini",
+      "question": "What has made existing datasets in the Western Pacific Region difficult to utilize and integrate?",
+      "ground_truth_answer": "Differences in collection methodologies coupled with a lack of meta-data or documentation of how the data were collected and coded, resulting in incompatible datasets and data that are virtually inaccessible to anyone except the primary researchers.",
+      "ground_truth_chunks": [
+        "Some of this information has been processed and analyzed by fishery scientists and managers; however, much has proven difficult to utilize and integrate due to differences in collection methodologies coupled with a lack of meta-data or documentation of how the data were collected and coded.",
+        "This has resulted in incompatible datasets as well as data that are virtually inaccessible to anyone except the primary researchers."
+      ]
+    },
+    {
+      "record_id": "ba57caa5794d518739ab8545",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS.md",
+      "section_heading": "3.2.12 Pacific Island Geography",
+      "section_start_line": 908,
+      "section_end_line": 911,
+      "model": "openai:gpt-4o-mini",
+      "question": "Into which three major areas can the Pacific islands be generally grouped?",
+      "ground_truth_answer": "Micronesia, Melanesia, and Polynesia.",
+      "ground_truth_chunks": [
+        "The Pacific islands can be generally grouped into three major areas: (a) Micronesia, (b) Melanesia, and (c) Polynesia.",
+        "However, the islands of Japan and the Aleutian Islands in the North Pacific are generally not included in these three areas, and they are not discussed here as this analysis focuses on the Western Pacific Region and its ecosystems."
+      ]
+    },
+    {
+      "record_id": "dba96316dc23aa4d101d9b01",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS.md",
+      "section_heading": "Crustaceans",
+      "section_start_line": 1118,
+      "section_end_line": 1131,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long may the planktonic larval stage of Panulirus species last?",
+      "ground_truth_answer": "The planktonic larval stage may last from 6 months to 1 year.",
+      "ground_truth_chunks": [
+        "After hatching, the \"leaf-like\" larvae (or phyllosoma) enter a planktonic phase (WPRFMC 1983).",
+        "The planktonic larval stage may last from 6 months to 1 year from the time of the hatching of the eggs (WPRFMC 1983, MacDonald 1986)."
+      ]
+    },
+    {
+      "record_id": "39b974b888a4c8f103be0236",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS.md",
+      "section_heading": "3.4.4 Hawaii",
+      "section_start_line": 1428,
+      "section_end_line": 1468,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of Hawaii's total workforce did tourism directly generate in 1999?",
+      "ground_truth_answer": "22.6 percent of the total workforce.",
+      "ground_truth_chunks": [
+        "The World Travel and Tourism Council (1999). estimates that tourism in Hawaii directly generated 134,300 jobs in 1999. This figure represents 22.6 percent of the total workforce."
+      ]
+    },
+    {
+      "record_id": "03390d4eb7bf0f99aa0c9ad4",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS.md",
+      "section_heading": "5.11 Protected Species Workshops",
+      "section_start_line": 1862,
+      "section_end_line": 1867,
+      "model": "openai:gpt-4o-mini",
+      "question": "What must an owner of a vessel registered for use under any longline limited access permit maintain and have on file to maintain or renew their vessel registration?",
+      "ground_truth_answer": "A valid protected species workshop certificate issued by NMFS.",
+      "ground_truth_chunks": [
+        "Each year both the owner and the operator of a vessel registered for use under any longline permit must attend and be certified for completion of a workshop conducted by NMFS on mitigation, handling, and release techniques for turtles and seabirds and other protected species. A protected species workshop certificate will be issued by NMFS annually to any person who has completed the workshop.",
+        "An owner of a vessel registered for use under any longline limited access permit must maintain and have on file a valid protected species workshop certificate issued by NMFS in order to maintain or renew their vessel registration."
+      ]
+    },
+    {
+      "record_id": "de0953ee1323e2eeda208484",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS.md",
+      "section_heading": "Conservation Measures",
+      "section_start_line": 2331,
+      "section_end_line": 2340,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does the section recommend regarding the introduction of non-native species for mariculture?",
+      "ground_truth_answer": "A thorough scientific review and risk assessment should be undertaken before any nonnative species are allowed to be introduced.",
+      "ground_truth_chunks": [
+        "- 5. Non-native, ecologically undesirable species that are reared may pose a risk of escape or accidental release, which could adversely affect the ecological balance of an area. A thorough scientific review and risk assessment should be undertaken before any nonnative species are allowed to be introduced."
+      ]
+    },
+    {
+      "record_id": "e17fc36ab2a84c8ec028b90d",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS.md",
+      "section_heading": "§ 229.5 Requirements for Category III fisheries.",
+      "section_start_line": 2606,
+      "section_end_line": 2615,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under § 229.5, what must vessel owners engaged in a Category III fishery do with any marine mammal incidentally taken?",
+      "ground_truth_answer": "Any marine mammal incidentally taken must be immediately returned to the sea with a minimum of further injury unless directed otherwise by NMFS personnel, a designated contractor, or an official observer, or authorized otherwise by a scientific research permit in the possession of the operator.",
+      "ground_truth_chunks": [
+        "Any marine mammal incidentally taken must be immediately returned to the sea with a minimum of further injury unless directed otherwise by NMFS personnel, a designated contractor, or an official observer, or authorized otherwise by a scientific research permit in the possession of the operator."
+      ]
+    },
+    {
+      "record_id": "e4996aed49ccca1bb9bf17e9",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS.md",
+      "section_heading": "Section 665.15 Prohibitions.",
+      "section_start_line": 2975,
+      "section_end_line": 2992,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Section 665.15, is it unlawful to engage in fishing without a valid permit or facsimile of a valid permit on board a vessel when a permit is required under Section 660.13 or Section 660.17, and is there any exception?",
+      "ground_truth_answer": "Yes. Section 665.15(a) states it is unlawful to engage in fishing without a valid permit or facsimile of a valid permit on board the vessel and available for inspection by an authorized officer when a permit is required under Section 660.13 or Section 660.17. The exception is that if the vessel was at sea when the permit was issued under Section 660.13, the permit must be on board the vessel before its next trip.",
+      "ground_truth_chunks": [
+        "(a) Engage in fishing without a valid permit or facsimile of a valid permit on board the vessel and available for inspection by an authorized officer, when a permit is required under Section 660.13 or Section 660.17, unless the vessel was at sea when the permit was issued under Section 660.13, in which case the permit must be on board the vessel before its next trip."
+      ]
+    },
+    {
+      "record_id": "bf171862b06865ad304bbe7c",
+      "paper_id": "WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS",
+      "source_path": "output/WPRFMC-2005-Fishery.eco.plan.pelagic.AS/WPRFMC-2005-Fishery.eco.plan.pelagic.AS.md",
+      "section_heading": "Section 665.519 Exemptions for American Samoa large vessel prohibited areas.",
+      "section_start_line": 3555,
+      "section_end_line": 3572,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who is eligible for an exemption to use a large vessel to fish in the American Samoa large vessel prohibited management areas?",
+      "ground_truth_answer": "A person who currently owns a large vessel and who had been the owner of that vessel when it was registered for use with a Western Pacific general longline permit and made at least one landing of Pacific pelagic management unit species in American Samoa on or prior to November 13, 1997; that landing must have been properly recorded on a NMFS Western Pacific Federal daily longline form submitted to NMFS as required in § 660.14.",
+      "ground_truth_chunks": [
+        "(a) An exemption will be issued to a person who currently owns a large vessel, to use that vessel to fish for Pacific pelagic management unit species in the American Samoa large vessel prohibited management areas, if he or she had been the owner of that vessel when it was registered for use with a Western Pacific general longline permit and made at least one landing of Pacific pelagic management unit species in American Samoa on or prior to November 13, 1997.",
+        "- (b) A landing of Pacific pelagic management unit species for the purpose of this section must have been properly recorded on a NMFS Western Pacific Federal daily longline form that was submitted to NMFS, as required in § 660.14."
+      ]
+    }
+  ],
+  "failures": []
+}

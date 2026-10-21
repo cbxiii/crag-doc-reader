@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy.md",
+  "source_sha256": "0a01aecaa00b1010cb09dfae9e97828d10ce329fc6af8d72c406ff2bbfe18c90",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "2d1b6efec9492064f25650f5",
+      "paper_id": "Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy",
+      "source_path": "output/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy.md",
+      "section_heading": "AN ASSESSMENT OF THE EXPECTED IMPACT OF A DREDGING PROJECT PROPOSED FOR PALA LAGOON, AMERICAN SAMOA",
+      "section_start_line": 3,
+      "section_end_line": 27,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who is the Principal Investigator for the report 'AN ASSESSMENT OF THE EXPECTED IMPACT OF A DREDGING PROJECT PROPOSED FOR PALA LAGOON, AMERICAN SAMOA'?",
+      "ground_truth_answer": "Philip Helfrich",
+      "ground_truth_chunks": [
+        "by\n\nPhilip Helfrich Principal Investigator"
+      ]
+    },
+    {
+      "record_id": "3f2ac055b9457de86eb28553",
+      "paper_id": "Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy",
+      "source_path": "output/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 131,
+      "section_end_line": 154,
+      "model": "openai:gpt-4o-mini",
+      "question": "What has been the average annual rainfall in Pago Pago over the past 40 years?",
+      "ground_truth_answer": "About 508 cm (200 in) per year.",
+      "ground_truth_chunks": [
+        "The average annual rainfall in Pago Pago over the past 40 years has been about 508 cm (200 in)."
+      ]
+    },
+    {
+      "record_id": "32f5d11b536986501c190f97",
+      "paper_id": "Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy",
+      "source_path": "output/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy.md",
+      "section_heading": "TIDES AND CIRCULATION",
+      "section_start_line": 179,
+      "section_end_line": 184,
+      "model": "openai:gpt-4o-mini",
+      "question": "Will the proposed dredging greatly increase the flushing rate of the lagoon?",
+      "ground_truth_answer": "No. The measurements and analyses conclude the proposed dredging will not produce greatly increased flushing; the flushing rate might be slightly increased or possibly slightly decreased.",
+      "ground_truth_chunks": [
+        "Offhand, it might be expected that deepening the entrance channel would greatly increase the flushing rate, but this will not be the case here.",
+        "The flushing rate might be slightly increased or possibly even slightly decreased by the proposed channel.",
+        "Although the problem is too complex to allow an exact prediction of which small change would occur, the measurements and analyses do lead firmly to the important overall conclusion: the proposed dredging will not produce greatly increased flushing of the lagoon."
+      ]
+    },
+    {
+      "record_id": "e6c137f3e8954052000336ed",
+      "paper_id": "Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy",
+      "source_path": "output/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy.md",
+      "section_heading": "BACTERIAL CONTAMINATION",
+      "section_start_line": 275,
+      "section_end_line": 372,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which regions of Pala Lagoon had the highest enteric bacterial densities during the survey?",
+      "ground_truth_answer": "Enteric bacterial densities were highest in the northern and western regions of the lagoon, with the western and northwestern areas identified as zones of primary concern for fecal contamination.",
+      "ground_truth_chunks": [
+        "Enteric bacterial densities were highest in the northern and western regions of the lagoon reflecting major source locations and circulatory patterns.",
+        "The present zones of primary concern are the western and northwestern areas of Pala Lagoon.",
+        "It is concluded from this study that, on the basis of enteric microbial density, the western and northwestern regions of Pala Lagoon show evidences of fecal contamination."
+      ]
+    },
+    {
+      "record_id": "30ffa5a9fc4ff186071fd3fc",
+      "paper_id": "Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy",
+      "source_path": "output/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy.md",
+      "section_heading": "Reef Corals in Pala Lagoon",
+      "section_start_line": 524,
+      "section_end_line": 597,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which organisms dominated the surf zone on the fringing reef in front of Pala Lagoon (Transect A)?",
+      "ground_truth_answer": "The coralline alga Porolithon sp. and the corals Acropora humilis and Pocillopora verrucosa dominated the surf zone.",
+      "ground_truth_chunks": [
+        "The coralline alga, Porolithon sp., and the corals Acropora humilis and Pocillopora verrucosa were the dominant organisms in the surf zone.",
+        "Less common was the coral Millepora platyphylla."
+      ]
+    },
+    {
+      "record_id": "1c85d2bf043352276fa2681b",
+      "paper_id": "Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy",
+      "source_path": "output/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy.md",
+      "section_heading": "Eggs and Larvae",
+      "section_start_line": 628,
+      "section_end_line": 643,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many total net samples were collected during the sampling period in Pala Lagoon?",
+      "ground_truth_answer": "A total of 99 net samples was collected in 13 months of sampling.",
+      "ground_truth_chunks": [
+        "A total of 99 net samples was collected in 13 months of sampling.",
+        "Three tows were missed in December 1971 and two in January 1972 due to outboard motor failure."
+      ]
+    },
+    {
+      "record_id": "89d68b965f4fc3dbad709d9e",
+      "paper_id": "Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy",
+      "source_path": "output/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy.md",
+      "section_heading": "SOCIO-ECONOMIC CONSIDERATIONS",
+      "section_start_line": 712,
+      "section_end_line": 723,
+      "model": "openai:gpt-4o-mini",
+      "question": "What boat accommodation configuration did the Army Corps of Engineers initially propose for the Pala Lagoon small boat harbor?",
+      "ground_truth_answer": "They proposed accommodation for 350 trailer-type craft, 10 pleasure boats of the inboard-outboard class, and 40 sailboats without auxiliary power.",
+      "ground_truth_chunks": [
+        "The initial configuration of the Pala Lagoon small boat harbor proposed by the Army Corps of Engineers was based on the accommodation of 350 trailer-type craft, 10 pleasure boats of the inboard-outboard class, and 40 sailboats without auxiliary power.",
+        "The estimated cost of construction of a harbor to accommodate these crafts is \\$1,490,000."
+      ]
+    },
+    {
+      "record_id": "bf326eda8ab16bc697919d24",
+      "paper_id": "Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy",
+      "source_path": "output/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy.md",
+      "section_heading": "Applicable to: Classes A, 1 & 2 waters",
+      "section_start_line": 889,
+      "section_end_line": 892,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the maximum allowable median coliform bacteria concentration per 100 ml for Classes A, 1 & 2 waters?",
+      "ground_truth_answer": "The median coliform bacteria shall not exceed 1,000 per 100 ml.",
+      "ground_truth_chunks": [
+        "The median coliform bacteria shall not exceed 1,000 per 100 ml, nor shall more than 10 percent of the samples exceed 2,400 per 100 ml."
+      ]
+    },
+    {
+      "record_id": "98f351090126d3b97cc7c627",
+      "paper_id": "Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy",
+      "source_path": "output/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy.md",
+      "section_heading": "3. Class B waters",
+      "section_start_line": 921,
+      "section_end_line": 928,
+      "model": "openai:gpt-4o-mini",
+      "question": "To what area does the Class B designation apply within bays and harbors?",
+      "ground_truth_answer": "The Class B designation applies only to a limited area next to boat docking facilities in bays and harbors; the rest of the water area in such bay or harbor shall be Class A unless given some other specific designation in Section 5.",
+      "ground_truth_chunks": [
+        "The Class B designation shall apply only to a limited area next to boat docking facilities in bays and harbors.",
+        "The rest of the water area in such bay or harbor shall be Class A unless given some other specific designation in Section 5."
+      ]
+    },
+    {
+      "record_id": "c0115fa069070e907bf12646",
+      "paper_id": "Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy",
+      "source_path": "output/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy/Helfrich-1975-Assess.dredging.Pala.lagoon.AS-Copy.md",
+      "section_heading": "Range in lengths in millimeters",
+      "section_start_line": 1110,
+      "section_end_line": 1140,
+      "model": "openai:gpt-4o-mini",
+      "question": "What length range in millimeters SL is reported for Mulloidichthys flavolineatus (goatfish)?",
+      "ground_truth_answer": "85-135 mm SL.",
+      "ground_truth_chunks": [
+        "Mulloidichthys flavolineatus (goatfish)                                                                   | 153:85-135 mm SL                                               "
+      ]
+    }
+  ],
+  "failures": []
+}

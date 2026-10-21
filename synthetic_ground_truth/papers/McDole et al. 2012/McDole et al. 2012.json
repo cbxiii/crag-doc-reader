@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "source_path": "output/McDole et al. 2012/McDole et al. 2012.md",
+  "source_sha256": "91b13dfa106d7c640297a5cc748d7289a82775ccd54dc3c5f7c8f899bf2936fa",
+  "status": "partial",
+  "selected_section_count": 10,
+  "successful_record_count": 9,
+  "failure_count": 1,
+  "records": [
+    {
+      "record_id": "bb01e23068088dbef3585923",
+      "paper_id": "McDole et al. 2012/McDole et al. 2012",
+      "source_path": "output/McDole et al. 2012/McDole et al. 2012.md",
+      "section_heading": "Introduction",
+      "section_start_line": 27,
+      "section_end_line": 42,
+      "model": "openai:gpt-4o-mini",
+      "question": "How does this study define \"microbialization\"?",
+      "ground_truth_answer": "Microbialization is defined as an increase in the percentage of the combined fish and microbial predicted metabolic rate that is microbial.",
+      "ground_truth_chunks": [
+        "*Microbialization* refers to an increase in the percentage of the combined fish and microbial predicted metabolic rate that is microbial."
+      ]
+    },
+    {
+      "record_id": "d611f25703935a61d9f40704",
+      "paper_id": "McDole et al. 2012/McDole et al. 2012",
+      "source_path": "output/McDole et al. 2012/McDole et al. 2012.md",
+      "section_heading": "Collection of microbial data",
+      "section_start_line": 49,
+      "section_end_line": 62,
+      "model": "openai:gpt-4o-mini",
+      "question": "What equation was used to calculate microbial cell volume, and what do the variables l and w represent?",
+      "ground_truth_answer": "V = π/4 × w^2 (l - w/3); where l is length and w is width.",
+      "ground_truth_chunks": [
+        "Cell volume (V) was calculated by considering all cells to be cylinders with hemispherical caps using Equation 2:\n\n$$V = \\pi/4 \\times w^2 (l - w/3) \\tag{2}$$",
+        "where l is length and w is width [31]."
+      ]
+    },
+    {
+      "record_id": "74a3b7a9f809ba52af7b5cdd",
+      "paper_id": "McDole et al. 2012/McDole et al. 2012",
+      "source_path": "output/McDole et al. 2012/McDole et al. 2012.md",
+      "section_heading": "Metabolic rate calculations",
+      "section_start_line": 71,
+      "section_end_line": 76,
+      "model": "openai:gpt-4o-mini",
+      "question": "What activation energies (E) were used for microbes and for fish in the metabolic rate calculations?",
+      "ground_truth_answer": "0.61 eV for microbes and 0.69 eV for fish.",
+      "ground_truth_chunks": [
+        "The activation energies (E) used were 0.61 eV for microbes [25] and 0.69 eV for fish [21]."
+      ]
+    },
+    {
+      "record_id": "cabc589acededf11c757f233",
+      "paper_id": "McDole et al. 2012/McDole et al. 2012",
+      "source_path": "output/McDole et al. 2012/McDole et al. 2012.md",
+      "section_heading": "Estimation of net primary production",
+      "section_start_line": 134,
+      "section_end_line": 137,
+      "model": "openai:gpt-4o-mini",
+      "question": "From what spatial area around each island were the satellite-based NPP values estimated?",
+      "ground_truth_answer": "They were estimated from a 50 km radius ring surrounding each island, with the first 10 km around each island removed.",
+      "ground_truth_chunks": [
+        "Because these satellite data sets are less accurate for near-shore measurements, the satellite-based NPP values used here were estimated from the data for a 50 km radius ring surrounding each island, with the first 10 km around each island removed."
+      ]
+    },
+    {
+      "record_id": "7ffda922221693404158fbcd",
+      "paper_id": "McDole et al. 2012/McDole et al. 2012",
+      "source_path": "output/McDole et al. 2012/McDole et al. 2012.md",
+      "section_heading": "Predicted metabolic rates for the fish and microbes",
+      "section_start_line": 140,
+      "section_end_line": 143,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the predicted microbial basal metabolic rates (W per 10 m<sup>3</sup>) for Oahu and Wake Atoll, and what fold difference do they represent?",
+      "ground_truth_answer": "Oahu: 0.076 W per 10 m<sup>3</sup>; Wake Atoll: 0.001 W per 10 m<sup>3</sup>; this represents a 76-fold increase on Oahu relative to Wake Atoll.",
+      "ground_truth_chunks": [
+        "The high and low values for microbial biomass occurred on the islands of Oahu (1.53 g per 10 m<sup>3</sup>) and Wake Atoll (0.12 g per 10 m<sup>3</sup>), respectively.",
+        "This difference in microbial biomass equates to a 76fold increase in the rate of energy flux (W per 10 m<sup>3</sup> or J sec<sup>-1</sup> 10 m<sup>-3</sup>) on Oahu (0.076 W per 10 m<sup>3</sup>) relative to Wake Atoll (0.001 W per 10 m<sup>3</sup>)."
+      ]
+    },
+    {
+      "record_id": "93016a1eaf2ba71a6926b5f3",
+      "paper_id": "McDole et al. 2012/McDole et al. 2012",
+      "source_path": "output/McDole et al. 2012/McDole et al. 2012.md",
+      "section_heading": "Microbialization scores versus combined metabolic rate",
+      "section_start_line": 171,
+      "section_end_line": 174,
+      "model": "openai:gpt-4o-mini",
+      "question": "Was the combined predicted metabolic rate correlated with the microbialization score across the 29 islands?",
+      "ground_truth_answer": "No. The combined predicted metabolic rate was not correlated with the microbialization score; at low microbialization scores increases were due to reduced fish metabolic contribution, while at higher microbialization scores the combined predicted metabolic rate rose sharply driven primarily by increasing microbial metabolic rates.",
+      "ground_truth_chunks": [
+        "The combined predicted metabolic rate was not correlated with the microbialization score, which also varied widely among the islands, ranging from a low of 8% at Wake to a high of 97% at Oahu (Fig. 3, y-axis).",
+        "At the low end of this scale, increased microbalization scores were explained by reduced metabolic contribution from the fish. However, higher microbialization scores were associated with a sharp rise in combined predicted metabolic rate driven primarily by increasing microbial metabolic rates. This break-point may reflect the release of the microbes from some resource limitation."
+      ]
+    },
+    {
+      "record_id": "3fedf9c34351d3f58b09ed99",
+      "paper_id": "McDole et al. 2012/McDole et al. 2012",
+      "source_path": "output/McDole et al. 2012/McDole et al. 2012.md",
+      "section_heading": "Microbialization scores and primary production",
+      "section_start_line": 185,
+      "section_end_line": 196,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did island microbialization scores correlate with predicted oceanic net primary production (NPP)?",
+      "ground_truth_answer": "No. The island microbialization scores did not correlate with predicted oceanic NPP values (R^{2}=0.004), and estimated reef primary production was not a significant driver of variation in community metabolic rates or microbialization scores.",
+      "ground_truth_chunks": [
+        "The island microbialization scores did not correlate with predicted oceanic NPP values (Fig. 4C,  $R^{2=}0.004$ ) or nearshore chla concentrations (Fig. 4D;  $R^{2=}0.22$ ).",
+        "These analyses demonstrate that estimated reef primary production is not a significant driver of variation in either community metabolic rates or microbialization scores."
+      ]
+    },
+    {
+      "record_id": "cca4c9413608ce969783f6c8",
+      "paper_id": "McDole et al. 2012/McDole et al. 2012",
+      "source_path": "output/McDole et al. 2012/McDole et al. 2012.md",
+      "section_heading": "Conclusions",
+      "section_start_line": 215,
+      "section_end_line": 220,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Conclusions, what may set microbialization in motion on Pacific coral reefs?",
+      "ground_truth_answer": "An increase in the percent cover of turf algae resulting from the loss of herbivorous fish, because turf algae release large amounts of dissolved organic carbon (DOC) that is a source of energy for microbes.",
+      "ground_truth_chunks": [
+        "On Pacific coral reefs, microbialization may be set in motion by an increase in the percent cover of turf algae resulting from the loss of herbivorous fish.",
+        "Turf algae release large amounts of dissolved organic carbon (DOC) into the water column, a source of energy almost exclusively available to the microbes [47]."
+      ]
+    },
+    {
+      "record_id": "ed3c293d5c3d8e399ca8446b",
+      "paper_id": "McDole et al. 2012/McDole et al. 2012",
+      "source_path": "output/McDole et al. 2012/McDole et al. 2012.md",
+      "section_heading": "Author Contributions",
+      "section_start_line": 259,
+      "section_end_line": 298,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who conceived and designed the experiments?",
+      "ground_truth_answer": "FR TM MH SS.",
+      "ground_truth_chunks": [
+        "Conceived and designed the experiments: FR TM MH SS."
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "record_id": "c0b3e5a43be357627913dbd2",
+      "source_path": "output/McDole et al. 2012/McDole et al. 2012.md",
+      "section_heading": "Assessing Coral Reefs on a Pacific-Wide Scale Using the Microbialization Score",
+      "section_start_line": 3,
+      "section_end_line": 8,
+      "attempt_count": 3,
+      "error": "ValueError: evidence chunk is not an exact substring of the supplied section"
+    }
+  ]
+}

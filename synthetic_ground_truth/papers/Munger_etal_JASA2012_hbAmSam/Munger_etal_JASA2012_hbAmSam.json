@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Munger_etal_JASA2012_hbAmSam/Munger_etal_JASA2012_hbAmSam.md",
+  "source_sha256": "8528985bf2ceda3bb5079d0a785bc680d1c40ae2a99dda1cf2b73214d3df2aca",
+  "status": "complete",
+  "selected_section_count": 5,
+  "successful_record_count": 5,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "1340142339b4dbfd5d5d620e",
+      "paper_id": "Munger_etal_JASA2012_hbAmSam/Munger_etal_JASA2012_hbAmSam",
+      "source_path": "output/Munger_etal_JASA2012_hbAmSam/Munger_etal_JASA2012_hbAmSam.md",
+      "section_heading": "Kevin Wong",
+      "section_start_line": 11,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "During which months did humpback whale song occur at both Tutuila and Rose Atoll?",
+      "ground_truth_answer": "Humpback whale song occurred from mid-July through November.",
+      "ground_truth_chunks": [
+        "Humpback whale song occurred from mid-July through November at both locations."
+      ]
+    },
+    {
+      "record_id": "87fd5e47ac062e627513fb85",
+      "paper_id": "Munger_etal_JASA2012_hbAmSam/Munger_etal_JASA2012_hbAmSam",
+      "source_path": "output/Munger_etal_JASA2012_hbAmSam/Munger_etal_JASA2012_hbAmSam.md",
+      "section_heading": "I. INTRODUCTION",
+      "section_start_line": 23,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many locations in American Samoan waters had autonomous acoustic recorders deployed and when did deployment begin?",
+      "ground_truth_answer": "Autonomous acoustic recorders were deployed at a total of five locations, beginning in 2006.",
+      "ground_truth_chunks": [
+        "This study presents results from the first year-round PAM effort to document humpback whale seasonal occurrence and habitat use within an Oceania wintering and breeding ground.",
+        "Autonomous acoustic recorders were deployed at a total of five locations in American Samoan waters beginning in 2006 as part of the Pacific Rapid Assessment and Monitoring Program conducted by the National Oceanographic and Atmospheric Administration (NOAA) Pacific Islands Fisheries Science Center."
+      ]
+    },
+    {
+      "record_id": "8f54911584f9d60a6f752d61",
+      "paper_id": "Munger_etal_JASA2012_hbAmSam/Munger_etal_JASA2012_hbAmSam",
+      "source_path": "output/Munger_etal_JASA2012_hbAmSam/Munger_etal_JASA2012_hbAmSam.md",
+      "section_heading": "II. MATERIALS AND METHODS",
+      "section_start_line": 41,
+      "section_end_line": 66,
+      "model": "openai:gpt-4o-mini",
+      "question": "What duty cycle and recording schedule were the Ecological Acoustic Recorders (EARs) programmed to use?",
+      "ground_truth_answer": "They were programmed to record on a 3.3% duty cycle: 30 s on every 15 min.",
+      "ground_truth_chunks": [
+        "Both EARs were programmed to record on a 3.3% duty cycle of 30 s on every 15 min."
+      ]
+    },
+    {
+      "record_id": "088f5c19448a51ba9e95c67d",
+      "paper_id": "Munger_etal_JASA2012_hbAmSam/Munger_etal_JASA2012_hbAmSam",
+      "source_path": "output/Munger_etal_JASA2012_hbAmSam/Munger_etal_JASA2012_hbAmSam.md",
+      "section_heading": "III. RESULTS",
+      "section_start_line": 67,
+      "section_end_line": 98,
+      "model": "openai:gpt-4o-mini",
+      "question": "On what date was the earliest humpback whale song detected at Rose Atoll during the study?",
+      "ground_truth_answer": "18 June 2008.",
+      "ground_truth_chunks": [
+        "The earliest song of the season was detected on 18 June 2008 at Rose Atoll,"
+      ]
+    },
+    {
+      "record_id": "5d00ffae3cb62e337bc0cfb4",
+      "paper_id": "Munger_etal_JASA2012_hbAmSam/Munger_etal_JASA2012_hbAmSam",
+      "source_path": "output/Munger_etal_JASA2012_hbAmSam/Munger_etal_JASA2012_hbAmSam.md",
+      "section_heading": "IV. DISCUSSION",
+      "section_start_line": 99,
+      "section_end_line": 114,
+      "model": "openai:gpt-4o-mini",
+      "question": "During what months did humpback whale singing onset and cease at the two American Samoa study sites, and when was song absent?",
+      "ground_truth_answer": "Onset in mid-July and cessation in late November; no song was detected during recording effort from December through May.",
+      "ground_truth_chunks": [
+        "Continual singing occurred over similar time frames at both sites, with the onset in mid-July and cessation in late November, and no song was detected during recording effort in December through May.",
+        "The earliest detection of song was on a single day in mid-June at Rose Atoll, but no further song was detected until approximately a month later."
+      ]
+    }
+  ],
+  "failures": []
+}

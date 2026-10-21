@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Brown et al 2009 Coral Reefs American Samoa_s Island of Giants/Brown et al 2009 Coral Reefs American Samoa_s Island of Giants.md",
+  "source_sha256": "de4573c96112ff16d7b9bd86eaacea021eab8c1350dd4fbca39baf6ff3df66bc",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "b27972ccb35a0538ac9f8a4d",
+      "paper_id": "Brown et al 2009 Coral Reefs American Samoa_s Island of Giants/Brown et al 2009 Coral Reefs American Samoa_s Island of Giants",
+      "source_path": "output/Brown et al 2009 Coral Reefs American Samoa_s Island of Giants/Brown et al 2009 Coral Reefs American Samoa_s Island of Giants.md",
+      "section_heading": "American Samoa's island of giants: massive Porites colonies at Ta'u island",
+      "section_start_line": 1,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the estimated dry weight of the skeleton of the massive Porites colony at Ta'u island?",
+      "ground_truth_answer": "Approximately 129 metric tons.",
+      "ground_truth_chunks": [
+        "The colony is composed of around 200 million polyps, assuming a smooth hemispherical surface and a polyp size of 1 mm<sup>2</sup> , and has a skeletal density of 1.4 g/cm<sup>3</sup> (~52% average porosity).",
+        "Using the volume and density estimates, the skeleton was estimated to have a dryweight of approximately 129 metric tons."
+      ]
+    }
+  ],
+  "failures": []
+}

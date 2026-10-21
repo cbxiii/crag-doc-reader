@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy.md",
+  "source_sha256": "38712535124ed4e8ecf000228e2f3240ad01d265b650ff67ae9841da0eb27fd5",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "44b5938325e2c21fa063450b",
+      "paper_id": "Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy",
+      "source_path": "output/Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy.md",
+      "section_heading": "INTRODUCED MARINE SPECIES IN PAGO PAGO HARBOR, FAGATELE BAY AND THE NATIONAL PARK COAST, AMERICAN SAMOA",
+      "section_start_line": 9,
+      "section_end_line": 36,
+      "model": "openai:gpt-4o-mini",
+      "question": "What year was the final report on introduced marine species in Pago Pago Harbor, Fagatele Bay and the National Park Coast published?",
+      "ground_truth_answer": "2003.",
+      "ground_truth_chunks": [
+        "Honolulu Hawai'i December 2003",
+        "Copyright © 2003 Bishop Museum All Rights Reserved Printed in the United States of America"
+      ]
+    },
+    {
+      "record_id": "000355f4c336ce74641b412c",
+      "paper_id": "Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy",
+      "source_path": "output/Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy.md",
+      "section_heading": "Station 2. East Fagatele Bay. 14-Oct-02 (Latitude 14° 21.95'S, Longitude 170° 45.77'W).",
+      "section_start_line": 170,
+      "section_end_line": 173,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the visibility recorded at Station 2?",
+      "ground_truth_answer": "Water clarity was high with visibility of 20 m or more.",
+      "ground_truth_chunks": [
+        "Water clarity was high and visibility was 20 m or more."
+      ]
+    },
+    {
+      "record_id": "65e4dba796d7feef9cb29b90",
+      "paper_id": "Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy",
+      "source_path": "output/Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy.md",
+      "section_heading": "Station 10. Fagasa Bay 16-Oct-02 (Latitude 14° 17.01'S, Longitude 170° 43.37'W)",
+      "section_start_line": 204,
+      "section_end_line": 207,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the coral cover on the reef slope at Station 10?",
+      "ground_truth_answer": "Approximately 50% (ca. 50%).",
+      "ground_truth_chunks": [
+        "Coral cover on reef slope was ca. 50% and diverse in species, with abundant *Halimeda*."
+      ]
+    },
+    {
+      "record_id": "5fbabe8c608283deb01fec7a",
+      "paper_id": "Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy",
+      "source_path": "output/Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy.md",
+      "section_heading": "Materials and Methods",
+      "section_start_line": 551,
+      "section_end_line": 580,
+      "model": "openai:gpt-4o-mini",
+      "question": "What preservative and concentration were used to treat all specimens collected in the study?",
+      "ground_truth_answer": "All specimens were treated with 4-percent formalin (10% formaldehyde) in seawater solution and soaked in plastic bags or plastic vials for two days before draining and repacking them for shipment.",
+      "ground_truth_chunks": [
+        "All specimens were treated with 4-percent formalin (10% formaldehyde) in seawater solution, and soaked in plastic bags or plastic vials for two days, before draining and repacking them for shipment."
+      ]
+    },
+    {
+      "record_id": "e63e411d77251961d4cf3f14",
+      "paper_id": "Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy",
+      "source_path": "output/Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy.md",
+      "section_heading": "Station 9 (Vatia)",
+      "section_start_line": 647,
+      "section_end_line": 650,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which rarely known green alga was first recorded from the Pacific Ocean at Station 9 (Vatia)?",
+      "ground_truth_answer": "Sporocladopsis erythraea.",
+      "ground_truth_chunks": [
+        "The most unusual find from this site was the collection of a small green alga – *Sporocladopsis erythraea*.",
+        "This is the first record of this alga from the Pacific Ocean, but it may well be more common than we think."
+      ]
+    },
+    {
+      "record_id": "32784b512a589264ac5136c6",
+      "paper_id": "Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy",
+      "source_path": "output/Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy.md",
+      "section_heading": "Subclass TETRACTINOMORPHA",
+      "section_start_line": 1818,
+      "section_end_line": 2116,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species of Family TETILLIDAE (Order SPIROPHORIDA) are reported in the 2002 present study?",
+      "ground_truth_answer": "Cinachyra sp.; Craniella abracadabra de Laubenfels, 1954; Paratetilla bacca Selenka, 1867.",
+      "ground_truth_chunks": [
+        "*Cinachyra* **sp.**\n\n2002 present study",
+        "*Craniella abracadabra* **de Laubenfels, 1954**\n\n2002 present study",
+        "*Paratetilla bacca* **Selenka, 1867**\n\n2002 present study"
+      ]
+    },
+    {
+      "record_id": "fb497c1792ef86b8a3b1ea40",
+      "paper_id": "Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy",
+      "source_path": "output/Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy.md",
+      "section_heading": "Glycera sp.",
+      "section_start_line": 3505,
+      "section_end_line": 3620,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which family heading follows the section titled 'Glycera sp.'?",
+      "ground_truth_answer": "Family EUNICIDAE",
+      "ground_truth_chunks": [
+        "#### *Glycera* **sp.**\n\nFamily EUNICIDAE",
+        "*Eunice* **sp.** \n\n1923 BPBM-R 1371 Pago Pago Harbor\n\n2002 present study"
+      ]
+    },
+    {
+      "record_id": "43fa8d32b756d3e820f69767",
+      "paper_id": "Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy",
+      "source_path": "output/Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy.md",
+      "section_heading": "Scylla serrata (Forsskål, 1775)",
+      "section_start_line": 5302,
+      "section_end_line": 5649,
+      "model": "openai:gpt-4o-mini",
+      "question": "What location is listed for Scylla serrata (Forsskål, 1775)?",
+      "ground_truth_answer": "Inner harbor.",
+      "ground_truth_chunks": [
+        "#### *Scylla serrata* **(Forsskål, 1775)**",
+        "1979 USACE 1980 Inner harbor"
+      ]
+    },
+    {
+      "record_id": "99adeeae8dd919b22e96f724",
+      "paper_id": "Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy",
+      "source_path": "output/Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy.md",
+      "section_heading": "Family Malacanthidae Malacanthus brevirostris Guichenot, 1848 2002 present study Malacanthus latovittatus (Lacépède, 1801) 1985 Birkeland et al. 1987 Fagatele Bay Malacanthus sp. 1974 Dames & Moore 1974 Ava Point Family Carangidae Carangidae sp. 1971 BPBM-11329 Fagasa Bay Caranx ignobilis (Forsskål, 1775) 1971 BPBM-11325 Fagasa Bay Caranx melampygus Cuvier, 1833 1979 Wass (in Sea Engineering 1986) Rainmaker Hotel 1985 Birkeland et al. 1987 Fagatele Bay 1995 Green et al. 1999 Fagatele Bay 2002 present study Caranx sexfasciatus Quoy & Gaimard, 1824 1974 BPBM-17000 Aua 1982 BPBM-28904 Pago Pago Harbor, Whale Rock 2002 present study Caranx sp. 1974 Dames & Moore 1974 Ava Point 1979 USACE 1980 Inner harbor Scomberoideslysan (Forsskål, 1775) 1985 Birkeland et al. 1987 Fagatele Bay 1990 AECOS 1991 Inner Harbor 1995 Green et al. 1999 Fagatele Bay Selar crumenophthalmus (Bloch, 1793) 1979 USACE 1980 Fagatogo Trachinotus baillonii (Lacépède, 1801) 1985 Birkeland et al. 1987 Fagatele Bay 1995 Green et al. 1999 Fagatele Bay Uraspis sp. 1990 AECOS 1991 Inner Harbor Family Coryphaenidae Coryphaena hippurus Linnaeus, 1758 1995 Green et al. 1999 Fagatele Bay Family Leiognathidae",
+      "section_start_line": 7246,
+      "section_end_line": 7255,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Caranx species are reported as present in the 2002 present study?",
+      "ground_truth_answer": "Caranx melampygus and Caranx sexfasciatus.",
+      "ground_truth_chunks": [
+        "*Caranx melampygus* **Cuvier, 1833** 1979 Wass (in Sea Engineering 1986) Rainmaker Hotel 1985 Birkeland et al. 1987 Fagatele Bay 1995 Green et al. 1999 Fagatele Bay 2002 present study",
+        "*Caranx sexfasciatus* **Quoy & Gaimard, 1824** 1974 BPBM-17000 Aua 1982 BPBM-28904 Pago Pago Harbor, Whale Rock 2002 present study"
+      ]
+    },
+    {
+      "record_id": "c91e542a0355310dcfb824e4",
+      "paper_id": "Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy",
+      "source_path": "output/Coles-2003-Intro.marine.species.NPSA.AS-Copy/Coles-2003-Intro.marine.species.NPSA.AS-Copy.md",
+      "section_heading": "APPENDIX D",
+      "section_start_line": 9169,
+      "section_end_line": 9407,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many total corals are reported in Appendix D?",
+      "ground_truth_answer": "98",
+      "ground_truth_chunks": [
+        "|          | Total Corals     | 98                        |                             |"
+      ]
+    }
+  ],
+  "failures": []
+}

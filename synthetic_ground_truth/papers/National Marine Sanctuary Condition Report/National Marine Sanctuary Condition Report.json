@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report.md",
+  "source_sha256": "165deb38ef8d3855903cbf71c7df609a520881f4219ec72754a69998360443df",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "14a5d8b7511d5189604af69d",
+      "paper_id": "National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report",
+      "source_path": "output/National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report.md",
+      "section_heading": "National Marine Sanctuary Condition Report.md",
+      "section_start_line": 1,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the cover photo caption in this section, what is pictured and where was the photo taken?",
+      "ground_truth_answer": "Corals pictured in Fagatele Bay.",
+      "ground_truth_chunks": [
+        "Cover photo: Corals, like these pictured in Fagatele Bay, are important foundation species, providing structure and food for many other reef organisms. Photo: Wendy Cover/NOAA"
+      ]
+    },
+    {
+      "record_id": "2c3abd2e021f2e030c9f3c2f",
+      "paper_id": "National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report",
+      "source_path": "output/National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report.md",
+      "section_heading": "Living Resources",
+      "section_start_line": 429,
+      "section_end_line": 454,
+      "model": "openai:gpt-4o-mini",
+      "question": "What rating did experts assign to fish taxa and why?",
+      "ground_truth_answer": "Experts assigned a rating of fair/poor to fish taxa because the low abundance of large predators and herbivores in shallow coral reef habitats may decrease ecosystem resilience.",
+      "ground_truth_chunks": [
+        "**Status Description:** The status of keystone and foundation species is mixed.",
+        "Experts assigned a rating of fair/poor to fish taxa as the low abundance of large predators and herbivores in shallow coral reef habitats, may decrease ecosystem resilience."
+      ]
+    },
+    {
+      "record_id": "f60677eed02eadb0693f99bd",
+      "paper_id": "National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report",
+      "source_path": "output/National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report.md",
+      "section_heading": "Fagalua/Fogama'a",
+      "section_start_line": 761,
+      "section_end_line": 770,
+      "model": "openai:gpt-4o-mini",
+      "question": "What types of human activities are allowed in the Fagalua/Fogama'a unit?",
+      "ground_truth_answer": "Allowed activities include research, education, recreation, hook-and-line fishing, cast nets, spearfishing (non-scuba-assisted), and traditional sustenance/cultural methods such as gleaning, enu, and ola (traditional basket fishing).",
+      "ground_truth_chunks": [
+        "A variety of activities are allowed in the Fagalua/Fogama'a unit, including research, education, recreation, hook-and-line fishing, cast nets, spearfishing (non-scuba-assisted), and traditional methods used for sustenance and cultural purposes such as gleaning, enu, and ola (traditional basket fishing; see Table R.1 and Table R.2 in the Response section for further information)."
+      ]
+    },
+    {
+      "record_id": "93f9fe533cbd3171b60720f5",
+      "paper_id": "National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report",
+      "source_path": "output/National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report.md",
+      "section_heading": "<span id=\"page-78-2\"></span>Marine Debris",
+      "section_start_line": 1010,
+      "section_end_line": 1013,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which sanctuary unit has persistent accumulation of both ocean- and shore-based marine debris?",
+      "ground_truth_answer": "The Fagalua/Fogama'a unit.",
+      "ground_truth_chunks": [
+        "The Fagalua/Fogama'a unit has persistent accumulation of both ocean- and shore-based debris, including abandoned fishing gear and discarded trash left by visitors.",
+        "Trash in its many forms has long been a problem on the shorelines and coastal waters of American Samoa, especially plastic trash, which persists and accumulates in the environment."
+      ]
+    },
+    {
+      "record_id": "1f365994c4eb47fc6e2209b2",
+      "paper_id": "National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report",
+      "source_path": "output/National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report.md",
+      "section_heading": "<span id=\"page-130-0\"></span>Living Resources (Questions 9–13)",
+      "section_start_line": 1521,
+      "section_end_line": 1534,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does Question 9 evaluate in the assessment of living resources in NMSAS?",
+      "ground_truth_answer": "It evaluates the status of keystone and foundation species; a keystone species has a disproportionately large effect on its environment relative to its abundance, and foundation species define much of the structure of a community by creating locally stable conditions (e.g., providing primary prey for local predators or serving as biogenic habitat).",
+      "ground_truth_chunks": [
+        "Question 9 evaluates the status of keystone and foundation species. Both are important components of the ecosystem.",
+        "A \"keystone\" species has a disproportionately large effect on its environment relative to its abundance (Cottee-Jones & Whittaker, 2012).",
+        "\"Foundation\" species are those that define much of the structure of a community by creating locally stable conditions, such as providing primary prey for local predators or serving as biogenic habitat (sensu Dayton, 1972)."
+      ]
+    },
+    {
+      "record_id": "1de887ac8bfefc1f0a04feda",
+      "paper_id": "National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report",
+      "source_path": "output/National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report.md",
+      "section_heading": "Fish",
+      "section_start_line": 1903,
+      "section_end_line": 1908,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many reef fish species and genera have been recorded during rebreather surveys in American Samoa?",
+      "ground_truth_answer": "A total of 244 reef fish species within 118 genera have been recorded.",
+      "ground_truth_chunks": [
+        "In American Samoa, a total of 244 reef fish species within 118 genera have been recorded during rebreather surveys."
+      ]
+    },
+    {
+      "record_id": "3d169df3d6744bdcc3854105",
+      "paper_id": "National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report",
+      "source_path": "output/National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report.md",
+      "section_heading": "<span id=\"page-186-0\"></span>Ecosystem Services Indicators",
+      "section_start_line": 2206,
+      "section_end_line": 2209,
+      "model": "openai:gpt-4o-mini",
+      "question": "What three types of indicators are used to evaluate the status and trends of ecosystem services?",
+      "ground_truth_answer": "Economic indicators, non-economic indicators, and resource indicators.",
+      "ground_truth_chunks": [
+        "The status and trends of ecosystem services are best evaluated using a combination of three types of indicators: economic, non-economic, and resource.",
+        "Economic indicators may include direct measures of use (e.g., person-days of recreation, catch levels) that result in spending, income, jobs, gross regional product, and tax revenues, or non-market economic values (the difference between what people pay to use a good/service and what they would be willing to pay).",
+        "Resource indicators are used to determine if current levels of use are sustainable or are causing degradation to resources."
+      ]
+    },
+    {
+      "record_id": "ca6667a9091aa439a03f3b96",
+      "paper_id": "National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report",
+      "source_path": "output/National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report.md",
+      "section_heading": "Conclusion",
+      "section_start_line": 2677,
+      "section_end_line": 2680,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species does the conclusion identify as at least one functionally extinct in American Samoa?",
+      "ground_truth_answer": "Humphead parrotfish.",
+      "ground_truth_chunks": [
+        "This is supported by information from the State section of the report that indicates declines in clam communities; a low abundance of large parrotfish, groupers, and sharks; and at least one functionally extinct species (humphead parrotfish)."
+      ]
+    },
+    {
+      "record_id": "c75d4b7c14a5ecd31c3bd1c0",
+      "paper_id": "National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report",
+      "source_path": "output/National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report.md",
+      "section_heading": "10. What is the status of other focal species and how is it changing?",
+      "section_start_line": 3451,
+      "section_end_line": 3464,
+      "model": "openai:gpt-4o-mini",
+      "question": "What metrics does the section say can be used to assess the status of focal species?",
+      "ground_truth_answer": "The status can be assessed through measures of abundance, relative abundance, or condition.",
+      "ground_truth_chunks": [
+        "Status of these other focal species can be assessed through measures of abundance, relative abundance, or condition, as described for keystone species."
+      ]
+    },
+    {
+      "record_id": "f92bd24b9a58f74539e04c9e",
+      "paper_id": "National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report",
+      "source_path": "output/National Marine Sanctuary Condition Report/National Marine Sanctuary Condition Report.md",
+      "section_heading": "Commercial Harvest",
+      "section_start_line": 4337,
+      "section_end_line": 4376,
+      "model": "openai:gpt-4o-mini",
+      "question": "In which year between 2006 and 2016 was the highest total pounds landed, and what was the amount?",
+      "ground_truth_answer": "2008 — 210,442 pounds.",
+      "ground_truth_chunks": [
+        "| Year  | Total     | Trolling | Bottom Fishing | Spear<br>Fishing | Longlining |",
+        "| 2008  | 210,442   | 40,064   | 103,959        | 9,357            | 53,529     |"
+      ]
+    }
+  ],
+  "failures": []
+}

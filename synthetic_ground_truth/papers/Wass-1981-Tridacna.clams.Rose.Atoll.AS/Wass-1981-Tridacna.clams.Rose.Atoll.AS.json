@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Wass-1981-Tridacna.clams.Rose.Atoll.AS/Wass-1981-Tridacna.clams.Rose.Atoll.AS.md",
+  "source_sha256": "00c965da17eb07c67d65580bbd87a9f1aeabcb138fd52d42aac168159d35464e",
+  "status": "complete",
+  "selected_section_count": 2,
+  "successful_record_count": 2,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "f24a81178d33fbc4dbba8bc5",
+      "paper_id": "Wass-1981-Tridacna.clams.Rose.Atoll.AS/Wass-1981-Tridacna.clams.Rose.Atoll.AS",
+      "source_path": "output/Wass-1981-Tridacna.clams.Rose.Atoll.AS/Wass-1981-Tridacna.clams.Rose.Atoll.AS.md",
+      "section_heading": "THE TRIDACNA CLAMS OF ROSE ATOLL",
+      "section_start_line": 1,
+      "section_end_line": 59,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Tridacna species was observed at Rose Atoll during the survey?",
+      "ground_truth_answer": "Only Tridacna maxima was observed.",
+      "ground_truth_chunks": [
+        "The distribution survey indicated that Tridacna are found throughout the shallow areas of the lagoon. Only Tridacna maxima was observed although T. squamosa also occurs at Tutuila Island, 140 miles to the west."
+      ]
+    },
+    {
+      "record_id": "be78f17f163a40aecad1878d",
+      "paper_id": "Wass-1981-Tridacna.clams.Rose.Atoll.AS/Wass-1981-Tridacna.clams.Rose.Atoll.AS",
+      "source_path": "output/Wass-1981-Tridacna.clams.Rose.Atoll.AS/Wass-1981-Tridacna.clams.Rose.Atoll.AS.md",
+      "section_heading": "RECOMMENDATIONS",
+      "section_start_line": 60,
+      "section_end_line": 79,
+      "model": "openai:gpt-4o-mini",
+      "question": "What minimum shell length for harvested Tridacna does the section propose for Rose?",
+      "ground_truth_answer": "A minimum shell length of 140 mm.",
+      "ground_truth_chunks": [
+        "In a comprehensive study of the Tridacna of Tonga, McKoy (1980) concludes that 100% of the T. maxima are fully mature at 140 mm (at which size they are about eight years old).",
+        "Because there are no size-at-maturity data for Samoan Tridacna, and assuming that size at maturity at Rose and Tonga are similar, it is proposed that a minimum size limit be set at 140 mm shell length.",
+        "Part A of Figure 4 indicates that about 31% of the existing population is larger than 140 mm so the resource offers considerable potential to fishermen even with the minimum size limit."
+      ]
+    }
+  ],
+  "failures": []
+}

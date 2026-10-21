@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS.md",
+  "source_sha256": "10bbe6e1b32248dd2b593e7a06359f536768bde1b15fa38a290eed1e5ca55f51",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "646c5bfead5777cbc3731ed6",
+      "paper_id": "Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS",
+      "source_path": "output/Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS.md",
+      "section_heading": "Species boundaries within the Acropora humilis species group (Cnidaria; Scleractinia): a morphological and molecular interpretation of evolution",
+      "section_start_line": 5,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the study's molecular analyses, which species comprise the two evolutionarily distinct lineages within the Acropora humilis species group?",
+      "ground_truth_answer": "A. humilis and A. gemmifera form one lineage; A. digitifera and two morphological types of A. monticulosa form the other lineage.",
+      "ground_truth_chunks": [
+        "Maximum parsimony and likelihood analyses of partial 28S rDNA sequences suggest that these morphological units diverged to form two evolutionarily distinct lineages, with A. humilis and A. gemmifera in one lineage and A. digitifera and two morphological types of A. monticulosa in the other.",
+        "Low levels of sequence divergence but distinct morphologies of A. humilis and A. genunifera within the former lineage suggest recent divergence or ongoing hybridization between these species."
+      ]
+    },
+    {
+      "record_id": "596c64900fe1bccf8c0e5241",
+      "paper_id": "Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS",
+      "source_path": "output/Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS.md",
+      "section_heading": "Introduction",
+      "section_start_line": 25,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which molecular marker was used to analyze the morphological entities defined in this study?",
+      "ground_truth_answer": "Partial sequences of the 28S ribosomal DNA unit.",
+      "ground_truth_chunks": [
+        "In this paper, we examine the evolutionary relationships between species within the *A. humilis* species group in American Samoa, using morphological and molecular data.",
+        "The morphological entities defined in this study were then analyzed using partial sequences of the 28S ribosomal DNA unit."
+      ]
+    },
+    {
+      "record_id": "ad4a3ffe91a646d13cfe68ca",
+      "paper_id": "Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS",
+      "source_path": "output/Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS.md",
+      "section_heading": "Morphometric characters",
+      "section_start_line": 59,
+      "section_end_line": 70,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which software and option were used to carry out the morphometric PCA analysis?",
+      "ground_truth_answer": "Analysis was carried out in SPSS 9.0, using the factor analysis option.",
+      "ground_truth_chunks": [
+        "Morphometric characters were analyzed using principal components analysis (PCA).",
+        "Analysis was carried out in SPSS 9.0, using the factor analysis option."
+      ]
+    },
+    {
+      "record_id": "8fac2ef564403bb7bdb874a6",
+      "paper_id": "Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS",
+      "source_path": "output/Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS.md",
+      "section_heading": "Descriptive characters",
+      "section_start_line": 71,
+      "section_end_line": 151,
+      "model": "openai:gpt-4o-mini",
+      "question": "What software and clustering method were used to analyze the descriptive characters?",
+      "ground_truth_answer": "Analysis was carried out using NTSYSpc 2.10d with the sequential agglomerative hierarchical nested (SAHN) cluster analysis option, using the Unweighted Pair-Group Method using Arithmetic Averages (UPGMA) clustering method.",
+      "ground_truth_chunks": [
+        "Analysis was carried out using NTSYSpc 2.10d (Rohlf 1986–2000), using the sequential agglomerative hierarchical nested (SAHN) cluster analysis option.",
+        "The clustering method used was the Unweighted Pair-Group Method using Arithmetic Averages (UPGMA)."
+      ]
+    },
+    {
+      "record_id": "a88f682dc4a950049a389826",
+      "paper_id": "Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS",
+      "source_path": "output/Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS.md",
+      "section_heading": "Morphological analyses",
+      "section_start_line": 166,
+      "section_end_line": 175,
+      "model": "openai:gpt-4o-mini",
+      "question": "Into how many morphological units did the seven morphs cluster during field surveys?",
+      "ground_truth_answer": "They clustered into five morphological units.",
+      "ground_truth_chunks": [
+        "The seven morphs recognized during field surveys (Fig. 3) clustered as five morphological units (Figs. 4 and 5).",
+        "These morphological units correspond with the species A. humilis (Dana 1846), A. gemmifera (Brook 1892), A. digitifera (Dana 1846), and two forms (branching and digitate) of A. monticulosa (Brüggemann 1879)."
+      ]
+    },
+    {
+      "record_id": "8b4d177ce1bd711a61539015",
+      "paper_id": "Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS",
+      "source_path": "output/Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS.md",
+      "section_heading": "Morphometric characters",
+      "section_start_line": 176,
+      "section_end_line": 185,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, which morph was characterized by relatively crowded, small radial corallites and thin, short branches?",
+      "ground_truth_answer": "A. digitifera colonies.",
+      "ground_truth_chunks": [
+        "Characters quantifying radial corallites (size and spacing) were most useful for separating the five morphs.",
+        "The analysis therefore indicates that A. digitifera colonies were characterized by relatively crowded, small radial corallites and thin, short branches."
+      ]
+    },
+    {
+      "record_id": "6257bba2e457f7db8d87c6ce",
+      "paper_id": "Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS",
+      "source_path": "output/Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS.md",
+      "section_heading": "Molecular analysis",
+      "section_start_line": 194,
+      "section_end_line": 213,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many cloned 28S rDNA sequences were obtained and from how many coral colonies were they sequenced?",
+      "ground_truth_answer": "In total, 32 clones from 15 coral colonies were sequenced.",
+      "ground_truth_chunks": [
+        "Cloned sequences from domains 1 and 2 of the 5' end of 28S rDNA were obtained from colonies of the seven putative morphs. In total, 32 clones from 15 coral colonies were sequenced."
+      ]
+    },
+    {
+      "record_id": "6b2cc2ac92e47dc6b393ac57",
+      "paper_id": "Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS",
+      "source_path": "output/Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS.md",
+      "section_heading": "Discussion",
+      "section_start_line": 214,
+      "section_end_line": 236,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the 28S rDNA analysis reported in the Discussion, into how many major clades did the cloned sequences group?",
+      "ground_truth_answer": "Four major clades.",
+      "ground_truth_chunks": [
+        "Fig. 6 Maximum parsimony consensus tree (50% majority-rule) of the partial 28S sequences (domains 1 and 2). *Numbers* above branches indicate percent bootstrap support; branches with < 50% support have been collapsed. Tree length: 481; CI: 0.696; RI: 0.850; HI: 0.304. *Vertical bars at left of tree* indicate the four major clades (I–IV). Codes for each morph are the same as listed in Fig. 4. *Numbers after the hyphen* identify different coral colonies within each putative morph. *Scale bar* indicates number of nucleotide substitutions along branches",
+        "Cloned sequences of the 28S nuclear rDNA unit from each of these morphs formed four strongly supported clades (Fig. 6)."
+      ]
+    },
+    {
+      "record_id": "02e6df65d987c53eb7f76556",
+      "paper_id": "Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS",
+      "source_path": "output/Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS.md",
+      "section_heading": "Divergence within clades",
+      "section_start_line": 241,
+      "section_end_line": 250,
+      "model": "openai:gpt-4o-mini",
+      "question": "What genetic evidence in the section suggests incomplete lineage sorting and possible ongoing gene flow among A. digitifera and the two A. monticulosa morphs?",
+      "ground_truth_answer": "Partial 28S sequences showed high divergence with distinct sequence types found within and between A. digitifera and both A. monticulosa morphs, with high to complete bootstrap support for clades I–III indicating distinct sequence types present in different and even single colonies; these patterns led the authors to conclude the three morphs share a common ancestral lineage with incomplete lineage sorting and that gene flow may still be occurring via occasional hybridization and backcrossing.",
+      "ground_truth_chunks": [
+        "The partial 28S sequences cloned from A. digitifera and both forms of A. monticulosa were highly divergent, due to distinct sequence types being found within and between these morphs.",
+        "The high to complete bootstrap support for clades I, II, and III indicates that distinct sequence types are present in different colonies of A. digitifera, the A. monticulosa morphs, and even in single colonies of each of the A. monticulosa morphs (Fig. 6).",
+        "It therefore appears that these three morphs share a common ancestral lineage, in which lineage sorting is incomplete, and that gene flow may still be occurring between the three morphs through occasional hybridization and backcrossing."
+      ]
+    },
+    {
+      "record_id": "74de75f85d6023353f871bc1",
+      "paper_id": "Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS",
+      "source_path": "output/Wolstenholme-2003-Acropora.evolut.AS/Wolstenholme-2003-Acropora.evolut.AS.md",
+      "section_heading": "Evolutionary implications",
+      "section_start_line": 251,
+      "section_end_line": 270,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which molecular marker do the authors state contains important information for interpreting evolutionary relationships among Acropora species in this study?",
+      "ground_truth_answer": "Domains 1 and 2 of the 28S nuclear rDNA unit.",
+      "ground_truth_chunks": [
+        "The large subunit 28S nuclear rDNA gene is usually used in phylogenetic studies to examine the evolutionary relationships at higher taxonomic levels than species because of its relatively slow rate of evolution (Hillis and Dixon 1991).",
+        "In this study, we demonstrate that domains 1 and 2 of the 28S nuclear rDNA unit contain important information for interpreting the evolutionary relationships between A. digitifera, the A. monticulosa morphs, and the A. humilis-A. gemmifera lineage, while more rapidly evolving markers are likely to be most useful for interpreting evolutionary relationships between more recently diverged species such as A. humilis and A. gemmifera."
+      ]
+    }
+  ],
+  "failures": []
+}

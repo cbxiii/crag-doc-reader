@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE.md",
+  "source_sha256": "aaf6879ce244db618744237a16ea48f8330da0250f384d84378aeda4239c4216",
+  "status": "complete",
+  "selected_section_count": 7,
+  "successful_record_count": 7,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "2162b09f553d230fb90bf5af",
+      "paper_id": "2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE",
+      "source_path": "output/2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE.md",
+      "section_heading": "Environmental versus Genetic Influences on Growth Rates of the Corals Pocillopora eydouxi and Porites lobata (Anthozoa: Scleractinia)<sup>1</sup>",
+      "section_start_line": 1,
+      "section_end_line": 30,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species showed environmental but not genetic effects on skeletal growth in the reciprocal transplant experiments, and how did its growth differ between Pool 300 and Pool 400?",
+      "ground_truth_answer": "Pocillopora eydouxi showed environmental but not genetic effects on skeletal growth, with growth doubling in Pool 300 compared with Pool 400.",
+      "ground_truth_chunks": [
+        "Skeletal growth of P. eydouxi showed environmental but not genetic effects, resulting in doubling of growth in Pool 300 compared with Pool 400.",
+        "There were no environmental or genetic effects on skeletal growth of P. lobata."
+      ]
+    },
+    {
+      "record_id": "d79619d23076fdde70a3728d",
+      "paper_id": "2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE",
+      "source_path": "output/2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE.md",
+      "section_heading": "materials and methods",
+      "section_start_line": 31,
+      "section_end_line": 38,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the four reciprocal transplant groups used for each coral species in the experiment?",
+      "ground_truth_answer": "Four groups: from Pool 300 to Pool 300 (Native 1 [N1]); from Pool 300 to Pool 400 (Translocated 1 [T1]); from Pool 400 to Pool 400 (Native 2 [N2]); and from Pool 400 to Pool 300 (Translocated 2 [T2]).",
+      "ground_truth_chunks": [
+        "The reciprocal transplant experiment design utilized four replicate groups per species that were transplanted within and between the two sites: from Pool 300 to Pool 300 (Native 1 [N1]), from Pool 300 to Pool 400 (Translocated 1 [T1]), from Pool 400 to Pool 400 (Native 2 [N2]), and from Pool 400 to Pool 300 (Translocated 2 [T2]).",
+        "Comparison of the N and T groups quantifies variability by transplant site (N1 versus T1, N2 versus T2 ) and by source population (N1 versus T2, N2 versus T1 )."
+      ]
+    },
+    {
+      "record_id": "9129934f43d420b22753a0db",
+      "paper_id": "2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE",
+      "source_path": "output/2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE.md",
+      "section_heading": "Coral Transplantation and Skeletal Growth Measurement",
+      "section_start_line": 39,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which methods were used to determine skeletal growth rates of the coral transplants?",
+      "ground_truth_answer": "The buoyant weight method to measure percentage increase in skeletal mass and the alizarin dye method to measure upward linear extension.",
+      "ground_truth_chunks": [
+        "Skeletal growth rates of the transplants were determined with the buoyant weight method to measure percentage increase in skeletal mass ( Jokiel et al. 1978) and the alizarin dye method to measure upward linear extension (Barnes 1970).",
+        "Transplants were removed from source colonies early in the morning, placed in plastic bags with dissolved alizarin (100 mg liter-1 ) anchored to the back reef substrate, left for 6 hr, transferred to a nearby weighing station, buoyant weighed (Ohaus Dial-O-Gram mechanical balance, accurate to 0.01 g), and finally transplanted near the end of the day."
+      ]
+    },
+    {
+      "record_id": "f0c5ca752e52fbd1d5a6a1b7",
+      "paper_id": "2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE",
+      "source_path": "output/2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE.md",
+      "section_heading": "Environmental Data Collection and Statistical Analyses",
+      "section_start_line": 47,
+      "section_end_line": 56,
+      "model": "openai:gpt-4o-mini",
+      "question": "What correction was applied to P values because the two measures of skeletal growth rate were dependent?",
+      "ground_truth_answer": "P values of <.05 were multiplied by a factor of two (Bonferroni correction).",
+      "ground_truth_chunks": [
+        "Because the two measures of skeletal growth rate are dependent, P values of <.05 were multiplied by a factor of two to obtain final P values (Bonferroni correction)."
+      ]
+    },
+    {
+      "record_id": "70d80a7d59816d7e642b203e",
+      "paper_id": "2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE",
+      "source_path": "output/2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE.md",
+      "section_heading": "Zooxanthella Sampling",
+      "section_start_line": 57,
+      "section_end_line": 90,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which DNA region was amplified by PCR to determine zooxanthella genotypes?",
+      "ground_truth_answer": "The internal transcribed spacer-2 (ITS-2) region of nuclear ribosomal DNA.",
+      "ground_truth_chunks": [
+        "Using primers with a Guanine-Cytosine clamp (GC clamp), the internal transcribed spacer-2 (ITS-2) region of nuclear ribosomal DNA was amplified using the polymerase chain reaction (PCR)."
+      ]
+    },
+    {
+      "record_id": "08758f80394c877ad4f9f24f",
+      "paper_id": "2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE",
+      "source_path": "output/2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE.md",
+      "section_heading": "Survival and Skeletal Growth",
+      "section_start_line": 93,
+      "section_end_line": 118,
+      "model": "openai:gpt-4o-mini",
+      "question": "Was skeletal growth of Porites eydouxi affected by transplant site, source population, or source colony?",
+      "ground_truth_answer": "Mass increase and linear extension were affected by transplant site but not by source population or source colony.",
+      "ground_truth_chunks": [
+        "For P. eydouxi, mass increase and linear extension were affected by transplant site but not by source population or source colony.",
+        "The strong effect of transplant site on P. eydouxi indicates environmental control of skeletal growth results, as illustrated by the steeply sloped reaction norms for this species (Figure 2)."
+      ]
+    },
+    {
+      "record_id": "007b64a3b6151f1b626b8f16",
+      "paper_id": "2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE",
+      "source_path": "output/2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE.md",
+      "section_heading": "discussion",
+      "section_start_line": 119,
+      "section_end_line": 161,
+      "model": "openai:gpt-4o-mini",
+      "question": "What environmental factor is implicated as the primary cause of increased P. eydouxi skeletal growth in Pool 300?",
+      "ground_truth_answer": "Higher water motion (greater water flow) in Pool 300 is implicated as the primary cause of increased P. eydouxi skeletal growth.",
+      "ground_truth_chunks": [
+        "Velocity of water flow was higher in Pool 300 than in Pool 400 during all flow sampling periods, especially during rough conditions (Figure 4).",
+        "The higher mean flow velocities during rough conditions in Pool 300 (39.8 cm sec-1 ) than in Pool 400 (21.0 cm sec-1 ) (Appendix) would likely benefit P. eydouxi skeletal growth in Pool 300.",
+        "This study demonstrated environmental control of P. eydouxi skeletal growth rate, with approximately doubled growth in the pool with higher water motion (Pool 300)."
+      ]
+    }
+  ],
+  "failures": []
+}

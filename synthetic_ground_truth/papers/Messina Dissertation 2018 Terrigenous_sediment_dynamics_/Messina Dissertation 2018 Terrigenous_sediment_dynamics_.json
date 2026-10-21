@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_.md",
+  "source_sha256": "f13a937eac010d1f1f18b93f2309d0a31ce44b38d245830c5a4756529757f45f",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "c14d79254671c5df072b7cfb",
+      "paper_id": "Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_",
+      "source_path": "output/Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_.md",
+      "section_heading": "JOURNALS",
+      "section_start_line": 104,
+      "section_end_line": 109,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which 2016 Journal of Hydrology article in this section reports on contributions of human activities to suspended sediment yield during storm events from a small, steep, tropical watershed?",
+      "ground_truth_answer": "Messina, A., Biggs, T., (2016). \"Contributions of human activities to suspended sediment yield during storm events from a small, steep, tropical watershed.\" Journal of Hydrology 538,726-742",
+      "ground_truth_chunks": [
+        "- **Messina, A.**, Biggs, T., (2016). \"Contributions of human activities to suspended sediment yield during storm events from a small, steep, tropical watershed.\" *Journal of Hydrology* 538,726-742"
+      ]
+    },
+    {
+      "record_id": "6e816010de64db8c49e4add3",
+      "paper_id": "Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_",
+      "source_path": "output/Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_.md",
+      "section_heading": "<span id=\"page-27-0\"></span>1.3. Methods",
+      "section_start_line": 348,
+      "section_end_line": 357,
+      "model": "openai:gpt-4o-mini",
+      "question": "How was suspended sediment concentration (SSC) obtained for calculating event-wise suspended sediment yield (SSYEV)?",
+      "ground_truth_answer": "SSC was either measured directly from grab samples or modeled from continuously monitored turbidity using T–SSC relationships calibrated to in‑stream SSC.",
+      "ground_truth_chunks": [
+        "SSC was measured directly from grab samples or modeled from continuously monitored turbidity (T) and T-SSC relationships calibrated to in-stream SSC (Section 1.3.1.3)."
+      ]
+    },
+    {
+      "record_id": "e2ec1f9678d8914b6f673ff0",
+      "paper_id": "Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_",
+      "source_path": "output/Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_.md",
+      "section_heading": "<span id=\"page-37-0\"></span>1.3.4. Estimation of annual SSY",
+      "section_start_line": 442,
+      "section_end_line": 454,
+      "model": "openai:gpt-4o-mini",
+      "question": "What assumption does Equation 6 make about sediment yield per mm of storm precipitation?",
+      "ground_truth_answer": "Equation 6 assumes that the sediment yield per mm of storm precipitation is constant over the year and insensitive to the size distribution of storms; it also ignores sediment yield during non-storm periods (justified by the low SSC, typically under 20 mg/L, and Q observed between storms).",
+      "ground_truth_chunks": [
+        "Equation 6 assumes that the sediment yield per mm of storm precipitation is constant over the year, and insensitive to the size distribution of storms, though there is evidence that SSYEV increases exponentially with storm size (Lewis et al., 2001; Rankl, 2004).",
+        "Equation 6 also ignores sediment yield during non-storm periods, which is justified by the low SSC (typically under 20 mg/L) and Q (baseflow) observed between storms."
+      ]
+    },
+    {
+      "record_id": "18663a39027e52a867599c98",
+      "paper_id": "Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_",
+      "source_path": "output/Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_.md",
+      "section_heading": "1.4.2.5 Error analysis",
+      "section_start_line": 631,
+      "section_end_line": 642,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the cumulative Probable Errors (PE) in SSYEV at FG1 and FG3?",
+      "ground_truth_answer": "Cumulative Probable Errors (PE) in SSYEV were 40-56% (μ=52%) at FG1 and 36-118% (μ=94%) at FG3.",
+      "ground_truth_chunks": [
+        "Cumulative Probable Errors (PE) in SSYEV, calculated from measurement and model errors in Q and SSC data, were 40-56% (μ=52%) at FG1 and 36-118% (μ=94%) at FG3."
+      ]
+    },
+    {
+      "record_id": "78d05695c95601ecbad8b5ce",
+      "paper_id": "Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_",
+      "source_path": "output/Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_.md",
+      "section_heading": "<span id=\"page-59-0\"></span>1.6. Conclusion",
+      "section_start_line": 789,
+      "section_end_line": 794,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of Total sediment yield to Faga'alu Bay was accounted for by the human-disturbed subwatershed?",
+      "ground_truth_answer": "The human-disturbed subwatershed accounted for 87% of Total sediment yield to Faga'alu Bay.",
+      "ground_truth_chunks": [
+        "Human disturbance has increased sediment yield to Faga'alu Bay to 3.9x pre-disturbance levels. The human-disturbed subwatershed accounted for the majority (87%) of Total sediment yield, and the quarry (1.1% of watershed area) contributed about a third of Total SSY to the Bay."
+      ]
+    },
+    {
+      "record_id": "0f9761d2746cac61e4e30751",
+      "paper_id": "Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_",
+      "source_path": "output/Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_.md",
+      "section_heading": "<span id=\"page-89-0\"></span>2.2.3 Eulerian measurements",
+      "section_start_line": 1223,
+      "section_end_line": 1226,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the mean deployment depths for the three ADCP locations AS1, AS2, and AS3?",
+      "ground_truth_answer": "Mean deployment depths were 0.97 m (AS1), 1.30 m (AS2), and 0.34 m (AS3).",
+      "ground_truth_chunks": [
+        "Mean deployment depths were 0.97 m (AS1), 1.30 m (AS2), and 0.34 m (AS3)."
+      ]
+    },
+    {
+      "record_id": "ac23ec064e99f14a64d3b961",
+      "paper_id": "Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_",
+      "source_path": "output/Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_.md",
+      "section_heading": "<span id=\"page-104-0\"></span>2.3.6 Comparing Eulerian and Lagrangian flow speeds and residence times",
+      "section_start_line": 1321,
+      "section_end_line": 1341,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which ADCP location had the highest percent difference between mean flow speeds from ADCPs and drifters, and what was that percent difference?",
+      "ground_truth_answer": "AS3 on the northern reef, 658%.",
+      "ground_truth_chunks": [
+        "At each ADCP, averaged over end-members, the percent difference was highest at AS3 on the northern reef (658%), intermediate at AS2 on the southern reef (103%), and lowest at AS1 on the far southern reef (48%) (Table 2.2, bottom row).",
+        "| % DIFF |          | 658          | 86   |          | 103          | 51   |          | 48           | 41   |              |      |"
+      ]
+    },
+    {
+      "record_id": "3642f0e5e66f5bac379291f1",
+      "paper_id": "Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_",
+      "source_path": "output/Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_.md",
+      "section_heading": "3.2.1.1 Geography and Geology",
+      "section_start_line": 1525,
+      "section_end_line": 1534,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the Faga'alu watershed is covered by undisturbed vegetation, by urbanized village area, and by an aggregate quarry?",
+      "ground_truth_answer": "82% undisturbed vegetation, 7% urbanized village area, and 1% aggregate quarry.",
+      "ground_truth_chunks": [
+        "Faga'alu Bay is adjacent to a small (2.48 km<sup>2</sup> ) watershed that is covered primarily with undisturbed vegetation on the steep hillslopes (82%), with a small urbanized village area on the flatter lowlands (7%) and an aggregate quarry (1%)."
+      ]
+    },
+    {
+      "record_id": "d6cff4bc65984ca0a2c5ac4c",
+      "paper_id": "Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_",
+      "source_path": "output/Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_.md",
+      "section_heading": "<span id=\"page-134-0\"></span>3.3.2 Time-lapse photography of sediment plumes",
+      "section_start_line": 1620,
+      "section_end_line": 1627,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long did it take the sediment plume to propagate from the stream outlet to the northern reef crest in the January–February 2014 time-lapse observation?",
+      "ground_truth_answer": "Approximately 15 minutes.",
+      "ground_truth_chunks": [
+        "The brown, terrigenous sediment plume propagated from the stream outlet to the northern reef crest in approximately 15 min [\\(Figure 3.4d](#page-135-1)-f), exceeding the expected residence times of >60 min over the northern reef, expected under calm conditions from Messina et al. (*in press*).",
+        "The plume appears to have reached peak concentration only 45 min after the initiation of rainfall and only 30 min after the plume first entered the bay."
+      ]
+    },
+    {
+      "record_id": "4d0146fb27fc0033773a5080",
+      "paper_id": "Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_",
+      "source_path": "output/Messina Dissertation 2018 Terrigenous_sediment_dynamics_/Messina Dissertation 2018 Terrigenous_sediment_dynamics_.md",
+      "section_heading": "<span id=\"page-163-0\"></span>Future research",
+      "section_start_line": 1867,
+      "section_end_line": 1874,
+      "model": "openai:gpt-4o-mini",
+      "question": "How often are coral health surveys scheduled by the NOAA Coral Reef Ecosystem Division?",
+      "ground_truth_answer": "Every three years.",
+      "ground_truth_chunks": [
+        "Coral health surveys are scheduled every three years by the NOAA Coral Reef Ecosystem Division."
+      ]
+    }
+  ],
+  "failures": []
+}

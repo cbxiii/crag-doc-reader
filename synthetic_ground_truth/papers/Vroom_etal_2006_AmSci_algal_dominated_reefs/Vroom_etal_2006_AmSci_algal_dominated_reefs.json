@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Vroom_etal_2006_AmSci_algal_dominated_reefs/Vroom_etal_2006_AmSci_algal_dominated_reefs.md",
+  "source_sha256": "1a0d14879a86eb2902dc86ecab88121d5a7987d82eca1e3d5833f07410995b76",
+  "status": "complete",
+  "selected_section_count": 5,
+  "successful_record_count": 5,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "222a3d9eaa31019a31dc8674",
+      "paper_id": "Vroom_etal_2006_AmSci_algal_dominated_reefs/Vroom_etal_2006_AmSci_algal_dominated_reefs",
+      "source_path": "output/Vroom_etal_2006_AmSci_algal_dominated_reefs/Vroom_etal_2006_AmSci_algal_dominated_reefs.md",
+      "section_heading": "Algae-Dominated Reefs",
+      "section_start_line": 1,
+      "section_end_line": 18,
+      "model": "openai:gpt-4o-mini",
+      "question": "Do the authors argue that algae-dominated reefs can be healthy?",
+      "ground_truth_answer": "Yes. They state they disagree with the notion that algae-dominated reefs are necessarily unhealthy and say algae can dominate a healthy reef where all essential ecological processes are intact.",
+      "ground_truth_chunks": [
+        "In some cases, algae do take over reefs once dominated by coral. Environmental stresses—such as hurricanes, mass bleaching or diseases—can trigger such phase shifts, which are generally regarded as a sign of reef degradation. This phenomenon no doubt fostered a general impression that algae-dominated reefs are unhealthy ones.",
+        "As this article explains, we disagree. Algae can dominate a healthy reef, where all of the essential ecological processes are intact."
+      ]
+    },
+    {
+      "record_id": "6f0606d1534cf8a91cd44c79",
+      "paper_id": "Vroom_etal_2006_AmSci_algal_dominated_reefs/Vroom_etal_2006_AmSci_algal_dominated_reefs",
+      "source_path": "output/Vroom_etal_2006_AmSci_algal_dominated_reefs/Vroom_etal_2006_AmSci_algal_dominated_reefs.md",
+      "section_heading": "Diving in Paradise",
+      "section_start_line": 19,
+      "section_end_line": 76,
+      "model": "openai:gpt-4o-mini",
+      "question": "What area size does the photoquadrat technique photograph?",
+      "ground_truth_answer": "0.18 square meter.",
+      "ground_truth_chunks": [
+        "We also document the seafloor with a photoquadrat technique that photographs areas of known size—in our case, 0.18 square meter.",
+        "Figure 4. Photoquadrats provide one means of capturing data about the prevalence of organisms on a reef. A diver places a standardsized frame on the seafloor along a transect on the reef's surface and takes a digital photograph *(above).*"
+      ]
+    },
+    {
+      "record_id": "2883196be67c25637ab703e4",
+      "paper_id": "Vroom_etal_2006_AmSci_algal_dominated_reefs/Vroom_etal_2006_AmSci_algal_dominated_reefs",
+      "source_path": "output/Vroom_etal_2006_AmSci_algal_dominated_reefs/Vroom_etal_2006_AmSci_algal_dominated_reefs.md",
+      "section_heading": "Algal Assortment",
+      "section_start_line": 77,
+      "section_end_line": 124,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the three main types of algae that are easily observable to snorkelers or divers on tropical reefs?",
+      "ground_truth_answer": "Turf algae, coralline algae, and macroalgae.",
+      "ground_truth_chunks": [
+        "The three types that are easily observable to snorkelers or divers are turf algae, coralline algae and macroalgae.",
+        "Turf algae are some of the most overlooked macroscopic organisms on\n\ntropical reefs. Casual divers swimming over boulder fields or bard pavements often don't realize that the fuzzy layer covering every inch of space between corals or other sessile organisms consists of hundreds of species of little plants that help form the hase of the food chain. These delicate organisms often consist of individual filaments of cells, yet dense mats of them create specialized environments that can persist even in harsh waves. Numerous small invertebrate species—such as amphipods, which are related to shrimp—make their home among the algal turf, and some fish species—including damselfish—feed exclusively on them, even though these algae rarely grow more than 2 to 3 centimeters in height in the tropical Pacific. Turf algae can quickly colonize vacant substrate. These algal communities also filter water and improve water quality in reef systems. Because scientists need a microscope to identify turf-algal species, many questions about the dynamics of turf ecosystems await answers."
+      ]
+    },
+    {
+      "record_id": "874a57212efc706507f80d15",
+      "paper_id": "Vroom_etal_2006_AmSci_algal_dominated_reefs/Vroom_etal_2006_AmSci_algal_dominated_reefs",
+      "source_path": "output/Vroom_etal_2006_AmSci_algal_dominated_reefs/Vroom_etal_2006_AmSci_algal_dominated_reefs.md",
+      "section_heading": "Calculations of Coverage",
+      "section_start_line": 125,
+      "section_end_line": 146,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what percentage of sites did crustose coralline red algae cover 40 times more surface area than coral?",
+      "ground_truth_answer": "65 percent of the sites.",
+      "ground_truth_chunks": [
+        "At all but one of our 94 sites, algae took up more space than coral.",
+        "crustose coralline red algae—the ones responsible for reef growth and cementation—covered 40 times more surface area than coral at 65 percent of our sites."
+      ]
+    },
+    {
+      "record_id": "907fde9e0b615537e7f394cd",
+      "paper_id": "Vroom_etal_2006_AmSci_algal_dominated_reefs/Vroom_etal_2006_AmSci_algal_dominated_reefs",
+      "source_path": "output/Vroom_etal_2006_AmSci_algal_dominated_reefs/Vroom_etal_2006_AmSci_algal_dominated_reefs.md",
+      "section_heading": "Can We Rate a Reef?",
+      "section_start_line": 147,
+      "section_end_line": 156,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why do reef managers' questions about reef health often lack definitive answers?",
+      "ground_truth_answer": "Because there is no set of globally accepted indices that define a healthy reef.",
+      "ground_truth_chunks": [
+        "Reef managers often ask us one question: Are my reefs healthy?",
+        "Without a set of globally accepted indices that define a healthy reef, such questions lack definitive answers."
+      ]
+    }
+  ],
+  "failures": []
+}

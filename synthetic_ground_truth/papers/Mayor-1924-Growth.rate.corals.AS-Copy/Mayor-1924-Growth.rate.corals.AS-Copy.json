@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Mayor-1924-Growth.rate.corals.AS-Copy/Mayor-1924-Growth.rate.corals.AS-Copy.md",
+  "source_sha256": "a513525f28c92076acc5dc1a8f4154f335ba191d19a8d9e87e40e31301660d58",
+  "status": "complete",
+  "selected_section_count": 3,
+  "successful_record_count": 3,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "2a737574e69bbaae79fbe7b1",
+      "paper_id": "Mayor-1924-Growth.rate.corals.AS-Copy/Mayor-1924-Growth.rate.corals.AS-Copy",
+      "source_path": "output/Mayor-1924-Growth.rate.corals.AS-Copy/Mayor-1924-Growth.rate.corals.AS-Copy.md",
+      "section_heading": "GROWTH-RATE OF SAMOAN CORALS.",
+      "section_start_line": 1,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "What annual average growth in diameter and height does Mayor report for massive Porites corals in Samoa and Fiji?",
+      "ground_truth_answer": "An annual average growth of 31 mm in diameter and 17 mm in height.",
+      "ground_truth_chunks": [
+        "He found that, on the average, corals of the genus Acropora1 made an annual growth of 54 mm. in diameter and 35 mm. in height; branched Porites 26 mm. in diameter and 19 mm. in height; while the massive Porites astræoides grows 13 mm. in diameter and 5 mm. in height per annum.",
+        "I find that these corals in Samoa and Fiji appear to make an annual average growth of 31 mm. in diameter and 17 mm. in height; thus, apparently growing more than twice as rapidly as the Atlantic species."
+      ]
+    },
+    {
+      "record_id": "f128e8e00d2958b30d43fc1c",
+      "paper_id": "Mayor-1924-Growth.rate.corals.AS-Copy/Mayor-1924-Growth.rate.corals.AS-Copy",
+      "source_path": "output/Mayor-1924-Growth.rate.corals.AS-Copy/Mayor-1924-Growth.rate.corals.AS-Copy.md",
+      "section_heading": "EXPERIMENTS AND OBSERVATIONS.",
+      "section_start_line": 33,
+      "section_end_line": 359,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the experiments and observations, what average upward and lateral growth per annum does Acropora exhibit on the seaward wall of the reefs of Tutuila?",
+      "ground_truth_answer": "About 19 mm upward growth per annum and about 74 mm lateral growth per annum.",
+      "ground_truth_chunks": [
+        "These corals in this pure, agitated water grow most vigorously and develop stout, short, stumpy stems capable of resisting the force of the surges, thus making, according to my observations, only an average of about 19 mm. upward growth per annum, for corals do not readily raise their heads in regions where the surges are persistently tending to break them off. The average lateral growth is, however, 74 mm. per annum."
+      ]
+    },
+    {
+      "record_id": "8ca1ab78c489a4e2e18cdeb2",
+      "paper_id": "Mayor-1924-Growth.rate.corals.AS-Copy/Mayor-1924-Growth.rate.corals.AS-Copy",
+      "source_path": "output/Mayor-1924-Growth.rate.corals.AS-Copy/Mayor-1924-Growth.rate.corals.AS-Copy.md",
+      "section_heading": "TABLE 8.—Continued.",
+      "section_start_line": 360,
+      "section_end_line": 608,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the observed gain in weight in 10½ months for 18 S (Massive Porites, P. lutea var. haddoni)?",
+      "ground_truth_answer": "149 grams.",
+      "ground_truth_chunks": [
+        "| 18 S. Massive Porites, P. lutea var. haddoni<br>Vaughan.                               | 1920; 94 × 74 × 78<br>1919; 78 × 68 × 62                                                               | 1920; 404<br>1919; 255                                  | 16 × 6 × 16                                                                   | 149                                    |"
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Lawrence and Sudek 2016 oaa_12193_DS1/Lawrence and Sudek 2016 oaa_12193_DS1.md",
+  "source_sha256": "39ba65384433212a91a8c11ce3a2fa18f5658fbee5871057f6cf21e752afb678",
+  "status": "complete",
+  "selected_section_count": 6,
+  "successful_record_count": 6,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "dc9c8b3194d4e633ab08d3c3",
+      "paper_id": "Lawrence and Sudek 2016 oaa_12193_DS1/Lawrence and Sudek 2016 oaa_12193_DS1",
+      "source_path": "output/Lawrence and Sudek 2016 oaa_12193_DS1/Lawrence and Sudek 2016 oaa_12193_DS1.md",
+      "section_heading": "American Samoa Territorial Monitoring Program Manu'a Reef Flat Baseline Surveys, February 2015.",
+      "section_start_line": 1,
+      "section_end_line": 16,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many reef flat sites were surveyed around the islands of Ofu and Olosega during the Manu'a baseline surveys in February 2015?",
+      "ground_truth_answer": "12 sites.",
+      "ground_truth_chunks": [
+        "Surveys were conducted at 12 sites around the islands of Ofu and Olosega as shown by the red lines in figures 1 and 2 (GPS coordinates for each of the sites are listed in Appendix 1).",
+        "The aim of these surveys was to conduct baseline surveys from which to detect temporal change if it should occur."
+      ]
+    },
+    {
+      "record_id": "54fc789387a628faa070ee31",
+      "paper_id": "Lawrence and Sudek 2016 oaa_12193_DS1/Lawrence and Sudek 2016 oaa_12193_DS1",
+      "source_path": "output/Lawrence and Sudek 2016 oaa_12193_DS1/Lawrence and Sudek 2016 oaa_12193_DS1.md",
+      "section_heading": "Reef Fish Survey Results",
+      "section_start_line": 17,
+      "section_end_line": 55,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which survey site recorded the highest TOTAL Mean fish biomass (g/m2) in Table 1?",
+      "ground_truth_answer": "Pool 400 A recorded the highest TOTAL Mean fish biomass of 46.8 g/m2.",
+      "ground_truth_chunks": [
+        "**Table 1**: Mean fish biomass (g/m-2 ) and SE at the 12 survey sites by fish functional group (Herbivores, Lower Carnivores, and Piscivores).",
+        "| Pool 400 A | 32.1                | 14.5          | 0.2        | 46.8           |  "
+      ]
+    },
+    {
+      "record_id": "4750725e8f60f47ac6e36a4a",
+      "paper_id": "Lawrence and Sudek 2016 oaa_12193_DS1/Lawrence and Sudek 2016 oaa_12193_DS1",
+      "source_path": "output/Lawrence and Sudek 2016 oaa_12193_DS1/Lawrence and Sudek 2016 oaa_12193_DS1.md",
+      "section_heading": "Benthic Survey Results",
+      "section_start_line": 56,
+      "section_end_line": 115,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which survey site had the highest percent crustose coralline algae (CCA) in Table 2?",
+      "ground_truth_answer": "Pool 600 had the highest CCA at 25 ± 8.4%.",
+      "ground_truth_chunks": [
+        "**Table 2**: Benthic cover (%) and SE at the 12 survey sites by functional group. CCA = crustose coralline algae, CYA = cyano bacteria, DC = dead coral, HC = hard coral, MA + macro algae, RU = rubble, RO = rock with turf, SA = sand, SC = soft coral, TA = turf algae.",
+        "| Pool 600   | 25 ±      | 0        | 1.3<br>±   | 20<br>±    | 2.5<br>±   | 0.6<br>±   | 11.3<br>± | 38.8<br>± | 0         | 0        |\n|            | 8.4       |          | 0.7        | 7.2        | 1.8        | 0.6        | 3.3       | 5.3       |           |          |"
+      ]
+    },
+    {
+      "record_id": "6da2c8df231db5dcbdfce7b6",
+      "paper_id": "Lawrence and Sudek 2016 oaa_12193_DS1/Lawrence and Sudek 2016 oaa_12193_DS1",
+      "source_path": "output/Lawrence and Sudek 2016 oaa_12193_DS1/Lawrence and Sudek 2016 oaa_12193_DS1.md",
+      "section_heading": "Fish Survey Data Summary",
+      "section_start_line": 116,
+      "section_end_line": 123,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which transect had the highest mean fish biomass and what was its mean biomass?",
+      "ground_truth_answer": "Pool 400A, with a mean biomass of 46.8 g/m-2 (69% of the biomass attributed to herbivorous fish).",
+      "ground_truth_chunks": [
+        "Overall, the highest mean fish biomass were recorded within the National Park boundary between Pool 300 and Pool 600.",
+        "The highest mean fish biomass was recorded at Pool 400A with a mean biomass of 46.8 g/m-2 , of which 69% of the total biomass along this transect was attributed to herbivorous fish."
+      ]
+    },
+    {
+      "record_id": "a35342996b86517232f8d29e",
+      "paper_id": "Lawrence and Sudek 2016 oaa_12193_DS1/Lawrence and Sudek 2016 oaa_12193_DS1",
+      "source_path": "output/Lawrence and Sudek 2016 oaa_12193_DS1/Lawrence and Sudek 2016 oaa_12193_DS1.md",
+      "section_heading": "Benthic Survey Data Summary",
+      "section_start_line": 124,
+      "section_end_line": 133,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which pool had the highest coral cover?",
+      "ground_truth_answer": "Pool 300 had the highest coral cover, at 24%.",
+      "ground_truth_chunks": [
+        "Overall, Pool 100B, 200C, 300, 400A and 600 had the highest coral cover (19-24%). Highest coral cover was found in Pool 300 (24%) (Table 2 and Figure 6)."
+      ]
+    },
+    {
+      "record_id": "e0a72937f29a91b8289fbd2d",
+      "paper_id": "Lawrence and Sudek 2016 oaa_12193_DS1/Lawrence and Sudek 2016 oaa_12193_DS1",
+      "source_path": "output/Lawrence and Sudek 2016 oaa_12193_DS1/Lawrence and Sudek 2016 oaa_12193_DS1.md",
+      "section_heading": "Appendix 1: Survey Site GPS coordinates",
+      "section_start_line": 140,
+      "section_end_line": 189,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the start and end GPS coordinates (latitude and longitude) for '100 A' at Ofu Village?",
+      "ground_truth_answer": "Start: Latitude -14.16674607, Longitude -169.6820101. End: Latitude -14.16755676, Longitude -169.6819197.",
+      "ground_truth_chunks": [
+        "| 100 A         | Ofu Village | Start       | -14.16674607 | -169.6820101 |",
+        "| 100 A         | Ofu Village | End         | -14.16755676 | -169.6819197 |"
+      ]
+    }
+  ],
+  "failures": []
+}

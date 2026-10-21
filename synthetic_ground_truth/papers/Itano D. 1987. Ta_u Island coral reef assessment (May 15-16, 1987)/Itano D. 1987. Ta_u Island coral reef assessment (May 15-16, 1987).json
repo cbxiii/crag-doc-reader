@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987).md",
+  "source_sha256": "152d63375852a825a05779ede913acc0c8fd392389d6142638e57170c3ee392f",
+  "status": "complete",
+  "selected_section_count": 8,
+  "successful_record_count": 8,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "648c3918135fb972564d3aff",
+      "paper_id": "Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)",
+      "source_path": "output/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987).md",
+      "section_heading": "INTRODUCTION:",
+      "section_start_line": 36,
+      "section_end_line": 54,
+      "model": "openai:gpt-4o-mini",
+      "question": "On what dates was Ta'u Island surveyed?",
+      "ground_truth_answer": "May 15-16, 1987.",
+      "ground_truth_chunks": [
+        "Ta'u Island was surveyed on May 15-16 by a visiting biologist from the Hawaii Institute of Marine Biology, University of Hawaii and myself serving as field biologist for the Office of Marine and Wildlife Resources, American Samoa Government.",
+        "Ta'u Island Coral Reef Assessment,\n(May 15-16, 1987)"
+      ]
+    },
+    {
+      "record_id": "49664ccf4d93c9a4a1f4f16d",
+      "paper_id": "Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)",
+      "source_path": "output/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987).md",
+      "section_heading": "May 16, 1987",
+      "section_start_line": 67,
+      "section_end_line": 76,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which village was included in the reef survey conducted with snorkel gear while being towed behind an alia power catamaran?",
+      "ground_truth_answer": "Faleasao Village.",
+      "ground_truth_chunks": [
+        "0900 - 1130: Conducted reef survey with snorkel gear while being towed behind an alia power catamaran. Covered area from Utumanua Point east to Avatele Cove including Faleasao Village."
+      ]
+    },
+    {
+      "record_id": "a88af75d823bc5f3e70d7a29",
+      "paper_id": "Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)",
+      "source_path": "output/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987).md",
+      "section_heading": "SURVEY OBSERVATIONS:",
+      "section_start_line": 77,
+      "section_end_line": 98,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species were reported as undamaged in 10 feet of water during Survey #1 (Fitiuta Area)?",
+      "ground_truth_answer": "Acropora humilis, A. crateriformis, Millepora, Porites lutea, Leptoria phrygia, Galaxea fasicularis, Lobophyllia, Montipora, Favia, Favites, Goniastrea and Leptastrea.",
+      "ground_truth_chunks": [
+        "The coral community was sominated by Acropora humilis, Porites lutea, encrusting Millepora and small colonies of massive Faviids.",
+        "Acropora humilis, A. crateriformis, Millepora, Porites lutea, Leptoria phrygia, Galaxea fasicularis, Lobophyllia, Montipora, Favia, Favites, Goniastrea and Leptastrea were all noted as being undamaged in 10 feet of water."
+      ]
+    },
+    {
+      "record_id": "c37690ebefe196402b6007b3",
+      "paper_id": "Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)",
+      "source_path": "output/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987).md",
+      "section_heading": "Survey #2. Utumanua Pt. to Avatele Cove:",
+      "section_start_line": 99,
+      "section_end_line": 108,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species were dominant off Faleasao Village during Survey #2?",
+      "ground_truth_answer": "Flat plates of Acropora humilis and branching Acropora - irregularis were dominant off Faleasao Village.",
+      "ground_truth_chunks": [
+        "Coral cover increased off Faleasao Village with flat plates of <u>Acropora humilis</u> and branching <u>Acropora - irregularis</u> being dominant.",
+        "Colonies of <u>A. irregularis</u> and <u>Pocillopora</u> were noted with broken branches in 8 meters of water."
+      ]
+    },
+    {
+      "record_id": "aa21b1fd5f50476d6ad9859c",
+      "paper_id": "Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)",
+      "source_path": "output/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987).md",
+      "section_heading": "Survey #3. Maafee Rock to Ta'u Harbor and South:",
+      "section_start_line": 109,
+      "section_end_line": 114,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species dominated the broad, shallow shelf extending from the fringing reef at Luma to Maafee Rock?",
+      "ground_truth_answer": "Acropora humilis (along with other sturdy coral species).",
+      "ground_truth_chunks": [
+        "A broad, shallow shelf extends out from the fringing reef at Luma to encompass Maafee Rock. This shelf has a relatively high live coral cover dominated by <a href=\"Acropora humilis\">Acropora humilis</a> and other sturdy coral species.",
+        "The live coral here consisted mostly of <a href=\"Acropora humilis\">Acropora</a> and some branching and corymbose Acroporids."
+      ]
+    },
+    {
+      "record_id": "8ffe96dc961c8746d3c8a319",
+      "paper_id": "Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)",
+      "source_path": "output/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987).md",
+      "section_heading": "DISCUSSION:",
+      "section_start_line": 115,
+      "section_end_line": 130,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral types were reported as noticeably absent from Ta'u Island in the DISCUSSION section?",
+      "ground_truth_answer": "\"The delicately branching or plate like Acroporids, plate-like Montipora and Agariciiids and columnar Porites corals were noticably absent from Ta'u.\"",
+      "ground_truth_chunks": [
+        "The delicately branching or plate like Acroporids, plate-like Montipora and Agariciiids and columnar Porites corals were noticably absent from Ta'u although they are very common around Ofu, Olosega and Tutuila Islands."
+      ]
+    },
+    {
+      "record_id": "0c3124d34ba98d87eb06e71a",
+      "paper_id": "Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)",
+      "source_path": "output/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987).md",
+      "section_heading": "SUMMARY:",
+      "section_start_line": 131,
+      "section_end_line": 226,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the SUMMARY, what should any aid for fisheries in Manu'a concentrate on?",
+      "ground_truth_answer": "Controlling erosion (joint benefit to agriculture and wildlife), developing the FAD's, and developing support facilities for the alias and reef enhancement projects (ie. faisua or Trochus).",
+      "ground_truth_chunks": [
+        "Nevertheless, the reefs did sustain some damage and they may be seriously damaged by the continuing erosion from landslides and ravines.",
+        "Any &id for fisheries in Manu'a should concentrate on controlling erosion (joint benefit to agriculture and wildlife), developing the FAD's, developing support facilities for the alias and reef enhancement projects (ie. faisua or Trochus)."
+      ]
+    },
+    {
+      "record_id": "ab3323b09642a4587cfe97d5",
+      "paper_id": "Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)",
+      "source_path": "output/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987)/Itano D. 1987. Ta_u Island coral reef assessment (May 15-16, 1987).md",
+      "section_heading": "DEPARTMENT OF MARINE & WILDLIFE RESOURCES P. O. BOX 3730",
+      "section_start_line": 227,
+      "section_end_line": 271,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which list entries are marked with an asterisk (*) in the section?",
+      "ground_truth_answer": "The entries marked with an asterisk are: T. quinquevettatum Scarus frenatus; Istiblennius sp. Zanclus cornutus; Acanthurus glaucopareius; A. lineatus; A. nigrofuscus; A. triostegus; Ctenochaetus striatus Naso brevirostris; N. lituratus; Melichthys niger.",
+      "ground_truth_chunks": [
+        "- \\* T. quinquevettatum Scarus frenatus\n  - S. gibbus\n  - S. japanensis\n  - S. rubroviolaceous\n- S. schlegeli\n- S. sordidus\n- S. tricolor\n- \\* Istiblennius sp. Zanclus cornutus\n- \\* Acanthurus glaucopareius\n  - A. achilles\n  - A. guttatus\n- \\* A. lineatus\n- A. mata\n- \\* A. nigrofuscus\n- A. olivaceous\n- \\* A. triostegus\n- \\* Ctenochaetus striatus Naso brevirostris\n- \\* N. lituratus\n  - N. tuberosus\n  - N. unicornis\n  - Balistapus undulatus\n- \\* Melichthys niger"
+      ]
+    }
+  ],
+  "failures": []
+}

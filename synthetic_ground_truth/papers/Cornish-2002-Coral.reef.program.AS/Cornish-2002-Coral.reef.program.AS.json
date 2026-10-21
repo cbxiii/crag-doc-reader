@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS.md",
+  "source_sha256": "3c492a828d40d341e47f499cb4c464243e78a31fbb6a4b4865a287003c814ab4",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "1f56371f5d2bb8a718511ac8",
+      "paper_id": "Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS",
+      "source_path": "output/Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS.md",
+      "section_heading": "The American Samoan Coral Reef Monitoring Program",
+      "section_start_line": 19,
+      "section_end_line": 47,
+      "model": "openai:gpt-4o-mini",
+      "question": "When and where was the American Samoan Coral Reef Monitoring Workshop held?",
+      "ground_truth_answer": "March 19-21, 2002, at Pago Plaza, Pago Pago, American Samoa.",
+      "ground_truth_chunks": [
+        "Developed from the American Samoan Coral Reef Monitoring Workshop\n\nMarch 19-21, 2002\n\nPago Plaza, Pago Pago, American Samoa"
+      ]
+    },
+    {
+      "record_id": "71add8e474f8ef15eff9cec4",
+      "paper_id": "Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS",
+      "source_path": "output/Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS.md",
+      "section_heading": "Monitoring Programs",
+      "section_start_line": 262,
+      "section_end_line": 269,
+      "model": "openai:gpt-4o-mini",
+      "question": "How is the annual catch by gear type estimated for subsistence fisheries in the Ofu unit?",
+      "ground_truth_answer": "By conducting surveys about one week per month that count the numbers of fishers at 2-hour intervals (5am to midnight) from vantage points along the road between Ofu and Olosega Villages, conducting interviews (creel surveys) to determine fishermen's catch-per-unit-effort by gear type, and then combining these two types of data to estimate the annual catch by gear type.",
+      "ground_truth_chunks": [
+        "Surveys, conducted about one week per month, consist of counting the numbers of fishers at 2-hour intervals (5am to midnight) from vantage points along the road from Ofu Village to Olosega Village.",
+        "Interviews (creel surveys) are also conducted to determine the fishermen's' catch-per-unit-effort by gear type. By combining these two types of data, the annual catch by gear type can be estimated."
+      ]
+    },
+    {
+      "record_id": "bc3b3676b3e0b578b893b7b1",
+      "paper_id": "Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS",
+      "source_path": "output/Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS.md",
+      "section_heading": "Rational for the approach and applicability to other island nations and territories",
+      "section_start_line": 440,
+      "section_end_line": 449,
+      "model": "openai:gpt-4o-mini",
+      "question": "What assumption did workshop participants make about existing field methodologies' ability to characterize assemblages?",
+      "ground_truth_answer": "They assumed each existing field methodology could characterize the assemblage at each site to a sufficient degree of accuracy (based on the considerable expertise and experience of researchers), using this as a necessary start point until data allow statistical testing; methodologies may need modification later.",
+      "ground_truth_chunks": [
+        "It is important to note that existing field methodologies were not examined by workshop participants for their ability to characterize the assemblage in question. Instead, an assumption was made that each methodology should be capable of characterizing the\n\nassemblage in question at each site to a sufficient degree of accuracy. This assumption was made based on the considerable expertise and experience that many of the previous and current researchers had in monitoring coral reefs, but is only made as a necessary start point until enough data can be collected to statistically ask whether the overall methodology is powerful enough to answer the questions asked of it. It may be necessary to modify or rethink some of the methodologies in the future."
+      ]
+    },
+    {
+      "record_id": "d7a2f42d5edda72a59c0a78b",
+      "paper_id": "Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS",
+      "source_path": "output/Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS.md",
+      "section_heading": "Core-Site program",
+      "section_start_line": 529,
+      "section_end_line": 534,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is a common misunderstanding about the Core-Site approach?",
+      "ground_truth_answer": "A common misunderstanding is that monitoring will only be conducted at the core sites, but in fact any monitoring program should include these sites as a minimum prerequisite while expanding to other sites depending on the needs of the particular study and available resources.",
+      "ground_truth_chunks": [
+        "A common misunderstanding of this approach is that monitoring will only be conducted at these sites, but this is not the case.",
+        "Rather, any monitoring program should include these sites as a minimum prerequisite while expanding to other sites depending on the needs of the particular study and available resources."
+      ]
+    },
+    {
+      "record_id": "4364b3d04e5a6dd4c8853110",
+      "paper_id": "Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS",
+      "source_path": "output/Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS.md",
+      "section_heading": "Core-Sites may need extra consideration",
+      "section_start_line": 633,
+      "section_end_line": 636,
+      "model": "openai:gpt-4o-mini",
+      "question": "What human activities should be particularly resisted at core-sites?",
+      "ground_truth_answer": "Scientific destructive sampling (e.g. collection of fish for age-growth studies) and extreme human activities such as destruction by reclamation should be resisted at core-sites.",
+      "ground_truth_chunks": [
+        "On one level this means that scientific destructive sampling (e.g. the collection of fish for age-growth studies) should not be carried out at, or in the vicinity of, core-sites.",
+        "It also means that any extreme human activities such as destruction by reclamation should be particularly resisted at core-sites."
+      ]
+    },
+    {
+      "record_id": "cda016052a689561f2da3533",
+      "paper_id": "Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS",
+      "source_path": "output/Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS.md",
+      "section_heading": "OBJECTIVES:",
+      "section_start_line": 816,
+      "section_end_line": 827,
+      "model": "openai:gpt-4o-mini",
+      "question": "What survey and habitat-characterization methods will be used to document distribution, abundance, size and biomass of 'key' reef species?",
+      "ground_truth_answer": "The study will use annual field surveys and fish collections as fishery-independent methods, specifically Underwater Visual Census (UVC) techniques, and will characterize the benthic habitat using a Point Based method.",
+      "ground_truth_chunks": [
+        "To facilitate this objective, a long-term monitoring study employing annual field surveys and fish collections will be used (fishery independent methods - Underwater Visual Census, UVC).",
+        "In association with the UVC of key reef species, a characterisation of the benthic habitat will be carried out using a Point Based method (see Green 1996, English et al. 1997)."
+      ]
+    },
+    {
+      "record_id": "83933f0cbb4bd3957197e04e",
+      "paper_id": "Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS",
+      "source_path": "output/Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS.md",
+      "section_heading": "Fish survey techniques",
+      "section_start_line": 964,
+      "section_end_line": 971,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the lateral and vertical limits (in meters) used to identify and count fishes during each transect census?",
+      "ground_truth_answer": "Fishes were identified and counted if they were within one meter on either side of the transect line and within two meters above the transect line.",
+      "ground_truth_chunks": [
+        "All fishes observed within one meter on either side of the transect line and two meters above it were identified to species and counted."
+      ]
+    },
+    {
+      "record_id": "b91f7f9c3d01cf389d6e88b7",
+      "paper_id": "Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS",
+      "source_path": "output/Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS.md",
+      "section_heading": "Goals and methods",
+      "section_start_line": 1114,
+      "section_end_line": 1118,
+      "model": "openai:gpt-4o-mini",
+      "question": "What depths were surveyed during the octocoral swim surveys, and what limited the deepest depth?",
+      "ground_truth_answer": "Swim surveys were conducted at three depths: the reef crest (0–3 m) surveyed by snorkeling, a depth at about 8 m, and the deepest at 15 m. The deepest depth was limited by NOAA dive tables and the need to buddy with another member of the benthic team. Collections were also limited to 15 m depth, although deeper dives were made where possible.",
+      "ground_truth_chunks": [
+        "Swim surveys of between 100 and 150 m in length were made at 3 depths at each site. NOAA dive tables and the need to buddy with another member of the benthic team limited the deepest depth to 15 m with another at 8 m. The reef crest (0-3 m) was surveyed (where one is present) by snorkeling.",
+        "Collections were made opportunistically during the quantitative surveys and were therefore limited to 15 m depth, although deeper dives were made where possible."
+      ]
+    },
+    {
+      "record_id": "a6112f6bc29cafc6fc955b50",
+      "paper_id": "Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS",
+      "source_path": "output/Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS.md",
+      "section_heading": "Fish Belt Transect Instructions",
+      "section_start_line": 1232,
+      "section_end_line": 1237,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the maximum height above the transect to record fish?",
+      "ground_truth_answer": "5m.",
+      "ground_truth_chunks": [
+        "The maximum height above the transect to record fish is restricted to 5m."
+      ]
+    },
+    {
+      "record_id": "bdc06d59f81e83ea91e50845",
+      "paper_id": "Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS",
+      "source_path": "output/Cornish-2002-Coral.reef.program.AS/Cornish-2002-Coral.reef.program.AS.md",
+      "section_heading": "Additional contributors",
+      "section_start_line": 1435,
+      "section_end_line": 1451,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who granted permission to reproduce maps of the Samoan Islands and Tutuila?",
+      "ground_truth_answer": "The National Park of American Samoa.",
+      "ground_truth_chunks": [
+        "Special thanks also to the National Park of American Samoa for permission to reproduce their maps of the Samoan Islands and Tutuila."
+      ]
+    }
+  ],
+  "failures": []
+}

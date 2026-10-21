@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS.md",
+  "source_sha256": "1f414a2238ee3f601de11d9d562ecb91b483d1dd776e721bd952d5b126f4d3d9",
+  "status": "complete",
+  "selected_section_count": 8,
+  "successful_record_count": 8,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "8a1a029f6b3f93e733a6c4e9",
+      "paper_id": "Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS",
+      "source_path": "output/Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS.md",
+      "section_heading": "High temperatures tolerated by a diverse assemblage of shallow-water corals in American Samoa",
+      "section_start_line": 5,
+      "section_end_line": 23,
+      "model": "openai:gpt-4o-mini",
+      "question": "What peak temperature was briefly reached in the 4,000-m^2 pool?",
+      "ground_truth_answer": "34.5 °C.",
+      "ground_truth_chunks": [
+        "In one section of the moat, a 4,000-m<sup>2</sup> pool inhabited by 52 coral species, the mean summer temperature was 29.3 °C, but daily temperatures fluctuated up to 6.3 °C and briefly reached a peak of 34.5 °C."
+      ]
+    },
+    {
+      "record_id": "0b3ae047eba68320a4e04cee",
+      "paper_id": "Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS",
+      "source_path": "output/Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS.md",
+      "section_heading": "Introduction",
+      "section_start_line": 24,
+      "section_end_line": 29,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Introduction, how much of a temperature increase above the mean can severely stress or kill reef-building corals if persistent?",
+      "ground_truth_answer": "An increase of only 1–2 °C above the mean temperature level can severely stress or kill the corals if conditions persist for several days or more.",
+      "ground_truth_chunks": [
+        "An increase of only 1–2 °C above the mean temperature level can severely stress or kill the corals if conditions persist for several days or more (e.g., Berkelmans and Willis 1999).",
+        "Reef-building corals live in waters where temperatures are surprisingly close to the corals' upper tolerance limit (reviewed by Glynn 1993; Brown 1997; Hoegh-Guldberg 1999)."
+      ]
+    },
+    {
+      "record_id": "a128940020c69178c04387af",
+      "paper_id": "Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS",
+      "source_path": "output/Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS.md",
+      "section_heading": "Methods",
+      "section_start_line": 30,
+      "section_end_line": 43,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the low-tide depths and surface areas of pool A and pool B in the study area?",
+      "ground_truth_answer": "Pool A: 4,000 m² and 1.1 m deep at low tide; Pool B: 27,000 m² and 1.9 m deep at low tide.",
+      "ground_truth_chunks": [
+        "Two pool areas were examined in this study: pool A is smaller and shallower (4,000 m<sup>2</sup>, 1.1 m deep at low tide) than pool B (27,000 m<sup>2</sup>, 1.9 m deep at low tide)."
+      ]
+    },
+    {
+      "record_id": "38081cc5eef033fa4df291f1",
+      "paper_id": "Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS",
+      "source_path": "output/Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS.md",
+      "section_heading": "Sampling",
+      "section_start_line": 44,
+      "section_end_line": 53,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what intervals and at what near-bottom depths were shaded temperatures recorded in pools A and B?",
+      "ground_truth_answer": "Shaded temperatures were recorded at 0.5-h intervals at near-bottom depths of 1 m in pool A and 1.5 m in pool B (at low tide).",
+      "ground_truth_chunks": [
+        "Shaded temperatures were recorded at 0.5-h intervals at near-bottom depths of 1 m (pool A) and 1.5 m (pool B) at low tide.",
+        "Recordings began in October 1998 (pool A) and December 1999 (pool B)."
+      ]
+    },
+    {
+      "record_id": "dd288676cf8393e837958fea",
+      "paper_id": "Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS",
+      "source_path": "output/Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS.md",
+      "section_heading": "Temperature environment",
+      "section_start_line": 56,
+      "section_end_line": 88,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the maximum water temperature recorded in pool A during summer 1998–1999?",
+      "ground_truth_answer": "34.5 °C",
+      "ground_truth_chunks": [
+        "Summer water temperatures fluctuated by up to 6.3 °C per day (Fig. 3), reaching a peak of 34.5 °C in pool A, the warmer of the two pools.",
+        "| Pool A     | Summer 1998/1999 | 29.3                   | 0.88 | 34.5    | 26.7    | 7.8   |  |"
+      ]
+    },
+    {
+      "record_id": "e53720917bd73e7f687dad1d",
+      "paper_id": "Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS",
+      "source_path": "output/Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS.md",
+      "section_heading": "Corals",
+      "section_start_line": 89,
+      "section_end_line": 196,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral species were present in combined quadrats and supplementary observations in pools A and B?",
+      "ground_truth_answer": "85 coral species.",
+      "ground_truth_chunks": [
+        "A diverse assemblage of 85 coral species was present in combined quadrats and supplementary observations in pools A and B (Table 2).",
+        "Total spp.             | 52            | 79     |  "
+      ]
+    },
+    {
+      "record_id": "87d0fe20c82f7d8786a18a63",
+      "paper_id": "Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS",
+      "source_path": "output/Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS.md",
+      "section_heading": "Discussion",
+      "section_start_line": 197,
+      "section_end_line": 212,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the Shannon diversity index H' (log2) reported for the backreef moat on Ofu Island?",
+      "ground_truth_answer": "H'_{(log2)} = 3.37.",
+      "ground_truth_chunks": [
+        "At least 85 species are present in the backreef moat on Ofu Island, and the high diversity of corals there  $[H'_{(log2)}=3.37]$  is similar (with high species overlap) to that recorded outside the moat on the exposed reef front in Fagatele Bay  $[H'_{(log2)}=2.65-3.63]$  located on nearby Tutuila Island (Green et al. 1999)."
+      ]
+    },
+    {
+      "record_id": "a0472d73b741e0b71a206087",
+      "paper_id": "Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS",
+      "source_path": "output/Craig-2001-High.temp.tolerated.AS/Craig-2001-High.temp.tolerated.AS.md",
+      "section_heading": "Coral Reefs (2001) 20:185-189",
+      "section_start_line": 262,
+      "section_end_line": 279,
+      "model": "openai:gpt-4o-mini",
+      "question": "Does the newly available dataset from the Climate Monitoring and Diagnostic Laboratory, National Oceanic and Atmospheric Administration confirm that air temperatures have increased in American Samoa?",
+      "ground_truth_answer": "No — the newly available dataset does not confirm that air temperatures have increased in American Samoa.",
+      "ground_truth_chunks": [
+        "Discussion section: Newly available dataset (Climate Monitoring and Diagnostic Laboratory, National Oceanic and Atmospheric Administration) does not confirm that air temperatures have increased in American Samoa.",
+        "In the remote oceanic location of American Samoa where the territory's small islands are buffered by a vast ocean, it might be expected that global warming will have less impact than elsewhere; however, air temperatures here have risen steadily over the past 20 years and are now 1–2 °C warmer than during the period 1960–1980 (Craig et al. 2000; National Oceanic and Atmospheric Administration 2000). This, in turn, may affect shallow-water environments either directly by increasing water temperatures or indirectly by causing climatic uncertainty and possibly an increased frequency of hurricanes in the region."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS.md",
+  "source_sha256": "c4bea2a16f1806e48c3b9bd94c14431fd5b66833461efc1a9a137a6882cf3507",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "ce86dcb430d5f63bb1a442cd",
+      "paper_id": "Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS",
+      "source_path": "output/Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS.md",
+      "section_heading": "1. TERRITORIAL DESCRIPTION",
+      "section_start_line": 11,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which islands are the five volcanic islands (the major inhabited islands) of American Samoa?",
+      "ground_truth_answer": "The five volcanic islands are Tutuila, Aunu'u, Ofu, Olosega and Ta'u.",
+      "ground_truth_chunks": [
+        "The five volcanic islands, which are the major inhabited islands of American Samoa, are Tutuila, Aunu'u, Ofu, Olosega and Ta'u."
+      ]
+    },
+    {
+      "record_id": "f533e209c9ad905a104b3dac",
+      "paper_id": "Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS",
+      "source_path": "output/Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS.md",
+      "section_heading": "2. COASTAL MANAGEMENT",
+      "section_start_line": 23,
+      "section_end_line": 30,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which five agencies does the Governor's Coral Reef Advisory Group (CRAG) coordinate in American Samoa?",
+      "ground_truth_answer": "The American Samoa Department of Commerce (which houses ASCMP), the National Park of American Samoa, the American Samoa Environmental Protection Agency, the Community College of American Samoa, and the Department of Marine and Wildlife Resources.",
+      "ground_truth_chunks": [
+        "To this end, the Governor's Coral Reef Advisory Group (CRAG) was established to harmonize and coordinate the activities of five agencies in American Samoa; the American Samoa Department of Commerce (which houses ASCMP), the National Park of American Samoa, the American Samoa Environmental Protection Agency, the Community College of American Samoa, and the Department of Marine and Wildlife Resources.",
+        "The purpose of this coordination is to protect and preserve coral reef ecosystems while attempting to balance and satisfy development needs of the people and the fa'asamoa (Samoan way of life)."
+      ]
+    },
+    {
+      "record_id": "6f68e57a21dafdf6eb414ed1",
+      "paper_id": "Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS",
+      "source_path": "output/Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS.md",
+      "section_heading": "3.1.1 Fagetele Bay National Marine Sanctuary",
+      "section_start_line": 39,
+      "section_end_line": 44,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year was Fagetele Bay National Marine Sanctuary designated?",
+      "ground_truth_answer": "It was designated in 1986.",
+      "ground_truth_chunks": [
+        "Fagetele Bay National Marine Sanctuary was designated in 1986 in response to a proposal from the American Samoa Government to the National Marine Sanctuary Program.",
+        "The Sanctuary comprises a fringing coral reef ecosystem nestled within an eroded volcanic crater on the island of Tutuila, American Samoa."
+      ]
+    },
+    {
+      "record_id": "beb5b2c07058f574aaa88031",
+      "paper_id": "Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS",
+      "source_path": "output/Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS.md",
+      "section_heading": "3.1.2 The National Park of American Samoa",
+      "section_start_line": 45,
+      "section_end_line": 52,
+      "model": "openai:gpt-4o-mini",
+      "question": "On what date was the National Park of American Samoa authorized?",
+      "ground_truth_answer": "The park was authorized on October 31, 1988.",
+      "ground_truth_chunks": [
+        "The park was authorized on October 31, 1988."
+      ]
+    },
+    {
+      "record_id": "50fa6b8c0a06d05bda4f36a5",
+      "paper_id": "Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS",
+      "source_path": "output/Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS.md",
+      "section_heading": "3.1.3 Rose Atoll National Wildlife Refuge",
+      "section_start_line": 53,
+      "section_end_line": 60,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which sea turtle species are identified as nesting on Rose Island at Rose Atoll National Wildlife Refuge?",
+      "ground_truth_answer": "The threatened green sea turtle and the endangered hawksbill turtle.",
+      "ground_truth_chunks": [
+        "Rose Island, the larger of the two, is low, sandy, and thickly vegetated. It is an important nesting area for the threatened green sea turtle and endangered hawksbill turtle."
+      ]
+    },
+    {
+      "record_id": "4bfc96f3b6fafcd0e77cb4ba",
+      "paper_id": "Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS",
+      "source_path": "output/Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS.md",
+      "section_heading": "3.3 Local",
+      "section_start_line": 67,
+      "section_end_line": 74,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which villages currently have the Community-based Fisheries Management Program (CBFMP) installed?",
+      "ground_truth_answer": "Poloa, Alofau, Vatia, Aua, Masausi, Amaua and Auto.",
+      "ground_truth_chunks": [
+        "The Department of Marine and Wildlife Resources' sponsored Community-based Fisheries Management Program (CBFMP) is currently installed in seven villages; Poloa, Alofau, Vatia, Aua, Masausi, Amaua and Auto."
+      ]
+    },
+    {
+      "record_id": "7c9ef711ffefa19e8d7e43ba",
+      "paper_id": "Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS",
+      "source_path": "output/Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS.md",
+      "section_heading": "4.1 Capacity",
+      "section_start_line": 79,
+      "section_end_line": 82,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which staff positions were added to improve American Samoa's coastal management capacity?",
+      "ground_truth_answer": "A Coral Reef Initiative Coordinator, monitoring staff, individual agency personnel, and a soon to be recruited MPA Coordinator.",
+      "ground_truth_chunks": [
+        "While turnover is still a problem, the addition of a Coral Reef Initiative Coordinator, monitoring staff, individual agency personnel, and a soon to be recruited MPA Coordinator, has put American Samoa in a much better position to accomplish its goals.",
+        "The continuance of such funding to retain current staff, as well as additional monies for several more needed positions is of high priority to coastal managers."
+      ]
+    },
+    {
+      "record_id": "decff9215036c673ad70a03b",
+      "paper_id": "Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS",
+      "source_path": "output/Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS.md",
+      "section_heading": "4.4 Enforcement",
+      "section_start_line": 91,
+      "section_end_line": 98,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to section 4.4, what are the main impediments to better enforcement in the Territory?",
+      "ground_truth_answer": "Funding to hire and equip (boat, vehicle, gas, safety gear) personnel and proper training programs to ensure their safety.",
+      "ground_truth_chunks": [
+        "While enforcement can fall under the category of Capability, it is a concern that deserves to be in its own category. It is a cross-cutting tool, such as education.",
+        "The main impediments to better enforcement in the Territory are: funding to hire and equip (boat, vehicle, gas, safety gear) personnel and proper training programs to ensure their safety."
+      ]
+    },
+    {
+      "record_id": "d9ed10b38fdc71dfe9ddc55c",
+      "paper_id": "Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS",
+      "source_path": "output/Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS.md",
+      "section_heading": "4.5 Monitoring and evaluation",
+      "section_start_line": 99,
+      "section_end_line": 110,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which MPA in American Samoa has had ongoing monitoring activities for approximately 25 years?",
+      "ground_truth_answer": "Fagetele Bay NMS.",
+      "ground_truth_chunks": [
+        "Currently, there is no systematic monitoring program for any of the MPAs in American Samoa, save Fagetele Bay NMS, which has had ongoing monitoring activities for approximately 25 years."
+      ]
+    },
+    {
+      "record_id": "0f6044c2357bf18ce82a5951",
+      "paper_id": "Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS",
+      "source_path": "output/Hawkins-2003-MPA.areas.AS/Hawkins-2003-MPA.areas.AS.md",
+      "section_heading": "5. Future",
+      "section_start_line": 115,
+      "section_end_line": 117,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to section 5, what condition will allow recommendations for improving Territorial efforts to be finalized as strategies and funding proposals?",
+      "ground_truth_answer": "Once American Samoa has a dedicated MPA Coordinator in place.",
+      "ground_truth_chunks": [
+        "With the collation of information into a Territory-wide Marine Protected Areas Plan, the incoming Marine Protected Areas Coordinator, in cooperation with CRAG-member agencies' staff, can begin the task of addressing many of the needs mentioned above.",
+        "Once American Samoa has a dedicated MPA Coordinator in place, these recommendations can be finalized as strategies and funding proposals."
+      ]
+    }
+  ],
+  "failures": []
+}

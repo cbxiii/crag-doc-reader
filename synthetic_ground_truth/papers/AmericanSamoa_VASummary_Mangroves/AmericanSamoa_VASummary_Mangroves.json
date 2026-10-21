@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "source_path": "output/AmericanSamoa_VASummary_Mangroves/AmericanSamoa_VASummary_Mangroves.md",
+  "source_sha256": "fe9756e5b33144030094311846b4bac6cd23f988b179a203b86d6b28db6537b7",
+  "status": "complete",
+  "selected_section_count": 3,
+  "successful_record_count": 3,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "91bce4b890a4f26cf0a3e1bd",
+      "paper_id": "AmericanSamoa_VASummary_Mangroves/AmericanSamoa_VASummary_Mangroves",
+      "source_path": "output/AmericanSamoa_VASummary_Mangroves/AmericanSamoa_VASummary_Mangroves.md",
+      "section_heading": "Habitat Description",
+      "section_start_line": 15,
+      "section_end_line": 20,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which mangrove species is described as the dominant species in the American Samoa mangrove forests?",
+      "ground_truth_answer": "Oriental mangrove (Bruguiera gymnorrhiza) is the dominant species.",
+      "ground_truth_chunks": [
+        "Three mangrove species occur: oriental mangrove (*Bruguiera gymnorrhiza*) is the dominant species, red mangrove (*Rhizophora mangle*) can be found along seaward margins, and the puzzlenut tree (*Xylocarpus* \n\n*moluccensis*) is quite rare."
+      ]
+    },
+    {
+      "record_id": "848b419c1d752865707eb6e6",
+      "paper_id": "AmericanSamoa_VASummary_Mangroves/AmericanSamoa_VASummary_Mangroves",
+      "source_path": "output/AmericanSamoa_VASummary_Mangroves/AmericanSamoa_VASummary_Mangroves.md",
+      "section_heading": "Habitat Vulnerability",
+      "section_start_line": 21,
+      "section_end_line": 71,
+      "model": "openai:gpt-4o-mini",
+      "question": "What relative vulnerability to climate change did workshop participants assign to American Samoan mangroves?",
+      "ground_truth_answer": "Low-moderate relative vulnerability to climate change.",
+      "ground_truth_chunks": [
+        "**Low-Moderate**",
+        "Workshop participants evaluated American Samoan mangroves to have a low-moderate relative vulnerability to climate change due to moderate sensitivity to climate and non-climate stressors, moderate exposure to projected future climate changes, and moderate adaptive capacity."
+      ]
+    },
+    {
+      "record_id": "4765724af5c7b2c8bf7f57f4",
+      "paper_id": "AmericanSamoa_VASummary_Mangroves/AmericanSamoa_VASummary_Mangroves",
+      "source_path": "output/AmericanSamoa_VASummary_Mangroves/AmericanSamoa_VASummary_Mangroves.md",
+      "section_heading": "Adaptive Capacity",
+      "section_start_line": 72,
+      "section_end_line": 97,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, how many mangrove species are present in American Samoa?",
+      "ground_truth_answer": "Three.",
+      "ground_truth_chunks": [
+        "Mangroves are the foundational species in this habitat, but mangrove diversity is low with only three species.2 Mangroves provide many ecosystem services, 4,8 although recognition of these services varies."
+      ]
+    }
+  ],
+  "failures": []
+}

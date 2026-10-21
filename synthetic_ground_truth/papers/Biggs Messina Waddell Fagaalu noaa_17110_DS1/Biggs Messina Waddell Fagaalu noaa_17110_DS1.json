@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1.md",
+  "source_sha256": "b2e75eeaf3ce25a4d1a52de0e2b911c20d4a5e5d2d50ee0f7d4e5cb33cedaff5",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "4db33ca1ec778a501b3d3bf7",
+      "paper_id": "Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1",
+      "source_path": "output/Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1.md",
+      "section_heading": "Executive summary",
+      "section_start_line": 7,
+      "section_end_line": 19,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Executive summary, which forcing was most strongly correlated with sediment accumulation (S) at all trap locations except near the stream outlet?",
+      "ground_truth_answer": "Wave forcing (waves).",
+      "ground_truth_chunks": [
+        "At all trap locations except for near the stream outlet, *S* was most strongly correlated with wave forcing and not sediment yield from the watershed, suggesting that accumulated sediments were resuspended from local material, rather than deposited from sediment plumes discharged from the stream during storms that occurred during the collection period.",
+        "4. Waves, rather than watershed inputs during the period of collection, are the main driver of temporal variations in *S*, suggesting that sediment deposited by previous anthropogenic\n\nactivities may influence sediment accumulation and coral health over timescales longer than single events."
+      ]
+    },
+    {
+      "record_id": "38c80e1d06f9da5ffbd54e35",
+      "paper_id": "Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1",
+      "source_path": "output/Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1.md",
+      "section_heading": "Motivation: Increased sediment loads from land use",
+      "section_start_line": 46,
+      "section_end_line": 49,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which watershed disturbances are identified as altering the composition and volume of landbased sediment delivered to coral reefs at the outlet of Faga'alu stream?",
+      "ground_truth_answer": "Agriculture, deforestation, roads, urbanization, and most significantly an open pit aggregate quarry.",
+      "ground_truth_chunks": [
+        "Watershed disturbances including agriculture, deforestation, roads, urbanization, and most significantly an open pit aggregate quarry have altered the composition and volume of landbased sediment delivered to coral reefs at the outlet of Faga'alu stream (Messina et al., 2016), requiring watershed restoration and sediment mitigation strategies to reduce the levels of suspended sediment discharged to the bay.",
+        "Sediment transported from watersheds through runoff attenuates light for photosynthesis and may be deposited directly on the coral, stressing coral organisms and preventing larval recruitment (Fabricius 2005)."
+      ]
+    },
+    {
+      "record_id": "03192759eeb4aea5fb83693f",
+      "paper_id": "Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1",
+      "source_path": "output/Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1.md",
+      "section_heading": "Sediment loading and sedimentation: Influence of ocean and meteorological conditions",
+      "section_start_line": 58,
+      "section_end_line": 61,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what does the ultimate impact of sediment loading from the watershed depend on?",
+      "ground_truth_answer": "The ultimate impact of the sediment loading from the watershed depends on oceanographic conditions and water circulation in the bay.",
+      "ground_truth_chunks": [
+        "While suspended sediment loading from the watershed was hypothesized to be the dominant control on sediment accumulation rates in the bay, the ultimate impact of the sediment loading from the watershed depends on oceanographic conditions and water circulation in the bay.",
+        "Interpretation of any change in sediment accumulation following mitigation activities therefore requires a conceptual and mathematical model of the dominant circulation conditions that control sediment accumulation on the reef.",
+        "Large swell and storm events can resuspend both terrigenous and coralline sediments, causing legacy impacts even when sediment loading from the watershed is not occurring, or conversely they may encourage flushing of accumulated sediments to improve coral health."
+      ]
+    },
+    {
+      "record_id": "a363e0450370fb66c60421d9",
+      "paper_id": "Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1",
+      "source_path": "output/Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1.md",
+      "section_heading": "Observed spatial distribution of accumulation rates",
+      "section_start_line": 112,
+      "section_end_line": 119,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did mean total sediment accumulation measured on SedPods compare to sediment traps over the yearlong study period?",
+      "ground_truth_answer": "Mean total sediment accumulation was an order of magnitude higher in sediment traps than on SedPods at all sites.",
+      "ground_truth_chunks": [
+        "Mean total sediment accumulation (g m2d 1) over the yearlong study period was an order of magnitude higher in sediment traps than on SedPods at all sites (Figure 1.3).",
+        "Although total sediment accumulation was lower on SedPods compared to sediment traps, the same spatial pattern and relative magnitude of sediment accumulation rates was observed, with the exception of sites 3A and 3B on the south reef.",
+        "Sediment accumulation rates in sediment traps on the southern reef flat (sites 3A and 3B) were much higher than corresponding sediment pods, suggesting removal of sediment that was transiently deposited on SedPods."
+      ]
+    },
+    {
+      "record_id": "f2962b150c23f2959bf32f7b",
+      "paper_id": "Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1",
+      "source_path": "output/Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1.md",
+      "section_heading": "Summary",
+      "section_start_line": 138,
+      "section_end_line": 141,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the dominant circulation pattern observed between the southern reef and the northern reef?",
+      "ground_truth_answer": "The dominant circulation is clockwise from the southern reef to the northern reef, with highest velocities during wave-driven conditions.",
+      "ground_truth_chunks": [
+        "The dominant circulation pattern is clockwise from the southern reef to the northern reef, with highest velocities during wavedriven conditions."
+      ]
+    },
+    {
+      "record_id": "f809570eb275ca052a5b7509",
+      "paper_id": "Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1",
+      "source_path": "output/Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1.md",
+      "section_heading": "Meteorologic and oceanographic forcing",
+      "section_start_line": 148,
+      "section_end_line": 151,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which endmember forcing was characterized as a strong onshore wind event with small waves, and on which YD did it occur?",
+      "ground_truth_answer": "The 'WIND' endmember — a strong onshore wind event with small waves — occurred during YD 4750.5.",
+      "ground_truth_chunks": [
+        "A large range of tide, wind, and wave conditions typical of the study site was sampled during the 8d period of overlapping ADCP and drifter deployments, YD 4754 (GMT) (Figure 2.3).",
+        "Three distinct periods were observed and defined as endmember forcings: 1) a strong onshore wind event with small waves ('WIND') during YD 4750.5; 2) weak winds from variable directions and small waves, where tidal forcing was dominant ('TIDE') during YD 50.552.5; and 3) a large southeast swell with weak winds ('WAVE') during YD 52.554 (Table 2.1)."
+      ]
+    },
+    {
+      "record_id": "637421163629608309b23b03",
+      "paper_id": "Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1",
+      "source_path": "output/Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1.md",
+      "section_heading": "Circulation during endmember conditions:",
+      "section_start_line": 168,
+      "section_end_line": 179,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the mean (±STD) flow velocities measured by ADCP during WIND, TIDE, and WAVE endmember conditions?",
+      "ground_truth_answer": "ADCP mean (±STD) flow velocities were 7.4±7.3 cm s1 during WIND, 5.6±6.1 cm s1 during TIDE, and 11.2±10.1 cm s1 during WAVE.",
+      "ground_truth_chunks": [
+        "Mean (±STD) flow velocities of all ADCP data during WIND, TIDE and WAVE were 7.4±7.3 cm s1, 5.6±6.1 cm s1, and 11.2±10.1 cm s1 , respectively.",
+        "Similar to the longterm ADCP results, mean drifter speeds (±STD) during WIND, TIDE, WAVE were 8.0±6.5 cm s1, 7.1 ±5.8 cm s1, and 12.3±8.1 cm s1 , respectively (Table 2.1)."
+      ]
+    },
+    {
+      "record_id": "13504cffec65f80e9404b388",
+      "paper_id": "Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1",
+      "source_path": "output/Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1.md",
+      "section_heading": "Results",
+      "section_start_line": 194,
+      "section_end_line": 215,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the terrigenous fraction of benthic sediments on the northern reef flat compared to the southern reef flat?",
+      "ground_truth_answer": "Approximately 15% on the northern reef flat compared to 8% on the southern reef flat — about two times higher on the northern reef flat.",
+      "ground_truth_chunks": [
+        "The terrigenous fraction of benthic sediments was approximately 2x higher over the northern reef flat (~15%) compared to the more energetic southern reef flat (8%) (Table 1.1).",
+        "Near the stream outlet, benthic sediment was dominated by the terrigenous fraction (65% terrigenous) but showed similar percentages of organics as the reef flats."
+      ]
+    },
+    {
+      "record_id": "87a3f282f2740ad16259bc42",
+      "paper_id": "Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1",
+      "source_path": "output/Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1.md",
+      "section_heading": "Relationships between forcing and sediment accumulation",
+      "section_start_line": 234,
+      "section_end_line": 243,
+      "model": "openai:gpt-4o-mini",
+      "question": "On which sites was mean wave height (Hmean) NOT positively correlated with total and carbonate sediment accumulation in the traps?",
+      "ground_truth_answer": "Mean wave height (*Hmean*) was not positively correlated with total and carbonate sediment accumulation at site 2A (near the stream outlet), site 2B (the more energetic southern reef), and site 3C (the more quiescent southern fore reef).",
+      "ground_truth_chunks": [
+        "In univariate correlations and regressions, mean wave height (*Hmean*) was positively correlated with total and carbonate sediment accumulation in the traps at every site except near the stream outlet (site 2A), on the more energetic southern reef (site 2B), and on the more quiescent southern fore reef (site 3C) (Table 4.1).",
+        "*Hmean* was positively correlated with mean total and carbonate sediment accumulation in traps on the northern and southern reefs, but when controlling for SSY in the multiple regression, only mean carbonate accumulation was weakly correlated with *Hmean* on the northern reef (Figure 4.1)."
+      ]
+    },
+    {
+      "record_id": "9c6e7118b77c147fb66489cb",
+      "paper_id": "Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1",
+      "source_path": "output/Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1.md",
+      "section_heading": "Table of proposed and delivered products",
+      "section_start_line": 269,
+      "section_end_line": 279,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which specific tasks list 'Monitoring summary, Database of sedimentation' as Products and Deliverables?",
+      "ground_truth_answer": "Tasks 3 (Monthly sedimentation measurements), 4 (Sediment chemical analysis), and 5 (Sediment particle size analysis).",
+      "ground_truth_chunks": [
+        "| 3.  Monthly sedimentation<br>measurements                         | Monitoring summary,<br>Database of sedimentation                                         | Holst­Rice et al (2016)                                                                                             |  |",
+        "| 4.  Sediment chemical analysis                                    | Monitoring summary,<br>Database of sedimentation                                         | Holst­Rice et al (2016)                                                                                             |  |",
+        "| 5.  Sediment particle size analysis                               | Monitoring summary,<br>Database of sedimentation                                         | Holst­Rice et al (2016)                                                                                             |  |"
+      ]
+    }
+  ],
+  "failures": []
+}

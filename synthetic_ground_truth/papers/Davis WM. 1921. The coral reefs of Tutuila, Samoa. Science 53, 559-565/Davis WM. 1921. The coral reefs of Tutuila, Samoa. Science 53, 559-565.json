@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565/Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565.md",
+  "source_sha256": "3a77820c21ff1971211b639d8ab68108a8fe7ddee15d5d12fb863a32e3c03cff",
+  "status": "complete",
+  "selected_section_count": 4,
+  "successful_record_count": 4,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "ce5685c0d4316cebb01471ed",
+      "paper_id": "Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565/Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565",
+      "source_path": "output/Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565/Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565.md",
+      "section_heading": "Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565.md",
+      "section_start_line": 1,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "In which journal (including series, volume and number) and on what date was W. M. Davis's article 'The Coral Reefs of Tutuila, Samoa' published?",
+      "ground_truth_answer": "Science, New Series, Vol. 53, No. 1382; June 24, 1921.",
+      "ground_truth_chunks": [
+        "Source: Science, New Series, Vol. 53, No. 1382 (Jun. 24, 1921), pp. 559-565",
+        "Published by: American Association for the Advancement of Science"
+      ]
+    },
+    {
+      "record_id": "693d4ae2850f2d8d8b3674d2",
+      "paper_id": "Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565/Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565",
+      "source_path": "output/Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565/Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565.md",
+      "section_heading": "The Coral Reefs of Tutuila, Samoa: Professor W. M. Davis...... 559 A Novel Magneto-optical Effect: Dr. Elihu ...... 565 Edward Bennett Rosa: Dr. S. W. STRATTON. 569 Scientific Events:-The Harpswell Laboratory; Presentation to Dr. Frederick Belding Power; Medallion of the Wisconsin Academy of Sciences..... 569 Scientific Notes and News...... 571 University and Educational News..... 573 Discussion and Correspondence:-Newton's Corpuscular Theory of Light: Dr. J. M. Schaeberle. German Surtaxes on Scientific Publications: Dr. C. STUART GAGER ..... 574 Quotations:-Centenary of the French Academy of Medicine ..... 575 Special Articles:-Resistance to Stem Rust in Kanred Wheat: RUTH F. ALLEN..... 575 The Rochester Meeting of the American Chemical Society: Dr. Charles L. Parsons... 576",
+      "section_start_line": 27,
+      "section_end_line": 30,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where should manuscripts intended for publication and books intended for review be sent?",
+      "ground_truth_answer": "To The Editor of Science, Garrison-on-Hudson, N. Y.",
+      "ground_truth_chunks": [
+        "MSS. intended for publication and books, etc., intended for review should be sent to The Editor of Science, Garrison-on-Hudson, N. Y."
+      ]
+    },
+    {
+      "record_id": "5d392cd001e90889161de74e",
+      "paper_id": "Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565/Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565",
+      "source_path": "output/Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565/Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565.md",
+      "section_heading": "THE CORAL REEFS OF TUTUILA, SAMOA",
+      "section_start_line": 31,
+      "section_end_line": 138,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to R. T. Chamberlin's observations quoted in the section, how far below sea level does the broad wave-cut platform around Tutuila now lie?",
+      "ground_truth_answer": "This broad shelf \"now lies at least (though probably not much more than) 400 feet below sealevel.\"",
+      "ground_truth_chunks": [
+        "The island of Tutuila is a volcanic pile whose slopes have been attacked by the sea until a broad wave-cut platform, 2 miles in width, has come to surround the island.",
+        "This broad shelf of planation, originally cut in the volcanic rocks not far below the sea level, now lies at least (though probably not much more than) 400 feet below sealevel..."
+      ]
+    },
+    {
+      "record_id": "06fdd6c1614dbd1331d15c45",
+      "paper_id": "Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565/Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565",
+      "source_path": "output/Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565/Davis WM. 1921. The coral reefs of Tutuila, Samoa. Science 53, 559-565.md",
+      "section_heading": "A NOVEL MAGNETO-OPTICAL EFFECT",
+      "section_start_line": 139,
+      "section_end_line": 141,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who first noticed the peculiar intermittent illumination of the space near the welder?",
+      "ground_truth_answer": "One of the working force, Mr. Davis.",
+      "ground_truth_chunks": [
+        "there was noticed by one of the working force, Mr. Davis, who happened to be favorably located, a peculiar intermittent illumination of the space near the welder as the current went on and off."
+      ]
+    }
+  ],
+  "failures": []
+}

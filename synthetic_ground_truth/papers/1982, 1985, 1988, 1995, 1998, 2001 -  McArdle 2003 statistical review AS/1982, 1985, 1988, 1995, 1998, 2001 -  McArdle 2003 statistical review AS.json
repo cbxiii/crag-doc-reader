@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS.md",
+  "source_sha256": "6da06aff4816e545e8935e05d59946b94103a472835832c9f77d787796404116",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "0d768858446aa05f9a086766",
+      "paper_id": "1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS",
+      "source_path": "output/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS.md",
+      "section_heading": "Coral",
+      "section_start_line": 71,
+      "section_end_line": 92,
+      "model": "openai:gpt-4o-mini",
+      "question": "Between which years did the section report a huge shift in the amount of coral?",
+      "ground_truth_answer": "Between 1998 and 2001.",
+      "ground_truth_chunks": [
+        "The dominant signal is that there was a huge shift in amount of coral between 1998 and 2001 suggesting that the reefs are recovering from the disasters of the previous 20 years.",
+        "The number of species declined but the area covered increased."
+      ]
+    },
+    {
+      "record_id": "7917d819b50eec45eb420f49",
+      "paper_id": "1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS",
+      "source_path": "output/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS.md",
+      "section_heading": "Design",
+      "section_start_line": 317,
+      "section_end_line": 333,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which years' samples were dropped for the comparative analyses?",
+      "ground_truth_answer": "The 1978 and 1979 samples were dropped.",
+      "ground_truth_chunks": [
+        "For the purpose of the comparative analyses performed here the 1978 and 1979 samples have been dropped, so the data sequence is for 5 time periods over 20 years with one missing value."
+      ]
+    },
+    {
+      "record_id": "c902540b38a792058f281478",
+      "paper_id": "1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS",
+      "source_path": "output/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS.md",
+      "section_heading": "Years",
+      "section_start_line": 674,
+      "section_end_line": 706,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which year is identified as different from the rest in the distance matrix?",
+      "ground_truth_answer": "2001 is different to the rest.",
+      "ground_truth_chunks": [
+        "Note that while 1985 and 1988 are very similar and 1995 and 1998, but 2001 is different to the rest.",
+        "| 2001 | 0.752 | 0.771 | 0.584 | 0.628 |"
+      ]
+    },
+    {
+      "record_id": "ef03dabada5409d743ed862d",
+      "paper_id": "1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS",
+      "source_path": "output/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS.md",
+      "section_heading": "Sites",
+      "section_start_line": 1015,
+      "section_end_line": 1050,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which sites are described as similar to each other based on species composition?",
+      "ground_truth_answer": "Sites 2, 3, 4 and 5 are similar to each other; sites 1 and 6 are similar to a lesser extent.",
+      "ground_truth_chunks": [
+        "The differences in species composition are described in the distance matrix:",
+        "Clearly site 2, 3, 4, 5 are similar to each other, as are to a lesser extent 1 and 6."
+      ]
+    },
+    {
+      "record_id": "cd1dd5476ba9c7a7acfa3c20",
+      "paper_id": "1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS",
+      "source_path": "output/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS.md",
+      "section_heading": "Sites",
+      "section_start_line": 1261,
+      "section_end_line": 1294,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two sites are described as very similar?",
+      "ground_truth_answer": "Sites 2 and 3 are described as very similar.",
+      "ground_truth_chunks": [
+        "| 2 | 0.501 |       |       |       |       |",
+        "Clearly 2 and 3 are very similar while 1 and 6 are moderately different from each other but even more different from the others."
+      ]
+    },
+    {
+      "record_id": "0f7314022dea5707d4e02ea2",
+      "paper_id": "1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS",
+      "source_path": "output/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS.md",
+      "section_heading": "Species abundance (coverage).",
+      "section_start_line": 1602,
+      "section_end_line": 1607,
+      "model": "openai:gpt-4o-mini",
+      "question": "What data transformations and distance measure were applied to species coverage before analysis?",
+      "ground_truth_answer": "The data were converted to cm^2 per m^2, then log(X+1) transformed, and Gower's unstandardised distances were used.",
+      "ground_truth_chunks": [
+        "I converted the data to cm<sup>2</sup> per m<sup>2</sup> and did a log(X+1) transformation and Gower's unstandardised distances (for reasons explained in Appendix 1)."
+      ]
+    },
+    {
+      "record_id": "228d90b0706f42dca2ca2bf2",
+      "paper_id": "1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS",
+      "source_path": "output/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS.md",
+      "section_heading": "Indicator species",
+      "section_start_line": 1905,
+      "section_end_line": 1920,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species shows the strongest negative correlation on PC1, and what is its correlation value?",
+      "ground_truth_answer": "Canthigaster.solandri, -0.831",
+      "ground_truth_chunks": [
+        "The top 10 are Canthigaster.solandri -0.831 Thalassoma.quinquevittatum 0.82 Abudefduf.sexfasciatus -0.794 Pygoplites.diacanthus -0.777",
+        "A negative correlation (e.g. *Canthigaster.solandri* ) indicates species that are more abundant in the Harbour sites than Fagatele 5 or Masefau Outside."
+      ]
+    },
+    {
+      "record_id": "4f59152156263f188ded6fdf",
+      "paper_id": "1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS",
+      "source_path": "output/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS.md",
+      "section_heading": "Indicator species",
+      "section_start_line": 2286,
+      "section_end_line": 2314,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species in the 'Indicator species' list has the highest r-squared value?",
+      "ground_truth_answer": "Chromis.acares has the highest r-squared value of 0.23.",
+      "ground_truth_chunks": [
+        "|                            | r-squared |",
+        "| Chromis.acares             | 0.23      |"
+      ]
+    },
+    {
+      "record_id": "bd35a0d69b053950822cb1ce",
+      "paper_id": "1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS",
+      "source_path": "output/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS.md",
+      "section_heading": "Species density",
+      "section_start_line": 2529,
+      "section_end_line": 2570,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two sites are reported as the closest in relative species densities?",
+      "ground_truth_answer": "Masefau and Rainmaker.",
+      "ground_truth_chunks": [
+        "The interesting pattern here is that the closest two sites in the relative densities over species are Masefau and Rainmaker.",
+        "Rainmaker |     | 0.17 | 0.22  | 0.18  | 0.15 | 0.13                     | 0.26 | 0.12    "
+      ]
+    },
+    {
+      "record_id": "45cc63b0b80d16f4048dddde",
+      "paper_id": "1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS",
+      "source_path": "output/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS/1982, 1985, 1988, 1995, 1998, 2001 -  McArdle 2003 statistical review AS.md",
+      "section_heading": "Billfish",
+      "section_start_line": 3272,
+      "section_end_line": 3308,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the estimated effect of 'hooks' on Billfish and is it statistically significant?",
+      "ground_truth_answer": "Estimate = 0.4542; Approx Pr > t = <.0001 (statistically significant).",
+      "ground_truth_chunks": [
+        "| hooks     | 1  | 0.4542   | 0.0323            | 14.08   | <.0001            |"
+      ]
+    }
+  ],
+  "failures": []
+}

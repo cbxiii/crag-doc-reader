@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR.md",
+  "source_sha256": "5a45c53efcd70e026451514ada69d7cb5ff47b90a44d1af416f90843fa5f328a",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "a7854bb7b5f86af916c55edc",
+      "paper_id": "CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR",
+      "source_path": "output/CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR.md",
+      "section_heading": "Meteorologic, oceanographic, and geomorphic controls on circulation and residence time in a coral reef-lined embayment: Faga'alu Bay, American Samoa",
+      "section_start_line": 9,
+      "section_end_line": 33,
+      "model": "openai:gpt-4o-mini",
+      "question": "By approximately what percentage did mean residence times change when shifting from wind forcing to wave forcing in Faga'alu Bay?",
+      "ground_truth_answer": "They shortened by approximately 50%.",
+      "ground_truth_chunks": [
+        "Strong wind forcing resulted in the longest residence times by pinning the water in the bay, whereas large wave forcing flushed the bay and resulted in the shortest residence times.",
+        "The effect of these different forcings on residence times was fairly consistent across all reef geomorphic zones, with the shift from wind to wave forcing shortening mean residence times by approximately 50%."
+      ]
+    },
+    {
+      "record_id": "8f7b6081307137f6a3016f92",
+      "paper_id": "CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR",
+      "source_path": "output/CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR.md",
+      "section_heading": "Study area",
+      "section_start_line": 52,
+      "section_end_line": 65,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the mean tidal range in Faga'alu Bay?",
+      "ground_truth_answer": "0.78 m",
+      "ground_truth_chunks": [
+        "A semidiurnal, microtidal (0.78 m mean tidal range) regime exposes parts of the shallow reef crest and reef flat at extreme low tides."
+      ]
+    },
+    {
+      "record_id": "df1e507cb08222625a0bafde",
+      "paper_id": "CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR",
+      "source_path": "output/CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR.md",
+      "section_heading": "Eulerian measurements",
+      "section_start_line": 66,
+      "section_end_line": 79,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the mean water depths at the three ADCP sites (AS1, AS2, AS3)?",
+      "ground_truth_answer": "Mean water depths were 0.97 m at AS1 (seaward reef), 1.30 m at AS2 (reef adjacent to back-reef pools), and 0.34 m at AS3 (leeward reef).",
+      "ground_truth_chunks": [
+        "Mean water depths at the ADCP sites were 0.97 m on the seaward reef (AS1), 1.30 m on the reef adjacent to the back-reef pools (AS2), and 0.34 m on the leeward reef (AS3)."
+      ]
+    },
+    {
+      "record_id": "63f65b3bc27e476ab76acaa5",
+      "paper_id": "CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR",
+      "source_path": "output/CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR.md",
+      "section_heading": "Comparison of Eulerian and Lagrangian measurements",
+      "section_start_line": 88,
+      "section_end_line": 99,
+      "model": "openai:gpt-4o-mini",
+      "question": "During the large-wave forcing period, by how much did drifter mean current speeds exceed the ADCP top-bin mean current speeds at sites AS1, AS2, and AS3?",
+      "ground_truth_answer": "During the large-wave period the drifters measured faster mean current speeds by 0.10 m s^-1 at AS1, 0.04 m s^-1 at AS2, and 0.05 m s^-1 at AS3.",
+      "ground_truth_chunks": [
+        "During the period with large wave forcing, the drifters measured faster current speeds than the top bin of the ADCPs, with differences in the mean current speeds of 0.04 m s<sup>-1</sup> at AS2, 0.05 m s<sup>-1</sup> at AS3, and 0.10 m s<sup>-1</sup> at AS1.",
+        "For all sites, these differences were less than or equal to 0.01 m s<sup>-1</sup>, indicating that the much faster current speeds measured by the drifters at the surface are plausible given the subsurface ADCP profile."
+      ]
+    },
+    {
+      "record_id": "37a40d6c662f5d5dae76d662",
+      "paper_id": "CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR",
+      "source_path": "output/CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR.md",
+      "section_heading": "Ancillary data",
+      "section_start_line": 100,
+      "section_end_line": 105,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why were WaveWatch III model data considered sufficient for defining deep-water wave conditions during the ADCP and drifter deployments?",
+      "ground_truth_answer": "Because the NIWA Dobie-A gauge malfunctioned and recorded no data during the 1-week ADCP deployment, and the data collected before the malfunction compared well with the WaveWatch III model (r^2 = 0.68, p < 0.05), so the model data were therefore considered sufficient for qualitatively defining the deep-water wave conditions.",
+      "ground_truth_chunks": [
+        "NOAA/NCEP's WaveWatch III (Tolman 2009) hindcast model provided deep-water incident wave conditions at a location approximately 7 km south of the study area (Fig. 1) for the study period.",
+        "The DOBIE malfunctioned and recorded no data coinciding with the 1-week ADCP deployment, but the data collected before the malfunction compared well ( $r^2 = 0.68$ , p < 0.05) with the WaveWatch III model data. The WaveWatch III model data were therefore considered sufficient for qualitatively defining the deep-water wave conditions during the ADCP and drifter deployments."
+      ]
+    },
+    {
+      "record_id": "05ffcbc22b62e14d9e77b49a",
+      "paper_id": "CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR",
+      "source_path": "output/CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR.md",
+      "section_heading": "Meteorological and oceanographic forcing",
+      "section_start_line": 116,
+      "section_end_line": 121,
+      "model": "openai:gpt-4o-mini",
+      "question": "What Year Day ranges define the three forcing periods (strong wind forcing, calm conditions, and large wave forcing)?",
+      "ground_truth_answer": "Strong wind forcing: YD 47.0–50.5; calm conditions: YD 50.5–52.5; large wave forcing: YD 52.5–54.0.",
+      "ground_truth_chunks": [
+        "Three distinct periods were observed and defined as \"end-members\" to isolate the influence of the three main forcing mechanisms: (1) a strong onshore wind event with small waves (\"strong wind forcing\") during YD 47.0–50.5; (2) weak winds from variable directions and small waves (\"calm conditions\") during YD 50.5–52.5; and (3) a large southeast swell with weak winds (\"large wave forcing\") during YD 52.5–54.0 (Supplementary Table 1)."
+      ]
+    },
+    {
+      "record_id": "17730ff264a147b94c0e357b",
+      "paper_id": "CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR",
+      "source_path": "output/CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR.md",
+      "section_heading": "Temporal and spatial variability in flow patterns",
+      "section_start_line": 122,
+      "section_end_line": 173,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under calm conditions, what percentage of drifters launched on the leeward reef flat exited the bay?",
+      "ground_truth_answer": "40%",
+      "ground_truth_chunks": [
+        "For drifters that were launched on the leeward reef flat during calm conditions, 40% exited the bay and another 40% crossed the channel and ended on the seaward reef flat or back-reef pools."
+      ]
+    },
+    {
+      "record_id": "fb78acfd872ef79cedc9e39b",
+      "paper_id": "CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR",
+      "source_path": "output/CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR.md",
+      "section_heading": "Discussion",
+      "section_start_line": 178,
+      "section_end_line": 189,
+      "model": "openai:gpt-4o-mini",
+      "question": "What measurement strategy did the authors state provides great insight into reef flow patterns under different forcing conditions?",
+      "ground_truth_answer": "Combining frequent and sustained Lagrangian drifter deployments that achieve high spatial resolution with Eulerian current meters that provide high temporal resolution.",
+      "ground_truth_chunks": [
+        "Here, the strategy of combining frequent and sustained Lagrangian drifter deployments that achieve high spatial resolution with Eulerian current meters that provide high temporal",
+        "resolution provides great insight into the complex flow patterns over different portions of the reef and how these patterns change under different forcing conditions."
+      ]
+    },
+    {
+      "record_id": "d14549cffb382dea037bb7e0",
+      "paper_id": "CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR",
+      "source_path": "output/CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR.md",
+      "section_heading": "Residence times: meteorologic and oceanographic controls",
+      "section_start_line": 190,
+      "section_end_line": 195,
+      "model": "openai:gpt-4o-mini",
+      "question": "What exerts the dominant control on circulation patterns within the embayment during large waves?",
+      "ground_truth_answer": "Wave breaking on the seaward reef crest exerts the dominant control on circulation patterns within the embayment.",
+      "ground_truth_chunks": [
+        "Wave breaking on the seaward reef crest seems to exert the dominant control on circulation patterns within the embayment.",
+        "During large waves, the drifter tracks document a fast-moving clockwise surface flow pattern shoreward over the exposed seaward reef, through the back-reef pools and near the stream mouth, and out to sea over the sheltered leeward reef and deep channel (Fig. [5\\)](#page-9-0)."
+      ]
+    },
+    {
+      "record_id": "e2f7cb89711b0edda7ea46d7",
+      "paper_id": "CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR",
+      "source_path": "output/CDS_Fagaalu_circulation_CR/CDS_Fagaalu_circulation_CR.md",
+      "section_heading": "Implications of circulation patterns and residence times on reef health",
+      "section_start_line": 202,
+      "section_end_line": 213,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, which part of the reef receives terrestrial sediment from Faga'alu Stream that persists longer and likely reduces coral health?",
+      "ground_truth_answer": "The leeward reef.",
+      "ground_truth_chunks": [
+        "Terrestrial sediment discharged from Faga'alu Stream is deflected away from the energetic seaward reef and towards the leeward reef where it persists for longer durations, likely resulting in greater terrigenous sediment stress and reduced coral health from particle settling and light reduction",
+        "During storms, time-lapse photography (not shown) shows terrestrial fluvial sediment plumes extending from the stream outlet over the leeward reef and channel, persisting for several hours to days."
+      ]
+    }
+  ],
+  "failures": []
+}

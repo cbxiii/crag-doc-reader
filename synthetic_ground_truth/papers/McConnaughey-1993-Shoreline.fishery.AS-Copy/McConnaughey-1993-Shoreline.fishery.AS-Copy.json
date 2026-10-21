@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy.md",
+  "source_sha256": "e3d9ba146dc6fc5cd026aeb2448bb5c9a6f4ac868c5d8a6ddae89b1e36e71477",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "5eff190b74cb613ae94ce36d",
+      "paper_id": "McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy",
+      "source_path": "output/McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy.md",
+      "section_heading": "ABSTRACT",
+      "section_start_line": 55,
+      "section_end_line": 66,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of reef fish sold in the local markets was imported in 1992?",
+      "ground_truth_answer": "78%.",
+      "ground_truth_chunks": [
+        "In 1990, 23% of reef fish sold in the local markets was imported. In 1992, this percentage had risen to 78%."
+      ]
+    },
+    {
+      "record_id": "881d8369320b9c7c7a54cd1b",
+      "paper_id": "McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy",
+      "source_path": "output/McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy.md",
+      "section_heading": "METHODS",
+      "section_start_line": 97,
+      "section_end_line": 116,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the minimum duration of fishing required for an individual or group to be sampled in the survey?",
+      "ground_truth_answer": "They were sampled only if they had been fishing at least half an hour.",
+      "ground_truth_chunks": [
+        "Individuals or groups fishing were sampled only if they had been fishing at least half an hour."
+      ]
+    },
+    {
+      "record_id": "f52860eeedf7f03457d67922",
+      "paper_id": "McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy",
+      "source_path": "output/McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy.md",
+      "section_heading": "ANALYSIS",
+      "section_start_line": 155,
+      "section_end_line": 160,
+      "model": "openai:gpt-4o-mini",
+      "question": "Were corrections made to the Ponwith database and programs when re-analyzing the FY91 figures?",
+      "ground_truth_answer": "Yes. Some corrections were made to both the database and programs, and as a result the FY91 results reported here are somewhat different from those in Ponwith's report.",
+      "ground_truth_chunks": [
+        "The data set from Ponwith was re-analyzed for the FY91 figures shown in this report. Some corrections were made to both the data base and programs, therefore the results reported here for FY91 are somewhat different from those presented in Ponwith's report.",
+        "Data were entered into a database and a series of interactive DBASE IV programs were used to expand the sample data to annual catch and effort estimates for the study area. This methodology is discussed by Ponwith (1992)."
+      ]
+    },
+    {
+      "record_id": "8b7f296f205f3a94e62486aa",
+      "paper_id": "McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy",
+      "source_path": "output/McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy.md",
+      "section_heading": "Level Strata Vear, (User-selected range of dates for an analysis) Day or night fishing Day type (Week day versus Weekend day or holiday) Fishing technique, (Grouping of like methods) Fishing Method, (Rod and reel, hand-line, (etc.)) Habitat (Grouping of similar villages. See page 9) Village name",
+      "section_start_line": 223,
+      "section_end_line": 232,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the minimum number of interviews required to complete the analysis for a stratum?",
+      "ground_truth_answer": "A minimum of two interviews.",
+      "ground_truth_chunks": [
+        "In this analysis, a minimum of two interviews would be required to complete the analysis.",
+        "In many cases there were not a sufficient number of interviews available in a given stratum at level 6 to compute a CPUE. In these cases, the expansion program would look for a CPUE at level 5 in order to produce an expanded catch for a particular stratum. If a level 5 CPUE was not available, then a level 4 CPUE would be used, (etc)."
+      ]
+    },
+    {
+      "record_id": "19653e9fafca2ccd07cb1b0d",
+      "paper_id": "McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy",
+      "source_path": "output/McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy.md",
+      "section_heading": "Fishing Methods .",
+      "section_start_line": 251,
+      "section_end_line": 284,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which fishing method was the most often used gear type in FY91?",
+      "ground_truth_answer": "Hand line.",
+      "ground_truth_chunks": [
+        "The hand line consisted of a length of line wrapped around a stick or partially crushed aluminum can.",
+        "Use of this gear type is not mentioned by Wass (1980) or by Hill (1978), but was the most often used gear type in FY91."
+      ]
+    },
+    {
+      "record_id": "841ffe95b76dc17bff40f735",
+      "paper_id": "McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy",
+      "source_path": "output/McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy.md",
+      "section_heading": "Estimated Octopus Catch (Pounds) FY91 vs FY92",
+      "section_start_line": 686,
+      "section_end_line": 761,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percent did the total pounds landed drop from FY91 to FY92?",
+      "ground_truth_answer": "The total pounds landed dropped 72% from FY91 to FY92.",
+      "ground_truth_chunks": [
+        "The total pounds landed dropped 72% from FY91 to FY92, however the number of fish increased 23% (Table 4).",
+        "| Tolal        | 14669     | 1070    | 109    |       | 2367  | 320   | 4    | 18539 |",
+        "| Total        | 2170 | 458  | 116    |       | 2463  | 29    |      | 5236  |"
+      ]
+    },
+    {
+      "record_id": "3ea1c832d53d3d78a2f73816",
+      "paper_id": "McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy",
+      "source_path": "output/McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy.md",
+      "section_heading": "Sea Urchin Catch (Pounds) FY91 vs FY92",
+      "section_start_line": 858,
+      "section_end_line": 952,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Table 10 in the section, what was the total pounds of all sea urchins caught in FY92?",
+      "ground_truth_answer": "8714 pounds",
+      "ground_truth_chunks": [
+        "| FY91         | Catch (Po | unds of | fish)       |       |       |          |      |       |",
+        "| Total        |           |         | <del></del> | 5126  | 3588  |          |      | 8714  |"
+      ]
+    },
+    {
+      "record_id": "41c8e8f287e23419483c2c97",
+      "paper_id": "McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy",
+      "source_path": "output/McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy.md",
+      "section_heading": "<u>Palolo</u>",
+      "section_start_line": 1033,
+      "section_end_line": 1086,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the total fishing effort in the study area did palolo fishing represent?",
+      "ground_truth_answer": "Approximately 17% of the total fishing effort.",
+      "ground_truth_chunks": [
+        "If we assume the average palolo fishing trip lasts three hours, then the 2818 person-trips observed in the inshore study area in FY93 (Table 13), represent approximately 8400 person hours.",
+        "This figure represents approximately 17% of the total fishing effort estimated to have occurred in the study area in FY92 (Table 2), however the palolo catch represents only 2.5% of the non-atule catch (Table 4)."
+      ]
+    },
+    {
+      "record_id": "04a38558e5513e4b8f23cf77",
+      "paper_id": "McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy",
+      "source_path": "output/McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy.md",
+      "section_heading": "Footnotes:",
+      "section_start_line": 1132,
+      "section_end_line": 1251,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section's footnotes, were the prices adjusted for inflation?",
+      "ground_truth_answer": "No. The footnote states: \"Prices not adjusted for inflation.\"",
+      "ground_truth_chunks": [
+        "- 1. Prices not adjusted for inflation.",
+        "- 2. 1979 data from Wass 1980."
+      ]
+    },
+    {
+      "record_id": "436f6262181bf3893ffeaa71",
+      "paper_id": "McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy",
+      "source_path": "output/McConnaughey-1993-Shoreline.fishery.AS-Copy/McConnaughey-1993-Shoreline.fishery.AS-Copy.md",
+      "section_heading": "RECOMMENDATIONS",
+      "section_start_line": 1310,
+      "section_end_line": 1380,
+      "model": "openai:gpt-4o-mini",
+      "question": "If the primary purpose of this study is to provide baseline biological data, what recommendation does the report give about continuing the study?",
+      "ground_truth_answer": "The report recommends that the study not be continued.",
+      "ground_truth_chunks": [
+        "If the primary purpose of this study is to provide baseline biological data, then it is recommended that this study not be continued.",
+        "Options for this project include 1) discontinuing altogether, 2) continue, however with emphasis on the fisheries cultural and economic importance, rather then as of a biological study."
+      ]
+    }
+  ],
+  "failures": []
+}

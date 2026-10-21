@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS.md",
+  "source_sha256": "e6f74c4fd354fc86e5dede2a21bf75d9353a4f748cb8a097f013c56faf3a8bea",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "f79196b62b59c0d641234641",
+      "paper_id": "Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS",
+      "source_path": "output/Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS.md",
+      "section_heading": "Genetic Evidence of Dispersal Limitation and Local Adaptation in Samoan Reef Corals: Report on Ongoing Research: March, 2006",
+      "section_start_line": 1,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "What evidence does the report present that coral dispersal between sampled locations in American Samoa is limited?",
+      "ground_truth_answer": "Analysis of F-statistics indicated that coral populations from each sampled location are genetically distinct, implying that coral dispersal between localities occurs only rarely; the authors conclude that reef corals in different bays are separate gene pools unlikely to be connected by large amounts of larval exchange.",
+      "ground_truth_chunks": [
+        "2) Analysis of F-statistics shows strongly that the coral populations from each sampled location are genetically distinct, implying that coral dispersal between localities occurs only rarely, whereas locations in close proximity (back reef vs fore reef) show no genetic distinction for the corals;",
+        "These results show strongly that reef corals in different bays in American Samoa are separate gene pools unlikely to be connected by large amounts of larval exchange."
+      ]
+    },
+    {
+      "record_id": "781b3fd7b1f2c15517f083fb",
+      "paper_id": "Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS",
+      "source_path": "output/Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS.md",
+      "section_heading": "I. Introduction",
+      "section_start_line": 15,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two coral species were targeted in the study described in the Introduction?",
+      "ground_truth_answer": "The study targeted the tabletop corals Acropora hyacinthus and A. cytherea.",
+      "ground_truth_chunks": [
+        "We targeted two coral species in American Samoa, the tabletop corals *Acropora hyacinthus* and *A.cytherea*.",
+        "We distinguished these species by the details of polyp morphology: *A. hyacinthus* has radial polyps in a floret arrangement whereas *A. cytherea* has more elongated radial polyps that appear similar to bamboo than in *hyacinthus*."
+      ]
+    },
+    {
+      "record_id": "9f3d0869fea7eb0cb52533c4",
+      "paper_id": "Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS",
+      "source_path": "output/Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS.md",
+      "section_heading": "B. Genetic Analysis:",
+      "section_start_line": 54,
+      "section_end_line": 63,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which genes and base pair lengths were amplified from the coral host and from the symbiont?",
+      "ground_truth_answer": "From the corals: 418 base pairs of the mitochondrial control region. From the symbionts: 290 base pairs of cytochrome b and 384 base pairs of chloroplast ferredoxin (a nuclear encoded gene for a chloroplast product).",
+      "ground_truth_chunks": [
+        "Mitochondrial genes from the host and both mitochondrial and nuclear genes from the symbiont were amplified from the same DNA extraction using species and locus-specific primers.",
+        "From the corals, we amplified 418 base pairs the mitochondrial control region and from the symbionts, 290 base pairs of cytochrome b and 384 base pairs of chloroplast ferredoxin, a nuclear encoded gene for a chloroplast product."
+      ]
+    },
+    {
+      "record_id": "3174beb51304f9079a96f5ee",
+      "paper_id": "Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS",
+      "source_path": "output/Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS.md",
+      "section_heading": "C. Data Analysis:",
+      "section_start_line": 64,
+      "section_end_line": 73,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which software was used to perform maximum likelihood ratio tests to estimate Dn/Ds ratios?",
+      "ground_truth_answer": "The software PAML.",
+      "ground_truth_chunks": [
+        "*Phylogenetic Analysis by Maximum Likelihood (PAML):* To investigate the possible patterns of selection in cytochrome b, we used the software PAML to perform maximum likelihood ratio tests to estimate Dn/Ds ratios."
+      ]
+    },
+    {
+      "record_id": "e7443263185a39468931771e",
+      "paper_id": "Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS",
+      "source_path": "output/Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS.md",
+      "section_heading": "III. Results / Discussion",
+      "section_start_line": 74,
+      "section_end_line": 79,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which three statistical tools were employed in the analysis to study population structure?",
+      "ground_truth_answer": "Phylogenetic trees, F-statistic analysis, and maximum likelihood analysis of a molecular signature of selection (Dn/Ds).",
+      "ground_truth_chunks": [
+        "In this analysis we've employed three statistical tools to aid in our description, phylogenetic trees to explore evolutionary relationships between individuals in distinct locations, F-statistic analysis to quantitatively assess relatedness between sites, and maximum likelihood analysis of a molecular signature of selection (Dn/Ds).",
+        "The focus of our research is to understand the population structure of reef corals and their symbionts, derive from that information the scale of dispersal and build hypotheses regarding the factors limiting the distribution of genetic diversity in the species."
+      ]
+    },
+    {
+      "record_id": "dbad5af01a4af7a230c22c39",
+      "paper_id": "Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS",
+      "source_path": "output/Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS.md",
+      "section_heading": "Symbiodinium genetics",
+      "section_start_line": 90,
+      "section_end_line": 101,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Symbiodinium clades showed signatures of natural selection in cytochrome b sequences?",
+      "ground_truth_answer": "Clades D and DX.",
+      "ground_truth_chunks": [
+        "Clades D and DX have cytochrome b sequences that show a signature of natural selection.",
+        "The black bars on the phylogenetic tree in Fig. 2C. represent branches of the phylogeny that showed significant increase in the degree of amino acid substitution. This result implies that positive selection for functional diversification of the cytochrome b protein occurred along those lineages."
+      ]
+    },
+    {
+      "record_id": "464dbaf09d01410c9bc78c8a",
+      "paper_id": "Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS",
+      "source_path": "output/Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS.md",
+      "section_heading": "(A) Acropora Pairwise Fsts (CR) (B) Symbiodinium Pairwise Fsts (CytB)",
+      "section_start_line": 104,
+      "section_end_line": 115,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the pairwise Fst between Ofu Pool and Fagamalo Bay for Acropora (CR), and what significance level is reported?",
+      "ground_truth_answer": "0.272, reported as ** (P < 0.01).",
+      "ground_truth_chunks": [
+        "| Fagamalo Bay (17) | 0.272**  | 0.621***     |              | Fagamalo Bay (11) | 0.13271† | -0.02449     |              |",
+        "Table 2. Pairwise Fst Values for A) *Acropora hyacinthus/cytherea* across sites using mitochondrial control region, and B) *Symbiodinium sp.* across sites using cytochrome b. Symbols denote significance level, with no symbol indicating a non-significant value, **†** = P < 0.1, \\* = P <0.05, \\*\\* = P<0.01, and \\*\\*\\* = P<0.001."
+      ]
+    },
+    {
+      "record_id": "820d0cd8200c44ac69304aa1",
+      "paper_id": "Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS",
+      "source_path": "output/Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS.md",
+      "section_heading": "Fst Analysis:",
+      "section_start_line": 116,
+      "section_end_line": 129,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the 'Fst Analysis' section, does the within-island comparison between Ofu Pool and Ofu Forereef for Acropora show significant genetic differentiation?",
+      "ground_truth_answer": "No. The single within-island comparison (Ofu Pool and Ofu Forereef) for Acropora does not show significant differentiation.",
+      "ground_truth_chunks": [
+        "From Table 2, one can see that for *Acropora*, all island by island comparisons are strongly significant, while the single within island comparison (Ofu Pool and Ofu Forereef) does not show significantly differentiation.",
+        "However, populations within Ofu island are exchanging individuals across habitats from the Ofu Pool to Ofu Forereef commonly enough to prevent large scale differentiation over this small spatial scale."
+      ]
+    },
+    {
+      "record_id": "99c4539d7d6f542870d60164",
+      "paper_id": "Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS",
+      "source_path": "output/Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS.md",
+      "section_heading": "Diversity Comparison:",
+      "section_start_line": 149,
+      "section_end_line": 168,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section's Figure 3C description, which region shows extremely high Symbiodinium genetic diversity?",
+      "ground_truth_answer": "American Samoa.",
+      "ground_truth_chunks": [
+        "More strikingly, Figure 3C completely refutes any clear pattern between marine species richness and *Symbiodinium* genetic diversity housed within a species. While both Palmyra and the Philippines show quite low diversity, the genetic diversity of *Symbiodinium* in American Samoa is extremely high.",
+        "Much of this trend is driven by the\n\nwidespread distribution of different sub-clades in clade D *Symbiodinium*, shown in our PAML results to be the products of selection for divergent function."
+      ]
+    },
+    {
+      "record_id": "45401099bccc870e660e125c",
+      "paper_id": "Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS",
+      "source_path": "output/Palumbi-2006-Genetic.evidence.corals.AS/Palumbi-2006-Genetic.evidence.corals.AS.md",
+      "section_heading": "IV. Future Work",
+      "section_start_line": 169,
+      "section_end_line": 176,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species do the authors plan to include in expanded sampling during the upcoming field season?",
+      "ground_truth_answer": "They plan to re-sample Samoan Acropora and expand sampling to include Porites cylindrica and Poccillopora eydouxi.",
+      "ground_truth_chunks": [
+        "In the upcoming field season, we hope to re-sample Samoan *Acropora* across three sites in American Samoa*,* and expand our sampling to include other reef corals of diverse life histories, including *Porites cylindrica*, and *Poccillopora eydouxi*."
+      ]
+    }
+  ],
+  "failures": []
+}

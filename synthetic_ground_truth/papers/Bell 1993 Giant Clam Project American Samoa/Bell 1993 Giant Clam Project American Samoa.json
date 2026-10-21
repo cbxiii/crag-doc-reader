@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa.md",
+  "source_sha256": "a2e7b382ee11bc4daaf6b4791d7d37300bc17cc7ff4188e0bc5dbc03af3747aa",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "00e2bca82d873e8fd04f596a",
+      "paper_id": "Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa",
+      "source_path": "output/Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa.md",
+      "section_heading": "PREFACE",
+      "section_start_line": 15,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "What five types of assistance did the Department of Marine and Wildlife Resources request from the FFA for the Giant Clam Project?",
+      "ground_truth_answer": "1. Update data analysis on giant clam growth, mortality and predator snail occurrences.\n2. Assess the progress of the giant clam project to date, both for the hatchery operation and grow-out phase.\n3. Assist in updating progress reports for the Project.\n4. Recommend areas of improvement in the hatchery system and protocol, data collection and compilation.\n5. Recommend direction of management of the Project including staff employment and level of employment.",
+      "ground_truth_chunks": [
+        "- 1. update data analysis on giant clam growth, mortality and predator snail occurrences;\n- 2. assess the progress of the giant clam project to date, both for the hatchery operation and grow-out phase;\n- 3. assist in up-dating progress reports for the Project;\n- 4. recommend areas of improvement in the hatchery system and protocol, data collection and compilation; and\n- 5. recommend direction of management of Project including staff employment and level of employment."
+      ]
+    },
+    {
+      "record_id": "3223b3259567b7e68e8a9894",
+      "paper_id": "Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa",
+      "source_path": "output/Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa.md",
+      "section_heading": "Objectives:",
+      "section_start_line": 193,
+      "section_end_line": 203,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which objective aims to establish a demonstration giant clam culture station, and what is its purpose?",
+      "ground_truth_answer": "Objective 3: To establish a demonstration giant clam culture station to be used for training, extension and economic feasibility studies.",
+      "ground_truth_chunks": [
+        "- 3. To establish a demonstration giant clam culture station to be used for training, extension and economic feasibility studies."
+      ]
+    },
+    {
+      "record_id": "7b8363caf5c653c1fb21952e",
+      "paper_id": "Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa",
+      "source_path": "output/Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa.md",
+      "section_heading": "Settling Tanks",
+      "section_start_line": 281,
+      "section_end_line": 284,
+      "model": "openai:gpt-4o-mini",
+      "question": "After converting one raceway into a Settling/Raceway tank, how many batches per year can be run?",
+      "ground_truth_answer": "Six per year.",
+      "ground_truth_chunks": [
+        "Thus only four batches can be attained in one year using these two tanks.",
+        "However, one of the raceways has been converted into a Settling/Raceway tank, thus increasing the number of possible batch runs to six per year."
+      ]
+    },
+    {
+      "record_id": "fcff761589b9fa0021e5b261",
+      "paper_id": "Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa",
+      "source_path": "output/Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa.md",
+      "section_heading": "2.5.1 Giant Clams Importations for the Project",
+      "section_start_line": 325,
+      "section_end_line": 344,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many juvenile giant clams were imported between November 1986 and October 1991 for the project, and what were the species percentages?",
+      "ground_truth_answer": "11,000 juvenile clams were imported; 73% were T. derasa, 18% were T. gigas, and 9% were H. hippopus.",
+      "ground_truth_chunks": [
+        "Juvenile clams imported between November, 1986 and October, 1991, totalled to 11,000, involving 7 separate shipments. Of the 11,000 imported juvenile clams, 73 % were *T. derasa*, 18 % *T. gigas* and 9 % *H. hippopus*."
+      ]
+    },
+    {
+      "record_id": "ad9fcd08db5c9a0b0f1bde88",
+      "paper_id": "Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa",
+      "source_path": "output/Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa.md",
+      "section_heading": "3.1.1 Spawning",
+      "section_start_line": 411,
+      "section_end_line": 435,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which spawning in Table 3 resulted in harvesting more than 25,000 five-month-old juveniles?",
+      "ground_truth_answer": "Spawning #8 on Jun 17, 92 (Td Intensive) resulted in Harvested >25,000 5-month old juveniles.",
+      "ground_truth_chunks": [
+        "Table 3 records all the spawnings since the hatchery became operational and the method of larval culture employed and results for each batch.",
+        "| 8.         | Jun 17, 92 | Td Intensive                                                     | Harvested >25,000 5-month old juveniles    |"
+      ]
+    },
+    {
+      "record_id": "c970a8f2c0d6d1e759c9ceb1",
+      "paper_id": "Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa",
+      "source_path": "output/Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa.md",
+      "section_heading": "Table 5(a):",
+      "section_start_line": 483,
+      "section_end_line": 494,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which nursery and species in Table 5(a) showed the highest growth rate, and what was that rate?",
+      "ground_truth_answer": "The Ofu nursery, species T. derasa, showed the highest growth rate of 6.27.",
+      "ground_truth_chunks": [
+        "| Ofu     | Ofu_PAA           | T. derasa | 11/12/91              | 58.5        | 12/92       | 140                   | 6.27        |"
+      ]
+    },
+    {
+      "record_id": "cdee0ede1e7fd28b64343fdd",
+      "paper_id": "Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa",
+      "source_path": "output/Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa.md",
+      "section_heading": "3.2.2.a T. derasa in Different Sites (CTSA Funded)",
+      "section_start_line": 520,
+      "section_end_line": 525,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which site recorded the highest percent mortality from June 1991 to December 1992, and what was the percentage?",
+      "ground_truth_answer": "Ofu recorded the highest percent mortality at 61% (46.25% disregarding mortalities within the first 2 months).",
+      "ground_truth_chunks": [
+        "The highest percent mortality from June 1991 to December 1992 (18 months) was recorded at Ofu, which was 61% (46.25% disregarding mortalities within the first 2 months which were due mainly by handling during transplanting).",
+        "At Ofu, 69% (168 clams) of the total morality was due to Hurricane Val and 24% (59 clams) to handling during the initial transplanting."
+      ]
+    },
+    {
+      "record_id": "81efe7630f7012068a7e06bb",
+      "paper_id": "Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa",
+      "source_path": "output/Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa.md",
+      "section_heading": "3.2.3.b T. derasa vs H. hippopus in Different Sites (PAA Funded)",
+      "section_start_line": 552,
+      "section_end_line": 559,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many predator snails were recorded at the Alofau nursery during the 11-month period?",
+      "ground_truth_answer": "Seven predator snails were recorded at the Alofau nursery during the 11-month period.",
+      "ground_truth_chunks": [
+        "No significant number (7 for the whole 11-month period) of the predator snail was recorded at the Alofau nursery (Table 9 (a))."
+      ]
+    },
+    {
+      "record_id": "e5a0c2511dc110417db5106d",
+      "paper_id": "Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa",
+      "source_path": "output/Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa.md",
+      "section_heading": "4.1 Hatchery",
+      "section_start_line": 606,
+      "section_end_line": 619,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many six-month old juvenile clams were harvested in January 1993 from the June 1992 spawning?",
+      "ground_truth_answer": "More than 25,000.",
+      "ground_truth_chunks": [
+        "Six-month old juvenile clams harvested in January 1993 from the June 1992 spawning, yielded more than 25,000 clams. This is an excellent yield and also the highest from the hatchery so far.",
+        "Two water pumps are urgently needed as there is only one currently working. More than 25,000 six-month old juveniles were harvested early January 1993 and if the current working pump breaks down, it could mean a total loss of juveniles."
+      ]
+    },
+    {
+      "record_id": "7b34fab5279068e492549c6a",
+      "paper_id": "Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa",
+      "source_path": "output/Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa.md",
+      "section_heading": "4.8 Native Giant Clam Species",
+      "section_start_line": 668,
+      "section_end_line": 670,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which native giant clam species are identified for re-establishment in American Samoa?",
+      "ground_truth_answer": "T. squamosa and T. maxima.",
+      "ground_truth_chunks": [
+        "It would be desirable to conduct spawning and grow-out experiments in an effort to re-establish populations of the native giant clam species, *T. squamosa* and *T. max*ima since surveys conducted by the Department indicated very low populations and the likely inability of the remaining populations to recover naturally.",
+        "*T. maxima* is abundant on Rose Atoll while *T. squamosa* can be collected from Manu'a or around Tutuila Island."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013.md",
+  "source_sha256": "713e830e7b5ef71406432685ac54030c9644d641d9eafd0d04873a8713717ab5",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "00608ae0f3a61ca44cb165b2",
+      "paper_id": "Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013",
+      "source_path": "output/Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013.md",
+      "section_heading": "Abstract",
+      "section_start_line": 9,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which herbivore functional group's biomass was associated with increased hard coral cover in the study?",
+      "ground_truth_answer": "Hard coral cover increased with the biomass of large excavators/bio-eroders (made up of large-bodied parrotfishes).",
+      "ground_truth_chunks": [
+        "Specifically: 1) macroalgal and turf algal cover decreased with increasing biomass of 'grazers/detritivores'; and 2) cover of encrusting algae increased with increasing biomass of 'grazers/ detritivores' and browsers. Furthermore, hard coral cover increased with the biomass of large excavators/bio-eroders (made up of large-bodied parrotfishes).",
+        "For each benthic substrate type considered (encrusting algae, fleshy macroalgae, hard coral and turf algae), the biomass of herbivorous fishes were important explanatory variables in predicting benthic cover, whereas biomass of all fishes combined generally was not."
+      ]
+    },
+    {
+      "record_id": "31987de61aacdf62befd61e8",
+      "paper_id": "Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013",
+      "source_path": "output/Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013.md",
+      "section_heading": "Introduction",
+      "section_start_line": 27,
+      "section_end_line": 44,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many sites and where were data collected for this investigation?",
+      "ground_truth_answer": "Data were collected from 240 sites in the five island groups of the American Samoan Archipelago.",
+      "ground_truth_chunks": [
+        "Using data collected from 240 sites in the five island groups of the American Samoan Archipelago, we used generalized additive mixed effects models to test how herbivorous fish biomass relates to benthic composition."
+      ]
+    },
+    {
+      "record_id": "0769234bf079efef395756fb",
+      "paper_id": "Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013",
+      "source_path": "output/Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013.md",
+      "section_heading": "Study location",
+      "section_start_line": 51,
+      "section_end_line": 54,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral reef sites in the American Samoan Archipelago were surveyed in 2010?",
+      "ground_truth_answer": "240 coral reef sites were surveyed in 2010.",
+      "ground_truth_chunks": [
+        "In 2010, 240 coral reef sites in the American Samoan Archipelago were surveyed (Fig. 1)."
+      ]
+    },
+    {
+      "record_id": "6cd648cfcc1800c4b634c891",
+      "paper_id": "Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013",
+      "source_path": "output/Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013.md",
+      "section_heading": "Quantifying herbivorous fish biomass",
+      "section_start_line": 55,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were biomass estimates per site created from the SPC surveys?",
+      "ground_truth_answer": "Data from the two adjacent SPC surveys were pooled to create biomass estimates per site.",
+      "ground_truth_chunks": [
+        "Biomass per fish was then calculated using length-weight relationships [37,38].",
+        "Data from the two adjacent SPC surveys were pooled to create biomass estimates per site."
+      ]
+    },
+    {
+      "record_id": "a4b8e74a07d42cff67fd2cda",
+      "paper_id": "Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013",
+      "source_path": "output/Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013.md",
+      "section_heading": "Measuring benthic cover",
+      "section_start_line": 59,
+      "section_end_line": 68,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many photographs were taken at 1-m intervals on the transect line after the fish survey?",
+      "ground_truth_answer": "30 photographs were taken.",
+      "ground_truth_chunks": [
+        "On completion of the fish survey, 30 photographs were taken at 1-m intervals on the transect line."
+      ]
+    },
+    {
+      "record_id": "e4d194e50ae0d69a872b0b6a",
+      "paper_id": "Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013",
+      "source_path": "output/Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013.md",
+      "section_heading": "Benthic composition",
+      "section_start_line": 77,
+      "section_end_line": 80,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the mean encrusting algal cover reported for sites surveyed in American Samoa?",
+      "ground_truth_answer": "37.9% (SE 1.2).",
+      "ground_truth_chunks": [
+        "Mean encrusting algal cover was 37.9% (SE 1.2) at sites surveyed in American Samoa, however, this varied by island, with Rose Atoll and Ofu & Olosega having particularly high encrusting algal cover (Fig. 2)."
+      ]
+    },
+    {
+      "record_id": "098556ed2c194a6bc1f26752",
+      "paper_id": "Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013",
+      "source_path": "output/Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013.md",
+      "section_heading": "Herbivorous fish assemblages",
+      "section_start_line": 81,
+      "section_end_line": 84,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which herbivore functional group constituted the largest proportion of total herbivorous fish biomass across the archipelago?",
+      "ground_truth_answer": "Grazers/detritivores constituted the largest proportion, making up 57% of total herbivorous fish biomass.",
+      "ground_truth_chunks": [
+        "The dominant herbivore functional group was grazers/detritivores (57% of total biomass), followed by scrapers/small excavators (27%) and large excavators/bio-eroders (10%).",
+        "Grazers/detritivore biomass averaged 7.86 g m<sup>-2</sup> (SE 0.34) for all islands, with Swains having visibly lower biomass across all depth zones (overall mean grazer/detritivore biomass at Swains: 2.15 g m<sup>-2</sup> (SE 0.30); Fig. 3)."
+      ]
+    },
+    {
+      "record_id": "a72f8afec56cbb296b2d246c",
+      "paper_id": "Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013",
+      "source_path": "output/Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013.md",
+      "section_heading": "Relationship between benthic composition and herbivorous fishes",
+      "section_start_line": 85,
+      "section_end_line": 94,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which herbivorous fish functional group best explained variation in fleshy macroalgae cover, and how did macroalgal cover change with its biomass?",
+      "ground_truth_answer": "The grazers/detritivores functional group best explained variation in fleshy macroalgae cover; macroalgal cover decreased with increasing biomass of grazers/detritivores.",
+      "ground_truth_chunks": [
+        "Fleshy macroalgae was the benthic cover type best explained by the biomass of herbivorous fish. Macroalgal cover decreased with increasing biomass of grazers/detritivores (Fig. 4b).",
+        "The best fitting (lowest AICc, highest weight) models all included grazers/detritivores, while the top candidate model contained the biomass of this single functional group and depth (Table 1, model weight 49% and 50% deviance explained)."
+      ]
+    },
+    {
+      "record_id": "8b6b84f087bae6bd0ca8efd0",
+      "paper_id": "Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013",
+      "source_path": "output/Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013.md",
+      "section_heading": "Discussion",
+      "section_start_line": 95,
+      "section_end_line": 170,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which functional group of herbivorous fish was most strongly associated with low cover of fleshy macroalgae and turf algae in American Samoa?",
+      "ground_truth_answer": "Grazers/detritivores (particularly detritivores).",
+      "ground_truth_chunks": [
+        "High biomass of grazers/ detritivores had the strongest association with low cover of both fleshy macroalgae and turf algae.",
+        "Specfically, a high biomass of this group was associated with low cover of fleshy macroalgal and turf algal cover and relatively high cover of encrusting algae and hard coral."
+      ]
+    },
+    {
+      "record_id": "52f4495e40f0d5629ea8b9fa",
+      "paper_id": "Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013",
+      "source_path": "output/Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013.md",
+      "section_heading": "Author Contributions",
+      "section_start_line": 209,
+      "section_end_line": 256,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who conceived and designed the experiments?",
+      "ground_truth_answer": "AH and IDW.",
+      "ground_truth_chunks": [
+        "Conceived and designed the experiments: AH IDW. Analyzed the data: AH. Wrote the paper: AH IDW."
+      ]
+    }
+  ],
+  "failures": []
+}

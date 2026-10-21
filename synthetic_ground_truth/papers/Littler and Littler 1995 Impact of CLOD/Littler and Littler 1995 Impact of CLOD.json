@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Littler and Littler 1995 Impact of CLOD/Littler and Littler 1995 Impact of CLOD.md",
+  "source_sha256": "738a7cb2830046151d2a126c9a64284eea97f793c8258412a648703efd383e3d",
+  "status": "complete",
+  "selected_section_count": 3,
+  "successful_record_count": 3,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "c7b1ad2bc6f3f6c6511a458e",
+      "paper_id": "Littler and Littler 1995 Impact of CLOD/Littler and Littler 1995 Impact of CLOD",
+      "source_path": "output/Littler and Littler 1995 Impact of CLOD/Littler and Littler 1995 Impact of CLOD.md",
+      "section_heading": "Littler and Littler 1995 Impact of CLOD.md",
+      "section_start_line": 1,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are mouse cells devoid of the p53 dependent spindle checkpoint capable of doing during the subsequent cell cycle despite not completing chromosome segregation?",
+      "ground_truth_answer": "They are capable of completing events of the subsequent cell cycle, including DNA synthesis, without completing chromosome segregation.",
+      "ground_truth_chunks": [
+        "Mouse cells devoid of the p53 dependent spindle checkpoint are capable of completing events of the subsequent cell cycle, including DNA synthesis, without completing chromosome segregation.",
+        "These results suggest a mechanism for the development of a genetically unstable tetraploid cell population during neoplastic progression."
+      ]
+    },
+    {
+      "record_id": "22716e6f35db87d0263d9794",
+      "paper_id": "Littler and Littler 1995 Impact of CLOD/Littler and Littler 1995 Impact of CLOD",
+      "source_path": "output/Littler and Littler 1995 Impact of CLOD/Littler and Littler 1995 Impact of CLOD.md",
+      "section_heading": "Impact of CLOD Pathogen on Pacific Coral Reefs",
+      "section_start_line": 55,
+      "section_end_line": 187,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the maximum lateral (linear) spreading rate of CLOD observed in the experiments, and what was the mean spreading rate reported?",
+      "ground_truth_answer": "The maximum linear increase observed was 2.9 mm/day; the mean was 1.5 ± 0.1 mm/day (n = 36).",
+      "ground_truth_chunks": [
+        "All 36 CLOD infections initiated from isolated propagules demonstrated rapid linear growth rates (Table 4), whereas none of the control patches became infected. The maximum linear increase was 2.9 mm/day, with a mean  $\\pm$  SE of 1.5  $\\pm$  0.1 mm/day (n = 36). The living CLOD bands reached widths of 1.8 cm and averaged 0.6  $\\pm$  0.03 cm (n = 180) in width on the infected coralline algae.",
+        "Its maximum spreading rate of 2.9 mm/day is about the same as that for black band disease of corals (3.1 mm/ day) (5)."
+      ]
+    },
+    {
+      "record_id": "317ec45f21ccb82b007233a2",
+      "paper_id": "Littler and Littler 1995 Impact of CLOD/Littler and Littler 1995 Impact of CLOD",
+      "source_path": "output/Littler and Littler 1995 Impact of CLOD/Littler and Littler 1995 Impact of CLOD.md",
+      "section_heading": "The Neuron-Restrictive Silencer Factor (NRSF): A Coordinate Repressor of Multiple Neuron-Specific Genes",
+      "section_start_line": 225,
+      "section_end_line": 319,
+      "model": "openai:gpt-4o-mini",
+      "question": "In which tissues or cell types is NRSF mRNA detected, and where is it absent, according to the section?",
+      "ground_truth_answer": "Expression of NRSF mRNA was detected in most nonneuronal tissues at several developmental stages; in the nervous system it was detected in undifferentiated neuronal progenitors but not in differentiated neurons.",
+      "ground_truth_chunks": [
+        "Expression of NRSF mRNA was detected in most nonneuronal tissues at several developmental stages.",
+        "In the nervous system, NRSF mRNA was detected in undifferentiated neuronal progenitors, but not in differentiated neurons."
+      ]
+    }
+  ],
+  "failures": []
+}

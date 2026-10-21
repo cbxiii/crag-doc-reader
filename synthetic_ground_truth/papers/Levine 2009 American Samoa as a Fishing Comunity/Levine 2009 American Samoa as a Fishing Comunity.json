@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity.md",
+  "source_sha256": "6b85678bb2d9afd8acd0552b727e3feb013c1fdc3424640af4ee255ecdfec4e1",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "17e459115db6857f6c98dfb5",
+      "paper_id": "Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity",
+      "source_path": "output/Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity.md",
+      "section_heading": "About this document",
+      "section_start_line": 15,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "For what types of content does the PIFSC use the NOAA Technical Memorandum NMFS series?",
+      "ground_truth_answer": "PIFSC uses the NOAA Technical Memorandum NMFS series to achieve timely dissemination of scientific and technical information that is of high quality but inappropriate for publication in the formal peer-reviewed literature, including technical workshop proceedings, large data compilations, status reports and reviews, lengthy scientific or statistical monographs, and more.",
+      "ground_truth_chunks": [
+        "NMFS= Pacific Islands Fisheries Science Center (PIFSC) uses the **NOAA Technical Memorandum NMFS** series to achieve timely dissemination of scientific and technical information that is of high quality but inappropriate for publication in the formal peerreviewed literature.",
+        "The contents are of broad scope, including technical workshop proceedings, large data compilations, status reports and reviews, lengthy scientific or statistical monographs, and more."
+      ]
+    },
+    {
+      "record_id": "2ed6ae5a23fcba7c56e49057",
+      "paper_id": "Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity",
+      "source_path": "output/Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity.md",
+      "section_heading": "TUTUILA",
+      "section_start_line": 143,
+      "section_end_line": 156,
+      "model": "openai:gpt-4o-mini",
+      "question": "On what date did the matai of Tutuila formally cede the islands of Tutuila and Aunu'u to the United States?",
+      "ground_truth_answer": "April 17, 1900.",
+      "ground_truth_chunks": [
+        "On April 17, 1900, the *matai* (chiefs) of Tutuila formally ceded the islands of Tutuila and Aunu'u to the United States."
+      ]
+    },
+    {
+      "record_id": "659fde20a3ad1823550b6455",
+      "paper_id": "Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity",
+      "source_path": "output/Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity.md",
+      "section_heading": "Economic and Employment Overview",
+      "section_start_line": 270,
+      "section_end_line": 318,
+      "model": "openai:gpt-4o-mini",
+      "question": "What share of American Samoa's economic base is accounted for by U.S. Federal Government grants and the two tuna canneries?",
+      "ground_truth_answer": "They account for more than 90% of American Samoa's economic base.",
+      "ground_truth_chunks": [
+        "American Samoa's economy is dependent on two, primary externally funded income sources: the American Samoan government (ASG), which receives significant operational and capital grants from the Federal Government (\\$117 million of \\$182 million total government revenue in FY 2005) (Statistical Yearbook, 2006), and the two tuna canneries on the main island of Tutuila.",
+        "The canneries and grants from the U.S. Federal Government account for more than 90% of American Samoa's economic base (Malcolm D. McPhee and Associates, 2008)."
+      ]
+    },
+    {
+      "record_id": "3d97fec68812eb80bd54c5bb",
+      "paper_id": "Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity",
+      "source_path": "output/Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity.md",
+      "section_heading": "Nearshore Fishing",
+      "section_start_line": 397,
+      "section_end_line": 429,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Kilarski et al. (2006), what percentage of survey respondents rated fish as 'Important' for maintaining a healthy ecosystem?",
+      "ground_truth_answer": "91%",
+      "ground_truth_chunks": [
+        "Kilarski et al. (2006) also found that American Samoans valued fish apart from their use as food; the majority of survey respondents indicated that fish were important not just for food and cultural use, but for maintenance of a healthy ecosystem (Table 4)11.",
+        "| Important               | 90           | 32     | 46      | 45         | 73              | 25              | 91                        |"
+      ]
+    },
+    {
+      "record_id": "eaf60130b4aba3a43bf42679",
+      "paper_id": "Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity",
+      "source_path": "output/Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity.md",
+      "section_heading": "Bottomfishing",
+      "section_start_line": 566,
+      "section_end_line": 605,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many bottomfishing vessels were in American Samoa’s fleet in 2006?",
+      "ground_truth_answer": "Approximately 22 part-time vessels.",
+      "ground_truth_chunks": [
+        "In 2006, the bottomfish fleet of American Samoa brought in only \\$15,426 in revenue and consisted of approximately 22 part-time vessels that typically jig overnight using skipjack tuna as bait (WPacFIN, 2006 data).",
+        "Landings increased in 2007, as did prices; currently, eight vessels are active in the fishery (Tomanogi, 2008)."
+      ]
+    },
+    {
+      "record_id": "0ac951beffd6770ad1bddb4c",
+      "paper_id": "Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity",
+      "source_path": "output/Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity.md",
+      "section_heading": "IV. TERRITORIAL MANAGEMENT OF FISHERIES",
+      "section_start_line": 682,
+      "section_end_line": 687,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Kilarski et al. (2006), how is the presence of an enforced village curfew associated with villagers' agreement with fishing regulations?",
+      "ground_truth_answer": "Respondents from villages with an enforced curfew were more likely to agree with each type of fishing regulation than those from villages with an unenforced curfew or no curfew; however, this association is confounded because villages with enforced curfews also had the lowest levels of fishing effort, and villages with higher fishing effort demonstrated lower agreement with fishing regulations, making it difficult to differentiate these variables.",
+      "ground_truth_chunks": [
+        "They used the presence of a village curfew (an enforced prayer time during which travel through the village is prohibited) as a proxy for strength of traditional social structure.",
+        "They found that respondents from villages with an enforced curfew were more likely to agree with each type of fishing regulation than those from villages with an unenforced curfew or no curfew.",
+        "However, a confounding variable is that study villages with enforced curfews also had the lowest levels of fishing effort. Villages with higher fishing effort demonstrated lower agreement with fishing regulations, so it is difficult to differentiate these variables."
+      ]
+    },
+    {
+      "record_id": "427761b44741f8f0645ad421",
+      "paper_id": "Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity",
+      "source_path": "output/Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity.md",
+      "section_heading": "Territorial No-take MPA Program",
+      "section_start_line": 777,
+      "section_end_line": 788,
+      "model": "openai:gpt-4o-mini",
+      "question": "Has the Territorial No-take MPA program formally designated any areas as no-take MPAs to date?",
+      "ground_truth_answer": "No. Although the program has been implemented, it has not formally designated any areas as no-take MPAs to date.",
+      "ground_truth_chunks": [
+        "DMWR began implementing a No-take MPA program in 2000, with additional support in 2005 (Marine-Life Reserves News, 2006).",
+        "Although the program has not formally designated any areas as no-take MPAs to date, it has conducted biological reconnaissance surveys to determine priority coral reef habitat."
+      ]
+    },
+    {
+      "record_id": "747f4f52e4237793c36c60cb",
+      "paper_id": "Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity",
+      "source_path": "output/Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity.md",
+      "section_heading": "Trends in Nearshore Fishing and Fish Consumption",
+      "section_start_line": 813,
+      "section_end_line": 822,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what health effects have accompanied the decline in subsistence fishing and increased consumption of processed and imported foods in American Samoa?",
+      "ground_truth_answer": "The section states these changes have contributed to a decline in health, including increased noncommunicable diseases such as diabetes, hypertension, stroke and heart disease, dietary deficiencies (particularly of vitamin A and iron), and notes that American Samoan diabetes rates are some of the highest in the world.",
+      "ground_truth_chunks": [
+        "Societal changes including a shift away from a subsistence economy, along with a shift of dietary preferences to canned and frozen fish, poultry and meat, have resulted in a significant reduction in subsistence fishing effort on American Samoa's reefs (Craig et al., 1993; Sabater, 2007).",
+        "Since the 1970s there has been increasing concern at the appearance of noncommunicable diseases such as diabetes, hypertension, stroke and heart disease in many countries in the Pacific … Dietary deficiencies, particularly of vitamin A and iron, are affecting mothers and infants.",
+        "Thus the decline in fishing and local resource harvesting, accompanied by increased consumption of processed food and a decrease in exercise, has contributed to a decline in the health of the American Samoan population. American Samoan diabetes rates are some of the highest in the world (as detailed earlier in this profile), and the situation seems unlikely to improve with the recent construction of additional fast food restaurants on Tutuila."
+      ]
+    },
+    {
+      "record_id": "c717947d7ea5aca1ec372d76",
+      "paper_id": "Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity",
+      "source_path": "output/Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity.md",
+      "section_heading": "Trends in Samoa and Connections to American Samoa",
+      "section_start_line": 863,
+      "section_end_line": 868,
+      "model": "openai:gpt-4o-mini",
+      "question": "What initiative began in December 2007 between the governments of American Samoa and Samoa?",
+      "ground_truth_answer": "In December 2007 the islands' two governments commenced meetings to share information and resources through the \"Two Samoas\" initiative.",
+      "ground_truth_chunks": [
+        "In December 2007, the islands' two governments commenced meetings to share information and resources through the \"Two Samoas\" initiative.",
+        "Community and government exchanges are planned regarding the CFMP and MPA programs in the two territories, and it is planned that MPAs, data collection, and other fisheries programs will be coordinated through shared efforts."
+      ]
+    },
+    {
+      "record_id": "42d3547b031106e876b4ce71",
+      "paper_id": "Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity",
+      "source_path": "output/Levine 2009 American Samoa as a Fishing Comunity/Levine 2009 American Samoa as a Fishing Comunity.md",
+      "section_heading": "Availability of NOAA Technical Memorandum NMFS",
+      "section_start_line": 1287,
+      "section_end_line": 1299,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where can copies of the NOAA Technical Memorandum NMFS series issued by the Pacific Islands Fisheries Science Center be obtained online?",
+      "ground_truth_answer": "Copies are available online at the PIFSC Web site http://www.pifsc.noaa.gov in PDF format.",
+      "ground_truth_chunks": [
+        "Copies of this and other documents in the NOAA Technical Memorandum NMFS series issued by the Pacific Islands Fisheries Science Center are available online at the PIFSC Web site http://www.pifsc.noaa.gov in PDF format."
+      ]
+    }
+  ],
+  "failures": []
+}

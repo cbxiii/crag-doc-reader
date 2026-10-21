@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Umezawa-2004-Pre.study.flora.Stegastes.AS/Umezawa-2004-Pre.study.flora.Stegastes.AS.md",
+  "source_sha256": "35febdc8178976d74492fc0b85fe94f27561750e1955dbfe2b417adf0f942a98",
+  "status": "complete",
+  "selected_section_count": 3,
+  "successful_record_count": 3,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "289883a77430f166f72f2aa3",
+      "paper_id": "Umezawa-2004-Pre.study.flora.Stegastes.AS/Umezawa-2004-Pre.study.flora.Stegastes.AS",
+      "source_path": "output/Umezawa-2004-Pre.study.flora.Stegastes.AS/Umezawa-2004-Pre.study.flora.Stegastes.AS.md",
+      "section_heading": "Background and Objective of Research",
+      "section_start_line": 11,
+      "section_end_line": 20,
+      "model": "openai:gpt-4o-mini",
+      "question": "What algal species forms a virtual monoculture in Stegastes nigricans farms in Okinawa?",
+      "ground_truth_answer": "The filamentous rhodophyte Polysiphonia sp.",
+      "ground_truth_chunks": [
+        "The damselfish *Stegastes nigricans* is one of the most dominant territorial fish that manages a conspicuous algal farm.",
+        "In Okinawa, this fish manages a virtual monoculture of a filamentous rhodophyte *Polysiphonia* sp., but the algal composition of the farms in most other coral reefs is still unknown."
+      ]
+    },
+    {
+      "record_id": "9b6b3fbdb6ab509c070ea089",
+      "paper_id": "Umezawa-2004-Pre.study.flora.Stegastes.AS/Umezawa-2004-Pre.study.flora.Stegastes.AS",
+      "source_path": "output/Umezawa-2004-Pre.study.flora.Stegastes.AS/Umezawa-2004-Pre.study.flora.Stegastes.AS.md",
+      "section_heading": "Summary of Findings",
+      "section_start_line": 35,
+      "section_end_line": 57,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which algal species strongly dominated algal farms of Stegastes nigricans around the Ryukyu Islands?",
+      "ground_truth_answer": "The rhodophyte *Polysiphonia* sp.",
+      "ground_truth_chunks": [
+        "Around the Ryukyu Islands, algal farms of the fish are strongly dominated by one rhodophyte *Polysiphonia*  sp.",
+        "On the contrary, around Tutulia Island algal farms were not dominated by that alga."
+      ]
+    },
+    {
+      "record_id": "2325020292ad6101e6f6c10a",
+      "paper_id": "Umezawa-2004-Pre.study.flora.Stegastes.AS/Umezawa-2004-Pre.study.flora.Stegastes.AS",
+      "source_path": "output/Umezawa-2004-Pre.study.flora.Stegastes.AS/Umezawa-2004-Pre.study.flora.Stegastes.AS.md",
+      "section_heading": "Published",
+      "section_start_line": 76,
+      "section_end_line": 84,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which publications in this list report on nitrogen in coral reefs?",
+      "ground_truth_answer": "Two papers by Umezawa et al. (2002): \"Fine scale mapping of land-derived nitrogen in coral reefs, by δ15N values in macroalgae.\" Limnol Oceanogr 47: 1405-1416; and \"Significance of groundwater nitrogen discharge into coral reefs at Ishigaki Island, southwest of Japan.\" Coral Reefs 21: 346-356.",
+      "ground_truth_chunks": [
+        "- Umezawa et al. (2002) Fine scale mapping of land-derived nitrogen in coral reefs, by δ15N values in macroalgae. *Limnol Oceanogr* 47: 1405-1416",
+        "- Umezawa et al. (2002) Significance of groundwater nitrogen discharge into coral reefs at Ishigaki Island, southwest of Japan. *Coral Reefs* 21: 346-356"
+      ]
+    }
+  ],
+  "failures": []
+}

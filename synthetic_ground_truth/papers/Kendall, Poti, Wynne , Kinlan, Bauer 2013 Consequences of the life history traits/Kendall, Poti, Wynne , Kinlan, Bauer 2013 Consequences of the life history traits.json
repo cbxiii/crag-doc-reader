@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits.md",
+  "source_sha256": "fffa3819da6efeebfc7163803c3dbd047a71294bebe68f40685d9934b8825b52",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "b3f67a2de11948a4429e4fc6",
+      "paper_id": "Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits",
+      "source_path": "output/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits.md",
+      "section_heading": "Consequences of the life history traits of pelagic larvae on interisland connectivity during a changing climate",
+      "section_start_line": 9,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which life history trait had the largest effect size on connectivity in the study?",
+      "ground_truth_answer": "Mortality rate had the largest effect size on connectivity, followed by larval duration.",
+      "ground_truth_chunks": [
+        "Planktonic duration, distances traveled, and recruitment success can vary due to natural development rate, mortality rate, and sensory and swimming capabilities of particular taxa.",
+        "Larval duration, mortality rate, and sensory zone variables all had a significant effect on connectivity. Effect size was largest for mortality rate followed by larval duration."
+      ]
+    },
+    {
+      "record_id": "09d000546202924649e52eab",
+      "paper_id": "Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits",
+      "source_path": "output/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits.md",
+      "section_heading": "METHODS",
+      "section_start_line": 55,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what depth were drogues deployed in the NOAA Global Drifter Program and how frequently were drifter positions calculated?",
+      "ground_truth_answer": "Drogues were deployed at 15 m depth, and drifter position, speed, and heading were calculated every 6 h.",
+      "ground_truth_chunks": [
+        "The NOAA Global Drifter Program (www.aoml.noaa.gov/phod/dac/gdp.html) uses satellites to track drogues deployed at 15 m depth.",
+        "Drifter position, speed, and heading are calculated every 6 h."
+      ]
+    },
+    {
+      "record_id": "57d47a5f8f35a34f62486cfa",
+      "paper_id": "Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits",
+      "source_path": "output/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits.md",
+      "section_heading": "Larval sources",
+      "section_start_line": 63,
+      "section_end_line": 68,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many larvae were initially distributed within each coastal grid cell in HYCOM?",
+      "ground_truth_answer": "Initially, a set of 10 000 larvae were randomly distributed within each coastal grid cell in HYCOM.",
+      "ground_truth_chunks": [
+        "Initially, a set of 10 000 larvae were randomly distributed within each coastal grid cell in HYCOM.",
+        "This number of larvae was then adjusted based on the proportion of the grid cell with water depths between 0 and 150 m."
+      ]
+    },
+    {
+      "record_id": "9dab6583e090828157060edf",
+      "paper_id": "Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits",
+      "source_path": "output/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits.md",
+      "section_heading": "Larval transport and current model uncertainty",
+      "section_start_line": 73,
+      "section_end_line": 78,
+      "model": "openai:gpt-4o-mini",
+      "question": "What level of random perturbation in HYCOM current vectors was used in all subsequent model runs to simulate variability in larval paths?",
+      "ground_truth_answer": "All subsequent model runs used 50% uncertainty in downcurrent and across-current vectors.",
+      "ground_truth_chunks": [
+        "We ran test models using random perturbations in current vectors ranging from 10 to 50% of down-current and cross-current velocity.",
+        "Using 50% uncertainty nearly always en compassed drifter tracks and provided reasonable clouds of larval pathways which highlighted more likely tracks while also depicting less likely, but still possible, pathways. All subsequent model runs were conducted using 50% uncertainty in downcurrent and across-current vectors to reflect this realistic level of variability."
+      ]
+    },
+    {
+      "record_id": "7bc8c2d6919b5a168f34e6fd",
+      "paper_id": "Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits",
+      "source_path": "output/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits.md",
+      "section_heading": "Pelagic larval duration",
+      "section_start_line": 83,
+      "section_end_line": 88,
+      "model": "openai:gpt-4o-mini",
+      "question": "What PLD durations did the authors evaluate in their study?",
+      "ground_truth_answer": "They evaluated pelagic larval durations (PLDs) of 10, 20, 30, 50, and 100 days.",
+      "ground_truth_chunks": [
+        "Although some PLDs >200 d are documented (e.g. some corals, Graham et al. 2008), these are relatively rare, and preliminary tests revealed that many tracked particles left our study area after >100 d.",
+        "We therefore evaluated PLDs of 10, 20, 30, 50, and 100 d, which encompasses the range of PLDs expected for a wide variety of the fishes and corals of the region (e.g. summary tables in Bonhomme & Planes 2000, Blanco-Martin 2006, Graham et al. 2008, Jones et al. 2009)."
+      ]
+    },
+    {
+      "record_id": "37b537f7dd5ef9aef15210c7",
+      "paper_id": "Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits",
+      "source_path": "output/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits.md",
+      "section_heading": "'Settlement zone' buffers",
+      "section_start_line": 89,
+      "section_end_line": 92,
+      "model": "openai:gpt-4o-mini",
+      "question": "What settlement zone buffer distances were tested in the simulations, and what biological capabilities does each distance represent?",
+      "ground_truth_answer": "The simulations tested 9 km (resolution of HYCOM grid cells; most representative of coral planulae or poorly-swimming fish larvae), 18 km (representative of swimming larvae with moderate range), and 36 km (representative of strong-swimming fish larvae with good sensory capabilities). In the simulations, a larva entering an island's settlement zone after its pre-competency period was considered to have successfully settled at that island.",
+      "ground_truth_chunks": [
+        "In our simulations, if a larva passed into an island's settlement zone after its pre competency period, it was considered to have successfully settled at that island.",
+        "We investigated a range of potential settlement zone distances around islands and seamounts including 9 km (resolution of HYCOM grid cells, most representative of coral planulae or poorly-swimming fish larvae), 18 km (representative of swimming larvae with moderate range), and 36 km (representative of strong-swimming fish larvae with good sensory capabilities) to accommodate a wide spectrum of organisms and potential sensory and swimming capabilities."
+      ]
+    },
+    {
+      "record_id": "e8dc562b27468b79dc0d10b6",
+      "paper_id": "Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits",
+      "source_path": "output/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits.md",
+      "section_heading": "Data analysis",
+      "section_start_line": 97,
+      "section_end_line": 106,
+      "model": "openai:gpt-4o-mini",
+      "question": "What statistical method was used to evaluate the significance and magnitude of effects due to PLD, mortality, and buffer size?",
+      "ground_truth_answer": "Multi-factor ANOVA was used; data were pooled across years and all 2-way interactions were included.",
+      "ground_truth_chunks": [
+        "Multi-factor ANOVA was used to evaluate the significance and magnitude of effects due to PLD, mortality, and buffer size.",
+        "Data were pooled across years, and all 2-way interactions were included."
+      ]
+    },
+    {
+      "record_id": "5a91b0ccc96cce72c3846e15",
+      "paper_id": "Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits",
+      "source_path": "output/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits.md",
+      "section_heading": "Larval sources",
+      "section_start_line": 113,
+      "section_end_line": 116,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which island is likely to be the largest source of larvae in the study region and what approximate percentage does it contribute?",
+      "ground_truth_answer": "Upolu, contributing approximately 25% of the total larvae.",
+      "ground_truth_chunks": [
+        "Based on potential reef area alone, the major sources of larvae in the study region are likely to be Upolu (~25% of the total larvae), Savai'i (~15%), and the Wallis Island group (~15%; Table 1)."
+      ]
+    },
+    {
+      "record_id": "7bd041c3e59c9a0d680eff0a",
+      "paper_id": "Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits",
+      "source_path": "output/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits.md",
+      "section_heading": "Self-reliant or externally dependent?",
+      "section_start_line": 174,
+      "section_end_line": 181,
+      "model": "openai:gpt-4o-mini",
+      "question": "What effect does shortening pelagic larval duration (PLD) have on a reef island's reliance on local (self) recruitment according to the section?",
+      "ground_truth_answer": "Shortening PLD increases reliance on local self-recruitment for most islands. Regressions of PLD versus percent self-seeding were negative and often highly linear (p < 0.05, R^2 > 0.9), and on average self-seeding increased by about 1% for every ~2.3 days of PLD shortened. Exceptions included Swains and the seamounts (no significant relationship) and N. Upolu and N. Savai'i (steady proportions at intermediate PLDs).",
+      "ground_truth_chunks": [
+        "Shortened PLD due to climate change meant greater reliance on local production for most islands.",
+        "For most islands, there was a significant (p < 0.05) negative relationship between PLD and reliance on self-recruitment (Fig. 5). Longer PLD generally resulted in greater reliance on outside sources of larvae.",
+        "Average slope among these significant regressions indicated a 1% increase in the proportion of self-seeded larvae for every ~2.3 d that a PLD was shortened."
+      ]
+    },
+    {
+      "record_id": "345f2cfc97733db9c0dde1a0",
+      "paper_id": "Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits",
+      "source_path": "output/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits/Kendall, Poti, Wynne , Kinlan, Bauer 2013 Consequences of the life history traits.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 190,
+      "section_end_line": 215,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the DISCUSSION, what three general effects do longer pelagic larval durations (PLDs) have on connectivity in the Samoan Archipelago?",
+      "ground_truth_answer": "Longer PLDs (1) reduce the proportion of self-seeding because larvae are not competent to settle until they have been transported farther from sources, (2) increase connectivity with islands farther downstream (noticeable after PLDs of ~10 days), and (3) allow larvae with very long PLDs (50–100 d) to be transported nearly anywhere in the study area, in very low abundance, provided mortality rates are low.",
+      "ground_truth_chunks": [
+        "Longer PLDs had 3 general effects. First, the proportion of self-seeding (fraction of larvae produced at a source location that settled at the same location) was reduced overall because larvae were not competent to settle until they had been transported farther from sources. Second, connectivity with islands farther downstream increased noticeably after PLDs of 10 d. This was especially noticeable in seeding of Wallis, Niuafo'ou, Tafahi, and the nearby seamounts with larvae from American Samoa. Third, larvae with PLDs of 50 or 100 d could be transported nearly any place in the study area, although in very low abundance, provided that the mortality rate was low.",
+        "The fate of long-lived larvae is highly dependent on mortality rates. For low to moderate mortality rates at PLDs up to 30 d, the islands involved in predicted larval exchange changed little, but mortality and PLD did affect the strength of the connection (cell color changed but pattern of empty cells in the connectivity matrix did not). In contrast, the higher mortality rates investigated here affected both the strength of the connections (cell color) as well as the spatial pattern of island connections (many more blank cells denoting severed connections), especially at longer PLDs."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio.md",
+  "source_sha256": "a316b4e35e898be6c8253d7164908a317c349b8668b6abffe1124933d4014797",
+  "status": "complete",
+  "selected_section_count": 6,
+  "successful_record_count": 6,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "c9e75e556e0efa94eb0886ca",
+      "paper_id": "Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio",
+      "source_path": "output/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio.md",
+      "section_heading": "ABSTRACT",
+      "section_start_line": 11,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "What population density thresholds define the 'pristine', 'intermediate', and 'extensive' watershed classes?",
+      "ground_truth_answer": "Pristine: ≤ 100 mi -2; Intermediate: 100 < density ≤ 750 mi -2; Extensive: > 750 mi -2.",
+      "ground_truth_chunks": [
+        "US Census data from 2010 were used to calculate population density in Territorial watersheds, and density was used as a surrogate for human disturbance within each watershed.",
+        "From population data, three watershed classes were defined according to population density: pristine ≤ 100 mi -2 ; 100 < intermediate ≤ 750 mi -2 ; extensive >750 mi -2 ."
+      ]
+    },
+    {
+      "record_id": "5cf371ab568819481b430db4",
+      "paper_id": "Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio",
+      "source_path": "output/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 15,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the population and average population density of Tutuila as stated in the INTRODUCTION?",
+      "ground_truth_answer": "Tutuila has a population of 55,502 and an average population density of 1045 individuals mi -2.",
+      "ground_truth_chunks": [
+        "With 55,502 people, Tutuila is the most densely populated island (average density=1045 individuals mi -2 )."
+      ]
+    },
+    {
+      "record_id": "a450a32a052e8555a3f7e270",
+      "paper_id": "Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio",
+      "source_path": "output/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio.md",
+      "section_heading": "METHODS",
+      "section_start_line": 27,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were watershed populations calculated?",
+      "ground_truth_answer": "Watershed populations were calculated by summing village population totals within each watershed using US Census 2010 data.",
+      "ground_truth_chunks": [
+        "Instead, US Census data from 2010 were used to approximate the level of human disturbance within local watersheds. Data were downloaded from the Census 2010 website (https://www.census.gov/2010census/).",
+        "Watershed populations were calculated by summing village population totals within each watershed (following Pedersen 2000)."
+      ]
+    },
+    {
+      "record_id": "8d23253f35e9ebd726316c77",
+      "paper_id": "Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio",
+      "source_path": "output/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio.md",
+      "section_heading": "RESULTS",
+      "section_start_line": 33,
+      "section_end_line": 36,
+      "model": "openai:gpt-4o-mini",
+      "question": "What population density threshold defines 'pristine' watersheds in the RESULTS section?",
+      "ground_truth_answer": "Watersheds with population densities less than 100 individuals mi -2 were classified as pristine.",
+      "ground_truth_chunks": [
+        "The first 29% of the watersheds (12 out of 41) have population densities less than 100 individuals mi -2 .",
+        "The break in the distribution of the first group was set at 100 individuals mi -2 . Watersheds below that density point were classified as **pristine**."
+      ]
+    },
+    {
+      "record_id": "94a6c4f8bb506dbc72b69f74",
+      "paper_id": "Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio",
+      "source_path": "output/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 37,
+      "section_end_line": 56,
+      "model": "openai:gpt-4o-mini",
+      "question": "What population density value marks the upper boundary of watersheds considered pristine?",
+      "ground_truth_answer": "100 individuals mi -2",
+      "ground_truth_chunks": [
+        "The first break, set at 100 individuals mi -2 , marks the upper boundary of watersheds considered pristine.",
+        "Six of these watersheds (Fagatuitui, Aoloau Sisifo, Aunuu Sasae, Ofu Matu, Olosega Sasae, and Tau Saute) are uninhabited, while two have low resident populations (8 in Maloata and 47 in Fagamalo)."
+      ]
+    },
+    {
+      "record_id": "c49e60cce4c2ea96c0f25cd9",
+      "paper_id": "Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio",
+      "source_path": "output/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio/Tuitele et al. - 2016 - Prepared by American Samoa Environmental Protectio.md",
+      "section_heading": "American Samoa Watershed Classification January 2016",
+      "section_start_line": 71,
+      "section_end_line": 123,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which watershed listed in the table has the largest population according to the 2010 Census?",
+      "ground_truth_answer": "Tafuna Plain, with a population of 18,170.",
+      "ground_truth_chunks": [
+        "| Tutuila | Tafuna Plain    | 28      | 5.50            | 18170       | 3304         | Extensive       |"
+      ]
+    }
+  ],
+  "failures": []
+}

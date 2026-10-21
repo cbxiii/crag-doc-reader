@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Smith-2006-Influence.water.corals.AS-Copy/Smith-2006-Influence.water.corals.AS-Copy.md",
+  "source_sha256": "cee0294c262a565259012508cffd5aba8a77f0c713b23dd32b8c750b90a1b843",
+  "status": "complete",
+  "selected_section_count": 5,
+  "successful_record_count": 5,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "e04c19f77a0609df130cde7f",
+      "paper_id": "Smith-2006-Influence.water.corals.AS-Copy/Smith-2006-Influence.water.corals.AS-Copy",
+      "source_path": "output/Smith-2006-Influence.water.corals.AS-Copy/Smith-2006-Influence.water.corals.AS-Copy.md",
+      "section_heading": "Lance W. SMITH",
+      "section_start_line": 3,
+      "section_end_line": 10,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which pool experienced the highest daily maximum seawater temperatures, greatest duration of high temperatures, and greatest daily fluctuations, and how did transplant survival and growth there compare to the other pools?",
+      "ground_truth_answer": "Test Pool 1; survival and growth of the transplants were greater in Test Pool 1 than in the other two pools.",
+      "ground_truth_chunks": [
+        "Test Pool 1 had the highest daily maximum seawater temperatures, the greatest duration of high temperatures, and the greatest daily fluctuations of temperatures of the three pools.",
+        "However, survival and growth of the transplants were greater in Test Pool 1 than in the other two pools."
+      ]
+    },
+    {
+      "record_id": "8d95a29052c0ebb7339ddaf8",
+      "paper_id": "Smith-2006-Influence.water.corals.AS-Copy/Smith-2006-Influence.water.corals.AS-Copy",
+      "source_path": "output/Smith-2006-Influence.water.corals.AS-Copy/Smith-2006-Influence.water.corals.AS-Copy.md",
+      "section_heading": "Introduction",
+      "section_start_line": 11,
+      "section_end_line": 16,
+      "model": "openai:gpt-4o-mini",
+      "question": "What hypothesis was this experiment designed to field-test?",
+      "ground_truth_answer": "That water motion reduces the detrimental effects of high seawater temperatures on corals.",
+      "ground_truth_chunks": [
+        "This experiment was designed to field-test the hypothesis that water motion reduces the detrimental effects of high seawater temperatures on corals.",
+        "The relative isolation of the moat from oceanic, terrigenous, and human influences compared to most coral communities reduces confounding factors, and the frequent occurrence of high seawater temperatures provides a field site for investigating factors affecting the resistance of corals to high temperatures."
+      ]
+    },
+    {
+      "record_id": "50cdbd82b15230644bbfb152",
+      "paper_id": "Smith-2006-Influence.water.corals.AS-Copy/Smith-2006-Influence.water.corals.AS-Copy",
+      "source_path": "output/Smith-2006-Influence.water.corals.AS-Copy/Smith-2006-Influence.water.corals.AS-Copy.md",
+      "section_heading": "Methods",
+      "section_start_line": 17,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral transplants were used per species and in total in the transplant experiment?",
+      "ground_truth_answer": "60 transplants per species (40 experimental and 20 control), 120 transplants overall.",
+      "ground_truth_chunks": [
+        "Nubbins of *Porites cylindrica* and *Pocillopora damicornis* were transplanted from the Source Pool into the two Test Pools (experimental transplants) or back into the Source Pool (control transplants; Figure 1) for a duration of one year starting in early July 2002.",
+        "For each species, 40 experimental (20 in each test pool) and 20 control transplants were used, for a total of 60 transplants per species and 120 transplants overall."
+      ]
+    },
+    {
+      "record_id": "b859f0d0bde38fcbb1002aef",
+      "paper_id": "Smith-2006-Influence.water.corals.AS-Copy/Smith-2006-Influence.water.corals.AS-Copy",
+      "source_path": "output/Smith-2006-Influence.water.corals.AS-Copy/Smith-2006-Influence.water.corals.AS-Copy.md",
+      "section_heading": "Results",
+      "section_start_line": 33,
+      "section_end_line": 102,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the survival percentages of Porites cylindrica and Pocillopora damicornis in Test Pool 2?",
+      "ground_truth_answer": "Porites cylindrica survival was 95% in Test Pool 2. Pocillopora damicornis survival was zero in Test Pool 2.",
+      "ground_truth_chunks": [
+        "*Porites cylindrica* survival was 85 % in the Source Pool (controls), 85 % in Test Pool 1, and 95 % in Test Pool 2 (Figure 4, top).",
+        "In contrast, *Pocillopora damicornis* survival was 15 percent in the Source Pool, 25 percent in Test Pool 1, and zero in Test Pool 2 (Figure 4, top)."
+      ]
+    },
+    {
+      "record_id": "7ea83659bc985fb149fc5f1a",
+      "paper_id": "Smith-2006-Influence.water.corals.AS-Copy/Smith-2006-Influence.water.corals.AS-Copy",
+      "source_path": "output/Smith-2006-Influence.water.corals.AS-Copy/Smith-2006-Influence.water.corals.AS-Copy.md",
+      "section_heading": "Discussion",
+      "section_start_line": 103,
+      "section_end_line": 112,
+      "model": "openai:gpt-4o-mini",
+      "question": "For how long did temperatures in Test Pool 1 remain more than 3 °C above maximum seasonal mean (MSM)?",
+      "ground_truth_answer": "They never remained more than 3 °C above MSM for longer than 5.5 hours.",
+      "ground_truth_chunks": [
+        "Coral bleaching thresholds are generally defined as temperatures 1-2 °C above MSM continuously for 2-4 weeks (Aronson et al. 2002, Jokiel 2004).",
+        "Summer temperatures in Test Pool 1 were often >3 °C above MSM, but never for longer than 5.5 hours (Figure 2), falling far short of bleaching thresholds."
+      ]
+    }
+  ],
+  "failures": []
+}

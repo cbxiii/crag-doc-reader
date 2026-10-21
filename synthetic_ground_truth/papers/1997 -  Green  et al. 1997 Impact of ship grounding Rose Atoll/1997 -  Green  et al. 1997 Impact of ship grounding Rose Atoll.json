@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll.md",
+  "source_sha256": "99641d13be287c3ecf3679dc91bcda6d2765f7da05dca4cf0ab469b3d3082855",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "3d994fd37cca66daeb453fb5",
+      "paper_id": "1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll",
+      "source_path": "output/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll.md",
+      "section_heading": "The Impact of a Ship Grounding and Associated Fuel Spill at Rose Atoll National Wildlife Refuge, American Samoa",
+      "section_start_line": 1,
+      "section_end_line": 37,
+      "model": "openai:gpt-4o-mini",
+      "question": "When did the longline fishing vessel Jin Shiang Fa run hard aground at Rose Atoll as shown on the cover photo?",
+      "ground_truth_answer": "November 1993.",
+      "ground_truth_chunks": [
+        "| Cover photo: The longline fishing vessel Jin Shiang Fa hard aground on the southwest arm of the Rose Atoll in November 1993. |"
+      ]
+    },
+    {
+      "record_id": "7e5c236d5346de749dc1e5e8",
+      "paper_id": "1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll",
+      "source_path": "output/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll.md",
+      "section_heading": "2. STUDY AREA",
+      "section_start_line": 117,
+      "section_end_line": 170,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two crustose coralline algae species dominate the reefs at Rose Atoll?",
+      "ground_truth_answer": "Hydrolithon onkodes and Hydrolithon craspedium.",
+      "ground_truth_chunks": [
+        "The coral reef ecosystems at Rose are unique in Samoa, since they are dominated by crustose coralline algae<sup>4</sup> rather than hermatypic corals (Figs. 3 & 5, Mayor 1921, Green 1996).",
+        "<sup>&</sup>lt;sup>4</sup>Crustose coralline algae at Rose are dominated by two species, *Hydrolithon onkodes* and *Hydrolithon craspedium*. Two other species, *Hydrolithon gardineri* and *Lithophyllum kotschyanum*, are also present but much less abundant."
+      ]
+    },
+    {
+      "record_id": "954da12f5d8dc28b1f877fc7",
+      "paper_id": "1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll",
+      "source_path": "output/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll.md",
+      "section_heading": "Acute Chemical Releases",
+      "section_start_line": 229,
+      "section_end_line": 254,
+      "model": "openai:gpt-4o-mini",
+      "question": "For approximately how long did the contaminant discharge appear to be continuous after the grounding?",
+      "ground_truth_answer": "Approximately six weeks.",
+      "ground_truth_chunks": [
+        "The rate at which the contaminants were released into the marine environment could not be accurately determined, although the discharge appeared to be continuous for approximately six weeks after the grounding (USFWS 1996b).",
+        "Based on observations during overflights and site visits, it appears that the bulk of the oil was discharged within the first few days after the ship ran aground, with smaller amounts continuing to be discharged until after the break up of the vessel and the salvage operation six weeks later (Barclay 1993, USFWS 1996b)."
+      ]
+    },
+    {
+      "record_id": "ed4c811e067be2146a3666d2",
+      "paper_id": "1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll",
+      "source_path": "output/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll.md",
+      "section_heading": "Generation of Berms",
+      "section_start_line": 299,
+      "section_end_line": 306,
+      "model": "openai:gpt-4o-mini",
+      "question": "Two weeks after the grounding, what were the length and width measurements of the largest berm on the outer reef slope, and at which depths were the width measurements taken?",
+      "ground_truth_answer": "Two weeks after the grounding the berm was 78 m long and ranged in width from 21 to 42 m, with those widths measured at depths of 14 m and 9 m respectively.",
+      "ground_truth_chunks": [
+        "The largest of the berms spread down the slope from just below the surf zone to a depth of 46 m (Molina 1995).",
+        "Two weeks after the grounding, this berm was 78 m long, and ranged in width from 21 to 42 m at depths of 14 m and 9 m respectively (Molina 1995)."
+      ]
+    },
+    {
+      "record_id": "f77024434ab51ba8a9955ddd",
+      "paper_id": "1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll",
+      "source_path": "output/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll.md",
+      "section_heading": "Reef Flat",
+      "section_start_line": 329,
+      "section_end_line": 372,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which opportunistic algae became dominant on the southwest arm of Rose Atoll after the ship grounding?",
+      "ground_truth_answer": "A mixed community of cyanobacteria species and the turf-forming coralline alga Jania adherens.",
+      "ground_truth_chunks": [
+        "By 1995, it was apparent that the previously dominant crustose coralline algae were no longer abundant on this arm (0-35% cover: Fig. 21), and that they had been replaced by opportunistic species.",
+        "At that time, the dominant algae on the southwest arm were a mixed community of cyanobacteria species and a finely branched, turf-forming coralline alga, *Jania adherens*, which together accounted for up to 90% of the cover (Fig. 21).",
+        "As a result of this change in the algal communities the reef flat on the southwest arm had changed from pink, the color of healthy crustose coralline algae, to black, the color of the mixed cyanobacteria community (Figs. 19 & 22)."
+      ]
+    },
+    {
+      "record_id": "dde0d1296599578453f2539a",
+      "paper_id": "1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll",
+      "source_path": "output/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll.md",
+      "section_heading": "Echinometra spp.",
+      "section_start_line": 420,
+      "section_end_line": 429,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the mean densities of boring sea urchins on the southwest arm and on the other three arms of the atoll?",
+      "ground_truth_answer": "The mean density was 2.24 per m² on the southwest arm and 3.12 to 5.76 per m² on the other three arms.",
+      "ground_truth_chunks": [
+        "The surveys have also shown that the mean density of boring urchins on the outer reef flat is lower on the southwest arm (2.24 per m²) than on the other three arms (3.12 to 5.76 per m²: M. Molina unpubl. data) of the atoll.",
+        "These results demonstrate that the urchins were severely affected by the ship grounding and associated fuel spill and have not yet recovered from this event."
+      ]
+    },
+    {
+      "record_id": "92707a7f2a8012573858959e",
+      "paper_id": "1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll",
+      "source_path": "output/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll.md",
+      "section_heading": "Initial Effects",
+      "section_start_line": 452,
+      "section_end_line": 471,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many giant clams were recorded in the survey of the lagoon terrace on the southwest arm, and how many of these had died recently?",
+      "ground_truth_answer": "A total of 230 clams were recorded on the lagoon terrace of the southwest arm, of which 162 (70%) had died recently.",
+      "ground_truth_chunks": [
+        "A total of 230 clams were recorded in the survey of the lagoon terrace on the southwest arm, most of which had died recently (162, or 70%), presumably as a result of the spill (Molina 1994)."
+      ]
+    },
+    {
+      "record_id": "c90be739fd69e6b52353ad28",
+      "paper_id": "1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll",
+      "source_path": "output/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll.md",
+      "section_heading": "4.2.6 Seabirds",
+      "section_start_line": 526,
+      "section_end_line": 537,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did the brief survey of Rose Island shortly after the spill detect any sick or dying seabirds?",
+      "ground_truth_answer": "No. A brief survey shortly after the spill did not detect any sick or dying birds, although the survey was very limited due to logistic constraints, and it is unclear whether a more detailed study may have identified an effect.",
+      "ground_truth_chunks": [
+        "A brief survey of the island shortly after the spill did not detect any sick or dying birds, although the survey was very limited due to",
+        "logistic constraints (B. Flint pers. comm.). At this point, it is unclear whether a more detailed study may have identified an effect of the spill on the seabird population on the atoll."
+      ]
+    },
+    {
+      "record_id": "bf3bc511180fd0f1ac11485b",
+      "paper_id": "1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll",
+      "source_path": "output/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll.md",
+      "section_heading": "6. DISCUSSION",
+      "section_start_line": 560,
+      "section_end_line": 587,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which contaminant does the discussion hypothesize may be maintaining the persistent bloom of opportunistic algae at the Rose Atoll wreck site?",
+      "ground_truth_answer": "Dissolved iron; the authors hypothesize the bloom is being maintained by high levels of dissolved iron coming off the wreckage, because iron is a limiting nutrient for algae in oceanic environments.",
+      "ground_truth_chunks": [
+        "However, the bloom persists in the area that continues to receive high levels of dissolved iron coming off the wreckage on the reef slope (Fig. 33).",
+        "Because iron has been shown to be the limiting nutrient for algae in oceanic environments (Martin & Fitzwater 1988), it is possible that the algal bloom is being maintained by the presence of this contaminant, and that the crustose coralline algae are unable to recolonize the area because they cannot compete with the opportunistic species."
+      ]
+    },
+    {
+      "record_id": "f40377a3a12214f0d9acbb90",
+      "paper_id": "1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll",
+      "source_path": "output/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll.md",
+      "section_heading": "APPENDIX A: Chronology of Major Events Related to the Grounding of the Jin Shiang Fa at Rose Atoll National Wildlife Refuge, American Samoa (modified from Molina 1996).",
+      "section_start_line": 666,
+      "section_end_line": 720,
+      "model": "openai:gpt-4o-mini",
+      "question": "How much diesel fuel was the Jin Shiang Fa carrying when it ran aground on Oct 14, 1993?",
+      "ground_truth_answer": "Approximately 100,000 gallons of diesel fuel.",
+      "ground_truth_chunks": [
+        "The vessel was carrying approximately 100,000 gallons of diesel fuel, 500 gallons of lube oil, and 2,500 pounds of refrigeration system ammonia."
+      ]
+    }
+  ],
+  "failures": []
+}

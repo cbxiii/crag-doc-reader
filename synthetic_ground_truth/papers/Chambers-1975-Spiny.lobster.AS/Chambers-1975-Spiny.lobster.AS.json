@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Chambers-1975-Spiny.lobster.AS/Chambers-1975-Spiny.lobster.AS.md",
+  "source_sha256": "25e55cec114648f32f9070c5686116e8e58aa66d1067ef406331087a25b83d0a",
+  "status": "complete",
+  "selected_section_count": 5,
+  "successful_record_count": 5,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "3985d6fb1e5c7d89c285add1",
+      "paper_id": "Chambers-1975-Spiny.lobster.AS/Chambers-1975-Spiny.lobster.AS",
+      "source_path": "output/Chambers-1975-Spiny.lobster.AS/Chambers-1975-Spiny.lobster.AS.md",
+      "section_heading": "Introduction '",
+      "section_start_line": 64,
+      "section_end_line": 124,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Introduction, what latitude and longitude range define the location of the Samoan Islands?",
+      "ground_truth_answer": "They are located at latitude 13° 26' south to 14° 22' south and from longitudes 168° 10' west to 17° 48' west.",
+      "ground_truth_chunks": [
+        "The Samoan Islands are located at latitude 13° 26' south to 14° 22' south and from longitudes 168° 10' west to 17° 48' west (Figure 1)."
+      ]
+    },
+    {
+      "record_id": "9137e4d9b5cb5e250fbeb1ff",
+      "paper_id": "Chambers-1975-Spiny.lobster.AS/Chambers-1975-Spiny.lobster.AS",
+      "source_path": "output/Chambers-1975-Spiny.lobster.AS/Chambers-1975-Spiny.lobster.AS.md",
+      "section_heading": "Methods and Materials",
+      "section_start_line": 125,
+      "section_end_line": 144,
+      "model": "openai:gpt-4o-mini",
+      "question": "What capture methods were employed to collect lobsters in this study?",
+      "ground_truth_answer": "Day and night SCUEA diving, night snorkel diving, tangle nets, and traps (with traps baited using fish heads).",
+      "ground_truth_chunks": [
+        "Several methods of lobster capture were employed, including day and night SCUEA diving, night snorkel diving, tangle nets and traps.",
+        "The net was a 4-6 inch (10-15 cm.) bottom tangle net with a typical bottom lead line and top float line. Two types of traps were also used, the first was constructed of a 3 by 4 feet (90 by 122 cm.) square steel frame surrounded by a 1 inch (2.5 cm.) whre mesh, the other was built of plastic and was evoid in shape, approximately 4 feet long by 3 feet wide and 1 1/2 feet deep (122 cm. long, 90 cm. wide, and 45 cm. deep). In all trap work, fish heads served as pait."
+      ]
+    },
+    {
+      "record_id": "1a2085e63848a529e6b9cc98",
+      "paper_id": "Chambers-1975-Spiny.lobster.AS/Chambers-1975-Spiny.lobster.AS",
+      "source_path": "output/Chambers-1975-Spiny.lobster.AS/Chambers-1975-Spiny.lobster.AS.md",
+      "section_heading": "Yable 1 . Sample Data Sheet",
+      "section_start_line": 149,
+      "section_end_line": 286,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the average carapace length and width reported for male and female Panulirus penicillatus in the section?",
+      "ground_truth_answer": "Males: average carapace length 9.1 cm and width 6.6 cm; Females: average carapace length 7.6 cm and width 5.6 cm.",
+      "ground_truth_chunks": [
+        "In an effort to more clearly define the biometric parameters of Panulitus penicillatus, a total of 440 specimens were taken during the 16 dives. These were measured for their carapace length and width.",
+        "The average carapace length for males was 9.1 cm. and width was 6.6 cm. Pemales were smaller with an average length of 7.6 cm. and width of 5.6 cm."
+      ]
+    },
+    {
+      "record_id": "3c429dd9c5115ca87ca4735c",
+      "paper_id": "Chambers-1975-Spiny.lobster.AS/Chambers-1975-Spiny.lobster.AS",
+      "source_path": "output/Chambers-1975-Spiny.lobster.AS/Chambers-1975-Spiny.lobster.AS.md",
+      "section_heading": "Discussion",
+      "section_start_line": 287,
+      "section_end_line": 318,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the estimated monthly recruitment of Panulirus penicillatus into the 0.8 kilometer reef area of Fagasa Bay?",
+      "ground_truth_answer": "Approximately 30 lobsters per month.",
+      "ground_truth_chunks": [
+        "It can be estimated from the graph, that recruitment into the .8 kilometer area of the reef is 30 lobsters per month:",
+        "A sustained yield harvest of 30 lobsters per month was proposed from this Bay based on sample harvesting."
+      ]
+    },
+    {
+      "record_id": "52aa94bc4f937f5fdc5fa216",
+      "paper_id": "Chambers-1975-Spiny.lobster.AS/Chambers-1975-Spiny.lobster.AS",
+      "source_path": "output/Chambers-1975-Spiny.lobster.AS/Chambers-1975-Spiny.lobster.AS.md",
+      "section_heading": "Immary",
+      "section_start_line": 319,
+      "section_end_line": 334,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the average carapace length and width for male and female lobsters, and what is the sex ratio reported in the Immary section?",
+      "ground_truth_answer": "Males: average carapace length 9.1 cm and width 6.6 cm. Females: average carapace length 7.6 cm and width 5.6 cm. The sex ratio was 1:1.",
+      "ground_truth_chunks": [
+        "4. Males were larger than females with an average carapace length of 9.1 cm. and width of 6.6 cm. Females had an average carapace length of 7.6 cm. and width of 5.6 cm. The sex ratio was 1:1."
+      ]
+    }
+  ],
+  "failures": []
+}

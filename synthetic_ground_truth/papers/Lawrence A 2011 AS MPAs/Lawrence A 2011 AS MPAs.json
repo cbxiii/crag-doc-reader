@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Lawrence A 2011 AS MPAs/Lawrence A 2011 AS MPAs.md",
+  "source_sha256": "311081b7603d317bfe9d7f36ad33d8191684a5a4c4a45e8435eddb5b01e4e5a9",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "ffff73662dcc1bf5438f041a",
+      "paper_id": "Lawrence A 2011 AS MPAs/Lawrence A 2011 AS MPAs",
+      "source_path": "output/Lawrence A 2011 AS MPAs/Lawrence A 2011 AS MPAs.md",
+      "section_heading": "Appendix D: Key attributes and activities of MPAs in the existing network of MPAs in American Samoa as of January 2011",
+      "section_start_line": 1,
+      "section_end_line": 130,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year was the Fagamalo No-Take MPA designated?",
+      "ground_truth_answer": "2010.",
+      "ground_truth_chunks": [
+        "Fagamalo No-Take MPA                | Territorial                           | DMWR <sup>b</sup> , village | 2010                                 | Cooperative Agree-<br>ment; Management<br>Plan being Finalized                  | ASAC § 24.1001,<br>ASAC § 24.1008 (c)(1)",
+        "Fagamalo<br>No-Take MPA                | Natural Heritage                 | Ecosystem           | No Take                   | Conditional | Year Round | All Fishing<br>Prohibited                              | Unrestricted           | TBD"
+      ]
+    }
+  ],
+  "failures": []
+}

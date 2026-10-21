@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021.md",
+  "source_sha256": "3ff8f9c7b2a31a9e8de72d49062a7c6b7f2f4206d093bf61eec7599cb11edb66",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "25d21edc82633ecc194341ea",
+      "paper_id": "Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021",
+      "source_path": "output/Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021.md",
+      "section_heading": "Variation in Coral Thermotolerance Across a Pollution Gradient Erodes as Coral Symbionts Shift to More Heat-Tolerant Genera",
+      "section_start_line": 5,
+      "section_end_line": 10,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which author is affiliated with the Hawai'i Institute of Marine Biology, University of Hawai'i at Manoa?",
+      "ground_truth_answer": "Ruth D. Gates",
+      "ground_truth_chunks": [
+        "Ruth D. Gates<sup>5</sup>†",
+        "<sup>5</sup> Hawai'i Institute of Marine Biology, University of Hawai'i at Manoa, K ¯ ane'ohe, HI, United States ¯"
+      ]
+    },
+    {
+      "record_id": "8827b727619c98a6976283e8",
+      "paper_id": "Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021",
+      "source_path": "output/Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021.md",
+      "section_heading": "Site Selection and Field Collections",
+      "section_start_line": 59,
+      "section_end_line": 64,
+      "model": "openai:gpt-4o-mini",
+      "question": "In August 2019, how many fragments were collected from each Acropora hyacinthus colony, and how were these fragments allocated among temperature treatments and controls?",
+      "ground_truth_answer": "Seventeen fragments were collected from each colony: four replicates for each of four temperature treatments (16 fragments) and one field control that was never placed in the temperature stress assay.",
+      "ground_truth_chunks": [
+        "In August 2019, eight colonies of A. hyacinthus were sampled at a subset of five of the original 2014 sites between 07:00 and 11:00 (**[Figure 1](#page-2-0)**). Seventeen fragments of approximately 2 cm<sup>3</sup> were collected haphazardly using stainless steel coral cutters from each colony: four replicates for each of four temperature treatments and one field control which was never placed in the temperature stress assay."
+      ]
+    },
+    {
+      "record_id": "7244921c7fde72ebe4c5187d",
+      "paper_id": "Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021",
+      "source_path": "output/Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021.md",
+      "section_heading": "Ramp-Hold Heat Stress Assay",
+      "section_start_line": 71,
+      "section_end_line": 80,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which temperatures (including the control) were used in the ramp-hold heat stress assay?",
+      "ground_truth_answer": "Control: 28°C; experimental treatments: 33°C, 34°C, and 35°C.",
+      "ground_truth_chunks": [
+        "This assay consists of four replicate tanks to test three experimental temperature treatments and one control, for a total of eight tanks.",
+        "At 14:00, corals were exposed to ramp-hold: control (28°C), 33°C, 34°C or 35°C during a 2 h ramp, 3 h hold, 1 h ramp down to 28°C, and overnight recovery at 28°C."
+      ]
+    },
+    {
+      "record_id": "66579dfa9601e0c6b578f526",
+      "paper_id": "Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021",
+      "source_path": "output/Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021.md",
+      "section_heading": "Differential Gene Expression Analysis",
+      "section_start_line": 93,
+      "section_end_line": 98,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many contigs were retained and used for differential gene expression analysis?",
+      "ground_truth_answer": "15,109 contigs were retained and used for differential gene expression analysis.",
+      "ground_truth_chunks": [
+        "Out of 33,496 possible contigs, 18,387 were discarded due to low expression, following methods described in Chen et al. (2016), and 15,109 contigs were retained and used for differential gene expression analysis."
+      ]
+    },
+    {
+      "record_id": "ab6a0088fb8eba56cf44f394",
+      "paper_id": "Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021",
+      "source_path": "output/Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021.md",
+      "section_heading": "Thermotolerance Patterns in 2014 and 2019",
+      "section_start_line": 119,
+      "section_end_line": 153,
+      "model": "openai:gpt-4o-mini",
+      "question": "In 2014, which factors significantly explained colony-level thermotolerance according to the linear mixed model, and what were their P-values?",
+      "ground_truth_answer": "Season (P = 8.5e-15) and Pollution category (P = 0.04) significantly explained thermotolerance in 2014.",
+      "ground_truth_chunks": [
+        "| Season             | 374.50 | 1      | 94.11  | 84.90   | 8.5e-15 |",
+        "| Pollution category | 61.04  | 2      | 5.03   | 6.92    | 0.04    |",
+        "We show that thermotolerance was higher both in the hotter season (i.e., March) and at sites ranked as high pollution. Marginal R<sup>2</sup> = 0.520."
+      ]
+    },
+    {
+      "record_id": "75c99f6d1c7bcabc5dee4c6c",
+      "paper_id": "Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021",
+      "source_path": "output/Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021.md",
+      "section_heading": "Predictors of Thermotolerance in 2014 and 2019",
+      "section_start_line": 180,
+      "section_end_line": 207,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which predictor variables were retained in the 2014 linear mixed-effects model explaining thermotolerance, and what marginal R^2 did that model have?",
+      "ground_truth_answer": "The 2014 model retained log2 Cladocopium to Durusdinium ratio, season, and pollution level; the model explained 46.9% of variation in thermotolerance (marginal R^2 = 0.469; N = 81).",
+      "ground_truth_chunks": [
+        "Log2 Cladocopium to Durusdinium ratio, season and pollution level were all retained in a linear mixed-effects model as explanatory variables of thermotolerance, as measured in mortality in degree days (**[Table 4](#page-8-0)**).",
+        "Taken together, the model including symbiont genotype, season, and pollution level explained 46.9% of variation in thermotolerance in 2014 (marginal R <sup>2</sup> = 0.469; **[Table 4](#page-8-0)**, N = 81)."
+      ]
+    },
+    {
+      "record_id": "a981511b38da06854adec264",
+      "paper_id": "Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021",
+      "source_path": "output/Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021.md",
+      "section_heading": "Thermotolerance Varied by Pollution Level in 2014, Driven in Part by Symbiont Community",
+      "section_start_line": 212,
+      "section_end_line": 215,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which factors best explained variation in thermotolerance in 2014?",
+      "ground_truth_answer": "Variation in thermotolerance was best explained by season, followed by variation in pollution level and symbiont community.",
+      "ground_truth_chunks": [
+        "Variation in thermotolerance was best explained by season, followed by variation in pollution level and symbiont community.",
+        "Thermotolerance was higher in March, at the end of austral summer, compared to in July, in the middle of austral winter.",
+        "Symbiont communities varied between the two time points in 2014, with a higher proportion of heat-tolerant Durusdinium in March compared to July (**[Figure 3](#page-6-0)**)."
+      ]
+    },
+    {
+      "record_id": "f852ff740abd66ead849e362",
+      "paper_id": "Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021",
+      "source_path": "output/Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021.md",
+      "section_heading": "Gene Expression Correlates With Variation in Thermotolerance in 2019",
+      "section_start_line": 236,
+      "section_end_line": 249,
+      "model": "openai:gpt-4o-mini",
+      "question": "How much variation in thermotolerance did three gene modules explain in the 2019 linear mixed-effects model?",
+      "ground_truth_answer": "They explained 54.1% of the variation in thermotolerance.",
+      "ground_truth_chunks": [
+        "In a linear mixed-effects model of thermotolerance, three of those six modules explained 54.1% of the variation in thermotolerance (**[Table 5](#page-8-1)**).",
+        "The linear mixed model that best predicted thermotolerance in 2019 contained eigengene expression of three gene modules (**[Table 5](#page-8-1)**). These modules encompassed 681 genes whose baseline expression could be used to predict 54.1% of variation in future thermotolerance."
+      ]
+    },
+    {
+      "record_id": "1f2b6691f98ac907e587adb1",
+      "paper_id": "Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021",
+      "source_path": "output/Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021.md",
+      "section_heading": "Gene Expression Under Heat Stress Related to Pollution Level, Symbiont Community, and Thermotolerance",
+      "section_start_line": 254,
+      "section_end_line": 261,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which module was upregulated in the least thermotolerant corals during heat stress, and which signaling pathway was it significantly enriched for?",
+      "ground_truth_answer": "Module H15 was upregulated in the least thermotolerant corals during heat stress and was significantly enriched for MAPK signaling.",
+      "ground_truth_chunks": [
+        "Gene expression under heat stress was also correlated to thermotolerance, with four modules related to the 10– 20% most thermotolerant corals and two modules related to the 10–20% least thermotolerant corals (**[Supplementary](#page-12-0) [Figure 6](#page-12-0)**). Module H15, whose expression was upregulated in the least thermotolerant corals, was significantly enriched for MAPK signaling.",
+        "Mitogen-activated protein kinases (MAPK) are signaling proteins involved in repairing oxidative damage that occurs during stress [\\(Kültz,](#page-14-36) [2005\\)](#page-14-36)."
+      ]
+    },
+    {
+      "record_id": "0f0f62f5081ad8058d678e4f",
+      "paper_id": "Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021",
+      "source_path": "output/Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021.md",
+      "section_heading": "<span id=\"page-12-0\"></span>SUPPLEMENTARY MATERIAL",
+      "section_start_line": 282,
+      "section_end_line": 299,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many genes are shown as differentially expressed in Supplementary Figure 5 between the control and heat stress treatments?",
+      "ground_truth_answer": "6,020 genes.",
+      "ground_truth_chunks": [
+        "Supplementary Figure 5 | Heatmap showing differential expression of 6,020 genes between the control and heat stress treatments (edgeR, FDR < 0.001, fold-change > 4)."
+      ]
+    }
+  ],
+  "failures": []
+}

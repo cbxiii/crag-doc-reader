@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Dahl-1972-Ecology.reef.algae.AS/Dahl-1972-Ecology.reef.algae.AS.md",
+  "source_sha256": "dca3530fba0b86eddecf909ab747da178070142d2f47436c2f4ddd80081a9509",
+  "status": "complete",
+  "selected_section_count": 4,
+  "successful_record_count": 4,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "86faebb90a0d9a1e2413b764",
+      "paper_id": "Dahl-1972-Ecology.reef.algae.AS/Dahl-1972-Ecology.reef.algae.AS",
+      "source_path": "output/Dahl-1972-Ecology.reef.algae.AS/Dahl-1972-Ecology.reef.algae.AS.md",
+      "section_heading": "Ecology and Community Structure of Some Tropical Reef Algae in Samoa",
+      "section_start_line": 7,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, how do algal communities interact with substrate availability?",
+      "ground_truth_answer": "Algal communities help to control substrate availability and are themselves altered by the types of substrate available.",
+      "ground_truth_chunks": [
+        "Algal communities also help to control substrate availability, and are themselves altered by the types of substrate available."
+      ]
+    },
+    {
+      "record_id": "b3cbe86fe655bf933778a632",
+      "paper_id": "Dahl-1972-Ecology.reef.algae.AS/Dahl-1972-Ecology.reef.algae.AS",
+      "source_path": "output/Dahl-1972-Ecology.reef.algae.AS/Dahl-1972-Ecology.reef.algae.AS.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 15,
+      "section_end_line": 30,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many line transects were established across the intertidal and high subtidal portions of the fringing reefs around Tutuila Island and Aunuu Island?",
+      "ground_truth_answer": "10 line transects were established.",
+      "ground_truth_chunks": [
+        "As part of a long-term survey and monitoring program, 10 line transects were established across the intertidal and high subtidal portions of the fringing reefs around Tutuila Island and on nearby Aunuu Island, representing a variety of exposures and habitats.",
+        "The initial surveys were established in January 1970, and most stations were repeated in July 1970."
+      ]
+    },
+    {
+      "record_id": "f0be71f670db5f40a004925d",
+      "paper_id": "Dahl-1972-Ecology.reef.algae.AS/Dahl-1972-Ecology.reef.algae.AS",
+      "source_path": "output/Dahl-1972-Ecology.reef.algae.AS/Dahl-1972-Ecology.reef.algae.AS.md",
+      "section_heading": "RESULTS",
+      "section_start_line": 31,
+      "section_end_line": 44,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which algal component is frequently the most significant in shallow reef areas?",
+      "ground_truth_answer": "Turfs are frequently the most significant algal component in shallow reef areas.",
+      "ground_truth_chunks": [
+        "In terms of percent coverage, turfs are frequently the most significant algal component in shallow reef areas.",
+        "Extensive turfs were also noted along subtidal channels and on the dead portions of coral heads."
+      ]
+    },
+    {
+      "record_id": "980f6c688c0decaa79cfed19",
+      "paper_id": "Dahl-1972-Ecology.reef.algae.AS/Dahl-1972-Ecology.reef.algae.AS",
+      "source_path": "output/Dahl-1972-Ecology.reef.algae.AS/Dahl-1972-Ecology.reef.algae.AS.md",
+      "section_heading": "Discussion",
+      "section_start_line": 45,
+      "section_end_line": 60,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Discussion, which algal genera may serve an anchoring function within the turf community?",
+      "ground_truth_answer": "Jania, Laurencia, or Hypnea may serve a similar anchoring function.",
+      "ground_truth_chunks": [
+        "The Halimeda provides the only firm attachment in the sand for the Dictyota, the Dictyota alters conditions under the mat in a way that may or may not be beneficial to the Halimeda.",
+        "In the turf community, Jania, Laurencia, or Hypnea may serve a similar anchoring function for other algae, or even for the substrate."
+      ]
+    }
+  ],
+  "failures": []
+}

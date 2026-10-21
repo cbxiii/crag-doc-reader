@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa.md",
+  "source_sha256": "e6ee39e38e0e748b3182c5d9c10deba3d8f84130dd592c80de1c6430565fcecf",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "3742a7ea82efcfe5384b0eb9",
+      "paper_id": "Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa",
+      "source_path": "output/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa.md",
+      "section_heading": "Efficacy of Alternative Low-cost Approaches to Mangrove Restoration, American Samoa",
+      "section_start_line": 5,
+      "section_end_line": 10,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the six-month survival percentages for Bruguiera gymnorrhiza and Rhizophora mangle saplings in the Nu'uuli restoration project?",
+      "ground_truth_answer": "Bruguiera gymnorrhiza: 45% survival; Rhizophora mangle: 21% survival (six months after restoration).",
+      "ground_truth_chunks": [
+        "While several years of monitoring may ultimately be required to determine the project's success, and several decades could be required to fully return the full suite of functions, the project's low-cost, nontechnical restoration techniques, using readily available materials, have proven to be modestly successful, with 38% sapling survival after six months.",
+        "Six months after initial restoration activities, there was a highly significant difference between Bruguiera gymnorrhiza and Rhizophora mangle sapling survival, with 21% and 45% of the original 42 R. mangle and 95 B. gymnorrhiza saplings remaining, respectively."
+      ]
+    },
+    {
+      "record_id": "89afca36c8e529fd19d539f5",
+      "paper_id": "Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa",
+      "source_path": "output/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa.md",
+      "section_heading": "MANGROVE REHABILITATION PRINCIPLES",
+      "section_start_line": 29,
+      "section_end_line": 38,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under what circumstance is planting mangroves necessary to restore a degraded mangrove area?",
+      "ground_truth_answer": "Planting mangroves is necessary only when the availability of waterborne seedlings of mangroves from adjacent stands is blocked.",
+      "ground_truth_chunks": [
+        "Only when the availability of waterborne seedlings of mangroves from adjacent stands is blocked is planting mangroves necessary to restore a degraded mangrove area."
+      ]
+    },
+    {
+      "record_id": "6e0a67e9cda0d9804a9a33df",
+      "paper_id": "Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa",
+      "source_path": "output/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa.md",
+      "section_heading": "REHABILITATION PURPOSE",
+      "section_start_line": 67,
+      "section_end_line": 74,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the purpose of the pilot mangrove rehabilitation project?",
+      "ground_truth_answer": "To attempt to restore the mangrove to perform functions at similar levels as an adjacent, relatively healthy reference mangrove site, and to serve as a model for replication at the other 15 Pacific Island countries and territories where mangroves are indigenous.",
+      "ground_truth_chunks": [
+        "The purpose of this pilot project was to attempt to restore the mangrove to perform functions at similar levels as an adjacent, relatively healthy reference mangrove site.",
+        "The project was also conducted to serve as a model for replication at the other 15 Pacific Island countries and territories where mangroves are indigenous."
+      ]
+    },
+    {
+      "record_id": "1eae6efba908b5cdc6f49b1d",
+      "paper_id": "Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa",
+      "source_path": "output/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa.md",
+      "section_heading": "SITE SELECTION AND COMMUNITY PARTICIPATION",
+      "section_start_line": 91,
+      "section_end_line": 94,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many mature B. gymnorrhiza trees were present at the restoration site?",
+      "ground_truth_answer": "The site contained six mature B. gymnorrhiza trees.",
+      "ground_truth_chunks": [
+        "The site contained only six mature B. gymnorrhiza trees, two B. gymnorrhiza saplings, and one R. mangle sapling.",
+        "Very few seedlings and saplings were establishing despite an ample supply of propagules from adjacent relatively healthy mangroves."
+      ]
+    },
+    {
+      "record_id": "156afc9d6eb879dcedaa3ad3",
+      "paper_id": "Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa",
+      "source_path": "output/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa.md",
+      "section_heading": "TARGET SUBSTRATE ELEVATION AND VEGETATION ZONE WIDTHS",
+      "section_start_line": 101,
+      "section_end_line": 110,
+      "model": "openai:gpt-4o-mini",
+      "question": "What hypothesis did the authors propose for why propagules are present but not establishing at the study site?",
+      "ground_truth_answer": "They hypothesized that the sediment surface of the restoration area is currently at a lower elevation than that of the adjacent reference site, which is preventing natural recruitment, and that by establishing mangrove trees the restoration site will gradually build up sediment to reach a surface elevation equivalent to the adjacent mangrove areas.",
+      "ground_truth_chunks": [
+        "Because propagules are present but not establishing at the study site, we assumed that the disturbance stress that caused the mangrove loss, or that is preventing natural regeneration, was still present.",
+        "One hypothesis was that the sediment surface of the restoration area is currently at a lower elevation than that of the adjacent reference site, which is preventing natural recruitment, and that by establishing mangrove trees the restoration site will gradually build up sediment to reach a surface elevation equivalent to that of the adjacent mangrove areas."
+      ]
+    },
+    {
+      "record_id": "5a8082e384f68c25f13b2535",
+      "paper_id": "Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa",
+      "source_path": "output/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa.md",
+      "section_heading": "RESTORING MANGROVE VEGETATION ZONES",
+      "section_start_line": 111,
+      "section_end_line": 124,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why did the project decide not to raise mangrove saplings in a nursery and instead collect and transplant saplings from wild sources?",
+      "ground_truth_answer": "They avoided raising seedlings in a nursery because nursery conditions (hydrologic regime, wave energy, salinity, nutrient levels, sun exposure) likely differ from the project site and thus ‘risks causing stress and low survivorship’ when transplanting. Collecting from the wild was preferred because saplings can be collected any time of year, are suitable for higher-energy sites, and usually have higher success rates than planting seeds.",
+      "ground_truth_chunks": [
+        "We also decided not to raise saplings from seedlings in a nursery. Raising the seedlings in a nursery risks causing stress and low survivorship when transplanting to the project site, as conditions (e.g., hydrologic regime, wave energy, salinity, nutrient levels, sun exposure) in the nursery versus the project site are likely to differ.",
+        "Advantages of collection from the wild and transplanting are: saplings can be collected at any time through the year, they are suitable for higher energy sites, and success rates are usually higher than planting seeds."
+      ]
+    },
+    {
+      "record_id": "2b8c32412b8ebcf44a54cd49",
+      "paper_id": "Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa",
+      "source_path": "output/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa.md",
+      "section_heading": "Restoring Vegetation Zones",
+      "section_start_line": 143,
+      "section_end_line": 150,
+      "model": "openai:gpt-4o-mini",
+      "question": "Of the total 137 saplings, how many were planted in tires?",
+      "ground_truth_answer": "52 (38.0%) saplings were planted in tires.",
+      "ground_truth_chunks": [
+        "Of the total 137 saplings, 52 (38.0%) were planted in tires, 68 (49.6%) had a rebar pipe or similar structure located adjacent to it, and 17 (12.4%) had no physical support structure."
+      ]
+    },
+    {
+      "record_id": "f0790c0a742f112090254109",
+      "paper_id": "Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa",
+      "source_path": "output/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa.md",
+      "section_heading": "CAUSE OF MANGROVE DECLINE",
+      "section_start_line": 161,
+      "section_end_line": 168,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who cut down the mangroves in 1979 and why did they remove them?",
+      "ground_truth_answer": "In 1979 Leon and Michael Malau'ulu, then eight and ten years old, respectively, following their parents' instructions, cut down the mangroves fronting their property over a one-month period to provide a source of firewood, improve boat access, and improve access to mudflat habitat for collecting a marine worm (Ipo) for subsistence consumption.",
+      "ground_truth_chunks": [
+        "In 1979, Leon and Michael Malau'ulu, then eight and ten years old, respectively, following their parent's instructions, over a one-month period, cut down the mangroves fronting their property using machetes.",
+        "The Malau'ulu family had decided to remove the mangrove in order to provide a source of firewood, improve boat access, and improve access to mudflat habitat for collecting a marine worm (Ipo in Samoan) for subsistence consumption (L. Malau'ulu personal communication)."
+      ]
+    },
+    {
+      "record_id": "730d964c1364aebd8647d941",
+      "paper_id": "Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa",
+      "source_path": "output/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa.md",
+      "section_heading": "SURVIVAL BY TREATMENT, SPECIES ZONE, AND AREA",
+      "section_start_line": 193,
+      "section_end_line": 202,
+      "model": "openai:gpt-4o-mini",
+      "question": "Was there a significant difference in survival between B. gymnorrhiza and R. mangle saplings?",
+      "ground_truth_answer": "Yes — after six months 45.3% of B. gymnorrhiza and 21.4% of R. mangle remained alive, and the difference was highly significant (Chi-square test of heterogeneity, X2 5 7.03, df 5 1, p , 0.01).",
+      "ground_truth_chunks": [
+        "After six months from project initiation, 45.3% and 21.4% of the original 95 B. gymnorrhiza saplings and 42 R. mangle saplings, respectively, remained alive.",
+        "There was a highly significant difference in B. gymnorrhiza and R. mangle survival (Chi-square test of heterogeneity, X2 5 7.03, df 5 1, p , 0.01)."
+      ]
+    },
+    {
+      "record_id": "868b75111165666c6046ce22",
+      "paper_id": "Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa",
+      "source_path": "output/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa.md",
+      "section_heading": "Discussion and Conclusions",
+      "section_start_line": 213,
+      "section_end_line": 232,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the overall sapling survival rate reported for the restoration project?",
+      "ground_truth_answer": "The restoration project had a 38% sapling survival rate.",
+      "ground_truth_chunks": [
+        "The restoration project has proven to be modestly successful with 38% sapling survival."
+      ]
+    }
+  ],
+  "failures": []
+}

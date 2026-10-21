@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC.md",
+  "source_sha256": "9ec60bd626d7a925852fa810448a13556e85d127bd89800ce73d45667b0429fd",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "7833449d4d91dcd728dec718",
+      "paper_id": "2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC",
+      "source_path": "output/2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC.md",
+      "section_heading": "Protein expression and genetic structure of the coral Porites lobata in an environmentally extreme Samoan back reef: does host genotype limit phenotypic plasticity?",
+      "section_start_line": 3,
+      "section_end_line": 8,
+      "model": "openai:gpt-4o-mini",
+      "question": "What mailing address is listed for the Hawai'i Institute of Marine Biology in the article's author affiliations?",
+      "ground_truth_answer": "Hawai'i Institute of Marine Biology, University of Hawai'i at Mānoa, 46-007 Lilipuna Rd, Kāne'ohe, HI 96744, USA.",
+      "ground_truth_chunks": [
+        "*Hawai'i Institute of Marine Biology, University of Hawai'i at Mānoa, 46-007 Lilipuna Rd, Kāne'ohe, HI 96744, USA,"
+      ]
+    },
+    {
+      "record_id": "183b0b33aee6b7fb173f6efe",
+      "paper_id": "2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC",
+      "source_path": "output/2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC.md",
+      "section_heading": "Introduction",
+      "section_start_line": 17,
+      "section_end_line": 48,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did the study observe genetic differentiation of Symbiodinium (symbionts) between corals from the two study locations?",
+      "ground_truth_answer": "No — genetic differentiation of symbionts in corals from the two study locations was not observed.",
+      "ground_truth_chunks": [
+        "Using the common reef-building coral Porites lobata, we investigated (i) coral holobiont (cnidarian host and Symbiodinium) protein expression, (ii) Symbiodinium genetic identity (referred to herein as symbiont), and (iii) cnidarian host population structure in a reciprocal transplant experiment (RTE) between a thermally extreme back reef on Ofu island and the more stable, neighbouring forereef on Olosega.",
+        "Genetic differentiation of symbionts in corals from the two study locations was not observed, thus these results suggest a host genetic influence on response differences between corals from contrasting thermal environments."
+      ]
+    },
+    {
+      "record_id": "9bc0817c6f69e47bc5d4429e",
+      "paper_id": "2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC",
+      "source_path": "output/2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC.md",
+      "section_heading": "Materials and methods",
+      "section_start_line": 49,
+      "section_end_line": 62,
+      "model": "openai:gpt-4o-mini",
+      "question": "When did the reciprocal transplant experiment begin and conclude?",
+      "ground_truth_answer": "The transplant experiment was initiated on 5 February 2005 (day 0) and concluded on 10 February 2005 (day 5).",
+      "ground_truth_chunks": [
+        "The transplant experiment was initiated on 5 February 2005 (day 0) and concluded on 10 February 2005 (day 5).",
+        "After an initial 24-h recovery period (day 1), all samples were destructively sampled for four consecutive days (days 2, 3, 4 and 5) between 13:45 and 14:15."
+      ]
+    },
+    {
+      "record_id": "6923a6134ff254434211e8a4",
+      "paper_id": "2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC",
+      "source_path": "output/2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC.md",
+      "section_heading": "SDS–PAGE and Western blotting",
+      "section_start_line": 69,
+      "section_end_line": 88,
+      "model": "openai:gpt-4o-mini",
+      "question": "What primary antibody dilution was used for hsp70?",
+      "ground_truth_answer": "1:10 000 for hsp70.",
+      "ground_truth_chunks": [
+        "Primary antibody dilutions were 1:10 000 for hsp70, 1:5000 for MnSOD, and 1:2000 for Ubiquitin and 4HNE, secondary antibody dilutions were all 1:10 000."
+      ]
+    },
+    {
+      "record_id": "e57813fb53f106ef2bb6ffcd",
+      "paper_id": "2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC",
+      "source_path": "output/2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC.md",
+      "section_heading": "DNA extraction, amplification and sequencing",
+      "section_start_line": 93,
+      "section_end_line": 102,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which kit and sequencer were used to cycle-sequence the cleaned mitochondrial PCR products?",
+      "ground_truth_answer": "They were cycle-sequenced using the ABI Prism Big Dye Terminator Reaction Kit (PerkinElmer–Applied Biosystems) and run on an ABI-3100 automated sequencer.",
+      "ground_truth_chunks": [
+        "PCR products were treated with 2 U of exonuclease I and 2 U of shrimp alkaline phosphatase (Exo:SAP) at 37 C for 60 min, followed by inactivation at 80 C for 10 min.",
+        "Cleaned mitochondrial PCR products were then cyclesequenced using the ABI Prism Big Dye Terminator Reaction Kit (PerkinElmer–Applied Biosystems, Foster City, CA, USA) and run on an ABI-3100 automated sequencer."
+      ]
+    },
+    {
+      "record_id": "22f1438ffdbd406731f35d74",
+      "paper_id": "2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC",
+      "source_path": "output/2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC.md",
+      "section_heading": "Sequence analysis",
+      "section_start_line": 103,
+      "section_end_line": 110,
+      "model": "openai:gpt-4o-mini",
+      "question": "What criterion did the authors use to include unique Symbiodinium ITS2 sequence types in their analysis?",
+      "ground_truth_answer": "Unique sequence types were included only if they were found from multiple (three or more) clone libraries or if they matched previously published sequence types.",
+      "ground_truth_chunks": [
+        "Briefly, unique sequence types were only included in the analysis if they were found from multiple (three or more) clone libraries or if they matched previously published sequence types.",
+        "The remaining clone singletons were assumed to be errors or rare intragenomic repeats and the nucleotide at the site of polymorphism was converted to the consensus.",
+        "Potential psuedogenes were characterized by significant changes to the secondary structure of the ITS2 RNA molecule that probably disrupt correct folding (Thornhill et al. 2007). These sequences were treated similar to singletons and reverted to the consensus sequence as determined by statistical parsimony."
+      ]
+    },
+    {
+      "record_id": "85df7b71aa22b3587fadb371",
+      "paper_id": "2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC",
+      "source_path": "output/2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC.md",
+      "section_heading": "Symbiodinium community analysis",
+      "section_start_line": 133,
+      "section_end_line": 142,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of Symbiodinium sequence types were identical to ITS2 type C15 in the survey?",
+      "ground_truth_answer": "94.6% of sequence types were identical to ITS2 type C15.",
+      "ground_truth_chunks": [
+        "Molecular phylogenetic network examinations of the back reef and\n\n![](_page_8_Figure_6.jpeg)\n\nFig. 5 Maximum parsimony phylogenetic network reconstruction of Symbiodinium sp. ITS2 isolates from symbiont genetic survey compared with previously published sequences. Lines between nodes represent single substitutions, gaps and ⁄ or indels. Gaps and ⁄ or indels were weighted as single changes regardless of length. Diameter of circle at each node is proportional to the number of clones with identical sequences. Nodes with >1 sequence per sample group have the corresponding number of sequences marked within the circle followed by the number of individuals from which those sequences were obtained in parentheses. Sequences from back reef individuals are shown in red, with those from back reef colonies used in the reciprocal transplant experiment shown in light purple, forereef individuals shown in yellow and forereef RTE colonies shown in light blue, and previously published sequence types shown in dark blue. Sequence accession numbers can be found in Table S2, Supporting Information.\n\nforereef Symbiodinium populations showed no systematic differences in symbiont identity between back reef and forereef corals with 94.6% of sequence types identical to ITS2 type C15 (Fig. 5), a genotype known to associate with Pacific Porites sp. (LaJeunesse et al. 2003). All colonies sampled contained sequences identical to type C15, with the four additional sequences exhibiting no discernable pattern based on source location."
+      ]
+    },
+    {
+      "record_id": "7940016df8f9dc254cf7ad6a",
+      "paper_id": "2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC",
+      "source_path": "output/2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC.md",
+      "section_heading": "Discussion",
+      "section_start_line": 155,
+      "section_end_line": 184,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which source colonies exhibited elevated levels of ubiquitin-conjugated proteins?",
+      "ground_truth_answer": "Back reef source colonies exhibited elevated levels of ubiquitin-conjugated proteins.",
+      "ground_truth_chunks": [
+        "The most consistent differences observed were the elevated levels of ubiquitin-conjugated proteins in back reef vs. forereef source colonies.",
+        "A significant effect of source colony origin was found for all within-day tests while an effect of transplant destination was only significant for two of the five days tested with an opposing direction of difference on day two than day five (Fig. 4)."
+      ]
+    },
+    {
+      "record_id": "75439dfcf6f2e51d1353ace8",
+      "paper_id": "2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC",
+      "source_path": "output/2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC.md",
+      "section_heading": "Coral host populations show significant differentiation",
+      "section_start_line": 185,
+      "section_end_line": 190,
+      "model": "openai:gpt-4o-mini",
+      "question": "What evidence from the section argues against cryptic species causing the differentiation between forereef and back reef populations of P. lobata?",
+      "ground_truth_answer": "Three points argue against cryptic species: all mtDNA and ITS sequences used in the study were found within the monophyletic Clade I containing other P. lobata samples; P. lutea is genetically distinct and falls in an entirely different clade; and the presence of intermediate and shared genotypes in both mtDNA and ITS markers plus a lack of a discernable pattern in the network constructions.",
+      "ground_truth_chunks": [
+        "Also, each mtDNA and ITS sequence used within this study was compared with a recent, comprehensive molecular phylogeny of Porites (Forsman et al. 2009) and all were found to occur within the monophyletic Clade I, a clade containing all other P. lobata samples used in the phylogeny.",
+        "P. lutea, the most closely related species morphologically occurs in the region, is readily distinguishable genetically from P. lobata and found within an entirely different clade from all samples used in this study (Forsman et al. 2009).",
+        "Additionally, the presence of intermediate and shared genotypes in both the mtDNA and ITS markers (Figs 6 and 7) as well as a lack of a discernable pattern in the network constructions, argue against cryptic species driving the observed pattern of population differentiation."
+      ]
+    },
+    {
+      "record_id": "f9fb622821c8ea94213d7088",
+      "paper_id": "2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC",
+      "source_path": "output/2010 Barshis_et_al_MEC/2010 Barshis_et_al_MEC.md",
+      "section_heading": "Supporting Information",
+      "section_start_line": 313,
+      "section_end_line": 333,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which figure reports Si(OH)4 concentration measurements taken every four hours for 48 hours, and when did sampling start and end?",
+      "ground_truth_answer": "Fig. S5; sampling started at midnight on 31 March 2006 and ended at midnight 2 April 2006.",
+      "ground_truth_chunks": [
+        "Fig. S5 Si(OH)4 concentration (lM) of water samples taken every four hours for 48 hours starting at midnight on 31 March 2006 and ending at midnight 2 April 2006."
+      ]
+    }
+  ],
+  "failures": []
+}

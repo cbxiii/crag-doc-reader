@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa.md",
+  "source_sha256": "f252c4aab4fb570683fa50f4879cb39754792e4610ab1b6caaaa3da15cd2d8f7",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "d534b3098cef12eee83b8d86",
+      "paper_id": "Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa",
+      "source_path": "output/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa.md",
+      "section_heading": "Applying a ridge-to-reef framework to support watershed, water quality, and community-based fisheries management in American Samoa",
+      "section_start_line": 5,
+      "section_end_line": 30,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which watershed characteristics best predicted dissolved inorganic nitrogen (DIN) concentrations for watersheds with over 200 humans km^-2?",
+      "ground_truth_answer": "Total human population and disturbed land",
+      "ground_truth_chunks": [
+        "Water quality data collected over 1 year were first linked with watershed characteristics such as land use and human population.",
+        "Dissolved inorganic nitrogen (DIN) concentrations were best predicted by total human population and disturbed land for watersheds with over 200 humans km<sup>-2</sup>, providing a predictive threshold for DIN enrichment"
+      ]
+    },
+    {
+      "record_id": "34925fe824ca4d8eee84dcc0",
+      "paper_id": "Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa",
+      "source_path": "output/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa.md",
+      "section_heading": "Fish assemblages",
+      "section_start_line": 59,
+      "section_end_line": 72,
+      "model": "openai:gpt-4o-mini",
+      "question": "What radius and duration were used for each Stationary Point Count (SPC) survey to record food fishes?",
+      "ground_truth_answer": "Each SPC survey recorded food fishes within a 7.5 m radius for 3 minutes.",
+      "ground_truth_chunks": [
+        "During each SPC survey, a trained diver recorded the name and size (to the nearest cm) of all food fish within a 7.5 m radius of the transect for 3 min."
+      ]
+    },
+    {
+      "record_id": "a1b0cf3c0324237f6847500b",
+      "paper_id": "Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa",
+      "source_path": "output/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa.md",
+      "section_heading": "Benthic substrates",
+      "section_start_line": 73,
+      "section_end_line": 76,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many random points were placed on each benthic photograph for substrate identification?",
+      "ground_truth_answer": "Ten random points were placed on each photograph.",
+      "ground_truth_chunks": [
+        "Photograph images were examined by placing ten random points on each photograph and identifying the benthic substrate based on several categories: coral (identified to genus), macroalgae, turf algae, branching coralline algae, crustose coralline algae, fleshy encrusting algae, sand, rubble, and other invertebrates."
+      ]
+    },
+    {
+      "record_id": "6633f0b9d35c7ccc645ca31c",
+      "paper_id": "Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa",
+      "source_path": "output/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa.md",
+      "section_heading": "Condition scores",
+      "section_start_line": 81,
+      "section_end_line": 84,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which individual metrics were used to calculate the fish assemblage condition scores?",
+      "ground_truth_answer": "Assemblage evenness; assemblage heterogeneity; fish assemblage size; fish assemblage biomass; and predator biomass.",
+      "ground_truth_chunks": [
+        "The individual metrics for fish assemblages were: (8) assemblage evenness, (9) assemblage heterogeneity, (10) fish assemblage size, (11) fish assemblage biomass, and (12) predator biomass."
+      ]
+    },
+    {
+      "record_id": "a299bc7fb187d692bdc435c1",
+      "paper_id": "Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa",
+      "source_path": "output/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa.md",
+      "section_heading": "Water quality",
+      "section_start_line": 89,
+      "section_end_line": 98,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many streams were monitored for Dissolved Inorganic Nitrogen and during what time period?",
+      "ground_truth_answer": "Dissolved Inorganic Nitrogen was collected from 26 streams on a monthly basis from September 2016 to September 2017.",
+      "ground_truth_chunks": [
+        "Dissolved Inorganic Nitrogen (nitrate, nitrite, and ammonium) was collected from 26 streams on a monthly basis from September 2016 to September 2017.",
+        "Water sampling for all stations was conducted during the same 3-day timeframe each month and coincided with the lowest tide of the month at new or lunar moon periods."
+      ]
+    },
+    {
+      "record_id": "3b9857053ba69d20fea190fa",
+      "paper_id": "Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa",
+      "source_path": "output/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa.md",
+      "section_heading": "Data analysis",
+      "section_start_line": 103,
+      "section_end_line": 114,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which statistical test was used to assess seasonal and spatial differences after confirming homogeneous variance structures?",
+      "ground_truth_answer": "PERMANOVA tests were used to assess seasonal and spatial differences.",
+      "ground_truth_chunks": [
+        "Before examining comparisons between differing reeftypes, tests for homogeneity of variances of the similarity matrix were performed using PERMDISP. Given homogeneous variance structures between the two groups, PERMANOVA tests were used to assess seasonal and spatial differences."
+      ]
+    },
+    {
+      "record_id": "45c4895bdfe84e1c61764bb5",
+      "paper_id": "Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa",
+      "source_path": "output/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa.md",
+      "section_heading": "Reeftypes",
+      "section_start_line": 117,
+      "section_end_line": 122,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which main taxa accounted for differences in benthic and coral assemblages on wave-sheltered reefs?",
+      "ground_truth_answer": "Diploastrea, turf algae, and Porites rus.",
+      "ground_truth_chunks": [
+        "For benthic and coral assemblages, the main taxa accounting for these differences were Diploastrea, turf algae, and Porites rus on wave-sheltered reefs; soft corals, Isopora, table Acropora, Goniastrea, and arborescent Acropora on southern reefs, and bluegreen algae, Coscinaraea, Pavona, Leptastrea, Montipora, Pocillopora, and branching Acropora on northern reefs."
+      ]
+    },
+    {
+      "record_id": "66e2b9f23c7a5ed349b11ede",
+      "paper_id": "Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa",
+      "source_path": "output/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa.md",
+      "section_heading": "Biological condition scores",
+      "section_start_line": 167,
+      "section_end_line": 176,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which predictors best explained fish condition scores across southern reefs?",
+      "ground_truth_answer": "Fish condition scores across southern reefs were predicted by the interaction between wave energy and distance to Pago Pago harbor; sensitivity analyses indicated that biomass and size metrics were the strongest drivers of the overall scores, with secondary contributions from fish diversity and evenness.",
+      "ground_truth_chunks": [
+        "Fish condition scores across southern reefs were predicted by the interaction between wave energy and distance to Pago Pago harbor, two metrics that together define how accessible a reef is to fishing.",
+        "Sensitivity analyses furthered supported these trends and highlighted that biomass and size metrics were the strongest drivers of overall scores, with secondary and more unique contributions from fish diversity and evenness metrics (Fig. [5\\)](#page-9-0)."
+      ]
+    },
+    {
+      "record_id": "8cf4d6e69b6ad510f12062c2",
+      "paper_id": "Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa",
+      "source_path": "output/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa.md",
+      "section_heading": "Discussion",
+      "section_start_line": 177,
+      "section_end_line": 196,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which environmental factors did the Discussion identify as best predictors of biological condition scores?",
+      "ground_truth_answer": "Biological condition scores were best predicted by wave energy, road driving distance, boat access, human population size, human population per area, and watershed size.",
+      "ground_truth_chunks": [
+        "Fig. 4 Relative biological condition scores for fish (a), benthic (b), and coral (c) assemblages depicted by circle sizes (methods). Biological condition scores were best predicted by environmental factors shown on the map: wave energy, road driving distance, boat access, human population size, human population per area, and watershed size (see Table [1](#page-7-0)). Wave energy pixels around the island are scaled relatively from high (dark) to low (light)"
+      ]
+    },
+    {
+      "record_id": "2b767e428169d0fb5046caa7",
+      "paper_id": "Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa",
+      "source_path": "output/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa/Comeros-Raynal_etal.2019_RidgetoReef_AmericanSamoa.md",
+      "section_heading": "Coral reef assemblages",
+      "section_start_line": 203,
+      "section_end_line": 254,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which factors were identified as the strongest predictors of fish condition scores in the section 'Coral reef assemblages'?",
+      "ground_truth_answer": "The strongest factors describing fish condition scores were distances to boat harbors and wave energy.",
+      "ground_truth_chunks": [
+        "Watershed characteristics linked with DIN and fishing access were the best predictors of ecological condition scores, but their influences differed. The strongest factors describing fish condition scores were distances to boat harbors and wave energy.",
+        "|                          | South (n = 11)            | wave ? dist.to.Pago ?<br>wave x dist.to.Pago     | - 2.9 (0.67); - 2.7 (0.63); 2.3<br>(0.46)    | 3.3 (1.2)         | 0.7  | 0.009   | 19    |"
+      ]
+    }
+  ],
+  "failures": []
+}

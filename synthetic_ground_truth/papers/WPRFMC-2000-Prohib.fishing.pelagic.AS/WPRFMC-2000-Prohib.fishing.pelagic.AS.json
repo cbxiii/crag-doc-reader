@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS.md",
+  "source_sha256": "5861ac1a7f049f7e7ac9738e2a6ec4bd37b4132f3e9bc75982bd2202b34691be",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "91a0915828256c1af6020627",
+      "paper_id": "WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS",
+      "source_path": "output/WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS.md",
+      "section_heading": "1.2 Constitution of American Samoa",
+      "section_start_line": 36,
+      "section_end_line": 41,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Section 3 of the revised Constitution (approved 1966), what policy does the Government of American Samoa establish to protect persons of Samoan ancestry?",
+      "ground_truth_answer": "The policy is to protect persons of Samoan ancestry against alienation of their lands and the destruction of the Samoan way of life and language, and to allow legislation as necessary to protect their lands, customs, culture and traditional Samoan family organization and to encourage business enterprises by such persons.",
+      "ground_truth_chunks": [
+        "\"...It shall be the policy of the Government of American Samoa to protect persons of Samoan ancestry against alienation of their lands and the destruction of the Samoan way of life and language, contrary to their best interests. Such legislation as may be necessary may be enacted to protect the lands, customs, culture and traditional Samoan family organization of persons of Samoan ancestry, and to encourage business enterprises by such persons....\"",
+        "(Section 3 of revised Constitution, approved 1966)"
+      ]
+    },
+    {
+      "record_id": "459638b92d1d3357498c5e60",
+      "paper_id": "WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS",
+      "source_path": "output/WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS.md",
+      "section_heading": "5.0 PURPOSE AND NEED FOR ACTION",
+      "section_start_line": 278,
+      "section_end_line": 285,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to section 5.0, why is the proposed action needed to provide for sustained community participation in the small-scale pelagic fishery?",
+      "ground_truth_answer": "Because American Samoa is becoming increasingly dependent on pelagic fish for food, income, employment, and perpetuation of Samoan culture.",
+      "ground_truth_chunks": [
+        "- To provide for sustained community participation in the small-scale pelagic fishery, recognizing that American Samoa is becoming increasingly dependent on pelagic fish for food, income, employment and perpetuation of Samoan culture."
+      ]
+    },
+    {
+      "record_id": "7175eb3fd94b092ed6cc1755",
+      "paper_id": "WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS",
+      "source_path": "output/WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS.md",
+      "section_heading": "8.2.1 Impacts on Target Pelagic Fish Resources",
+      "section_start_line": 421,
+      "section_end_line": 442,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the South Pacific regional albacore harvest by longline fisheries did the albacore catch by small-scale longline fisheries in American Samoa and neighboring Samoa represent in 1998?",
+      "ground_truth_answer": "19% (6,800 mt).",
+      "ground_truth_chunks": [
+        "The albacore catch by small-scale longline fisheries in American Samoa and neighboring Samoa totaled 6,800 mt in 1998, which represents 19% of the South Pacific regional albacore harvest by longline fisheries (Lawson, 1999).",
+        "Albacore catches in American Samoa's longline fishery decreased from 454 mt in 1998 to 302 mt in 1999 (Coan et al. 2000)."
+      ]
+    },
+    {
+      "record_id": "ac7b48803307fc991d4214ea",
+      "paper_id": "WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS",
+      "source_path": "output/WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS.md",
+      "section_heading": "8.3.2 Fishing gear conflict",
+      "section_start_line": 562,
+      "section_end_line": 569,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many miles of mainline do large vessels (> 50 ft) typically set compared to small-scale vessels (< 50 ft) in Samoa?",
+      "ground_truth_answer": "Large vessels (> 50 ft) may set 30-50 miles of mainline, compared to 7-25 miles of mainline set by small-scale vessels (< 50 ft).",
+      "ground_truth_chunks": [
+        "Large vessels (> 50 ft) may set 30-50 miles of mainline, compared to 7-25 miles of mainline set by small-scale vessels (< 50 ft) in Samoa.",
+        "In American Samoa, the small-scale longline fleet deploys relatively short lengths of mainline and they can usually avoid tangling gear."
+      ]
+    },
+    {
+      "record_id": "4427a9b2594cd866184da570",
+      "paper_id": "WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS",
+      "source_path": "output/WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS.md",
+      "section_heading": "10.2 Coastal Zone Management Act",
+      "section_start_line": 743,
+      "section_end_line": 746,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, in what two specific ways does the preferred framework measure support American Samoa Government policy and programs for the coastal zone?",
+      "ground_truth_answer": "It (a) encourages a redirection of fishing effort from heavily exploited inshore marine resources to underutilized offshore pelagic fish resources; and (b) establishes a substantial closed area off the national wildlife refuge at Rose Atoll, greatly reducing the risk of grounding by large US pelagic vessels.",
+      "ground_truth_chunks": [
+        "The measure supports American Samoa Government policy and programs for the coastal zone by a) encouraging a redirection of fishing effort from heavily exploited inshore marine resources to underutilized offshore pelagic fish resources and b) establishing a substantial closed area off the national wildlife refuge at Rose Atoll, greatly reducing the risk of grounding by large US pelagic vessels.",
+        "The preferred framework measure is expected to be consistent."
+      ]
+    },
+    {
+      "record_id": "313decc051bcf8736747ebb8",
+      "paper_id": "WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS",
+      "source_path": "output/WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS.md",
+      "section_heading": "I.2.2 Effort levels and landings in small-scale fishery",
+      "section_start_line": 1043,
+      "section_end_line": 1056,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species make up most of the longline landings in the American Samoa small-scale pelagic fishery?",
+      "ground_truth_answer": "Most of the longline landings are albacore, with yellowfin tuna, bigeye tuna, blue marlin, mahimahi and wahoo making up most of the remainder of the catch.",
+      "ground_truth_chunks": [
+        "Most of the longline landings are albacore, with yellowfin tuna, bigeye tuna, blue marlin, mahimahi and wahoo making up most of the remainder of the catch."
+      ]
+    },
+    {
+      "record_id": "cec2baaaa4e6d2c71e9ec2aa",
+      "paper_id": "WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS",
+      "source_path": "output/WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS.md",
+      "section_heading": "II.3.1.2 Abundance and present condition",
+      "section_start_line": 1238,
+      "section_end_line": 1295,
+      "model": "openai:gpt-4o-mini",
+      "question": "Over the past 15 years in American Samoa's pelagic fishery, how have troll-gear catch rates of skipjack and yellowfin tuna changed?",
+      "ground_truth_answer": "Skipjack catch rates have fluctuated widely with some suggestion of an overall decline; yellowfin catch rates have remained relatively steady.",
+      "ground_truth_chunks": [
+        "In American Samoa's pelagic fishery, catch rates of skipjack tuna by small boats using troll gear have fluctuated widely over the past 15 years, with some suggestion of an overall decline (Figure II.1). Catch rates of yellowfin tuna have remained relatively steady over the same time period.",
+        "Figure II.1. Troll gear CPUE for skipjack and yellowfin tuna in American Samoa pelagic fishery (after WPRFMC 1999)"
+      ]
+    },
+    {
+      "record_id": "f48c3fea356b9fe02ff693d1",
+      "paper_id": "WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS",
+      "source_path": "output/WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS.md",
+      "section_heading": "II.4.1.1.5 Alternative No. 5 (no action)",
+      "section_start_line": 1421,
+      "section_end_line": 1428,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did the expansion of the Asian longline fleet in the 1950s–1970s affect albacore catch rates in waters around American Samoa?",
+      "ground_truth_answer": "Albacore catch rates declined as the Asian longline fleet expanded; average catch per day and catch per 1000 hooks (CPUE) of Asian longline vessels based in Pago Pago declined steadily between 1959 and 1971, and increased effort caused a decline from 5 fish/100 hooks to 3 fish/100 hooks in older grounds during 1966–1971.",
+      "ground_truth_chunks": [
+        "Albacore catch rates in the waters around American Samoa declined as the Asian longline fleet expanded rapidly in the 1950s.",
+        "The average catch per day and catch per 1000 hooks (CPUE) of Asian longline vessels based in Pago Pago declined steadily between 1959 and 1971.",
+        "Increased effort was enough to cause a decline from 5 fish/100 hooks to 3 fish/hooks in the older grounds north of 20°S during the period 1966-1971 (Yoshida 1975)."
+      ]
+    },
+    {
+      "record_id": "b63a90652cadd890d00f1a37",
+      "paper_id": "WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS",
+      "source_path": "output/WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS.md",
+      "section_heading": "II.4.2.6 Administrative and enforcement costs of regulation",
+      "section_start_line": 1538,
+      "section_end_line": 1549,
+      "model": "openai:gpt-4o-mini",
+      "question": "What did the NMFS Law Enforcement Office determine about developing and administering a vessel monitoring system (VMS) to enforce an area closure in the EEZ around American Samoa?",
+      "ground_truth_answer": "The NMFS Law Enforcement Office determined that it is not cost-effective at this time for it to develop and administer a VMS to enforce an area closure in the EEZ around American Samoa.",
+      "ground_truth_chunks": [
+        "Without an automated, satellite-based vessel monitoring system (VMS), however, an area closure can be very difficult and expensive to enforce, requiring at-sea and aerial surveillance.",
+        "The NMFS Law Enforcement Office has determined that it is not cost-effective at this time for it to develop and administer a VMS to enforce an area closure in the EEZ around American Samoa."
+      ]
+    },
+    {
+      "record_id": "c0aa6abcaf03f2594bea4eb0",
+      "paper_id": "WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS",
+      "source_path": "output/WPRFMC-2000-Prohib.fishing.pelagic.AS/WPRFMC-2000-Prohib.fishing.pelagic.AS.md",
+      "section_heading": "III.8 Cost/Benefit Analysis of Alternatives",
+      "section_start_line": 1623,
+      "section_end_line": 1625,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to this section, what are the average annual per capita income and the median annual household income for residents of American Samoa?",
+      "ground_truth_answer": "Average annual per capita income is $5,000 and median annual household income is $16,000.",
+      "ground_truth_chunks": [
+        "These residents have an average annual per capita income of \\$5,000 and a median annual household income of \\$16,000.",
+        "With an unemployment rate approaching 17 percent and few alternate employment opportunities, small-scale fishing ventures represent an important path to sustainable development and economic self-reliance for American Samoa."
+      ]
+    }
+  ],
+  "failures": []
+}

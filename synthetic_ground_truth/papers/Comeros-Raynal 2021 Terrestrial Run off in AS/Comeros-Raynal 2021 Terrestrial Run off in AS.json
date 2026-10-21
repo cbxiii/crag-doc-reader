@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS.md",
+  "source_sha256": "7c929f3c37bb00ac84d61668f3409778619d1e4161c81f078627742372a50c95",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "1eaeb0a54c347f1383afa558",
+      "paper_id": "Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS",
+      "source_path": "output/Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS.md",
+      "section_heading": "Catchment to sea connection: Impacts of terrestrial run-off on benthic ecosystems in American Samoa",
+      "section_start_line": 13,
+      "section_end_line": 23,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which author is indicated with an asterisk in the author list?",
+      "ground_truth_answer": "Mia T. Comeros-Raynal",
+      "ground_truth_chunks": [
+        "Mia T. Comeros-Raynal <sup>a,\\*</sup>, Jon Brodie <sup>a</sup>, Zoe Bainbridge <sup>b</sup>, John Howard Choat <sup>c</sup>, Meagan Curtis <sup>d</sup>, Stephen Lewis <sup>b</sup>, Thomas Stevens <sup>b</sup>, Christopher K. Shuler <sup>e</sup>, Mareike Sudek <sup>f</sup>, Andrew S. Hoey <sup>a</sup>"
+      ]
+    },
+    {
+      "record_id": "4b2eefaf082c083dc5db25e4",
+      "paper_id": "Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS",
+      "source_path": "output/Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 32,
+      "section_end_line": 49,
+      "model": "openai:gpt-4o-mini",
+      "question": "What water quality and sediment metrics did the study quantify across the six watersheds on Tutuila?",
+      "ground_truth_answer": "They quantified total and dissolved nutrient concentrations from streams and adjacent reef flats, and the accumulation rate, composition, and particle size of sediments captured in sediment traps at 3-monthly intervals for one year.",
+      "ground_truth_chunks": [
+        "Here, we quantified water quality across six watersheds spanning a gradient in anthropogenic impact on Tutuila, and relate this to variation in benthic assemblages on adjacent shallow coral reefs.",
+        "Specifically, we quantified total and dissolved nutrient concentrations from streams and adjacent reef flats, and the accumulation rate, composition, and particle size of sediments captured in sediment traps at 3-monthly intervals for one year."
+      ]
+    },
+    {
+      "record_id": "ea9fedf126ce26b8230194b3",
+      "paper_id": "Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS",
+      "source_path": "output/Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS.md",
+      "section_heading": "2.3. Biological surveys",
+      "section_start_line": 66,
+      "section_end_line": 69,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many point-intercept transects were conducted within each habitat at each site?",
+      "ground_truth_answer": "Four replicate 50 m point-intercept transects were conducted within each habitat at each site.",
+      "ground_truth_chunks": [
+        "Benthic composition was quantified along four replicate 50 m point-intercept transects within each of two habitats, the reef flat (1–4 m depth) and reef slope (5–9 m depth), at each of the six sites in May 2019."
+      ]
+    },
+    {
+      "record_id": "00edc5919213adadf9665bae",
+      "paper_id": "Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS",
+      "source_path": "output/Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS.md",
+      "section_heading": "2.4.1. Suspended particulate matter",
+      "section_start_line": 100,
+      "section_end_line": 125,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many SediSampler® traps were deployed on the reef slope at each site and at what depth?",
+      "ground_truth_answer": "Three SediSampler® traps were deployed on the reef slope at each site in 5-7 m depth.",
+      "ground_truth_chunks": [
+        "To quantify suspended particulate matter (SPM) matter (i.e. sediments and associated particulate matter), we deployed three SediSampler® patented traps (Integral Aqua Pty Ltd) on the reef slope at each site in 5-7 m depth (Fig. 1b).",
+        "Each trap was attached to a steel bar driven into the substratum so that the mouth of the trap was positioned approximately 1 m above the substratum (refer to Lewis et al., 2020)."
+      ]
+    },
+    {
+      "record_id": "cd9eda4f6b40a3818d28363a",
+      "paper_id": "Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS",
+      "source_path": "output/Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS.md",
+      "section_heading": "2.5. Data analysis",
+      "section_start_line": 130,
+      "section_end_line": 139,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which water quality parameters were used as explanatory variables in the path analysis, and why?",
+      "ground_truth_answer": "DIN and phosphate concentrations were used as explanatory variables because they are highly bioavailable and are known indicators of anthropogenic nutrient loading on shallow reef systems.",
+      "ground_truth_chunks": [
+        "anthropogenic variables included percent cover disturbed land area (% cover of developed, cultivated and agroforest land uses), and a proxy of human population density from DIN loads of onsite disposal systems and piggeries  $(kg \\cdot day^{-1})$ .",
+        "Of the water quality parameters quantified, DIN and phosphate concentrations were used as explanatory variables as they are highly bioavailable and are known indicators of anthropogenic nutrient loading on shallow reef systems."
+      ]
+    },
+    {
+      "record_id": "df7f9c9a45bcf840c67a24dc",
+      "paper_id": "Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS",
+      "source_path": "output/Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS.md",
+      "section_heading": "3.2. Sediments",
+      "section_start_line": 152,
+      "section_end_line": 174,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which watershed type had the larger median particle size (D50) in the suspended particulate matter samples?",
+      "ground_truth_answer": "Pristine watersheds had the larger median particle size (D50).",
+      "ground_truth_chunks": [
+        "The pristine watershed samples were closely clustered and characterized by a larger median particle size (means: 48–70  $\\mu$ m), and greater carbonate content (79%) than samples from intermediate or disturbed watersheds (Fig. 4; Table 2).",
+        "| Tafeu              | Pristine          | 10.5 ± 1.7           | 69.6 ± 15.9          | 349 ± 109            |",
+        "Median particle size (i.e. D50) varied across sites but was smaller in the disturbed watersheds (Table 2)."
+      ]
+    },
+    {
+      "record_id": "5e24bb522a7cb5d2f70bb2dc",
+      "paper_id": "Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS",
+      "source_path": "output/Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS.md",
+      "section_heading": "4. Discussion",
+      "section_start_line": 183,
+      "section_end_line": 186,
+      "model": "openai:gpt-4o-mini",
+      "question": "What differences in water quality and benthic reef community composition were observed between sites adjacent to pristine watersheds and sites adjacent to intermediate and disturbed watersheds on Tutuila, American Samoa?",
+      "ground_truth_answer": "Sites adjacent to pristine watersheds had lower nutrient concentrations and sediment accumulation rate, and higher cover of hard coral and CCA. Sites adjacent to intermediate and disturbed watersheds had higher nutrient concentrations and sedimentation, and higher cover of macroalgae, turf algae, and rubble.",
+      "ground_truth_chunks": [
+        "Water quality parameters and the composition of shallow water benthic reef communities exhibited distinct differences among watershed types on Tutuila, American Samoa, with sites adjacent to pristine watersheds generally characterized by lower nutrient concentrations and sediment accumulation rate, and higher cover of hard coral and CCA cover.",
+        "In contrast, sites adjacent to intermediate and disturbed watersheds had higher nutrient concentrations and sedimentation, and higher cover of macroalgae, turf algae, and rubble."
+      ]
+    },
+    {
+      "record_id": "f5c030224215b4a6952e00a4",
+      "paper_id": "Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS",
+      "source_path": "output/Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS.md",
+      "section_heading": "4.2. Drivers of hard coral and CCA cover",
+      "section_start_line": 269,
+      "section_end_line": 272,
+      "model": "openai:gpt-4o-mini",
+      "question": "What unexpected effect did dissolved inorganic nitrogen (DIN) load from piggeries and On-Site Disposal Systems have on hard coral cover according to section 4.2?",
+      "ground_truth_answer": "The section reports a significant and positive effect: DIN load (kg/day) from piggeries and On-Site Disposal Systems was significantly and positively related to hard coral cover.",
+      "ground_truth_chunks": [
+        "Another unexpected finding was the significant and positive effect of DIN load (kg/day) from piggeries and On-Site Disposal Systems on hard coral cover, a surprising finding also shared between coral diversity and proximity to impaired water quality sites in the US Virgin Islands [\\(Oliver et al., 2018](#page-13-0)).",
+        "Although increased nutrients negatively affect corals for the most part, positive correlations does not always necessarily infer causality."
+      ]
+    },
+    {
+      "record_id": "88e8fd8d2411629e68533218",
+      "paper_id": "Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS",
+      "source_path": "output/Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS.md",
+      "section_heading": "4.4. Limitations of the study",
+      "section_start_line": 289,
+      "section_end_line": 294,
+      "model": "openai:gpt-4o-mini",
+      "question": "What sediment trap accumulation rate mentioned in the section could potentially negatively affect coral growth and abundance?",
+      "ground_truth_answer": "Sediment trap accumulation rates below 10 mg/cm2/d.",
+      "ground_truth_chunks": [
+        "Critical threshold values for deposited and suspended sediment on coral reefs range between 10 and 300 mg/ cm2 /d or mg/L ([Erftemeijer et al., 2012\\)](#page-12-0).",
+        "Sediment trap accumulation rates of below 10 mg/cm2/d across all sites, could potentially negatively affect coral growth and abundance."
+      ]
+    },
+    {
+      "record_id": "1c37cd264a0e11be9107497a",
+      "paper_id": "Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS",
+      "source_path": "output/Comeros-Raynal 2021 Terrestrial Run off in AS/Comeros-Raynal 2021 Terrestrial Run off in AS.md",
+      "section_heading": "CRediT authorship contribution statement",
+      "section_start_line": 299,
+      "section_end_line": 302,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which authors were credited with 'Funding acquisition' in the CRediT authorship contribution statement?",
+      "ground_truth_answer": "Mia Comeros-Raynal and Andrew S. Hoey.",
+      "ground_truth_chunks": [
+        "**Mia Comeros-Raynal:** Conceptualization, Methodology, Investigation, Data curation, Formal analysis, Software, Visualization, Writing – original draft, Writing – review & editing, Funding acquisition, Software.",
+        "**Andrew S. Hoey:** Conceptualization, Methodology, Funding acquisition, Supervision, Writing – review & editing."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Wass-1983-Design.implement.FAD.AS/Wass-1983-Design.implement.FAD.AS.md",
+  "source_sha256": "8e399e71fce8f58b6c4def82436f9f8ef01f2ccf5de2f276af7b1f1a610b0906",
+  "status": "complete",
+  "selected_section_count": 4,
+  "successful_record_count": 4,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "3ec86fcf2f89616a0adf2388",
+      "paper_id": "Wass-1983-Design.implement.FAD.AS/Wass-1983-Design.implement.FAD.AS",
+      "source_path": "output/Wass-1983-Design.implement.FAD.AS/Wass-1983-Design.implement.FAD.AS.md",
+      "section_heading": "GOVERNMENT OF AMERICAN SAMOA 66799 OFFICE OF MARINE RESOURCES",
+      "section_start_line": 5,
+      "section_end_line": 62,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the three objectives of the project described in the report?",
+      "ground_truth_answer": "The objectives were: (1) to re-establish six aggregation devices in the waters around Tutuila Island; (2) to \"beef up\" the materials from which the FAD's were constructed, thereby giving them life expectancies of five to ten years; and (3) to reap the benefits accruing from the system.",
+      "ground_truth_chunks": [
+        "Its objectives were 1) to re-establish six aggregation devices in the waters around Tutuila Island; 2) to \"beef up\" the materials from which the FAD's were constructed, thereby giving them life expectancies of five to ten years; and 3) to reap the benefits accruing from the system."
+      ]
+    },
+    {
+      "record_id": "c2ed005d09faacd5f7211ed4",
+      "paper_id": "Wass-1983-Design.implement.FAD.AS/Wass-1983-Design.implement.FAD.AS",
+      "source_path": "output/Wass-1983-Design.implement.FAD.AS/Wass-1983-Design.implement.FAD.AS.md",
+      "section_heading": "FAD Deployment",
+      "section_start_line": 63,
+      "section_end_line": 108,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which FAD had the longest lifespan and how long did it remain in position?",
+      "ground_truth_answer": "FAD C<sub>3</sub> — it remained in position for over thirteen months and had the longest lifespan of any deployed by OMR to date.",
+      "ground_truth_chunks": [
+        "FAD C<sub>3</sub>- Deployed in August, 1981 by the \"SAUSAUIMOANA\".",
+        "This FAD remained in position for over thirteen months and had the longest lifespan of any deployed by OMR to date."
+      ]
+    },
+    {
+      "record_id": "29792816f9e9b9a95be8d82f",
+      "paper_id": "Wass-1983-Design.implement.FAD.AS/Wass-1983-Design.implement.FAD.AS",
+      "source_path": "output/Wass-1983-Design.implement.FAD.AS/Wass-1983-Design.implement.FAD.AS.md",
+      "section_heading": "FAD Loss",
+      "section_start_line": 109,
+      "section_end_line": 116,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what was the major cause of FAD loss and what remedies were suggested?",
+      "ground_truth_answer": "The major cause was the mooring line floating on or near the surface where it was cut by a boat keel or propellor; suggested remedies were elimination of slack or scope from the mooring, use of negatively buoyant line, or use of a counterweight to sink the line.",
+      "ground_truth_chunks": [
+        "The major cause appears to be related to the mooring line floating on or near the surface where it was cut by a boat keel or propellor.",
+        "The problem could be solved by the elimination of slack or scope from the mooring, the use of negatively buoyant line, or the use of a counterweight to sink the line."
+      ]
+    },
+    {
+      "record_id": "49099ce7a47fcbfc16af272a",
+      "paper_id": "Wass-1983-Design.implement.FAD.AS/Wass-1983-Design.implement.FAD.AS",
+      "source_path": "output/Wass-1983-Design.implement.FAD.AS/Wass-1983-Design.implement.FAD.AS.md",
+      "section_heading": "FAD Benefits",
+      "section_start_line": 117,
+      "section_end_line": 199,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Job III-1 monthly trolling surveys, what were the average catch rates (lbs/hr) near FADs B and C compared to elsewhere?",
+      "ground_truth_answer": "Average catch rate near FADs B and C was 28.2 lbs/hr versus 15.7 lbs/hr elsewhere (almost twice as great near FADs).",
+      "ground_truth_chunks": [
+        "A total of 13.25 hours of survey effort has been expended around FAD's B and C since 1981 and 125.75 hours have been expended elsewhere. A total of 374 lbs of fish were caught near the FAD's for an average catch of 28.2 lbs/hr. A total of 1977 lbs were caught elsewhere for an average of 15.7 lbs/hr. Catch rate in the vicinity of FAD's was, thus, almost twice as great as in other areas. The FAD\n\ncatches were dominated by blue marlin, yellowfin and dolphin."
+      ]
+    }
+  ],
+  "failures": []
+}

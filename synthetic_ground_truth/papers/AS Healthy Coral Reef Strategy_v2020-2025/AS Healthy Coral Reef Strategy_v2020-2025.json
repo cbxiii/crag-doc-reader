@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "source_path": "output/AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025.md",
+  "source_sha256": "8dd692b009eeb71512916ed1dbe273b096577786d2398e589d86abbfff47b4e7",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "fa88ff287da85f54e2dd9e99",
+      "paper_id": "AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025",
+      "source_path": "output/AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025.md",
+      "section_heading": "LIST OF ACRONYMS",
+      "section_start_line": 15,
+      "section_end_line": 50,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does the acronym PacIOOS stand for?",
+      "ground_truth_answer": "Pacific Island Ocean Observing System",
+      "ground_truth_chunks": [
+        "| PacIOOS   | Pacific Island Ocean Observing System                             |"
+      ]
+    },
+    {
+      "record_id": "8a3dc16530ab36daad2c0b48",
+      "paper_id": "AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025",
+      "source_path": "output/AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025.md",
+      "section_heading": "Unsustainable Fisheries",
+      "section_start_line": 75,
+      "section_end_line": 90,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species is reported as being on the brink of local extinction in American Samoa due to fishing?",
+      "ground_truth_answer": "The bumphead parrotfish (Bolbometopon muricatum).",
+      "ground_truth_chunks": [
+        "While it is unknown what fish population levels may have existed originally in American Samoa, at least one species, bumphead parrotfish (*Bolbometopon muricatum*), is now on the brink of local extinction (due to fishing) based on reports of very rare sightings.",
+        "Therefore, a ban on the take of several species of large-bodied reef fish [bumphead parrotfish, all sharks, humphead wrasse (*Cheilinus undulatus*), giant trevally (*Caranx ignobilis*) and giant grouper (*Epinephelus lanceolatus*)] was proposed in 2007 based strictly on rarity."
+      ]
+    },
+    {
+      "record_id": "65f49f747953323304816827",
+      "paper_id": "AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025",
+      "source_path": "output/AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025.md",
+      "section_heading": "Education & Outreach",
+      "section_start_line": 109,
+      "section_end_line": 123,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what date will the CRAG Education and Outreach Coordinator create an outreach and education toolkit?",
+      "ground_truth_answer": "By January 2020.",
+      "ground_truth_chunks": [
+        "Objective 1.1: The CRAG Education and Outreach Coordinator (EOC) will create an outreach and education toolkit by January 2020."
+      ]
+    },
+    {
+      "record_id": "46f7808d00a1b98dcd48a668",
+      "paper_id": "AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025",
+      "source_path": "output/AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025.md",
+      "section_heading": "Tasks/strategies:",
+      "section_start_line": 144,
+      "section_end_line": 154,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what year does Objective 2.1 aim to complete 5 murals and establish 5 marine debris working groups?",
+      "ground_truth_answer": "By 2024.",
+      "ground_truth_chunks": [
+        "Objective 2.1: By 2024, the EOC will complete 5 murals and establish 5 marine debris working groups in varying communities (with outreach data collection included)."
+      ]
+    },
+    {
+      "record_id": "613d6c01eca817261eea8490",
+      "paper_id": "AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025",
+      "source_path": "output/AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025.md",
+      "section_heading": "Tasks/strategies:",
+      "section_start_line": 174,
+      "section_end_line": 179,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does Objective 3.4 propose to support teachers' professional development?",
+      "ground_truth_answer": "Work with DOE to support teachers' professional development by delivering training via marine science presentations and relevant lesson plans that support DOE's Marine Science Standards and Benchmarks for American Samoa and address general issues related to coral reefs in the Territory.",
+      "ground_truth_chunks": [
+        "Objective 3.4: Work with DOE to support teachers' professional development by delivering training via marine science presentations and relevant lesson plans that effectively support DOE's Marine Science Standards and Benchmarks for American Samoa, as well as general issues related to coral reefs in the Territory.",
+        "o Identify and work with interested science/marine science teachers to conduct reef check survey and possibly doing a coral nursery. (Some student might take up interest in doing this as a science fair project. Maybe grade 10.)"
+      ]
+    },
+    {
+      "record_id": "2c3f02db74b8131b6b383315",
+      "paper_id": "AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025",
+      "source_path": "output/AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025.md",
+      "section_heading": "<span id=\"page-11-0\"></span>GOAL 4: Increase the environmental literacy of local government leaders.",
+      "section_start_line": 208,
+      "section_end_line": 215,
+      "model": "openai:gpt-4o-mini",
+      "question": "By when will the EOC develop presentations and evaluation questionnaires targeting local government leaders?",
+      "ground_truth_answer": "By the end of 2020.",
+      "ground_truth_chunks": [
+        "Objective 4.1: The EOC will develop presentations and evaluation questionnaires targeting local government leaders by the end of 2020."
+      ]
+    },
+    {
+      "record_id": "6625439a51ef0576294ddb05",
+      "paper_id": "AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025",
+      "source_path": "output/AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025.md",
+      "section_heading": "Research",
+      "section_start_line": 242,
+      "section_end_line": 295,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what year does Objective 7.7 plan to develop comprehensive ecosystem models for American Samoa?",
+      "ground_truth_answer": "By 2025.",
+      "ground_truth_chunks": [
+        "Objective 7.7: By 2025, develop comprehensive ecosystem models (including climate change effects) for American Samoa for various outputs (e.g., focusing on areas of high productivity, coral settlement and recruitment). (Lead: TBD) (*funding needed*)"
+      ]
+    },
+    {
+      "record_id": "78d15c9f602f9958ef0d30e0",
+      "paper_id": "AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025",
+      "source_path": "output/AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025.md",
+      "section_heading": "TERRITORY-WIDE MANAGEMENT",
+      "section_start_line": 354,
+      "section_end_line": 389,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what year does Objective 14.1 aim to conduct a fish and invertebrate sustainable management workshop with all relevant local agencies?",
+      "ground_truth_answer": "By 2021.",
+      "ground_truth_chunks": [
+        "Objective 14.1: By 2021, conduct a fish and invertebrate sustainable management workshop with all relevant local agencies. (Lead: DMWR, CRAG) (*funding and facilitation needed*)"
+      ]
+    },
+    {
+      "record_id": "5c3ef55a5770aa28a65de325",
+      "paper_id": "AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025",
+      "source_path": "output/AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025.md",
+      "section_heading": "<span id=\"page-19-0\"></span>GOAL 19: Enhance collaboration among local, regional, and international resource agencies and organizations.",
+      "section_start_line": 416,
+      "section_end_line": 433,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which organization is listed as the lead for Objective 19.1 to share environmental data and activities locally and regionally?",
+      "ground_truth_answer": "CRAG",
+      "ground_truth_chunks": [
+        "Objective 19.1: Share environmental data and activities locally and regionally (including invasive species and climate change impacts) via annual or semi-annual meetings or webinars between ASG departments and regional partners[CRAG agencies; Samoan resource programs within Ministry of Fisheries and Agriculture, Ministry of Natural Resource Environment (MNRE); SPREP; SPC; LMMA; USP; CI; TNC; NOAA; and NGOs.]. (Lead: CRAG) (*funding needed*)"
+      ]
+    },
+    {
+      "record_id": "1fa30a83c13c129bcfd69989",
+      "paper_id": "AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025",
+      "source_path": "output/AS Healthy Coral Reef Strategy_v2020-2025/AS Healthy Coral Reef Strategy_v2020-2025.md",
+      "section_heading": "Update Table",
+      "section_start_line": 615,
+      "section_end_line": 738,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the 'Update Table' section, what is GOAL 7?",
+      "ground_truth_answer": "GOAL 7 is: \"Understand American Samoa's ecosystem processes using existing data in order to make well-informed management decisions.\"",
+      "ground_truth_chunks": [
+        "GOAL 7: Understand American Samoa's ecosystem processes using existing data in order to make well-informed management decisions."
+      ]
+    }
+  ],
+  "failures": []
+}

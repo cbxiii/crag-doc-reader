@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006.md",
+  "source_sha256": "1e0b0bdfe54b1640192f5403e13e183432fe3722237e1d77cc90f6db35d93010",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "ab9f2a19ca29d1f3841133a6",
+      "paper_id": "Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006",
+      "source_path": "output/Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006.md",
+      "section_heading": "Contributing Authors",
+      "section_start_line": 17,
+      "section_end_line": 42,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Department and NOAA officials are listed in the Contributing Authors section, and what are their titles?",
+      "ground_truth_answer": "United States Department of Commerce; National Oceanic and Atmospheric Administration; National Marine Fisheries Service. Officials listed: Carlos M. Gutierrez — Secretary; Vice Admiral Conrad C. Lautenbacher, Jr. USN (Ret.) — Administrator; James W. Balsiger, Ph.D. — Acting Assistant Administrator for Fisheries.",
+      "ground_truth_chunks": [
+        "United States Department of Commerce\n\nNational Oceanic and Atmospheric Administration\n\nNational Marine Fisheries Service",
+        "Carlos M. Gutierrez Secretary\n\nVice Admiral Conrad C. Lautenbacher, Jr. USN (Ret.) Adminstrator\n\nJames W. Balsiger, Ph.D. Acting Assistant Administrator for Fisheries"
+      ]
+    },
+    {
+      "record_id": "c77743a86330b9566e817c9e",
+      "paper_id": "Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006",
+      "source_path": "output/Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006.md",
+      "section_heading": "Shipboard ADCPs",
+      "section_start_line": 900,
+      "section_end_line": 903,
+      "model": "openai:gpt-4o-mini",
+      "question": "What ADCP frequencies, platforms, sampling bin sizes, and depth ranges were used on the ASRAMP shipboard surveys in 2002 and in 2004/2006?",
+      "ground_truth_answer": "2002: A hull-mounted 153-kHz RDI narrow beam ADCP on the Townsend Cromwell collecting current profiles in 8-m sampling bins over depths between 20 and approximately 250 m (averaged into over 5-min ensembles). 2004/2006: Hull-mounted 75 kHz RDI Ocean Surveyor instruments on the Oscar Elton Sette and Hi`ialakai, configured with an 8-m pulse length that typically collected current profiles in 16-m depth bins between depths ranging from 25 to about 600 m (averaged into 15-min ensembles).",
+      "ground_truth_chunks": [
+        "During the 2002 cruise aboard the *Townsend Cromwell*, the surveys were conducted using a hull-mounted 153-kHz RD Instruments (RDI) narrow beam ADCP, which collected current profiles in 8-m sampling bins over depths between 20 and approximately 250 m, averaged into over 5-min ensembles.",
+        "During the 2004 and 2006 cruises aboard the *Oscar Elton Sette* and *Hi*`*ialakai*, the surveys were conducted using hull-mounted 75 kHz RDI Ocean Surveyor instruments. These systems were configured with an 8-m pulse length which typically collects current profiles in 16-m depth bins between depths ranging from 25 to about 600 m averaged into 15-min ensembles."
+      ]
+    },
+    {
+      "record_id": "e87f6ef582cc1e20d9cc040d",
+      "paper_id": "Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006",
+      "source_path": "output/Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006.md",
+      "section_heading": "Skeletal Growth Anomaly",
+      "section_start_line": 1176,
+      "section_end_line": 1179,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the two most common types of skeletal growth anomalies and how are they defined?",
+      "ground_truth_answer": "The two most common types are hyperplasia — a process that leads to an increase in the number of cells in a tissue or organ, thereby increasing the bulk of the tissue or the organ — and neoplasia — a pathologic process that results in the formation and growth of an undifferentiated mass of cells.",
+      "ground_truth_chunks": [
+        "Skeletal growth anomalies were characterized by changes in the shape or form of coral skeletons resulting in unusual lumps and protuberances associated with an abnormal deposition of calcium carbonate (Fig. 2.4.1.1b[d]).",
+        "The two most common types of skeletal growth anomalies are hyperplasia, a process that leads to an increase in the number of cells in a tissue or organ, thereby increasing the bulk of the tissue or the organ, and neoplasia, a pathologic process that results in the formation and growth of an undifferentiated mass of cells."
+      ]
+    },
+    {
+      "record_id": "f072cbfb62b7878b2a8fc021",
+      "paper_id": "Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006",
+      "source_path": "output/Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006.md",
+      "section_heading": "3.3 Benthic Habitat Mapping and Characterization",
+      "section_start_line": 1500,
+      "section_end_line": 1503,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which survey methods were used for benthic habitat mapping and characterization of the nearshore waters around Tutuila and Aunu`u?",
+      "ground_truth_answer": "Acoustic multibeam sonar, underwater video and still imagery, and towed-diver survey observations.",
+      "ground_truth_chunks": [
+        "Benthic habitat mapping and characterization of the nearshore waters around Tutuila and Aunu`u were conducted using acoustic multibeam sonar, underwater video and still imagery, and towed-diver survey observations.",
+        "Acoustic multibeam sonar mapping provided bathymetric and backscatter data products in depths between ~ 20 and 250 m.",
+        "Optical validation and benthic characterization via underwater video, still imagery, and diver observations were performed using both shipboard TOAD surveys in depths between ~ 20 and 80 m and toweddiver surveys in depths between 1 and 30 m."
+      ]
+    },
+    {
+      "record_id": "e0767f89927dd05349080613",
+      "paper_id": "Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006",
+      "source_path": "output/Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006.md",
+      "section_heading": "3.8.2 Temporal Comparison—Reef Fish",
+      "section_start_line": 2128,
+      "section_end_line": 2143,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the all-year average for total fish biomass (tons ha-1) around Tutuila and Aunu`u reported in section 3.8.2?",
+      "ground_truth_answer": "The all-year average for total fish biomass is 0.72 tons ha-1 (SE 0.41).",
+      "ground_truth_chunks": [
+        "The all-year average for total fish biomass is 0.72 tons ha-1 (SE 0.41)."
+      ]
+    },
+    {
+      "record_id": "a9abf7ff1ff48376dae2674c",
+      "paper_id": "Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006",
+      "source_path": "output/Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006.md",
+      "section_heading": "2002 Spatial Surveys",
+      "section_start_line": 2742,
+      "section_end_line": 2759,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the mean total fish biomass for Ofu and Olosega in 2002 (kg 100 m-2)?",
+      "ground_truth_answer": "Mean total fish biomass for these islands in 2002 was 10.2 kg 100 m-2 (SE 2.0).",
+      "ground_truth_chunks": [
+        "Total fish biomass was similar around the two islands, with biomasses ranging from 7 to 16 kg 100 m-2 of reef habitat (Fig. 4.8.1b).",
+        "Mean total fish biomass for these islands in 2002 was 10.2 kg 100 m-2 (SE 2.0)."
+      ]
+    },
+    {
+      "record_id": "31563b005e23abeec3b93384",
+      "paper_id": "Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006",
+      "source_path": "output/Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006.md",
+      "section_heading": "<span id=\"page-293-0\"></span>2006 Spatial Surveys",
+      "section_start_line": 3397,
+      "section_end_line": 3410,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which target macroinvertebrate was present at all nine REA sites around Ta`u during ASRAMP 2006?",
+      "ground_truth_answer": "Sea urchins were present at all nine REA sites.",
+      "ground_truth_chunks": [
+        "Target macroinvertebrates were common around Ta`u during ASRAMP 2006, with sea urchins present at all nine REA sites (Fig. 5.7.1e).",
+        "The boring urchin, *Echinostrephus aciculatus*, was the most common urchin species seen around Ta`u."
+      ]
+    },
+    {
+      "record_id": "65ff56e1886351ae2b9ae904",
+      "paper_id": "Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006",
+      "source_path": "output/Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006.md",
+      "section_heading": "2002 Spatial Surveys",
+      "section_start_line": 4063,
+      "section_end_line": 4072,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many qualitative REA invertebrate surveys were conducted around Rose during ASRAMP 2002?",
+      "ground_truth_answer": "A total of 6 qualitative REA invertebrate surveys were conducted.",
+      "ground_truth_chunks": [
+        "A total of 6 qualitative REA invertebrate surveys, focusing on general macroinvertebrate biodiversity, were conducted around Rose during ASRAMP 2002.",
+        "No data are presented."
+      ]
+    },
+    {
+      "record_id": "06d49d76a5cc980995630e9d",
+      "paper_id": "Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006",
+      "source_path": "output/Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006.md",
+      "section_heading": "2002 Spatial Surveys",
+      "section_start_line": 4713,
+      "section_end_line": 4722,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the mean density of COTS observed around Swains during ASRAMP 2002?",
+      "ground_truth_answer": "Mean density was 1.0 organisms ha-1.",
+      "ground_truth_chunks": [
+        "Towed-diver benthic macroinvertebrate surveys around Swains during ASRAMP 2002 found that COTS were commonly observed around the entire island with a mean density of 1.0 organisms ha-1), but especially in the west, southeast, and north regions."
+      ]
+    },
+    {
+      "record_id": "19a6f62fbf75ed8d3f79ee80",
+      "paper_id": "Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006",
+      "source_path": "output/Brainard et al. 2008 NOAA report for 2002-2006/Brainard et al. 2008 NOAA report for 2002-2006.md",
+      "section_heading": "<span id=\"page-504-0\"></span>Appendix IV Reef Fish Surveys",
+      "section_start_line": 6122,
+      "section_end_line": 6306,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the all-years average total fish biomass (kg 100m-2) measured on fish belts in American Samoa?",
+      "ground_truth_answer": "11.8 ± 6.0 kg 100m-2.",
+      "ground_truth_chunks": [
+        "**Table IV.i.** Total fish fish biomass (kg 100m-2) in American Samoa, measured on fish belts (dividing by 10 gives values in tons ha-1).",
+        "|      | All-years average |    | 11.8 ± 6.0  | 1.1 ± 1.1   | 0.37 ± 0.06 | 0.53 ± 0.42 | 0.68 ± 0.14 | 0.34 ± 0.25 | 1.54 ± 0.78 |"
+      ]
+    }
+  ],
+  "failures": []
+}

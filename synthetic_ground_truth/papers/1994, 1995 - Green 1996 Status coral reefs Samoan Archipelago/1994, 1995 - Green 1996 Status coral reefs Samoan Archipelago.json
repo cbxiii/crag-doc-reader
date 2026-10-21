@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago.md",
+  "source_sha256": "d96c4d723414ef77e719e6c8cd32b365d0321150e8824bb747102958bb392fce",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "13b04724c17d55cafac6aaad",
+      "paper_id": "1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago",
+      "source_path": "output/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 9,
+      "section_end_line": 35,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the two objectives of this study?",
+      "ground_truth_answer": "1. To determine the current status of coral reef fishes and their habitat throughout the Samoan Archipelago, based on detailed quantitative surveys on eight islands and to provide a quantitative basis for long-term monitoring of these reefs. 2. To present the results of this study in a format that is useful to local managers of this important resource.",
+      "ground_truth_chunks": [
+        "- 1. To determine the current status of coral reef fishes and their habitat throughout the Samoan Archipelago. This will be based on a series of detailed, quantitative surveys of reefs on eight islands in the archipelago. The information collected in this survey will also provide a quantitative basis for the long term monitoring of these reefs.",
+        "- 2. To present the results of this study in a format that is useful to local managers of this important resource."
+      ]
+    },
+    {
+      "record_id": "aa27e706d7ef0fee91dbe1ed",
+      "paper_id": "1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago",
+      "source_path": "output/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago.md",
+      "section_heading": "Phase Three: Recovery of the coral communities after Hurricane Val",
+      "section_start_line": 110,
+      "section_end_line": 115,
+      "model": "openai:gpt-4o-mini",
+      "question": "When were the two habitat surveys conducted to compare coral cover for recovery after Hurricane Val?",
+      "ground_truth_answer": "August–November 1994 and April–May 1996.",
+      "ground_truth_chunks": [
+        "This comparison was based on the results of two habitat surveys done in August-November 1994 and April-May 1996, which took place three to five years after Hurricane Val in December 1991.",
+        "The recovery of the coral communities after Hurricane Val was also described by comparing the coral cover at six sites around Tutuila (Fagafue, Fagasa, Vatia, Masefau, Faga'alu and Fagaitua: see Fig. 3) over a period of 18 months."
+      ]
+    },
+    {
+      "record_id": "2ab23b8d9cb284ce40b506b3",
+      "paper_id": "1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago",
+      "source_path": "output/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago.md",
+      "section_heading": "Habitat description methods",
+      "section_start_line": 210,
+      "section_end_line": 215,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many sample points per transect were collected using the point-based method?",
+      "ground_truth_answer": "75 sample points per transect.",
+      "ground_truth_chunks": [
+        "Three sampling points were then used along each of the 2 m transects (one directly under the 50 m tape, and one 1 m either side).",
+        "Twenty-five 2 m intervals along the main transect were sampled in this manner, yielding 75 sample points per transect."
+      ]
+    },
+    {
+      "record_id": "0930839d20a848e7937c4bdf",
+      "paper_id": "1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago",
+      "source_path": "output/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago.md",
+      "section_heading": "Coral cover",
+      "section_start_line": 266,
+      "section_end_line": 271,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which habitat types had consistently low to moderate coral cover on all islands surveyed?",
+      "ground_truth_answer": "The crest and reef front (at both 10m and 20m).",
+      "ground_truth_chunks": [
+        "Cover was consistently low to moderate on the crest and reef front (at both 10m and 20m) on all islands surveyed."
+      ]
+    },
+    {
+      "record_id": "9e8f6d991e2b10cfd2dd9cdf",
+      "paper_id": "1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago",
+      "source_path": "output/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago.md",
+      "section_heading": "Upolu Island",
+      "section_start_line": 388,
+      "section_end_line": 506,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which site on 'Upolu Island was reported as the only site surveyed that was in poor condition?",
+      "ground_truth_answer": "The site at Eva.",
+      "ground_truth_chunks": [
+        "The only site surveyed that was in poor condition was at Eva (Table 4a), which appeared to receive heavy loads of sediment from a nearby stream.",
+        "| Eva             | low                   | low          | low          | moderate      |"
+      ]
+    },
+    {
+      "record_id": "03ca8333b43ab6c2f7d7235f",
+      "paper_id": "1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago",
+      "source_path": "output/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago.md",
+      "section_heading": "Rose Atoll",
+      "section_start_line": 567,
+      "section_end_line": 574,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year was Rose Atoll designated a National Wildlife Refuge?",
+      "ground_truth_answer": "1974.",
+      "ground_truth_chunks": [
+        "In 1974, Rose Atoll was designated a National Wildlife Refuge \"for the conservation, management, and protection of its unique and valuable fish and wildlife resources\" (Greenwalt 1974)."
+      ]
+    },
+    {
+      "record_id": "b071dfe097e15ad7711d1482",
+      "paper_id": "1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago",
+      "source_path": "output/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago.md",
+      "section_heading": "7. Research",
+      "section_start_line": 630,
+      "section_end_line": 633,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to section 7, what specific type of water pollution is highlighted as a high-priority research topic for assessing effects on Samoa's coral reefs and associated fisheries?",
+      "ground_truth_answer": "Water pollution, especially sedimentation.",
+      "ground_truth_chunks": [
+        "For example, there is a need to determine the effects of water pollution (especially sedimentation) on the coral reefs and associated fisheries of Samoa.",
+        "Unfortunately in many situations in Samoa, we do not have the adequate scientific information to make informed decisions that affect coral reefs, and there is a strong need to promote coral reef research in these islands."
+      ]
+    },
+    {
+      "record_id": "c04c53323edd5f80b353efad",
+      "paper_id": "1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago",
+      "source_path": "output/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago.md",
+      "section_heading": "Location of transects (see map below):",
+      "section_start_line": 1640,
+      "section_end_line": 1647,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many transects were done on the reef front (depth=10m) on the east side of Lefaga Bay?",
+      "ground_truth_answer": "Five transects were done on the reef front (depth=10m) on the east side of Lefaga Bay.",
+      "ground_truth_chunks": [
+        "Five transects were done on the reef front (depth=10m) on the east side of Lefaga Bay."
+      ]
+    },
+    {
+      "record_id": "adb1fcd4560214b185c46870",
+      "paper_id": "1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago",
+      "source_path": "output/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago.md",
+      "section_heading": "Location of transects (see map below):",
+      "section_start_line": 1702,
+      "section_end_line": 1709,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where did the five transects on the reef front (depth=10m) in front of Olosega Village start and in which direction did they continue?",
+      "ground_truth_answer": "They started approximately 50m south of the main ava and continued in a southerly direction past the school.",
+      "ground_truth_chunks": [
+        "Five transects were done consecutively on the reef front (depth=10m) in front of Olosega Village. The transects started approximately 50m south of the main ava and continued in a southerly direction past the school."
+      ]
+    },
+    {
+      "record_id": "de0570a52dd81dd77651a1e1",
+      "paper_id": "1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago",
+      "source_path": "output/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago/1994, 1995 - Green 1996 Status coral reefs Samoan Archipelago.md",
+      "section_heading": "APPENDIX V: RELATIVE ABUNDANCE OF FISH SPECIES ON DIFFERENT ISLANDS",
+      "section_start_line": 2466,
+      "section_end_line": 2835,
+      "model": "openai:gpt-4o-mini",
+      "question": "What relative abundance codes are recorded for Ctenochaetus striatus on Upolu, Tutuila, Manu'a, Rose, and Swains?",
+      "ground_truth_answer": "Upolu = D, Tutuila = D, Manu'a = D, Rose = D, Swains = C.",
+      "ground_truth_chunks": [
+        "Ctenochaetus striatus      | D      | D       | D      | D    | C      "
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Piniak&BrownBB09/Piniak&BrownBB09.md",
+  "source_sha256": "9830bb98b06856a9ea80f635f4d5f50d77c3a30c477afa2a4a26f6eae4024ac2",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "217c4855432dc9754cdab1ae",
+      "paper_id": "Piniak&BrownBB09/Piniak&BrownBB09",
+      "source_path": "output/Piniak&BrownBB09/Piniak&BrownBB09.md",
+      "section_heading": "Temporal Variability in Chlorophyll Fluorescence of Back-Reef Corals in Ofu, American Samoa",
+      "section_start_line": 1,
+      "section_end_line": 8,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species did not demonstrate significant temporal changes in the three fluorescence parameters?",
+      "ground_truth_answer": "Montipora grisea did not demonstrate significant temporal changes in the three fluorescence parameters.",
+      "ground_truth_chunks": [
+        "In winter, the zooxanthellae generally had higher darkadapted maximum quantum yield (*Fv /Fm*), higher lightadapted effective quantum yield (*F*/*Fm*- ), and lower relative electron transport rates (rETR) than in the summer.",
+        "All species surveyed, with the exception of *Montipora grisea*, demonstrated significant temporal changes in the three fluorescence parameters."
+      ]
+    },
+    {
+      "record_id": "667c0a01aab1af72ca33c8fb",
+      "paper_id": "Piniak&BrownBB09/Piniak&BrownBB09",
+      "source_path": "output/Piniak&BrownBB09/Piniak&BrownBB09.md",
+      "section_heading": "Introduction",
+      "section_start_line": 9,
+      "section_end_line": 34,
+      "model": "openai:gpt-4o-mini",
+      "question": "What hypothesis did the study test regarding corals in thermally stable microhabitats versus those in more variable environments?",
+      "ground_truth_answer": "The study tested the hypothesis that corals in thermally stable microhabitats experience smaller temporal differences in their photobiology than corals in more variable environments.",
+      "ground_truth_chunks": [
+        "The purpose of this study was to determine whether back-reef corals in Ofu differ in their fluorescence signals at different times of the year.",
+        "Measurements in two back-reef pools at two different time periods were used to test the hypothesis that corals in thermally stable microhabitats experience smaller temporal differences in their photobiology than corals in more variable environments."
+      ]
+    },
+    {
+      "record_id": "233acd12da964411aa342f94",
+      "paper_id": "Piniak&BrownBB09/Piniak&BrownBB09",
+      "source_path": "output/Piniak&BrownBB09/Piniak&BrownBB09.md",
+      "section_heading": "Materials and Methods",
+      "section_start_line": 35,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the average daily seawater temperatures and daily fluctuations in the Ofu back-reef pools?",
+      "ground_truth_answer": "Average daily temperatures of 25.8–33.5 °C, with daily fluctuations of ≈ 6 °C.",
+      "ground_truth_chunks": [
+        "The pools are characterized by elevated seawater temperatures (average daily temperatures of 25.8–33.5 °C, with daily fluctuations of  $\\approx$ 6 °C); low turbidity (typically <2 NTU); highly variable dissolved oxygen content (23%-212%); relatively constant salinity (practical salinity  $\\approx$ 36); and semidiurnal, intermittent water flow (Craig et al., 2001; Smith and Birkeland, 2003).",
+        "Pool 300 is smaller, shallower, and more thermally variable (Smith and Birkeland, 2003), making it a potentially more stressful environment than the relatively stable pool 400."
+      ]
+    },
+    {
+      "record_id": "2cb715ff598d5599f47e9939",
+      "paper_id": "Piniak&BrownBB09/Piniak&BrownBB09",
+      "source_path": "output/Piniak&BrownBB09/Piniak&BrownBB09.md",
+      "section_heading": "Fluorescence yield measurements",
+      "section_start_line": 41,
+      "section_end_line": 79,
+      "model": "openai:gpt-4o-mini",
+      "question": "What equation was used to calculate the relative electron transport rate (rETR)?",
+      "ground_truth_answer": "rETR = ΔF/F'_m × PAR × 0.5.",
+      "ground_truth_chunks": [
+        "The relative electron transport rate (rETR) was calculated using a modified equation\n\n$$rETR = \\Delta F/F'_m \\times PAR \\times 0.5;$$\n\nwhere 0.5 is a constant assuming equal distribution of photons absorbed by the two photosystems (Hoegh-Guldberg and Jones, 1999).",
+        "In the above equation, relative ETR does not account for the fraction of light absorbed by the photosynthetic tissue (Hoegh-Guldberg and Jones, 1999), which is very difficult to measure for corals (see Enriquez *et al.*, 2005)."
+      ]
+    },
+    {
+      "record_id": "6deb1dfe8c400810f1219424",
+      "paper_id": "Piniak&BrownBB09/Piniak&BrownBB09",
+      "source_path": "output/Piniak&BrownBB09/Piniak&BrownBB09.md",
+      "section_heading": "Statistical analysis",
+      "section_start_line": 80,
+      "section_end_line": 106,
+      "model": "openai:gpt-4o-mini",
+      "question": "What data transformations were applied when data did not meet normality or homogeneity assumptions?",
+      "ground_truth_answer": "Data were transformed as appropriate: log for PAR and water temperature, square-root for rETR, and arcsin–square root for yield measurements.",
+      "ground_truth_chunks": [
+        "Normality assumptions were tested using a Kolmogorov-Smirnoff test for goodness of fit (Zar, 1984), and data were tested for homogeneity of variance using Levene's test. Data that did not meet these assumptions were transformed as appropriate (log for PAR and water temperature, square-root for rETR, and arcsin–square root for yield measurements)."
+      ]
+    },
+    {
+      "record_id": "293f6ee6a69b92a99216d5a8",
+      "paper_id": "Piniak&BrownBB09/Piniak&BrownBB09",
+      "source_path": "output/Piniak&BrownBB09/Piniak&BrownBB09.md",
+      "section_heading": "Physical parameters",
+      "section_start_line": 109,
+      "section_end_line": 118,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the range of mean water temperature during the fluorometry measurements in pool 300?",
+      "ground_truth_answer": "Mean water temperature in pool 300 ranged from 30.9 °C (summer day) to 27.0 °C (winter night).",
+      "ground_truth_chunks": [
+        "Mean water temperature during the fluorometry measurements in pool 300 ranged from 30.9 °C (summer day) to 27.0 °C (winter night), with intermediate temperatures in pool 400 (27.0–30.6 °C).",
+        "Summer temperatures were 3.9 °C warmer than winter water in pool 300 and 3.6 °C in pool 400."
+      ]
+    },
+    {
+      "record_id": "e25337206926420fb846adb0",
+      "paper_id": "Piniak&BrownBB09/Piniak&BrownBB09",
+      "source_path": "output/Piniak&BrownBB09/Piniak&BrownBB09.md",
+      "section_heading": "Fluorometric responses",
+      "section_start_line": 119,
+      "section_end_line": 173,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two coral species had the highest night-time (dark-adapted) Fv/Fm in the winter?",
+      "ground_truth_answer": "Goniastrea retiformis and Pocillopora eydouxi.",
+      "ground_truth_chunks": [
+        "Night-time *Fv /Fm* of zooxanthellae (Fig. 3) showed significant differences among species only in pool 400 (winter *F*9,40 5.76, *P* 0.0001; summer *F*9,40 4.61, *P* 0.0003).",
+        "In the winter, *Goniastrea retiformis* and *Pocillopora eydouxi* had the highest zooxanthellate *Fv /Fm*, and these values were significantly higher (Tukey HSD, *P* 0.05) than in *Astreopora myriopthalma* and *Favia matthaii*."
+      ]
+    },
+    {
+      "record_id": "4f549febda497f49c13063c2",
+      "paper_id": "Piniak&BrownBB09/Piniak&BrownBB09",
+      "source_path": "output/Piniak&BrownBB09/Piniak&BrownBB09.md",
+      "section_heading": "Discussion",
+      "section_start_line": 174,
+      "section_end_line": 177,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which measurement has proven to be a robust predictor of numerous physiological stressors in corals?",
+      "ground_truth_answer": "Dark-adapted fluorescence yield (Fv /Fm).",
+      "ground_truth_chunks": [
+        "Dark-adapted fluorescence yield (*Fv /Fm*) has proven to be a robust predictor of numerous physiological stressors in corals, and may be the best indicator of long-term shifts in the integrity of photosystem II and photoacclimatization due to changes in concentrations of zooxanthellae and photosynthetic pigments.",
+        "*F/Fm* and rETR also have some predictive capability for bleaching (Lesser and Gorbunov, 2001; Yakovleva and Hidaka, 2004)."
+      ]
+    },
+    {
+      "record_id": "32fdbdd46a0b82ff3dfb511a",
+      "paper_id": "Piniak&BrownBB09/Piniak&BrownBB09",
+      "source_path": "output/Piniak&BrownBB09/Piniak&BrownBB09.md",
+      "section_heading": "Temporal differences in fluorescence response",
+      "section_start_line": 178,
+      "section_end_line": 232,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species showed no seasonal response in any fluorescence parameter?",
+      "ground_truth_answer": "Montipora grisea.",
+      "ground_truth_chunks": [
+        "First, *Montipora grisea* showed no seasonal response in any fluorescence parameter—which suggests that for this species the observed summer conditions were relatively benign and no long-term photoinhibitory damage had occurred since winter."
+      ]
+    },
+    {
+      "record_id": "fd6a03ed205e11cd25de5e4d",
+      "paper_id": "Piniak&BrownBB09/Piniak&BrownBB09",
+      "source_path": "output/Piniak&BrownBB09/Piniak&BrownBB09.md",
+      "section_heading": "Species differences and implications for bleaching",
+      "section_start_line": 233,
+      "section_end_line": 295,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two species did the authors suggest were most vulnerable to bleaching in this study?",
+      "ground_truth_answer": "Goniastrea retiformis and Pocillopora eydouxi.",
+      "ground_truth_chunks": [
+        "This suggests that G. retiformis and Pocillopora eydouxi are the most vulnerable to bleaching of the species in this study.",
+        "Pocillopora eydouxi did show some visible signs of bleaching during this study, and few colonies in pool 400 gave a baseline signal sufficient for summer fluorescence measurements (Table 2)."
+      ]
+    }
+  ],
+  "failures": []
+}

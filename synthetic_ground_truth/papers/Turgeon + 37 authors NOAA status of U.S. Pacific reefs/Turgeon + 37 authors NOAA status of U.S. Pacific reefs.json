@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs.md",
+  "source_sha256": "40d0885d4dcd7dd14a7d970885e1dd3c5eaa43c1c7db8948797521b0669a172c",
+  "status": "partial",
+  "selected_section_count": 10,
+  "successful_record_count": 9,
+  "failure_count": 1,
+  "records": [
+    {
+      "record_id": "a0b635c8b40720e2cf2f36b6",
+      "paper_id": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+      "source_path": "output/Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs.md",
+      "section_heading": "THE STATE OF CORAL REEF THE STATE OF CORAL ECOSYSTEMS OF THE UNITED ECOSYSTEMS OF THE UNITED STATES AND PACIFIC FREELY STATES AND PACIFIC FREELY ASSOCIATED STATES: 2002 ASSOCIATED 2002 THE STATE OF CORAL REEF THE STATE OF CORAL REEF THE CORAL REEF ECOSYSTEMS OF THE UNITED ECOSYSTEMS OF THE UNITED ECOSYSTEMS OF THE UNITED STATES AND PACIFIC FREELY AND PACIFIC FREELY STATES FREELY ASSOCIATED STATES: 2002 ASSOCIATED STATES: 2002 2002",
+      "section_start_line": 3,
+      "section_end_line": 12,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which federal agency is named as cooperating on this document?",
+      "ground_truth_answer": "National Oceanic and Atmospheric Administration",
+      "ground_truth_chunks": [
+        "National Oceanic and Atmospheric Administration Administration In Cooperation with Partners from Federal, In Cooperation with Partners from Federal, State, Territorial, and Commonwealth Agencies, Agencies, and the Pacific Freely Associated States States"
+      ]
+    },
+    {
+      "record_id": "2c623d8aec0516d17a7eaba7",
+      "paper_id": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+      "source_path": "output/Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs.md",
+      "section_heading": "BACLGROUND BACLGROUND NATIONAL SUMMARY: NATIONAL SUMMARY: SUMMARY: NATIONAL SUMMARY: NATIONAL SUMMARY: BACKGROUND BACKGROUND Donna D. Turgeon and Rebecca G. Asch Turgeon and Rebecca Asch Donna D. AschDonna D. Turgeon and Rebecca G. Asch Donna D. and Rebecca G. Asch",
+      "section_start_line": 844,
+      "section_end_line": 877,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which areas does this report list as locations of Western Atlantic and Caribbean shallow-water coral reefs?",
+      "ground_truth_answer": "Off the State of Florida, the Commonwealth of Puerto Rico, the Territory of the U.S. Virgin Islands (USVI), and the Navassa Island National Wildlife Refuge.",
+      "ground_truth_chunks": [
+        "Coral reefs discussed in this report are found along the Western Atlantic and the continental shelf of the northern Gulf of Mexico, and around Caribbean\n\nand Pacific islands (Fig. 25).",
+        "Western Atlantic and Caribbean shallow-water coral reefs are off the State of Florida, the Commonwealth of Puerto Rico, the Territory of the U.S. Virgin Islands (USVI), and the Navassa Island National Wildlife Refuge."
+      ]
+    },
+    {
+      "record_id": "f71995e15ad276005068a969",
+      "paper_id": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+      "source_path": "output/Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs.md",
+      "section_heading": "Gaps in Ecosystem Monitoring – ${\\operatorname{To}}$ be able to",
+      "section_start_line": 1677,
+      "section_end_line": 1700,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, where is the most extensive spatial and long-term temporal monitoring of coral reef ecosystems conducted?",
+      "ground_truth_answer": "Over much of the Florida Keys National Marine Sanctuary.",
+      "ground_truth_chunks": [
+        "The most extensive spatial and long-term temporal\n\nmonitoring is conducted over much of the Florida Keys National Marine Sanctuary.",
+        "Sanctuary-wide monitoring of water quality, seagrasses, and coral and hard-bottom communities began in 1994 under a Water Quality Protection Program jointly undertaken by NOAA and the U.S. Environmental Protection Agency (USEPA)."
+      ]
+    },
+    {
+      "record_id": "9d07411aaf0889882f3d818f",
+      "paper_id": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+      "source_path": "output/Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs.md",
+      "section_heading": "Expand and Strengthen Marine Protected Protected Areas (MPAs) (MPAs)",
+      "section_start_line": 2894,
+      "section_end_line": 2945,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the Northwestern Hawaiian Islands Coral Reef Ecosystem Reserve is within the established Hawaiian Islands National Wildlife Refuge and protected by no-take provisions?",
+      "ground_truth_answer": "About 21.4%.",
+      "ground_truth_chunks": [
+        "In 2000, the Northwestern Hawaiian Islands Coral Reef Ecosystem Reserve was established by Executive Order (E.O. 13178). It is the largest U.S. marine protected area, covering approximately 130,900 mi² (339,900 km²) (NWHI Coral Reef Ecosystem Reserve 2002). About 21.4% of the Reserve is within the established Hawaiian Islands National Wildlife Refuge, and protected by no-take provisions."
+      ]
+    },
+    {
+      "record_id": "7ca93b6a5eb152d20143d713",
+      "paper_id": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+      "source_path": "output/Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs.md",
+      "section_heading": "Current Conservation Management Conservation Management",
+      "section_start_line": 4631,
+      "section_end_line": 4636,
+      "model": "openai:gpt-4o-mini",
+      "question": "To what depth have benthic habitat types in the USVI been digitally mapped?",
+      "ground_truth_answer": "They have been digitally mapped to a depth of 20 m.",
+      "ground_truth_chunks": [
+        "**Mapping Mapping –** Benthic habitat types found throughout the USVI have been digitally mapped to a depth of 20 m (Kendall et al. 2001).",
+        "These habitat maps will be the basis for establishing a number of permanent sites as part of a new USVI-wide longterm monitoring program."
+      ]
+    },
+    {
+      "record_id": "0f85a89315cad4884d301bb9",
+      "paper_id": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+      "source_path": "output/Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs.md",
+      "section_heading": "Research and and Monitoring – Funds provided by Congress, through NOAA's Ocean Service (NOS), helped establish the Hawai'i Coral Reef Initiative Research Program (HCRI-RP); a partnership between the University of Hawai'i and the State of Hawai'i Department of Land and Natural Resources, Division of Aquatic Resources.",
+      "section_start_line": 5417,
+      "section_end_line": 5483,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the stated goals of the Hawai'i Coral Reef Initiative Research Program (HCRI-RP)?",
+      "ground_truth_answer": "The goals are to assess major threats to coral reef ecosystems and provide information for more effective management; advance understanding of biological and physical processes affecting coral reef health and build management capacity; develop a database to store and access data; conduct public awareness programs on the threats to coral reefs; and implement education and training for coral reef scientists and managers.",
+      "ground_truth_chunks": [
+        "The goals of the HCRI-RP are to:\n\n- • Assess major threats to coral reef ecosystems, and provide information for more effective management,\n- • Advance the understanding of the biological and physical processes that affect the health of coral reefs and build management capacity,\n- • Develop a database to store and access data,\n- • Conduct public awareness programs on the threats to coral reefs, and\n- • Implement education and training for coral reef scientists and managers."
+      ]
+    },
+    {
+      "record_id": "570722c46a27e278adfcc5fc",
+      "paper_id": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+      "source_path": "output/Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs.md",
+      "section_heading": "Environmental Pressures on Coral Reefs",
+      "section_start_line": 6109,
+      "section_end_line": 6146,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of soil erosion in the Ugum River Watershed was attributed to sloped roads?",
+      "ground_truth_answer": "Forty six percent (46%).",
+      "ground_truth_chunks": [
+        "For the Ugum River Watershed, soil erosion was estimated at 176,500 tons/km²/year (DeMeo 1995).",
+        "Forty six percent of this was attributed to sloped roads, while 34% was contributed from badlands."
+      ]
+    },
+    {
+      "record_id": "544017e2aa96f78fc3f225e2",
+      "paper_id": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+      "source_path": "output/Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs.md",
+      "section_heading": "Coastal Populations and Reef Economics",
+      "section_start_line": 6787,
+      "section_end_line": 6800,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percentage did the population of FSM inhabited islands grow over the past ten years to 2000?",
+      "ground_truth_answer": "22.6%.",
+      "ground_truth_chunks": [
+        "The population for all FSM inhabited islands has grown by 22.6% over the past ten years to 133,100 in 2000 (U.S. Census Bureau 2002)."
+      ]
+    },
+    {
+      "record_id": "62a75871b2e166572817adec",
+      "paper_id": "Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs",
+      "source_path": "output/Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs.md",
+      "section_heading": "Appendix IV: Federal Protection for U.S. Coral Reef Ecosystems Appendix IV: for U.S. Ecosystems",
+      "section_start_line": 7735,
+      "section_end_line": 7753,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which federal law authorizes NOAA to designate areas as national marine sanctuaries?",
+      "ground_truth_answer": "The National Marine Sanctuaries Act (16 U.S.C. 1431 et seq.).",
+      "ground_truth_chunks": [
+        "• National Marine Sanctuaries Act, 16 U.S.C. 1431 et seq. Authorizes NOAA to designate areas as national marine sanctuaries and promulgates regulations for the conservation and management of those areas."
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "record_id": "ffb48dfe973531d5801f0cd6",
+      "source_path": "output/Turgeon + 37 authors NOAA status of U.S. Pacific reefs/Turgeon + 37 authors NOAA status of U.S. Pacific reefs.md",
+      "section_heading": "Coastal Populations and Reef Economics Coastal Populations and Reef Economics",
+      "section_start_line": 3727,
+      "section_end_line": 3768,
+      "attempt_count": 3,
+      "error": "ValueError: evidence chunk is not an exact substring of the supplied section"
+    }
+  ]
+}

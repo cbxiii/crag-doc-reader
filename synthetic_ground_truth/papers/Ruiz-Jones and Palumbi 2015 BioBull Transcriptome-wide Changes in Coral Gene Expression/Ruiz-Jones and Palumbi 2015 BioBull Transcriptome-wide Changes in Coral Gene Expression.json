@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression.md",
+  "source_sha256": "1b72a12ab480ec34dc34d51e7a8d10032e1be5f2863d88fff76c68e692703e53",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "ad4024e76367630117b5646a",
+      "paper_id": "Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression",
+      "source_path": "output/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression.md",
+      "section_heading": "Transcriptome-wide Changes in Coral Gene Expression at Noon and Midnight Under Field Conditions",
+      "section_start_line": 1,
+      "section_end_line": 8,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many contigs showed significant expression differences across the transcriptome?",
+      "ground_truth_answer": "344 contigs showed significant expression differences across 16,800 contigs in the transcriptome.",
+      "ground_truth_chunks": [
+        "We identified 344 contigs with significant expression differences across 16,800 contigs in the transcriptome, most with small foldchanges.",
+        "However, there were 21 contigs with fold-changes ranging from 10 to 141."
+      ]
+    },
+    {
+      "record_id": "1819ac0bd705b8ef5481b6c2",
+      "paper_id": "Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression",
+      "source_path": "output/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression.md",
+      "section_heading": "Materials and Methods",
+      "section_start_line": 27,
+      "section_end_line": 43,
+      "model": "openai:gpt-4o-mini",
+      "question": "What steps and temperatures were used to preserve the coral branch samples from collection to final storage?",
+      "ground_truth_answer": "On shore (5 min after collection) branches were placed individually into 5 ml of RNALater; upon arrival at the field laboratory fresh RNALater was placed in the vials and samples were stored at 4 °C for 24 h, then transferred to 20 °C for 1 to 10 days until transport; samples were then stored at 80 °C until processing.",
+      "ground_truth_chunks": [
+        "On shore (5 min after collection) the branches were placed individually into 5 ml of RNALater.",
+        "Upon arrival at the field laboratory, fresh RNALater was placed in the vials and the samples were stored at 4 °C for 24 h, then transferred to 20 °C for 1 to 10 days until being transported to Hopkins Marine Station, Pacific Grove, California.",
+        "Samples were then stored at 80 °C until processing."
+      ]
+    },
+    {
+      "record_id": "49ddf31fba5c6c38365c4de8",
+      "paper_id": "Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression",
+      "source_path": "output/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression.md",
+      "section_heading": "Read count normalization and filtering",
+      "section_start_line": 56,
+      "section_end_line": 59,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many contigs remained after filtering for mean read depth greater than 5?",
+      "ground_truth_answer": "16,800 contigs.",
+      "ground_truth_chunks": [
+        "After the read counts were normalized, contigs with mean read depth less than 5 were removed.",
+        "Of the 33,496 contigs in the reference transcriptome for *A. hyacinthus*, 16,800 contigs had a mean read depth across all samples greater than 5 and were used in subsequence analyses (see Supplementary Table 3. Normalized read count data for the 16,800 contigs in the filtered dataset, [http://www.biolbull.org/content/supplemental\\)](http://www.biolbull.org/content/supplemental)."
+      ]
+    },
+    {
+      "record_id": "5ef8da8065055cdece5a054d",
+      "paper_id": "Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression",
+      "source_path": "output/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression.md",
+      "section_heading": "Functional enrichment and pathway analysis",
+      "section_start_line": 64,
+      "section_end_line": 69,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many contigs with UniProt accession matches were included in the reference list used for the DAVID analyses?",
+      "ground_truth_answer": "12,595 contigs.",
+      "ground_truth_chunks": [
+        "First, a reference list of the contigs present in the filtered dataset with UniProt accession matches was assembled, resulting in 12,595 contigs.",
+        "Of the 344 contigs with significant differences in expression according to time of day (FDR corrected *P* 0.05), 239 had higher expression at noon and 105 had higher expression at midnight."
+      ]
+    },
+    {
+      "record_id": "2c5b4e5d489032b9e9f9093a",
+      "paper_id": "Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression",
+      "source_path": "output/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression.md",
+      "section_heading": "Calcification gene expression analysis",
+      "section_start_line": 74,
+      "section_end_line": 79,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many calcification contigs were identified within the filtered dataset of 16,800 contigs?",
+      "ground_truth_answer": "70 calcification contigs were identified.",
+      "ground_truth_chunks": [
+        "Within the filtered dataset of 16,800 contigs, we identified 70 calcification contigs: five galaxin contigs, nine Ca<sup>2</sup> ATPase contigs (seven of these contigs map to two *Acropora digitifera* genes), 16 carbonic anhydrase contigs (eight of these map to four *A*. *digitifera* genes), two biomineralization contigs identified in the *A. digitifera* genome (both contigs map to one *A*. *digitifera* gene) (Shinzato *et al.*, 2011) that were not already in our list, and 38 skeletal organic matrix protein contigs (not including galaxins) identified in *Acropora millepora* (31 of these contigs map to 10 *A*. *digitifera* genes) (Ramos-Silva *et al.*, 2013)."
+      ]
+    },
+    {
+      "record_id": "e810becc5e2b03b1fc9c8787",
+      "paper_id": "Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression",
+      "source_path": "output/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression.md",
+      "section_heading": "Transcriptome-wide differences in expression between noon and midnight",
+      "section_start_line": 86,
+      "section_end_line": 105,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many contigs showed significant differences in expression between noon and midnight, and how many of those were higher at noon versus midnight?",
+      "ground_truth_answer": "A two-way ANOVA identified 344 contigs with significant day–night differences; of these, 239 had higher expression at noon and 105 had higher expression at midnight.",
+      "ground_truth_chunks": [
+        "For the day-night comparison, a two-way ANOVA found that 344 contigs had significantly different expression levels at noon *versus* midnight (Fig. 1; contigs with *P* 0.05 after Benjamini and Hochberg (1995) false discovery rate (FDR) correction are in gray). Of these contigs, 239 had higher expression at noon, and the remaining 105 had higher expression at midnight.",
+        "The expression patterns of these 344 contigs showed highly consistent changes from day to night across the six noon and five midnight time points and between replicates; they revealed the presence of three major clusters (Fig. 2). The first cluster (labeled Cluster I in Fig. 2) represents 20 contigs with very large increases in noontime expression (mean fold change, 39.0; range, 10.3–141.1). In Clusters II and III, fold-changes were much lower. Cluster II contains 105 contigs with higher expression at midnight (mean fold change 1.9 (range, 1.1– 40.7)), and Cluster III consists of 219 contigs with higher expression at noon (mean, 2.1; range, 1.1–9.2)."
+      ]
+    },
+    {
+      "record_id": "9f6a3b499727045bab179d87",
+      "paper_id": "Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression",
+      "source_path": "output/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression.md",
+      "section_heading": "Functional analyses",
+      "section_start_line": 120,
+      "section_end_line": 159,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many of the 70 calcification-related contigs were significantly higher at noon compared to midnight (FDR corrected P 0.05)?",
+      "ground_truth_answer": "14 contigs.",
+      "ground_truth_chunks": [
+        "Fifty-two of these 70 contigs had higher expression at noon than at midnight (chisquare test, *P* 0.00005; Fig. 5); 14 of the 52, with an expression fold-change range of 1.2–2.0, were significantly higher at noon (FDR corrected *P* 0.05) (gray dots in Fig. 5).",
+        "These 14 significant contigs include 11 carbonic anhydrase contigs (fold-change range, 1.2–2.0) (five of which map to three *A. digitifera* genes) and three skeletal organic matrix protein contigs (fold-change range, 1.2–2.0), one of which is galaxin."
+      ]
+    },
+    {
+      "record_id": "36d45f73ffefae240a85bab5",
+      "paper_id": "Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression",
+      "source_path": "output/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression.md",
+      "section_heading": "Metabolism and reactive oxygen species",
+      "section_start_line": 186,
+      "section_end_line": 193,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which genes showed significantly higher expression at noon compared to midnight in A. hyacinthus?",
+      "ground_truth_answer": "Malate dehydrogenase (MDH) (fold change, 2.5), catalase (CAT) (fold change, 3.8), and superoxide dismutase (SOD) (fold change, 1.1)—all have FDR corrected *P* 0.05.",
+      "ground_truth_chunks": [
+        "We saw significantly higher expression at noon of malate dehydrogenase (MDH) (fold change, 2.5), catalase (CAT) (fold change, 3.8), and superoxide dismutase (SOD) (fold change, 1.1)—all have FDR corrected *P* 0.05.",
+        "MDH is involved in aerobic ATP production, and CAT and SOD are antioxidant enzymes involved in converting reactive oxygen species (ROS), which are produced during aerobic respiration, to water (Hochachka and Somero, 2002)."
+      ]
+    },
+    {
+      "record_id": "fe6a10b355576e1f1bd636e8",
+      "paper_id": "Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression",
+      "source_path": "output/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression.md",
+      "section_heading": "Response to changes in oxygen levels",
+      "section_start_line": 198,
+      "section_end_line": 217,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which gene showed significantly higher expression at midnight and is homologous to prolyl hydroxylase domain protein 2?",
+      "ground_truth_answer": "Egl nine homolog 1 (EGLN1) showed significantly higher expression at midnight.",
+      "ground_truth_chunks": [
+        "We found Egl nine homolog 1 (EGLN1) to have significantly higher expression at midnight (both transcriptomewide ANOVA and oxygen ANOVA, FDR corrected *P* 0.05; gray dots in Fig. 4).",
+        "EGLN1 encodes the Egl nine homolog 1 protein, homologous to prolyl hydroxylase domain protein 2, an oxygen-sensing enzyme that uses O2 as a substrate and is up-regulated under conditions of hypoxia (Epstein *et al.*, 2001; D'Angelo *et al.*, 2003)."
+      ]
+    },
+    {
+      "record_id": "d18bfbc87c8204a18e6a5d50",
+      "paper_id": "Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression",
+      "source_path": "output/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression.md",
+      "section_heading": "Conclusion",
+      "section_start_line": 230,
+      "section_end_line": 235,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of contigs analyzed showed significant differences in expression between day and night?",
+      "ground_truth_answer": "2.0% of contigs analyzed showed significant differences in expression between day and night.",
+      "ground_truth_chunks": [
+        "Despite major day-night differences that occur within the holobiont and externally in the environment, we found significant differences in expression in only 2.0% of contigs analyzed, many of which have been identified as circadian genes by previous studies."
+      ]
+    }
+  ],
+  "failures": []
+}

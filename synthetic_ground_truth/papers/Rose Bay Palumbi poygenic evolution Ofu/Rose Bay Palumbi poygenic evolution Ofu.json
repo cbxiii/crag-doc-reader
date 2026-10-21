@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu.md",
+  "source_sha256": "58a16043e1b385088efaf8717e9ef945ab3c65ebd997444105aa0745b5d97197",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "fa970c329387c7ef4ab65317",
+      "paper_id": "Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu",
+      "source_path": "output/Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu.md",
+      "section_heading": "Polygenic evolution drives species divergence and climate adaptation in corals",
+      "section_start_line": 3,
+      "section_end_line": 34,
+      "model": "openai:gpt-4o-mini",
+      "question": "Are genes that are differentially expressed between the two cryptic Acropora hyacinthus species enriched for cis-eQTLs?",
+      "ground_truth_answer": "Yes. The study reports that genes differentially expressed between species are enriched for cis-eQTLs, although many expression differences appear to be driven by neutral genetic drift.",
+      "ground_truth_chunks": [
+        "Next, we search for SNP variants associated with allelic differences in gene expression, known as *cis-*regulatory expression quantitative trait loci (*cis-*eQTLs), as well as SNPs that cause changes in protein sequence.",
+        "We find that genes that are differentially expressed between species are enriched for *cis-*eQTLs, but that many changes in gene expression between species appear to be driven by neutral genetic drift."
+      ]
+    },
+    {
+      "record_id": "67bb36069fe1c0aed560e13f",
+      "paper_id": "Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu",
+      "source_path": "output/Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu.md",
+      "section_heading": "EXPERIMENTAL HEAT STRESS",
+      "section_start_line": 41,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "What maximum heat stress temperatures were used in the experimental heat stress treatments?",
+      "ground_truth_answer": "33.5˚C, 34˚C, and 34.5˚C; plus a control held at 29˚C.",
+      "ground_truth_chunks": [
+        "The heat stress ramp was as follows: a 3-hour ramp from 29˚C to a maximum temperature, followed by a three hour plateau at that maximum temperature, then decrease back to 29˚C where it was held stably overnight.",
+        "We used three different maximum heat stress temperatures (33.5˚C, 34˚C, and 34.5˚C) along with a control that was held at 29˚C for the duration of the experiment."
+      ]
+    },
+    {
+      "record_id": "990eaaf7d95aeb95c1ceaead",
+      "paper_id": "Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu",
+      "source_path": "output/Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu.md",
+      "section_heading": "RNA-Seq",
+      "section_start_line": 51,
+      "section_end_line": 56,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the result of the permutational MANOVA test for lane effects on gene expression in the RNA-Seq data?",
+      "ground_truth_answer": "They did not find a significant lane effect (F = 0.56, df = 2, permutation P = 0.8), so a lane effect covariate was not included in the differential expression analysis.",
+      "ground_truth_chunks": [
+        "we used a permutational MANOVA, implemented in the function *adonis* from the R package *vegan*, using the Euclidian distance option, to test for lane effects on expression; we did not find a significant effect (*F* = 0.56, *df* = 2, permutation *P* = 0.8), so we did not include a lane effect covariate in our differential expression analysis."
+      ]
+    },
+    {
+      "record_id": "803cfd96496152f9669527bf",
+      "paper_id": "Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu",
+      "source_path": "output/Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu.md",
+      "section_heading": "ECOLOGICAL AND PHYSIOLOGICAL DIVERGENCE BETWEEN CRYPTIC SPECIES",
+      "section_start_line": 73,
+      "section_end_line": 92,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which cryptic species, HE or HC, showed higher thermal tolerance in laboratory heat stress experiments?",
+      "ground_truth_answer": "Species HE showed higher thermal tolerance than species HC; species HE bleached less under experimental heat stress.",
+      "ground_truth_chunks": [
+        "Bleaching experiments conducted in the laboratory and natural bleaching observations revealed higher thermal tolerance in the HE species than in the HC species.",
+        "Under experimental heat stress at 33.5˚C, 34˚C, and 34.5˚C species HE bleached less than species HC (Fig. 1B, ANOVA *F* = 15.6, *df* = 1, *P* = 0.0004).",
+        "For example, species HC lost about 70% of its chlorophyll a after a 33.5˚C stress, whereas it took a stress of 34.5˚C to elicit this strong of a response in species HE (Fig. 1B)."
+      ]
+    },
+    {
+      "record_id": "0dc34f2ad69a05b2ee76e1aa",
+      "paper_id": "Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu",
+      "source_path": "output/Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu.md",
+      "section_heading": "EXPRESSION DIVERGENCE APPEARS LARGELY NEUTRAL",
+      "section_start_line": 99,
+      "section_end_line": 108,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many contigs were identified as differentially expressed between species at Benjamini–Hochberg adjusted *P* = 0.05?",
+      "ground_truth_answer": "1431 contigs (8% of 17,690 expressed contigs).",
+      "ground_truth_chunks": [
+        "At Benjamini–Hochberg adjusted *P* = 0.05, we found that 1431 contigs out of 17,690 expressed contigs (8%) were differentially expressed between species growing in the same pool (Fig. 2A).",
+        "However, these expression differences were usually quite subtle; 825 contigs had a less than twofold difference in mean expression between species, and only 45 contigs showed fourfold or greater difference."
+      ]
+    },
+    {
+      "record_id": "4a75fbe20eaf2ef7c236bf26",
+      "paper_id": "Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu",
+      "source_path": "output/Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu.md",
+      "section_heading": "eQTLs: ASSOCIATIONS BETWEEN SNPS AND GENE EXPRESSION",
+      "section_start_line": 109,
+      "section_end_line": 130,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many SNPs and contigs were identified as cis-eQTLs (FDR < 0.05) in the section?",
+      "ground_truth_answer": "1419 SNPs in 868 contigs.",
+      "ground_truth_chunks": [
+        "We detected 1419 SNPs in 868 contigs that were significantly correlated with expression variation within species and showed allelic imbalance in expression within heterozygotes (FDR *<* 0.05, Appendix 1).",
+        "We designated these SNPs as *cis-*eQTLs because they are highly associated with variation in gene expression between different alleles within heterozygous individuals, as well as between individuals with different genotypes."
+      ]
+    },
+    {
+      "record_id": "26d1e9a7397b5f58aab49cc6",
+      "paper_id": "Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu",
+      "source_path": "output/Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu.md",
+      "section_heading": "NONSYNONYMOUS CODING VARIANTS SHOW POLYGENIC SIGNATURES OF SELECTION",
+      "section_start_line": 139,
+      "section_end_line": 142,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which previously identified gene coexpression modules showed significant enrichment of high FST among nonsynonymous variants compared to synonymous variants?",
+      "ground_truth_answer": "Modules 5 and 22 showed significant enrichment of high FST among nonsynonymous variants (one-sided Fisher's exact test, Bonferroni-adjusted P < 0.05).",
+      "ground_truth_chunks": [
+        "We found that two modules (5 and 22) showed significant enrichment of high values of FST among nonsynonymous variants relative to synonymous variants (one-sided Fisher's exact test, Bonferroni-adjusted *P <* 0.05, Table S5).",
+        "Two hundred twenty-five out of 754 (30%) of Module 5 nonsynonymous variants showed FST *>* 0.18 versus only 299 out of 1389 (22%) synonymous variants. Nineteen out of 37 (51%) of Module 22 nonsynonymous variants showed FST*>*0.18 versus only eight out of 45 (18%) synonymous variants."
+      ]
+    },
+    {
+      "record_id": "c67ef47d3d82ef53d93113c7",
+      "paper_id": "Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu",
+      "source_path": "output/Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu.md",
+      "section_heading": "GENOMIC ARCHITECTURE OF SPECIES DIFFERENCES",
+      "section_start_line": 147,
+      "section_end_line": 152,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many cis-eQTLs did the authors identify in this study?",
+      "ground_truth_answer": "They identified 1419 cis-eQTLs.",
+      "ground_truth_chunks": [
+        "We identified 1419 *cis-*eQTLs, defined as polymorphisms that are correlated with variation in gene expression within species (e.g., Fig. 3A) and also show increased allelic imbalance within heterozygotes (e.g., Fig. 3B).",
+        "Because linkage disequilibrium decays over hundreds of bases in this system, these *cis-*eQTLs are likely to be closely linked to causal variants (Fig. S4)."
+      ]
+    },
+    {
+      "record_id": "73d391fd0beb4429e1d0d4d4",
+      "paper_id": "Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu",
+      "source_path": "output/Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu.md",
+      "section_heading": "DIFFERENCES IN STRESS TOLERANCE AND SYMBIONTS BETWEEN SPECIES",
+      "section_start_line": 153,
+      "section_end_line": 156,
+      "model": "openai:gpt-4o-mini",
+      "question": "What evidence in the section suggests that host-level differences beyond symbiosis contribute to species differences in expression?",
+      "ground_truth_answer": "The presence of a large number of host *cis-*eQTLs that explain species differences in expression, together with evidence of polygenic selection on nonsynonymous SNPs between species.",
+      "ground_truth_chunks": [
+        "However, the presence of a large number of host *cis-*eQTLs that explain species differences in expression as well as evidence of polygenic selection on nonsynonymous SNPs between species suggests that host-level differences beyond those that drive differences in symbiosis also play an important role.",
+        "Once we had identified cryptic species, we were able to also show that species HE tended to harbor *Symbiodinium* Clade D more commonly even in the milder environment of the moderately variable pool."
+      ]
+    },
+    {
+      "record_id": "04d5f70b2674e79c96e4a999",
+      "paper_id": "Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu",
+      "source_path": "output/Rose Bay Palumbi poygenic evolution Ofu/Rose Bay Palumbi poygenic evolution Ofu.md",
+      "section_heading": "Supporting Information",
+      "section_start_line": 253,
+      "section_end_line": 267,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which cryptic species are strongly separated along PC1 in the PCA of transcriptome-wide genotype data, and how much variation did PC1 explain?",
+      "ground_truth_answer": "Cryptic species HE and HC are strongly separated along PC1, which explained 17% of transcriptome-wide genetic variation.",
+      "ground_truth_chunks": [
+        "**Figure S1.** Principal components analysis of transcriptome-wide genotype data separates cryptic species. Cryptic species HE and HC are strongly separated along PC1, which explained 17% of transcriptome wide genetic variation."
+      ]
+    }
+  ],
+  "failures": []
+}

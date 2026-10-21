@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Birkeland Green 1999 Aua before ship removal/Birkeland Green 1999 Aua before ship removal.md",
+  "source_sha256": "645c21f0193ea69d25dd670b9b7d60f5f5e87a963a0b26f6a9bc24f9cbf9a930",
+  "status": "complete",
+  "selected_section_count": 3,
+  "successful_record_count": 3,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "35cf93be8ea42deda819176a",
+      "paper_id": "Birkeland Green 1999 Aua before ship removal/Birkeland Green 1999 Aua before ship removal",
+      "source_path": "output/Birkeland Green 1999 Aua before ship removal/Birkeland Green 1999 Aua before ship removal.md",
+      "section_heading": "Charles Birkeland and Alison (ilreen",
+      "section_start_line": 3,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many Acropora nana colonies were counted along the Aua Transect in October 1999?",
+      "ground_truth_answer": "237",
+      "ground_truth_chunks": [
+        "On 16-IX October 1999, we measured 794 coral colonies and counted macroinvertebrates (in this Case all were echinoderms) in 57X quadrats (0.25 m ) taken at 10 stations along Mayor's 271 m Aua Line.",
+        "Along the Aua Transect, 237 of the colonies counted were *Acropora nana.*"
+      ]
+    },
+    {
+      "record_id": "f6ef0c6d6cca940a55cbe61f",
+      "paper_id": "Birkeland Green 1999 Aua before ship removal/Birkeland Green 1999 Aua before ship removal",
+      "source_path": "output/Birkeland Green 1999 Aua before ship removal/Birkeland Green 1999 Aua before ship removal.md",
+      "section_heading": "Distance from shore (m) 271 259 247 233 213 183 160 140 122",
+      "section_start_line": 59,
+      "section_end_line": 114,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the reported living coral cover for Pocillopora danae at 271 m?",
+      "ground_truth_answer": "2.3 ± 1.1",
+      "ground_truth_chunks": [
+        "| Pocillopora danae      | 2.3 ±        | 3.0 ±        | 2.0 ±        | 2.7 ±        | 1.9 ± | 4     | 5.5 ± | 1.8 ± | 6   |",
+        "|                        | 1.1          | 2.6          | 1.1          | 1.3          | 1.0   |       | 7.4   | 0.4   |     |"
+      ]
+    },
+    {
+      "record_id": "9bb2388d492aa7f82254d06a",
+      "paper_id": "Birkeland Green 1999 Aua before ship removal/Birkeland Green 1999 Aua before ship removal",
+      "source_path": "output/Birkeland Green 1999 Aua before ship removal/Birkeland Green 1999 Aua before ship removal.md",
+      "section_heading": "Distance froqi shore (m)",
+      "section_start_line": 137,
+      "section_end_line": 156,
+      "model": "openai:gpt-4o-mini",
+      "question": "At 247 m from shore in 1999, what value is recorded for Stichopus chloronotus?",
+      "ground_truth_answer": "0.06",
+      "ground_truth_chunks": [
+        "|                                                                                                                               | 271 | 259  | 247  | 233  | 213  | 183  | 160  | 140  | 122  | 91  |",
+        "| Stichopus chloronotus                                                                                                         |     |      | 0.06 | 5.3  | 5.5  | 6.5  | 2.7  | 1.8  | 2.7  | 1.4 |"
+      ]
+    }
+  ],
+  "failures": []
+}

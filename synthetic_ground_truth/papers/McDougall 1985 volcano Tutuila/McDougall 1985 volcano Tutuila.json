@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "source_path": "output/McDougall 1985 volcano Tutuila/McDougall 1985 volcano Tutuila.md",
+  "source_sha256": "ad789d0805648b18865dba4dfc095707fccb1c6ef11d4c1431ef0e8063932638",
+  "status": "complete",
+  "selected_section_count": 5,
+  "successful_record_count": 5,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "793982d765bc5d62be18a7cc",
+      "paper_id": "McDougall 1985 volcano Tutuila/McDougall 1985 volcano Tutuila",
+      "source_path": "output/McDougall 1985 volcano Tutuila/McDougall 1985 volcano Tutuila.md",
+      "section_heading": "IAN McDougall<sup>2</sup>",
+      "section_start_line": 3,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the abstract, when was the Pago shield volcano built and when did its large caldera form?",
+      "ground_truth_answer": "Pago was built between about 1.54 and 1.28 Ma ago; its large caldera formed approximately 1.27  $\u0000\\pm$  0.02 Ma ago.",
+      "ground_truth_chunks": [
+        "The major shield volcano, Pago, was built between about 1.54 and 1.28 Ma ago; its large caldera formed approximately 1.27  $\\pm$  0.02 Ma ago.",
+        "Partial filling of the caldera by volcanics occurred from shortly after its formation until about 1.14 Ma ago, and activity on Pago Volcano ended with emplacement of trachyte bodies which have ages of 1.03  $\\pm$  0.01 Ma."
+      ]
+    },
+    {
+      "record_id": "f70b470e9cf89c899e2cc2ce",
+      "paper_id": "McDougall 1985 volcano Tutuila/McDougall 1985 volcano Tutuila",
+      "source_path": "output/McDougall 1985 volcano Tutuila/McDougall 1985 volcano Tutuila.md",
+      "section_heading": "GEOLOGY",
+      "section_start_line": 25,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which volcano dominates Tutuila, how far does it extend laterally, and what is its highest elevation?",
+      "ground_truth_answer": "Pago Volcano; it extends laterally over 18 km and rises to 653 m at Matafao Peak.",
+      "ground_truth_chunks": [
+        "Tutuila is dominated by the eroded Pago Volcano, which extends laterally over 18 km and rises to 653 m at Matafao Peak, just west of Pago Pago Harbor (Figure 2)."
+      ]
+    },
+    {
+      "record_id": "1953437b8e7191fadab2bbfe",
+      "paper_id": "McDougall 1985 volcano Tutuila/McDougall 1985 volcano Tutuila",
+      "source_path": "output/McDougall 1985 volcano Tutuila/McDougall 1985 volcano Tutuila.md",
+      "section_heading": "METHODS",
+      "section_start_line": 47,
+      "section_end_line": 54,
+      "model": "openai:gpt-4o-mini",
+      "question": "What sample mass and fragment size were typically used for Ar extraction in the METHODS section?",
+      "ground_truth_answer": "About 10 g of sample with fragment size 250–500 μm.",
+      "ground_truth_chunks": [
+        "In most cases about 10 g of sample of fragment size  $250-500 \\,\\mu\\text{m}$  was used for Ar extraction; K was measured flame photometrically on a representative portion crushed to less than  $150 \\,\\mu\\text{m}$ ."
+      ]
+    },
+    {
+      "record_id": "208becd3172dcc6db4086c53",
+      "paper_id": "McDougall 1985 volcano Tutuila/McDougall 1985 volcano Tutuila",
+      "source_path": "output/McDougall 1985 volcano Tutuila/McDougall 1985 volcano Tutuila.md",
+      "section_heading": "RESULTS AND DISCUSSION",
+      "section_start_line": 55,
+      "section_end_line": 132,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the mean K-Ar age for the extracaldera lavas (excluding sample TU54) of Pago Volcano, and how many results is this mean based upon?",
+      "ground_truth_answer": "The mean age is 1.41 ± 0.08 Ma, based upon 13 results (range 1.28 to 1.54 Ma).",
+      "ground_truth_chunks": [
+        "The combined K-Ar ages on the extracaldera lavas (excluding the result on sample TU54) of Pago Volcano, including those from Alofau, yield a mean age of  $1.41 \\pm 0.08$  Ma, based upon 13 results, with a range from 1.28 to 1.54 Ma.",
+        "One lava (TU54) from the south coast, also mapped as extracaldera, gives a much younger age of 1.14 Ma and probably erupted subsequent to caldera formation."
+      ]
+    },
+    {
+      "record_id": "7c6f4c3dc205dd249a4a48dd",
+      "paper_id": "McDougall 1985 volcano Tutuila/McDougall 1985 volcano Tutuila",
+      "source_path": "output/McDougall 1985 volcano Tutuila/McDougall 1985 volcano Tutuila.md",
+      "section_heading": "CONCLUSIONS",
+      "section_start_line": 133,
+      "section_end_line": 144,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the estimated time interval during which subaerial volcanism occurred on Tutuila?",
+      "ground_truth_answer": "Subaerial volcanism on Tutuila extended from about 1.54 Ma to 1.00 Ma (Early Pleistocene).",
+      "ground_truth_chunks": [
+        "Subaerial volcanism extended from about 1.54 to 1.00 Ma in the Early Pleistocene.",
+        "These results demonstrate that the duration of the main subaerial shield-building volcanism of Tutuila was only of the order of 0.6 Ma, although it is unlikely that the full age range of lavas has been sampled."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Clark et al. 2016 settlemet Ofu 2700 BP/Clark et al. 2016 settlemet Ofu 2700 BP.md",
+  "source_sha256": "cbbb7cf7bcac8f67d41b6e82c8ac580eee6367d52197af5bd161e3e030043c26",
+  "status": "partial",
+  "selected_section_count": 9,
+  "successful_record_count": 5,
+  "failure_count": 4,
+  "records": [
+    {
+      "record_id": "5ead0be00f4f7508f13c8876",
+      "paper_id": "Clark et al. 2016 settlemet Ofu 2700 BP/Clark et al. 2016 settlemet Ofu 2700 BP",
+      "source_path": "output/Clark et al. 2016 settlemet Ofu 2700 BP/Clark et al. 2016 settlemet Ofu 2700 BP.md",
+      "section_heading": "Clark et al. 2016 settlemet Ofu 2700 BP.md",
+      "section_start_line": 1,
+      "section_end_line": 17,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the paper's Bayesian analysis, what is the estimated initial settlement date range for Ofu Island?",
+      "ground_truth_answer": "Initial settlement of Ofu at 2717-2663 cal BP (68.2%).",
+      "ground_truth_chunks": [
+        "To investigate those questions, we carried out a Bayesian analysis of 19 radiocarbon dates on charcoal and 8 uranium-thorium (U-Th) series coral dates from four archaeological sites on Ofu Island in the eastern reaches of Samoa.",
+        "The analysis indicates initial settlement of Ofu at 2717-2663 cal BP (68.2%) by people using Plainware rather than the diagnostic dentate-stamped Lapita pottery."
+      ]
+    },
+    {
+      "record_id": "46c26152202b536d59b14d60",
+      "paper_id": "Clark et al. 2016 settlemet Ofu 2700 BP/Clark et al. 2016 settlemet Ofu 2700 BP",
+      "source_path": "output/Clark et al. 2016 settlemet Ofu 2700 BP/Clark et al. 2016 settlemet Ofu 2700 BP.md",
+      "section_heading": "2. CONTEXT",
+      "section_start_line": 46,
+      "section_end_line": 95,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which islands constitute the Manu'a Group?",
+      "ground_truth_answer": "Ofu, Olosega, and Ta'u islands.",
+      "ground_truth_chunks": [
+        "62 1). The Manu'a Group, which is constituted by Ofu, Olosega, and Ta'u islands, forms the eastern\n- extent of inhabited islands in the archipelago."
+      ]
+    },
+    {
+      "record_id": "257bc33ef2f13367ce34b543",
+      "paper_id": "Clark et al. 2016 settlemet Ofu 2700 BP/Clark et al. 2016 settlemet Ofu 2700 BP",
+      "source_path": "output/Clark et al. 2016 settlemet Ofu 2700 BP/Clark et al. 2016 settlemet Ofu 2700 BP.md",
+      "section_heading": "119 3. METHODS AND RESULTS",
+      "section_start_line": 96,
+      "section_end_line": 109,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many new U-Th series dates of coral samples are presented from the Ofu sites?",
+      "ground_truth_answer": "Eight.",
+      "ground_truth_chunks": [
+        "Village (AS-13-41) site on the west coast (Fig. 2). Additionally, we present eight new U-Th",
+        "series dates of coral samples collected from those sites. These data are combined with a set of"
+      ]
+    },
+    {
+      "record_id": "7d89ed67b417fc5ea7165666",
+      "paper_id": "Clark et al. 2016 settlemet Ofu 2700 BP/Clark et al. 2016 settlemet Ofu 2700 BP",
+      "source_path": "output/Clark et al. 2016 settlemet Ofu 2700 BP/Clark et al. 2016 settlemet Ofu 2700 BP.md",
+      "section_heading": "130 3.1 Radiocarbon Dating",
+      "section_start_line": 110,
+      "section_end_line": 118,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many pre-2000 cal BP charcoal radiocarbon dates are in the combined dataset, and which Ofu sites do they come from?",
+      "ground_truth_answer": "The combined dataset contains 19 pre-2000 cal BP charcoal radiocarbon dates from four Ofu sites: 11 from Va'oto, 2 from Coconut Grove, 2 from Ofu Village, and 4 from To'aga.",
+      "ground_truth_chunks": [
+        "131 The combined dataset consists of 19 pre-2000 cal BP charcoal radiocarbon dates from four sites 132 on Ofu: 11 from Va'oto, 2 from Coconut Grove, 2 from Ofu Village, and 4 from To'aga (Fig. 2; 133 Table 1)."
+      ]
+    },
+    {
+      "record_id": "e1cc80ae5fd013db72abbc48",
+      "paper_id": "Clark et al. 2016 settlemet Ofu 2700 BP/Clark et al. 2016 settlemet Ofu 2700 BP",
+      "source_path": "output/Clark et al. 2016 settlemet Ofu 2700 BP/Clark et al. 2016 settlemet Ofu 2700 BP.md",
+      "section_heading": "249 4. DISCUSSION",
+      "section_start_line": 246,
+      "section_end_line": 381,
+      "model": "openai:gpt-4o-mini",
+      "question": "What modeled colonization date range for Ofu do the authors favor at 68.2%?",
+      "ground_truth_answer": "They favor 2717–2663 cal BP (68.2%).",
+      "ground_truth_chunks": [
+        "We favor the modeled range of 2717-2663 cal BP (68.2%)"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "record_id": "bc5fec8846921b315684d047",
+      "source_path": "output/Clark et al. 2016 settlemet Ofu 2700 BP/Clark et al. 2016 settlemet Ofu 2700 BP.md",
+      "section_heading": "31 1. INTRODUCTION",
+      "section_start_line": 18,
+      "section_end_line": 45,
+      "attempt_count": 3,
+      "error": "ValueError: evidence chunk is not an exact substring of the supplied section"
+    },
+    {
+      "record_id": "a36a332908a391e8ff7fc613",
+      "source_path": "output/Clark et al. 2016 settlemet Ofu 2700 BP/Clark et al. 2016 settlemet Ofu 2700 BP.md",
+      "section_heading": "150 3.2 Uranium and Thorium (U-Th) Dating",
+      "section_start_line": 119,
+      "section_end_line": 164,
+      "attempt_count": 3,
+      "error": "ValueError: evidence chunk is not an exact substring of the supplied section"
+    },
+    {
+      "record_id": "f1c1cdb8efe664039651b745",
+      "source_path": "output/Clark et al. 2016 settlemet Ofu 2700 BP/Clark et al. 2016 settlemet Ofu 2700 BP.md",
+      "section_heading": "193 3.3 Single Phase Bayesian Modelling",
+      "section_start_line": 165,
+      "section_end_line": 245,
+      "attempt_count": 3,
+      "error": "ValueError: evidence chunk is not an exact substring of the supplied section"
+    },
+    {
+      "record_id": "ea638ab8e39aec56d4850624",
+      "source_path": "output/Clark et al. 2016 settlemet Ofu 2700 BP/Clark et al. 2016 settlemet Ofu 2700 BP.md",
+      "section_heading": "381 5. CONCLUSIONS",
+      "section_start_line": 382,
+      "section_end_line": 402,
+      "attempt_count": 3,
+      "error": "ValueError: evidence chunk is not an exact substring of the supplied section"
+    }
+  ]
+}

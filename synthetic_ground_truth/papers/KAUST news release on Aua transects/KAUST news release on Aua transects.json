@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "source_path": "output/KAUST news release on Aua transects/KAUST news release on Aua transects.md",
+  "source_sha256": "48f3e0c8886eb7972c677a0c7435eff4e6e4ab22369e5ecb4453b8ef1a1e8054",
+  "status": "complete",
+  "selected_section_count": 3,
+  "successful_record_count": 3,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "737c32243582574aaabe11d5",
+      "paper_id": "KAUST news release on Aua transects/KAUST news release on Aua transects",
+      "source_path": "output/KAUST news release on Aua transects/KAUST news release on Aua transects.md",
+      "section_heading": "World's longest coral survey: a century of change at Aua reef",
+      "section_start_line": 1,
+      "section_end_line": 56,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many surveys were conducted overall in the Aua reef study between 1917 and 2019?",
+      "ground_truth_answer": "11 surveys were conducted overall.",
+      "ground_truth_chunks": [
+        "The resulting paper by Green, lead author [Dr. Charles Birkeland](https://manoa.hawaii.edu/biology/people/charles-birkeland) and contributing scientists, *[Different](https://repository.kaust.edu.sa/handle/10754/670971)  [resiliencies in coral communities over ecological and geological time scales in](https://repository.kaust.edu.sa/handle/10754/670971)  [American Samoa,](https://repository.kaust.edu.sa/handle/10754/670971)* encompasses more than a century of coral reef surveys, from 1917 to 2019, with 11 surveys conducted overall, making it the longest active quantitative coral reef survey in the world."
+      ]
+    },
+    {
+      "record_id": "4bd2de660aafac70bd25a1c7",
+      "paper_id": "KAUST news release on Aua transects/KAUST news release on Aua transects",
+      "source_path": "output/KAUST news release on Aua transects/KAUST news release on Aua transects.md",
+      "section_heading": "Degrees of resiliency",
+      "section_start_line": 57,
+      "section_end_line": 90,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the surveys described, what percentage of successful coral recruits to the reef crest and reefs in American Samoa were found on crustose coralline algae (CCA)?",
+      "ground_truth_answer": "94% of successful recruits were found on CCA.",
+      "ground_truth_chunks": [
+        "The scientists relate this success to the presence of an array of binding crustose coralline algae (CCA) (*Porolithon onkodes* species complex) — red algae that produce and shed carbonate skeletons of high-magnesium calcite that rapidly cover and bind to the loose rubble, creating a solid foundation for coral larvae to settle and grow the reef.",
+        "The surveys determined that 94% of successful recruits to the reef crest and reefs in American Samoa, in general, were found on CCA, and that these algae are acknowledged as being one of the main constructors of reefs, contributing to both recovery and recruitment."
+      ]
+    },
+    {
+      "record_id": "ca4e630bacb53a44d614931e",
+      "paper_id": "KAUST news release on Aua transects/KAUST news release on Aua transects",
+      "source_path": "output/KAUST news release on Aua transects/KAUST news release on Aua transects.md",
+      "section_heading": "A community of change",
+      "section_start_line": 91,
+      "section_end_line": 109,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many times was the Aua transect surveyed between 1995 and 2017?",
+      "ground_truth_answer": "Eight times.",
+      "ground_truth_chunks": [
+        "\"When Charles and I first surveyed the Aua transect in 1995, we joked that it would be great if we could return in 2017 and resurvey the transect on its 100th birthday, although we recognized that, by then, Charles and I would be in our late 70s and 50s, respectively. We never imagined that we would actually survey the reef every few years (eight times from 1995 to 2017), including on the 100thanniversary.\""
+      ]
+    }
+  ],
+  "failures": []
+}

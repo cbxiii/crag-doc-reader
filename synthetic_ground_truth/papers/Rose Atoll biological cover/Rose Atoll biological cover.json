@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Rose Atoll biological cover/Rose Atoll biological cover.md",
+  "source_sha256": "b228258e7bd2b387267a31215656cf0b84f5906e08f6d4a8b198387d25072d38",
+  "status": "partial",
+  "selected_section_count": 0,
+  "successful_record_count": 0,
+  "failure_count": 1,
+  "records": [],
+  "failures": [
+    {
+      "source_path": "output/Rose Atoll biological cover/Rose Atoll biological cover.md",
+      "error": "no eligible sections",
+      "attempt_count": 0
+    }
+  ]
+}

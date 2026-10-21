@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS.md",
+  "source_sha256": "625c8bd488b604680880a1ec3687f798f9575e95d022a486f3e00663459abbef",
+  "status": "partial",
+  "selected_section_count": 10,
+  "successful_record_count": 9,
+  "failure_count": 1,
+  "records": [
+    {
+      "record_id": "154e903d2b86964a22205db2",
+      "paper_id": "Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS",
+      "source_path": "output/Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS.md",
+      "section_heading": "I. Introduction.",
+      "section_start_line": 3,
+      "section_end_line": 66,
+      "model": "openai:gpt-4o-mini",
+      "question": "What three distinct bay habitat types along Tutuila's southern coast are described, and which bays exemplify each type?",
+      "ground_truth_answer": "1) A large, deep, developed bay with reduced water quality — Pago Pago Bay. 2) A shallow, mangrove‑fringed lagoon with limited circulation — Pala Lagoon. 3) Wide‑mouth, wind- and current‑exposed volcanic crater bays that are very deep with little human habitation — Larsen and Fagatele Bays.",
+      "ground_truth_chunks": [
+        "The southern coast is indented by four prominent bays offering dissimilar habitats. Pago Pago Bay is the largest and is bordered by the most populous and developed area of the island. Though most of the bay is over 60 m. deep, sewaye outfalls, effluent from tuna canneries, bilgewater and waste from the moored vessels and shoreline runoff contribute toward a decline in water quality near the back of the bay.",
+        "Pala Lagoon is a shallow, mangrove-fringed bay averaging about two meters in depth. Tidal flow across a reef flat and through a narrow channel accounts for its limited circulation.",
+        "Larsen and Fagatele Bays for a third type of bay habitat. They have wide mouths and are exposed to wind and current. Both are volcanic craters with steeply sloping sides above and below the ocean surface and are over 200 m. deep. There is little human habitation or development along their shores and almost no fresh water runoff so water quality is gM/g/ high."
+      ]
+    },
+    {
+      "record_id": "4b07b303a5d6c77a41cb3951",
+      "paper_id": "Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS",
+      "source_path": "output/Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS.md",
+      "section_heading": "1. Dendrographs.",
+      "section_start_line": 67,
+      "section_end_line": 72,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does the distance between any two adjacent stations on the vertical axis of a dendrograph represent?",
+      "ground_truth_answer": "The distance between any two adjacent stations on the vertical axis is proportional to their dissimilarity.",
+      "ground_truth_chunks": [
+        "The dendrograph is a tree-like diagram depicting mutual relationships between and within groups of stations.",
+        "The distance between any two adjacent stations on the vertical axis is proportional to their dissimilarity."
+      ]
+    },
+    {
+      "record_id": "67d1a1a3d8e99ac4eaee7902",
+      "paper_id": "Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS",
+      "source_path": "output/Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS.md",
+      "section_heading": "2. Similarity Coefficients.",
+      "section_start_line": 73,
+      "section_end_line": 97,
+      "model": "openai:gpt-4o-mini",
+      "question": "How is Jaccard's coefficient of similarity calculated in this study and what do a, b, and c represent?",
+      "ground_truth_answer": "S.j = c / (a + b + c) × 100, where a is the number of species unique to station A, b is the number of species unique to station B, and c is the number of species common to both stations.",
+      "ground_truth_chunks": [
+        "It can be defined as the percentage of species common to both stations and is formulated as:\n\n$$S.j = \\frac{c}{a+b+c} \\times 100$$",
+        "where a is the number of species unique to station A, b is the number of species unique to station B and c is the number of species common to both stations."
+      ]
+    },
+    {
+      "record_id": "9b1353509373bf7baf6d9f48",
+      "paper_id": "Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS",
+      "source_path": "output/Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS.md",
+      "section_heading": "4. Community Characterization.",
+      "section_start_line": 110,
+      "section_end_line": 223,
+      "model": "openai:gpt-4o-mini",
+      "question": "How was the dominance measure for each species computed in section 4?",
+      "ground_truth_answer": "The dominance measure was computed as the sum of relative density and relative biomass.",
+      "ground_truth_chunks": [
+        "The best measure is a combination of density and biomass values. A dominance measure was computed for each species as:",
+        "dominance measure = relative density + relative biomass."
+      ]
+    },
+    {
+      "record_id": "77a403261777ee4684ffcdc6",
+      "paper_id": "Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS",
+      "source_path": "output/Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS.md",
+      "section_heading": "2. Pago Bay Patches Surveys 2, 11, 40 and 63.",
+      "section_start_line": 259,
+      "section_end_line": 300,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which fish species does Table VI show to be the most common (dominant) in the Pago Bay Patches habitat?",
+      "ground_truth_answer": "Pomacentrus brachialis, Ctenochaetus striatus and Abudefduf sexfasciatus.",
+      "ground_truth_chunks": [
+        "Table VI shows these species to be Pomacentrus brachialis,\n\nCtenochaetus striatus and Abudefduf sexfasciatus.",
+        "A. sexfasciatus\n\nwhich feeds on zooplankton and benthic algae (Allen, 1975) was particularly abundant on the upper slopes of Grampus and Whale Rocks\n\nwhile C. striatus, a benthic algae feeder (Hiatt and Strasburg,\n\n1960), was much more abundant on the reef off Faga'alu. P. brachialis\n\nwas particularly abundant I along the reef edges where it feeds\n\non zooplankton and benthic algae (Allen, 1975)."
+      ]
+    },
+    {
+      "record_id": "501dd9573ee2b5ce31e7e834",
+      "paper_id": "Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS",
+      "source_path": "output/Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS.md",
+      "section_heading": "4. Exposed Basalt Terraces. Surveys 4 and 8.",
+      "section_start_line": 301,
+      "section_end_line": 338,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which fish species had the highest average biomass within the Exposed Basalt Terraces habitat?",
+      "ground_truth_answer": "Ctenochaetus striatus (C. striatus), with an average biomass of 140 kg./ha.",
+      "ground_truth_chunks": [
+        "An abundance of large C. striatus at both sites is responsible for the high biomass offishes greater than five inches in length.",
+        "Its average biomass (140 kg./ha.) within this habitat is greater than that recorded for a single species in any of the other ten habitats. C. striatus also ranks first in the dominance measure column."
+      ]
+    },
+    {
+      "record_id": "70ef88a43d515e9b2e1f5383",
+      "paper_id": "Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS",
+      "source_path": "output/Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS.md",
+      "section_heading": "8. Protected and Inner Flats. Surveys Ø 5, 6 and 15.",
+      "section_start_line": 349,
+      "section_end_line": 362,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species was the numerically dominant species in the Protected and Inner Flats habitat?",
+      "ground_truth_answer": "Ctenochaetus striatus.",
+      "ground_truth_chunks": [
+        "Ctenochaetus striatus is, again, the numerically againant species by a wide margin (Table XII).",
+        "The damselfish terretes albifasciatus and juvenile parrotfishes also occur at high densities, these same three species also dominate the biomass statisfics for the habitat. All feed predominately on algae."
+      ]
+    },
+    {
+      "record_id": "629f1ba49dba5bcf25fd1661",
+      "paper_id": "Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS",
+      "source_path": "output/Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS.md",
+      "section_heading": "9. Dredged Flats. Surveys 16 and 27,",
+      "section_start_line": 363,
+      "section_end_line": 566,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which fish ranked first in biomass in the dredged flats surveys, and how many species were observed at both stations?",
+      "ground_truth_answer": "The mullet Liza vaigiensis ranked first in the biomass column; thirty-nine species were observed at both stations.",
+      "ground_truth_chunks": [
+        "A mullet, Liza vaigiensis, ranks first in the biomass column.",
+        "Thirty-nine species were observed at both stations."
+      ]
+    },
+    {
+      "record_id": "1f4ad202ed3058ee1cb92b7b",
+      "paper_id": "Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS",
+      "source_path": "output/Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS.md",
+      "section_heading": "3 South Das and Outse Bay Fronts",
+      "section_start_line": 567,
+      "section_end_line": 790,
+      "model": "openai:gpt-4o-mini",
+      "question": "In TABLE XI (And Pay Fronts), which species had the highest density and what was that density?",
+      "ground_truth_answer": ". strotus* had the highest density, 3,370.",
+      "ground_truth_chunks": [
+        "| Species           | Density | Species           | Biomass | Species         | р. м. | Species Observed<br>On All Surveys |",
+        "| . strotus*        | 3,370   | C. Strictes *     | 6879    | C. Sturtuit     | 28.52 | B. undeleter                       |"
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "record_id": "7faf04595cb91f17e2512837",
+      "source_path": "output/Wass-1982-Charact.inshore.Samoan.fish. AS/Wass-1982-Charact.inshore.Samoan.fish. AS.md",
+      "section_heading": "Habitat Descriptions and Fish Community Characterizations",
+      "section_start_line": 224,
+      "section_end_line": 258,
+      "attempt_count": 3,
+      "error": "ValueError: evidence chunk is not an exact substring of the supplied section"
+    }
+  ]
+}

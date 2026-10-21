@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1).md",
+  "source_sha256": "36ac1894ddef7e835f2eef1eb0a00eea3acf1a35770d3f9846bcbdb74ec3c3e3",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "4c30d161c0e0eac0fcf1b086",
+      "paper_id": "climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1)",
+      "source_path": "output/climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1).md",
+      "section_heading": "climate-change-in-american-samoa-pirca-2021-low-res (1).md",
+      "section_start_line": 1,
+      "section_end_line": 20,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which organization hosts the core office of the Pacific RISA grant?",
+      "ground_truth_answer": "The East-West Center hosts the core office of the Pacific RISA grant.",
+      "ground_truth_chunks": [
+        "The East-West Center hosts the core office of the Pacific RISA grant, providing administrative and research capabilities for the program.",
+        "The Pacific RISA is one of the 11 National Oceanic and Atmospheric Administration (NOAA) Regional Integrated Sciences and Assessments (RISA) teams that conduct research that builds the nation's capacity to prepare for and adapt to climate variability and change."
+      ]
+    },
+    {
+      "record_id": "92c4d3af227003e67264abc9",
+      "paper_id": "climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1)",
+      "source_path": "output/climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1).md",
+      "section_heading": "Manatu Autu mo Taitai ma ē Faia Aiaiga",
+      "section_start_line": 80,
+      "section_end_line": 106,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which mosquito-borne diseases does the section say may increase in American Samoa due to climate change?",
+      "ground_truth_answer": "The section lists dengue, Zika, chikungunya, ma le mumū tutupa.",
+      "ground_truth_chunks": [
+        "Lamatiaga o le soifua maloloina o le komiuniti — O suiga i timuga ma gasologa o le mago e ono faatetele ai le namu, e ono fatetele ai le fetaia'i o tagata ma faama'i fe'avea'i e namu e pei o le dengue, Zika, chikungunya, ma le mumū tutupa."
+      ]
+    },
+    {
+      "record_id": "6d6b07e921592a9325a113d5",
+      "paper_id": "climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1)",
+      "source_path": "output/climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1).md",
+      "section_heading": "Inside this Report",
+      "section_start_line": 133,
+      "section_end_line": 169,
+      "model": "openai:gpt-4o-mini",
+      "question": "On what page does the 'Global Climate Change: Causes and Indicators' section begin?",
+      "ground_truth_answer": "11",
+      "ground_truth_chunks": [
+        "| Global Climate Change: Causes and Indicators                                          | 11 |"
+      ]
+    },
+    {
+      "record_id": "6312be39104e14c54f831685",
+      "paper_id": "climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1)",
+      "source_path": "output/climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1).md",
+      "section_heading": "Future changes",
+      "section_start_line": 205,
+      "section_end_line": 218,
+      "model": "openai:gpt-4o-mini",
+      "question": "By approximately what percentage are greenhouse gas emissions lower in the \"low scenario\" compared to the \"high scenario\" by the end of the 21st century?",
+      "ground_truth_answer": "About 85% lower.",
+      "ground_truth_chunks": [
+        "In this summary, the \"high scenario\" represents a future where reliance on fossil fuels and annual greenhouse gas emissions continue to increase throughout this century. The \"low scenario\" is based on reducing greenhouse gas emissions (about 85% lower emissions than the high scenario by the end of the 21st century)."
+      ]
+    },
+    {
+      "record_id": "75e94912afcc2df4562c6ae5",
+      "paper_id": "climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1)",
+      "source_path": "output/climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1).md",
+      "section_heading": "Tropical cyclones and storms",
+      "section_start_line": 280,
+      "section_end_line": 301,
+      "model": "openai:gpt-4o-mini",
+      "question": "How is the frequency of tropical cyclones projected to change in the area surrounding American Sāmoa by the late 21st century?",
+      "ground_truth_answer": "The frequency is projected to decrease overall, ranging between 5% and 50%, with high confidence.",
+      "ground_truth_chunks": [
+        "| Tropical cyclone frequency | No change           |                        |",
+        "In the area surrounding American Sāmoa and the southeast Pacific basin, the future projection is for an overall decrease in the occurrence of tropical cyclones, ranging between 5% and 50%, with high confidence\n\n(Australian BOM and CSIRO 2014; Wang et al. 2016). Thus, the overall outlook is for fewer but stronger storms in the future."
+      ]
+    },
+    {
+      "record_id": "80f09b032bdff11c1c226c95",
+      "paper_id": "climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1)",
+      "source_path": "output/climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1).md",
+      "section_heading": "What Do Extreme Weather and Climate Change Mean for American Sāmoa's Families, Households, and Vulnerable Populations?",
+      "section_start_line": 369,
+      "section_end_line": 394,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which populations are identified as disproportionately vulnerable to extreme weather and climate events in American Sāmoa?",
+      "ground_truth_answer": "The section identifies children; older adults and persons with disabilities; low-income communities; those experiencing discrimination; people who work outdoors (e.g., tourism and construction workers, fisherpeople, farmers, and other outdoor laborers); people in coastal and other flood-prone areas; and Pacific Islanders, including Samoans, as disproportionately vulnerable.",
+      "ground_truth_chunks": [
+        "Although climate change is expected to affect all people in American Sāmoa, some populations are disproportionately vulnerable. Social, economic, and geographic factors shape people's exposure to climate-related impacts and how they are able to respond. Those who are already vulnerable, including children, older adults, low-income communities, and those experiencing discrimination, are at greater risk from extreme weather and climate events, in part because they are often excluded from planning processes (USGCRP 2018, Ch. 14, KM 2; Ch. 15, KM 1–3; Ch. 28, Introduction).",
+        "- • Children, who have a higher rate of heat stroke and heat-related illness than adults, are at greater risk from increasing hot days (USGCRP 2016; EPA 2016).\n- • Older adults and persons with disabilities are more vulnerable to extreme events, such as storms, that cause power outages or require evacuation. Emergency response plans specifically accommodating these groups can lessen the risks (USGCRP 2016; EPA 2016).\n- • People who work outdoors, such as tourism and construction workers, fisherpeople, farmers, and other outdoor laborers, are some of the first to be exposed to the effects of heat and extreme weather (USGCRP 2016; Schulte and Chun 2009).\n- • People who live, work, go to school, or otherwise spend time in locations that are more directly affected by climate risks, such\n\n- as coastal and other flood-prone areas, are more likely to experience higher risks to health and safety (USGCRP 2016).\n- • Pacific Islanders, including Samoans, have an inseparable connection to and derive their sense of identity from the lands, territories, and resources of their islands (Keener et al. 2018). Traditional systems of land ownership complicate relocation out of ancestral areas that are exposed to climate impacts because communities prioritize remaining on familial land (US Department of Commerce 2012)."
+      ]
+    },
+    {
+      "record_id": "49e5aba8e81dcc4fbd05f30c",
+      "paper_id": "climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1)",
+      "source_path": "output/climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1).md",
+      "section_heading": "If you are a coastal infrastructure decision-maker…",
+      "section_start_line": 447,
+      "section_end_line": 462,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which natural feature protects 435 buildings valued at over $46.5 million in American Sāmoa from floods that would result from a 10-year storm event?",
+      "ground_truth_answer": "Coral reefs.",
+      "ground_truth_chunks": [
+        "Coral reefs already protect 435 buildings valued at over \\$46.5 million in American Sāmoa from floods that would result from a 10-year storm event (Storlazzi et al. 2019).",
+        "Prioritizing reef conservation and facilitating replanting of mangroves provides additional coastal protection (Ferrario et al. 2014)."
+      ]
+    },
+    {
+      "record_id": "329866c99685237ec312baea",
+      "paper_id": "climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1)",
+      "source_path": "output/climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1).md",
+      "section_heading": "If you manage ecosystems and biodiversity…",
+      "section_start_line": 512,
+      "section_end_line": 527,
+      "model": "openai:gpt-4o-mini",
+      "question": "What restoration action in American Sāmoa is cited as helping to protect communities against storm surge and coastal inundation?",
+      "ground_truth_answer": "Restoring mangrove forests, as is being done in Leone on Tutuila.",
+      "ground_truth_chunks": [
+        "Restoring mangrove forests, as is being done in Leone on Tutuila, can help to protect communities against storm surge and coastal inundation, enabling them to adapt, while also providing secondary benefits such as maintenance of fisheries (US Department of Commerce 2012; Hills et al. 2013).",
+        "Significant portions of mangrove forests have been lost to human land use in American Sāmoa; only five stands across two islands remain, and replanting has had varying success (EcoAdapt 2016)."
+      ]
+    },
+    {
+      "record_id": "5f0febf7e27ab1da0fb5fe5e",
+      "paper_id": "climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1)",
+      "source_path": "output/climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1).md",
+      "section_heading": "Needs for Research and Information",
+      "section_start_line": 557,
+      "section_end_line": 587,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which types of critical infrastructure vulnerability assessments does American Sāmoa currently lack?",
+      "ground_truth_answer": "With the exception of a transportation infrastructure assessment, American Sāmoa currently lacks vulnerability assessments of coastal, wastewater, and other critical infrastructure.",
+      "ground_truth_chunks": [
+        "With the exception of the Climate Related Vulnerability Assessment for Transportation Infrastructure (HHF Planners and USACE 2020) completed for the American Sāmoa Department of Public Works, American Sāmoa currently lacks vulnerability assessments of coastal, wastewater, and other critical infrastructure.",
+        "Assessing climate vulnerability involves technical analysis of changing hazards, often evaluates exposure, sensitivity, and adaptive capacity, and provides rankings of the seriousness of various climate risks."
+      ]
+    },
+    {
+      "record_id": "bbd739caf5ef5955835f17cb",
+      "paper_id": "climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1)",
+      "source_path": "output/climate-change-in-american-samoa-pirca-2021-low-res (1)/climate-change-in-american-samoa-pirca-2021-low-res (1).md",
+      "section_heading": "▶ Traceable Accounts",
+      "section_start_line": 670,
+      "section_end_line": 865,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the relative sea level trend at Pago Pago from 1948 to 2009 in feet per 100 years?",
+      "ground_truth_answer": "0.72 feet per 100 years (from 1948 to 2009) with a 95% confidence.",
+      "ground_truth_chunks": [
+        "0.72 feet per 100 years from 1948 to 2009, with a 95% confidence (Fig. 12, NOAA 2020c).",
+        "Source: NOAA Tides & Currents. Relative sea level trend at Station 1770000 Pago Pago, American Samoa, 2020."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015.md",
+  "source_sha256": "12d03b71d1723eff5694c031a4d730d556899a6827c02109ce419f891c00baae",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "0e12279021990bed0fe062ac",
+      "paper_id": "WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015",
+      "source_path": "output/WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015.md",
+      "section_heading": "A OPEN ACCESS",
+      "section_start_line": 15,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under what public license is this article made available?",
+      "ground_truth_answer": "The article is made available under the CC0 public domain dedication (Creative Commons CC0).",
+      "ground_truth_chunks": [
+        "**Copyright:** This is an open access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the <a href=\"Creative Commons CC0\">CC0</a> public domain dedication."
+      ]
+    },
+    {
+      "record_id": "1276df4bbad9600b118ceb1f",
+      "paper_id": "WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015",
+      "source_path": "output/WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015.md",
+      "section_heading": "Introduction",
+      "section_start_line": 37,
+      "section_end_line": 52,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which factors did the authors investigate as drivers of differences in reef fish assemblages?",
+      "ground_truth_answer": "They assessed the strength of associations between a range of factors—human population density, wave-energy, oceanic productivity, temperature, coral cover, and structural complexity—and the standing biomass of reef fishes and particular reef fish trophic groupings.",
+      "ground_truth_chunks": [
+        "Much of that work has focused on reef fish assemblages and there is now abundant evidence that, compared to human-populated islands, remote coral reefs typically have three to four times or more standing biomass of reef fishes, with relatively large portions of biomass in upper trophic levels and made up of larger-bodied taxa [[1](#page-16-0)–[4\\]](#page-16-0).",
+        "Here, we use survey data collected along wide gradients of environmental conditions and potential human impact to investigate drivers of differences in reef fish assemblages among ~40 US and US-affiliated islands and atolls spread widely across the western and central Pacific. The availability of consistent large-scale survey data, together with recently-synthesized satellite-derived environmental data from the same locations [[7\\]](#page-16-0) allowed us to use generalized modelling and multi-model inference to assess the strength of associations between a range of factors—human population density, wave-energy, oceanic productivity, temperature, coral cover and structural complexity—and the standing biomass of reef fishes, as well as of particular reef fish trophic groupings."
+      ]
+    },
+    {
+      "record_id": "d0c8f1e6ca84d70571e2a91a",
+      "paper_id": "WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015",
+      "source_path": "output/WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015.md",
+      "section_heading": "Study Region and Survey Program",
+      "section_start_line": 65,
+      "section_end_line": 76,
+      "model": "openai:gpt-4o-mini",
+      "question": "What proportion of hardbottom habitat and surveyed sites did forereef surveys comprise in the study?",
+      "ground_truth_answer": "Forereef surveys comprised 79% of the hardbottom habitat and 89% of the sites surveyed.",
+      "ground_truth_chunks": [
+        "To maximize\n\n<span id=\"page-3-0\"></span>![](_page_3_Picture_1.jpeg)\n\ncomparability, only data from forereef surveys were used for this study, which comprised 79% of the hardbottom habitat and 89% of the sites surveyed."
+      ]
+    },
+    {
+      "record_id": "0dd229b0a6d2cb47ee943e81",
+      "paper_id": "WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015",
+      "source_path": "output/WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015.md",
+      "section_heading": "Predictor Variables",
+      "section_start_line": 83,
+      "section_end_line": 111,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were chlorophyll-a (CHL) values obtained for each island and why were pixels within the 30 m contour masked?",
+      "ground_truth_answer": "CHL was obtained from 4-km resolution pixels surrounding each island; pixels that intersected or were contained within the 30 m contour were masked to remove spurious data points associated with shallow-bottom reflectance, so CHL values for each island come from the innermost band of 4-km pixels outside of the 30 m contour. CHL values are used as a proxy for oceanic productivity, and the climatological mean of Chlorophyll-a was taken between July 2002 and May 2011.",
+      "ground_truth_chunks": [
+        "SST and CHL data come from 4-km resolution pixels surrounding each island. For SST, data are averaged from all non-land pixels intersecting or within the 30 m contour of each island or atoll. However, for CHL, pixels that intersected or were contained within the 30 m contour were masked to remove spurious data points associated with shallowbottom reflectance, and so CHL values for each island come from the innermost band of 4-km pixels outside of the 30 m contour [\\[7\\]](#page-16-0). CHL values are therefore a proxy for primary productivity of pelagic waters surrounding reef areas, which we henceforth refer to as 'oceanic productivity'.",
+        "| CHL       | Climatological mean of Chlorophyll-a between July 2002-and May2011                                                                                                                            |"
+      ]
+    },
+    {
+      "record_id": "bc7b2949d438e5c16996ae30",
+      "paper_id": "WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015",
+      "source_path": "output/WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015.md",
+      "section_heading": "Data Exploration and Modeling",
+      "section_start_line": 172,
+      "section_end_line": 187,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two predictor variables were not included together in single models due to strong negative correlation?",
+      "ground_truth_answer": "Wave energy (WV) and sea surface temperature metrics (SSTL) were not included together in single models.",
+      "ground_truth_chunks": [
+        "Wave energy and sea surface temperature metrics (WV, SSTL) were strongly negatively correlated (r = -0.88), but other correlations were not problematic—the next highest correlation coefficients being between wave energy and the factor Atoll (WV and AT, r = 0.61) and between complexity and hard coral cover (CX and HC, r = 0.41).",
+        "We therefore determined not to include both WV and SSTL in single models, and calculated variance inflation factors (VIF) for the two potential subsets of predictor variables (all other than SSTL; all other than WV)."
+      ]
+    },
+    {
+      "record_id": "9fc4a303941a8ceb678d0da0",
+      "paper_id": "WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015",
+      "source_path": "output/WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015.md",
+      "section_heading": "Results",
+      "section_start_line": 188,
+      "section_end_line": 193,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the grand mean of total reef fish biomass (excluding reef sharks and jacks) across all reef areas?",
+      "ground_truth_answer": "40.5 g m-2 (SD 27.8 g m-2).",
+      "ground_truth_chunks": [
+        "The grand mean of total reef fish biomass, excluding reef sharks and jacks, across all reef areas was 40.5 g m-2 (SD 27.8 g m-2)."
+      ]
+    },
+    {
+      "record_id": "8d0123dd4f4d4ec8f8205c60",
+      "paper_id": "WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015",
+      "source_path": "output/WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015.md",
+      "section_heading": "Impacts of Predictor Variables",
+      "section_start_line": 198,
+      "section_end_line": 276,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which human population predictor was included in all retained models for all consumer groups and what was its reported variable importance (vi)?",
+      "ground_truth_answer": "HUM was included in all retained models and had variable importance vi = 0.998.",
+      "ground_truth_chunks": [
+        "Retained models of consumer group biomass also indicated strong support for the importance of the two human population predictors: HUM was included in all retained models (vi 0.998 for all consumer groups, [Table 3\\)](#page-8-0); and HDIST was included in all retained models for primary consumers, planktivores, and piscivores (vi 0.920), as well as several of the top-ranked",
+        "Visualizations of top-ranked models show rapid declines in reef fish biomass at relatively low levels of HUM followed by more gradual declines as population density increased further [\\(Fig. 3](#page-10-0)). Biomass declines at low local human population density were particularly steep for piscivores ([Fig. 3](#page-10-0)). Local human population density at the most populous of our study islands, Oahu, corresponded with a decline of >75% of total reef fish biomass, and > 95% of piscivore biomass [\\(Fig. 3](#page-10-0))."
+      ]
+    },
+    {
+      "record_id": "a2ce3ef4631d2e3f11323fa1",
+      "paper_id": "WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015",
+      "source_path": "output/WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015.md",
+      "section_heading": "Impacts of Humans",
+      "section_start_line": 283,
+      "section_end_line": 296,
+      "model": "openai:gpt-4o-mini",
+      "question": "At human-populated islands (except the most lightly populated), what percentage of reef fish biomass did the study estimate relative to the absence of humans?",
+      "ground_truth_answer": "Approximately 20–40% of what it would be in the absence of humans.",
+      "ground_truth_chunks": [
+        "Specifically, at all but the most lightly populated islands, we estimated that reef fish biomass was ~20–40% of what it would be in the absence of humans, and also that human effects were much stronger on piscivores than on other consumer groups."
+      ]
+    },
+    {
+      "record_id": "b9aee6d5ca42ca4c345f5930",
+      "paper_id": "WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015",
+      "source_path": "output/WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015.md",
+      "section_heading": "Impacts of Survey Methods and Design Choices on Reef Fish Biomass Estimates",
+      "section_start_line": 315,
+      "section_end_line": 326,
+      "model": "openai:gpt-4o-mini",
+      "question": "By approximately what percentage would including sharks and jacks increase mean reef fish biomass estimates for the US Line Islands and the NWHI according to the section?",
+      "ground_truth_answer": "Including sharks and jacks would have increased US Line Islands mean biomass estimates by ~50% and NWHI biomass estimates by ~150% (to 180 and 117 g m-2 respectively).",
+      "ground_truth_chunks": [
+        "We can quantify the impact of removing counts of sharks and jacks and, to some degree also, of using only instantaneous counts.",
+        "Including sharks and jacks would have increased US Line Islands mean biomass estimates by ~50% and NWHI biomass estimates by ~ 150%, to 180 and 117 g m-2 respectively."
+      ]
+    },
+    {
+      "record_id": "5def5ee84ed80bb78a7cf661",
+      "paper_id": "WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015",
+      "source_path": "output/WilliamsetalPLOSOne2015/WilliamsetalPLOSOne2015.md",
+      "section_heading": "Supporting Information",
+      "section_start_line": 331,
+      "section_end_line": 340,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were substrate data from 2010–2011 converted to mean vertical height?",
+      "ground_truth_answer": "They calculated the relationship between mean vertical height and substrate complexity at the 15 sites where both complexity types were available, and generated a standard conversion formula using linear regression.",
+      "ground_truth_chunks": [
+        "Prior to 2011, divers estimated substrate complexity in their stationary point count cylinder on a 5-point scale (1–5). From 2012 onwards, divers estimated proportion of habitat within their survey area in different vertical height bins.",
+        "In order to utilize substrate data from 2010 and 2011, we calculated the relationship mean vertical height and substrate complexity at the 15 sites where we have both complexity types, and generate a standard conversion formula using linear regression (TIF)"
+      ]
+    }
+  ],
+  "failures": []
+}

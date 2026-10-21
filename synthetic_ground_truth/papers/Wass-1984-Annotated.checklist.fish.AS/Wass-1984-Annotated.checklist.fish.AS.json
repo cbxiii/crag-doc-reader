@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS.md",
+  "source_sha256": "57d747baaa3c7e8984aa89b817588a7c188ad7f318603314a490e77e72fe532c",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "ee6eeff5bd3d5732c132d03f",
+      "paper_id": "Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS",
+      "source_path": "output/Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS.md",
+      "section_heading": "National Marine Fisheries Service, Special Scientific Report—Fisheries",
+      "section_start_line": 23,
+      "section_end_line": 56,
+      "model": "openai:gpt-4o-mini",
+      "question": "When was the Special Scientific Report—Fisheries series established?",
+      "ground_truth_answer": "1949.",
+      "ground_truth_chunks": [
+        "The Special Scientific Report—Fisheries series was established in 1949.",
+        "The series carries reports on scientific investigations that document long-term continuing programs of NMFS, or intensive scientific reports on studies of restricted scope."
+      ]
+    },
+    {
+      "record_id": "1c760241960ea0acd9b42bc1",
+      "paper_id": "Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS",
+      "source_path": "output/Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS.md",
+      "section_heading": "Sphyrnidae (Hammerhead Sharks)",
+      "section_start_line": 353,
+      "section_end_line": 364,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Sphyrnidae species is stated to be certainly the more abundant of the two in Samoa?",
+      "ground_truth_answer": "Sphyrna lewini.",
+      "ground_truth_chunks": [
+        "Sphyrna lewini Griffith and Smith in Cuvier, Griffith, and Smith, 1834. Mata'italiga.",
+        "The young of this species are commonly captured by gillnet in Pago Pago Bay.",
+        "This species may occur in Samoa but Jordan and Seale probably confused it with *lewini* which is certainly the more abundant of the two."
+      ]
+    },
+    {
+      "record_id": "72b614df37818471902a8bcc",
+      "paper_id": "Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS",
+      "source_path": "output/Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS.md",
+      "section_heading": "Antennariidae (Frogfishes)",
+      "section_start_line": 895,
+      "section_end_line": 920,
+      "model": "openai:gpt-4o-mini",
+      "question": "What Samoan local names are used for Antennariidae members based on their size?",
+      "ground_truth_answer": "Individuals < 8 cm TL are called la'otale; larger fish are nofu.",
+      "ground_truth_chunks": [
+        "Members of this family are known by the same general names as the scorpaenids in Samoa.",
+        "Individuals < 8 cm TL are called la'otale; larger fish are nofu."
+      ]
+    },
+    {
+      "record_id": "98d3565412958427144bf0ec",
+      "paper_id": "Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS",
+      "source_path": "output/Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS.md",
+      "section_heading": "Scorpaenidae (Scorpionfishes)",
+      "section_start_line": 1389,
+      "section_end_line": 1478,
+      "model": "openai:gpt-4o-mini",
+      "question": "What local names are used for scorpionfishes under 8 cm TL and for those over 8 cm TL?",
+      "ground_truth_answer": "Scorpionfishes under 8 cm TL are called la'otale; those over 8 cm TL are referred to as nofu or i'atala.",
+      "ground_truth_chunks": [
+        "Scorpionfishes < 8 cm TL are called **la'otale**. Those > 8 cm TL are referred to as **nofu** or **i'atala**."
+      ]
+    },
+    {
+      "record_id": "b76338bb46e2c2a844a4b07a",
+      "paper_id": "Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS",
+      "source_path": "output/Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS.md",
+      "section_heading": "Echeneididae (Remoras)",
+      "section_start_line": 2021,
+      "section_end_line": 2046,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which remora species in the section was associated with a hawksbill turtle when collected?",
+      "ground_truth_answer": "Phtheirichthys lineatus (Menzies, 1791).",
+      "ground_truth_chunks": [
+        "Phtheirichthys lineatus (Menzies, 1791).",
+        "This fish was associated with a hawksbill turtle, *Eretmochelys imbricata*, when collected."
+      ]
+    },
+    {
+      "record_id": "b9bcdd64d2941eb49cba8f88",
+      "paper_id": "Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS",
+      "source_path": "output/Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS.md",
+      "section_heading": "Chaetodontidae (Butterflyfishes)",
+      "section_start_line": 2539,
+      "section_end_line": 2661,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the general Samoan name for butterflyfishes given in this section?",
+      "ground_truth_answer": "tifitifi.",
+      "ground_truth_chunks": [
+        "The general name for butterflyfishes in Samoa is tifitifi.",
+        "Chaetodon bennetti Cuvier in Cuvier and Valenciennes, 1831. Tifitifi-lega."
+      ]
+    },
+    {
+      "record_id": "ad87e85019277400e849e284",
+      "paper_id": "Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS",
+      "source_path": "output/Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS.md",
+      "section_heading": "Labridae (Wrasses)",
+      "section_start_line": 3203,
+      "section_end_line": 3342,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which wrasse species is listed with the Samoan name Sugale-vaolo?",
+      "ground_truth_answer": "Bodianus axillaris (Bennett, 1831).",
+      "ground_truth_chunks": [
+        "Bodianus axillaris (Bennett, 1831). Sugale-vaolo."
+      ]
+    },
+    {
+      "record_id": "5545efdee4685350eaad91b3",
+      "paper_id": "Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS",
+      "source_path": "output/Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS.md",
+      "section_heading": "Enneapterygius sp.",
+      "section_start_line": 3731,
+      "section_end_line": 3734,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the maximum standard length (SL) reported for Enneapterygius sp. specimens?",
+      "ground_truth_answer": "27 mm SL.",
+      "ground_truth_chunks": [
+        "Five specimens, 27 mm maximum SL; collected at 3 m."
+      ]
+    },
+    {
+      "record_id": "452b17fdf3b5e647b0f4556b",
+      "paper_id": "Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS",
+      "source_path": "output/Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS.md",
+      "section_heading": "Namuauli.",
+      "section_start_line": 4405,
+      "section_end_line": 4424,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species in the Namuauli section is given the Samoan name 'Apakoa'?",
+      "ground_truth_answer": "Thunnus alalunga (Bonnaterre, 1788).",
+      "ground_truth_chunks": [
+        "Thunnus alalunga (Bonnaterre, 1788). Apakoa."
+      ]
+    },
+    {
+      "record_id": "3da202cbd89c009d3d8b4088",
+      "paper_id": "Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS",
+      "source_path": "output/Wass-1984-Annotated.checklist.fish.AS/Wass-1984-Annotated.checklist.fish.AS.md",
+      "section_heading": "NOAA SCIENTIFIC AND TECHNICAL PUBLICATIONS",
+      "section_start_line": 5633,
+      "section_end_line": 5658,
+      "model": "openai:gpt-4o-mini",
+      "question": "What do NOAA ATLAS publications present?",
+      "ground_truth_answer": "Presentation of analyzed data generally in the form of maps showing distribution of rainfall, chemical and physical conditions of oceans and atmosphere, distribution of fishes and marine mammals, ionospheric conditions, etc.",
+      "ground_truth_chunks": [
+        "ATLAS—Presentation of analyzed data generally in the form of maps showing distribution of rainfall, chemical and physical conditions of oceans and atmosphere, distribution of fishes and marine mammals, ionospheric conditions, etc."
+      ]
+    }
+  ],
+  "failures": []
+}

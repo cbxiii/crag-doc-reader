@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Balazs-1994-Satellite.tele.green.turtle.Hawaii.AS/Balazs-1994-Satellite.tele.green.turtle.Hawaii.AS.md",
+  "source_sha256": "9cbe24ea941091ce2598c9ec645708dde5f846e9642d7e21e1ef689fdf11e3cf",
+  "status": "complete",
+  "selected_section_count": 3,
+  "successful_record_count": 3,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "bb1a8dc1bb92dbf8b85f9911",
+      "paper_id": "Balazs-1994-Satellite.tele.green.turtle.Hawaii.AS/Balazs-1994-Satellite.tele.green.turtle.Hawaii.AS",
+      "source_path": "output/Balazs-1994-Satellite.tele.green.turtle.Hawaii.AS/Balazs-1994-Satellite.tele.green.turtle.Hawaii.AS.md",
+      "section_heading": "SATELLITE TELEMETRY OF GREEN TURTLES NESTING AT FRENCH FRIGATE SHOALS, HAWAII, AND ROSE ATOLL, AMERICAN SAMOA",
+      "section_start_line": 5,
+      "section_end_line": 17,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year was satellite telemetry of sea turtles in Hawaii initiated according to the section?",
+      "ground_truth_answer": "1992.",
+      "ground_truth_chunks": [
+        "Satellite telemetry of sea turtles in Hawaii was initiated in 1992 and resulted in the first known successful high-seas tracking of a green turtle migrating from a nesting site to a resident foraging pasture (Balazs 1994)."
+      ]
+    },
+    {
+      "record_id": "2f523696b14678a6e42ce99b",
+      "paper_id": "Balazs-1994-Satellite.tele.green.turtle.Hawaii.AS/Balazs-1994-Satellite.tele.green.turtle.Hawaii.AS",
+      "source_path": "output/Balazs-1994-Satellite.tele.green.turtle.Hawaii.AS/Balazs-1994-Satellite.tele.green.turtle.Hawaii.AS.md",
+      "section_heading": "METHODS",
+      "section_start_line": 18,
+      "section_end_line": 21,
+      "model": "openai:gpt-4o-mini",
+      "question": "What duty cycle were the ST-3 transmitters programmed with?",
+      "ground_truth_answer": "The transmitters were programmed with a duty cycle of 6 hours on, 6 hours off.",
+      "ground_truth_chunks": [
+        "The transmitters were programmed with a duty cycle of 6 hours on, 6 hours off."
+      ]
+    },
+    {
+      "record_id": "b06a81d0d31bacfa95f69268",
+      "paper_id": "Balazs-1994-Satellite.tele.green.turtle.Hawaii.AS/Balazs-1994-Satellite.tele.green.turtle.Hawaii.AS",
+      "source_path": "output/Balazs-1994-Satellite.tele.green.turtle.Hawaii.AS/Balazs-1994-Satellite.tele.green.turtle.Hawaii.AS.md",
+      "section_heading": "RESULTS",
+      "section_start_line": 22,
+      "section_end_line": 35,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the average swimming speed of Hawaiian Turtle 4803 during its migration to Kaneohe Bay?",
+      "ground_truth_answer": "1.9 km/hr.",
+      "ground_truth_chunks": [
+        "Her swimming speed averaged 1.9 km/hr."
+      ]
+    }
+  ],
+  "failures": []
+}

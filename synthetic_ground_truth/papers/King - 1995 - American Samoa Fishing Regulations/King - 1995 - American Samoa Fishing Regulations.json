@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations.md",
+  "source_sha256": "5f523ec5073d19eea4ebed78a68a6675eb8c0793e1577a7fba99bce87b49c0a8",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "971d0c66de3b78bb0c29dfbd",
+      "paper_id": "King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations",
+      "source_path": "output/King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations.md",
+      "section_heading": "24.0901 Definitions:",
+      "section_start_line": 11,
+      "section_end_line": 44,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to 24.0901, what does \"Drift Gillnet\" mean?",
+      "ground_truth_answer": "Drift Gillnet means any net that is deployed without being staked or otherwise attached to the shore or bottom so it is able to drift unattached.",
+      "ground_truth_chunks": [
+        "- 9. Drift Gillnet: means any net that is deployed without being staked or otherwise attached to the shore or bottom so it is able to drift unattached."
+      ]
+    },
+    {
+      "record_id": "b88249f9203ba340e14ea1d3",
+      "paper_id": "King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations",
+      "source_path": "output/King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations.md",
+      "section_heading": "Fagatele Bay Sub Zone A",
+      "section_start_line": 86,
+      "section_end_line": 99,
+      "model": "openai:gpt-4o-mini",
+      "question": "Is commercial fishing allowed in Fagatele Bay Sub Zone A?",
+      "ground_truth_answer": "Commercial fishing is prohibited.",
+      "ground_truth_chunks": [
+        "- (a) No person shall possess or use fishing poles, hand lines or trawls",
+        "- (b) Commercial fishing shall be prohibited"
+      ]
+    },
+    {
+      "record_id": "08cbd5c720f7ca1fe5399330",
+      "paper_id": "King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations",
+      "source_path": "output/King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations.md",
+      "section_heading": "• 24.0913 Use of Poisonous Substances:",
+      "section_start_line": 104,
+      "section_end_line": 109,
+      "model": "openai:gpt-4o-mini",
+      "question": "Is it unlawful to take or attempt to take fish or shellfish using laundry bleach?",
+      "ground_truth_answer": "Yes. The section states it is unlawful to take or attempt to take fish or shellfish using substances that have a poisonous or intoxicating effect, and it explicitly lists laundry bleach among prohibited substances.",
+      "ground_truth_chunks": [
+        "It is unlawful to take or attempt to take fish or shellfish using any substance that has poisonous or intoxicating effect on fish or shellfish.",
+        "These prohibited substances include but are not limited to laundry bleach, quinaldine, insecticides, herbicides, and traditional fish poisons derived from plant and animal materials such as Barringtonia (futu) and Derris (Ava ruu kini)."
+      ]
+    },
+    {
+      "record_id": "acef822618f20d4cf4ea8d0e",
+      "paper_id": "King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations",
+      "source_path": "output/King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations.md",
+      "section_heading": "24.0920 Gill nets It is unlawful to:",
+      "section_start_line": 130,
+      "section_end_line": 141,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the minimum stretched mesh size allowed for gill nets under section 24.0920?",
+      "ground_truth_answer": "Gill nets must have a stretched mesh size of at least one and one half inches (1.5 inches); possessing or using gill nets with a stretched mesh size of less than one and one half inches is unlawful.",
+      "ground_truth_chunks": [
+        "- (a) Possess, use or attempt to take fish with a gill net with a stretched mesh size of less than one and one half inches."
+      ]
+    },
+    {
+      "record_id": "dc18bb9083811da92fbe8064",
+      "paper_id": "King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations",
+      "source_path": "output/King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations.md",
+      "section_heading": "24.0926 Coral:",
+      "section_start_line": 177,
+      "section_end_line": 187,
+      "model": "openai:gpt-4o-mini",
+      "question": "Is commercial harvest of coral permitted without a valid coral collection permit from the department?",
+      "ground_truth_answer": "No. No commercial harvest of coral is permitted without a valid coral collection permit from the department; the permittee must comply with all requirements and conditions of the permit.",
+      "ground_truth_chunks": [
+        "- (a) It is unlawful to collect any living coral less than 60 feet deep.",
+        "- (b) No commercial harvest of coral is permitted without a valid coral collection permit from the department. The permittee must comply with all requirements and conditions of the permit."
+      ]
+    },
+    {
+      "record_id": "d56db557225df147521c3241",
+      "paper_id": "King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations",
+      "source_path": "output/King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations.md",
+      "section_heading": "24.0931 Ornamental Shells:",
+      "section_start_line": 188,
+      "section_end_line": 197,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is required to commercially harvest ornamental shells from the waters of American Samoa?",
+      "ground_truth_answer": "A valid shell collection permit from the department; the permittee must comply with all requirements and conditions of the permit.",
+      "ground_truth_chunks": [
+        "The commercial harvest of ornamental shells from the waters of American Samoa requires a valid shell collection permit from the department.",
+        "The permittee must comply with all requirements and conditions of the permit."
+      ]
+    },
+    {
+      "record_id": "3e02f80c328d9ae603f6e753",
+      "paper_id": "King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations",
+      "source_path": "output/King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations.md",
+      "section_heading": "24.0936 Spiny Lobsters (Parribacus sp.)",
+      "section_start_line": 210,
+      "section_end_line": 215,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the minimum carapace length allowed for spiny lobsters under section 24.0936?",
+      "ground_truth_answer": "Spiny lobsters must be at least three and one eighth (3.1/8) inches in carapace length.",
+      "ground_truth_chunks": [
+        "(b) It is unlawful to take, possess, import, export, sell or offer for sale spiny lobsters that measure less than three and one eighth (3.1/8) inches in carapace length, defined as the midline measurement taken from the leading edge of the carapace between the horns to the rear edge of the carapace.",
+        "(c) Lobsters taken, imported, sold or offered for sale must be whole to facilitate the measuring of these lobsters"
+      ]
+    },
+    {
+      "record_id": "aacf9141f9a78ec21a03ed84",
+      "paper_id": "King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations",
+      "source_path": "output/King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations.md",
+      "section_heading": "VI. 24.0938 Permits",
+      "section_start_line": 236,
+      "section_end_line": 248,
+      "model": "openai:gpt-4o-mini",
+      "question": "To whom must requests for permits under VI. 24.0938 be submitted, and on what forms?",
+      "ground_truth_answer": "Requests for permits must be submitted to the director on forms provided by the department.",
+      "ground_truth_chunks": [
+        "(b) Request for permits shall be submitted to the director on forms provided by the department."
+      ]
+    },
+    {
+      "record_id": "3b7bee3df40de59cfcebd3e6",
+      "paper_id": "King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations",
+      "source_path": "output/King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations.md",
+      "section_heading": "24.0939 Licenses",
+      "section_start_line": 249,
+      "section_end_line": 262,
+      "model": "openai:gpt-4o-mini",
+      "question": "What residency and documentation are required to apply for a commercial fishing license under 24.0939?",
+      "ground_truth_answer": "Applicants must continuously reside in American Samoa for at least one year, show proof of legal residency or citizenship, and show proof of previous fishing experience.",
+      "ground_truth_chunks": [
+        "- (a) A commercial fishing license is required for all fishermen engaging in commercial fishing in the waters of American Samoa. Persons who wish to apply for a commercial fishing license must:",
+        "- (1) Continuously reside in American Samoa for at least one year.\n- (2) Show proof of legal residency or citizenship, and\n- (3) Show proof of previous fishing experience."
+      ]
+    },
+    {
+      "record_id": "53d4eeb6e90b69ae39b5079c",
+      "paper_id": "King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations",
+      "source_path": "output/King - 1995 - American Samoa Fishing Regulations/King - 1995 - American Samoa Fishing Regulations.md",
+      "section_heading": "24.0947 Penalties",
+      "section_start_line": 302,
+      "section_end_line": 306,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under 24.0947(a), what penalties apply to a person who violates these laws?",
+      "ground_truth_answer": "They shall be guilty of a class B misdemeanor punishable by a fine not to exceed five hundred dollars or by a prison term in excess of fifteen days but not to exceed six months, or by both.",
+      "ground_truth_chunks": [
+        "- (a) Pursuant to 24.0311 (a) ASCA, any person who violates any provision of these laws shall be guilty of a class B misdemeanor punishable by a fine not to exceed five hundred dollars or by a prison term in excess of fifteen days but not to exceed six months, or by both."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS.md",
+  "source_sha256": "4a7d2130ab775f69e08647479294f4f5dea5415e4628656eeef2a87bf08743a2",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "4d7acfb1dc273d83c512e25c",
+      "paper_id": "Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS",
+      "source_path": "output/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS.md",
+      "section_heading": "FISHES OF GUAM, HAWAII, SAMOA, AND TAHITI",
+      "section_start_line": 1,
+      "section_end_line": 18,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year was Bulletin 22 of the Bernice P. Bishop Museum published?",
+      "ground_truth_answer": "1925.",
+      "ground_truth_chunks": [
+        "honolulu, hawaii Published by the Museum 1925"
+      ]
+    },
+    {
+      "record_id": "ed1b1cff29a2a9a6ed2ba171",
+      "paper_id": "Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS",
+      "source_path": "output/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS.md",
+      "section_heading": "HOLOCENTRIDAE",
+      "section_start_line": 146,
+      "section_end_line": 166,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species in the HOLOCENTRIDAE section have the note 'Reaches 305 mm'?",
+      "ground_truth_answer": "Myripristis murdjan (Forskål); Myripristis adustus Bleeker; Myripristis multiradiatus Günther; Holocentrus erythraeus Günther; Holocentrus sammara (Forskål).",
+      "ground_truth_chunks": [
+        "Myripristis murdjan (Forskål). SAGUNILONG, SAGSAG One. July 30, 1923. Reaches 305 mm.\n\nMyripristis adustus Bleeker. SAGAMILUNG, SAGSAG\n\nOne, 108 mm. Four said to be in Bishop Museum. July 18, 1923.\nReaches 305 mm.\n\nMyripristis multiradiatus Günther. Ga-DODAG, SAINA-N-DODAG Four, 74 to 78 mm. July 18, 1923. Reaches 305 mm.",
+        "Holocentrus erythraeus Günther. SAGMUTSUT, SAGSAG Five, 94 to 105 mm. July 26, 1923. Reaches 305 mm.",
+        "Holocentrus sammara (Forskål). Tsalag Six, 115 to 150 mm. July 3, 1923. Reaches 305 mm."
+      ]
+    },
+    {
+      "record_id": "b47bcee1b9c7459e7d9a9aca",
+      "paper_id": "Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS",
+      "source_path": "output/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS.md",
+      "section_heading": "SERRANIDAE",
+      "section_start_line": 259,
+      "section_end_line": 276,
+      "model": "openai:gpt-4o-mini",
+      "question": "How do the membranes of the spinous dorsal in Pharopteryx nigricans specimens differ from those shown for Pharopteryx melas by Jordan and Seale?",
+      "ground_truth_answer": "Jordan and Seale's figure of Pharopteryx melas shows the membranes of the spinous dorsal intact and terminal between the tips of the dorsal spines; in the present Pharopteryx nigricans specimens the membranes are very deeply notched, reaching at least half way in the depth of the spine following.",
+      "ground_truth_chunks": [
+        "Pharopteryx nigricans Rüppell.",
+        "The figure of *Pharopteryx melas* by Jordan and Seale<sup>4</sup> shows the membranes of the spinous dorsal intact and terminal between the tips of the dorsal spines. In the specimens of the present species these membranes are very deeply notched, reaching at least half way in the depth of the spine following."
+      ]
+    },
+    {
+      "record_id": "a676ef37b693a6a7a45e194d",
+      "paper_id": "Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS",
+      "source_path": "output/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS.md",
+      "section_heading": "SCORPAENIDAE",
+      "section_start_line": 367,
+      "section_end_line": 392,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species in the SCORPAENIDAE section is reported as having \"No palatine teeth\"?",
+      "ground_truth_answer": "Sebastopsis guamensis (Quoy and Gaimard).",
+      "ground_truth_chunks": [
+        "Sebastopsis guamensis (Quoy and Gaimard).",
+        "One, 33 mm. April, 1924. No palatine teeth."
+      ]
+    },
+    {
+      "record_id": "e90a608423266abb9848abf6",
+      "paper_id": "Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS",
+      "source_path": "output/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS.md",
+      "section_heading": "ACANTHURIDAE",
+      "section_start_line": 429,
+      "section_end_line": 476,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many specimens of Acanthurus metoprosophron were collected and what size range were they?",
+      "ground_truth_answer": "Eight specimens, 40 to 75 mm.",
+      "ground_truth_chunks": [
+        "Acanthurus metoprosophron (Jenkins). Guasa",
+        "Eight, 40 to 75 mm. July 8, 1923. In all, though young, the dark longitudinal bands are present on the dorsals, especially the spinous fin, as in Jenkins' figure. Reaches 305 mm."
+      ]
+    },
+    {
+      "record_id": "2230760f3968bb474230f83c",
+      "paper_id": "Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS",
+      "source_path": "output/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS.md",
+      "section_heading": "LABRIDAE",
+      "section_start_line": 520,
+      "section_end_line": 541,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many Stethojulis axillaris specimens were recorded and what size range did they have?",
+      "ground_truth_answer": "Seven specimens, 63 to 100 mm.",
+      "ground_truth_chunks": [
+        "Stethojulis axillaris (Quoy and Gaimard). AAGA",
+        "Seven, 63 to 100 mm. July 12, 1923. Of these, two are females or the albovittatus form."
+      ]
+    },
+    {
+      "record_id": "04a39869cda591930c0695f2",
+      "paper_id": "Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS",
+      "source_path": "output/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS.md",
+      "section_heading": "Callyodon hornbosteli new species. PALAGSI",
+      "section_start_line": 603,
+      "section_end_line": 632,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where and when was the type specimen of Callyodon hornbosteli collected?",
+      "ground_truth_answer": "Type No. 3410, Bishop Museum: Guam, July 28, 1923.",
+      "ground_truth_chunks": [
+        "Type, No. 3410, Bishop Museum. Guam. July 28, 1923."
+      ]
+    },
+    {
+      "record_id": "78c138545c92a9503e02ddf9",
+      "paper_id": "Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS",
+      "source_path": "output/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS.md",
+      "section_heading": "BLENNIIDAE",
+      "section_start_line": 721,
+      "section_end_line": 764,
+      "model": "openai:gpt-4o-mini",
+      "question": "What feature chiefly distinguishes Rupiscartes poptae from other species in the genus?",
+      "ground_truth_answer": "It is chiefly distinguished by the presence of four broad pale vertical bands on the cheek.",
+      "ground_truth_chunks": [
+        "Cheek and lower side of head with four rather broad pale gray vertical bars, each with border line of deep or dark gray.",
+        "Only the type known. Distinguished from the numerous species in the genus chiefly by the presence of four broad pale vertical bands on the cheek."
+      ]
+    },
+    {
+      "record_id": "b1bf7774b16172689b86ef4d",
+      "paper_id": "Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS",
+      "source_path": "output/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS.md",
+      "section_heading": "SYNGNATHIDAE",
+      "section_start_line": 911,
+      "section_end_line": 978,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the type locality and collection date for Corythoichthys balli?",
+      "ground_truth_answer": "Type locality: Waikiki reef, Honolulu; Collection date: March 13, 1924.",
+      "ground_truth_chunks": [
+        "Type, No. 3414, Bishop Museum. Waikiki reef, Honolulu. March 13, 1924. C. H. Edmondson and S. C. Ball."
+      ]
+    },
+    {
+      "record_id": "ae3c38c0fab1be926ab3d177",
+      "paper_id": "Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS",
+      "source_path": "output/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS/Fowler-1925-Fishes.Guam.Hawaii.Tahiti.AS.md",
+      "section_heading": "SCORPIDIDAE",
+      "section_start_line": 1270,
+      "section_end_line": 1317,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species is listed under LEIOGNATHIDAE in this section?",
+      "ground_truth_answer": "Leiognathus fasciatus (Lacépède).",
+      "ground_truth_chunks": [
+        "LEIOGNATHIDAE\n\nLeiognathus fasciatus (Lacépède)."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory.md",
+  "source_sha256": "8ecca6d03b5462441c224cd9df551b612543d9954abe95c6e5dbcfe755d5123a",
+  "status": "complete",
+  "selected_section_count": 9,
+  "successful_record_count": 9,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "184ea65e9151c48d1336ce52",
+      "paper_id": "Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory",
+      "source_path": "output/Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory.md",
+      "section_heading": "Abstract",
+      "section_start_line": 9,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral genera experienced widespread declines following cyclone Heta at the end of 2003?",
+      "ground_truth_answer": "Acropora and Montipora.",
+      "ground_truth_chunks": [
+        "Widespread declines in dominant corals (Acropora and Montipora) resulted from cyclone Heta at the end of 2003, shortly after the study began."
+      ]
+    },
+    {
+      "record_id": "e1f947fbcb5fa198a2a17f19",
+      "paper_id": "Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory",
+      "source_path": "output/Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory.md",
+      "section_heading": "Introduction",
+      "section_start_line": 33,
+      "section_end_line": 48,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which localized stressors did the study test for their ability to predict 'favorable' reef recovery dynamics?",
+      "ground_truth_answer": "Herbivory and water quality (and their interaction).",
+      "ground_truth_chunks": [
+        "Poor water quality and reduced herbivory often represent the greatest impediments to favorable coral-reef recovery following large-scale disturbance events [1–4].",
+        "Subsequently, herbivory, water quality, and their interaction were tested for their ability to predict 'favorable' dynamics, defined within by establish metrics of coral reef assemblages sensitive to localized stressors."
+      ]
+    },
+    {
+      "record_id": "8679e81dd1c87ab4ed9f211c",
+      "paper_id": "Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory",
+      "source_path": "output/Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory.md",
+      "section_heading": "Results",
+      "section_start_line": 49,
+      "section_end_line": 70,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral taxa accounted for nearly 90% of the decline in coral cover following Cyclone Heta?",
+      "ground_truth_answer": "Table and corymbose Acropora, and encrusting and plate Montipora.",
+      "ground_truth_chunks": [
+        "Coral loss following this disturbance ranged between 5 to 45%, and was heavily dependent upon the initial coral community composition, prior to the cyclone.",
+        "Nearly 90% of the decline in coral cover was attributed to the loss of table and corymbose Acropora, and encrusting and plate Montipora (Figure 2a)."
+      ]
+    },
+    {
+      "record_id": "0424dc33404f257a8e4d902b",
+      "paper_id": "Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory",
+      "source_path": "output/Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory.md",
+      "section_heading": "Discussion",
+      "section_start_line": 71,
+      "section_end_line": 114,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Discussion, which two localized stressors interactively accounted for the temporal and spatial variances associated with 'favorable' coral assemblage dynamics in American Samoa?",
+      "ground_truth_answer": "Water quality and herbivory.",
+      "ground_truth_chunks": [
+        "Intriguing evidence presented here shows that water quality and herbivory interactively accounted for the temporal and spatial variances associated with 'favorable' coral assemblage dynamics in American Samoa.",
+        "While the present results agree with these findings, they also highlight clear synergistic dependencies that are novel and warrant further attention. To what extent might enhanced herbivory be able to account for reduced water quality, or vice-versa, in order to maintain desirable ecological states?"
+      ]
+    },
+    {
+      "record_id": "f1dde4c0d3b1b3d14a6b28e8",
+      "paper_id": "Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory",
+      "source_path": "output/Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory.md",
+      "section_heading": "Study Location",
+      "section_start_line": 121,
+      "section_end_line": 124,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many monitoring sites were examined between 2003 and 2008?",
+      "ground_truth_answer": "Seventeen monitoring sites.",
+      "ground_truth_chunks": [
+        "Seventeen monitoring sites have been examined on a rotational basis between 2003 and 2008 based upon logistical constraints and weather patterns (Table S1)."
+      ]
+    },
+    {
+      "record_id": "a1b1902ff2cefb9ad7099a90",
+      "paper_id": "Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory",
+      "source_path": "output/Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory.md",
+      "section_heading": "Ecological Data",
+      "section_start_line": 125,
+      "section_end_line": 134,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many herbivorous fish species were considered for analyses?",
+      "ground_truth_answer": "44 species.",
+      "ground_truth_chunks": [
+        "In total, 44 species of herbivorous fishes consisting primarily of surgeonfishes (Acanthuridae) and parrotfishes (Scaridae), along with a few species of angelfishes (Pomacanthidae), rabbitfishes (Siganidae), and rudderfishes (Kyphosidae), were considered for analyses."
+      ]
+    },
+    {
+      "record_id": "940e5ac40b1d1c2b9176b688",
+      "paper_id": "Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory",
+      "source_path": "output/Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory.md",
+      "section_heading": "Environmental Data",
+      "section_start_line": 135,
+      "section_end_line": 144,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which constituents were used to create the water quality index for each watershed?",
+      "ground_truth_answer": "The index was based on bacteria and nutrient concentrations: NO2 + NO3, NH4, PO4, Total P, and Total N (represented as mean, ranked values).",
+      "ground_truth_chunks": [
+        "Water quality data originated from the ASEPA watershed monitoring program, and have been collected from most major watersheds on a rotational basis since 2004. For the purposes of this study a water quality index was created for each watershed based upon bacteria and nutrient concentrations (NO2 + NO3, NH4, PO4, Total P, and Total N). The index represents mean, ranked values for these constituents."
+      ]
+    },
+    {
+      "record_id": "3a96b4b3cc6bf427470ce5ba",
+      "paper_id": "Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory",
+      "source_path": "output/Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory.md",
+      "section_heading": "Data Analysis",
+      "section_start_line": 145,
+      "section_end_line": 156,
+      "model": "openai:gpt-4o-mini",
+      "question": "From which years were marine water quality datasets and herbivorous fish data collected?",
+      "ground_truth_answer": "Marine water quality data were collected between 2004 and 2007; herbivorous fish data were from 2007 and 2008.",
+      "ground_truth_chunks": [
+        "Marine water quality datasets originated from collection events between 2004 and 2007.",
+        "Herbivorous fish data were from 2007 and 2008."
+      ]
+    },
+    {
+      "record_id": "677a14758e017245043ab735",
+      "paper_id": "Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory",
+      "source_path": "output/Houk Musburger 2010 herbivory/Houk Musburger 2010 herbivory.md",
+      "section_heading": "Author Contributions",
+      "section_start_line": 193,
+      "section_end_line": 249,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which authors performed the experiments?",
+      "ground_truth_answer": "PH CM PW.",
+      "ground_truth_chunks": [
+        "Conceived and designed the experiments: PH. Performed the experiments: PH CM PW. Analyzed the data: PH CM PW. Contributed reagents/ materials/analysis tools: PH CM PW. Wrote the paper: PH CM PW."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS.md",
+  "source_sha256": "e46742040d3e1e8a1f0d88557248493bb65cdd39008152d66c3ae32e2a4bf50d",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "cac502965688151a3ff6d49c",
+      "paper_id": "Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS",
+      "source_path": "output/Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS.md",
+      "section_heading": "TABLES",
+      "section_start_line": 33,
+      "section_end_line": 55,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which table lists Mean CPUE by time of day, method and area?",
+      "ground_truth_answer": "Table 2.",
+      "ground_truth_chunks": [
+        "| Table : | 2.  | Mean CPUE by time of day, method and area17                                                                                       |"
+      ]
+    },
+    {
+      "record_id": "5df43e17751c5cf549df0b89",
+      "paper_id": "Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS",
+      "source_path": "output/Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS.md",
+      "section_heading": "METHODS",
+      "section_start_line": 92,
+      "section_end_line": 99,
+      "model": "openai:gpt-4o-mini",
+      "question": "What analysis procedures were used to estimate annual catch?",
+      "ground_truth_answer": "They (1) expanded observed fishing effort to calculate the annual effort and (2) estimated annual catch by multiplying CPUE from observed catches by the annual effort.",
+      "ground_truth_chunks": [
+        "Analysis procedures, also described in detail below, entailed 1) the expansion of observed fishing effort to calculate the annual effort and 2) the estimation of annual catch by multiplying CPUE from observed catches by the annual effort."
+      ]
+    },
+    {
+      "record_id": "fbac94a074720eb69f0b913f",
+      "paper_id": "Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS",
+      "source_path": "output/Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS.md",
+      "section_heading": "Catch Data",
+      "section_start_line": 110,
+      "section_end_line": 117,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long had individuals or groups been fishing to be eligible for sampling?",
+      "ground_truth_answer": "Individuals or groups were sampled only if they had been fishing at least half an hour.",
+      "ground_truth_chunks": [
+        "Individuals or groups fishing were sampled only if they had been fishing at least half an hour.",
+        "Catch data included date, type of day (weekday or weekend-holiday), village, whether the trip was concluded or in progress, time of interview, fishing method used, number of hours fished at the time of the interview, number of gear units (rods, nets, spears, etc.) employed, number of people in the fishing party and the count and weight of each species or species group caught."
+      ]
+    },
+    {
+      "record_id": "3add55c6e4b84cea14050c13",
+      "paper_id": "Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS",
+      "source_path": "output/Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS.md",
+      "section_heading": "Catch Analysis",
+      "section_start_line": 146,
+      "section_end_line": 155,
+      "model": "openai:gpt-4o-mini",
+      "question": "How was CPUE calculated and what unit is it expressed in?",
+      "ground_truth_answer": "CPUE was calculated by dividing the total number of pounds caught by the total effort (where total effort equalled the product of number of gear units and the number of hours fished). The unit for CPUE is pounds per gear-hour.",
+      "ground_truth_chunks": [
+        "First, a CPUE value for each catch that was sampled was calculated by dividing the total number of pounds caught by the total effort (where total effort equalled the product of number of gear units and the number of hours fished).",
+        "The unit for CPUE is, therefore, pounds per gear-hour."
+      ]
+    },
+    {
+      "record_id": "8cf49c476044d10c4ae36422",
+      "paper_id": "Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS",
+      "source_path": "output/Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS.md",
+      "section_heading": "Fishery Profile",
+      "section_start_line": 168,
+      "section_end_line": 200,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two hook-and-line methods together accounted for 71% of the total effort and 63% of the total catch?",
+      "ground_truth_answer": "Handline and rod and reel.",
+      "ground_truth_chunks": [
+        "Of the three hook-and-line methods (bamboo pole, handline, and rod and reel), handline and rod and reel methods were the most commonly used and were responsible for the highest landings of all seven fishing methods (Fig. 3) Together, they accounted for 71% of the total effort and 63% of the total catch."
+      ]
+    },
+    {
+      "record_id": "7acc90e0d1cb1a3d0dbbffc8",
+      "paper_id": "Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS",
+      "source_path": "output/Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS.md",
+      "section_heading": "Species Composition",
+      "section_start_line": 261,
+      "section_end_line": 482,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species accounted for 46% of the total fish and shellfish catch during the study period?",
+      "ground_truth_answer": "Atule (Selar crumenophthalmus).",
+      "ground_truth_chunks": [
+        "One carangid fish species, the atule (Selar crumenophthalmus), dominated the harvest in spite of being only seasonally present in shoreline waters.",
+        "Atule accounted for 46% of the total fish and shellfish catch, and it is the only species to contribute greater than 10% to the total harvest."
+      ]
+    },
+    {
+      "record_id": "40ff9032d2e4ece202f5d1e6",
+      "paper_id": "Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS",
+      "source_path": "output/Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS.md",
+      "section_heading": "Value",
+      "section_start_line": 529,
+      "section_end_line": 542,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the dollar value of the shoreline fishery catch, and how did it compare to the offshore fishery?",
+      "ground_truth_answer": "$768,000; the value of the shoreline fishery catch was over six times that of the offshore fishery.",
+      "ground_truth_chunks": [
+        "| Value            | \\$768,000 | \\$24,000                          | \\$94,000             |",
+        "The value of the shoreline fishery catch was over six times that of the offshore fishery."
+      ]
+    },
+    {
+      "record_id": "eed56a747656e5f1d7552ab0",
+      "paper_id": "Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS",
+      "source_path": "output/Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS.md",
+      "section_heading": "Species Composition",
+      "section_start_line": 619,
+      "section_end_line": 626,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did the percent contribution of shellfish to the non-atule total catch change between 1979 and 1991?",
+      "ground_truth_answer": "It decreased from 59% of the non-atule total catch in 1979 to 25% in 1991.",
+      "ground_truth_chunks": [
+        "Shellfish comprised 59% of the non-atule total catch in 1979 compared to 25% in 1991.",
+        "The overall drop in the amount of effort for diving and gleaning (38,793 person-hours in 1979 versus 13,242 person-hours in 1991) was the key to the drop in shellfish harvest."
+      ]
+    },
+    {
+      "record_id": "20a3c20370b0fae0a49a2f88",
+      "paper_id": "Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS",
+      "source_path": "output/Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS.md",
+      "section_heading": "Monitoring Program",
+      "section_start_line": 652,
+      "section_end_line": 661,
+      "model": "openai:gpt-4o-mini",
+      "question": "How does the section recommend modifying monitoring protocols so an independent CPUE for atule can be calculated?",
+      "ground_truth_answer": "Treat atule fishing as a unique fishing method and code individuals presumed to be targeting atule as ATULE for method, then modify the analysis programs to accept the additional method code so a unique catch, effort and CPUE can be generated.",
+      "ground_truth_chunks": [
+        "The most accurate method would be to treat atule fishing as a unique fishing method. It is generally possible to discern if an angler is targeting on atule during the normal roving participation survey. Regardless of what hookand-line method was employed (rod and reel, handline, bamboo pole), individuals presumed to be targeting on atule would be coded as ATULE for method.",
+        "Once the existing analysis programs were modified to accept the additional method code, a unique catch, effort and CPUE value would be generated for This would not only facilitate annual that species. comparisons, but would also produce more accurate values for CPUE, catch and effort."
+      ]
+    },
+    {
+      "record_id": "77570572f2933304e9cfe971",
+      "paper_id": "Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS",
+      "source_path": "output/Ponwith-1991-Shoreline.fishery.AS/Ponwith-1991-Shoreline.fishery.AS.md",
+      "section_heading": "Possible areas for research include:",
+      "section_start_line": 681,
+      "section_end_line": 686,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which fish groups are identified as needing research on size at maturity and the size composition of the harvest?",
+      "ground_truth_answer": "Groupers, snappers and parrot fish.",
+      "ground_truth_chunks": [
+        "- 1) Size at maturity and the size composition of the harvest for groupers, snappers and parrot fish would be valuable, considering the small size at which they are currently harvested."
+      ]
+    }
+  ],
+  "failures": []
+}

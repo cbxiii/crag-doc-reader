@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/NOAA mapping prioities AS/NOAA mapping prioities AS.md",
+  "source_sha256": "6515d1d149f70124dc77d8edd31d8d3a213397c5c5357735f544758188d86584",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "767c6853a4c86555bf122c74",
+      "paper_id": "NOAA mapping prioities AS/NOAA mapping prioities AS",
+      "source_path": "output/NOAA mapping prioities AS/NOAA mapping prioities AS.md",
+      "section_heading": "NOAA NOS NCCOS TECHNICAL MEMORANDUM 322",
+      "section_start_line": 55,
+      "section_end_line": 80,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which contractors are listed as 'under contract to NOAA' in this section?",
+      "ground_truth_answer": "CSS, Inc. and Lynker Technologies, LLC.",
+      "ground_truth_chunks": [
+        "*CSS, Inc., under contract to NOAA, National Ocean Service, National Centers for Coastal Ocean Science*",
+        "*Lynker Technologies, LLC, under contract to NOAA, Coral Reef Conservation Program*"
+      ]
+    },
+    {
+      "record_id": "e2ae4591dc0cec2fb4252690",
+      "paper_id": "NOAA mapping prioities AS/NOAA mapping prioities AS",
+      "source_path": "output/NOAA mapping prioities AS/NOAA mapping prioities AS.md",
+      "section_heading": "2.1 Advisory Team and Participating Groups",
+      "section_start_line": 154,
+      "section_end_line": 157,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many representatives from CRCP were on the technical advisory team (TAT)?",
+      "ground_truth_answer": "Two representatives from CRCP.",
+      "ground_truth_chunks": [
+        "The TAT consisted of two representatives from CRCP and one liaison from the local NOAA office in American Samoa.",
+        "A technical advisory team (TAT) was developed to help identify participating groups, points of contact, provide local knowledge, and coordination support."
+      ]
+    },
+    {
+      "record_id": "08c968817dcf74c8e8cb17c5",
+      "paper_id": "NOAA mapping prioities AS/NOAA mapping prioities AS",
+      "source_path": "output/NOAA mapping prioities AS/NOAA mapping prioities AS.md",
+      "section_heading": "2.2.3 Spatial Prioritization Application",
+      "section_start_line": 194,
+      "section_end_line": 201,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many virtual coins was each participating group given to place in the prioritization grid?",
+      "ground_truth_answer": "Each participating group was given 50 virtual coins (n=50), calculated as 30% of the total number of grid cells.",
+      "ground_truth_chunks": [
+        "Each participating group was given a separate set of virtual coins (n=50), calculated as 30% of the total number of grid cells, to place in the prioritization grid to indicate the locations and importance of their mapping needs.",
+        "The application also did not allow more than 10% (n=5) of the total number of coins to be input into a single grid cell."
+      ]
+    },
+    {
+      "record_id": "780242e18ebb0fc11f273011",
+      "paper_id": "NOAA mapping prioities AS/NOAA mapping prioities AS",
+      "source_path": "output/NOAA mapping prioities AS/NOAA mapping prioities AS.md",
+      "section_heading": "2.3.1 Quality Control",
+      "section_start_line": 242,
+      "section_end_line": 245,
+      "model": "openai:gpt-4o-mini",
+      "question": "What happened to Management Use and Map Product options assigned to cells with zero coins during quality control?",
+      "ground_truth_answer": "They were removed once cells with coins passed the quality check.",
+      "ground_truth_chunks": [
+        "Once cells with coins passed this quality check, any Management Use and Map Product options assigned to cells with zero coins were removed.",
+        "This situation typically occurred when a participant moved coins out of a cell."
+      ]
+    },
+    {
+      "record_id": "4073ad9f29b1b3071f63d981",
+      "paper_id": "NOAA mapping prioities AS/NOAA mapping prioities AS",
+      "source_path": "output/NOAA mapping prioities AS/NOAA mapping prioities AS.md",
+      "section_heading": "2.4 Project Timeline",
+      "section_start_line": 256,
+      "section_end_line": 263,
+      "model": "openai:gpt-4o-mini",
+      "question": "On what dates were the introductory webinar and the webinar presenting preliminary results held?",
+      "ground_truth_answer": "The introductory webinar was held on June 6, 2023, and the webinar presenting preliminary results was held on December 7, 2023.",
+      "ground_truth_chunks": [
+        "An introductory webinar was held on June 6, 2023, covering details on the project background, methods, outcomes, and use of the web tool, and to answer questions.",
+        "After the inputs were analyzed, participants were briefed on the preliminary results during a webinar on December 7, 2023, and were given the opportunity to make comments or suggestions on the results."
+      ]
+    },
+    {
+      "record_id": "07dad12a6f3b009577d279cc",
+      "paper_id": "NOAA mapping prioities AS/NOAA mapping prioities AS",
+      "source_path": "output/NOAA mapping prioities AS/NOAA mapping prioities AS.md",
+      "section_heading": "<span id=\"page-15-0\"></span>Results",
+      "section_start_line": 290,
+      "section_end_line": 299,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of coins overall were assigned to mesoscale, microscale, and regional Map Product Requirement spatial scales?",
+      "ground_truth_answer": "Mesoscale: 45%; Microscale: 36%; Regional: 19%.",
+      "ground_truth_chunks": [
+        "The percentage of the coins overall revealed data at the mesoscale were selected most often (45%), followed by microscale (36%) and regional scale (19%) data (Figure 8).",
+        "Regional data were only selected at the primary level, with all three scales selected equally at this level (33%)."
+      ]
+    },
+    {
+      "record_id": "1124f274e738016435280bd5",
+      "paper_id": "NOAA mapping prioities AS/NOAA mapping prioities AS",
+      "source_path": "output/NOAA mapping prioities AS/NOAA mapping prioities AS.md",
+      "section_heading": "Number of Management Uses",
+      "section_start_line": 328,
+      "section_end_line": 343,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many clusters of cells contained five to six (top 10%) different Management Uses selected by participants?",
+      "ground_truth_answer": "There were two clusters of cells.",
+      "ground_truth_chunks": [
+        "There were only two clusters of cells that contained five to six (top 10%) different Management Uses selected by participants.",
+        "The largest group of top 10% cells was on the island of Tutuila, and although these six cells are adjacent they actually represent two distinctly different areas. Five cells extend across Pago Pago Harbor on the South shore and one cell was within Vatia Bay, along the North shore."
+      ]
+    },
+    {
+      "record_id": "0e4554a1872879c165af454d",
+      "paper_id": "NOAA mapping prioities AS/NOAA mapping prioities AS",
+      "source_path": "output/NOAA mapping prioities AS/NOAA mapping prioities AS.md",
+      "section_heading": "<span id=\"page-20-0\"></span>Summary Rank",
+      "section_start_line": 360,
+      "section_end_line": 369,
+      "model": "openai:gpt-4o-mini",
+      "question": "On Tutuila, where did the top 10% summary rank clusters and single top 10% cells occur?",
+      "ground_truth_answer": "Top 10% summary rank clusters occurred in Pago Pago Harbor (six cells) and in Pala Lagoon (three cells) near Nu'uuli. Single top 10% cells occurred in Larsen Bay and Leone on Tutuila.",
+      "ground_truth_chunks": [
+        "Two top 10% summary rank clusters occurred on Tutuila in Pago Pago Harbor (six cells) and in Pala Lagoon (three cells) near Nu'uuli.",
+        "Single top 10% cells were located in Larsen Bay and Leone on Tutuila and off Fatuana Point, south Ofu."
+      ]
+    },
+    {
+      "record_id": "eb2c6be1bbea5d7e6b452218",
+      "paper_id": "NOAA mapping prioities AS/NOAA mapping prioities AS",
+      "source_path": "output/NOAA mapping prioities AS/NOAA mapping prioities AS.md",
+      "section_heading": "Conclusion",
+      "section_start_line": 432,
+      "section_end_line": 447,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which area is American Samoa's largest estuary and has the largest mangrove swamp (Nu'uuli Pala) in the territory?",
+      "ground_truth_answer": "Pala Lagoon.",
+      "ground_truth_chunks": [
+        "Pala Lagoon, the only other cluster of top 10% summary rank cells (three), also on Tutuila, is American Samoa's largest estuary and has the largest mangrove swamp (known as Nu'uuli Pala) in the territory (Gilman et al., 2007; Dobson et al., 2021)."
+      ]
+    },
+    {
+      "record_id": "47fb2dc2863d659ac8232694",
+      "paper_id": "NOAA mapping prioities AS/NOAA mapping prioities AS",
+      "source_path": "output/NOAA mapping prioities AS/NOAA mapping prioities AS.md",
+      "section_heading": "Appendix C. Individual Maps for Each Product Requirement",
+      "section_start_line": 584,
+      "section_end_line": 621,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Product Requirement does Figure C.3 map coins for?",
+      "ground_truth_answer": "Habitat Suitability",
+      "ground_truth_chunks": [
+        "**Figure C.3.** Map of coins distributed for the Product Requirement *Habitat Suitability*."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source_path": "output/ASG-2001-ExOrder.ban.scuba.fishing.AS/ASG-2001-ExOrder.ban.scuba.fishing.AS.md",
+  "source_sha256": "fdcd8412a175830e138eeef85cce3aea7e785ea23937c365f5e4311ec67d88d0",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "02490190929152016dd62810",
+      "paper_id": "ASG-2001-ExOrder.ban.scuba.fishing.AS/ASG-2001-ExOrder.ban.scuba.fishing.AS",
+      "source_path": "output/ASG-2001-ExOrder.ban.scuba.fishing.AS/ASG-2001-ExOrder.ban.scuba.fishing.AS.md",
+      "section_heading": "TERRITORY OF AMERICAN SAMUA",
+      "section_start_line": 7,
+      "section_end_line": 49,
+      "model": "openai:gpt-4o-mini",
+      "question": "What equipment does Executive Order No. 002-2001 prohibit using for fishing?",
+      "ground_truth_answer": "It prohibits the use of underwater birlathing apparatus (SCUBA, HOOKAH AND REBREATHERS) for fishing.",
+      "ground_truth_chunks": [
+        "EXECUTIVE ORDER No. 002 -2001\n\nAN ORDER PROHIBITING THE USE OF UNDERWATER BIRLATHING APPARATUS (SCUBA, HOOKAH AND REBREATHERS) FOR FISHING",
+        "Whereas, a Coral Reef workshop in American Samos conditiled, \"Over—fishing is a serious and urgent problem on coral reefs in American Samos.\" A major contributor to this problem is souba fishing which should no prohibited in all territorial fisheries..."
+      ]
+    }
+  ],
+  "failures": []
+}

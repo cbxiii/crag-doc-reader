@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010.md",
+  "source_sha256": "4d43a62f175468bdc25615517289ec96a4c427744e723780e6c2a5c0ca680fe4",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "a3f1b9a1cbdf384731695df7",
+      "paper_id": "NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010",
+      "source_path": "output/NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010.md",
+      "section_heading": "GORAL REEF EGOSYSTEMS OF AMERICAN SAMOA A 2002-2010 OVERVIEW",
+      "section_start_line": 5,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the mission of the NOAA Pacific Islands Fisheries Science Center (PIFSC) as stated in the document?",
+      "ground_truth_answer": "To conduct high-quality, timely research to support the stewardship of fisheries resources, protected species, and ecosystems in the central and western Pacific Ocean.",
+      "ground_truth_chunks": [
+        "The mission of the NOAA Pacific Islands Fisheries Science Center (PIFSC) is to conduct high-quality, timely research to support the stewardship of fisheries resources, protected species, and ecosystems in the central and western Pacific Ocean."
+      ]
+    },
+    {
+      "record_id": "ec66ce4675b55e535d70f2b4",
+      "paper_id": "NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010",
+      "source_path": "output/NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010.md",
+      "section_heading": "SWAINS ISLAND",
+      "section_start_line": 97,
+      "section_end_line": 130,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the estimated age (in million years) of Swains Island?",
+      "ground_truth_answer": "~ 65 million years",
+      "ground_truth_chunks": [
+        "- Part of the much older Tokelau hot-spot chain, lying ~ 320 km north of the hot-spot track of the Samoan Archipelago",
+        "| AGE (MY)                                                | ~ 65   | 1.5     | 0.3            | 0.15 | ?    |    |"
+      ]
+    },
+    {
+      "record_id": "7fe5c5385d54b6c80d0a99e4",
+      "paper_id": "NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010",
+      "source_path": "output/NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010.md",
+      "section_heading": "OCEANOGRAPHY",
+      "section_start_line": 181,
+      "section_end_line": 196,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which island had the highest nearshore concentrations of dissolved nutrients and chlorophyll-a (Chl-*a*) in American Samoa according to in situ water samples?",
+      "ground_truth_answer": "Waters surrounding Tutuila.",
+      "ground_truth_chunks": [
+        "Water samples collected around each island and atoll suggest that waters surrounding Tutuila were characterized as having the highest concentrations of dissolved nutrients and Chl-*a*in American Samoa.",
+        "The increased levels of nearshore nutrients observed around Tutuila were likely a result of this island's high elevation and associated influences on rainfall and the relatively high human population and related land-use disturbances."
+      ]
+    },
+    {
+      "record_id": "9502c70fa1fa6e4729a69f42",
+      "paper_id": "NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010",
+      "source_path": "output/NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010.md",
+      "section_heading": "GENERIC RICHNESS AND RELATIVE ABUNDANCE",
+      "section_start_line": 211,
+      "section_end_line": 228,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many unique macroalgal genera were recorded around Tutuila across the surveys years 2002–2010?",
+      "ground_truth_answer": "54 unique macroalgal genera were recorded around Tutuila.",
+      "ground_truth_chunks": [
+        "Around Tutuila, the largest volcanic island in American Samoa, 54 unique macroalgal genera were recorded across the surveys years 2002–2010 (Fig. 10), whereas, at Swains and Rose, with notably smaller reef areas, only 17 and 27 genera were recorded."
+      ]
+    },
+    {
+      "record_id": "8e44ba57d873d6bc9e9c60bd",
+      "paper_id": "NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010",
+      "source_path": "output/NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010.md",
+      "section_heading": "CORALLINE-ALGAL DISEASES",
+      "section_start_line": 239,
+      "section_end_line": 242,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the relative occurrences of coralline-algal disease lesions per percent crustose coralline algal cover for 2006, 2008, and 2010, and were there statistical differences among those survey years?",
+      "ground_truth_answer": "Records indicated 0.16 lesions per percent crustose coralline algal cover ± 0.04 SE for 2006, 0.15 ± 0.04 SE for 2008, and 0.09 ± 0.03 SE for 2010; no statistical differences were detected among survey years (p = 0.41, ANOVA, F(2,185) = 0.92).",
+      "ground_truth_chunks": [
+        "Records for all REA sites combined indicated a relative occurrence of 0.16 lessions per percent crustose coralline algal cover ± 0.04 SE for 2006, 0.15 ± 0.04 SE for 2008, and 0.09 ± 0.03 SE for 2010, with no statistical differences (*p* = 0.41, analysis of variance [ANOVA], F(2,185) = 0.92) detected among survey years.",
+        "Elevated site-specific occurrences were noted at Ofu & Olosega (2006) and Swains (2008), where the number of coralline-algal disease cases were an order of magnitude higher."
+      ]
+    },
+    {
+      "record_id": "45c4e8f1ab4bcb3cf0da92b3",
+      "paper_id": "NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010",
+      "source_path": "output/NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010.md",
+      "section_heading": "TOTAL REEF-FISH BIOMASS AND COMPOSITION",
+      "section_start_line": 249,
+      "section_end_line": 268,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which island had particularly low parrotfish biomass and what percentage of total fish biomass did parrotfishes average there?",
+      "ground_truth_answer": "Swains — parrotfishes averaged only 2% of total fish biomass across all years.",
+      "ground_truth_chunks": [
+        "Estimated parrotfish (Scaridae, herbivore) biomass was particularly low at Swains, averaging only 2% of total fish biomass across all years, compared to 11%–21% of total fish biomass observed for parrotfishes at other islands (Fig. 13).",
+        "In terms of the composition of reef-fish assemblages among islands estimated throughout all survey years, Swains had notably low biomass of primary consumers (i.e., fishes that eat algae and detritus), which accounted for only 12%–25% of total fish biomass at Swains compared to 34%–67% at all other islands (Fig. 13)."
+      ]
+    },
+    {
+      "record_id": "98bf2f47c2c374f43a718436",
+      "paper_id": "NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010",
+      "source_path": "output/NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010.md",
+      "section_heading": "CRUSTOSE-CORALLINE-ALGAL COVER (12.5%) CORAL GENERIC RICHNESS (12.5%) STRESSED-CORAL COVER (12.5%) CORAL COVER (12.5%) ABUNDANCE TARGET & HERBIVORES (10%) GENERIC RICHNESS (10%) CORAL REEF CONDITION INDEX (100%) LARGE PISCIVORE BIOMASS (10%) LARGE NON-PISCIVORE BIOMASS (10%) TOTAL FISH BIOMASS (10%) BENTHIC CONDITION INDEX (50%) FISH CONDITION INDEX (50%)",
+      "section_start_line": 283,
+      "section_end_line": 286,
+      "model": "openai:gpt-4o-mini",
+      "question": "What data are all metrics based on?",
+      "ground_truth_answer": "All metrics are based on data from benthic-image analyses and towed-diver and REA observations collected in American Samoa in 2004, 2006, 2008, and 2010.",
+      "ground_truth_chunks": [
+        "Figure 15. Conceptual diagram of the calculation of the Benthic Condition Index, the Fish Condition Index, and the Coral Reef Condition Index. All metrics are based on data from benthic-image analyses and towed-diver and REA observations collected in American Samoa in 2004, 2006, 2008, and 2010."
+      ]
+    },
+    {
+      "record_id": "61f041c0f6960cd2985172d3",
+      "paper_id": "NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010",
+      "source_path": "output/NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010.md",
+      "section_heading": "SWAINS ISLAND",
+      "section_start_line": 303,
+      "section_end_line": 332,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the mean coral cover (%) at Swains Island in 2002 according to the surveys?",
+      "ground_truth_answer": "Mean coral cover was 49.6% (± 1.0 SE).",
+      "ground_truth_chunks": [
+        "Surveys conducted in 2002 revealed an ecosystem rich in hard corals, dominated by plating *Montipora* and branching *Pocillopora* corals. Mean coral cover was 49.6% (± 1.0 SE), far exceeding all other islandwide means recorded in American Samoa. Additionally, moderate levels of both macroalgal and crustose coralline algal cover were observed islandwide (Fig. 17)."
+      ]
+    },
+    {
+      "record_id": "37caf728730d4fdd5bd0bdd6",
+      "paper_id": "NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010",
+      "source_path": "output/NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010.md",
+      "section_heading": "MARINE DEBRIS",
+      "section_start_line": 361,
+      "section_end_line": 372,
+      "model": "openai:gpt-4o-mini",
+      "question": "How much marine debris was removed from Tutuila during the NOAA operation following the 2009 tsunami?",
+      "ground_truth_answer": "~ 4025 kg of debris was removed.",
+      "ground_truth_chunks": [
+        "During this operation, 56 km or 32% of Tutuila's coastline was surveyed and ~ 4025 kg of debris was removed (Fig. 22).",
+        "Numerous types of debris were removed, including 1980 kg of tires and 910 kg of roofing material and housing goods."
+      ]
+    },
+    {
+      "record_id": "f1ede42d0c050dd78486edd0",
+      "paper_id": "NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010",
+      "source_path": "output/NOAA PIFSC AS reefs 2002-2010/NOAA PIFSC AS reefs 2002-2010.md",
+      "section_heading": "LISTENING TO THE REEFS AT ROSE ATOLL",
+      "section_start_line": 389,
+      "section_end_line": 396,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many vessel events did the EAR record at Rose Atoll during its deployment from March 14, 2008 to July 16, 2009?",
+      "ground_truth_answer": "The EAR recorded 20 vessel events during that deployment.",
+      "ground_truth_chunks": [
+        "This unit recorded data from March 14, 2008, to July 16, 2009. During those 17 months, the EAR at Rose recorded 20 vessel events in the vicinity of the monitoring site.",
+        "Four of those events corresponded to *Hi`ialakai* operations for ASRAMP in March 2008."
+      ]
+    }
+  ],
+  "failures": []
+}

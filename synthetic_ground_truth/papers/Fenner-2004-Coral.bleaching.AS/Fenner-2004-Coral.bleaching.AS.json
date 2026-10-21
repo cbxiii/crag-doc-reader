@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Fenner-2004-Coral.bleaching.AS/Fenner-2004-Coral.bleaching.AS.md",
+  "source_sha256": "cd8a5e195318729feadf17c1e495de9ace557e2de734707279cf21997c5d6120",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "10b54d628c8c14aa713b85d8",
+      "paper_id": "Fenner-2004-Coral.bleaching.AS/Fenner-2004-Coral.bleaching.AS",
+      "source_path": "output/Fenner-2004-Coral.bleaching.AS/Fenner-2004-Coral.bleaching.AS.md",
+      "section_heading": "Summer Coral Bleaching Event, 2004, on Tutuila, American Samoa",
+      "section_start_line": 1,
+      "section_end_line": 36,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which three lagoons had significant amounts of bleached staghorn corals in 2004?",
+      "ground_truth_answer": "Airport, Nuuuli, and Alofau.",
+      "ground_truth_chunks": [
+        "A total of 5 areas had significant proportions of dead staghorn, Airport, Nuuuli, Alofau, Faga'alu and Utelei.",
+        "Three of these had significant amounts of bleached staghorns: Airport, Nuuuli, and Alofau."
+      ]
+    }
+  ],
+  "failures": []
+}

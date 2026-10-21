@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS.md",
+  "source_sha256": "d2cf888dcd1c250aae474b6a14c90266d29664b52536ef0c0c5d67a803cecf21",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "897e4c2afe54b0f51567198d",
+      "paper_id": "Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS",
+      "source_path": "output/Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS.md",
+      "section_heading": "Biology and Conservation of Sea Turtles",
+      "section_start_line": 1,
+      "section_end_line": 55,
+      "model": "openai:gpt-4o-mini",
+      "question": "On what dates was the World Conference on Sea Turtle Conservation held?",
+      "ground_truth_answer": "26–30 November 1979.",
+      "ground_truth_chunks": [
+        "Proceedings of the World Conference on Sea Turtle Conservation Washington, D.C., 26–30 November 1979"
+      ]
+    },
+    {
+      "record_id": "dc2055cefb0e39932814dc70",
+      "paper_id": "Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS",
+      "source_path": "output/Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS.md",
+      "section_heading": "Status of Sea Turtles in the Central Pacific Ocean",
+      "section_start_line": 56,
+      "section_end_line": 61,
+      "model": "openai:gpt-4o-mini",
+      "question": "What three interrelated factors does the section identify as contributing to the breakdown of traditional conservation systems protecting sea turtles in Polynesian islands?",
+      "ground_truth_answer": "The introduction of money economies; the decline of traditional authority; and the imposition of new laws and practices by colonial powers.",
+      "ground_truth_chunks": [
+        "At those islands with indigenous human populations, the traditional conservation systems that served to protect turtles and other marine resources from overexploitation have deteriorated considerably, and in some cases vanished altogether.",
+        "Three interrelated factors contributing to this breakdown have been the introduction of money economies, the decline of traditional authority, and the imposition of new laws and practices by colonial powers (Johannes 1978)."
+      ]
+    },
+    {
+      "record_id": "55955db1f9c66dff085595f0",
+      "paper_id": "Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS",
+      "source_path": "output/Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS.md",
+      "section_heading": "Johnston Atoll (United States)",
+      "section_start_line": 94,
+      "section_end_line": 105,
+      "model": "openai:gpt-4o-mini",
+      "question": "Are green turtles known to nest at Johnston Atoll?",
+      "ground_truth_answer": "No — nesting is not known to take place at Johnston Atoll.",
+      "ground_truth_chunks": [
+        "Both immature and adult green turtles are regularly seen foraging in shallow waters, but nesting is not known to take place.",
+        "Courtship behavior and possibly sustained copulation have, however, been periodically reported by resident personnel."
+      ]
+    },
+    {
+      "record_id": "7fbad11e18cec310dd196141",
+      "paper_id": "Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS",
+      "source_path": "output/Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS.md",
+      "section_heading": "Howland and Baker (United States)",
+      "section_start_line": 110,
+      "section_end_line": 113,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year were Howland and Baker designated National Wildlife Refuges?",
+      "ground_truth_answer": "They were designated National Wildlife Refuges in 1974.",
+      "ground_truth_chunks": [
+        "Howland (0°48'N, 176°38'W) and Baker (0°13'N, 176°28'W), 2 low coral islands, were designated National Wildlife Refuges in 1974 and are now uninhabited."
+      ]
+    },
+    {
+      "record_id": "19e90bce69ce499a8a8888fc",
+      "paper_id": "Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS",
+      "source_path": "output/Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS.md",
+      "section_heading": "Line Islands",
+      "section_start_line": 114,
+      "section_end_line": 128,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Line Islands are under the jurisdiction of Kiribati?",
+      "ground_truth_answer": "In the Northern Line Islands: Washington, Fanning and Christmas. The Southern Line Islands (also under Kiribati) consist of Malden, Starbuck, Vostok, Caroline, and Flint.",
+      "ground_truth_chunks": [
+        "The Northern Line Islands consist of Kingman Reef, Palmyra and Jarvis, under the jurisdiction of the United States; and Washington, Fanning and Christmas under the jurisdiction of the newly independent nation of Kiribati (formerly the Gilbert Islands).",
+        "The Southern Line Islands are also under the jurisdiction of Kiribati and consist of Malden, Starbuck, Vostok, Caroline, and Flint, all of which are now uninhabited."
+      ]
+    },
+    {
+      "record_id": "025d479f03954afa4f5b8438",
+      "paper_id": "Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS",
+      "source_path": "output/Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS.md",
+      "section_heading": "American Samoa (United States)",
+      "section_start_line": 143,
+      "section_end_line": 158,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which island in American Samoa is stated as the only uninhabited island in the group?",
+      "ground_truth_answer": "Rose.",
+      "ground_truth_chunks": [
+        "Rose is the only uninhabited island in the group."
+      ]
+    },
+    {
+      "record_id": "75f0bd180846d50b51872b36",
+      "paper_id": "Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS",
+      "source_path": "output/Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS.md",
+      "section_heading": "Western Samoa",
+      "section_start_line": 159,
+      "section_end_line": 176,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many hawksbill eggs were collected and how many hatched in 1974 at the Western Samoa hatchery?",
+      "ground_truth_answer": "In 1974, 6,231 eggs were collected and 4,951 hatched (79 percent).",
+      "ground_truth_chunks": [
+        "| 1974 | 6,231          | 4,951 (79 percent) |"
+      ]
+    },
+    {
+      "record_id": "278c4e37ea45a7f181af5953",
+      "paper_id": "Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS",
+      "source_path": "output/Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS.md",
+      "section_heading": "Tokelau",
+      "section_start_line": 177,
+      "section_end_line": 182,
+      "model": "openai:gpt-4o-mini",
+      "question": "During which months did Hirth (1971a) report that green turtles and hawksbills nest in Tokelau?",
+      "ground_truth_answer": "September and October.",
+      "ground_truth_chunks": [
+        "Hirth (1971a) reported that green turtles and, to a much lesser extent, hawksbills nest in Tokelau during September and October, but that their numbers were rapidly declining."
+      ]
+    },
+    {
+      "record_id": "217f35f7bfeb93887b1b5591",
+      "paper_id": "Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS",
+      "source_path": "output/Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS.md",
+      "section_heading": "Cook Islands",
+      "section_start_line": 193,
+      "section_end_line": 215,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Cook Islands atoll had each family raising 15 hatchlings in floating cages in 1977 as a restocking effort?",
+      "ground_truth_answer": "Palmerston.",
+      "ground_truth_chunks": [
+        "• Palmerston (18°04'S, 163°10'W). Powell (1957), quoted by Weins (1962), indicated that green turtle eggs were \"fairly plentiful\" at Palmerston and that both turtles and eggs were frequently used for food by the 85 inhabitants. Carr (1965) considered Palmerston to be a major Pacific nesting site for green turtles.",
+        "In 1977 each family on the atoll had a tradition of raising 15 hatchlings in floating cages for 1 to 3 months before releasing them as a restocking effort (S. Kavakana and D. Brandon, personal communication)."
+      ]
+    },
+    {
+      "record_id": "58fd489472610851ff27aa86",
+      "paper_id": "Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS",
+      "source_path": "output/Balazs-1995-Status.sea.turtle.Pac.AS/Balazs-1995-Status.sea.turtle.Pac.AS.md",
+      "section_heading": "Recommendations",
+      "section_start_line": 216,
+      "section_end_line": 231,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which specific rookeries does the section recommend be intensively monitored during peak nesting seasons?",
+      "ground_truth_answer": "Rose Atoll, Enderbury, Birnie, Palmerston, Penrhyn, and the offshore islets of Namua, Nuutele, and Nuulua in Western Samoa.",
+      "ground_truth_chunks": [
+        "- 2. Known rookeries should be intensively monitored during the peak period of at least 1, but preferably several, nesting seasons to determine the number of females present. As a minimum, this should include Rose Atoll, Enderbury, Birnie, Palmerston, Penrhyn, and the offshore islets of Namua, Nuutele, and Nuulua in Western Samoa. Tagging with durable tags (see Balazs, this volume) should be carried out as an integral part of this work to gain some insight into the occurrence of international migrations, hence shared usage of resources."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1).md",
+  "source_sha256": "447ebd3b85bd3dad4af6f081ae063148b440c2cb745820c1aec36ac0c28a86ff",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "509c0dca0aa6a9399dbead37",
+      "paper_id": "Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1)",
+      "source_path": "output/Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1).md",
+      "section_heading": "U.S. Fish and Wildlife Service Rose Atoll National Wildlife Refuge Comprehensive Conservation Plan Approval Submission",
+      "section_start_line": 11,
+      "section_end_line": 28,
+      "model": "openai:gpt-4o-mini",
+      "question": "For how many years does the Comprehensive Conservation Plan (CCP) specify a management direction for Rose Atoll National Wildlife Refuge?",
+      "ground_truth_answer": "15 years.",
+      "ground_truth_chunks": [
+        "The purpose of the CCP is to specify a management direction for the Refuge for the next 15 years."
+      ]
+    },
+    {
+      "record_id": "48233e58af7113e53e6ecdce",
+      "paper_id": "Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1)",
+      "source_path": "output/Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1).md",
+      "section_heading": "Strategies Applied to Achieve Objective",
+      "section_start_line": 556,
+      "section_end_line": 575,
+      "model": "openai:gpt-4o-mini",
+      "question": "Within how many years does the plan aim to develop and implement monitoring protocols to track populations of focal lagoon species?",
+      "ground_truth_answer": "Within 5 years.",
+      "ground_truth_chunks": [
+        "Within 5 years, develop and implement monitoring protocols to track populations of focal lagoon species, including fish, corals, faisua, other invertebrates, and marine pests to determine abundance, density, and biomass of each at selected sites",
+        "Monitoring fish and invertebrate abundance and biomass as well as abiotic factors is critical so we can assess whether the Service is maintaining BIDEH of the lagoon (see Goal 6)."
+      ]
+    },
+    {
+      "record_id": "9391c8518e8a504603663284",
+      "paper_id": "Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1)",
+      "source_path": "output/Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1).md",
+      "section_heading": "3.6.1 Military Use in WWII",
+      "section_start_line": 1064,
+      "section_end_line": 1067,
+      "model": "openai:gpt-4o-mini",
+      "question": "What type of military practice was Rose Atoll used for in 1943?",
+      "ground_truth_answer": "In 1943 the 4th Marine Base Defense Wing was given permission to use Rose Atoll as a dive bomb practice area.",
+      "ground_truth_chunks": [
+        "In 1943 the 4th Marine Base Defense Wing was given permission to use Rose Atoll as a dive bomb practice area.",
+        "In the Army FUDS investigation, the only reported ordnance was a single MK–23 practice bomb and two 0.30-caliber cartridge casings found by biologists."
+      ]
+    },
+    {
+      "record_id": "04d04e242ae2052e0f9bcf35",
+      "paper_id": "Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1)",
+      "source_path": "output/Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1).md",
+      "section_heading": "4.5.4 Fua'o (Sula dactylatra) or Masked Booby",
+      "section_start_line": 1441,
+      "section_end_line": 1458,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many breeding pairs of Masked Boobies are estimated within the US Pacific Islands (USPI), and how many pairs are on Jarvis, Howland, and Baker Islands specifically?",
+      "ground_truth_answer": "Within the USPI there are approximately 8,300 breeding pairs of Masked Boobies; about 1,200 pairs on Jarvis Island and over 1,500 pairs each on Howland and Baker Islands.",
+      "ground_truth_chunks": [
+        "Within the USPI, there are approximately 8,300 breeding pairs with 1,200 pairs on Jarvis Island and over 1,500 pairs each on Howland and Baker Islands (Forsell 2002)."
+      ]
+    },
+    {
+      "record_id": "05819f96c8871b5825ee742c",
+      "paper_id": "Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1)",
+      "source_path": "output/Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1).md",
+      "section_heading": "4.11.4 Vegetation",
+      "section_start_line": 1859,
+      "section_end_line": 1872,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coconut trees did Amerson and colleagues map on Rose Island in the mid-1970s?",
+      "ground_truth_answer": "They mapped 13 coconut trees.",
+      "ground_truth_chunks": [
+        "Amerson and colleagues (Amerson et al. 1982) mapped 13 trees on the island in the mid-1970s.",
+        "In 1987, a DMWR expedition mapped 30 coconut trees on Rose, including several trees planted around the island by a \"vessel crew\" the previous year."
+      ]
+    },
+    {
+      "record_id": "57f5bd0c4fb35808b8f9f21a",
+      "paper_id": "Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1)",
+      "source_path": "output/Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1).md",
+      "section_heading": "Description of Use(s):",
+      "section_start_line": 2846,
+      "section_end_line": 2871,
+      "model": "openai:gpt-4o-mini",
+      "question": "Are public or private economic uses of specimens collected under this Compatibility Determination (CD) allowed?",
+      "ground_truth_answer": "No. Public or private economic uses of specimens collected are not allowed in this CD.",
+      "ground_truth_chunks": [
+        "Permittees may use specimens collected under a permit, any components of any specimens (including natural organisms, enzymes, genetic materials or seeds), and research results derived from collected specimens for scientific or educational purposes only, and not for commercial purposes unless they have entered into a Cooperative Research and Development Agreement (CRADA) with the Service.",
+        "Public or private economic uses of specimens collected are not allowed in this CD."
+      ]
+    },
+    {
+      "record_id": "d74221e5bdfa8a29e6db3209",
+      "paper_id": "Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1)",
+      "source_path": "output/Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1).md",
+      "section_heading": "Unit Size: Roadless areas meet the size criteria if any one of the following standards apply:",
+      "section_start_line": 3562,
+      "section_end_line": 3570,
+      "model": "openai:gpt-4o-mini",
+      "question": "Does Rose Atoll NWR meet the unit size criteria for a wilderness study area?",
+      "ground_truth_answer": "Yes. Rose Atoll NWR meets the unit size criteria because it is a low-lying atoll with two roadless islands, and the criteria state that a roadless island of any size meets the unit size requirement.",
+      "ground_truth_chunks": [
+        "A roadless island of any size. A roadless island is defined as an area surrounded by permanent waters or an area that is markedly distinguished from the surrounding lands by topographical or ecological features.",
+        "Inventory Unit A consists of the entire Rose Atoll NWR (Figure E-1) at 1,613 acres. As a low-lying atoll with two roadless islands, Rose Atoll NWR meets the size criteria for a wilderness study area."
+      ]
+    },
+    {
+      "record_id": "6c784a4163a61776dac8af7c",
+      "paper_id": "Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1)",
+      "source_path": "output/Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1).md",
+      "section_heading": "G.7.2.1.1.2 Terrestrial – granular application",
+      "section_start_line": 4039,
+      "section_end_line": 4066,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of granules are assumed to remain available on the soil surface following in-furrow applications?",
+      "ground_truth_answer": "1%",
+      "ground_truth_chunks": [
+        "It would be assumed that only 1% of the granules are available on the soil surface following in-furrow applications."
+      ]
+    },
+    {
+      "record_id": "f9b46c7916efac6790e4efaa",
+      "paper_id": "Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1)",
+      "source_path": "output/Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1).md",
+      "section_heading": "STATEMENT OF COMPLIANCE",
+      "section_start_line": 4681,
+      "section_end_line": 4716,
+      "model": "openai:gpt-4o-mini",
+      "question": "Will the Refuge conduct Section 7 consultation under the Endangered Species Act for Refuge management actions that may affect listed species?",
+      "ground_truth_answer": "Yes. The statement says the Refuge will conduct consultation under Section 7 of the Endangered Species Act for any Refuge management program actions that have the potential to affect listed species.",
+      "ground_truth_chunks": [
+        "Section 7 requires refuge managers to perform consultation before initiating projects that affect or may affect endangered species.",
+        "The Refuge will conduct consultation under Section 7 of the Endangered Species Act for any Refuge management program actions that have the potential to affect listed species."
+      ]
+    },
+    {
+      "record_id": "30f54e8f67849cca9cf2a750",
+      "paper_id": "Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1)",
+      "source_path": "output/Rose Atoll NWR Final CCP_May 2014(1)/Rose Atoll NWR Final CCP_May 2014(1).md",
+      "section_heading": "M.1 CCP Team Members",
+      "section_start_line": 5451,
+      "section_end_line": 5511,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who was listed as the CCP lead planner responsible for RO and Honolulu office coordination and CCP schedule manager?",
+      "ground_truth_answer": "Khemarith So, Planner, RO",
+      "ground_truth_chunks": [
+        "Khemarith So, Planner, RO replaced,<br>Christine Ogura, Natural Resource Planner,<br>HPINWRC<br>replaced,<br>Bill Perry, Natural Resource Planner, HPINWRC | CCP lead planner responsible for RO and Honolulu<br>office coordination and process and policy guidance<br>for CCP development; CCP schedule manager;<br>facilitator of team, partner, and public<br>meetings/workshops; document and related product<br>management (including planning record); writer of<br>affected environment and environmental<br>consequences and planning updates; public<br>involvement and communications"
+      ]
+    }
+  ],
+  "failures": []
+}

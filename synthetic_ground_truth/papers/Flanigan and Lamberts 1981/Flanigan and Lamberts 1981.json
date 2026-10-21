@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Flanigan and Lamberts 1981/Flanigan and Lamberts 1981.md",
+  "source_sha256": "eb89666f508884e9fc08bc85bc513161321f0a672c7f5157d013d1f184d77a96",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "140b8a38f7dbc15b96a6756c",
+      "paper_id": "Flanigan and Lamberts 1981/Flanigan and Lamberts 1981",
+      "source_path": "output/Flanigan and Lamberts 1981/Flanigan and Lamberts 1981.md",
+      "section_heading": "ACANTHASTER AS A RECURRING PHENOMENON IN SAMOAN HISTORY",
+      "section_start_line": 1,
+      "section_end_line": 31,
+      "model": "openai:gpt-4o-mini",
+      "question": "What specific Samoan name refers to the Crown-of-Thorns starfish (Acanthaster planci)?",
+      "ground_truth_answer": "alamea.",
+      "ground_truth_chunks": [
+        "The language also has a single word for nearly all starfish (aveau) but Acanthaster alone has the highly specific name of alamea.",
+        "\"E fofō e le alamea lana sale\" or \"E fofō e le alamea le alamea\" meaning \"the alamea is its own doctor,\" or \"falau a alamea\" meaning 'bure of the alamea\" refers to the belief held throughout the tropical Pacific that the excruciating pain caused by the sting of the spines of the Acanthaster is relieved by placing the mouth of the same animal against the wound (Herman, 1953)."
+      ]
+    }
+  ],
+  "failures": []
+}

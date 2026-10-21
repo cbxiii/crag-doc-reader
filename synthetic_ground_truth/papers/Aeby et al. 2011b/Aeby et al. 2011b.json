@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Aeby et al. 2011b/Aeby et al. 2011b.md",
+  "source_sha256": "0fc667124b16d2c8e35a93e02b28bee458ea346ad4dee09298a3f18604fc57ac",
+  "status": "complete",
+  "selected_section_count": 5,
+  "successful_record_count": 5,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "2e9f141274de5aef920f64a2",
+      "paper_id": "Aeby et al. 2011b/Aeby et al. 2011b",
+      "source_path": "output/Aeby et al. 2011b/Aeby et al. 2011b.md",
+      "section_heading": "G. S. Aeby,1 D. G. Bourne,2 B. Wilson,2 and T. M. Work3",
+      "section_start_line": 7,
+      "section_end_line": 21,
+      "model": "openai:gpt-4o-mini",
+      "question": "Was Acropora white syndrome (AWS) more prevalent and had a higher incidence in the Northwestern Hawaiian Islands (NWHI) or in American Samoa (AS)?",
+      "ground_truth_answer": "AWS was more prevalent and had a higher incidence in the Northwestern Hawaiian Islands (NWHI) than in American Samoa (AS).",
+      "ground_truth_chunks": [
+        "We found that AWS was more prevalent and had a higher incidence within the NWHI as compared to AS.",
+        "Individual *Acropora* colonies affected by AWS showed high mortality in both regions, but case fatality rate and disease severity was higher in the NWHI.",
+        "The site within the NWHI had a monospecific stand of *A. cytherea*; a species that is highly susceptible to AWS. Once AWS entered the site, it spread easily amongst the abundant susceptible hosts."
+      ]
+    },
+    {
+      "record_id": "f040b9944dae37594b8ca01a",
+      "paper_id": "Aeby et al. 2011b/Aeby et al. 2011b",
+      "source_path": "output/Aeby et al. 2011b/Aeby et al. 2011b.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 22,
+      "section_end_line": 37,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the study's four objectives listed in the Introduction?",
+      "ground_truth_answer": "The objectives were: (1) compare how differences in biological variables between the two regions influence the impact of disease events (e.g., number of susceptible host species/species-richness, host abundance (colony density and percent cover), and size class structure); (2) document the initial AWS outbreak levels (prevalence) and subsequent disease spread (incidence) in each region; (3) compare the virulence (degree of colony mortality) of AWS on individual colonies between regions and among different host species; (4) determine whether AWS is transmissible and investigate any variation in transmissibility among host species.",
+      "ground_truth_chunks": [
+        "We present the first study to examine the role that biodiversity may play in influencing the impact of coral disease outbreaks, by comparing the dynamics of *Acropora* white syndrome (AWS) on a reef in a species-poor region (Northwestern Hawaiian Islands) (reef coral species = 80) [49] with a reef in a species-rich region (American Samoa) (reef coral species = 276) [51]. AWS is a coral disease that results in progressive tissue loss and which has caused extensive coral mortality in many regions throughout the Indo-Pacific [19, 20, 22]. AWS was first documented within the Northwestern Hawaiian Islands at French Frigate Shoals in 2003 [20] and studies on the disease were initiated in\n\n2005. AWS was documented on Tutuila in American Samoa in 2004 [22] and in 2008 we conducted a parallel study on AWS dynamics.",
+        "Our objectives were to (1) compare how differences in biological variables between the two regions influence the impact of disease events (e.g., the number of susceptible host species (species-richness), host, abundance (colony density and percent cover), and size class structure of the host coral; (2) document the initial AWS outbreak levels (prevalence) and subsequent disease spread (incidence) in each region; (3) compare the virulence (degree of colony mortality) of AWS on individual colonies between regions and among different host species; (4) determine whether AWS is transmissible and investigate any variation in transmissibility among host species."
+      ]
+    },
+    {
+      "record_id": "4d7f8f638bd128bb39bd87ae",
+      "paper_id": "Aeby et al. 2011b/Aeby et al. 2011b",
+      "source_path": "output/Aeby et al. 2011b/Aeby et al. 2011b.md",
+      "section_heading": "2. Methods",
+      "section_start_line": 38,
+      "section_end_line": 55,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many AWS-affected Acropora colonies were tagged for the virulence (tissue loss) assessment in the Northwestern Hawaiian Islands (NWHI) and in American Samoa (AS)?",
+      "ground_truth_answer": "Twenty infected colonies were tagged within the NWHI and 18 colonies were tagged in AS.",
+      "ground_truth_chunks": [
+        "To determine the progression of lesions, AWS-affected colonies that were initially identified within (or just outside) the belt transects, were tagged with either a colored cable tie or a numbered cow tag, photographed with a digital camera and the location on the reef mapped. The percentage of the colony surfaces that appeared diseased, healthy, or dead were scored *in situ* to provide a semiquantitative measure of AWS severity. Twenty infected colonies were tagged within the NWHI and 18 colonies were tagged in AS. The following year, the tagged colonies were relocated, photographed, and scored for tissue loss."
+      ]
+    },
+    {
+      "record_id": "40710ddf77441ec3c11e9cb9",
+      "paper_id": "Aeby et al. 2011b/Aeby et al. 2011b",
+      "source_path": "output/Aeby et al. 2011b/Aeby et al. 2011b.md",
+      "section_heading": "3. Results",
+      "section_start_line": 56,
+      "section_end_line": 95,
+      "model": "openai:gpt-4o-mini",
+      "question": "In the experimental transmission trials, in how many runs (and what percentage) was Acropora white syndrome (AWS) transmissible through direct contact between affected and healthy coral fragments?",
+      "ground_truth_answer": "AWS was transmissible through direct contact in six out of eight experimental runs (75%).",
+      "ground_truth_chunks": [
+        "AWS was found to be transmissible through direct contact between AWS-affected and healthy coral fragments in six out of eight experimental runs (75%).",
+        "A. clathrata (n = 1) and A. cytherea (n = 3) demonstrated 100% successful direct transmission."
+      ]
+    },
+    {
+      "record_id": "3367f17ca889f0130b1fe84f",
+      "paper_id": "Aeby et al. 2011b/Aeby et al. 2011b",
+      "source_path": "output/Aeby et al. 2011b/Aeby et al. 2011b.md",
+      "section_heading": "4. Discussion",
+      "section_start_line": 96,
+      "section_end_line": 113,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Discussion, which Acropora species had the most successful AWS transmission in aquaria trials?",
+      "ground_truth_answer": "Acropora cytherea — AWS transmission was successful in 3 out of 3 aquaria trials.",
+      "ground_truth_chunks": [
+        "Although sample sizes were small and so must be interpreted with caution, we did find that AWS transmission was more successful in A. cytherea (three out of three trials) than with A. hyacinthus (two out of four trials).",
+        "The site within the NWHI had higher host abundance, which would facilitate disease transmission but specifically, the site was composed of a monospecific stand of large colonies of *Acropora cytherea*, a coral species that our study showed to be highly susceptible to AWS."
+      ]
+    }
+  ],
+  "failures": []
+}

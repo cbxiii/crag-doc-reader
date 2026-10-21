@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy.md",
+  "source_sha256": "8cbd7f936e3126de9ed8cde1bb5a6e9beae7b950c3f7de064b27606c63873b86",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "96fbc3a60d38fd57d1ac98ce",
+      "paper_id": "Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy",
+      "source_path": "output/Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy.md",
+      "section_heading": "Purpose and Scope",
+      "section_start_line": 13,
+      "section_end_line": 16,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many sites (stations) on Tutuila provided climate data for this report?",
+      "ground_truth_answer": "Nine sites (stations).",
+      "ground_truth_chunks": [
+        "This report includes summaries of climate data collected between 1999 and 2004 from nine sites (stations) on Tutuila, as well as computed values of PE for each station, and maps showing the distribution of mean monthly and annual PE."
+      ]
+    },
+    {
+      "record_id": "d8972a27adb5c300e28efa59",
+      "paper_id": "Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy",
+      "source_path": "output/Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy.md",
+      "section_heading": "Physiographic Setting of Tutuila",
+      "section_start_line": 21,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the average annual rainfall reported at the NWS office at the Pago Pago Airport on Tutuila?",
+      "ground_truth_answer": "118 in. per year.",
+      "ground_truth_chunks": [
+        "At the NWS office at the Pago Pago Airport, which is near sea level in the southeastern lowlands of the Tafuna-Leone Plain (fig. 1), rainfall averages 118 in. per year (National Climatic Data Center, 2002)."
+      ]
+    },
+    {
+      "record_id": "812ac6645d2e3d6cc4357591",
+      "paper_id": "Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy",
+      "source_path": "output/Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy.md",
+      "section_heading": "4 Potential Evapotranspiration on Tutuila, American Samoa",
+      "section_start_line": 33,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the long-term average pan-evaporation rate at the Pago Pago Airport for the period 1978 to 2001?",
+      "ground_truth_answer": "91 in/yr.",
+      "ground_truth_chunks": [
+        "Mean monthly pan-evaporation rate (for the period 1978 to 2001) at this site is lowest in July and highest in December (fig. 3); the long-term average evaporation rate for the period was 91 in/yr."
+      ]
+    },
+    {
+      "record_id": "567a0bd350c692669b933ce5",
+      "paper_id": "Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy",
+      "source_path": "output/Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy.md",
+      "section_heading": "Study Methods",
+      "section_start_line": 47,
+      "section_end_line": 52,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why was the Penman (1948) method selected as best suited for this study?",
+      "ground_truth_answer": "The Penman (1948) method was selected because limitations on Tutuila—steep topography, dense and variable vegetation, and high rainfall—make it the best suited method; in moist, heavily vegetated areas PE can closely approximate actual evapotranspiration, and other direct measurement methods are unsuitable for Tutuila's conditions.",
+      "ground_truth_chunks": [
+        "The Penman (1948) method is best suited for the purposes of this study because of limitations imposed by the steep topography, dense and variable vegetation, and high rainfall on Tutuila.",
+        "In moist, heavily vegetated areas such as Tutuila, PE can closely approximate actual evapotranspiration (Bidlake and others 1996); in other areas, PE can be used in a soil water-balance model to estimate actual evapotranspiration provided adequate data on precipitation, runoff, vegetation, and soil characteristics are available or can be estimated (Thornthwaite and Mather, 1955).",
+        "Energy-balance approaches that measure actual evapotranspiration directly, such as the Bowen-ratio and the eddycovariance methods, have been used with success by many researchers, but these methods are unsuitable for Tutuila because they require sites surrounded by large areas of homogeneous land cover and low relief."
+      ]
+    },
+    {
+      "record_id": "66511489dc65db2d45e51c86",
+      "paper_id": "Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy",
+      "source_path": "output/Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy.md",
+      "section_heading": "Estimating Potential Evapotranspiration from Climate Data",
+      "section_start_line": 53,
+      "section_end_line": 78,
+      "model": "openai:gpt-4o-mini",
+      "question": "In applications to land-surface evaporation, on what factors is the Penman energy term (H) a function?",
+      "ground_truth_answer": "The Penman energy term (H) is a function of net radiation, soil heat flux, soil temperature, and soil moisture.",
+      "ground_truth_chunks": [
+        "In applications to land-surface evaporation, the Penman energy term (H) is a function of net radiation, soil heat flux, soil temperature, and soil moisture."
+      ]
+    },
+    {
+      "record_id": "276296ff30af0c5dabc475a1",
+      "paper_id": "Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy",
+      "source_path": "output/Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy.md",
+      "section_heading": "Climate Data",
+      "section_start_line": 116,
+      "section_end_line": 163,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the overall annual average rainfall during the monitoring period of this study?",
+      "ground_truth_answer": "113 in. per year.",
+      "ground_truth_chunks": [
+        "The overall annual average rainfall during the monitoring period of this study was 113 in., which agrees within a few percent with the long-term annual average of 118 in. (National Climatic Data Center, 2002).",
+        "For the purposes of this study, climate conditions during the monitoring period for this study are considered representative of normal conditions."
+      ]
+    },
+    {
+      "record_id": "2fae48da0535eb581e5c0b5a",
+      "paper_id": "Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy",
+      "source_path": "output/Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy.md",
+      "section_heading": "Potential Evapotranspiration",
+      "section_start_line": 164,
+      "section_end_line": 343,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which climate station showed evidence of positive heat advection in the Penman (1948) calculation, and how was this indicated in the study?",
+      "ground_truth_answer": "Station 111 Airport showed evidence of positive heat advection; this was indicated because mean daily PE at station 111 Airport exceeded mean daily net radiation (converted to equivalent PE), and the study notes that the relatively high average wind speed at that station probably accounts for advection being apparent in the Penman calculation.",
+      "ground_truth_chunks": [
+        "At station 111 Airport, mean daily PE exceeded net radiation, which indicates positive heat advection at this site.",
+        "The relatively high average wind speed at station 111 Airport probably accounts for the fact that advection is apparent in the Penman calculation for this station."
+      ]
+    },
+    {
+      "record_id": "8a9530acb0488898c7ab9238",
+      "paper_id": "Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy",
+      "source_path": "output/Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy.md",
+      "section_heading": "Summary and Conclusions",
+      "section_start_line": 344,
+      "section_end_line": 365,
+      "model": "openai:gpt-4o-mini",
+      "question": "On average, what percentage of total daily potential evapotranspiration occurs during the daytime at each station?",
+      "ground_truth_answer": "On average, 90 percent or more of the total daily potential evapotranspiration occurs during the daytime at each station.",
+      "ground_truth_chunks": [
+        "Higher temperatures and wind speeds and lower relative humidity during the day also correspond approximately with the higher daytime potential evapotranspiration, but net radiation is the dominant factor controlling potential evapotranspiration in the daytime, whereas other factors control potential evapotranspiration at night.",
+        "On average, potential evapotranspiration in the daytime constitutes 90 percent or more of the total daily potential evapotranspiration at each station."
+      ]
+    },
+    {
+      "record_id": "12847e86bfcba6453d649bff",
+      "paper_id": "Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy",
+      "source_path": "output/Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy.md",
+      "section_heading": "Station Descriptions",
+      "section_start_line": 400,
+      "section_end_line": 421,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which monitoring station sustained minor damage from Tropical Cyclone Heta that resulted in no rainfall data being collected between January 5 and February 20, 2004?",
+      "ground_truth_answer": "Station 111 Airport (Airport).",
+      "ground_truth_chunks": [
+        "III Airport. - Station 111 Airport (U.S. Geological Survey [USGS] number 141954170425101) was on the grounds of the National Weather Service (NWS) office at the Pago Pago Airport at the eastern end of the Tafuna-Leone Plain.",
+        "The station sustained minor damage from Tropical Cyclone Heta, which passed over the Samoa Islands on January 5, 2004, resulting in the collection of no rainfall data between January 5 and February 20, 2004."
+      ]
+    },
+    {
+      "record_id": "0807219f0f005df5ac73de39",
+      "paper_id": "Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy",
+      "source_path": "output/Izuka-2005-Potential.evapotrans.AS-Copy/Izuka-2005-Potential.evapotrans.AS-Copy.md",
+      "section_heading": "Computation of Potential Evapotranspiration",
+      "section_start_line": 422,
+      "section_end_line": 605,
+      "model": "openai:gpt-4o-mini",
+      "question": "What factor is used to convert energy flux in watts per square meter to evaporation equivalent units in millimeters per day?",
+      "ground_truth_answer": "0.0353",
+      "ground_truth_chunks": [
+        "$$H = 0.0353 (R_{net} - G)$$\n (2)",
+        "0.0353 is the factor to convert energy flux in watts per square meter to evaporation equivalent units in millimeters per day [(mm/day)/(W/m²)]."
+      ]
+    }
+  ],
+  "failures": []
+}

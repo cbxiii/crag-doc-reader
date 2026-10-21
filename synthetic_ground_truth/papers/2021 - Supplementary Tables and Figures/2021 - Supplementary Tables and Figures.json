@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2021 - Supplementary Tables and Figures/2021 - Supplementary Tables and Figures.md",
+  "source_sha256": "1673eea9b8fa67f835759a95f4e634cb2f155421035724b7b73ba537250bfbb6",
+  "status": "complete",
+  "selected_section_count": 2,
+  "successful_record_count": 2,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "deb41f5acb9fb554b7e48660",
+      "paper_id": "2021 - Supplementary Tables and Figures/2021 - Supplementary Tables and Figures",
+      "source_path": "output/2021 - Supplementary Tables and Figures/2021 - Supplementary Tables and Figures.md",
+      "section_heading": "2021 - Supplementary Tables and Figures.md",
+      "section_start_line": 1,
+      "section_end_line": 67,
+      "model": "openai:gpt-4o-mini",
+      "question": "In Table S1, which size class had the highest number of coral colonies in 2002?",
+      "ground_truth_answer": "The 1-5 cm size class had the highest number of coral colonies in 2002 with 4001 colonies.",
+      "ground_truth_chunks": [
+        "| year        | 1-5\tcm | 5-10\tcm | 10-20\tcm | 20-40\tcm | 40-80\tcm | 80-160\tcm | >\t160\tcm | Total |",
+        "| 2002        | 4001   | 2876    | 2180     | 1324     | 557      | 83        | 15       | 11036 |"
+      ]
+    },
+    {
+      "record_id": "6e8d00ebcc06f18809ddbcc9",
+      "paper_id": "2021 - Supplementary Tables and Figures/2021 - Supplementary Tables and Figures",
+      "source_path": "output/2021 - Supplementary Tables and Figures/2021 - Supplementary Tables and Figures.md",
+      "section_heading": "SUPPLEMENTARY FIGURES",
+      "section_start_line": 68,
+      "section_end_line": 96,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Porolithon species dominate the forereef slope around Rose Atoll?",
+      "ground_truth_answer": "P. onkodes and P. craspedium.",
+      "ground_truth_chunks": [
+        "Figure S7 – A) *Porolithon onkodes* dominates the reef crest and B) *P. onkodes* and *P. craspedium* dominate the forereef slope around Rose Atoll"
+      ]
+    }
+  ],
+  "failures": []
+}

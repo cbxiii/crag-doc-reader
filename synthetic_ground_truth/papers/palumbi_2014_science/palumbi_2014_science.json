@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "source_path": "output/palumbi_2014_science/palumbi_2014_science.md",
+  "source_sha256": "3e6138e4e96a2d6614c31099efc6f4e192f47d452f93220037423b8a189621a7",
+  "status": "complete",
+  "selected_section_count": 2,
+  "successful_record_count": 2,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "4e371ad9ed423d6f4a60a279",
+      "paper_id": "palumbi_2014_science/palumbi_2014_science",
+      "source_path": "output/palumbi_2014_science/palumbi_2014_science.md",
+      "section_heading": "Mechanisms of Reef Coral Resistance to Future Climate Change",
+      "section_start_line": 1,
+      "section_end_line": 42,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the estimated contributions of acclimatization (IA) and fixed effects (IF) to the bleaching phenotype shift between HV and MV pool corals, expressed in standard deviation units?",
+      "ground_truth_answer": "IA = 1.56 standard deviation units; IF = 0.94 standard deviation units.",
+      "ground_truth_chunks": [
+        "Our transplant experiment allowed us to measure *IA* as the average change in mean phenotype among acclimating individuals (0.214) divided by the standard deviation (0.137), resulting in *IA* = 1.56 (Fig. 1A vs B and C vs D). This in turn allowed us to estimate *IF* to be 0.94 standard deviation units (= *I* - *IA*).",
+        "The change in phenotype due to acclimatization (1.56 sd units) was similar to, but higher than the change we estimated is caused by fixed effects between pools (0.94 sd units)."
+      ]
+    },
+    {
+      "record_id": "0cbbc727697901dca32c41a9",
+      "paper_id": "palumbi_2014_science/palumbi_2014_science",
+      "source_path": "output/palumbi_2014_science/palumbi_2014_science.md",
+      "section_heading": "Supplementary Materials",
+      "section_start_line": 86,
+      "section_end_line": 106,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Fig. 2 in the Supplementary Materials, how many transplants into the MV and HV Pools are represented in the data?",
+      "ground_truth_answer": "Eleven transplants into both the MV Pool and the HV Pool.",
+      "ground_truth_chunks": [
+        "**Fig. 2. Response of corals to reciprocal transplantation.** The degree of bleaching experienced by a coral colony is measured by the ratio of chlorophyll that remains in experimentally heat stressed colonies (N=2-4 replicates per colony) compared to non-heat-stressed controls. Data are from eleven transplants into both the MV Pool (red) and HV Pool (blue). Error bars are standard deviations for colonies that were stressed-tested on 2-3 separate dates each."
+      ]
+    }
+  ],
+  "failures": []
+}

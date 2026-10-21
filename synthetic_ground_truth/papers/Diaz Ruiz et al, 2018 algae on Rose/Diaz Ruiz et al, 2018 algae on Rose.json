@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose.md",
+  "source_sha256": "416b1bcf09c90527144e1a1830cb89a4210c51a7a6c375a0e5ebc8929ae44f3f",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "79039648bd1119732165bd1f",
+      "paper_id": "Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose",
+      "source_path": "output/Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose.md",
+      "section_heading": "MARINE BENTHIC MACROALGAE OF A SMALL UNINHABITED SOUTH PACIFIC ATOLL (ROSE ATOLL, AMERICAN SAMOA)",
+      "section_start_line": 11,
+      "section_end_line": 28,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the Atoll Research Bulletin number and publication date for this paper?",
+      "ground_truth_answer": "Atoll Research Bulletin No. 616; 9 April 2018.",
+      "ground_truth_chunks": [
+        "**Atoll Research Bulletin No. 616 9 April 2018**"
+      ]
+    },
+    {
+      "record_id": "350da8db6cf4f18ee2560857",
+      "paper_id": "Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose",
+      "source_path": "output/Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose.md",
+      "section_heading": "ABSTRACT",
+      "section_start_line": 50,
+      "section_end_line": 53,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many species of marine benthic macroalgae were identified from the coral reefs of Rose Atoll?",
+      "ground_truth_answer": "Forty-five species.",
+      "ground_truth_chunks": [
+        "Forty-five species of marine benthic macroalgae were identified from the coral reefs of Rose Atoll, American Samoa (Rose Atoll Marine National Monument)."
+      ]
+    },
+    {
+      "record_id": "2e310efc1b37789df1275b6d",
+      "paper_id": "Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose",
+      "source_path": "output/Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 54,
+      "section_end_line": 79,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Introduction, how many species of marine benthic algae have been reported from the main island of Tutuila?",
+      "ground_truth_answer": "142 species of algae.",
+      "ground_truth_chunks": [
+        "Although few studies have examined the algal diversity of Rose Atoll, species of marine benthic algae from other islands in American Samoa are well documented. For instance, 142 species of algae have been reported from the main island of Tutuila, including a few species from Aunu'u Island, by Harvey and Bailey (1851), Setchell (1924), Ducker (1967), Hollenberg (1968a, 1968b, 1968c, 1968d), Hillis (1959), Taylor (1964), Skelton and South (1999, 2004, 2007), South and Skelton (2000), Skelton (2003) and Littler and Littler (2003)."
+      ]
+    },
+    {
+      "record_id": "ebf76444227668b6f2e25ad4",
+      "paper_id": "Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose",
+      "source_path": "output/Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose.md",
+      "section_heading": "<span id=\"page-7-1\"></span>Phylum Cyanobacteria",
+      "section_start_line": 96,
+      "section_end_line": 111,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which voucher specimens are listed for Lyngbya confervoides in this section?",
+      "ground_truth_answer": "BISH 765503 (PSV 10771, ROS-01-04), BISH 765520 (PSV 10781, ROS-03-04), BISH 765563 (PSV 10814, ROS-21-04), BISH 765572 (PSV 11026, ROS-22-04), BISH 765626 (PSV 10999, ROS-21-06).",
+      "ground_truth_chunks": [
+        "*Lyngbya confervoides* C. Agardh ex Gomont; Desikachary, 1959: 315, pl. 49 (fig. 8), pl. 52 (fig. 1); Engene et al., 2010.\n\nVoucher specimens: BISH 765503 (PSV 10771, ROS-01-04), BISH 765520 (PSV 10781, ROS-03-04), BISH 765563 (PSV 10814, ROS-21-04), BISH 765572 (PSV 11026, ROS-22-04), BISH 765626 (PSV 10999, ROS-21-06)."
+      ]
+    },
+    {
+      "record_id": "7b0a96b695c6da719e83fdbd",
+      "paper_id": "Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose",
+      "source_path": "output/Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose.md",
+      "section_heading": "\\Cryptonemia yendoi Weber-van Bosse; Abbott, 1999: 138, figs. 32C–E.",
+      "section_start_line": 128,
+      "section_end_line": 145,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the blade height and stipe length of Cryptonemia yendoi as reported in the section?",
+      "ground_truth_answer": "Single blades are up to 10 mm tall and stipes are 1 mm long.",
+      "ground_truth_chunks": [
+        "Single blades are up to 10 mm tall with short stipes (1 mm long) and attachment base."
+      ]
+    },
+    {
+      "record_id": "7e0b6f57f325beb684180077",
+      "paper_id": "Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose",
+      "source_path": "output/Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose.md",
+      "section_heading": "Gelidium sp.",
+      "section_start_line": 146,
+      "section_end_line": 159,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the size and cell characteristics of the unidentified Gelidium sp. specimen?",
+      "ground_truth_answer": "The specimen is 3 mm long and terete with conspicuous rhizines in the medulla; cortical cells are round to pyriform, 4–8 µm in diameter; elongate medullary cells are mostly 6 µm in diameter and 24–40 µm long.",
+      "ground_truth_chunks": [
+        "Voucher specimen: BISH 765662 (PSV 11160, ROS-07P-08).",
+        "Notes: Specimen is 3 mm long and terete with conspicuous rhizines in the medulla. Cortical cells are round to pyriform, 4‒8 µm in dimeter. Elongate medullary cells are mostly 6 µm in diameter and 24‒40 µm long."
+      ]
+    },
+    {
+      "record_id": "7628050af48e2329c7480541",
+      "paper_id": "Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose",
+      "source_path": "output/Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose.md",
+      "section_heading": "\\Laurencia brachyclados Pilger; Abbott, 1999: 382, fig. 111A–C.",
+      "section_start_line": 160,
+      "section_end_line": 187,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the diameters of the cortical cells and the medullary (round) cells reported for Laurencia brachyclados?",
+      "ground_truth_answer": "Cortical cells: 20–32 µm in diameter; medullary round cells: 40–100 µm in diameter.",
+      "ground_truth_chunks": [
+        "Cortical cells are isodiametric, 20–32 µm in diameter and do not project outward; medulla consists of round cells, 40–100 µm in diameter, without lenticular thickenings."
+      ]
+    },
+    {
+      "record_id": "e6b88fb3000f60a16827821b",
+      "paper_id": "Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose",
+      "source_path": "output/Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose.md",
+      "section_heading": "Cladophora sp. 2",
+      "section_start_line": 228,
+      "section_end_line": 279,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the height and cell diameter of specimens of Cladophora sp. 2?",
+      "ground_truth_answer": "Specimens are 4 cm high, bushy with cells 36–96 µm in diameter.",
+      "ground_truth_chunks": [
+        "Voucher specimen: BISH 765696 (PSV 10978, ROS-Tow T-08).",
+        "Notes: Specimens are 4 cm high, bushy with cells 36–96 µm in diameter."
+      ]
+    },
+    {
+      "record_id": "d203b2749f0deae6babc4046",
+      "paper_id": "Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose",
+      "source_path": "output/Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 280,
+      "section_end_line": 302,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which eight species of green algae were considered most broadly distributed at Rose Atoll?",
+      "ground_truth_answer": "H. taenicola; H. micronesica; H. minima; H. fragilis; Caulerpa cupressoides; Dictyosphaeria versluysii; Microdictyon setchellianum; and Valonia fastigiata.",
+      "ground_truth_chunks": [
+        "Based on their occurrences among the stations during the four different expedition years, eight species of green algae (Table 1) were considered most broadly distributed.",
+        "The eight species included four species of the calcified genus *Halimeda* (*H. taenicola, H. micronesica, H. minima, H. fragilis*), *Caulerpa cupressoides, Dictyosphaeria versluysii, Microdictyon setchellianum* and *Valonia fastigiata.*"
+      ]
+    },
+    {
+      "record_id": "869967c5b7f404af95678e9a",
+      "paper_id": "Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose",
+      "source_path": "output/Diaz Ruiz et al, 2018 algae on Rose/Diaz Ruiz et al, 2018 algae on Rose.md",
+      "section_heading": "APPENDIX",
+      "section_start_line": 307,
+      "section_end_line": 376,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which site is described as \"single pinnacle inside the pass in the N part of lagoon\" and what was its depth?",
+      "ground_truth_answer": "ROS-08-04, 9.1 m deep.",
+      "ground_truth_chunks": [
+        "ROS-08-04 (14°32.265' S 168°09.222' W), single pinnacle inside the pass in the N part of lagoon, 9.1 m deep, 11 February 2004."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy.md",
+  "source_sha256": "ab7dcd4227f9be496ce69f7db2b22545aa8cfe46326de3ee9cbde24a894b275c",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "e340494b1e42cc1771adc371",
+      "paper_id": "Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy",
+      "source_path": "output/Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy.md",
+      "section_heading": "1. Study objectives",
+      "section_start_line": 7,
+      "section_end_line": 12,
+      "model": "openai:gpt-4o-mini",
+      "question": "When did data collection for the Inshore Survey monitoring program begin?",
+      "ground_truth_answer": "Data collection began in July 1990.",
+      "ground_truth_chunks": [
+        "The Inshore Survey monitoring program was initiated by the Department of Marine and Wildlife Resources (DMWR) in 1990 to compare results with a similar study conducted in 1978-1979.",
+        "Since data collection began in July 1990, the survey has continued to the present with only moderate changes in order to maintain the ability to compare results year by year."
+      ]
+    },
+    {
+      "record_id": "208b409781a77606a37d7b54",
+      "paper_id": "Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy",
+      "source_path": "output/Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy.md",
+      "section_heading": "Study area",
+      "section_start_line": 17,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "What coordinates does the section give for Tutuila Island?",
+      "ground_truth_answer": "Tutuila Island is located \"at 140° south latitude and 171° west longitude\".",
+      "ground_truth_chunks": [
+        "The survey is conducted on a portion of the southern coast of Tutuila Island, American Samoa. Tutuila Island is located in the tropical South Pacific at 140° south latitude and 171° west longitude at the midpoint of the Samoan"
+      ]
+    },
+    {
+      "record_id": "c3cd463505c20ce745682e85",
+      "paper_id": "Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy",
+      "source_path": "output/Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy.md",
+      "section_heading": "Area groupings",
+      "section_start_line": 33,
+      "section_end_line": 55,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many villages were included in the study area?",
+      "ground_truth_answer": "22 villages.",
+      "ground_truth_chunks": [
+        "The study area included 22 villages which were grouped into eight areas for expansion purposes because there was not a sufficient number of interviews to expand on a village by village basis."
+      ]
+    },
+    {
+      "record_id": "45e098ede6f062eb3c58bf8d",
+      "paper_id": "Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy",
+      "source_path": "output/Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy.md",
+      "section_heading": "Analysis",
+      "section_start_line": 58,
+      "section_end_line": 77,
+      "model": "openai:gpt-4o-mini",
+      "question": "How is the expanded number of gear hours (\\hat{E}) calculated in the Analysis section?",
+      "ground_truth_answer": "The expanded number of gear hours is calculated as \\hat{E} = \\bar{E} * N.",
+      "ground_truth_chunks": [
+        "where N is the total number of hours in the same type of day in the same time period. Then the expanded number of gear hours becomes:",
+        "$$\\hat{E} = \\bar{E} * N$$"
+      ]
+    },
+    {
+      "record_id": "c5a34ad54a6a4130c0f63dd9",
+      "paper_id": "Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy",
+      "source_path": "output/Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy.md",
+      "section_heading": "Survey area",
+      "section_start_line": 80,
+      "section_end_line": 91,
+      "model": "openai:gpt-4o-mini",
+      "question": "By approximately what percentage did effort change from 1994 to 1995 in the survey area?",
+      "ground_truth_answer": "Effort decreased by about 16%.",
+      "ground_truth_chunks": [
+        "The estimate for the total catch for the survey area rose in 1995 (Table 3) from 1994 by about 50%, effort decreased by about 16% and CPUE rose accordingly.",
+        "| EFFORT (gear hours)         | 82,840  | 39,210  | 52,840 | 57,930 | 48,325 |"
+      ]
+    },
+    {
+      "record_id": "59d0bd931185c21cab6d7e36",
+      "paper_id": "Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy",
+      "source_path": "output/Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy.md",
+      "section_heading": "Catch by area",
+      "section_start_line": 96,
+      "section_end_line": 117,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which area had a notably high catch of atule in 1991?",
+      "ground_truth_answer": "Utulei.",
+      "ground_truth_chunks": [
+        "Catch per meter squred of reef flat at six areas has varied over the past five years (Figure 3), but remain essentially at similar levels except for the high catch of atule at Utulei in 1991."
+      ]
+    },
+    {
+      "record_id": "762b5cf01166b3d04cc6539f",
+      "paper_id": "Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy",
+      "source_path": "output/Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy.md",
+      "section_heading": "Species composition",
+      "section_start_line": 118,
+      "section_end_line": 282,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many pounds of Atule (big-eye scad) were caught in 1991 according to the section?",
+      "ground_truth_answer": "131,676 lbs.",
+      "ground_truth_chunks": [
+        "Migratory fishes made up 66% of the total catch in 1991 (Fig. 4), largely due to the migratory atule catch for that year, which contributed 56% (131,676 lbs.) of the total catch for 1991.",
+        "| crumenophthalmus    | Atule      | Big-eye scad     | 131676 | 0            | 3608           | 13051 | 0    |"
+      ]
+    },
+    {
+      "record_id": "9e2dbcd7469ad69b0c6b4e1f",
+      "paper_id": "Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy",
+      "source_path": "output/Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy.md",
+      "section_heading": "5. Interpretation of results",
+      "section_start_line": 283,
+      "section_end_line": 292,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species experienced a marked increase in the fishery?",
+      "ground_truth_answer": "Parrotfish experienced a marked increase in the fishery.",
+      "ground_truth_chunks": [
+        "Species composition seems in general to be stable, except for the marked increase in parrotfish in the fishery."
+      ]
+    },
+    {
+      "record_id": "6966ed95a4a1fd97b40fb0a3",
+      "paper_id": "Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy",
+      "source_path": "output/Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy.md",
+      "section_heading": "6. Recommendations for any improvement of the inshore fisheries study",
+      "section_start_line": 293,
+      "section_end_line": 316,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many full time, permanent, trained personnel does the section recommend the inshore fishery survey should have?",
+      "ground_truth_answer": "At minimum two full time, permanent, trained personnel.",
+      "ground_truth_chunks": [
+        "- 1) Logistics: the survey needs at minimum two full time, permanent, trained personnel to carry out the survey.",
+        "Over the last two years a lot of effort has gone into training people to do the inshore survey, it would be best to have permanent personnel. A safe vehicle to drive for survey is also a necessity."
+      ]
+    },
+    {
+      "record_id": "488c0d151adfb97d75d704d5",
+      "paper_id": "Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy",
+      "source_path": "output/Saucerman-1996-Inshore.fisheries.AS-Copy/Saucerman-1996-Inshore.fisheries.AS-Copy.md",
+      "section_heading": "7. Likely management procedures for this fishery based on the study findings.",
+      "section_start_line": 317,
+      "section_end_line": 327,
+      "model": "openai:gpt-4o-mini",
+      "question": "What management action is suggested for groupers based on the study findings?",
+      "ground_truth_answer": "The study suggests finding aggregation sites for groupers and managing them on a seasonal area basis, because the sportsfishery takes small individuals while the market fishery takes large individuals.",
+      "ground_truth_chunks": [
+        "Acanthurus lineatus Ctenochaetus striatus Cephalopholis argus Epinephalus spp.",
+        "(for groupers in general, it is quite apparent that the sportsfishery is taking small individuals, while the market fishery is taking the large individuals. It might be a good idea to find aggregation sites for groupers and manage on a seasonal area basis, based on findings)"
+      ]
+    }
+  ],
+  "failures": []
+}

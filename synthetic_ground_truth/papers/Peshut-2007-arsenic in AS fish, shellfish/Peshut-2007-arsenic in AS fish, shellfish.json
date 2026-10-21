@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Peshut-2007-arsenic in AS fish, shellfish/Peshut-2007-arsenic in AS fish, shellfish.md",
+  "source_sha256": "dd9b912fa0eb2395a5be7dd9e8f6d5c15eeb0e18ae3832ee7a44519e0dc7291a",
+  "status": "complete",
+  "selected_section_count": 6,
+  "successful_record_count": 6,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "7c4e2f192cd642ce5383b13e",
+      "paper_id": "Peshut-2007-arsenic in AS fish, shellfish/Peshut-2007-arsenic in AS fish, shellfish",
+      "source_path": "output/Peshut-2007-arsenic in AS fish, shellfish/Peshut-2007-arsenic in AS fish, shellfish.md",
+      "section_heading": "Abstract",
+      "section_start_line": 23,
+      "section_end_line": 28,
+      "model": "openai:gpt-4o-mini",
+      "question": "What proportion of total arsenic was inorganic in the majority of fish and shellfish samples described in the Abstract?",
+      "ground_truth_answer": "For the majority of samples, inorganic arsenic was less than 0.5% of total arsenic.",
+      "ground_truth_chunks": [
+        "For the majority of samples, inorganic arsenic was less than 0.5% of total arsenic, with only a few samples in the range of 1–5%, the latter being mollusks which are recognized to have unusually high arsenic levels in general.",
+        "We speciated arsenic compounds in marine fish and shellfish from two islands of the United States Territory of American Samoa in the South Pacific, and found that inorganic arsenic occurred as a minor fraction."
+      ]
+    },
+    {
+      "record_id": "4ec3e79ccfe9d1139b47bab8",
+      "paper_id": "Peshut-2007-arsenic in AS fish, shellfish/Peshut-2007-arsenic in AS fish, shellfish",
+      "source_path": "output/Peshut-2007-arsenic in AS fish, shellfish/Peshut-2007-arsenic in AS fish, shellfish.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 29,
+      "section_end_line": 44,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which arsenic species does the Introduction say is about 50 times more toxic than pentavalent inorganic arsenate?",
+      "ground_truth_answer": "Inorganic trivalent arsenite.",
+      "ground_truth_chunks": [
+        "Among the commonly encountered forms inorganic trivalent arsenite is more mobile, more soluble, and some 50 times more toxic than pentavalent inorganic arsenate, and several hundred times more toxic than monomethylarsonic acid (MMA) and dimethylarsinic acid (DMA) ([Jain and Ali, 2000\\)](#page-7-0)."
+      ]
+    },
+    {
+      "record_id": "4168b79599b1923f42518fa5",
+      "paper_id": "Peshut-2007-arsenic in AS fish, shellfish/Peshut-2007-arsenic in AS fish, shellfish",
+      "source_path": "output/Peshut-2007-arsenic in AS fish, shellfish/Peshut-2007-arsenic in AS fish, shellfish.md",
+      "section_heading": "2. Methods",
+      "section_start_line": 45,
+      "section_end_line": 86,
+      "model": "openai:gpt-4o-mini",
+      "question": "What analytical methods and detection limits were used for total arsenic and inorganic arsenic analyses in the study?",
+      "ground_truth_answer": "Total arsenic was analysed by inductively coupled plasma mass spectrometry (US EPA, 1994) with a detection limit of 0.0025 μg g^{-1} wetweight. Inorganic arsenic was analysed by quartz furnace atomic absorption spectrometry (US EPA, 2001) with a detection limit of 0.0091 μg g^{-1} wet-weight.",
+      "ground_truth_chunks": [
+        "At the laboratory, total arsenic was analysed by inductively coupled plasma mass spectrometry (US EPA, 1994) with an achieved detection limit of 0.0025  $\\mu g \\, g^{-1}$  wetweight. Inorganic arsenic was analysed by quartz furnace atomic absorption spectrometry (US EPA, 2001) with an achieved detection limit of 0.0091  $\\mu g \\, g^{-1}$  wet-weight.",
+        "Inorganic arsenic included all NaBH<sub>4</sub> reducible As<sup>3+</sup> and As<sup>5+</sup> found in the samples, but further speciation of the trivalent and pentavalent species was not completed."
+      ]
+    },
+    {
+      "record_id": "8dc7dee6bc850685167bca35",
+      "paper_id": "Peshut-2007-arsenic in AS fish, shellfish/Peshut-2007-arsenic in AS fish, shellfish",
+      "source_path": "output/Peshut-2007-arsenic in AS fish, shellfish/Peshut-2007-arsenic in AS fish, shellfish.md",
+      "section_heading": "3. Results",
+      "section_start_line": 87,
+      "section_end_line": 102,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many of the 117 composites had inorganic arsenic below the detection limit (DL)?",
+      "ground_truth_answer": "Inorganic arsenic was below the DL for 80 of 117 composites.",
+      "ground_truth_chunks": [
+        "Inorganic arsenic was below the DL for 80 of 117 composites."
+      ]
+    },
+    {
+      "record_id": "698ba2ffea2d925ff399edf0",
+      "paper_id": "Peshut-2007-arsenic in AS fish, shellfish/Peshut-2007-arsenic in AS fish, shellfish",
+      "source_path": "output/Peshut-2007-arsenic in AS fish, shellfish/Peshut-2007-arsenic in AS fish, shellfish.md",
+      "section_heading": "P.J. Peshut et al. / Chemosphere xxx (2007) xxx–xxx 5",
+      "section_start_line": 109,
+      "section_end_line": 292,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the authors, what proportion of inorganic arsenic was observed in the majority of their samples?",
+      "ground_truth_answer": "For the majority of their samples the proportion of inorganic arsenic was less than 0.5%.",
+      "ground_truth_chunks": [
+        "Our results are consistent with recent literature where arsenic speciation is described for biota.",
+        "For the majority of our samples the proportion of inorganic arsenic was less than 0.5%, with only a few samples in the range of 1–5%, the latter being mollusks which are recognized to have unusually high arsenic levels in general."
+      ]
+    },
+    {
+      "record_id": "c637afad2beb391a0af634c8",
+      "paper_id": "Peshut-2007-arsenic in AS fish, shellfish/Peshut-2007-arsenic in AS fish, shellfish",
+      "source_path": "output/Peshut-2007-arsenic in AS fish, shellfish/Peshut-2007-arsenic in AS fish, shellfish.md",
+      "section_heading": "P.J. Peshut et al. / Chemosphere xxx (2007) xxx–xxx 9",
+      "section_start_line": 331,
+      "section_end_line": 344,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which US EPA method in the references is titled 'Determination of Trace Elements in Waters and Wastes by Inductively Coupled Plasma-Mass Spectrometry'?",
+      "ground_truth_answer": "US EPA, 1994. Method 200.8, Revision 5.4: Determination of Trace Elements in Waters and Wastes by Inductively Coupled Plasma-Mass Spectrometry.",
+      "ground_truth_chunks": [
+        "- US EPA, 1994. Method 200.8, Revision 5.4: Determination of Trace Elements in Waters and Wastes by Inductively Coupled Plasma-Mass Spectrometry. US Environmental Protection Agency, Office of Research and Development, Cincinnati, OH."
+      ]
+    }
+  ],
+  "failures": []
+}

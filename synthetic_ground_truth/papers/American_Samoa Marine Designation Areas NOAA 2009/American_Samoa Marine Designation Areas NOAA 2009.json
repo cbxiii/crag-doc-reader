@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "source_path": "output/American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009.md",
+  "source_sha256": "22e91f82258e91297ddb4216872e3b54f61091223681e7dc8cc1c4a885bb6c9a",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "78fc8c328f8fb2be33bc6937",
+      "paper_id": "American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009",
+      "source_path": "output/American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009.md",
+      "section_heading": "About this Effort",
+      "section_start_line": 5,
+      "section_end_line": 10,
+      "model": "openai:gpt-4o-mini",
+      "question": "What conservation objective for U.S. coral reefs did the USCRTF establish in its National Action Plan and National Coral Reef Action Strategy?",
+      "ground_truth_answer": "Protecting at least 20% of U.S. coral reefs and associated habitat types in no-take marine reserves.",
+      "ground_truth_chunks": [
+        "The United States Coral Reef Task Force (USCRTF), in both its National Action Plan to Conserve Coral Reefs (2000) and its National Coral Reef Action Strategy (2002), established a key conservation objective of protecting at least 20% of U.S. coral reefs and associated habitat types in no-take marine reserves.",
+        "The official federal definition of an MPA, signed into law by Executive Order 13158, is \"any area of the marine environment that has been reserved by federal, state, tribal, territorial, or local laws or regulations to provide lasting protection for part or all of the natural and cultural resources therein.\""
+      ]
+    },
+    {
+      "record_id": "f8c8223ff260b37174fdb5c8",
+      "paper_id": "American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009",
+      "source_path": "output/American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009.md",
+      "section_heading": "Cover Types and Characterization",
+      "section_start_line": 80,
+      "section_end_line": 109,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percent of the mapped Coral Reef Ecosystem area is within No-take MPAs?",
+      "ground_truth_answer": "14.81%",
+      "ground_truth_chunks": [
+        "| Coral Reef Ecosystem* | 61.344                                | 14.993                                | 24.44%                                    | 9.084                                     | 14.81%                                        |",
+        "<sup>\\*</sup> Coral Reef Ecosystem is defined as mapped coral, coralline algae, emergent vegetation, macroalgae, seagrass, and turf."
+      ]
+    },
+    {
+      "record_id": "503463eafbf4514bc3be4c85",
+      "paper_id": "American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009",
+      "source_path": "output/American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009.md",
+      "section_heading": "Overview",
+      "section_start_line": 146,
+      "section_end_line": 155,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year did Alofau join the Community-based Fisheries Management Program (CFMP)?",
+      "ground_truth_answer": "2001",
+      "ground_truth_chunks": [
+        "Alofau joined the Community-based Fisheries Management Program (CFMP) of American Samoa's Department of Marine and Wildlife Resources in 2001, and has agreed to designate the entire reef area described above as Alofau's Fisheries Reserve Area."
+      ]
+    },
+    {
+      "record_id": "3be2f7e531e10aadad629d3e",
+      "paper_id": "American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009",
+      "source_path": "output/American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009.md",
+      "section_heading": "Overview",
+      "section_start_line": 202,
+      "section_end_line": 211,
+      "model": "openai:gpt-4o-mini",
+      "question": "When was the Fagamalo Marine Protected Area established?",
+      "ground_truth_answer": "The Fagamalo Marine Protected Area was established in 2002.",
+      "ground_truth_chunks": [
+        "This MPA was established under the Community-based Fisheries Management Program in 2002 to address two important issues threatening Fagamalo's reef and marine resources: 1) the continued use of illegal and destructive fishing methods in the region, and 2) an increase in the number of fishing boats in the region."
+      ]
+    },
+    {
+      "record_id": "63d385c8a5978609f17b26f6",
+      "paper_id": "American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009",
+      "source_path": "output/American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009.md",
+      "section_heading": "Overview",
+      "section_start_line": 244,
+      "section_end_line": 253,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year was the Matu'u & Faganeanea Village Marine Protected Area established?",
+      "ground_truth_answer": "2005.",
+      "ground_truth_chunks": [
+        "This MPA was established under the Community-based Fisheries Management Program in 2005, and is a popular site for the annual palolo worm harvest, which usually occurs in October or November."
+      ]
+    },
+    {
+      "record_id": "39fd1851e0d28b91b6664c05",
+      "paper_id": "American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009",
+      "source_path": "output/American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009.md",
+      "section_heading": "Overview",
+      "section_start_line": 286,
+      "section_end_line": 295,
+      "model": "openai:gpt-4o-mini",
+      "question": "What designation was created in response to poor water circulation and pollution in Pago Pago Harbor?",
+      "ground_truth_answer": "The Pago Pago Harbor Special Management Area was designated in response to these conditions.",
+      "ground_truth_chunks": [
+        "One consequence of this depth is that the harbor experiences poor water circulation, which, in turn, leads to long residence times for contaminants.",
+        "The Pago Pago Harbor Special Management Area was designated in response to these conditions, and any proposed development or action within the management area is evaluated and approved based on how well it promotes a safe and productive harbor, with good water quality and protected natural resources."
+      ]
+    },
+    {
+      "record_id": "e98d2d5b203177ad09503507",
+      "paper_id": "American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009",
+      "source_path": "output/American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009.md",
+      "section_heading": "Overview",
+      "section_start_line": 342,
+      "section_end_line": 351,
+      "model": "openai:gpt-4o-mini",
+      "question": "What caused the destruction of over 90% of the coral in Fagatele Bay in the late 1970s?",
+      "ground_truth_answer": "A devastating crown-of-thorns starfish attack.",
+      "ground_truth_chunks": [
+        "Nearly 200 species of coral are recovering from a devastating crown-of-thorns starfish attack in the late 1970s, which destroyed over 90% of the coral."
+      ]
+    },
+    {
+      "record_id": "74ef22b5ce64bb4fb3de591e",
+      "paper_id": "American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009",
+      "source_path": "output/American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009.md",
+      "section_heading": "Overview",
+      "section_start_line": 384,
+      "section_end_line": 393,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Overview, how many native fish and coral species are found in the park's coral reefs?",
+      "ground_truth_answer": "More than 800 native fish and more than 200 coral species.",
+      "ground_truth_chunks": [
+        "With more than 800 native fish and more than 200 coral species, the coral reefs of this national park shelter the greatest marine biodiversity in the U.S. and its possessions."
+      ]
+    },
+    {
+      "record_id": "c2ab03a03879e9eacb3740dd",
+      "paper_id": "American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009",
+      "source_path": "output/American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009.md",
+      "section_heading": "Appendix A: National MPA Classification System",
+      "section_start_line": 408,
+      "section_end_line": 436,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the three attributes used to describe 'Permanence of Protection' in the National MPA Classification System?",
+      "ground_truth_answer": "Permanent; Conditional; Temporary.",
+      "ground_truth_chunks": [
+        "3) Permanence of Protection each site was assigned one of the following three attributes:\n  - a. *Permanent* MPAs whose legal authorities provide protection in perpetuity\n  - b. *Conditional* MPAs that have the potential to persist over time but\n\n- whose legal authority has a finite duration and must be actively renewed\n- c. *Temporary* MPAs that are designed to address relatively short term conservation and management needs by protecting a specific habitat or species for a finite duration with no expectation or mechanism for renewal"
+      ]
+    },
+    {
+      "record_id": "ace8a311a24d1df33cd4bdd3",
+      "paper_id": "American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009",
+      "source_path": "output/American_Samoa Marine Designation Areas NOAA 2009/American_Samoa Marine Designation Areas NOAA 2009.md",
+      "section_heading": "Photo Credits",
+      "section_start_line": 515,
+      "section_end_line": 542,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who is credited for the cover photo?",
+      "ground_truth_answer": "Stanford, S.",
+      "ground_truth_chunks": [
+        "Stanford, S. Cover Photo"
+      ]
+    }
+  ],
+  "failures": []
+}

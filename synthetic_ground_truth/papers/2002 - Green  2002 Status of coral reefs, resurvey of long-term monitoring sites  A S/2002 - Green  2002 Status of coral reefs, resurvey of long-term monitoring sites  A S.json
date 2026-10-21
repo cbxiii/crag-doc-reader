@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S.md",
+  "source_sha256": "7d6954e7966248f1f920ae20f4765b435ae613c2841ac08ebb4c0bd2f07c82f5",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "8091f8bcedf7fb7cd0fc8f41",
+      "paper_id": "2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S",
+      "source_path": "output/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S.md",
+      "section_heading": "a resurvey of long term monitoring sites (benthic communities, fish communities, and key macroinvertebrates)",
+      "section_start_line": 3,
+      "section_end_line": 73,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which topics are listed immediately under 'EXECUTIVE SUMMARY' and what are their page numbers?",
+      "ground_truth_answer": "Coral Communities — 4; Reef Fish Communities — 8; Key Macroinvertebrates — 10.",
+      "ground_truth_chunks": [
+        "| Coral Communities                                                  | 4  |",
+        "| Reef Fish Communities.                                             | 8  |",
+        "| Key Macroinvertebrates                                             | 10 |"
+      ]
+    },
+    {
+      "record_id": "41af00130489b15ed72c561b",
+      "paper_id": "2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S",
+      "source_path": "output/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S.md",
+      "section_heading": "Long Term Monitoring",
+      "section_start_line": 198,
+      "section_end_line": 207,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two remote atolls could not be resurveyed this year due to logistic constraints?",
+      "ground_truth_answer": "Rose and Swains.",
+      "ground_truth_chunks": [
+        "Unfortunately, the two remote atolls (Rose and Swains) could not be resurveyed this year, due to logistic constraints.",
+        "They should be resurveyed as soon as possible, particularly Rose, due to the high conservation status of the atoll."
+      ]
+    },
+    {
+      "record_id": "aeb374ba01767879d34de830",
+      "paper_id": "2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S",
+      "source_path": "output/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S.md",
+      "section_heading": "Water Quality",
+      "section_start_line": 296,
+      "section_end_line": 299,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which harbor is considered a Special Management Area due to poor flushing and nutrient enrichment?",
+      "ground_truth_answer": "Pago Pago Harbour is considered a Special Management Area.",
+      "ground_truth_chunks": [
+        "Exceptions include heavy sedimentation at some sites after rain (due to natural causes and poor land use practices), and nutrient enrichment from human and animal waste in populated areas (Craig 2002).",
+        "This is of particular concern in narrow embayments which are not as well flushed by oceanic water, particularly Pago Pago Harbour, which is considered a Special Management Area."
+      ]
+    },
+    {
+      "record_id": "eb4833240cabaf45ccccda72",
+      "paper_id": "2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S",
+      "source_path": "output/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S.md",
+      "section_heading": "Reef Fish Communities",
+      "section_start_line": 397,
+      "section_end_line": 451,
+      "model": "openai:gpt-4o-mini",
+      "question": "How was fish biomass calculated in this study?",
+      "ground_truth_answer": "Fish biomass was calculated by converting estimated fish lengths to weights using the allometric length-weight conversion formula [weight (kg) = (total length in cm x constant a)^b], where a and b are species-specific constants; when Samoan constants were unavailable they were obtained from New Caledonia (Kulbicki unpubl data: Append 3).",
+      "ground_truth_chunks": [
+        "Fish biomass was calculated by converting estimated fish lengths to weights using the allometric length-weight conversion formulae [weight (kg) = (total length in cm x constant a)<sup>b</sup> ] where a and b are constants for each species. Constants were not available for most species in Samoa, so they were obtained from New Caledonia (Kulbicki unpubl data: Append 3), which was the closest geographic area where this information was available.",
+        "The size of each fish (total length in cm) was estimated visually and recorded directly onto underwater paper."
+      ]
+    },
+    {
+      "record_id": "58c0d52198a20356154af914",
+      "paper_id": "2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S",
+      "source_path": "output/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S.md",
+      "section_heading": "General Trends: Ofu Lagoon",
+      "section_start_line": 541,
+      "section_end_line": 546,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which type of corals dominated the lagoon at Hurricane House?",
+      "ground_truth_answer": "Massive corals (15-50%), particularly large *Porites* colonies.",
+      "ground_truth_chunks": [
+        "The coral communities in the lagoon at Hurricane House were dominated by massive corals (15-50%: Figs 9 & 10, Append 6), particularly large *Porites* colonies.",
+        "Coral cover was also lower in the lagoon at Vaoto, because the large massive corals that dominate the lagoon at Hurricane House were less abundant."
+      ]
+    },
+    {
+      "record_id": "21b2dbd2bb796f8104d2a161",
+      "paper_id": "2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S",
+      "source_path": "output/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S.md",
+      "section_heading": "Recruitment",
+      "section_start_line": 613,
+      "section_end_line": 618,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which fish family was the most abundant among recruits in the lagoon?",
+      "ground_truth_answer": "Surgeonfishes (Acanthuridae) were the most abundant recruits in the lagoon, due to the mass recruitment pulse of Ctenochaetus striatus.",
+      "ground_truth_chunks": [
+        "By far the most abundant recruits in the lagoon were surgeonfishes (Acanthuridae) due to the mass recruitment pulse of *Ctenochaetus striatus* (see *Discussion, Mass Recruitment of Surgeonfish*).",
+        "The next most abundant juveniles were in the families Pomacentridae (particularly *Chrysiptera glauca* and *C. taupou*), and Scaridae (unidentified juveniles)."
+      ]
+    },
+    {
+      "record_id": "d01e9eb923422bfa791d1005",
+      "paper_id": "2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S",
+      "source_path": "output/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S.md",
+      "section_heading": "Pago Pago Harbour Special Management Area",
+      "section_start_line": 797,
+      "section_end_line": 814,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which fish species were reported as being observed only in the Harbour during this survey?",
+      "ground_truth_answer": "Halichoeres melanurus, Scarus ghobban, and Scarus dimidiatus.",
+      "ground_truth_chunks": [
+        "However in a similar pattern to the coral communities (Birkeland et al 1987, 1994, 1996, Maragos et al 1994), the fish communities in the Harbour are important since they include some species that are rare or uncommon elsewhere in American Samoa.",
+        "For example, some species (eg *Halichoeres melanurus, Scarus ghobban, Scarus*  *dimidiatus*) were only observed in the Harbour during this survey."
+      ]
+    },
+    {
+      "record_id": "19ae75193fc9a96f30d765f3",
+      "paper_id": "2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S",
+      "source_path": "output/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S.md",
+      "section_heading": "Other Candidate Areas",
+      "section_start_line": 946,
+      "section_end_line": 955,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which island is identified in the section as the best candidate for a 'no-take' MPA on Tutuila, and what reasons are given?",
+      "ground_truth_answer": "Aunu'u Island — because it is separated from the main island by a channel, water quality is good, the reefs are in good condition, and it could be protected by the resident villagers on the island.",
+      "ground_truth_chunks": [
+        "The need for more \"no-take\" MPAs (see above) is of particular importance on Tutuila (and nearby Aunu'u) where overfishing is a problem.",
+        "The best candidate is Aunu'u Island (see also Fisk & Birkeland 2002), because it is separated from the main island by a channel, water quality is good, the reefs are in good condition, and it could be protected by the resident villagers on the island. However, some areas would need to remain open for subsistence fishing by local villagers."
+      ]
+    },
+    {
+      "record_id": "1782cf99bb6f7588b6d31568",
+      "paper_id": "2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S",
+      "source_path": "output/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S.md",
+      "section_heading": "Fisheries Monitoring Programs",
+      "section_start_line": 1003,
+      "section_end_line": 1006,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which islands does the 'Fisheries Monitoring Programs' section say should be prioritized for coral reef fisheries monitoring?",
+      "ground_truth_answer": "The main islands — particularly Tutuila, and also Aunu'u and the Manu'a Islands (if possible).",
+      "ground_truth_chunks": [
+        "It is important that coral reef fisheries are monitored effectively on the main islands (particularly Tutuila, but also on Aunu'u and in the Manu'a Islands if possible), since overfishing is one of the greatest threats to the long term health of the reefs in the Territory."
+      ]
+    },
+    {
+      "record_id": "b2f4dbf8c3028b23253d6c71",
+      "paper_id": "2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S",
+      "source_path": "output/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S/2002 - Green  2002 Status of coral reefs, resurvey of long-term monitoring sites  A S.md",
+      "section_heading": "GBRMPA CORAL BLEACHING REPORT",
+      "section_start_line": 1649,
+      "section_end_line": 2825,
+      "model": "openai:gpt-4o-mini",
+      "question": "On 9 March 2002 at Hurricane House (Ofu), what was the estimated percent coral cover and which coral types were recorded as most common?",
+      "ground_truth_answer": "Estimated coral cover = 1–10%. Most common coral types = encrusting and massive.",
+      "ground_truth_chunks": [
+        "| Island  | Site                 | Date         | Observers                 | Estim %<br>Coral | Observers Estim % Most common coral types Coral (in order of abundance)                | Types of corals that bleached                                                                                          | Extent to which colonies were bleached                                       | Estim % coral<br>bleached | Other notes                                                                                              |",
+        "Ofu     | Hurricane<br>House   | 9/3/2002     | AG/CB/DF 1-10%            | 1-10%            | encrusting, massive                                                                    | massive (primarily Montastraea curta), small branching, large branching, encusting (Montipora verrucosa)               | pale                                                                         | low (1-10%)               |"
+      ]
+    }
+  ],
+  "failures": []
+}

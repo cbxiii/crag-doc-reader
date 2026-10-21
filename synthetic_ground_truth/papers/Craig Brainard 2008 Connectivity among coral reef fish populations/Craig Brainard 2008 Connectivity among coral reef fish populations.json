@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Craig Brainard 2008 Connectivity among coral reef fish populations/Craig Brainard 2008 Connectivity among coral reef fish populations.md",
+  "source_sha256": "9847c794dcedafb43217adea413ceeec6b1df62eeb0c1ed2a08aa203227dd8b5",
+  "status": "complete",
+  "selected_section_count": 5,
+  "successful_record_count": 5,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "50d7479eee6dba7dd2ef59c6",
+      "paper_id": "Craig Brainard 2008 Connectivity among coral reef fish populations/Craig Brainard 2008 Connectivity among coral reef fish populations",
+      "source_path": "output/Craig Brainard 2008 Connectivity among coral reef fish populations/Craig Brainard 2008 Connectivity among coral reef fish populations.md",
+      "section_heading": "Abstract",
+      "section_start_line": 7,
+      "section_end_line": 10,
+      "model": "openai:gpt-4o-mini",
+      "question": "What life history traits of many coral reef fish species facilitate survival in the Samoan Archipelago's metapopulation?",
+      "ground_truth_answer": "They have long life spans and repeat spawning, which facilitate survival in a system characterized by infrequent recruitment.",
+      "ground_truth_chunks": [
+        "Life history traits of many coral reef fish species (long life span, repeat spawning) facilitate survival in a system characterized by infrequent recruitment, but these same traits also make fish populations vulnerable to being overfished."
+      ]
+    },
+    {
+      "record_id": "2aa50b51f9f2bac30ff42f43",
+      "paper_id": "Craig Brainard 2008 Connectivity among coral reef fish populations/Craig Brainard 2008 Connectivity among coral reef fish populations",
+      "source_path": "output/Craig Brainard 2008 Connectivity among coral reef fish populations/Craig Brainard 2008 Connectivity among coral reef fish populations.md",
+      "section_heading": "Introduction",
+      "section_start_line": 11,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Introduction, what does the term 'metapopulation' refer to in the context of the Samoan Archipelago?",
+      "ground_truth_answer": "It refers to a group of spatially separated populations of coral reef fish that are periodically connected through exchange of organisms during their pelagic larval period, forming an integrated biological unit; here the metapopulation is the archipelago itself, including the islands of Samoa, American Samoa, and associated seamounts shallow enough to support coral reef organisms.",
+      "ground_truth_chunks": [
+        "The term 'metapopulation' is used here to refer to a group of spatially separated populations of coral reef fish that are periodically connected through exchange of organisms during their pelagic larval period, and thus these populations form an integrated biological unit.",
+        "In this case, the metapopulation is the archipelago itself, including the islands of Samoa, American Samoa, and associated seamounts that are shallow enough to support coral reef organisms (Fig. 2).",
+        "Most coral reef fish species have a pelagic larval stage in their life history, so the linkage between the islands within the metapopulation is through occasional larval exchange."
+      ]
+    },
+    {
+      "record_id": "f17374b57ff3de0ea0a15fbc",
+      "paper_id": "Craig Brainard 2008 Connectivity among coral reef fish populations/Craig Brainard 2008 Connectivity among coral reef fish populations",
+      "source_path": "output/Craig Brainard 2008 Connectivity among coral reef fish populations/Craig Brainard 2008 Connectivity among coral reef fish populations.md",
+      "section_heading": "Ocean currents and larval transport",
+      "section_start_line": 27,
+      "section_end_line": 48,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, how far would surface drifters travel in 45 days and what does that imply about the origin of most coral reef fish larvae that replenish American Samoa reefs?",
+      "ground_truth_answer": "The drifters traveled about 350 miles in 45 days, which indicates that the main supply of coral reef fish larvae that replenish the reefs originates primarily within the Samoan Archipelago.",
+      "ground_truth_chunks": [
+        "However, most coral reef fish larvae do not live nearly long enough to be spread across the South Pacific as indicated by these drifter tracks. The average duration of the fish's pelagic larval phase is relatively brief for most common coral reef fish taxa: parrotfish (15 days), groupers and snappers (30-45 days), surgeonfish (45 days).",
+        "Using 45 days as an average time before most larvae need to settle and take up permanent residence on a new coral reef, the same drifters traveled only about 350 miles during this period, basically remaining within the Samoan Archipelago (Fig. 5). This indicates that the main supply of coral reef fish larvae that replenish our reefs on an annual basis originates primarily within our own archipelago."
+      ]
+    },
+    {
+      "record_id": "6b72aa305fe8b6e1658c1065",
+      "paper_id": "Craig Brainard 2008 Connectivity among coral reef fish populations/Craig Brainard 2008 Connectivity among coral reef fish populations",
+      "source_path": "output/Craig Brainard 2008 Connectivity among coral reef fish populations/Craig Brainard 2008 Connectivity among coral reef fish populations.md",
+      "section_heading": "Strategies to improve fish larval survival and recruitment back to the coral reef",
+      "section_start_line": 49,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "What three main strategies are described for improving fish larval survival and recruitment back to the coral reef?",
+      "ground_truth_answer": "(1) Some larvae remain near land by being entrained in eddies that form downstream of islands; (2) larvae can actively swim towards land as they develop if they are close enough; (3) adults live long lives and spawn repeatedly (producing millions of eggs) so that a few offspring survive — a K-selected, bet-hedging strategy.",
+      "ground_truth_chunks": [
+        "(1) Some larvae may be able to remain near land, perhaps being entrained in eddies that may form on the downstream sides of islands.",
+        "(2) Fish larvae are not entirely passive particles that drift with the current. As they develop, some may actively swim towards land if they are close enough.",
+        "(3) But perhaps the most important strategy for coral reef fish populations to overcome this weak pelagic link in their life cycle is a blunt acceptance of little return, so the adults live a very long life and spawn repeatedly, so that they can pump millions upon millions of eggs into the ocean during their life span."
+      ]
+    },
+    {
+      "record_id": "a6f3fd1c72641c5375c55ae2",
+      "paper_id": "Craig Brainard 2008 Connectivity among coral reef fish populations/Craig Brainard 2008 Connectivity among coral reef fish populations",
+      "source_path": "output/Craig Brainard 2008 Connectivity among coral reef fish populations/Craig Brainard 2008 Connectivity among coral reef fish populations.md",
+      "section_heading": "Metapopulation concept",
+      "section_start_line": 59,
+      "section_end_line": 87,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which islands are identified as offering the most frequent possibilities of larval exchange in the Samoan Archipelago?",
+      "ground_truth_answer": "Savaii, Upolu, and Tutuila.",
+      "ground_truth_chunks": [
+        "Larvae drifting between Savaii, Upolu, and Tutuila would seem to offer the most frequent possibilities of larval exchange due to the relatively large size of these islands (and their coral reefs) and their proximity to each other."
+      ]
+    }
+  ],
+  "failures": []
+}

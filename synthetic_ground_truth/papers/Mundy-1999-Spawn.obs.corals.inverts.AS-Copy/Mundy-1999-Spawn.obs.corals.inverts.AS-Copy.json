@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy.md",
+  "source_sha256": "d5a8c680aec5e21c05ff0ee7fdce34c610a0464106c254491e03aed0297f3b9b",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "99bc099d8f6f295c8650250e",
+      "paper_id": "Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy",
+      "source_path": "output/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 19,
+      "section_end_line": 28,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the two main processes of sexual reproduction in tropical corals?",
+      "ground_truth_answer": "Broadcast spawning and brooding.",
+      "ground_truth_chunks": [
+        "Sexual reproduction in tropical corals occurs through one of two main processes:",
+        "Broadcast spawning involves the release of large numbers of gametes (eggs and sperm) into the water column over a short period of time (see Box 1 for a description of the spawning process).",
+        "Brooding involves internal fertilisation and the release of fully developed planulae."
+      ]
+    },
+    {
+      "record_id": "36377d8dc14e851f384754a5",
+      "paper_id": "Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy",
+      "source_path": "output/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy.md",
+      "section_heading": "Box 1.",
+      "section_start_line": 29,
+      "section_end_line": 56,
+      "model": "openai:gpt-4o-mini",
+      "question": "When does coral spawning take place on the Great Barrier Reef and other reefs in the Indo-Pacific?",
+      "ground_truth_answer": "Once a year during the week following the full moon in late spring or early summer.",
+      "ground_truth_chunks": [
+        "On the Great Barrier Reef and other reefs in the Indo-Pacific, coral spawning takes place once a year during the week following the full moon in late spring or early summer (Harrison et al. 1984).",
+        "All colonies of each species usually spawn on a particular night during this week, and the timing is predictable from year to year (e.g. *Acropora* spp usually spawn on the 4<sup>th</sup> night after the full moon, *Platygyra* spp usually spawn on the 5<sup>th</sup> night etc.)."
+      ]
+    },
+    {
+      "record_id": "2775eccce907826e583aaf05",
+      "paper_id": "Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy",
+      "source_path": "output/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy.md",
+      "section_heading": "METHODS",
+      "section_start_line": 57,
+      "section_end_line": 68,
+      "model": "openai:gpt-4o-mini",
+      "question": "On which dates were coral spawning observations made?",
+      "ground_truth_answer": "On five nights from November 9 to 13, 1995.",
+      "ground_truth_chunks": [
+        "Coral spawning observations were made on five nights from November 9 to 13, 1995, which spanned three to seven days after the full moon."
+      ]
+    },
+    {
+      "record_id": "cf8835955f6340fde20b1d6f",
+      "paper_id": "Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy",
+      "source_path": "output/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy.md",
+      "section_heading": "Porites cylindrica (Family Poritidae)",
+      "section_start_line": 79,
+      "section_end_line": 82,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what time did most Porites cylindrica corals spawn at the Faga'alu lagoon site?",
+      "ground_truth_answer": "At 2035 hrs (2:15 after sunset).",
+      "ground_truth_chunks": [
+        "Fifteen to twenty *P. cylindrica* colonies were observed releasing milky clouds of sperm in the shallow lagoon site at Faga'alu on the third night after the full moon.",
+        "At 2035 hrs (2:15 after sunset), most of the corals spawned simultaneously with a few spawning over the next 20 minutes."
+      ]
+    },
+    {
+      "record_id": "3fd81663a730df74080a21d2",
+      "paper_id": "Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy",
+      "source_path": "output/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy.md",
+      "section_heading": "Acropora formosa (Family Acroporidae)",
+      "section_start_line": 83,
+      "section_end_line": 88,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what time after sunset and on which night after the full moon was *Acropora formosa* observed spawning at Faga'alu?",
+      "ground_truth_answer": "It was observed spawning from 2020-2120 hrs (2 –3 hours after sunset) on the fourth night after the full moon.",
+      "ground_truth_chunks": [
+        "This species is often called staghorn coral, and forms large thickets (each 4-5m in diameter) in the shallow lagoon at Faga'alu.",
+        "*Acropora formosa* was observed spawning from 2020-2120 hrs (2 –3 hours after sunset) on the fourth night after the full moon."
+      ]
+    },
+    {
+      "record_id": "36126b5197f875f2464a6089",
+      "paper_id": "Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy",
+      "source_path": "output/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy.md",
+      "section_heading": "Montipora turgescens and M. grisea (Family Acroporidae)",
+      "section_start_line": 89,
+      "section_end_line": 92,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the observed spawning times (clock time and minutes after sunset) for Montipora turgescens and M. grisea?",
+      "ground_truth_answer": "Montipora turgescens spawned between 1945 and 2030 (1:25 to 2:10 after sunset); M. grisea spawned at 2045 (2:25 after sunset).",
+      "ground_truth_chunks": [
+        "*Montipora turgescens* spawned between 1945 and 2030 (1:25 to 2:10 after sunset).",
+        "*M. grisea* spawned at 2045 (2:25 after sunset)."
+      ]
+    },
+    {
+      "record_id": "d234f280b4054132069b2b6f",
+      "paper_id": "Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy",
+      "source_path": "output/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy.md",
+      "section_heading": "Merulina ampliata (Family Merulinidae)",
+      "section_start_line": 93,
+      "section_end_line": 96,
+      "model": "openai:gpt-4o-mini",
+      "question": "How large were the egg-sperm bundles released by Merulina ampliata?",
+      "ground_truth_answer": "Approx. 2mm in diameter.",
+      "ground_truth_chunks": [
+        "This species is hermaphroditic and released large (approx. 2mm diameter) pink egg-sperm bundles which could be seen setting for 10 minutes prior to their release."
+      ]
+    },
+    {
+      "record_id": "24a25f30c8fbda9ef9444aba",
+      "paper_id": "Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy",
+      "source_path": "output/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy.md",
+      "section_heading": "Stichopus chloronotus",
+      "section_start_line": 111,
+      "section_end_line": 114,
+      "model": "openai:gpt-4o-mini",
+      "question": "When did the majority of male Stichopus chloronotus spawn relative to sunset?",
+      "ground_truth_answer": "Between 1830 and 1900, which is 10 to 40 minutes after sunset.",
+      "ground_truth_chunks": [
+        "The majority of males spawned between 1830 and 1900 (10 to 40 minutes after sunset) while the females did not begin spawning until 1850 (50 minutes after sunset).",
+        "Males intermittently released small continuous streams of sperm from the goniopore (reproductive opening), each lasting approximately 5 minutes."
+      ]
+    },
+    {
+      "record_id": "39fc8b09a3dfb094d7d612ad",
+      "paper_id": "Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy",
+      "source_path": "output/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy.md",
+      "section_heading": "Patterns of spawning of corals and other invertebrates in American Samoa",
+      "section_start_line": 121,
+      "section_end_line": 157,
+      "model": "openai:gpt-4o-mini",
+      "question": "On which night after the full moon did Porites cylindrica spawn at Faga'alu in 1995?",
+      "ground_truth_answer": "On the 3rd night after the full moon, about 2 hours after sunset.",
+      "ground_truth_chunks": [
+        "Itano and Buckley observed several colonies of *Porites cylindrica* spawning 2 hours after sunset on the 3<sup>rd</sup> night after the full moon at Nu'uuli in 1988. In 1995 at Faga'alu, we also observed *P. cylindrica* spawning 2 hours after sunset on the 3<sup>rd</sup> night after the full moon (Table 1).",
+        "| Porites cylindrica      | 4                  | 3                                            | 2:15 (male only)                            | 3, 4                                         | 1:40                                        |"
+      ]
+    },
+    {
+      "record_id": "f30d8ff8b767d0bfbe0ff4b9",
+      "paper_id": "Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy",
+      "source_path": "output/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy.md",
+      "section_heading": "The importance of coral spawning in marine resource management",
+      "section_start_line": 158,
+      "section_end_line": 163,
+      "model": "openai:gpt-4o-mini",
+      "question": "How does increased sedimentation affect the development and settlement of coral larvae after spawning?",
+      "ground_truth_answer": "Increased sedimentation strongly impairs larval development and settlement: 77% fewer embryos develop normally in water from sediment-stressed reefs; a sediment layer can prevent planulae settlement or force settlement into unsuitable microhabitats; and increased sedimentation can reduce survival of newly settled corals in the first months after settlement due to smothering and abrasion.",
+      "ground_truth_chunks": [
+        "The development of coral embryos through to competent planulae appears to be affected by water quality, with 77% fewer embryos developing normally in water from sediment stressed reefs (Richmond 1994).",
+        "A layer of sediment on the reef surface can also prevent settlement of coral planulae, or restrict settlement of planulae to unsuitable microhabitats (Babcock and Davies 1991, Te 1992).",
+        "Increased sedimentation may also reduce the survival rate of newly settled corals in the first few months after settlement (Sato 1985) due to smothering and abrasion."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi.md",
+  "source_sha256": "e1891be65256e3296992089c47a41ae125e76f0ef925b6f02a38c60df81cac2d",
+  "status": "complete",
+  "selected_section_count": 6,
+  "successful_record_count": 6,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "0588cf6dcd8a286504c227d1",
+      "paper_id": "Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi",
+      "source_path": "output/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi.md",
+      "section_heading": "Traditional Knowledge, Use, and Management of Living Marine Resources in American Samoa: Documenting Changes over Time through Interviews with Elder Fishers<sup>1</sup>",
+      "section_start_line": 1,
+      "section_end_line": 34,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which marine species did most elder fishermen interviewed in the study report as having diminished abundance?",
+      "ground_truth_answer": "Most fishermen reported a general decrease in edible reef fish and diminished abundance of locally valued palolo, atule, giant clams, and octopus; by contrast, populations of reef sharks and turtles were typically seen as stable or increasing.",
+      "ground_truth_chunks": [
+        "Most fishermen interviewed during the study described a decline in the quality of various nearshore habitats, a general decrease in abundance of edible reef fish, and diminished abundance of locally valued *palolo*, *atule*, giant clams, and octopus.",
+        "Populations of reef sharks and turtles are typically seen as stable or increasing."
+      ]
+    },
+    {
+      "record_id": "6ef546f7f9ff5f9e58002221",
+      "paper_id": "Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi",
+      "source_path": "output/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi.md",
+      "section_heading": "materials and methods",
+      "section_start_line": 35,
+      "section_end_line": 60,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what language and by what team structure were the interviews conducted?",
+      "ground_truth_answer": "Interviews were conducted primarily in the Samoan language by two-person teams of trained local interviewers, with one interviewer asking questions and the second documenting the discussions.",
+      "ground_truth_chunks": [
+        "Interviews were conducted primarily in the Samoan language by two-person teams of trained local interviewers.",
+        "One interviewer asked questions while the second documented the discussions."
+      ]
+    },
+    {
+      "record_id": "07d316728931185c5393b43d",
+      "paper_id": "Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi",
+      "source_path": "output/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi.md",
+      "section_heading": "results",
+      "section_start_line": 61,
+      "section_end_line": 102,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of fishermen interviewed reported that populations of reef fish have declined in abundance since they began fishing or observing such species?",
+      "ground_truth_answer": "Just over 60%.",
+      "ground_truth_chunks": [
+        "Just over 60% of fishermen interviewed during the project reported that populations of reef fish have declined in abundance since they began fishing or observing such species earlier in their careers."
+      ]
+    },
+    {
+      "record_id": "75f31801a97f9d19f40d80a7",
+      "paper_id": "Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi",
+      "source_path": "output/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi.md",
+      "section_heading": "Fishermen's Explanations for Changes in Abundance",
+      "section_start_line": 103,
+      "section_end_line": 114,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of interviewees perceived overfishing to be a problem for reef fish populations in American Samoa?",
+      "ground_truth_answer": "6% of interviewees.",
+      "ground_truth_chunks": [
+        "With regard to the current study, however, only 6% of interviewees stated that they perceived overfishing to be a problem for reef fish populations in American Samoa (Figure 5)."
+      ]
+    },
+    {
+      "record_id": "edb94a626d9af1bfab3afc06",
+      "paper_id": "Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi",
+      "source_path": "output/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi.md",
+      "section_heading": "Fishery Management Issues",
+      "section_start_line": 115,
+      "section_end_line": 124,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the 52 fishermen recommended controlling land-based sources of pollution and sediment?",
+      "ground_truth_answer": "28% of the 52 fishermen recommended controlling land-based sources of pollution and sediment.",
+      "ground_truth_chunks": [
+        "Fishermen were also asked about practical means for improving management of local marine resources (Figure 6). Of the 52 fishermen who provided suggestions, 28% stated that land-based sources of pollution and sediment needed to be controlled, and another 21% recommended establishing some form of marine protected area.",
+        "Other recommendations included a return to the generalized traditional approach of taking only what is needed from the ocean, harvesting fish for consumption or sharing rather than commercial sale, and better enforcement of existing regulations."
+      ]
+    },
+    {
+      "record_id": "10f71f7d9cbb312d840dffd9",
+      "paper_id": "Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi",
+      "source_path": "output/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi.md",
+      "section_heading": "discussion",
+      "section_start_line": 125,
+      "section_end_line": 148,
+      "model": "openai:gpt-4o-mini",
+      "question": "On what days is fishing forbidden in all villages in American Samoa according to the discussion?",
+      "ground_truth_answer": "Fishing is forbidden in all villages on Sundays (and is often forbidden during important village events such as funerals).",
+      "ground_truth_chunks": [
+        "Moreover, customary authority continues to be implemented on an informal basis in many American Samoa villages, and outsiders are typically expected to ask permission from the village council and/or local leaders before undertaking fishing activities next to the village in question. In some communities, local fishing restrictions primarily address schooling fish such as *atule* and *i*'*asina*. Of note, fishing activities continue to be forbidden in all villages on Sundays, and fishing is often forbidden when important village events such as funerals are taking place."
+      ]
+    }
+  ],
+  "failures": []
+}

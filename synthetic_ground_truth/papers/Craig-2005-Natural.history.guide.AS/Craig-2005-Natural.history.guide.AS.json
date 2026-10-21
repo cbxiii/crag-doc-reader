@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS.md",
+  "source_sha256": "2e914ec33b951f2f6b5277bea5590a08972390194c3523d4c139e79e52d92cd1",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "bf01b6714cb013e3e8601e3b",
+      "paper_id": "Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS",
+      "source_path": "output/Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS.md",
+      "section_heading": "www.nps.gov/npsa/book/",
+      "section_start_line": 7,
+      "section_end_line": 115,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who spearheaded the effort to translate the Guide into the Samoan language?",
+      "ground_truth_answer": "Lelei Peau.",
+      "ground_truth_chunks": [
+        "Lelei Peau spearheaded the effort to translate the Guide into the Samoan language."
+      ]
+    },
+    {
+      "record_id": "78e9c740781a4e95be0ae0f4",
+      "paper_id": "Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS",
+      "source_path": "output/Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS.md",
+      "section_heading": "5. Status of species in American Samoa",
+      "section_start_line": 297,
+      "section_end_line": 320,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many whales and dolphins are recorded under 'Marine mammals' in the American Samoa status table?",
+      "ground_truth_answer": "11 whales and 7 dolphins.",
+      "ground_truth_chunks": [
+        "| Marine mammals     | 11 whales, <sup>7</sup> 7 dolphins <sup>7</sup>              |                                                 | Humpback whale (E),<br>Sperm whale (E)                                             |                                                                 |                                                                   |                                                                               | 1,8                  |",
+        "<sup>7</sup>Includes species probably common in region but have not yet been documented in American Samoa. <sup>8</sup>Re-introduced in 1997."
+      ]
+    },
+    {
+      "record_id": "4634da4cfc24b62c7a8bd9ae",
+      "paper_id": "Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS",
+      "source_path": "output/Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS.md",
+      "section_heading": "11. Master of disguise: the octopus (fe'e)",
+      "section_start_line": 512,
+      "section_end_line": 535,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does an octopus inject to paralyze its prey?",
+      "ground_truth_answer": "A toxin.",
+      "ground_truth_chunks": [
+        "After pouncing on an unsuspecting prey, the octopus holds it tightly with its suckers until it can bite the animal with its parrot-like beak and inject a toxin to paralyze the prey."
+      ]
+    },
+    {
+      "record_id": "28b9df5edcbd22fb803ccd09",
+      "paper_id": "Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS",
+      "source_path": "output/Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS.md",
+      "section_heading": "17. Turtles In trouble",
+      "section_start_line": 704,
+      "section_end_line": 743,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two sea turtle species are the most frequently found in American Samoa's local waters?",
+      "ground_truth_answer": "The green sea turtle and the hawksbill.",
+      "ground_truth_chunks": [
+        "Two turtle species, the green and hawksbill, are the most frequently found turtles in our local waters.",
+        "The hawksbill or \"*laumei uga*\" (*Eretmochelys imbricata*) is usually the species that nests on Tutuila beaches."
+      ]
+    },
+    {
+      "record_id": "d823bfc29c19b170e6a8962b",
+      "paper_id": "Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS",
+      "source_path": "output/Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS.md",
+      "section_heading": "22. Flying Foxes (fruit bats)",
+      "section_start_line": 962,
+      "section_end_line": 1015,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which flying fox species in American Samoa forms large roosting colonies during the daytime?",
+      "ground_truth_answer": "Pe'a fanua (Pteropus tonganus) forms large roosting colonies during the daytime.",
+      "ground_truth_chunks": [
+        "The other flying fox, *Pteropus tonganus* (*pe'a fanua*), has several common names such as the Insular, White-naped, White-necked or Tongan fruit bat.",
+        "During the daytime, *pe'a fanua* form large roosting groups or colonies of hundreds to thousands of bats."
+      ]
+    },
+    {
+      "record_id": "c9036827a8c0cd251b59645b",
+      "paper_id": "Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS",
+      "source_path": "output/Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS.md",
+      "section_heading": "28. Toads everywhere",
+      "section_start_line": 1192,
+      "section_end_line": 1213,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many toads inhabited Tutuila Island and how many bugs did they consume each night according to the 1976 wildlife study?",
+      "ground_truth_answer": "Biologists estimated over 2 million toads lived on Tutuila, and they consumed about 5 tons of bugs every night.",
+      "ground_truth_chunks": [
+        "How many toads inhabit Tutuila Island and how many bugs do they consume each night? In a wildlife study conducted in 1976, biologists estimated that over 2 million toads lived here with us. Some rough calculations suggest that these toads consume about 5 tons of bugs every night!"
+      ]
+    },
+    {
+      "record_id": "037c042ae76926dd12c8829f",
+      "paper_id": "Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS",
+      "source_path": "output/Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS.md",
+      "section_heading": "34. Pest invaders are here",
+      "section_start_line": 1413,
+      "section_end_line": 1448,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which introduced vine became a major pest in American Samoa and spread tremendously following tropical cyclones in the early 1990s?",
+      "ground_truth_answer": "The \"mile-a-minute\" vine, or *fuesaina* (*Mikania micrantha*).",
+      "ground_truth_chunks": [
+        "One that is familiar to everyone is the \"mile-a-minute\" vine, or *fuesaina* (*Mikania micrantha*). This was introduced by accident, sometime before 1924. It is now a major pest in plantations and forests, and has spread tremendously following tropical cyclones in the early 1990s.",
+        "The vine needs sunlight for its very fast growth, and so doesn't do well inside the shade of the mature forest. The cyclones, however, opened up the forests to sunlight by knocking down many trees and breaking off the tops of thousands more. Vines like these can form layers several feet thick that can choke the seedlings of native trees and slow the recovery of our forests from the damage of the cyclones."
+      ]
+    },
+    {
+      "record_id": "aeca801b9314977ec9dedcce",
+      "paper_id": "Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS",
+      "source_path": "output/Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS.md",
+      "section_heading": "40. Samoa's starlings",
+      "section_start_line": 1693,
+      "section_end_line": 1722,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where are fuia nests usually placed?",
+      "ground_truth_answer": "In hollows in trees — snapped-off coconut trunks are favorite sites; they also nest among the dense fronds at the top of a coconut and in man-made sites like cracked telephone poles.",
+      "ground_truth_chunks": [
+        "*Fuia* nests are usually placed in hollows in trees: snapped-off coconut trunks are favorite nest sites. They will also nest among the dense fronds in the top of a coconut, and even use man-made nest sites, like cracked telephone poles."
+      ]
+    },
+    {
+      "record_id": "17dd94061a7843f2a2341c46",
+      "paper_id": "Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS",
+      "source_path": "output/Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS.md",
+      "section_heading": "46. Shorebirds (o tuli): incredible voyagers",
+      "section_start_line": 1853,
+      "section_end_line": 1882,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which three kinds of tuli are common visitors to American Samoa between September and April?",
+      "ground_truth_answer": "The Pacific Golden Plover, the Wandering Tattler, and the Ruddy Turnstone.",
+      "ground_truth_chunks": [
+        "Three different kinds of *tuli* are common visitors here between the months of September and April: the Pacific Golden Plover, the Wandering Tattler, and the Ruddy Turnstone.",
+        "All these *tuli* can usually be seen in such places as Sliding Rock and Pala Lagoon from September to April."
+      ]
+    },
+    {
+      "record_id": "678837afe48b139f10806ef8",
+      "paper_id": "Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS",
+      "source_path": "output/Craig-2005-Natural.history.guide.AS/Craig-2005-Natural.history.guide.AS.md",
+      "section_heading": "Appendix 3. Figure credits other than those of authors or NPS.",
+      "section_start_line": 2120,
+      "section_end_line": 2171,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who provided the Tutuila cover photo?",
+      "ground_truth_answer": "Tavita Togia.",
+      "ground_truth_chunks": [
+        "| Cover  | Tutuila photo by Tavita Togia.                                                                          |"
+      ]
+    }
+  ],
+  "failures": []
+}

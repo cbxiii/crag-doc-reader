@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "source_path": "output/ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS.md",
+  "source_sha256": "f707756303c544f79ec2d820eeb20b96df336312f3329692d8595b6169389997",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "224350ab85fa1da9a9f162bd",
+      "paper_id": "ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS",
+      "source_path": "output/ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "PREFACE",
+      "section_start_line": 20,
+      "section_end_line": 33,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which organizations produced this report jointly?",
+      "ground_truth_answer": "Aquatic Farms, Inc. and AECOS, Inc. of Hawai'i.",
+      "ground_truth_chunks": [
+        "This report was produced jointly by Aquatic Farms, Inc. and AECOS, Inc. of Hawai'i."
+      ]
+    },
+    {
+      "record_id": "fb8b68b58865e1e2024744dc",
+      "paper_id": "ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS",
+      "source_path": "output/ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "FRINGING REEF (OFF THE RAINMAKER HOTEL)",
+      "section_start_line": 1307,
+      "section_end_line": 1314,
+      "model": "openai:gpt-4o-mini",
+      "question": "What range of coral cover is reported for the reef front off The Rainmaker Hotel at depths between 10 and 25 feet (3 to 8 m)?",
+      "ground_truth_answer": "Coral cover ranges from 20% to 40%.",
+      "ground_truth_chunks": [
+        "Colonies of a sea anemone (matamalu; <u>Rhodactis</u> sp.), as well as other anemones and anemone fish, are conspicuous on the reef front off The Rainmaker Hotel at depths between 10 and 25 feet (3 to 8 m). Coral cover ranges from 20% to 40%."
+      ]
+    },
+    {
+      "record_id": "8c1bf0b35a9c63f67ea0c329",
+      "paper_id": "ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS",
+      "source_path": "output/ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "RINGING REEF",
+      "section_start_line": 2587,
+      "section_end_line": 2612,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the approximate depth and width of the channel that parallels the shoreline north of Anape'ape'a Point?",
+      "ground_truth_answer": "The channel is about 3 feet (1 m) deep and 20 to 30 feet (6 to 9 m) wide.",
+      "ground_truth_chunks": [
+        "A channel about 3 feet (1 m) deep and 20 to 30 feet (6 to 9 m) wide parallels the shoreline."
+      ]
+    },
+    {
+      "record_id": "df6338a252902db86d2ba7c8",
+      "paper_id": "ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS",
+      "source_path": "output/ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "EASTERN DISTRICT",
+      "section_start_line": 4463,
+      "section_end_line": 4480,
+      "model": "openai:gpt-4o-mini",
+      "question": "What map number is shown in the EASTERN DISTRICT section?",
+      "ground_truth_answer": "MAP 11",
+      "ground_truth_chunks": [
+        "MAP 11"
+      ]
+    },
+    {
+      "record_id": "15607b951240a791630197e3",
+      "paper_id": "ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS",
+      "source_path": "output/ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "FRINGING REEF",
+      "section_start_line": 6128,
+      "section_end_line": 6131,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the reef front at a depth of 30 feet off the northwestern tip of Fagafue Bay mouth is covered by coral?",
+      "ground_truth_answer": "75 to 80% (mostly Acropora).",
+      "ground_truth_chunks": [
+        "Coral, mostly Acropora, covers 75 to 80% of the reef front at a depth of 30 feet (9 m), off the northwestern tip of Fagafue Bay mouth."
+      ]
+    },
+    {
+      "record_id": "7bd6671cf7bc241f082ea6ae",
+      "paper_id": "ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS",
+      "source_path": "output/ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "FRINGING REEF",
+      "section_start_line": 8484,
+      "section_end_line": 8493,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which sea cucumber species is reported as common in pools amid rubble on the reef flat off Asili Point?",
+      "ground_truth_answer": "Holothuria Cinerascens.",
+      "ground_truth_chunks": [
+        "The sea cucumber, Holothuria Cinerascens, is common in pools amid rubb e on the reef flat off Asili Point (ASCRI-23B4)."
+      ]
+    },
+    {
+      "record_id": "56b6be23b093466610cf499a",
+      "paper_id": "ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS",
+      "source_path": "output/ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "AVATELE PASSAGE",
+      "section_start_line": 9709,
+      "section_end_line": 9714,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the depth ranges within the channel of Avatele Passage?",
+      "ground_truth_answer": "Depths range from 3 to 26 feet (1 to 8 m).",
+      "ground_truth_chunks": [
+        "The outer portion of Avatele Passage includes a narrow, meandering channel along the southern This channel is approximately 985 feet (300 m) long.",
+        "Tidal currents are strong within the channel. Depths range from 3 to 26 feet (1 to 8 m) and the bathymetry is highly irregular."
+      ]
+    },
+    {
+      "record_id": "55a37bd832e358beb1558ebb",
+      "paper_id": "ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS",
+      "source_path": "output/ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "SEA CLIFFS",
+      "section_start_line": 10942,
+      "section_end_line": 10971,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why are the sea cliffs on Ofu generally higher than those on Ta'u?",
+      "ground_truth_answer": "Perhaps because of a longer period of volcanic quiescence or a greater amount of more easily eroded tuff material.",
+      "ground_truth_chunks": [
+        "The sea cliffs on Ofu are generally higher than those on Ta'u, perhaps because of a longer period of volcanic quiescence or a greater amount of more easily eroded tuff material."
+      ]
+    },
+    {
+      "record_id": "bf659263ec3bc4042d05e803",
+      "paper_id": "ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS",
+      "source_path": "output/ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "FRINGING REEF (OFF POUONO POINT)",
+      "section_start_line": 11835,
+      "section_end_line": 11840,
+      "model": "openai:gpt-4o-mini",
+      "question": "How wide is the \"boat channel\" just off the beach north of Pouono Point?",
+      "ground_truth_answer": "10 to 20 feet (3 to 6 m) wide.",
+      "ground_truth_chunks": [
+        "This rubble and sand-bottom \"boat channel\" is 10 to 20 feet (3 to 6 m) wide and bordered seaward by a consolidated reef platform."
+      ]
+    },
+    {
+      "record_id": "b4656dac6256deedbe2ef4b0",
+      "paper_id": "ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS",
+      "source_path": "output/ACOES-1980-Coral.reef.inventory.AS/ACOES-1980-Coral.reef.inventory.AS.md",
+      "section_heading": "MAIA BEACH AND OFFSHORE",
+      "section_start_line": 13006,
+      "section_end_line": 13030,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the major point of access for offshore fishing along the northeast coast of Ta'u Island?",
+      "ground_truth_answer": "Maia Beach is the major point of access for offshore fishing along the northeast coast of Ta'u Island.",
+      "ground_truth_chunks": [
+        "Maia Beach is the major point of access for offshore fishing along the northeast coast. Net fishing occurs off Maia Beach.",
+        "Access to the open ocean is through a rip channel. Breakers across this channel limit safe exit and entry to infrequent periods of calm seas (ASCRI)."
+      ]
+    }
+  ],
+  "failures": []
+}

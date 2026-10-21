@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa.md",
+  "source_sha256": "725e7c9e6b8a966442132851a242a2edb04ac84a4838c9098cbcae69aa3af877",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "71ce314ad43b3260af6e852f",
+      "paper_id": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+      "source_path": "output/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa.md",
+      "section_heading": "EXECUTIVE SUMMARY",
+      "section_start_line": 179,
+      "section_end_line": 199,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which islands in the Manu'a Group were particularly affected by crown of thorns starfish (COTS) infestation?",
+      "ground_truth_answer": "Ofu and Olosega.",
+      "ground_truth_chunks": [
+        "However, the islands of Ofu and Olosega in the Manu'a Group have been affected by a chronic crown of thorns starfish infestation that is severely disrupting recovery processes on reef slope communities.",
+        "Crown of thorns starfish (COTS) impacts were particularly evident in the Manu'a Group on the islands of Ofu and Olosega. The relatively recent presence of COTS on these islands were interpreted from the contrasting pattern in colony size, frequency of coral fragmentation, the nature of coral fragments, and reduction in coral cover, in comparison to most other sites on Manu'a and Tutuila."
+      ]
+    },
+    {
+      "record_id": "e065e6029147877f2956cf83",
+      "paper_id": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+      "source_path": "output/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa.md",
+      "section_heading": "RESULTS",
+      "section_start_line": 403,
+      "section_end_line": 707,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral colonies were recorded in transects in 2002 compared to 1995?",
+      "ground_truth_answer": "A total of 10,988 colonies were recorded in transects in 2002 compared to 12,919 colonies in 1995.",
+      "ground_truth_chunks": [
+        "A total of 10,988 colonies were recorded in transects in 2002 compared to 1995 where 12,919 colonies were recorded.",
+        "| POOLED ALL SITES =             | 10,988 (27/m <sup>2</sup> )   | 12,919 (13/m <sup>2</sup> )   |"
+      ]
+    },
+    {
+      "record_id": "b8f590b28618ea46935403a7",
+      "paper_id": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+      "source_path": "output/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa.md",
+      "section_heading": "Vatia (Tutuila)",
+      "section_start_line": 822,
+      "section_end_line": 881,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did the size class distribution of Montipora grisea at Vatia change between the 1995 and 2002 surveys?",
+      "ground_truth_answer": "Montipora grisea shifted from a dominance of >10 cm to <20 cm diameter colonies in 1995 to a more even spread of size classes in 2002; this change was statistically significant (P<0.001, G = 50.3, df = 3).",
+      "ground_truth_chunks": [
+        "The size frequency distribution of colonies of the most relatively abundant species in both surveys, *Montipora grisea*, changed significantly with a very similar pattern to the overall combined species pattern. That is, sizes changed from a dominance of >10 cm to <20cm diameter colonies in 1995 to a more even spread of size classes in 2002 (Figure 7; P<0.001, G = 50.3, df = 3).",
+        "**Figure 7. Size class distribution of coral colonies of** *Montipora grisea* **at Vatia from 1995 (N = 298) and 2002 (N = 76) surveys. Maximum diameter size class categories refer to the following : 1 = <=5 cm, 2 = >5 - <=10 cm, 3 = >10 - <=20 cm, 4 = >20 - <=40 cm, 5 = >40 - <=80 cm, 6 = >80 - <=160 cm, and 7 = >160 cm.**"
+      ]
+    },
+    {
+      "record_id": "d4e3b67c95fdd93769b2d1eb",
+      "paper_id": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+      "source_path": "output/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa.md",
+      "section_heading": "Onesosopo (Tutuila)",
+      "section_start_line": 1043,
+      "section_end_line": 1093,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did the dominant colony size class change between the 1995 and 2002 surveys at Onesosopo?",
+      "ground_truth_answer": "The dominant size class in 1995 was the >5 cm to <10 cm diameter class, whereas the dominant class in 2002 was the >10 cm to <20 cm diameter class.",
+      "ground_truth_chunks": [
+        "The size class distribution of all species combined changed significantly between surveys with a more even spread of sizes and larger colonies in 2002 compared to 1995 (Figure 19; P<0.001, G =128.4, df = 3). The dominant size class in 1995 was the >5 cm to <10 cm diameter class, whereas the dominant class in 2002 was the >10 cm to <20 cm diameter class.",
+        "**Figure 19. The size class distribution of all species combined at Onesosopo from 1995 (N = 257) and 2002 (N = 305). Maximum diameter size class categories refer to the following : 1 = <=5 cm, 2 = >5 - <=10 cm, 3 = >10 - <=20 cm, 4 = >20 - <=40 cm, 5 = >40 - <=80 cm, 6 = >80 - <=160 cm, and 7 = >160 cm.**"
+      ]
+    },
+    {
+      "record_id": "1b07ea5104456d827803d11f",
+      "paper_id": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+      "source_path": "output/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa.md",
+      "section_heading": "Leone (Tutuila)",
+      "section_start_line": 1307,
+      "section_end_line": 1347,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did species richness at Leone differ between the 1995 and 2002 surveys, and what reason is given for the difference?",
+      "ground_truth_answer": "The 1995 survey recorded 32 species while the 2002 survey recorded 26 species. The text attributes the higher species richness in 1995 to greater sampling effort in 1995, which likely recorded more relatively uncommon species.",
+      "ground_truth_chunks": [
+        "The number of species recorded in 1995 was 32, which is more than the 26 species from the 2002 survey. The higher species richness in 1995 is probably a result of the greater sampling effort in 1995 where more relatively uncommon species would be recorded."
+      ]
+    },
+    {
+      "record_id": "bb36356dd4f26079738b320b",
+      "paper_id": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+      "source_path": "output/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa.md",
+      "section_heading": "SUMMARY",
+      "section_start_line": 1469,
+      "section_end_line": 1472,
+      "model": "openai:gpt-4o-mini",
+      "question": "What evidence in the 2002 summary indicates that Crown-of-Thorns Starfish (COTS) affected the coral community at Sili?",
+      "ground_truth_answer": "Field observations and the 2002 data from the Sili site show signs of impact from COTS feeding, and these conclusions support the interpretation that a major disturbance from COTS predation affected the coral community.",
+      "ground_truth_chunks": [
+        "Field observations are supported by the data from 2002 of the Sili site that shows there has been signs of impact from COTS feeding.",
+        "These conclusions support the field interpretation in 2002 that a major disturbance from COTS predation has affected the coral community at this site."
+      ]
+    },
+    {
+      "record_id": "fd1c561fc92815bae942608d",
+      "paper_id": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+      "source_path": "output/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa.md",
+      "section_heading": "Ofu Village (Ofu)",
+      "section_start_line": 1578,
+      "section_end_line": 1635,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did coral colony density at Ofu Village change between the 1995 and 2002 surveys?",
+      "ground_truth_answer": "Coral colony density increased from 5 cols/m² in 1995 to 9 cols/m² in 2002.",
+      "ground_truth_chunks": [
+        "The number of colonies recorded in identical sample areas at Ofu Village (Table 2) was higher in 2002 (457 cols) compared to 1995 (261 cols). The density of corals was higher in 2002 (9 cols/m²) compared to 1995 (5 cols/m², Table 3)."
+      ]
+    },
+    {
+      "record_id": "b12f27bcc770824452479cc3",
+      "paper_id": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+      "source_path": "output/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa.md",
+      "section_heading": "SUMMARY",
+      "section_start_line": 1825,
+      "section_end_line": 1828,
+      "model": "openai:gpt-4o-mini",
+      "question": "Since 1995, which coral growth forms continued to dominate the Lepula community?",
+      "ground_truth_answer": "Massive and encrusting growth forms continued to dominate.",
+      "ground_truth_chunks": [
+        "The structure of the coral community at Lepula has not changed substantially from 1995 with the continuation of dominance of massive and encrusting growth forms."
+      ]
+    },
+    {
+      "record_id": "3f97788815bcc9898f777645",
+      "paper_id": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+      "source_path": "output/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa.md",
+      "section_heading": "Taxonomic Considerations",
+      "section_start_line": 2103,
+      "section_end_line": 2112,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two species groups showed the greatest discrepancies between researchers' identifications in the 1995 and 2002 surveys?",
+      "ground_truth_answer": "The two groups were: (1) two submassive Porites spp (P. sp 2 and P. cf horizontalata), and (2) a complex of encrusting Montipora spp including M. informis, M. corbettensis, M. caliculata, M. nodosa, M. efflorescens, M. effusa, and M. floweri.",
+      "ground_truth_chunks": [
+        "The greatest discrepancies between researcher's identifications from the two surveys were in two species groups.",
+        "The first group included two submassive *Porites* spp (*P.* sp 2 and *P.* cf *horizontalata*).",
+        "The second group was a complex of encrusting *Montipora* spp that included *M. informis*, *M. corbettensis*, *M. caliculata*, *M. nodosa*, *M. efflorescens*, *M. effusa*, and *M. floweri*."
+      ]
+    },
+    {
+      "record_id": "3076ed5521959861af000817",
+      "paper_id": "2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa",
+      "source_path": "output/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa/2002 - Fisk Birkeland 2002 Status of coral communities in American Samoa.md",
+      "section_heading": "Recommendations for Future Surveys",
+      "section_start_line": 2214,
+      "section_end_line": 2221,
+      "model": "openai:gpt-4o-mini",
+      "question": "What modification is recommended for some long-term coral monitoring sites to better assess coral community dynamics?",
+      "ground_truth_answer": "Expand a sub-set of the long-term coral monitoring sites to include a shallower depth stratum in addition to the current 10-m stratum.",
+      "ground_truth_chunks": [
+        "In effect, the current monitoring program is not adequately assessing the full community dynamics from the range of coral assemblages that are present in American Samoa.",
+        "To address this limitation, it is recommended that a sub-set of the sites included in the long term coral monitoring program be expanded to include a shallower depth stratum as well.",
+        "There is a number of current long term monitoring sites where it is feasible to restrict the benthic assessment component to the basic habitat description as used by Green (1996). Sampling time can therefore be available for additional sampling effort in shallower habitats as well."
+      ]
+    }
+  ],
+  "failures": []
+}

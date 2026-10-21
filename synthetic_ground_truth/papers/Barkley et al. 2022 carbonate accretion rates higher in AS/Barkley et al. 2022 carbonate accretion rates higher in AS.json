@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS.md",
+  "source_sha256": "6f323b0f098279f794098da2a23aee9f62aafa451e99f3fa20df54b0d4cd95df",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "74938310fa5c532dfc262f34",
+      "paper_id": "Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS",
+      "source_path": "output/Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS.md",
+      "section_heading": "COPYRIGHT",
+      "section_start_line": 29,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under what license is the article distributed?",
+      "ground_truth_answer": "The Creative Commons Attribution License (CC BY).",
+      "ground_truth_chunks": [
+        "This is an openaccess article distributed under the terms of the Creative Commons Attribution License (CC BY).",
+        "The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice."
+      ]
+    },
+    {
+      "record_id": "9d07fffb75a65eb747ac6e68",
+      "paper_id": "Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS",
+      "source_path": "output/Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS.md",
+      "section_heading": "Coral reef carbonate accretion rates track stable gradients in seawater carbonate chemistry across the U.S. Pacific Islands",
+      "section_start_line": 33,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "Between 2010 and 2019, at how many islands and atolls did the study measure in situ carbonate chemistry?",
+      "ground_truth_answer": "37 islands and atolls.",
+      "ground_truth_chunks": [
+        "We assess spatial patterns and temporal trends in carbonate chemistry measured in situ at 37 islands and atolls between 2010 and 2019, and evaluate the relationship between long-term mean  $\\Omega_{ar}$  and benthic community cover and composition (benthic cover, coral genera, coral morphology) and reef process (net calcium carbonate accretion rates)."
+      ]
+    },
+    {
+      "record_id": "7bd4a4638aa422dec44ac333",
+      "paper_id": "Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS",
+      "source_path": "output/Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS.md",
+      "section_heading": "Survey dates and sampling design",
+      "section_start_line": 63,
+      "section_end_line": 70,
+      "model": "openai:gpt-4o-mini",
+      "question": "What range of years of data were included in this study?",
+      "ground_truth_answer": "Data collected between 2010 and 2019 were included in this study.",
+      "ground_truth_chunks": [
+        "Robust, colocated monitoring of carbonate chemistry, benthic ecology, and carbonate accretion rates was initiated in 2010; thus, data collected between 2010 and 2019 were included in this study."
+      ]
+    },
+    {
+      "record_id": "df6b6c94a53b3cc5f4376a2c",
+      "paper_id": "Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS",
+      "source_path": "output/Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS.md",
+      "section_heading": "Carbon system chemistry",
+      "section_start_line": 71,
+      "section_end_line": 78,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were seawater samples poisoned and sealed after collection for carbonate chemistry analysis?",
+      "ground_truth_answer": "Samples were immediately poisoned with 200 µL of saturated mercuric chloride to inhibit biological activity and sample bottles were sealed with glass stoppers that were lightly covered in Apiezon-L grease; samples were stored in 500 mL borosilicate bottles that were overflowed and ~1% of sample volume was removed to create a calibrated headspace.",
+      "ground_truth_chunks": [
+        "Samples were stored in 500 mL borosilicate bottles, where the sample bottle was allowed to overflow with seawater for at least one full volume and ~1% sample volume was removed to create a calibrated headspace.",
+        "Samples were immediately poisoned with 200 µL of saturated mercuric chloride to inhibit biological activity and sample bottles sealed with glass stoppers that were lightly covered in Apiezon-L grease."
+      ]
+    },
+    {
+      "record_id": "386cc73b38078faf9668a043",
+      "paper_id": "Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS",
+      "source_path": "output/Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS.md",
+      "section_heading": "Carbonate accretion rates",
+      "section_start_line": 85,
+      "section_end_line": 90,
+      "model": "openai:gpt-4o-mini",
+      "question": "How was the weight of calcified material on recovered CAU plates determined?",
+      "ground_truth_answer": "CAU plates were defrosted, disassembled, and dried at 60°C until plate weight stabilized, then decalcified in 5% HCl until all calcified material dissolved. Remaining fleshy material was scraped, vacuum-filtered, dried, and weighed. The weight of calcified material was calculated by subtracting the weight of the PVC plate and fleshy material from the total weight of the recovered unit and converted to an accretion rate based on time in water.",
+      "ground_truth_chunks": [
+        "CAU plates were defrosted, disassembled, and dried at 60°C until plate weight had stabilized, and then decalcified in 5% HCl until all calcified material had fully dissolved.",
+        "Any remaining fleshy, non-calcified material was then scraped onto filter paper, vacuum-filtered, dried, and weighed. The weight of calcified material was calculated by subtracting the weight of the PVC plate and fleshy material from the total weight of the recovered unit and converted to an accretion rate based on time in water."
+      ]
+    },
+    {
+      "record_id": "2451cd5071e1aecf44be730a",
+      "paper_id": "Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS",
+      "source_path": "output/Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS.md",
+      "section_heading": "Data and statistical analysis",
+      "section_start_line": 91,
+      "section_end_line": 96,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were extreme outliers in the carbonate chemistry data defined and how many samples were removed?",
+      "ground_truth_answer": "Extreme outliers were defined as values more than three times the interquartile range below the first quartile or above the third quartile for each island and year; 26 samples were removed.",
+      "ground_truth_chunks": [
+        "In addition, extreme outliers in the carbonate chemistry data (values more than three times the interquartile range below the first quartile or above the third quartile for each island and year; n = 26 samples) were removed."
+      ]
+    },
+    {
+      "record_id": "343c433d22fc307e27b13fbc",
+      "paper_id": "Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS",
+      "source_path": "output/Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS.md",
+      "section_heading": "Benthic responses to War",
+      "section_start_line": 109,
+      "section_end_line": 120,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which islands had greater percent cover of calcifiers than turf?",
+      "ground_truth_answer": "Only four islands in American Samoa—Swains, Ofu and Olosega, Tā'u, and Tutuila—and five Pacific Remote Island Areas—Jarvis, Howland, Baker, Kingman, and Palmyra—had greater percent cover of calcifiers than turf.",
+      "ground_truth_chunks": [
+        "Turf algae was the dominant type of benthic cover at 28 of the 37 Pacific islands surveyed.",
+        "Only four islands in American Samoa (Swains, Ofu and Olosega, Tā'u, and Tutuila) and five in the Pacific Remote Island Areas (Jarvis, Howland, Baker, Kingman, Palmyra) had greater percent cover of calcifiers than of turf."
+      ]
+    },
+    {
+      "record_id": "4172c67703324a6c7844b0d1",
+      "paper_id": "Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS",
+      "source_path": "output/Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS.md",
+      "section_heading": "War impacts on net carbonate accretion rates",
+      "section_start_line": 121,
+      "section_end_line": 128,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the GLM results (estimate, SE, t, R2, p) for the relationship between War and carbonate accretion rates reported in this section?",
+      "ground_truth_answer": "Estimate = 0.45, SE = 0.16, t = 2.89, R2 = 0.20, p = 0.007; the section states carbonate accretion rates increased exponentially with increasing War.",
+      "ground_truth_chunks": [
+        "Carbonate accretion rates increased exponentially with increasing War (GLM with logtransformed response variable, estimate = 0.45, SE = 0.16, t = 2.89, R2 = 0.20, p = 0.007; [Figure 5](#page-8-0)), and the model fit improved with the equatorial and near-equatorial Pacific Remote Island Areas (Jarvis, Howland, Baker, Kingman, and Palmyra) removed as outliers (estimate = 0.57, SE = 0.15, t = 3.93, R2 = 0.24, p < 0.0001).",
+        "The fastest accretion rates (2010–2019 mean ± standard error = 121.2 ± 8.9 mg cm-2 yr-1) were observed at the highest War site (Rose, mean War = 4.05 ± 0.01), and were consistently high across the other four high-War islands of American Samoa (53.2–99.8 mg cm-2 yr-1)."
+      ]
+    },
+    {
+      "record_id": "139514b98af9c09c5aa0a193",
+      "paper_id": "Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS",
+      "source_path": "output/Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS.md",
+      "section_heading": "Data availability statement",
+      "section_start_line": 163,
+      "section_end_line": 166,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where are the study data archived?",
+      "ground_truth_answer": "The data are archived in online repositories at NOAA's National Centers for Environmental Information (https://www.ncei.noaa.gov/).",
+      "ground_truth_chunks": [
+        "The data included in this study are summarized in the Supplementary Material and archived in online repositories at NOAA's National Centers for Environmental Information [\\(https://](https://www.ncei.noaa.gov/) [www.ncei.noaa.gov/\\)](https://www.ncei.noaa.gov/) under the following accession numbers: 0157714, 0157715, 0157716, 0159169, 0159171, 0160330, 0175227, 0175228, 0175229, 0175230, 0225980, 0226794, 0226976, 0232262 (carbonate chemistry); 0157752, 0159140, 0159148, 0159158, 0159165, 0164295, 0176560, 0176574, 0217940 (benthic composition); 0157722, 0157758, 0159149, 0159151, 0159156, 0175165, 0175166, 0175167, 0231439, 0233019, 0255269 (carbonate accretion)."
+      ]
+    },
+    {
+      "record_id": "2799345e5be5049d6a56f0a6",
+      "paper_id": "Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS",
+      "source_path": "output/Barkley et al. 2022 carbonate accretion rates higher in AS/Barkley et al. 2022 carbonate accretion rates higher in AS.md",
+      "section_heading": "Author contributions",
+      "section_start_line": 167,
+      "section_end_line": 170,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which authors were responsible for the processing, analysis, management, and archival of carbonate chemistry data?",
+      "ground_truth_answer": "HB and JNS.",
+      "ground_truth_chunks": [
+        "HB and JNS were responsible for the processing, analysis, management, and archival of carbonate chemistry data."
+      ]
+    }
+  ],
+  "failures": []
+}

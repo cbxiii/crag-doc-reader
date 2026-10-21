@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS.md",
+  "source_sha256": "106555b954abbd8cc4cb701ccf92249e4c081f91979dfaf44ee8358e2336f9b7",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "04c0d3710e66b7d02ec9672d",
+      "paper_id": "Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS",
+      "source_path": "output/Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS.md",
+      "section_heading": "ITINERARY:",
+      "section_start_line": 31,
+      "section_end_line": 164,
+      "model": "openai:gpt-4o-mini",
+      "question": "When did the ship arrive at Jarvis Island and at what time?",
+      "ground_truth_answer": "Arrived Jarvis Island on 9 March at 1215.",
+      "ground_truth_chunks": [
+        "9 March Arrived Jarvis Island at 1215. Disembarked Horvath and White to conduct terrestrial surveys of vegetation and birds. Deployed subsurface ADCP/CTD mooring (SOSI #002) in 15 m of water on the southwest reef terrace at position 0º22.750'S, 160º00.932'W. Conducted two fish and benthic REAs along reef slopes on west and south sides. Established permanent transect along south side. Collected specimens of one species of *Acropora* coral to determine sexual reproductive status. Conducted six shallow-water CTDs to a depth of 30 m. Conducted four CTDs to 500 m and conducted ADCP transects around Jarvis throughout the night."
+      ]
+    },
+    {
+      "record_id": "2f59985d9f32376266633336",
+      "paper_id": "Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS",
+      "source_path": "output/Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS.md",
+      "section_heading": "REAs of Coral Populations",
+      "section_start_line": 372,
+      "section_end_line": 377,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which rare mushroom coral was recorded for the first time outside of Hawaii at Howland?",
+      "ground_truth_answer": "Cycloseris vaughani.",
+      "ground_truth_chunks": [
+        "Results of the 2002 REA surveys revealed several new species and genera records for corals at the two islands, in part because of the ability for scientists to examine less accessible windward habitats, especially off Howland.",
+        "Of interest was the first record of the rare mushroom coral Cycloseris vaughani outside of Hawaii at Howland."
+      ]
+    },
+    {
+      "record_id": "55d0c684f4aefe91b50a5168",
+      "paper_id": "Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS",
+      "source_path": "output/Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS.md",
+      "section_heading": "Coral Settlement Plates—Jean Kenyon (NMFS-UH-JIMAR) and Brian Zgliczynski (NMFS)",
+      "section_start_line": 517,
+      "section_end_line": 520,
+      "model": "openai:gpt-4o-mini",
+      "question": "For how long will the ceramic settlement plates remain in place before being removed?",
+      "ground_truth_answer": "2 years.",
+      "ground_truth_chunks": [
+        "An array of ceramic settlement plates has been attached to the anchor at the base of the CREWS buoy (below) deployed in the lagoon at Rose Atoll to investigate long-term recruitment and settlement of corals, invertebrates and algae.",
+        "In 2 years, these plates will be removed to determine what species have settled onto the plates over these longer time periods."
+      ]
+    },
+    {
+      "record_id": "8be3200fa743243fa325f15c",
+      "paper_id": "Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS",
+      "source_path": "output/Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS.md",
+      "section_heading": "Ofw/Olosega Islands",
+      "section_start_line": 626,
+      "section_end_line": 629,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which site had dense and extensive beds of Halimeda species?",
+      "ground_truth_answer": "The one exception was site OFU4.",
+      "ground_truth_chunks": [
+        "The one exception was site OFU4 where dense and extensive beds of *Halimeda* species occurred.",
+        "The most common algal genera encountered included: *Chlorodesmis sp.*, *Halimeda discoidea*, and *Halimeda opuntia* (green algae); and *Actinotrichia sp.* and *Peyssonnelia sp.* (red algae); and an unknown cyanophyte."
+      ]
+    },
+    {
+      "record_id": "44bbf257fc6dd5b04ab5371c",
+      "paper_id": "Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS",
+      "source_path": "output/Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS.md",
+      "section_heading": "<u>Methods</u>",
+      "section_start_line": 736,
+      "section_end_line": 739,
+      "model": "openai:gpt-4o-mini",
+      "question": "What do the letters in the DACOR method stand for?",
+      "ground_truth_answer": "D = dominant, A = abundant, C = common, O = occasional, and R = rare.",
+      "ground_truth_chunks": [
+        "Species were recorded and the qualitative abundance was given using the DACOR method (D = dominant, A = abundant, C = common, O = occasional, and R = rare)."
+      ]
+    },
+    {
+      "record_id": "963774ba91489b1318c6fbbc",
+      "paper_id": "Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS",
+      "source_path": "output/Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS.md",
+      "section_heading": "Accomplishments",
+      "section_start_line": 845,
+      "section_end_line": 854,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many sites were surveyed at Jarvis Island?",
+      "ground_truth_answer": "Five sites were surveyed at Jarvis.",
+      "ground_truth_chunks": [
+        "Five sites were surveyed at Jarvis. The sites were as follows:",
+        "- ♦ three sites from previous studies were resurveyed—JAR-07, JAR-09, JAR-4P\n- one new site on the southern east side—JAR-10\n- one newly established permanent transect on the west side—JAR-11P"
+      ]
+    },
+    {
+      "record_id": "18016aeb9481eb5fb40f2459",
+      "paper_id": "Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS",
+      "source_path": "output/Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS.md",
+      "section_heading": "Swains Island, American Samoa",
+      "section_start_line": 951,
+      "section_end_line": 958,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many kilometers of benthic habitat were mapped around Swains Island during the towboard surveys?",
+      "ground_truth_answer": "About 29 km of benthic habitat were mapped around Swains Island.",
+      "ground_truth_chunks": [
+        "A total of about 29 km of benthic habitat was mapped around Swains Island."
+      ]
+    },
+    {
+      "record_id": "b5191f57c3eb0f8e12f1d442",
+      "paper_id": "Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS",
+      "source_path": "output/Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS.md",
+      "section_heading": "Subsurface ADCP/CTD Mooring",
+      "section_start_line": 1085,
+      "section_end_line": 1090,
+      "model": "openai:gpt-4o-mini",
+      "question": "What instruments are included in the removable instrument package on the subsurface mooring?",
+      "ground_truth_answer": "A Sontek acoustic Doppler current profiler (ADCP) and a Seabird MicroCat conductivity-temperature-depth (CTD).",
+      "ground_truth_chunks": [
+        "This mooring consists of a 1200-lb concrete anchor with an easily removable instrument package which includes a Sontek acoustic Doppler current profiler and a Seabird MicroCat conductivity-temperature-depth (CTD).",
+        "These systems will record in-situ measurements of bottom temperature, salinity, and pressure, profiles of three-dimensional ocean currents (speed and direction) from near the bottom to near the surface at 0.5-m intervals, and wave energy and direction every 2 hours (or less) for the next 2 years."
+      ]
+    },
+    {
+      "record_id": "482e1626f1b236873a8501d2",
+      "paper_id": "Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS",
+      "source_path": "output/Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS.md",
+      "section_heading": "Aanderaa RCM9 Current Meter",
+      "section_start_line": 1165,
+      "section_end_line": 1174,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what coordinates and depth was the Aanderaa RCM9 current meter (SN414) deployed?",
+      "ground_truth_answer": "At position 6°22.958'N, 162°21.555'W at a depth of 6.4 m.",
+      "ground_truth_chunks": [
+        "An Aanderaa RCM9 current meter (SN414) was deployed in the central portion of La Paloma entrance channel to Kingman lagoon at position 6°22.958'N, 162°21.555'W at a depth of 6.4 m.",
+        "In addition to measuring current speed and direction every 30 minutes, the RCM9 records temperature and provides and measures water temperature differences inside and outside the atoll."
+      ]
+    },
+    {
+      "record_id": "d759ac1279233cb654898776",
+      "paper_id": "Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS",
+      "source_path": "output/Brainard-2006-PIFSC.cruise.rpt.2002.AS/Brainard-2006-PIFSC.cruise.rpt.2002.AS.md",
+      "section_heading": "Kingman Reef National Wildlife Refuge",
+      "section_start_line": 1288,
+      "section_end_line": 1292,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many Brown Boobies were seen flying from the NE spit?",
+      "ground_truth_answer": "Sixteen Brown Boobies were seen flying from the NE spit.",
+      "ground_truth_chunks": [
+        "Sixteen Brown Boobies were seen flying from the NE spit and 1 Bristle Thighed Curlew was seen on the spit."
+      ]
+    }
+  ],
+  "failures": []
+}

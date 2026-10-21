@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS.md",
+  "source_sha256": "3138290fb6d45d036ecd6d447dbb9bc9781e644de3e281f1981cdf398b8b9489",
+  "status": "complete",
+  "selected_section_count": 8,
+  "successful_record_count": 8,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "9c61f6556628511bdf895a35",
+      "paper_id": "Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS",
+      "source_path": "output/Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS.md",
+      "section_heading": "Population size and structure of giant clams at Rose Atoll, an important refuge in the Samoan Archipelago",
+      "section_start_line": 5,
+      "section_end_line": 12,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the estimated population size of giant clams at Rose Atoll?",
+      "ground_truth_answer": "Approximately 27800 clams.",
+      "ground_truth_chunks": [
+        "During an extensive survey of six islands in the archipelago (50.5 ha surveyed in 420 transects), 97% of a total of 2853 clams were recorded at the atoll (42% of area surveyed).",
+        "Estimated population size for the small atoll (615 ha) was approximately 27800 clams."
+      ]
+    },
+    {
+      "record_id": "dda81f80312a283f15565515",
+      "paper_id": "Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS",
+      "source_path": "output/Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS.md",
+      "section_heading": "Introduction",
+      "section_start_line": 13,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the two objectives of this study?",
+      "ground_truth_answer": "1) To examine a naturally occurring population of T. maxima at Rose Atoll, including detailed examination of habitat use, abundance, size frequency and mortality rates. 2) To assess the importance of Rose Atoll as a refuge for T. maxima in Samoa by describing patterns of distribution and abundance of giant clams throughout the archipelago.",
+      "ground_truth_chunks": [
+        "The objectives of this study were twofold:",
+        "1. To examine a naturally occurring population of *T. maxima* at Rose Atoll, including a detailed examination of patterns of habitat use, abundance, size frequency and mortality rates.",
+        "2. To assess the importance of Rose Atoll as a refuge for *T. maxima* in Samoa by describing the patterns of distribution and abundance of giant clams throughout the archipelago."
+      ]
+    },
+    {
+      "record_id": "984af0f8b855aaa3b39e8ab5",
+      "paper_id": "Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS",
+      "source_path": "output/Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS.md",
+      "section_heading": "Study area",
+      "section_start_line": 43,
+      "section_end_line": 54,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which islands were included in the study survey?",
+      "ground_truth_answer": "The survey included six islands: 'Upolu, Tutuila, Aunu'u, Ofu-Olosega, Ta'u, and Rose.",
+      "ground_truth_chunks": [
+        "This study was based on a survey of six of the main islands: 'Upolu, Tutuila, Aunu'u, Ofu-Olosega, Ta'u, and Rose.",
+        "Ofu and Olosega were considered a single island, because they"
+      ]
+    },
+    {
+      "record_id": "a46e8317d47fa83d9d73eaa4",
+      "paper_id": "Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS",
+      "source_path": "output/Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS.md",
+      "section_heading": "Survey procedures at Rose Atoll",
+      "section_start_line": 55,
+      "section_end_line": 76,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the minimum size of clams reliably detected in the Rose Atoll surveys?",
+      "ground_truth_answer": "The minimum size of clams reliably detected was 2 cm.",
+      "ground_truth_chunks": [
+        "All live clams were counted and measured (maximum shell length). The minimum size of clams reliably detected was 2 cm."
+      ]
+    },
+    {
+      "record_id": "171aecc3ede12f1e2c5955e2",
+      "paper_id": "Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS",
+      "source_path": "output/Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS.md",
+      "section_heading": "Results",
+      "section_start_line": 77,
+      "section_end_line": 98,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the recorded clams were found at Rose Atoll?",
+      "ground_truth_answer": "97%",
+      "ground_truth_chunks": [
+        "A combined area of 50.5 ha was surveyed on six islands in the Samoan archipelago (n = 420 transects), and 2853 giant clams were recorded.",
+        "Most clams were recorded at Rose Atoll (97%), which accounted for only 42% of the area surveyed."
+      ]
+    },
+    {
+      "record_id": "12b77e556dfd097c16728739",
+      "paper_id": "Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS",
+      "source_path": "output/Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS.md",
+      "section_heading": "Population size of T. maxima at Rose Atoll",
+      "section_start_line": 99,
+      "section_end_line": 106,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many Tridacna maxima clams were estimated to be supported by Rose Atoll?",
+      "ground_truth_answer": "About 27 800 ± 8360 clams.",
+      "ground_truth_chunks": [
+        "By expanding clam densities in each habitat to the total amount of that habitat represented at Rose Atoll, we estimated that the atoll supported about 27 800  $\\pm$  8360 clams (Table 2).",
+        "Many of these individuals (55%) were estimated to be on the reef flat despite the low densities of clams in this habitat, because the area was large (47% of total)."
+      ]
+    },
+    {
+      "record_id": "aa35daa2a3aa02d5f2ec91b0",
+      "paper_id": "Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS",
+      "source_path": "output/Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS.md",
+      "section_heading": "Mortality of T. maxima at Rose Atoll",
+      "section_start_line": 107,
+      "section_end_line": 142,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the estimated total mortality (Z) of Tridacna maxima at Rose Atoll based on the length-converted 'catch curve'?",
+      "ground_truth_answer": "Z = 0.30.",
+      "ground_truth_chunks": [
+        "Total mortality of clams was relatively low (Z = 0.30) based on a length-converted 'catch curve' (Fig. 4a), using input variables of K = 0.065 (from Radtke 1985) and  $L_{\\infty} = 27.8$  cm (calculated using Wetherall's method: Fig. 4b).",
+        "A similar value (Z = 0.23) was obtained using Hoenig's (1983) equation and a maximum recorded age of 18 from Radtke (1985)."
+      ]
+    },
+    {
+      "record_id": "93081d401127b09f554fb661",
+      "paper_id": "Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS",
+      "source_path": "output/Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS.md",
+      "section_heading": "Discussion",
+      "section_start_line": 143,
+      "section_end_line": 178,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of all the mature giant clams in the Samoan Archipelago were recorded at Rose Atoll?",
+      "ground_truth_answer": "93% of all the mature clams were recorded at Rose Atoll.",
+      "ground_truth_chunks": [
+        "The atoll supports a uniquely abundant population of giant clams within the Samoan Archipelago, accounting for 97% of all the clams recorded on the six islands surveyed. More importantly, 93% of all the mature clams were recorded at Rose.",
+        "Despite its small size, the atoll supports a population of about 27 800 *T. maxima*, of which about 6700 form a brood stock of mature clams located in an isolated and legally protected environment."
+      ]
+    }
+  ],
+  "failures": []
+}

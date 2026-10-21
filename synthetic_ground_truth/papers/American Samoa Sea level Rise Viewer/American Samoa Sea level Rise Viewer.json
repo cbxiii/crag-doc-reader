@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "source_path": "output/American Samoa Sea level Rise Viewer/American Samoa Sea level Rise Viewer.md",
+  "source_sha256": "b79c2789d7a034663174a8a5a1788cb0944b1a5a9c058012f29bb238e6bb3650",
+  "status": "partial",
+  "selected_section_count": 0,
+  "successful_record_count": 0,
+  "failure_count": 1,
+  "records": [],
+  "failures": [
+    {
+      "source_path": "output/American Samoa Sea level Rise Viewer/American Samoa Sea level Rise Viewer.md",
+      "error": "no eligible sections",
+      "attempt_count": 0
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "source_path": "output/ASG-2001-ExOrder.ban_.scuba_.fishing.AS_/ASG-2001-ExOrder.ban_.scuba_.fishing.AS_.md",
+  "source_sha256": "fdcd8412a175830e138eeef85cce3aea7e785ea23937c365f5e4311ec67d88d0",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "b6b72276834363744005612c",
+      "paper_id": "ASG-2001-ExOrder.ban_.scuba_.fishing.AS_/ASG-2001-ExOrder.ban_.scuba_.fishing.AS_",
+      "source_path": "output/ASG-2001-ExOrder.ban_.scuba_.fishing.AS_/ASG-2001-ExOrder.ban_.scuba_.fishing.AS_.md",
+      "section_heading": "TERRITORY OF AMERICAN SAMUA",
+      "section_start_line": 7,
+      "section_end_line": 49,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which types of underwater breathing apparatus does Executive Order No. 002-2001 prohibit for fishing?",
+      "ground_truth_answer": "It prohibits the use of underwater birlathing apparatus: SCUBA, HOOKAH, and REBREATHERS.",
+      "ground_truth_chunks": [
+        "AN ORDER PROHIBITING THE USE OF UNDERWATER BIRLATHING APPARATUS (SCUBA, HOOKAH AND REBREATHERS) FOR FISHING"
+      ]
+    }
+  ],
+  "failures": []
+}

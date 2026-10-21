@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Schroeder et al.  2008/Schroeder et al.  2008.md",
+  "source_sha256": "7c4c0a0a9fcf8ae0d6157a4151a754499051ddb03fdd9c80a7b2ef6a33b97b4a",
+  "status": "complete",
+  "selected_section_count": 5,
+  "successful_record_count": 5,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "8fe01b08376ae8f3984c75fc",
+      "paper_id": "Schroeder et al.  2008/Schroeder et al.  2008",
+      "source_path": "output/Schroeder et al.  2008/Schroeder et al.  2008.md",
+      "section_heading": "Abstract",
+      "section_start_line": 5,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "During which years did the Abstract report significantly greater numbers and biomass of herbivorous fishes at the wreck site compared to other reef-slope sites?",
+      "ground_truth_answer": "During 2002–2006 (more than 13 years after the October 1993 grounding).",
+      "ground_truth_chunks": [
+        "During 2002–2006, both numbers and biomass of pooled herbivorous fishes were significantly greater at the wreck site than at the other reef-slope survey sites.",
+        "Thus, more than 13 yrs later, the grounding of this ship is still impacting algal growth and herbivorous reef-fish populations."
+      ]
+    },
+    {
+      "record_id": "027462f5e96ce713d40811b2",
+      "paper_id": "Schroeder et al.  2008/Schroeder et al.  2008",
+      "source_path": "output/Schroeder et al.  2008/Schroeder et al.  2008.md",
+      "section_heading": "Methods",
+      "section_start_line": 23,
+      "section_end_line": 52,
+      "model": "openai:gpt-4o-mini",
+      "question": "What transect dimensions and sampling area were used for the 1995 fish surveys on the forereef slope at Rose Atoll, and how were fishes sampled by size?",
+      "ground_truth_answer": "In August 1995, fish were surveyed along five 50 m × 3 m wide belt transects (750 m2) at ~10 m depth on the forereef slope. Surveys used three sequential passes along the line targeting (1) large, highly mobile species, (2) medium-size mobile fishes, and (3) small, site-attached species.",
+      "ground_truth_chunks": [
+        "In August 1995, fish were visually surveyed along five 50 m × 3 m wide belt transects (750 m2 ) at ~10 m depth over the forereef slope at the same five stations where algae were surveyed (NW2, NW1, SW3, SW1, and SW2) (Fig. 2).",
+        "Surveys were conducted by three sequential passes along the line for (1) large, highly mobile species (during laying of the line), (2) medium-size mobile fishes, and (3) small, siteattached species (Green, 1996b)."
+      ]
+    },
+    {
+      "record_id": "64e3159d80f92f97b5f3ffcd",
+      "paper_id": "Schroeder et al.  2008/Schroeder et al.  2008",
+      "source_path": "output/Schroeder et al.  2008/Schroeder et al.  2008.md",
+      "section_heading": "Results",
+      "section_start_line": 53,
+      "section_end_line": 137,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which station had the highest percent cover of opportunistic algae in 2002?",
+      "ground_truth_answer": "The wreck site (Stn-7) had the highest percent cover of opportunistic algae in 2002 (~40%).",
+      "ground_truth_chunks": [
+        "Table 1. Summary results of two-way ANOVAs testing effect of reef station (Stn-7 = wreck site, with nearby sites Stn-4, Stn-5, Stn-6, Stn-23) and year (2002, 2004, 2006) on percent cover of opportunistic algae. Results with their least squares means are listed (underlined if not significantly different, P < 0.01).",
+        "Station: Stn-7 > = Stn-23 > = Stn-5 = Stn-6 > = Stn-4 LS Mean: 0.413 > = 0.267 > = 0.151 = 0.128 > = 0.107",
+        "In 2002, percent cover of opportunistic algae was an order of magnitude greater at the wreck site (~40%) than at adjacent stations (Fig. 3)."
+      ]
+    },
+    {
+      "record_id": "6952a03cac91d214717cf52e",
+      "paper_id": "Schroeder et al.  2008/Schroeder et al.  2008",
+      "source_path": "output/Schroeder et al.  2008/Schroeder et al.  2008.md",
+      "section_heading": "Discussion",
+      "section_start_line": 138,
+      "section_end_line": 211,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Discussion, what is the likely cause of the persistent bloom of opportunistic algae near the grounding site?",
+      "ground_truth_answer": "Corroding metal debris from the shipwreck is likely responsible for stimulating and maintaining the persistent bloom of opportunistic algae species near the grounding site.",
+      "ground_truth_chunks": [
+        "Large metal sections (the ship's structural steel, engine block, zinc anodes, copper) continued to corrode into the marine environment.",
+        "At Rose Atoll, corroding metal debris from the shipwreck is likely responsible for stimulating and maintaining the persistent bloom of opportunistic algae species near the grounding site, possibly enabling these algae to outcompete indigenous crustose corallines and preventing them from recolonizing the reef (Green et al., 1997)."
+      ]
+    },
+    {
+      "record_id": "4fa91d9be773171ecbc973e8",
+      "paper_id": "Schroeder et al.  2008/Schroeder et al.  2008",
+      "source_path": "output/Schroeder et al.  2008/Schroeder et al.  2008.md",
+      "section_heading": "Conclusion",
+      "section_start_line": 212,
+      "section_end_line": 215,
+      "model": "openai:gpt-4o-mini",
+      "question": "What management recommendations do the authors give for Rose Atoll and for future grounding events?",
+      "ground_truth_answer": "They recommend removal of any remaining metallic debris, continued biannual monitoring of benthic and fish assemblages and relevant abiotic variables, and for future groundings, containment/immediate removal of contaminant spills and removal of as much metallic debris as possible to mitigate opportunistic algae.",
+      "ground_truth_chunks": [
+        "We commend the USFWS for its efforts to remove most of the metallic debris at Rose Atoll, and recommend removal of any remaining debris that is possible.",
+        "Continued biannual monitoring of the benthic and fish assemblages and relevant abiotic variables should greatly enhance our understanding of the long-term ecological impacts of this grounding event and should further contribute to the scientific basis for management of Pacific atolls and other remote coral reef ecosystems.",
+        "In the event of future groundings, containment or immediate removal of the contaminant spill is imperative to prevent mass mortality of crustose coralline algae and corals, and removal of as much metallic debris as possible should help mitigate subsequent dominance by opportunistic algae."
+      ]
+    }
+  ],
+  "failures": []
+}

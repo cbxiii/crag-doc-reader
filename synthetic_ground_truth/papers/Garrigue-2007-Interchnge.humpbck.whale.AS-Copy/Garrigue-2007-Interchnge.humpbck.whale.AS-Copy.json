@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy.md",
+  "source_sha256": "5018de17f10bdb42a8a53aafd5f03517a8de52a15c931d6e86be228f94c260b3",
+  "status": "complete",
+  "selected_section_count": 9,
+  "successful_record_count": 9,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "3db34cc58bce4e712f27293b",
+      "paper_id": "Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy",
+      "source_path": "output/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy.md",
+      "section_heading": "Interchange of humpback whales in Oceania (South Pacific), 1999 to 2004 (revised SC/A06/HW55, March 2007)",
+      "section_start_line": 3,
+      "section_end_line": 20,
+      "model": "openai:gpt-4o-mini",
+      "question": "What affiliation is listed for Claire Garrigue in this section?",
+      "ground_truth_answer": "Opération Cétacés BP 12827 98802 Nouméa, New Caledonia",
+      "ground_truth_chunks": [
+        "- <sup>1</sup> Opération Cétacés BP 12827 98802 Nouméa, New Caledonia"
+      ]
+    },
+    {
+      "record_id": "9289450b3a446a4ac0724f50",
+      "paper_id": "Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy",
+      "source_path": "output/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy.md",
+      "section_heading": "ABSTRACT",
+      "section_start_line": 21,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many individual humpback whales were sighted in two different regions during the six-year study?",
+      "ground_truth_answer": "20 individuals were sighted in two different regions.",
+      "ground_truth_chunks": [
+        "Most resightings occurred within regions (n = 78) but 20 individuals were sighted in two (mostly adjacent) regions.",
+        "No individual was sighted in more than two regions during this six-year period."
+      ]
+    },
+    {
+      "record_id": "7aee326ce051798345a90669",
+      "paper_id": "Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy",
+      "source_path": "output/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 25,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "During which years were the six winter seasons of data collection used in this study?",
+      "ground_truth_answer": "1999-2004.",
+      "ground_truth_chunks": [
+        "We expend our data set using the information collected during six winter seasons, 1999-2004.",
+        "Here we extend the previously published information on individual movement between wintering grounds of Oceania based on four study sites by comparing adding five secondary catalogues."
+      ]
+    },
+    {
+      "record_id": "f5bdc7d0ecc546296cd1d1ae",
+      "paper_id": "Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy",
+      "source_path": "output/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy.md",
+      "section_heading": "Primary study sites",
+      "section_start_line": 37,
+      "section_end_line": 54,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year were vessel-based surveys and the collection of individual identification photographs initiated in Tonga?",
+      "ground_truth_answer": "1991.",
+      "ground_truth_chunks": [
+        "Vessel-based surveys and the collection of individual identification photographs were initiated in 1991 (Abernethy et al. 1992)."
+      ]
+    },
+    {
+      "record_id": "de186c5ddc42052d03229106",
+      "paper_id": "Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy",
+      "source_path": "output/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy.md",
+      "section_heading": "Individual identification",
+      "section_start_line": 55,
+      "section_end_line": 60,
+      "model": "openai:gpt-4o-mini",
+      "question": "What quality grading made a photograph insufficient for a representative comparison of resight rates within or among sites?",
+      "ground_truth_answer": "A photograph that received a 4 or 5 in any of the five categories was considered of insufficient quality for a representative comparison of resight rates within or among sites.",
+      "ground_truth_chunks": [
+        "photographs (including some photographs representing different annual sightings of some individual) were graded from the best quality (1) to the lowest quality (5) for five different categories, proportion of the fluke visible, fluke angle, the lateral angle of the photographer, exposure quality, and contrast quality.",
+        "A photograph that received a 4 or 5 in any of the five categories was considered of insufficient quality for a representative comparison of resight rates within or among sites."
+      ]
+    },
+    {
+      "record_id": "ae26e499c683a04598b91de8",
+      "paper_id": "Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy",
+      "source_path": "output/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy.md",
+      "section_heading": "Individual identification: photo-ID",
+      "section_start_line": 63,
+      "section_end_line": 68,
+      "model": "openai:gpt-4o-mini",
+      "question": "After the quality control review, how many individual humpback whales were identified in Oceania and on how many sightings?",
+      "ground_truth_answer": "A total of 659 individual humpback whales were identified in Oceania on 776 sightings.",
+      "ground_truth_chunks": [
+        "Following this process 34 % of the submitted photos were of insufficient quality and were rejected (Table 1).",
+        "The comparison of all the catalogues lead to a total of 659 humpback whales individually identified in Oceania on 776 sightings."
+      ]
+    },
+    {
+      "record_id": "08cdc1092aff180a6692f45c",
+      "paper_id": "Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy",
+      "source_path": "output/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy.md",
+      "section_heading": "Within study sites resightings",
+      "section_start_line": 69,
+      "section_end_line": 72,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many individual humpback whales were resighted in New Caledonia between 1999 and 2004, and what percentage of identified whales did this represent?",
+      "ground_truth_answer": "33 individuals, representing 21% of the individually identified humpback whales during the same period.",
+      "ground_truth_chunks": [
+        "A total of 33 individuals were resighted in New Caledonia between 1999 and 2004 which representing 21 % of the individually identified humpback whales during the same period (Table 1)."
+      ]
+    },
+    {
+      "record_id": "eaeaa65bb9dae680b0dc25d9",
+      "paper_id": "Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy",
+      "source_path": "output/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy.md",
+      "section_heading": "Between study sites resights",
+      "section_start_line": 73,
+      "section_end_line": 80,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percentage did the number of matches decrease after the photo quality screening?",
+      "ground_truth_answer": "29%",
+      "ground_truth_chunks": [
+        "The comparison of all the available catalogs before photo quality screening provided 28 matches among study sites (Table 2 and 3). Following the quality screening, this number was reduced to 20 matches (Table 2).",
+        "The screening process lead to a 29 % decrease in the matches originally found as eight more matches were found analysing all the available information before this process (Tables 2 and 3)."
+      ]
+    },
+    {
+      "record_id": "4d34715da446b79ac5ff4f41",
+      "paper_id": "Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy",
+      "source_path": "output/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy/Garrigue-2007-Interchnge.humpbck.whale.AS-Copy.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 81,
+      "section_end_line": 100,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of humpback whale resightings in Oceania occurred within study sites according to the DISCUSSION?",
+      "ground_truth_answer": "80% of the matches.",
+      "ground_truth_chunks": [
+        "the present study confims that the majority of resightings of humpback whales in Oceania occurred within study sites (80 % of the matches) indicating site fidelity and limited demographic exchange.",
+        "Relatively few resightings were found between study sites (20 % of the matches)."
+      ]
+    }
+  ],
+  "failures": []
+}

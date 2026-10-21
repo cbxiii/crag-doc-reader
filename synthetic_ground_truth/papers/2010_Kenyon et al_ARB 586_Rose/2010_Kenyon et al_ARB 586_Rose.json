@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose.md",
+  "source_sha256": "9f2f1a30b9bc4316b1085750beeb1faa1d8731166cd0186f2c0b91ea35aad791",
+  "status": "complete",
+  "selected_section_count": 9,
+  "successful_record_count": 9,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "e7706e89384d2672261fbf6b",
+      "paper_id": "2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose",
+      "source_path": "output/2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose.md",
+      "section_heading": "ABSTRACT",
+      "section_start_line": 23,
+      "section_end_line": 30,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many anthozoan and hydrozoan corals were observed at Rose Atoll during survey activities since 1994?",
+      "ground_truth_answer": "143 anthozoan and hydrozoan corals.",
+      "ground_truth_chunks": [
+        "We provide a list of 143 anthozoan and hydrozoan corals observed at Rose Atoll during survey activities since 1994.",
+        "Our spatially widespread surveys that generate independent metrics of benthic cover and coral abundance collectively provide the most comprehensive description of coral communities at Rose Atoll produced to date, which can serve as an important baseline in assessing the direction and pace of future changes."
+      ]
+    },
+    {
+      "record_id": "e834a00243bf512960737b5d",
+      "paper_id": "2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose",
+      "source_path": "output/2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 31,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the main aims of the present study?",
+      "ground_truth_answer": "To (1) describe the community structure of shallow-water (< 28 m) corals at Rose Atoll using atoll-wide (2002, 2004) and site-specific (2004) surveys, (2) provide an updated species list of anthozoan and hydrozoan corals based on surveys from 1994–2007, and (3) present evidence of coral recovery along the fore-reef axis most heavily impacted by the 1993 vessel grounding.",
+      "ground_truth_chunks": [
+        "The main aims of the present study are to (1) describe the community structure of the shallow-water (< 28 m) corals at Rose Atoll, based on atoll-wide surveys conducted in 2002 and 2004 and site-specific surveys conducted in 2004, (2) provide an updated species lists of anthozoan and hydrozoan corals based on surveys conducted between 1994 and 2007, and (3) present evidence of coral recovery along the fore-reef axis that was most heavily impacted by the 1993 vessel grounding and its aftermath.",
+        "In describing community structure, we applied survey methods that operate at different scales of spatial and taxonomic resolution to generate independent metrics of community abundance."
+      ]
+    },
+    {
+      "record_id": "32c6e6648e77b059c18b1994",
+      "paper_id": "2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose",
+      "source_path": "output/2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose.md",
+      "section_heading": "Benthic Surveys",
+      "section_start_line": 43,
+      "section_end_line": 56,
+      "model": "openai:gpt-4o-mini",
+      "question": "What imaging equipment was used during the 2004 towed-diver surveys?",
+      "ground_truth_answer": "A digital still camera (Canon EOS-10D, EF 20 mm lens) in a customized housing with strobes was used to photograph the benthos automatically at 15-sec intervals.",
+      "ground_truth_chunks": [
+        "During the 2004 surveys, a digital still camera (Canon EOS-10D, EF 20 mm lens) in a customized housing with strobes was used to photograph the benthos automatically at 15-sec intervals."
+      ]
+    },
+    {
+      "record_id": "9467bc84e204a6c6c3f4362a",
+      "paper_id": "2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose",
+      "source_path": "output/2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose.md",
+      "section_heading": "Data Extraction and Analysis",
+      "section_start_line": 57,
+      "section_end_line": 76,
+      "model": "openai:gpt-4o-mini",
+      "question": "What software was used to analyze the digital photographs recorded in 2004?",
+      "ground_truth_answer": "Coral Point Count with Excel Extension (Kohler and Gill, 2006).",
+      "ground_truth_chunks": [
+        "Digital photographs recorded in 2004 were sampled at 30-sec intervals and quantitatively analyzed for benthic percent cover by a single analyst (C. Wilkinson) using point-count software (Coral Point Count with Excel Extension; Kohler and Gill, 2006) and using 50 stratified random points per frame.",
+        "Photoquadrats were analyzed for benthic percent cover by a single analyst (S. Cooper) using Coral Point Count with Excel Extensions (Kohler and Gill, 2006) and using one hundred stratified random points per digital image."
+      ]
+    },
+    {
+      "record_id": "54a94dda030ae9198c7ede82",
+      "paper_id": "2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose",
+      "source_path": "output/2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose.md",
+      "section_heading": "Towed-diver Surveys",
+      "section_start_line": 79,
+      "section_end_line": 242,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the average benthic area captured in laser-scaled frames during the 2002 towed-diver surveys?",
+      "ground_truth_answer": "The average benthic area captured in laser-scaled frames was 1.385 m² (SE = 0.09 m², n = 909 frames).",
+      "ground_truth_chunks": [
+        "The average benthic area captured in laser-scaled frames was 1.385 m² (SE = 0.09 m², n = 909 frames).",
+        "Towed divers surveyed 32.8 km of benthic habitat (Table 1, Fig. 2), from which 1367 frames were analyzed."
+      ]
+    },
+    {
+      "record_id": "49082c5ee9f112150a3f6ab1",
+      "paper_id": "2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose",
+      "source_path": "output/2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose.md",
+      "section_heading": "Table 4. continued",
+      "section_start_line": 243,
+      "section_end_line": 354,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which genera accounted for approximately 73% of the average dissimilarity between the fore-reef and lagoon in the photoquadrat-derived coral relative abundance analysis?",
+      "ground_truth_answer": "Montipora, Pocillopora, and Favia.",
+      "ground_truth_chunks": [
+        "SIMPER revealed that *Montipora*, *Pocillopora* and *Favia* together accounted for ~ 73% of the average dissimilarity between the fore-reef and lagoon"
+      ]
+    },
+    {
+      "record_id": "3eb8709cc9ec73042200b2a3",
+      "paper_id": "2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose",
+      "source_path": "output/2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 355,
+      "section_end_line": 388,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral genus did all three survey methods find to be highly abundant on the fore-reef and absent in the lagoon?",
+      "ground_truth_answer": "The genus *Pocillopora*.",
+      "ground_truth_chunks": [
+        "All three methods revealed the high abundance of the genus *Pocillopora* in the forereef habitat and its absence in the lagoon.",
+        "In towed-diver surveys, *Pocillopora* accounted for a third of the total coral cover on the fore reef (Table 1).",
+        "In photoquadrat assessments, *Pocillopora* dominated the coral fauna in all sectors (Table 5), accounting for 39.4% of the total coral cover at the fore-reef sites combined."
+      ]
+    },
+    {
+      "record_id": "6ab3e77afef4ec1485d167a4",
+      "paper_id": "2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose",
+      "source_path": "output/2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose.md",
+      "section_heading": "Maragos, J.E.",
+      "section_start_line": 463,
+      "section_end_line": 470,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year was the report on the impact of the grounding of the longliner Jin Shiang Fa at Rose Atoll published?",
+      "ground_truth_answer": "1994.",
+      "ground_truth_chunks": [
+        "1994. Reef and coral observations on the impact of the grounding of the longliner *Jin Shiang Fa* at Rose Atoll, American Samoa. Report prepared for U.S. Fish and Wildlife Service, Pacific Island Office, Honolulu, Hawaii, 27 pp."
+      ]
+    },
+    {
+      "record_id": "2a796088bd40e9adecab6550",
+      "paper_id": "2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose",
+      "source_path": "output/2010_Kenyon et al_ARB 586_Rose/2010_Kenyon et al_ARB 586_Rose.md",
+      "section_heading": "Mundy, C.",
+      "section_start_line": 475,
+      "section_end_line": 482,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year was Mundy, C.'s survey of the corals of American Samoa published?",
+      "ground_truth_answer": "1996.",
+      "ground_truth_chunks": [
+        "1996. A quantitative survey of the corals of American Samoa. Department of Marine and Wildlife Resources Biological Report Series, Pago Pago, American Samoa, 31 pp."
+      ]
+    }
+  ],
+  "failures": []
+}

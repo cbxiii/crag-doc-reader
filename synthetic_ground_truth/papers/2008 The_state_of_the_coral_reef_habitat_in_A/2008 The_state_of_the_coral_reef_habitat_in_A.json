@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A.md",
+  "source_sha256": "691bab7c9568a3c82361712529d6f3967c240579864cbe9ef257319a4cb006a6",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "e578d25cc60ef6488ab8ab99",
+      "paper_id": "2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A",
+      "source_path": "output/2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A.md",
+      "section_heading": "American Samoa Coral Reef Fishery Workshop",
+      "section_start_line": 43,
+      "section_end_line": 76,
+      "model": "openai:gpt-4o-mini",
+      "question": "On what dates was the American Samoa Coral Reef Fishery Workshop held?",
+      "ground_truth_answer": "October 21-23, 2008.",
+      "ground_truth_chunks": [
+        "Convention Center, Utulei, American Samoa",
+        "October 21-23, 2008"
+      ]
+    },
+    {
+      "record_id": "6301207d7d7afb9b31ae8aae",
+      "paper_id": "2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A",
+      "source_path": "output/2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A.md",
+      "section_heading": "2b. Key outcomes",
+      "section_start_line": 239,
+      "section_end_line": 260,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which island revealed the lowest total fish biomass, the lowest apex predator biomass, and the lowest snapper, grouper and soliderfish biomass?",
+      "ground_truth_answer": "Tutuila.",
+      "ground_truth_chunks": [
+        "Status of reef fish from fishery-independent (visual census) surveys across American Samoan Islands Research presented by R. Schroeder indicated an inverse relationship between island populations and fish biomass for the outer reef slope habitat.",
+        "In comparison to the other islands of American Samoa, Tutuila revealed the lowest total fish biomass, the lowest apex predator biomass, and the lowest snapper, grouper and soliderfish biomass."
+      ]
+    },
+    {
+      "record_id": "7a21fe3f92d6dbbc1c22e1d8",
+      "paper_id": "2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A",
+      "source_path": "output/2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A.md",
+      "section_heading": "Discussion and Conclusion",
+      "section_start_line": 388,
+      "section_end_line": 401,
+      "model": "openai:gpt-4o-mini",
+      "question": "From which two archaeological deposits does the Discussion and Conclusion say the archaeological record of marine resource use in American Samoa comes?",
+      "ground_truth_answer": "Fatu-ma-futi, Tutuila Island, and To'aga, Ofu Island.",
+      "ground_truth_chunks": [
+        "The archaeological record of marine resource use in American Samoa comes from only two deposits: Fatu-ma-futi, Tutuila Island, and To'aga, Ofu Island.",
+        "These datasets that have been analyzed include approximately 2500 years of fish and marine invertebrate use."
+      ]
+    },
+    {
+      "record_id": "0a2113db53f5fbe17b158bd9",
+      "paper_id": "2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A",
+      "source_path": "output/2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A.md",
+      "section_heading": "Status of 2004 Recommendation:",
+      "section_start_line": 547,
+      "section_end_line": 555,
+      "model": "openai:gpt-4o-mini",
+      "question": "What did the DMWR biologist hired in 2003 compile to help technicians with bottomfish identification?",
+      "ground_truth_answer": "A local bottomfish identification chart that technicians can take with them to help with identification.",
+      "ground_truth_chunks": [
+        "1. The DMWR biologist hired in 2003 compiled a local bottomfish identification charts that the technicians are able to take with them to help with identification. This same\n\nbiologist whom is responsible for the offshore creel survey, has participated in many surveys, to further illustrate to technicians the proper methods of data collecting, fish identification, measuring and surveying."
+      ]
+    },
+    {
+      "record_id": "285441cfb45e69f954f68fe1",
+      "paper_id": "2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A",
+      "source_path": "output/2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A.md",
+      "section_heading": "Crest",
+      "section_start_line": 871,
+      "section_end_line": 880,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage cover did encrusting calcareous algae reach at the outer part of the reef crest at Coconut Point, Nu'uuli?",
+      "ground_truth_answer": "70% cover.",
+      "ground_truth_chunks": [
+        "The reef crest has extensive coralline algae cover, the highest of any zone.",
+        "Encrusting calcareous algae increases strongly toward the outer part of the crest there, replacing turf and reaching 70% cover at the outer part of the crest."
+      ]
+    },
+    {
+      "record_id": "7f07d540f4a8fcc65231d445",
+      "paper_id": "2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A",
+      "source_path": "output/2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A.md",
+      "section_heading": "Hurricanes",
+      "section_start_line": 1039,
+      "section_end_line": 1046,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what is the most powerful force for breaking coral during hurricanes?",
+      "ground_truth_answer": "The concussive pressure wave from a crashing wave is the most powerful force for breaking coral.",
+      "ground_truth_chunks": [
+        "Hurricanes damage coral reefs primarily through the mechanical breakage of coral and even of the rock composing the reef.",
+        "The concussive pressure wave from a crashing wave is the most powerful force for breaking coral."
+      ]
+    },
+    {
+      "record_id": "31b5fd33ad5c97742bf98a63",
+      "paper_id": "2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A",
+      "source_path": "output/2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A.md",
+      "section_heading": "Disease",
+      "section_start_line": 1137,
+      "section_end_line": 1144,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the average prevalence of coral disease found in baseline surveys in American Samoa?",
+      "ground_truth_answer": "A prevalence of only 0.4% on the average.",
+      "ground_truth_chunks": [
+        "Subsequently, baseline surveying of coral diseases in\n\nAmerican Samoa revealed a diverse set of diseases (13 types distinguished) but low levels of incidence, a prevalence of only 0.4% on the average (Fenner et al. 2008; Aeby et al. in press)."
+      ]
+    },
+    {
+      "record_id": "da85a3fc736162620aaee121",
+      "paper_id": "2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A",
+      "source_path": "output/2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A.md",
+      "section_heading": "American Samoa MPA Network",
+      "section_start_line": 1473,
+      "section_end_line": 1482,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which team conducted the biogeography assessment to assess areas for possible establishment of marine protected areas in American Samoa?",
+      "ground_truth_answer": "The Biogeography Team of NOAA-National Ocean Service conducted the biogeography assessment.",
+      "ground_truth_chunks": [
+        "A biogeography assessment has been conducted by the Biogeography Team of NOAA-National Ocean Service in order to assess various areas for possible establishment of marine protected areas using Geographic Information System and data from local and federal partners.",
+        "These data and results were made available to DMWR, National Parks of American Samoa (NPAS) and Fagatele Bay National Marine Sanctuary (FBNMS)."
+      ]
+    },
+    {
+      "record_id": "2bce4161cb3082fe8b10d9af",
+      "paper_id": "2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A",
+      "source_path": "output/2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A.md",
+      "section_heading": "Doug Harper<sup>1</sup>",
+      "section_start_line": 1656,
+      "section_end_line": 1669,
+      "model": "openai:gpt-4o-mini",
+      "question": "What approach are the Pala Pals taking to address pollution and restoration across the Pala Lagoon watershed?",
+      "ground_truth_answer": "They are taking a ‘ridges to reef' approach, working on the entire Pala Lagoon watershed.",
+      "ground_truth_chunks": [
+        "To ensure that any problem can be addressed, the Pala Pals are taking a ‗ridges to reef' approach and working on the entire Pala Lagoon watershed.",
+        "The information and actions undertaken will be incorporated into a comprehensive and adaptable management plan covering the entire watershed and nearshore waters."
+      ]
+    },
+    {
+      "record_id": "2d9725dfe96ef73cebb4bd52",
+      "paper_id": "2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A",
+      "source_path": "output/2008 The_state_of_the_coral_reef_habitat_in_A/2008 The_state_of_the_coral_reef_habitat_in_A.md",
+      "section_heading": "Solalofi Tuaumu<sup>1</sup>",
+      "section_start_line": 1781,
+      "section_end_line": 1789,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long did the exchanged experience event last?",
+      "ground_truth_answer": "It was a 3-day event.",
+      "ground_truth_chunks": [
+        "The exchanged experience was a 3-day event, at which representatives from Samoa shared their success stories, failures and challenges in carrying out the program."
+      ]
+    }
+  ],
+  "failures": []
+}

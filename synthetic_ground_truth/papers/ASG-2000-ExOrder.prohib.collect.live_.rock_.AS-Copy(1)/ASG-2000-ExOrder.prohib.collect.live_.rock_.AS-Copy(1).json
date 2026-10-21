@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "source_path": "output/ASG-2000-ExOrder.prohib.collect.live_.rock_.AS-Copy(1)/ASG-2000-ExOrder.prohib.collect.live_.rock_.AS-Copy(1).md",
+  "source_sha256": "e4bde32e3a04360d0fe3a6ab5fe36de65502b8c38589dff70295604911712457",
+  "status": "complete",
+  "selected_section_count": 2,
+  "successful_record_count": 2,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "a813f4cd184e00914bbd067a",
+      "paper_id": "ASG-2000-ExOrder.prohib.collect.live_.rock_.AS-Copy(1)/ASG-2000-ExOrder.prohib.collect.live_.rock_.AS-Copy(1)",
+      "source_path": "output/ASG-2000-ExOrder.prohib.collect.live_.rock_.AS-Copy(1)/ASG-2000-ExOrder.prohib.collect.live_.rock_.AS-Copy(1).md",
+      "section_heading": "Section 2: Preamble",
+      "section_start_line": 21,
+      "section_end_line": 30,
+      "model": "openai:gpt-4o-mini",
+      "question": "What did the coral reef workshop in American Samoa conclude?",
+      "ground_truth_answer": "It concluded that our coral reefs are seriously over-fished, and that \"live rock\" provides food and habitat for coral reef fish.",
+      "ground_truth_chunks": [
+        "Whereas, a coral reef workshop in American Samoa concluded that our coral reefs are seriously over-fished, and \"live rock\" provides food and habitat for coral reef fish; and"
+      ]
+    },
+    {
+      "record_id": "ea1b1ddb8bee29f8383e437b",
+      "paper_id": "ASG-2000-ExOrder.prohib.collect.live_.rock_.AS-Copy(1)/ASG-2000-ExOrder.prohib.collect.live_.rock_.AS-Copy(1)",
+      "source_path": "output/ASG-2000-ExOrder.prohib.collect.live_.rock_.AS-Copy(1)/ASG-2000-ExOrder.prohib.collect.live_.rock_.AS-Copy(1).md",
+      "section_heading": "Section 3: Order",
+      "section_start_line": 36,
+      "section_end_line": 55,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who must permit the export of cultured live rock and under what requirement?",
+      "ground_truth_answer": "The Department of Marine and Wildlife Resources must permit the export of cultured live rock in accordance with administrative rules and regulations which that department shall promulgate.",
+      "ground_truth_chunks": [
+        "(b) Export of any live rock taken from reefs is prohibited.",
+        "(c) Export of cultured live rock must be permitted by the Department of Marine and Wildlife Resources in accordance with administrative rules and regulations which that department shall promulgate."
+      ]
+    }
+  ],
+  "failures": []
+}

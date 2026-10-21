@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy.md",
+  "source_sha256": "a6678f85cdd8f7212b17febd80eede510dcbbf1b6016294e80ce055007674635",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "0cae67033ef8b98b959fc723",
+      "paper_id": "Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy",
+      "source_path": "output/Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy.md",
+      "section_heading": "New records and notes on marine benthic algae of American Samoa-Chlorophyta & Phaeophyta<sup>1</sup>",
+      "section_start_line": 3,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many species were added to the previously known flora of the benthic marine algae of American Samoa, and how many of these additions were Chlorophyta and Phaeophyta?",
+      "ground_truth_answer": "A total of 43 species were added; of these, 35 were Chlorophyta and 8 were Phaeophyta, raising the known flora to 230 species.",
+      "ground_truth_chunks": [
+        "**Abstract** — A total of 43 species are added to the previously known flora of the benthic marine algae of American Samoa (8 Phaeophyta, 35 Chlorophyta), raising the known flora to 230 species."
+      ]
+    },
+    {
+      "record_id": "8a5a842945317b159dba37bd",
+      "paper_id": "Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy",
+      "source_path": "output/Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 23,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many algal species did William Albert Setchell compile for American Samoa in 1924, and how were they distributed among major algal groups?",
+      "ground_truth_answer": "Setchell compiled 100 species: 13 Cyanophyta, 47 Rhodophyta, 11 Phaeophyta, and 29 Chlorophyta.",
+      "ground_truth_chunks": [
+        "Setchell compiled 100 species, including 13 Cyanophyta, 47 Rhodophyta, 11 Phaeophyta and 29 Chlorophyta, from about 15 sites, primarily on Tutuila and Aunu'u islands."
+      ]
+    },
+    {
+      "record_id": "a3030abad2d1369745ee9715",
+      "paper_id": "Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy",
+      "source_path": "output/Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy.md",
+      "section_heading": "Phaeophyceae",
+      "section_start_line": 109,
+      "section_end_line": 142,
+      "model": "openai:gpt-4o-mini",
+      "question": "How can Dictyopteris repens be differentiated from Dictyopteris delicatula?",
+      "ground_truth_answer": "Dictyopteris repens lacks the submarginal rib seen in D. delicatula: D. delicatula has a submarginal rib, whereas the margins of D. repens remain distromatic. Additionally, D. delicatula's distribution appears to halt in Fiji with no reports from Samoa.",
+      "ground_truth_chunks": [
+        "The two can be differentiated by a submarginal rib in *D. delicatula* whereas the margins of *D. repens* remain distromatic.",
+        "Furthermore, the distribution of *D. delicatula* appears to halt in Fiji with no reports of its presence in Samoa."
+      ]
+    },
+    {
+      "record_id": "d8021626f8805dfc18a3ce29",
+      "paper_id": "Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy",
+      "source_path": "output/Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy.md",
+      "section_heading": "Dictyota sp.",
+      "section_start_line": 143,
+      "section_end_line": 160,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why could the Dictyota specimen not be fully determined to species?",
+      "ground_truth_answer": "Because only infertile material was collected; determination would be possible after collecting reproductive specimens.",
+      "ground_truth_chunks": [
+        "Only infertile material was collected and appears to be quite distinct from the other epiphytic *Dictyota* species (*D. friabilis*). Determination would be possible following the collection of reproductive specimens."
+      ]
+    },
+    {
+      "record_id": "01727262221f6cce83303d27",
+      "paper_id": "Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy",
+      "source_path": "output/Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy.md",
+      "section_heading": "Chlorophyta",
+      "section_start_line": 169,
+      "section_end_line": 228,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species was collected epiphytic on the base of Sargassum anapense at Amalau?",
+      "ground_truth_answer": "Sporocladopsis erythraea.",
+      "ground_truth_chunks": [
+        "Sporocladopsis erythraea Nasr 1944: 33 (type locality: Red Sea). (Figs 6-8)",
+        "This rarity was collected only from Amalau, epiphytic on the base of Sargassum anapense Setchell."
+      ]
+    },
+    {
+      "record_id": "022dd4eb815abde08ba4ea7f",
+      "paper_id": "Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy",
+      "source_path": "output/Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy.md",
+      "section_heading": "Codiaceae",
+      "section_start_line": 297,
+      "section_end_line": 304,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where was the single specimen of Codium cf. mamillosum collected?",
+      "ground_truth_answer": "Utulei Point, near the mouth of Pago Pago Harbour, Tutuila Island.",
+      "ground_truth_chunks": [
+        "A single specimen was collected from Utulei Point, near the mouth of Pago Pago Harbour.",
+        "Voucher specimens: Tutuila Island: Utulei, S. Cole, P. Reath, V. Bonito, P. Skelton & L. Basch 13.x.2002 (AS 178)"
+      ]
+    },
+    {
+      "record_id": "a2e532c6acbb237021fcb37c",
+      "paper_id": "Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy",
+      "source_path": "output/Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy.md",
+      "section_heading": "Derbesiaceae",
+      "section_start_line": 305,
+      "section_end_line": 312,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which morphological stage of Derbesia marina was found at American Samoa?",
+      "ground_truth_answer": "The filamentous Derbesia sporophytic stage.",
+      "ground_truth_chunks": [
+        "Two very contrasting morphological stages are reported, the spherical *Halicystis* or the gametophytic stage and the filamentous *Derbesia* sporophytic stage.",
+        "The latter stage was the only stage found at American Samoa.",
+        "The cylindrical filaments (40-62.5 µm diam.) are irregularly and sparsely branched, with a double septum at the base of some branches, and are found entangled with other algae."
+      ]
+    },
+    {
+      "record_id": "64bcd1e052650caf58aacc77",
+      "paper_id": "Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy",
+      "source_path": "output/Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy.md",
+      "section_heading": "Halimedaceae",
+      "section_start_line": 313,
+      "section_end_line": 336,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Halimeda species is described as common in the upper subtidal (ca 5 m depth) with segments reminiscent of Halimeda opuntia but larger and less profusely branching?",
+      "ground_truth_answer": "Halimeda gracilis Harvey ex J. Agardh 1887.",
+      "ground_truth_chunks": [
+        "Halimeda gracilis Harvey ex J. Agardh 1887: 82 (type locality: Sri Lanka). Common in the upper subtidal (ca 5 m depth) in moderate water flow. The segments are reminiscent of Halimeda opuntia (Linnaeus) Lamouroux but are larger and less profusely branching in more than one plane.",
+        "Voucher specimens: Tutuila Island: Vatia Bay, S. Cole, P. Reath, V. Bonito, P. Skelton & L. Basch 16.x.2002 (AS 20); Leloaloa, S. Cole, P. Reath, V. Bonito, P. Skelton & L. Basch 17.x.2002 (AS 85); Aoa Bay, P.A. Skelton 12.ix.2003 (AS 354);"
+      ]
+    },
+    {
+      "record_id": "2f1a4b6aa724d7dd984730bc",
+      "paper_id": "Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy",
+      "source_path": "output/Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy.md",
+      "section_heading": "Polyphysaceae",
+      "section_start_line": 357,
+      "section_end_line": 376,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Parvocaulis species is described as having its rays arranged in a single plane?",
+      "ground_truth_answer": "Parvocaulis clavata.",
+      "ground_truth_chunks": [
+        "Parvocaulis clavata is similar to P. exigua (Solms-Laubach) Berger et al. (2003) but can be separated by the rounded ray tips (versus mamillate tips in P. exigua). Moreover, the rays are arranged in a single plane (Abbott & Huisman 2004).",
+        "Abbott & Huisman (2004) observed the rays to be arranged in more than one plane, as opposed to the single plane in P. clavata."
+      ]
+    },
+    {
+      "record_id": "94a5120239a8907257b0ead1",
+      "paper_id": "Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy",
+      "source_path": "output/Skelton-2004-New.record.marine.algae.AS-Copy/Skelton-2004-New.record.marine.algae.AS-Copy.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 377,
+      "section_end_line": 514,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many marine benthic algal species are reported from American Samoa in the latest compilation, and how are they distributed among Rhodophyta, Phaeophyta, and Chlorophyta?",
+      "ground_truth_answer": "The latest compilation reports 230 marine benthic algal species from American Samoa: 133 Rhodophyta, 23 Phaeophyta, and 74 Chlorophyta.",
+      "ground_truth_chunks": [
+        "With the additions reported here, the latest compilation of marine benthic algal species reported from American Samoa is 230, comprising 133 Rhodophyta, 23 Phaeophyta and 74 Chlorophyta."
+      ]
+    }
+  ],
+  "failures": []
+}

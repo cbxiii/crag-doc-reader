@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS.md",
+  "source_sha256": "1063f803306ce208d596ee02731521d73b14df84808af5ba9cbcaad9e6321a50",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "fb0be82488648db4c8542cc0",
+      "paper_id": "Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS",
+      "source_path": "output/Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS.md",
+      "section_heading": "INTRODUCTION.",
+      "section_start_line": 131,
+      "section_end_line": 138,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year did Dr. T. Wayland Vaughan begin his study of the corals of the Florida reef-tract?",
+      "ground_truth_answer": "1908.",
+      "ground_truth_chunks": [
+        "In 1908, Dr. T. Wayland Vaughan began a study of the corals of this area, the results of which important work have been published in Year Books Nos. 7 to 14 of the Carnegie Institution of Washington and elsewhere."
+      ]
+    },
+    {
+      "record_id": "14ee2728ab49894beafab376",
+      "paper_id": "Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS",
+      "source_path": "output/Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS.md",
+      "section_heading": "Cyphastrea microphthalma (Lamarck).",
+      "section_start_line": 800,
+      "section_end_line": 813,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where and how was the Samoan specimen of Cyphastrea microphthalma collected, and with what other coral was it found associated?",
+      "ground_truth_answer": "It was dredged in about 18 fathoms off Utelei Reef, Pago Pago Harbor, Samoa, and was found living associated with Leptoseris.",
+      "ground_truth_chunks": [
+        "Station.—Dredged in about 18 fathoms off Utelei Reef, Pago Pago Harbor, Samoa.",
+        "Found living associated with Leptoseris."
+      ]
+    },
+    {
+      "record_id": "a7c67d115c6f70449ea8c606",
+      "paper_id": "Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS",
+      "source_path": "output/Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS.md",
+      "section_heading": "Goniastrea pectinata (Ehrenberg).",
+      "section_start_line": 1135,
+      "section_end_line": 1150,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the dimensions of an average-sized calice in the Samoa specimen of Goniastrea pectinata?",
+      "ground_truth_answer": "The average-sized calice is 7 by 5 mm across and 3 mm deep.",
+      "ground_truth_chunks": [
+        "The average-sized calice is 7 by 5 mm. across and 3 mm. deep."
+      ]
+    },
+    {
+      "record_id": "357ce5880468a4eb335ef111",
+      "paper_id": "Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS",
+      "source_path": "output/Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS.md",
+      "section_heading": "Symphyllia nobilis (Dana).",
+      "section_start_line": 1375,
+      "section_end_line": 1400,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the average distance between summits of collines in Symphyllia nobilis?",
+      "ground_truth_answer": "15 mm.",
+      "ground_truth_chunks": [
+        "Average distance between summits of collines 15 mm.; length of only complete series 45 mm.; from surface of columella to top of large septa 10 to 15 mm."
+      ]
+    },
+    {
+      "record_id": "dfe9f2b2c0032d37632ffad6",
+      "paper_id": "Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS",
+      "source_path": "output/Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS.md",
+      "section_heading": "Leptoseris scabra Vaughan.",
+      "section_start_line": 1825,
+      "section_end_line": 1844,
+      "model": "openai:gpt-4o-mini",
+      "question": "From which stations and depths were the two specimens of Leptoseris scabra collected?",
+      "ground_truth_answer": "Stations: Pago Pago Harbor, Tutuila, Samoa. No. 1: Dredged alive from a depth of 12 to 14 fathoms on fairly hard bottom with some mud, near buoy A. No. 2: Dredged in 8 to 16 fathoms, north of Aua Reef.",
+      "ground_truth_chunks": [
+        "Stations, Pago Pago Harbor, Tutuila, Samoa:",
+        "No. 1. Dredged alive from a depth of 12 to 14 fathoms on fairly hard bottom with some mud, near buoy A.",
+        "No. 2. Dredged in 8 to 16 fathoms, north of Aua Reef."
+      ]
+    },
+    {
+      "record_id": "aae51dd1f83144f2f70ca5c0",
+      "paper_id": "Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS",
+      "source_path": "output/Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS.md",
+      "section_heading": "Montipora tuberculosa (Lamarck).",
+      "section_start_line": 2148,
+      "section_end_line": 2166,
+      "model": "openai:gpt-4o-mini",
+      "question": "What calice diameters are reported for Montipora sinensis, Lamarck's type of M. tuberculosa, and the Samoan specimen?",
+      "ground_truth_answer": "M. sinensis: 0.75 mm; Lamarck's type: 0.4 mm; Samoan specimen: 0.5–0.7 mm (averaging 0.6 mm).",
+      "ground_truth_chunks": [
+        "The calices of M. sinensis measure 0.75 mm. in diameter, while in Lamarck's type they are only 0.4 mm. The Samoan specimen seems to lie between the two in this respect, with calices of 0.5 to 0.7 mm. and averaging 0.6 mm."
+      ]
+    },
+    {
+      "record_id": "e200231110c5762e8d129619",
+      "paper_id": "Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS",
+      "source_path": "output/Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS.md",
+      "section_heading": "Acropora nobilis (Dana.)",
+      "section_start_line": 2493,
+      "section_end_line": 2514,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the diameter of the large branch in the Samoan collection of Acropora nobilis?",
+      "ground_truth_answer": "The large branch is nearly as much as 4 cm. in diameter.",
+      "ground_truth_chunks": [
+        "The Samoan collection contains one large branch with several smaller ones, which have probably been broken from the same corallum.",
+        "The large branch is nearly as much as 4 cm. in diameter."
+      ]
+    },
+    {
+      "record_id": "ff24fc27a9434e8904c18c2e",
+      "paper_id": "Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS",
+      "source_path": "output/Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS.md",
+      "section_heading": "Acropora leptocyathus (Brook).",
+      "section_start_line": 2800,
+      "section_end_line": 2855,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the usual diameter of the axial corallites in Acropora leptocyathus specimens collected from Samoa?",
+      "ground_truth_answer": "Axial corallites are 2 to 3 mm in diameter and scarcely exsert.",
+      "ground_truth_chunks": [
+        "(4) Axial corallites 2 to 3 mm. in diameter, scarcely exsert."
+      ]
+    },
+    {
+      "record_id": "177ab204c956203474487f32",
+      "paper_id": "Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS",
+      "source_path": "output/Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS.md",
+      "section_heading": "Porites pukoensis Vaughan.",
+      "section_start_line": 3163,
+      "section_end_line": 3174,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many intermediate denticles or granules are generally present between the palus and the wall in Porites pukoensis?",
+      "ground_truth_answer": "In general, there are two intermediate denticles or granules between the palus and the wall.",
+      "ground_truth_chunks": [
+        "In general, there are two intermediate denticles or granules between the palus and the wall."
+      ]
+    },
+    {
+      "record_id": "ae2d70abb74c97d3019ff35e",
+      "paper_id": "Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS",
+      "source_path": "output/Hoffmeister-1925-Corals.Fiji.AS/Hoffmeister-1925-Corals.Fiji.AS.md",
+      "section_heading": "PLATE 23:",
+      "section_start_line": 3539,
+      "section_end_line": 4142,
+      "model": "openai:gpt-4o-mini",
+      "question": "What species are depicted in FIGS. 1a–1c on PLATE 23 and what does Fig. 1c show (including magnification)?",
+      "ground_truth_answer": "FIGS. 1a–1c depict Porites (Synaraa) faustinoi, new species. Fig. 1c shows a portion showing calices at × 6 magnification.",
+      "ground_truth_chunks": [
+        "FIGS. 1a, 1b, 1c. Porites (Synaraa) faustinoi, new species; 1a top view, natural size; 1b under surface, natural size; 1c portion showing calices,  $\\times$  6.",
+        "Figs. 2a, 2b, 2c. Alveopora allingi, new species; 2a is No. 3 of text; 2b and 2c show No. 4;  $2c \\times 2$ ."
+      ]
+    }
+  ],
+  "failures": []
+}

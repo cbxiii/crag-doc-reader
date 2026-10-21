@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Clark T CoTS control 2000/Clark T CoTS control 2000.md",
+  "source_sha256": "0a3fbae1766598bba07a2e6ac387c89323ec9c49a03fc58530b9cc2fe2d435fd",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "74240bd83102641d32f77f24",
+      "paper_id": "Clark T CoTS control 2000/Clark T CoTS control 2000",
+      "source_path": "output/Clark T CoTS control 2000/Clark T CoTS control 2000.md",
+      "section_heading": "Background on COTs (life history and ecology)",
+      "section_start_line": 36,
+      "section_end_line": 53,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, how long after heavy rain or storm events are Crown of Thorns outbreaks likely to occur?",
+      "ground_truth_answer": "Approximately three years after heavy rain or storm events.",
+      "ground_truth_chunks": [
+        "When large storms bring heavy rains these nutrients are washed into the ocean, leading to an increase in phytoplankton, a marine plant which serves as a food source for larval COTs (Lucas, 1982).",
+        "Outbreaks are likely to occur approximately three years after heavy rain or storm events as it takes three years for COTs to mature (Lucas, 1984)."
+      ]
+    },
+    {
+      "record_id": "ecb7c48d8fd6e65b54c7ac6c",
+      "paper_id": "Clark T CoTS control 2000/Clark T CoTS control 2000",
+      "source_path": "output/Clark T CoTS control 2000/Clark T CoTS control 2000.md",
+      "section_heading": "Personnel and effort",
+      "section_start_line": 62,
+      "section_end_line": 67,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many divers helped in the COTs control efforts?",
+      "ground_truth_answer": "A total of 38 divers helped in COTs control efforts.",
+      "ground_truth_chunks": [
+        "A total of 38 divers helped in COTs control efforts from the National Park Service, Department of Marine and Wildlife Resources, American Samoa's Coral Reef Advisory Group, the National Marine Sanctuary of American Samoa, and the National Oceanographic and Atmospheric Administration (NOAA)."
+      ]
+    },
+    {
+      "record_id": "a017f063de9a0b6373af5258",
+      "paper_id": "Clark T CoTS control 2000/Clark T CoTS control 2000",
+      "source_path": "output/Clark T CoTS control 2000/Clark T CoTS control 2000.md",
+      "section_heading": "Towed snorkeler survey",
+      "section_start_line": 68,
+      "section_end_line": 71,
+      "model": "openai:gpt-4o-mini",
+      "question": "How was the intensity of COT outbreaks recorded during the towed snorkeler surveys and what criteria defined each category?",
+      "ground_truth_answer": "Intensity was recorded as light, medium, or heavy. Light: a few COTs or scars spaced out along the reef but no areas with overlapping COT scars; Medium: patches of multiple COT scars in an area, with breaks of healthy coral between patches; Heavy: COT scars overlapping to form a continuous area of COTs scars along the reef with no break between scars.",
+      "ground_truth_chunks": [
+        "Intensity was recorded as light (A few COTs or scars spaced out along the reef but no areas with overlapping COT scars), medium (patches of multiple COT scars in an area, with breaks of healthy coral between patches), or heavy (COT scars overlapping to form a continuous area of COTs scars along the reef with no break between scars)."
+      ]
+    },
+    {
+      "record_id": "320297971adb8ac599f48b44",
+      "paper_id": "Clark T CoTS control 2000/Clark T CoTS control 2000",
+      "source_path": "output/Clark T CoTS control 2000/Clark T CoTS control 2000.md",
+      "section_heading": "<span id=\"page-6-0\"></span> Age structure of COTs",
+      "section_start_line": 76,
+      "section_end_line": 79,
+      "model": "openai:gpt-4o-mini",
+      "question": "What size range was estimated to correspond to 2-3 years for individual COTs?",
+      "ground_truth_answer": "100-250 mm individuals.",
+      "ground_truth_chunks": [
+        "Age was estimated as between 1 and 2 years for 30- 100 mm individuals, 2-3 years for 100-250 mm individuals, 3-4 years for 250-300 mm individuals, 4-5 years for 300-400 mm individuals, and 5+ year for starfish over 380 mm (Hughes et al., 2014)."
+      ]
+    },
+    {
+      "record_id": "ab1e18adecd87bb326eeb2d9",
+      "paper_id": "Clark T CoTS control 2000/Clark T CoTS control 2000",
+      "source_path": "output/Clark T CoTS control 2000/Clark T CoTS control 2000.md",
+      "section_heading": "Towed snorkeler survey",
+      "section_start_line": 82,
+      "section_end_line": 85,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many complete park tow surveys were conducted between February and October 2014?",
+      "ground_truth_answer": "Eight complete park surveys.",
+      "ground_truth_chunks": [
+        "Tow surveys of NPSA waters were conducted once every month between February 2014 and October 2014, except for June when surveys were only conducted outside the park (8 complete park surveys).",
+        "Additional surveys were conducted outside the park when time and weather allowed (3 surveys)."
+      ]
+    },
+    {
+      "record_id": "ec320e4d103be6a122878f80",
+      "paper_id": "Clark T CoTS control 2000/Clark T CoTS control 2000",
+      "source_path": "output/Clark T CoTS control 2000/Clark T CoTS control 2000.md",
+      "section_heading": "National Park of American Samoa Crown of Thorns Outbreaks March 2014",
+      "section_start_line": 92,
+      "section_end_line": 121,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, when was the Crown of Thorns outbreak first recorded?",
+      "ground_truth_answer": "The outbreak was recorded starting in June.",
+      "ground_truth_chunks": [
+        " *Fig. 2 - Locations of COTs as observed by tow surveys for February 2014 thru October 2014. Outbreak was recorded starting in June. Heavy outbreak areas are in red, moderate outbreaks in orange, and light in pink. The extent of the survey effort is marked by a black line extending offshore.*"
+      ]
+    },
+    {
+      "record_id": "1586824a39a4b6fc6750637e",
+      "paper_id": "Clark T CoTS control 2000/Clark T CoTS control 2000",
+      "source_path": "output/Clark T CoTS control 2000/Clark T CoTS control 2000.md",
+      "section_heading": "Eradication dives",
+      "section_start_line": 122,
+      "section_end_line": 139,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many COTs were killed between March 2013 and October 2014?",
+      "ground_truth_answer": "A total of 15,537 COTs were killed between March 2013 and October 2014.",
+      "ground_truth_chunks": [
+        "A total of 15,537 COTs were killed between March 2013 and October 2014 during 619 eradication dives (Fig. 3 & 4).",
+        "Of these, 6849 were located in park waters (329 dives) and 8688 were outside of the park (290 dives) (Table 1 & 2)."
+      ]
+    },
+    {
+      "record_id": "0d948e7231ba006dc39d02d9",
+      "paper_id": "Clark T CoTS control 2000/Clark T CoTS control 2000",
+      "source_path": "output/Clark T CoTS control 2000/Clark T CoTS control 2000.md",
+      "section_heading": "Eradications outside NPSA waters",
+      "section_start_line": 171,
+      "section_end_line": 200,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which month had the highest number of COTs killed outside park waters, and how many were killed?",
+      "ground_truth_answer": "November 2013, with 3560 COTs killed.",
+      "ground_truth_chunks": [
+        "The highest number of COTs killed in any month was during November 2013, with 3560 COTs killed in the Fagamalo area during 153 dive hours with the SRC dive team.",
+        "| 2013  | November | 3560   | 153.45 | 23.20     | 57.49   |"
+      ]
+    },
+    {
+      "record_id": "e31f638819e3820c0759356e",
+      "paper_id": "Clark T CoTS control 2000/Clark T CoTS control 2000",
+      "source_path": "output/Clark T CoTS control 2000/Clark T CoTS control 2000.md",
+      "section_heading": "Age&structure&of&COTs",
+      "section_start_line": 201,
+      "section_end_line": 214,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the mean sizes and sample sizes of COTs measured in 2013 and 2014?",
+      "ground_truth_answer": "2013: mean size 27 cm (N=432, SD=4.89); 2014: mean size 34.9 cm (N=312, SD=4.35).",
+      "ground_truth_chunks": [
+        "Size\"data\"was\"collected\"for\"744\"COTs.\"\"Starfish\"measured\"in\"2013\"had\"a\"mean\"size\"of\"27\"cm\"(N=432,\" SD=4.89),\"while\"those\"in\"2014\"had\"a\"mean\"of\"34.9\"cm\"(N=312,\"SD=4.35)\"(Fig.\"8).\"\"This\"translates\"to\"a\"2\\4\" year\"old\"cohort\"in\"2013\"and\"a\"3\\5\"year\"old\"cohort\"in\"2014.\"\"\"",
+        "*Fig.\\*8\\*=\\*Size\\*frequency\\*of\\*COTs\\*in\\*a)\\*2013\\*and\\*b)\\*2014.*"
+      ]
+    },
+    {
+      "record_id": "849aa5535aa956ae63896ff7",
+      "paper_id": "Clark T CoTS control 2000/Clark T CoTS control 2000",
+      "source_path": "output/Clark T CoTS control 2000/Clark T CoTS control 2000.md",
+      "section_heading": "<span id=\"page-20-0\"></span>Discussion",
+      "section_start_line": 215,
+      "section_end_line": 234,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Discussion, what eradication treatment increased diver efficiency and eliminated the need to handle crown-of-thorns starfish (COTs)?",
+      "ground_truth_answer": "Use of oxbile.",
+      "ground_truth_chunks": [
+        "Use of oxbile has greatly increased the efficiency of divers, and eliminated the need to handle COTs during eradication efforts.",
+        "Oxbile requires a single injection, eliminating the time needed to pull the animal from the reef."
+      ]
+    }
+  ],
+  "failures": []
+}

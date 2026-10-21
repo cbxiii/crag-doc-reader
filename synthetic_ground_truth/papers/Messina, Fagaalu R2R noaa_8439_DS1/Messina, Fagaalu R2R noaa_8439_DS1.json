@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1.md",
+  "source_sha256": "3a76899a1067f3c7d0def5e0d9d8fbe1c072cf208907c1e3c37465964034118d",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "8ae41f4e0611b878c86d46dc",
+      "paper_id": "Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1",
+      "source_path": "output/Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1.md",
+      "section_heading": "Introduction and Purpose",
+      "section_start_line": 93,
+      "section_end_line": 98,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the primary purpose of this document?",
+      "ground_truth_answer": "To provide local and federal partners with baseline information and survey methods to allow for continued monitoring efforts to evaluate the effectiveness of management actions taken at the Samoa Maritime quarry in Fagaʻalu, American Samoa.",
+      "ground_truth_chunks": [
+        "The primary purpose of this document is to provide local and federal partners with baseline information and survey methods to allow for continued monitoring efforts to evaluate the effectiveness of management actions taken at the Samoa Maritime quarry in Fagaʻalu, American Samoa.",
+        "This document summarizes work completed between 2012 and 2014, and was coordinated and funded by the National Oceanic and Atmospheric Administration (NOAA) Coral Reef Conservation Program (CRCP) to gather baseline data and information before management interventions such as drainage systems, alternative ground cover, and retention ponds were installed at the quarry to reduce land-based sources of pollution inputs to the coral reefs in Fagaʻalu Bay."
+      ]
+    },
+    {
+      "record_id": "0cebdf4082f9814a540f0c79",
+      "paper_id": "Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1",
+      "source_path": "output/Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1.md",
+      "section_heading": "<span id=\"page-8-1\"></span>Mitigation Actions/Interventions",
+      "section_start_line": 139,
+      "section_end_line": 170,
+      "model": "openai:gpt-4o-mini",
+      "question": "What mitigation measure was installed in August 2012 to intercept groundwater flow at the Samoa Maritime quarry?",
+      "ground_truth_answer": "In August 2012, groundwater drainage diversions were installed at two locations to intercept clean groundwater flow: immediately below the exposed rock face at the Excavation Area and between the Excavation Platform and Upper Operational Area.",
+      "ground_truth_chunks": [
+        "Prior to intervention, perennial groundwater flows were discharged from a spring in the quarry blast face and flowed over the haul roads, Excavation Platform, and Operational Areas of the quarry, eroding sediment into the stream and elevating suspended sediment concentration (SSC) during non-storm conditions. In August 2012, groundwater drainage diversions to intercept clean groundwater flow were installed at two locations: a) immediately below the exposed rock face at the Excavation Area, and b) between the Excavation Platform and Upper Operational Area (dotted blue lines, **[Figure 3](#page-9-0)**)."
+      ]
+    },
+    {
+      "record_id": "cd135548cba63b2fcd83b474",
+      "paper_id": "Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1",
+      "source_path": "output/Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1.md",
+      "section_heading": "Significance",
+      "section_start_line": 195,
+      "section_end_line": 202,
+      "model": "openai:gpt-4o-mini",
+      "question": "What measurements were used to monitor sediment loading from key sediment sources to Fagaʻalu Bay during 2012–2014, and at which monitoring sites were they collected?",
+      "ground_truth_answer": "Sediment loading was monitored using measurements of streamflow (Q) and suspended sediment concentration (SSC) collected downstream of the undisturbed forest (FG1), the quarry (FG2), and the village (FG3).",
+      "ground_truth_chunks": [
+        "At Fagaʻalu, sediment loading from key sediment sources to Fagaʻalu Bay was monitored from 2012-2014 using measurements of streamflow (Q) and suspended sediment concentration (SSC) collected downstream of the undisturbed forest (FG1), the quarry (FG2), and the village (FG3) (**[Figure 8](#page-14-0)**).",
+        "<span id=\"page-14-0\"></span>**Figure 8. Location map of monitoring sites at Fagaʻalu. \"Wx station\" is a weather station with a rain gauge, wind speed, and air pressure.**"
+      ]
+    },
+    {
+      "record_id": "d75f7ce7b1e4d238afa22ea5",
+      "paper_id": "Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1",
+      "source_path": "output/Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1.md",
+      "section_heading": "Method at Fagaʻalu:",
+      "section_start_line": 241,
+      "section_end_line": 246,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why may the stage-discharge relationship at each PT location need updating?",
+      "ground_truth_answer": "Because vegetation may grow in the channel or sediment may deposit in the channel during storm events, requiring updating with measurements of the cross sectional area and flow velocity.",
+      "ground_truth_chunks": [
+        "A stage-discharge relationship was developed at each PT location, using a combination of hydraulic equations and discharge measurements to calibrate the equations.",
+        "The stage-discharge relationship may need updating with measurements of the cross sectional area and flow velocity if vegetation grows in the channel or if sediment deposits in the channel during storm events."
+      ]
+    },
+    {
+      "record_id": "fe2dc5d12cc0961a90137cb5",
+      "paper_id": "Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1",
+      "source_path": "output/Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1.md",
+      "section_heading": "Rationale:",
+      "section_start_line": 290,
+      "section_end_line": 293,
+      "model": "openai:gpt-4o-mini",
+      "question": "How is the terrestrial fraction of sediment determined according to the Rationale section?",
+      "ground_truth_answer": "The terrestrial fraction is determined using combustion of the calcium carbonate from marine sediment in an oven.",
+      "ground_truth_chunks": [
+        "The terrestrial fraction is determined using combustion of the calcium carbonate from marine sediment in an oven (see Messina and Biggs (2013) for details)."
+      ]
+    },
+    {
+      "record_id": "dda73f97ab85f773f2849b33",
+      "paper_id": "Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1",
+      "source_path": "output/Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1.md",
+      "section_heading": "Benthic composition and community structure",
+      "section_start_line": 366,
+      "section_end_line": 397,
+      "model": "openai:gpt-4o-mini",
+      "question": "Was mean percent live coral cover significantly different between the northern and southern areas of Fagaʻalu Bay, and which area had higher cover?",
+      "ground_truth_answer": "Yes — mean percent live coral cover was nearly twice as high in the southern area than the northern sector, and the difference was statistically significant (P = 0.004).",
+      "ground_truth_chunks": [
+        "Mean percent live coral cover was nearly twice as high along the southern area of the reef compared to the northern sector (**[Figure 15](#page-27-0)**, **[Figure 16a](#page-28-0),** Table 1) and those differences were significant.",
+        "| Coral        | 13.7 ± 2.7 | 30.2 ± 2.7            | 0.004 | 28.9 ± 3.6              | 23.6 ± 3.3 | 0.33  | 0.48   |"
+      ]
+    },
+    {
+      "record_id": "8243c94e0017fadd7a0a43f7",
+      "paper_id": "Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1",
+      "source_path": "output/Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1.md",
+      "section_heading": "C. LABORATORY ANALYSES",
+      "section_start_line": 446,
+      "section_end_line": 453,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which analytical method was used to analyze mercury in the sediment samples?",
+      "ground_truth_answer": "Mercury was analyzed using cold vapor - atomic absorption spectrometry.",
+      "ground_truth_chunks": [
+        "Mercury was analyzed using cold vapor - atomic absorption spectrometry.",
+        "For each element, total elemental concentration (i.e. sum of all oxidation states) was measured."
+      ]
+    },
+    {
+      "record_id": "31ff43ad8d22256a53fe622c",
+      "paper_id": "Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1",
+      "source_path": "output/Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1.md",
+      "section_heading": "RECOMMENDATIONS",
+      "section_start_line": 535,
+      "section_end_line": 541,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the RECOMMENDATIONS section, what specific maintenance is necessary at the quarry for prolonged success of sediment mitigation?",
+      "ground_truth_answer": "Continued maintenance of the retention ponds and mitigation measures at the quarry is necessary for prolonged success of sediment mitigation and the long-term recovery of coral health.",
+      "ground_truth_chunks": [
+        "- Continued maintenance of the retention ponds and mitigation measures at the quarry is necessary for prolonged success of sediment mitigation and the long-term recovery of coral health."
+      ]
+    },
+    {
+      "record_id": "42db9ed8421e2fcf98051dd6",
+      "paper_id": "Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1",
+      "source_path": "output/Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1.md",
+      "section_heading": "8.0 Operation and Maintenance",
+      "section_start_line": 632,
+      "section_end_line": 639,
+      "model": "openai:gpt-4o-mini",
+      "question": "How often should the quarry operator conduct and document inspections?",
+      "ground_truth_answer": "The quarry operator should conduct and document inspections on a minimum schedule of one inspection per week and should keep a daily log of activities.",
+      "ground_truth_chunks": [
+        "The quarry operator should keep a daily log of activities and conduct and document inspections on a minimum schedule of one inspection per week.",
+        "Daily routine inspections of the site perimeter will identify possible deficiencies in the sediment control measures or areas in need of repair before sediment leaves the site."
+      ]
+    },
+    {
+      "record_id": "e2b3d82c7a8c549be4605799",
+      "paper_id": "Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1",
+      "source_path": "output/Messina, Fagaalu R2R noaa_8439_DS1/Messina, Fagaalu R2R noaa_8439_DS1.md",
+      "section_heading": "8.6 Diversion Berms",
+      "section_start_line": 688,
+      "section_end_line": 702,
+      "model": "openai:gpt-4o-mini",
+      "question": "What routine maintenance is specified for diversion berms?",
+      "ground_truth_answer": "Other routine maintenance includes the removal of trash and litter from the site and perimeter areas.",
+      "ground_truth_chunks": [
+        "Depending on traffic loads and frequency, these diversions will need to be inspected regularly and reshaped as needed to maintain dimensions and to ensure proper function.",
+        "**Routine Maintenance:** Other routine maintenance includes the removal of trash and litter from the site and perimeter areas."
+      ]
+    }
+  ],
+  "failures": []
+}

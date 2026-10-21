@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Abstract snappinng shrimp/Abstract snappinng shrimp.md",
+  "source_sha256": "75dada367d180ce4d12660363f69eb22d24c08a8443720c991923849f6743aa9",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "3c8c2675125f1748f79af396",
+      "paper_id": "Abstract snappinng shrimp/Abstract snappinng shrimp",
+      "source_path": "output/Abstract snappinng shrimp/Abstract snappinng shrimp.md",
+      "section_heading": "Zang E, Lammers M, Kaplan M, Mooney TA, Fisher-Pool P, Brainard RE",
+      "section_start_line": 3,
+      "section_end_line": 7,
+      "model": "openai:gpt-4o-mini",
+      "question": "What frequency range do snapping shrimp produce the predominant source of sound on most coral reefs?",
+      "ground_truth_answer": "Snapping shrimp produce the predominant source of sound on most coral reefs at frequencies between 2 and 20 kHz.",
+      "ground_truth_chunks": [
+        "Snapping shrimp produce the predominant source of sound on most coral reefs at frequencies between 2 and 20 kHz."
+      ]
+    }
+  ],
+  "failures": []
+}

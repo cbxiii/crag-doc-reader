@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Friedlander-1993-Assess.fish.pop.ntl.park.AS/Friedlander-1993-Assess.fish.pop.ntl.park.AS.md",
+  "source_sha256": "f17afcf3e9c59e499e8a37278440aed8d1cd9c2719cce8de1634e54eae6b189e",
+  "status": "complete",
+  "selected_section_count": 6,
+  "successful_record_count": 6,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "176942f1760fbf42caf0ee66",
+      "paper_id": "Friedlander-1993-Assess.fish.pop.ntl.park.AS/Friedlander-1993-Assess.fish.pop.ntl.park.AS",
+      "source_path": "output/Friedlander-1993-Assess.fish.pop.ntl.park.AS/Friedlander-1993-Assess.fish.pop.ntl.park.AS.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 14,
+      "section_end_line": 31,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the purpose of this study?",
+      "ground_truth_answer": "The purpose of this study is to identify fish species and estimate species abundance in select locations around Ofu Island as well as develop recommendations for long-term monitoring of these resources within and surrounding the proposed park area.",
+      "ground_truth_chunks": [
+        "The purpose of this study is to identify fish species and estimate species abundance in select locations around Ofu Island as well as develop recommendations for long-term monitoring of these resources within and surrounding the proposed park area."
+      ]
+    },
+    {
+      "record_id": "d6ca00a0b1ee9d605f4eaf5a",
+      "paper_id": "Friedlander-1993-Assess.fish.pop.ntl.park.AS/Friedlander-1993-Assess.fish.pop.ntl.park.AS",
+      "source_path": "output/Friedlander-1993-Assess.fish.pop.ntl.park.AS/Friedlander-1993-Assess.fish.pop.ntl.park.AS.md",
+      "section_heading": "METHODS",
+      "section_start_line": 32,
+      "section_end_line": 53,
+      "model": "openai:gpt-4o-mini",
+      "question": "What area and time period defined the stationary point counts used in the survey?",
+      "ground_truth_answer": "All species observed within a 10 m diameter cylinder (78.5 square meters) were counted during a 15 minute time period.",
+      "ground_truth_chunks": [
+        "Stationary point counts were conducted at all locations and consisted of counting all fishes within a defined area for a specified period of time (Bohnsack and Bannerot, 1986).",
+        "A fiberglass measuring tape was laid out and all species observed within a 10 m diameter\n\ncylinder (78.5 square meters) were counted during a 15 minute time period (Kimmel, 1992; Kimmel, 1993)."
+      ]
+    },
+    {
+      "record_id": "d038c64f767464aae5f2d0a5",
+      "paper_id": "Friedlander-1993-Assess.fish.pop.ntl.park.AS/Friedlander-1993-Assess.fish.pop.ntl.park.AS",
+      "source_path": "output/Friedlander-1993-Assess.fish.pop.ntl.park.AS/Friedlander-1993-Assess.fish.pop.ntl.park.AS.md",
+      "section_heading": "RESULTS",
+      "section_start_line": 54,
+      "section_end_line": 99,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which site had the highest mean abundance of fishes per census and which species dominated that site?",
+      "ground_truth_answer": "The offshore airport site (Site OA) had the highest mean abundance of fishes per census (mean = 342.0, S.D. = 52.0) and was numerically dominated by the blackfin dartfish (Ptereleotris evides).",
+      "ground_truth_chunks": [
+        "The offshore airport site (Site OA) had the highest mean abundance of fishes per census (mean = 342.0, S.D. = 52.0) but the lowest mean diversity (mean = 1.713, S.D. = 0.340) and evenness (mean = 0.539, S.D. = 0.108) of any sites censused.",
+        "The Offshore Airport site was composed mainly of small individuals (< 5 cm) and dominated by the blackfin dartfish (*P. evides*), the white-belly damselfish (*Amblyglyphidodon leucogaster*), and the south seas demoiselle (*C. taupou*)."
+      ]
+    },
+    {
+      "record_id": "563e9b5c5ead1f0a6be5d8bd",
+      "paper_id": "Friedlander-1993-Assess.fish.pop.ntl.park.AS/Friedlander-1993-Assess.fish.pop.ntl.park.AS",
+      "source_path": "output/Friedlander-1993-Assess.fish.pop.ntl.park.AS/Friedlander-1993-Assess.fish.pop.ntl.park.AS.md",
+      "section_heading": "CONCLUSIONS",
+      "section_start_line": 100,
+      "section_end_line": 111,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which specific management options does the CONCLUSIONS section recommend for regulating fishing within the National Park of American Samoa?",
+      "ground_truth_answer": "It recommends gear restrictions (minimum mesh size; banning destructive gears such as poisons, chemicals, and explosives), closed seasons once spawning periodicity of target species is known, restrictions to insure spawning success, and closed areas that act as refuges to accumulate fish.",
+      "ground_truth_chunks": [
+        "Management options include gear restrictions (minimum mesh size, banning of destructive gears such as poisons, chemicals, and explosives), closed seasons once spawning periodicity of target species is known, restrictions to insure spawning success, and closed areas that can act as refuges and accumulate fish through high survival of recruits as well as immigration and retention (Parrish et al., 1990).",
+        "Limiting fishing within the park should be based on high quality data and should only be undertaken with the participation and cooperation of the local fishers (Beets and Rogers,\n\n1991)."
+      ]
+    },
+    {
+      "record_id": "41704b66592f94c34e5f58d7",
+      "paper_id": "Friedlander-1993-Assess.fish.pop.ntl.park.AS/Friedlander-1993-Assess.fish.pop.ntl.park.AS",
+      "source_path": "output/Friedlander-1993-Assess.fish.pop.ntl.park.AS/Friedlander-1993-Assess.fish.pop.ntl.park.AS.md",
+      "section_heading": "Evenness",
+      "section_start_line": 249,
+      "section_end_line": 605,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the H statistic, degrees of freedom, and p-value reported for Evenness?",
+      "ground_truth_answer": "H = 16.2, d.f. = 8, p = 0.041.",
+      "ground_truth_chunks": [
+        "| Median    | 0.512 | 0.671 | 0.656 | 0.735 | 0.729 | 0.750 | 0.757 | 0.772 | 0.761 |",
+        "H = 16.2 d.f. = 8 p = 0.041"
+      ]
+    },
+    {
+      "record_id": "dae85ce0a25d7d928a687ebc",
+      "paper_id": "Friedlander-1993-Assess.fish.pop.ntl.park.AS/Friedlander-1993-Assess.fish.pop.ntl.park.AS",
+      "source_path": "output/Friedlander-1993-Assess.fish.pop.ntl.park.AS/Friedlander-1993-Assess.fish.pop.ntl.park.AS.md",
+      "section_heading": "Samoan Name",
+      "section_start_line": 606,
+      "section_end_line": 948,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the Samoan name listed for Amblyglyphidodon leucogaster?",
+      "ground_truth_answer": "Tu'u'u-mamo",
+      "ground_truth_chunks": [
+        "Amblyglyphidodon leucogaster     | White-belly damsel        | Tu'u'u-mamo                         "
+      ]
+    }
+  ],
+  "failures": []
+}

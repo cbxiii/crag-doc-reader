@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS.md",
+  "source_sha256": "71bfab440e9c434c6b71c6ffcb459fd744611ff0640413eaf84e2fb421c624f5",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "041072970a36d1b7296a6a32",
+      "paper_id": "Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS",
+      "source_path": "output/Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS.md",
+      "section_heading": "MARINE AND COASTAL PROCESSES IN THE PACIFIC: ECOLOGICAL ASPECTS OF COASTAL ZONE MANAGEMENT",
+      "section_start_line": 1,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where and when was the UNESCO Seminar (at which the papers in this section were presented) held?",
+      "ground_truth_answer": "It was held at Motupore Island Research Centre, University of Papua New Guinea, 14 - 17 July 1980.",
+      "ground_truth_chunks": [
+        "Papers presented at a Unesco Seminar\nHeld at Motupore Island Research Centre,\nUniversity of Papua New Guinea\n14 - 17 July 1980"
+      ]
+    },
+    {
+      "record_id": "12ccbde2d1f4e3b22bf6d4d6",
+      "paper_id": "Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS",
+      "source_path": "output/Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS.md",
+      "section_heading": "ABSTRACT",
+      "section_start_line": 23,
+      "section_end_line": 38,
+      "model": "openai:gpt-4o-mini",
+      "question": "What subject headings did the ten papers in the UNESCO Seminar proceedings address?",
+      "ground_truth_answer": "They were under the headings Habitat Degradation; Coastal Zone Resource Uses and Removals; and Tourism and Indirect Impacts Related to Coastal Zone Management.",
+      "ground_truth_chunks": [
+        "The proceedings of the Unesco Seminar on Marine and Coastal Porcesses in the Pacific (Motupore Island, Papua New Guinea, 14-17 July 1980) consisting of ten papers dealing with the coastal marine environment under the headings Habitat Degradation, Coastal Zone Resource Uses and Removals and Tourism and Indirect Impacts Related to Coastal Zone Management are reported herein.",
+        "Formal recommendations and observations made by participants at the Seminar concerning: populations, development and environmental education, coastal zone research and management, traditional knowledge and management, resource investigations and finally research and training are also included."
+      ]
+    },
+    {
+      "record_id": "a9f46ddfabecfa32cc986023",
+      "paper_id": "Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS",
+      "source_path": "output/Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 55,
+      "section_end_line": 60,
+      "model": "openai:gpt-4o-mini",
+      "question": "Approximately what fraction of Tutuila's inhabitants live along the shore of Pago Pago Bay?",
+      "ground_truth_answer": "About one third of Tutuila's inhabitants.",
+      "ground_truth_chunks": [
+        "Considerable urbanization has occurred along the shore of the bay and about a third of Tutuila's 30,626 inhabitants live there."
+      ]
+    },
+    {
+      "record_id": "12ab22bc2ce16605f5def748",
+      "paper_id": "Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS",
+      "source_path": "output/Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS.md",
+      "section_heading": "TRADITIONAL FISHING PRACTICES",
+      "section_start_line": 61,
+      "section_end_line": 74,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the title of the leader who coordinated group fishing efforts in early Samoan communities?",
+      "ground_truth_answer": "The leader or fishing chief was called the \"tautai\".",
+      "ground_truth_chunks": [
+        "The larger groups required a leader to coordinate their efforts and to make decisions regarding when to fish, which methods to use, how to divide the catch, etc.",
+        "The leader or fishing chief was called the \"tautai\" and was generally elected by common consent because of his knowledge and ability as a fishermen."
+      ]
+    },
+    {
+      "record_id": "68f13dcb53cd07493cf3d50d",
+      "paper_id": "Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS",
+      "source_path": "output/Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS.md",
+      "section_heading": "TRADITIONAL MANAGEMENT TECHNIQUES",
+      "section_start_line": 75,
+      "section_end_line": 86,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who traditionally held ownership of the reefs and their resources?",
+      "ground_truth_answer": "The chiefs of each village.",
+      "ground_truth_chunks": [
+        "Ownership of the reefs and their resources was traditionally vested in the chiefs of each village in a like manner to land ownership.",
+        "Marine resources were, thus, controlled by a council of village chiefs who could institute any management measure they desired or felt necessary.",
+        "A complex system of taboos reserving\n\n![](_page_6_Figure_1.jpeg)\n\nFigure 1. Tutuila Island, American Samoa. Location of study villages.\n\ncertain species and size. of fish for the chiefs and restricting effort to certain seasons and locations arose which served to protect the reefs from over-exploitation."
+      ]
+    },
+    {
+      "record_id": "dd36502e9b61675625cdde30",
+      "paper_id": "Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS",
+      "source_path": "output/Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS.md",
+      "section_heading": "CURRENT FISHING PRACTICES AND THE RESULTANT CATCH",
+      "section_start_line": 87,
+      "section_end_line": 92,
+      "model": "openai:gpt-4o-mini",
+      "question": "During which fiscal years was the shoreline fishery survey conducted by the Office of Marine Resources, American Samoa Government?",
+      "ground_truth_answer": "During fiscal years 1977-1980.",
+      "ground_truth_chunks": [
+        "During fiscal years 1977-1980, the Office of Marine Resources, American Samoa Government conducted a survey in 13 shoreside villages of Tutuila Island."
+      ]
+    },
+    {
+      "record_id": "5cf6917aa9e1df89cef11d43",
+      "paper_id": "Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS",
+      "source_path": "output/Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS.md",
+      "section_heading": "Methods",
+      "section_start_line": 93,
+      "section_end_line": 122,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many eight-hour effort surveys were conducted in the Pago Pago Bay area during 1977–1978?",
+      "ground_truth_answer": "A total of 201 eight-hour effort surveys were conducted.",
+      "ground_truth_chunks": [
+        "During 1977 and 1978, nine contiguous villages (Faganeanea to Lauli'i) along an 18.8 km stretch of shoreline which encompasses Pago Pago Bay and about three kilometers of the exposed coast on either side were surveyed (Fig. 1).",
+        "A total of 201 eight-hour effort surveys were made according to a rigid schedule designed to account for all sources of variation."
+      ]
+    },
+    {
+      "record_id": "2c413745b0554760a3923b41",
+      "paper_id": "Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS",
+      "source_path": "output/Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS.md",
+      "section_heading": "Results",
+      "section_start_line": 123,
+      "section_end_line": 387,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the estimated total annual shoreline subsistence/recreational catch for Tutuila Island after rounding to account for data deficiencies?",
+      "ground_truth_answer": "About 300,000 kg per year (rounded estimate).",
+      "ground_truth_chunks": [
+        "The total shoreline subsistence/recreational catch for Tutuila Island including sea turtles and passive method catches is, thus, estimated at 271,338 kg annually (Table IX).",
+        "Assuming that about 10% of the fishing effort was overlooked by the observers involved in this survey, this estimate is rounded up to 300,000 kg."
+      ]
+    },
+    {
+      "record_id": "e8747cef1c5853c7e3e17f84",
+      "paper_id": "Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS",
+      "source_path": "output/Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS.md",
+      "section_heading": "TRENDS OF CHANGE IN FISHING PRACTICE",
+      "section_start_line": 388,
+      "section_end_line": 407,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the estimated per capita fish consumption on Tutuila (in kg/year) reported in this section?",
+      "ground_truth_answer": "67.3 kg/year.",
+      "ground_truth_chunks": [
+        "The data in Table XI are used to estimate per capita consumption at 67.3 kg/year.",
+        "Seafood consumption, however, remains high for Tutuila."
+      ]
+    },
+    {
+      "record_id": "7e0c6928b09432720fae6afe",
+      "paper_id": "Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS",
+      "source_path": "output/Wass-1982-Shoreline.fishery.AS/Wass-1982-Shoreline.fishery.AS.md",
+      "section_heading": "CURRENT MANAGEMENT MEASURES AND FUTURE STRATEGY",
+      "section_start_line": 408,
+      "section_end_line": 442,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which fisheries practices does the American Samoa Government explicitly prohibit according to this section?",
+      "ground_truth_answer": "The use of dynamite and the \"reckless use\" of poison.",
+      "ground_truth_chunks": [
+        "The only American Samoa Government regulations relating directly to fisheries management prohibit the use of dynamite and the \"reckless use\" of poison."
+      ]
+    }
+  ],
+  "failures": []
+}

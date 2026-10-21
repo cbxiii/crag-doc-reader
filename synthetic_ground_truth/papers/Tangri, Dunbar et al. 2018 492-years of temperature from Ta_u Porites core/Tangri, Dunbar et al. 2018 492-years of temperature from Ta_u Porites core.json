@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core.md",
+  "source_sha256": "2e54606e773517007353f8c2c93bd9b4d49a757edcce4078e363fb82f83f4dae",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "75e6dbf3858835f3cb66680d",
+      "paper_id": "Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core",
+      "source_path": "output/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core.md",
+      "section_heading": "ENSO's Shrinking Twentieth-Century Footprint Revealed in a Half-Millennium Coral Core From the South Pacific Convergence Zone",
+      "section_start_line": 33,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "What polarity shift did the Ta'u δ18O record undergo in its response to conventional ENSO over the twentieth century?",
+      "ground_truth_answer": "The Ta'u δ18O record shifted from a warm and fresh (cool and salty) response to El Niño (La Niña) to the opposite pattern.",
+      "ground_truth_chunks": [
+        "Over the course of the twentieth century, the Ta'u δ18O record underwent a polarity shift in its response to conventional ENSO: A warm and fresh (cool and salty) response to El Niño (La Niña) was replaced by the opposite pattern.",
+        "We interpret this as evidence for the movement of the Eastern Pacific ENSO null zone, the narrow band of the surface ocean where sea surface temperature variability is not on average correlated with ENSO."
+      ]
+    },
+    {
+      "record_id": "b1c4401f92029e758548d629",
+      "paper_id": "Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core",
+      "source_path": "output/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core.md",
+      "section_heading": "2.1. Coral Sampling",
+      "section_start_line": 69,
+      "section_end_line": 86,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many samples were produced from the Tau-1 core?",
+      "ground_truth_answer": "6,476 samples (including transect overlaps but not replicates).",
+      "ground_truth_chunks": [
+        "Core slabs were cleaned with deionized water, air dried, and sampled using a low-speed Dremel tool and 1.5-mm drill bit at ~1-mm intervals, producing 6,476 samples, including transect overlaps but not replicates.",
+        "We selected sampling transects that run along the corallites' growth axis. Because of the length of the core, 18 such transects were required (Figure S1)."
+      ]
+    },
+    {
+      "record_id": "cde5a64096f287ec5f81064d",
+      "paper_id": "Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core",
+      "source_path": "output/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core.md",
+      "section_heading": "2.2. Data Sets",
+      "section_start_line": 87,
+      "section_end_line": 92,
+      "model": "openai:gpt-4o-mini",
+      "question": "What correlation coefficient and p-value were found between the smoothed monthly δ^{18}O coral record and the NINO1+2 index from 1961 to 1982?",
+      "ground_truth_answer": "r = -0.67, p < 0.001.",
+      "ground_truth_chunks": [
+        "We found good agreement (r = -0.67, p < 0.001) between the smoothed monthly  $\\delta^{18}$ O and NINO1+2 data from 1961 to 1982, following the procedures described in section 2.4.",
+        "We then compared annual  $\\delta^{18}$ O and annually averaged NINO1+2 values, finding generally good agreement (r = -0.58, p = 0.001) from 1925 to 1953; before 1925, the time series diverge."
+      ]
+    },
+    {
+      "record_id": "0bdeeb3fa396b2364469b830",
+      "paper_id": "Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core",
+      "source_path": "output/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core.md",
+      "section_heading": "2.4. Statistical Methods",
+      "section_start_line": 99,
+      "section_end_line": 102,
+      "model": "openai:gpt-4o-mini",
+      "question": "What band-pass filter range was applied to the monthly interpolated Ta'u  δ18O data?",
+      "ground_truth_answer": "A 2- to 7-year Butterworth band-pass filter.",
+      "ground_truth_chunks": [
+        "We applied a 2- to 7-year Butterworth band-pass filter to the monthly interpolated Ta'u  $\\delta^{18}$ O data and then calculated the standard deviation on 30-year sliding windows; we refer to this as the relative variance approach."
+      ]
+    },
+    {
+      "record_id": "279e049ded08711d20b44d0c",
+      "paper_id": "Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core",
+      "source_path": "output/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core.md",
+      "section_heading": "Paleoceanography and Paleoclimatology",
+      "section_start_line": 130,
+      "section_end_line": 145,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the calibrated changes in δ18O per 1 °C and per 1 psu for the monthly Tau-1 dataset?",
+      "ground_truth_answer": "For the monthly data the change in δ18O per 1 °C is -0.15 ± 0.01 and per 1 psu is 0.21 ± 0.02.",
+      "ground_truth_chunks": [
+        "| Change in $\\delta^{18}$ O/1 °C<br>Change in $\\delta^{18}$ O/1 psu | -0.15 ± 0.01<br>0.21 ± 0.02 | $-0.13 \\pm 0.04$<br>$0.25 \\pm 0.04$ | -0.155 to -0.465<br>0.12 to 0.43 |"
+      ]
+    },
+    {
+      "record_id": "3dbee0500849e58b32611a27",
+      "paper_id": "Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core",
+      "source_path": "output/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core.md",
+      "section_heading": "3.2. ENSO Diversity",
+      "section_start_line": 146,
+      "section_end_line": 151,
+      "model": "openai:gpt-4o-mini",
+      "question": "With which ENSO index is the Ta'u δ18O record negatively correlated?",
+      "ground_truth_answer": "The Modoki index (representing Central Pacific ENSO).",
+      "ground_truth_chunks": [
+        "The Ta'u  $\\delta^{18}$ O record does, however, exhibit significant correlations with other ENSO indices (Table 2). It is negatively correlated with the Modoki index, representing Central Pacific ENSO, but positively correlated with the NINO1+2 index, representing conventional or Eastern Pacific ENSO.",
+        "The relationship between Ta'u  $\\delta^{18}$ O and ENSO is strongly seasonal in nature, but the two types of ENSO affect Ta'u in different seasons: the correlation with NINO1+2 (Modoki) rises to r=0.58, p=0.001 (r=-0.39, p=0.03) for January–May (October–January) seasonal averages but is effectively zero for the rest of the year."
+      ]
+    },
+    {
+      "record_id": "335ff511015a7f05eb54e7cc",
+      "paper_id": "Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core",
+      "source_path": "output/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core.md",
+      "section_heading": "3.4. Changes in Pre-Twentieth-Century Variability",
+      "section_start_line": 170,
+      "section_end_line": 187,
+      "model": "openai:gpt-4o-mini",
+      "question": "During which periods does the Ta'u δ18O record show higher-amplitude ENSO activity, and when is the strongest ENSO-band activity recorded?",
+      "ground_truth_answer": "Higher-amplitude ENSO activity is centered around 1575, 1660, 1820, and 1905, with suppressed ENSO-band variability around 1735; the strongest ENSO-band activity is from 1560 to 1585.",
+      "ground_truth_chunks": [
+        "Periods of higher-amplitude ENSO activity in the Ta'u record are centered around 1575, 1660, 1820, and 1905, with discernible suppressed ENSO-band variability around 1735, in the latter half of the Little Ice Age.",
+        "The period of strongest ENSO-band activity in the Ta'u record is from 1560 to 1585 (see Figure 5).",
+        "Going further back in time, we observe dramatic changes in band-passed Ta'u coral  $\\delta^{18}$ O variability, ranging from 40% above to 40% below mean twentieth-century levels (Figure 5)."
+      ]
+    },
+    {
+      "record_id": "a272f56c8f7aa4d03cb1cdb2",
+      "paper_id": "Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core",
+      "source_path": "output/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core.md",
+      "section_heading": "Paleoceanography and Paleoclimatology 10.1029/2017PA003310",
+      "section_start_line": 204,
+      "section_end_line": 211,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two ENSO indices did the authors use to represent the Central and Eastern Pacific ENSO patterns?",
+      "ground_truth_answer": "The authors used the Modoki index from Ashok et al. (2007) to represent the Central Pacific ENSO pattern and the NINO1+2 index from Rayner et al. (2003) to represent the Eastern Pacific ENSO pattern.",
+      "ground_truth_chunks": [
+        "In this paper, we use the Modoki index from Ashok et al. (2007) and the NINO1+2 index from Rayner et al. (2003) to represent the Central and Eastern Pacific ENSO patterns, respectively.",
+        "We choose these two indices for their long time span (some of the other indices go back only to 1948), their wide use in the literature, and, in the case of NINO1+2, its ability to capture salinity dynamics at Ta'u."
+      ]
+    },
+    {
+      "record_id": "0c32b6eaeacb338d68d8a869",
+      "paper_id": "Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core",
+      "source_path": "output/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core.md",
+      "section_heading": "4.2. The Null Zone and ENSO's Shrinking Footprint",
+      "section_start_line": 212,
+      "section_end_line": 231,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to ERSST, how did the conventional ENSO null zone shift in the vicinity of Ta'u between the early and late twentieth century?",
+      "ground_truth_answer": "It shifted approximately 6° north and 4° east (about 400 km).",
+      "ground_truth_chunks": [
+        "Our correlation maps suggest that the polarity change in the SST response to conventional ENSO at Ta'u was part of a basinwide contraction of the conventional ENSO footprint (see Figures 1 and 6).",
+        "Based on ERSST, the conventional null zone shifted approximately 6° north and 4° east (~ 400 km) in the vicinity of Ta'u between the early and late twentieth century (Figures 6 and S8)."
+      ]
+    },
+    {
+      "record_id": "7691be9a2dcd80f0618cdbf6",
+      "paper_id": "Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core",
+      "source_path": "output/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core.md",
+      "section_heading": "5. Conclusions",
+      "section_start_line": 248,
+      "section_end_line": 257,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to section 5, how does Ta'u coral δ18O respond to Modoki El Niño events compared to conventional El Niño events?",
+      "ground_truth_answer": "Ta'u coral δ18O decreases (indicating warmer/fresher waters) during Modoki El Niño events but shows the opposite response during conventional El Niño events (i.e., δ18O increases, indicating cooler/saltier waters).",
+      "ground_truth_chunks": [
+        "The five-century-long Ta'u data set is the first to document contrasting imprints of the Central and Eastern Pacific types of ENSO: Ta'u coral δ18O decreases (increases), implying warmer/fresher (cooler/saltier) waters, with Modoki El Niño (La Niña) events but has the opposite relationship with conventional ENSO events."
+      ]
+    }
+  ],
+  "failures": []
+}

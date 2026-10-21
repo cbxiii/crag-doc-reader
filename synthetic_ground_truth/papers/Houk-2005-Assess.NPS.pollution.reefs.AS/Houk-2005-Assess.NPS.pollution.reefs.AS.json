@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS.md",
+  "source_sha256": "de092696ecd662c622ccf95b6c0826532c085360ccfb57790ab58299d1b65007",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "0457610a94c2dc315fd17096",
+      "paper_id": "Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS",
+      "source_path": "output/Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS.md",
+      "section_heading": "ASSESSING THE EFFECTS OF NON-POINT SOURCE POLLUTION ON AMERICAN SAMOA'S CORAL REEF COMMUNITIES",
+      "section_start_line": 1,
+      "section_end_line": 10,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which surveyed site was assessed as non-supportive for aquatic life under the EPA aquatic life use designations?",
+      "ground_truth_answer": "Fagaalu was assessed as non-supportive for aquatic life.",
+      "ground_truth_chunks": [
+        "Benthic data suggest Fagaalu is heavily impacted compared with all other sites.",
+        "All sites resulted in a partially supportive ranking except Fagaalu, which was non-supportive."
+      ]
+    },
+    {
+      "record_id": "e893dab2a7ac2c7fe108d878",
+      "paper_id": "Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS",
+      "source_path": "output/Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 11,
+      "section_end_line": 20,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the primary goal of coral reef monitoring for the American Samoa Environmental Protection Agency as stated in the Introduction?",
+      "ground_truth_answer": "To detect change over time that may result from land-based anthropogenic disturbances.",
+      "ground_truth_chunks": [
+        "The goal of coral reef monitoring for the American Samoa Environmental Protection Agency is to detect change over time that may result from land-based anthropogenic disturbances.",
+        "This study differs from previous work because it was designed to assess the impacts of NPS pollution on reef communities around Tutuila Island."
+      ]
+    },
+    {
+      "record_id": "4b79d6b3cbd18b5d79accc73",
+      "paper_id": "Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS",
+      "source_path": "output/Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS.md",
+      "section_heading": "2.1. STUDY LOCATION",
+      "section_start_line": 23,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what depth were surveys completed at each monitoring site?",
+      "ground_truth_answer": "Surveys were completed at a uniform depth of 9–11 m at each site.",
+      "ground_truth_chunks": [
+        "At each site, surveys were completed at a uniform depth of 9–11 m."
+      ]
+    },
+    {
+      "record_id": "bb14fd22924e74fab9096948",
+      "paper_id": "Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS",
+      "source_path": "output/Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS.md",
+      "section_heading": "2.3. CORAL COMMUNITIES",
+      "section_start_line": 31,
+      "section_end_line": 67,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were geometric diameters (z) of coral colonies calculated in section 2.3?",
+      "ground_truth_answer": "Geometric diameters (z) were calculated as the square root of the product of the two measured diameters: z(cm) = (xy)^{1/2}, where x and y are the diameters of each coral colony.",
+      "ground_truth_chunks": [
+        "Geometric diameters (*z*) were calculated based upon the geometric formula:\n\n$$z\\left(\\mathrm{cm}\\right) = (xy)^{1/2} \\tag{1}$$",
+        "where (*x*) and (*y*) are the diameters of each coral colony."
+      ]
+    },
+    {
+      "record_id": "e6504ec978159c8833f4be8c",
+      "paper_id": "Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS",
+      "source_path": "output/Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS.md",
+      "section_heading": "2.6. DATA ANALYSIS",
+      "section_start_line": 76,
+      "section_end_line": 83,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were relative similarities among sites based on abundances of all benthic organisms graphically represented?",
+      "ground_truth_answer": "They were graphically represented using multi-dimensional scaling (MDS) applied to a similarity matrix created from abundances via multivariate statistical software (PrimerR).",
+      "ground_truth_chunks": [
+        "Abundances were used to create a similarity matrix using multivariate statistical software (Primer<sup>R</sup> ).",
+        "This matrix represents relative similarities among sites based upon abundances of all benthic organisms, which was graphically represented using multi-dimensional scaling (MDS) (Clarke and Warwick, 2001)."
+      ]
+    },
+    {
+      "record_id": "49d3b6ac8a30cc486911ea68",
+      "paper_id": "Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS",
+      "source_path": "output/Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS.md",
+      "section_heading": "3.1. BENTHIC COMMUNITIES",
+      "section_start_line": 86,
+      "section_end_line": 99,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which survey site was distinct from all other monitoring locations according to the MDS results?",
+      "ground_truth_answer": "Fagaalu (Stress level = 0.01).",
+      "ground_truth_chunks": [
+        "The MDS results show that Fagaalu is distinct from all other monitoring locations (Stress level = 0.01) (Figure 3).",
+        "Of the remaining 5 sites only Masefau showed affinity with Fagaalu, however, at a much smaller scale (Figure 3)."
+      ]
+    },
+    {
+      "record_id": "b490e326eb7dcec727c073de",
+      "paper_id": "Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS",
+      "source_path": "output/Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS.md",
+      "section_heading": "3.2. CORAL COMMUNITIES",
+      "section_start_line": 100,
+      "section_end_line": 121,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral species were recorded from all six sites visited?",
+      "ground_truth_answer": "A total of 120 coral species were recorded.",
+      "ground_truth_chunks": [
+        "A total of 120 coral species were recorded from all six sites visited, which represents approximately 30%–40% of the total number found in American Samoa"
+      ]
+    },
+    {
+      "record_id": "2cb67510a14ec1201ff5df72",
+      "paper_id": "Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS",
+      "source_path": "output/Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS.md",
+      "section_heading": "A1.1. Introduction and Methods",
+      "section_start_line": 154,
+      "section_end_line": 184,
+      "model": "openai:gpt-4o-mini",
+      "question": "What two indirect measures of water quality (biocriteria) were used in this assessment?",
+      "ground_truth_answer": "The benthic community and the coral community.",
+      "ground_truth_chunks": [
+        "Two indirect measures of the water quality, or biocriteria, were used to make these assessments: (1) the benthic community, and (2) the coral community (see methods section of report for details)."
+      ]
+    },
+    {
+      "record_id": "a65b7d16adf4bb99869a188a",
+      "paper_id": "Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS",
+      "source_path": "output/Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS.md",
+      "section_heading": "TABLE A3",
+      "section_start_line": 185,
+      "section_end_line": 200,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which site in TABLE A3 is designated as 'Not supporting' for aquatic life use?",
+      "ground_truth_answer": "Fagaalu",
+      "ground_truth_chunks": [
+        "| Fagaalu   | Not supporting                     |"
+      ]
+    },
+    {
+      "record_id": "27a2ff19af5ba24551bcf9dd",
+      "paper_id": "Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS",
+      "source_path": "output/Houk-2005-Assess.NPS.pollution.reefs.AS/Houk-2005-Assess.NPS.pollution.reefs.AS.md",
+      "section_heading": "A1.2. Results and Discussion",
+      "section_start_line": 201,
+      "section_end_line": 204,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which site resulted in a non-supportive ranking?",
+      "ground_truth_answer": "Fagaalu.",
+      "ground_truth_chunks": [
+        "All sites are partially supportive except Fagaalu, which resulted in a non-supportive ranking.",
+        "The results suggest that only one site, Aoa, is close to being fully supportive (Tables A2 and A3)."
+      ]
+    }
+  ],
+  "failures": []
+}

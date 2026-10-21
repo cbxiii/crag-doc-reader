@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS.md",
+  "source_sha256": "2571ca948ecd4d0ea596a68df2bd1758ced0bfa545756b13ee61b192665ad957",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "43f1f74f4b6b988ecde8f99d",
+      "paper_id": "Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS",
+      "source_path": "output/Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS.md",
+      "section_heading": "PREFACE",
+      "section_start_line": 11,
+      "section_end_line": 30,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who drowned during a field survey in Sogi in late January 2003?",
+      "ground_truth_answer": "Leland Patrick Yandall, Fisheries Biologist within DMWR.",
+      "ground_truth_chunks": [
+        "The field sampling used to study the natural population was stopped in late January 2003, only 4 months after its implementation. In the night between the 23<sup>rd</sup> and the 24<sup>th</sup> of January 2003, Leland Patrick Yandall, Fisheries Biologist within DMWR, drowned during a field survey in Sogi.",
+        "Then, Jack's girlfriend called me and said that Jack was ok but Lee was dead."
+      ]
+    },
+    {
+      "record_id": "c6336fb3dbd7903721a124b7",
+      "paper_id": "Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS",
+      "source_path": "output/Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS.md",
+      "section_heading": "3.1. Species",
+      "section_start_line": 124,
+      "section_end_line": 127,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species of spiny lobsters are found in American Samoan shallow waters?",
+      "ground_truth_answer": "Panulirus penicillatus and Panulirus versicolor.",
+      "ground_truth_chunks": [
+        "There are, in American Samoan shallow waters, two species of spiny lobsters (ula sami) *Panulirus penicillatus* (Olivier, 1791) and *Panulirus versicolor* (Latreille, 1804), and two species of slipper lobster (papata) *Parribacus caledonicus* Holthuis, 1960, and *Parribacus antarcticus* (Lund, 1793)."
+      ]
+    },
+    {
+      "record_id": "2c25874b99f5c91e0770ca8c",
+      "paper_id": "Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS",
+      "source_path": "output/Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS.md",
+      "section_heading": "3.3. Larval/planktonic phase",
+      "section_start_line": 205,
+      "section_end_line": 216,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to section 3.3, what are the reported durations of the larval phase for spiny lobsters and for slipper lobsters?",
+      "ground_truth_answer": "Spiny lobsters: from 6 to 12 months depending on species, and even 24 months for Jasus edwardsii; slipper lobsters: from 1 to 9 months.",
+      "ground_truth_chunks": [
+        "The outstanding feature in the life history of the Palinuroidea is the exceptional duration of their larval phase, which varies among spiny lobsters from 6 to 12 months according to the species (Phillips & Sastry, 1980; Booth & Phillips, 1994) and even 24 months for Jasus e dwardsii (Lesser, 1978), a species o ccurring in New Zealand and South Australia, and from 1 to 9 months for slipper lobsters (Sims, 1965; Robertson, 1968a,b, 1969a,b; Takahashi & Saisho, 1978; Ito & Lucas, 1990; Marinovic et al., 1994; Mikami & Greenwood, 1997).",
+        "When phyllosomata have reached the last larval stage, have enough body reserves, and may be after stimulation from a coastal signal (Booth, 1986; Phillips & McWilliam, 1986a; Booth & Phillips, 1994; McWilliam & Phillips, 1997), they metamorphose into post-larvae called nisto for slipper lobsters and puerulus for spiny lobsters (Lyons, 1970)."
+      ]
+    },
+    {
+      "record_id": "5b7473586884254e0b77efb4",
+      "paper_id": "Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS",
+      "source_path": "output/Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS.md",
+      "section_heading": "4. STUDY OF THE AMERICAN SAMOAN LOBSTER POPULATION",
+      "section_start_line": 263,
+      "section_end_line": 268,
+      "model": "openai:gpt-4o-mini",
+      "question": "Into what two parts did the author divide the study of the American Samoan lobster population?",
+      "ground_truth_answer": "A field study to determine biological and population characteristics (growth, density, behavior, fecundity, habitat, natural and fishing mortalities etc.), and a landings survey of the commercial fishery through market surveys and by checking imports from other islands.",
+      "ground_truth_chunks": [
+        "I divided the study in two parts, one made in the field to determine biological and population characteristics (growth, density, behavior, fecundity, habitat, natural and fishing mortalities etc), and one called landings survey which consisted of a study of the commercial fishery through market surveys, and by checking imports from other islands.",
+        "Sampling protocols, including market and field surveys had been approved by Dr. Chris Evans, former Chief Biologist at DMWR, who wrote the initial project proposal."
+      ]
+    },
+    {
+      "record_id": "99a7663f418f74f5d24cbdaa",
+      "paper_id": "Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS",
+      "source_path": "output/Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS.md",
+      "section_heading": "4.1.2. Study of the commercial fishery",
+      "section_start_line": 311,
+      "section_end_line": 339,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why were market surveys done early in the morning?",
+      "ground_truth_answer": "For two reasons: fishermen bring in their catches in the morning allowing data collectors to meet and interview them about the fishing party, and lobster measurement is a long process so doing surveys early avoids impeding the fishermen's work.",
+      "ground_truth_chunks": [
+        "Market surveys were done early in the morning, for two reasons. First, the fishermen bring in their catches in the morning, and the data collectors can meet and interview them in order to obtain information about the fishing party: fishing site, number of divers, duration etc (Figure 9). Secondly, lobster measurement is a long process and data collectors must not impede their work, so this is avoided by doing the market survey early."
+      ]
+    },
+    {
+      "record_id": "6209ea3058ce62083b93d53d",
+      "paper_id": "Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS",
+      "source_path": "output/Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS.md",
+      "section_heading": "4.2.2.3. Comparisons of average length and CPUE between field, 1999 & 2002-2003 market samples",
+      "section_start_line": 497,
+      "section_end_line": 524,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did the mean size of Panulirus penicillatus in commercial landings increase or decrease between 1999 and 2002-2003 for both males and females?",
+      "ground_truth_answer": "The mean size decreased for both males and females between 1999 and 2002-2003.",
+      "ground_truth_chunks": [
+        "A t-Student (independent variables) has been used to compare the average length of *Panulirus penicillatus* between the two market samples (1999, both by scuba and free-diving, and 2002-2003), for both males and females (Figure 15 & 16).",
+        "Analysis indicates that for both males and females, the mean size of *P. penicillatus* decreased between 1999 and 2003-2003 in the commercial landings."
+      ]
+    },
+    {
+      "record_id": "7cf8695b81c69cf1e7145ec9",
+      "paper_id": "Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS",
+      "source_path": "output/Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS.md",
+      "section_heading": "4.3.1. Catch Composition",
+      "section_start_line": 605,
+      "section_end_line": 616,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the estimated total landings of lobsters in Tutuila between November 2002 and October 2003?",
+      "ground_truth_answer": "An estimated 576 kg (1,271 lb) (mean value), though this estimate should be used with caution because the expansion ignored the recreation/subsistence fishery and the number of good weather days.",
+      "ground_truth_chunks": [
+        "As a function of the number of days sampled at markets during the survey period versus the total week days per year, we estimated to 576 kg or 1271 lb (mean value) to be the total landings of lobsters in Tutuila between November 2002 and October 2003.",
+        "This value should be used with caution, since the expansion ignored the recreation/subsistence fishery, and the number of good weather days."
+      ]
+    },
+    {
+      "record_id": "24005ffea8c700e3ab960bab",
+      "paper_id": "Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS",
+      "source_path": "output/Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS.md",
+      "section_heading": "4.3.5. Growth, mortality and Relative Yield per Recruit model",
+      "section_start_line": 666,
+      "section_end_line": 711,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does the section predict will happen to male Yield Per Recruit (YPR) if the regulation CL' at 7.94 cm (3 1/8 in) is applied?",
+      "ground_truth_answer": "The section predicts an increase in YPR for males.",
+      "ground_truth_chunks": [
+        "Because fishing effort is difficult to control in Pacific Islands (Pitcher, 1993) (quota, limited number of professionals...), management is mainly carried out with size-limits which regulate the length at recruitment.",
+        "Although no sign of overfishing is shown by analysis of the current situation, if the actual regulation (CL' at 7.94 cm or 3 1/8 in, see red circle in Figures 26 & 27) was applied, we predict an increasing of the YPR for males."
+      ]
+    },
+    {
+      "record_id": "6c2890221bc138506a3d9158",
+      "paper_id": "Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS",
+      "source_path": "output/Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS.md",
+      "section_heading": "Cons",
+      "section_start_line": 1030,
+      "section_end_line": 1036,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why might protecting berried females on Tutuila not noticeably increase the numbers of larvae settling there?",
+      "ground_truth_answer": "Because the long planktonic larval stage could cause lobsters hatched on Tutuila to drift away to other islands before they are ready to settle, so local protection may not increase local settlement.",
+      "ground_truth_chunks": [
+        "- 2. The long planktonic larval stage of spiny lobsters could mean that lobsters hatched here will drift away to other islands before they are ready to settle. Protecting berried females on Tutuila may not noticeably increase the numbers of larvae settling here. However, it is not as clear for slipper lobsters with smaller geographic distributions, and long planktonic development but unknown larval behavior (Coutures, 2000a)."
+      ]
+    },
+    {
+      "record_id": "f119b72421d8d630061fc74d",
+      "paper_id": "Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS",
+      "source_path": "output/Coutures-2003-Bio.artisanal.lobsters.AS/Coutures-2003-Bio.artisanal.lobsters.AS.md",
+      "section_heading": "Article 24.0828",
+      "section_start_line": 1094,
+      "section_end_line": 1114,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the proposed additions in Article 24.0828, what measuring device must fishermen carry during fishing trips to verify spiny lobster size?",
+      "ground_truth_answer": "Fishermen must carry calipers or a gauge allowing them to check if the spiny lobsters caught are undersized.",
+      "ground_truth_chunks": [
+        "After the paragraph about the limit size (# b in the ms), a new paragraph must be added:\n\nd) Fishermen must carry with them calipers or a gauge, allowing them to check if the spiny lobsters caught are undersized.",
+        "Fishermen must have a measuring device to check the length of lobster during the fishing trip."
+      ]
+    }
+  ],
+  "failures": []
+}

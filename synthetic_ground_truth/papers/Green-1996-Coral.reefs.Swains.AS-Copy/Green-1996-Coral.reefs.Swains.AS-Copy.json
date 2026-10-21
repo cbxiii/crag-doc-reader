@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Green-1996-Coral.reefs.Swains.AS-Copy/Green-1996-Coral.reefs.Swains.AS-Copy.md",
+  "source_sha256": "fa5fafcd4db0ae56e074f593bc9d8b18a1cbf7c68022c60bdc908b2558475460",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "807d99da10bcad8198a9abe4",
+      "paper_id": "Green-1996-Coral.reefs.Swains.AS-Copy/Green-1996-Coral.reefs.Swains.AS-Copy",
+      "source_path": "output/Green-1996-Coral.reefs.Swains.AS-Copy/Green-1996-Coral.reefs.Swains.AS-Copy.md",
+      "section_heading": "THE CORAL REEFS OF SWAINS ISLAND, AMERICAN SAMOA",
+      "section_start_line": 1,
+      "section_end_line": 30,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the total number of fish species recorded at Swains Island after combining the 1996 study with previous surveys?",
+      "ground_truth_answer": "169 fish species.",
+      "ground_truth_chunks": [
+        "In fact, this study recorded a total of 131 fish species on the reefs at Swains. Previous surveys of the island also recorded an additional 32 species that were not seen on this survey, bringing the total number of fish species recorded at Swains to 169."
+      ]
+    }
+  ],
+  "failures": []
+}

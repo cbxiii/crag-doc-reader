@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Woodworth 1903 palolo worm of Samoa/Woodworth 1903 palolo worm of Samoa.md",
+  "source_sha256": "b5dd2d142fb682dbb57a5bf7d6c6767c41ecbed0fc87ea236648d216eedf48a0",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "5e3c173045ce3e43f7c2cb09",
+      "paper_id": "Woodworth 1903 palolo worm of Samoa/Woodworth 1903 palolo worm of Samoa",
+      "source_path": "output/Woodworth 1903 palolo worm of Samoa/Woodworth 1903 palolo worm of Samoa.md",
+      "section_heading": "W. McM. WOODWORTH.",
+      "section_start_line": 29,
+      "section_end_line": 99,
+      "model": "openai:gpt-4o-mini",
+      "question": "What did Ehlers conclude the 'Palolo' to be?",
+      "ground_truth_answer": "Ehlers concluded the \"Palolo\" to be the epitokal posterior portion of Eunice viridis (Gray).",
+      "ground_truth_chunks": [
+        "Fried laender succeeded in obtaining from the reef rock at Samatau several specimens of \" Palolo \" together with the head ends of an annelid of different appearance and much larger size belonging to the genus Eunice.",
+        "His material was afterwards studied by Ehlers 3 who recognized an extreme case of sexual dimorphism and showed the \" Palolo\" to be the epitokal posterior portion of Eunice viridis (Gray)."
+      ]
+    }
+  ],
+  "failures": []
+}

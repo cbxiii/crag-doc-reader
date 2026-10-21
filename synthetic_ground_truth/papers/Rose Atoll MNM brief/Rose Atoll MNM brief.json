@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Rose Atoll MNM brief/Rose Atoll MNM brief.md",
+  "source_sha256": "06d907140a9f3c344a2b35d843eb9f3c5219abf6a5c634b6575f72c3c3eafc4f",
+  "status": "complete",
+  "selected_section_count": 4,
+  "successful_record_count": 4,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "44d5690fefa609f7786c2885",
+      "paper_id": "Rose Atoll MNM brief/Rose Atoll MNM brief",
+      "source_path": "output/Rose Atoll MNM brief/Rose Atoll MNM brief.md",
+      "section_heading": "Rose Atoll MNM brief.md",
+      "section_start_line": 1,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the approximate total area (in square miles) of Rose Atoll Marine National Monument?",
+      "ground_truth_answer": "Approximately 13,451 square miles.",
+      "ground_truth_chunks": [
+        "Rose Atoll Marine National Monument consists of approximately 13,451 square miles of emergent and submerged lands and waters of and around Rose Atoll in American Samoa.",
+        "It includes Rose Atoll National Wildlife Refuge, with approximately 21 acres of emergent land and 1,600 acres of lagoon."
+      ]
+    },
+    {
+      "record_id": "83e04390f37c4ae2bb9559af",
+      "paper_id": "Rose Atoll MNM brief/Rose Atoll MNM brief",
+      "source_path": "output/Rose Atoll MNM brief/Rose Atoll MNM brief.md",
+      "section_heading": "Human History",
+      "section_start_line": 19,
+      "section_end_line": 36,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who was the first scientist to land on Rose Atoll and in what year did he explore it?",
+      "ground_truth_answer": "The first scientist was Dr. Charles Pickering, who explored the atoll in 1839.",
+      "ground_truth_chunks": [
+        "The first scientist to land on the island was probably Dr. Charles Pickering, a physician naturalist who explored the atoll in 1839."
+      ]
+    },
+    {
+      "record_id": "3d73f2bf98836c8f839dec9f",
+      "paper_id": "Rose Atoll MNM brief/Rose Atoll MNM brief",
+      "source_path": "output/Rose Atoll MNM brief/Rose Atoll MNM brief.md",
+      "section_heading": "Marine Resources",
+      "section_start_line": 37,
+      "section_end_line": 62,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral species are currently reported at Rose Atoll?",
+      "ground_truth_answer": "113 species.",
+      "ground_truth_chunks": [
+        "Coral communities at Rose presently include 113 species and are distinctive and quite different from those of the other islands in Samoa."
+      ]
+    },
+    {
+      "record_id": "88d1310b4714d8d5838a4b0f",
+      "paper_id": "Rose Atoll MNM brief/Rose Atoll MNM brief",
+      "source_path": "output/Rose Atoll MNM brief/Rose Atoll MNM brief.md",
+      "section_heading": "Terrestrial Resources",
+      "section_start_line": 63,
+      "section_end_line": 83,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the seabird population of American Samoa resides on Rose Atoll?",
+      "ground_truth_answer": "Approximately 97 percent.",
+      "ground_truth_chunks": [
+        "Rose Atoll is the most important seabird colony in the region, since approximately 97 percent of the seabird population of American Samoa resides on Rose.",
+        "The two islands provide important nesting and roosting habitat for 12 species of federally protected migratory seabirds."
+      ]
+    }
+  ],
+  "failures": []
+}

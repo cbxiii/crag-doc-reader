@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average.md",
+  "source_sha256": "a8dc5e933945f6a8c012b590045f4553494ef789fb4af1963d8932f2a3578002",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "877a8fd651247dcbc71bc223",
+      "paper_id": "Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average",
+      "source_path": "output/Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average.md",
+      "section_heading": "Sea Level Rise in the Samoan Islands Escalated by Viscoelastic Relaxation After the 2009 Samoa-Tonga Earthquake",
+      "section_start_line": 35,
+      "section_end_line": 42,
+      "model": "openai:gpt-4o-mini",
+      "question": "What Maxwell viscosity for the asthenosphere did the viscoelastic model use to explain postseismic deformation after the 2009 Samoa-Tonga earthquake?",
+      "ground_truth_answer": "A Maxwell viscosity of 2-3×10^18 Pa s for the asthenosphere.",
+      "ground_truth_chunks": [
+        "A simple viscoelastic model with a Maxwell viscosity of 2-3×10<sup>18</sup> Pa s for the asthenosphere explained postseismic deformation at nearby GPS sites as well as Gravity Recovery And Climate Experiment gravity change."
+      ]
+    },
+    {
+      "record_id": "6fd8cd880b9eab4e931e4a93",
+      "paper_id": "Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average",
+      "source_path": "output/Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 43,
+      "section_end_line": 54,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the moment magnitude (Mw) of each subevent in the 29 September 2009 Samoa-Tonga earthquake doublet?",
+      "ground_truth_answer": "Each subevent had a moment magnitude of about Mw 8.0 to 8.1.",
+      "ground_truth_chunks": [
+        "On 29 September 2009, a complex earthquake doublet with a moment magnitude of  $M_w$  8.1 occurred at the northern end of the Tonga subduction zone.",
+        "The moment magnitudes of both subevents were about the same and ranged from  $M_w$  8.0 to 8.1 for each subevent (Fan et al., 2016)."
+      ]
+    },
+    {
+      "record_id": "164c8156855a78779808df0c",
+      "paper_id": "Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average",
+      "source_path": "output/Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average.md",
+      "section_heading": "2. GRACE Measurements of Gravity Change",
+      "section_start_line": 55,
+      "section_end_line": 64,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the estimated rate of increase of the central gravity anomaly between 2009 and 2016?",
+      "ground_truth_answer": "The central gravity anomaly increased at a rate of 0.5  ±  0.1  μGal/year between 2009 and 2016 (CSR and ITSG solutions); GFZ and JPL solutions gave a somewhat larger and noisier estimate of 0.6  ±  0.2  μGal/year.",
+      "ground_truth_chunks": [
+        "The central gravity anomaly increased at the rate of 0.5  $\\pm$  0.1  $\\mu$ Gal/year between 2009 and 2016 (the rate of the gravity increase was determined to be 0.5  $\\pm$  0.1  $\\mu$ Gal/year from CSR and ITSG gravity solutions, while it is somewhat larger and noisier to be 0.6  $\\pm$  0.2  $\\mu$ Gal/year from the other GFZ and JPL solutions).",
+        "The monthly gravity data noise is estimated to be  $\\sim$ 1.3  $\\mu$ Gal for CSR and ITG solutions, while it is  $\\sim$ 2.4  $\\mu$ Gal for GFZ and JPL solutions."
+      ]
+    },
+    {
+      "record_id": "1865b8d52b77d3b237407e02",
+      "paper_id": "Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average",
+      "source_path": "output/Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average.md",
+      "section_heading": "3.1. What Does the GRACE Gravity Observation Imply?",
+      "section_start_line": 67,
+      "section_end_line": 94,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does the positive postseismic gravity anomaly observed by GRACE after the 2009 event imply about the relative contributions of the megathrust and the normal fault to large-scale viscoelastic deformation?",
+      "ground_truth_answer": "The positive anomaly indicates a greater contribution by the megathrust faulting event than by the normal faulting event for large-scale viscoelastic deformation, suggesting the megathrust slip extended down to the asthenosphere while the normal fault terminated within the elastic lithosphere.",
+      "ground_truth_chunks": [
+        "The positive postseismic gravity anomaly from GRACE after the 2009 event indicates a greater contribution by the megathrust faulting event than by the normal faulting event for large‐scale viscoelastic deformation.",
+        "This suggests that the megathrust slip extended down to the asthenosphere, while the normal fault was terminated within the elastic lithosphere, so that the broad viscoelastic uplift is more effectively promoted as seen from GRACE data."
+      ]
+    },
+    {
+      "record_id": "ea4afa60fd4fc62d1a4d1ede",
+      "paper_id": "Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average",
+      "source_path": "output/Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average.md",
+      "section_heading": "3.2. Dislocation Models of the 2009 Earthquake",
+      "section_start_line": 95,
+      "section_end_line": 108,
+      "model": "openai:gpt-4o-mini",
+      "question": "What slip magnitudes and rakes were determined for the thrust and normal fault planes in the new dislocation solutions?",
+      "ground_truth_answer": "The new solutions show slip of 4.7 m and rake of 80° on the thrust plane, and slip of 10.7 m and rake of -43° on the normal fault plane.",
+      "ground_truth_chunks": [
+        "The new solutions present slip of 4.7 m and rake of 80° on the thrust plane and slip of 10.7 m and rake of -43° on the normal fault plane.",
+        "The corresponding moment magnitude is  $M_w$  8.1 and 8.0, respectively, for the megathrust and normal subevent faulting."
+      ]
+    },
+    {
+      "record_id": "f2d026b222cd06473894ada4",
+      "paper_id": "Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average",
+      "source_path": "output/Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average.md",
+      "section_heading": "3.3. Viscoelastic Relaxation Models of the Observed Gravity Change",
+      "section_start_line": 109,
+      "section_end_line": 126,
+      "model": "openai:gpt-4o-mini",
+      "question": "What steady-state (Maxwell) asthenosphere viscosity range does section 3.3 state is most consistent with the GRACE observations?",
+      "ground_truth_answer": "A steady-state (Maxwell) viscosity of 2–3×10^18 Pa s.",
+      "ground_truth_chunks": [
+        "The GRACE observations (Figure 1) are most consistent with any model with the steady state viscosity of  $2-3\\times10^{18}$  Pa s.",
+        "starting at 62-km depth and a steady state (Maxwell) viscosity of  $2\\text{--}3\\times10^{18}$  Pa s, the viscoelastic gravity changes are predicted to be as large as 3  $\\mu$ Gal over 6 years."
+      ]
+    },
+    {
+      "record_id": "0e286efc4085c23bf431dc0e",
+      "paper_id": "Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average",
+      "source_path": "output/Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average.md",
+      "section_heading": "4. GPS Measurements of Postseismic Deformation",
+      "section_start_line": 127,
+      "section_end_line": 158,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which continuous GPS sites recorded the 2009 postseismic deformation signals unambiguously?",
+      "ground_truth_answer": "FALE, SAMO, ASPA, and NIUM.",
+      "ground_truth_chunks": [
+        "Four GPS sites (FALE, SAMO, ASPA, and NIUM) recorded the 2009 postseismic deformation signals unambiguously.",
+        "GPS data indicate that, coseismically, three stations north of the epicenter (FALE, SAMO, and ASPA) moved northeast and the site southeast of the epicenter (NIUM) moved northwest; and all sites subsided."
+      ]
+    },
+    {
+      "record_id": "01e503332e2cc05524f225da",
+      "paper_id": "Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average",
+      "source_path": "output/Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average.md",
+      "section_heading": "5. Tide Gauge and Satellite Altimeter Measurements of Sea Level Change",
+      "section_start_line": 159,
+      "section_end_line": 184,
+      "model": "openai:gpt-4o-mini",
+      "question": "By how much did the relative sea level rise in American Samoa exceed that in Samoa after the 2009 earthquake?",
+      "ground_truth_answer": "The relative sea level rise in American Samoa was faster by about 7–9 mm/year compared to Samoa after the 2009 earthquake.",
+      "ground_truth_chunks": [
+        "(d) The differences in tide gauge measurements between the two islands (blue) indicate, however, that the relative sea level rise due to land subsidence is faster in American Samoa by 7–9 mm/year than in Samoa after the 2009 earthquake. This is due to a greater subsidence in American Samoa, as evidenced in GPS data for ASPA minus SAMO (red).",
+        "In Samoa and American Samoa, both satellite altimeter and tide gauge data consistently recorded interannual ocean variability such as the El Niño–Southern Oscillation (note that the expected geoid surface (sea level) increase of ~0.1 mm/year from the GRACE gravity trend of 0.5  $\\mu$ Gal/year is too small compared to the natural ocean variability). However, the tide gauge time series (relative sea level) departed from the altimeter data (geocentric sea level) after the 2009 earthquake (Figures 9a and 9b). GPS recorded postseismic land subsidence of 8–10 mm/year in Samoa and 16 mm/year in American Samoa over 8 years after the earthquakes (Figure 7)."
+      ]
+    },
+    {
+      "record_id": "96467fe0ae75b3577e877be5",
+      "paper_id": "Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average",
+      "source_path": "output/Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average.md",
+      "section_heading": "6. Implication on Future Flooding at American Samoa",
+      "section_start_line": 185,
+      "section_end_line": 208,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under Scenario 2 (including earthquake-induced subsidence), by what year do the authors predict that tides at Pago Pago will routinely reach minor nuisance flooding levels?",
+      "ground_truth_answer": "2026.",
+      "ground_truth_chunks": [
+        "In contrast, with Scenario 2, which accounts for the earthquake‐induced subsidence, the predicted tide will reach minor flooding levels routinely by 2026.",
+        "To the extent that the threshold of Sweet et al. (2018) is a legitimate proxy for tide‐induced nuisance flooding on American Samoa and the simple rheology model we used is acceptable, we can predict that the island residents will be routinely dealing with this type of flooding as early as 2026."
+      ]
+    },
+    {
+      "record_id": "440e00549b9496662b7bb732",
+      "paper_id": "Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average",
+      "source_path": "output/Han et al. 2009 American Samoa sea level 5 X global average/Han et al. 2009 American Samoa sea level 5 X global average.md",
+      "section_heading": "7. Discussion and Conclusion",
+      "section_start_line": 209,
+      "section_end_line": 218,
+      "model": "openai:gpt-4o-mini",
+      "question": "What total sea level rise throughout this century is predicted for the Samoan Islands due to postseismic subsidence after the 2009 earthquake?",
+      "ground_truth_answer": "A total sea level rise of 30–40 cm is predicted throughout this century due to postseismic subsidence following the 2009 earthquake.",
+      "ground_truth_chunks": [
+        "In fact, a total sea level rise of 30–40 cm is predicted throughout this century, as the solid Earth adjusts to the stress change after the 2009 earthquake (Figure 11).",
+        "This is a significant addition to total sea level rise and is as much as or even larger than Intergovernmental Panel on Climate Change projected rise in Samoa due to climate change under the highest  $CO_2$  emission scenario (Australian Bureau of Meteorology and CSIRO, 2011)."
+      ]
+    }
+  ],
+  "failures": []
+}

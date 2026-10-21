@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/GCC Final Report text RWO 15/GCC Final Report text RWO 15.md",
+  "source_sha256": "38c6e924edeb199be01c80bd93174d4f87c4fc899037ba7e2483968a154efe95",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "f2a52e13eeb3fc30069e8e6f",
+      "paper_id": "GCC Final Report text RWO 15/GCC Final Report text RWO 15",
+      "source_path": "output/GCC Final Report text RWO 15/GCC Final Report text RWO 15.md",
+      "section_heading": "EXECUTIVE SUMMARY",
+      "section_start_line": 7,
+      "section_end_line": 10,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many species of corals on the reef flat at Ofu Island tolerate extreme daily fluctuations in environmental conditions?",
+      "ground_truth_answer": "About 80 species.",
+      "ground_truth_chunks": [
+        "About 80 species of corals on the reef flat coral communities on Ofu Island near American Samoa tolerate extreme daily fluctuations in water temperature, seawater pH, and levels of dissolved oxygen."
+      ]
+    },
+    {
+      "record_id": "5d39591f8888507d94ab7fce",
+      "paper_id": "GCC Final Report text RWO 15/GCC Final Report text RWO 15",
+      "source_path": "output/GCC Final Report text RWO 15/GCC Final Report text RWO 15.md",
+      "section_heading": "Accomplishments",
+      "section_start_line": 29,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many oral presentations and how many posters were hosted in the mini-symposium on Reef Resilience?",
+      "ground_truth_answer": "The mini-symposium on Reef Resilience hosted 28 oral presentations and six posters.",
+      "ground_truth_chunks": [
+        "This project at Ofu compelled the organizers of the 11th International Coral Reef Symposium to request that I and Barbara Brown, the preeminent expert on mechanisms of coral resilience, organize a mini-symposium on Reef Resilience. Our session on Reef Resilience hosted 28 oral presentations and six posters."
+      ]
+    },
+    {
+      "record_id": "6a58e648fba681b7bd483af5",
+      "paper_id": "GCC Final Report text RWO 15/GCC Final Report text RWO 15",
+      "source_path": "output/GCC Final Report text RWO 15/GCC Final Report text RWO 15.md",
+      "section_heading": "Oral presentations:",
+      "section_start_line": 69,
+      "section_end_line": 82,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which oral presentation was associated with a successful defense of a Master of Science in Oceanography thesis and partial support from this project?",
+      "ground_truth_answer": "Boeing, B.'s presentation on 2 February 2007 titled \"A reanalysis of the oxidative stress paradigm of coral bleaching: the effects of nitric oxide\"; it is noted as \"successfully defended his master of Science in Oceanography thesis, partially supported by this project.\"",
+      "ground_truth_chunks": [
+        "Boeing, B. \"A reanalysis of the oxidative stress paradigm of coral bleaching: the effects of nitric oxide\" 2 February 2007 (successfully defended his master of Science in Oceanography thesis, partially supported by this project)"
+      ]
+    },
+    {
+      "record_id": "bb2a00bfcf27025eee99add1",
+      "paper_id": "GCC Final Report text RWO 15/GCC Final Report text RWO 15",
+      "source_path": "output/GCC Final Report text RWO 15/GCC Final Report text RWO 15.md",
+      "section_heading": "Background",
+      "section_start_line": 105,
+      "section_end_line": 170,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the estimated global potential yield of coral-reef fisheries per year?",
+      "ground_truth_answer": "9 million metric tons per year (nearly 10 % of the global marine fisheries from about 0.089 % of the ocean surface).",
+      "ground_truth_chunks": [
+        "Although coral reefs occupy less than one thousandth of the ocean surface area, they have an especially important role in the shape of the surface of Earth, the chemistry of the ocean, and marine fisheries yield.",
+        "with the global potential for coral-reef fisheries estimated to be 9 million metric tons per year, or nearly 10 % of the global marine fisheries from about 0.089 % of the ocean surface."
+      ]
+    },
+    {
+      "record_id": "c0a42c3b1c74d14fe8f79f59",
+      "paper_id": "GCC Final Report text RWO 15/GCC Final Report text RWO 15",
+      "source_path": "output/GCC Final Report text RWO 15/GCC Final Report text RWO 15.md",
+      "section_heading": "3) Development of methods to analyze antioxidant enzymes and heat shock proteins",
+      "section_start_line": 209,
+      "section_end_line": 222,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many individual coral cores were transplanted in August during the cooler season in American Samoa?",
+      "ground_truth_answer": "A total of 120 individual cores were transplanted in August.",
+      "ground_truth_chunks": [
+        "A total of 120 individual cores were transplanted in August, the cooler season in American Samoa, south of the equator."
+      ]
+    },
+    {
+      "record_id": "35073daba4cd3de2d7266e08",
+      "paper_id": "GCC Final Report text RWO 15/GCC Final Report text RWO 15",
+      "source_path": "output/GCC Final Report text RWO 15/GCC Final Report text RWO 15.md",
+      "section_heading": "5) Sampling of algal symbiont communities",
+      "section_start_line": 229,
+      "section_end_line": 232,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many zooxanthellae samples were collected in August and September 2004?",
+      "ground_truth_answer": "220 samples.",
+      "ground_truth_chunks": [
+        "Eric Brown, Greg Piniak, and Lance Smith collected 220 samples of zooxanthellae in August and September 2004, which included samples from about a dozen representative species, as well as from the source colonies Lance used for his forereef-lagoon transplant experiment."
+      ]
+    },
+    {
+      "record_id": "8395bb94a82784de8f362d8f",
+      "paper_id": "GCC Final Report text RWO 15/GCC Final Report text RWO 15",
+      "source_path": "output/GCC Final Report text RWO 15/GCC Final Report text RWO 15.md",
+      "section_heading": "8) Acclimatization of reef-building corals by shifting populations of their symbiotic zooxanthellae",
+      "section_start_line": 254,
+      "section_end_line": 259,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many total coral colonies were used in the double reciprocal transplant experiment?",
+      "ground_truth_answer": "A total of 40 colonies were used.",
+      "ground_truth_chunks": [
+        "The first part of the RTE was standard, in that 4 groups (5 individuals apiece) were used: 1) from Site A to Site A; 2) from Site A to Site B; 3) from Site B to Site B; and 4) from Site B to Site A.",
+        "So a total of 40 colonies were used for\n\nthe double RTE."
+      ]
+    },
+    {
+      "record_id": "8ca39b73d1bd457d53d0074d",
+      "paper_id": "GCC Final Report text RWO 15/GCC Final Report text RWO 15",
+      "source_path": "output/GCC Final Report text RWO 15/GCC Final Report text RWO 15.md",
+      "section_heading": "12) Population structure of Porites lobata on the forereef and lagoon in Ofu, American Samoa",
+      "section_start_line": 284,
+      "section_end_line": 292,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the ratio of sequence types AY320327.1 and AY320311.1 in cores A and B of lagoon colony 4?",
+      "ground_truth_answer": "In core A the ratio AY320327.1:AY320311.1 is 4:1; in core B it is 1:4.",
+      "ground_truth_chunks": [
+        "- 2. Each core contains more than one sequence type and there is overlap in the sequences found in cores from the same coral colony",
+        "- 3. The ratio of sequence types AY320327.1 (= L28, L31, L34, L36, L39) and AY320311.1 (L35, L40, L42, L43, L45) found in cores A and B of lagoon colony 4 is 4:1 and 1:4, respectively. L44 (similar to AY320318.1) is only found once, in core B."
+      ]
+    },
+    {
+      "record_id": "90ef0aab7f566ee31b99d035",
+      "paper_id": "GCC Final Report text RWO 15/GCC Final Report text RWO 15",
+      "source_path": "output/GCC Final Report text RWO 15/GCC Final Report text RWO 15.md",
+      "section_heading": "13) Global climate change microbial communities as a diagnostic tool?",
+      "section_start_line": 366,
+      "section_end_line": 385,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many of the DNA extractions were positive by PCR amplification for bacterial community DNA (16S rDNA genes)?",
+      "ground_truth_answer": "Of the 380 extractions, 155 mucus samples and 129 tissue samples (284 combined) were positive by PCR amplification for bacterial community DNA (16S rDNA genes).",
+      "ground_truth_chunks": [
+        "That makes for a total of 376 DNA extractions (mucus + tissue samples), plus 4 water controls (Sept 04 sample set to confirm mucus signal was not background water) = 380 DNA extractions.",
+        "Of those 380 extractions, 155 mucus samples and 129 tissue samples (284 combined) were positive by PCR amplification for bacterial community DNA (16S rDNA genes). Those 284 samples are being analyzed by DGGE (denaturing gel gradient electrophoresis) right now, so that we can compare bacterial community 'fingerprints' between (1) Individuals of the same coral species, (2) Different coral genera and species, (3) Pool 300 and Pool 400, and (4) mucus and tissue. This will take a couple of months to run all the gels and use the software to interpret the patterns."
+      ]
+    },
+    {
+      "record_id": "6ee6976533e1df8f073d3c51",
+      "paper_id": "GCC Final Report text RWO 15/GCC Final Report text RWO 15",
+      "source_path": "output/GCC Final Report text RWO 15/GCC Final Report text RWO 15.md",
+      "section_heading": "PERSONNEL and COLLABORATORS:",
+      "section_start_line": 438,
+      "section_end_line": 485,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Co-PI was responsible for molecular identification of algal symbiont communities and for training the resident Research Assistant in collecting, preserving, and shipping coral tissue specimens?",
+      "ground_truth_answer": "Co-PI Andrew C. Baker.",
+      "ground_truth_chunks": [
+        "Co-PI: Andrew C. Baker – Marine Biologist, Wildlife Conservation Society, and adjunct Assistant Professor, Center for Environmental Research and Conservation MC5557, Columbia University, 1200 Amsterdam Avenue, New York, NY 10027 telephone (212) 854-8184 fax (212) 854-8188 e-mail [abaker@wcs.org](mailto:abaker@wcs.org)",
+        "Responsibilities included molecular identification of algal symbiont communities in the moat and on the forereef. Also was responsible for training the resident Research assistant in the techniques of collecting, preserving and shipping coral tissue specimens."
+      ]
+    }
+  ],
+  "failures": []
+}

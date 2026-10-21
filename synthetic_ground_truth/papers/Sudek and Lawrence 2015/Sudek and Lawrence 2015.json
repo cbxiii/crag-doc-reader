@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Sudek and Lawrence 2015/Sudek and Lawrence 2015.md",
+  "source_sha256": "acf9dfc83ad8a70c5ad1822295dc80ceaf347ae0a119add18ae514913a7ce633",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "0536384a6ece9d59db7577aa",
+      "paper_id": "Sudek and Lawrence 2015/Sudek and Lawrence 2015",
+      "source_path": "output/Sudek and Lawrence 2015/Sudek and Lawrence 2015.md",
+      "section_heading": "1. Program Overview",
+      "section_start_line": 44,
+      "section_end_line": 61,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the primary objectives of the American Samoa Coral Reef Monitoring Program?",
+      "ground_truth_answer": "The primary objectives are: (1) Monitor the status and trends in the distribution and abundance of reef biota on reefs in American Samoa; and (2) Provide environmental managers and other decision makers with information that is pertinent to managing coral reefs in the territory.",
+      "ground_truth_chunks": [
+        "The primary objectives of the American Samoa Coral Reef Monitoring Program are to: (1) Monitor the status and trends in the distribution and abundance of reef biota on reefs in American Samoa, and (2) Provide environmental managers, as well as other decision makers, with information that is pertinent to managing coral reefs in the territory.",
+        "As a monitoring program, ASCRMP's goal is to document change i.e. where, how much, and what kind of changes take place at the various monitoring sites."
+      ]
+    },
+    {
+      "record_id": "f8de3f6cd1f4392489d75d30",
+      "paper_id": "Sudek and Lawrence 2015/Sudek and Lawrence 2015",
+      "source_path": "output/Sudek and Lawrence 2015/Sudek and Lawrence 2015.md",
+      "section_heading": "2.2 Fish survey methods",
+      "section_start_line": 80,
+      "section_end_line": 87,
+      "model": "openai:gpt-4o-mini",
+      "question": "What fish survey method was implemented in 2015 and how were individual fish counts conducted during that method?",
+      "ground_truth_answer": "In 2015 the surveys switched to Stationary Point Counts (SPCs): starting at 0 m and then every 20 m, divers conducted a 3-minute SPC within a 7.5 m radius (15 m diameter) cylinder. A total of 12 replicate SPCs were completed along the transect; each count had a 1-minute species enumeration followed by a tallying period in which divers recorded the number and estimated total length (to the nearest cm) of each fish, with small cryptic species searched for at the end and observations not present during tallying marked as “non-instantaneous.” Surveys were not conducted if horizontal visibility was < 7.5 m, and biomass was calculated using the standard length-weight equation.",
+      "ground_truth_chunks": [
+        "In 2015, the fish survey methods were altered to improve diver safety protocols in line with the updated DMWR Dive Safety Manual and in particular to ensure that the benthic ecologist and the fish ecologist were able to conduct the surveys in close proximity to each other. Survey methods were designed to increase data quality and make it more comparable to data collected in the territory by other monitoring programs such as the ASEPA coral reef monitoring program (Houk *et al.* 2013) and the NOAA CREP protocols (Heenan *et al*. 2014). Starting at 0m and then every 20m, a Stationary Point Count (SPC) is conducted in a 7.5m radius from the diver for 3 minutes. A total of 12 replicate SPCs are completed along the transect tape. Each SPC is a visually estimated 15m diameter cylindrical plot extending from the substrate to the limits of vertical visibility.",
+        "Each count consists of two components. The first of these is a 1 min species enumeration period in which the diver records the taxa of all species observed within their cylinder. At the end of the 1 min period, the diver begins the tallying portion of the count, systematically working through their species listing and recording the number and estimated size (total length, TL, to the nearest cm) of each individual fish. The tallying portion is conducted as a series of rapid visual sweeps of the plot, with one species-grouping counted per sweep. To the extent possible, the diver remains at the center of their cylinder throughout the count. However, small, generally site-attached and semi-cryptic species, which tend to be underrepresented in counts made by an observer remaining in the center of a 7.5-m radius cylinder, are left to the end of the tally period, at which time the observer swims through their plot area carefully searching for those species. In cases where a species is observed during the enumeration period but is not present in the cylinder during the tallying period, divers record their best estimates of size and number observed in the first encounter during the enumeration period and mark the data record as \"non-instantaneous.\" Surveys are not conducted if horizontal visibility is < 7.5 m, i.e., when observers cannot distinguish the edges of their cylinder. Biomass per fish is then calculated using the standard length-weight equation."
+      ]
+    },
+    {
+      "record_id": "0991325b19fcbf8fc8607d12",
+      "paper_id": "Sudek and Lawrence 2015/Sudek and Lawrence 2015",
+      "source_path": "output/Sudek and Lawrence 2015/Sudek and Lawrence 2015.md",
+      "section_heading": "4.2 Fish surveys",
+      "section_start_line": 152,
+      "section_end_line": 161,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why were the 2014 and 2015 fish survey data excluded?",
+      "ground_truth_answer": "The 2014 and 2015 data were excluded because these surveys were conducted during training for the Integrated Monitoring program.",
+      "ground_truth_chunks": [
+        "The 2014 and 2015 data were excluded due to these surveys conducted during training for the Integrated Monitoring program."
+      ]
+    },
+    {
+      "record_id": "3fc606aad6cc3e2246dd0170",
+      "paper_id": "Sudek and Lawrence 2015/Sudek and Lawrence 2015",
+      "source_path": "output/Sudek and Lawrence 2015/Sudek and Lawrence 2015.md",
+      "section_heading": "Fish Trophic Group Composition - North West Sector",
+      "section_start_line": 246,
+      "section_end_line": 259,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which trophic groups are described as the strongest drivers overlaid on the PCO plots in Figs 5.2.7 and 5.2.8?",
+      "ground_truth_answer": "Piscivores, Secondary consumers and Planktivores.",
+      "ground_truth_chunks": [
+        "Fig 5.2.7: PCO plot of mean total fish biomass (g/m<sup>2</sup> ) of the 12 CRMP monitoring sites from 2006 to 2011. Sites are colored by orientation (blue = South side of Tutuila, red = North side of Tutuila). Overlaid in blue are the strongest drivers of this relationship (Piscivores, Secondary consumers and Planktivores).",
+        "Fig 5.2.8: PCO plot of mean total fish biomass (g/m<sup>2</sup> ) of the 12 CRMP monitoring sites from 2006 to 2011. Sites are colored by anthropogenic impact (red = high, orange = medium, green = low). Overlaid in blue are the strongest drivers of this relationship (Piscivores, Secondary consumers and Planktivores)."
+      ]
+    },
+    {
+      "record_id": "07aa4bd3c923aa62d9389adb",
+      "paper_id": "Sudek and Lawrence 2015/Sudek and Lawrence 2015",
+      "source_path": "output/Sudek and Lawrence 2015/Sudek and Lawrence 2015.md",
+      "section_heading": "Backreef pools",
+      "section_start_line": 296,
+      "section_end_line": 305,
+      "model": "openai:gpt-4o-mini",
+      "question": "What estimated percentage of staghorn corals in the airport backreef pool died over a 3-4 month period?",
+      "ground_truth_answer": "An estimated 80% of the staghorns in the pools died.",
+      "ground_truth_chunks": [
+        "Over the span of 3-4 months the staghorns in the pool showed very high mortality; an estimated 80% of the staghorns in the pools died.",
+        "**December 2014: No bleaching February 2015: mass bleaching of staghorns in the pool April 2015: mass bleaching and mortality of staghorns in the pool**"
+      ]
+    },
+    {
+      "record_id": "39a5becfc62af0b994212208",
+      "paper_id": "Sudek and Lawrence 2015/Sudek and Lawrence 2015",
+      "source_path": "output/Sudek and Lawrence 2015/Sudek and Lawrence 2015.md",
+      "section_heading": "Reef Fish Survey Results",
+      "section_start_line": 324,
+      "section_end_line": 362,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which survey site had the highest total mean fish biomass (g/m-2)?",
+      "ground_truth_answer": "Pool 400 A had the highest total mean fish biomass, 46.8 g/m-2.",
+      "ground_truth_chunks": [
+        "Table 7.1: Mean fish biomass (g/m-2) and SE at the 12 survey sites by fish functional group (Herbivores, Lower Carnivores, and Piscivores).",
+        "| Pool 400 A | 32.1          | 14.5          | 0.2        | 46.8           |"
+      ]
+    },
+    {
+      "record_id": "29acebcef408c4c63b19b04a",
+      "paper_id": "Sudek and Lawrence 2015/Sudek and Lawrence 2015",
+      "source_path": "output/Sudek and Lawrence 2015/Sudek and Lawrence 2015.md",
+      "section_heading": "8. Capacity Building Activities",
+      "section_start_line": 461,
+      "section_end_line": 506,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which workshop increased participants' ability to identify coral to genus level by over 70%?",
+      "ground_truth_answer": "A 4-day Coral Finder Toolkit workshop held by Russell Kelley in September 2014.",
+      "ground_truth_chunks": [
+        "- A 4-day Coral Finder Toolkit workshop was held by Russell Kelley in September 2014 in which local staff learned to identify coral colonies to genus level. The training package was based on the Coral Finder toolkit developed in Australia. The workshop was a great success with 13 people from different agencies participating (DMWR, CRAG, NOAA PIRO, Leone village coral restoration project). The average ability of participants to identify coral to genus level increased by over 70% by the end of the workshop."
+      ]
+    },
+    {
+      "record_id": "60d5772946f650b4e9fb623a",
+      "paper_id": "Sudek and Lawrence 2015/Sudek and Lawrence 2015",
+      "source_path": "output/Sudek and Lawrence 2015/Sudek and Lawrence 2015.md",
+      "section_heading": "The primary objectives are to:",
+      "section_start_line": 567,
+      "section_end_line": 573,
+      "model": "openai:gpt-4o-mini",
+      "question": "How often will surveys be conducted in Tutuila, and how often in the Manu'a Islands, Rose Atoll, and Swains Island?",
+      "ground_truth_answer": "Annual surveys will be undertaken at 20 sites in Tutuila; surveys will be conducted at least every 2 years in the Manu'a Islands, Rose Atoll, and Swains Island.",
+      "ground_truth_chunks": [
+        "- 1. Combine multiple program resources to undertake annual surveys at 20 sites in Tutuila, and at least every 2 years in the Manu'a Islands, Rose Atoll, and Swains Island."
+      ]
+    },
+    {
+      "record_id": "9e244be93569e59b7b2c487b",
+      "paper_id": "Sudek and Lawrence 2015/Sudek and Lawrence 2015",
+      "source_path": "output/Sudek and Lawrence 2015/Sudek and Lawrence 2015.md",
+      "section_heading": "Potential amendments to Fish Survey method (needs to be trialed)",
+      "section_start_line": 667,
+      "section_end_line": 674,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under the proposed amendment, how far and within what width should fish surveyors swim to estimate abundance and total length of large-bodied fish, and to what depth should they ascend?",
+      "ground_truth_answer": "They would ascend to 15ft depth and continue swimming 400m from the end of the second transect, estimating large-bodied fish in a 20m wide area.",
+      "ground_truth_chunks": [
+        "- To quantify the abundance and biomass and size structure of populations of large vulnerable reef fish, a long swim following the belt transects is required (Choat and Pears 2003). The fish surveyors would ascend to 15ft depth and continue swimming 400m from the end of the second transect, estimating the abundance and TL (in cm) of Large-bodied fish (>35cm TL), in a 20m wide area (including below).",
+        "This would require that two fish surveyors swim along the transect tapes, one surveying the large and medium-sized fish and the other surveying the small-sized and juvenile fish."
+      ]
+    },
+    {
+      "record_id": "4928c125811b02e025a0edaf",
+      "paper_id": "Sudek and Lawrence 2015/Sudek and Lawrence 2015",
+      "source_path": "output/Sudek and Lawrence 2015/Sudek and Lawrence 2015.md",
+      "section_heading": "Pools",
+      "section_start_line": 748,
+      "section_end_line": 804,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the start and end GPS coordinates (latitude and longitude) for Nu'uuli T1?",
+      "ground_truth_answer": "Start: latitude -14.31314254, longitude -170.6968383; End: latitude -14.31321865, longitude -170.6966678.",
+      "ground_truth_chunks": [
+        "| Nu'uuli  | T1 start | 1 | -14.31314254 | -170.6968383 |",
+        "| Nu'uuli  | T1 end   |   | -14.31321865 | -170.6966678 |"
+      ]
+    }
+  ],
+  "failures": []
+}

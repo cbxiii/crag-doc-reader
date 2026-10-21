@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17.md",
+  "source_sha256": "54e7e56e8689e24bd5118cbb68f2c2825d73acd6ade04a54936fdf166105d2d4",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "88bffd930efd9fa419c75632",
+      "paper_id": "American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17",
+      "source_path": "output/American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17.md",
+      "section_heading": "Participants:",
+      "section_start_line": 101,
+      "section_end_line": 130,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who is listed as the Rose Atoll Manager in the 'Participants:' section?",
+      "ground_truth_answer": "Brian Peck, USFWS Rose Atoll Manager",
+      "ground_truth_chunks": [
+        "Brian Peck, USFWS Rose Atoll \n\nManager"
+      ]
+    },
+    {
+      "record_id": "d8c18a4e4f5ce5697c278fec",
+      "paper_id": "American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17",
+      "source_path": "output/American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17.md",
+      "section_heading": "Climate Change Impacts in American Samoa",
+      "section_start_line": 338,
+      "section_end_line": 351,
+      "model": "openai:gpt-4o-mini",
+      "question": "What months make up the long rainy season in American Samoa?",
+      "ground_truth_answer": "The long rainy season in American Samoa runs from October-May.",
+      "ground_truth_chunks": [
+        "Rainfall and trade winds in American Samoa are influenced by the South Pacific Convergence Zone, a low-pressure area which seasonally moves over and around the archipelago, resulting in a long rainy season from October-May, and a slightly cooler and drier period from June-September with higher southeasterly trade wind activity (Finucane et al. 2012; US DOC NOAA ONMS 2012)."
+      ]
+    },
+    {
+      "record_id": "ace0dd17e729e0f4fe76170f",
+      "paper_id": "American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17",
+      "source_path": "output/American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17.md",
+      "section_heading": "Sea Surface Temperature",
+      "section_start_line": 424,
+      "section_end_line": 446,
+      "model": "openai:gpt-4o-mini",
+      "question": "What increase in sea surface temperature in the Pacific Islands region is projected by 2055?",
+      "ground_truth_answer": "+1.8-2.3°F (+1.0-1.28°C) by 2055, depending on emissions trajectories and phase changes of ENSO, the PDO, and the IPO.",
+      "ground_truth_chunks": [
+        "Sea surface temperature in the Pacific Islands region is projected to continue increasing over the next century, potentially increasing +1.1-1.7°F (+0.61-0.94°C) by 2030, +1.8-2.3°F (+1.0-1.28°C) by 2055, and +2.5-4.7°F (+1.39-2.61°C) by 2090, depending on emissions trajectories and phase changes of ENSO, the PDO, and the IPO (ABM and CSIRO 2011; Finucane et al. 2012; Marra et al. 2012)."
+      ]
+    },
+    {
+      "record_id": "0244173e43f58fa7d1f34d4c",
+      "paper_id": "American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17",
+      "source_path": "output/American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17.md",
+      "section_heading": "Ecosystem Service Vulnerability Assessment Criteria: Sensitivity, Exposure, and Adaptive Capacity",
+      "section_start_line": 545,
+      "section_end_line": 552,
+      "model": "openai:gpt-4o-mini",
+      "question": "What largely determines the sensitivity of an ecosystem service, such as marine fisheries, according to the section?",
+      "ground_truth_answer": "The sensitivities of the components that provide or support the service (e.g., species, habitat, hydrology); for marine fisheries this is determined by the sensitivity of the target species and climate-driven factors (e.g., pH or temperature).",
+      "ground_truth_chunks": [
+        "- 1. **Sensitivity** involves factors that currently shape ecosystem services; exposure involves future climate changes that could affect the ecosystem service, and is covered in another section below. Ecosystem service sensitivity may largely be determined by the sensitivities of those components (e.g., species, habitat, hydrology, etc.) that provide or support the service.",
+        "For example, the sensitivity of \"marine fisheries\" as an ecosystem service is significantly determined by the sensitivity of the target species climate and climate-driven factors (e.g., pH or temperature)."
+      ]
+    },
+    {
+      "record_id": "517d928f47ee0e759bece12d",
+      "paper_id": "American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17",
+      "source_path": "output/American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17.md",
+      "section_heading": "Introduction",
+      "section_start_line": 643,
+      "section_end_line": 646,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the three zones of coral reefs in American Samoa?",
+      "ground_truth_answer": "Reef flat, reef crest, and reef slope.",
+      "ground_truth_chunks": [
+        "Coral reefs in American Samoa include three zones: reef flat, reef crest, and reef slope.",
+        "Reef flats are shallow and narrow (50-500 m) systems extending from shore to the reef crest."
+      ]
+    },
+    {
+      "record_id": "4cf679dca9e782e12a413be0",
+      "paper_id": "American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17",
+      "source_path": "output/American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17.md",
+      "section_heading": "5. Reef Fish",
+      "section_start_line": 831,
+      "section_end_line": 834,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to section '5. Reef Fish', how did participants believe reef fish should be considered during the vulnerability assessment versus the adaptation strategy workshops?",
+      "ground_truth_answer": "During the vulnerability assessment workshops participants felt each type of reef fish assemblage should be considered independently because they have unique attributes; during the adaptation strategy workshops participants felt management actions would be the same for all reef-dependent fishes so they should be considered as a single reef fish assemblage and not differentiated.",
+      "ground_truth_chunks": [
+        "A vulnerability assessment was conducted for reef herbivores, reef piscivores, and charismatic reef fish.",
+        "During the vulnerability assessment workshops participant felt that each different type of reef fish assemblage should be considered independently since they have unique attributes.",
+        "During the adaptation strategy workshops, participants felt that current and future management actions to reduce vulnerabilities and increase resilience would be the same for all reef dependent fishes, thus they should be considered as a reef fish assemblage and not differentiated by their attributes."
+      ]
+    },
+    {
+      "record_id": "00c04b5674525ebb31d6c1ea",
+      "paper_id": "American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17",
+      "source_path": "output/American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17.md",
+      "section_heading": "Vulnerability Assessment Results",
+      "section_start_line": 898,
+      "section_end_line": 903,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did workshop participants evaluate the vulnerability of commercially valuable pelagic fish species in the assessment?",
+      "ground_truth_answer": "They were evaluated to be moderately vulnerable due to changes in temperature, ocean circulation, and ocean acidification.",
+      "ground_truth_chunks": [
+        "Commercially valuable pelagic fish species were evaluated to be moderately vulnerable by workshop participants due to changes in temperature, ocean circulation, and ocean acidification.",
+        "Common migratory pelagic tunas have already shown responses to increased temperatures and changes in circulation patterns during El Niño Southern Oscillation (ENSO) events (Keener et al. 2012; Leong et al. 2014).",
+        "Future changes in distribution and abundance of migratory species might result due to changes increased temperature and changes in currents affecting prey availability and thermal tolerance."
+      ]
+    },
+    {
+      "record_id": "d1728fd292d923616f318d6e",
+      "paper_id": "American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17",
+      "source_path": "output/American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17.md",
+      "section_heading": "Swains Management Area",
+      "section_start_line": 1105,
+      "section_end_line": 1114,
+      "model": "openai:gpt-4o-mini",
+      "question": "What activities are allowed in the Swains Management Area?",
+      "ground_truth_answer": "Allowed activities include research, education, recreation, hook-and-line fishing, cast nets, spearfishing (non-SCUBA assisted), and other non-destructive fishing methods including those traditionally used for sustenance and cultural purposes such as gleaning, `enu and ola.",
+      "ground_truth_chunks": [
+        "**Allowed** – research, education, recreation, hook-and- line fishing, cast nets, spearfishing (non-SCUBA assisted) and other non- destructive fishing methods including those traditionally used for sustenance and cultural purposes such as gleaning, `enu and ola."
+      ]
+    },
+    {
+      "record_id": "37e53e5a1694ea26ce545cdb",
+      "paper_id": "American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17",
+      "source_path": "output/American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17.md",
+      "section_heading": "Table 3. Current management goals, potential vulnerabilities, and current management actions for mangroves and Pala Lagoon.",
+      "section_start_line": 1326,
+      "section_end_line": 1329,
+      "model": "openai:gpt-4o-mini",
+      "question": "If an action was recommended for continued implementation, what details did participants provide about implementation?",
+      "ground_truth_answer": "They detailed any changes regarding where and how to implement given climate vulnerabilities.",
+      "ground_truth_chunks": [
+        "If the action was recommended for continued implementation, participants detailed any changes regarding where and how to implement given climate vulnerabilities.",
+        "For each current management action participants evaluated its effectiveness (likely to reduce climate vulnerability) and feasibility (likelihood of implementation), and identified climatic and non-climatic stressors the action could help to ameliorate the effects of."
+      ]
+    },
+    {
+      "record_id": "e4096b012ac0323a56e8f54c",
+      "paper_id": "American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17",
+      "source_path": "output/American Samoa VAAS Report 4.5.17/American Samoa VAAS Report 4.5.17.md",
+      "section_heading": "Current Management Goal: Protect turtle nesting habitat.",
+      "section_start_line": 1501,
+      "section_end_line": 1580,
+      "model": "openai:gpt-4o-mini",
+      "question": "What coastal threats to turtle nesting habitat are listed under the current management goal?",
+      "ground_truth_answer": "Erosion; Sea level rise (Rose Atoll is a major nesting site for green turtles, and is only 10 feet above sea level); Seawalls and other physical barriers.",
+      "ground_truth_chunks": [
+        "- Erosion",
+        "- Sea level rise (Rose Atoll is a major nesting site for green turtles, and is only 10 feet above sea level)",
+        "- Seawalls and other physical barriers"
+      ]
+    }
+  ],
+  "failures": []
+}

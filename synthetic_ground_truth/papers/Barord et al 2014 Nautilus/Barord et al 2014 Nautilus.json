@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Barord et al 2014 Nautilus/Barord et al 2014 Nautilus.md",
+  "source_sha256": "27bee530b40baf1086554daef530548d41fe30a9cf9e1863cd3aaa619afa7b71",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "57b27ebac494580053bca144",
+      "paper_id": "Barord et al 2014 Nautilus/Barord et al 2014 Nautilus",
+      "source_path": "output/Barord et al 2014 Nautilus/Barord et al 2014 Nautilus.md",
+      "section_heading": "Comparative Population Assessments of Nautilus sp. in the Philippines, Australia, Fiji, and American Samoa Using Baited Remote Underwater Video Systems",
+      "section_start_line": 3,
+      "section_end_line": 10,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which institutions and departments is Gregory J. Barord affiliated with in this section?",
+      "ground_truth_answer": "He is affiliated with: 1) Department of Biology, Graduate Center, City University of New York, New York, New York, United States of America; and 2) Department of Biology, Brooklyn College, City University of New York, Brooklyn, New York, United States of America.",
+      "ground_truth_chunks": [
+        "Gregory J. Barord<sup>1,2\\*</sup>, Frederick Dooley<sup>3</sup>, Andrew Dunstan<sup>4</sup>, Anthony Ilano<sup>5</sup>, Karen N. Keister<sup>6</sup>, Heike Neumeister<sup>7</sup>, Thomas Preuss<sup>7</sup>, Shane Schoepfer<sup>3,8</sup>, Peter D. Ward<sup>3,8</sup>",
+        "1 Department of Biology, Graduate Center, City University of New York, New York, New York, United States of America",
+        "2 Department of Biology, Brooklyn College, City University of New York, Brooklyn, New York, United States of America"
+      ]
+    },
+    {
+      "record_id": "360b5ef3ace3f37b6e082d06",
+      "paper_id": "Barord et al 2014 Nautilus/Barord et al 2014 Nautilus",
+      "source_path": "output/Barord et al 2014 Nautilus/Barord et al 2014 Nautilus.md",
+      "section_heading": "Abstract",
+      "section_start_line": 11,
+      "section_end_line": 30,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Abstract, at which study site were significantly fewer nautiluses observed using BRUVS?",
+      "ground_truth_answer": "The Philippine Islands site.",
+      "ground_truth_chunks": [
+        "The results from these observations indicate that there are significantly fewer nautiluses observable with this method in the Philippine Islands site.",
+        "When compared to historical trap records from the same site the data suggest there have been far more nautiluses at this site in the past."
+      ]
+    },
+    {
+      "record_id": "d96323073eac3ca518d9091c",
+      "paper_id": "Barord et al 2014 Nautilus/Barord et al 2014 Nautilus",
+      "source_path": "output/Barord et al 2014 Nautilus/Barord et al 2014 Nautilus.md",
+      "section_heading": "Introduction",
+      "section_start_line": 31,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "What depth implosion limit and surface temperature limit constrain living nautilus habitat according to the Introduction?",
+      "ground_truth_answer": "A depth implosion limit of 800 m and a surface temperature limit of 25°C.",
+      "ground_truth_chunks": [
+        "Their habitat is constrained by depth implosion limits of 800 m [5], surface temperature limits of 25°C [6] and a nektobethic life style [7], living in close association with reef slopes and ocean floors rather than in the mid-water or surface waters."
+      ]
+    },
+    {
+      "record_id": "ee58426b614088611059512b",
+      "paper_id": "Barord et al 2014 Nautilus/Barord et al 2014 Nautilus",
+      "source_path": "output/Barord et al 2014 Nautilus/Barord et al 2014 Nautilus.md",
+      "section_heading": "Results and Discussion",
+      "section_start_line": 47,
+      "section_end_line": 64,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which geographic location had the lowest number of nautiluses observed and what were the counts and density measured there?",
+      "ground_truth_answer": "The Panglao locality in the Bohol Sea, Philippines: 6 nautiluses observed and 0.25 per km $^{-1}$.",
+      "ground_truth_chunks": [
+        "The lowest numbers of all (6/0.25 per km $^{-1}$ ), by far, were measured at the Panglao locality in the Bohol Sea, Philippines.",
+        "Comparison between sites using paired t-test and linear regression demonstrate a highly significant (f=9.99; df=44; P<0.001) difference between the Philippines site and the other four non-fished sites (vs. Australia t=22.2; Fiji t=7.42; A. Samoa t=11.18; all P<0.001)."
+      ]
+    },
+    {
+      "record_id": "b927d1cfedad2b54fdd6cdbe",
+      "paper_id": "Barord et al 2014 Nautilus/Barord et al 2014 Nautilus",
+      "source_path": "output/Barord et al 2014 Nautilus/Barord et al 2014 Nautilus.md",
+      "section_heading": "Conclusions",
+      "section_start_line": 65,
+      "section_end_line": 68,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the greatest surprise of the study's data?",
+      "ground_truth_answer": "The uniformly low population sizes among nautilus populations attracted to BRUVS at both the fished and non-fished sites.",
+      "ground_truth_chunks": [
+        "The greatest surprise of our data was the uniformly low population sizes among nautilus populations attracted to BRUVS at both the fished and non-fished sites."
+      ]
+    },
+    {
+      "record_id": "022cbb847445497034d23b00",
+      "paper_id": "Barord et al 2014 Nautilus/Barord et al 2014 Nautilus",
+      "source_path": "output/Barord et al 2014 Nautilus/Barord et al 2014 Nautilus.md",
+      "section_heading": "Ethics Statement",
+      "section_start_line": 71,
+      "section_end_line": 74,
+      "model": "openai:gpt-4o-mini",
+      "question": "Were any animals collected in this study?",
+      "ground_truth_answer": "No — no animals were collected.",
+      "ground_truth_chunks": [
+        "This study did not involve endangered or protected species and no animals were collected."
+      ]
+    },
+    {
+      "record_id": "31fbeb594eee6ddb9b2f50a4",
+      "paper_id": "Barord et al 2014 Nautilus/Barord et al 2014 Nautilus",
+      "source_path": "output/Barord et al 2014 Nautilus/Barord et al 2014 Nautilus.md",
+      "section_heading": "Location",
+      "section_start_line": 75,
+      "section_end_line": 92,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the geographic coordinates of the fished Nautilus population in the Bohol Sea, Philippines?",
+      "ground_truth_answer": "9°35′ 18.87″ N, 123°43′ 44.54″ E.",
+      "ground_truth_chunks": [
+        "The fished population in the Philippines was located in the Bohol Sea off the coast of Panglao, Philippines (9°35′ 18.87″ N, 123°43′ 44.54″ E)."
+      ]
+    },
+    {
+      "record_id": "d807acf00a5f11ed6a6c7f30",
+      "paper_id": "Barord et al 2014 Nautilus/Barord et al 2014 Nautilus",
+      "source_path": "output/Barord et al 2014 Nautilus/Barord et al 2014 Nautilus.md",
+      "section_heading": "Data Collection",
+      "section_start_line": 93,
+      "section_end_line": 98,
+      "model": "openai:gpt-4o-mini",
+      "question": "What bait types were used in the BRUVS deployments across the study locations?",
+      "ground_truth_answer": "Chicken meat was the primary bait used throughout the project (exclusively in the Philippines and Australia); in Fiji and American Samoa, tuna and mackerel were used when chicken was not available.",
+      "ground_truth_chunks": [
+        "At each location, baited remote underwater video systems (BRUVS) were deployed to record the number of nautiluses attracted to bait over time.",
+        "While chicken meat was the primary bait used throughout the project (exclusively in the Philippines and Australia), limited resources in Fiji and American Samoa required the use of additional bait sources of tuna and mackerel when chicken was not available."
+      ]
+    },
+    {
+      "record_id": "a0d3d483cbcdff7e492876f3",
+      "paper_id": "Barord et al 2014 Nautilus/Barord et al 2014 Nautilus",
+      "source_path": "output/Barord et al 2014 Nautilus/Barord et al 2014 Nautilus.md",
+      "section_heading": "Data Analysis",
+      "section_start_line": 105,
+      "section_end_line": 108,
+      "model": "openai:gpt-4o-mini",
+      "question": "What average swimming speed for nautiluses did the Data Analysis report determine from the videos?",
+      "ground_truth_answer": "An average speed of 0.10 m s<sup>-1</sup> (or 360 km hr<sup>-1</sup>).",
+      "ground_truth_chunks": [
+        "The speeds were averaged at the sites to determine an average speed of 0.10 m s<sup>-1</sup> (or 360 km hr<sup>-1</sup>).",
+        "This average speed was multiplied by the total length of the video to determine the maximum distance the nautilus could travel to reach the recording site. This maximum distance value was then inserted into a formula (area of a circle) as the radius to calculate the possible sampling area."
+      ]
+    },
+    {
+      "record_id": "2728b73802cf89109cc0b290",
+      "paper_id": "Barord et al 2014 Nautilus/Barord et al 2014 Nautilus",
+      "source_path": "output/Barord et al 2014 Nautilus/Barord et al 2014 Nautilus.md",
+      "section_heading": "Author Contributions",
+      "section_start_line": 124,
+      "section_end_line": 163,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which authors conceived and designed the experiments?",
+      "ground_truth_answer": "GJB, AD, AI, PDW.",
+      "ground_truth_chunks": [
+        "Conceived and designed the experiments: GJB AD AI PDW."
+      ]
+    }
+  ],
+  "failures": []
+}

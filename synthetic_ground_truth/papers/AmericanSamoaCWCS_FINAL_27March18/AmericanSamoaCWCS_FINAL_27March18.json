@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18.md",
+  "source_sha256": "622e64efc559c6ec9d54802e562c289504854a4f3959cecbfe840658a01fc82d",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "fa67c4bfb3b9ad80610cadff",
+      "paper_id": "AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18",
+      "source_path": "output/AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18.md",
+      "section_heading": "<span id=\"page-2-0\"></span>A MESSAGE FROM THE DIRECTOR",
+      "section_start_line": 13,
+      "section_end_line": 28,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who wrote the message and when was it dated?",
+      "ground_truth_answer": "Va'amua Henry Sesepasara, Director, Department of Marine and Wildlife Resources, American Samoa Government. March 2018.",
+      "ground_truth_chunks": [
+        "Soifua, Va'amua Henry Sesepasara Director Department of Marine and Wildlife Resources American Samoa Government March 2018"
+      ]
+    },
+    {
+      "record_id": "41a645be1258208d813203ce",
+      "paper_id": "AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18",
+      "source_path": "output/AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18.md",
+      "section_heading": "<span id=\"page-31-2\"></span>Threats to terrestrial and freshwater crustaceans",
+      "section_start_line": 482,
+      "section_end_line": 485,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which edible and conspicuous species is mentioned as having a high potential for overharvesting?",
+      "ground_truth_answer": "The coconut crab (Birgus latro).",
+      "ground_truth_chunks": [
+        "The potential for overharvesting is high in those species that are edible and conspicuous, such as the coconut crab (*Birgus latro*)."
+      ]
+    },
+    {
+      "record_id": "32e323646a0ceab906d495b8",
+      "paper_id": "AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18",
+      "source_path": "output/AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18.md",
+      "section_heading": "<span id=\"page-44-0\"></span>Threats to marine invertebrates",
+      "section_start_line": 621,
+      "section_end_line": 635,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the main threat to the giant clams and sea cucumbers in the Territory?",
+      "ground_truth_answer": "Overexploitation is the main threat to the giant clams and sea cucumbers in the Territory.",
+      "ground_truth_chunks": [
+        "Overexploitation is the main threat to the giant clams and sea cucumbers in the Territory.",
+        "The commercial fishery of the holothurians has spread from the Southeast Asian region to remote Pacific areas like American Samoa and Hawaii. This indicates a trend of overexploitation fishery expansion to countries that are remote from the main Chinese market and areas with no historic commercial fishery of sea cucumbers."
+      ]
+    },
+    {
+      "record_id": "7bd1d70568e0816dd5762552",
+      "paper_id": "AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18",
+      "source_path": "output/AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18.md",
+      "section_heading": "<span id=\"page-73-0\"></span>5.1 Papilio godeffroyi",
+      "section_start_line": 909,
+      "section_end_line": 922,
+      "model": "openai:gpt-4o-mini",
+      "question": "On which island is Papilio godeffroyi currently endemic?",
+      "ground_truth_answer": "Tutuila Island.",
+      "ground_truth_chunks": [
+        "Distribution: endemic to Samoan Archipelago",
+        "The Samoan swallowtail butterfly, *Papilio godeffroyi*, appears to be a single-island endemic on Tutuila Island, reduced from its former range which included Upolu and Savai'i."
+      ]
+    },
+    {
+      "record_id": "b00fd02300ef996047ec486c",
+      "paper_id": "AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18",
+      "source_path": "output/AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18.md",
+      "section_heading": "<span id=\"page-87-0\"></span>5.5.2 CONSERVATION PRIORITIES",
+      "section_start_line": 1125,
+      "section_end_line": 1137,
+      "model": "openai:gpt-4o-mini",
+      "question": "On which island was a live Pacific Boa delivered to DMWR Wildlife Division staff in November 2015?",
+      "ground_truth_answer": "Ta'u",
+      "ground_truth_chunks": [
+        "Local villagers report frequent sightings in Ta'u village and Faga (on Ta'u) to DMWR Wildlife Division staff and a live snake was delivered to DMWR Wildlife Division staff in November 2015 while they were on Ta'u conducting bird surveys.",
+        "Additional, systematic surveys are needed in order to document distribution and population size on the Island of Ta'u."
+      ]
+    },
+    {
+      "record_id": "2b21b4003afa8dd4e07553ac",
+      "paper_id": "AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18",
+      "source_path": "output/AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18.md",
+      "section_heading": "<span id=\"page-108-0\"></span>5.8.3 HABITAT",
+      "section_start_line": 1384,
+      "section_end_line": 1387,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where do *E. semicaudata* typically roost?",
+      "ground_truth_answer": "They typically roost in caves, although they may also use rockfalls on cliff faces, hollows of large trees (such as banyans), and man-made structures such as under bridges.",
+      "ground_truth_chunks": [
+        "*E. semicaudata* typically roost in caves, although they may possibly use rockfalls on cliff faces or hollows of large trees (such as banyans), and even man-made structures such as under bridges (Lemke 1986, Grant 1993, Grant et al. 1994, Hutson et al. 2001, Esselstyn et al. 2004).",
+        "The bats were often found to co-habit the caves with swiftlets (in American Samoa, *Aerodramus spodiopygius*)."
+      ]
+    },
+    {
+      "record_id": "3ffab3151406c310ae75a570",
+      "paper_id": "AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18",
+      "source_path": "output/AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18.md",
+      "section_heading": "4. Identify cetacean stocks and their range of distribution",
+      "section_start_line": 1611,
+      "section_end_line": 1616,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which cetacean species in American Samoa is identified as a priority for genetic study due to uncertainty about whether it is T. truncatus, T. aduncus, or both?",
+      "ground_truth_answer": "The bottlenose dolphin — uncertainty whether the species found at American Samoa is T. truncatus, T. aduncus, or both.",
+      "ground_truth_chunks": [
+        "Another priority species would include the bottlenose dolphin in light of uncertainty as to whether the species found at American Samoa is*T. truncatus* or *T. aduncus or both*."
+      ]
+    },
+    {
+      "record_id": "2b6516fa8accdbd11473b972",
+      "paper_id": "AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18",
+      "source_path": "output/AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18.md",
+      "section_heading": "THREATS",
+      "section_start_line": 1826,
+      "section_end_line": 1829,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Williams et al. (2013), what fishing mortality (F) is suggested to be necessary to achieve stock persistence for these mesophotic eteline snappers?",
+      "ground_truth_answer": "A fishing mortality of F < 0.1 is suggested to be necessary to achieve stock persistence.",
+      "ground_truth_chunks": [
+        "Overfishing is the main threat to these mesophotic eteline snappers.",
+        "Williams et al. (2013) suggested that a fishing mortality of F < 0.1 is necessary to achieve stock persistence."
+      ]
+    },
+    {
+      "record_id": "4edb962ab71aeca574f602d2",
+      "paper_id": "AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18",
+      "source_path": "output/AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18.md",
+      "section_heading": "<span id=\"page-163-0\"></span>8.2.4 ENFORCEMENT",
+      "section_start_line": 2033,
+      "section_end_line": 2046,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under what statute is enforcement of DMWR statutes and regulations authorized?",
+      "ground_truth_answer": "Enforcement is authorized under ASCA 24.0312; that provision allows the department to confiscate unlawful catches and equipment and to prosecute violators by issuing fine-citations in district court.",
+      "ground_truth_chunks": [
+        "Enforcement of DMWR statutes and regulations is authorized under the provisions of ASCA 24.0312.",
+        "This section allows the department to confiscate unlawful catches of marine and wildlife resources, including any equipment used in unlawful catches or takes, and to prosecute violators through the issuance of fine-citations in district court."
+      ]
+    },
+    {
+      "record_id": "8db6edc0a38dcce60796ff8c",
+      "paper_id": "AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18",
+      "source_path": "output/AmericanSamoaCWCS_FINAL_27March18/AmericanSamoaCWCS_FINAL_27March18.md",
+      "section_heading": "APPENDIX 3. MARINE SPECIES KNOWN OR THOUGHT TO HAVE HAD RESIDENT BREEDING POPULATIONS IN THE TERRITORY OF AMERICAN SAMOA. Fish and marine invertebrate species are ranked and sorted by species of greates conservation concern. All marine mammals know within the territory are included.",
+      "section_start_line": 2838,
+      "section_end_line": 2921,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Appendix 3, what abundance value is listed for Epinephelus lanceolatus (Giant grouper), and what Conservation Class is assigned to it?",
+      "ground_truth_answer": "Abundance: V (very rare). Conservation Class: III.",
+      "ground_truth_chunks": [
+        "| Epinephelus lanceolatus    | Giant grouper | W                   | M            | V         | P      | III                   | H    |",
+        "**Abundance** (known or inferred abundance *in the territory* where the species occurs, and scaled for expected values for the species): **V** - very rare, **R** - rare, **U** - uncommon, **M** - moderately common, **A** - abundant, **?** - data deficient",
+        "**Conservation Class** (conservation study priority class): **I** - High priority: insufficient data available to make informed assessment of conservation status, **II** - High Priority: available data permits identification of threats or known low population sizes, **III** - Priority: ongoing studies or conservation and management efforts, **IV** - Moderate Priority: high abundance, widespread distribution, or lack of known imminent threats, butmonitor for em erging threats, **V** - Low Priority: species for which local extinction would be satisfactory."
+      ]
+    }
+  ],
+  "failures": []
+}

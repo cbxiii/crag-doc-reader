@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals.md",
+  "source_sha256": "0b087ad534128bbf3439c8c07c6140f4af3a1641100d776e715b2e228a1f2d7f",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "7acf94c503dd4d7a675a2768",
+      "paper_id": "Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals",
+      "source_path": "output/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals.md",
+      "section_heading": "Mechanisms of Thermal Tolerance in Reef-Building Corals across a Fine-Grained Environmental Mosaic: Lessons from Ofu, American Samoa",
+      "section_start_line": 5,
+      "section_end_line": 10,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which institution is listed for affiliation 1 (Biology Department) among the authors?",
+      "ground_truth_answer": "Biology Department, Stanford University, Hopkins Marine Station, Pacific Grove, CA, United States.",
+      "ground_truth_chunks": [
+        "<sup>1</sup> Biology Department, Stanford University, Hopkins Marine Station, Pacific Grove, CA, United States, <sup>2</sup> Department of Ecology and Evolutionary Biology, Princeton University, Princeton, NJ, United States, <sup>3</sup> Institute of the Environment and Sustainability, University of California, Los Angeles, Los Angeles, CA, United States",
+        "[Luke Thomas](http://loop.frontiersin.org/people/406686/overview) <sup>1</sup> \\*, Noah H. Rose<sup>2</sup> , Rachael A. Bay <sup>3</sup> , [Elora H. López](http://loop.frontiersin.org/people/508215/overview) <sup>1</sup> , Megan K. Morikawa<sup>1</sup> , Lupita Ruiz-Jones <sup>1</sup> and Stephen R. Palumbi <sup>1</sup>"
+      ]
+    },
+    {
+      "record_id": "5313db9b02b831ec8abe1576",
+      "paper_id": "Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals",
+      "source_path": "output/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 35,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the INTRODUCTION, what are the two primary mechanisms that give rise to thermal tolerance in organisms?",
+      "ground_truth_answer": "Acclimatization and adaptation.",
+      "ground_truth_chunks": [
+        "Thermal tolerance arises primarily through two mechanisms: acclimatization and adaptation (Chevin et al., 2010; Foo and Byrne, 2016).",
+        "Acclimatization refers to the physiological plasticity that allows an individual to maintain performance across a range of environments.",
+        "By contrast, adaptation is the result of environmental selection on beneficial genotypes in a population (Barrett and Schluter, 2008; Savolainen et al., 2013). Selection is acting on specific alleles, so these changes are heritable and passed on to the next generation."
+      ]
+    },
+    {
+      "record_id": "90205b87ef8ee43025f663ab",
+      "paper_id": "Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals",
+      "source_path": "output/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals.md",
+      "section_heading": "Standardized Stress Tests",
+      "section_start_line": 55,
+      "section_end_line": 64,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the typical heat stress temperature profile and timing used in the standardized stress tank assays?",
+      "ground_truth_answer": "Water is ramped to 34◦C over 3 h starting about 10 a.m., held at 34◦C for 3 h, then cooled back down to 29◦C within an hour; the temperature ramp is conducted from 10:00 to 16:00 and bleaching is recorded 20 h after the onset of heat stress.",
+      "ground_truth_chunks": [
+        "34◦C over 3 h starting about 10 a.m. The tanks hold at 34◦C for 3 h, before cooling back down to 29◦C within an hour.",
+        "For each heat stress experiment, several coral branches 1–2 cm in length are collected from a set of colonies and placed in control (29◦C) and heated experimental tanks in the morning. The temperature ramp is conducted from 10:00 to 16:00, and bleaching is recorded the next morning, 20 h after the onset of heat stress."
+      ]
+    },
+    {
+      "record_id": "663c927e22d4da1d7acfc3df",
+      "paper_id": "Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals",
+      "source_path": "output/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals.md",
+      "section_heading": "ACCLIMATIZATION",
+      "section_start_line": 77,
+      "section_end_line": 80,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why is acclimatization particularly relevant for long-lived organisms such as corals in the context of global climate change?",
+      "ground_truth_answer": "Because acclimatization operates within a single lifespan of an organism and does not require a population-level shift in allele frequencies over multiple generations, unlike evolutionary adaptation.",
+      "ground_truth_chunks": [
+        "Limits to acclimatization, the short-term phenotypic adjustment within an individual's lifespan, are set by species-specific physiological constraints [\\(Somero, 2010\\)](#page-12-0).",
+        "Acclimatization is particularly relevant for long-lived organisms such as corals in the context of global climate change because this mechanism operates within a single lifespan of an organism and does not require a populationlevel shift in allele frequencies over multiple generations as is the case with evolutionary adaptation."
+      ]
+    },
+    {
+      "record_id": "081c0944d56aaad56bd9cce7",
+      "paper_id": "Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals",
+      "source_path": "output/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals.md",
+      "section_heading": "Mechanisms of Acclimatization",
+      "section_start_line": 85,
+      "section_end_line": 94,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many transcriptional modules in A. hyacinthus showed signs of acclimatization after reciprocal transplantation?",
+      "ground_truth_answer": "15 out of the 23 transcriptional modules showed signs of acclimatization.",
+      "ground_truth_chunks": [
+        "Overall, 15 out of the 23 transcriptional modules that comprise the A. hyacinthus stress response system showed\n\n![](_page_4_Figure_2.jpeg)\n\n<span id=\"page-4-0\"></span>FIGURE 2 | Thermal tolerance, measured as chlorophyll retention following acute heat stress, in A. hyacinthus following 14 months of reciprocal transplantation between the HV and MV pools.\n\nsigns of acclimatization after reciprocal transplantation (Rose et al., [2016\\)](#page-12-11).",
+        "These data suggest that acclimatization is in part accomplished through the regulation of co-expressed gene modules."
+      ]
+    },
+    {
+      "record_id": "c6441400d94721825ec11439",
+      "paper_id": "Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals",
+      "source_path": "output/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals.md",
+      "section_heading": "Symbiodinium and Host Thermal Tolerance",
+      "section_start_line": 101,
+      "section_end_line": 104,
+      "model": "openai:gpt-4o-mini",
+      "question": "Could symbiont type alone explain differences in bleaching resistance between the MV and HV pools?",
+      "ground_truth_answer": "No. The section states that symbiont type alone could not explain differences in bleaching resistance between pools: MV colonies with high levels of clade D experienced declines in photosystem II photochemical efficiencies similar to MV colonies predominantly harboring clade C, and MV corals transplanted to the HV pool increased thermal tolerance without a shift in symbiont clade.",
+      "ground_truth_chunks": [
+        "Sequencing of the chloroplast 23s rDNA from colonies collected from both Ofu pools showed that corals from the HV pool had significantly higher proportions of Symbiodinium clade D than those from the MV pool in five of the seven species examined [\\(Oliver and Palumbi, 2010\\)](#page-12-17).",
+        "Symbiont type alone, however, could not explain differences in bleaching resistance between pools: colonies from the MV pool that also harbored high levels of clade D experienced declines in photosystem II photochemical efficiencies that were not statistically different from the MV colonies predominantly harboring clade C (Oliver and Palumbi, [2011\\)](#page-12-13).",
+        "In addition, there was little evidence for symbiont switching in A. hyacinthus. Following the 12-months of reciprocal transplantation, MV pool corals transplanted to the HV pool showed an increase in thermal tolerance without a shift in symbiont clade [\\(Palumbi et al., 2014\\)](#page-12-6)."
+      ]
+    },
+    {
+      "record_id": "9101895dbbdb35aa146bd880",
+      "paper_id": "Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals",
+      "source_path": "output/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals.md",
+      "section_heading": "ADAPTATION",
+      "section_start_line": 113,
+      "section_end_line": 116,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under what conditions will locally adapted alleles be maintained in a population despite gene flow?",
+      "ground_truth_answer": "If selection is strong enough to overwhelm the homogenizing effects of gene flow, then locally adapted alleles maintain moderate levels of frequency in the population, and genetic variation is maintained.",
+      "ground_truth_chunks": [
+        "Local adaptation, however, is a balance between selection and gene flow.",
+        "If selection is strong enough to overwhelm the homogenizing effects of gene flow, then locally adapted alleles maintain moderate levels of frequency in the population, and genetic variation is maintained."
+      ]
+    },
+    {
+      "record_id": "4d8889aa17c908e8eff23aed",
+      "paper_id": "Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals",
+      "source_path": "output/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals.md",
+      "section_heading": "Multi-locus Adaptation",
+      "section_start_line": 131,
+      "section_end_line": 134,
+      "model": "openai:gpt-4o-mini",
+      "question": "After filtering for loci that correlated with individual temperature measurements, how many loci were identified as likely candidates for directional selection?",
+      "ground_truth_answer": "More than a hundred loci.",
+      "ground_truth_chunks": [
+        "Further filtering of these loci for only those that correlated with individual temperature measurements (i.e., time spent above 31◦C for each colony) resulted in more than a hundred loci as likely candidates for directional selection.",
+        "Genomewide patterns of differentiation between pools is low and nonsignificant; however, population differentiation based genome outlier scans have identified hundreds of SNPs putatively under divergent selection (FDR-corrected p < 0.05, FST > 0.05 and bootstrap-resampling tested)."
+      ]
+    },
+    {
+      "record_id": "65f74781aaa1fa4e2f7df24a",
+      "paper_id": "Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals",
+      "source_path": "output/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals.md",
+      "section_heading": "The Genetic Architecture of Thermal Tolerance",
+      "section_start_line": 151,
+      "section_end_line": 158,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, is thermal tolerance in Ofu corals a polygenic trait?",
+      "ground_truth_answer": "Yes. The section states that data from Ofu indicate thermal tolerance is a polygenic trait, with a number of alleles of small effect across many different cellular pathways responsible for elevated thermal tolerance; selection on many loci leads to subtle coordinated changes in allele frequencies rather than large allelic shifts or fixation.",
+      "ground_truth_chunks": [
+        "Data from Ofu indicate that thermal tolerance is a polygenic trait, where a number of alleles of small effect across many different cellular pathways are responsible for elevated thermal tolerance of the HV pool corals (Bay and Palumbi, [2014;](#page-10-7) [Palumbi et al., 2014\\)](#page-12-6).",
+        "When selection acts on a phenotype that is driven by a large number of loci, then large allelic shifts may not be evident and alleles will rarely reach fixation. Instead, subtle coordinated changes in allele frequencies across many loci will occur (Berg and Coop, [2014;](#page-10-11) [Yeaman, 2015;](#page-13-5) [Wellenreuther and Hansson,](#page-13-7) [2016\\)](#page-13-7)."
+      ]
+    },
+    {
+      "record_id": "93564330a9c20ce3639d0454",
+      "paper_id": "Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals",
+      "source_path": "output/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals/Thomas et al 2018 FrontMarSci Mechanisms of Thermal Tolerance in Reef-Building Corals.md",
+      "section_heading": "Evolution in the Face of Environmental Change",
+      "section_start_line": 177,
+      "section_end_line": 186,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what biological traits and processes provide corals with the capacity to cope with near-future climate change?",
+      "ground_truth_answer": "The section lists: (1) large effective population sizes and high genetic diversity (standing genetic variation); (2) species spanning strong temperature gradients yielding abundant genetic variation in thermal tolerance; (3) broadcast spawning with larvae capable of long-distance dispersal leading to high gene flow and high capacity to colonize novel (poleward-shifting) habitats; and (4) remarkable phenotypic plasticity allowing rapid physiological shifts and resilience to frequent environmental variation.",
+      "ground_truth_chunks": [
+        "Although reef-building coral populations are experiencing wide-spread die offs in the Anthropocene [\\(Hughes et al., 2017\\)](#page-11-6), in many ways corals have the necessary tool-kit to cope with nearfuture climate change. Firstly, corals generally have large effective populations sizes with high levels of genetic diversity. Standing genetic variation is a key component of the adaptive capacity to environmental change as higher levels of genetic diversity provide a greater probability of achieving allelic combinations that confer beneficial phenotypes in the new environment [\\(Barrett and Schluter, 2008\\)](#page-10-0). Secondly, coral species span strong temperature gradients and as a result likely have an abundance of genetic variation in traits associated with thermal tolerance. Thirdly, the main reproductive mode of corals is via broadcast spawning [\\(Baird et al., 2009\\)](#page-10-20), with larvae capable of dispersing large distances [\\(Ayre and Hughes, 2000;](#page-10-21) [Miller and Ayre, 2008;](#page-12-36) [Davies et al., 2014\\)](#page-11-41). This means that coral populations are generally characterized by high levels of gene flow, so the exchange of beneficial genetic variants among populations spread across large areas is high. Furthermore, a high dispersal capacity means that they have a high capacity for colonizing novel habitats that become suitable as isotherms shift poleward. The rate of expansion of leading edge-populations in the ocean on average is an order of magnitude higher than that observed on land [\\(Poloczanska et al., 2013\\)](#page-12-37). Fourthly, coral populations show a remarkable capacity for phenotypic plasticity and can rapidly shift their physiology to cope with repeated stress events. Phenotypic plasticity can also be adaptive, and recent studies show that this trait provides resilience to frequently encountered environmental variation [\\(Kenkel and Matz, 2016\\)](#page-11-35)."
+      ]
+    }
+  ],
+  "failures": []
+}

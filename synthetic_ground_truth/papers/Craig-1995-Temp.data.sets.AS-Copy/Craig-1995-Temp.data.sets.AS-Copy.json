@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Craig-1995-Temp.data.sets.AS-Copy/Craig-1995-Temp.data.sets.AS-Copy.md",
+  "source_sha256": "80f921ac1c347f7f8c72f47661c90414b73bb141537841da4144b394aba843fe",
+  "status": "complete",
+  "selected_section_count": 3,
+  "successful_record_count": 3,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "7c82480dfbec68107b1a51df",
+      "paper_id": "Craig-1995-Temp.data.sets.AS-Copy/Craig-1995-Temp.data.sets.AS-Copy",
+      "source_path": "output/Craig-1995-Temp.data.sets.AS-Copy/Craig-1995-Temp.data.sets.AS-Copy.md",
+      "section_heading": "NEARSHORE COASTAL WATERS",
+      "section_start_line": 9,
+      "section_end_line": 38,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the mean water temperature at Afao Bay in August for 1990-95?",
+      "ground_truth_answer": "27.1 °C.",
+      "ground_truth_chunks": [
+        "Monthly means (°C), for all years combined, were:",
+        "| Aug     | 27.1 | 0.14 | 26.2-28.6 | 20 |"
+      ]
+    },
+    {
+      "record_id": "763332033459cc403547e185",
+      "paper_id": "Craig-1995-Temp.data.sets.AS-Copy/Craig-1995-Temp.data.sets.AS-Copy",
+      "source_path": "output/Craig-1995-Temp.data.sets.AS-Copy/Craig-1995-Temp.data.sets.AS-Copy.md",
+      "section_heading": "OFFSHORE WATERS",
+      "section_start_line": 39,
+      "section_end_line": 43,
+      "model": "openai:gpt-4o-mini",
+      "question": "On November 16, 1993, at what distances from Tutuila Island were XBT temperature profiles taken?",
+      "ground_truth_answer": "Profiles were taken at 1, 5, 10, 20, 50, 100, and 200 nautical miles from Tutuila Island.",
+      "ground_truth_chunks": [
+        "On November 16, 1993, profiles were taken at varying distances from Tutuila Island: 1, 5, 10, 20, 50, 100, and 200 nautical miles (Figs. 10-16)."
+      ]
+    },
+    {
+      "record_id": "c6a80acc5c8420b2f06280d1",
+      "paper_id": "Craig-1995-Temp.data.sets.AS-Copy/Craig-1995-Temp.data.sets.AS-Copy",
+      "source_path": "output/Craig-1995-Temp.data.sets.AS-Copy/Craig-1995-Temp.data.sets.AS-Copy.md",
+      "section_heading": "Daily sea surface salinity readings taken at the Pago tide station",
+      "section_start_line": 84,
+      "section_end_line": 122,
+      "model": "openai:gpt-4o-mini",
+      "question": "What probe model is listed in the section?",
+      "ground_truth_answer": "Probe T-67 National Ocean Service",
+      "ground_truth_chunks": [
+        "Temp: 36.3 depth: Critise: Cis Longi tude: Probe T-67 National Ocean Service Latitude Drop 007 Bottom Bucket Date",
+        "Bottom depth: Craise; 818 Longi tude Drop e85 Latitide Ocean Service Probe (1) E., p. 21 [mail Bate"
+      ]
+    }
+  ],
+  "failures": []
+}

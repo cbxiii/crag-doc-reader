@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Fagatele Bay Sana/Fagatele Bay Sana.md",
+  "source_sha256": "0c81c356752ebffd5c1c322b8652f05b838102df80512316852d90e37f6fcad4",
+  "status": "complete",
+  "selected_section_count": 2,
+  "successful_record_count": 2,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "d130151a3e34fec66f880222",
+      "paper_id": "Fagatele Bay Sana/Fagatele Bay Sana",
+      "source_path": "output/Fagatele Bay Sana/Fagatele Bay Sana.md",
+      "section_heading": "Fagatele Bay, a strongly resilient marine sanctuary in American Samoa",
+      "section_start_line": 1,
+      "section_end_line": 6,
+      "model": "openai:gpt-4o-mini",
+      "question": "What organism facilitated rapid coral recovery in Fagatele Bay after disturbances?",
+      "ground_truth_answer": "Crustose coralline algae (CCA) facilitated rapid coral recovery.",
+      "ground_truth_chunks": [
+        "Surveys held since 1985, led by Dr. Charles Birkeland and his team, reveal a pattern of damage followed by rapid recovery facilitated by crustose coralline algae (CCA).",
+        "This unique resilience offers hope amid global coral reef declines, highlighting the need for further research on CCA's role in coral recruitment and potential conservation strategies."
+      ]
+    },
+    {
+      "record_id": "9f58815b17a156328be7955e",
+      "paper_id": "Fagatele Bay Sana/Fagatele Bay Sana",
+      "source_path": "output/Fagatele Bay Sana/Fagatele Bay Sana.md",
+      "section_heading": "History of Fagatele Bay",
+      "section_start_line": 7,
+      "section_end_line": 38,
+      "model": "openai:gpt-4o-mini",
+      "question": "In which years did Charles Birkeland conduct the Fagatele Bay surveys as listed in the section?",
+      "ground_truth_answer": "1985, 1988, 1995, 1996, 1998, 2001, 2002, 2007, 2018, and 2024.",
+      "ground_truth_chunks": [
+        "Since the original 1985 survey, Charles has repeated the survey ten times: in 1985, 1988, 1995, 1996, 1998, 2001, 2002, 2007, 2018, and now 2024."
+      ]
+    }
+  ],
+  "failures": []
+}

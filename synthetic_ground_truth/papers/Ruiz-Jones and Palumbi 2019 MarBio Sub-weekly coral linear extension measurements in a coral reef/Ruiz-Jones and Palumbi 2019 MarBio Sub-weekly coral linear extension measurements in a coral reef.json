@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef.md",
+  "source_sha256": "827ed3af59ceb9520028d96df07e5c3ad34602297529119621a693c73a5d9768",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "fba1949c58efab5bcd170bd7",
+      "paper_id": "Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef",
+      "source_path": "output/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef.md",
+      "section_heading": "ABSTRACT",
+      "section_start_line": 21,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long were the linear extension growth rates measured using the technique developed in this study?",
+      "ground_truth_answer": "They measured 5-day linear extension growth rates (sub-weekly).",
+      "ground_truth_chunks": [
+        "With the goal of measuring coral growth at sub-weekly scales in the field, we developed a technique to measure 5-day linear extension growth rates.",
+        "Using serial skeletal staining and petrographic thin sectioning we measured linear extension in *A. hyacinthus* during three consecutive 5-day growth periods that had differing amounts of environmental variability."
+      ]
+    },
+    {
+      "record_id": "b84e62b225775d9ae9eb5929",
+      "paper_id": "Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef",
+      "source_path": "output/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 25,
+      "section_end_line": 50,
+      "model": "openai:gpt-4o-mini",
+      "question": "What fluorescent dye did the study use to mark the coral skeleton for sub-weekly growth measurements?",
+      "ground_truth_answer": "Calcein.",
+      "ground_truth_chunks": [
+        "To do this, we used the fluorescent dye calcein to mark the coral skeleton at four time points demarcating three separate 5-day growth periods.",
+        "Calcein binds to calcium, which crosses coral tissues via paracellular pathways, and is incorporated into the calcium carbonate skeleton during active calcification ([Tambutte et al.,](#page-8-39) [2011\\)](#page-8-39)."
+      ]
+    },
+    {
+      "record_id": "d3977335e8c6725f90c962e8",
+      "paper_id": "Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef",
+      "source_path": "output/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef.md",
+      "section_heading": "2.2. Staining protocol",
+      "section_start_line": 61,
+      "section_end_line": 70,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long were the coral fragments exposed to calcein during each staining?",
+      "ground_truth_answer": "6 hours (from about midmorning to midafternoon).",
+      "ground_truth_chunks": [
+        "The coral fragments were exposed to calcein for 6 h, from about midmorning to midafternoon.",
+        "In our pilot study we observed that during a 6 h calcein exposure the coral tentacles were out, suggesting they were not severely stressed, and the resulting stain line was clearly visible with confocal microscopy."
+      ]
+    },
+    {
+      "record_id": "47c2519cdada3e0f0649317d",
+      "paper_id": "Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef",
+      "source_path": "output/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef.md",
+      "section_heading": "2.3. Environmental data",
+      "section_start_line": 71,
+      "section_end_line": 78,
+      "model": "openai:gpt-4o-mini",
+      "question": "How frequently were temperature, pH, and dissolved oxygen (DO) measurements recorded?",
+      "ground_truth_answer": "Temperature was recorded every 10 min; pH was recorded every 20 min; DO saturation was recorded every 10 min.",
+      "ground_truth_chunks": [
+        "A temperature logger (HOBO Pendant), which recorded every 10 min, was attached to each grid. A continuous-recording pH sensor (SeaFET) recorded pH every 20 min and a YSI DataSonde (model 6600V2-4) recorded DO saturation (%) every 10 min.",
+        "We only had one pH sensor and one DO sensor; both were attached to dead substratum at about 1.5 m depth within 20 m of Grid 1."
+      ]
+    },
+    {
+      "record_id": "3c2eea0571332c85781ec6dc",
+      "paper_id": "Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef",
+      "source_path": "output/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef.md",
+      "section_heading": "2.4. Measuring skeletal linear extension with microscopy",
+      "section_start_line": 79,
+      "section_end_line": 86,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were linear extension measurements obtained and averaged for each growth period in a measurable area?",
+      "ground_truth_answer": "Thin sections were scanned on a confocal microscope (Zeiss LSM 700) to locate areas with the four calcein stain lines (excite 488 nm, detect ~520 nm). Micrographs were taken at 20×, the stain lines were traced in ImageJ (v1.46r) using the freehand line tool, linear extension was measured every 20 μm along the measurable area, and those measurements were averaged to give an extension value for each growth period at that measurable area.",
+      "ground_truth_chunks": [
+        "With a confocal microscope (Zeiss LSM 700), set to excite calcein (488 nm) and detect the wavelength emitted (~520 nm), we scanned the branch tips for areas where the four parallel stain lines were visible.",
+        "Linear extension was measured on micrographs of the thin sections taken at 20× on the confocal microscope. At each measureable area, the stain lines were traced over in ImageJ (v1.46r) (with the freehand line tool) ([Fig. 2](#page-3-0)D).",
+        "We then measured linear extension every 20 μm along the length of the measureable area (see [Fig. 2](#page-3-0)D). We averaged among these values to produce an extension value for each growth period for each measureable area."
+      ]
+    },
+    {
+      "record_id": "5250c71c3f79c18cecbb6e33",
+      "paper_id": "Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef",
+      "source_path": "output/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef.md",
+      "section_heading": "3.2. Five-day linear extension growth in the reef",
+      "section_start_line": 106,
+      "section_end_line": 109,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the average linear extension per 5-day growth period across all samples?",
+      "ground_truth_answer": "About 15 μm per 5-day growth period.",
+      "ground_truth_chunks": [
+        "In total we were able to make measurements at 164 measureable areas across 58 axial corallites from the six colonies of *A. hyacinthus*.",
+        "The average linear extension for each 5-day growth period ranged from 9 to 27 μm ([Table 1\\)](#page-4-0).",
+        "Across all samples, the distribution of linear extension values was similar for the three growth periods ([Fig. 4D](#page-6-0)); the means are all within a couple microns of each other, at about 15 μm per 5-day growth period."
+      ]
+    },
+    {
+      "record_id": "cff6ab95b3267ea966cfb9c2",
+      "paper_id": "Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef",
+      "source_path": "output/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef.md",
+      "section_heading": "3.3. Environmental differences between growth periods",
+      "section_start_line": 110,
+      "section_end_line": 115,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which growth period showed the highest variability in temperature, pH, and DO saturation?",
+      "ground_truth_answer": "Growth period 2 showed the highest variability in temperature, pH, and DO saturation.",
+      "ground_truth_chunks": [
+        "Growth period 2 had higher variability than growth periods 1 and 3 due to a series of strong low tides that occurred around midday and midnight ([Fig. 4A](#page-6-0)–C and [Table 2\\)](#page-6-1).",
+        "The temperature of Grid 1 had a range of 5.4 °C, from a minimum of 26.5 °C to a maximum of 31.9 °C during growth period 2. For Grid 2, the range was 3.5 °C, from 27.3 to 30.8 °C ([Table 2;](#page-6-1) [Fig. 4](#page-6-0)A).",
+        "During growth period 2 the pH varied from 7.78 to 8.19, a range of 0.41 units, and during growth periods 1 and 3 the ranges were 0.33 and 0.25, respectively [\\(Table 2;](#page-6-1) [Fig. 4B](#page-6-0)). The DO saturation during growth period 2 ranged from 47%, the lowest value during the experiment, to 219%, a range of 172%; the ranges for growth periods 1 and 3 were 92% and 75%, respectively ([Table 2;](#page-6-1) [Fig. 4C](#page-6-0))."
+      ]
+    },
+    {
+      "record_id": "775b41a3717e311ea5c759a5",
+      "paper_id": "Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef",
+      "source_path": "output/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef.md",
+      "section_heading": "3.4. Coral linear extension growth rates remained consistent across varying environmental conditions",
+      "section_start_line": 116,
+      "section_end_line": 119,
+      "model": "openai:gpt-4o-mini",
+      "question": "Was linear extension significantly different between the three growth periods?",
+      "ground_truth_answer": "No — linear extension was not significantly different between the three growth periods; all three periods had similar means and ranges, most measurements differed from the mean by ≤5 μm, and there was no observable increase or decrease during the more environmentally variable growth period 2.",
+      "ground_truth_chunks": [
+        "We observed that linear extension was not significantly different between the three growth periods; all three growth periods have similar means and ranges ([Fig. 4D](#page-6-0)).",
+        "For each measurable area across all our samples, the differences in linear extension during each growth period from the mean growth (for the three growth periods) were small; the majority of measurements were within 5 μm.",
+        "We found that there was no observable increase or decrease in the amount of linear extension during growth period 2, when there was increased environmental variability, compared to the other two growth periods, which had more similar environmental conditions ([Fig. 4](#page-6-0)D)."
+      ]
+    },
+    {
+      "record_id": "ca4d6d5491e9e547c862b6d8",
+      "paper_id": "Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef",
+      "source_path": "output/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef.md",
+      "section_heading": "4.1. Measuring short-term coral growth in the field",
+      "section_start_line": 130,
+      "section_end_line": 172,
+      "model": "openai:gpt-4o-mini",
+      "question": "What limitations of the calcein staining protocol for measuring short-term coral growth in the field are described in section 4.1?",
+      "ground_truth_answer": "The protocol has several limitations: it requires transferring corals to a laboratory for a 6 h calcein incubation (potentially causing handling stress); it requires careful thin sectioning and confocal microscopy, which limited sample size for at least one colony (AH75); there is high variation in absolute linear extension across the branch tip, so the study focused on relative extension; and the measurements only capture linear extension (not skeleton density or calcification rates).",
+      "ground_truth_chunks": [
+        "However, our protocol is limited is several important ways. First, it requires that corals be transferred to a laboratory setting in order to mark the skeleton with calcein during a 6 h incubation.",
+        "The second limitation is that measurements require careful thin sectioning of the coral skeleton and meticulous examination with a powerful microscope. Even then, we were unable to obtain a large sample size for one of the colonies (AH75) due to the necessity of only examining locations in the branch tip where all four stain lines were visible.",
+        "The third limitation is that there is high variation in absolute linear extension across the branch tip. As a result, we focused on relative linear extension by measuring the relative change among growth periods. Lastly, our measurements only reflect one aspect of growth, linear extension. Due to the limitations of measuring growth over 5 days in the field, we did not quantify the density of the newly added skeleton during each growth period and therefore, cannot calculate calcification rates."
+      ]
+    },
+    {
+      "record_id": "b59086952e4654fe133ce606",
+      "paper_id": "Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef",
+      "source_path": "output/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef/Ruiz-Jones and Palumbi 2019 MarBio Sub-weekly coral linear extension measurements in a coral reef.md",
+      "section_heading": "5. Conclusions",
+      "section_start_line": 173,
+      "section_end_line": 176,
+      "model": "openai:gpt-4o-mini",
+      "question": "What measurement technique do the authors propose for assessing coral skeletal linear extension immediately following a pulse-type stress event?",
+      "ground_truth_answer": "A sub-weekly linear extension measurement technique.",
+      "ground_truth_chunks": [
+        "Coral growth can be used as a physiological metric for coral health.",
+        "Our sub-weekly linear extension measurement technique can be implemented immediately following a pulse-type stress event in the reef to quantify the impact on coral skeletal linear extension."
+      ]
+    }
+  ],
+  "failures": []
+}

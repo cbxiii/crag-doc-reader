@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy.md",
+  "source_sha256": "bab95df58ee1884340f55b4f7a2f24acbe4729b84c055e071005bf2012b10fbc",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "b98dff560fdda76bd5433600",
+      "paper_id": "Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy",
+      "source_path": "output/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy.md",
+      "section_heading": "Abstract",
+      "section_start_line": 11,
+      "section_end_line": 16,
+      "model": "openai:gpt-4o-mini",
+      "question": "In which lagoon pool did both Pocillopora damicornis and Porites cylindrica exhibit the greatest growth during the one-year transplant experiment?",
+      "ground_truth_answer": "Both species had the greatest growth in Pool 300.",
+      "ground_truth_chunks": [
+        "Regardless of site of origin, both species had the greatest growth in Pool 300, the lagoon pool with the highest daily maximum temperatures and greatest daily temperature ranges of the three lagoon sites.",
+        "Pool 300 is also the shallowest of the three lagoon sites, thus likely subject to the greatest irradiance."
+      ]
+    },
+    {
+      "record_id": "7dac97378cc3c2e423951bc5",
+      "paper_id": "Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy",
+      "source_path": "output/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy.md",
+      "section_heading": "Global Warming and NPSA",
+      "section_start_line": 47,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many acres of coral reefs does the National Park of American Samoa (NPSA) have jurisdiction over?",
+      "ground_truth_answer": "2,550 acres.",
+      "ground_truth_chunks": [
+        "The National Park of American Samoa (NPSA) has jurisdiction over 2,550 acres of coral reefs along 17 miles of coastline within park units on Tutuila, Ofu, and Ta'u Islands in American Samoa (Fig. 1)."
+      ]
+    },
+    {
+      "record_id": "f40315038899d8dbb4daa077",
+      "paper_id": "Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy",
+      "source_path": "output/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy.md",
+      "section_heading": "Project Design",
+      "section_start_line": 71,
+      "section_end_line": 124,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which field transplant experiments in the Project Design were started on 7/02 and completed on 7/03?",
+      "ground_truth_answer": "E1-1 (Field transplant experiment at Ofu) and E2-1 (Field transplant experiment at Ofu) were started 7/02 and completed 7/03.",
+      "ground_truth_chunks": [
+        "1.3.1. E1-1: Field transplant experiment at Ofu (**started 7/02 and completed 7/03, experimental design may be modified and experiment repeated**): Transplant coral nubbins between the warmest Ofu habitats and cooler sites.",
+        "2.3.1. E2-1: Field transplant experiment at Ofu (**started 7/02 and completed 7/03**): Coral nubbins were stained and transplanted across a range of depths and temperatures in Ofu Lagoon to determine if extrinsic factors can explain observed differences in coral distributions."
+      ]
+    },
+    {
+      "record_id": "f583dd934cc216d093937018",
+      "paper_id": "Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy",
+      "source_path": "output/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy.md",
+      "section_heading": "Water Movement",
+      "section_start_line": 143,
+      "section_end_line": 166,
+      "model": "openai:gpt-4o-mini",
+      "question": "What technique was used to measure total water motion in the Ofu Lagoon study and why is it considered a valid measurement?",
+      "ground_truth_answer": "Total water motion was measured using the clod-card technique (plaster of Paris blocks glued to plastic sheets and attached to the substrate for at least 24 hours). It is considered valid because dissolution rates of the plaster of Paris are proportional to water current velocity, providing a simple, valid measurement of total water motion on coral reefs.",
+      "ground_truth_chunks": [
+        "Total water motion was measured using the clod-card technique, whereby a plaster of Paris block (\"clod\") is glued to a plastic sheet (\"card\"; Fig. 6) and attached to the substrate for at least 24 hours to provide an index of water motion experienced by benthic organisms over the full tidal\n\ncycle (Doty 1971).",
+        "Because dissolution rates of the plaster of Paris are proportional to water current velocity, this technique provides a simple, valid measurement of total water motion on coral reefs (Jokiel & Morrissey 1993)."
+      ]
+    },
+    {
+      "record_id": "04ee9c41367cc30d2a7d1429",
+      "paper_id": "Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy",
+      "source_path": "output/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy.md",
+      "section_heading": "Coral Transplants",
+      "section_start_line": 193,
+      "section_end_line": 200,
+      "model": "openai:gpt-4o-mini",
+      "question": "For each transplant experiment, how many coral nubbins were collected and how were the experimental and control transplants allocated?",
+      "ground_truth_answer": "For each experiment, groups of 30 coral nubbins were gathered; 20 nubbins were transplanted to the transplant areas as experimental transplants, and the remaining 10 control nubbins were brought back and transplanted at the source area as control transplants.",
+      "ground_truth_chunks": [
+        "For each of the six experiments, groups of 30 coral nubbins were gathered from a source area, stained, and moved to the transplant areas, where 20 nubbins were transplanted (experimental transplants), then the remaining 10 controls were brought back and transplanted at the source area (control transplants).",
+        "All transplants were placed within a 10 m radius of the of the tidbit temperature\n\n![](_page_12_Picture_8.jpeg)\n\nloggers located in the three Ofu Lagoon study sites (see aerial photos at end of Appendix A for locations) and Ofu Harbor (Fig. 1) in July 2002, and removed after one year in July 2003."
+      ]
+    },
+    {
+      "record_id": "242b8a34b4e721fa9ecb0b78",
+      "paper_id": "Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy",
+      "source_path": "output/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy.md",
+      "section_heading": "Water Quality",
+      "section_start_line": 205,
+      "section_end_line": 241,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which pool experienced the highest maximum daily water temperature during the study and what was that temperature?",
+      "ground_truth_answer": "Pool 300 experienced the highest maximum daily water temperature: 35.5 °C (recorded in February).",
+      "ground_truth_chunks": [
+        "Maximum daily temperatures occurred from November through March, with several temperatures of >33 °C recorded in Pool 300, including a maximum of 35.5 °C in February.",
+        "300  | Nov-May                                                                        | 29.2-35.5               | 27.1-29.8 | 0.4-6.3 | 28.4-30.9 | 35.5 | 27.1                              | 8.4   | 29.8"
+      ]
+    },
+    {
+      "record_id": "0b084037e9f99c4f8fb6453b",
+      "paper_id": "Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy",
+      "source_path": "output/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy.md",
+      "section_heading": "Habitat Characteristics",
+      "section_start_line": 256,
+      "section_end_line": 274,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which pool had higher live coral cover than Pool 500, and what was the reported significance (p-value)?",
+      "ground_truth_answer": "Pool 400 had higher live coral cover than Pool 500 (p < 0.001).",
+      "ground_truth_chunks": [
+        "Live coral cover was higher in Pool 400 than in Pool 500 (p<0.001), but there were no differences between Pools 300 and 500 (p = 0.058) or Pools 300 and 400 (p = 0.26)."
+      ]
+    },
+    {
+      "record_id": "c2f3eb78e3ab8545f425e12e",
+      "paper_id": "Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy",
+      "source_path": "output/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy.md",
+      "section_heading": "Discussion",
+      "section_start_line": 342,
+      "section_end_line": 377,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Ofu Lagoon pool had significantly higher growth rates for Pocillopora damicornis and Porites cylindrica, and higher survival of P. damicornis?",
+      "ground_truth_answer": "Pool 300.",
+      "ground_truth_chunks": [
+        "*Pocillopora damicornis* and *Porites cylindrica* had significantly higher growth rates in Pool 300 than the other two lagoon sites (Pools 400 and 500).",
+        "In addition, survival of *P. damicornis* was much higher in Pool 300 than the other two lagoon sites.",
+        "In conclusion, coral transplants survived better (*P. damicornis*) and grew more (*P. damicornis* and *P. cylindrica*) in Pool 300, the site with the highest temperatures and highest irradiance of the three lagoon pools."
+      ]
+    },
+    {
+      "record_id": "915c7d18803644fde00fe082",
+      "paper_id": "Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy",
+      "source_path": "output/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy.md",
+      "section_heading": "Appendix A: Methods for Coral Transplant Experiments",
+      "section_start_line": 443,
+      "section_end_line": 507,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long were the nubbins left in stainbags to photosynthesize during the experiments?",
+      "ground_truth_answer": "They were left out in the lagoon for 5-6 hours in the middle of the day (usually from approximately 9 a.m. to 3 p.m.).",
+      "ground_truth_chunks": [
+        "The quadrats and stainbags were held on the substrate with weight belts, and left out in the lagoon for 5-6 hours in the middle of the day, usually from approximately 9 a.m. to 3 p.m."
+      ]
+    },
+    {
+      "record_id": "576c47c490cf1e1a66a5e785",
+      "paper_id": "Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy",
+      "source_path": "output/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy/Smith-2003-Managing.NPSA.coral.reefs.AS-Copy.md",
+      "section_heading": "Appendix E: Data for Tables and Graphs in Report (on CD, not in this document)",
+      "section_start_line": 570,
+      "section_end_line": 572,
+      "model": "openai:gpt-4o-mini",
+      "question": "Is Appendix E included with the hard copy of this report?",
+      "ground_truth_answer": "No. Appendix E is not included with the hard copy because it consists primarily of data spreadsheets.",
+      "ground_truth_chunks": [
+        "Appendix E is not included with the hard copy of this report because it consists primarily of data spreadsheets.",
+        "A CD with this report, including Appendix E, is on file at the National Park of American Samoa office in Pago Pago (e-mail NPSA\\_Administration@nps.gov or phone 011- 684-633-7082), and at the Hawai'i Cooperative Fishery Research Unit office in the Zoology Department at the University of Hawai'i at Manoa (see cover page for contact information)."
+      ]
+    }
+  ],
+  "failures": []
+}

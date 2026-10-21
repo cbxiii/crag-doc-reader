@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132.md",
+  "source_sha256": "77635772b7b58c7ae770b7df99367e754a3b9155d0b6b99c07b49cff757cffa3",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "1cb68f6f983bd00969ddccff",
+      "paper_id": "CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132",
+      "source_path": "output/CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132.md",
+      "section_heading": "IntrOductIOn",
+      "section_start_line": 5,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which regional atmospheric and oceanographic conditions and trends does this chapter summarize?",
+      "ground_truth_answer": "Winds, waves, currents, sea surface temperature, chlorophyll, and sea surface height anomalies.",
+      "ground_truth_chunks": [
+        "summary of regional atmospheric and oceanographic conditions and trends including winds, waves, currents, sea surface temperature, chlorophyll, and sea surface height anomalies, and discusses potential influences they may have on Samoan reef ecosystems.",
+        "Larvae that reach the archipelago are carried to the region on ocean currents and those organisms that arrive and thrive must be adapted to the climatic conditions that characterize the region including temperature, winds, waves, nutrients, tides, sea level, and other factors."
+      ]
+    },
+    {
+      "record_id": "7bd166ad373b4ce52ef7d221",
+      "paper_id": "CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132",
+      "source_path": "output/CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132.md",
+      "section_heading": "climate Background",
+      "section_start_line": 15,
+      "section_end_line": 18,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the range of mean daily air temperature in the Samoan Archipelago?",
+      "ground_truth_answer": "Mean daily air temperature varies between 22°C and 30°C.",
+      "ground_truth_chunks": [
+        "Mean daily air temperature varies between 22°C and 30°C (SPSLCMP 2007)."
+      ]
+    },
+    {
+      "record_id": "e284bcd4ea19a4b9a5daa899",
+      "paper_id": "CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132",
+      "source_path": "output/CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132.md",
+      "section_heading": "dAtA And MethOdS",
+      "section_start_line": 19,
+      "section_end_line": 41,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many years of sea surface temperature (SST) data were used in the example composite seasonal cycle described in the section?",
+      "ground_truth_answer": "21 years.",
+      "ground_truth_chunks": [
+        "For example, there were 21 years of sea surface temperature (SST) data."
+      ]
+    },
+    {
+      "record_id": "1b31f9b3078ff8ff8cec820c",
+      "paper_id": "CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132",
+      "source_path": "output/CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132.md",
+      "section_heading": "Wind",
+      "section_start_line": 44,
+      "section_end_line": 59,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which atmospheric feature crosses over the Samoan Archipelago twice a year?",
+      "ground_truth_answer": "The South Pacific Convergence Zone (SPCZ) crosses over the Samoan Archipelago twice a year.",
+      "ground_truth_chunks": [
+        "A major atmospheric feature affecting the Samoan climate is the South Pacific Convergence Zone (SPCZ) where Trade Winds converge at the surface (Figure 2.1).",
+        "The SPCZ crosses over the Samoan Archipelago twice a year (Alory and Delcroix 1999)."
+      ]
+    },
+    {
+      "record_id": "163dc9c3a348652381683406",
+      "paper_id": "CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132",
+      "source_path": "output/CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132.md",
+      "section_heading": "Waves",
+      "section_start_line": 60,
+      "section_end_line": 69,
+      "model": "openai:gpt-4o-mini",
+      "question": "During which months are ocean swell and wave power highest in the Samoan Archipelago?",
+      "ground_truth_answer": "May-September (2-3 m wave height is common).",
+      "ground_truth_chunks": [
+        "The wave climate can be split into two main components, short period (~2-10 seconds) \"wind seas\" that result from local forces such as the easterly Trade Winds versus long period (~10-20 seconds) \"ocean swells\" that originate from storms many of which are far south of the archipelago (Barstow and Haug 1994).",
+        "Ocean swell from the south and wave power in general are highest during May-September (2-3 m wave height is common) with the increased intensity of the Trade Winds and frequency of swell producing storms at higher latitudes (Barstow and Haug 1994, Brainard et al. 2008)."
+      ]
+    },
+    {
+      "record_id": "85170b87fb5699c19ff0c740",
+      "paper_id": "CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132",
+      "source_path": "output/CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132.md",
+      "section_heading": "Ocean circulation",
+      "section_start_line": 70,
+      "section_end_line": 79,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the two major regional surface currents affecting the Samoan Archipelago?",
+      "ground_truth_answer": "The westward flowing South Equatorial Current (SEC) and the eastward flowing South Equatorial Counter Current (SECC).",
+      "ground_truth_chunks": [
+        "At a regional scale, there are 2 major surface currents affecting the archipelago (Qiu and Chen 2004): (1) the westward flowing South Equatorial Current (SEC), and (2) the eastward flowing South Equatorial Counter Current (SECC) (Figure 2.3).",
+        "At the broadest scale, the Samoan Archipelago lies along the northern edge of the South Pacific Gyre, a series of connected ocean currents with a counter-clockwise flow (Alory and Delcroix 1999, Tomczak and Godfrey 2003, McClain et al. 2004, Craig 2009) (Figure 2.3)."
+      ]
+    },
+    {
+      "record_id": "7a13c55016d416fa6e8ef1f3",
+      "paper_id": "CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132",
+      "source_path": "output/CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132.md",
+      "section_heading": "Ocean temperature",
+      "section_start_line": 80,
+      "section_end_line": 139,
+      "model": "openai:gpt-4o-mini",
+      "question": "By how much did sea surface temperature (SST) within the American Samoa EEZ change from 1985 through 2006?",
+      "ground_truth_answer": "It increased by approximately 1° C.",
+      "ground_truth_chunks": [
+        "Overall trends in SST within the American Samoa EEZ exhibit an increase of ~1° C from 1985 through 2006 (p < 0.0003, R<sup>2</sup>= 0.05, SST = 28.1 + 0.0023\\*month)."
+      ]
+    },
+    {
+      "record_id": "f189b91cf0775a7b9d8ce646",
+      "paper_id": "CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132",
+      "source_path": "output/CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132.md",
+      "section_heading": "chlorophyll",
+      "section_start_line": 140,
+      "section_end_line": 171,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the SeaWiFS-based analysis in the section, what were the monthly minimum and maximum chlorophyll concentrations for the Samoan Archipelago and in which months did they occur?",
+      "ground_truth_answer": "A low of 0.05  $\u0010$ g/L in January and a high near 0.08  $\u0010$ g/L in July.",
+      "ground_truth_chunks": [
+        "The entire archipelago shows low chlorophyll levels all year with very limited but discernable seasonal variability (Figure 2.10) (Dandonneau et al. 2004, McClain et al. 2004). Chlorophyll averages range 0.02 to 0.03  $\\mu$ g/L from a low of 0.05  $\\mu$ g/L in January to a high near 0.08  $\\mu$ g/L in July."
+      ]
+    },
+    {
+      "record_id": "b26662edb940010bff428d8f",
+      "paper_id": "CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132",
+      "source_path": "output/CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132.md",
+      "section_heading": "Sea surface height anomalies",
+      "section_start_line": 172,
+      "section_end_line": 231,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the maximum deviation observed for sea level below the expected monthly average according to the section?",
+      "ground_truth_answer": "Approximately 30 cm lower than the expected monthly average.",
+      "ground_truth_chunks": [
+        "A major negative height anomaly occurred in the Samoan EEZs during the strong El Niño of 1998 (SPSLCMP 2007).",
+        "The maximum deviation observed was for sea level to be ~30 cm lower than the expected monthly average."
+      ]
+    },
+    {
+      "record_id": "42be71e369dede00919a423e",
+      "paper_id": "CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132",
+      "source_path": "output/CH2_Oceanography_from noaa_nccos_132/CH2_Oceanography_from noaa_nccos_132.md",
+      "section_heading": "CONCLUSIONS",
+      "section_start_line": 232,
+      "section_end_line": 245,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the major source of variability for winds, waves, and sea surface temperature (SST) in the Samoan Archipelago?",
+      "ground_truth_answer": "The major source of variability for winds, waves, and SST is seasonal variability.",
+      "ground_truth_chunks": [
+        "The major source of variability is seasonal for winds, waves, and SST whereas chlorophyll and sea surface height are affected more by interannual processes (Alory and Delcroix 1999).",
+        "The Samoan EEZs lie roughly between 10 and 17° S latitude. The SST in this region has a much smaller range of values, fewer extreme fluctuations, and less interannual variability than SST observed at higher or lower latitudes."
+      ]
+    }
+  ],
+  "failures": []
+}

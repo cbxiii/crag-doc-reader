@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS.md",
+  "source_sha256": "4b9c1fe218b042a067f11f257b7676f162674154397f3f098249e7ad2074d822",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "f5bd1170cf74e4811f8594bc",
+      "paper_id": "Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS",
+      "source_path": "output/Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS.md",
+      "section_heading": "A COLLECTION OF FISHES FROM SAMOA.",
+      "section_start_line": 19,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many species does the Samoa fish collection described in the section include?",
+      "ground_truth_answer": "53 species.",
+      "ground_truth_chunks": [
+        "Efforts were made chiefly to secure small or inconspicuous forms, and, though the collection embraces only 53 species, several are rare and one species is described as new."
+      ]
+    },
+    {
+      "record_id": "90760bc8d21eb7a863296f3c",
+      "paper_id": "Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS",
+      "source_path": "output/Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS.md",
+      "section_heading": "Chlevastes fasciatus (Ahl).",
+      "section_start_line": 47,
+      "section_end_line": 50,
+      "model": "openai:gpt-4o-mini",
+      "question": "How do the dark cross-bands compare in width to the pale interspaces in Chlevastes fasciatus (Ahl)?",
+      "ground_truth_answer": "They are much narrower — at least much less than one-third the width of the pale interspaces.",
+      "ground_truth_chunks": [
+        "Differs in dark cross-bands, much narrower, at least much less than one-third width of pale interspaces."
+      ]
+    },
+    {
+      "record_id": "27b3db22a70a70bf703e85f5",
+      "paper_id": "Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS",
+      "source_path": "output/Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS.md",
+      "section_heading": "Anarchias allardicei (Jordan and Seale).",
+      "section_start_line": 114,
+      "section_end_line": 139,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many pores are along each side of the upper lip of Anarchias allardicei?",
+      "ground_truth_answer": "Five pores along each side of the upper lip.",
+      "ground_truth_chunks": [
+        "Skin smooth, tough, 5 pores along each side of upper lip, first in front of anterior nostril, second close behind base of anterior nostril, third nearer eye than second, fourth below front pupil edge, and fifth close behind eye."
+      ]
+    },
+    {
+      "record_id": "8de52921f0dc320578f9e972",
+      "paper_id": "Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS",
+      "source_path": "output/Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS.md",
+      "section_heading": "Neomyxus chaptali (Eydoux and Souleyet).",
+      "section_start_line": 166,
+      "section_end_line": 181,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many scales are in the median lateral row to the caudal base?",
+      "ground_truth_answer": "37 to 39.",
+      "ground_truth_chunks": [
+        "Head 3.4; depth 3.4 to 3.5; D. IV-I, 9; A. III, 9; scales 37 to 39 in median lateral row to caudal base and 5 more on latter; 12 or 13 scales transversely between dorsal and anal origins; about 21 or 22 predorsal scales; snout 3.5 in head; eye 3.25 to 3.33 in head; mouth width 2.87; interorbital 2 to 2.4."
+      ]
+    },
+    {
+      "record_id": "8c05fea9ccae84ea018cfb18",
+      "paper_id": "Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS",
+      "source_path": "output/Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS.md",
+      "section_heading": "Holocentrus diadema Lacépède.",
+      "section_start_line": 198,
+      "section_end_line": 209,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many scales are in the lateral line to the caudal base for Holocentrus diadema?",
+      "ground_truth_answer": "50 scales in the lateral line to the caudal base, and 3 more on the caudal base.",
+      "ground_truth_chunks": [
+        "scales 50 in lateral line to caudal base and 3 more on latter;"
+      ]
+    },
+    {
+      "record_id": "200c3216d7e1173b1f3789e1",
+      "paper_id": "Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS",
+      "source_path": "output/Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS.md",
+      "section_heading": "Gnathypops samoensis new species. Fig. 1.",
+      "section_start_line": 266,
+      "section_end_line": 303,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the dorsal fin formula (spines and soft rays) for Gnathypops samoensis?",
+      "ground_truth_answer": "Dorsal fin D. VII, 20 (seven spines and 20 soft rays).",
+      "ground_truth_chunks": [
+        "Head 2.75; depth 3.33; D. VII, 20; A. III, 17; P. 15; V. I, 5; scales from shoulder to median caudal base about 50, and 10 more on latter; 31 tubes in lateral line; 4 scales above lateral line to soft dorsal origin; 22 scales in vertical series below lateral line to",
+        "Spinous dorsal inserted over origin of pectoral, spines all slender, low, pungent, graduated up to third and then about uniform."
+      ]
+    },
+    {
+      "record_id": "2997c2b00ad98fbd8735d9fc",
+      "paper_id": "Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS",
+      "source_path": "output/Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS.md",
+      "section_heading": "Platyglossus notopsis (Valenciennes).",
+      "section_start_line": 375,
+      "section_end_line": 384,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the size of the largest Platyglossus notopsis specimen described?",
+      "ground_truth_answer": "44 mm.",
+      "ground_truth_chunks": [
+        "Largest example 44 mm."
+      ]
+    },
+    {
+      "record_id": "1d5b3701d64ed6f158d66fad",
+      "paper_id": "Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS",
+      "source_path": "output/Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS.md",
+      "section_heading": "CHÆTODONTIDÆ.",
+      "section_start_line": 404,
+      "section_end_line": 413,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many Chaetodon species are reported in this section and what are their names?",
+      "ground_truth_answer": "Two species are reported: Chætodon trifascialis Quoy and Gaimard; Chætodon pelewensis Kner.",
+      "ground_truth_chunks": [
+        "Chætodon trifascialis Quoy and Gaimard.",
+        "Chætodon pelewensis Kner."
+      ]
+    },
+    {
+      "record_id": "740a8a4933545f79e25aa272",
+      "paper_id": "Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS",
+      "source_path": "output/Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS.md",
+      "section_heading": "Pseudogobiodon citrinus (Rüppell).",
+      "section_start_line": 488,
+      "section_end_line": 493,
+      "model": "openai:gpt-4o-mini",
+      "question": "What coloration and border pattern is described for the first dorsal fin in some Pseudogobiodon citrinus specimens?",
+      "ground_truth_answer": "Some have the first dorsal olive with a bright orange border and a narrow black edge.",
+      "ground_truth_chunks": [
+        "Some with first dorsal olive, border bright orange, edge narrowly black."
+      ]
+    },
+    {
+      "record_id": "58cfeb23095f790d796d3284",
+      "paper_id": "Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS",
+      "source_path": "output/Fowler and Silvester-1922-Collection.fishes.AS/Fowler and Silvester-1922-Collection.fishes.AS.md",
+      "section_heading": "Alticus biseriatus (Valenciennes). (Fig. 2).",
+      "section_start_line": 508,
+      "section_end_line": 543,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the dorsal fin formula (number of spines and soft rays) given for Alticus biseriatus?",
+      "ground_truth_answer": "Dorsal fin: XIII spines and 18 to 20 soft rays.",
+      "ground_truth_chunks": [
+        "Head 3.33 to 4.12; depth 3.66 to 5; D. XIII, 18 to 20; A. 22 to 24; P. 15; V. 2; head width 1.5 its length; head depth (without crest) 1.4; eye 2.5 to 3.5; mouth width 2; first dorsal spine 2; fifth dorsal ray 1.33; fourth anal ray 2.33; least depth of caudal peduncle 2.33; caudal 1; pectoral 1.25; ventral 2.",
+        "Spinous dorsal origin slightly in front of gill-opening edge, only last few spines graduated down short, as deep notch before soft dorsal, and fin largely uniform with entire edge."
+      ]
+    }
+  ],
+  "failures": []
+}

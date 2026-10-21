@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Am Sam _LAS_factsheet 2004/Am Sam _LAS_factsheet 2004.md",
+  "source_sha256": "45ac4a7136e58e4a13c82a6444ac550d8c2fcf0e18b5785722b9edacb7dd52bd",
+  "status": "complete",
+  "selected_section_count": 2,
+  "successful_record_count": 2,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "0a10d77b1e992af2d727ad02",
+      "paper_id": "Am Sam _LAS_factsheet 2004/Am Sam _LAS_factsheet 2004",
+      "source_path": "output/Am Sam _LAS_factsheet 2004/Am Sam _LAS_factsheet 2004.md",
+      "section_heading": "E S T I M AT ED LAS P R O J E C T I M P L E M ENTAT I O N CO S T S",
+      "section_start_line": 3,
+      "section_end_line": 16,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the estimated LAS project implementation cost for Fisheries Management?",
+      "ground_truth_answer": "$383,404",
+      "ground_truth_chunks": [
+        "Fisheries Management *\\$383,404*"
+      ]
+    },
+    {
+      "record_id": "dc063c613d3023f27c33f147",
+      "paper_id": "Am Sam _LAS_factsheet 2004/Am Sam _LAS_factsheet 2004",
+      "source_path": "output/Am Sam _LAS_factsheet 2004/Am Sam _LAS_factsheet 2004.md",
+      "section_heading": "AMERICAN SAMOA Local Action Strategy",
+      "section_start_line": 17,
+      "section_end_line": 20,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which committee initiated the American Samoa Local Action Strategies (LAS) process?",
+      "ground_truth_answer": "The process was initiated through the American Samoa Coral Reef Advisory Group (CRAG), a voluntary committee comprised of numerous agencies and academic institutions in the territory concerned with coral reef issues.",
+      "ground_truth_chunks": [
+        "This process was initiated through the American Samoa Coral Reef Advisory Group (CRAG), a voluntary committee comprised of numerous agencies and academic institutions in the territory concerned with coral reef issues.",
+        "Since its inception in 1998, CRAG has overseen many successful management and science activities, has increased member-agency collaboration and has improved alignment and cooperation with non-CRAG agencies that have common interests."
+      ]
+    }
+  ],
+  "failures": []
+}

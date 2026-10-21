@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006.md",
+  "source_sha256": "8285bdde41b846e52271636297a2230a60fd1cb0592c10c8852849574817e156",
+  "status": "complete",
+  "selected_section_count": 9,
+  "successful_record_count": 9,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "6cfd66d4641ae7271d252409",
+      "paper_id": "Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006",
+      "source_path": "output/Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006.md",
+      "section_heading": "Reconstruction of coral reef fisheries catches in American Samoa, 1950–2002",
+      "section_start_line": 5,
+      "section_end_line": 12,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percentage did the reconstructed coral reef fisheries catches in American Samoa decrease between 1950 and 2002 (with large pelagic species removed)?",
+      "ground_truth_answer": "They decreased by 79%.",
+      "ground_truth_chunks": [
+        "Our catch reconstruction (with large pelagic species removed) suggested a 79% decrease in catches between 1950 (752 t) and 2002 (155 t)."
+      ]
+    },
+    {
+      "record_id": "148ff483d209cfd0681c28a9",
+      "paper_id": "Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006",
+      "source_path": "output/Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006.md",
+      "section_heading": "Introduction",
+      "section_start_line": 23,
+      "section_end_line": 34,
+      "model": "openai:gpt-4o-mini",
+      "question": "What years does the study's reconstruction estimate of total removal of coral reef fisheries resources for American Samoa cover?",
+      "ground_truth_answer": "1950– 2002.",
+      "ground_truth_chunks": [
+        "The purpose of the present study was to assemble available information and data on catches for the coral reef fisheries of American Samoa, and to derive estimates of total removal of coral reef fisheries resources for 1950– 2002.",
+        "The present reconstruction estimates excluded large pelagic species (i.e., tuna and billfishes) and associated fisheries, and the remainder was treated as the target groups: reef fisheries, including the so-called 'bottom-fishery' (Anonymous [2004\\)](#page-7-0), as well as catches of coastal, reef-associated small pelagic species such as carangids, e.g., the culturally important big-eye scad (Selar crumenophthalmus)."
+      ]
+    },
+    {
+      "record_id": "09b9bab1943b5111f2c7f9fe",
+      "paper_id": "Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006",
+      "source_path": "output/Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006.md",
+      "section_heading": "Methods",
+      "section_start_line": 35,
+      "section_end_line": 48,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which data source provided the best estimates for catches of the artisanal small-boat fleet back to the early-1980s?",
+      "ground_truth_answer": "The Western Pacific Fishery Information Network (WPacFIN), which presents data collected by the DMWR, provided the best estimates for catches of the artisanal small-boat fleet back to the early-1980s.",
+      "ground_truth_chunks": [
+        "Western Pacific Fishery Information Network (NOAA, www.pifsc.noaa.gov/wpacfin) presents the data collected by the DMWR going back to the early-1980s. Examination of the WPacFIN data and associated information (Aitaoto [1985;](#page-7-0) Craig et al. [1993;](#page-7-0) Hamm et al. [2003\\)](#page-7-0) indicated that these data pertained to the artisanal, small-boat fleet, and provided the best estimates for catches of this sector back to the early-1980s."
+      ]
+    },
+    {
+      "record_id": "da22bbeea251a90c51a8d5dc",
+      "paper_id": "Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006",
+      "source_path": "output/Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006.md",
+      "section_heading": "Artisanal fisheries",
+      "section_start_line": 49,
+      "section_end_line": 55,
+      "model": "openai:gpt-4o-mini",
+      "question": "What data source and survey basis were used for artisanal catch estimates for 1982–2002?",
+      "ground_truth_answer": "The data reported by WPacFIN, based on the DMWR surveys, were taken as artisanal, small-boat catches.",
+      "ground_truth_chunks": [
+        "(3) 1982–2002: The data reported by WPacFIN, and based on the DMWR surveys, were taken as artisanal, small-boat catches (www.pifsc.noaa.gov/ wpacfin, data extracted May 26, 2004). We removed the catches of pelagic species by taxon, thus retaining only bottom-fish and reef-associated species, with catches fluctuating from 60 t in 1982 to 34 t in 2002."
+      ]
+    },
+    {
+      "record_id": "3f6c95013cf97f82cb23e226",
+      "paper_id": "Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006",
+      "source_path": "output/Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006.md",
+      "section_heading": "Subsistence fisheries",
+      "section_start_line": 56,
+      "section_end_line": 96,
+      "model": "openai:gpt-4o-mini",
+      "question": "What per capita subsistence catch rate (kg·person^-1·year^-1) was used for the 'outer islands' in 2002?",
+      "ground_truth_answer": "58.6 kg·person^-1·year^-1.",
+      "ground_truth_chunks": [
+        "Subsistence: c<br>2002 | outer islands (Ofu, Olosega, T<br>P. Craig<br>(unpublished data) | 'au)<br>82,000 kg (58.6 kg·person <sup>-1</sup><br>year <sup>-1</sup> ) | Ongoing investigation                | 82                 ",
+        "This was converted into a *per capita* catch rate of 58.6 kg·person<sup>-1</sup> year<sup>-1</sup> (Table 1) for the 'outer islands' using population statistics."
+      ]
+    },
+    {
+      "record_id": "557490e96760f81b996ebdda",
+      "paper_id": "Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006",
+      "source_path": "output/Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006.md",
+      "section_heading": "Catch rates",
+      "section_start_line": 97,
+      "section_end_line": 100,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many square kilometers of coral reefs to a depth of 50 m does American Samoa have?",
+      "ground_truth_answer": "American Samoa has 479 km² of coral reefs to a depth of 50 m.",
+      "ground_truth_chunks": [
+        "American Samoa has 479 km² of coral reefs to a depth of 50 m, with 108.2 and 16.9 km² associated with the main Island Tutuila and the outer inhabited islands, respectively (A. Graves, National Park of American Samoa, unpublished data)."
+      ]
+    },
+    {
+      "record_id": "2c0fadc2a60f53bd9dc3ba16",
+      "paper_id": "Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006",
+      "source_path": "output/Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006.md",
+      "section_heading": "Results",
+      "section_start_line": 101,
+      "section_end_line": 116,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what factor did the officially reported data underestimate the likely total historic catches for American Samoa (1950–2002) according to the reconstruction?",
+      "ground_truth_answer": "By a factor of 17.3.",
+      "ground_truth_chunks": [
+        "Based on our reconstruction approach, and summed over the time period considered here (1950–2002), the officially reported data (artisanal sector) may have underestimated the likely total historic catches for both sectors combined (artisanal and subsistence) by a factor of 17.3.",
+        "Based on our reconstruction, the picture for the whole of American Samoa may be one of distinctly declining total catches, from an estimated peak of 752 t in 1950 to a low of 155 t in 2002 (Fig. 2b), driven by a likely decline of 84% in the subsistence sector of the fisheries."
+      ]
+    },
+    {
+      "record_id": "b9644026269b8bcefb02243a",
+      "paper_id": "Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006",
+      "source_path": "output/Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006.md",
+      "section_heading": "Catch rates",
+      "section_start_line": 117,
+      "section_end_line": 151,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did the estimated catch per area for the main island Tutuila change between 1950 and 2000?",
+      "ground_truth_answer": "It declined from about 5.5 t·km^-2 year^-1 in 1950 to approximately 1.03 t·km^-2 year^-1 in 2000.",
+      "ground_truth_chunks": [
+        "This estimated decline in area catch rates was driven by the reconstructed data for the main island, Tutuila, where estimated rates may have declined from 5.5 t·km<sup>-2</sup> year<sup>-1</sup> to approximately 1.03 t km<sup>-2</sup> year<sup>-1</sup> between 1950 and 2000 (Table 2).",
+        "| 1950                                         | 598                 | 5.52                                                   | 16,468     | 36.3                                                                 |  |  |  |  |",
+        "| 2000                                         | 112                 | 1.03                                                   | 55,886     | 2.0                                                                  |  |  |  |  |"
+      ]
+    },
+    {
+      "record_id": "1051cf7dbc2120e7f08af194",
+      "paper_id": "Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006",
+      "source_path": "output/Zeller Booth Craig Pauly 2006/Zeller Booth Craig Pauly 2006.md",
+      "section_heading": "Discussion",
+      "section_start_line": 152,
+      "section_end_line": 177,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percentage did the reconstructed total catches of coral reef- and bottom-species, as well as reef-associated pelagics around American Samoa, decline from 1950 to 2002 according to the reconstruction?",
+      "ground_truth_answer": "A 79.3% decline (from an estimated total fisheries catch of 752 t in 1950 to an estimated 155 t in 2002).",
+      "ground_truth_chunks": [
+        "The historic catch reconstruction attempt as undertaken here suggested a 79.3% decline in likely total catches of coral reef- and bottom-species, as well as reef-associated pelagics around American Samoa, from an estimated total fisheries catch of 752 t in 1950 to an estimated 155 t in 2002.",
+        "Interestingly, the annual per capita catch, as estimated here for the main island Tutuila, may have declined from about 36 to 2 kg·person<sup>-1</sup> year<sup>-1</sup> between 1950 and 2000."
+      ]
+    }
+  ],
+  "failures": []
+}

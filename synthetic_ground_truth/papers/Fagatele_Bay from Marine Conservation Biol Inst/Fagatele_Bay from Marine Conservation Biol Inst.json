@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Fagatele_Bay from Marine Conservation Biol Inst/Fagatele_Bay from Marine Conservation Biol Inst.md",
+  "source_sha256": "12d24c071f0d5b2c2a0e7dc2a492afbcbea8aa3095faab75efab80c48862189d",
+  "status": "complete",
+  "selected_section_count": 3,
+  "successful_record_count": 3,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "355a775ce7a083738f785299",
+      "paper_id": "Fagatele_Bay from Marine Conservation Biol Inst/Fagatele_Bay from Marine Conservation Biol Inst",
+      "source_path": "output/Fagatele_Bay from Marine Conservation Biol Inst/Fagatele_Bay from Marine Conservation Biol Inst.md",
+      "section_heading": "Fagatele Bay National Marine Sanctuary",
+      "section_start_line": 1,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year was Fagatele Bay National Marine Sanctuary designated?",
+      "ground_truth_answer": "1986.",
+      "ground_truth_chunks": [
+        "• **Year Designated:** 1986 • **Size (area):** 0.25 square miles",
+        "• **Date Management Plan Issued:** 1986"
+      ]
+    },
+    {
+      "record_id": "e341c441b7dfe1f0f7ca51f4",
+      "paper_id": "Fagatele_Bay from Marine Conservation Biol Inst/Fagatele_Bay from Marine Conservation Biol Inst",
+      "source_path": "output/Fagatele_Bay from Marine Conservation Biol Inst/Fagatele_Bay from Marine Conservation Biol Inst.md",
+      "section_heading": "Examples of Research and Monitoring Activities in the Sanctuary:",
+      "section_start_line": 25,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "What technology was used to video the sanctuary and the deep areas adjoining the site down to 1,500 ft?",
+      "ground_truth_answer": "Submarine and ROV were used to video the sanctuary and the deep areas adjoining the site down to 1,500 ft.",
+      "ground_truth_chunks": [
+        "- Submarine and ROV used to video as much of the sanctuary as possible, and the deep areas adjoining the site down to 1,500 ft. This project compliments previous GIS/multibeam mapping work."
+      ]
+    },
+    {
+      "record_id": "500e16b08c45a7ae248c5a13",
+      "paper_id": "Fagatele_Bay from Marine Conservation Biol Inst/Fagatele_Bay from Marine Conservation Biol Inst",
+      "source_path": "output/Fagatele_Bay from Marine Conservation Biol Inst/Fagatele_Bay from Marine Conservation Biol Inst.md",
+      "section_heading": "Summary of Regulation of Activities and Uses in the Fagatele Bay National Marine Sanctuary",
+      "section_start_line": 40,
+      "section_end_line": 66,
+      "model": "openai:gpt-4o-mini",
+      "question": "Does the summary state that permits may be issued to allow otherwise prohibited activities, and that tampering with markers and diving without a flag are prohibited?",
+      "ground_truth_answer": "Yes. The summary says permits for research, education, or salvage/recovery operations may be issued to allow any otherwise prohibited or restricted activity, and that tampering with markers or diving without a flag is prohibited.",
+      "ground_truth_chunks": [
+        "**Other Regulations:** Permits for research, education, or salvage/recovery operations may be issued to allow any otherwise prohibited or restricted activity.",
+        "Additionally, tampering with markers or diving without a flag is prohibited."
+      ]
+    }
+  ],
+  "failures": []
+}

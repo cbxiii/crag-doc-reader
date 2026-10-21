@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Green-2003-Ban.destruct.scuba.fishery.AS-Copy/Green-2003-Ban.destruct.scuba.fishery.AS-Copy.md",
+  "source_sha256": "c18b6d2d46bf00673e4ad0ca4d7a4b1a4227a193848a689ae6d8a6fd23bb98a0",
+  "status": "complete",
+  "selected_section_count": 6,
+  "successful_record_count": 6,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "fa8a9a77241429baf815df90",
+      "paper_id": "Green-2003-Ban.destruct.scuba.fishery.AS-Copy/Green-2003-Ban.destruct.scuba.fishery.AS-Copy",
+      "source_path": "output/Green-2003-Ban.destruct.scuba.fishery.AS-Copy/Green-2003-Ban.destruct.scuba.fishery.AS-Copy.md",
+      "section_heading": "MONITORING CORAL REEF MARINE PROTECTED AREAS",
+      "section_start_line": 9,
+      "section_end_line": 38,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which organizations provided support or funding for the book 'MONITORING CORAL REEF MARINE PROTECTED AREAS'?",
+      "ground_truth_answer": "Support came from the US Department of State, the National Oceanographic and Atmospheric Administration and AIMS. Additional funds were provided by the IUCN Marine Programme, the ICRAN project, Ministry of the Environment, Japan, and the Great Barrier Reef Research Foundation.",
+      "ground_truth_chunks": [
+        "Support for this book came from the US Department of State, the National Oceanographic and Atmospheric Administration and AIMS.",
+        "Additional funds were provided by the IUCN Marine Programme, the ICRAN project, Ministry of the Environment, Japan, and the Great Barrier Reef Research Foundation."
+      ]
+    },
+    {
+      "record_id": "e70f7275d8f09ee0162f41b6",
+      "paper_id": "Green-2003-Ban.destruct.scuba.fishery.AS-Copy/Green-2003-Ban.destruct.scuba.fishery.AS-Copy",
+      "source_path": "output/Green-2003-Ban.destruct.scuba.fishery.AS-Copy/Green-2003-Ban.destruct.scuba.fishery.AS-Copy.md",
+      "section_heading": "IUCN Global Marine Program",
+      "section_start_line": 43,
+      "section_end_line": 50,
+      "model": "openai:gpt-4o-mini",
+      "question": "What ISBN is listed in the IUCN Global Marine Program section?",
+      "ground_truth_answer": "ISBN 0 642 32228 7",
+      "ground_truth_chunks": [
+        "ISBN 0 642 32228 7"
+      ]
+    },
+    {
+      "record_id": "47772f792727af5a428688bc",
+      "paper_id": "Green-2003-Ban.destruct.scuba.fishery.AS-Copy/Green-2003-Ban.destruct.scuba.fishery.AS-Copy",
+      "source_path": "output/Green-2003-Ban.destruct.scuba.fishery.AS-Copy/Green-2003-Ban.destruct.scuba.fishery.AS-Copy.md",
+      "section_heading": "The challenge",
+      "section_start_line": 57,
+      "section_end_line": 60,
+      "model": "openai:gpt-4o-mini",
+      "question": "What new high-technology commercial fishery was established on Tutuila in the mid 1990s?",
+      "ground_truth_answer": "The night-time scuba fishery.",
+      "ground_truth_chunks": [
+        "It was important to act decisively when a new, high technology commercial fi shery became established (the night-time scuba fi shery) in the mid 1990s on the main island of Tutuila, American Samoa.",
+        "The new fi shery, which dramatically increased the catch of reef fi shes on the island, posed a new threat to both fi sh populations and local fi sheries."
+      ]
+    },
+    {
+      "record_id": "2987cfd8ec5d2888efc5d8ec",
+      "paper_id": "Green-2003-Ban.destruct.scuba.fishery.AS-Copy/Green-2003-Ban.destruct.scuba.fishery.AS-Copy",
+      "source_path": "output/Green-2003-Ban.destruct.scuba.fishery.AS-Copy/Green-2003-Ban.destruct.scuba.fishery.AS-Copy.md",
+      "section_heading": "What was done?",
+      "section_start_line": 61,
+      "section_end_line": 74,
+      "model": "openai:gpt-4o-mini",
+      "question": "When was the scuba fishery in American Samoa banned?",
+      "ground_truth_answer": "It was banned by Executive Order in April 2001 and subsequently banned by regulation in January 2002.",
+      "ground_truth_chunks": [
+        "*There has been a dramatic (15 times) increase in catch of reef fi sh, especially parrotfi shes, since the scuba fi shery started operating. Parrotfi shes are heavily targeted by this fi shery.*",
+        "The scuba fi shery was banned by Executive Order by the Governor of American Samoa in April 2001 (and subsequently banned by regulation in January 2002) due to concerns that this greatly increased catch rate would lead to overfi shing of the reef fi sh populations."
+      ]
+    },
+    {
+      "record_id": "d9c18e44f2b1e282671b2043",
+      "paper_id": "Green-2003-Ban.destruct.scuba.fishery.AS-Copy/Green-2003-Ban.destruct.scuba.fishery.AS-Copy",
+      "source_path": "output/Green-2003-Ban.destruct.scuba.fishery.AS-Copy/Green-2003-Ban.destruct.scuba.fishery.AS-Copy.md",
+      "section_heading": "How successful has it been?",
+      "section_start_line": 80,
+      "section_end_line": 91,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did the ban on the destructive fishery in Tutuila prevent serious overfishing according to the section?",
+      "ground_truth_answer": "Yes — monitoring programs were very successful and recent data show the ban was timely, preventing fish stocks from being seriously overfished; waiting another 18 months would probably have resulted in more serious impacts.",
+      "ground_truth_chunks": [
+        "The coral reef and fi sheries monitoring programs have been very successful in assisting the local government in banning this destructive fi shery.",
+        "Recent monitoring data show that local managers did the right thing in banning this highly effi cient fi shery before fi sh stocks were seriously overfi shed on Tutuila.",
+        "If they had waited another 18 months for more rigorous scientifi c evidence before they acted, the fi shery would have continued and probably resulted in more serious impacts on the fi sh populations."
+      ]
+    },
+    {
+      "record_id": "68e90a5b2bf97656f94c8cc8",
+      "paper_id": "Green-2003-Ban.destruct.scuba.fishery.AS-Copy/Green-2003-Ban.destruct.scuba.fishery.AS-Copy",
+      "source_path": "output/Green-2003-Ban.destruct.scuba.fishery.AS-Copy/Green-2003-Ban.destruct.scuba.fishery.AS-Copy.md",
+      "section_heading": "Lessons learned and recommendations",
+      "section_start_line": 92,
+      "section_end_line": 98,
+      "model": "openai:gpt-4o-mini",
+      "question": "What two types of monitoring programs contributed to banning the destructive fishery on Tutuila?",
+      "ground_truth_answer": "Monitoring both the fisheries catches and the reef fish populations.",
+      "ground_truth_chunks": [
+        "- � Monitoring can play an important role in fi sheries management. On Tutuila, two types of monitoring programs contributed to banning a destructive fi shery: monitoring both the fi sheries catches; and the reef fi sh populations;"
+      ]
+    }
+  ],
+  "failures": []
+}

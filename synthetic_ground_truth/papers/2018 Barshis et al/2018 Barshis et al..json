@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2018 Barshis et al/2018 Barshis et al..md",
+  "source_sha256": "652cb5021d8f60122f50019b3cd3a50a2ba26cedf492e9d13a26c8832abed390",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "fd1dfbb17943504ae8cbacd3",
+      "paper_id": "2018 Barshis et al/2018 Barshis et al.",
+      "source_path": "output/2018 Barshis et al/2018 Barshis et al..md",
+      "section_heading": "ABSTRACT",
+      "section_start_line": 9,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the reported F_ST value and P-value indicating genetic differentiation among coral colonies?",
+      "ground_truth_answer": "There was significant genetic differentiation among coral colonies (F_ST = 0.206, P < 0.0001) based on nuclear ribosomal DNA.",
+      "ground_truth_chunks": [
+        "Despite being separated by <5 km, there was significant genetic differentiation among coral colonies (F<sub>ST</sub>=0.206, P<0.0001; nuclear ribosomal DNA), whereas Symbiodiniaceae were all Cladocopium sp. (ITS type C15)."
+      ]
+    },
+    {
+      "record_id": "06229a2b2e52cb53dd9e9707",
+      "paper_id": "2018 Barshis et al/2018 Barshis et al.",
+      "source_path": "output/2018 Barshis et al/2018 Barshis et al..md",
+      "section_heading": "Study site, sample collection and transport",
+      "section_start_line": 37,
+      "section_end_line": 42,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral cores were collected per site?",
+      "ground_truth_answer": "150 cores per site.",
+      "ground_truth_chunks": [
+        "A pneumatic hole saw drill was used to remove n=30 cores (19 mm diameter) from the upward-facing surfaces of each of n=5source colonies at each site (total n=150 cores per site)."
+      ]
+    },
+    {
+      "record_id": "edb845c6d942d6f5ae6e75c3",
+      "paper_id": "2018 Barshis et al/2018 Barshis et al.",
+      "source_path": "output/2018 Barshis et al/2018 Barshis et al..md",
+      "section_heading": "Photophysiology",
+      "section_start_line": 63,
+      "section_end_line": 66,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long after lights were turned off were dark-adapted samples measured for maximum quantum yield?",
+      "ground_truth_answer": "45 min after all lights had been turned off.",
+      "ground_truth_chunks": [
+        "Maximum quantum yield [ $(F_{\\rm m}-F_{\\rm o})/F_{\\rm m}$ , or  $F_{\\rm v}/F_{\\rm m}$ ] was measured for dark-adapted samples at the end of each post-acclimation experimental day 45 min after all lights had been turned off."
+      ]
+    },
+    {
+      "record_id": "e88fb416d35c7b4a3d136176",
+      "paper_id": "2018 Barshis et al/2018 Barshis et al.",
+      "source_path": "output/2018 Barshis et al/2018 Barshis et al..md",
+      "section_heading": "Protein biomarkers: Hsp70 and ubiquitin conjugates",
+      "section_start_line": 71,
+      "section_end_line": 80,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which specific protein biomarkers were assessed and why were they chosen?",
+      "ground_truth_answer": "Heat shock protein 70 (Hsp70) and ubiquitin-conjugated proteins were assessed via western blot for both host and Cladocopium sp. protein fractions; they were chosen based on Barshis et al. (2010) because they were indicative of differences between back-reef and forereef corals and represent common pathways involved in stress defense and stress-caused damage.",
+      "ground_truth_chunks": [
+        "Levels of heat shock protein 70 (Hsp70) and ubiquitinconjugated proteins were assessed via western blot for both host and *Cladocopium* sp. protein fractions as described previously (Barshis et al., 2010).",
+        "These specific biomarkers were chosen based on the previous study of Barshis et al. (2010), as they were indicative of differences between back-reef and forereef corals and represent common pathways involved in stress defense and stress-caused damage."
+      ]
+    },
+    {
+      "record_id": "34de325d10fc2bacfbd93c2a",
+      "paper_id": "2018 Barshis et al/2018 Barshis et al.",
+      "source_path": "output/2018 Barshis et al/2018 Barshis et al..md",
+      "section_heading": "Statistical analyses",
+      "section_start_line": 85,
+      "section_end_line": 92,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which functions in R v3.2.2 were used to test assumptions of normality and homoscedasticity?",
+      "ground_truth_answer": "The shapiro.test and fligner.test functions in R v3.2.2.",
+      "ground_truth_chunks": [
+        "Assumptions of normality and homoscedasticity were tested via the shapiro.test and fligner.test functions in R v3.2.2, respectively."
+      ]
+    },
+    {
+      "record_id": "74de222b63a39f81ef44cae4",
+      "paper_id": "2018 Barshis et al/2018 Barshis et al.",
+      "source_path": "output/2018 Barshis et al/2018 Barshis et al..md",
+      "section_heading": "Initial acclimation: growth",
+      "section_start_line": 99,
+      "section_end_line": 102,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which source colony origin had the highest mean tissue extension during the initial acclimation period?",
+      "ground_truth_answer": "HV (high variability) source colonies had the highest mean tissue extension during acclimation.",
+      "ground_truth_chunks": [
+        "New tissue extension during the acclimation period was affected by source colony origin (P=0.0106; Fig. 2, Table S1).",
+        "HV source colonies grew fastest overall, with a mean ( $\\pm$ s.d.) tissue extension of 10.85 $\\pm$ 2.72 and 11.66 $\\pm$ 2.23 mm in the stable and variable tanks, respectively, compared with MV source colonies (8.07 $\\pm$ 2.62 and 7.60 $\\pm$ 2.01 mm) and forereef source colonies (6.06 $\\pm$ 2.00 and 8.01 $\\pm$ 1.80 mm)."
+      ]
+    },
+    {
+      "record_id": "06fa48c018f094c4f2a0a9b9",
+      "paper_id": "2018 Barshis et al/2018 Barshis et al.",
+      "source_path": "output/2018 Barshis et al/2018 Barshis et al..md",
+      "section_heading": "Hsp70 and ubiquitin conjugates: Cladocopium sp. fraction",
+      "section_start_line": 113,
+      "section_end_line": 116,
+      "model": "openai:gpt-4o-mini",
+      "question": "In field-collected samples, how did Hsp70 levels in the Cladocopium sp. fraction from forereef origins compare to MV origins?",
+      "ground_truth_answer": "Forereef Hsp70 levels were 3.5 times lower than MV levels (P=0.0249).",
+      "ground_truth_chunks": [
+        "Hsp70 levels in the Cladocopium sp. fraction of field-collected samples were different among origins (P=0.0259; Table S3A), with forereef levels 3.5 times lower than MV levels (P=0.0249; Fig. 4, Table S3A)."
+      ]
+    },
+    {
+      "record_id": "8b6acae8769e1a621b90bdb7",
+      "paper_id": "2018 Barshis et al/2018 Barshis et al.",
+      "source_path": "output/2018 Barshis et al/2018 Barshis et al..md",
+      "section_heading": "Host genetic analyses",
+      "section_start_line": 121,
+      "section_end_line": 128,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many unique ITS haplotypes were found among the cloned sequences, and how were they distributed across the HV, MV and forereef sites?",
+      "ground_truth_answer": "There were 28 unique haplotypes in total: one shared between the HV and MV pools, one shared between the HV pool and forereef, and eight unique to HV, nine unique to MV, and nine unique to forereef.",
+      "ground_truth_chunks": [
+        "A 368 bp fragment of the ITS region was amplified from 15 individuals (n=5 per origin) and subsequently cloned for a total of 77 cloned sequences (NCBI accession numbers MK063730-MK063757).",
+        "These 77 sequences comprised 28 unique haplotypes: one shared between the HV and MV pools, one shared between the HV pool and forereef, and eight, nine and nine unique to the HV, MV and forereef sites, respectively (Fig. 8)."
+      ]
+    },
+    {
+      "record_id": "a9a6e9ed23f8defab9c97578",
+      "paper_id": "2018 Barshis et al/2018 Barshis et al.",
+      "source_path": "output/2018 Barshis et al/2018 Barshis et al..md",
+      "section_heading": "Is temperature variability really the most important driver?",
+      "section_start_line": 169,
+      "section_end_line": 188,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did acclimation to high-frequency temperature variability alter thermal tolerance limits in Porites lobata in this study?",
+      "ground_truth_answer": "No. The authors report little evidence that acclimation to high-frequency temperature variability altered thermal tolerance limits in this species, though they note longer time frames might produce a stronger acclimation response and some protein biomarker changes were observed.",
+      "ground_truth_chunks": [
+        "Despite the overall effects of source colony origin, we found little evidence that acclimation to high-frequency temperature variability altered thermal tolerance limits in this species.",
+        "Thus, it is possible that a longer time frame than examined herein may result in a stronger acclimation response in *P. lobata* (see below for additional discussion).",
+        "However, we did observe acclimation effects on host and Cladocopium sp. protein biomarkers, particularly Hsp70 (Figs 4–7, Tables S3–S6)."
+      ]
+    },
+    {
+      "record_id": "c62930f0a978484bac926f92",
+      "paper_id": "2018 Barshis et al/2018 Barshis et al.",
+      "source_path": "output/2018 Barshis et al/2018 Barshis et al..md",
+      "section_heading": "Author contributions",
+      "section_start_line": 203,
+      "section_end_line": 206,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which authors are listed under Funding acquisition?",
+      "ground_truth_answer": "C.B., R.J.T., R.D.G., J.H.S.",
+      "ground_truth_chunks": [
+        "Funding acquisition: C.B., R.J.T., R.D.G., J.H.S."
+      ]
+    }
+  ],
+  "failures": []
+}

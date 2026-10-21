@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Liability Release/Liability Release.md",
+  "source_sha256": "96b215589d067a9faf3d8364ffc067c15c8d9d901ffeccefa3b5e728bc3627a5",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "0f8454802ec71dc079034cf2",
+      "paper_id": "Liability Release/Liability Release",
+      "source_path": "output/Liability Release/Liability Release.md",
+      "section_heading": "Liability Release and Assumption of Risk for Visiting Divers",
+      "section_start_line": 3,
+      "section_end_line": 34,
+      "model": "openai:gpt-4o-mini",
+      "question": "What do visiting divers acknowledge about the availability of a recompression chamber at the dive site?",
+      "ground_truth_answer": "They acknowledge that diving can cause decompression sickness, embolism, or other hyperbaric injuries that may require treatment in a recompression chamber; that the dives will be conducted at a site remote (by time or distance) from such a recompression chamber; and they choose to proceed despite the absence of a recompression chamber in proximity to the dive site.",
+      "ground_truth_chunks": [
+        "I understand that diving with compressed air (including nitrox) involves certain inherent risks; decompression sickness, embolism, or other hyperbaric injuries can occur that require treatment in a recompression chamber. I further understand that the dives will be conducted at a site that is remote, either by time or distance or both, from such a recompression chamber. I choose to proceed with this dive or dives in spite of the absence of a recompression chamber in proximity to the dive site."
+      ]
+    }
+  ],
+  "failures": []
+}

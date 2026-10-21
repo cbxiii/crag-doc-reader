@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Smith-2007-Coral.symbiont.seawater.temp.AS-Copy/Smith-2007-Coral.symbiont.seawater.temp.AS-Copy.md",
+  "source_sha256": "70d45cd90ac2cd171571a7d676e5b690ce1a3b02eaad2119e9702041d758bbb0",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "6d4883322a3f5cd2a041689f",
+      "paper_id": "Smith-2007-Coral.symbiont.seawater.temp.AS-Copy/Smith-2007-Coral.symbiont.seawater.temp.AS-Copy",
+      "source_path": "output/Smith-2007-Coral.symbiont.seawater.temp.AS-Copy/Smith-2007-Coral.symbiont.seawater.temp.AS-Copy.md",
+      "section_heading": "Coral symbiont diversity along a seawater temperature gradient",
+      "section_start_line": 1,
+      "section_end_line": 7,
+      "model": "openai:gpt-4o-mini",
+      "question": "In the small back reef pool, which Symbiodinium clade was found in Acropora hyacinthus?",
+      "ground_truth_answer": "Only Clade D.",
+      "ground_truth_chunks": [
+        "For *A. hyacinthus*, only Clade D was found in the small back reef pool, while a mix of Clades C and D were found at the other two sites."
+      ]
+    }
+  ],
+  "failures": []
+}

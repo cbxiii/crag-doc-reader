@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Vargas - Angel 2019/Vargas - Angel 2019.md",
+  "source_sha256": "50bee4cf7a0563ff57ea7a18cf99cac3b07d66c844620eadfe4f94e55f586b28",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "d899a30e36de31f178ed4b55",
+      "paper_id": "Vargas - Angel 2019/Vargas - Angel 2019",
+      "source_path": "output/Vargas - Angel 2019/Vargas - Angel 2019.md",
+      "section_heading": "<span id=\"page-3-0\"></span>Executive summary",
+      "section_start_line": 48,
+      "section_end_line": 57,
+      "model": "openai:gpt-4o-mini",
+      "question": "What specific estimates are reported in the 'Benthic composition and coral demographics' section?",
+      "ground_truth_answer": "It reports estimates of: (1) benthic cover for hard corals, crustose coralline algae, macroalgae, and turf algae; (2) colony density of juvenile (<5 cm) and adult (≥5 cm) corals (no. colonies m−2); (3) partial mortality as percentage of old and recent dead; (4) prevalence of bleaching (all levels of severity combined: pale to white), and acute and chronic diseases; and (5) coral generic richness.",
+      "ground_truth_chunks": [
+        "This section reports on site- and sub-island/atoll level (hereafter referred to as \"reporting units\"), estimates of (1) benthic cover for hard corals, crustose coralline algae, macroalgae, and turf algae; (2) colony density (no. colonies m<sup>−</sup><sup>2</sup> ) of juvenile (<5 cm) and adult (≥5 cm) corals; (3) partial mortality as percentage of old and recent dead; (4) prevalence of bleaching (all levels of severity combined: pale to white), and acute and chronic diseases; and (5) coral generic richness."
+      ]
+    },
+    {
+      "record_id": "69cc905a84ecef96c0b9b2f9",
+      "paper_id": "Vargas - Angel 2019/Vargas - Angel 2019",
+      "source_path": "output/Vargas - Angel 2019/Vargas - Angel 2019.md",
+      "section_heading": "<span id=\"page-5-0\"></span>Methods",
+      "section_start_line": 81,
+      "section_end_line": 86,
+      "model": "openai:gpt-4o-mini",
+      "question": "What depth categories were used in the stratification scheme for the 2018 surveys?",
+      "ground_truth_answer": "Three depth categories were used: shallow (0–6 m), mid-depth (>6–18 m), and deep (>18–30 m).",
+      "ground_truth_chunks": [
+        "The stratification scheme incorporated three depth categories—i.e., shallow (0–6 m), mid-depth (>6–18 m), and deep (>18–30 m) where present, and a number of geographic reporting units with differing management status—i.e., Sanctuary Management Areas: Swains Island Sanctuary, Rose Atoll, Ta'u Sanctuary, Aunu'u zones A and B, and Fagatele/Fagalua; non-Sanctuary Areas: Swains Island (only reef fishes), Ofu and Olosega islands, Ta'u, and Tutuila NE, NW, SE, and SW.",
+        "In 2018, biological surveys (benthic and fish) implemented a modified one-stage stratified random sampling (StRS) design (Ault et al. 2006; Smith et al. 2011) to assess the survey domain which encompassed all hard-bottom reef habitat from 0 to 30 m deep within the islands of American Samoa."
+      ]
+    },
+    {
+      "record_id": "bf815df33c4314ea90e96d69",
+      "paper_id": "Vargas - Angel 2019/Vargas - Angel 2019",
+      "source_path": "output/Vargas - Angel 2019/Vargas - Angel 2019.md",
+      "section_heading": "<span id=\"page-5-1\"></span>Benthic Composition and Coral Demographics",
+      "section_start_line": 87,
+      "section_end_line": 140,
+      "model": "openai:gpt-4o-mini",
+      "question": "How was the coralline lethal orange disease (CLOD) occurrence index (DOI) calculated and aggregated for reporting units in the 2018 surveys?",
+      "ground_truth_answer": "At each survey site DOI = (total number of CLOD cases) ÷ (% CCA cover). For each reporting unit, CLOD occurrence estimates were computed by directly averaging all sites within that reporting unit with no proportional weighting by depth stratum area. Values close to or greater than 1 suggest high disease occurrence; numbers close to zero indicate low occurrence.",
+      "ground_truth_chunks": [
+        "Coralline lethal orange disease occurrence index (DOI) was estimated as the number of cases (counts) relative to the percent of CCA cover at each survey site as follows: DOI = [(total # of CLOD cases) ÷ (% CCA cover)].",
+        "For each reporting unit, CLOD occurrence estimates were computed by directly averaging all sites with each reporting unit; no proportional weighting by depth stratum area was implemented.",
+        "Values close to or greater than 1 suggest high disease occurrence; comparatively, numbers close to zero indicate low occurrence."
+      ]
+    },
+    {
+      "record_id": "f291d84863c088d1b8cd90d0",
+      "paper_id": "Vargas - Angel 2019/Vargas - Angel 2019",
+      "source_path": "output/Vargas - Angel 2019/Vargas - Angel 2019.md",
+      "section_heading": "<span id=\"page-9-0\"></span>Ocean and Climate Change",
+      "section_start_line": 172,
+      "section_end_line": 181,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were temperature data collected, processed, and how were gaps longer than one hour handled?",
+      "ground_truth_answer": "Temperature data were collected using Sea‑Bird Scientific temperature loggers (models SBE39 and SBE56). For reporting, deployments were grouped by site and successive deployments at each site were concatenated. Raw data were averaged hourly, and gaps longer than one hour in the time-series were padded with null values.",
+      "ground_truth_chunks": [
+        "Temperature data were collected using high-accuracy temperature loggers (Sea-Bird Scientific®, models: SBE39 and SBE56). For reporting, temperature sensor deployments were grouped by site, and temperature data from successive deployments at each site were concatenated.",
+        "Raw data were averaged hourly, and gaps of longer than one hour in the time-series (due to instrument failure or battery death) were padded with null values."
+      ]
+    },
+    {
+      "record_id": "8fe9c22a191cfc31d1a65aac",
+      "paper_id": "Vargas - Angel 2019/Vargas - Angel 2019",
+      "source_path": "output/Vargas - Angel 2019/Vargas - Angel 2019.md",
+      "section_heading": "<span id=\"page-15-0\"></span>2018 Stratum-level Estimates",
+      "section_start_line": 220,
+      "section_end_line": 241,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which reporting unit exhibited conspicuously high crustose coralline algae (CCA) cover in 2018?",
+      "ground_truth_answer": "Rose Atoll.",
+      "ground_truth_chunks": [
+        "CCA cover was also greater on the shallow and mid-depth habitats, and in agreement with historical records, conspicuously high at Rose Atoll."
+      ]
+    },
+    {
+      "record_id": "28d4f875949ff40daa930cca",
+      "paper_id": "Vargas - Angel 2019/Vargas - Angel 2019",
+      "source_path": "output/Vargas - Angel 2019/Vargas - Angel 2019.md",
+      "section_heading": "<span id=\"page-17-0\"></span>Temporal Comparisons",
+      "section_start_line": 242,
+      "section_end_line": 373,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percentage did overall coral cover change between 2015 and 2018 for all reporting units combined?",
+      "ground_truth_answer": "Coral cover declined by 36% between 2015 and 2018.",
+      "ground_truth_chunks": [
+        "For all reporting units combined, coral cover dropped from 28.7% ± 2.6 in 2015 to 18.2% ± 2.0 in 2018, representing a 36% decline."
+      ]
+    },
+    {
+      "record_id": "1820ea294c5df3b7db7db61c",
+      "paper_id": "Vargas - Angel 2019/Vargas - Angel 2019",
+      "source_path": "output/Vargas - Angel 2019/Vargas - Angel 2019.md",
+      "section_heading": "<span id=\"page-27-0\"></span>2018 Reporting Unit Estimates",
+      "section_start_line": 400,
+      "section_end_line": 415,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did sanctuary status across reporting units result in greater overall fish biomass in 2018?",
+      "ground_truth_answer": "No. Sanctuary status did not appear to result in greater overall fish biomass in 2018.",
+      "ground_truth_chunks": [
+        "Sanctuary status across reporting units did not appear to result in greater overall fish biomass in 2018 [\\(Figure 18A\\)](#page-28-0).",
+        "Rose and Swains Sanctuary management areas had the greatest biomass of large, piscivorous fishes; however, the variances of such estimates were also notably large [\\(Figure 18C–D\\)](#page-28-0)."
+      ]
+    },
+    {
+      "record_id": "650b5c6ee9485eddca440ea6",
+      "paper_id": "Vargas - Angel 2019/Vargas - Angel 2019",
+      "source_path": "output/Vargas - Angel 2019/Vargas - Angel 2019.md",
+      "section_heading": "<span id=\"page-32-1\"></span>2018 Site-level Data",
+      "section_start_line": 468,
+      "section_end_line": 473,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many temperature loggers were recovered during the 2018 site-level data collection?",
+      "ground_truth_answer": "A total of 37 temperature loggers were recovered.",
+      "ground_truth_chunks": [
+        "A total of 37 temperature loggers were recovered [\\(Figure 22\\)](#page-33-1), 85 water samples for carbonate chemistry collected [\\(Figure 23\\)](#page-34-0), and 102 CAU units recovered [\\(Figure 24\\)](#page-35-0) between June 28 and August 16, 2018."
+      ]
+    },
+    {
+      "record_id": "30376ab4c3d3137fa4aa6add",
+      "paper_id": "Vargas - Angel 2019/Vargas - Angel 2019",
+      "source_path": "output/Vargas - Angel 2019/Vargas - Angel 2019.md",
+      "section_heading": "<span id=\"page-32-2\"></span>Sea Surface Temperature",
+      "section_start_line": 474,
+      "section_end_line": 477,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which island experienced the greatest thermal anomalies during the 2015–2016 ocean warming event?",
+      "ground_truth_answer": "Swains Island experienced the greatest thermal anomalies, with water temperatures of almost 31°C and widespread levels of coral bleaching.",
+      "ground_truth_chunks": [
+        "In 2015–2017, however, summer temperatures exceeded the bleaching threshold for several months during each year.",
+        "During this warming event, Swains Island experienced the greatest thermal anomalies, with water temperatures of almost 31°C and consequently, widespread levels of coral bleaching (NOAA 2016)."
+      ]
+    },
+    {
+      "record_id": "006868be1b896ff2b829d091",
+      "paper_id": "Vargas - Angel 2019/Vargas - Angel 2019",
+      "source_path": "output/Vargas - Angel 2019/Vargas - Angel 2019.md",
+      "section_heading": "<span id=\"page-39-0\"></span>Appendices",
+      "section_start_line": 515,
+      "section_end_line": 1205,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the genus code for Montipora in Appendix 1?",
+      "ground_truth_answer": "MOSP",
+      "ground_truth_chunks": [
+        "| Genus          | Genus<br>code | Genus          | Genus code |",
+        "| Caulastrea     | CASP          | Montipora      | MOSP       |"
+      ]
+    }
+  ],
+  "failures": []
+}

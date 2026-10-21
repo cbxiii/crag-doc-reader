@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Balazs-1983-Subsist.sea.turtle.PacIs.AS/Balazs-1983-Subsist.sea.turtle.PacIs.AS.md",
+  "source_sha256": "a28c752f56d3c732001eb32e0f25e095f503563a5c004405f47a058c6d461b32",
+  "status": "complete",
+  "selected_section_count": 4,
+  "successful_record_count": 4,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "fce09081a6b1dc836f0f3dc2",
+      "paper_id": "Balazs-1983-Subsist.sea.turtle.PacIs.AS/Balazs-1983-Subsist.sea.turtle.PacIs.AS",
+      "source_path": "output/Balazs-1983-Subsist.sea.turtle.PacIs.AS/Balazs-1983-Subsist.sea.turtle.PacIs.AS.md",
+      "section_heading": "Balazs-1983-Subsist.sea.turtle.PacIs.AS.md",
+      "section_start_line": 1,
+      "section_end_line": 20,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which specific islands and political/geographical districts are listed as being covered by this report?",
+      "ground_truth_answer": "The report covers the State of Hawaii, American Samoa, Guam, and the U.S. Trust Territory of the Pacific Islands. The U.S. Trust Territory is composed of Palau; the Federated States of Micronesia (Yap, Truk, Ponape, and Kosrae); the Commonwealth of the Northern Mariana Islands; and the Marshall Islands. The report also mentions other U.S. Pacific islands: uninhabited Howland, Baker, Jarvis, and Kingman Reef; Midway, Wake, and Johnston (inhabited only by military personnel and civilian contract employees); and privately owned Palmyra (currently occupied by a few plantation workers from Kiribati).",
+      "ground_truth_chunks": [
+        "The islands covered in this report include the State of Hawaii, American Samoa, Guam, and the U.S. Trust Territory of the Pacific Islands. The latter area is composed of the political and geographical districts of Palau, Federated States of Micronesia (Yap, Truk, Ponape, and Kosrae), the Commonwealth of the Northern Mariana Islands, and the Marshall Islands.",
+        "Other U.S. islands in the Pacific include uninhabited Howland, Baker, Jarvis, and Kingman Reef; as well as Midway, Wake, and Johnston which are inhabited only by military personnel and civilian contract employees. Another U.S. Pacific island, privately owned Palmyra, is currently occupied by a few plantation workers from Kiribati."
+      ]
+    },
+    {
+      "record_id": "7bbcf1b1b976657346f93905",
+      "paper_id": "Balazs-1983-Subsist.sea.turtle.PacIs.AS/Balazs-1983-Subsist.sea.turtle.PacIs.AS",
+      "source_path": "output/Balazs-1983-Subsist.sea.turtle.PacIs.AS/Balazs-1983-Subsist.sea.turtle.PacIs.AS.md",
+      "section_heading": "Trust Territory",
+      "section_start_line": 21,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "What exemption did the Trust Territory receive under the 1978 U.S. Endangered Species Act protective regulations?",
+      "ground_truth_answer": "The Trust Territory was exempted to allow continued “subsistence” taking of green turtles for personal use by residents, provided such taking is customary, traditional, and necessary for the sustenance of the resident and his immediate family.",
+      "ground_truth_chunks": [
+        "These regulations contained a provision for the continued \"subsistence\" taking of green turtles for personal use by residents of the Trust Territory, \"...if such taking is customary, traditional, and necessary for the sustenance of such resident and his immediate family\" (U.S. Department of Commerce 1978).",
+        "The protective regulations apply to all U.S. states and possessions including those in the Caribbean, but the Trust Territory was the sole area to receive an exemption for subsistence use as defined above."
+      ]
+    },
+    {
+      "record_id": "b6ec050431ad91809aaba191",
+      "paper_id": "Balazs-1983-Subsist.sea.turtle.PacIs.AS/Balazs-1983-Subsist.sea.turtle.PacIs.AS",
+      "source_path": "output/Balazs-1983-Subsist.sea.turtle.PacIs.AS/Balazs-1983-Subsist.sea.turtle.PacIs.AS.md",
+      "section_heading": "American Samoa",
+      "section_start_line": 27,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which island in American Samoa was identified as most likely to have legitimate subsistence use of sea turtles?",
+      "ground_truth_answer": "Swains Island, a small remote coral island inhabited by about 25 people that is administered as part of American Samoa.",
+      "ground_truth_chunks": [
+        "Nevertheless, there may still be some legitimate subsistence use of sea turtles, as defined in the regulations. This is likely to be true at Swains Island, a small remote\n\ncoral island, inhabited by about 25 people, that is administered as part of American Samoa."
+      ]
+    },
+    {
+      "record_id": "ebf338d1ab0f99f490c5b835",
+      "paper_id": "Balazs-1983-Subsist.sea.turtle.PacIs.AS/Balazs-1983-Subsist.sea.turtle.PacIs.AS",
+      "source_path": "output/Balazs-1983-Subsist.sea.turtle.PacIs.AS/Balazs-1983-Subsist.sea.turtle.PacIs.AS.md",
+      "section_heading": "State of Hawaii",
+      "section_start_line": 47,
+      "section_end_line": 64,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many green turtles were reported taken for \"home use\" in Hawaii between May 1974 and September 1978?",
+      "ground_truth_answer": "A total of 84 turtles was reported.",
+      "ground_truth_chunks": [
+        "An estimation of the number of people having a desire to <u>legally</u> catch turtles in Hawaii can be obtained from the State's official records of the turtles taken for \"home use\" between May 1974 and September 1978.",
+        "A total of 84 turtles was reported during this 53-month period."
+      ]
+    }
+  ],
+  "failures": []
+}

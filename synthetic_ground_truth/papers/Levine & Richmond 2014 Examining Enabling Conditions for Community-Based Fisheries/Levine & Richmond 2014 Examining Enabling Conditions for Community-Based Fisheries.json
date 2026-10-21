@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries.md",
+  "source_sha256": "84e0bd7282d683a3582cbfe44fe815b8b80c90e70258bacce4551505950792ad",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "692d410ffac12bbfd2ff709b",
+      "paper_id": "Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries",
+      "source_path": "output/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries.md",
+      "section_heading": "Examining Enabling Conditions for Community-Based Fisheries Comanagement: Comparing Efforts in Hawai'i and American Samoa",
+      "section_start_line": 33,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many CBSFAs were designated in Hawai'i and do any have an approved management plan?",
+      "ground_truth_answer": "Only two CBSFAs were designated in Hawai'i, and neither has an approved management plan.",
+      "ground_truth_chunks": [
+        "Although Hawai'i's initiative has struggled with only two CBSFAs designated, neither of which has an approved management plan, American Samoa's program has successfully established a functioning network of 12 villages."
+      ]
+    },
+    {
+      "record_id": "82cfb8fea3dd37e2101fc131",
+      "paper_id": "Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries",
+      "source_path": "output/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 41,
+      "section_end_line": 50,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many Community-Based Subsistence Fishing Areas (CBSFAs) have been designated in Hawai'i since the legislation was passed?",
+      "ground_truth_answer": "Two; neither has an approved management plan.",
+      "ground_truth_chunks": [
+        "In Hawai'i, only 2 CBSFAs have been designated since the legislation was passed, and neither has an approved management plan.",
+        "American Samoa's CFMP, on the other hand, actively involves 12 villages in the territory."
+      ]
+    },
+    {
+      "record_id": "3f42d23df38deacec21ec4a0",
+      "paper_id": "Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries",
+      "source_path": "output/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries.md",
+      "section_heading": "HAWAI'I'S CBSFA LEGISLATION",
+      "section_start_line": 55,
+      "section_end_line": 104,
+      "model": "openai:gpt-4o-mini",
+      "question": "Since the CBSFA legislation was passed, how many communities have successfully designated CBSFAs and how many have an approved management plan?",
+      "ground_truth_answer": "Only 2 communities have successfully designated CBSFAs, and none have an approved management plan.",
+      "ground_truth_chunks": [
+        "Despite interest from more than 19 communities (see Table 1), in the nearly 20 years since the act was passed only 2 communities have successfully designated CBSFAs, and none have an approved management plan (Higuchi 2008).",
+        "This means that there are no rules for the designated CBSFAs that make them any different from other sections of Hawai'i's coast.",
+        "The two existing CBSFAs were designated directly by actions of the Hawai'i state legislature without collaboration with the DLNR."
+      ]
+    },
+    {
+      "record_id": "a7b61ec7a41a500a53dc0ed7",
+      "paper_id": "Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries",
+      "source_path": "output/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries.md",
+      "section_heading": "AMERICAN SAMOA'S CFMP",
+      "section_start_line": 105,
+      "section_end_line": 154,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many villages were participating in American Samoa's Community-Based Fisheries Management Program (CFMP) as of 2013?",
+      "ground_truth_answer": "12 villages.",
+      "ground_truth_chunks": [
+        "In 2000, the U.S. territory of American Samoa initiated a similar process to institutionalize comanagement of marine resources in partnership with local villages. Largely through the impetus of the American Samoa Department of Marine and Wildlife Resources (DMWR), the territory developed a CFMP. As of 2013, the program had 12 participating villages.",
+        "Table 2 lists the villages currently involved in American Samoa's CFMP, the year their involvement began, and the status of VMPAs."
+      ]
+    },
+    {
+      "record_id": "62ed3f679cd5309c8f3471f8",
+      "paper_id": "Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries",
+      "source_path": "output/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 155,
+      "section_end_line": 158,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the DISCUSSION section, what was the outcome of American Samoa's CFMP compared to Hawai'i's CBSFA?",
+      "ground_truth_answer": "American Samoa's CFMP has been successfully established, whereas Hawai'i's CBSFA has so far failed to be meaningfully implemented.",
+      "ground_truth_chunks": [
+        "Both contextual and program design factors provide insight as to why the American Samoa CFMP has been successfully established and why Hawai'i's program has so far failed to be meaningfully implemented."
+      ]
+    },
+    {
+      "record_id": "d08ebf7b784152d8b14e5e89",
+      "paper_id": "Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries",
+      "source_path": "output/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries.md",
+      "section_heading": "Leadership and resource management processes",
+      "section_start_line": 169,
+      "section_end_line": 176,
+      "model": "openai:gpt-4o-mini",
+      "question": "What issue did the Miloli'i CBSFA meeting illustrate about community leadership in Hawai'i?",
+      "ground_truth_answer": "That a person the DLNR perceived as a leader did not have full support from the community, and Miloli'i lacked formally established community institutions or leadership structures with which the DLNR could confidently collaborate.",
+      "ground_truth_chunks": [
+        "The outcomes of the Miloli'i CBSFA meeting came about because a community member that the DLNR perceived as a leader did not, in fact, have full support from the community.",
+        "Miloli'i had no formally established community institutions or leadership structures with which the DLNR could collaborate with confidence."
+      ]
+    },
+    {
+      "record_id": "b492083fa981492ddc74af41",
+      "paper_id": "Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries",
+      "source_path": "output/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries.md",
+      "section_heading": "Support from collaborating comanagement agencies",
+      "section_start_line": 177,
+      "section_end_line": 182,
+      "model": "openai:gpt-4o-mini",
+      "question": "What actions did the DMWR take to support community-based fisheries management in American Samoa?",
+      "ground_truth_answer": "The DMWR approached communities to gauge their interest and worked actively to support development of management plans and community regulations; it drafted legislative changes to formalize community rules, sponsored workshops to assist villages in enforcing VMPA regulations, and conducted monitoring of marine resource conditions in program villages.",
+      "ground_truth_chunks": [
+        "Unlike American Samoa, where the DMWR has approached communities to gauge their interest in the program and works actively to support development of management plans and community regulations, Hawai'i's DLNR has done little to encourage or support community participation in the CBSFA program.",
+        "The DMWR drafted legislative changes to help formalize community rules in the territorial legislature, has sponsored workshops to assist villages in enforcing VMPA regulations, and has conducted monitoring of marine resource conditions in program villages."
+      ]
+    },
+    {
+      "record_id": "6a46c6ca85e6e35278dd3c56",
+      "paper_id": "Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries",
+      "source_path": "output/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries.md",
+      "section_heading": "Challenges in reconciling indigenous and Western management approaches",
+      "section_start_line": 183,
+      "section_end_line": 192,
+      "model": "openai:gpt-4o-mini",
+      "question": "What constitutional principle prevents American Samoan territorial law and Hawai'i state law from recognizing fisheries regulations that apply differently to outsiders than to community members?",
+      "ground_truth_answer": "Equal protection under their constitutions, which requires that community regulations apply equally to all state and territorial residents, prevents fisheries regulations that treat outsiders differently.",
+      "ground_truth_chunks": [
+        "Neither American Samoan territorial law nor Hawai'i state law can recognize fisheries regulations that apply differently to outsiders than to community members. Equal protection under their constitutions means that community regulations must apply equally to all state and territorial residents.",
+        "The right to exclude outsiders, one of the most important components of traditional marine tenure and a key design principle for common-pool resource management, cannot be legally recognized within the legal framework of the United States.",
+        "In American Samoa, this has proved less of a challenge because customary village-based restrictions on outsiders are generally accepted by territorial residents, although a challenge to these restrictions would not hold up formally in court."
+      ]
+    },
+    {
+      "record_id": "82c68bbdea63ce055dfad522",
+      "paper_id": "Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries",
+      "source_path": "output/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries.md",
+      "section_heading": "Appropriate institutional frameworks and adaptive capacity",
+      "section_start_line": 197,
+      "section_end_line": 206,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did American Samoa's DMWR address the problem of lack of territorial recognition of village laws?",
+      "ground_truth_answer": "The DMWR worked with the legislature to develop a mechanism for formalizing village laws and enforcement authority.",
+      "ground_truth_chunks": [
+        "The DMWR developed workshops and trainings for community members as gaps in community capacity were recognized.",
+        "When the lack of territorial recognition of village laws became a problem, the DMWR worked with the legislature to develop a mechanism for formalizing village laws and enforcement authority."
+      ]
+    },
+    {
+      "record_id": "0aeaf227c665ac98f84e2bac",
+      "paper_id": "Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries",
+      "source_path": "output/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries.md",
+      "section_heading": "CONCLUSIONS",
+      "section_start_line": 207,
+      "section_end_line": 222,
+      "model": "openai:gpt-4o-mini",
+      "question": "In the Conclusions section, what percentage of villagers surveyed stated that the VMPA in their village is helping to improve the condition of fish and other marine resources?",
+      "ground_truth_answer": "98%",
+      "ground_truth_chunks": [
+        "Although monitoring data is not available to confirm the ecological outcomes of American Samoa's CFMP, most village residents see it as having improved local resource conditions; in a recent survey of 300 villagers involved in the CFMP program, 98% stated that the VMPA in their village \"is helping to improve the condition of fish and other marine resources\" (A. S. Levine, *unpublished data*)."
+      ]
+    }
+  ],
+  "failures": []
+}

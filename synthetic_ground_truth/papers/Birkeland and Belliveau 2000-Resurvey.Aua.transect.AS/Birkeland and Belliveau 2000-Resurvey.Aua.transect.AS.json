@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Birkeland and Belliveau 2000-Resurvey.Aua.transect.AS/Birkeland and Belliveau 2000-Resurvey.Aua.transect.AS.md",
+  "source_sha256": "48c853877e92a8ebc1ff4e33dee8058f473d3a3fc205c7435382b317dc932ec3",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "d074fcaa9449a25555bb61ba",
+      "paper_id": "Birkeland and Belliveau 2000-Resurvey.Aua.transect.AS/Birkeland and Belliveau 2000-Resurvey.Aua.transect.AS",
+      "source_path": "output/Birkeland and Belliveau 2000-Resurvey.Aua.transect.AS/Birkeland and Belliveau 2000-Resurvey.Aua.transect.AS.md",
+      "section_heading": "Charles Birkeland<sup>1</sup> and Stephanie A. Belliveau<sup>2</sup>",
+      "section_start_line": 3,
+      "section_end_line": 100,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percentage did coral abundance drop in the outer reef margin of the Aua Transect between October 1999 and May 2000?",
+      "ground_truth_answer": "Coral abundance dropped by 67%.",
+      "ground_truth_chunks": [
+        "The most striking event that has occurred in the past 7 months, during which time ships 8 and 9 were removed from the reef flat south of the transect, was a 67% drop in coral abundance and a 58% decrease in living coral cover in the outer reef margin of the reef flat on the Aua Transect.",
+        "In October 1999, there were 75 corals per m<sup>2</sup> and 24% percent living coral cover, but 7 months later, the number of colonies per m<sup>2</sup> was 25 and the living coral cover was 10%."
+      ]
+    }
+  ],
+  "failures": []
+}

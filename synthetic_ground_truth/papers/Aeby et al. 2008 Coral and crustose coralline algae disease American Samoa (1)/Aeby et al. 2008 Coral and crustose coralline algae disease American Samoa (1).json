@@ -1,0 +1,142 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1).md",
+  "source_sha256": "2dd7d62fb90bb30272630f83fbb807ec3306f89814eca1bb616af7d8424434f4",
+  "status": "complete",
+  "selected_section_count": 9,
+  "successful_record_count": 9,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "37c83b10c08462f0a34e2343",
+      "paper_id": "Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)",
+      "source_path": "output/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1).md",
+      "section_heading": "Coral and crustose coralline algae disease on the reefs of American Samoa",
+      "section_start_line": 1,
+      "section_end_line": 10,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many different coral disease states were documented from the reefs of Tutuila?",
+      "ground_truth_answer": "12 different coral disease states were documented from the reefs of Tutuila.",
+      "ground_truth_chunks": [
+        "We documented 12 different coral disease states from the reefs of Tutuila and two diseases of crustose coralline algae (CCA)."
+      ]
+    },
+    {
+      "record_id": "eb375968ddc5ddf7c419f230",
+      "paper_id": "Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)",
+      "source_path": "output/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1).md",
+      "section_heading": "Introduction",
+      "section_start_line": 11,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "When were the baseline disease surveys at seven sites around Tutuila conducted?",
+      "ground_truth_answer": "They were conducted in June 2004 and January 2005.",
+      "ground_truth_chunks": [
+        "We did baseline disease surveys at seven sites around Tutuila in June 2004 and January 2005."
+      ]
+    },
+    {
+      "record_id": "4f62bffe25e3acfed109e953",
+      "paper_id": "Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)",
+      "source_path": "output/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1).md",
+      "section_heading": "Methods",
+      "section_start_line": 15,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "What statistical test did the authors use to test for seasonal differences in coral disease prevalence and CCA disease abundance?",
+      "ground_truth_answer": "A Wilcoxon signed rank test.",
+      "ground_truth_chunks": [
+        "Data were not normally distributed even with transformation so a Wilcoxon signed rank test was used to test for seasonal differences in coral disease prevalence and CCA disease abundance.",
+        "For each survey period (2004 and 2005), a chi square homogeneity test was used to look for differences in the distribution of the number of diseased vs. healthy colonies among the six most common scleractinian genera (Acropora, Pavona, Porites, Pocillopora, Montipora, Leptastrea)"
+      ]
+    },
+    {
+      "record_id": "d8d2d6d270ef7434f1502a6b",
+      "paper_id": "Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)",
+      "source_path": "output/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1).md",
+      "section_heading": "Overall occurrence of disease",
+      "section_start_line": 27,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many different coral disease states (or lesion types) were documented during the 2004–2005 surveys on the reefs of Tutuila?",
+      "ground_truth_answer": "Twelve different coral disease states (or lesion types) were documented.",
+      "ground_truth_chunks": [
+        "During surveys in 2004 and 2005, twelve different coral disease states (or lesion types) were documented from eight coral genera on the reefs of Tutuila (Table 1)."
+      ]
+    },
+    {
+      "record_id": "5e43c1a171b1236c92c77de7",
+      "paper_id": "Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)",
+      "source_path": "output/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1).md",
+      "section_heading": "Distribution, frequency of occurrence and prevalence of each disease state",
+      "section_start_line": 33,
+      "section_end_line": 38,
+      "model": "openai:gpt-4o-mini",
+      "question": "At how many sites was Acropora white syndrome (AWS) found?",
+      "ground_truth_answer": "AWS was found at 5 of 7 sites (71.4%).",
+      "ground_truth_chunks": [
+        "Acropora white syndrome (AWS) and Acropora growth anomalies (AGA) were the most widespread diseases. AWS was found at 5 of 7 sites (FOC=71.4%) and AGA was found at 4 of 7 sites (FOC=57.1%)."
+      ]
+    },
+    {
+      "record_id": "93d77857844d15bc356397aa",
+      "paper_id": "Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)",
+      "source_path": "output/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1).md",
+      "section_heading": "Difference in disease levels among coral genera",
+      "section_start_line": 39,
+      "section_end_line": 42,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which of the six most abundant scleractinian coral genera had the highest average disease prevalence and what was that prevalence?",
+      "ground_truth_answer": "Acropora had the highest average prevalence at 0.85%.",
+      "ground_truth_chunks": [
+        "Prevalence of disease differed among the coral genera within each year surveyed (2004: X²=113.0 df=5, p=0.00; 2005: X²=29.06, df=5, p=0.00).",
+        "Of the six most abundant scleractinian coral genera found within our transects, *Acropora* had the highest average prevalence (0.85%) followed by *Pavona* (0.14%), *Porites* (0.11%), *Montipora* (0.06%), *Leptastrea* (0.06%) and *Pocillopora* (0%)."
+      ]
+    },
+    {
+      "record_id": "ad9ede5886d99c480733e089",
+      "paper_id": "Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)",
+      "source_path": "output/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1).md",
+      "section_heading": "Seasonal differences in coral and CCA disease on Tutuila",
+      "section_start_line": 43,
+      "section_end_line": 66,
+      "model": "openai:gpt-4o-mini",
+      "question": "Was there a seasonal difference in coral disease prevalence between Winter 2004 and Summer 2005 on Tutuila?",
+      "ground_truth_answer": "No — there were no seasonal differences; average coral disease prevalence was 0.21% (SE±0.08) in Winter 2004 and 0.15% (SE±0.05) in Summer 2005 (Wilcoxon signed rank, n=14, p=0.29).",
+      "ground_truth_chunks": [
+        "There were no seasonal differences found in coral disease prevalence or CLOD abundance. Average coral disease prevalence was 0.21% (SE±0.08) in Winter 2004 as compared to 0.15% (SE±0.05) in Summer 2005 (Wilcoxon signed rank, n=14, p=0.29).",
+        "CLOD levels were 0.039 (SE±0.03) CLOD/m<sup>2</sup> CCA in winter as compared to 0.049 (SE±0.03) in summer (Wilcoxon signed rank, n=14, p=0.88)."
+      ]
+    },
+    {
+      "record_id": "6975c3925daf6ab126ef4c97",
+      "paper_id": "Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)",
+      "source_path": "output/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1).md",
+      "section_heading": "Histology",
+      "section_start_line": 67,
+      "section_end_line": 70,
+      "model": "openai:gpt-4o-mini",
+      "question": "What microscopic finding explained the pale discoloration observed in Favia/Favites?",
+      "ground_truth_answer": "On microscopy, the pale discoloration in Favia/Favites was attributed to mucus sheathing and was not considered abnormal.",
+      "ground_truth_chunks": [
+        "The pale discoloration found in *Favia/Favites* was, on microscopy, attributed to mucus sheathing and not considered abnormal."
+      ]
+    },
+    {
+      "record_id": "1b7f896cdf6772deecb48913",
+      "paper_id": "Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)",
+      "source_path": "output/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1).md",
+      "section_heading": "Discussion",
+      "section_start_line": 71,
+      "section_end_line": 92,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral genus was found to be disproportionately affected by disease in Tutuila?",
+      "ground_truth_answer": "Acropora.",
+      "ground_truth_chunks": [
+        "We found *Acropora* to be disproportionately affected by disease in Tutuila.",
+        "*Acropora* appear to be particularly susceptible to disease and this same pattern is emerging Indo-Pacific wide being found on the GBR (Willis et al. 2004), Sulawesi, Indonesia (Haapkyla et al. 2007) and the northwestern Hawaiian Islands (Aeby 2007)."
+      ]
+    }
+  ],
+  "failures": []
+}

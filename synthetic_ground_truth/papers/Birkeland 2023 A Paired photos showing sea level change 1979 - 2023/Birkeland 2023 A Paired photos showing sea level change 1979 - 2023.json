@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Birkeland 2023 A Paired photos showing sea level change 1979 - 2023/Birkeland 2023 A Paired photos showing sea level change 1979 - 2023.md",
+  "source_sha256": "8e180dd48b19136bed2f8e5dbbf00bc4e12e68db2b5be70bfa6b45a86628c99b",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "ef3cb9ba32c6a6b680ecb48d",
+      "paper_id": "Birkeland 2023 A Paired photos showing sea level change 1979 - 2023/Birkeland 2023 A Paired photos showing sea level change 1979 - 2023",
+      "source_path": "output/Birkeland 2023 A Paired photos showing sea level change 1979 - 2023/Birkeland 2023 A Paired photos showing sea level change 1979 - 2023.md",
+      "section_heading": "Birkeland 2023 A Paired photos showing sea level change 1979 - 2023.md",
+      "section_start_line": 1,
+      "section_end_line": 5,
+      "model": "openai:gpt-4o-mini",
+      "question": "What effective sea level change between 1979 and 2023 does the section estimate when combining sea level rise, island sinking, and the tide difference?",
+      "ground_truth_answer": "About 26 cm (or about 28.6 cm when adding the lower tide level).",
+      "ground_truth_chunks": [
+        "Therefore, sea level has possibly risen on Tutuila roughly 10.3 cm since 1079.",
+        "Therefore, the island may have sunk 15.75 cm since 1979. Adding sea level rise to island sinking (and the 2.54 cm difference in low tides), the effective sea level rise (10.3 cm) and the degree to which the reef is more submerged in 2023 (15.75 cm) should be about 26 cm (or 28.6 cm when adding the lower tide level) and this may be what the photos show."
+      ]
+    }
+  ],
+  "failures": []
+}

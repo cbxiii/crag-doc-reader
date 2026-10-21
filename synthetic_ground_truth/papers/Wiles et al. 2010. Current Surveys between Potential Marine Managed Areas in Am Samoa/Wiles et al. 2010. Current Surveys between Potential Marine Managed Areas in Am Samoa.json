@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa.md",
+  "source_sha256": "b75d4379ef2bb4e97bb5dcca5ad5dcf061110ad256265aedd9e2a1ffd1082351",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "10a1a4d3d3428234821e73c4",
+      "paper_id": "Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa",
+      "source_path": "output/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa.md",
+      "section_heading": "Current Surveys between Potential Marine Managed Areas in American Samoa",
+      "section_start_line": 1,
+      "section_end_line": 18,
+      "model": "openai:gpt-4o-mini",
+      "question": "What NOAA Award number provided funding assistance for the report?",
+      "ground_truth_answer": "NOAA Award # FNA09NMF4410038.",
+      "ground_truth_chunks": [
+        "With funding assistance provided by the NOAA Coral Reef Conservation Program under NOAA Award # FNA09NMF4410038"
+      ]
+    },
+    {
+      "record_id": "ffeff6002dba07eab1e20de7",
+      "paper_id": "Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa",
+      "source_path": "output/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 50,
+      "section_end_line": 75,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Gary Egbert's model, what is the amplitude and the direction/velocity of the main tidal component (M2) around American Samoa?",
+      "ground_truth_answer": "The M2 tide has an amplitude of ~0.3 m and moves from north to south past American Samoa, with a weak current of about 4 cm/s flowing south during high tide and north during low tide.",
+      "ground_truth_chunks": [
+        "Gary Egbert, at Oregon State University, has used satellite data to infer the tides within the Pacific Basin. His model shows that the main tidal component (M2) is relatively weak around American Samoa. It indicates that the tide moves from north to south past American Samoa with an amplitude of ~0.3m and a weak current (~4cm/s) flowing south during high tide and north during low tide."
+      ]
+    },
+    {
+      "record_id": "63f87f7f2874841b0380c544",
+      "paper_id": "Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa",
+      "source_path": "output/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa.md",
+      "section_heading": "METHOD",
+      "section_start_line": 86,
+      "section_end_line": 110,
+      "model": "openai:gpt-4o-mini",
+      "question": "What ADCP model and frequency was used, and why was this model chosen?",
+      "ground_truth_answer": "A Teledyne RDInstruments 600 kHz Acoustic Doppler Current Profiler (ADCP) was used. The 600 kHz model was chosen because it provides high resolution current measurements in the top 40m of the water column using a bottom track feature in total water depths of up to 110m.",
+      "ground_truth_chunks": [
+        "A Teledyne RDInstruments 600 kHz Acoustic Doppler Current Profiler (ADCP) was purchased and arrived on the island in May 2010.",
+        "The 600 kHz model was chosen as it provides high resolution current measurements in the top 40m of the water column using a bottom track feature in total water depths of up to 110m."
+      ]
+    },
+    {
+      "record_id": "f42c2eaf0529c720a99c8e11",
+      "paper_id": "Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa",
+      "source_path": "output/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa.md",
+      "section_heading": "Tidal Analysis Method",
+      "section_start_line": 111,
+      "section_end_line": 120,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which tidal constituents were resolved when fitting sinusoids to the averaged velocity data?",
+      "ground_truth_answer": "The M2 (12 hour and 25 minute) and M4 (6 hour and 13 minute) tidal constituents were resolved, plus a residual component.",
+      "ground_truth_chunks": [
+        "The east and north components of flow were then resolved into the M2 (12 hour and 25 minute), M4 (6 hour and 13 minute) and residual components following Simpson et al. 1990.",
+        "12.42 hour (red) and 6.21hour (green) sinusoids are fitted to the red crosses to find the amplitude of those tidal constituents. The residual mean offset flow is included in the regression (blue)."
+      ]
+    },
+    {
+      "record_id": "87473d9c5279da6fb189daf1",
+      "paper_id": "Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa",
+      "source_path": "output/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa.md",
+      "section_heading": "Aunu'u",
+      "section_start_line": 137,
+      "section_end_line": 152,
+      "model": "openai:gpt-4o-mini",
+      "question": "What tidal current speed did the survey indicate within the Aunu'u channel?",
+      "ground_truth_answer": "The survey indicated the tides within Aunu'u channel were very energetic at about 1 m/s and aligned with the channel.",
+      "ground_truth_chunks": [
+        "Although this survey was undertaken during neap tides on September 30, 2010, this survey indicated the tides within Aunu'u channel are very energetic (1 m/s) and aligned with the channel.",
+        "The residual flow within the channel is not significantly different from 0 m/s."
+      ]
+    },
+    {
+      "record_id": "b735731748be4dd731fea7e6",
+      "paper_id": "Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa",
+      "source_path": "output/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa.md",
+      "section_heading": "Taema",
+      "section_start_line": 153,
+      "section_end_line": 168,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the wind direction and speed during the survey around Taema bank?",
+      "ground_truth_answer": "Winds were from the northeast at about 10–15 knots.",
+      "ground_truth_chunks": [
+        "Winds during the survey were from the northeast, with a speed of about 10-15 knots.",
+        "The survey around Taema bank was performed on November 11, 2010."
+      ]
+    },
+    {
+      "record_id": "c18cceb8bedc99108691228b",
+      "paper_id": "Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa",
+      "source_path": "output/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa.md",
+      "section_heading": "Pago Pago Harbor",
+      "section_start_line": 193,
+      "section_end_line": 202,
+      "model": "openai:gpt-4o-mini",
+      "question": "On what date was the Pago Pago harbor survey carried out?",
+      "ground_truth_answer": "The survey was carried out on September 27, 2010.",
+      "ground_truth_chunks": [
+        "The survey was carried out on September 27, 2010."
+      ]
+    },
+    {
+      "record_id": "d1d24500cc58a5c03b4a3327",
+      "paper_id": "Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa",
+      "source_path": "output/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa.md",
+      "section_heading": "Fagamalo",
+      "section_start_line": 203,
+      "section_end_line": 214,
+      "model": "openai:gpt-4o-mini",
+      "question": "What characteristic eddy circumference and recirculation period were reported for the eddies near Fagamalo?",
+      "ground_truth_answer": "A characteristic eddy circumference of 3km and an approximate recirculation period of 8 hours.",
+      "ground_truth_chunks": [
+        "Nevertheless, some interesting information was gained from the survey, particularly the presence of eddies in the bay encompassing Maloata and Fagamalo and in the bay of Fagali'i.",
+        "Given a characteristic eddy circumference of 3km and a current speed of 0.1m/s, the water will re-circulate within these eddies approximately every 8 hours."
+      ]
+    },
+    {
+      "record_id": "28644fdd423ab586bcedd36b",
+      "paper_id": "Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa",
+      "source_path": "output/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa.md",
+      "section_heading": "SUMMARY",
+      "section_start_line": 235,
+      "section_end_line": 246,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why can't the ADCP surveys be considered synoptic?",
+      "ground_truth_answer": "Because the surveys are scheduled only once per week (with a backup day) and, together with weather and personnel constraints, this gives enough time for oceanographic conditions to change between surveys, so the ensemble of surveys cannot be considered synoptic.",
+      "ground_truth_chunks": [
+        "Due to boat scheduling and personnel resources, the surveys are scheduled once per week (with a backup day later in the week).",
+        "Factoring in weather issues makes it difficult to perform several surveys in a short period of time.",
+        "This inherently means that oceanographic conditions have enough time to change between the surveys such that the ensemble of surveys cannot be considered as synoptic."
+      ]
+    },
+    {
+      "record_id": "e9d5b21c15e2b294b853e610",
+      "paper_id": "Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa",
+      "source_path": "output/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa/Wiles et al. 2010. Current Surveys between Potential Marine Managed Areas in Am Samoa.md",
+      "section_heading": "FUTURE WORK",
+      "section_start_line": 247,
+      "section_end_line": 258,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two sites have not yet been surveyed?",
+      "ground_truth_answer": "Pola and Tula.",
+      "ground_truth_chunks": [
+        "Two of the sites (Pola and Tula) have not yet been surveyed."
+      ]
+    }
+  ],
+  "failures": []
+}

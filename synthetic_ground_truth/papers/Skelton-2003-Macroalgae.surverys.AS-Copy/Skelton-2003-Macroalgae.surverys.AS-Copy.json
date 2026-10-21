@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Skelton-2003-Macroalgae.surverys.AS-Copy/Skelton-2003-Macroalgae.surverys.AS-Copy.md",
+  "source_sha256": "00d3eb30d3c721aa1bb02a647895e935c67948180e9db2f3fd37475066f0e1d0",
+  "status": "complete",
+  "selected_section_count": 3,
+  "successful_record_count": 3,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "57105293e89cf51f6d90d6c5",
+      "paper_id": "Skelton-2003-Macroalgae.surverys.AS-Copy/Skelton-2003-Macroalgae.surverys.AS-Copy",
+      "source_path": "output/Skelton-2003-Macroalgae.surverys.AS-Copy/Skelton-2003-Macroalgae.surverys.AS-Copy.md",
+      "section_heading": "Introduction",
+      "section_start_line": 17,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many field days were possible during the macroalgae surveys?",
+      "ground_truth_answer": "A total of 11 field days was possible.",
+      "ground_truth_chunks": [
+        "A total of 11 field days was possible, comprising of 8 dives and8 snorkels (Table 1)."
+      ]
+    },
+    {
+      "record_id": "6620b15f79dbcd297781ede1",
+      "paper_id": "Skelton-2003-Macroalgae.surverys.AS-Copy/Skelton-2003-Macroalgae.surverys.AS-Copy",
+      "source_path": "output/Skelton-2003-Macroalgae.surverys.AS-Copy/Skelton-2003-Macroalgae.surverys.AS-Copy.md",
+      "section_heading": "Methods",
+      "section_start_line": 25,
+      "section_end_line": 36,
+      "model": "openai:gpt-4o-mini",
+      "question": "What preservative and concentration were used to preserve algal specimens?",
+      "ground_truth_answer": "A 5 % formalin/seawater solution was used to preserve the algal specimens.",
+      "ground_truth_chunks": [
+        "Algae were later sorted, labelled and preserved in a 5 % formalin/seawater solution.",
+        "The specimens were pickled for 2 days before the solution was decanted to be recycled."
+      ]
+    },
+    {
+      "record_id": "a999b4d169fe36c21b8fbbc8",
+      "paper_id": "Skelton-2003-Macroalgae.surverys.AS-Copy/Skelton-2003-Macroalgae.surverys.AS-Copy",
+      "source_path": "output/Skelton-2003-Macroalgae.surverys.AS-Copy/Skelton-2003-Macroalgae.surverys.AS-Copy.md",
+      "section_heading": "Preliminary Results",
+      "section_start_line": 37,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many sites were surveyed and from how many islands and islets according to the Preliminary Results?",
+      "ground_truth_answer": "A total of 16 sites were surveyed from 6 islands and islets.",
+      "ground_truth_chunks": [
+        "A total of 16 sites were surveyed from 6 islands and islets."
+      ]
+    }
+  ],
+  "failures": []
+}

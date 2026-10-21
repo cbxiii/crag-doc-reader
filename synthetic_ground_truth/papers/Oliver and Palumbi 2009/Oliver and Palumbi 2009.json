@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Oliver and Palumbi 2009/Oliver and Palumbi 2009.md",
+  "source_sha256": "c63d9bfe1e93ab122e2e9853e1b7ff76c5d2b20f6ab95921f6141b8835f927d1",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "fae9f6136e0d45bb7d6aead8",
+      "paper_id": "Oliver and Palumbi 2009/Oliver and Palumbi 2009",
+      "source_path": "output/Oliver and Palumbi 2009/Oliver and Palumbi 2009.md",
+      "section_heading": "Distributions of stress-resistant coral symbionts match environmental patterns at local but not regional scales",
+      "section_start_line": 1,
+      "section_end_line": 12,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which region had the highest frequency of temperature stress-tolerant Clade D symbionts?",
+      "ground_truth_answer": "American Samoa (83%).",
+      "ground_truth_chunks": [
+        "Temperature stress-tolerant Clade D symbionts occur more frequently in American Samoa (83%) than in Palmyra, Fiji or the Philippines (<1%).",
+        "In American Samoa, Clade D symbionts dominate habitats with higher maximum temperatures, while Clades C and D are both common under lower maximum temperatures."
+      ]
+    },
+    {
+      "record_id": "c0b9850e80b03b09bf6ac280",
+      "paper_id": "Oliver and Palumbi 2009/Oliver and Palumbi 2009",
+      "source_path": "output/Oliver and Palumbi 2009/Oliver and Palumbi 2009.md",
+      "section_heading": "MATERIALS AND METHODS",
+      "section_start_line": 41,
+      "section_end_line": 100,
+      "model": "openai:gpt-4o-mini",
+      "question": "What genetic marker and length were used to assign Symbiodinium samples to clades?",
+      "ground_truth_answer": "351 bp of mitochondrial Cytochrome b.",
+      "ground_truth_chunks": [
+        "All *Symbiodinium* samples were assigned to a specific clade using 351 bp of mitochondrial Cytochrome *b* (Table 2)."
+      ]
+    },
+    {
+      "record_id": "6df04702ae7b6370e029bfb4",
+      "paper_id": "Oliver and Palumbi 2009/Oliver and Palumbi 2009",
+      "source_path": "output/Oliver and Palumbi 2009/Oliver and Palumbi 2009.md",
+      "section_heading": "Genetic comparisons",
+      "section_start_line": 109,
+      "section_end_line": 134,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the Symbiodinium community hosted by Acropora hyacinthus in American Samoa was Clade D?",
+      "ground_truth_answer": "82.4% Clade D.",
+      "ground_truth_chunks": [
+        "Although the heat-resistant Clade D *Symbiodinium* made up 82.4% of the 142 samples from American Samoa, we did not find a single sample hosting Clade D from Fiji (n = 88), Palmyra Atoll\n\n(n = 41), or the central Philippines (n = 31) in either *Acropora hyacinthus* or *A. cytherea*.",
+        "Overall the *Symbiodinium* community hosted by *Acropora hyacinthus* was comprised of 82.4% Clade D, 16.9% Clade C and 0.7% Clade A."
+      ]
+    },
+    {
+      "record_id": "a99d308885d33cb906cb7016",
+      "paper_id": "Oliver and Palumbi 2009/Oliver and Palumbi 2009",
+      "source_path": "output/Oliver and Palumbi 2009/Oliver and Palumbi 2009.md",
+      "section_heading": "American Samoa temperature records",
+      "section_start_line": 137,
+      "section_end_line": 142,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was Pool 300's variance and how did it compare to the variances of Pools 400 and 500?",
+      "ground_truth_answer": "Pool 300's variance was 0.49; the variances of Pools 400 and 500 were 0.17 and 0.094, respectively — 3 to 5 times lower than Pool 300.",
+      "ground_truth_chunks": [
+        "The temperature distributions also show differences in their variances. Pool 300's variance wss 0.49, while those of Pools 400 and 500 were 3 to 5 times lower (0.17 and 0.094, respectively).",
+        "Thus, Pool 300 showed a temperature profile similar to back-reef environments elsewhere in American Samoa, while Pools 400 and 500 were more similar to fore-reef environments."
+      ]
+    },
+    {
+      "record_id": "fc0520729506847975a48468",
+      "paper_id": "Oliver and Palumbi 2009/Oliver and Palumbi 2009",
+      "source_path": "output/Oliver and Palumbi 2009/Oliver and Palumbi 2009.md",
+      "section_heading": "Environmental–symbiont correlations",
+      "section_start_line": 170,
+      "section_end_line": 175,
+      "model": "openai:gpt-4o-mini",
+      "question": "Was Clade D *Symbiodinium* found outside of American Samoa?",
+      "ground_truth_answer": "No. No Clade D *Symbiodinium* was found outside of American Samoa.",
+      "ground_truth_chunks": [
+        "At 2 sites, Faga'itua and Vatia Bays, Clade D dominated back-reef habitats to the exclusion of Clade C.",
+        "No Clade D *Symbiodinium* was found outside of American Samoa, but American Samoa was no hotter than Fiji or Palmyra Atoll and was cooler than the Philippines."
+      ]
+    },
+    {
+      "record_id": "b7ed95443928069601a41bbb",
+      "paper_id": "Oliver and Palumbi 2009/Oliver and Palumbi 2009",
+      "source_path": "output/Oliver and Palumbi 2009/Oliver and Palumbi 2009.md",
+      "section_heading": "American Samoa: clade frequency differences among habitats",
+      "section_start_line": 180,
+      "section_end_line": 183,
+      "model": "openai:gpt-4o-mini",
+      "question": "In American Samoa, which Symbiodinium clade was observed to be more common in back-reef habitats that reach high maximum temperatures?",
+      "ground_truth_answer": "Clade D Symbiodinium were observed to be more common in back-reef habitats that reach high maximum temperatures.",
+      "ground_truth_chunks": [
+        "In American Samoa, we observed that Clade D *Symbiodinium* were more common in back-reef habitats that reach high maximum temperatures than in nearby habitats with more moderate thermal environments (e.g. fore-reef).",
+        "The observed association between *Symbiodinium* genotype and thermal habitat suggests that populations of *Acropora hyacinthus* in more thermally extreme habitats in American Samoa have matched their local environment by hosting a more heatresistant symbiont.",
+        "On the fore-reef, corals may not require the thermal tolerance provided by Clade D and may grow faster with Clade C symbionts."
+      ]
+    },
+    {
+      "record_id": "608789261cbd84debecb9d49",
+      "paper_id": "Oliver and Palumbi 2009/Oliver and Palumbi 2009",
+      "source_path": "output/Oliver and Palumbi 2009/Oliver and Palumbi 2009.md",
+      "section_heading": "Alternative hypotheses",
+      "section_start_line": 190,
+      "section_end_line": 193,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which alternative hypotheses do the authors propose to explain the distribution patterns of Symbiodinium when the strict environmental model fails to predict the proportion of resistant symbionts outside American Samoa?",
+      "ground_truth_answer": "They propose four hypotheses: (1) coral adaptation, (2) unexamined environmental variables, (3) cryptic stress tolerance, and (4) dispersal limitation.",
+      "ground_truth_chunks": [
+        "The failure of the strict environmental model to predict the proportion of resistant symbionts outside of American Samoa leads us to address other potential hypotheses: (1) coral adaptation, (2) unexamined environmental variables, (3) cryptic stress tolerance and (4) dispersal limitation.",
+        "Because the focal species of the present study can host both Clades C and D, host–symbiont specificity is unlikely to be an important factor."
+      ]
+    },
+    {
+      "record_id": "f98b2808ec870629244084bf",
+      "paper_id": "Oliver and Palumbi 2009/Oliver and Palumbi 2009",
+      "source_path": "output/Oliver and Palumbi 2009/Oliver and Palumbi 2009.md",
+      "section_heading": "Coral adaptation",
+      "section_start_line": 194,
+      "section_end_line": 199,
+      "model": "openai:gpt-4o-mini",
+      "question": "Have any studies linked variation in thermal sensitivity among corals to specific genetic differences?",
+      "ground_truth_answer": "No — the section states that no study has yet linked variation in thermal sensitivity to specific genetic differences among corals.",
+      "ground_truth_chunks": [
+        "Researchers have documented variation in bleaching sensitivity across distinct coral species (McClanahan et al. 2001, 2007), and 2 studies have seen differences in thermal tolerance among members of a coral species that could be due to genetic differences (Smith-Keune & van Oppen 2006, Ulstrup et al. 2006).",
+        "However, no study has yet linked variation in thermal sensitivity to specific genetic differences among corals."
+      ]
+    },
+    {
+      "record_id": "10d6ea4ea749fd7e9c5e1c6c",
+      "paper_id": "Oliver and Palumbi 2009/Oliver and Palumbi 2009",
+      "source_path": "output/Oliver and Palumbi 2009/Oliver and Palumbi 2009.md",
+      "section_heading": "Cryptic stress tolerance",
+      "section_start_line": 206,
+      "section_end_line": 209,
+      "model": "openai:gpt-4o-mini",
+      "question": "What evidence in the section suggests that within-clade physiological variation may exist in Clade C Symbiodinium?",
+      "ground_truth_answer": "Garren et al. (2006) identified a subtype of Clade C Symbiodinium in Caribbean Montastrea that associates with hot, turbid areas normally dominated only by Clade D, the present study found one instance of within-Clade C variation in Fiji (a population lacking Clade D), and the authors state their cytochrome b genetic assay almost certainly underestimates within-clade diversity.",
+      "ground_truth_chunks": [
+        "Garren et al. (2006) identified a subtype of Clade C *Symbiodinium* in Caribbean *Montastrea* that associates with hot, turbid areas normally dominated only by Clade D (Garren et al. 2006). This suggests within-clade physiological variation may exist that serves the same function as that ascribed to members of Clade D.",
+        "The present study found one instance of within-Clade C variation in Fiji, a population lacking Clade D. However, our genetic assay using cytochrome *b* almost certainly underestimates withinclade diversity that could identify physiologically distinct *Symbiodinium* within Clade C. This possibility underscores the need to study the genomic correlates of the high temperature resistance behavior, if only as"
+      ]
+    },
+    {
+      "record_id": "48b3541db5fd5b46b62cf362",
+      "paper_id": "Oliver and Palumbi 2009/Oliver and Palumbi 2009",
+      "source_path": "output/Oliver and Palumbi 2009/Oliver and Palumbi 2009.md",
+      "section_heading": "Implications for climate change",
+      "section_start_line": 216,
+      "section_end_line": 227,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which area is identified in the section as having high availability of stress-tolerant Symbiodinium and may serve as a resilient 'fortress of diversity'?",
+      "ground_truth_answer": "American Samoa.",
+      "ground_truth_chunks": [
+        "While a simple explanation of the patterns we document remain elusive, the identification of areas like American Samoa that have high availability of stresstolerant *Symbiodinium* may be important to policy makers.",
+        "The establishment of a US National Park in American Samoa may have been a particularly valuable move that allows a substantial area of temperature-resistant reef to be protected from the anthropogenic impacts of sedimentation, overfishing and eutrophication."
+      ]
+    }
+  ],
+  "failures": []
+}

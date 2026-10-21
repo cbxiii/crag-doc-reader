@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain.md",
+  "source_sha256": "81ae711f80982222c3c37110e908fbb2e2f4b8ea372874fd23d06aaf60ea95e5",
+  "status": "complete",
+  "selected_section_count": 8,
+  "successful_record_count": 8,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "69bc8f96b75782231f666731",
+      "paper_id": "Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain",
+      "source_path": "output/Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain.md",
+      "section_heading": "JAMES H. NATLAND",
+      "section_start_line": 3,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "What mechanism does Natland propose for the development of the post-erosional rift zone across the Samoan Islands?",
+      "ground_truth_answer": "Natland proposes that the post-erosional rift zone developed in response to bending of the Pacific Plate into the Tonga Trench, with the rift lying on the crest of the bending-induced arch and shear melting at the base of the lithosphere (caused by plate bending) producing the post-erosional lavas and their near-simultaneous eruption along the 300+ km rift.",
+      "ground_truth_chunks": [
+        "Petrologic, geologic, and bathymetric data both on and around the islands indicate that the post-erosional rift zone developed in response to bending of the Pacific Plate southward into the west-northwest-trending limb of the Tonga Trench, less than 200 km south of the Samoan Ridge.",
+        "The rift zone lies on the crest of the arch produced by the bending. The petrology of the post-erosional lavas and their virtually simultaneous eruption along a rift zone 300+ km long are plausibly explained by shear melting at the base of the lithosphere in response to plate bending near the Tonga Trench."
+      ]
+    },
+    {
+      "record_id": "c0cedcfbd37215cab07a7e21",
+      "paper_id": "Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain",
+      "source_path": "output/Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 15,
+      "section_end_line": 54,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the INTRODUCTION section, in which direction do Samoan shield volcanoes actually propagate?",
+      "ground_truth_answer": "Samoan shield volcanoes propagate to the east — more precisely, 20° south of east.",
+      "ground_truth_chunks": [
+        "The Samoan chain (fig. 1) stands as a distinct anomaly in this context. Unlike the Hawaiian, Society, Marquesas and other young linear volcanic chains on the Pacific plate, it appears to be propagating to the west, rather than to the east (Dana, 1849; Stearns, 1944; Chubb, 1957).",
+        "I shall use these chemical distinctions to clarify some heretofore ambiguous field relations in the Samoan Islands and will demonstrate that the weight of present evidence indicates that Samoan shield volcanoes are propagating to the east (more precisely, 20° south of east), just as are shield volcanoes in the Hawaiian Islands."
+      ]
+    },
+    {
+      "record_id": "ae5c1d024d7e73acb570455c",
+      "paper_id": "Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain",
+      "source_path": "output/Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain.md",
+      "section_heading": "PETROLOGIC CONTRASTS BETWEEN SHIELD AND POST-EROSIONAL LAVAS",
+      "section_start_line": 55,
+      "section_end_line": 150,
+      "model": "openai:gpt-4o-mini",
+      "question": "What range of MgO contents do the Leone post-erosional lavas of Tutuila have?",
+      "ground_truth_answer": "11.4 to 14.8 percent MgO.",
+      "ground_truth_chunks": [
+        "They all have lower SiO<sub>2</sub> contents than Tutuila shield basalts and in general contain more MgO (11.4 to 14.8 percent)."
+      ]
+    },
+    {
+      "record_id": "1732c8186f66988f37bf495e",
+      "paper_id": "Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain",
+      "source_path": "output/Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain.md",
+      "section_heading": "PROGRESSION OF VOLCANISM AMONG SAMOAN SHIELD VOLCANOES",
+      "section_start_line": 151,
+      "section_end_line": 190,
+      "model": "openai:gpt-4o-mini",
+      "question": "What direction of age progression among Samoan shield volcanoes does the author propose in this section?",
+      "ground_truth_answer": "The author proposes an eastward age progression (reversing the previously held view of a westward progression).",
+      "ground_truth_chunks": [
+        "In the past, the evidence for age progression among these volcanoes has generally been considered to indicate a westward rather than an eastward progression. I believe that this can now be reversed.",
+        "There can be little doubt that both Tau and Ofu-Olosega are substantially younger than the shield volcanoes of Tutuila, which were extinct and extensively eroded before drowning of the Pleistocene reefs."
+      ]
+    },
+    {
+      "record_id": "2e9685497b14e9a7c76b985f",
+      "paper_id": "Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain",
+      "source_path": "output/Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain.md",
+      "section_heading": "EXTENT AND PROGRESSION OF THE POST-EROSIONAL VOLCANIC RIFT ZONE",
+      "section_start_line": 191,
+      "section_end_line": 200,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what are the estimated lengths of the post-erosional volcanic rift zone for its minimum extent, when continued underwater to Tutuila, and if Pasco Bank is included?",
+      "ground_truth_answer": "Minimum extent: a total of over 150 km; continued underwater to Tutuila: nearly 300 km; if Pasco Bank is included: at least 500 km.",
+      "ground_truth_chunks": [
+        "The minimum extent of the post-erosional volcanic rift zone is the combined length of Upolu and Savai'i, plus nearby offshore cones, a total of over 150 km.",
+        "The continuation of the rift zone underwater to Tutuila makes its length nearly 300 km.",
+        "If they do, then the rift zone is at least 500 km long."
+      ]
+    },
+    {
+      "record_id": "0b7b0e8736d1be719bbd6e84",
+      "paper_id": "Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain",
+      "source_path": "output/Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain.md",
+      "section_heading": "ASPECTS OF SAMOAN POST-EROSIONAL VOLCANISM",
+      "section_start_line": 201,
+      "section_end_line": 258,
+      "model": "openai:gpt-4o-mini",
+      "question": "What evidence in the section indicates that Samoan post-erosional eruptions were fed from essentially vertical conduits rather than from lateral fissures?",
+      "ground_truth_answer": "Multiple lines of evidence indicate vertical conduits: (1) the post-erosional rift zone lacks central calderas and instead vents from hundreds of small, closely spaced cones; (2) abundant mantle xenoliths (dunite, harzburgite, lherzolite) imply rapid vertical magma movements with little or no residence in shallow reservoirs; and (3) outcrop and historic eruption patterns show isolated single-vent eruptions with no evidence for lateral diking over long segments of the rift.",
+      "ground_truth_chunks": [
+        "- 1. The post-erosional rift zone has no central calderas anywhere along its length. Instead, lavas have vented from the hundreds of small, closely spaced cones along the axis of Upolu and Savai'i and from the several on Tutuila.",
+        "- 3. Sheared and granular dunite, harzburgite, and Iherzolite xenoliths are abundant in Samoan post-erosional lavas. Preliminary microprobe data demonstrate that the xenoliths contain aluminous orthopyroxene, aluminous clinopyroxene, Mg-Al-Cr spinel, and olivine (Hawkins and Natland, 1975, based on unpub. data). Olivine phenocrysts are less magnesian than xenolith olivines, implying that the xenoliths are not cumulates crystallized from the magma, but instead were incorporated into the magma mechanically from wall rocks. The xenoliths range from xenocryst to golf ball size; this implies rapid vertical movements of magmas, with little or no residence time in magma reservoirs between their source and the surface.",
+        "- 4. Outcrop patterns for 11 of the most recent (Puapua and Aopo) eruptions on Upolu and Savai'i, from the maps of Kear and Wood (1959), indicate that rarely more than a few adjacent cones are involved in individual post-erosional eruptions. Calculations by Kear and Wood suggest an average post-erosional eruption frequency of one every 300 yrs (three have occurred since 1760, however). No evidence indicates lateral diking over long segments of the rift zone. The two largest historic flows on Savai'i were from single vents 10 km apart and occurred in 1760 and 1905. A minor eruption in 1902 involving four adjacent vents was near the source of the 1760 flows. On Upolu, the most recent eruptions were two Puapua flows spaced from single vents about 18 km apart. Before those, two Lefaga eruptions occurred, spaced about 20 km apart. There is no evidence that any of the four eruptions were related or occurred closely spaced in time."
+      ]
+    },
+    {
+      "record_id": "7272b707debc383bb39d781e",
+      "paper_id": "Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain",
+      "source_path": "output/Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain.md",
+      "section_heading": "ORIGIN OF THE POST-EROSIONAL RIFT ZONE",
+      "section_start_line": 259,
+      "section_end_line": 284,
+      "model": "openai:gpt-4o-mini",
+      "question": "What mechanism does the author propose provides the principal zone of dilatancy allowing post-erosional lavas a route to the surface?",
+      "ground_truth_answer": "Plate bending provides the principal zone of dilatancy allowing post-erosional lavas a route to the surface.",
+      "ground_truth_chunks": [
+        "I propose that plate bending provides the principal zone of dilatancy allowing post-erosional lavas a route to the surface.",
+        "If the difference between the depth of the sea floor north of Upolu (about 4.5 km) and the depth of the trench on this profile (about 7.5 km) is taken up by bending of the plate about a fulcrum at 100 km depth directly beneath Upolu (an angle of about 0.9°), then the maximum extension at the surface on Upolu is slightly less than 2 km.",
+        "The width of the posterosional rift zone is thus in good agreement with the amount of crustal extension that can be inferred from plate bending on the basis of bathymetry."
+      ]
+    },
+    {
+      "record_id": "57e622d529cf7304285971c5",
+      "paper_id": "Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain",
+      "source_path": "output/Natland JH 1980 progression of volcnism in Samoan chain/Natland JH 1980 progression of volcnism in Samoan chain.md",
+      "section_heading": "ORIGIN OF SAMOAN SHIELD VOLCANOES",
+      "section_start_line": 285,
+      "section_end_line": 300,
+      "model": "openai:gpt-4o-mini",
+      "question": "What origin does the author propose for the diversity of Samoan shield volcanoes?",
+      "ground_truth_answer": "The author proposes they result from thermal-convective disturbances within the asthenosphere caused by the complex pattern of subduction at the corner of the Tonga trench; a plume origin is considered less likely and petrologically unnecessary.",
+      "ground_truth_chunks": [
+        "It is perhaps a personal impression, but one worth stating, to say that Samoan structural and petrologic diversity is somehow atypical of Pacific linear island chains. The diverse volume of lavas along the chain in strings of volcanoes and individual centers, the scattered placement of volcanoes, and inferred differences in the depth and extent of melting of parental magmas all imply an episodic and comparatively incoherent pattern of melting in the mantle. It is not possible to be very conclusive about the causes of this diversity, but I believe that Samoan shield volcanoes and submerged central volcanoes probably result from thermalconvective disturbances within the asthenosphere, caused by the complex pattern of subduction at the \"corner\" of the Tonga trench.",
+        "Alternatively, but in my view less likely, a thermal perturbation of deeper origin (such as a plume) could fortuitously impinge on the base of the Pacific Plate at this peculiar location and be disturbed by the subduction process.",
+        "The post-erosional volcanic rift zone, however, implies that plumes are unnecessary to produce either large volumes of lavas or strongly undepleted, radiogenic lavas in the Samoan chain. There is no petrologic reason, therefore, to suggest a plume origin for Samoan shield volcanoes."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Mayor-1924-Rose.Atoll.AS-Copy/Mayor-1924-Rose.Atoll.AS-Copy.md",
+  "source_sha256": "54b8c8b458683c963c636d945526eb6dab46d90795ec3662cfd2708e1a036182",
+  "status": "complete",
+  "selected_section_count": 2,
+  "successful_record_count": 2,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "6a31d218aa65a5e6664db9ca",
+      "paper_id": "Mayor-1924-Rose.Atoll.AS-Copy/Mayor-1924-Rose.Atoll.AS-Copy",
+      "source_path": "output/Mayor-1924-Rose.Atoll.AS-Copy/Mayor-1924-Rose.Atoll.AS-Copy.md",
+      "section_heading": "ROSE ATOLL, AMERICAN SAMOA.",
+      "section_start_line": 1,
+      "section_end_line": 68,
+      "model": "openai:gpt-4o-mini",
+      "question": "What tree species exclusively composes the forest covering the southern and southeastern half of Rose Islet?",
+      "ground_truth_answer": "Pisonia grandis.",
+      "ground_truth_chunks": [
+        "The southern and southeastern half of the islet is densely covered with a forest composed exclusively of *Pisonia grandis* trees, casting so complete a shade that no other plants grow beneath them (fig. 5), save only a single coconut palm which was probably planted by Governor Tilly's party about 15 years ago.",
+        "This forest forms a nearly symmetrical dome, the leaves and branches on its confines extending quite to the ground (fig. 4)."
+      ]
+    },
+    {
+      "record_id": "173233f9b1fca5c4fdf1427c",
+      "paper_id": "Mayor-1924-Rose.Atoll.AS-Copy/Mayor-1924-Rose.Atoll.AS-Copy",
+      "source_path": "output/Mayor-1924-Rose.Atoll.AS-Copy/Mayor-1924-Rose.Atoll.AS-Copy.md",
+      "section_heading": "SUMMARY.",
+      "section_start_line": 69,
+      "section_end_line": 115,
+      "model": "openai:gpt-4o-mini",
+      "question": "What organism composes the visible part of the rim of Rose Atoll?",
+      "ground_truth_answer": "The visible part of the rim of Rose Atoll is composed of Lithothamnium (Porolithon), chiefly the same pink-colored species now found growing over the shallows of the reef-flat.",
+      "ground_truth_chunks": [
+        "The visible part of the rim of Rose Atoll is composed of *Lithothamnium* rather than of coral, and is chiefly constituted of the same pink-colored species of *Lithothamnium* (*Porolithon*) now found growing over the shallows of the reef-flat.",
+        "The rock of the atoll-rim contains from about 14 to 19 per cent of magnesium carbonate, due to its being composed largely of *Lithothamnium*, but not due to any appreciable dolomitization of the limestone after its formation."
+      ]
+    }
+  ],
+  "failures": []
+}

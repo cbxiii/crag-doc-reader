@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Kendall M, Poti M 2011/Kendall M, Poti M 2011.md",
+  "source_sha256": "2ca416d09cd60a8edc7934e99479b308487c045f8aabee9be0c6b1a350007dd2",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "1cbbd545b5539c10eb9cbde1",
+      "paper_id": "Kendall M, Poti M 2011/Kendall M, Poti M 2011",
+      "source_path": "output/Kendall M, Poti M 2011/Kendall M, Poti M 2011.md",
+      "section_heading": "A Biogeographic Assessment of the Samoan Archipelago",
+      "section_start_line": 1,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the NOAA Technical Memorandum number for this document?",
+      "ground_truth_answer": "NOAA Technical Memorandum NOS NCCOS 132.",
+      "ground_truth_chunks": [
+        "NOAA Technical Memorandum NOS NCCOS 132",
+        "Citation for the entire Document:\n\nKendall, M.S. and M. Poti (eds.), 2011. A Biogeographic Assessment of the Samoan Archipelago. NOAA Technical Memorandum NOS NCCOS 132. Silver Spring, MD. 229 pp."
+      ]
+    },
+    {
+      "record_id": "70bb2aafcc0fffced6ba435b",
+      "paper_id": "Kendall M, Poti M 2011/Kendall M, Poti M 2011",
+      "source_path": "output/Kendall M, Poti M 2011/Kendall M, Poti M 2011.md",
+      "section_heading": "HYCOM Validation",
+      "section_start_line": 854,
+      "section_end_line": 857,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many drifter dates/positions were used in the linear regression to evaluate daily HYCOM current vectors?",
+      "ground_truth_answer": "100 randomly chosen drifter dates/positions.",
+      "ground_truth_chunks": [
+        "To evaluate daily current vectors, latitudinal and longitudinal drifter velocities were compared to the corresponding model velocities using linear regression at 100 randomly chosen drifter dates/positions during a randomly chosen model year (2004) (e.g. Rudorff et al. 2009)."
+      ]
+    },
+    {
+      "record_id": "5c6960e091a23cd569da4666",
+      "paper_id": "Kendall M, Poti M 2011/Kendall M, Poti M 2011",
+      "source_path": "output/Kendall M, Poti M 2011/Kendall M, Poti M 2011.md",
+      "section_heading": "Larval Connectivity: Overall Patterns",
+      "section_start_line": 1058,
+      "section_end_line": 1103,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why is Niue largely isolated from the other islands in the study region?",
+      "ground_truth_answer": "Niue is largely isolated because of its long distance from both upstream and downstream islands and because the frequent development of the Tonga Trench Eddy between Niue and Tonga entrains many larvae until their PLD elapsed.",
+      "ground_truth_chunks": [
+        "The island nation south of American Samoa, Niue and its associated seamounts, is largely isolated from the other islands in the study region.",
+        "This is due to Niue's long distance from both upstream and downstream islands.",
+        "Connections with its nearest downstream neighbor, Tonga may have been stronger were it not for the frequent development of the Tonga Trench Eddy between these two island groups which entrained many larvae until their PLD elapsed."
+      ]
+    },
+    {
+      "record_id": "bca69f6e7b4eb67b4334ef64",
+      "paper_id": "Kendall M, Poti M 2011/Kendall M, Poti M 2011",
+      "source_path": "output/Kendall M, Poti M 2011/Kendall M, Poti M 2011.md",
+      "section_heading": "Sources",
+      "section_start_line": 1338,
+      "section_end_line": 1341,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage range of arriving larvae to the Manu'a Islands comes from outside larval sources, and on what factors does this depend?",
+      "ground_truth_answer": "0-90%, depending on PLD and daily mortality rate.",
+      "ground_truth_chunks": [
+        "The Manu'a Islands are reliant on outside larval sources for a wide range, 0-90%, of their arriving larvae depending on PLD and daily mortality rate (Figure 3.39).",
+        "Nearly all larvae with a 100 day PLD are from outside sources whereas a high proportion of self seeding occurs for larvae in the 10-30 day PLD range."
+      ]
+    },
+    {
+      "record_id": "df4017c91d8d69c6f79f6e6b",
+      "paper_id": "Kendall M, Poti M 2011/Kendall M, Poti M 2011",
+      "source_path": "output/Kendall M, Poti M 2011/Kendall M, Poti M 2011.md",
+      "section_heading": "Identification of Biogeographic Hotspots",
+      "section_start_line": 1726,
+      "section_end_line": 1733,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did the study define a bioregion as a 'hotspot' for an individual variable?",
+      "ground_truth_answer": "A Bioregion was considered a hotspot for a given variable if its proportion of sites classified as high was greater than the proportion of high sites in the entire jurisdiction (Samoa or American Samoa).",
+      "ground_truth_chunks": [
+        "Any Bioregion with a proportion of high values greater than the proportion of high values in the entire jurisdiction (Samoa or American Samoa respectively) was considered to be a hotspot for the indicated variable.",
+        "In this analysis, for each Bioregion identified as a hotspot we took 1\\*10<sup>6</sup> random samples of n sites from the entire pool of survey sites within a given jurisdiction, where n is the number of sites in the Bioregion, and calculated the proportion of sites classified as high in each random sample.",
+        "The number of times the proportion of high value sites was greater than or equal to the actual observed proportion for the Bioregion was divided by 1\\*10<sup>6</sup> to provide a p-value that expressed the probability that the observed proportion (or greater) of high sites could have arisen by random chance."
+      ]
+    },
+    {
+      "record_id": "1dbe8e334d3f5d58094e8447",
+      "paper_id": "Kendall M, Poti M 2011/Kendall M, Poti M 2011",
+      "source_path": "output/Kendall M, Poti M 2011/Kendall M, Poti M 2011.md",
+      "section_heading": "National Parks",
+      "section_start_line": 2103,
+      "section_end_line": 2112,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year did Congress designate the National Park of American Samoa?",
+      "ground_truth_answer": "1988.",
+      "ground_truth_chunks": [
+        "Under recommendation of the NPS, the National Park of American Samoa (NPSA) was designated by Congress in 1988 to \"preserve and protect the tropical forest and archaeological and cultural re sources of American Samoa, and of associated reefs, to maintain the habitat of flying foxes, preserve the ecological balance of the Samoan tropical forest, and, consistent with the preservation of these resources, to provide for the enjoyment of the unique resources of the Samoan tropical forest by visitors from around the world\" (16 U.S.C. 410qq).",
+        "The NPSA currently consists of 3 separate units – the areas on Tutuila and Ta'u identified by the feasibility study and the south coast of Ofu (NPS 1997)."
+      ]
+    },
+    {
+      "record_id": "55331d2a5a5affae06414d20",
+      "paper_id": "Kendall M, Poti M 2011/Kendall M, Poti M 2011",
+      "source_path": "output/Kendall M, Poti M 2011/Kendall M, Poti M 2011.md",
+      "section_heading": "Habitat Composition, Reef Fish, and Coral Communities",
+      "section_start_line": 2370,
+      "section_end_line": 2373,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the Aua CFMP reserve area is comprised of coral reef and hardbottom structures?",
+      "ground_truth_answer": "Approximately ~82% of the area within the Aua CFMP reserve.",
+      "ground_truth_chunks": [
+        "Coral reef and hardbottom structures together comprise ~82% of the area within the Aua CFMP reserve (Figure 5.19a)."
+      ]
+    },
+    {
+      "record_id": "1748f55d62b0aafdd645fcaf",
+      "paper_id": "Kendall M, Poti M 2011/Kendall M, Poti M 2011",
+      "source_path": "output/Kendall M, Poti M 2011/Kendall M, Poti M 2011.md",
+      "section_heading": "Habitat Composition, Reef Fish, and Coral Communities",
+      "section_start_line": 2678,
+      "section_end_line": 2681,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the Poloa CFMP reserve area is comprised of coral reef and hardbottom structures?",
+      "ground_truth_answer": "~98% of the area within the reserve.",
+      "ground_truth_chunks": [
+        "The Poloa CFMP reserve is dominated by coral reef and hardbottom structures, which together comprise ~98% of the area within the reserve (Figure 5.42a).",
+        "Coral reef structures comprise ~25% of the area and include spur and groove (~18%) and aggregate reef (~7%)."
+      ]
+    },
+    {
+      "record_id": "30d8afeebbd2547dafed729d",
+      "paper_id": "Kendall M, Poti M 2011/Kendall M, Poti M 2011",
+      "source_path": "output/Kendall M, Poti M 2011/Kendall M, Poti M 2011.md",
+      "section_heading": "Biogeographic Characteristics",
+      "section_start_line": 2902,
+      "section_end_line": 2909,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which bioregion does most of the Tutuila unit of the National Park overlap with, and what is this region noted for?",
+      "ground_truth_answer": "Bioregion 12; it is a hotspot for coral cover.",
+      "ground_truth_chunks": [
+        "Most of the Tutuila unit of the National Park overlaps with a biogeographic region along the north shore of Tutuila that is a hotspot for coral cover (Bioregion 12, Chapter 4).",
+        "The region's fish and coral communities are similar to those around Fagaitua Bay on the SE coast of Tutuila."
+      ]
+    },
+    {
+      "record_id": "0b2f6289c9a5d6084d55cea5",
+      "paper_id": "Kendall M, Poti M 2011/Kendall M, Poti M 2011",
+      "source_path": "output/Kendall M, Poti M 2011/Kendall M, Poti M 2011.md",
+      "section_heading": "Appendix D: Key attributes and activities of MPAs in the existing network of MPAs in American Samoa as of January 2011",
+      "section_start_line": 3802,
+      "section_end_line": 3945,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the level of protection and the fishing restriction for the Fagamalo No-Take MPA?",
+      "ground_truth_answer": "Level of protection: No Take. Fishing restriction: All Fishing Prohibited.",
+      "ground_truth_chunks": [
+        "| Fagamalo<br>No-Take MPA                | Natural Heritage                 | Ecosystem           | No Take                   | Conditional | Year Round | All Fishing<br>Prohibited                              | Unrestricted           | TBD                       |",
+        "Fagamalo No-Take MPA                | Territorial                           | DMWR <sup>b</sup> , village | 2010                                 | Cooperative Agree-<br>ment; Management<br>Plan being Finalized                  | ASAC § 24.1001,<br>ASAC § 24.1008 (c)(1)                              "
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy.md",
+  "source_sha256": "00ff3e267d10ce7757d5b2697111d187ddbd41cec9dabe774ca56958ad0c6e49",
+  "status": "complete",
+  "selected_section_count": 7,
+  "successful_record_count": 7,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "320d59ba5544f313bce9cf04",
+      "paper_id": "Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy",
+      "source_path": "output/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy.md",
+      "section_heading": "Introduction",
+      "section_start_line": 48,
+      "section_end_line": 57,
+      "model": "openai:gpt-4o-mini",
+      "question": "What two questions does the paper state the data are used to address?",
+      "ground_truth_answer": "(1) What is the cause of the large decline in the fishery, and (2) What is an appropriate management direction?",
+      "ground_truth_chunks": [
+        "The data are used to address two questions: (1) What is the cause of the large decline in the fishery, and (2) What is an appropriate management direction?"
+      ]
+    },
+    {
+      "record_id": "b5052c9aca80b862db6cf589",
+      "paper_id": "Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy",
+      "source_path": "output/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy.md",
+      "section_heading": "American Samoa",
+      "section_start_line": 58,
+      "section_end_line": 122,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many principle gear types are in the American Samoa inshore fishery, and what are they?",
+      "ground_truth_answer": "There are 7 principle gear types: rod and reel, handline, bamboo pole, throw nets, gillnets, spear diving, and gleaning.",
+      "ground_truth_chunks": [
+        "The inshore fishery includes all fishing activities on the coral reef fringing the island; it does not include offshore fishing for tuna or bottomfish.",
+        "There are 7 principle gear types in the fishery: rod and reel, handline, bamboo pole, throw nets, gillnets, spear diving, and gleaning."
+      ]
+    },
+    {
+      "record_id": "9db6af6600e3ff0be3312b36",
+      "paper_id": "Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy",
+      "source_path": "output/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy.md",
+      "section_heading": "Indicators of a Fishery in Decline: Catch and Effort",
+      "section_start_line": 127,
+      "section_end_line": 156,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percentages did total catch and effort change in the study area over the four-year period?",
+      "ground_truth_answer": "Total catch declined 70% and effort declined 30%.",
+      "ground_truth_chunks": [
+        "Overall CPUE, all gears combined, dropped about 60% from 2.9 lbs. per gear hour to 1.1 lbs. per gear hour in 1994 (Fig. 2A). Total catch declined 70% and effort declined 30% in the study area (Fig. 2B)."
+      ]
+    },
+    {
+      "record_id": "c9e3f38090543bdc6a92f4da",
+      "paper_id": "Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy",
+      "source_path": "output/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy.md",
+      "section_heading": "Other Fishery Indicators: Species Composition and Size Frequencies",
+      "section_start_line": 157,
+      "section_end_line": 190,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, did the average size of the bluelined surgeonfish (Acanthurus lineatus) decline between 1987 and 1995?",
+      "ground_truth_answer": "No. Length frequency data for Acanthurus lineatus from 1987 to 1995 show that the average size has not declined over nine years, but has actually increased slightly.",
+      "ground_truth_chunks": [
+        "This has not occurred for at least one important species, the bluelined surgeonfish (Acanthurus lineatus), which makes up approximately 30% of the commercial artisanal fishery (Saucerman, unpubl. data).",
+        "Length frequency data for this species from 1987 to 1995 show that the average size has not declined over nine years (Fig. 6, Craig in prep.), but has actually increased slightly."
+      ]
+    },
+    {
+      "record_id": "007296b843628e657a47e9ee",
+      "paper_id": "Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy",
+      "source_path": "output/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy.md",
+      "section_heading": "Management options",
+      "section_start_line": 191,
+      "section_end_line": 230,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what is identified as one of the largest potential sources of human-induced reef degradation in American Samoa?",
+      "ground_truth_answer": "Sedimentation from land-based activities.",
+      "ground_truth_chunks": [
+        "Sedimentation from land-based activities appears to be one of the largest potential sources of human-induced reef degradation in American Samoa.",
+        "Standard fisheries management measures such as size limits, closed seasons and areas, and gear restrictions are of little value when the fishery habitat is continually degraded."
+      ]
+    },
+    {
+      "record_id": "7fbe4d71610ce1c5e71bf65e",
+      "paper_id": "Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy",
+      "source_path": "output/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy.md",
+      "section_heading": "Conclusion",
+      "section_start_line": 231,
+      "section_end_line": 240,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Conclusion section, what does the author suggest may be the main limiting factor in the inshore fishery?",
+      "ground_truth_answer": "The author suggests that habitat degradation may be the main limiting factor in the inshore fishery and that conservation of the reef environment is essential to managing the fisheries.",
+      "ground_truth_chunks": [
+        "However, along with the increasing population comes more pressure on the coral reef ecosystem, particularly in the form of proliferating impacts from poor land-use practices.",
+        "I suggest that habitat degradation may be\n\nthe main limiting factor in the inshore fishery and that conservation of the reef environment is essential to managing the fisheries."
+      ]
+    },
+    {
+      "record_id": "ee69a5a51eb39948d5e6c94e",
+      "paper_id": "Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy",
+      "source_path": "output/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy/Saucerman-1995-Assess.mgt.fishery.decline.AS-Copy.md",
+      "section_heading": "Summary",
+      "section_start_line": 241,
+      "section_end_line": 299,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Summary, what is causing the decline in the inshore fishery on Tutuila Island and what management action is recommended?",
+      "ground_truth_answer": "Some of the data indicate that habitat degradation is the cause of the decline in the fishery; environmental catastrophes caused reef degradation and human-induced impacts inhibit reef recovery. Management should be directed towards reducing the magnitude of human impact on the reefs, especially sedimentation.",
+      "ground_truth_chunks": [
+        "In recent years, however, some major environmental catastrophes occurred which caused a great deal of reef degradation. Under normal conditions we would expect the reefs to recover from these environmental events. However, added to these natural disasters are human induced impacts which inhibit normal recovery of the reef habitat. If degradation of reefs persists, fisheries yields will probably decline no matter what other regulatory management measures are implemented.",
+        "Some of the data indicate that habitat degradation is the cause of the decline in the fishery. Management measures, therefore, should be directed towards reducing the magnitude of human impact on the reefs, especially sedimentation."
+      ]
+    }
+  ],
+  "failures": []
+}

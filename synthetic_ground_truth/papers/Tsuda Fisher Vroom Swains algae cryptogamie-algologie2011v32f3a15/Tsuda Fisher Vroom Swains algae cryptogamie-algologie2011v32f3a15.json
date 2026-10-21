@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15.md",
+  "source_sha256": "bd2e97dbd8717e35f3f3b729d03513927630c7b7a768911ce3bf78292c3cafe4",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "cb4a5736c233d2b3aacf058a",
+      "paper_id": "Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15",
+      "source_path": "output/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15.md",
+      "section_heading": "First records of marine benthic algae from Swains Island, American Samoa",
+      "section_start_line": 1,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many species of marine benthic algae are reported for the first time from Swains Island, American Samoa?",
+      "ground_truth_answer": "Fifty-nine species.",
+      "ground_truth_chunks": [
+        "Fifty-nine species of marine benthic algae are reported for the first time from the coral reefs of isolated Swains Island, American Samoa, based on collections made during February 2002, 2004, 2006, and March 2008 under the auspices of the U.S. National Oceanic and Atmospheric Administration.",
+        "The collections include 4 species of blue-green algae (cyanobacteria), 38 species of red algae, 3 species of brown algae and 14 species of green algae."
+      ]
+    },
+    {
+      "record_id": "c224ad8a9e587401f5aaf9f4",
+      "paper_id": "Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15",
+      "source_path": "output/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15.md",
+      "section_heading": "RESULTS",
+      "section_start_line": 45,
+      "section_end_line": 50,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many species of marine benthic algae were identified from the reefs of Swains Island?",
+      "ground_truth_answer": "Fifty-nine species.",
+      "ground_truth_chunks": [
+        "Fifty-nine species of marine benthic algae were identified from the reefs of Swains Island: 4 species of cyanobacteria, 38 species of red algae, 3 species of brown algae, and 14 species of green algae."
+      ]
+    },
+    {
+      "record_id": "2970d819213daa2335aadd72",
+      "paper_id": "Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15",
+      "source_path": "output/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15.md",
+      "section_heading": "Peyssonnelia sp.",
+      "section_start_line": 159,
+      "section_end_line": 164,
+      "model": "openai:gpt-4o-mini",
+      "question": "On which alga do Peyssonnelia sp. specimens frequently appear as epiphytes?",
+      "ground_truth_answer": "On the spongy green alga Rhipilia geppiorum W.R. Taylor.",
+      "ground_truth_chunks": [
+        "Specimens examined: 2004: SWA-01-04, BISH 734572 on *Rhipilia geppiorum*; SWA-03-04, BISH 738775; SWA-07-04, BISH 738838; SWA-14-04, BISH 738886 on *Rhipilia geppiorum.* 2006: SWA-07-06, BISH 738949.",
+        "Note: Red prostrate, fan-shaped calcareous crust, up to 2.5 cm broad and 50 µm thick, appear frequently as epiphytes on the spongy green alga *Rhipilia geppiorum* W.R. Taylor."
+      ]
+    },
+    {
+      "record_id": "ca768b2bc3e1be7d09ba71e3",
+      "paper_id": "Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15",
+      "source_path": "output/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15.md",
+      "section_heading": "Family Dasyaceae",
+      "section_start_line": 227,
+      "section_end_line": 244,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species in Family Dasyaceae is noted as having percurrent main axes that possess whorls of laterals?",
+      "ground_truth_answer": "*\\*Dasya iridescens* **(Schlech) A. Millar** *et* **I.A. Abbott**",
+      "ground_truth_chunks": [
+        "*\\*Dasya iridescens* **(Schlech) A. Millar** *et* **I.A. Abbott**; Abbott 1999: 321, figs 91A-G.",
+        "Note: Percurrent main axes possess whorls laterals."
+      ]
+    },
+    {
+      "record_id": "3bac3f5d33fc6f144a926c5b",
+      "paper_id": "Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15",
+      "source_path": "output/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15.md",
+      "section_heading": "Laurencia sp.",
+      "section_start_line": 283,
+      "section_end_line": 300,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the diameter range of cortical cells reported for the Laurencia sp. specimens?",
+      "ground_truth_answer": "20-32 µm in diameter.",
+      "ground_truth_chunks": [
+        "Cortical cells, 20-32 µm diam., with secondary pitconnections, do not protrude beyond surface; lenticular thickening is absent."
+      ]
+    },
+    {
+      "record_id": "78d567460bff46c64e36bc66",
+      "paper_id": "Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15",
+      "source_path": "output/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15.md",
+      "section_heading": "Phylum Chlorophyta",
+      "section_start_line": 351,
+      "section_end_line": 362,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the diameter of the coccoid unicells in Palmophyllum crassum as reported in the section?",
+      "ground_truth_answer": "4-5 µm in diameter.",
+      "ground_truth_chunks": [
+        "Dried specimens are green to brown, flat and leathery. Microscopically, coccoid unicells, 4-5 µm diam., are embedded in the gelatinous body."
+      ]
+    },
+    {
+      "record_id": "9530dc50bc73890f33cec3d2",
+      "paper_id": "Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15",
+      "source_path": "output/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15.md",
+      "section_heading": "Cladophora sp.",
+      "section_start_line": 393,
+      "section_end_line": 418,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the reported cell dimensions for Cladophora sp.?",
+      "ground_truth_answer": "Cells are 140-175 µm diam., 1.5-3.0 times longer than diameter.",
+      "ground_truth_chunks": [
+        "Specimens examined: 2004: SWA-10P-04, BISH 738882; SWA-14-04, BISH 738902.",
+        "Note: Specimens consist of irregularly branched fragments up to 5 mm long which lack the basal sections. Cells are 140-175 µm diam., 1.5-3.0 times longer than diameter. Hopefully, more specimens of this species will be found in other collections from American Samoa."
+      ]
+    },
+    {
+      "record_id": "6f04b9382ae70626f904ad9d",
+      "paper_id": "Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15",
+      "source_path": "output/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15.md",
+      "section_heading": "Family Codiaceae",
+      "section_start_line": 437,
+      "section_end_line": 442,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Verbruggen et al. (2007), into how many distinct evolutionarily significant units were specimens morphologically identified as Codium geppiorum resolved?",
+      "ground_truth_answer": "They were resolved into five distinct evolutionarily significant units.",
+      "ground_truth_chunks": [
+        "Verbruggen *et al.* (2007) has shown that specimens morphologically identified as *C. geppiorum* were resolved into five distinct evolutionarily significant units via molecular phylogenetic studies."
+      ]
+    },
+    {
+      "record_id": "a02ba2408f346a32b5fe7fec",
+      "paper_id": "Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15",
+      "source_path": "output/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15.md",
+      "section_heading": "Family Udoteaceae",
+      "section_start_line": 459,
+      "section_end_line": 466,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the diameter range of the siphons of Rhipilia geppiorum reported in this section?",
+      "ground_truth_answer": "32-48 µm diam.",
+      "ground_truth_chunks": [
+        "Siphons are 32-48 µm diam. with constrictions above each fork."
+      ]
+    },
+    {
+      "record_id": "f177c1723dce22af40d44ec5",
+      "paper_id": "Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15",
+      "source_path": "output/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15/Tsuda Fisher Vroom Swains algae cryptogamie-algologie2011v32f3a15.md",
+      "section_heading": "Appendix",
+      "section_start_line": 617,
+      "section_end_line": 685,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who collected algae during the March 2008 NOAA cruise?",
+      "ground_truth_answer": "Susan W. Cooper.",
+      "ground_truth_chunks": [
+        "Algae were collected by Linda B. Preskitt during the February 2002 NOAA cruise, Kimberly N. Page during the February 2004 NOAA cruise, Meghan L. Dailer during the February 2006 NOAA cruise and Susan W. Cooper during the March 2008 NOAA cruise."
+      ]
+    }
+  ],
+  "failures": []
+}

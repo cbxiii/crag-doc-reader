@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Birkeland 1979 COTS/Birkeland 1979 COTS.md",
+  "source_sha256": "0b257ea5c68269fe06373143ab7bdf43caa9f16d2be4b253e02b692f53d17acc",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "491dec790a63da5fbeb19ea7",
+      "paper_id": "Birkeland 1979 COTS/Birkeland 1979 COTS",
+      "source_path": "output/Birkeland 1979 COTS/Birkeland 1979 COTS.md",
+      "section_heading": "ABSTRACT",
+      "section_start_line": 57,
+      "section_end_line": 68,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the abstract, how many years after extra heavy rains do adult Acanthaster planci outbreaks appear?",
+      "ground_truth_answer": "Three years.",
+      "ground_truth_chunks": [
+        "Outbreaks of adult Acanthaster planci have appeared at irregular intervals, arriving three years after extra heavy rains or after a record drought precedes a heavy rain near the beginning of the Acanthaster breeding season."
+      ]
+    },
+    {
+      "record_id": "14a2d7fb7d7d264e463e7c84",
+      "paper_id": "Birkeland 1979 COTS/Birkeland 1979 COTS",
+      "source_path": "output/Birkeland 1979 COTS/Birkeland 1979 COTS.md",
+      "section_heading": "Rainfall Records in Relation to Acanthaster Outbreaks",
+      "section_start_line": 129,
+      "section_end_line": 174,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, how many years after heavy rains are adult Acanthaster infestations found?",
+      "ground_truth_answer": "Adult Acanthaster infestations are found three years after heavy rains; heavy rain may be necessary but is not sufficient to cause an outbreak.",
+      "ground_truth_chunks": [
+        "It appears that there are always heavy rains three years prior to an infestation of adult Acanthaster.",
+        "All outbreaks of adult Acanthaster are found three years after heavy rain, but all heavy rains do not necessarily result in an outbreak."
+      ]
+    },
+    {
+      "record_id": "52519b9835eb9190af564ab5",
+      "paper_id": "Birkeland 1979 COTS/Birkeland 1979 COTS",
+      "source_path": "output/Birkeland 1979 COTS/Birkeland 1979 COTS.md",
+      "section_heading": "Influence of Rainfall on Larval Biology of Acanthaster",
+      "section_start_line": 212,
+      "section_end_line": 235,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Lucas (1974) as reported in the section, what phytoplankton concentration produced the greatest percentage of Acanthaster larvae surviving to late brachiolaria stage?",
+      "ground_truth_answer": "The greatest percentage of larvae survived to late brachiolaria stage at 5,000 diatom cells/ml.",
+      "ground_truth_chunks": [
+        "Lucas (1974) determined the food requirements of <u>Acanthaster</u> larvae by raising larvae in aquaria with six different concentrations of a green falgellate and six concentrations of a diatom. The greatest percentage of larvae survived to late brachiolaria stage at 5,000 diatom cells/ml.",
+        "Marshall sampled phytoplankton for almost a year and found most samples to contain phytoplankton at very low concentrations, about 2 cells/ml. In a few samples, at irregular intervals, phytoplankton reached maximum concentrations of about 170 cells/ml, and these were mainly diatoms."
+      ]
+    },
+    {
+      "record_id": "92393ee486252d0558e1257c",
+      "paper_id": "Birkeland 1979 COTS/Birkeland 1979 COTS",
+      "source_path": "output/Birkeland 1979 COTS/Birkeland 1979 COTS.md",
+      "section_heading": "Predictions to Test our Hypothesis",
+      "section_start_line": 264,
+      "section_end_line": 271,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what weather pattern is expected to precede an Acanthaster outbreak by three years?",
+      "ground_truth_answer": "A drought followed by heavy rains, or else extra heavy rains, should precede an Acanthaster outbreak by three years.",
+      "ground_truth_chunks": [
+        "We expect that a drought followed by heavy rains or else extra heavy rains should precede an <u>Acanthaster</u> outbreak by three years.",
+        "However, we would expect all outbreaks to be preceded by heavy rains three years earlier."
+      ]
+    },
+    {
+      "record_id": "1ca1216a8b7960f3ad12cf5c",
+      "paper_id": "Birkeland 1979 COTS/Birkeland 1979 COTS",
+      "source_path": "output/Birkeland 1979 COTS/Birkeland 1979 COTS.md",
+      "section_heading": "Behavioral Aggregations",
+      "section_start_line": 316,
+      "section_end_line": 323,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Dana et al. (1972), what causes Acanthaster infestations?",
+      "ground_truth_answer": "They hypothesize infestations result from behavioral aggregations — redistributions of populations already present — rather than from increases in abundance due to increased larval settlement or survivorship.",
+      "ground_truth_chunks": [
+        "Dana et al. (1972) suggest that <u>Acanthaster</u> infestations do not actually result from increases in abundance but instead result from behavioral aggregations.",
+        "They state that \"Field evidence is lacking to support the idea of increased larval settlement or increased survivorship at any life stage\"",
+        "They presented the hypothesis that large aggregations of Acanthaster are the results of behavior, that they are redistributions of populations that were already there."
+      ]
+    },
+    {
+      "record_id": "1c92c54e8828440eeaff5da1",
+      "paper_id": "Birkeland 1979 COTS/Birkeland 1979 COTS",
+      "source_path": "output/Birkeland 1979 COTS/Birkeland 1979 COTS.md",
+      "section_heading": "ARE THERE ADAPTATIONS TO ACANTHASTER INFESTATIONS?",
+      "section_start_line": 405,
+      "section_end_line": 430,
+      "model": "openai:gpt-4o-mini",
+      "question": "Do any predators depend on Acanthaster or consider it their preferred prey?",
+      "ground_truth_answer": "No. The section states that Acanthaster has many predators but it is not the preferred prey for any of them, and that there is no known predator that depends on Acanthaster or for which it is the preferred prey.",
+      "ground_truth_chunks": [
+        "<u>Acanthaster</u> has many predators, but it is not the preferred prey for any of them.",
+        "In summary, we do not know of any predator that depends on <u>Acanthaster</u> and, in fact, we do not know of any predator for which <u>Acanthaster</u> is the preferred prey."
+      ]
+    },
+    {
+      "record_id": "211c2d0169718f057e5ffa84",
+      "paper_id": "Birkeland 1979 COTS/Birkeland 1979 COTS",
+      "source_path": "output/Birkeland 1979 COTS/Birkeland 1979 COTS.md",
+      "section_heading": "METHODS",
+      "section_start_line": 606,
+      "section_end_line": 621,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were reefflat platforms surveyed in the METHODS section?",
+      "ground_truth_answer": "Reefflat platforms were surveyed by making 100 meter walks across the surface during low tides, counting A. planci within a corridor four meters wide (two meters on each side of the observer), and estimating the percentage of coral coverage recently killed (white bleached color) by the starfish.",
+      "ground_truth_chunks": [
+        "Reefflat platforms were surveyed by making 100 meter walks across the surface during low tides. During these reef walks A. planci were counted within a corridor four meters wide (two meters on each side of the observer) and the percentage of coral coverage recently killed (white bleached color) by the starfish was estimated."
+      ]
+    },
+    {
+      "record_id": "4104929573c55a686f6c8b83",
+      "paper_id": "Birkeland 1979 COTS/Birkeland 1979 COTS",
+      "source_path": "output/Birkeland 1979 COTS/Birkeland 1979 COTS.md",
+      "section_heading": "Sector IV",
+      "section_start_line": 656,
+      "section_end_line": 684,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the estimated total A. planci population in Sector IV?",
+      "ground_truth_answer": "About 128,000.",
+      "ground_truth_chunks": [
+        "Using this average density value and on area 800 meters long by 6.5 meters wide, the total starfish front population was calculated to be about 80,000.",
+        "About 48,000 starfish were estimated to be trailing behind the actual front itself, which gives Sector IV a total population of 128,000."
+      ]
+    },
+    {
+      "record_id": "e9d0c2ce07a3891b02bd2b59",
+      "paper_id": "Birkeland 1979 COTS/Birkeland 1979 COTS",
+      "source_path": "output/Birkeland 1979 COTS/Birkeland 1979 COTS.md",
+      "section_heading": "Forereef Slope Surveys Along the Southern Coast",
+      "section_start_line": 699,
+      "section_end_line": 732,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many A. planci were counted at Lauliituai Village on May 5, 1978?",
+      "ground_truth_answer": "Ten A. planci were counted (4 by one diver and 6 by the other).",
+      "ground_truth_chunks": [
+        "On May 5, 1978 the forereef slopes near Alega and Lauliituai Villages were resurveyed by two divers by making five minute scuba dives in opposite directions.",
+        "At Lauliituai Village ten A. planci were counted (4 by one diver and 6 by the other) and considerable coral damage was observed at 20 to 26 meter depth."
+      ]
+    },
+    {
+      "record_id": "0fd3662159859c797bdeaf08",
+      "paper_id": "Birkeland 1979 COTS/Birkeland 1979 COTS",
+      "source_path": "output/Birkeland 1979 COTS/Birkeland 1979 COTS.md",
+      "section_heading": "Other Surveys",
+      "section_start_line": 773,
+      "section_end_line": 775,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what depth range were the A. planci found opposite the east end of the runway at Tufuna Airport during the first week of January 1979?",
+      "ground_truth_answer": "They were in water ranging from 3 to 6 meters deep.",
+      "ground_truth_chunks": [
+        "During the first week of January 1979 numerous A. planci were found on a reef opposite the east end of the runway at Tufuna Airport.",
+        "The star-fish here were very numerous, but scattered, in water ranging from 3 to 6 meters deep."
+      ]
+    }
+  ],
+  "failures": []
+}

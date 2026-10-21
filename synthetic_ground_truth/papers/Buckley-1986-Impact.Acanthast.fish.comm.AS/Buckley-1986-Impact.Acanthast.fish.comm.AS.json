@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Buckley-1986-Impact.Acanthast.fish.comm.AS/Buckley-1986-Impact.Acanthast.fish.comm.AS.md",
+  "source_sha256": "a75abda48ac7b2febe835c834a26ee13c370db5281491a59190ed814e35e9917",
+  "status": "complete",
+  "selected_section_count": 5,
+  "successful_record_count": 5,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "e2f5c419784a7676433d9f31",
+      "paper_id": "Buckley-1986-Impact.Acanthast.fish.comm.AS/Buckley-1986-Impact.Acanthast.fish.comm.AS",
+      "source_path": "output/Buckley-1986-Impact.Acanthast.fish.comm.AS/Buckley-1986-Impact.Acanthast.fish.comm.AS.md",
+      "section_heading": "The Impact of Acanthaster planci Coral Kills on the",
+      "section_start_line": 10,
+      "section_end_line": 15,
+      "model": "openai:gpt-4o-mini",
+      "question": "By how much did live coral cover at Cape Larsen decrease after Acanthaster planci coral kills?",
+      "ground_truth_answer": "It decreased from 70% to less than 20% (visually estimated).",
+      "ground_truth_chunks": [
+        "Cape Larsen was surveyed 3 times before A. planci reduced the live coral cover from 70% to less than 20% (visually estimated)."
+      ]
+    },
+    {
+      "record_id": "ee8fa10dcfcc57410720c9fa",
+      "paper_id": "Buckley-1986-Impact.Acanthast.fish.comm.AS/Buckley-1986-Impact.Acanthast.fish.comm.AS",
+      "source_path": "output/Buckley-1986-Impact.Acanthast.fish.comm.AS/Buckley-1986-Impact.Acanthast.fish.comm.AS.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 16,
+      "section_end_line": 31,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many crown-of-thorns starfish were removed in less than one year after the outbreak at Tutuila?",
+      "ground_truth_answer": "486,933 crown-of-thorns starfish were removed in less than one year after the outbreak.",
+      "ground_truth_chunks": [
+        "Despite the removal of 486,933 crown-of-thorns starfish in less than one year after the outbreak (Birkeland 1982)(Figure 2), most of the live coral habitat surrounding Tutuila was destroyed.",
+        "Figure 2. <u>Acanthaster planci</u>. Numbers removed from the ocean for bounty (open numbers) or observed in surveys (numbers in parentheses) at Tutuila, American Samoa. (from Birkeland, 1982)"
+      ]
+    },
+    {
+      "record_id": "9a5612e363c188341b8b8c9a",
+      "paper_id": "Buckley-1986-Impact.Acanthast.fish.comm.AS/Buckley-1986-Impact.Acanthast.fish.comm.AS",
+      "source_path": "output/Buckley-1986-Impact.Acanthast.fish.comm.AS/Buckley-1986-Impact.Acanthast.fish.comm.AS.md",
+      "section_heading": "METHODS AND MATERIALS",
+      "section_start_line": 32,
+      "section_end_line": 71,
+      "model": "openai:gpt-4o-mini",
+      "question": "In the transects the author (\"I\") censused, what method was used to estimate live coral cover and how many points/colonies were sampled along each transect?",
+      "ground_truth_answer": "The point-quarter method recommended by Birkeland and Amesbury was used; twenty points (80 coral colonies) were sampled along each transect.",
+      "ground_truth_chunks": [
+        "In the transects I censused, the live coral cover and the genus composition was estimated by the point-quarter method recommended by Birkeland and Amesbury (Attachment A). Twenty points (80 coral colonies) were sampled along each transect.",
+        "At Cape Larsen, along the 20 ft depth contour, I sampled at least 8 points (32 coral colonies) in each of two 30 m long replicates with the point-quarter method."
+      ]
+    },
+    {
+      "record_id": "f38ec8fab8aa103c783e0ea6",
+      "paper_id": "Buckley-1986-Impact.Acanthast.fish.comm.AS/Buckley-1986-Impact.Acanthast.fish.comm.AS",
+      "source_path": "output/Buckley-1986-Impact.Acanthast.fish.comm.AS/Buckley-1986-Impact.Acanthast.fish.comm.AS.md",
+      "section_heading": "RESULTS",
+      "section_start_line": 72,
+      "section_end_line": 77,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the percent live coral cover for the 20 ft depth contour at Cape Larsen in October 1986?",
+      "ground_truth_answer": "24.70%",
+      "ground_truth_chunks": [
+        "The percent live coral cover for the 20 ft depth contour at Cape Larsen increases from 7.58% in April 1982 to 22.34% in April 1985 to 24.70% in October 1986."
+      ]
+    },
+    {
+      "record_id": "9c5485c1e16d8187aafbd7c6",
+      "paper_id": "Buckley-1986-Impact.Acanthast.fish.comm.AS/Buckley-1986-Impact.Acanthast.fish.comm.AS",
+      "source_path": "output/Buckley-1986-Impact.Acanthast.fish.comm.AS/Buckley-1986-Impact.Acanthast.fish.comm.AS.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 78,
+      "section_end_line": 125,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which fish species showed a significant increase (P < 0.05) in number according to the t' test results reported in the Discussion?",
+      "ground_truth_answer": "Halichoeres hortulanus and Naso lituratus.",
+      "ground_truth_chunks": [
+        "Two labrids showed significant changes. Bodianus axillaris significantly (P < 0.05) reduced in number, and Halichoeres hortulanus significantly increased in number.",
+        "Naso lituratus, an algal grazing acanthurid (Amesbury and Myers 1982), increased in number significantly (P < 0.05)."
+      ]
+    }
+  ],
+  "failures": []
+}

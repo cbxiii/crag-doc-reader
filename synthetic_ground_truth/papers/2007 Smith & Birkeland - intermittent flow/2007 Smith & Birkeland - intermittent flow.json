@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow.md",
+  "source_sha256": "866e852cf8042b98d1c1938924281f8f80b5d5151b819c6ff88c8b80bbe14cde",
+  "status": "partial",
+  "selected_section_count": 10,
+  "successful_record_count": 9,
+  "failure_count": 1,
+  "records": [
+    {
+      "record_id": "2e27d64cc70475f7bb6ed9de",
+      "paper_id": "2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow",
+      "source_path": "output/2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow.md",
+      "section_heading": "2007 Smith & Birkeland - intermittent flow.md",
+      "section_start_line": 1,
+      "section_end_line": 19,
+      "model": "openai:gpt-4o-mini",
+      "question": "In which journal, volume, year, and page range was this article published?",
+      "ground_truth_answer": "Journal of Experimental Marine Biology and Ecology, volume 341 (2007), pages 282–294.",
+      "ground_truth_chunks": [
+        "Journal of Experimental Marine Biology and Ecology 341 (2007) 282-294",
+        "Journal of\nEXPERIMENTAL\nMARINE BIOLOGY\nAND ECOLOGY"
+      ]
+    },
+    {
+      "record_id": "8f5331591bed67d7ecc2541d",
+      "paper_id": "2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow",
+      "source_path": "output/2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow.md",
+      "section_heading": "Abstract",
+      "section_start_line": 28,
+      "section_end_line": 35,
+      "model": "openai:gpt-4o-mini",
+      "question": "In the high irradiance experiments, which flow treatment resulted in less photoinhibition and bleaching for Porites lobata and P. cylindrica?",
+      "ground_truth_answer": "The intermittent high-low flow treatment resulted in less photoinhibition and bleaching than the constant low flow treatment for both species.",
+      "ground_truth_chunks": [
+        "Controlled experiments were conducted to test effects of semi-diurnally intermittent water flow on photoinhibition and bleaching of the corals *Porites lobata* and *P. cylindrica* kept at elevated seawater temperatures and different irradiance levels.",
+        "In the high irradiance experiments, photoinhibition and bleaching were less for both species in the intermittent high-low flow treatment than in the constant low flow treatment."
+      ]
+    },
+    {
+      "record_id": "5807db3812df064487f10d75",
+      "paper_id": "2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow",
+      "source_path": "output/2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 36,
+      "section_end_line": 51,
+      "model": "openai:gpt-4o-mini",
+      "question": "What environmental conditions does the Introduction identify as the usual cause of extensive coral bleaching since the 1980s?",
+      "ground_truth_answer": "Elevated seawater temperatures in conjunction with high irradiances of solar radiation.",
+      "ground_truth_chunks": [
+        "Since the 1980s, extensive coral bleaching has become increasingly common, usually as a consequence of elevated seawater temperatures in conjunction with high irradiances of solar radiation (Dunne and Brown, 2001; Jokiel, 2004).",
+        "Elevated seawater temperatures and high irradiances usually occur together, and their synergistic effects on coral bleaching are well established (Jones and Hoegh-Guldberg, 2001)."
+      ]
+    },
+    {
+      "record_id": "76a6e7777f7e38f0c57d814c",
+      "paper_id": "2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow",
+      "source_path": "output/2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow.md",
+      "section_heading": "2. Methods",
+      "section_start_line": 52,
+      "section_end_line": 71,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species were selected for the experiments and why?",
+      "ground_truth_answer": "The common back reef coral species, *Porites lobata* and *P. cylindrica*, were selected because together they make up 39% of live coral cover within the back reef pools.",
+      "ground_truth_chunks": [
+        "The common back reef coral species, *Porites lobata* and *P. cylindrica*, were selected for the experiments because together they make up 39% of live coral cover within the back reef pools (Craig et al., 2001)."
+      ]
+    },
+    {
+      "record_id": "65dbbe9b8534531551f3ecb7",
+      "paper_id": "2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow",
+      "source_path": "output/2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow.md",
+      "section_heading": "2.2. Water flow, seawater temperature and irradiance",
+      "section_start_line": 72,
+      "section_end_line": 89,
+      "model": "openai:gpt-4o-mini",
+      "question": "What flow speeds were maintained in the constant low flow flume, and what flow rate was provided during high-flow periods in the intermittent high-low flow flume?",
+      "ground_truth_answer": "Constant low flow: 2–5 cm s^-1. Intermittent high-flow periods: 15–20 cm s^-1.",
+      "ground_truth_chunks": [
+        "This pump also maintained flow speeds of 2–5 cm s<sup>-1</sup> at all times in the constant low flow flume, and from 18:00 to 24:00 and 06:00-12:00 in the intermittent high-low flow flume.",
+        "A 12 V 4000 1 hr<sup>-1</sup> bilge pump was placed in front of the intermittent high-low flow flume, and turned on from 24:00 to 06:00 and 12:00-18:00 every day to provide a flow rate of 15–20 cm s<sup>-1</sup> at these times."
+      ]
+    },
+    {
+      "record_id": "d42ccee214088875db684a2a",
+      "paper_id": "2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow",
+      "source_path": "output/2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow.md",
+      "section_heading": "2.4. Photoinhibition, bleaching and statistics",
+      "section_start_line": 100,
+      "section_end_line": 147,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long were corals dark-adapted prior to fluorometry measurements?",
+      "ground_truth_answer": "They were dark-adapted for 20 min prior to fluorometry measurements.",
+      "ground_truth_chunks": [
+        "Corals were dark-adapted for 20 min prior to fluorometry measurements (Jones et al., 1998) using a double cover of opaque plastic and canvas that completely darkened the water table while maintaining flow treatments.",
+        "Dark-adapted  $F_{\\rm v}/F_{\\rm m}$  of each replicate was measured at 06:00, 09:00, 12:00, 15:00, 18:00, and 21:00 daily."
+      ]
+    },
+    {
+      "record_id": "fc1f8143a41849aeb1dfa5f7",
+      "paper_id": "2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow",
+      "source_path": "output/2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow.md",
+      "section_heading": "3.2. P. cylindrica photoinhibition",
+      "section_start_line": 209,
+      "section_end_line": 224,
+      "model": "openai:gpt-4o-mini",
+      "question": "In the P. cylindrica high irradiance experiment, what were the mean daily losses in Fv/Fm from 06:00 to 15:00 for the intermittent high-low flow and the constant low flow treatments?",
+      "ground_truth_answer": "Intermittent high-low flow: 46%; Constant low flow: 59%.",
+      "ground_truth_chunks": [
+        "Results were similar to the P. lobata high irradiance experiment:  $F_v/F_m$  was greater for the intermittent high-low flow treatment than the constant low flow treatment over the 4-day experimental period (repeated measures 3-way ANOVA: Flow  $F_{1,414}$ =8.16, p=0.010, Table 1b, Fig. 6).",
+        "Over the 4-day period, the intermittent high-low flow treatment resulted in a mean daily loss in  $F_v/F_m$  of 46% from 06:00 to 15:00, compared to 59% for the constant low flow treatment."
+      ]
+    },
+    {
+      "record_id": "45125f7771d3b4969c454999",
+      "paper_id": "2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow",
+      "source_path": "output/2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow.md",
+      "section_heading": "3.3. Bleaching",
+      "section_start_line": 225,
+      "section_end_line": 236,
+      "model": "openai:gpt-4o-mini",
+      "question": "During the high irradiance experiments, which flow treatment showed less bleaching for both P. lobata and P. cylindrica?",
+      "ground_truth_answer": "The intermittent high-low flow treatment showed less bleaching than the constant low flow treatment.",
+      "ground_truth_chunks": [
+        "At the end of the high irradiance experiments for both species, more coral replicates from the constant low flow treatment were heavily bleached than from the intermittent high-low flow treatment.",
+        "At the end of the high irradiance experiment, mean zooxanthellae density was higher in the intermittent high-low flow treatment than in the constant low flow treatment (paired t-test, p=0.023, Table 3b). Thus, less bleaching occurred in the intermittent high-low flow treatment than in the constant low flow treatment (Fig. 8).",
+        "At the end of the high irradiance experiment, mean zooxanthellae density was higher in the intermittent high-low flow treatment than in the constant low flow treatment (paired *t*-test, p=0.013, Table 3b). Thus, less bleaching occurred in the intermittent high-low flow treatment than in the constant low flow treatment (Fig. 9)."
+      ]
+    },
+    {
+      "record_id": "fd67011c3e74b06f2d950596",
+      "paper_id": "2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow",
+      "source_path": "output/2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow.md",
+      "section_heading": "4. Discussion",
+      "section_start_line": 237,
+      "section_end_line": 254,
+      "model": "openai:gpt-4o-mini",
+      "question": "In the high irradiance experiments, how did intermittent high-low water flow affect photoinhibition, bleaching, and recovery of Fv/Fm compared to constant low flow?",
+      "ground_truth_answer": "Intermittent high-low flow reduced photoinhibition and bleaching and resulted in a quicker recovery of Fv/Fm compared to constant low flow in the high irradiance experiments.",
+      "ground_truth_chunks": [
+        "Thus, reduction of oxidative stress is the most likely explanation for the quicker recovery of  $F_v/F_m$  in the intermittent flow treatment than the low flow treatment between noon and 18:00 (Figs. 4 and 6).",
+        "The finding that intermittent water motion reduces photoinhibition\n\nand bleaching of P. lobata and P. cylindrica, even if seawater temperatures and irradiances remain high, supports the hypothesis that \"flow-mediated enhancement of mass transfer\" may reduce coral mortality when such conditions occur on reefs (Nakamura et al., 2005).",
+        "However, there was less chronic photoinhibition and bleaching in the intermittent high-low flow treatments than the constant low flow treatments in both high irradiance experiments."
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "record_id": "9383804aa42bdf723eaabded",
+      "source_path": "output/2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow.md",
+      "section_heading": "3.1. P. lobata photoinhibition",
+      "section_start_line": 150,
+      "section_end_line": 208,
+      "attempt_count": 3,
+      "error": "ValueError: evidence chunk is not an exact substring of the supplied section"
+    }
+  ]
+}

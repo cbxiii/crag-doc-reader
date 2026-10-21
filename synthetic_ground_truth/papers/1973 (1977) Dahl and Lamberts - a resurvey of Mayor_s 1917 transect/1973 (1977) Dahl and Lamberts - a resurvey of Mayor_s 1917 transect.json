@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "source_path": "output/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect.md",
+  "source_sha256": "0b4aa451f004c6ddb4429afb7fe00e7034d8553eb174e18a5db885dfad0ff2c5",
+  "status": "complete",
+  "selected_section_count": 4,
+  "successful_record_count": 4,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "4f013eebc56445135f57a9e0",
+      "paper_id": "1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect",
+      "source_path": "output/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect.md",
+      "section_heading": "Environmental Impact on a Samoan Coral Reef: A Resurvey of Mayor's 1917 Transect<sup>1</sup>",
+      "section_start_line": 1,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which major quantitative transect from Mayor's 1917 study was relocated during the 1973 resurvey?",
+      "ground_truth_answer": "The major quantitative transect at Aua.",
+      "ground_truth_chunks": [
+        "Some sites were destroyed and others damaged in the intervening half century, but it was possible to relocate the major quantitative transect at Aua.",
+        "FIGURE 1. Pago Pago Harbor, Tutuila, American Samoa, showing approximate reef margin and Aua and Utulei transect lines."
+      ]
+    },
+    {
+      "record_id": "1ca4e4b6ba2bcea149831a69",
+      "paper_id": "1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect",
+      "source_path": "output/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect.md",
+      "section_heading": "RESURVEY METHODS",
+      "section_start_line": 33,
+      "section_end_line": 62,
+      "model": "openai:gpt-4o-mini",
+      "question": "When were Mayor's original Aua transect measurements made, and when was the resurvey undertaken?",
+      "ground_truth_answer": "Mayor's original measurements and counts were made in March and April 1917; the resurvey was undertaken in July 1973.",
+      "ground_truth_chunks": [
+        "Mayor's original measurements and counts were made",
+        "in March and April 1917; our resurvey was undertaken in July 1973."
+      ]
+    },
+    {
+      "record_id": "e770209178db1582836d56bf",
+      "paper_id": "1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect",
+      "source_path": "output/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect.md",
+      "section_heading": "RESULTS",
+      "section_start_line": 63,
+      "section_end_line": 129,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percentage did the total number of coral heads change between 1917 and 1973 on the Aua line?",
+      "ground_truth_answer": "Total numbers of coral heads decreased 28 percent.",
+      "ground_truth_chunks": [
+        "Most significant are the differences in total numbers and species proportions found in 1917 and 1973 (Table 2, Figure 3). Total numbers of coral heads decreased 28 percent."
+      ]
+    },
+    {
+      "record_id": "a98646ed5f3c643323bf5c19",
+      "paper_id": "1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect",
+      "source_path": "output/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 130,
+      "section_end_line": 149,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what factor did Pocillopora (especially P. damicornis and P. brevicornis) increase in the midzone on the Aua transect since 1917?",
+      "ground_truth_answer": "They increased fivefold.",
+      "ground_truth_chunks": [
+        "In the midzone, *Pocillopora*, especially *P. damicornis* and *P. brevicornis,* have increased fivefold, occupying a zone once dominated by *Porites.*"
+      ]
+    }
+  ],
+  "failures": []
+}

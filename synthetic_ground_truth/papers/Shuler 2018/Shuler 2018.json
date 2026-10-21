@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Shuler 2018/Shuler 2018.md",
+  "source_sha256": "501d588e4e3924fda3fb66e5b0c8cdcd5a7817bda4c2c1a6a1f1b6597344ada3",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "bb5053bafb6b67a60b1d215b",
+      "paper_id": "Shuler 2018/Shuler 2018",
+      "source_path": "output/Shuler 2018/Shuler 2018.md",
+      "section_heading": "<span id=\"page-3-0\"></span>EXECUTIVE SUMMARY",
+      "section_start_line": 48,
+      "section_end_line": 85,
+      "model": "openai:gpt-4o-mini",
+      "question": "As of 2018, what percentage of public-supply water in American Samoa is sourced from municipal (ASPA) groundwater wells?",
+      "ground_truth_answer": "99%",
+      "ground_truth_chunks": [
+        "Overall as of 2018, collected data indicates public-supply water use makes up the largest proportion of water used in American Samoa, and 99% of this water is sourced from municipal (ASPA) groundwater wells."
+      ]
+    },
+    {
+      "record_id": "89247d81f8f84eb88e1bd670",
+      "paper_id": "Shuler 2018/Shuler 2018",
+      "source_path": "output/Shuler 2018/Shuler 2018.md",
+      "section_heading": "1.4.1 Regional setting",
+      "section_start_line": 158,
+      "section_end_line": 167,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which island is the largest and most populated island in American Samoa, and what is its land area and approximate population?",
+      "ground_truth_answer": "Tutuila; land area 140 km^2; population between 55,000 and 60,000 people.",
+      "ground_truth_chunks": [
+        "At 140 km<sup>2</sup> Tutuila is the largest and most populated island in AS and serves as the political and cultural center of the territory.",
+        "Between 55,000 and 60,000 people live on Tutuila, and the population remains primarily made up of people of Polynesian or Pacific Islander decent."
+      ]
+    },
+    {
+      "record_id": "6413f140bdf00d13507a531c",
+      "paper_id": "Shuler 2018/Shuler 2018",
+      "source_path": "output/Shuler 2018/Shuler 2018.md",
+      "section_heading": "1.5.3 American Samoa Department of Commerce (AS-DOC)",
+      "section_start_line": 200,
+      "section_end_line": 203,
+      "model": "openai:gpt-4o-mini",
+      "question": "How often and from what sample proportion does AS-DOC collect U.S. Census information?",
+      "ground_truth_answer": "Every 10 years from a sample representing 20% of the territorial population.",
+      "ground_truth_chunks": [
+        "AS-DOC data is predominantly collected in conjunction with the decadal U.S. Census effort, through door-to-door surveys of local households.",
+        "U.S. Census information is collected from a sample representing 20% of the territorial population every 10 years."
+      ]
+    },
+    {
+      "record_id": "b91c37e1162208a0420518b0",
+      "paper_id": "Shuler 2018/Shuler 2018",
+      "source_path": "output/Shuler 2018/Shuler 2018.md",
+      "section_heading": "1.6.5 Livestock Production",
+      "section_start_line": 232,
+      "section_end_line": 235,
+      "model": "openai:gpt-4o-mini",
+      "question": "On average, how much water per day do piggeries of less than 10 pigs in American Samoa require?",
+      "ground_truth_answer": "50 to 100 gallons of water per day.",
+      "ground_truth_chunks": [
+        "It has been estimated that on average, piggeries of less than 10 pigs in AS require 50 to 100 gallons of water per day using typical manure management methods (AS-IPMC, 2004)."
+      ]
+    },
+    {
+      "record_id": "82b43dc7ef021c9c4229ed9c",
+      "paper_id": "Shuler 2018/Shuler 2018",
+      "source_path": "output/Shuler 2018/Shuler 2018.md",
+      "section_heading": "2.1.2.1 Chloride levels in production wells.",
+      "section_start_line": 422,
+      "section_end_line": 427,
+      "model": "openai:gpt-4o-mini",
+      "question": "What method does ASPA use to analyze chloride (Cl-) levels in the field?",
+      "ground_truth_answer": "Levels of Cl- are analyzed using a silver nitrate titration method (drop method with commercial chloride testing kits) in the field.",
+      "ground_truth_chunks": [
+        "Presently, ASPA manually collects Cl- samples from each well on a monthly basis. Levels of Cl- are analyzed using a silver nitrate titration method (drop method with commercial chloride testing kits) in the field."
+      ]
+    },
+    {
+      "record_id": "072767c3adfb44d7c4824ac5",
+      "paper_id": "Shuler 2018/Shuler 2018",
+      "source_path": "output/Shuler 2018/Shuler 2018.md",
+      "section_heading": "2.1.7 Operational data collection and storage",
+      "section_start_line": 501,
+      "section_end_line": 514,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which operational data element is currently fully monitored and stored by the SCADA system?",
+      "ground_truth_answer": "Water storage tank levels are the only operational data fully monitored and stored by the SCADA system.",
+      "ground_truth_chunks": [
+        "- Potentially water levels and electrical conductivity",
+        "Presently only water storage tank levels are fully monitored and stored by the SCADA system."
+      ]
+    },
+    {
+      "record_id": "f92c1dae88c41953005ce718",
+      "paper_id": "Shuler 2018/Shuler 2018",
+      "source_path": "output/Shuler 2018/Shuler 2018.md",
+      "section_heading": "2.1.11 Assessment of non-revenue water magnitude and distribution",
+      "section_start_line": 606,
+      "section_end_line": 617,
+      "model": "openai:gpt-4o-mini",
+      "question": "What range of non-revenue public-supply water (in MGD and percent of total production) has ASPA reported since 2012?",
+      "ground_truth_answer": "ASPA records indicate non-revenue public-supply water has ranged between 7 and 10 MGD, equating to about 53% to 73% of total water production.",
+      "ground_truth_chunks": [
+        "By total volume, water loss as indicated by non-revenue (i.e. unaccounted for) water is the largest categorical consumer of water in the Territory.",
+        "Since 2012 to present, ASPA records indicate the amount of non-revenue public-supply water has ranged between 7 and 10 MGD, which equates to about 53% to 73% of total water production (Fig. 13)."
+      ]
+    },
+    {
+      "record_id": "23a254dbfbb38d948bdda758",
+      "paper_id": "Shuler 2018/Shuler 2018",
+      "source_path": "output/Shuler 2018/Shuler 2018.md",
+      "section_heading": "2.2.1 Existing Village Water Information",
+      "section_start_line": 678,
+      "section_end_line": 694,
+      "model": "openai:gpt-4o-mini",
+      "question": "As of 2010, in how many American Samoa (AS) villages was some village water use reported?",
+      "ground_truth_answer": "Some village water use was reported in 61 of 77 AS villages.",
+      "ground_truth_chunks": [
+        "Despite the decline in village water use on a per-capita basis, its use still appears to be widespread throughout the territory with some village water use being reported in 61 of 77 AS villages (Fig. 16), significantly more than the 29 village water systems identified by Wong (1996).",
+        "Locations of 29 village water systems that were in existence prior to 1996 were reported at least one time by a USGS report focused on streamflow (Wong, 1996)."
+      ]
+    },
+    {
+      "record_id": "eb6e8276967805be04004d75",
+      "paper_id": "Shuler 2018/Shuler 2018",
+      "source_path": "output/Shuler 2018/Shuler 2018.md",
+      "section_heading": "<span id=\"page-39-0\"></span>2.5 Water use for Aquaculture",
+      "section_start_line": 762,
+      "section_end_line": 765,
+      "model": "openai:gpt-4o-mini",
+      "question": "Are there available estimates for the amount of water used per aquaculture facility?",
+      "ground_truth_answer": "No. The section states there are no available estimates for the amount of water used per facility because each facility varies significantly in scale and construction.",
+      "ground_truth_chunks": [
+        "Unfortunately, there are no available estimates for the amount of water used per facility, as each facility varies significantly in scale and construction."
+      ]
+    },
+    {
+      "record_id": "7e3035cd47a09acbb6596592",
+      "paper_id": "Shuler 2018/Shuler 2018",
+      "source_path": "output/Shuler 2018/Shuler 2018.md",
+      "section_heading": "Tutuila Water Use Data Questionnaire",
+      "section_start_line": 1074,
+      "section_end_line": 1091,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many numbered questions are in the Tutuila Water Use Data Questionnaire?",
+      "ground_truth_answer": "Eight (8).",
+      "ground_truth_chunks": [
+        "*Please respond to the questions below with your knowledge of what water use information is currently available for American Samoa. The primary objective of this project is not necessarily to collect data, but is to determine what is or is not available in order to make recommendations for future data collection funding applications.*",
+        "- **1)** To your knowledge, in American Samoa, is water used for **Irrigation**?\n- **2)** Would you consider the amount water (estimated or measured) used for **Irrigation** to be a significant quantity?\n- **3)** Does your agency collect water use data (flows, amounts, or number of connections) on **Irrigation** use?\n- **4)** Are you aware of any other agencies that may collect **Irrigation** water use data?\n- **5)** Would you consider the existing systems for collection of **Irrigation** water use **data** to be sufficient for understanding the territory's overall water use?\n- **6)** If not, what steps would you recommend to improve the quality or quantity of **Irrigation** water use data collection?\n- **7)** How many individual users (households, businesses, or farms) would you estimate use water for **Irrigation** on Tutuila?\n- **8)** In the absence of existing water use data, how much water would you estimate is used for **Irrigation** in American Samoa (on a yearly or daily basis)?"
+      ]
+    }
+  ],
+  "failures": []
+}

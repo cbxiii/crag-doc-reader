@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years.md",
+  "source_sha256": "392a3bf69aad368ae97fd15ad5f5e2573d0fa120843b17d47f589963c8349457",
+  "status": "complete",
+  "selected_section_count": 9,
+  "successful_record_count": 9,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "ce785f57d2b80f44579384cd",
+      "paper_id": "Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years",
+      "source_path": "output/Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years.md",
+      "section_heading": "Abstract",
+      "section_start_line": 25,
+      "section_end_line": 28,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the transplant survival percentage approximately one year after reattachment in 2001?",
+      "ground_truth_answer": "91 to 92%",
+      "ground_truth_chunks": [
+        "Transplant survival approximately one year following reattachment was high (91 to 92%) in 2001; however, by 2005 survival (60 to 78%) had declined significantly."
+      ]
+    },
+    {
+      "record_id": "0cfb28dc34b26e91e966e5bc",
+      "paper_id": "Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years",
+      "source_path": "output/Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years.md",
+      "section_heading": "Introduction",
+      "section_start_line": 29,
+      "section_end_line": 36,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many corals were transferred back and recemented in the footprint of one of the grounded vessels?",
+      "ground_truth_answer": "Over 300 corals.",
+      "ground_truth_chunks": [
+        "In 1999, reef flat coral colonies and fragments were detached and briefly transferred to nearby back-reef habitats in Aua, Tutuila, American Samoa (Figure 1) to protect them from burial by planned construction of temporary causeways.",
+        "Over 300 corals were transferred back and recemented in the footprint of one of the grounded vessels (Hudson 2000, Jeansonne 2000)."
+      ]
+    },
+    {
+      "record_id": "9f3b9365b172e37f1e59c408",
+      "paper_id": "Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years",
+      "source_path": "output/Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years.md",
+      "section_heading": "Transplantation, Mapping and Initial Measurements",
+      "section_start_line": 39,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "What cement mix was used for reattachment of corals?",
+      "ground_truth_answer": "Quick setting cement (four parts Portland Type II cement to one part Molding Plaster) was used for reattachment.",
+      "ground_truth_chunks": [
+        "In late June/early July 2000, 169 viable colonies (≥ 50 % live tissue cover with no evidence of disease; see Jeansonne 2000) were cemented to natural coral blocks on the reef flat and to a region of coralline algae pavement nearer the reef crest within one of the vessel removal areas (vessel # 8). Quick setting cement (four parts Portland Type II cement to one part Molding Plaster) was used for reattachment."
+      ]
+    },
+    {
+      "record_id": "e3df9566cb48e67586d36c10",
+      "paper_id": "Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years",
+      "source_path": "output/Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years.md",
+      "section_heading": "2005 Measurements",
+      "section_start_line": 47,
+      "section_end_line": 52,
+      "model": "openai:gpt-4o-mini",
+      "question": "What measurements and records were taken for corals during the April 2005 re-measurement?",
+      "ground_truth_answer": "Corals were identified for re-measurement using colony distribution maps, measured distances from transects between permanent markers, and numbered cement monuments; longest length and perpendicular width were measured using straight-line calipers; percent live tissue cover was visually estimated and recorded; a digital image was taken of each coral for comparison with previous (2000) images; and general areas were searched for missing corals which, if found were righted, measured and recorded as detached or, if not found, were recorded as missing.",
+      "ground_truth_chunks": [
+        "Corals were identified for re-measurement and monitoring in April 2005 using colony distribution maps, measured distances from transects between permanent markers, and numbered cement monuments.",
+        "Longest length and perpendicular width were measured using straight-line calipers, and percent live tissue cover was visually estimated in the field and recorded.",
+        "A digital image was taken of each coral for comparison with previous (2000) images."
+      ]
+    },
+    {
+      "record_id": "abd561ba2a61debc5254b28d",
+      "paper_id": "Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years",
+      "source_path": "output/Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years.md",
+      "section_heading": "Analyses",
+      "section_start_line": 53,
+      "section_end_line": 56,
+      "model": "openai:gpt-4o-mini",
+      "question": "What statistical test was used to compare growth of transplant and control colonies for each species group?",
+      "ground_truth_answer": "Two-sample T-tests were used to compare growth of transplant and control colonies for each species group.",
+      "ground_truth_chunks": [
+        "Growth (change in projected area of 2005 survivors from 2001 to 2005) of transplant and control colonies was compared using Two-sample T-tests for each species group.",
+        "Transplant and control comparisons were made using Two-sample T-tests."
+      ]
+    },
+    {
+      "record_id": "b839fbf13b1568f8d52c6b78",
+      "paper_id": "Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years",
+      "source_path": "output/Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years.md",
+      "section_heading": "General",
+      "section_start_line": 59,
+      "section_end_line": 62,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of colonies survived the transplantation process as measured in 2001?",
+      "ground_truth_answer": "Between 91 and 92%.",
+      "ground_truth_chunks": [
+        "Between 91 and 92% of colonies survived the transplantation process as measured in 2001."
+      ]
+    },
+    {
+      "record_id": "a79db4c433a338e47cc48485",
+      "paper_id": "Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years",
+      "source_path": "output/Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years.md",
+      "section_heading": "Transplant Species Group Survival",
+      "section_start_line": 63,
+      "section_end_line": 66,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did survival differ by general location (near reef crest vs back reef area)?",
+      "ground_truth_answer": "No. Survival did not differ by general location (near reef crest, back reef area).",
+      "ground_truth_chunks": [
+        "Lobate *Porites* and *Pocillopora eydouxi* displayed significantly higher average proportional survival than small and mid-sized *Pocillopora* species but did not differ significantly from each other.",
+        "Survival did not differ by general location (near reef crest, back reef area)."
+      ]
+    },
+    {
+      "record_id": "cb37907be4d76b17c1f40336",
+      "paper_id": "Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years",
+      "source_path": "output/Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years.md",
+      "section_heading": "Growth and Tissue Survival",
+      "section_start_line": 71,
+      "section_end_line": 157,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Table 3a (all missing corals considered dead), do transplanted corals have higher proportional survival than control corals?",
+      "ground_truth_answer": "Yes. Table 3a shows Exp. Type (A) with F = 9.22 and P = 0.024, and the table notes 'Transplant > Control'.",
+      "ground_truth_chunks": [
+        "a. All missing corals are considered dead.",
+        "| Exp. Type (A)       | 1      | 5.75   | 9.22  | 0.024 | Transplant > Control |"
+      ]
+    },
+    {
+      "record_id": "3fed920cd2d9eac4407d6e53",
+      "paper_id": "Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years",
+      "source_path": "output/Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years.md",
+      "section_heading": "Discussion",
+      "section_start_line": 158,
+      "section_end_line": 169,
+      "model": "openai:gpt-4o-mini",
+      "question": "In 2001, was transplant survival lower than that of controls for comparable species groups?",
+      "ground_truth_answer": "No. There was no indication that transplant survival was lower than that of controls in 2001 for comparable species groups.",
+      "ground_truth_chunks": [
+        "Reattached corals appeared to respond well to the transplant and cementing techniques used in this project as measured by survival in 2001.",
+        "There was no indication that transplant survival was lower than that of controls in 2001 for comparable species groups.",
+        "Size and tissue cover were not measured for corals when initially transplanted, so sub-lethal effects of the transplant methods could not be determined."
+      ]
+    }
+  ],
+  "failures": []
+}

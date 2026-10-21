@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2025  Sir Ronald Fisher Acropora-/2025  Sir Ronald Fisher Acropora-.md",
+  "source_sha256": "76e6a7398e20ccaf69b86432b292c5c9af24131302748b4e383cfc601235cecc",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "387082f1cf697befd76c9cab",
+      "paper_id": "2025  Sir Ronald Fisher Acropora-/2025  Sir Ronald Fisher Acropora-",
+      "source_path": "output/2025  Sir Ronald Fisher Acropora-/2025  Sir Ronald Fisher Acropora-.md",
+      "section_heading": "Charles Birkeland",
+      "section_start_line": 5,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "What explanation does the author give for why Acropora spp. have not evolved defenses against Acanthaster planci despite one to three million years of predation?",
+      "ground_truth_answer": "The author suggests Fisher's \"runaway natural selection\": selection favors increased reproductive output and fast growth, which is traded off against defenses and tolerances, so increased fecundity overwhelms selection for anti-predator traits (the \"peacock's tail\" of fast-growing corals).",
+      "ground_truth_chunks": [
+        "The *Acanthaster planci* (CoTS) complex has been around for at least one, an d mayb e up to three, million years (Nishida and Lucas 1988), yet *Acropora* spp. see m to hav e remained the favorite prey of CoTS, butterflyfishes, an d man y other corallivores.",
+        "This ma y be what Ronald Fisher (you probably remember that Ronald Fisher developed ANOVA and the genetical theory of natural selection) envisioned as \"runaway natural selection\", where the selective advantag e of increased reproductive output overwhelms the selection for future defense against predators and tolerance of harsh physical environments.",
+        "Increasing fecundity with rapid growth at the cost of greater vulnerability to predation, disease, an d physical environmental stresses ma y be the \"peacock's tail\" of fast-growing corals."
+      ]
+    }
+  ],
+  "failures": []
+}

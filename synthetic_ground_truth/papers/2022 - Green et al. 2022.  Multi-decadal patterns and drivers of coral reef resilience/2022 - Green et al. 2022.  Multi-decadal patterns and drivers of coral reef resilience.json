@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience.md",
+  "source_sha256": "6e174346f600f8f59be5a67ed010b446ffd32ae9e412dab7f6f2ee390b5caa1c",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "e51848518abedc829536c2c1",
+      "paper_id": "2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience",
+      "source_path": "output/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience.md",
+      "section_heading": "Multi-decadal patterns and drivers of coral reef resilience and fish assemblages throughout American Samoa: implications for management",
+      "section_start_line": 1,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many pages long is the report 'Multi-decadal patterns and drivers of coral reef resilience and fish assemblages throughout American Samoa: implications for management'?",
+      "ground_truth_answer": "66 pages.",
+      "ground_truth_chunks": [
+        "**Citation:** Green AL, Lawrence A, Coward G, Birkeland C, Fenner D, Vaeoso M, Williams I 2022 Multi-decadal patterns and drivers of coral reef resilience and fish assemblages throughout American Samoa: implications for management. Technical report prepared for Coral Reef Advisory Group, Pago Pago, American Samoa, 66 pp."
+      ]
+    },
+    {
+      "record_id": "7ad029ee654f4dd86c10ffec",
+      "paper_id": "2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience",
+      "source_path": "output/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience.md",
+      "section_heading": "<span id=\"page-11-0\"></span>Using Long-Term Monitoring to Examine Patterns and Drivers of Coral Reef Resilience and Fish Assemblages over Broad Spatial Scales in American Samoa",
+      "section_start_line": 222,
+      "section_end_line": 225,
+      "model": "openai:gpt-4o-mini",
+      "question": "For how many years did the study monitor benthic communities and fish assemblages?",
+      "ground_truth_answer": "24 years.",
+      "ground_truth_chunks": [
+        "In this study, we examine if the patterns and drivers of coral reef assemblages described above are consistent over broad temporal and spatial scales by monitoring benthic communities and fish assemblages on coral reefs over 24 years across hundreds of kilometers in American Samoa."
+      ]
+    },
+    {
+      "record_id": "7703824b1699877a5c695c9c",
+      "paper_id": "2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience",
+      "source_path": "output/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience.md",
+      "section_heading": "<span id=\"page-16-0\"></span>Survey Sites, Times and Methods",
+      "section_start_line": 274,
+      "section_end_line": 358,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many points per transect were recorded when surveying benthic substratum types?",
+      "ground_truth_answer": "75 points per transect.",
+      "ground_truth_chunks": [
+        "We surveyed benthic communities on the fish transects by recording substratum type at three points (under the tape, and 1 m either side) at 25 2-m intervals along each transect (75 points per transect).",
+        "At each site, we surveyed reef slopes (10 m) where fish species richness, density and biomass tend to be highest (Green 1996) and coral reef fisheries are focused (Levine and Allen, 2009). One observer (ALG) used underwater visual census (UVC) methods to monitor abundance, size (total length in cm) and species richness of fishes amenable to UVC (see Appendix 2 Electronic Supporting Information 1) along three to five 50 m x 3 m belt transects at each site surveyed each year (Appendix 1)."
+      ]
+    },
+    {
+      "record_id": "5df659547fb0f999b56131a4",
+      "paper_id": "2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience",
+      "source_path": "output/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience.md",
+      "section_heading": "<span id=\"page-31-3\"></span>Density",
+      "section_start_line": 443,
+      "section_end_line": 450,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which fish family was the most abundant and contributed most to changes in total density?",
+      "ground_truth_answer": "Pomacentrids were the most abundant family and contributed most to changes in density.",
+      "ground_truth_chunks": [
+        "Pomacentrids were the most abundant family and contributed most to changes in density, although other families also contributed to higher abundances at some sites and times e.g., roving acanthurids at Asaga on Ofu (Image 5, middle photo), and anthiids at Swains."
+      ]
+    },
+    {
+      "record_id": "3e7d126dd8f03285e9b1b892",
+      "paper_id": "2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience",
+      "source_path": "output/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience.md",
+      "section_heading": "<span id=\"page-39-0\"></span>Giant Clams",
+      "section_start_line": 493,
+      "section_end_line": 557,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did the mean density and size structure of giant clams on the lagoon pinnacles at Rose Atoll change between 1994/95 and 2018?",
+      "ground_truth_answer": "Mean density on the lagoon pinnacles declined dramatically from very high in 1994/95 (ranging from 951 to 8,871 clams ha-1) to very low in 2018 (ranging from 7 to 23 clams ha-1). The size structure shifted from mostly recruits in 1994/95 (43.6%) to mostly mature individuals in 2018 (81.3%). Additionally, most clams recorded in 2018 were dead (199 of 226, or 88%).",
+      "ground_truth_chunks": [
+        "The giant clam population on the lagoon pinnacles at Rose declined dramatically between 1994/95 and 2018 (Fig. 14b, Table 3). In 1994/95, mean clam density on the pinnacles was very high (ranging from 951 to 8,871 clams ha-1 ), while in 2018 mean density was very low (ranging from 7 to 23 clams ha-1 ).",
+        "In 1994/95, most the clams recorded on the pinnacles were recruits (43.6%), followed by mature (29.6%) and immature (26.8%) individuals. In 2018, most of the clams were mature (81.3%), with only a few immature individuals (11.3%) or recruits (7.3%) recorded (Table 3).",
+        "In 2018, we only recorded 226 clams on the transects on the lagoon pinnacles at Rose, most of which were dead (199, or 88%: Table 3)."
+      ]
+    },
+    {
+      "record_id": "b9abcbeda464a6438abc659d",
+      "paper_id": "2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience",
+      "source_path": "output/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience.md",
+      "section_heading": "<span id=\"page-50-0\"></span>Status of Marine Protected Areas",
+      "section_start_line": 616,
+      "section_end_line": 621,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, why are many MPAs in American Samoa not yet realizing their potential as effective fisheries management tools?",
+      "ground_truth_answer": "Possibly due to a lack of compliance and enforcement.",
+      "ground_truth_chunks": [
+        "However, many MPAs have a low biomass of fisheries species, and species highly vulnerable to fishing pressure (sharks and large-bodied groupers, wrasse, parrotfishes, and snapper: Image 8) are rare or absent throughout the Territory including in most MPAs.",
+        "Therefore, many MPAs in American Samoa are not yet realizing their potential as effective fisheries management tools (described below), possibly due to a lack of compliance and enforcement."
+      ]
+    },
+    {
+      "record_id": "14bbfcf918fe0350d7180f05",
+      "paper_id": "2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience",
+      "source_path": "output/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience.md",
+      "section_heading": "<span id=\"page-51-1\"></span>Recovery from the Ship Grounding",
+      "section_start_line": 640,
+      "section_end_line": 649,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long did the phase shift caused by the 1993 ship grounding persist?",
+      "ground_truth_answer": "It persisted for over 13 years.",
+      "ground_truth_chunks": [
+        "After the ship grounding in 1993, a phase shift occurred on the southwest and northwest sides of Rose Atoll where reef slopes and flats once dominated by CCA were overgrown by opportunistic turf algae and cyanobacteria (likely stimulated by iron leaching from the wreckage: Green et al. 1997).",
+        "This phase shift persisted for over 13 years (Schroeder et al. 2008)."
+      ]
+    },
+    {
+      "record_id": "19c4a26c05030a30de719621",
+      "paper_id": "2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience",
+      "source_path": "output/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience.md",
+      "section_heading": "How Are American Samoa's Coral Reefs Doing?",
+      "section_start_line": 806,
+      "section_end_line": 839,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many individual reef fishes and coral colonies were recorded during the 2018 surveys?",
+      "ground_truth_answer": "Approximately 16,000 individual reef fishes and 6,741 coral colonies were recorded.",
+      "ground_truth_chunks": [
+        "Approximately 16,000",
+        "individual reef fishes (199 species from 27 fish families), 6,741 coral colonies (113 species in 34 genera) and approximately 50 giant clams were recorded and measured, and over 8,233 observations were made of the benthic habitat."
+      ]
+    },
+    {
+      "record_id": "f3f7d5adda4fe4d0002138d6",
+      "paper_id": "2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience",
+      "source_path": "output/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience.md",
+      "section_heading": "National Marine Sanctuary of American Samoa",
+      "section_start_line": 869,
+      "section_end_line": 879,
+      "model": "openai:gpt-4o-mini",
+      "question": "What did the survey team report about the coral communities and fish populations in the Fagatele Bay section of the National Marine Sanctuary of American Samoa?",
+      "ground_truth_answer": "The coral communities in Fagatele Bay are healthy and thriving and look the best the survey team have seen in 40 years of monitoring, but fish populations are still low in the Sanctuary with very few big fish.",
+      "ground_truth_chunks": [
+        "- The coral communities in Fagatele Bay section of the National Marine Sanctuary of American Samoa are healthy and thriving and are looking the best that the survey team have seen them in 40 years of monitoring (see photo top of page 2). Unfortunately, the fish populations are still low in the Sanctuary, and there are very few big fish.",
+        "- In 1994, DMWR staff (Fale Tuilagi and Alison Green) found one of the world's largest and oldest coral colonies, which they named Fale Bommie (the shape resembles a Samoan fale). It is now part of the Ta'u Management Area of the National Marine Sanctuary of American Samoa.",
+        "The survey team were pleased to see that the bommie is still healthy and appears to be recovering well from coring studies to estimate its age and study the climate records in the skeleton."
+      ]
+    },
+    {
+      "record_id": "2f3d7e5b50814965d9678b57",
+      "paper_id": "2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience",
+      "source_path": "output/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience.md",
+      "section_heading": "Project Support",
+      "section_start_line": 927,
+      "section_end_line": 931,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which organizations funded the surveys at Rose Atoll and Fagatele Bay?",
+      "ground_truth_answer": "The US Fish & Wildlife Service (USFWS) funded the survey at Rose Atoll, and the National Marine Sanctuary of American Samoa (NMSAS) funded the survey at Fagatele Bay.",
+      "ground_truth_chunks": [
+        "Dr. Alison Green and Prof. Charles Birkeland donated their time to the project, the US Fish & Wildlife Service (USFWS) funded the survey at Rose Atoll and the National Marine Sanctuary of American Samoa (NMSAS) funded the survey at Fagatele Bay."
+      ]
+    }
+  ],
+  "failures": []
+}

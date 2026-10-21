@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Barshis coral resilience/Barshis coral resilience.md",
+  "source_sha256": "a9c0108850e57b59664a1335054e235d1f431c6f5ee3cda9f54efbac3471ab21",
+  "status": "complete",
+  "selected_section_count": 5,
+  "successful_record_count": 5,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "876cbc5f2565c7e387d32c66",
+      "paper_id": "Barshis coral resilience/Barshis coral resilience",
+      "source_path": "output/Barshis coral resilience/Barshis coral resilience.md",
+      "section_heading": "Genomic basis for coral resilience to climate change",
+      "section_start_line": 1,
+      "section_end_line": 44,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many genes were identified as being 'frontloaded' (higher constitutive expression in tolerant corals) in this study?",
+      "ground_truth_answer": "60 genes.",
+      "ground_truth_chunks": [
+        "Under simulated bleaching stress, sensitive and resilient corals change expression of hundreds of genes, but the resilient corals had higher expression under control conditions across 60 of these genes.",
+        "In particular, 60 of the genes up-regulated in response to heat stress in the sensitive coral population show a reduced response and a higher constitutive level of expression in tolerant corals (i.e., they are already up-regulated under control conditions in tolerant corals)."
+      ]
+    },
+    {
+      "record_id": "b4196cd4e3d9f05c8536d073",
+      "paper_id": "Barshis coral resilience/Barshis coral resilience",
+      "source_path": "output/Barshis coral resilience/Barshis coral resilience.md",
+      "section_heading": "Results",
+      "section_start_line": 45,
+      "section_end_line": 80,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many genes responded identically to heat stress in the HV and MV groups, and how many of those were up-regulated versus down-regulated?",
+      "ground_truth_answer": "78 genes responded identically; 59 were up-regulated and 19 were down-regulated.",
+      "ground_truth_chunks": [
+        "There were 78 genes that responded identically to heat stress in the HV and MV groups: 59 were up-regulated and 19 downregulated (Fig. 2)."
+      ]
+    },
+    {
+      "record_id": "dadfda7d6ee9ce95c7e4ca54",
+      "paper_id": "Barshis coral resilience/Barshis coral resilience",
+      "source_path": "output/Barshis coral resilience/Barshis coral resilience.md",
+      "section_heading": "Discussion",
+      "section_start_line": 81,
+      "section_end_line": 120,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many genes were identified as potentially frontloaded in heat-tolerant corals?",
+      "ground_truth_answer": "60 genes.",
+      "ground_truth_chunks": [
+        "We find 60 genes that are potentially frontloaded in heat-tolerant corals (Fig. 4, *Upper Left*, light shading).",
+        "One well-known gene in this frontloaded subset is Hsp70 (contig81180 matches Hsp70/HSPA5; Dataset S3A)."
+      ]
+    },
+    {
+      "record_id": "e0e6c1c667d15806258c09d2",
+      "paper_id": "Barshis coral resilience/Barshis coral resilience",
+      "source_path": "output/Barshis coral resilience/Barshis coral resilience.md",
+      "section_heading": "Conclusions",
+      "section_start_line": 121,
+      "section_end_line": 128,
+      "model": "openai:gpt-4o-mini",
+      "question": "What two categories of genes do the authors propose are associated with coral thermal resilience?",
+      "ground_truth_answer": "Frontloaded genes (constitutive, frontloaded expression of genes important in responding to environmental stress) and stress-indicator genes (genes that may indicate lower physiological stress in resilient corals).",
+      "ground_truth_chunks": [
+        "Our transcriptome data focus on conspecific corals with differing degrees of bleaching resilience and suggest that, in addition to the large number of genes involved in acute heat stress, coral resilience may involve the constitutive, frontloaded expression of several genes that are important in the reaction to environmental stress.",
+        "Other genes that are different between resilient and sensitive\n\ncorals may be stress indicators and reflect lower states of physiological stress in corals with cellular mechanics tuned for high temperatures.",
+        "Our division of genes into frontloaded and stress-indicator categories represents a mechanistic hypothesis about the way corals respond to temperature, which might serve to explain other differences in coral bleaching thresholds such as latitudinal variation (18)."
+      ]
+    },
+    {
+      "record_id": "74c761c9f28321d974dfef98",
+      "paper_id": "Barshis coral resilience/Barshis coral resilience",
+      "source_path": "output/Barshis coral resilience/Barshis coral resilience.md",
+      "section_heading": "Materials and Methods",
+      "section_start_line": 129,
+      "section_end_line": 211,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the mean temperatures for the ambient/control and heat stress experimental conditions, and how much higher was the heat stress mean compared to ambient?",
+      "ground_truth_answer": "Ambient/control mean = 29.2 °C; heat stress mean = 31.9 °C; the heat stress mean was ~2.7 °C higher than ambient.",
+      "ground_truth_chunks": [
+        "The ambient/control condition ranged from 26.8-34.5 °C (mean = 29.2 °C, n = 2 tanks), whereas the heat stress condition was elevated by ~2.7 °C over ambient conditions (27–37.6 °C; mean, 31.9 °C; n=2 tanks)."
+      ]
+    }
+  ],
+  "failures": []
+}

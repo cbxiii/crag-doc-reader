@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS.md",
+  "source_sha256": "7b68d6d907866ca887474cdcea6593272da89f3b1f25e3e1fec12964910e8035",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "fc98299a8205a8ed81c228b1",
+      "paper_id": "Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS",
+      "source_path": "output/Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS.md",
+      "section_heading": "Book Team",
+      "section_start_line": 17,
+      "section_end_line": 43,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who is listed as the Chairman and Chief Executive Officer in the Book Team section?",
+      "ground_truth_answer": "Mark C. Falb",
+      "ground_truth_chunks": [
+        "Chairman and Chief Executive Officer Mark C. Falb"
+      ]
+    },
+    {
+      "record_id": "9be12423cc951046d8d25485",
+      "paper_id": "Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS",
+      "source_path": "output/Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS.md",
+      "section_heading": "The Geologic Time Scale and Geologic Columns",
+      "section_start_line": 44,
+      "section_end_line": 75,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the table in the section, what is the length in millions of years of the Jurassic period?",
+      "ground_truth_answer": "64 million years.",
+      "ground_truth_chunks": [
+        "| Eras (or Erathems)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | as (or Erathems) Periods (or Systems) |                          |             | Length in millions of years | Age estimates<br>of boundaries<br>in millions<br>of years |",
+        " Mesozoic                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Jurassic                              |                          |             | 64                          | 208                                                       "
+      ]
+    },
+    {
+      "record_id": "0446ee8c6d4a1244f14c07c2",
+      "paper_id": "Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS",
+      "source_path": "output/Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS.md",
+      "section_heading": "CENTRAL SOUTH PACIFIC",
+      "section_start_line": 80,
+      "section_end_line": 97,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the total area of the National Park of American Samoa unit described, and how many acres of that area are offshore?",
+      "ground_truth_answer": "10,520 acres total, including 420 acres offshore.",
+      "ground_truth_chunks": [
+        "Area: Parts of three volcanic islands: 10,520 acres, including 420 acres offshore"
+      ]
+    },
+    {
+      "record_id": "09dc945b6a7ddd25fd637935",
+      "paper_id": "Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS",
+      "source_path": "output/Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS.md",
+      "section_heading": "Geographic Setting",
+      "section_start_line": 98,
+      "section_end_line": 129,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many islands, islets, and atolls make up American Samoa as a political unit?",
+      "ground_truth_answer": "American Samoa consists of five islands, five islets, and two atolls.",
+      "ground_truth_chunks": [
+        "American Samoa, as a political unit, consists of five islands, five islets, and two atolls (fig. 42.3)."
+      ]
+    },
+    {
+      "record_id": "0fb5a418d2501bfbdddb7ae9",
+      "paper_id": "Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS",
+      "source_path": "output/Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS.md",
+      "section_heading": "The National Park Units",
+      "section_start_line": 130,
+      "section_end_line": 173,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which park unit is described as the largest and how many acres of land does it include?",
+      "ground_truth_answer": "Ta'u Unit — 190 acres of land (and 300 acres offshore).",
+      "ground_truth_chunks": [
+        "**Ta'u Unit.** This is the largest park unit with 190 acres of land and 300 acres) offshore.",
+        "The entire island is 15 square miles and 3,051 feet in elevation. The park's land is located on the south side of the island."
+      ]
+    },
+    {
+      "record_id": "ad6a7c37af9a577700d910c2",
+      "paper_id": "Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS",
+      "source_path": "output/Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS.md",
+      "section_heading": "Geologic History",
+      "section_start_line": 212,
+      "section_end_line": 219,
+      "model": "openai:gpt-4o-mini",
+      "question": "What thickness is given for the Masefau Dike complex?",
+      "ground_truth_answer": "The thickness of the Masefau Dike complex is about 197 feet.",
+      "ground_truth_chunks": [
+        "1. According to Stearns (1944), prior to 1.4 million years ago the intrusion from a volcanic rift zone formed the Masefau Dike complex.",
+        "The thickness of this complex is about 197 feet."
+      ]
+    },
+    {
+      "record_id": "f6a2ceefa9d35dffd844ef35",
+      "paper_id": "Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS",
+      "source_path": "output/Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS.md",
+      "section_heading": "Geologic Column, National Park of American Samoa",
+      "section_start_line": 222,
+      "section_end_line": 277,
+      "model": "openai:gpt-4o-mini",
+      "question": "Approximately how many million years ago did the shield-building stage begin, forming the four volcanoes that created Tutuila?",
+      "ground_truth_answer": "Around 1.4 million years ago.",
+      "ground_truth_chunks": [
+        "2. Around 1.4 million years ago the shield building stage began and four volcanoes formed nearly contemporaneously during the Pliocene Epoch, creating the island of Tutuila."
+      ]
+    },
+    {
+      "record_id": "6cb6fbb7b347e2d3413539b3",
+      "paper_id": "Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS",
+      "source_path": "output/Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS.md",
+      "section_heading": "5. The formation of Ta'u Island from a remnant of a shield volcano about 500.000 years ago.",
+      "section_start_line": 278,
+      "section_end_line": 303,
+      "model": "openai:gpt-4o-mini",
+      "question": "When was the Faleasao Tuff on Ta'u Island deposited?",
+      "ground_truth_answer": "About 30,000 years ago.",
+      "ground_truth_chunks": [
+        "The Faleasao Tuff (northwest corner) was deposited about 30,000 years ago, making it the most recent volcanism observed on the island."
+      ]
+    },
+    {
+      "record_id": "283c401c7a40536670103b0e",
+      "paper_id": "Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS",
+      "source_path": "output/Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS.md",
+      "section_heading": "9. Modern deposition of unconsolidated alluvium.",
+      "section_start_line": 304,
+      "section_end_line": 311,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where are talus slopes located on Ta'u and Ofu according to the section?",
+      "ground_truth_answer": "Talus slopes are found on the west coast of Ta'u and the south coast of Ofu.",
+      "ground_truth_chunks": [
+        "Talus consists of the rocks and boulders that accumulate at the bottom of the cliffs and steep slopes. Talus slopes are found on the west coast of Ta'u and south coast of Ofu."
+      ]
+    },
+    {
+      "record_id": "6cd17813e9264187c6b1ba6b",
+      "paper_id": "Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS",
+      "source_path": "output/Harris Tuttle Tuttle 1975 Geology National Park AS/Harris Tuttle Tuttle 1975 Geology National Park AS.md",
+      "section_heading": "Sources",
+      "section_start_line": 320,
+      "section_end_line": 341,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which entry in the Sources provides a Volcanic Hazards Map for Ta'u Island and how many pages is it listed as?",
+      "ground_truth_answer": "Proposal request from Oceans Ventures Fund, n.d. Volcanic Hazards Map for Ta'u Island, unpublished, 6 pages.",
+      "ground_truth_chunks": [
+        "- Proposal request from Oceans Ventures Fund, n.d. Volcanic Hazards Map for Ta'u Island unpublished 6 p."
+      ]
+    }
+  ],
+  "failures": []
+}

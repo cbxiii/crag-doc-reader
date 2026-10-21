@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS.md",
+  "source_sha256": "7a01c92c0a0f8e638db26b5e24a77d0bc930dc94e04529209e3114e9d18dd1e5",
+  "status": "complete",
+  "selected_section_count": 9,
+  "successful_record_count": 9,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "7bb1ea6da98172b41729ae43",
+      "paper_id": "Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS",
+      "source_path": "output/Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS.md",
+      "section_heading": "Or Fagatele Bay: A Sanctuary in Samoa",
+      "section_start_line": 1,
+      "section_end_line": 18,
+      "model": "openai:gpt-4o-mini",
+      "question": "What event prompted Fagatele Bay's sanctuary designation in 1986?",
+      "ground_truth_answer": "A Crown-of-Thorns starfish infestation in late 1978 that devastated the bay and led to the loss of nearly 90 percent of its corals.",
+      "ground_truth_chunks": [
+        "was nearly devastated by an infestation of the coral-eating Crown-of-Thorns arish (Acanthaster planci) in late 1978.",
+        "lost nearly 90 percent of its corals to lese ravenous starfish.",
+        "The starfish infestation provided the impetus Fagatele Bay's sanctuary designation in 1986."
+      ]
+    },
+    {
+      "record_id": "f4a01ecaf90006dead96dc26",
+      "paper_id": "Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS",
+      "source_path": "output/Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS.md",
+      "section_heading": "The Site",
+      "section_start_line": 19,
+      "section_end_line": 30,
+      "model": "openai:gpt-4o-mini",
+      "question": "What event damaged more than half of the coral reefs fringing Tutuila during late 1978 and early 1979?",
+      "ground_truth_answer": "The starfish destroyed more than half of the coral reefs fringing Tutuila.",
+      "ground_truth_chunks": [
+        "During late 1978 and early 1979, the starfish destroyed more than half of the coral reefs fringing Tutuila.",
+        "Despite the devastating impact it had upon the live coral resource, this incident presented a unique opportunity to study and document the recovery of such ecosystems."
+      ]
+    },
+    {
+      "record_id": "744d5bf8a0c15a10adac0d9a",
+      "paper_id": "Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS",
+      "source_path": "output/Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS.md",
+      "section_heading": "Traditional Culture and Fagatele Bay",
+      "section_start_line": 31,
+      "section_end_line": 42,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the most common species caught in Fagatele Bay?",
+      "ground_truth_answer": "The most common species caught include butterfly fish (Chaeotodon spp.), surgeonfish (Acanthurus spp.), goatfish (Parapeneus), and snappers (Lutjanus).",
+      "ground_truth_chunks": [
+        "The most common species caught include butterfly fish (Chaeotodon spp.), surgeonfish (Acanthurus spp.), goatfish (Parapeneus), and snappers (Lutjanus).",
+        "Most of these activities, occurring along the nearshore areas of the bay, presently are conducted by less than 20 people from the nearby villages."
+      ]
+    },
+    {
+      "record_id": "da1b592c2a00b4b82768b356",
+      "paper_id": "Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS",
+      "source_path": "output/Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS.md",
+      "section_heading": "Cooperative Planning Effort",
+      "section_start_line": 43,
+      "section_end_line": 61,
+      "model": "openai:gpt-4o-mini",
+      "question": "What five major issues were identified during the planning stages for Fagatele Bay sanctuary designation?",
+      "ground_truth_answer": "The five major issues were: 1) sanctuary designation may conflict with the traditional lifestyle and cultural heritage of the Samoan people; 2) traditional uses of the bay may be prohibited; 3) with the introduction of a Federal program, local participation in managing the site may be ignored; 4) the distance from Washington, D.C., may make management of the site impractical from the federal perspective; and 5) the availability of native Samoans qualified to manage the sanctuary may be a limiting actor in sanctuary management.",
+      "ground_truth_chunks": [
+        "Throughout the planning stages, local participation was encouraged by including appropriate village and territorial authorities identified by the ASG, the legislative and executive branches and Congressional office of the ASG, and the relevant Federal agencies. This wide consultation resulted in the early identification of five major issues.",
+        "The major issues were: 1) sanctuary designation may conflict with the traditional lifestyle and cultural heritage of the Samoan people;\n2) traditional uses of the bay may be prohibited;\n3) with the introduction of a Federal program, local participation in managing the site may be ignored;\n4) the distance from Washington, D.C., may make management of the site impractical from the federal perspective; and 5) the availability of native Samoans qualified to manage the sanctuary may be a limiting actor in sanctuary management."
+      ]
+    },
+    {
+      "record_id": "78b9b050d99da2fae3df3e51",
+      "paper_id": "Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS",
+      "source_path": "output/Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS.md",
+      "section_heading": "Sanctuary Designation",
+      "section_start_line": 62,
+      "section_end_line": 73,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which activities does the Fagatele Bay sanctuary management plan specifically prohibit?",
+      "ground_truth_answer": "The plan prohibits spearfishing; taking or damaging natural resources (including the Crown-of-Thorns starfish); the use of trawls, seines, trammel nets or any fixed nets; disturbance to the benthic community; the discharge of any materials or substances into sanctuary waters; removing or damaging cultural resources; and the taking of any sea turtles.",
+      "ground_truth_chunks": [
+        "The management plan includes regulations that delineate the Sanctuary's boundaries, and prohibits such activities as spearfishing, taking or damaging natural resources (including the Crown-of-Thorns starfish); the use of trawls, seines, trammel nets or any fixed nets; disturbance to the benthic community; the discharge of any materials or substances into sanctuary waters; removing or damaging cultural resources; and the taking of any sea turtles. Traditional activities, such as gleaning and subsistence fishing, are specifically allowed."
+      ]
+    },
+    {
+      "record_id": "cf203d2f394ba7e538ca8df8",
+      "paper_id": "Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS",
+      "source_path": "output/Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS.md",
+      "section_heading": "American Samoa",
+      "section_start_line": 74,
+      "section_end_line": 97,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which U.S. President assigned the U.S. Navy responsibility for administering American Samoa, and on what date?",
+      "ground_truth_answer": "President William McKinley assigned the U.S. Navy on February 19, 1900.",
+      "ground_truth_chunks": [
+        "In early 1900, American Samoa became a U.S. Territory; and on February 19, 1900, the U.S. Navy was assigned responsibility for administering the islands by President William McKinley."
+      ]
+    },
+    {
+      "record_id": "474c958c63136839e62de4ca",
+      "paper_id": "Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS",
+      "source_path": "output/Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS.md",
+      "section_heading": "Sanctuary Education Program",
+      "section_start_line": 98,
+      "section_end_line": 113,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which organizations will facilitate execution of the sanctuary education program?",
+      "ground_truth_answer": "The University of Hawaii's Curriculum and Development Group; and American Samoa's Department of Education, Community College, Department of Recreation, Development Planning Office, and Office of Marine Resources.",
+      "ground_truth_chunks": [
+        "Implementation of the education program is scheduled for this year. The program is divided into two stages, and will use the University of Hawaii's Curriculum and Development Group; and American Samoa's Department of Education, Community College, Department of Recreation, Development Planning Office, and Office of Marine Resources to facilitate its execution."
+      ]
+    },
+    {
+      "record_id": "635b86e5fd97620de1d1d0bc",
+      "paper_id": "Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS",
+      "source_path": "output/Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS.md",
+      "section_heading": "Pacific Marine Resource Management",
+      "section_start_line": 114,
+      "section_end_line": 123,
+      "model": "openai:gpt-4o-mini",
+      "question": "What event provided the impetus for sanctuary designation of Fagatele Bay?",
+      "ground_truth_answer": "The Crown-of-Thorns starfish infestation provided the impetus for sanctuary designation of Fagatele Bay.",
+      "ground_truth_chunks": [
+        "Although the Crown-of-Thorns starfish infestation provided the impetus for sanctuary designation of Fagatele Bay, it also pinpointed the need to effectively manage coral reef resources throughout the Samoan Archipelago and the Pacific.",
+        "In this respect, it is believed that Fagatele Bay will eventually evolve to serve as a model for other Pacific island nations where coral reef management environmental awareness, and the maintenance of traditional culture are, or soon will become, important issues."
+      ]
+    },
+    {
+      "record_id": "ac849f5c938bb0c367b6f9ee",
+      "paper_id": "Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS",
+      "source_path": "output/Thomas-1988-Fagatele.Bay.AS/Thomas-1988-Fagatele.Bay.AS.md",
+      "section_heading": "Uniquely Samoan",
+      "section_start_line": 124,
+      "section_end_line": 130,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which governments does the section say must cooperate to enhance the success of the sanctuary program?",
+      "ground_truth_answer": "The Federal and Territorial governments.",
+      "ground_truth_chunks": [
+        "While coral reef management and environmental awareness are relatively new to American Samoa, continued cooperation from both Federal and Territorial governments will enhance the success of the sanctuary program."
+      ]
+    }
+  ],
+  "failures": []
+}

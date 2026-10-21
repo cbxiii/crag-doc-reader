@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2009 TMP report/2009 TMP report.md",
+  "source_sha256": "b09f337405785034c39594f8156949cd22d3f30eb0b794672dd93354445e8dc7",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "2500c310905caa66595016ac",
+      "paper_id": "2009 TMP report/2009 TMP report",
+      "source_path": "output/2009 TMP report/2009 TMP report.md",
+      "section_heading": "Abstract",
+      "section_start_line": 39,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the reported coral cover percentage in 2009 in the Abstract?",
+      "ground_truth_answer": "28.6% cover in 2009.",
+      "ground_truth_chunks": [
+        "Coral cover, which had risen slightly in 2008, remained at that level, with 28.6% cover in 2009."
+      ]
+    },
+    {
+      "record_id": "d349ec795989f988b9529713",
+      "paper_id": "2009 TMP report/2009 TMP report",
+      "source_path": "output/2009 TMP report/2009 TMP report.md",
+      "section_heading": "Methods",
+      "section_start_line": 47,
+      "section_end_line": 78,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many transect tapes were laid per site during the core monitoring, and how long were they?",
+      "ground_truth_answer": "Four 50-m tapes were laid on a depth contour between 8 and 10 m deep.",
+      "ground_truth_chunks": [
+        "In the core monitoring, four 50-m tapes were laid on a depth contour between 8 and 10 m deep.",
+        "Benthic categories were recorded under each 0.5 m point on the tape."
+      ]
+    },
+    {
+      "record_id": "f3750596bc638f7ce59412e7",
+      "paper_id": "2009 TMP report/2009 TMP report",
+      "source_path": "output/2009 TMP report/2009 TMP report.md",
+      "section_heading": "Coral Lifeforms",
+      "section_start_line": 103,
+      "section_end_line": 128,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral lifeform is reported as the most common at most sites?",
+      "ground_truth_answer": "Encrusting is reported as the most common lifeform at most sites.",
+      "ground_truth_chunks": [
+        "Encrusting continues to be the most common lifeform at most sites, with column and branching following.",
+        "Encrusting continues to be the most common lifeform, followed by column, branching, and table."
+      ]
+    },
+    {
+      "record_id": "9126258f6a994a09f6d6683b",
+      "paper_id": "2009 TMP report/2009 TMP report",
+      "source_path": "output/2009 TMP report/2009 TMP report.md",
+      "section_heading": "Coral Species",
+      "section_start_line": 155,
+      "section_end_line": 180,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species was reported as the most common in the 'Coral Species' section?",
+      "ground_truth_answer": "Porites rus is the most common coral.",
+      "ground_truth_chunks": [
+        "*Porites rus* is the most common coral followed by encrusting *Montipora*.",
+        "Figure 13 presents the mean cover of the most common coral species. *Porites rus* was the most common, followed by encrusting *Montipora*, *Acropora clathrata*, and *Pavona varians*."
+      ]
+    },
+    {
+      "record_id": "3502f8972d6ff97ce9e0e2aa",
+      "paper_id": "2009 TMP report/2009 TMP report",
+      "source_path": "output/2009 TMP report/2009 TMP report.md",
+      "section_heading": "Invertebrates",
+      "section_start_line": 225,
+      "section_end_line": 250,
+      "model": "openai:gpt-4o-mini",
+      "question": "Do the trend graphs show any overall trend in the mean numbers of invertebrates at the sites?",
+      "ground_truth_answer": "No. Neither of the graphs of trends shows any overall trend in the means, so invertebrate populations appear to be steady.",
+      "ground_truth_chunks": [
+        "Figure 25 shows trends in the numbers of different kinds of invertebrates at each site.",
+        "Figure 26 shows trends in the numbers of individual invertebrates at each site.",
+        "Neither of the graphs of trends shows any overall trend in the means, so invertebrate populations appear to be steady."
+      ]
+    },
+    {
+      "record_id": "40d66bebce537a2673ed936a",
+      "paper_id": "2009 TMP report/2009 TMP report",
+      "source_path": "output/2009 TMP report/2009 TMP report.md",
+      "section_heading": "Bleaching",
+      "section_start_line": 251,
+      "section_end_line": 266,
+      "model": "openai:gpt-4o-mini",
+      "question": "How intense was the bleaching at Alofau in 2009?",
+      "ground_truth_answer": "Bleaching at Alofau in 2009 was intense, with near 100% bleaching throughout the pool and some bleaching on the reef flat.",
+      "ground_truth_chunks": [
+        "Bleaching was intense in 2009, with near 100% bleaching throughout the pool, and some bleaching on the reef flat."
+      ]
+    },
+    {
+      "record_id": "e559e73bd9e19d4603d60c7c",
+      "paper_id": "2009 TMP report/2009 TMP report",
+      "source_path": "output/2009 TMP report/2009 TMP report.md",
+      "section_heading": "Low tides",
+      "section_start_line": 301,
+      "section_end_line": 314,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the likely cause of death for the young table corals observed dead on the reef flat at Fagasa in late October 2009?",
+      "ground_truth_answer": "They were likely killed by low tides.",
+      "ground_truth_chunks": [
+        "Observation in late October, 2009 of the reef flat in Fagasa revealed areas in which all or most all young table corals had been killed (Figure 35). Tables were typically around 30 cm diameter, with some possibly about 40 cm.",
+        "Low tides were lowest in 2009 in July and August, particularly July 20-23, and August 18-20.",
+        "All the information is consistent with their having been killed by low tides."
+      ]
+    },
+    {
+      "record_id": "07a9d70f68e421ea2c7ae2bb",
+      "paper_id": "2009 TMP report/2009 TMP report",
+      "source_path": "output/2009 TMP report/2009 TMP report.md",
+      "section_heading": "Tsunami of Sept 29, 2009",
+      "section_start_line": 315,
+      "section_end_line": 468,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the maximum tsunami run-up measured on Tutuila from the Sept. 29, 2009 tsunami?",
+      "ground_truth_answer": "The maximum run-up on Tutuila was around 14 m above sea level (about 46 feet).",
+      "ground_truth_chunks": [
+        "\"Run-up\" is how high the wave reaches at its greatest distance reached inland, and the maximum run-up on Tutuila was around 14 m above sea level, or 46 feet."
+      ]
+    },
+    {
+      "record_id": "051722d006b6b3e3185ec206",
+      "paper_id": "2009 TMP report/2009 TMP report",
+      "source_path": "output/2009 TMP report/2009 TMP report.md",
+      "section_heading": "Summary:",
+      "section_start_line": 531,
+      "section_end_line": 546,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which sites were classified as 'Catastrophic'?",
+      "ground_truth_answer": "Fagaitua Ava and Matafau school slope.",
+      "ground_truth_chunks": [
+        "Catastrophic: Fagaitua Ava, Matafau school slope"
+      ]
+    },
+    {
+      "record_id": "e67413321502e7d711e02170",
+      "paper_id": "2009 TMP report/2009 TMP report",
+      "source_path": "output/2009 TMP report/2009 TMP report.md",
+      "section_heading": "Descriptions:",
+      "section_start_line": 547,
+      "section_end_line": 609,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which location in the 'Descriptions' section was reported as complete destruction (4)?",
+      "ground_truth_answer": "Fagaitua Ava (10/7/09).",
+      "ground_truth_chunks": [
+        "- 16. Fagaitua Ava: 10/7/09. Near the small boat ramp, the sandy bottom was not disturbed at all. In the ava, there had been a healthy thicket of staghorn coral. It was completely destroyed, only a few pieces could be found in the massive swaths of rubble. The rubble was nearly white and clearly had been buried for a long time, then dug up by the tsunami. There were places where the current had dug channels or pits, which usually had sides of white reef rock. One channel had been dug about 20 feet deeper than it had been previously, and clearly the rubble that was in the pit was bulldozed into the massive swaths of rubble. The ava is complete devastation, and shows evidence of the most powerful water motion yet seen underwater. The ava feeds a large reef flat area. Complete destruction. (complete destruction = 4)"
+      ]
+    }
+  ],
+  "failures": []
+}

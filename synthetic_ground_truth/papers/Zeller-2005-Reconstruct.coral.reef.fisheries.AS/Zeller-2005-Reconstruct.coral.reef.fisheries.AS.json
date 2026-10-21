@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS.md",
+  "source_sha256": "66e6399a7497fd3aafdf9023138fcd0d79e4b7224f7a001a72bf162f7e5451d0",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "7a1957da0253da7831c46636",
+      "paper_id": "Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS",
+      "source_path": "output/Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS.md",
+      "section_heading": "<span id=\"page-2-0\"></span>1. Executive Summary",
+      "section_start_line": 29,
+      "section_end_line": 36,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which U.S. associated islands and areas were included in the project's reconstruction of coral reef fisheries catches?",
+      "ground_truth_answer": "American Samoa, Guam, the Commonwealth of the Northern Mariana Islands (CNMI), Hawaii, and the other isolated islands and atolls under U.S. jurisdiction in the Western Pacific.",
+      "ground_truth_chunks": [
+        "The purpose of this project was to assemble available information on catches for the coral reef fisheries of the U.S. associated islands of the Western Pacific region, specifically American Samoa, Guam, the Commonwealth of the Northern Mariana Islands (CNMI), Hawaii, and the other, isolated islands and atolls under U.S. jurisdiction, for the 1950-2002 period."
+      ]
+    },
+    {
+      "record_id": "cfd01d05b604c62c135a77c8",
+      "paper_id": "Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS",
+      "source_path": "output/Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS.md",
+      "section_heading": "Individual island entities",
+      "section_start_line": 44,
+      "section_end_line": 67,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percentage did reconstructed catches decline in Guam between 1950 and 2002?",
+      "ground_truth_answer": "The reconstruction suggested a decline of over 90% in Guam between 1950 and 2002.",
+      "ground_truth_chunks": [
+        "For Guam (Section 3.2), the reconstruction of historic catches suggested a decline of over 90% over the 50 year time period considered here.",
+        "Important also is the 7 fold discrepancy between the reconstructed catches and the officially reported statistics."
+      ]
+    },
+    {
+      "record_id": "c4223d7d3c81e8a6ffe32b46",
+      "paper_id": "Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS",
+      "source_path": "output/Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS.md",
+      "section_heading": "Introduction",
+      "section_start_line": 90,
+      "section_end_line": 97,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the two main employers on American Samoa mentioned in the Introduction?",
+      "ground_truth_answer": "Tuna canneries and the local government.",
+      "ground_truth_chunks": [
+        "Tuna canneries and the local government are the two main employers on American Samoa, with canned tuna being the only significant export commodity, supplying about 25% of all canned tuna in the U.S. in the early 1990s (Craig *et al.*, 1993)."
+      ]
+    },
+    {
+      "record_id": "9b04bd59c319c258ee7d1cce",
+      "paper_id": "Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS",
+      "source_path": "output/Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS.md",
+      "section_heading": "Approach & methods",
+      "section_start_line": 98,
+      "section_end_line": 112,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two types of domestic fisheries did the study focus on?",
+      "ground_truth_answer": "The shoreline subsistence fishery and the artisanal, small-boat bottom-fishery (artisanal bottom fisheries).",
+      "ground_truth_chunks": [
+        "- a) A shoreline subsistence fishery;",
+        "- b) An artisanal, small-boat fishery for bottom-fish;",
+        "Thus, our focus is on (a) the shoreline subsistence and (b) the artisanal bottom fisheries."
+      ]
+    },
+    {
+      "record_id": "506d5b3cc2232d76d68ea454",
+      "paper_id": "Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS",
+      "source_path": "output/Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS.md",
+      "section_heading": "Subsistence fisheries",
+      "section_start_line": 119,
+      "section_end_line": 130,
+      "model": "openai:gpt-4o-mini",
+      "question": "What per caput subsistence catch rate was assumed for the main island (Tutuila) in 1950?",
+      "ground_truth_answer": "A per caput catch rate of 36.3 kg·person-1·year -1 (80 lbs·person-1·year-1) was assumed for Tutuila in 1950.",
+      "ground_truth_chunks": [
+        "For 1950, we assumed a *per caput* catch rate of 36.3 kg·person-1·year -1 (80 lbs·person-1·year-1) based on a slightly lower subsistence catch rate than that observed for 'outer islands' (see below) due to the higher opportunities for alternative livelihoods available on Tutuila in 1950 (P. Craig, National Park American Samoa, pers. comm.);"
+      ]
+    },
+    {
+      "record_id": "c353c7391fc2fe87eae57438",
+      "paper_id": "Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS",
+      "source_path": "output/Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS.md",
+      "section_heading": "Species composition",
+      "section_start_line": 138,
+      "section_end_line": 143,
+      "model": "openai:gpt-4o-mini",
+      "question": "For which years was the taxonomic breakdown of artisanal catches reported by WPacFIN retained as presented?",
+      "ground_truth_answer": "1988 to 2002.",
+      "ground_truth_chunks": [
+        "The taxonomic breakdown of artisanal catches as reported by WPacFIN for 1988 to 2002 was retained as presented.",
+        "We derived this average proportional breakdown from the reported WPacFIN data for 1989-1993, to exclude the gear specific effects on species composition due to the rapid growth of SCUBA-based spear-fishing between 1994 and 2001, which biased the species breakdowns (P. Craig, unpublished data)."
+      ]
+    },
+    {
+      "record_id": "8e4483bda0e1d701887bf1fc",
+      "paper_id": "Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS",
+      "source_path": "output/Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS.md",
+      "section_heading": "Total catch estimates",
+      "section_start_line": 150,
+      "section_end_line": 157,
+      "model": "openai:gpt-4o-mini",
+      "question": "What maximum annual catch did FAO report for American Samoa until the mid-1990s, and how was it mainly classified?",
+      "ground_truth_answer": "Until the mid-1990s FAO reported a maximum of about 150 t·year-1, mainly as 'miscellaneous marine fishes' (which likely contain pelagic species).",
+      "ground_truth_chunks": [
+        "Until the mid 1990s, FAO reports a maximum of about 150 t·year-1 , mainly as 'miscellaneous marine fishes', which likely contain pelagic species.",
+        "The data reported by WPacFIN for non-pelagic species, representing the regional (NOAA Pacific) and local (American Samoa) official statistics for the\n\nsmall-boat based artisanal fisheries, match the FAO (non-pelagic) pattern fairly well, at least for the latter years (Figure 3.1.1a)."
+      ]
+    },
+    {
+      "record_id": "183353c6a7c5fead2001039d",
+      "paper_id": "Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS",
+      "source_path": "output/Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS.md",
+      "section_heading": "Subsistence fisheries catches",
+      "section_start_line": 158,
+      "section_end_line": 163,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what factor do the officially reported landings (NOAA and FAO) underestimate historic catch levels compared to the reconstructed estimates?",
+      "ground_truth_answer": "They underestimate historic catch levels by a factor of 15.",
+      "ground_truth_chunks": [
+        "Thus, the officially reported landings (NOAA and FAO) underestimate historic catch levels as reconstructed here by a factor of 15, and fail to demonstrate the dramatic decline in coral reef fisheries resources experienced by the local population (Figure 3.1.1c).",
+        "The overall picture for American Samoa, however, is one of dramatically declining levels of total catches in the non-commercial sector of the fisheries, from an estimated peak of about 750 t in 1950, to the present low of about 100 t in 2002 (Figure 3.1.1b)."
+      ]
+    },
+    {
+      "record_id": "c33e4ecca43de3081f66f9ea",
+      "paper_id": "Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS",
+      "source_path": "output/Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS.md",
+      "section_heading": "Data quality checks",
+      "section_start_line": 168,
+      "section_end_line": 175,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did catch per area of coral reef for the main island Tutuila change between 1950 and 2000?",
+      "ground_truth_answer": "Rates declined from 5.5 t·km-2·year-1 in 1950 to about 0.6 t·km-2·year-1 in 2000.",
+      "ground_truth_chunks": [
+        "This dramatic decline in area catch rates is driven by the main island, Tutuila, where rates declined from 5.5 t·km-2·year-1 to about 0.6 t·km-2 ·year-1 between 1950 and 2000 (Table 3.1.1).",
+        "Catch per area of coral reef (to 50 m depth), based on the reconstructed catches for the whole of American Samoa, ranged from about 1.6 t·km-2·year -1 at the start of the time series to 0.3 t·km-2·year-1 in 2000 (Table 3.1.1)."
+      ]
+    },
+    {
+      "record_id": "9d0e901273150ddf4a01a41f",
+      "paper_id": "Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS",
+      "source_path": "output/Zeller-2005-Reconstruct.coral.reef.fisheries.AS/Zeller-2005-Reconstruct.coral.reef.fisheries.AS.md",
+      "section_heading": "<span id=\"page-26-0\"></span>4. Conclusions",
+      "section_start_line": 232,
+      "section_end_line": 273,
+      "model": "openai:gpt-4o-mini",
+      "question": "By what percentage did the reconstruction of historic catches for all islands combined decline between 1950 and 2002?",
+      "ground_truth_answer": "About 72%.",
+      "ground_truth_chunks": [
+        "- 1) The reconstruction of historic catches for all islands combined indicated a substantial decline of about 72 % between 1950 and 2002 (Figure 4.1)."
+      ]
+    }
+  ],
+  "failures": []
+}

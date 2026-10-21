@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS.md",
+  "source_sha256": "80f1b6c805cd838ee3f62611d1589f3a43f8f9f6b736adabfb4ee11380b34bbc",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "d8f79384cdbb6891da05c64f",
+      "paper_id": "Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS",
+      "source_path": "output/Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS.md",
+      "section_heading": "Abundance of humpback whales in Oceania (South Pacific), 1999 to 2004",
+      "section_start_line": 5,
+      "section_end_line": 17,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which institution is listed for affiliation number 5 in the section?",
+      "ground_truth_answer": "Alaska Fisheries Science Center, National Marine Mammal Laboratory, 7600 Sand Point Way NE, Seattle, WA 98115, USA",
+      "ground_truth_chunks": [
+        "- 5 Alaska Fisheries Science Center, National Marine Mammal Laboratory, 7600 Sand Point Way NE, Seattle, WA 98115, USA"
+      ]
+    },
+    {
+      "record_id": "784fe43b2ec707fbea9f003a",
+      "paper_id": "Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS",
+      "source_path": "output/Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS.md",
+      "section_heading": "ABSTRACT",
+      "section_start_line": 18,
+      "section_end_line": 23,
+      "model": "openai:gpt-4o-mini",
+      "question": "What overall abundance estimate and coefficient of variation (CV) for humpback whales in Oceania (stocks E2+E3+F) are reported in the abstract?",
+      "ground_truth_answer": "An overall estimate of N = 3827 with CV = 0.12.",
+      "ground_truth_chunks": [
+        "An overall estimate of N = 3827 (CV, 0.12) for Oceania (stocks E2+E3+F) was calculated with the closed population model by considering resightings across the four primary regions combined."
+      ]
+    },
+    {
+      "record_id": "e50ad0fbed901da82dd5a4f7",
+      "paper_id": "Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS",
+      "source_path": "output/Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 24,
+      "section_end_line": 35,
+      "model": "openai:gpt-4o-mini",
+      "question": "For which years does the paper report a full reconciliation of humpback whale photo-identification catalogues from the four primary and eight secondary regions?",
+      "ground_truth_answer": "1999-2004.",
+      "ground_truth_chunks": [
+        "Here we report the results of a full reconciliation (within- and between-region matching) of catalogues from the four primary study regions and the eight secondary regions for the years 1999-2004.",
+        "We then present preliminary estimates of abundance derived from closed-population capture-recapture (sighting-resighting) models for the primary regions, except for the Cook Islands, where there have been no resights between years."
+      ]
+    },
+    {
+      "record_id": "6f60e53743691c500f2da6c9",
+      "paper_id": "Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS",
+      "source_path": "output/Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS.md",
+      "section_heading": "Primary study regions",
+      "section_start_line": 38,
+      "section_end_line": 59,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which primary study region reported that more than 100 days of surveys were conducted in each of the synoptic years (1999–2004)?",
+      "ground_truth_answer": "The Cook Islands (Southern Cook Islands).",
+      "ground_truth_chunks": [
+        "More than 100 days of surveys were conducted in each of the synoptic years."
+      ]
+    },
+    {
+      "record_id": "05f2526d64aa2aebb45d0ba5",
+      "paper_id": "Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS",
+      "source_path": "output/Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS.md",
+      "section_heading": "Secondary study regions",
+      "section_start_line": 60,
+      "section_end_line": 63,
+      "model": "openai:gpt-4o-mini",
+      "question": "In which years were photographs collected in Fiji according to the 'Secondary study regions' section?",
+      "ground_truth_answer": "2002 and 2003.",
+      "ground_truth_chunks": [
+        "Fiji in 2002 and 2003 (D. Paton, S. Childerhouse and N Gibbs);"
+      ]
+    },
+    {
+      "record_id": "efde87dd23ab6d55a4c2216e",
+      "paper_id": "Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS",
+      "source_path": "output/Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS.md",
+      "section_heading": "Capture-recapture (sighting-resighting) analysis",
+      "section_start_line": 72,
+      "section_end_line": 77,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which closed population capture-mark-recapture models and variants were considered in the analysis?",
+      "ground_truth_answer": "Models Mt, Mh, and Mth were considered; two variants of Mt (Chao and Darroch) and two variants of Mh (the jackknife and Chao) were also used.",
+      "ground_truth_chunks": [
+        "we considered models Mt, Mh, and Mth (Seber, 1986; Seber and Schwarz, 1999; Borchers et al., 2002; Seber, 2002; Amstrup et al., 2005).",
+        "We considered two variants of Mt (Chao and Darroch) and two variants of Mh (the jackknife and Chao)."
+      ]
+    },
+    {
+      "record_id": "461e342688614cbb11087458",
+      "paper_id": "Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS",
+      "source_path": "output/Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS.md",
+      "section_heading": "Matching and reconciliation of regional catalogues",
+      "section_start_line": 80,
+      "section_end_line": 87,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many annual sightings and individual humpback whales were included in the fully reconciled catalogues for 1999-2004?",
+      "ground_truth_answer": "1148 annual sightings of 1021 individual humpback whales.",
+      "ground_truth_chunks": [
+        "The fully reconciled catalogues of humpback whales individual identification photographs for the years 1999- 2004 includes 1148 annual sightings of 1021 individual humpback whales (Table 1)."
+      ]
+    },
+    {
+      "record_id": "b43cd6bfc25c6ffcbe7ad2e0",
+      "paper_id": "Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS",
+      "source_path": "output/Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS.md",
+      "section_heading": "Regional estimates of abundance",
+      "section_start_line": 88,
+      "section_end_line": 95,
+      "model": "openai:gpt-4o-mini",
+      "question": "What abundance and approximate coefficient of variation (CV) did the closed, multi-sample models estimate for New Caledonia?",
+      "ground_truth_answer": "About 400 whales with a CV ~0.18.",
+      "ground_truth_chunks": [
+        "Using Dataset #1, described above, we estimated abundance for New Caledonia, Tonga and French Polynesia for the years 1999-2004 using the closed, multi-sample models (Table 2).",
+        "The results showed reasonable agreement across models for New Caledonia, suggesting an abundance of about 400 whales with a CV~0.18."
+      ]
+    },
+    {
+      "record_id": "16600d6861406148b9922e67",
+      "paper_id": "Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS",
+      "source_path": "output/Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS.md",
+      "section_heading": "Oceania-wide abundance",
+      "section_start_line": 96,
+      "section_end_line": 103,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the unweighted average of the year-to-year Petersen two-sample model estimates for the four regions combined?",
+      "ground_truth_answer": "3550.",
+      "ground_truth_chunks": [
+        "The year-to-year estimates from the Petersen two-sample model for the four regions combined ranged from ~3,000 to ~4,000 with an unweighted average of 3550.",
+        "Estimates from the multi-year, closed population models range from ~3,000 to ~4,000 (CV~0.11) except for the Mh jackknife, which, again, gave lower and estimates of abundance."
+      ]
+    },
+    {
+      "record_id": "89005ce0e0f599674c38ca7b",
+      "paper_id": "Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS",
+      "source_path": "output/Baker-2006-Abund.humpback.whales.AS/Baker-2006-Abund.humpback.whales.AS.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 104,
+      "section_end_line": 115,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which capture–recapture model did the authors state is likely to provide the most robust estimates of abundance for Tonga and French Polynesia?",
+      "ground_truth_answer": "The Mth model.",
+      "ground_truth_chunks": [
+        "- 1) The year-to-year differences in estimates for Tonga and French Polynesia and the known heterogeneity of individual capture probabilities in other populations of humpback whales, suggest that the Mth model is likely to provide the most robust estimates of abundance presented here. For this reason, these estimates were used in the accompanying report on modelling recovery of humpback whales in Ocean (Jackson et al. 2006)."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Garrison et al 2007 Mar Poll Bull/Garrison et al 2007 Mar Poll Bull.md",
+  "source_sha256": "7cd68ae7c88ae98601a2609e03ffebff416cdccc58c5785d175ec6b27a8633c5",
+  "status": "complete",
+  "selected_section_count": 2,
+  "successful_record_count": 2,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "150df61417733c8bd5bc8cf8",
+      "paper_id": "Garrison et al 2007 Mar Poll Bull/Garrison et al 2007 Mar Poll Bull",
+      "source_path": "output/Garrison et al 2007 Mar Poll Bull/Garrison et al 2007 Mar Poll Bull.md",
+      "section_heading": "Garrison et al 2007 Mar Poll Bull.md",
+      "section_start_line": 1,
+      "section_end_line": 11,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the DOI listed in this section?",
+      "ground_truth_answer": "10.1016/j.marpolbul.2007.08.012",
+      "ground_truth_chunks": [
+        "0025-326X/\\$ - see front matter 2007 Elsevier Ltd. All rights reserved. doi:10.1016/j.marpolbul.2007.08.012"
+      ]
+    },
+    {
+      "record_id": "fa91fc0e42751b9f63a17fd4",
+      "paper_id": "Garrison et al 2007 Mar Poll Bull/Garrison et al 2007 Mar Poll Bull",
+      "source_path": "output/Garrison et al 2007 Mar Poll Bull/Garrison et al 2007 Mar Poll Bull.md",
+      "section_heading": "Identifying nutrient sources to three lagoons at Ofu and Olosega, American Samoa using d15N of benthic macroalgae",
+      "section_start_line": 12,
+      "section_end_line": 198,
+      "model": "openai:gpt-4o-mini",
+      "question": "What major sources of nutrients to the three Ofu–Olosega lagoons did the authors conclude were most likely at the time of the study?",
+      "ground_truth_answer": "The authors concluded the major sources of nutrients were most likely oceanic/atmospheric, and not animal/anthropogenic in origin.",
+      "ground_truth_chunks": [
+        "The low  $\\delta^{15}$ N values of the macroalgae, the low nutrient concentrations of lagoon waters, the lack of correlation between  $\\delta^{15}N$  values and distance from shore, and the low concentrations of nutrients in well-water samples indicate that the major sources of nutrients to the three Ofu-Olosega lagoons at the time of this study were most likely oceanic/atmospheric, and not animal/anthropogenic in origin.",
+        "| Dictyosphaeria versluysii | $1.0 \\pm 0.7$                                   | $0.9 \\pm 0.2$                 | $12.6 \\pm 3.1$              |\n| Halimeda sp.              | $3.8 \\pm 0.6$                                   | $0.6 \\pm 0.2$                 | $13.8 \\pm 7.4$              |"
+      ]
+    }
+  ],
+  "failures": []
+}

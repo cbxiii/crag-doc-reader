@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "source_path": "output/1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff.md",
+  "source_sha256": "98f7efdc44b986b97f01644e1ea31b4060ca05d8efd879455993de32d3a4086c",
+  "status": "complete",
+  "selected_section_count": 9,
+  "successful_record_count": 9,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "5d1d5a7b97bca0e3bed79442",
+      "paper_id": "1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff",
+      "source_path": "output/1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff.md",
+      "section_heading": "Abstract",
+      "section_start_line": 7,
+      "section_end_line": 10,
+      "model": "openai:gpt-4o-mini",
+      "question": "What hypothesis does the author propose to explain outbreaks of Acanthaster planci?",
+      "ground_truth_answer": "The author hypothesizes that terrestrial runoff from heavy rains (following the dry season or a record drought) may provide enough nutrients to stimulate large phytoplankton blooms that produce enough food for A. planci larvae, increasing larval survival and resulting in adult outbreaks about 3 years later.",
+      "ground_truth_chunks": [
+        "I hypothesize that, on rare occasions, terrestrial runoff from heavy rains (following the dry season or a record drought) may provide enough nutrients to stimulate phytoplankton blooms of sufficient size to produce enough food for the larvae of A. planci.",
+        "The increased survival of larvae results in an outbreak of adults 3 yr later."
+      ]
+    },
+    {
+      "record_id": "54a7aa2baf866be635fb0a3e",
+      "paper_id": "1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff",
+      "source_path": "output/1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff.md",
+      "section_heading": "Introduction",
+      "section_start_line": 11,
+      "section_end_line": 16,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which environmental factor was correlated with outbreaks of Acanthaster planci according to the Introduction?",
+      "ground_truth_answer": "Rainfall with terrestrial runoff.",
+      "ground_truth_chunks": [
+        "Only rainfall with terrestrial runoff was correlated with the outbreaks and evidence for this is presented in this paper."
+      ]
+    },
+    {
+      "record_id": "ebaeaeafe5dfd86848895f7a",
+      "paper_id": "1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff",
+      "source_path": "output/1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff.md",
+      "section_heading": "Observations",
+      "section_start_line": 17,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many Acanthaster planci individuals were removed from the ocean less than a year after the first group was observed at Tutuila, American Samoa?",
+      "ground_truth_answer": "A total of 486 933 individuals were removed from the ocean less than a year from the time the first group was observed.",
+      "ground_truth_chunks": [
+        "The first group of A. planci (roughly 50 per 30 min) was seen in November 1977 at Fagatuitui Cove, northeast of Fagasa Bay on the north coast of Tutuila (Wass, 1979).",
+        "In early 1978, 384 477 individuals were collected from two small bays on the northeast coast (Fig. 2). A total of 486 933 individuals were removed from the ocean less than a year from the time the first group was observed (Birkeland and Randall, 1979)."
+      ]
+    },
+    {
+      "record_id": "8ed90db018ee927ada2547e4",
+      "paper_id": "1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff",
+      "source_path": "output/1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff.md",
+      "section_heading": "Outbreaks and Rainfall Records",
+      "section_start_line": 47,
+      "section_end_line": 102,
+      "model": "openai:gpt-4o-mini",
+      "question": "What amount of rain fell on Saipan in a 48-hour period in August 1978 that was used to predict an Acanthaster planci outbreak three years later?",
+      "ground_truth_answer": "45 inches (114 cm) of rain in a 48-h period.",
+      "ground_truth_chunks": [
+        "There were 45 inches (114 cm) of rain in a 48-h period on Saipan in August 1978.",
+        "Predictions were made (Birkeland and Randall, 1979; Birkeland, 1980) that an outbreak would occur on Saipan in the summer of 1981, three years after the rains."
+      ]
+    },
+    {
+      "record_id": "7dbce926d7b8e0fbfc536dc3",
+      "paper_id": "1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff",
+      "source_path": "output/1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff.md",
+      "section_heading": "Wet and Dry Typhoons",
+      "section_start_line": 103,
+      "section_end_line": 110,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did Typhoon Karen (1962) on Guam lead to an increase in Acanthaster planci abundance?",
+      "ground_truth_answer": "No. Typhoon Karen (1962) was a dry typhoon that caused tremendous structural damage on Guam but brought no flooding, and it was not followed by an increase in abundance of A. planci.",
+      "ground_truth_chunks": [
+        "Typhoon Karen (1962) was a dry typhoon with a wind intensity equivalent to that of Typhoon Pamela; it caused tremendous structural damage on Guam, but brought no flooding. Typhoon Karen was not followed by an increase in abundance of *A. planci*."
+      ]
+    },
+    {
+      "record_id": "ebc04b26725f4f58c7eec271",
+      "paper_id": "1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff",
+      "source_path": "output/1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff.md",
+      "section_heading": "Role of Rainfall and Terrestrial Runoff",
+      "section_start_line": 111,
+      "section_end_line": 116,
+      "model": "openai:gpt-4o-mini",
+      "question": "When does the main spawning season of Acanthaster planci occur relative to the rainy season, and what are the calendar months for the main spawning seasons north and south of the equator?",
+      "ground_truth_answer": "South of the equator the main spawning season is November–January, north of the equator it is June–August, and in both regions these periods begin about a month after the beginning of the rainy season.",
+      "ground_truth_chunks": [
+        "The main spawning season of Acanthaster planci south of the equator is November-January (Lucas, 1973).",
+        "The main spawning season north of the equator is June-August (Yamazato and Kiyan, 1973).",
+        "In both regions, these periods begin about a month after the beginning of the rainy season."
+      ]
+    },
+    {
+      "record_id": "cfecb5c6ae5f43392cbba01a",
+      "paper_id": "1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff",
+      "source_path": "output/1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff.md",
+      "section_heading": "High Islands and Atolls",
+      "section_start_line": 117,
+      "section_end_line": 141,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Marsh and Tsuda (1973) data summarized in Table 4, how many high islands and how many atolls were recorded as 'Conditions 3 to 5 (abundant A. planci)'?",
+      "ground_truth_answer": "19 high islands and 2 atolls.",
+      "ground_truth_chunks": [
+        "Outbreaks of Acanthaster planci have a significant tendency to occur around high islands and rarely around atolls (Table 4).",
+        "| Conditions 3 to 5 (abundant A. planci)             | 19              | 2                       | 21    |"
+      ]
+    },
+    {
+      "record_id": "6bab7b76a9bbaaaffaacf6b7",
+      "paper_id": "1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff",
+      "source_path": "output/1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff.md",
+      "section_heading": "Water Residence Time in Lagoons",
+      "section_start_line": 142,
+      "section_end_line": 151,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, why might Ponape's lagoon support Acanthaster planci larvae while Kosrae may not?",
+      "ground_truth_answer": "Ponape's lagoon may have a long enough water residence time to allow phytoplankton to build up a standing crop large enough to support A. planci larvae, whereas waters off Kosrae probably move away from the island before phytoplankton have undergone enough cell divisions to build up a sufficient standing crop.",
+      "ground_truth_chunks": [
+        "Ponape is surrounded by a lagoon which is enclosed by a barrier reef. Kosrae is surrounded by fringing reefs.",
+        "Although the waters off Kosrae contain enough nutrients to allow phytoplankton blooms (Cowan and Clayshulte, 1980), the waters probably move away from the island before the phytoplankton have undergone enough cell divisions to build up a standing crop sufficient to support\n\nlarvae of A. planci.",
+        "At Ponape, the lagoon may act as an incubator with the water in the lagoon having a long enough residence time to allow phytoplankton to build up a standing crop large enough to support larvae of A. planci."
+      ]
+    },
+    {
+      "record_id": "5af6c6d4fe06c9d2b128337b",
+      "paper_id": "1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff",
+      "source_path": "output/1982 COTS TerrestrialRunoff/1982 COTS TerrestrialRunoff.md",
+      "section_heading": "Discussion",
+      "section_start_line": 152,
+      "section_end_line": 185,
+      "model": "openai:gpt-4o-mini",
+      "question": "What specific meteorological conditions 3 years prior were found to be very significantly associated with initial outbreaks of Acanthaster planci?",
+      "ground_truth_answer": "A very significant association was found between heavy rains (>100 cm in the spawning season) following droughts (<25 cm of precipitation in the 4 months prior to the spawning season) or intensive rains (>30 cm in 24 h), and outbreaks of Acanthaster planci three years later.",
+      "ground_truth_chunks": [
+        "An examination of weather records produced a significant association between initial outbreaks of A. planci and unusually heavy rains 3 yr previous, but heavy rains (>100 cm per spawning season) was too general a category for predictive value. Therefore, I examined those situations which would facilitate nutrient runoff and found a very significant association between heavy rains (>100 cm in spawning season) following droughts (<25 cm of precipitation in 4 months prior to the spawning season) or intensive rains (>30 cm in 24 h) and outbreaks of A. planci 3 yr later.",
+        "Heavy runoff may be favorable to the survival of larvae of Acanthaster planci, but the main benefit of the runoff is not the lower salinity itself (a proximate adaptation), but the ultimate increase in nutrients (nitratenitrogen and reactive phosphates) which stimulate phytoplankton blooms (Aleem, 1972; Marsh, 1977) which, in turn, provide food for the larvae."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/CRAG Dive Manual/CRAG Dive Manual.md",
+  "source_sha256": "24a482d28c424e4cdf64578e8da6e7264ad8153fddb2dcd20c5c86e60d9c65d4",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "d2d59c4ba5959348dcf7d437",
+      "paper_id": "CRAG Dive Manual/CRAG Dive Manual",
+      "source_path": "output/CRAG Dive Manual/CRAG Dive Manual.md",
+      "section_heading": "Approved By",
+      "section_start_line": 3,
+      "section_end_line": 15,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who is listed as the CRAG Dive Safety Officer in the 'Approved By' section?",
+      "ground_truth_answer": "Matthew Macdonald, CRAG Dive Safety Officer",
+      "ground_truth_chunks": [
+        "Matthew Macdonald, CRAG Dive Safety Officer",
+        "Sana Lynch, CRAG<br>Coordinator"
+      ]
+    },
+    {
+      "record_id": "386cb96530b2ca5e50d18800",
+      "paper_id": "CRAG Dive Manual/CRAG Dive Manual",
+      "source_path": "output/CRAG Dive Manual/CRAG Dive Manual.md",
+      "section_heading": "The DCB:",
+      "section_start_line": 183,
+      "section_end_line": 195,
+      "model": "openai:gpt-4o-mini",
+      "question": "What actions can the DCB recommend regarding diving authorizations?",
+      "ground_truth_answer": "The DCB may recommend the issue, reissue, or revocation of diving authorizations, at the discretion of the DCB.",
+      "ground_truth_chunks": [
+        "- Recommend the issue, reissue, or the revocation of diving authorizations. This will be at the discretion of the DCB."
+      ]
+    },
+    {
+      "record_id": "0e091630003efa7553b10ed6",
+      "paper_id": "CRAG Dive Manual/CRAG Dive Manual",
+      "source_path": "output/CRAG Dive Manual/CRAG Dive Manual.md",
+      "section_heading": "<span id=\"page-11-3\"></span>2.2.1. Dive Plan",
+      "section_start_line": 256,
+      "section_end_line": 277,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who must formulate and submit the dive plan and emergency management plan before conducting any dive under CRAG?",
+      "ground_truth_answer": "The dive supervisor for a proposed dive must formulate a dive plan and emergency management plan and submit them to the DSO for review.",
+      "ground_truth_chunks": [
+        "Before conducting any dive under the auspices of CRAG, the dive supervisor for a proposed dive must formulate a dive plan (Appendix 7) and emergency management plan (Appendix 11) to be submitted to the DSO for review."
+      ]
+    },
+    {
+      "record_id": "2ca5fa490d61e4a85242a2f2",
+      "paper_id": "CRAG Dive Manual/CRAG Dive Manual",
+      "source_path": "output/CRAG Dive Manual/CRAG Dive Manual.md",
+      "section_heading": "<span id=\"page-14-1\"></span>2.3.3. Boat Dives",
+      "section_start_line": 340,
+      "section_end_line": 368,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the minimum size of the Diver Down or Alpha flag that must be displayed from the vessel's highest point any time a diver is in the water?",
+      "ground_truth_answer": "At least 20 x 24 inches.",
+      "ground_truth_chunks": [
+        "- A Diver Down flag or an Alpha flag of at least 20 x 24 inches must be displayed from the vessel's highest point any time a diver is in the water."
+      ]
+    },
+    {
+      "record_id": "40c20c25281ae355e3a0b709",
+      "paper_id": "CRAG Dive Manual/CRAG Dive Manual",
+      "source_path": "output/CRAG Dive Manual/CRAG Dive Manual.md",
+      "section_heading": "<span id=\"page-18-2\"></span>2.4.5. Required Incident Reporting",
+      "section_start_line": 440,
+      "section_end_line": 466,
+      "model": "openai:gpt-4o-mini",
+      "question": "To whom must diving incidents requiring recompression treatment or resulting in injury or death be reported, and when?",
+      "ground_truth_answer": "They must be reported to DAN immediately and to the CRAG DCB once the diver is stable.",
+      "ground_truth_chunks": [
+        "All diving incidents requiring recompression treatment or resulting in injury or death, must be reported to DAN immediately and to the CRAG DCB once the diver is stable.",
+        "Any near misses must also be reported to the CRAG DCB."
+      ]
+    },
+    {
+      "record_id": "cbd7b6225af451b3d90c4a8b",
+      "paper_id": "CRAG Dive Manual/CRAG Dive Manual",
+      "source_path": "output/CRAG Dive Manual/CRAG Dive Manual.md",
+      "section_heading": "<span id=\"page-23-1\"></span>4.1. General Policy",
+      "section_start_line": 543,
+      "section_end_line": 546,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who must authorize CRAG employees to engage in scientific diving?",
+      "ground_truth_answer": "They must be authorized by the CRAG DSO.",
+      "ground_truth_chunks": [
+        "This section describes the training and performance standards for CRAG scientific divers and represents the minimum required level of knowledge and skills.",
+        "No person employed by CRAG shall engage in scientific diving unless authorized by the CRAG DSO to do so.",
+        "Any candidate who does not convince the DSO that they possess the necessary judgement, under diving conditions, for the safety of the diver and their buddy, may be denied CRAG diving privileges."
+      ]
+    },
+    {
+      "record_id": "cee9c957e0e7db9bd0968133",
+      "paper_id": "CRAG Dive Manual/CRAG Dive Manual",
+      "source_path": "output/CRAG Dive Manual/CRAG Dive Manual.md",
+      "section_heading": "<span id=\"page-26-1\"></span>4.4.3. Restricted Diver",
+      "section_start_line": 644,
+      "section_end_line": 660,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who can classify an active diver as a restricted diver?",
+      "ground_truth_answer": "The DSO or DCB may classify an active diver as a restricted diver.",
+      "ground_truth_chunks": [
+        "Active divers may be classified as a restricted diver by the DSO or DCB if they:",
+        "- Do not demonstrate safe underwater practices.\n- Fail to abide by this dive manual.\n- Fail to meet administrative requirements (e.g., logging dives, completing dive plans, etc.).\n- Fail to properly maintain their equipment."
+      ]
+    },
+    {
+      "record_id": "95fc73654090c8106c794fda",
+      "paper_id": "CRAG Dive Manual/CRAG Dive Manual",
+      "source_path": "output/CRAG Dive Manual/CRAG Dive Manual.md",
+      "section_heading": "<span id=\"page-30-1\"></span>5.6. Data Protection",
+      "section_start_line": 740,
+      "section_end_line": 746,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long are medical records of visiting divers retained?",
+      "ground_truth_answer": "Medical records of visiting divers will be kept for two months after that person has stopped diving under the auspices of CRAG.",
+      "ground_truth_chunks": [
+        "- Medical records belonging to CRAG employees will be kept for a maximum of two years after that employee has left. Medical records of visiting divers will be kept for two months after that person has stopped diving under the auspices of CRAG."
+      ]
+    },
+    {
+      "record_id": "81c4e201d0ea443b79c0cf1e",
+      "paper_id": "CRAG Dive Manual/CRAG Dive Manual",
+      "source_path": "output/CRAG Dive Manual/CRAG Dive Manual.md",
+      "section_heading": "<span id=\"page-51-0\"></span>Appendix 8 – Dive Checklists",
+      "section_start_line": 1205,
+      "section_end_line": 1242,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Appendix 8 – Dive Checklists, what signs of decompression sickness (DCS) are listed?",
+      "ground_truth_answer": "Signs of DCS include: Pain, confusion, coughing up blood, difficult urinating, dizziness or vertigo, fatigue, headache, loss of hearing or ringing in ears, memory loss, nausea, rash, sensitive or itchy skin, shortness of breath, swelling, tingling, numbness, or paralysis, unconsciousness, uncontrollable shaking, visual disturbances, vomiting, and weakness.",
+      "ground_truth_chunks": [
+        "\\*Signs of DCS include: Pain, confusion, coughing up blood, difficult urinating, dizziness or vertigo, fatigue, headache, loss of hearing or ringing in ears, memory loss, nausea, rash, sensitive or itchy skin, shortness of breath, swelling, tingling, numbness, or paralysis, unconsciousness, uncontrollable shaking, visual disturbances, vomiting, and weakness."
+      ]
+    },
+    {
+      "record_id": "0824bbf26fe4a669541ace2d",
+      "paper_id": "CRAG Dive Manual/CRAG Dive Manual",
+      "source_path": "output/CRAG Dive Manual/CRAG Dive Manual.md",
+      "section_heading": "Gear-Specific Guidelines for Disinfection",
+      "section_start_line": 1351,
+      "section_end_line": 1376,
+      "model": "openai:gpt-4o-mini",
+      "question": "How should non-sensitive equipment that comes in contact with the bottom be decontaminated after each dive?",
+      "ground_truth_answer": "Soak non-sensitive equipment and tools for 10 minutes in a 1% bleach solution (1 qt. bleach/2 gal. water), then rinse with fresh water and air dry.",
+      "ground_truth_chunks": [
+        "Tools, collection bags, sampling gear, transect tapes, clipboards, underwater slates, weight belts and other equipment that comes in contact with the bottom should be decontaminated using diluted chlorine bleach.",
+        "- After each dive, soak non-sensitive equipment and tools for 10 minutes in a 1% bleach solution (1 qt. bleach/2 gal. water prepared in a 5-gallon bucket with a lid).",
+        "- Rinse with fresh water, air dry."
+      ]
+    }
+  ],
+  "failures": []
+}

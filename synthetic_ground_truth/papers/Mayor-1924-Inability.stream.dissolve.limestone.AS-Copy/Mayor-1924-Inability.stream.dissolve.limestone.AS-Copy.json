@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Mayor-1924-Inability.stream.dissolve.limestone.AS-Copy/Mayor-1924-Inability.stream.dissolve.limestone.AS-Copy.md",
+  "source_sha256": "04571cd115b727b3e7d70e8733cae03b4c97c87e3e3157b3bf23f986fbc96498",
+  "status": "complete",
+  "selected_section_count": 1,
+  "successful_record_count": 1,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "c295b0d1e4fb59ac1d88b4c5",
+      "paper_id": "Mayor-1924-Inability.stream.dissolve.limestone.AS-Copy/Mayor-1924-Inability.stream.dissolve.limestone.AS-Copy",
+      "source_path": "output/Mayor-1924-Inability.stream.dissolve.limestone.AS-Copy/Mayor-1924-Inability.stream.dissolve.limestone.AS-Copy.md",
+      "section_heading": "INABILITY OF STREAM-WATER TO DISSOLVE SUBMARINE LIMESTONES.",
+      "section_start_line": 1,
+      "section_end_line": 300,
+      "model": "openai:gpt-4o-mini",
+      "question": "What ratio of Fagaalu spring-water to sea-water produced an approximately neutral solution in the mixing experiments reported?",
+      "ground_truth_answer": "Mixing 100 volumes of Fagaalu spring-water with 20 volumes of sea-water produced an approximately neutral solution (about PH 6.95–7.0).",
+      "ground_truth_chunks": [
+        "```\n100 c. c. spring-water and 100 c. c. sea-water gave a mixture of 8.0 PH. 100 c. c. spring-water and 25 c. c. sea-water gave a mixture of 7.1 PH. 100 c. c. spring-water and 20 c. c. sea-water gave a mixture of 6.95 PH. 100 c. c. spring-water and 10 c. c. sea-water gave a mixture of 6.6 PH.\n```",
+        "Thus 20 volumes of sea-water give a neutral solution if mixed with 100 volumes of Fagaalu spring-water at 25° C."
+      ]
+    }
+  ],
+  "failures": []
+}

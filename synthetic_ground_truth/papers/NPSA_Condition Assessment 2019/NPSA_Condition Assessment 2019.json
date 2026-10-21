@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019.md",
+  "source_sha256": "ab676cf884d2b69021d0ad022b5b5e2edf09c5aa66ed8bf36b0f772c49d619dd",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "415fd019780841ffb679271f",
+      "paper_id": "NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019",
+      "source_path": "output/NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019.md",
+      "section_heading": "National Park of American Samoa",
+      "section_start_line": 17,
+      "section_end_line": 50,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the Natural Resource Report number for the National Park of American Samoa?",
+      "ground_truth_answer": "Natural Resource Report NPS/NPSA/NRR—2019/1894",
+      "ground_truth_chunks": [
+        "Natural Resource Report NPS/NPSA/NRR—2019/1894",
+        "Craig, P., J. Wimpy, N. Reigner, W. Valliere, and T. Cummings. 2019. Natural resource condition assessment: National Park of American Samoa. Natural Resource Report NPS/NPSA/NRR— 2019/1894. National Park Service, Fort Collins, Colorado."
+      ]
+    },
+    {
+      "record_id": "602cc6fda09a00590f453214",
+      "paper_id": "NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019",
+      "source_path": "output/NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019.md",
+      "section_heading": "<span id=\"page-40-0\"></span>Invasive species",
+      "section_start_line": 712,
+      "section_end_line": 721,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many invasive plant species threaten NPSA in American Samoa?",
+      "ground_truth_answer": "At least 105 invasive plant species.",
+      "ground_truth_chunks": [
+        "NPSA is now threatened by at least 105 invasive plant species that have been identified as disruptive or potentially disruptive in American Samoa (Space and Flynn 2000).",
+        "One example is the *tamaligi* tree (*Falcataria moluccana*) which spread across Tutuila's forested lands during the past 30 years.",
+        "In response, NPSA conducted an aggressive control program. It killed over 19,000 invasive trees within park lands and surrounding areas, and restored 24 km2 of wildlife habitat on Tutuila and 2 km2 on Ta'u (T. Togia, pers. com., 2015)."
+      ]
+    },
+    {
+      "record_id": "1579d6615f3f5954e792d9d5",
+      "paper_id": "NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019",
+      "source_path": "output/NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019.md",
+      "section_heading": "Water temperature and salinity profile",
+      "section_start_line": 1196,
+      "section_end_line": 1211,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the three distinctive oceanographic regions observed around Tutuila Island in February 2006 and their characteristics?",
+      "ground_truth_answer": "North coast (A–E): warm (29.5 °C), saline, moderately stratified (temperature in particular), and relatively turbid waters. East coast (E–G): slightly cooler (28.5 °C), less saline, well-mixed, with clear waters. South coast (H–J): cooler, fresher, somewhat stratified, with generally clear water.",
+      "ground_truth_chunks": [
+        "Three distinctive oceanographic regions were observed around Tutuila Island at this time. The north coast (A–E) was characterized by warm (29.5 °C), saline, moderately stratified (temperature in particular), and relatively turbid waters. The east coast (E–G) was slightly cooler (28.5 °C), less saline, well-mixed, with clear waters. The south coast (H-J) was cooler, fresher, somewhat stratified, with generally clear water. Density distribution around the islands was fairly uniform, and beam transmission was generally high (> 90%)."
+      ]
+    },
+    {
+      "record_id": "e8f9f953acce75af93ac8b5b",
+      "paper_id": "NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019",
+      "source_path": "output/NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019.md",
+      "section_heading": "Data needs/gaps",
+      "section_start_line": 1613,
+      "section_end_line": 1616,
+      "model": "openai:gpt-4o-mini",
+      "question": "What consolidation is recommended for the extensive research on temperature-tolerant coral reefs in Ofu lagoon?",
+      "ground_truth_answer": "Consolidate the extensive information into a single document and provide an overview.",
+      "ground_truth_chunks": [
+        "the temperature-tolerant coral reefs in Ofu lagoon have been the subject of extensive research over the past 30 years (over 50 reports and publications).",
+        "It would be useful to consolidate this information into a single document and provide an overview."
+      ]
+    },
+    {
+      "record_id": "c3c836157a174e3d1dd6477d",
+      "paper_id": "NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019",
+      "source_path": "output/NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019.md",
+      "section_heading": "Regional status",
+      "section_start_line": 2163,
+      "section_end_line": 2168,
+      "model": "openai:gpt-4o-mini",
+      "question": "What factors contributed to the historical decline of turtles in Oceania according to this section?",
+      "ground_truth_answer": "Turtles in Oceania suffered major declines after Polynesians arrived about 2,800 years ago, and the decline was probably due to harvesting and the adverse impact of introduced predators (rats, pigs and dogs) that eat turtle hatchlings and eggs.",
+      "ground_truth_chunks": [
+        "Archaeological evidence indicates that turtles in Oceania were formerly more abundant, but they suffered major declines after Polynesians arrived in these islands about 2,800 years ago (e.g., Bjorndal and Jackson 2003, Allen 2007).",
+        "The decline of these animals was probably due to harvesting and the adverse impact of introduced predators (rats, pigs and dogs) that eat turtle hatchlings and eggs."
+      ]
+    },
+    {
+      "record_id": "147749054fbf19270f7bcaa9",
+      "paper_id": "NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019",
+      "source_path": "output/NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019.md",
+      "section_heading": "Habitat maintenance",
+      "section_start_line": 2665,
+      "section_end_line": 2668,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which bird species nest along the upper cliff ridge of Lata Mountain?",
+      "ground_truth_answer": "Tahiti Petrels and Audubon Shearwaters.",
+      "ground_truth_chunks": [
+        "The inaccessible cloud forests are a habitat for native birds, including the Audubon Shearwater (*Puffinus I'herminieri*, and at least two petrels and other seabirds (National Park Service 1997).",
+        "The Tahiti Petrels and Audubon Shearwaters nest along the upper cliff ridge of Lata Mountain."
+      ]
+    },
+    {
+      "record_id": "543783e85824cee918396dbc",
+      "paper_id": "NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019",
+      "source_path": "output/NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019.md",
+      "section_heading": "Forest bird habitat",
+      "section_start_line": 3075,
+      "section_end_line": 3092,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many invasive trees has NPSA killed during its control program?",
+      "ground_truth_answer": "Over 19,000 invasive trees.",
+      "ground_truth_chunks": [
+        "It should be noted that the current condition of NPSA's rainforest has been greatly improved by its invasive species control program. Over the past 30 years, invasive trees (primarily the tamaligi*, Falcataria moluccana*) spread rapidly across about 30% of Tutuila's forested lands, including portions of NPSA's Tutuila Unit. By 2000, *tamaligi* were beginning to dominate the rainforest and outcompete native trees that provided food and habitat for forest birds and other wildlife (Figure 77). In response, NPSA has conducted an aggressive control program for the past 15 years, killing over 19,000 invasive trees from park lands and surrounding areas, and has restored 24 km2 of wildlife habitat on Tutuila and 2 km2 on Ta'u (T. Togia, pers. com. 2017).",
+        "**Figure 77.** Invasive trees. Rapidly spreading invasive tamaligi trees (*Falcataria moluccana*) in NPSA's Tutuila Unit, ca 2005. Numerous dead tamaligi trees, shown here leafless and brown, were killed during NPSA's extensive control program. The photo shows how invasive trees were beginning to dominate the rainforest canopy, outcompeting native trees that provide food and habitat for birds and other animals. Photo: P. Craig."
+      ]
+    },
+    {
+      "record_id": "69efaa0734d9946b94a26b23",
+      "paper_id": "NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019",
+      "source_path": "output/NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019.md",
+      "section_heading": "Data needs/gaps",
+      "section_start_line": 3877,
+      "section_end_line": 3880,
+      "model": "openai:gpt-4o-mini",
+      "question": "What types of water temperature data does the section recommend documenting for stream thermal regimes?",
+      "ground_truth_answer": "Daily and annual temperature regimes.",
+      "ground_truth_chunks": [
+        "Water temperature data and analysis in general seem sparse; document daily and annual temperature regimes.",
+        "Documentation of the distribution and quality of thermal habitats for stream species would provide a baseline for monitoring potential impacts of climate change on stream macrofauna."
+      ]
+    },
+    {
+      "record_id": "78e5f4ef5b16bc96a7766e38",
+      "paper_id": "NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019",
+      "source_path": "output/NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019.md",
+      "section_heading": "Species composition",
+      "section_start_line": 4318,
+      "section_end_line": 4321,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which species dominated the catch in 2002?",
+      "ground_truth_answer": "bigeye scad (Selar crumenophthalmus)",
+      "ground_truth_chunks": [
+        "The annual catch was characterized by a diverse array of coral reef fishes and invertebrates, although bigeye scad (*Selar crumenophthalmus*), a sporadic visitor to local reefs, dominated the catch in 2002 (Table 5.1)."
+      ]
+    },
+    {
+      "record_id": "f0d57008b24ae5c95c811fd2",
+      "paper_id": "NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019",
+      "source_path": "output/NPSA_Condition Assessment 2019/NPSA_Condition Assessment 2019.md",
+      "section_heading": "<span id=\"page-298-0\"></span>6.2. Reporting Category Condition Designations",
+      "section_start_line": 4904,
+      "section_end_line": 4980,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which marine resource was assessed as warranting significant concern in the 2015 NRCA assessment?",
+      "ground_truth_answer": "Sea turtles.",
+      "ground_truth_chunks": [
+        "The park's marine resources were of moderate concern (marine water quality, coral reefs, and fish) or significant concern (sea turtles).",
+        "| Sea turtles                                  | Condition of resource warrants significant concern; trend in condition is unknown or not applicable; medium confidence in the assessment. |"
+      ]
+    }
+  ],
+  "failures": []
+}

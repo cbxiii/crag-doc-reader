@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching.md",
+  "source_sha256": "68773d6e7a6e0c750217a92bde4e21272bea35d5a45fc710583f49ab7e846a86",
+  "status": "partial",
+  "selected_section_count": 10,
+  "successful_record_count": 8,
+  "failure_count": 2,
+  "records": [
+    {
+      "record_id": "9ca18da4987db9b422b0fc35",
+      "paper_id": "Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching",
+      "source_path": "output/Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching.md",
+      "section_heading": "<span id=\"page-7-0\"></span>Introduction",
+      "section_start_line": 160,
+      "section_end_line": 173,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the most extensively used thermal stress metric for predicting coral bleaching, and how is it calculated?",
+      "ground_truth_answer": "The most extensively used thermal stress metric is degree heating weeks (DHW), which calculates accumulated heat stress by adding temperature values exceeding the bleaching threshold (maximum monthly mean temperature + 1 °C) over a three month period.",
+      "ground_truth_chunks": [
+        "The most extensively used thermal stress metric is degree heating weeks (DHW), which calculates accumulated heat stress in an area by adding temperature values exceeding the bleaching threshold (maximum monthly mean temperature + 1 °C) over a three month period(Liu et al. 2003, 2014).",
+        "Satellite-derived products like DHW have proven reliable as a mass bleaching index and have the advantage that the data are publicly available through the U.S. National Oceanic and Atmospheric Administration's (NOAA) Coral Reef Watch Program."
+      ]
+    },
+    {
+      "record_id": "b16cdb9136383d7536e13673",
+      "paper_id": "Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching",
+      "source_path": "output/Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching.md",
+      "section_heading": "<span id=\"page-11-0\"></span>Heat stress metrics",
+      "section_start_line": 206,
+      "section_end_line": 225,
+      "model": "openai:gpt-4o-mini",
+      "question": "How was the offset between satellite MMM and in situ MMM calculated?",
+      "ground_truth_answer": "By determining MMMsatellite and MMMin situ for each year from 2012–2018, computing the difference (MMMsatellite − MMMin situ) for each year, and then averaging those eight yearly differences (mean).",
+      "ground_truth_chunks": [
+        "Then, the mean offset for in situ temperature data to account for warming temperatures and depth was calculated. This was completed by determining the MMMsatellite from the years 2012–2018, then determining the MMMin situ for each year, calculating the difference in MMM between the satellite data and STR, and averaging them.",
+        "```\nOffset = mean((MMMsatellite 2012 - MMMin situ 2012) + (MMMsatellite 2013 - MMMin situ 2013) , … , (MMMsatellite 2018 - MMMin situ 2018) ÷ 8)\n```"
+      ]
+    },
+    {
+      "record_id": "175475375396356a1dc11f70",
+      "paper_id": "Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching",
+      "source_path": "output/Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching.md",
+      "section_heading": "<span id=\"page-13-0\"></span>Ecological surveys",
+      "section_start_line": 242,
+      "section_end_line": 269,
+      "model": "openai:gpt-4o-mini",
+      "question": "How was site-level bleaching prevalence calculated in the NCRMP surveys?",
+      "ground_truth_answer": "The four segments were pooled together, and site-level bleaching prevalence was calculated by dividing the number of corals displaying any loss of pigmentation (paled to fully bleached) by the total number of colonies multiplied by 100.",
+      "ground_truth_chunks": [
+        "Surveys at each site were conducted within four segments (1 m × 2.5 m) along an 18-m belt transect. Adult coral colonies (≥ 5 cm) abundance by genus and bleaching extent and severity were recorded.",
+        "The four segments were pooled together, and site-level bleaching prevalence was calculated by dividing the number of corals displaying any loss of pigmentation (paled to fully bleached) by the total number of colonies multiplied by 100."
+      ]
+    },
+    {
+      "record_id": "f2e0e259ad705d9e0841d72a",
+      "paper_id": "Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching",
+      "source_path": "output/Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching.md",
+      "section_heading": "(b) Bleaching year (2015)",
+      "section_start_line": 387,
+      "section_end_line": 390,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which site had more hours above the bleaching threshold in 2015?",
+      "ground_truth_answer": "The Southeast site.",
+      "ground_truth_chunks": [
+        "The Southeast site had more hours above the threshold, while all the other sites experienced relatively equal hours above the bleaching threshold.",
+        "The Southeast site in Fagatele Bay, experienced more hours of intense short-term heat because there were two acute heat stress events while only one event occurred at."
+      ]
+    },
+    {
+      "record_id": "df859b084013f742ac125c4e",
+      "paper_id": "Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching",
+      "source_path": "output/Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching.md",
+      "section_heading": "(b) Bleaching year (2015)",
+      "section_start_line": 425,
+      "section_end_line": 428,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which reef site was exposed to more internal waves compared to the other sites?",
+      "ground_truth_answer": "The Southwest site in Fagatele.",
+      "ground_truth_chunks": [
+        "Internal tides (measured by peak in PSD at 48 hr) occurred more at the deep reefs compared to the mid and shallow reefs.",
+        "The Southwest site in Fagatele was exposed to more internal waves compared to the other sites."
+      ]
+    },
+    {
+      "record_id": "2d8ea9aa80972c03a1d1b2e8",
+      "paper_id": "Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching",
+      "source_path": "output/Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching.md",
+      "section_heading": "(2) Daily temperature ranges",
+      "section_start_line": 647,
+      "section_end_line": 654,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did deeper or shallow reefs experience the greatest daily temperature ranges?",
+      "ground_truth_answer": "Deeper reefs experienced the greatest daily temperature ranges, not the shallow reefs.",
+      "ground_truth_chunks": [
+        "Daily temperature ranges were significantly different (p(df,F) = values) between depth (p(2,127) < 0.001), year (p(5,238) < 0.001), periods of heating versus cooling (p(1,2982) <0.001), and site(p(5,393) < 0.001).",
+        "Unexpectedly, the deeper reefs experienced the greatest temperature ranges, not the shallow reefs.",
+        "There were significant differences between sites; the reefs at Southwest Fagatele had higher daily temperature ranges than the other sites, but there was no apparent spatial pattern."
+      ]
+    },
+    {
+      "record_id": "c19f0a3e76f5719c99b5604a",
+      "paper_id": "Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching",
+      "source_path": "output/Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching.md",
+      "section_heading": "Variability",
+      "section_start_line": 682,
+      "section_end_line": 689,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, how do daily fluctuations (24 hr PSD peak) compare between shallow and mid/deep reefs, and which site shows greater daily fluctuations?",
+      "ground_truth_answer": "Daily fluctuations are greater at shallow depths compared to the mid and deep reefs, and Southwest Fagatele has greater daily fluctuations than the other sites.",
+      "ground_truth_chunks": [
+        "- Daily fluctuations (measured by peak in PSD at 24 hr) are greater at shallow depths compared to the mid and deep reefs, and Southwest Fagatele has greater daily fluctuations than the other sites."
+      ]
+    },
+    {
+      "record_id": "b06cc2b6078ec7e9da3266f2",
+      "paper_id": "Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching",
+      "source_path": "output/Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching.md",
+      "section_heading": "The way forward",
+      "section_start_line": 719,
+      "section_end_line": 722,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why does the section say it's difficult to answer how corals react to cumulative heat stress using ecological data from a single time point?",
+      "ground_truth_answer": "Because most heating metrics vary through time rather than space or depth, so during a hot year all reefs experience heat stress; if you only have ecological data from that single hot time point you lack a non-hot comparison. The section says you therefore need linked time series temperature and ecological data.",
+      "ground_truth_chunks": [
+        "This study has highlighted that most heating metrics vary through time and not necessarily though space and depth.",
+        "That makes it difficult to answer questions like, \"how do corals react to cumulative heat stress?\" if you only have ecological data from one point in time when everything is hot.",
+        "The next step is to link time series temperature data with time series ecological data."
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "record_id": "b06a0b233259dc703b20033e",
+      "source_path": "output/Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching.md",
+      "section_heading": "<span id=\"page-20-0\"></span>Heat stress metrics",
+      "section_start_line": 326,
+      "section_end_line": 366,
+      "attempt_count": 3,
+      "error": "ValueError: evidence chunk is not an exact substring of the supplied section"
+    },
+    {
+      "record_id": "ceec1bfd79b4aebb81fd1940",
+      "source_path": "output/Smith et al. 2022 perfect storm of bleaching/Smith et al. 2022 perfect storm of bleaching.md",
+      "section_heading": "<span id=\"page-36-0\"></span>Measuring multiple heating metrics during peak bleaching is key to accurately linking heat stress to coral bleaching",
+      "section_start_line": 571,
+      "section_end_line": 596,
+      "attempt_count": 3,
+      "error": "ValueError: evidence chunk is not an exact substring of the supplied section"
+    }
+  ]
+}

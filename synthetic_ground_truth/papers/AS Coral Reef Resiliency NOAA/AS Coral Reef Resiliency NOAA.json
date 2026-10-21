@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "source_path": "output/AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA.md",
+  "source_sha256": "5c7639f2c7d1643fd351d0a88d387c018941c15d23060a7615f07813a6acde36",
+  "status": "complete",
+  "selected_section_count": 9,
+  "successful_record_count": 9,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "237ac3efac1d9f3683e06c59",
+      "paper_id": "AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA",
+      "source_path": "output/AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA.md",
+      "section_heading": "Summary",
+      "section_start_line": 3,
+      "section_end_line": 8,
+      "model": "openai:gpt-4o-mini",
+      "question": "What primary climate threat does the Summary focus on for American Samoa's coral reefs?",
+      "ground_truth_answer": "The Summary focuses primarily on increases in ocean temperatures and the impact of coral bleaching on American Samoa's coral reefs and the communities that depend on them.",
+      "ground_truth_chunks": [
+        "We focus primarily on increases in ocean temperatures and the impact of coral bleaching on American Samoa's coral reefs and the communities that depend on them.",
+        "Ocean temperatures will rise across the region, with little potential for large refuge areas from warming."
+      ]
+    },
+    {
+      "record_id": "3cc8c9053092643b38c1c506",
+      "paper_id": "AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA",
+      "source_path": "output/AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA.md",
+      "section_heading": "Exposure",
+      "section_start_line": 9,
+      "section_end_line": 12,
+      "model": "openai:gpt-4o-mini",
+      "question": "What metric is used to report a coral reef sector's Exposure to warming in this section?",
+      "ground_truth_answer": "The projected year of onset of annual severe bleaching under the 'business-as-usual' emissions scenario RCP 8.5.",
+      "ground_truth_chunks": [
+        "We report a coral reef sector's **Exposure** to warming as the projected year of onset of annual severe bleaching under the 'business-as-usual' emissions scenario RCP 8.5.",
+        "The onset of annual severe bleaching is projected for similar times across the region, with sector estimates ranging from 2035–2044, 16 to 25 years from today (2019)."
+      ]
+    },
+    {
+      "record_id": "2b4acc233c05a73f4b968905",
+      "paper_id": "AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA",
+      "source_path": "output/AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA.md",
+      "section_heading": "Resilience",
+      "section_start_line": 13,
+      "section_end_line": 16,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which areas show higher resilience scores according to the Resilience index?",
+      "ground_truth_answer": "The more isolated areas, including northeast Tutuila and the Manu'a group, show higher resilience scores than the highly populated southwestern Tutuila.",
+      "ground_truth_chunks": [
+        "Reefs across American Samoa differ substantially in their **Resilience** to rising temperatures, both in their ability to resist temperatures and to recover from high temperature events.",
+        "The Resilience index combines 8 resilience factors and shows that the more isolated areas, including northeast Tutuila and the Manu'a group (see map, page 2), show higher resilience scores than the highly populated southwestern Tutuila."
+      ]
+    },
+    {
+      "record_id": "d261d5bff036b963eb817bd0",
+      "paper_id": "AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA",
+      "source_path": "output/AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA.md",
+      "section_heading": "DATA USED",
+      "section_start_line": 21,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which emissions scenario was used to project the timing of onset of annual severe bleaching?",
+      "ground_truth_answer": "The business-as-usual emissions scenario RCP8.5.",
+      "ground_truth_chunks": [
+        "Projected timing of the onset of annual severe bleaching under business-as-usual emissions scenario RCP8.5 (assumes climate policy is not effective at reducing emissions)."
+      ]
+    },
+    {
+      "record_id": "50c8328c06b107e34ed7aaa7",
+      "paper_id": "AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA",
+      "source_path": "output/AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA.md",
+      "section_heading": "Coral reefs are one of our most important coastal ecosystems.",
+      "section_start_line": 57,
+      "section_end_line": 80,
+      "model": "openai:gpt-4o-mini",
+      "question": "During which years did temperatures rise to severe anomalies in American Samoa according to the section?",
+      "ground_truth_answer": "2014, 2015, and 2017.",
+      "ground_truth_chunks": [
+        "The coral bleaching event of 2014–2016 was the third global coral bleaching event recorded, leading to extensive coral death across the globe.",
+        "American Samoa experienced coral bleaching each year between 2014 and 2018, with temperature rising to severe anomalies in 2014, 2015, and again in 2017."
+      ]
+    },
+    {
+      "record_id": "9b5a288f823b10b8f7446c9d",
+      "paper_id": "AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA",
+      "source_path": "output/AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA.md",
+      "section_heading": "Coral competitiveness",
+      "section_start_line": 83,
+      "section_end_line": 114,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which four factors make up the Coral Competitiveness aggregate index?",
+      "ground_truth_answer": "Coral Diversity; Herbivorous Fish Biomass; Macroalgal Cover; Juvenile Coral Density.",
+      "ground_truth_chunks": [
+        "This aggregate index primarily describes a region's capacity for corals to compete for benthic space, and includes **Coral Diversity**, **Herbivorous Fish Biomass**, **Macroalgal Cover**, and **Juvenile Coral Density**.",
+        "Observed number of corals under 5 cm per square meter."
+      ]
+    },
+    {
+      "record_id": "10341a6c3603c1cd2a9f62b5",
+      "paper_id": "AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA",
+      "source_path": "output/AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA.md",
+      "section_heading": "RESISTANCE",
+      "section_start_line": 115,
+      "section_end_line": 130,
+      "model": "openai:gpt-4o-mini",
+      "question": "What two factors are combined in the RESISTANCE aggregate measure that highlight areas where reef resilience is likely negatively impacted?",
+      "ground_truth_answer": "Fishing Depletion and Coral Disease.",
+      "ground_truth_chunks": [
+        "This aggregate measure of **Fishing Depletion** and **Coral Disease** highlights areas where resilience is likely negatively impacted by overfishing or by coral disease outbreaks.",
+        "In particular, **Fishing Depletion** and outbreaks of **Coral Disease** can negatively affect a reef's resilience."
+      ]
+    },
+    {
+      "record_id": "c090b008d439cb835158efd1",
+      "paper_id": "AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA",
+      "source_path": "output/AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA.md",
+      "section_heading": "Other stressors Bleaching resistance",
+      "section_start_line": 131,
+      "section_end_line": 146,
+      "model": "openai:gpt-4o-mini",
+      "question": "How is the history of high temperature variability in an area calculated?",
+      "ground_truth_answer": "It is calculated from the climatological summer temperature range divided by the annual temperature range.",
+      "ground_truth_chunks": [
+        "History of high temperature variability in an area, calculated from the climatological summer temperature range divided by the annual temperature range (Heron et al. 2016)."
+      ]
+    },
+    {
+      "record_id": "cbc328fe02b2dbba11d3bb2c",
+      "paper_id": "AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA",
+      "source_path": "output/AS Coral Reef Resiliency NOAA/AS Coral Reef Resiliency NOAA.md",
+      "section_heading": "Social Vulnerability",
+      "section_start_line": 147,
+      "section_end_line": 170,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which variables are included in the Personal Disruption index?",
+      "ground_truth_answer": "The Personal Disruption index includes poverty, unemployment, and low educational attainment.",
+      "ground_truth_chunks": [
+        "The Personal Disruption index includes variables that might indicate unstable personal circumstances, including poverty  $(\\uparrow)$ , unemployment  $(\\uparrow)$ , and low educational attainment  $(\\uparrow)$ ."
+      ]
+    }
+  ],
+  "failures": []
+}

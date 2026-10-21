@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1).md",
+  "source_sha256": "8497d4db206835cfa47c68b63017b4a34d2f82093c2ee27e8432a3d3b753b285",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "363c204e610c20d920f3e2e8",
+      "paper_id": "2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)",
+      "source_path": "output/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1).md",
+      "section_heading": "Report for CRAG on the 2018 Survey of the Coral Communities of the American Samoan Archipelago and the 2024 Survey of the Corals, Fishes, and Benthos in Fagatele Bay",
+      "section_start_line": 1,
+      "section_end_line": 12,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species appears to have disappeared from Fagatele Bay National Marine Sanctuary (FBNMS), with its decline starting around 2002?",
+      "ground_truth_answer": "The endemic *Porites randalli* appears to be gone from FBNMS; its decline started around 2002.",
+      "ground_truth_chunks": [
+        "The endemic *Porites randalli* was once the most abundant species of coral in FBNMS, but now appears to be gone from FBNMS, the decline starting around 2002."
+      ]
+    },
+    {
+      "record_id": "b3f8a6f6122c11c4d2c5fbbc",
+      "paper_id": "2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)",
+      "source_path": "output/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1).md",
+      "section_heading": "Introduction",
+      "section_start_line": 13,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what year was Fagatele Bay National Marine Sanctuary established?",
+      "ground_truth_answer": "1986.",
+      "ground_truth_chunks": [
+        "The Fagatele Bay National Marine Sanctuary of American Samoa was established in 1986 by the NOAA National Marine Sanctuary System in cooperation with the Government of American Samoa's Division of Marine and Wildlife Resources."
+      ]
+    },
+    {
+      "record_id": "b0a7fbf6b1bc98c7f4bf72e2",
+      "paper_id": "2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)",
+      "source_path": "output/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1).md",
+      "section_heading": "Population densities of coral colonies",
+      "section_start_line": 47,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "Between 1982 and 2024, did the overall population density of all coral colonies at the sites around Tutuila and Aunu'u change significantly?",
+      "ground_truth_answer": "No. The abundances or population densities of all coral colonies did not change significantly overall during the years between 1982 and 2024 for the sites around Tutuila and Aunu'u.",
+      "ground_truth_chunks": [
+        "It is surprising that overall, despite the severe cyclones, bleaching, crown-of-thorns outbreaks, and other events that have caused major damages to many coral communities on time-scales of years approaching decades, the abundances or population densities of all coral colonies has not changed significantly overall (Fig. 2A) during the years between 1982 and 2024 (42 years) for all the sites around Tutuila and Aunu'u (19 sites after excluding Pago Pago Harbor and FBNMS).",
+        "A --- Open coast of Tutuila and Aunu'u, excluding Pago Pago Harbor and Fagatele Bay. The probability that the slope of the regression of population density of all species of coral colonies over the years 1982 – 2018 (anova on the slopes) does not differ from zero is p > 0.80 (df 1, 191)."
+      ]
+    },
+    {
+      "record_id": "41249456199fb15195aa2e2b",
+      "paper_id": "2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)",
+      "source_path": "output/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1).md",
+      "section_heading": "Prevalence of coral recruits",
+      "section_start_line": 59,
+      "section_end_line": 66,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the combined coral size distributions were recruits (< 5 cm diameter) across all species, sites, and years?",
+      "ground_truth_answer": "23.60%",
+      "ground_truth_chunks": [
+        "About a hundred of the species found in our transects on the forereefs of the American Samoan Archipelago have recruits (defined as corals < 5 cm diameter) representing a substantial portion of their size distributions (Appendix 2).",
+        "Combining the diameters of all species on all transects at all sites for all years, the recruits made up 23.60% of the combined size distributions (Fig. 3)."
+      ]
+    },
+    {
+      "record_id": "36fcdba4cfadcc8e97d36071",
+      "paper_id": "2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)",
+      "source_path": "output/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1).md",
+      "section_heading": "Reassortment of coral species and genera over four decades",
+      "section_start_line": 67,
+      "section_end_line": 142,
+      "model": "openai:gpt-4o-mini",
+      "question": "What changes occurred in the populations of Montipora verrilli and Montipora grisea between 1982 and 2024?",
+      "ground_truth_answer": "Montipora verrilli declined from being one of the more prevalent Montipora through 1998 to crashing to very few by 2002 and not being recorded on transects for the last 22 years, while Montipora grisea was absent before 1995, appeared abruptly in 1995 as the most abundant coral (3,379 recorded, ~23% of colonies) and has remained the most abundant species since 1995.",
+      "ground_truth_chunks": [
+        "Two more striking changes in coral communities on Tutuila over the past 44 years involve *Montipora* species. *Montipora verrilli* was one of the more prevalent *Montipora* through 1998, but it crashed to very few in 2002 and has not been recorded on our transects for the last 22 years (Fig. 9). In contrast, *Montipora grisea* was not recorded at all on our transects before 1995. Of the 6,416 corals recorded in 1982, 1985, and 1988, none were *M. grisea*. When it abruptly appeared in 1995, it was immediately the most abundant coral with 3379 *M. grisea* recorded, or 23% of the total number of colonies of about 160 other species (Fig. 9). Questions as to the taxonomy of these two species of Montipora are explained in Taxonomic Notes, Appendix 1.",
+        "Fig. 9. *Montipora verrilli* was an abundant species until 2002, after which it was never seen. *Montipora grisea* was not seen until 1995 when it was instantly most abundant species. It has remained the most abundant species since 1995. Although the regression appears to have an increasing slope through the years, but it was not significant (p = 0.059, df 1,107). Each of the dots represents data from a transect, not just a coral colony."
+      ]
+    },
+    {
+      "record_id": "70d66d263270813d5edaf2dc",
+      "paper_id": "2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)",
+      "source_path": "output/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1).md",
+      "section_heading": "Full recovery of coral communities in Fagatele Bay",
+      "section_start_line": 149,
+      "section_end_line": 160,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long did full recovery of Fagatele Bay (FBNMS) coral communities take after Cyclone Val, according to the section?",
+      "ground_truth_answer": "Between 11 and 17 years; full recovery was achieved between the 2002 and 2018 surveys.",
+      "ground_truth_chunks": [
+        "Both coral colony population densities and growth into the larger size classes seem to have reached an asymptote of full community recovery in 2018 and 2024 (Figs. 15, 16).",
+        "Full recovery was achieved between our 2002 and 2018 surveys.",
+        "This means the full recovery of FBNMS corals from a serious disturbance takes between 11 and 17 years, i.e., between Cyclone Val in 1991 and full recovery sometime between 2002 and 2018."
+      ]
+    },
+    {
+      "record_id": "7fd3d81ef7dc18595cacc8cc",
+      "paper_id": "2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)",
+      "source_path": "output/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1).md",
+      "section_heading": "Consistent recruitment",
+      "section_start_line": 161,
+      "section_end_line": 166,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what percentage of measured coral colony diameters were less than 5 cm?",
+      "ground_truth_answer": "23.60% of the measured coral colony diameters were < 5 cm.",
+      "ground_truth_chunks": [
+        "Of all coral colony diameters we have measured (34,883), 23.60 % were < 5 cm."
+      ]
+    },
+    {
+      "record_id": "17fc96d089fb8026960de030",
+      "paper_id": "2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)",
+      "source_path": "output/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1).md",
+      "section_heading": "Trajectories over four decades",
+      "section_start_line": 167,
+      "section_end_line": 184,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species increased in FBNMS over the four decades?",
+      "ground_truth_answer": "Acropora spp., Porites rus, and Montipora grisea increased in FBNMS over the four decades.",
+      "ground_truth_chunks": [
+        "*Acropora* spp. increased over these four decades in FBNMS, but decreased on the outer coasts of Tutuila and Aunu'u.",
+        "*Porites rus* and *Montipora grisea* have increased on both the outer coast of Tutuila and FBNMS."
+      ]
+    },
+    {
+      "record_id": "a32a11a648aa0af727a3cba5",
+      "paper_id": "2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)",
+      "source_path": "output/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1).md",
+      "section_heading": "What evidence shows FBNMS coral communities to have outstanding performance?",
+      "section_start_line": 225,
+      "section_end_line": 234,
+      "model": "openai:gpt-4o-mini",
+      "question": "How have coral colony population densities in FBNMS changed over the past four decades despite major disturbances?",
+      "ground_truth_answer": "Coral colony population densities in FBNMS have remained at the same level over the past four decades despite major mortalities from crown-of-thorns outbreaks, major cyclones, and bleaching-related stress.",
+      "ground_truth_chunks": [
+        "In contrast to most of the reef-building coral communities around the world (Eddy et al. 2021), the coral colony population densities in FBNMS over the past four decades have remained at the same level, despite major mortalities of corals from crown-of-thorns outbreaks, major cyclones, and the stress brought about by bleaching events.",
+        "The coral communities in FBNMS fully recovered from Cyclone Val within 11 – 17 years.",
+        "*Acropora* spp. significantly increased in population density and grew into larger size categories in FBNMS, but significantly decreased in population density and showed almost no growth into larger size categories on the outer coat of Tutuila and Aunu'u."
+      ]
+    },
+    {
+      "record_id": "3b35a8e84d788b48e7028d3d",
+      "paper_id": "2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)",
+      "source_path": "output/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1).md",
+      "section_heading": "APPENDIX 1 – Taxonomic Notes",
+      "section_start_line": 263,
+      "section_end_line": 788,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which two researchers independently distinguished and recoded Montipora verrilli and Montipora grisea between 1995 and 2002?",
+      "ground_truth_answer": "Dick Randall and Craig Mundy.",
+      "ground_truth_chunks": [
+        "However, both Dick Randall and Craig Mundy independently distinguished and recoded both *M. verrilli* and *M. grisea* between 1995 and 2002.",
+        "Both species are common on Guam, and Dick Randall includes them both on his publications on corals of the Marianas."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa.md",
+  "source_sha256": "5eeadd620f4d0a6ddd111b89614c4414f74ece90ea80ff34f0a6ad025dd9ee71",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "15ec9beff86f0c7c25240151",
+      "paper_id": "Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa",
+      "source_path": "output/Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa.md",
+      "section_heading": "Abstract",
+      "section_start_line": 7,
+      "section_end_line": 10,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of American Samoa's marine habitat between the shoreline and 150 m depth is mesophotic depths (30–150 m)?",
+      "ground_truth_answer": "79% (357.5 km2 of 451.5 km2).",
+      "ground_truth_chunks": [
+        "We estimate that American Samoa has 451.5 km2 of marine habitat between the shoreline and 150 m depth. Mesophotic depths represent 357.5 km2 (79%) of the total area.",
+        "MCEs are defined as coral reef communities with zooxanthellate corals and associated biotic assemblages between 30 and 150 m depth."
+      ]
+    },
+    {
+      "record_id": "5c47a48dbb5c9815132265be",
+      "paper_id": "Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa",
+      "source_path": "output/Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa.md",
+      "section_heading": "22.1.1 Research History",
+      "section_start_line": 65,
+      "section_end_line": 82,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many tows were included off Tutuila and Aunuʻu during NOAA's National Marine Fisheries Service towed camera surveys?",
+      "ground_truth_answer": "89 tows off Tutuila and Aunuʻu.",
+      "ground_truth_chunks": [
+        "NOAA's National Marine Fisheries Service (NMFS) conducted a series of towed camera surveys across multiple islands in 2002, 2004, and 2008 (Fig. [22.2](#page-2-0); Brainard et al. [2008](#page-18-8); Bare et al. [2010](#page-18-13); Blyth-Skyrme et al. [2013](#page-18-1)).",
+        "These surveys included 89 tows off Tutuila and Aunuʻu (30–130 m), 25 tows off Ofu and Olosega (30–170+ m), and 16 tows off Taʻū (30–160 m) (Blyth-Skyrme et al. [2013\\)](#page-18-1)."
+      ]
+    },
+    {
+      "record_id": "7416531394c2cbec5674e8a6",
+      "paper_id": "Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa",
+      "source_path": "output/Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa.md",
+      "section_heading": "22.3 Habitat Description",
+      "section_start_line": 89,
+      "section_end_line": 114,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage (and area in km2) of American Samoa's total potential reef habitat to 150 m is mesophotic habitat (30–150 m)?",
+      "ground_truth_answer": "357.5 km2, which is 79% of the total potential reef habitat (451.5 km2).",
+      "ground_truth_chunks": [
+        "The total area of potential reef habitat (from the shoreline to 150 m) in American Samoa is 451.5 km2 , of which 357.5 km2 (79%) is potential MCE habitat (Table [22.1](#page-4-0)).",
+        "The majority of the MCE habitat is located on the extensive platform surrounding Tutuila/Aunuʻu (305.7 km2 ) which is more than six times greater than the corresponding SCR habitat (49.6 km2 )."
+      ]
+    },
+    {
+      "record_id": "0bea48b54d7e03518a369735",
+      "paper_id": "Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa",
+      "source_path": "output/Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa.md",
+      "section_heading": "22.3.2 Mid-Mesophotic Zone",
+      "section_start_line": 139,
+      "section_end_line": 144,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which island has the largest mid-mesophotic zone (70–110 m) area?",
+      "ground_truth_answer": "Tutuila/Aunuʻu, with 75 km2.",
+      "ground_truth_chunks": [
+        "The mid-mesophotic zone (70–110 m) is largest on Tutuila/ Aunu`u (75 km2 ) compared to the other islands."
+      ]
+    },
+    {
+      "record_id": "6951b271c7d7c0f398c2ea4b",
+      "paper_id": "Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa",
+      "source_path": "output/Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa.md",
+      "section_heading": "22.4.1 Macroalgae",
+      "section_start_line": 161,
+      "section_end_line": 164,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many macroalgal species did Skelton and South (2004) report from American Samoa, and how many species were recorded for each major algal group?",
+      "ground_truth_answer": "Skelton and South (2004) reported 230 species total: 133 Rhodophyta, 23 Phaeophyta, and 74 Chlorophyta.",
+      "ground_truth_chunks": [
+        "Skelton and South [\\(2004](#page-20-4)) reported 230 species (133 Rhodophyta, 23 Phaeophyta, and 74 Chlorophyta) from American Samoa, while Tsuda et al. ([2011\\)](#page-20-6) reported an additional 28 species from Swains Island."
+      ]
+    },
+    {
+      "record_id": "849dcfaa584a1dee7672c6d0",
+      "paper_id": "Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa",
+      "source_path": "output/Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa.md",
+      "section_heading": "22.4.2 Anthozoans",
+      "section_start_line": 165,
+      "section_end_line": 321,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to this section, how many unique scleractinian names have been reported from American Samoa, and what is the estimated number of valid species?",
+      "ground_truth_answer": "Over 400 unique scleractinian names have been reported; with adequate sampling the actual number of valid species may exceed 400.",
+      "ground_truth_chunks": [
+        "Over 400 unique scleractinian names have been reported from American Samoa (Fenner unpublished data), while Birkeland et al. [\\(2008](#page-18-0)) report 337, but these 400 names include synonyms and possible misidentifications.",
+        "It is estimated that with adequate sampling, the actual number of valid species may exceed 400 (Whaylen and Fenner [2006](#page-20-5))."
+      ]
+    },
+    {
+      "record_id": "28978643036ecdb17e22f11a",
+      "paper_id": "Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa",
+      "source_path": "output/Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa.md",
+      "section_heading": "22.4.4 Other Biotic Components",
+      "section_start_line": 350,
+      "section_end_line": 353,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many gastropod species were recorded among the shallow macroinvertebrate species in this section?",
+      "ground_truth_answer": "308 gastropod species.",
+      "ground_truth_chunks": [
+        "Shallow macroinvertebrate species included 43 porifera, 22 hydroids, 308 gastropods, 63 bivalves, 3 stomatopods, 80 decapods, 14 asteroids, 6 crinoids, 24 ophiuroids, 13 echinoids, 17 holothuroids, and 12 ascidians (Coles et al. [2003](#page-18-10)), but many of these groups are notoriously understudied and include many cryptic taxa (Fautin et al. [2010](#page-18-21))."
+      ]
+    },
+    {
+      "record_id": "a2877cbc0c9637384abfa3e6",
+      "paper_id": "Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa",
+      "source_path": "output/Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa.md",
+      "section_heading": "22.5.2 Anthozoans",
+      "section_start_line": 360,
+      "section_end_line": 395,
+      "model": "openai:gpt-4o-mini",
+      "question": "Between which depths were the peak abundances of scleractinian communities around Tutuila observed?",
+      "ground_truth_answer": "Between 30 and 50 m.",
+      "ground_truth_chunks": [
+        "Scleractinian communities around Tutuila were found across all mesophotic depths, but the peak abundances (15.5 ± 26% cover) were observed between 30 and 50 m, usually atop offshore banks and insular shelf patch reefs."
+      ]
+    },
+    {
+      "record_id": "7951876a1e024d033c282174",
+      "paper_id": "Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa",
+      "source_path": "output/Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa.md",
+      "section_heading": "22.6 Threats and Conservation Issues",
+      "section_start_line": 400,
+      "section_end_line": 403,
+      "model": "openai:gpt-4o-mini",
+      "question": "What three threats have been documented to have major impacts on American Samoan reefs?",
+      "ground_truth_answer": "Outbreaks of COTS, coral bleaching, and major storm events.",
+      "ground_truth_chunks": [
+        "While the coral reefs of American Samoa face the same threats as coral reefs elsewhere, three threats have been documented to have major impacts on American Samoan reefs: outbreaks of COTS, coral bleaching, and major storm events (Birkeland et al. [2003;](#page-18-5) Fenner et al. [2008\\)](#page-18-9).",
+        "Fishing impacts are also of concern, and Green ([2002\\)](#page-19-4) indicated a decline of parrotfish and Maori wrasse was likely due to overfishing."
+      ]
+    },
+    {
+      "record_id": "25778ca069f92bf426ae397b",
+      "paper_id": "Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa",
+      "source_path": "output/Montgomery et al 2019 Chapter22  American Samoa/Montgomery et al 2019 Chapter22  American Samoa.md",
+      "section_heading": "22.6.2 Threatened Corals",
+      "section_start_line": 450,
+      "section_end_line": 467,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many of the 15 Indo-Pacific scleractinian corals listed by NOAA in 2014 are known to occur in American Samoa's SCRs?",
+      "ground_truth_answer": "Seven.",
+      "ground_truth_chunks": [
+        "In 2014, NOAA's NMFS listed 15 Indo-Pacific scleractinian corals as threatened under the US Endangered Species Act (NOAA [2014\\)](#page-19-35). Of these, seven are known to occur in American Samoa's SCRs.",
+        "In 2016, surveys were conducted at eight sites around Tutuila to document the presence of listed corals on MCEs. These surveys documented three of the seven listed species below 40 m: *Acropora speciosa* at three sites, *Euphyllia paradivisa* at one site, and *Pavona* cf. *diffluens* at one site (Fig. [22.12;](#page-17-1) Montgomery unpublished data)."
+      ]
+    }
+  ],
+  "failures": []
+}

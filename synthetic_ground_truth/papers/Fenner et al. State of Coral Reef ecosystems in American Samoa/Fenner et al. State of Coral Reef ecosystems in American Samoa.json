@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa.md",
+  "source_sha256": "9bff9ef6583f6b028f0c168b40a9000595dccd66d2a28dccfdfc388ff746a6df",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "79e2f5444e7ca2bb8c52ae29",
+      "paper_id": "Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa",
+      "source_path": "output/Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa.md",
+      "section_heading": "The State of Coral Reef Ecosystems of American Samoa",
+      "section_start_line": 1,
+      "section_end_line": 8,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who were the coordinators of 'The State of Coral Reef Ecosystems of American Samoa'?",
+      "ground_truth_answer": "Douglas Fenner, Meredith Speicher and Sharon Gulick.",
+      "ground_truth_chunks": [
+        "Coordinators: Douglas Fenner<sup>1</sup> , Meredith Speicher<sup>2</sup> and Sharon Gulick<sup>2</sup>"
+      ]
+    },
+    {
+      "record_id": "a29b0a6dda28989da39fd948",
+      "paper_id": "Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa",
+      "source_path": "output/Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa.md",
+      "section_heading": "Coastal Pollution",
+      "section_start_line": 212,
+      "section_end_line": 225,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does the section identify as the primary source of coastal pollution in American Samoa?",
+      "ground_truth_answer": "Nonpoint source pollution is identified as the primary pollution source for coastal areas in American Samoa.",
+      "ground_truth_chunks": [
+        "Nonpoint source pollution is now considered the primary pollution source for coastal areas in American Samoa.",
+        "The American Samoa Environmental Protection Agency (ASEPA) developed a *Coastal Nonpoint Source Monitoring Strategy* as part of the American Samoa Coastal Nonpoint Pollution Control Program in order to evaluate the effectiveness of best management practices for achieving water quality objectives through tracking trends in water quality."
+      ]
+    },
+    {
+      "record_id": "d1700c7261d065a3b8c527e9",
+      "paper_id": "Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa",
+      "source_path": "output/Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa.md",
+      "section_heading": "WATER QUALITY AND OCEANOGRAPHIC CONDITIONS",
+      "section_start_line": 291,
+      "section_end_line": 300,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, since what year have long-term oceanographic monitoring methods and equipment been used in American Samoa?",
+      "ground_truth_answer": "Since 2002.",
+      "ground_truth_chunks": [
+        "Table 10.5 presents longterm oceanographic monitoring methods and equipment used in American Samoa since 2002.",
+        "As a result, ASEPA, in collaboration with local environmental resource agencies and federal partners such as the National Park of American Samoa (NPAS), began concentrated monitoring and assessment efforts to document coastal water and coral reef condition in order to protect and enhance aquatic life and human health."
+      ]
+    },
+    {
+      "record_id": "5a2969b1ff42274bceb4e504",
+      "paper_id": "Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa",
+      "source_path": "output/Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa.md",
+      "section_heading": "Results and Discussion",
+      "section_start_line": 408,
+      "section_end_line": 465,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the most abundant benthic cover on Tutuila reef slopes at 9 m depth according to TMP in 2005 and 2006?",
+      "ground_truth_answer": "Crustose coralline algae (CCA) was the most abundant benthic cover.",
+      "ground_truth_chunks": [
+        "TMP found in both 2005 and 2006 that the most abundant benthic cover on Tutuila reef slopes at 9 m depth was CCA, followed by live corals, turf algae and branching coralline algae (Figure 10.16)."
+      ]
+    },
+    {
+      "record_id": "ddd393e59785f46fc77f4c1b",
+      "paper_id": "Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa",
+      "source_path": "output/Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa.md",
+      "section_heading": "Coral Reef Biological Criteria Monitoring of the American Samoa Environmental Protection Agency",
+      "section_start_line": 548,
+      "section_end_line": 551,
+      "model": "openai:gpt-4o-mini",
+      "question": "How was benthic cover recorded from the video at each site?",
+      "ground_truth_answer": "Benthic cover was recorded under six randomly placed dots on a still image every five seconds on the tape.",
+      "ground_truth_chunks": [
+        "At each site video is recorded of three belt transects 0.5 m wide and 50 m long at 9-11 m depth.",
+        "Benthic cover is recorded under six randomly placed dots on a still image every five seconds on the tape (Houk et al., 2005)."
+      ]
+    },
+    {
+      "record_id": "0ec2da4040965926f3eb1a64",
+      "paper_id": "Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa",
+      "source_path": "output/Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa.md",
+      "section_heading": "Variation in Abundance over Time",
+      "section_start_line": 658,
+      "section_end_line": 677,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which year's data point was considered an outlier in the surveys and why?",
+      "ground_truth_answer": "The 2002 data point is considered an outlier because surveys occurred during large recruitment pulses of *Ctenochaetus striatus*, which greatly biased the fish density values recorded that year.",
+      "ground_truth_chunks": [
+        "During the period from the late 1970s to the mid 2000s it appears that fish populations on Tutuila have remained relatively stable in terms of mean fish density, with a slight increase occurring after an initial decrease between 1985 and 1988 (Figure 10.35).",
+        "The data point from the year 2002 is considered an outlier due to the fact that surveys occurred during large recruitment pulses of *Ctenochaetus striatus*, which greatly biased the fish density values recorded that year."
+      ]
+    },
+    {
+      "record_id": "3c9a48961aa4d629987a405d",
+      "paper_id": "Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa",
+      "source_path": "output/Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa.md",
+      "section_heading": "Tutuila Island",
+      "section_start_line": 724,
+      "section_end_line": 743,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the medium-large fish biomass at Tutuila Island during the survey, and what group mainly composed it?",
+      "ground_truth_answer": "0.19 t/ha, and it was mostly composed of herbivores.",
+      "ground_truth_chunks": [
+        "As in previous years, medium-large fish biomass was lowest at Tutuila Island (0.19 t/ha; Figure 10.40) and was mostly composed of herbivores."
+      ]
+    },
+    {
+      "record_id": "254cf9f7db6472abdcee3c86",
+      "paper_id": "Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa",
+      "source_path": "output/Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa.md",
+      "section_heading": "Results and Discussion",
+      "section_start_line": 851,
+      "section_end_line": 860,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which diurnal invertebrate species were commonly recorded during TMP surveys, and which was most common in 2006?",
+      "ground_truth_answer": "A small burrowing urchin (Echinostrephus molaris), a small massive orange sponge (Styllisa massa or S. flabelliformis), and a thin grey encrusting sponge (Dysidea sp.); in 2006 the urchin was most common, followed by the orange sponge and the encrusting sponge.",
+      "ground_truth_chunks": [
+        "Very few invertebrates were recorded during TMP surveys. Only three: a small burrowing urchin (*Echinostrephus molaris*), a small massive orange sponge, (*Styllisa massa* or *S. flabelliformis*), and a thin grey encrusting sponge (*Dysidea* sp.) were common in patchy distributions.",
+        "In 2006, the urchin was most common, followed by the orange sponge and the encrusting sponge (Figure 10.46)."
+      ]
+    },
+    {
+      "record_id": "3bed740e4be19c1bd5186add",
+      "paper_id": "Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa",
+      "source_path": "output/Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa.md",
+      "section_heading": "Mapping Data",
+      "section_start_line": 911,
+      "section_end_line": 942,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which vessels and multibeam sonar systems did PIFSC-CRED use in 2006 for multibeam mapping around American Samoa?",
+      "ground_truth_answer": "In 2006 PIFSC-CRED used the NOAA Ship Hi'ialakai equipped with two Kongsberg Simrad multibeam sonars (a 30-kHz EM300 and a 300-kHz EM3002D) and the R/V Acoustic Habitat Investigator (AHI) with a 240-kHz Reson 8101ER; both vessels had Applanix POS/MV motion sensors.",
+      "ground_truth_chunks": [
+        "In 2006, PIFSC-CRED returned to American Samoa with the NOAA Ship *Hi'ialakai*, equipped with two Kongsberg Simrad multibeam sonars: a 30-kHz EM300 with mapping capability from about 100-3000+ m and a 300-kHz EM3002D with mapping capability from about 5-150 m. The R/V *AHI* has a 240-kHz Reson 8101ER with mapping capability from about 5-300 m. Both vessels have Applanix POS/MV motion sensors, which provide navigation and highly accurate readings of the vessel motion in all axes.",
+        "NOAA's PIFSC-CRED initiated a complementary moderate-depth (approximately 10–3,000 m) multibeam mapping program in 2001. The program first conducted multibeam surveys to survey the banktops of the Manua Islands and 60% of Tutuila in 2004 with the NOAA Ship *Oscar Elton Sette* and the 8 m R/V *Acoustic Habitat Investigator* (*AHI*)."
+      ]
+    },
+    {
+      "record_id": "3fb5a678921230aef050e808",
+      "paper_id": "Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa",
+      "source_path": "output/Fenner et al. State of Coral Reef ecosystems in American Samoa/Fenner et al. State of Coral Reef ecosystems in American Samoa.md",
+      "section_heading": "OVERALL CONCLUSIONS AND RECOMMENDATIONS",
+      "section_start_line": 981,
+      "section_end_line": 986,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which harbor in American Samoa has lost most of its coral reefs and still has high plankton levels?",
+      "ground_truth_answer": "Pago Pago Harbor has lost most of its coral reefs and plankton levels remain high.",
+      "ground_truth_chunks": [
+        "Pago Pago Harbor has lost most of its coral reefs, and plankton levels remain high."
+      ]
+    }
+  ],
+  "failures": []
+}

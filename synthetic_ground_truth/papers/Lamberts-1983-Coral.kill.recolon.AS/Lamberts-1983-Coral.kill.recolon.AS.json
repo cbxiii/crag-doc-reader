@@ -1,0 +1,131 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS.md",
+  "source_sha256": "581a92e03971ae4e2d00c4408ee406cdbf247d4e14320769956e4bce8cb77535",
+  "status": "complete",
+  "selected_section_count": 8,
+  "successful_record_count": 8,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "f836e5f7a15699f861e9153b",
+      "paper_id": "Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS",
+      "source_path": "output/Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS.md",
+      "section_heading": "I. CORAL REEF DESTRUCTION",
+      "section_start_line": 19,
+      "section_end_line": 34,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which dominant coral suborder was reported to have died within an area of at least 8 hectares during the Coconut Point coral kill?",
+      "ground_truth_answer": "The dominant suborder Astrocoeniina had died (including all the Acropora, Montipora, and Pocillopora corals).",
+      "ground_truth_chunks": [
+        "Our survey showed that all the corals of the dominant suborder. Astrocoeniina, had died within an area of at least 8 hectares (20 acres).",
+        "This included all the Acropora, Montipora, and Pocillopora corals, while members of two other suborders, Fungiina and Faviina, appeared healthy."
+      ]
+    },
+    {
+      "record_id": "9bc50ed90efa87e21d02d3b6",
+      "paper_id": "Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS",
+      "source_path": "output/Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS.md",
+      "section_heading": "Laboratory Studies",
+      "section_start_line": 35,
+      "section_end_line": 99,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which toxic agents caused coral deaths in the 24-hour jar experiments described in 'Laboratory Studies'?",
+      "ground_truth_answer": "Some specimens exposed to mercury or bleach (Clorox) died.",
+      "ground_truth_chunks": [
+        "In these studies all living corals exposed to alizarin dye showed some uptake, and no specimen died except some exposed to either mercury or bleach.",
+        "Mercury is a protoplasmic poison and is notoriously toxic to animal life, including corals. Stress reactions were noted in coral polyps exposed to a concentration of 10 ppb, and 0.5 ppm or greater was lethal. Copper, as CuSO<sub>4</sub>, often used as an algicide, did not kill coral in these experiments at a concentration of 2 ppm. Commerical bleach (Clorox) killed coral tissue when the concentration was 2 parts per thousand if there was prolonged contact. Practically speaking, bleach in order to kill coral must be in a concentration of about 2 liters per cubic meter of sea water (1 gallon per 2 cubic yards)."
+      ]
+    },
+    {
+      "record_id": "aac0a6d4c2c71c65c4dfcc70",
+      "paper_id": "Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS",
+      "source_path": "output/Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS.md",
+      "section_heading": "Observations in American Samoa",
+      "section_start_line": 100,
+      "section_end_line": 119,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the estimated area of actual coral death on Tutuila during the 1974 survey?",
+      "ground_truth_answer": "About 6 hectares (15 acres).",
+      "ground_truth_chunks": [
+        "Total area involved was about 8 hectares (20 acres); however, some of this was sandbar and the area of actual coral death was about 6 hectares (15 acres)."
+      ]
+    },
+    {
+      "record_id": "5f77878c7a624224a3cf3ff9",
+      "paper_id": "Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS",
+      "source_path": "output/Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS.md",
+      "section_heading": "Conclusions",
+      "section_start_line": 120,
+      "section_end_line": 133,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral suborder does the author speculate may have been weakened by an epizootic disease?",
+      "ground_truth_answer": "The suborder Astrocoeniina.",
+      "ground_truth_chunks": [
+        "Attributing this particular coral kill to an extraneous pollutant is entirely on circumstantial evidence which initially to me was convincing.",
+        "If no toxic agent in itself would cause such a curious pattern of coral death, we can speculate that the suborder Astrocoeniina may have been weakened by some epizootic disease which may also have been present in other areas of Samoa as noted."
+      ]
+    },
+    {
+      "record_id": "e2b367963d714d6e00325f53",
+      "paper_id": "Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS",
+      "source_path": "output/Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS.md",
+      "section_heading": "II. RECOLONIZATION OF A DENUDED CORAL REEF",
+      "section_start_line": 138,
+      "section_end_line": 149,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which suborder of corals had recently died at Coconut Point in July 1973?",
+      "ground_truth_answer": "Scleractinian corals of the dominant suborder Astrocoeniina had recently died.",
+      "ground_truth_chunks": [
+        "At that time we mapped the area of Coconut Point, Figure 1, and found that scleractinian corals of the dominant suborder Astrocoeniina had recently died leaving their algae-covered unbroken skeletons in place.",
+        "A year later I again surveyed the area, made coral counts, procured voucher specimens, and took photographs. I concluded then that this phenomenon was probably due to an epizootic infection of unknown type affecting only the astrocoeniinid corals, but that sudden death had been triggered by a chemical substance entering into the water, presumably to kill fish."
+      ]
+    },
+    {
+      "record_id": "c5f740609402ab51583ab7c7",
+      "paper_id": "Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS",
+      "source_path": "output/Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS.md",
+      "section_heading": "Methods",
+      "section_start_line": 150,
+      "section_end_line": 155,
+      "model": "openai:gpt-4o-mini",
+      "question": "At what intervals were bottom cover estimates made along the transects?",
+      "ground_truth_answer": "Bottom cover estimates were made at 10-meter intervals along the transects.",
+      "ground_truth_chunks": [
+        "Following previous methods, bottom cover estimates were made at 10-meter intervals along these transects.",
+        "The percentage of bottom coral species was determined along transect A at 25-meter intervals to give 16 determinations."
+      ]
+    },
+    {
+      "record_id": "40988a28d271aa1705b8499e",
+      "paper_id": "Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS",
+      "source_path": "output/Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS.md",
+      "section_heading": "Findings and Discussion",
+      "section_start_line": 156,
+      "section_end_line": 251,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did the percent cover of living coral in Transect A change between 1972 and 1978?",
+      "ground_truth_answer": "Percent cover of living coral in Transect A decreased from 38.3% in 1972 to 21.8% in 1978.",
+      "ground_truth_chunks": [
+        "Living coral           | 38.3               | 26.6 | 21.8  |",
+        "The changing contours of the reef are thought to have resulted in further decrease in Transect A coral counts, despite some recolonization by species absent in 1974."
+      ]
+    },
+    {
+      "record_id": "aa12850bf372523d99231de7",
+      "paper_id": "Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS",
+      "source_path": "output/Lamberts-1983-Coral.kill.recolon.AS/Lamberts-1983-Coral.kill.recolon.AS.md",
+      "section_heading": "Conclusions",
+      "section_start_line": 252,
+      "section_end_line": 259,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Conclusions, will the Acropora thickets previously found in these areas be reestablished as they were in 1969?",
+      "ground_truth_answer": "No — they will probably never be reestablished as they were in 1969 because of changes in substrate.",
+      "ground_truth_chunks": [
+        "Recolonization by natural processes has occurred since then and is proceeding rapidly.",
+        "The Acropora thickets previously found in these particular areas will probably never be reestablished as they were in 1969 because of changes in substrate; however, it is reasonable to predict that an extensive well-developed reef can be established in as little as ten years provided the physical conditions remain adequate and there are nearby reefs to furnish viable larva for settlement."
+      ]
+    }
+  ],
+  "failures": []
+}

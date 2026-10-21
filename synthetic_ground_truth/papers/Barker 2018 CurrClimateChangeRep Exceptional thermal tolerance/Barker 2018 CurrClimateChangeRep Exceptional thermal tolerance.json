@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance.md",
+  "source_sha256": "10dce7d6d5b1e5f1d92acc17f34169b8745d05a972ee8949c3f6e0f94a2b9694",
+  "status": "complete",
+  "selected_section_count": 8,
+  "successful_record_count": 8,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "12e7c776e21f6c3f67ff3655",
+      "paper_id": "Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance",
+      "source_path": "output/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance.md",
+      "section_heading": "Abstract",
+      "section_start_line": 11,
+      "section_end_line": 16,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which backreef pool on Ofu Island reaches temperatures up to 35 °C and fluctuates up to 6 °C throughout the day?",
+      "ground_truth_answer": "Pool 300.",
+      "ground_truth_chunks": [
+        "In pool 300, temperatures can reach 35 °C and fluctuate up to 6 °C throughout the day.",
+        "Corals within the highly variable pool 300 appear to be more adequately adapted to thermal extremes by retaining chlorophyll concentrations during frequent heat pulses, associating with thermally tolerant endosymbionts, upregulating gene expression associated with heat acclimatization, and potentially possessing an advantageous microbiome composition."
+      ]
+    },
+    {
+      "record_id": "21ad15e5d38b4bd0ad390703",
+      "paper_id": "Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance",
+      "source_path": "output/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance.md",
+      "section_heading": "Introduction",
+      "section_start_line": 17,
+      "section_end_line": 51,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Ofu backreef pool experiences the most variable temperatures, reaching over 35 °C and fluctuating over 6 °C throughout the day?",
+      "ground_truth_answer": "Pool 300 (referred to as pool 300/HV).",
+      "ground_truth_chunks": [
+        "At low tide, the pools (referred to in the literature as pool 300/HV, 400/MV, and 500/LV) are cut off from oceanic currents by a high reef crest, and during daytime low-tide events, the water temperature rises dramatically (see Table 1 for physical characteristics).",
+        "While all of the pools are subjected to elevated temperatures, pool 300 is the most variable. In this pool, water temperatures reach over 35 °C, well above the established regional coral bleaching threshold (approx. 32 °C), and temperatures have been recorded fluctuating over 6 °C throughout the day (see Figs. 1, 2, and 3 for long-term temperature datasets) [15, 16]."
+      ]
+    },
+    {
+      "record_id": "1289a424a8ff4aa494e18d75",
+      "paper_id": "Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance",
+      "source_path": "output/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance.md",
+      "section_heading": "Water Flow Rates",
+      "section_start_line": 52,
+      "section_end_line": 79,
+      "model": "openai:gpt-4o-mini",
+      "question": "After 4 days at elevated temperatures (31.5 °C), what were the zooxanthellae densities in Porites lobata under the constant low-flow treatment and under the high-low-flow (intermittent) treatment?",
+      "ground_truth_answer": "In the constant low-flow treatment the density dropped to $1.08 \\times 10^6$ zooxanthallae cells/cm^2; in the high-low-flow treatment it was $1.97 \\times 10^6$ zooxanthallae cells/cm^2.",
+      "ground_truth_chunks": [
+        "After 4 days at elevated temperatures (31.5 °C), the density of zooxanthellae in *P. lobata* dropped from  $3.14 \\times 10^6$  zooxanthallae cells/cm<sup>2</sup> to  $1.08 \\times 10^6$  zooxanthallae cells/cm<sup>2</sup> in the constant low-flow treatment but only  $1.97 \\times 10^6$  zooxanthallae cells/ cm<sup>2</sup> in the high-low-flow treatment."
+      ]
+    },
+    {
+      "record_id": "ae622bf0daed12830084245c",
+      "paper_id": "Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance",
+      "source_path": "output/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance.md",
+      "section_heading": "Previous Short-term Exposure to Elevated Temperatures",
+      "section_start_line": 80,
+      "section_end_line": 89,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did Acropora hyacinthus corals from pool 300 compare to those from pool 400 in mortality when placed in elevated (31.5 °C) experimental tanks?",
+      "ground_truth_answer": "Corals taken from pool 400 experienced nearly 50% mortality regardless of Symbiodinium type, whereas corals from pool 300 experienced low mortality (16.6 ± 8.8%), statistically indistinguishable from the control group.",
+      "ground_truth_chunks": [
+        "Coral mortality may also be affected by variable temperature regimes. When nubbins of A. hyacinthus from both pools 300 and 400 were placed in elevated (31.5 °C) and ambient (28 °C) experimental tanks, mortality varied depending upon the source pool [[41\\]](#page-9-0). Corals taken from pool 400 experienced nearly 50% mortality, regardless of Symbiodinium type. Corals from pool 300, which regularly experiences a wide range of thermal variability, experienced low mortality (16.6 ± 8.8%), statistically indistinguishable from the control group [[41\\]](#page-9-0).",
+        "The authors concluded that a 1 °C increase in diel temperature fluctuations reduced the risk of severe bleaching by a factor of 33. In pool 300, temperatures can fluctuate over 6 °C during a strong tidal cycle [\\[16](#page-8-0)], which may be a critical component to the corals' thermotolerance."
+      ]
+    },
+    {
+      "record_id": "0e399bbdec81fa79fac6b4fd",
+      "paper_id": "Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance",
+      "source_path": "output/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance.md",
+      "section_heading": "Dinoflagellate Endosymbionts",
+      "section_start_line": 90,
+      "section_end_line": 168,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Symbiodinium clade is generally concluded to confer enhanced thermal tolerance to coral hosts?",
+      "ground_truth_answer": "Symbiodinium clade D is generally concluded to confer enhanced thermal tolerance to the coral host.",
+      "ground_truth_chunks": [
+        "It is generally concluded that Symbiodinium clade D confers enhanced thermal tolerance to the coral host and can increase",
+        "Clade D Symbiodinium are thermotolerant but this ability comes with an energetic cost."
+      ]
+    },
+    {
+      "record_id": "91b66c77463433541ff38510",
+      "paper_id": "Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance",
+      "source_path": "output/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance.md",
+      "section_heading": "Host Genetics",
+      "section_start_line": 169,
+      "section_end_line": 182,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the A. hyacinthus transcriptome was differentially expressed after 120 min at 34– 35 °C?",
+      "ground_truth_answer": "14% of the A. hyacinthus transcriptome.",
+      "ground_truth_chunks": [
+        "For instance, 14% of the A. hyacinthus transcriptome was differentially expressed after 120 min at 34– 35 °C [[70\\]](#page-10-0)."
+      ]
+    },
+    {
+      "record_id": "01627a59c93e6683b9f88b00",
+      "paper_id": "Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance",
+      "source_path": "output/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance.md",
+      "section_heading": "Microbiome",
+      "section_start_line": 183,
+      "section_end_line": 186,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the dominant bacterial families and their approximate abundances in pools 300 and 400?",
+      "ground_truth_answer": "Pool 300 microbiomes were characterized by Alteromonadaceae (~15%), Rhodospirillaceae (~15%), and Hahellaceae (13%). Pool 400 microbiomes were dominated by Hahellaceae (27%) and Alteromonadaceae (24%) and were lacking in Rhodospirillaceae (<2%).",
+      "ground_truth_chunks": [
+        "Pool 300 microbiomes were characterized by three main bacterial families: Alteromonadaceae (~ 15%), Rhodospirillaceae (~ 15%), and Hahellaceae (13%).",
+        "Pool 400 microbiomes were dominated by Hahellaceae (27%) and Alteromonadaceae (24%), but were lacking in Rhodospirillaceae (< 2%)."
+      ]
+    },
+    {
+      "record_id": "e4fed92b77d90239ac5581e1",
+      "paper_id": "Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance",
+      "source_path": "output/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance/Barker 2018 CurrClimateChangeRep Exceptional thermal tolerance.md",
+      "section_heading": "Managing Ofu Coral Reefs in the Time of Climate Change",
+      "section_start_line": 187,
+      "section_end_line": 208,
+      "model": "openai:gpt-4o-mini",
+      "question": "What shading treatments were tested in the aquarium study on Ofu corals and did shading affect bleaching severity?",
+      "ground_truth_answer": "The study tested no shading, 50% shading, and 75% shading (under elevated temperature of 31.5 °C). Greater shading reduced bleaching severity (50% and 75% shading lessened bleaching compared with no shading, with higher shading giving greater reduction).",
+      "ground_truth_chunks": [
+        "Fragments of A. muricata, P. damicornis, and P. cylindrica from pool 400 were placed in aquaria where the corals were subjected to various temperature and light regimes: a control (28.5 °C, approximately the mean seawater temperature of pool 400), and elevated thermal conditions (31.5 °C) with no shading, 50% shading, and 75% shading.",
+        "It was found that a higher the degree of shading resulted in a reduction in bleaching severity."
+      ]
+    }
+  ],
+  "failures": []
+}

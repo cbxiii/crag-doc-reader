@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Tuilagi-1995-Perception.changes.fisheries.AS-Copy/Tuilagi-1995-Perception.changes.fisheries.AS-Copy.md",
+  "source_sha256": "aa299bf186b0e2dc6ab2af6ce5777321c66d097cdb84d72e4515425791a945c5",
+  "status": "complete",
+  "selected_section_count": 6,
+  "successful_record_count": 6,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "82e20aca7cc2b437b517a959",
+      "paper_id": "Tuilagi-1995-Perception.changes.fisheries.AS-Copy/Tuilagi-1995-Perception.changes.fisheries.AS-Copy",
+      "source_path": "output/Tuilagi-1995-Perception.changes.fisheries.AS-Copy/Tuilagi-1995-Perception.changes.fisheries.AS-Copy.md",
+      "section_heading": "Abstract",
+      "section_start_line": 15,
+      "section_end_line": 18,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of interviewees believed that fishing for giant clams had declined?",
+      "ground_truth_answer": "100% of interviewees believed that fishing for giant clams had declined.",
+      "ground_truth_chunks": [
+        "All people interviewed (n=100) believed that fishing for giant clams had declined (100%), while fewer people thought that fishing for reef fish (70%) and palolo worms (43%) had declined."
+      ]
+    },
+    {
+      "record_id": "05eb1a390e6f1a2412bd9f61",
+      "paper_id": "Tuilagi-1995-Perception.changes.fisheries.AS-Copy/Tuilagi-1995-Perception.changes.fisheries.AS-Copy",
+      "source_path": "output/Tuilagi-1995-Perception.changes.fisheries.AS-Copy/Tuilagi-1995-Perception.changes.fisheries.AS-Copy.md",
+      "section_heading": "Introduction",
+      "section_start_line": 19,
+      "section_end_line": 44,
+      "model": "openai:gpt-4o-mini",
+      "question": "What three components of the fishery did the study focus on identifying changes to?",
+      "ground_truth_answer": "Reef fish; giant clams (Tridacna maxima and T. squamosa); and a polychaete (Eunice viridis, locally called palolo).",
+      "ground_truth_chunks": [
+        "For this study we focused on identifying potential changes that had occurred to three components of the fishery, which are each important in terms of the percentage of the catch that they represent ( Ponwith 1991, Craig et al. 1993) or their traditional value (Hill 1977): reef fish, giant clams (Tridacna maxima and T. squamosa) and a polychaete (Eunice viridis, locally called palolo).",
+        "Samoans consider palolo a great delicacy, and its emergence each year is an important cultural event (Des Rochers & Tuilagi 1993)."
+      ]
+    },
+    {
+      "record_id": "4584be7a98de4b4f9d263466",
+      "paper_id": "Tuilagi-1995-Perception.changes.fisheries.AS-Copy/Tuilagi-1995-Perception.changes.fisheries.AS-Copy",
+      "source_path": "output/Tuilagi-1995-Perception.changes.fisheries.AS-Copy/Tuilagi-1995-Perception.changes.fisheries.AS-Copy.md",
+      "section_heading": "Study area",
+      "section_start_line": 45,
+      "section_end_line": 48,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the population lives on Tutuila?",
+      "ground_truth_answer": "95% of the population lives on Tutuila.",
+      "ground_truth_chunks": [
+        "Tutuila is the largest island (137 km²) where the majority (95%) of the population lives (EDPO 1993)."
+      ]
+    },
+    {
+      "record_id": "8b4c83491a7427c7af4537b5",
+      "paper_id": "Tuilagi-1995-Perception.changes.fisheries.AS-Copy/Tuilagi-1995-Perception.changes.fisheries.AS-Copy",
+      "source_path": "output/Tuilagi-1995-Perception.changes.fisheries.AS-Copy/Tuilagi-1995-Perception.changes.fisheries.AS-Copy.md",
+      "section_heading": "Methods",
+      "section_start_line": 49,
+      "section_end_line": 60,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many residents were interviewed and in how many villages?",
+      "ground_truth_answer": "100 residents were interviewed in 50 villages.",
+      "ground_truth_chunks": [
+        "Information was gathered on perceived changes in the fishery by interviewing 100 residents in 50 of the 64 villages on Tutuila and Aunu'u (Fig. 1) between August 1994 and April 1995."
+      ]
+    },
+    {
+      "record_id": "cc1d9c3d52c57b9b6bca4426",
+      "paper_id": "Tuilagi-1995-Perception.changes.fisheries.AS-Copy/Tuilagi-1995-Perception.changes.fisheries.AS-Copy",
+      "source_path": "output/Tuilagi-1995-Perception.changes.fisheries.AS-Copy/Tuilagi-1995-Perception.changes.fisheries.AS-Copy.md",
+      "section_heading": "Results",
+      "section_start_line": 61,
+      "section_end_line": 74,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of people interviewed believed that fishing for giant clams had declined?",
+      "ground_truth_answer": "100% of those interviewed believed that fishing for giant clams had declined.",
+      "ground_truth_chunks": [
+        "All people interviewed believed that fishing for giant clams had declined (100% of those interviewed), while a lower percentage of people thought that fishing for reef fish (70%) and palolo (43%) had declined.",
+        "In contrast, all people on both sides of the island were in agreement that fishing for giant clams had declined."
+      ]
+    },
+    {
+      "record_id": "31ea79cd45d61cc0375c12e4",
+      "paper_id": "Tuilagi-1995-Perception.changes.fisheries.AS-Copy/Tuilagi-1995-Perception.changes.fisheries.AS-Copy",
+      "source_path": "output/Tuilagi-1995-Perception.changes.fisheries.AS-Copy/Tuilagi-1995-Perception.changes.fisheries.AS-Copy.md",
+      "section_heading": "Discussion",
+      "section_start_line": 75,
+      "section_end_line": 92,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of interviewees believed reef fish catches had decreased in recent years?",
+      "ground_truth_answer": "70% of those interviewed believed reef fish catches had decreased in recent years.",
+      "ground_truth_chunks": [
+        "The survey found that most people believed that there had been a decrease in the reef fish catches in recent years (70% of those interviewed), which is consistent with the decline in this fishery as measured by the inshore fisheries monitoring program over the last 4 years (Saucerman 1995)."
+      ]
+    }
+  ],
+  "failures": []
+}

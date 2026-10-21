@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS.md",
+  "source_sha256": "032905e4d6a54dc2ec0ebcd1cc65b195ab3bfb715ce68a511d34f092c148df7f",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "636a9fe737209afaf98bce42",
+      "paper_id": "WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS",
+      "source_path": "output/WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS.md",
+      "section_heading": "Fishery Management Plan",
+      "section_start_line": 11,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which ecosystem and region does the Fishery Management Plan apply to?",
+      "ground_truth_answer": "Coral Reef Ecosystems of the Western Pacific Region.",
+      "ground_truth_chunks": [
+        "for\n\n**Coral Reef Ecosystems** \n\nof the\n\nWestern Pacific Region"
+      ]
+    },
+    {
+      "record_id": "3c996fd78fece90e96f6489c",
+      "paper_id": "WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS",
+      "source_path": "output/WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS.md",
+      "section_heading": "1.0 DEFINITIONS",
+      "section_start_line": 254,
+      "section_end_line": 327,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the definition of \"Essential Fish Habitat (EFH)\" in this section?",
+      "ground_truth_answer": "Those waters and substrate necessary to coral reef resources for spawning, breeding, feeding, or growth to maturity.",
+      "ground_truth_chunks": [
+        "- Essential Fish Habitat (EFH): those waters and substrate necessary to coral reef resources for spawning, breeding, feeding, or growth to maturity."
+      ]
+    },
+    {
+      "record_id": "fe18cd7ebe2cd50dbfd0e972",
+      "paper_id": "WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS",
+      "source_path": "output/WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS.md",
+      "section_heading": "3.4 Probable Condition of FMU Components in the Future",
+      "section_start_line": 511,
+      "section_end_line": 528,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to section 3.4, what is expected to happen to coral reef ecosystems if management policies fail to address current problems or are not implemented or enforced?",
+      "ground_truth_answer": "Current trends indicate that coral reef ecosystems will continue to degrade.",
+      "ground_truth_chunks": [
+        "The future condition of coral reef ecosystems depends on the extent to which Federal, state and territorial agencies implement management measures.",
+        "If management policies fail to address current problems, or those in effect continue not to be implemented or enforced, current trends indicate that coral reef ecosystems will continue to degrade."
+      ]
+    },
+    {
+      "record_id": "fa784194c155ef41b750c182",
+      "paper_id": "WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS",
+      "source_path": "output/WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS.md",
+      "section_heading": "5.2.2 Foreign Fishing Activities",
+      "section_start_line": 710,
+      "section_end_line": 723,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many tons of Napoleon wrasse did each of the three boats caught in Palau have?",
+      "ground_truth_answer": "Each of the three boats had 40 tons of Napoleon wrasse.",
+      "ground_truth_chunks": [
+        "In Palau, there have been 118 Chinese boats in port.",
+        "During the past two years, three boats have been caught, each with 40 tons of Napoleon wrasse from Palauan coral reefs."
+      ]
+    },
+    {
+      "record_id": "63d511463543bf8bc97087d2",
+      "paper_id": "WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS",
+      "source_path": "output/WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS.md",
+      "section_heading": "7.4 Overfishing [SFA requirement; also relates to National Standard 1]",
+      "section_start_line": 891,
+      "section_end_line": 906,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which area does the section state has considerable evidence that nearshore fisheries are overfished largely due to a SCUBA spear-fishery that would not travel to offshore banks?",
+      "ground_truth_answer": "American Samoa.",
+      "ground_truth_chunks": [
+        "American Samoa: There is no information on the over-exploitation of coral reef resources in the EEZ. The few banks in the EEZ are targeted for deep and shallow-water bottomfish, not for coral reef species. There is considerable evidence that the nearshore fisheries in territorial waters are overfished. Much of this overfishing is due largely to a SCUBA spear-fishery that would not travel the distance to the offshore banks."
+      ]
+    },
+    {
+      "record_id": "83900287e02f2b2702d66f69",
+      "paper_id": "WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS",
+      "source_path": "output/WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS.md",
+      "section_heading": "9.0 MANAGEMENT PROGRAM",
+      "section_start_line": 985,
+      "section_end_line": 988,
+      "model": "openai:gpt-4o-mini",
+      "question": "For which geographic areas does WPRFMC propose a package of management measures for the coral reef fishery?",
+      "ground_truth_answer": "For the coral reef fishery in the EEZ around Hawai'i, Guam, American Samoa, CNMI, and the other unincorporated U.S. Pacific Islands.",
+      "ground_truth_chunks": [
+        "WPRFMC proposes a package of management measures for the coral reef fishery in the EEZ around Hawai'i, Guam, American Samoa, CNMI, and the other unincorporated U.S. Pacific Islands."
+      ]
+    },
+    {
+      "record_id": "54f789096cec5f5097a6e3a7",
+      "paper_id": "WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS",
+      "source_path": "output/WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS.md",
+      "section_heading": "Beneficial Impacts:",
+      "section_start_line": 1079,
+      "section_end_line": 1088,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the 'Beneficial Impacts' section, how do the measures affect bycatch and overfishing?",
+      "ground_truth_answer": "They provide a greater level of selectivity in the fishery, thereby minimizing bycatch, and they reduce the likelihood of overfishing.",
+      "ground_truth_chunks": [
+        "- provides greater level of selectivity in the fishery, thereby minimizing bycatch;",
+        "- reduces the likelihood of overfishing;"
+      ]
+    },
+    {
+      "record_id": "854333de2809ed5829b82d32",
+      "paper_id": "WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS",
+      "source_path": "output/WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS.md",
+      "section_heading": "9.2.2.2 Create social, economic, and political incentives for sustainable use and disincentives for unsustainable use of coral reef resources.",
+      "section_start_line": 1216,
+      "section_end_line": 1219,
+      "model": "openai:gpt-4o-mini",
+      "question": "What three components should the Council's multi-faceted program include to create incentives for sustainable use of coral reef resources?",
+      "ground_truth_answer": "1) Research on the social and economic importance of coral reef fisheries and of other ecosystem uses that affect fisheries to better understand social objectives, motivations for behavior, and options for creating effective incentive systems; 2) Case studies and comparative studies (with other industry sectors) to identify factors that determine success or failure of governance systems; 3) Management experiments to test approaches for involving stakeholders in governance systems and for making decisions when faced with multiple objectives (i.e., from different societal perspectives and across sectors).",
+      "ground_truth_chunks": [
+        "The Council should develop and implement a multi-faceted program including: (1) research on the social and economic importance of coral reef fisheries, and of other ecosystem uses that affect fisheries, to better understand social objectives, motivations for behavior, and options for creating effective incentive systems; (2) case studies and comparative studies (with other industry sectors) to identify factors that determine success or failure of governance systems; and (3) management experiments to test approaches for involving stakeholders in governance systems and for making decisions when faced with multiple objectives (i.e., from different societal perspectives and across sectors).",
+        "Rationale: According to the report to Congress by the Ecosystem Principles Advisory Panel (April 1999), \"many of today's fisheries problems stem from governance systems which create incentives that are incompatible with, or inimical to, ecosystem-level goals (e.g., health and sustainability). Alternate governance systems must be identified which provide fishermen and others with incentives to consider the health and sustainability of the ecosystem as primary goals\" (p.5)."
+      ]
+    },
+    {
+      "record_id": "1a96214b63b786621d66e9c4",
+      "paper_id": "WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS",
+      "source_path": "output/WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS.md",
+      "section_heading": "12.3.4 Marine Mammal Protection Act (MMPA)",
+      "section_start_line": 1299,
+      "section_end_line": 1302,
+      "model": "openai:gpt-4o-mini",
+      "question": "What category are all fisheries in the Western Pacific Region designated under the MMPA?",
+      "ground_truth_answer": "All fisheries in the Western Pacific Region are designated as Category 3 (remote likelihood or no known incidental taking of marine mammals).",
+      "ground_truth_chunks": [
+        "All fisheries in the Western Pacific Region are designated as Category 3, meaning that the fisheries were determined to have a remote likelihood or no known incidental taking of marine mammals.",
+        "Fishermen must report interactions with marine mammals, but they are not required to obtain exemption certificates in order to fish."
+      ]
+    },
+    {
+      "record_id": "ea8669a352561231e9150299",
+      "paper_id": "WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS",
+      "source_path": "output/WPFMC-1999-Fishery.mgmt.plan.AS/WPFMC-1999-Fishery.mgmt.plan.AS.md",
+      "section_heading": "Species Managed Under Other FMPs and Explicitly Not Included Under the Coral Reef Ecosystem FMP",
+      "section_start_line": 1564,
+      "section_end_line": 1636,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the scientific name listed for the common name 'Kona crab' in this section?",
+      "ground_truth_answer": "Ranina ranina",
+      "ground_truth_chunks": [
+        "Ranina ranina            | Kona crab                      | Lutjanus monostigmus<br>Pristipomoides | onespot snapper                           "
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy.md",
+  "source_sha256": "9a101797d08b8d564ca40c4156c71ee0c45c5405d8a8dde7cd483dbbb7b157e5",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "f7eddf4c90b555ddc9fd877a",
+      "paper_id": "Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy",
+      "source_path": "output/Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy.md",
+      "section_heading": "Abstract",
+      "section_start_line": 7,
+      "section_end_line": 12,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the per capita catch in 2002, and how much of it was consumed?",
+      "ground_truth_answer": "The per capita catch in 2002 was 71 kg/person, of which 63 kg/person was consumed (the remainder sent to family members on the main island of Tutuila).",
+      "ground_truth_chunks": [
+        "The per capita catch in 2002 was 71 kg/person of which 63 kg/person was consumed and the remainder sent to family members on the main island of Tutuila."
+      ]
+    },
+    {
+      "record_id": "a548fe815499eb3d6167a2e4",
+      "paper_id": "Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy",
+      "source_path": "output/Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy.md",
+      "section_heading": "2.1. Study area and fishery",
+      "section_start_line": 27,
+      "section_end_line": 34,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the average percent coral covers in the backreef moats and on the reef slopes at 10-m depth in 2002?",
+      "ground_truth_answer": "Percent coral cover averaged 43% in the moats and 14% on the reef slopes at the 10-m depth in 2002.",
+      "ground_truth_chunks": [
+        "Percent coral cover averaged 43% in the moats and 14% on the reef slopes at the 10-m depth in 2002 (Green, 2002)."
+      ]
+    },
+    {
+      "record_id": "2bf7311b7d913a06431e8dc9",
+      "paper_id": "Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy",
+      "source_path": "output/Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy.md",
+      "section_heading": "2.4. Catch composition and catch per unit effort (cpue)",
+      "section_start_line": 70,
+      "section_end_line": 73,
+      "model": "openai:gpt-4o-mini",
+      "question": "What conversion factors were used to convert shellfish weights to body weights for turban snails, giant clams, and sea urchins?",
+      "ground_truth_answer": "Shellfish weights were converted using 21% for turban snails (n = 85 snails measured with and without shells), 25% for giant clams (n = 104), and 15% for sea urchins (visual estimate).",
+      "ground_truth_chunks": [
+        "Fish were weighed by spring balances to the nearest 1 g for small fish or 100 g for large fish or groups of fish.",
+        "Shellfish weights were converted to body weights using the following conversion factors: 21% for turban snails (n = 85 snails measured with and without shells), 25% for giant clams (n = 104), and 15% for sea urchins (visual estimate)."
+      ]
+    },
+    {
+      "record_id": "fa934ed98f3986b2bfb747d6",
+      "paper_id": "Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy",
+      "source_path": "output/Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy.md",
+      "section_heading": "2.6. Elder interviews",
+      "section_start_line": 78,
+      "section_end_line": 81,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many elder males were interviewed in the elder interviews?",
+      "ground_truth_answer": "20 elder males.",
+      "ground_truth_chunks": [
+        "we interviewed 20 elder males (mean age 58, range 43-72) from the three villages to gain insight on whether fishing conditions were better or worse than when they were younger, how often they fished, whether any of their catch was sold or shipped fish to family members elsewhere, the current status of other resources (palolo, bigeye scad, giant clams, turtles), amount of fishing in MPAs, and prevalence of destructive fishing practices on local reefs."
+      ]
+    },
+    {
+      "record_id": "da1f90c8549cb2660578c400",
+      "paper_id": "Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy",
+      "source_path": "output/Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy.md",
+      "section_heading": "2.8. Data limitations",
+      "section_start_line": 86,
+      "section_end_line": 89,
+      "model": "openai:gpt-4o-mini",
+      "question": "What potential sources of bias in the study are identified in section 2.8?",
+      "ground_truth_answer": "The section lists four potential sources of bias: (1) using local Samoan names for harvested fish led to lumping multiple species within single categories, preventing assessment of individual species in many cases; (2) the underwater visual survey method restricted counts to only daytime-active and non-cryptic species; (3) boat fishing was likely underestimated; and (4) the amount of reef fish sent to family members on other islands was estimated because the weekly supply boats were not consistently monitored.",
+      "ground_truth_chunks": [
+        "Several sources of potential bias in this study include: (1) our use of local Samoan names for harvested fish resulted in lumping multiple species within single categories thus precluding assessments of individual species in many cases, (2) the underwater visual survey method restricted counts to only daytime active and non-cryptic species, (3) boat fishing was likely underestimated, and (4) the amount of reef fish sent to family members on other islands was estimated because the weekly supply boats were not consistently monitored. None of these limitations should greatly affect data analyses as presented."
+      ]
+    },
+    {
+      "record_id": "d501313da112db45ef71ca29",
+      "paper_id": "Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy",
+      "source_path": "output/Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy.md",
+      "section_heading": "Catch composition, annual harvest, yield",
+      "section_start_line": 151,
+      "section_end_line": 160,
+      "model": "openai:gpt-4o-mini",
+      "question": "What reef fish yield (metric tons per km² per year) did the study report for the coral and hardbottom habitats around Ofu-Olosega?",
+      "ground_truth_answer": "2.3 mt/km2 /yr.",
+      "ground_truth_chunks": [
+        "A reef fish yield of 2.3 mt/km2 /yr was obtained by dividing the total annual catch of reef-associated fish (21,386 kg, without bigeye scad or invertebrates) by all coral and hardbottom habitats encompassed within the 0-30 m depth zone around Ofu-Olosega (9.5 km2 ; NOAA, 2005)."
+      ]
+    },
+    {
+      "record_id": "a27caeec29fe378315024dc5",
+      "paper_id": "Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy",
+      "source_path": "output/Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy.md",
+      "section_heading": "3.4. Comparison to standing stocks of fish",
+      "section_start_line": 232,
+      "section_end_line": 239,
+      "model": "openai:gpt-4o-mini",
+      "question": "What total fish biomass was documented on the reef front at the 10-m depth during fisheries-independent surveys?",
+      "ground_truth_answer": "2.6 mt/ha (± 0.71 se), predominantly parrotfish, surgeonfish, wrasses and snappers.",
+      "ground_truth_chunks": [
+        "Fisheries-independent surveys on the reef front at the 10-m depth documented 142 fish species with a total biomass of 2.6 mt/ha (± 0.71 se), predominantly parrotfish, surgeonfish, wrasses and snappers (Fig. 6).",
+        "Fish biomass was lower in the backreef moat along the southern shoreline of Ofu (0.6 mt/ha ± 0.10 se)."
+      ]
+    },
+    {
+      "record_id": "6192f354f5283ba10e048dbb",
+      "paper_id": "Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy",
+      "source_path": "output/Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy.md",
+      "section_heading": "4.2.1. Comparison with historic and prehistoric catches",
+      "section_start_line": 264,
+      "section_end_line": 267,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of village elders interviewed felt that fishing now was similar to when they were younger?",
+      "ground_truth_answer": "85% of village elders interviewed felt that fishing now was similar to when they were younger.",
+      "ground_truth_chunks": [
+        "Most village elders interviewed (85%) felt that fishing now was similar to when they were younger.",
+        "For the prehistoric comparison, archeological data also indicate that the kinds of fish harvested 1000-3000 years ago (Nagaoka, 1993) were generally similar to those caught today."
+      ]
+    },
+    {
+      "record_id": "2b4dd1403501ee078db08db7",
+      "paper_id": "Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy",
+      "source_path": "output/Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy.md",
+      "section_heading": "4.2.4. Fish size",
+      "section_start_line": 278,
+      "section_end_line": 281,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to section 4.2.4, what explanations are given for the generally small size of fish caught and the scarcity of large fish on the reef slope?",
+      "ground_truth_answer": "Explanations given include: many caught fish are naturally small or juveniles inhabiting shallow waters; temporary mass recruitments of small species (e.g., surgeonfish, goatfish) are not considered concerning; fishing pressure has likely reduced size and abundance (e.g., giant clams) or caused surviving large fish to move to deeper waters; the survey’s narrow transects (3 x 50 m) could underestimate large, diver-wary fish, but their near-absence still points to fishing pressure; and the small reef size allows boats to easily fish the area, cropping larger fish.",
+      "ground_truth_chunks": [
+        "The fish caught were generally small, and few large fish were detected in nearshore waters on the reef slope.",
+        "We acknowledge that our relatively narrow dimensions used in our underwater surveys (3 x 50 m) would underestimate the abundance of large, diver-wary fish and sharks, but their near-absence points to fishing pressure.",
+        "We think the underlying issue here is the small size of these reefs -- a fishing boat can circumnavigate both islands in only one hour, so intermittent fishing by boats might easily crop the larger fish. Alternatively, fishing pressure has caused surviving large fish to reside in deeper waters."
+      ]
+    },
+    {
+      "record_id": "1825546b33a7d9cba267a3ec",
+      "paper_id": "Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy",
+      "source_path": "output/Craig-2007-Sub.harvest.coral.reef.AS-Copy/Craig-2007-Sub.harvest.coral.reef.AS-Copy.md",
+      "section_heading": "4.2.6. Summary",
+      "section_start_line": 290,
+      "section_end_line": 293,
+      "model": "openai:gpt-4o-mini",
+      "question": "How much biomass is reported as being extracted from the small reefs at Ofu-Olosega?",
+      "ground_truth_answer": "A considerable biomass of fish and invertebrates is extracted: 1,400 kg per km of shoreline.",
+      "ground_truth_chunks": [
+        "A considerable biomass of fish and invertebrates is extracted from these small reefs (1,400 kg/km of shoreline), and the current scarcity of large fish and sharks in nearshore waters is a common indicator of fishing pressure."
+      ]
+    }
+  ],
+  "failures": []
+}

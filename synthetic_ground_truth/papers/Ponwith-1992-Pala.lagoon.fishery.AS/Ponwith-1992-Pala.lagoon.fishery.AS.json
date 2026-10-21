@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS.md",
+  "source_sha256": "ea633192d5a2ae1787ed49b1220163fb5fe6df41e147cf3bcd9c3713e02483ab",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "ac65355ccef69db3ecd09f0b",
+      "paper_id": "Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS",
+      "source_path": "output/Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS.md",
+      "section_heading": "FIGURES",
+      "section_start_line": 30,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which figure shows the contribution to total catch and effort for each fishing method used?",
+      "ground_truth_answer": "Figure 3.",
+      "ground_truth_chunks": [
+        "| Figure 3. | Contribution to total catch and effort for each fishing method used12                                    |"
+      ]
+    },
+    {
+      "record_id": "1f5382df32548e29498964b6",
+      "paper_id": "Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS",
+      "source_path": "output/Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 57,
+      "section_end_line": 66,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the area of the largest remaining stand of mangroves in Pala Lagoon (in acres)?",
+      "ground_truth_answer": "123 acres.",
+      "ground_truth_chunks": [
+        "Pala Lagoon in Nu'uuli, the largest enclosed bay in American Samoa, has the largest remaining stand of mangroves (123 acres) left in the Territory.",
+        "However, that wetland is being lost at a rate of over 2 acres/year due to illegal filling (BioSystems Analysis, Inc. 1992)."
+      ]
+    },
+    {
+      "record_id": "ee1b244ef4afff5d98829b65",
+      "paper_id": "Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS",
+      "source_path": "output/Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS.md",
+      "section_heading": "Study Area",
+      "section_start_line": 67,
+      "section_end_line": 82,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which mangrove species are found on the north shore of Pala lagoon?",
+      "ground_truth_answer": "Red (Rhizophora mangle) and oriental (Bruguiera gymnorrhiza) mangroves.",
+      "ground_truth_chunks": [
+        "The lagoon is bordered on the north shore by a mud-bottomed swamp vegetated with red (Rhizophora mangle) and oriental (Bruguiera gymnorrhiza) mangroves."
+      ]
+    },
+    {
+      "record_id": "3b9458cbe27e52aff3d0bf80",
+      "paper_id": "Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS",
+      "source_path": "output/Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS.md",
+      "section_heading": "Data Analysis",
+      "section_start_line": 99,
+      "section_end_line": 127,
+      "model": "openai:gpt-4o-mini",
+      "question": "What unit was used to express fishing effort, and why was lb/gear-hour chosen over lb/person-hour?",
+      "ground_truth_answer": "Effort was expressed as lb/gear-hour because fishing parties often include people who are not actively harvesting fish, so lb/gear-hour more closely describes the fishing power for a trip than pounds per person-hour. (Active gill net effort was expressed as lb/person-hour and passive gill net effort as lb/100 foot-hour.)",
+      "ground_truth_chunks": [
+        "Effort was expressed as lb/gear-hour, which differs from the more commonly used unit of lb/person-hour. In Samoa, it is common for a fishing party to include people who are not actively harvesting fish. For example, one person may fish with a throw net or rod and reel while another merely holds the bag containing the catch. In such a case the lb/gear-hour unit more closely describes the fishing power for that trip than pounds per person-hour.",
+        "One exception was made in the case of active gill net fishing. In this method, a gill net is set in a deep semi-circle and a number\n\nof people approach the open side of the semi-circle while flailing the water with palm fronds, sticks, or their arms, in an attempt to drive fish into the net. While the length of the net may have had some influence on the catch rate for this method, it seemed that the number of people pounding the water in front of the net had a greater influence. Therefore, effort for this method was expressed in terms of the number of people participating, i.e. lb/person-hour. Because the length of the net greatly influenced catch levels, passive gill net effort was expressed as lb/100 foot-hour."
+      ]
+    },
+    {
+      "record_id": "38f1c62bf6621415b3243b27",
+      "paper_id": "Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS",
+      "source_path": "output/Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS.md",
+      "section_heading": "Fishery Profile",
+      "section_start_line": 130,
+      "section_end_line": 173,
+      "model": "openai:gpt-4o-mini",
+      "question": "On average, how many tugane (Gafrarium timidum) clams were there per pound, including shell weight?",
+      "ground_truth_answer": "On average, tugane ran 11 clams to the pound, including shell weight.",
+      "ground_truth_chunks": [
+        "On the average, tugane ran 11 clams to the pound, including shell weight."
+      ]
+    },
+    {
+      "record_id": "fdeed52ffd06bbfbac1e9fba",
+      "paper_id": "Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS",
+      "source_path": "output/Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS.md",
+      "section_heading": "Species Composition",
+      "section_start_line": 223,
+      "section_end_line": 228,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the total catch in Pala Lagoon was contributed by fish?",
+      "ground_truth_answer": "62%.",
+      "ground_truth_chunks": [
+        "Fish contributed 62% to the total catch of fish and invertebrates combined.",
+        "Invertebrates, mainly clams and crabs, comprised 38% of the total catch (Table 3)."
+      ]
+    },
+    {
+      "record_id": "57fc4992fa34c08e191b71fa",
+      "paper_id": "Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS",
+      "source_path": "output/Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS.md",
+      "section_heading": "Sociological Information",
+      "section_start_line": 229,
+      "section_end_line": 393,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the total catch in Pala Lagoon during 1991 was composed of invertebrates?",
+      "ground_truth_answer": "38%",
+      "ground_truth_chunks": [
+        "| Total Invertebrates  | 9012      | 100                     | 38                  |",
+        "| GRAND TOTAL          | 23776     |                         | 100                 |"
+      ]
+    },
+    {
+      "record_id": "e4395ddda30bf9bdc832e276",
+      "paper_id": "Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS",
+      "source_path": "output/Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS.md",
+      "section_heading": "Comparison with Adjacent Coastal Reef",
+      "section_start_line": 414,
+      "section_end_line": 427,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did CPUE in the mangrove lagoon habitat compare to that in the adjacent coral reef areas?",
+      "ground_truth_answer": "For most methods, CPUE in the mangrove lagoon habitat was at least an order of magnitude lower than in the nearby coral reef areas.",
+      "ground_truth_chunks": [
+        "For most methods, CPUE in the mangrove lagoon habitat was at least an order of magnitude lower than of the nearby coral reef areas.",
+        "A factor which heavily influenced CPUE, which was based on the weight of the catch) was that much of the lagoon catch was comprised of juveniles."
+      ]
+    },
+    {
+      "record_id": "f9b9a5fb103563126eff16be",
+      "paper_id": "Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS",
+      "source_path": "output/Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS.md",
+      "section_heading": "Species Diversity and Composition",
+      "section_start_line": 428,
+      "section_end_line": 458,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many fish species were observed in the Pala Lagoon catch compared to the reef catch?",
+      "ground_truth_answer": "Approximately 55 species of fish were observed in the Pala Lagoon catch compared to roughly 110 species from the reef catch.",
+      "ground_truth_chunks": [
+        "Accounting as closely as possible for the number of species which were lumped into species groups in both the studies, approximately 55 species of fish were observed in the Pala Lagoon catch compared to roughly 110 species from the reef catch."
+      ]
+    },
+    {
+      "record_id": "69f0ed8aa968b6fc099e7974",
+      "paper_id": "Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS",
+      "source_path": "output/Ponwith-1992-Pala.lagoon.fishery.AS/Ponwith-1992-Pala.lagoon.fishery.AS.md",
+      "section_heading": "Importance and Value of the Fishery",
+      "section_start_line": 465,
+      "section_end_line": 479,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why do people fish in Pala Lagoon despite lower catch, CPUE, and yield compared to the nearby reef area fishery?",
+      "ground_truth_answer": "1) It is the traditional fishing ground for local residents, especially those living adjacent to the lagoon. 2) Non-residents fish there because of the public access provided by Lion's Park. 3) The lagoon is safer—it is not subject to the high surf and currents common to the reef flats, so fishing is safer for participants and their gear.",
+      "ground_truth_chunks": [
+        "With catch, CPUE, and yield being so much lower in the lagoon than that of the nearby reef area fishery, the question arises as to why people would choose to fish in Pala Lagoon rather than on the nearby reef. Three possible explanations to that question are based on conversations with people who fish in the lagoon. First, people who are residents of the area, especially those who live directly adjacent to the lagoon, fish there because that is their traditional fishing ground. Second, those who are not from the lagoon fish there because of the public access provided by Lion's Park. The third reason is a safety factor; the lagoon is not subject to the high surf and currents common to the reef flat areas, making it a safer place to fish for both the participants and their gear relative to the reef flats along the open ocean."
+      ]
+    }
+  ],
+  "failures": []
+}

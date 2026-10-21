@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020.md",
+  "source_sha256": "01782f08bbd2426283237163f6d86f92bb1df4d3c0eb014e3513c3b7ccf478d0",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "0a108db3bbdc65a152d2b447",
+      "paper_id": "Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020",
+      "source_path": "output/Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020.md",
+      "section_heading": "Metal Mobilization As An Effect of Anthropogenic Contamination in Groundwater Aquifers in Tutuila, American Samoa",
+      "section_start_line": 7,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which trace metals had a moderately positive correlation with nitrate concentrations across the Tafuna–Leone Plain?",
+      "ground_truth_answer": "Uranium and vanadium.",
+      "ground_truth_chunks": [
+        "Across the Tafuna–Leone Plain, nitrate concentrations have a moderately positive correlation with uranium and vanadium.",
+        "Dissolved inorganic carbon also positively correlate with nitrate, uranium, and vanadium."
+      ]
+    },
+    {
+      "record_id": "fcff93883628ac74e4af100d",
+      "paper_id": "Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020",
+      "source_path": "output/Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 23,
+      "section_end_line": 38,
+      "model": "openai:gpt-4o-mini",
+      "question": "What hypothesis did the study test about uranium (U) and vanadium (V) mobilization in the Tutuila aquifer?",
+      "ground_truth_answer": "The study tested the hypothesis that U and V will be mobilized in the aquifer by NO3- and DIC; confirmation would be elevated nutrient, DIC, and trace metal concentrations along pollution gradients with a statistically significant correlation between NO3- and DIC as explanatory variables and U and V as predicted variables.",
+      "ground_truth_chunks": [
+        "Building on these observations from previously characterized groundwater  $NO_3^-$  and DIC patterns for Tutuila [2], as well as U and V solubility dependencies on  $NO_3^-$  and DIC documented elsewhere [6], this study tested the hypothesis that U and V will be mobilized in the aquifer by  $NO_3^-$  and DIC.",
+        "The confirmation of this hypothesis would be manifested by elevated nutrient, DIC, and trace metal concentrations along pollution gradients, with a statistically significant correlation between  $NO_3^-$  and DIC as explanatory variables and U and V as predicted variables of interest."
+      ]
+    },
+    {
+      "record_id": "6bfbd9678b8edf9bcf016872",
+      "paper_id": "Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020",
+      "source_path": "output/Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020.md",
+      "section_heading": "2.2. Chemical Analysis",
+      "section_start_line": 61,
+      "section_end_line": 72,
+      "model": "openai:gpt-4o-mini",
+      "question": "What method was used to analyze nitrate ( $NO_3^-$ ) and nitrite ( $NO_2^-$ ) and how were their concentrations detected?",
+      "ground_truth_answer": "The diazo reaction method was used: NO3- is reduced to NO2- with a copper–cadmium redactor, the NO2- reacts with sulfanilamide to form a diazo compound which is coupled with N-1-naphthylethylene diamine dihydrochloride to produce a purple azo dye, and concentration is determined colorimetrically at 550 nm.",
+      "ground_truth_chunks": [
+        "The diazo reaction method is used to analyze  $NO_3^-$  and  $NO_2^-$  as detailed in Armstrong et al. (1967) [16] and Grasshoff et al. (1983) [17]. With a copper–cadmium redactor column, the  $NO_3^-$  is reduced to  $NO_2^-$ , which then reacts with sulfanilamide to form a diazo compound. The compound is coupled with N-1-naphthylethylene diamine dihydrochloride to create a purple azo dye, from which the concentration is colorimetrically determined at 550 nm."
+      ]
+    },
+    {
+      "record_id": "430a48f6932771a0fbf489a2",
+      "paper_id": "Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020",
+      "source_path": "output/Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020.md",
+      "section_heading": "2.3. Human Impact Levels and Statistical Analysis",
+      "section_start_line": 73,
+      "section_end_line": 78,
+      "model": "openai:gpt-4o-mini",
+      "question": "What downgradient distance from the geologic contact was used to classify wells as human-impacted?",
+      "ground_truth_answer": "Wells more than 300 m downgradient from the geologic contact were classified as human-impacted.",
+      "ground_truth_chunks": [
+        "To accomplish this, we delineated the geologic contact between the young Tafuna–Leone Plain and the old volcanic mountains, and identified the wells that were more than 300 m downgradient from the geologic contact as human-impacted wells.",
+        "Wells located less than 300 m downgradient from the contact were identified as less-impacted wells (marked in Table [1\\)](#page-6-0)."
+      ]
+    },
+    {
+      "record_id": "7306af5eb8252e4b6f06076e",
+      "paper_id": "Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020",
+      "source_path": "output/Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020.md",
+      "section_heading": "3.2. Uranium, Vanadium, and Nutrients",
+      "section_start_line": 95,
+      "section_end_line": 147,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the reported ranges of uranium and vanadium concentrations above detection limits in the samples analyzed?",
+      "ground_truth_answer": "Uranium concentrations range from 0.04 to 3.21 nmol/L; vanadium concentrations range from 17 to 729 nmol/L.",
+      "ground_truth_chunks": [
+        "Uranium concentrations above detection limits range from 0.04 to 3.21 nmol/L and V concentrations range from 17 to 729 nmol/L (Table 1)."
+      ]
+    },
+    {
+      "record_id": "fb250d488dd6c7b4f7fd3ccc",
+      "paper_id": "Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020",
+      "source_path": "output/Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020.md",
+      "section_heading": "3.3. Dissolved Inorganic Carbon",
+      "section_start_line": 148,
+      "section_end_line": 155,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the four main sources of groundwater dissolved inorganic carbon (DIC) on oceanic islands listed in section 3.3?",
+      "ground_truth_answer": "Carbonate mineral dissolution; decomposition of organic matter from natural or anthropogenic sources (such as farming and OSDS leachate); dissolution of atmospheric carbon dioxide (CO2); and intrusion of ocean water.",
+      "ground_truth_chunks": [
+        "In general, there are four main sources of groundwater DIC on oceanic islands: carbonate mineral dissolution, decomposition of organic matter from natural or anthropogenic sources (such as farming and OSDS leachate), dissolution of atmospheric carbon dioxide (CO<sub>2</sub>), and intrusion of ocean water [28].",
+        "The DIC concentrations of the 22 samples analyzed for trace metals range from 826 to 2760  $\\mu$ mol/L (Table 1), while concentrations of all 50 samples range from 343 to 4064  $\\mu$ mol/L (Table S1)."
+      ]
+    },
+    {
+      "record_id": "4346122ee6d307c848c935db",
+      "paper_id": "Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020",
+      "source_path": "output/Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020.md",
+      "section_heading": "4.1. Remobilization of U and V",
+      "section_start_line": 168,
+      "section_end_line": 197,
+      "model": "openai:gpt-4o-mini",
+      "question": "What correlation is reported between uranium (U) concentrations and nitrate (NO3-) in the Tafuna–Leone Plain, and what is the reported r^2 value?",
+      "ground_truth_answer": "Uranium concentrations display a positive correlation with NO3-; the reported r^2 is 0.25 (p ≤ 0.01).",
+      "ground_truth_chunks": [
+        "In the Tafuna–Leone Plain, U concentrations display a positive correlation with  $NO_3^-$  levels and follow a spatial gradient of increasing concentrations toward the coastline and with urbanization (Figure 5a,c).",
+        "With a positive correlation between U and  $NO_3^-$  ( $r^2 = 0.25$ ,  $p \\le 0.01$ ) (Figure 4a), our data suggest that the previously reported mechanism of U mobilization by NO<sub>3</sub><sup>-</sup> introduced into the groundwater system may be taking place."
+      ]
+    },
+    {
+      "record_id": "c18f1e67a5d9bed763aebd87",
+      "paper_id": "Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020",
+      "source_path": "output/Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020.md",
+      "section_heading": "<span id=\"page-11-0\"></span>4.2. Formation of Soluble Carbonate Complexes",
+      "section_start_line": 198,
+      "section_end_line": 220,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to section 4.2, what is the primary source of DIC in the Tafuna–Leone Plain groundwater and how does that DIC affect uranium mobility?",
+      "ground_truth_answer": "The section states that most DIC is sourced from organic matter remineralization (largely anthropogenic inputs), producing bicarbonate in groundwater; bicarbonate forms uranyl–carbonate complexes (e.g., UO2(CO3)3^4−) that increase uranium solubility and mobility.",
+      "ground_truth_chunks": [
+        "These isotopically depleted values suggest that the DIC is coming from either atmospheric sources or organic matter.",
+        "Anthropogenic activities simultaneously introduce both organic C and N to the aquifer system, which are subsequently oxidized to DIC and  $NO_3^-$ , thus creating a relationship between the two.",
+        "We believe that most of the DIC in our samples is sourced from organic matter remineralization, and therefore, bicarbonate is present in the groundwater system. Although U(IV) is less soluble than U(VI), the presence of bicarbonate increases the solubility of U(IV) [10]. The most stable and soluble species of U is uranyl ( $UO_2^{2+}$ ) [8,52]. Under oxic conditions, carbonates can leach U from soils by forming stable uranyl-carbonate complexes following the oxidation reaction [8,10]:\n\n$$UO_2(s) + O_2 + 3CO_3^{2-} \\rightarrow UO_2(CO_3)_3^{4-},$$\n (3)\n\nFurther,  $UO_2^{2+}$  combines with carbonate to produce a stable U complex that is highly mobile due to its lack of retention to soil [8], thus increasing U concentrations in groundwater."
+      ]
+    },
+    {
+      "record_id": "9a54df0250903e84fb826057",
+      "paper_id": "Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020",
+      "source_path": "output/Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020.md",
+      "section_heading": "4.4. Comparison of Trace Metal Chemistry in Similar Environments",
+      "section_start_line": 241,
+      "section_end_line": 248,
+      "model": "openai:gpt-4o-mini",
+      "question": "How is the Tafuna–Leone Plain classified among NAWQA aquifer groups, and did its trace metal levels exceed human-health benchmarks (HHBs)?",
+      "ground_truth_answer": "The Tafuna–Leone Plain is best classified as a BAV (basaltic and other volcanic rock) aquifer in a humid climate, and trace metal levels measured in Tafuna–Leone samples did not exceed HHBs.",
+      "ground_truth_chunks": [
+        "The Tafuna–Leone Plain would be best classified as a BAV aquifer in a humid climate. Similar to the results reported from well samples in BAV aquifers across the United States, trace metal levels measured in Tafuna–Leone samples did not exceed HHBs.",
+        "Overall, trace metal concentrations found across the Tafuna–Leone Plain are lower than U.S. EPA standards and are lower than trace metal concentrations found in groundwater of other Pacific islands."
+      ]
+    },
+    {
+      "record_id": "03561ad5a68f61d2565036e3",
+      "paper_id": "Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020",
+      "source_path": "output/Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020.md",
+      "section_heading": "5. Conclusions",
+      "section_start_line": 249,
+      "section_end_line": 270,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to section 5, what processes or factors are identified as mobilizing uranium (U) and vanadium (V) in the Tafuna–Leone Plain groundwater?",
+      "ground_truth_answer": "Elevated anthropogenically-sourced NO<sub>3</sub><sup>-</sup>, which likely acts as an electron acceptor oxidizing U and V and making them soluble and mobile, and elevated DIC, which forms soluble complexes with U and V.",
+      "ground_truth_chunks": [
+        "1. Elevated levels of anthropogenically-sourced NO<sub>3</sub><sup>-</sup> are positively correlated with U and V concentrations. The NO<sub>3</sub><sup>-</sup> likely acts as an electron acceptor, oxidizing U and V, making them soluble and mobile in the groundwater.",
+        "2. Elevated DIC concentrations in the Tafuna–Leone Plain are most likely a result of anthropogenic organic matter and are positively correlated with NO<sub>3</sub><sup>-</sup>, U, and V. DIC forms soluble complexes with U and V, thus mobilizing both in the groundwater."
+      ]
+    }
+  ],
+  "failures": []
+}

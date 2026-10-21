@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS.md",
+  "source_sha256": "79dc6a45cd5b7a4dad5f2df29be9455674384a4642aa6ad226b0419bbcc3ff30",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "2f1d161834a014643eb5200c",
+      "paper_id": "Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS",
+      "source_path": "output/Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS.md",
+      "section_heading": "Suggested citation:",
+      "section_start_line": 37,
+      "section_end_line": 44,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who must grant permission to reproduce any copyrighted material contained within this report?",
+      "ground_truth_answer": "Permission must be secured from the individual copyright owners.",
+      "ground_truth_chunks": [
+        "Although this report is in the public domain, permission must be secured from the individual copyright owners to reproduce any copyrighted material contained within this report."
+      ]
+    },
+    {
+      "record_id": "73910996025214915af3c65a",
+      "paper_id": "Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS",
+      "source_path": "output/Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS.md",
+      "section_heading": "Research and Monitoring in American Samoa",
+      "section_start_line": 129,
+      "section_end_line": 185,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which agency is actively engaged in long-term stream and beach water quality monitoring in American Samoa?",
+      "ground_truth_answer": "American Samoa Environmental Protection Agency (ASEPA).",
+      "ground_truth_chunks": [
+        "**American Samoa Environmental Protection Agency:** ASEPA is actively engaged in long term stream and beach water quality monitoring in American Samoa.",
+        "This has involved monthly assessments of water hydrography (pH, turbidity, temperature, dissolved oxygen), water chemistry (total nitrogen, total phosphorus, nitrate, ammonium) and fecal bacterial contamination in selected perennial streams on Tutuila (Craig et al 2005)."
+      ]
+    },
+    {
+      "record_id": "ffdad331cdd510dd398e4902",
+      "paper_id": "Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS",
+      "source_path": "output/Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS.md",
+      "section_heading": "Ridge to Reef – an Existing Paradigm for American Samoa",
+      "section_start_line": 186,
+      "section_end_line": 213,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which organization serves as the collaborative clearinghouse and official advisory task force for coral reef management and information in American Samoa?",
+      "ground_truth_answer": "The Coral Reef Advisory Group (CRAG).",
+      "ground_truth_chunks": [
+        "Central to these efforts is the Coral Reef Advisory Group (CRAG), a collaborative effort between DMWR, DOC, ASEPA, ASCC, and NPSA.",
+        "While initially an informal working body with ties to the Coral Reef Initiative (CRI), it is now an official advisory task force of the territorial Governor's office.",
+        "CRAG is the common thread/clearinghouse for coral reef information and research in American Samoa with strong links to policy makers in the American Samoan government."
+      ]
+    },
+    {
+      "record_id": "f40340e384739e754a2b2f08",
+      "paper_id": "Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS",
+      "source_path": "output/Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS.md",
+      "section_heading": "Effects of Invasive Species on Water Quality and Sediment Transport",
+      "section_start_line": 220,
+      "section_end_line": 247,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what evidence indicates Falcataria moluccana may increase soil erosion and sediment transport in American Samoa?",
+      "ground_truth_answer": "The section states Falcataria has a shallow, tentacular root system; that soil erosion in Falcataria plantations can be a problem and the species is not recommended for steep hillsides; and that researchers observed landslides on Tutuila associated with the presence of Falcataria, suggesting it may promote landslide frequency and sediment transport.",
+      "ground_truth_chunks": [
+        "Soil erosion in *Falcataria* plantations can be a problem and this species is not recommended for planting on steep hillsides (Budelman 1989).",
+        "We observed landslides both in NPSA and along highways on Tutuila in association with the presence of *Falcataria* and the role of this tree in promoting landslide frequency and sediment transport is worthy of research.",
+        "The root system of this very quick growing and large invasive tree is shallow and tentacular."
+      ]
+    },
+    {
+      "record_id": "9d3d0e31f655d2dde19c1937",
+      "paper_id": "Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS",
+      "source_path": "output/Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS.md",
+      "section_heading": "Deployment of Stream Gaging Stations to monitor Watershed Functions",
+      "section_start_line": 252,
+      "section_end_line": 255,
+      "model": "openai:gpt-4o-mini",
+      "question": "What monitoring network did ASEPA identify as a need during the site visit?",
+      "ground_truth_answer": "An expanded network of stream gaging and sediment monitoring stations to support efforts to monitor water quality in streams, located in both highly disturbed and relatively undisturbed watersheds and tied to measuring what happens to freshwater contaminants once they reach reef ecosystems.",
+      "ground_truth_chunks": [
+        "One need identified in discussions with ASEPA during our site visit was an expanded network of stream gaging and sediment monitoring stations that can support their efforts to monitor water quality in streams.",
+        "Depending on available resources, these could be located in both highly disturbed and relatively undisturbed watersheds for comparisons of water quality on coral reef health.",
+        "Tied closely to these stations is a need to measure what happens to freshwater contaminants once they reach reef ecosystems."
+      ]
+    },
+    {
+      "record_id": "b3821ac3f26f2932918e6d18",
+      "paper_id": "Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS",
+      "source_path": "output/Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS.md",
+      "section_heading": "Summary",
+      "section_start_line": 260,
+      "section_end_line": 265,
+      "model": "openai:gpt-4o-mini",
+      "question": "What significant problems are facing coral reef resources in the territory of American Samoa?",
+      "ground_truth_answer": "Overfishing, non-point source pollution, global warming, and continuing population growth and development.",
+      "ground_truth_chunks": [
+        "Coral reef resources in the territory of American Samoa face significant problems from overfishing, non-point source pollution, global warming and continuing population growth and development."
+      ]
+    },
+    {
+      "record_id": "3319165aeadc922b9dd9a3d7",
+      "paper_id": "Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS",
+      "source_path": "output/Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS.md",
+      "section_heading": "Appendix: Travel Itinerary for American Samoa Site Visit",
+      "section_start_line": 380,
+      "section_end_line": 391,
+      "model": "openai:gpt-4o-mini",
+      "question": "What major stressors to coral reefs in American Samoa did CRAG identify, according to Peter Craig?",
+      "ground_truth_answer": "Overfishing, pollution, global warming, and population growth.",
+      "ground_truth_chunks": [
+        "Peter described CRAG (Coral Reef Advisory Group) and the major stressors to coral reefs in American Samoa that were identified by the group – overfishing, pollution, global warming, and population growth.",
+        "Overfishing is having a major impact on reef fish communities both on Tutuila and the more isolated Manu'a islands."
+      ]
+    },
+    {
+      "record_id": "7a74d6c98a89f331f0e755d0",
+      "paper_id": "Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS",
+      "source_path": "output/Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS.md",
+      "section_heading": "June 29 – Coral Reef Advisory Group Meeting",
+      "section_start_line": 418,
+      "section_end_line": 423,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which invasive tree species was discussed as potentially increasing landslide frequency and affecting coral reef resources?",
+      "ground_truth_answer": "Falcataria",
+      "ground_truth_chunks": [
+        "We introduced the idea that spread of the invasive tree *Falcataria* might lead to increased landslide frequency, increased sedimentation, and disturbance of the community structure of forests of American Samoa with subsequent impacts on coral reef resources.",
+        "The idea was generally well received, particularly by Peter Craig and the National Park Service."
+      ]
+    },
+    {
+      "record_id": "a9997792c3d047490c33a3a0",
+      "paper_id": "Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS",
+      "source_path": "output/Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS.md",
+      "section_heading": "June 30 – American Samoa Community College",
+      "section_start_line": 424,
+      "section_end_line": 429,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does Eric Hensen's work focus on according to the section?",
+      "ground_truth_answer": "His work focuses mostly on invasive species and development of sustainable forestry practices on the islands.",
+      "ground_truth_chunks": [
+        "We spoke briefly to Eric Hensen (USDA-Forest Service) about his work. It focuses mostly on invasive species and development of sustainable forestry practices on the islands."
+      ]
+    },
+    {
+      "record_id": "c2cafd50f90604207aecf2aa",
+      "paper_id": "Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS",
+      "source_path": "output/Atkinson-2005-Study.watershed.AS/Atkinson-2005-Study.watershed.AS.md",
+      "section_heading": "American Samoa Contacts",
+      "section_start_line": 444,
+      "section_end_line": 584,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who is listed as the Marine Ecologist at the National Park of American Samoa?",
+      "ground_truth_answer": "Peter Craig.",
+      "ground_truth_chunks": [
+        "Peter Craig, Marine Ecologist National Park of American Samoa"
+      ]
+    }
+  ],
+  "failures": []
+}

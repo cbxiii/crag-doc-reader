@@ -1,0 +1,145 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus.md",
+  "source_sha256": "92ed56d80fb6bbe6a87843aa73e79902a8661067d4026819812c02937348fab8",
+  "status": "complete",
+  "selected_section_count": 9,
+  "successful_record_count": 9,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "4e6661bdad11401c4f98c2d5",
+      "paper_id": "Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus",
+      "source_path": "output/Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus.md",
+      "section_heading": "Recruitment dynamics and first year growth of the coral reef surgeonfish Ctenochaetus striatus, with implications for acanthurid growth models",
+      "section_start_line": 3,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to age-based analysis in the study, what proportion of annual recruitment was produced by the mass recruitment event?",
+      "ground_truth_answer": "About 90% of annual recruitment.",
+      "ground_truth_chunks": [
+        "During this period, a mass recruitment of age-0 C. striatus occurred in March 2002 with numbers reaching 22.9 recruits m<sup>-2</sup>.",
+        "Age-based analysis indicated that the mass recruitment generated about 90 % of annual recruitment, but recruit mortality was high; thus, most recruitment was provided by continuous settlement throughout the year."
+      ]
+    },
+    {
+      "record_id": "aaaf867e46d44163e6ca8bd6",
+      "paper_id": "Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus",
+      "source_path": "output/Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus.md",
+      "section_heading": "Introduction",
+      "section_start_line": 33,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the specific aims of this study as stated in the Introduction?",
+      "ground_truth_answer": "The study aims to (1) examine recruit dynamics following a mass recruitment event; (2) determine whether the growth rate of recruits during their first year supported the square growth concept, including validating the first annual ring on the otolith; and (3) evaluate the effects of age-0 recruits on acanthurid growth models.",
+      "ground_truth_chunks": [
+        "We first focus on this early life history period for C. striatus, and then show its linkage to the adult growth stage of this species described by Trip et al. [\\(2008](#page-10-0)). The specific aims of this study are to (1) examine recruit dynamics following a mass recruitment event; (2) determine whether the growth rate of recruits during their first year supported the square growth concept; the latter point also involves validating the first annual ring on the otolith, which is critical in generating a growth curve with accurate parameters for species with square growth characteristics; and (3) evaluate the effects of age-0 recruits on acanthurid growth models."
+      ]
+    },
+    {
+      "record_id": "6b5b15d386a9308c6f7b5b2c",
+      "paper_id": "Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus",
+      "source_path": "output/Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus.md",
+      "section_heading": "Materials and methods",
+      "section_start_line": 47,
+      "section_end_line": 52,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which pools had quantitative measurements of recruit densities taken?",
+      "ground_truth_answer": "Quantitative measurements of recruit densities were taken only at Pools 200 and 400.",
+      "ground_truth_chunks": [
+        "The study area consisted of three sampling sites (Pools 100, 200, and 400) within a 4.1-km section of the moat:",
+        "Recruits for age and growth analysis were collected at all three sites (usually at one site per sampling period), but quantitative measurements of recruit densities were taken only at Pools 200 and 400."
+      ]
+    },
+    {
+      "record_id": "e704129419f81e5cb342f8e5",
+      "paper_id": "Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus",
+      "source_path": "output/Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus.md",
+      "section_heading": "Definition of recruits",
+      "section_start_line": 53,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "How was the recruitment date defined for all aged fish in this study?",
+      "ground_truth_answer": "Their recruitment date was defined as the first day after the settlement band mark on their otoliths.",
+      "ground_truth_chunks": [
+        "For all aged fish, their recruitment date was defined as the first day after the settlement band mark on their otoliths (see below).",
+        "Recruits were defined as a mixture of recently settled fish together with other age-0 fish that had settled over previous months."
+      ]
+    },
+    {
+      "record_id": "0b6456dbe1de4337216ffe71",
+      "paper_id": "Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus",
+      "source_path": "output/Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus.md",
+      "section_heading": "Recruitment dynamics",
+      "section_start_line": 59,
+      "section_end_line": 62,
+      "model": "openai:gpt-4o-mini",
+      "question": "Over what time period and at what intervals were recruits monitored by snorkel in the study?",
+      "ground_truth_answer": "Recruits were monitored by snorkel from March 10, 2002 to July 10, 2003 at 1–3 month intervals.",
+      "ground_truth_chunks": [
+        "Recruits were monitored by snorkel at two sites (Pools 200 and 400) at 1–3 month intervals from March 10, 2002 to July 10, 2003 (Table 1).",
+        "At each site, average counts along five transects (3 m wide and 50 m long) were recorded."
+      ]
+    },
+    {
+      "record_id": "1dca23100c94b472b41b6e14",
+      "paper_id": "Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus",
+      "source_path": "output/Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus.md",
+      "section_heading": "Age, growth, and maturity",
+      "section_start_line": 63,
+      "section_end_line": 125,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many recruits were aged using otoliths in this study, and how many of those otoliths showed a settlement band allowing PLD and PS calculations?",
+      "ground_truth_answer": "Age was estimated for a subsample of 82 fish using otoliths; 80 of the 82 otoliths showed a settlement band allowing separation of pelagic larval and post-settlement phases (PLD and PS) and associated calculations, while the remaining two fish provided only birth date and total age.",
+      "ground_truth_chunks": [
+        "Age (in days) was estimated for a subsample of 82 fish that were randomly selected from each 5-mm FL size class within each monthly collection in order to subsample the complete size range present, while selecting a similar number of individuals across months. Note that this size selection produced a sampling bias for some aspects of this study because recruits were not aged in proportion to their recruitment abundance (see below).",
+        "A settlement band on the otolith allowed the daily rings to be separated into pelagic larval and post-settlement phases (Wilson and McCormick 1999) in 80 of the 82 otoliths examined. This allowed calculations of birth date, pelagic larval duration (PLD), recruitment date, post-settlement days on the reef (PS), and total age (PLD + PS) for 80 fish, and birth date and total age for the remaining two fish."
+      ]
+    },
+    {
+      "record_id": "e32c201b3809d0e6e77e1dc4",
+      "paper_id": "Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus",
+      "source_path": "output/Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus.md",
+      "section_heading": "Results",
+      "section_start_line": 126,
+      "section_end_line": 129,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the mean recruitment size at Day 4 after the mass event?",
+      "ground_truth_answer": "64.3 mm FL (range 56–70 mm, n = 97).",
+      "ground_truth_chunks": [
+        "Mean recruitment size at Day 4 after the mass event was 64.3 mm FL (range 56–70 mm, n = 97)."
+      ]
+    },
+    {
+      "record_id": "c63eb58ab96f2f26fb347912",
+      "paper_id": "Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus",
+      "source_path": "output/Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus.md",
+      "section_heading": "Recruitment dynamics",
+      "section_start_line": 130,
+      "section_end_line": 181,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the age analysis of sampled recruits in this study, what percentage of the aged recruits originated from the March 10, 2002 mass recruitment event?",
+      "ground_truth_answer": "Only 16% of the aged recruits originated from the mass event.",
+      "ground_truth_chunks": [
+        "Only 16 % of the aged recruits originated from the mass event.",
+        "Rather than tracking a single mass recruitment event during the course of this study, nearly continuous recruitment occurred throughout 2002 (Fig. [3](#page-5-0))."
+      ]
+    },
+    {
+      "record_id": "ee0791c171ecb6eec5a8eb4b",
+      "paper_id": "Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus",
+      "source_path": "output/Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus.md",
+      "section_heading": "Discussion",
+      "section_start_line": 182,
+      "section_end_line": 251,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the average residence time on the reef for recruits from the initial 2002 mass recruitment pulse?",
+      "ground_truth_answer": "About 14.1 days.",
+      "ground_truth_chunks": [
+        "Although this group recruited abruptly in high densities, age analysis revealed that their residence time on the reef was brief,",
+        "averaging only 14.1 d. In contrast, even though sampling started when the mass recruitment occurred, 84 % of the aged recruits sampled did not originate in that initial pulse, but were produced by year round spawning, and their residence time on the reef was much longer, averaging 161.1 d."
+      ]
+    }
+  ],
+  "failures": []
+}

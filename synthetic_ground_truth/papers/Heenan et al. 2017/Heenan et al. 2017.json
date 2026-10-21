@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Heenan et al. 2017/Heenan et al. 2017.md",
+  "source_sha256": "4058bca335df80a15d729215120e390427f95f221a6d675859266d07c9488373",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "c2b28e88035bba5576169953",
+      "paper_id": "Heenan et al. 2017/Heenan et al. 2017",
+      "source_path": "output/Heenan et al. 2017/Heenan et al. 2017.md",
+      "section_heading": "Heenan et al. 2017.md",
+      "section_start_line": 1,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the PIFSC Working Paper number and issue date for this feasibility report?",
+      "ground_truth_answer": "PIFSC Working Paper WP-17-001, Issued 15 March 2017.",
+      "ground_truth_chunks": [
+        "Linking local and national data to improve marine managed area monitoring and data quality in Tutuila, American Samoa: a feasibility report.",
+        "<sup>1</sup> PIFSC Working Paper WP-17-001 Issued 15 March 2017."
+      ]
+    },
+    {
+      "record_id": "30a6d6e0e5c6eeaa15b10221",
+      "paper_id": "Heenan et al. 2017/Heenan et al. 2017",
+      "source_path": "output/Heenan et al. 2017/Heenan et al. 2017.md",
+      "section_heading": "<span id=\"page-4-0\"></span>1. Introduction",
+      "section_start_line": 83,
+      "section_end_line": 86,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Introduction, what offshore distance range does CREP survey and what distance defines near-shore management authority?",
+      "ground_truth_answer": "CREP surveys US-affiliated Pacific waters from 0–200 nautical miles offshore; near-shore management authority lies within 3 nautical miles.",
+      "ground_truth_chunks": [
+        "Pacific RAMP is a part of the National Coral Reef Monitoring Program (NCRMP), and executed by the Coral Reef Ecosystem Program (CREP).",
+        "The CREP is federally funded to survey coral reefs in US-affiliated waters in the Pacific (0–200-nm offshore), but most of the authority to manage the near-shore (within 3 nm) lies with jurisdictional agencies."
+      ]
+    },
+    {
+      "record_id": "766f71832738ddf0a717385a",
+      "paper_id": "Heenan et al. 2017/Heenan et al. 2017",
+      "source_path": "output/Heenan et al. 2017/Heenan et al. 2017.md",
+      "section_heading": "Why integrate national and jurisdictional monitoring efforts?",
+      "section_start_line": 105,
+      "section_end_line": 147,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the two main advantages of collaborating across federal and jurisdictional monitoring programs?",
+      "ground_truth_answer": "1) It can advance the understanding of cause-and-effect relationships within the bio-physical and social system, and, if tied to an adaptive management framework, improve understanding of how management actions influence the ecosystem. 2) It can maximize use of the resources made available for monitoring by enforcing clarity over priority monitoring objectives and explicitly linking monitoring to management information needs, which can lead to greater cost-effectiveness in the long run.",
+      "ground_truth_chunks": [
+        "There are two main advantages of collaborating across federal and jurisdictional monitoring program. It can advance the understanding of cause-and-effect relationships within the bio-physical and social system, and if tied to an adaptive management framework, can improve the understanding of how management actions influence the ecosystem (Hedge et al., 2013).",
+        "The second benefit is that it can maximize use of the resources made available for monitoring. It enforces clarity over the priority monitoring objectives, and explicitly links monitoring to management information needs. So while overall, integration can increase the cost of monitoring, it can lead to greater cost-effectiveness in the long run (Hedge et al., 2013)."
+      ]
+    },
+    {
+      "record_id": "e1126bbc0c263300be7cf7a1",
+      "paper_id": "Heenan et al. 2017/Heenan et al. 2017",
+      "source_path": "output/Heenan et al. 2017/Heenan et al. 2017.md",
+      "section_heading": "<span id=\"page-9-0\"></span>2. Marine managed areas in Tutuila",
+      "section_start_line": 154,
+      "section_end_line": 200,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of territorial reefs did the territory commit to include in no-take MPAs?",
+      "ground_truth_answer": "20% of territorial reefs.",
+      "ground_truth_chunks": [
+        "While the territory made a commitment 16 years ago to increase no-take marine protected area (MPA) coverage to include 20% of territorial reefs for the conservation of habitat and fisheries (Sunia, 2000), few specific unified multiagency commitments to managed area effectiveness have been made."
+      ]
+    },
+    {
+      "record_id": "be30399029b09943d63f0253",
+      "paper_id": "Heenan et al. 2017/Heenan et al. 2017",
+      "source_path": "output/Heenan et al. 2017/Heenan et al. 2017.md",
+      "section_heading": "Individual data sets: research studies",
+      "section_start_line": 225,
+      "section_end_line": 270,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many sites were sampled and how many surveys per site were completed in the No-take MPA reconnaissance surveys, and when were they conducted?",
+      "ground_truth_answer": "27 sites; 8 surveys per site; completed between 2006 and 2008.",
+      "ground_truth_chunks": [
+        "| Data<br>set name:                     | No-take MPA reconnaissance surveys                                                                                                           |",
+        "| Sampling effort:                      | 27 sites<br>(8 surveys/site) completed<br>between 2006<br>and 2008                                                                           |"
+      ]
+    },
+    {
+      "record_id": "4673cc281f6f58942465400c",
+      "paper_id": "Heenan et al. 2017/Heenan et al. 2017",
+      "source_path": "output/Heenan et al. 2017/Heenan et al. 2017.md",
+      "section_heading": "<span id=\"page-24-0\"></span>5. Integration feasibility",
+      "section_start_line": 472,
+      "section_end_line": 491,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why is statistically blending multiple monitoring data sets around Tutuila considered not viable for this project?",
+      "ground_truth_answer": "Because statistical blending is a quantitatively challenging endeavor and the major data providers (DMWR) are not currently collecting data due to permitting issues, and the monitoring data sets use different survey methods and lack consistent statistical sampling objectives—conditions that preclude reliable integration without a dedicated calibration effort.",
+      "ground_truth_chunks": [
+        "This, however, is a quantitatively challenging endeavor and not viable for this project given that the major data providers for the MMAs are within DMWR and are not currently collecting data due to permitting issues.",
+        "While it is possible to combine data sets analytically (e.g., in hierarchical analyses), the multiple monitoring data sets found throughout Tutuila do not lend themselves easily to this as each of the data sets are collected using unique methods for surveying the biological populations. For example, some programs use belt transects while others use stationary point counts.",
+        "Data collected specifically within the CFMP sites for ICRMP do not have a formal statistical sampling objective and data collection has been on pause for the last two years due to permitting issues. This precludes statistical blending of the Pacific RAMP and ICRMP data."
+      ]
+    },
+    {
+      "record_id": "6d01f07b6f248728390b7bf6",
+      "paper_id": "Heenan et al. 2017/Heenan et al. 2017",
+      "source_path": "output/Heenan et al. 2017/Heenan et al. 2017.md",
+      "section_heading": "<span id=\"page-27-0\"></span>7. Recommendations and Actionable Gaps",
+      "section_start_line": 513,
+      "section_end_line": 516,
+      "model": "openai:gpt-4o-mini",
+      "question": "Into how many broad categories were the recommendations grouped, and what are they?",
+      "ground_truth_answer": "They were grouped into four broad categories: (1) communication, (2) data integrity, (3) data relevance, and (4) non-data resources.",
+      "ground_truth_chunks": [
+        "We grouped recommendations into four broad categories of need relevant to all monitoring efforts: (1) communication, (2) data integrity, (3) data relevance, and (4) non-data resources.",
+        "We further classified recommendations into those that can be achieved immediately, in the short term (likely requires securing extra funding) and in the long term (requiring long-term planning and coordination)."
+      ]
+    },
+    {
+      "record_id": "ed654b4d3422f8e38629d06d",
+      "paper_id": "Heenan et al. 2017/Heenan et al. 2017",
+      "source_path": "output/Heenan et al. 2017/Heenan et al. 2017.md",
+      "section_heading": "Outputs:",
+      "section_start_line": 690,
+      "section_end_line": 769,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which village was selected as the pilot site for the community outreach brief?",
+      "ground_truth_answer": "Faga'alu.",
+      "ground_truth_chunks": [
+        "Participants also decided that we would prioritize Faga'alu as the pilot village, with the hopes of securing future funding to create similar briefings for additional villages.",
+        "Faga'alu was selected as a pilot site because it is one of the villages with the highest number of overlapping monitoring data sets and because it is relevant to current management objectives."
+      ]
+    },
+    {
+      "record_id": "84a96c0824aa63bba071f461",
+      "paper_id": "Heenan et al. 2017/Heenan et al. 2017",
+      "source_path": "output/Heenan et al. 2017/Heenan et al. 2017.md",
+      "section_heading": "Opportunities",
+      "section_start_line": 823,
+      "section_end_line": 834,
+      "model": "openai:gpt-4o-mini",
+      "question": "What prevents responding to immediate local requests during cruises according to the 'Opportunities' section?",
+      "ground_truth_answer": "There is no flexibility to respond to immediate local needs if requests arrive during a cruise — they can't deviate from cruise instructions. Additionally, there is no formal way to secure ship time, and collaborations depend on ad hoc personal relationships rather than formal requirements.",
+      "ground_truth_chunks": [
+        "There is no flexibility to respond to immediate local needs of requests say if they come in right at the time of a cruise – we can't deviate from the cruise instructions",
+        "No formal way of securing ship time for monitoring efforts that are relevant to local needs",
+        "Dependent on ad hoc personal relationships or will to collaborate it is not a formalized requirement"
+      ]
+    },
+    {
+      "record_id": "5ad74c528c4a13863eba161d",
+      "paper_id": "Heenan et al. 2017/Heenan et al. 2017",
+      "source_path": "output/Heenan et al. 2017/Heenan et al. 2017.md",
+      "section_heading": "<span id=\"page-50-0\"></span>Brainstorm activity – a thought experiment on integrated monitoring",
+      "section_start_line": 1024,
+      "section_end_line": 1046,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which habitats beyond coral reefs did participants suggest including in monitoring?",
+      "ground_truth_answer": "Watersheds, soft-bottom, mangroves, seagrasses, and the mesophotic zone.",
+      "ground_truth_chunks": [
+        "- 6. Think beyond coral reefs, including watersheds, soft-bottom, mangroves, seagrasses, mesophotic zone (i.e., examine all the habitats fish utilize)"
+      ]
+    }
+  ],
+  "failures": []
+}

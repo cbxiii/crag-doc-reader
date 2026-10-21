@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Balazs-1991-History.turtle.Rose.Atoll.AS/Balazs-1991-History.turtle.Rose.Atoll.AS.md",
+  "source_sha256": "cedbf0f3e8d0fe2bb7456994706981b628ef1c972bb8ba3471ae2bd41f0d15e7",
+  "status": "complete",
+  "selected_section_count": 2,
+  "successful_record_count": 2,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "108c8f1b7013c75dfa6cba3b",
+      "paper_id": "Balazs-1991-History.turtle.Rose.Atoll.AS/Balazs-1991-History.turtle.Rose.Atoll.AS",
+      "source_path": "output/Balazs-1991-History.turtle.Rose.Atoll.AS/Balazs-1991-History.turtle.Rose.Atoll.AS.md",
+      "section_heading": "Balazs-1991-History.turtle.Rose.Atoll.AS.md",
+      "section_start_line": 1,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many pits were counted on Rose Island during the 20-25 October 1975 visit?",
+      "ground_truth_answer": "247 pits.",
+      "ground_truth_chunks": [
+        "\"Tracks appearing recent totaled 52 (indicating about 26 animals); track counts during visit: 21-22 Oct. = 3; 22-23 Oct. = 3; 23-24 Oct. = 1.\" Huge adult stranded at low tide on north reef. Hatchling found outside channel entrance. 247 pits counted on Rose Island and 148 pits counted on Sand Island."
+      ]
+    },
+    {
+      "record_id": "4f6e6f7d6403fea01085c91c",
+      "paper_id": "Balazs-1991-History.turtle.Rose.Atoll.AS/Balazs-1991-History.turtle.Rose.Atoll.AS",
+      "source_path": "output/Balazs-1991-History.turtle.Rose.Atoll.AS/Balazs-1991-History.turtle.Rose.Atoll.AS.md",
+      "section_heading": "CONTINUED .-- HISTORICAL SUMMARY OF SEA TURTLE OBSERVATIONS AT ROSE ATOLL, AMERICAN SAMOA",
+      "section_start_line": 33,
+      "section_end_line": 73,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many nesting green turtles were tagged on Rose Island during the 5–14 October 1982 visit?",
+      "ground_truth_answer": "Seven nesting green turtles were tagged on Rose Island during 5–14 October 1982.",
+      "ground_truth_chunks": [
+        "29. | G. H. Balazs, W. Pedro,<br>Ludwig, and R. Davis     | 5-14 October 1982   | Seven nesting green turtles tagged on Rose Island (SCL-105, 96 cm; CCL-100, 108, 99, 98, 94 cm). Five pairs of tracks and 29 pits counted on Rose Island upon arrival. 27 pits counted on Sand Island. Several juvenile and adult green turtles seen in the lagoon. All traces of nesting from previous years had been erased by a storm in February.                                                                                                                                                                                                                |"
+      ]
+    }
+  ],
+  "failures": []
+}

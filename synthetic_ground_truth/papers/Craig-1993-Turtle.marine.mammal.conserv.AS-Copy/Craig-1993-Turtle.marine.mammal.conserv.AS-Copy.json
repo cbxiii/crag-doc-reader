@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Craig-1993-Turtle.marine.mammal.conserv.AS-Copy/Craig-1993-Turtle.marine.mammal.conserv.AS-Copy.md",
+  "source_sha256": "4c7febb237a43e73c829132956c15c48065dd6ac807f15b672cf313d8a1d42df",
+  "status": "complete",
+  "selected_section_count": 2,
+  "successful_record_count": 2,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "685e8e0601650f680485fcbf",
+      "paper_id": "Craig-1993-Turtle.marine.mammal.conserv.AS-Copy/Craig-1993-Turtle.marine.mammal.conserv.AS-Copy",
+      "source_path": "output/Craig-1993-Turtle.marine.mammal.conserv.AS-Copy/Craig-1993-Turtle.marine.mammal.conserv.AS-Copy.md",
+      "section_heading": "A. SEA TURTLE STATUS",
+      "section_start_line": 12,
+      "section_end_line": 31,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the estimated total number of nesting female turtles per year in the whole Territory (species combined)?",
+      "ground_truth_answer": "About 120 nesting females per year.",
+      "ground_truth_chunks": [
+        "Two turtle species are found in American Samoa, the green turtle (<a href=\"Chelonia mydas\">(Chelonia mydas</a>) and the hawksbill (<a href=\"Eretmochelys imbricata\">Eretmochelys imbricata</a>).",
+        "We estimate that turtles in the whole Territory now total only about 120 nesting females (species combined) per year (Tuato'o-Bartley et al. 1993)."
+      ]
+    },
+    {
+      "record_id": "8ce74812721969db93d1ea75",
+      "paper_id": "Craig-1993-Turtle.marine.mammal.conserv.AS-Copy/Craig-1993-Turtle.marine.mammal.conserv.AS-Copy",
+      "source_path": "output/Craig-1993-Turtle.marine.mammal.conserv.AS-Copy/Craig-1993-Turtle.marine.mammal.conserv.AS-Copy.md",
+      "section_heading": "B. MARINE MAMMAL STATUS",
+      "section_start_line": 32,
+      "section_end_line": 41,
+      "model": "openai:gpt-4o-mini",
+      "question": "In what months do humpback whales migrate into American Samoa to breed and calve?",
+      "ground_truth_answer": "Primarily from August through October.",
+      "ground_truth_chunks": [
+        "Small numbers of humpback whales (Megaptera novaeangliae) migrate into our waters to breed and calve, primarily from August through October."
+      ]
+    }
+  ],
+  "failures": []
+}

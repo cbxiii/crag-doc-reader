@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "source_path": "output/AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB.md",
+  "source_sha256": "fc8f665d0be2ef52775947518db7a278a7cc9075dd2c320cd5520f7b74d4ebfc",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "18ee08d7d90fd2674be29f9b",
+      "paper_id": "AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB",
+      "source_path": "output/AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB.md",
+      "section_heading": "A Note to Users",
+      "section_start_line": 23,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "Is this document presented as a stand-alone plan to manage the marine and coastal ecosystems of American Samoa?",
+      "ground_truth_answer": "No. The section explicitly states the document is not a stand-alone plan; it is described as a consensus-based blueprint for coordinating local and federal agency capacities for marine development, conservation, preservation, utilization, and maritime shipping in the Territory.",
+      "ground_truth_chunks": [
+        "This document is not a stand-alone plan to manage the marine and coastal ecosystems of American Samoa.",
+        "Rather, it is better understood as a consensus-based blueprint for harnessing the regulatory, enforcement, and other capacities of the various local and federal agencies charged with guiding marine development, conservation, preservation, utilization, and maritime shipping in the Territory."
+      ]
+    },
+    {
+      "record_id": "9f563a416394209ea951bca6",
+      "paper_id": "AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB",
+      "source_path": "output/AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB.md",
+      "section_heading": "GEOGRAPHIC FOCUS",
+      "section_start_line": 466,
+      "section_end_line": 494,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the two sections of the geographic focus defined in the American Samoa Ocean Plan and what are their seaward extents?",
+      "ground_truth_answer": "The two sections are: (1) Coastal — extends from the shoreline to 3 nautical miles (the extent of Territorial waters); and (2) Ocean — extends from 3 nautical miles out to the outer extent of the Exclusive Economic Zone (EEZ), or up to 200 nautical miles.",
+      "ground_truth_chunks": [
+        "The geographic focus is comprised of two sections, which are described throughout the plan as: 1) **Coastal**, which extends from the shoreline to 3 nm, or the extent of Territorial waters, and 2) **Ocean**, which extends from 3 nm out to the outer extent of the EEZ, or up to 200 nm.",
+        "Specifically, the geographic focus includes Territorial and Federal waters from the shoreline seaward to the boundary of the Exclusive Economic Zone (EEZ), which is up to 200 nautical miles (nm) or limited by the boundary with:"
+      ]
+    },
+    {
+      "record_id": "cc37b4cfe60a6cf147f2704f",
+      "paper_id": "AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB",
+      "source_path": "output/AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB.md",
+      "section_heading": "Action 2. Support existing local and regional initiatives related to ocean acidification.",
+      "section_start_line": 791,
+      "section_end_line": 801,
+      "model": "openai:gpt-4o-mini",
+      "question": "What specific tasks are listed in Action 2 to support existing local and regional initiatives related to ocean acidification?",
+      "ground_truth_answer": "The action lists three tasks: (1) identify and compile a list of current regional ocean acidification monitoring efforts and technologies, research, and data gaps, and opportunities for partnerships and support; (2) identify and prioritize questions the collective efforts must address (e.g., monitoring site locations and numbers, measurement intervals, and the relationship between estuarine eutrophication and CO2 absorption); and (3) convene scientists, stakeholders, Traditional Knowledge holders, and the public to review data and determine next steps.",
+      "ground_truth_chunks": [
+        "1. Identify and compile a list of current regional ocean acidification monitoring efforts and technologies, research, and data gaps, as well as opportunities for partnerships and support.",
+        "- 2. Identify and prioritize questions the collective efforts must address, potentially including location and number of offshore monitoring sites, appropriate time intervals for measuring ocean acidification, and the relationship between estuarine eutrophication and carbon dioxide absorption as drivers of coastal and ocean acidification.",
+        "- 3. Convene scientists, stakeholders, Traditional Knowledge holders, and the public to review the incoming data and results and determine next steps for coordinated efforts to mitigate the effects of ocean acidification."
+      ]
+    },
+    {
+      "record_id": "02302291cc114c5a749fff0c",
+      "paper_id": "AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB",
+      "source_path": "output/AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB.md",
+      "section_heading": "Action 1. Identify potential areas for increased local food supply from the ocean.",
+      "section_start_line": 1210,
+      "section_end_line": 1220,
+      "model": "openai:gpt-4o-mini",
+      "question": "What types of areas are agencies identifying to support increased local food supply from the ocean?",
+      "ground_truth_answer": "They are identifying future aquaculture sites, new fish aggregating device (FAD) sites, and areas that may be ripe for conservation because they are hatchery or juvenile habitat for species in which the adults are harvested.",
+      "ground_truth_chunks": [
+        "To support this objective, agencies identify potential areas for increased food supply from the ocean. This includes identification of future aquaculture sites, new fish aggregating device (FAD) sites, and areas that may be ripe for conservation because they are hatchery or juvenile habitat for species in which the adults are harvested."
+      ]
+    },
+    {
+      "record_id": "0c0ff519b222c16e4ace8aa0",
+      "paper_id": "AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB",
+      "source_path": "output/AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB.md",
+      "section_heading": "Now know Ye:",
+      "section_start_line": 1423,
+      "section_end_line": 1447,
+      "model": "openai:gpt-4o-mini",
+      "question": "On what date did the chiefs subscribe their names and affix their seals?",
+      "ground_truth_answer": "On the 17th day of April, 1900 A.D.",
+      "ground_truth_chunks": [
+        "In witness whereof we have hereunto subscribed our names and affixed our seals on this 17th day of April, 1900 A.D.",
+        "The foregoing instrument of Cession (pages 1, 2, and 3) was duly signed by Leoso in the presence of, and at the request of, the Chiefs and Representatives of the Division of Fofo and Aitulagi, and by Pele in the presence of and at the request of the Chiefs and Representatives of Sua and Vaifanua in Tutuila in conformity with Samoan customs as to signatures to documents, in my presence at Pago Pago on the 17th day of April, 1900 A.D., immediately prior to the Raising of the United States Flag at the United States Naval Station, Tutuila."
+      ]
+    },
+    {
+      "record_id": "c2b4e182f5551afe4c6b4af0",
+      "paper_id": "AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB",
+      "source_path": "output/AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB.md",
+      "section_heading": "Listening Session Participants",
+      "section_start_line": 1692,
+      "section_end_line": 1826,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who from Starkist Samoa attended the March 2016 listening session?",
+      "ground_truth_answer": "Cary Gann and Archie Soliai.",
+      "ground_truth_chunks": [
+        "| Cary Gann                | Starkist Samoa                                 |",
+        "| Archie Soliai            | Starkist Samoa                                 |"
+      ]
+    },
+    {
+      "record_id": "d1cd66c95f5e8e265f79fae3",
+      "paper_id": "AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB",
+      "source_path": "output/AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB.md",
+      "section_heading": "Tali faaopoopo mai Totino o le Fuafuaga o le Sami o Amerika Samoa",
+      "section_start_line": 2011,
+      "section_end_line": 2017,
+      "model": "openai:gpt-4o-mini",
+      "question": "What public misconception is reported in the section as contributing to opposition to marine regulations?",
+      "ground_truth_answer": "That the ocean is inexhaustible (for example, of fish), which contributes to dislike of organizational regulations.",
+      "ground_truth_chunks": [
+        "O le tele o totino o le ASOPT sa ripotia mai o le lautele o le atunuu o loo iai le manatu sesē e lē muta alaga'oa o le sami (e pei o i'a). Sa faaalia e nei totino o lenei ituaiga mafaufauga ua faaopoopo atu i le lē fiafia i tulafono a faalapotopotoga e manatu le lautele e lē mana'omia."
+      ]
+    },
+    {
+      "record_id": "352655c04ac3b812cc51b53a",
+      "paper_id": "AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB",
+      "source_path": "output/AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB.md",
+      "section_heading": "Energy Policy Act of 2005",
+      "section_start_line": 2196,
+      "section_end_line": 2199,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does the Energy Policy Act of 2005 authorize BOEM to issue for renewable energy development on the OCS?",
+      "ground_truth_answer": "The Act authorizes BOEM to issue leases, easements, and rights of way to allow for renewable energy development on the OCS.",
+      "ground_truth_chunks": [
+        "The Energy Policy Act authorizes BOEM to issue leases, easements, and rights of way to allow for renewable energy development on the OCS.",
+        "The Act establishes a general framework for authorizing renewable energy activities, and requires that BOEM coordinate with relevant Federal agencies and affected State and local governments, obtain fair return for leases and grants issued, and ensure that renewable energy development takes place in a safe and environmentally responsible manner."
+      ]
+    },
+    {
+      "record_id": "64207409476deb9a372a5831",
+      "paper_id": "AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB",
+      "source_path": "output/AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB.md",
+      "section_heading": "National Park Service Organic Act of 1916 (as amended and supplemented)",
+      "section_start_line": 2252,
+      "section_end_line": 2255,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the National Park Service Organic Act of 1916, what is the stated purpose of national parks?",
+      "ground_truth_answer": "The Act states the purpose is \"to conserve the scenery and the natural and historic objects and the wild life therein and to provide for the enjoyment of the same in such manner and by such means as will leave them unimpaired for the enjoyment of future generations.\"",
+      "ground_truth_chunks": [
+        "The National Park Service Organic Act of 1916 created the National Park Service (NPS) and directed NPS to manage National Park System units.",
+        "The purpose of national parks broadly is \"to conserve the scenery and the natural and historic objects and the wild life therein and to provide for the enjoyment of the same in such manner and by such means as will leave them unimpaired for the enjoyment of future generations.\""
+      ]
+    },
+    {
+      "record_id": "0b44cbda3ae8aa495a35f489",
+      "paper_id": "AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB",
+      "source_path": "output/AS-Ocean-Plan-FNL-Interactive_9MB/AS-Ocean-Plan-FNL-Interactive_9MB.md",
+      "section_heading": "JUNE 2018 STAKEHOLDER FEEDBACK",
+      "section_start_line": 2590,
+      "section_end_line": 2621,
+      "model": "openai:gpt-4o-mini",
+      "question": "What action did ASOPT take in response to the stakeholder suggestion to add language regarding illegal fishing and enforcement?",
+      "ground_truth_answer": "They added mapping of illegal fishing locations and of enforcement capacity to Goal 2, Objective 1, Action 4.",
+      "ground_truth_chunks": [
+        "Add language regarding illegal fishing<br>and enforcement",
+        "Mapping of illegal fishing locations and of enforcement capacity was added to<br>Goal 2, Objective 1, Action 4."
+      ]
+    }
+  ],
+  "failures": []
+}

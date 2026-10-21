@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "source_path": "output/1997 Green et al.  78 yr Aua/1997 Green et al.  78 yr Aua.md",
+  "source_sha256": "a132d3f43aaf9c8931cafed1a247660d8d0ebfc0960a3bf62f336bd6aed4350b",
+  "status": "complete",
+  "selected_section_count": 6,
+  "successful_record_count": 6,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "9779414a899b052063b2cf4b",
+      "paper_id": "1997 Green et al.  78 yr Aua/1997 Green et al.  78 yr Aua",
+      "source_path": "output/1997 Green et al.  78 yr Aua/1997 Green et al.  78 yr Aua.md",
+      "section_heading": "ABSTRACT",
+      "section_start_line": 7,
+      "section_end_line": 10,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many quantitative surveys of the Aua Transect are reported in the abstract, and what years were they conducted?",
+      "ground_truth_answer": "Three surveys were conducted, in 1917, 1973, and 1995.",
+      "ground_truth_chunks": [
+        "This study focuses on the changes that have occurred on the \"Aua Transect\" in the harbor, based on three quantitative surveys over the last 78 years: 1917 (Mayor 1924a), 1973 (Dahl and Lamberts 1977) and 1995 (this study)."
+      ]
+    },
+    {
+      "record_id": "7bde99a02876efe2d2df5809",
+      "paper_id": "1997 Green et al.  78 yr Aua/1997 Green et al.  78 yr Aua",
+      "source_path": "output/1997 Green et al.  78 yr Aua/1997 Green et al.  78 yr Aua.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 11,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the primary objective of the study described in the INTRODUCTION?",
+      "ground_truth_answer": "The primary objective was to describe the changes that occurred to the coral reefs in Pago Pago Harbor in this century by comparing the results of three quantitative surveys of the Aua Transect from 1917, 1973, and 1995.",
+      "ground_truth_chunks": [
+        "The primary objective of this study was to describe the changes that occurred to the coral reefs in Pago Pago Harbor in this century.",
+        "This was done by comparing the results of three quantitative surveys of the Aua Transect which were done over the past 78 years: 1917 (Mayor 1924a), 1973 (Dahl and Lamberts 1977), and 1995 (this study)."
+      ]
+    },
+    {
+      "record_id": "2b1285e176b94727e7854929",
+      "paper_id": "1997 Green et al.  78 yr Aua/1997 Green et al.  78 yr Aua",
+      "source_path": "output/1997 Green et al.  78 yr Aua/1997 Green et al.  78 yr Aua.md",
+      "section_heading": "MATERIALS AND METHODS",
+      "section_start_line": 25,
+      "section_end_line": 102,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the dimensions and area of the squares Mayor used to survey the Aua Transect?",
+      "ground_truth_answer": "Squares were 7.3 m on each side (area = 53.5 m^2).",
+      "ground_truth_chunks": [
+        "Mayor surveyed the transect by dividing it into squares 7.3 m on each side (area =  $53.5~\\text{m}^2$ ) which were staked out at intervals along the transect.",
+        "Squares were surveyed starting at the following distances from the shoreline: 0 m, 7 m, 15 m, 31 m, 61 m, 91 m, 122 m, 140 m, 160 m, 183 m, 213 m, 237 m, and 259 m. The final square at 259 m was located on the seaward margin of the reef edge."
+      ]
+    },
+    {
+      "record_id": "9164eed2507778ebdac2ea92",
+      "paper_id": "1997 Green et al.  78 yr Aua/1997 Green et al.  78 yr Aua",
+      "source_path": "output/1997 Green et al.  78 yr Aua/1997 Green et al.  78 yr Aua.md",
+      "section_heading": "Corals",
+      "section_start_line": 105,
+      "section_end_line": 171,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the total number of coral colonies recorded along the Aua transect in 1995?",
+      "ground_truth_answer": "364 colonies.",
+      "ground_truth_chunks": [
+        "<u>Table 2</u>: Number of colonies of each coral species recorded along the Aua transect in 1995. Area sampled was  $5.0~\\text{m}^2$  except for 233, 247 and 259 m from shore where it was  $3.3~\\text{m}^2$  4.9 m² and  $3.8~\\text{m}^2$  respectively.",
+        "| total                  | 1                       | 6   | 9   | 7   | 33  | 41  | 69  | 97  | 101 | 364  |"
+      ]
+    },
+    {
+      "record_id": "28390a210676c304d0a6cd2e",
+      "paper_id": "1997 Green et al.  78 yr Aua/1997 Green et al.  78 yr Aua",
+      "source_path": "output/1997 Green et al.  78 yr Aua/1997 Green et al.  78 yr Aua.md",
+      "section_heading": "Macroinvertebrates",
+      "section_start_line": 172,
+      "section_end_line": 183,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which macroinvertebrate group was not observed on the transect in 1995?",
+      "ground_truth_answer": "Soft corals (alcyonarians) — no soft corals were observed on the transect in 1995.",
+      "ground_truth_chunks": [
+        "Soft corals were recorded only from the outer half of the transect in 1973 (160-259 m from shore).",
+        "No soft corals were observed on the transect in 1995 (Table 3)."
+      ]
+    },
+    {
+      "record_id": "3b0fc33dbafa98d3b1f0fc09",
+      "paper_id": "1997 Green et al.  78 yr Aua/1997 Green et al.  78 yr Aua",
+      "source_path": "output/1997 Green et al.  78 yr Aua/1997 Green et al.  78 yr Aua.md",
+      "section_heading": "DISCUSSION",
+      "section_start_line": 184,
+      "section_end_line": 224,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the Aua Transect adjacent to shore was completely lost due to dredging prior to 1960?",
+      "ground_truth_answer": "Approximately 25% of the transect adjacent to shore was completely lost.",
+      "ground_truth_chunks": [
+        "The greatest change has been the complete loss of approximately 25% of the transect adjacent to shore as a result of the dredging of a channel in this area prior to 1960 (Dahl and Lamberts 1977).",
+        "First, the channel at Aua was dredged during the 1950s, and this resulted in a chronic plume of sediment over the transect for several years (High Talking Chief Ma'afala, pers. comm.)."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019.md",
+  "source_sha256": "d6ee174c51d65da3d3215e504be376ad939d147259d1bc5c2ac5dcfab4fb47aa",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "c951daa58670d443833d6cdd",
+      "paper_id": "Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019",
+      "source_path": "output/Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019.md",
+      "section_heading": "Abstract",
+      "section_start_line": 19,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral species are considered either present or possibly present in American Sāmoa according to the Abstract?",
+      "ground_truth_answer": "342 species are considered either present (251) or possibly present (91).",
+      "ground_truth_chunks": [
+        "A total of 377 valid species has been reported from American Sāmoa with 342 species considered either present (251) or possibly present (91)."
+      ]
+    },
+    {
+      "record_id": "08496c9ac7719deb0588682a",
+      "paper_id": "Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019",
+      "source_path": "output/Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019.md",
+      "section_heading": "Acropora muricata (Linnaeus, 1758) (207007) CoTW CCW",
+      "section_start_line": 476,
+      "section_end_line": 497,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the American Sāmoa status of Acropora muricata?",
+      "ground_truth_answer": "Present.",
+      "ground_truth_chunks": [
+        "*Acropora muricata* (Linnaeus, 1758) (207007). CoTW CCW Reported – Mayor 1924a; Dahl and Lamberts 1977; Birkeland and Belliveau 2000; Craig et al. 2001; Fisk and Birkeland 2002; Coles et al. 2003; Birkeland 2007a; Birkeland et al. 2013; Corals NPAS 2016; Fenner and Sudek 2016; DMWR 2018; Fenner 2018; QM 2018. Referenced – DiDonato et al. 2006; Birkeland 2007a, 2007b; Lovell and McLardy 2008.",
+        "**American Sāmoa status** – Present. **Evidence** – Multiple specimen reports. **Distribution** – American Sāmoa, Aunuʻu, Ofu, Ofu/Olosega, Olosega, Sāmoa Islands, Taʻū, Tutuila. **Nearest confirmed ecoregion** – Sāmoa, Tuvalu, and Tonga."
+      ]
+    },
+    {
+      "record_id": "bf09c19caac66cb9b1ab94c1",
+      "paper_id": "Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019",
+      "source_path": "output/Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019.md",
+      "section_heading": "Montipora aequituberculata Bernard, 1897 (207144) CoTW",
+      "section_start_line": 786,
+      "section_end_line": 793,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the American Sāmoa status of Montipora aequituberculata?",
+      "ground_truth_answer": "Present.",
+      "ground_truth_chunks": [
+        "**American Sāmoa status** – Present. **Evidence** – Single specimen report (identified by A Montgomery and D Fenner)."
+      ]
+    },
+    {
+      "record_id": "ffde15d21ca8c8dfb6d5402b",
+      "paper_id": "Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019",
+      "source_path": "output/Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019.md",
+      "section_heading": "Pavona minuta Wells, 1954 (207317) CoTW",
+      "section_start_line": 1072,
+      "section_end_line": 1077,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the American Sāmoa status of Pavona minuta in this section?",
+      "ground_truth_answer": "Present.",
+      "ground_truth_chunks": [
+        "**American Sāmoa status** – Present. **Evidence** – Single specimen report (identified by D Fenner)."
+      ]
+    },
+    {
+      "record_id": "b366126605e080f3c5502571",
+      "paper_id": "Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019",
+      "source_path": "output/Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019.md",
+      "section_heading": "Lobophyllia corymbosa (Forskål, 1775) (207391) CoTW",
+      "section_start_line": 1506,
+      "section_end_line": 1511,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the American Sāmoa status of Lobophyllia corymbosa (Forskål, 1775) and what evidence is provided?",
+      "ground_truth_answer": "American Sāmoa status: Present. Evidence: Single specimen report (identified by A Lamberts).",
+      "ground_truth_chunks": [
+        "**American Sāmoa status** – Present. **Evidence** – Single specimen report (identified by A Lamberts).",
+        "**Distribution** – American Sāmoa, Aunuʻu, Manuʻa Islands, Ofu, Ofu/ Olosega, Olosega, Rose Atoll, Tutuila."
+      ]
+    },
+    {
+      "record_id": "b7ff4ba4b2a28a96736c3599",
+      "paper_id": "Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019",
+      "source_path": "output/Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019.md",
+      "section_heading": "Hydnophora rigida (Dana, 1846) (207406) CoTW",
+      "section_start_line": 1819,
+      "section_end_line": 1824,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the American Sāmoa status of Hydnophora rigida and what evidence is cited for that status?",
+      "ground_truth_answer": "American Sāmoa status — Present. Evidence — Single specimen report (identified by J Wolstenholme).",
+      "ground_truth_chunks": [
+        "**American Sāmoa status** – Present. **Evidence** – Single specimen report (identified by J Wolstenholme). **Distribution** – American Sāmoa, Aunuʻu, Manuʻa Islands, Ofu, Tutuila. **Nearest confirmed ecoregion** – Sāmoa, Tuvalu, and Tonga. **Vulnerability** – LC. **Notes** – The photographed coral of this species in Corals NPAS (2016) appears to be incorrectly identified."
+      ]
+    },
+    {
+      "record_id": "b691833c8800e2388d1a4736",
+      "paper_id": "Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019",
+      "source_path": "output/Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019.md",
+      "section_heading": "Porites lobata Dana, 1846 (207225) CoTW",
+      "section_start_line": 2162,
+      "section_end_line": 2177,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the American Sāmoa status of Porites lobata in this section?",
+      "ground_truth_answer": "Present.",
+      "ground_truth_chunks": [
+        "**American Sāmoa status** – Present. **Evidence** – Multiple specimen reports. **Distribution** – American Sāmoa, Aunuʻu, Manuʻa Islands, Ofu, Ofu/Olosega, Olosega, Rose Atoll, Swains, Taʻū, Tutuila. **Nearest confirmed ecoregion** – Sāmoa, Tuvalu, and Tonga. **Vulnerability** – NT. **Notes** – The photo of this species reported in Corals NPAS (2016) appears to be uncertain."
+      ]
+    },
+    {
+      "record_id": "c51f9d416b77a94214f2cd24",
+      "paper_id": "Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019",
+      "source_path": "output/Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019.md",
+      "section_heading": "Acropora vaughani Wells, 1954 (288262) CoTW CCW",
+      "section_start_line": 2519,
+      "section_end_line": 2532,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the American Sāmoa status of Acropora vaughani?",
+      "ground_truth_answer": "Possibly present.",
+      "ground_truth_chunks": [
+        "**American Sāmoa status** – Possibly present. **Evidence** – Single photographic record. **Distribution** – American Sāmoa, Aunuʻu, Ofu, Ofu/Olosega, Tutuila. **Nearest confirmed ecoregion** – Sāmoa, Tuvalu, and Tonga. **Vulnerability** – VU."
+      ]
+    },
+    {
+      "record_id": "5cd61cd5ac3355825d0f06c8",
+      "paper_id": "Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019",
+      "source_path": "output/Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019.md",
+      "section_heading": "Favites valenciennesi (Milne Edwards & Haime, 1849) (763525)",
+      "section_start_line": 2929,
+      "section_end_line": 2940,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the American Sāmoa status of Favites valenciennesi?",
+      "ground_truth_answer": "Possibly present.",
+      "ground_truth_chunks": [
+        "*Montastraea valenciennesi* (Milne Edwards & Haime, 1849) (207482) homotypic synonym. Reported – Fisk and Birkeland 2002; CRED 2011; Corals NPAS 2016. Referenced – Fisk and Birkeland 2002; DiDonato et al. 2006; Birkeland 2007a.",
+        "**American Sāmoa status** – Possibly present. **Evidence** – Multiple reports. **Distribution** – American Sāmoa, Manuʻa Islands, Ofu, Ofu/Olosega, Olosega, Taʻū. **Nearest confirmed ecoregion** – Sāmoa, Tuvalu, and Tonga. **Notes** – Veron et al. (2019) accept this species as *Phymastrea valenciennesi* (Milne Edwards & Haime, 1849). This species is very similar to *Favites colemani* (Veron, 2000), differing in the size of corallites."
+      ]
+    },
+    {
+      "record_id": "9bfb23cc3648f180d351af03",
+      "paper_id": "Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019",
+      "source_path": "output/Montgomery Fenner Toonen 2019/Montgomery Fenner Toonen 2019.md",
+      "section_heading": "Discussion",
+      "section_start_line": 3595,
+      "section_end_line": 3665,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Discussion, how many coral species do the authors conclude are present, possibly present, and the total present or possibly present in American Sāmoa?",
+      "ground_truth_answer": "They conclude 251 species present, 91 species possibly present (total 342 species present or possibly present).",
+      "ground_truth_chunks": [
+        "We report there has been 745 unique names and spellings of species used for American Sāmoa. Of these, 538 represent valid species names (including synonyms), of which 377 are currently accepted names. Among these 377 species, we conclude that there are 251 species present and 91 species possibly present. In addition, there are 20 species of uncertain presence, nine species likely not present, and six species considered incorrectly reported and not present.",
+        "We report a total of 342 species present or possibly present for American Sāmoa."
+      ]
+    }
+  ],
+  "failures": []
+}

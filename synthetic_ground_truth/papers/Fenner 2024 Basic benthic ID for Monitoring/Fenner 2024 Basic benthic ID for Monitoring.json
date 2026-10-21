@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring.md",
+  "source_sha256": "1143285f4f1b955c363f48139f143a7ab7099af12bec0f2fafd01e5437acfcde",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "323deecc6e5207940e454059",
+      "paper_id": "Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring",
+      "source_path": "output/Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring.md",
+      "section_heading": "Introduction",
+      "section_start_line": 133,
+      "section_end_line": 140,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Introduction, which two groups on the bottom of coral reefs are described as most important?",
+      "ground_truth_answer": "Corals and algae.",
+      "ground_truth_chunks": [
+        "Two of the most important groups on the bottom on coral reefs are corals and algae.",
+        "We often put a lot more emphasis on corals than algae, but algae are actually often just as important as corals, and in some cases are just as pretty."
+      ]
+    },
+    {
+      "record_id": "52410af9df4833daa08af182",
+      "paper_id": "Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring",
+      "source_path": "output/Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring.md",
+      "section_heading": "Snails (gastropods)",
+      "section_start_line": 797,
+      "section_end_line": 828,
+      "model": "openai:gpt-4o-mini",
+      "question": "How do cone shells stop fish prey from escaping?",
+      "ground_truth_answer": "They impale the fish with enlarged, coiled radula teeth used as harpoons and syringe needles to inject super-fast-acting, powerful protein venom that is specific to nerve cells, stopping the fish before it can escape.",
+      "ground_truth_chunks": [
+        "They have modified the normal snail tongue, which is a ribbon with teeth on it. They enlarged a few teeth and coiled them, making tubes with sharp points, which are used as harpoons and syringe needles, to impale their prey and inject venom into them.",
+        "Snails are slow-moving, so they have a major problem with fish. That is, if they stick a fish with their harpoon-tooth, the fish will dart off, and they will never find it and never get to eat it. So, they have to stop the fish before it can escape. They do that with super-fast acting, super-powerful chemicals in their venom. The chemicals are proteins, and they are super specific to nerve cells."
+      ]
+    },
+    {
+      "record_id": "1025e09a49ce136f3edb07ef",
+      "paper_id": "Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring",
+      "source_path": "output/Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring.md",
+      "section_heading": "Anemones",
+      "section_start_line": 1145,
+      "section_end_line": 1180,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the name of the small green anemone that lives on the dead bases of branching corals in American Samoa?",
+      "ground_truth_answer": "Gyractis sesere.",
+      "ground_truth_chunks": [
+        " There is also one small species of anemone which is not in many ID books (except the book on American Samoa, where it is misidentified as a corallimorph). This species occurs in groups, and can be called a colonial anemone, though it is really in clonal groups of genetically identical separate individuals produced by fission, not a colony of connected polyps as in a coral. Anyhow, this species, Gyractis sesere, is green and lives on the dead bases of branching corals, usually staghorns. It is not very obvious, but once you find it you may find a lot of it. It is in the staghorn beds of Faga'itua Bay and Faga'alu Bay, and probably other staghorn thickets. The tentacles are green because it has zooxanthellae. The polyps are small, less than 2 inches diameter (4 cm).",
+        "Gyractis sesere. The mass of green tentacles is from many individuals, the pink oral discs of some can be seen, and for others the tentacles are in a thick ring around a small space where the mouth is."
+      ]
+    },
+    {
+      "record_id": "1d95fe0bdabfe229a733e119",
+      "paper_id": "Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring",
+      "source_path": "output/Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring.md",
+      "section_heading": "Acropora pulchra",
+      "section_start_line": 1499,
+      "section_end_line": 1506,
+      "model": "openai:gpt-4o-mini",
+      "question": "How do the tentacles of Acropora pulchra affect its appearance from a distance and up close?",
+      "ground_truth_answer": "When tentacles are extended during the day Acropora pulchra looks smooth from a distance and fuzzy up close; a close look shows a few ear-shaped corallites sticking out of the tentacles. When tentacles are retracted, the corallites on the sides of the branches appear ear-like.",
+      "ground_truth_chunks": [
+        "Usually it has tentacles extended during the day, giving it a smooth look from a distance, and a fuzzy look closer up.",
+        "A close look will reveal a few ear-shaped corallites sticking out of the tentacles.",
+        "Colonies that have tentacles retracted will be seen to have corallites on the sides of the branches that are ear-like."
+      ]
+    },
+    {
+      "record_id": "7c41acb23c204dcf7ee3b485",
+      "paper_id": "Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring",
+      "source_path": "output/Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring.md",
+      "section_heading": "Low Tides",
+      "section_start_line": 1737,
+      "section_end_line": 1758,
+      "model": "openai:gpt-4o-mini",
+      "question": "What sequence of visual changes occur to coral killed by low tides over the first week?",
+      "ground_truth_answer": "Initially the coral is white (hard to tell from bleaching); within a day or two it becomes a very light yellow; within 3–4 days it becomes green with turf; and within about a week it turns very dark green-brown or even black with dense turf.",
+      "ground_truth_chunks": [
+        "Coral that is killed by low tides is initially white and hard to tell from bleaching. Within a day or two it starts to get a very light yellow color, maybe from diatoms (a kind of single celled algae). If it is bright sun and you swish your hands past them and they are dead, the water motion will knock oxygen bubbles off of the algae and you will see a bunch of oxygen bubbles rise. Within 3-4 days of being killed the coral will be green with turf, and within a week or so they will be very dark green-brown or even black with dense turf."
+      ]
+    },
+    {
+      "record_id": "f479d1f9cede19e4c1453392",
+      "paper_id": "Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring",
+      "source_path": "output/Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring.md",
+      "section_heading": "Further reading:",
+      "section_start_line": 1993,
+      "section_end_line": 2004,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which listed reference reports that ocean warming and acidification have complex interactive effects on the dynamics of a marine fungal disease?",
+      "ground_truth_answer": "Williams, G., J., Price, N. N., Ushijima, B., Aeby, G. S., Callahan, S., Davy, S., K., Gove, J. M., Johnson, M. D., Knap, I. S., Shore-Maggio, A., Smith, J. E., Videau, P., Work, T., M. 2014. Ocean warming and acidification have complex interactive effects on the dynamics of a marine fungal disease. Proceedings of the Royal Society B 281: 20133069.",
+      "ground_truth_chunks": [
+        "Williams, G., J., Price, N. N., Ushijima, B., Aeby, G. S., Callahan, S., Davy, S., K., Gove, J. M., Johnson, M. D., Knap, I. S., Shore-Maggio, A., Smith, J. E., Videau, P., Work, T., M. 2014. Ocean warming and acidification have complex interactive effects on the dynamics of a marine fungal disease. Proceedings of the Royal Society B 281: 20133069."
+      ]
+    },
+    {
+      "record_id": "de7f65a188f712c0b1c41029",
+      "paper_id": "Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring",
+      "source_path": "output/Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring.md",
+      "section_heading": "Montipora black band",
+      "section_start_line": 2405,
+      "section_end_line": 2416,
+      "model": "openai:gpt-4o-mini",
+      "question": "What grows on the dead skeleton left behind by the advancing black band on Montipora colonies?",
+      "ground_truth_answer": "Green filamentous algae grows on the dead skeleton over time.",
+      "ground_truth_chunks": [
+        "The band is moving towards the live coral leaving white skeleton behind, which gets more and more green filamentous algae growing on it over time. Photos by Katie Nalasere.",
+        "A very narrow black band with dead skeleton with green filamentous algae growing on it inside the circle and live outside of the circle."
+      ]
+    },
+    {
+      "record_id": "228826f7d566319c832fbb07",
+      "paper_id": "Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring",
+      "source_path": "output/Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring.md",
+      "section_heading": "Montipora Purple Plate Edge",
+      "section_start_line": 2919,
+      "section_end_line": 2934,
+      "model": "openai:gpt-4o-mini",
+      "question": "Do the Montipora plates with purple edges at Swains Island show tissue loss?",
+      "ground_truth_answer": "No — none of the plates with purple had dead areas, so it does not appear to cause tissue loss.",
+      "ground_truth_chunks": [
+        "Healthy plates are entirely yellow, but a few plates have purple, most often on the edge of the plate.",
+        "None of the plates with purple had dead areas, so it does not appear to cause tissue loss."
+      ]
+    },
+    {
+      "record_id": "e1436f0ded84d7dbee09f31c",
+      "paper_id": "Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring",
+      "source_path": "output/Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring.md",
+      "section_heading": "Acropora Digitate Basal Fill-in Growth Anomalies",
+      "section_start_line": 3341,
+      "section_end_line": 3356,
+      "model": "openai:gpt-4o-mini",
+      "question": "What informal name do Greta Aeby and Terry Work use for digitate Acropora basal fill-in growth anomalies?",
+      "ground_truth_answer": "\"ice cream tumors.\"",
+      "ground_truth_chunks": [
+        "Typically the filling in area is very smooth and white. Greta Aeby and Terry Work informally call them \"ice cream tumors.\" They are uncommon."
+      ]
+    },
+    {
+      "record_id": "50d71a91d8e7e60c4b258404",
+      "paper_id": "Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring",
+      "source_path": "output/Fenner 2024 Basic benthic ID for Monitoring/Fenner 2024 Basic benthic ID for Monitoring.md",
+      "section_heading": "The Author",
+      "section_start_line": 4261,
+      "section_end_line": 4267,
+      "model": "openai:gpt-4o-mini",
+      "question": "When did Douglas Fenner begin work at the Dept. Marine & Wildlife Resources in American Samoa?",
+      "ground_truth_answer": "In November 2003.",
+      "ground_truth_chunks": [
+        "In November 2003, the author began work at the Dept. Marine & Wildlife Resources, in American Samoa.",
+        "He continues to be based in American Samoa."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Robbins-2005-Summary.whale.survey.AS-Copy/Robbins-2005-Summary.whale.survey.AS-Copy.md",
+  "source_sha256": "aaf3bcc604bfff396a718af2056b883514329b3a6c0ddeba8674b4f9811ab866",
+  "status": "partial",
+  "selected_section_count": 5,
+  "successful_record_count": 4,
+  "failure_count": 1,
+  "records": [
+    {
+      "record_id": "34457634778e354c25634b72",
+      "paper_id": "Robbins-2005-Summary.whale.survey.AS-Copy/Robbins-2005-Summary.whale.survey.AS-Copy",
+      "source_path": "output/Robbins-2005-Summary.whale.survey.AS-Copy/Robbins-2005-Summary.whale.survey.AS-Copy.md",
+      "section_heading": "8 ABSTRACT",
+      "section_start_line": 25,
+      "section_end_line": 30,
+      "model": "openai:gpt-4o-mini",
+      "question": "On how many days and between which dates were photo-identification and biopsy sampling performed in American Samoa according to the abstract?",
+      "ground_truth_answer": "They were performed on 27 days between September 18 and October 7, 2003–2005.",
+      "ground_truth_chunks": [
+        "Here we describe the results of photo-identification and biopsy sampling performed on 27 days between September 18 and October 7, 2003-2005."
+      ]
+    },
+    {
+      "record_id": "2ad46748665f7b1bd3e0b081",
+      "paper_id": "Robbins-2005-Summary.whale.survey.AS-Copy/Robbins-2005-Summary.whale.survey.AS-Copy",
+      "source_path": "output/Robbins-2005-Summary.whale.survey.AS-Copy/Robbins-2005-Summary.whale.survey.AS-Copy.md",
+      "section_heading": "METHODS",
+      "section_start_line": 35,
+      "section_end_line": 69,
+      "model": "openai:gpt-4o-mini",
+      "question": "Over which years and on how many days were vessel surveys performed?",
+      "ground_truth_answer": "Vessel surveys were performed between 2003 and 2005, on a total of 27 days over the three seasons.",
+      "ground_truth_chunks": [
+        "- 38 Between 2003 and 2005, vessel surveys were performed in the coastal waters of Tutuila, the main island of",
+        "- 40 number of animals available for photo-identification and biopsy sampling efforts. Surveys were performed on a 41 total of 27 days over the three seasons, from a 7-meter vessel working within three miles of the Tutuila coastline."
+      ]
+    },
+    {
+      "record_id": "a18a69c7f762b698465b73e7",
+      "paper_id": "Robbins-2005-Summary.whale.survey.AS-Copy/Robbins-2005-Summary.whale.survey.AS-Copy",
+      "source_path": "output/Robbins-2005-Summary.whale.survey.AS-Copy/Robbins-2005-Summary.whale.survey.AS-Copy.md",
+      "section_heading": "RESULTS",
+      "section_start_line": 70,
+      "section_end_line": 97,
+      "model": "openai:gpt-4o-mini",
+      "question": "Of the animals that could potentially be re-identified within a single season, what percentage were seen on 2 or 3 days?",
+      "ground_truth_answer": "19 animals, representing 20.7%.",
+      "ground_truth_chunks": [
+        "- 83 Of 92 animals that could potentially be re-identified within a single season, 19 (20.7%) were seen on 2 or 3 days.",
+        "- 84 The maximum interval between re-sightings was 14 days (n=1) and the average was 2.8 days."
+      ]
+    },
+    {
+      "record_id": "795d074dc741d390fdd28242",
+      "paper_id": "Robbins-2005-Summary.whale.survey.AS-Copy/Robbins-2005-Summary.whale.survey.AS-Copy",
+      "source_path": "output/Robbins-2005-Summary.whale.survey.AS-Copy/Robbins-2005-Summary.whale.survey.AS-Copy.md",
+      "section_heading": "DISCUSSION 89",
+      "section_start_line": 98,
+      "section_end_line": 128,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which observation reported in the study strongly suggests that at least some births occur in American Samoa waters?",
+      "ground_truth_answer": "The observation of one female both before and after calving strongly suggests that at least some births occur in American Samoa waters.",
+      "ground_truth_chunks": [
+        "including singing and competitive group activity. Furthermore, the observation of one female both\n- 93 before and after calving strongly suggests that at least some births occur in American Samoa waters."
+      ]
+    }
+  ],
+  "failures": [
+    {
+      "record_id": "9485f4c36fea25c472724195",
+      "source_path": "output/Robbins-2005-Summary.whale.survey.AS-Copy/Robbins-2005-Summary.whale.survey.AS-Copy.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 31,
+      "section_end_line": 34,
+      "attempt_count": 3,
+      "error": "ValueError: evidence chunk is not an exact substring of the supplied section"
+    }
+  ]
+}

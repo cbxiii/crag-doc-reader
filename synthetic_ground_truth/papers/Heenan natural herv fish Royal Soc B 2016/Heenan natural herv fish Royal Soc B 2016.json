@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016.md",
+  "source_sha256": "84e9fe3c3c9c9001230aeb274c3636523ac07dd994dc4ac32894a4136ebd1333",
+  "status": "complete",
+  "selected_section_count": 9,
+  "successful_record_count": 9,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "6eb10986c6ca436f7d245a02",
+      "paper_id": "Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016",
+      "source_path": "output/Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016.md",
+      "section_heading": "Natural bounds on herbivorous coral reef fishes",
+      "section_start_line": 31,
+      "section_end_line": 42,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which herbivorous fish functional groups declined rapidly with increasing human population density?",
+      "ground_truth_answer": "Biomass of browsers, large excavators, and of all herbivores combined declined rapidly with increasing human population density.",
+      "ground_truth_chunks": [
+        "Biomass of browsers, large excavators, and of all herbivores combined declined rapidly with increasing human population density, whereas grazers, scrapers, and detritivores displayed no relationship."
+      ]
+    },
+    {
+      "record_id": "7549ab2c12f7d6618fd0802b",
+      "paper_id": "Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016",
+      "source_path": "output/Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016.md",
+      "section_heading": "1. Introduction",
+      "section_start_line": 43,
+      "section_end_line": 56,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Introduction, what specific relative roles does the study aim to understand regarding herbivorous fish populations on coral reefs?",
+      "ground_truth_answer": "The study aims to understand the relative role of anthropogenic impacts and biophysical drivers (habitat and physical environmental conditions) in structuring herbivore populations on coral reefs.",
+      "ground_truth_chunks": [
+        "There is a need, therefore, to better understand the role of the natural environment in determining distribution patterns of herbivorous fishes [8,24–26] independent of local human impacts on coral reefs.",
+        "Here, we make use of a consistent monitoring dataset from 33 islands and atolls across the central and western Pacific to better understand the relative role of anthropogenic impacts and biophysical drivers (habitat and physical environmental conditions) in structuring herbivore populations on coral reefs.",
+        "These islands span large gradients of human population density (0–27 people per hectare of reef) [11,42] and biophysical condition [43], allowing us to separate the relative effect of those in driving variation in herbivore biomass."
+      ]
+    },
+    {
+      "record_id": "43a4b4e59b62c50a9f2f53bf",
+      "paper_id": "Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016",
+      "source_path": "output/Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016.md",
+      "section_heading": "(a) Fish assemblage and reef habitat surveys",
+      "section_start_line": 59,
+      "section_end_line": 68,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many stationary point count (SPC) surveys were conducted?",
+      "ground_truth_answer": "A total of 3309 SPC surveys were conducted.",
+      "ground_truth_chunks": [
+        "A total of 3309 SPC surveys were conducted by experienced surveyors."
+      ]
+    },
+    {
+      "record_id": "6eeae3fcb1704d12c0695d1d",
+      "paper_id": "Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016",
+      "source_path": "output/Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016.md",
+      "section_heading": "(b) Data processing",
+      "section_start_line": 69,
+      "section_end_line": 76,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many herbivorous fish functional groups were identified, and what are they?",
+      "ground_truth_answer": "Five groups: 'browsers', 'grazers', 'detritivores', 'large excavators/bioeroders', and 'scrapers/ small excavators'.",
+      "ground_truth_chunks": [
+        "Therefore, we classified herbivorous fishes functionally (sensu [53]) and incorporated new dietary data specific to the study area.",
+        "Five groups resulted: 'browsers', 'grazers', 'detritivores', 'large excavators/bioeroders', and 'scrapers/ small excavators' (electronic supplementary material, S2)."
+      ]
+    },
+    {
+      "record_id": "ab120cf5d38a52c36b48b294",
+      "paper_id": "Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016",
+      "source_path": "output/Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016.md",
+      "section_heading": "(c) Quantifying human and biophysical predictors",
+      "section_start_line": 77,
+      "section_end_line": 82,
+      "model": "openai:gpt-4o-mini",
+      "question": "How was human population density calculated for each island to determine anthropogenic impacts on herbivorous fishes?",
+      "ground_truth_answer": "Human population density was calculated as the number of people resident per island (from the 2010 US census) divided by the area of fore-reef habitat per island from GIS habitat layers maintained by Pacific RAMP.",
+      "ground_truth_chunks": [
+        "To determine anthropogenic impacts on herbivorous fishes, we used human population density (the number of people resident per island (from the 2010 US census) divided by the area of fore-reef habitat per island from Geographic Information System (GIS) habitat layers maintained by Pacific RAMP (electronic supplementary material, S.3.3)."
+      ]
+    },
+    {
+      "record_id": "4971dc06c6ef9e1f0467e505",
+      "paper_id": "Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016",
+      "source_path": "output/Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016.md",
+      "section_heading": "(d) Modelling",
+      "section_start_line": 83,
+      "section_end_line": 90,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many island replicates were included in the statistical modelling?",
+      "ground_truth_answer": "33 island replicates.",
+      "ground_truth_chunks": [
+        "Wake is the only replicate in the Marshall, Gilbert, and Ellis Islands region, therefore, we report summary fish metrics for Wake (biomass and richness) but excluded it from the statistical modelling (total number of island replicates = 33)."
+      ]
+    },
+    {
+      "record_id": "50a87bcb045441564f3a491c",
+      "paper_id": "Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016",
+      "source_path": "output/Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016.md",
+      "section_heading": "3. Results",
+      "section_start_line": 91,
+      "section_end_line": 104,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which three variables were identified as major drivers of spatial variation in total herbivorous fish biomass?",
+      "ground_truth_answer": "Reef complexity, hard coral cover, and human population density.",
+      "ground_truth_chunks": [
+        "Major drivers of this spatial variation in total herbivorous fish biomass were identified as reef complexity, hard coral cover, and human population density (electronic supplementary material, table S5).",
+        "Total herbivore biomass plateaued at intermediate complexity, decreased at highest coral cover, and continually decreased with human population density (electronic supplementary material, figure S5)."
+      ]
+    },
+    {
+      "record_id": "b8f9c4ddcedbff94dcf2e885",
+      "paper_id": "Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016",
+      "source_path": "output/Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016.md",
+      "section_heading": "4. Discussion",
+      "section_start_line": 105,
+      "section_end_line": 134,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which herbivorous fish functional groups showed a steep and rapid decline in biomass with increasing human population density?",
+      "ground_truth_answer": "Large excavators and browsers.",
+      "ground_truth_chunks": [
+        "Our results show a steep and rapid decline in the biomass of large excavators and browsers with increasing human population density.",
+        "Herbivorous fishes, in particular large excavating parrotfishes, and browsing surgeonfishes, are highly desired fisheries targets in the Pacific [\\[65](#page-7-0)–[68\\]](#page-7-0)."
+      ]
+    },
+    {
+      "record_id": "7e85e13aa57346e6902b3af6",
+      "paper_id": "Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016",
+      "source_path": "output/Heenan natural herv fish Royal Soc B 2016/Heenan natural herv fish Royal Soc B 2016.md",
+      "section_heading": "5. Conclusion",
+      "section_start_line": 135,
+      "section_end_line": 148,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Conclusion, what determines the carrying capacity and community composition of herbivorous reef fishes?",
+      "ground_truth_answer": "Coral reefs' biophysical setting strongly determine their carrying capacity and community composition of herbivorous reef fishes.",
+      "ground_truth_chunks": [
+        "Our findings highlight that coral reefs' biophysical setting strongly determine their carrying capacity and community composition of herbivorous reef fishes.",
+        "Our results show large natural differences in the capacity of individual reefs to support herbivore populations and therefore, it is unlikely that all reefs will respond similarly to particular interventions, such as prohibition of fishing."
+      ]
+    }
+  ],
+  "failures": []
+}

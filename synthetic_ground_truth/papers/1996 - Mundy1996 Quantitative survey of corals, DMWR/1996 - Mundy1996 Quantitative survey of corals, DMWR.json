@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR.md",
+  "source_sha256": "daad9d1e6e8d0accf7dbe4f70314ec45afcf5ce50eafb679037477690e2e09f2",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "a828dcc665f1e3b5129a8d8c",
+      "paper_id": "1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR",
+      "source_path": "output/1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR.md",
+      "section_heading": "SUMMARY",
+      "section_start_line": 97,
+      "section_end_line": 107,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many scleractinian coral colonies and species were recorded during the surveys?",
+      "ground_truth_answer": "Over 18,000 colonies from 150 species of scleractinian coral.",
+      "ground_truth_chunks": [
+        "Over 18,000 colonies from 150 species of scleractinian coral were recorded during these surveys including six new species records for American Samoa and 38 species not previously recorded in the Manu'a Islands."
+      ]
+    },
+    {
+      "record_id": "4c464cb8209f4557b9879b9f",
+      "paper_id": "1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR",
+      "source_path": "output/1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR.md",
+      "section_heading": "INTRODUCTION",
+      "section_start_line": 108,
+      "section_end_line": 137,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many sites were included in the quantitative hard coral surveys and when were they conducted?",
+      "ground_truth_answer": "Quantitative hard coral surveys were carried out at 29 sites around Tutuila and the Manu'a Islands during October and November 1995.",
+      "ground_truth_chunks": [
+        "Quantitative surveys of hard corals were carried out at 29 sites around Tutuila and the Manu'a Islands during October and November 1995 (Figure 1)."
+      ]
+    },
+    {
+      "record_id": "a49720a03950444082450420",
+      "paper_id": "1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR",
+      "source_path": "output/1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR.md",
+      "section_heading": "Data analysis:",
+      "section_start_line": 138,
+      "section_end_line": 153,
+      "model": "openai:gpt-4o-mini",
+      "question": "What multivariate analysis methods were used to test for effects of habitat and exposure on coral community structure?",
+      "ground_truth_answer": "Cluster analysis (flexible UPGMA) and Multi-dimensional scaling (non-metric) (MDS).",
+      "ground_truth_chunks": [
+        "Cluster analysis (flexible UPGMA) and Multi-dimensional scaling (non-metric) (MDS) were used to test for effects of habitat (reef flat vs. lagoon vs. reef slope) and exposure (NW, NE, SW, SE, Manu'a; see Figure 1) on coral community structure.",
+        "Cluster analyses and MDS were based on Bray-Curtis similarity matrices using species densities (mean number of colonies per site) and the average percent cover of each species at each site."
+      ]
+    },
+    {
+      "record_id": "7597dd7105f14db19587ce2e",
+      "paper_id": "1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR",
+      "source_path": "output/1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR.md",
+      "section_heading": "Site characteristics:",
+      "section_start_line": 308,
+      "section_end_line": 339,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which sites had relatively high numbers of colonies in size class 4 (20–40cm)?",
+      "ground_truth_answer": "Amanave and Leone.",
+      "ground_truth_chunks": [
+        "Notable exceptions were Amanave and Leone which had relatively high numbers of colonies in size class 4 (20–40cm) and the Lagoon site at Faga'alu which had a uniform distribution of colonies across all size categories (Figure 4)."
+      ]
+    },
+    {
+      "record_id": "b185ffc60e89ecf6eb888167",
+      "paper_id": "1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR",
+      "source_path": "output/1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR.md",
+      "section_heading": "Habitat variation and community structure:",
+      "section_start_line": 340,
+      "section_end_line": 343,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which site was clearly separated from all other sites in both the MDS plot and the cluster analysis?",
+      "ground_truth_answer": "The lagoon site at Faga'alu (27).",
+      "ground_truth_chunks": [
+        "The lagoon site at Faga'alu (27) was clearly separated from all other sites in both the MDS plot and the cluster analysis (Figures 8 and 9).",
+        "Reef flat sites (13, 15, 28, 29) also grouped independently of the reef slope sites in analyses of both colony numbers and percent cover (Figures 8 & 9)."
+      ]
+    },
+    {
+      "record_id": "5a5b5115c0a7cde50dfb29d1",
+      "paper_id": "1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR",
+      "source_path": "output/1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR.md",
+      "section_heading": "Exposure and community structure:",
+      "section_start_line": 344,
+      "section_end_line": 363,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which three main groups were distinguished by analysis based on the mean number of colonies of all species?",
+      "ground_truth_answer": "1. the Manu'a Islands sites; 2. a group containing the two NW exposure sites (5 and 6) and all the Pago Pago Harbour sites (except Faga'alu (20)); and 3. a group consisting of the SE, SW and NE exposure Tutuila sites.",
+      "ground_truth_chunks": [
+        "Analysis based on the mean number of colonies of all species did distinguish three main groups within the data set; 1. the Manu'a Islands sites, 2. a group containing the two NW exposure sites (5 and 6) and all the Pago Pago Harbour sites (except Faga'alu (20)), and 3. a group consisting of the SE, SW and NE exposure Tutuila sites (Figure 10).",
+        "High stress values (>0.4) in MDS analyses of both numbers of colonies and percent cover indicate little basis for group separation."
+      ]
+    },
+    {
+      "record_id": "ca2fc1941142071a1ae4a281",
+      "paper_id": "1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR",
+      "source_path": "output/1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR.md",
+      "section_heading": "Current Status of the reefs of American Samoa:",
+      "section_start_line": 366,
+      "section_end_line": 373,
+      "model": "openai:gpt-4o-mini",
+      "question": "What proportion of colonies recorded in the survey belonged to the genera Montipora and Porites?",
+      "ground_truth_answer": "More than 50% of all colonies recorded in this survey belonged to only two genera - Montipora and Porites.",
+      "ground_truth_chunks": [
+        "However, more than 50% of all colonies recorded in this survey belonged to only two genera - *Montipora* and *Porites*.",
+        "Furthermore, the majority of these were small colonies with a maximum diameter of less than 20cm."
+      ]
+    },
+    {
+      "record_id": "3ceff315f9b5111158a6419c",
+      "paper_id": "1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR",
+      "source_path": "output/1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR.md",
+      "section_heading": "Exposure and community structure:",
+      "section_start_line": 380,
+      "section_end_line": 395,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which harbour site grouped with reef slope sites rather than with the other harbour sites in cluster analyses?",
+      "ground_truth_answer": "The harbour site at Faga'alu (20).",
+      "ground_truth_chunks": [
+        "The harbour site at Faga'alu (20) always grouped with the reef slope sites, rather than with the other harbour sites (Figures 8-11).",
+        "Colony distributions were also highly patchy at Faga'alu, with one end of the site being dominated by large colonies of Diploastrea, Oxypora, Merulina and Lobophyllia (Appendix 1)."
+      ]
+    },
+    {
+      "record_id": "23d8e606da265e9b0aff966b",
+      "paper_id": "1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR",
+      "source_path": "output/1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR.md",
+      "section_heading": "Temporal changes in American Samoan Reefs:",
+      "section_start_line": 396,
+      "section_end_line": 399,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did coral density at Masefau Bay change between Birkeland et al. (1988) and this study?",
+      "ground_truth_answer": "Coral density at Masefau Bay increased from 12.4 colonies/m² in 1988 to 27.4 colonies/m² in this study (about double).",
+      "ground_truth_chunks": [
+        "For example, at Masefau Bay the density of corals recorded in this study (27.4 colonies/m²) is twice that found by Birkeland et al. in 1988 (12.4 colonies/m²) and the size of colonies has also increased (modal size of 5-10cm vs. mean diameter of 4.2cm).",
+        "General comparisons of coral densities and colony sizes at sites common to both this study and that of Birkeland et al. (1991) suggest the reefs of American Samoa have been continuing to recover since 1988, even though the reefs were severely impacted by cyclones in the intervening period."
+      ]
+    },
+    {
+      "record_id": "003438b866cc961f009e78e1",
+      "paper_id": "1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR",
+      "source_path": "output/1996 - Mundy1996 Quantitative survey of corals, DMWR/1996 - Mundy1996 Quantitative survey of corals, DMWR.md",
+      "section_heading": "CONCLUSIONS AND RECOMMENDATIONS",
+      "section_start_line": 400,
+      "section_end_line": 406,
+      "model": "openai:gpt-4o-mini",
+      "question": "What specific management action is recommended for Pago Pago Harbour in the Conclusions and Recommendations section?",
+      "ground_truth_answer": "It is essential that a management plan to reduce pollution and sedimentation within Pago Pago Harbour be established immediately.",
+      "ground_truth_chunks": [
+        "- The reefs inside Pago Pago Harbour are depauperate although there is evidence of low levels of recruitment to these reefs. It is essential a management plan to reduce pollution and sedimentation within the harbour be established immediately (see Maragos et al. 1994)."
+      ]
+    }
+  ],
+  "failures": []
+}

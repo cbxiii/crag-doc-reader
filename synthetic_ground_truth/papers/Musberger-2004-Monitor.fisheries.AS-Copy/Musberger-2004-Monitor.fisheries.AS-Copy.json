@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy.md",
+  "source_sha256": "926796b92d8fd681547292f3f9547d249e3d393b2f7a1254b2bcb0248a9dd960",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "bd40d61c389cc23d2a504f6a",
+      "paper_id": "Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy",
+      "source_path": "output/Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy.md",
+      "section_heading": "Introduction",
+      "section_start_line": 57,
+      "section_end_line": 62,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many villages are included in the Community-Based Fisheries Management Program (CBFMP)?",
+      "ground_truth_answer": "Seven villages.",
+      "ground_truth_chunks": [
+        "The program has grown to include seven villages, each of which is responsible for all aspects of managing and monitoring their own resources, with technical assistance from DMWR.",
+        "Committees from each village have designed and implemented management plans which vary from village to village, but generally include some type of restriction on fishing activity on part or all of the reef fronting their villages."
+      ]
+    },
+    {
+      "record_id": "5c324043c2ebdf3410ae103b",
+      "paper_id": "Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy",
+      "source_path": "output/Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy.md",
+      "section_heading": "Belt Transect",
+      "section_start_line": 114,
+      "section_end_line": 126,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many snorkel-surveyors are required to conduct a Belt Transect?",
+      "ground_truth_answer": "2 snorkel-surveyors.",
+      "ground_truth_chunks": [
+        "The following personnel and equipment are required to conduct a Belt Transect:",
+        "- 2 Snorkel-surveyors"
+      ]
+    },
+    {
+      "record_id": "c23a1b1e6e98211c30bf9e92",
+      "paper_id": "Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy",
+      "source_path": "output/Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy.md",
+      "section_heading": "Detailed Instructions",
+      "section_start_line": 158,
+      "section_end_line": 173,
+      "model": "openai:gpt-4o-mini",
+      "question": "How frequently should substrate type be recorded along the survey tape during the PointIntercept Transect?",
+      "ground_truth_answer": "Every 0.5 meters.",
+      "ground_truth_chunks": [
+        "If one surveyor is performing the survey, he or she swims the length of the survey tape that was laid out during the Belt Transect (above) identifying the type of substrate found immediately below the survey tape every 0.5 meters."
+      ]
+    },
+    {
+      "record_id": "85bf5066695de302349cf6c1",
+      "paper_id": "Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy",
+      "source_path": "output/Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy.md",
+      "section_heading": "Fishery Yield Monitoring",
+      "section_start_line": 223,
+      "section_end_line": 234,
+      "model": "openai:gpt-4o-mini",
+      "question": "What data should be recorded for each species during fishery yield monitoring?",
+      "ground_truth_answer": "For each species, record the species (one line per species), the total weight of all the fish, and the length of the largest and smallest fish of that species.",
+      "ground_truth_chunks": [
+        "Next, the types of fish caught should be recorded. One line of the data sheet should be devoted to each species caught.",
+        "For each species, the total weight of all the fish and the length of the largest and smallest fish of each species should be recorded."
+      ]
+    },
+    {
+      "record_id": "8cf8aed5bf464c43a865d86c",
+      "paper_id": "Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy",
+      "source_path": "output/Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy.md",
+      "section_heading": "Target Species",
+      "section_start_line": 259,
+      "section_end_line": 274,
+      "model": "openai:gpt-4o-mini",
+      "question": "What criteria were used to include species in the target species list?",
+      "ground_truth_answer": "Species were chosen because they are readily identified in the field and are not cryptic (so no destructive or extractive measures are necessary to estimate their abundance), and because of their ecological importance, their importance as a food species, or their status as threatened, endangered, or depleted.",
+      "ground_truth_chunks": [
+        "In developing the species list, several criteria were used to help determine which species would be most appropriate.",
+        "All species chosen are readily identified in the field and are not cryptic so no destructive or extractive measures are necessary to estimate their abundance. Species were included due to their ecological importance, their importance as a food species, or their status as threatened, endangered or depleted species."
+      ]
+    },
+    {
+      "record_id": "cf2dcf1ccfc004772cbeb6ec",
+      "paper_id": "Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy",
+      "source_path": "output/Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy.md",
+      "section_heading": "MASAUSI",
+      "section_start_line": 335,
+      "section_end_line": 392,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of Masausi's shoreline is included in the protected area?",
+      "ground_truth_answer": "Roughly 75% of the shoreline of the village (and the fronting reef areas) is included in the protected area.",
+      "ground_truth_chunks": [
+        "The protected area of Masausi includes roughly 75% of the shoreline of the village and the fronting reef areas.",
+        "The Western side of the village is not protected as it is a shared fishing area with the village of Masefau."
+      ]
+    },
+    {
+      "record_id": "2a6323b43bc23e16574e5cd7",
+      "paper_id": "Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy",
+      "source_path": "output/Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy.md",
+      "section_heading": "Appendix I Continued",
+      "section_start_line": 504,
+      "section_end_line": 559,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under which category is the specific concern 'crown of thorns' listed in Appendix I Continued?",
+      "ground_truth_answer": "natural disturbance",
+      "ground_truth_chunks": [
+        "| natural disturbance                    | crown of thorns                                                                |   |   |   | X |        | X                                    |"
+      ]
+    },
+    {
+      "record_id": "6f895616a8c3cdb0a66bb144",
+      "paper_id": "Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy",
+      "source_path": "output/Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy.md",
+      "section_heading": "DMWR Community-Based Management Program Stationary Point Count Data Sheet",
+      "section_start_line": 738,
+      "section_end_line": 801,
+      "model": "openai:gpt-4o-mini",
+      "question": "What area and time period should be used to record fish counts at each site?",
+      "ground_truth_answer": "Record fish seen within 10 m on all sides during a five-minute sampling period at each site.",
+      "ground_truth_chunks": [
+        "At each site, record the number of each type of fish seen within 10m on all sides during a five-minute sampling period."
+      ]
+    },
+    {
+      "record_id": "bace2d17c54ad7824af6a783",
+      "paper_id": "Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy",
+      "source_path": "output/Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy.md",
+      "section_heading": "How does sediment affect our reefs?",
+      "section_start_line": 882,
+      "section_end_line": 885,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the main sources of sediments on the reefs in American Samoa?",
+      "ground_truth_answer": "Sediments on the reefs in American Samoa come mostly from the land; streams and rivers that empty onto the reefs carry soil and other sediments out onto the reef flats.",
+      "ground_truth_chunks": [
+        "Sediments on the reefs in American Samoa come mostly from the land.",
+        "The streams and rivers that empty onto the reefs carry soil and other sediments out onto the reef flats."
+      ]
+    },
+    {
+      "record_id": "6bbce524c41f134847708e7a",
+      "paper_id": "Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy",
+      "source_path": "output/Musberger-2004-Monitor.fisheries.AS-Copy/Musberger-2004-Monitor.fisheries.AS-Copy.md",
+      "section_heading": "Can DMWR help do the monitoring?",
+      "section_start_line": 979,
+      "section_end_line": 985,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who should conduct the monitoring surveys according to this section?",
+      "ground_truth_answer": "Ideally the villagers themselves should conduct the surveys, but DMWR staff and experienced reef surveyors must be highly involved—at least at first—with training provided and at least one DMWR surveyor on site during surveys.",
+      "ground_truth_chunks": [
+        "The level of involvement of DMWR staff and other experienced reef surveyors will need to be quite high – at least at first.",
+        "My recommendation is to avoid creating a situation where all survey efforts are carried out by DMWR personnel. Ideally, the surveys should be conducted by the villagers themselves.",
+        "There should always be at least one DMWR surveyor on site during the surveys."
+      ]
+    }
+  ],
+  "failures": []
+}

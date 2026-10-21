@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "source_path": "output/ochavillo_et_al_biological_connectivity_in_the_samoan_archipelago_27may2015/ochavillo_et_al_biological_connectivity_in_the_samoan_archipelago_27may2015.md",
+  "source_sha256": "3c44d45b1887bd321d8244140b732f3145c3c62c14768840ba1af3471df58839",
+  "status": "partial",
+  "selected_section_count": 0,
+  "successful_record_count": 0,
+  "failure_count": 1,
+  "records": [],
+  "failures": [
+    {
+      "source_path": "output/ochavillo_et_al_biological_connectivity_in_the_samoan_archipelago_27may2015/ochavillo_et_al_biological_connectivity_in_the_samoan_archipelago_27may2015.md",
+      "error": "no eligible sections",
+      "attempt_count": 0
+    }
+  ]
+}

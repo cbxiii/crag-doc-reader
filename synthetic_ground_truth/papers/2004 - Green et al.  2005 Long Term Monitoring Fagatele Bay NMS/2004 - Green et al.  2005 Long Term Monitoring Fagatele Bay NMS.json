@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS.md",
+  "source_sha256": "2d428e1fd37d9a5ee83ea9253df514603749c16908c49a21ac7d022ed6faa836",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "ac2103d3b7154099166e071f",
+      "paper_id": "2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS",
+      "source_path": "output/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS.md",
+      "section_heading": "EXECUTIVE SUMMARY",
+      "section_start_line": 15,
+      "section_end_line": 29,
+      "model": "openai:gpt-4o-mini",
+      "question": "What change in coral survey methodology was implemented in 2004 and what effect did it have?",
+      "ground_truth_answer": "In 2004 they switched to belt transects instead of the previously used point-quarter method; this allowed them to survey almost three times as many corals in a similar period of time and will provide more detailed information for monitoring corals and better comparison with the Archipelago survey dataset.",
+      "ground_truth_chunks": [
+        "- New coral survey methods were implemented in 2004. We used belt transects rather than the point-quarter method used previously. This allowed us to survey almost three times as many corals than in previous surveys within a similar period of time. The new method will provide more detailed information for monitoring the health of the corals in Fagatele Bay and a better comparison with the Archipelago survey dataset."
+      ]
+    },
+    {
+      "record_id": "a379c5dbea935b989aa91ca3",
+      "paper_id": "2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS",
+      "source_path": "output/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS.md",
+      "section_heading": "Benthic macroinvertebrates and fish habitat",
+      "section_start_line": 98,
+      "section_end_line": 106,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many points were sampled along each 30 x 2m fish transect?",
+      "ground_truth_answer": "48 points were sampled along each 30 x 2m fish transect.",
+      "ground_truth_chunks": [
+        "Point counts were used to assess fish habitat species, whereby 48 points were sampled along each 30 x 2m fish transect.",
+        "At every 2 metres along the tape from 0m to 30m, three points were sampled (one directly under the tape and one approximately 1m either side of the tape)."
+      ]
+    },
+    {
+      "record_id": "bf02e5ca6e68ecd58196e268",
+      "paper_id": "2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS",
+      "source_path": "output/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS.md",
+      "section_heading": "Survey techniques – Historic fish transects around Tutuila",
+      "section_start_line": 129,
+      "section_end_line": 136,
+      "model": "openai:gpt-4o-mini",
+      "question": "What modification was made to the fish transect survey method in 2004?",
+      "ground_truth_answer": "In 2004 the surveys were changed from a continuous 100m x 2m transect to three replicate 30m x 2m transects, allowing a similar area to be surveyed while introducing replication into the survey design.",
+      "ground_truth_chunks": [
+        "In the 2004 re-survey of these transects, we modified the survey method to include three replicate 30m x 2m transects rather than a continuous 100m x 2m transect.",
+        "This allowed us to survey a similar area, while introducing replication into the survey design."
+      ]
+    },
+    {
+      "record_id": "d7a42683282c322bdeb018e9",
+      "paper_id": "2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS",
+      "source_path": "output/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS.md",
+      "section_heading": "Trends in Fagatele Bay coral populations 2001-2004",
+      "section_start_line": 363,
+      "section_end_line": 498,
+      "model": "openai:gpt-4o-mini",
+      "question": "What proportion of corals in 2004 were in the 5-20 cm size range?",
+      "ground_truth_answer": "58%",
+      "ground_truth_chunks": [
+        "This is similar to our observations in 2004, whereby most colonies on the reef flat were <20cm, and the size classes 1 and 2 (<5cm and 5-10cm) were the most abundant (Table 5).",
+        "In 2004, our data, which shows 58% of corals were in the size range from 5-20cm, does not suggest there have been any major change in colony size in the bay since 2001."
+      ]
+    },
+    {
+      "record_id": "cf9209cc0360301addbd1f4b",
+      "paper_id": "2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS",
+      "source_path": "output/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS.md",
+      "section_heading": "Corals in Pago Pago Harbour – 2004",
+      "section_start_line": 783,
+      "section_end_line": 790,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species had the highest number of colonies recorded in Pago Pago Harbour in 2004?",
+      "ground_truth_answer": "Montipora grisea with 132 colonies.",
+      "ground_truth_chunks": [
+        "A total of 330 corals colonies belonging to 35 species were recorded in the surveys at the two sites in Pago Pago Harbour in 2004.",
+        "The most common coral (132 colonies) was *Montipora grisea*."
+      ]
+    },
+    {
+      "record_id": "516262d7561ccfad09b58dea",
+      "paper_id": "2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS",
+      "source_path": "output/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS.md",
+      "section_heading": "• Dynamite Bommie",
+      "section_start_line": 1190,
+      "section_end_line": 1193,
+      "model": "openai:gpt-4o-mini",
+      "question": "What species composes the very large colony called the Dynamite Bommie, and what event damaged it prior to the 2001 survey?",
+      "ground_truth_answer": "The colony is composed of Porites lutea, and it was damaged by a dynamite blast just prior to the 2001 survey.",
+      "ground_truth_chunks": [
+        "This is a very large colonie of *Porites lutea* that exceeds 10m in diameter.",
+        "This colony was damaged by a dynamite blast just prior to the 2001 survey (see Birkeland et al. 2004)."
+      ]
+    },
+    {
+      "record_id": "b61af17fe5e5b8ca139387f3",
+      "paper_id": "2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS",
+      "source_path": "output/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS.md",
+      "section_heading": "Fish communities around Tutuila (Historic Fish Transects)",
+      "section_start_line": 1226,
+      "section_end_line": 1229,
+      "model": "openai:gpt-4o-mini",
+      "question": "What did the section identify as the most likely explanation for the drop in fish abundance on the three historic transects in 2004?",
+      "ground_truth_answer": "Seasonal variation, since the 2004 surveys were conducted in the early spring (September) rather than late summer (March) as in previous years.",
+      "ground_truth_chunks": [
+        "The decline may be associated with overfishing, Hurricane Heta (especially at Cape Larsen and Sita Bay which are on the northern side of Tutuila Island – although this is unlikely to explain declines in Fagatele Bay on the southern side), or may reflect the slight change in survey method (we surveyed 10m less in 2004 than in previous years).",
+        "However, the most likely explanation for the drop in fish abundance is seasonal variation since surveys were conducted in the early spring (September) of 2004, rather than late summer (March) as in previous years."
+      ]
+    },
+    {
+      "record_id": "3a82c664763fc754de39b805",
+      "paper_id": "2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS",
+      "source_path": "output/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS.md",
+      "section_heading": "Family PORITIDAE",
+      "section_start_line": 1676,
+      "section_end_line": 1723,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Porites entries in the 'Family PORITIDAE' section include the subgenus Synaraea?",
+      "ground_truth_answer": "Porites (Synaraea) convexa Verrill, 1864 and Porites (Synaraea) rus (Forskal, 1775).",
+      "ground_truth_chunks": [
+        " *Porites (Synaraea) convexa* Verrill, 1864",
+        " *Porites (Synaraea) rus* (Forskal, 1775)."
+      ]
+    },
+    {
+      "record_id": "b600a1be96a80efc288da801",
+      "paper_id": "2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS",
+      "source_path": "output/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS.md",
+      "section_heading": "Family Pomacentridae",
+      "section_start_line": 2739,
+      "section_end_line": 2812,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many Chromis species are listed under Family Pomacentridae in this section?",
+      "ground_truth_answer": "11",
+      "ground_truth_chunks": [
+        "*Chromis acares* Randall & Swerdloff, 1973\n\n*Chromis agilis* Smith, 1960\n\n*Chromis alpha* Randall, 1988\n\n *Chromis amboinensis* (Bleeker, 1873)\n\n *Chromis atripes* (Fowler & Bean, 1928)\n\n*Chromis atripectoralis* Welander & Schultz, 1951\n\n *Chromis iomelas* Jordan & Seale, 1906\n\n *Chromis margaritifer* Fowler, 1946\n\n *Chromis vanderbilti* (Fowler, 1941)\n\n*Chromis weberi* Fowler & Bean, 1928\n\n*Chromis xanthura* (Bleeker, 1854)"
+      ]
+    },
+    {
+      "record_id": "6e32bebbffddc0519eccdaca",
+      "paper_id": "2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS",
+      "source_path": "output/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS/2004 - Green et al.  2005 Long Term Monitoring Fagatele Bay NMS.md",
+      "section_heading": "APPENDIX 6 – Historic fish transect summary data",
+      "section_start_line": 3117,
+      "section_end_line": 3255,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the mean number (and standard error) of Ctenochaetus striatus recorded on three replicate 30m transects at Cape Larsen in September 2004?",
+      "ground_truth_answer": "Mean = 50.33; standard error = 14.66.",
+      "ground_truth_chunks": [
+        "| Ctenochaetus striatus   | 50.33       | 14.66 | 28.33        | 5.21 | 18.33    | 4.48 |"
+      ]
+    }
+  ],
+  "failures": []
+}

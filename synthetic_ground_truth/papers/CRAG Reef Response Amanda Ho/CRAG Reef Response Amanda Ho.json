@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho.md",
+  "source_sha256": "f06a4a29fd511d3290950175fa4608785c1c886f01066d75db6f66d9b645ec86",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "60f7f538321762fd0ea19096",
+      "paper_id": "CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho",
+      "source_path": "output/CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho.md",
+      "section_heading": "<span id=\"page-7-1\"></span>3.1. TARGET AUDIENCE",
+      "section_start_line": 208,
+      "section_end_line": 215,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which agencies are listed as the intended audience of this Response Plan?",
+      "ground_truth_answer": "The intended audience is CRAG member agencies such as DMWR, NMSAS, ASCC, AS-EPA, USFW, NPSA, and AS-DOC, as well as any natural resource agencies dealing with threats to coral reefs (e.g., bleaching, disease, vessel grounding, marine debris, poor water quality, invasive and nuisance species, and natural disasters).",
+      "ground_truth_chunks": [
+        "This Response Plan's intended audience is CRAG member agencies such as DMWR, NMSAS, ASCC, AS-EPA, USFW, NPSA, and AS-DOC as well as any natural resource agencies dealing with threats to coral reefs such as: bleaching, disease, vessel grounding, marine debris, poor water quality, invasive and nuisance species, and natural disasters.",
+        "These topics are global and this report may act as a reference for coral management worldwide, but this report entails aspects that are specific to American Samoa."
+      ]
+    },
+    {
+      "record_id": "04c6eb211491200545cd753b",
+      "paper_id": "CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho",
+      "source_path": "output/CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho.md",
+      "section_heading": "<span id=\"page-25-0\"></span>10.4. BACKGROUND ON BLEACHING IN AMERICAN SAMOA",
+      "section_start_line": 522,
+      "section_end_line": 537,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral genera exhibited the highest bleaching prevalence during the initial stages of the bleaching events in American Samoa?",
+      "ground_truth_answer": "Leptastrea and Montastrea.",
+      "ground_truth_chunks": [
+        "Smith, et al. (2022)<sup>12</sup> highlight that specific coral genera, particularly *Leptastrea* and *Montastre*a, exhibited the highest bleaching prevalence during the initial stages of the bleaching events. This suggests that these coral genera might as early indicators, reacting promptly to heat stress and potentially acting as a warning sign for an impending mass bleaching event.",
+        "The surveys conducted at the onset of the bleaching event provided insights into the dynamics of coral reactions to heat stress and the potential role of specific coral genera in signaling the onset of such events."
+      ]
+    },
+    {
+      "record_id": "de20a765a5e2f7661a9c25c3",
+      "paper_id": "CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho",
+      "source_path": "output/CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho.md",
+      "section_heading": "<span id=\"page-37-0\"></span>10.7.2. AMERICAN SAMOA CORAL REEF RESPONSE TEAM",
+      "section_start_line": 718,
+      "section_end_line": 780,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who is assigned to 'Maintain and update lists of agency resources that may be needed in upcoming bleaching events'?",
+      "ground_truth_answer": "CRAG Coordinator, CTC",
+      "ground_truth_chunks": [
+        "| Maintain and update lists of agency resources that<br>may be needed in<br>upcoming bleaching events                                         | CRAG Coordinator, CTC     |"
+      ]
+    },
+    {
+      "record_id": "b512457f1067a3d980d1ccbe",
+      "paper_id": "CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho",
+      "source_path": "output/CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho.md",
+      "section_heading": "<span id=\"page-61-0\"></span>10.11. MANAGEMENT ACTIONS",
+      "section_start_line": 1113,
+      "section_end_line": 1124,
+      "model": "openai:gpt-4o-mini",
+      "question": "Are there currently viable management actions available to local resource managers to directly mitigate the impacts of mass coral bleaching events?",
+      "ground_truth_answer": "No. The section states there are currently no viable management actions for local managers to directly mitigate mass coral bleaching; instead managers should focus on keeping reefs healthy to speed recovery and can use temporary measures (e.g., restricting entry) during known thermal stress.",
+      "ground_truth_chunks": [
+        "There are currently no viable management actions at the disposal of local resource managers to mitigate the impacts of mass coral bleaching events directly.",
+        "However, perhaps the most important management actions related to climate change and coral bleaching are those that deal instead with local impacts by ensuring that coral reef ecosystems are as healthy as possible, which will speed recovery following the coral mass mortality associated with bleaching.",
+        "Coral reef managers can also implement temporary measures to minimize certain anthropogenic impacts during periods of known thermal stress, such as restricting entry to areas known to host susceptible coral communities."
+      ]
+    },
+    {
+      "record_id": "64c437940dd96a0148adbcc9",
+      "paper_id": "CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho",
+      "source_path": "output/CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho.md",
+      "section_heading": "11.4.2.1. ASAC TITLE 24 CHAPTER 8 HAZ-MAT 24.0813",
+      "section_start_line": 1258,
+      "section_end_line": 1262,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to ASAC TITLE 24 CHAPTER 8 HAZ-MAT 24.0813, what emergency response equipment must vehicles and vessels transporting hazardous materials carry?",
+      "ground_truth_answer": "They shall carry emergency response equipment necessary and sufficient for the initial control of a spill or release, such as absorbent booms and material, rags, fire extinguishers, brooms, and shovels.",
+      "ground_truth_chunks": [
+        "- (c) Vehicles and vessels used for transport shall be appropriately sized and shall be compatible with the material being transported and shall be clean and free of debris. General use cargo shall be compatible with the materials being transported and in no case shall incompatible materials be transported on the same vehicle or vessel. Transporters shall ensure that any residues left in the transport equipment is removed and disposed of properly.",
+        "- (e) Vehicles and vessels transporting hazardous materials shall carry emergency response equipment necessary and sufficient for the initial control of a spill or release, such as absorbent booms and material, rags, fire extinguishers, brooms, and shovels. In the event of a spill or release, the vehicle or vessel operator shall be responsible for notifying ASEPA and DPS and for making the initial response until a qualified HAZMAT response team arrives."
+      ]
+    },
+    {
+      "record_id": "552d0ffa52cd15af59313a27",
+      "paper_id": "CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho",
+      "source_path": "output/CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho.md",
+      "section_heading": "11.4.3.10. § 1431 ET SEQ: NATIONAL MARINE SANCTUARIES ACT",
+      "section_start_line": 1415,
+      "section_end_line": 1420,
+      "model": "openai:gpt-4o-mini",
+      "question": "What damages may NOAA seek from responsible parties under the National Marine Sanctuaries Act for injuries within sanctuaries?",
+      "ground_truth_answer": "NOAA may seek damages to cover response, injury and damage assessment, restoration, replacement of the injured habitat or acquisition of equivalent habitat, and compensation of the public for the value of the injured resources until full recovery.",
+      "ground_truth_chunks": [
+        "Within these sanctuaries, NOAA can seek damages from responsible parties to cover response, injury and damage assessment, restoration, and replacement of the injured habitat or acquisition of equivalent habitat, and compensation of the public for the value of the injured resources until full recovery."
+      ]
+    },
+    {
+      "record_id": "30e4aca202da17730efe6d4b",
+      "paper_id": "CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho",
+      "source_path": "output/CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho.md",
+      "section_heading": "Wildlife",
+      "section_start_line": 1661,
+      "section_end_line": 1673,
+      "model": "openai:gpt-4o-mini",
+      "question": "What minimum distance must be maintained from any observed animals?",
+      "ground_truth_answer": "Maintain a minimum distance of 300' from any observed animals.",
+      "ground_truth_chunks": [
+        "- Maintain a minimum distance of 300' from any observed animals."
+      ]
+    },
+    {
+      "record_id": "118970c4e19898a5f4baf1ef",
+      "paper_id": "CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho",
+      "source_path": "output/CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho.md",
+      "section_heading": "<span id=\"page-103-0\"></span>12.4. EARLY DETECTION",
+      "section_start_line": 1875,
+      "section_end_line": 1882,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the section, what early detection tool has shown to be a reliable biosensor for some coral diseases?",
+      "ground_truth_answer": "eDNA has shown to be a reliable biosensor of some coral diseases; more studies are needed to show efficacy for other pathogens.",
+      "ground_truth_chunks": [
+        "An exciting tool for early detection of disease is eDNA. eDNA has shown to be a reliable biosensor of some coral diseases. More studies are needed to show efficacy for other pathogens. As coral disease pathogens continue to be uncovered, eDNA could become a very useful tool for resource managers."
+      ]
+    },
+    {
+      "record_id": "ba0d1d1fd69cde19c19233fc",
+      "paper_id": "CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho",
+      "source_path": "output/CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho.md",
+      "section_heading": "<span id=\"page-116-0\"></span>ESA DURING EMERGENCIES",
+      "section_start_line": 2132,
+      "section_end_line": 2143,
+      "model": "openai:gpt-4o-mini",
+      "question": "Under ESA Section 7 for the Pacific Islands, what information must federal agencies include when emailing NMFS to request an expedited emergency consultation?",
+      "ground_truth_answer": "They must include: 1) The nature of the emergency response actions; 2) A justification for an expedited consultation; and 3) Impacts to designated endangered or threatened species and their designated critical habitats.",
+      "ground_truth_chunks": [
+        "- According to ESA Section 7 for the pacific islands, federal agencies must email [efhesaconsult@noaa.gov](mailto:efhesaconsult@noaa.gov) and the Interagency Cooperation Branch Chief, Ron Dean [\\(ron.dean@noaa.gov\\)](mailto:ron.dean@noaa.gov):",
+        "- 1. The nature of the emergency response actions.\n- 2. A justification for an expedited consultation.\n- 3. Impacts to designated endangered or threatened species and their designated critical habitats."
+      ]
+    },
+    {
+      "record_id": "0af64c1932ae512e0c20ff8c",
+      "paper_id": "CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho",
+      "source_path": "output/CRAG Reef Response Amanda Ho/CRAG Reef Response Amanda Ho.md",
+      "section_heading": "<span id=\"page-128-0\"></span>MAGNUSON-STEVENS ACT-ESSENTIAL FISH HABITAT (EFH) CONSULTATION",
+      "section_start_line": 2346,
+      "section_end_line": 2373,
+      "model": "openai:gpt-4o-mini",
+      "question": "When is a consultation with NOAA Fisheries on Essential Fish Habitat (EFH) required?",
+      "ground_truth_answer": "A consultation is required when a federal agency has authorized, funded, or undertaken part or all of a proposed activity, and when the action will adversely affect EFH (including direct or indirect physical, chemical, or biological alterations such as changes to waters or substrate, species and their habitat, other ecosystem components, or the quality and/or quantity of EFH).",
+      "ground_truth_chunks": [
+        "A consultation with NOAA Fisheries on Essential Fish Habitat is required if:\n  - o A federal agency has authorized, funded, or undertaken part or all of a proposed activity.",
+        "o The action will adversely affect EFH. To determine whether an action will occur within EFH, use this [tool](https://www.habitat.noaa.gov/apps/efhmapper/?page=page_5). All of American Samoa's islands are located within EFH (NMFS, 2023). An adverse effect includes direct or indirect physical, chemical, or biological alterations. It includes adverse changes to:\n\n- Waters or substrate.\n- Species and their habitat.\n- Other ecosystem components.\n- Quality and/or quantity of EFH."
+      ]
+    }
+  ],
+  "failures": []
+}

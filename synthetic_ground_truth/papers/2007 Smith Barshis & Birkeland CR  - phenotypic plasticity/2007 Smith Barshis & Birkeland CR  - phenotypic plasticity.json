@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity.md",
+  "source_sha256": "fedcb704b24121cdc4c506799f99eb13c404b47f3f4549e84f99ff81fcfade5e",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "c49d45edd3d9906fd4f8ff79",
+      "paper_id": "2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity",
+      "source_path": "output/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity.md",
+      "section_heading": "Phenotypic plasticity for skeletal growth, density and calcification of Porites lobata in response to habitat type",
+      "section_start_line": 3,
+      "section_end_line": 16,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did bulk densities of Porites lobata transplants respond to habitat type in the reciprocal transplant experiment?",
+      "ground_truth_answer": "Bulk densities of transplants increased on the high energy forereef and decreased on the low energy back reef.",
+      "ground_truth_chunks": [
+        "Mean annual skeletal extension rates, mean bulk densities, and mean annual calcification rates of RTE groups were  $2.6-9.8 \\text{ mm year}^{-1}$ ,  $1.41-1.44 \\text{ g cm}^{-3}$ , and  $0.37-1.39 \\text{ g cm}^{-2} \\text{ year}^{-1}$  on the back reef, and 1.2-4.2 mm year<sup>-1</sup>, 1.49-1.53 g cm<sup>-3</sup>, and 0.19-0.63 g cm<sup>-2</sup> year<sup>-1</sup> on the forereef, respectively.",
+        "Bulk densities were especially responsive to habitat type, with densities of transplants increasing on the high energy forereef, and decreasing on the low energy back reef."
+      ]
+    },
+    {
+      "record_id": "0ad60bbdc4ee6eee26845629",
+      "paper_id": "2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity",
+      "source_path": "output/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity.md",
+      "section_heading": "Introduction",
+      "section_start_line": 17,
+      "section_end_line": 36,
+      "model": "openai:gpt-4o-mini",
+      "question": "What hypothesis did the authors test about the morphological variability of Porites lobata at the study site?",
+      "ground_truth_answer": "They hypothesized the morphological variability is produced by phenotypic plasticity for skeletal growth rate, with greater upward linear extension in the relatively low-energy back reef than on the high-energy forereef.",
+      "ground_truth_chunks": [
+        "We hypothesized that the morphological variability of *P. lobata* at this site is produced by phenotypic plasticity for skeletal growth rate, with greater upward linear extension in the relatively low energy back reef than on the high energy forereef.",
+        "The purpose of the experiment was to determine if skeletal growth rate variability of *P. lobata* at this site is environmental, genetic, or both (environmental control indicates phenotypic plasticity)."
+      ]
+    },
+    {
+      "record_id": "cfe7ee4ea1a3ae1ebb030f05",
+      "paper_id": "2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity",
+      "source_path": "output/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity.md",
+      "section_heading": "Materials and methods",
+      "section_start_line": 37,
+      "section_end_line": 46,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which Porites species was selected for the experiment, and what reasons were given for its selection?",
+      "ground_truth_answer": "P. lobata was selected because gross colony morphology varies between habitats (back reef and forereef), it is common elsewhere in the Indo-Pacific, and it can be distinguished from other massive Porites species by surface morphology and corallite skeletal characteristics.",
+      "ground_truth_chunks": [
+        "At least five massive Porites species occur in the study area; P. lobata, P. lutea, P. australiensis, P. mayeri and P. solida, and some skeletal growth characteristics may vary by species (Lough et al. [1999](#page-7-0)).",
+        "P. lobata, a gonochoric spawner, was selected for this experiment because gross colony morphology varies between habitats (back reef and forereef), it is common elsewhere in the Indo-Pacific, and it can be distinguished from other massive Porites species by surface morphology and corallite skeletal characteristics (Veron [2000](#page-8-0); Fenner [2005](#page-7-0))."
+      ]
+    },
+    {
+      "record_id": "b409f8be7ac84974fdaa0cd8",
+      "paper_id": "2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity",
+      "source_path": "output/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity.md",
+      "section_heading": "Reciprocal transplant experimental design",
+      "section_start_line": 47,
+      "section_end_line": 50,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the four replicate groups used in the reciprocal transplant experiment and what transplant directions did they represent?",
+      "ground_truth_answer": "The four replicate groups were: Native 1 (N1) — back reef to back reef; Translocated 1 (T1) — back reef to forereef; Native 2 (N2) — forereef to forereef; Translocated 2 (T2) — forereef to back reef.",
+      "ground_truth_chunks": [
+        "The RTE design utilized four replicate groups that were transplanted within and between the two sites: From the back reef to the back reef (Native 1, N1), from the back reef to the forereef (Translocated 1, T1), from the forereef to the forereef (Native 2, N2), and from the forereef to the back reef (Translocated 2, T2)."
+      ]
+    },
+    {
+      "record_id": "bc9df034ec181ea509b78125",
+      "paper_id": "2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity",
+      "source_path": "output/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity.md",
+      "section_heading": "Coral transplantation",
+      "section_start_line": 51,
+      "section_end_line": 62,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many cores were removed from each source colony and how were they allocated between the native and translocation sites?",
+      "ground_truth_answer": "Eight 35 mm diameter, 50 mm-long cores were removed from each source colony: four cores for the native site and four cores for the translocation site.",
+      "ground_truth_chunks": [
+        "A pneumatic drill was used to remove eight 35 mm diameter, 50 mm-long cores from each source colony; four cores for the native site, and four cores for the translocation site, thus providing 12 cores in each of the",
+        "four RTE groups (Fig. 2). Holes were filled with marine epoxy, and tissue grew over the epoxy within 6 months."
+      ]
+    },
+    {
+      "record_id": "82b64dc49d4982eab8175860",
+      "paper_id": "2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity",
+      "source_path": "output/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity.md",
+      "section_heading": "Skeletal measurements",
+      "section_start_line": 63,
+      "section_end_line": 80,
+      "model": "openai:gpt-4o-mini",
+      "question": "How was bulk density (g cm^-3) measured for the surviving transplants?",
+      "ground_truth_answer": "Blocks were air-dried for 6 months, ground to 5–6 cm^3 blocks from the central pre-RTE cores after removing alizarin-stained and post-RTE material, dried at 60°C for 24 h and weighed (DW_clean), dipped in molten paraffin wax at 110–115°C and re-weighed (DW_wax), buoyant weighed in distilled water at 20°C (BW_wax), and total enclosed volume and bulk density were then calculated using the cited equations.",
+      "ground_truth_chunks": [
+        "Bulk density (g cm<sup>-3</sup>) was measured by first air-drying the 35 surviving transplants for 6 months, then grinding each transplant to a 5-6 cm<sup>3</sup> block. All alizarin-stained skeleton and post-RTE skeletal material was removed, thus the blocks were obtained from the central portion of the pre-RTE cores. The blocks were dried at 60°C for 24 h before weighing. To determine bulk density at the end of the RTE, dry weight was taken of each block (DW<sub>clean</sub>). The blocks were dipped in molten paraffin wax kept at 110-115°C to form a water-tight barrier, then dry weight was again taken of each block (DW<sub>wax</sub>). Buoyant weight of each waxed block was measured in distilled water at 20°C with specific gravity 1.00 g cm<sup>-3</sup> (BW<sub>wax</sub>). Total enclosed volume ( $V_{\\text{enclosed}}$ ) and bulk density were then calculated for each block using the equations (Bucher et al. 1998):"
+      ]
+    },
+    {
+      "record_id": "e3511f9cd12913ad398ce3b9",
+      "paper_id": "2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity",
+      "source_path": "output/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity.md",
+      "section_heading": "Source colony zooxanthella typing",
+      "section_start_line": 81,
+      "section_end_line": 84,
+      "model": "openai:gpt-4o-mini",
+      "question": "What molecular methods were used to amplify and assign zooxanthella symbionts to clades, and what additional technique was used for finer-scale genotype analysis?",
+      "ground_truth_answer": "Symbiont DNA was amplified using partial LSU rDNA primers 24D15F4 and 24D23R1; resultant products were assigned to clades by RFLP analysis using enzymes TaqI and Hhal; denaturinggradient gel electrophoresis (DGGE) was used for finer-scale genotype analysis.",
+      "ground_truth_chunks": [
+        "Symbiont DNA was amplified using partial large subunit ribosomal DNA (LSU rDNA) primers 24D15F4 and 24D23R1, and the resultant products identified and assigned to clades with restriction fragment length polymorphism (RFLP) analysis using enzymes TaqI and Hhal (Baker et al. 1997; Baker 2001).",
+        "In addition, denaturinggradient gel electrophoresis (DGGE) was used for a finerscale genotype analysis to search for spatial and temporal differences not detected by RFLP."
+      ]
+    },
+    {
+      "record_id": "d961078b7c4c857becea26c1",
+      "paper_id": "2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity",
+      "source_path": "output/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity.md",
+      "section_heading": "Statistical analysis",
+      "section_start_line": 85,
+      "section_end_line": 90,
+      "model": "openai:gpt-4o-mini",
+      "question": "What method was used to adjust p-values for multiple tests in the Statistical analysis section?",
+      "ground_truth_answer": "Bonferroni correction — p-values of <0.05 were adjusted by a factor of six to obtain final p-values.",
+      "ground_truth_chunks": [
+        "Because the six tests are dependent, *p*-values of <0.05 were adjusted by a factor of six to obtain final *p*-values (Bonferroni correction)."
+      ]
+    },
+    {
+      "record_id": "290093aa2d97db7f7d8e883c",
+      "paper_id": "2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity",
+      "source_path": "output/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity.md",
+      "section_heading": "<span id=\"page-4-0\"></span>Results",
+      "section_start_line": 91,
+      "section_end_line": 126,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did bulk density differ between the forereef and back reef, and was bulk density affected by source population?",
+      "ground_truth_answer": "Mean bulk densities were higher on the forereef than the back reef for all RTE groups; transplant site affected bulk density, but source population did not, indicating environmental but not genetic control.",
+      "ground_truth_chunks": [
+        "Mean bulk densities were higher on the forereef than the back reef for all RTE groups (Fig. 4a).",
+        "Transplant site affected bulk density, but source population did not (Table 2), thus indicating environmental but not genetic control."
+      ]
+    },
+    {
+      "record_id": "7b077cef80890c383de3cfd2",
+      "paper_id": "2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity",
+      "source_path": "output/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity/2007 Smith Barshis & Birkeland CR  - phenotypic plasticity.md",
+      "section_heading": "Discussion",
+      "section_start_line": 127,
+      "section_end_line": 192,
+      "model": "openai:gpt-4o-mini",
+      "question": "How long did the reciprocal transplant experiment (RTE) run?",
+      "ground_truth_answer": "6 months.",
+      "ground_truth_chunks": [
+        "Alternatively, the brevity of the experiment (6 months) may be a confounding factor, falsely implying genetic differentiation between the transplanted populations when in fact they are both part of a single panmictic population.",
+        "Thus running the RTE for at least 1 year may have allowed skeletal growth rates of the translocated groups to fully adjust to the new environments, potentially resulting in greater environmental control, as occurred with bulk density (Fig. [4a](#page-5-0))."
+      ]
+    }
+  ],
+  "failures": []
+}

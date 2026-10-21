@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS.md",
+  "source_sha256": "ac773286358aa588624357bfc78529b084ea3aad415d1886c4921de2af259961",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "97b702f2334083691c2527bf",
+      "paper_id": "Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS",
+      "source_path": "output/Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS.md",
+      "section_heading": "Rising sea levels and the increase of shoreline wave energy atAmerican Samoa",
+      "section_start_line": 5,
+      "section_end_line": 32,
+      "model": "openai:gpt-4o-mini",
+      "question": "How did the average rate of land subsidence on Tutuila change after the 2009 Samoa-Tonga earthquake doublet according to the section?",
+      "ground_truth_answer": "It increased from an average rate of 1–2 mm/year prior to 2009 to an average rate of 16 mm/year during the period after the earthquakes (2009–201[76](#page-10-5)).",
+      "ground_truth_chunks": [
+        "Based on NOAA's Pago Pago tide gauge, satellite altimetry, and Global Navigation Satellite System land motion data, it was found that prior to the 2009 Samoa-Tonga earthquake doublet, land subsidence of Tutuila was occurring at an average rate of 1–2 mm/year.",
+        "Afer the earthquakes, average rates of land subsidence increased to 16 mm/year during the period of 2009–201[76](#page-10-5) ."
+      ]
+    },
+    {
+      "record_id": "44c22f7c77ed4bd04ea398a3",
+      "paper_id": "Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS",
+      "source_path": "output/Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS.md",
+      "section_heading": "Methods Field survey",
+      "section_start_line": 33,
+      "section_end_line": 52,
+      "model": "openai:gpt-4o-mini",
+      "question": "What frequency ranges define the low frequency (LF) and sea-swell (SS) bands in the study?",
+      "ground_truth_answer": "The LF band is 0.001 to 0.04 Hz (periods of 25–1000 s) and the SS band is 0.04 to 0.3 Hz (3.33–25 s).",
+      "ground_truth_chunks": [
+        "For this study, we define the low frequency (LF) band, encompassing infragravity and far infragravity waves bands, from 0.001 to 0.04 Hz (periods of 25–1000 s) and the sea-swell (SS) band from 0.04 to 0.3 Hz (3.33–25 s)."
+      ]
+    },
+    {
+      "record_id": "fa4479547ee6f7d37d4062f3",
+      "paper_id": "Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS",
+      "source_path": "output/Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS.md",
+      "section_heading": "Bathymetry",
+      "section_start_line": 53,
+      "section_end_line": 56,
+      "model": "openai:gpt-4o-mini",
+      "question": "What cross-shore grid spacing, cross-shore extent, and alongshore sampling were used for the numerical model's bathymetry transect?",
+      "ground_truth_answer": "A 500-m long, 1-dimensional grid from 32-m water depth to 10 m above MSL was used, with cross-shore grid spacing varying from 2 m at the seaward boundary to 0.04 m at the shoreward boundary (linear interpolation). The input bathymetry had 3 grid points in the alongshore direction with 1-m spacing and each cross-shore transect was identical; the single transect was derived from an average of parallel cross-shore transects spanning 100 m in the alongshore, spaced every 2 m.",
+      "ground_truth_chunks": [
+        "For the numerical modeling described in subsequent sections, we use a 500-m long, 1-dimensional grid from 32-m water depth to 10 m above MSL.",
+        "We vary the cross-shore grid spacing from 2 m at the seaward boundary to 0.04 m at the shoreward boundary using linear interpolation.",
+        "The input bathymetry has 3 grid points in the alongshore direction with 1-m spacing, and each cross-shore transect is identical. This single transect is derived from an average of parallel cross-shore transects spanning 100 m in the alongshore, spaced every 2 m (Fig. 1c)."
+      ]
+    },
+    {
+      "record_id": "886f735ec9d930a2b8193142",
+      "paper_id": "Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS",
+      "source_path": "output/Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS.md",
+      "section_heading": "1-D Numerical modeling of nearshore waves using SWASH",
+      "section_start_line": 57,
+      "section_end_line": 64,
+      "model": "openai:gpt-4o-mini",
+      "question": "What constant friction factor did the authors use to represent friction between the flow and rough bed in the SWASH simulations?",
+      "ground_truth_answer": "A constant friction factor of 0.05.",
+      "ground_truth_chunks": [
+        "Following Risandi et al.  $(2020)^{28}$ , who studied a fringing reef in southwestern Australia with visually similar coral cover, we account for friction between the flow and rough bed using a constant friction factor of 0.05."
+      ]
+    },
+    {
+      "record_id": "7a4d15a566699f0f8ec776c7",
+      "paper_id": "Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS",
+      "source_path": "output/Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS.md",
+      "section_heading": "Nearshore setup and sea-swell wave hindcasts",
+      "section_start_line": 65,
+      "section_end_line": 84,
+      "model": "openai:gpt-4o-mini",
+      "question": "What empirical equation is used to estimate the tidally dependent factor p(h') for breaking-wave setup?",
+      "ground_truth_answer": "p(h') = 0.10h'^2 - 0.12h' + 0.26",
+      "ground_truth_chunks": [
+        "we follow Becker et al.  $(2014)^{16}$  to estimate a tidally dependent (h', MSL) factor,\n\n$$p(h') = 0.10h'^2 - 0.12h' + 0.26 (4)$$",
+        "that, when multiplied by the reef face SS significant wave height,  $H_{SS}^{C}$ , provides an estimate of breaking-wave setup as\n\n$$\\widehat{\\overline{\\eta}}_A = p(h')H_{SS}^C \\tag{5}$$"
+      ]
+    },
+    {
+      "record_id": "47f35ab9c3011698d41543bc",
+      "paper_id": "Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS",
+      "source_path": "output/Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS.md",
+      "section_heading": "Results",
+      "section_start_line": 85,
+      "section_end_line": 129,
+      "model": "openai:gpt-4o-mini",
+      "question": "What quadratic function do the model results use to estimate the maximum nearshore sea-swell significant wave height (Max(H_{SS}^A)) as a function of nearshore mean water depth (\\overline{h}_A)?",
+      "ground_truth_answer": "Max(H_{SS}^A) = 0.15\\overline{h}_A^2 + 0.08\\overline{h}_A (m).",
+      "ground_truth_chunks": [
+        "Combining simulations for both observed and added sea levels, the model results suggest that the maximum nearshore  $H_{SS}$  can be estimated using a quadratic function of nearshore mean water depth,  $\\bar{h}_A$ , (Fig. 5) as",
+        "$$Max(H_{SS}^A) = 0.15\\overline{h}_A^2 + 0.08\\overline{h}_A \\text{ (m)}.$$"
+      ]
+    },
+    {
+      "record_id": "6aed80123dc3d48f37c1b435",
+      "paper_id": "Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS",
+      "source_path": "output/Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS.md",
+      "section_heading": "Discussion",
+      "section_start_line": 130,
+      "section_end_line": 161,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the SWASH modeling in this Discussion section, how does the maximum nearshore sea-swell (SS) significant wave height vary with water depth at the reef crest?",
+      "ground_truth_answer": "The model predicts the maximum nearshore SS significant wave height increases quadratically with water depth; additionally, once water levels exceed about 1.2 m mean water depth, dependence on offshore wave height increases because smaller waves can propagate across the reef without breaking.",
+      "ground_truth_chunks": [
+        "We find that the model predicts that the maximum nearshore SS significant wave height for a given water depth increases quadratically with water depth.",
+        "As water levels exceed ~1.2 m mean water depth, the dependence on offshore wave height increases as smaller waves are able to propagate across the reef without breaking."
+      ]
+    },
+    {
+      "record_id": "2b514b3a32fdf93057fcd425",
+      "paper_id": "Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS",
+      "source_path": "output/Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS.md",
+      "section_heading": "Data availability",
+      "section_start_line": 162,
+      "section_end_line": 167,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where will the datasets generated and/or analyzed during the current study be made publicly available?",
+      "ground_truth_answer": "They will be made publicly available through the UC San Diego Library and are currently available from the corresponding author on reasonable request.",
+      "ground_truth_chunks": [
+        "The datasets generated and/or analyzed during the current study will be made publicly available through the UC San Diego Library and are currently available from the corresponding author on reasonable request.",
+        "The preliminary DEM provided by NOAA is derived from aerial topographic/bathymetric (topobathy) light detection and ranging (LiDAR) measurements taken in 2022, and at the time of writing has not yet been through the full NOAA quality assurance process and approval. We assume liability of any further application of the data and errors present and are unable to share this data publicly at this time."
+      ]
+    },
+    {
+      "record_id": "68e0bee852361f915657c880",
+      "paper_id": "Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS",
+      "source_path": "output/Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS.md",
+      "section_heading": "Author contributions",
+      "section_start_line": 226,
+      "section_end_line": 229,
+      "model": "openai:gpt-4o-mini",
+      "question": "Who led the feld study for the observational data?",
+      "ground_truth_answer": "M.S.",
+      "ground_truth_chunks": [
+        "M.S. led the feld study for the observational data, contributed to the main manuscript text and provided revision."
+      ]
+    },
+    {
+      "record_id": "38f07249c9a21b07ad11f38e",
+      "paper_id": "Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS",
+      "source_path": "output/Barnes et al. 2024 rising sea levels increasing wave energy AS/Barnes et al. 2024 rising sea levels increasing wave energy AS.md",
+      "section_heading": "Additional information",
+      "section_start_line": 234,
+      "section_end_line": 244,
+      "model": "openai:gpt-4o-mini",
+      "question": "To whom should correspondence and requests for materials be addressed?",
+      "ground_truth_answer": "A.T.B.",
+      "ground_truth_chunks": [
+        "**Correspondence** and requests for materials should be addressed to A.T.B."
+      ]
+    }
+  ],
+  "failures": []
+}

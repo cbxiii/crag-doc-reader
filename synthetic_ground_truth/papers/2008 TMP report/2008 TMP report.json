@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2008 TMP report/2008 TMP report.md",
+  "source_sha256": "58f88b58dbff5cc5897ac88d9cdf5b1df4c08214086c889087056205c325bd03",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "08c00dad79e00345d82a6acc",
+      "paper_id": "2008 TMP report/2008 TMP report",
+      "source_path": "output/2008 TMP report/2008 TMP report.md",
+      "section_heading": "Abstract",
+      "section_start_line": 59,
+      "section_end_line": 70,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the mean coral cover for the 12 core sites in 2008?",
+      "ground_truth_answer": "The mean coral cover for the 12 core sites was 30.5%.",
+      "ground_truth_chunks": [
+        "For the 12 core sites the mean coral cover was 30.5%, and for the original 11 sites 32.4%, slightly higher than the 27-28% seen in the previous three years."
+      ]
+    },
+    {
+      "record_id": "45c157e7345e9cc3c540e3a2",
+      "paper_id": "2008 TMP report/2008 TMP report",
+      "source_path": "output/2008 TMP report/2008 TMP report.md",
+      "section_heading": "Individual Sites",
+      "section_start_line": 239,
+      "section_end_line": 286,
+      "model": "openai:gpt-4o-mini",
+      "question": "In which site did a GPS malfunction move the transect location in 2007, which was discovered in 2008?",
+      "ground_truth_answer": "Fagamalo.",
+      "ground_truth_chunks": [
+        " In Fagamalo, there was little change from 2007 to 2008, with a slight increase in coral and coralline algae cover, and decrease in turf. Figure 11 shows that both 2005 and 2006 had lower coral cover than 2007 and 2008. It appears that a GPS malfunction moved our transect location in 2007, which was discovered in 2008.",
+        "Figure 11."
+      ]
+    },
+    {
+      "record_id": "5ab4b5103b89066a86444ecf",
+      "paper_id": "2008 TMP report/2008 TMP report",
+      "source_path": "output/2008 TMP report/2008 TMP report.md",
+      "section_heading": "Species Diversity",
+      "section_start_line": 507,
+      "section_end_line": 558,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the reported correlation coefficient and significance for the relationship between coral cover and diversity (H')?",
+      "ground_truth_answer": "The correlation was very small (r = 0.1249) and not significant (p > 0.2).",
+      "ground_truth_chunks": [
+        "Figure 54 shows a scattergram of coral cover against diversity (H'), using the mean of all four years of data for both variables (mean of two years for Masacre Bay).",
+        "The correlation was very small (r = 0.1249) and not significant (p > 0.2)"
+      ]
+    },
+    {
+      "record_id": "f68ef5cf94776d7fdc353d00",
+      "paper_id": "2008 TMP report/2008 TMP report",
+      "source_path": "output/2008 TMP report/2008 TMP report.md",
+      "section_heading": "Lifeforms",
+      "section_start_line": 645,
+      "section_end_line": 684,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral lifeform is most common on the outer reef flats?",
+      "ground_truth_answer": "Branching is the most common lifeform on the outer reef flats, followed by encrusting.",
+      "ground_truth_chunks": [
+        "Branching is the most common lifeform, followed by encrusting.",
+        "Branching was the most common lifeform, followed by encrusting, while on the reef slope encrusting is the most common lifeform and branching is third."
+      ]
+    },
+    {
+      "record_id": "ccba3303f25160a5895390e5",
+      "paper_id": "2008 TMP report/2008 TMP report",
+      "source_path": "output/2008 TMP report/2008 TMP report.md",
+      "section_heading": "Inner Reef Flats",
+      "section_start_line": 761,
+      "section_end_line": 804,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which inner reef flat site was the single exception to the general low coral cover and had higher coral cover?",
+      "ground_truth_answer": "Utulei inside Pago Pago Harbor.",
+      "ground_truth_chunks": [
+        "great variation between sites. All but one site had low coral cover, the single exception being Utulei inside Pago Pago Harbor."
+      ]
+    },
+    {
+      "record_id": "1745facca5704faa786cf852",
+      "paper_id": "2008 TMP report/2008 TMP report",
+      "source_path": "output/2008 TMP report/2008 TMP report.md",
+      "section_heading": "Coral Lifeforms",
+      "section_start_line": 929,
+      "section_end_line": 952,
+      "model": "openai:gpt-4o-mini",
+      "question": "At 4 m depth which site had the highest coral cover and what was the main coral lifeform?",
+      "ground_truth_answer": "Leone had by far the highest coral cover at 4 m depth, mainly composed of foliose coral, *Isopora crateriformis* (which is encrusting in the center but foliose around the edges).",
+      "ground_truth_chunks": [
+        "Figure 109 shows coral lifeform cover at 4 m depth. Encrusting corals were a significant part of the community at only four of the seven sites. Leone had by far the highest coral cover, which was mainly composed of foliose coral, *Isopora crateriformis* (which is encrusting in the center but foliose around the edges)."
+      ]
+    },
+    {
+      "record_id": "2881d71d6f005d0a5606f68b",
+      "paper_id": "2008 TMP report/2008 TMP report",
+      "source_path": "output/2008 TMP report/2008 TMP report.md",
+      "section_heading": "INVERTEBRATES",
+      "section_start_line": 1023,
+      "section_end_line": 1138,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which invertebrate group was reported as the most numerous in this section?",
+      "ground_truth_answer": "Alpheids (Alpheid snapping shrimp, recorded as Alpheid grooves) were reported as the most numerous of all the invertebrates.",
+      "ground_truth_chunks": [
+        "Alpheid grooves are grooves in corals that are occupied by Alpheid snapping shrimp. The shrimp are never visible.",
+        "Alpheids were actually the most numerous of all the invertebrates, even though they hadn't been noticed and recorded in previous years."
+      ]
+    },
+    {
+      "record_id": "4ed5c3001bd8b112cd6ec1d3",
+      "paper_id": "2008 TMP report/2008 TMP report",
+      "source_path": "output/2008 TMP report/2008 TMP report.md",
+      "section_heading": "Baselines",
+      "section_start_line": 1187,
+      "section_end_line": 1190,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the Baselines section, what range of average coral cover is suggested as a more realistic goal for American Samoa?",
+      "ground_truth_answer": "An average coral cover of 35-40%, implying a goal to increase coral cover by about 8-13%.",
+      "ground_truth_chunks": [
+        "Average coral cover is more likely to be in the 35-40% range.",
+        "If 35-40% cover is a more realistic goal for coral cover, then our goal should be to have coral cover increase by about 8-13%."
+      ]
+    },
+    {
+      "record_id": "80f64ae77f8636344d51078b",
+      "paper_id": "2008 TMP report/2008 TMP report",
+      "source_path": "output/2008 TMP report/2008 TMP report.md",
+      "section_heading": "Major Disturbances",
+      "section_start_line": 1217,
+      "section_end_line": 1220,
+      "model": "openai:gpt-4o-mini",
+      "question": "Between which dates did the staghorn corals die in the airport backreef pool?",
+      "ground_truth_answer": "Between April 27 and May 18, 2008; likely just a few days before May 18.",
+      "ground_truth_chunks": [
+        "On May 18, 2008, observation of the airport backreef pool to record bleaching revealed that there was a large amount of white staghorns in the outer part of the pool.",
+        "Thus, the death would have had to have occurred between May 18 and the previous data when it was checked, April 27.",
+        "The fact that it was still very white on May 18, but filamentous algae was obvious within a few days indicates that it likely died just a few days before May 18."
+      ]
+    },
+    {
+      "record_id": "a0ea3770672993376ba1da42",
+      "paper_id": "2008 TMP report/2008 TMP report",
+      "source_path": "output/2008 TMP report/2008 TMP report.md",
+      "section_heading": "Species",
+      "section_start_line": 1251,
+      "section_end_line": 1262,
+      "model": "openai:gpt-4o-mini",
+      "question": "What genus and family are the brown 'fuzz' hydroids on rock rubble identified as?",
+      "ground_truth_answer": "The hydroids are identified as the genus Myronoema in the family Plumariidae.",
+      "ground_truth_chunks": [
+        "They match the photo and description of the hydroid *Myronoema* shown in Colin & Arneson (1995).",
+        "They are in the Plumariidae."
+      ]
+    }
+  ],
+  "failures": []
+}

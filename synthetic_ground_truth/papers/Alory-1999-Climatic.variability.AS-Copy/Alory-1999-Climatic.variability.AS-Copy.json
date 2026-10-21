@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Alory-1999-Climatic.variability.AS-Copy/Alory-1999-Climatic.variability.AS-Copy.md",
+  "source_sha256": "68aa5a44028622e65f7079c030d9446666aa2fc65eadd710600def3de9db204d",
+  "status": "complete",
+  "selected_section_count": 7,
+  "successful_record_count": 7,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "3dbf96d80965e2ef9879cfd4",
+      "paper_id": "Alory-1999-Climatic.variability.AS-Copy/Alory-1999-Climatic.variability.AS-Copy",
+      "source_path": "output/Alory-1999-Climatic.variability.AS-Copy/Alory-1999-Climatic.variability.AS-Copy.md",
+      "section_heading": "Climatic variability in the vicinity of Wallis, Futuna, and Samoa islands",
+      "section_start_line": 3,
+      "section_end_line": 27,
+      "model": "openai:gpt-4o-mini",
+      "question": "During the warm phase of ENSO (El Niño), what typical changes are observed in sea surface salinity, precipitation, subsurface temperature, surface geostrophic current, and sea level in the study region?",
+      "ground_truth_answer": "Saltier-than-average SSS (~0.4), a rainfall deficit (~0.4 m yr^-1), subsurface cooling (~0.3°C), a weak westward surface geostrophic current anomaly (~2 cm s^-1), and a sea level decrease of about 5–10 cm.",
+      "ground_truth_chunks": [
+        "During the warm phase of ENSO (El Niño), we generally observe saltier-than-average SSS (of the order of 0.4), consistent with a rainfall deficit (0.4 m yr<sup>-1</sup>), a hint of colder-than-average surface temperature is also identified in subsurface (0.3°C), a weak tendency for westward geostrophic current anomalies (2 cm s<sup>-1</sup> at the surface), a sea level decrease (5-10 cm), together with easterly (5 m<sup>2</sup> s<sup>-2</sup>) and well marked southerly (10 m<sup>2</sup> s<sup>-2</sup>) wind pseudo-stress anomalies."
+      ]
+    },
+    {
+      "record_id": "87ed292919c263fce031404e",
+      "paper_id": "Alory-1999-Climatic.variability.AS-Copy/Alory-1999-Climatic.variability.AS-Copy",
+      "source_path": "output/Alory-1999-Climatic.variability.AS-Copy/Alory-1999-Climatic.variability.AS-Copy.md",
+      "section_heading": "1. INTRODUCTION",
+      "section_start_line": 30,
+      "section_end_line": 37,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which geographic region does the paper focus on for analysing ENSO-related variability?",
+      "ground_truth_answer": "The vicinity of Wallis, Futuna, and Samoa islands (13°-15° S, 180°-170° W).",
+      "ground_truth_chunks": [
+        "Complementing these basin scale studies, regional ENSO variability and impacts have been documented also in delimited areas such as the south western tropical Pacific [3, 6, 10, 24, 29]. In line with these regional studies, the present paper aims to analyse the ENSO-related variability in the vicinity of Wallis, Futuna, and Samoa islands (13°-15° S, 180°-170° W; hereafter referred to as \"the region\", see figure 1), and to go beyond the ENSO variability to include the seasonal variability."
+      ]
+    },
+    {
+      "record_id": "22ba400e57f5fe1e64e23e44",
+      "paper_id": "Alory-1999-Climatic.variability.AS-Copy/Alory-1999-Climatic.variability.AS-Copy",
+      "source_path": "output/Alory-1999-Climatic.variability.AS-Copy/Alory-1999-Climatic.variability.AS-Copy.md",
+      "section_heading": "2. DATA AND DATA PROCESSING",
+      "section_start_line": 38,
+      "section_end_line": 63,
+      "model": "openai:gpt-4o-mini",
+      "question": "What filter was used to estimate interannual variations and how does it affect signals at one-year and four-year periods?",
+      "ground_truth_answer": "A 25-month Hanning filter was used. It passes almost no signal at periods of one year and shorter, and passes about 90 % of the signal at periods of four years.",
+      "ground_truth_chunks": [
+        "Time filtering was used to separate the seasonal and interannual signals for all variables.",
+        "The interannual variations were estimated by filtering the monthly time series with a 25-month Hanning filter. This filter passes almost no signal at periods of one year and shorter, and passes about 90 % of the signal at periods of four years, which is the mean El Niño return interval [14]."
+      ]
+    },
+    {
+      "record_id": "e4a3e268531793d640e11bfa",
+      "paper_id": "Alory-1999-Climatic.variability.AS-Copy/Alory-1999-Climatic.variability.AS-Copy",
+      "source_path": "output/Alory-1999-Climatic.variability.AS-Copy/Alory-1999-Climatic.variability.AS-Copy.md",
+      "section_heading": "3. MEAN VALUES",
+      "section_start_line": 64,
+      "section_end_line": 93,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the mean wind pseudo-stress modulus and its average direction in the studied region?",
+      "ground_truth_answer": "The mean wind pseudo-stress has an ESE direction and a modulus of 34.5 m^2 s^-2.",
+      "ground_truth_chunks": [
+        "The mean wind pseudo-stress in the region has an ESE direction and its modulus is 34.5 m<sup>2</sup> s<sup>-2</sup>.",
+        "| τ              | 34.5  | 18.6               |  |"
+      ]
+    },
+    {
+      "record_id": "c75647fd938c6b7fed539859",
+      "paper_id": "Alory-1999-Climatic.variability.AS-Copy/Alory-1999-Climatic.variability.AS-Copy",
+      "source_path": "output/Alory-1999-Climatic.variability.AS-Copy/Alory-1999-Climatic.variability.AS-Copy.md",
+      "section_heading": "4. SEASONAL VARIATIONS",
+      "section_start_line": 94,
+      "section_end_line": 156,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Table III in section 4, what are the amplitude, phase (in Julian days), and percent of variance explained by the annual harmonic for SST?",
+      "ground_truth_answer": "Amplitude 0.73; phase 75 (Julian days); percent of variance explained 78%.",
+      "ground_truth_chunks": [
+        "**Table III.** Amplitude, phase and percent of variance explained by the annual harmonic for the eight variables defined in *table I*. The units are as in *table I* for the amplitude and in Julian days for the phase (e.g. 15 is January the 15th).",
+        "| SST            | 0.73      | 75    | 78                            |"
+      ]
+    },
+    {
+      "record_id": "dcb5407931ddde098b2d1ba9",
+      "paper_id": "Alory-1999-Climatic.variability.AS-Copy/Alory-1999-Climatic.variability.AS-Copy",
+      "source_path": "output/Alory-1999-Climatic.variability.AS-Copy/Alory-1999-Climatic.variability.AS-Copy.md",
+      "section_heading": "5. THE SIGNATURE OF ENSO",
+      "section_start_line": 157,
+      "section_end_line": 202,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which variable in the study shows the strongest correlation with the Southern Oscillation Index (SOI), and what are the reported zero-lag and maximum correlations and lag?",
+      "ground_truth_answer": "The meridional wind pseudo-stress (τ^{y}) shows the strongest correlation with the SOI: zero-lag R0 = -0.90, maximum Rlag = -0.92 at a lag of +1 month.",
+      "ground_truth_chunks": [
+        "The wind pseudo-stress anomalies (figures 7b to d), especially the meridional component (R > 0.9), are the variables best linked to the SOI, with a maximum correlation above 0.5 at almost zero-lag (the difference between zero-lag and best correlation is not statistically significant).",
+        "| $\\tau^{y}$       | -0.90 | -0.92 | +1  |"
+      ]
+    },
+    {
+      "record_id": "5b8c60ea51ab1aff746df1ef",
+      "paper_id": "Alory-1999-Climatic.variability.AS-Copy/Alory-1999-Climatic.variability.AS-Copy",
+      "source_path": "output/Alory-1999-Climatic.variability.AS-Copy/Alory-1999-Climatic.variability.AS-Copy.md",
+      "section_heading": "6. SUMMARY AND CONCLUSION",
+      "section_start_line": 203,
+      "section_end_line": 222,
+      "model": "openai:gpt-4o-mini",
+      "question": "During the warm phase of ENSO (El Niño), what magnitude of sea level anomaly was observed in the studied region?",
+      "ground_truth_answer": "A sea level decrease of about 5–10 cm.",
+      "ground_truth_chunks": [
+        "Generally speaking, during the warm phase of ENSO (SOI < 0, El Niño), we observed saltier-than-average SSS (of the order of 0.4), consistent with a rainfall deficit (0.4 m yr<sup>-1</sup>), cold surface temperature anomalies also identified in subsurface (0.3 °C), a weak tendency for westward current anomalies (2 cm s<sup>-1</sup> at the surface), a sea level decrease (5-10 cm), together with easterly (5 m<sup>2</sup> s<sup>-2</sup>) and well marked southerly (10 m<sup>2</sup> s<sup>-2</sup>) wind pseudo-stress anomalies."
+      ]
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27.md",
+  "source_sha256": "f863cbe176ad07098cadafe0782491705244b84cc9c2d4757ba42b3ca31181aa",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "65baed47dfa8d1fdff4941e3",
+      "paper_id": "2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27",
+      "source_path": "output/2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27.md",
+      "section_heading": "About this document",
+      "section_start_line": 17,
+      "section_end_line": 26,
+      "model": "openai:gpt-4o-mini",
+      "question": "What types of content does the NOAA Technical Memorandum NMFS series published by PIFSC include?",
+      "ground_truth_answer": "Technical workshop proceedings, large data compilations, status reports and reviews, lengthy scientific or statistical monographs, and other broad-scope scientific and technical information.",
+      "ground_truth_chunks": [
+        "NMFS' Pacific Islands Fisheries Science Center (PIFSC) uses the **NOAA Technical Memorandum NMFS** series to achieve timely dissemination of scientific and technical information that is of high quality but inappropriate for publication in the formal peer-reviewed literature.",
+        "The contents are of broad scope, including technical workshop proceedings, large data compilations, status reports and reviews, lengthy scientific or statistical monographs, and more.",
+        "NOAA Technical Memoranda published by the PIFSC, although informal, are subjected to extensive review and editing and reflect sound professional work."
+      ]
+    },
+    {
+      "record_id": "7e413eb8da1ecfbc8cfb3786",
+      "paper_id": "2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27",
+      "source_path": "output/2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27.md",
+      "section_heading": "3.3.1.1 Sedimentation",
+      "section_start_line": 1651,
+      "section_end_line": 1668,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the two basic types of sediments that influence coral reefs?",
+      "ground_truth_answer": "Terrestrially derived sediments and sediments generated in situ through erosion and the skeletal material of calcifying organisms (e.g., corals, mollusks, Halimeda, foraminifera).",
+      "ground_truth_chunks": [
+        "There are two basic types of sediments that influence coral reefs: those that are terrestrially derived and those that are generated in situ through erosion and the skeletal material of calcifying organisms (corals, mollusks, *Halimeda,* foraminifera, etc.)."
+      ]
+    },
+    {
+      "record_id": "92c2d9eeab91f11db5260a8c",
+      "paper_id": "2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27",
+      "source_path": "output/2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27.md",
+      "section_heading": "Threats",
+      "section_start_line": 2373,
+      "section_end_line": 2394,
+      "model": "openai:gpt-4o-mini",
+      "question": "What mean likelihood did the BRT estimate that Mycetophyllia ferox will fall below the Critical Risk Threshold by 2100?",
+      "ground_truth_answer": "The BRT estimated a mean likelihood of 70% (in the \"likely\" risk category) with a standard error of 8%.",
+      "ground_truth_chunks": [
+        "The overall likelihood that *Mycetophyllia ferox* will fall below the Critical Risk Threshold by 2100 was estimated to be in the \"likely\" risk category with a mean likelihood of 70% and a standard error (SE) of 8% (Fig. 6.2.4).",
+        "Factors that increase the potential extinction risk (higher likelihood of falling below the Critical Risk Threshold) for *Mycetophyllia ferox* include disease, rare abundance, and observed declines in abundance."
+      ]
+    },
+    {
+      "record_id": "f7071a4369d14a4b775ed692",
+      "paper_id": "2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27",
+      "source_path": "output/2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27.md",
+      "section_heading": "Threats",
+      "section_start_line": 3194,
+      "section_end_line": 3219,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the BRT's estimated mean likelihood that Pocillopora danae will fall below the Critical Risk Threshold by 2100, and what was the associated standard error and risk category?",
+      "ground_truth_answer": "The BRT estimated a mean likelihood of 54% with a standard error (SE) of 14%, placing Pocillopora danae in the \"more likely than not\" risk category for falling below the Critical Risk Threshold by 2100.",
+      "ground_truth_chunks": [
+        "The overall likelihood that *Pocillopora danae* will fall below the Critical Risk Threshold by 2100 was estimated to be in the \"more likely than not\" risk category with a mean likelihood of 54% and a standard error (SE) of 14% (Fig. 7.3.4).",
+        "This SE was calculated by taking the standard deviation of the seven mean voting scores of the BRT members and shows the coherence among the BRT."
+      ]
+    },
+    {
+      "record_id": "e46ead4754d2499dcb902e18",
+      "paper_id": "2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27",
+      "source_path": "output/2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27.md",
+      "section_heading": "Taxonomy",
+      "section_start_line": 4107,
+      "section_end_line": 4114,
+      "model": "openai:gpt-4o-mini",
+      "question": "From which geological period are fossil records of Acropora listeri reported?",
+      "ground_truth_answer": "The Pleistocene (1.8–0.01 Ma).",
+      "ground_truth_chunks": [
+        "Fossil records of *Acropora listeri* have been reported from the Pleistocene (1.8– 0.01 Ma) from Niue (Wallace, 1999)."
+      ]
+    },
+    {
+      "record_id": "bacae1d08f7a914cbcf30179",
+      "paper_id": "2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27",
+      "source_path": "output/2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27.md",
+      "section_heading": "Global Distribution",
+      "section_start_line": 5137,
+      "section_end_line": 5152,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Richards (2009), from where to where does Acropora verweyi's geographic range extend?",
+      "ground_truth_answer": "It extends from east Africa, the Comorros and Seychelles in the Indian Ocean all the way to Pitcairn Island in the southeastern Pacific Ocean.",
+      "ground_truth_chunks": [
+        "*Acropora verweyi* has been reported to have a relatively broad range, having the 16th largest range of 114 *Acropora* species examined (Richards, 2009), extending from east Africa, the Comorros and Seychelles in the Indian Ocean all the way to Pitcairn Island in the southeastern Pacific Ocean."
+      ]
+    },
+    {
+      "record_id": "fbdb1f008691cebc4db8c6db",
+      "paper_id": "2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27",
+      "source_path": "output/2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27.md",
+      "section_heading": "Life History",
+      "section_start_line": 6250,
+      "section_end_line": 6257,
+      "model": "openai:gpt-4o-mini",
+      "question": "Have the reproductive characteristics of Alveopora allingi been determined?",
+      "ground_truth_answer": "No. Reproductive characteristics of Alveopora allingi have not been determined.",
+      "ground_truth_chunks": [
+        "Reproductive characteristics of *Alveopora allingi* have not been determined (Baird et al., 2009).",
+        "On temperate-latitude reefs (28o –29<sup>o</sup> S) in the Houtman Abrolhous Islands, western Australia, two colonies of *Alveopora allingi* were sampled before the main mass spawning nights in late March 1987, but there was no indication of developed gametes (Babcock et al., 1994)."
+      ]
+    },
+    {
+      "record_id": "a71618ccfdd602b72b0487ce",
+      "paper_id": "2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27",
+      "source_path": "output/2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27.md",
+      "section_heading": "Life History",
+      "section_start_line": 7142,
+      "section_end_line": 7145,
+      "model": "openai:gpt-4o-mini",
+      "question": "Have the reproductive characteristics of Pavona bipartita been determined?",
+      "ground_truth_answer": "No — the reproductive characteristics of Pavona bipartita have not been determined (Baird et al., 2009).",
+      "ground_truth_chunks": [
+        "The reproductive characteristics of *Pavona bipartita* have not been determined (Baird et al., 2009).",
+        "However, six congeners (*Pavona cactus, Pavona chiriquiensis, Pavona clavus, Pavona duerdeni, Pavona gigantea*, and *Pavona varians*) are known to be gonochoric spawners (Baird et al., 2009); eastern Pacific populations of *Pavona varians* and the sibling agariciid species *Pavona* sp. are also known to be hermaphrodites (Glynn and Ault, 2000; Glynn et al., 2000)."
+      ]
+    },
+    {
+      "record_id": "03affca5ebce6e6fda215802",
+      "paper_id": "2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27",
+      "source_path": "output/2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27.md",
+      "section_heading": "Habitat",
+      "section_start_line": 8219,
+      "section_end_line": 8224,
+      "model": "openai:gpt-4o-mini",
+      "question": "What depth range has Cyphastrea ocellina been reported at?",
+      "ground_truth_answer": "5 m to 20 m.",
+      "ground_truth_chunks": [
+        "**Depth range**: *Cyphastrea ocellina* has been reported in water depths ranging from 5 m to 20 m (Carpenter et al., 2008)."
+      ]
+    },
+    {
+      "record_id": "91930650f49cd6fb921cbd6a",
+      "paper_id": "2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27",
+      "source_path": "output/2011 full NOAA_Tech_Memo_PIFSC_27/2011 full NOAA_Tech_Memo_PIFSC_27.md",
+      "section_heading": "Availability of NOAA Technical Memorandum NMFS",
+      "section_start_line": 14376,
+      "section_end_line": 14390,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where are copies of NOAA Technical Memorandum NMFS issued by the Pacific Islands Fisheries Science Center available online?",
+      "ground_truth_answer": "On the PIFSC Web site http://www.pifsc.noaa.gov in PDF format.",
+      "ground_truth_chunks": [
+        "Copies of this and other documents in the NOAA Technical Memorandum NMFS series issued by the Pacific Islands Fisheries Science Center are available online at the PIFSC Web site http://www.pifsc.noaa.gov in PDF format.",
+        "In addition, this series and a wide range of other NOAA documents are available in various formats from the National Technical Information Service, 5285 Port Royal Road, Springfield, VA 22161, U.S.A. [Tel: (703)-605- 6000]; URL: http://www.ntis.gov."
+      ]
+    }
+  ],
+  "failures": []
+}

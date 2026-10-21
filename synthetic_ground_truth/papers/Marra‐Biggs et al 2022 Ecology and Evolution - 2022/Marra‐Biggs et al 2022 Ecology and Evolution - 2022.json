@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Marra‐Biggs et al 2022 Ecology and Evolution - 2022/Marra‐Biggs et al 2022 Ecology and Evolution - 2022.md",
+  "source_sha256": "4aee61d0b0b639fcb6303ea8ce7f9198ff153e9f22da7da5af610e68597d92e1",
+  "status": "complete",
+  "selected_section_count": 3,
+  "successful_record_count": 3,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "68707c4634420854fe3c89a5",
+      "paper_id": "Marra‐Biggs et al 2022 Ecology and Evolution - 2022/Marra‐Biggs et al 2022 Ecology and Evolution - 2022",
+      "source_path": "output/Marra‐Biggs et al 2022 Ecology and Evolution - 2022/Marra‐Biggs et al 2022 Ecology and Evolution - 2022.md",
+      "section_heading": "Abstract",
+      "section_start_line": 21,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which giant clam species was identified in the Samoan Archipelago using morphologic characteristics and ezRAD genetic techniques?",
+      "ground_truth_answer": "Tridacna noae.",
+      "ground_truth_chunks": [
+        "Using morphologic characteristics and ezRAD genetic techniques, we identify the existence of *Tridacna noae* in the Samoan Archipelago, presenting the first observation and a resulting range expansion.",
+        "Accurately identifying the extant species in the archipelago is the first step toward a much-needed population status assessment to effectively manage these long-lived species."
+      ]
+    },
+    {
+      "record_id": "a906a4dc5c75da8a6b967266",
+      "paper_id": "Marra‐Biggs et al 2022 Ecology and Evolution - 2022/Marra‐Biggs et al 2022 Ecology and Evolution - 2022",
+      "source_path": "output/Marra‐Biggs et al 2022 Ecology and Evolution - 2022/Marra‐Biggs et al 2022 Ecology and Evolution - 2022.md",
+      "section_heading": "KEYWORDS",
+      "section_start_line": 25,
+      "section_end_line": 72,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which giant clam species did this study expand the species range of to include American Sāmoa?",
+      "ground_truth_answer": "Tridacna noae",
+      "ground_truth_chunks": [
+        "Here, we use next-generation sequencing to confirm identification of giant clams and expand the species range of *T. noae* to include American Sāmoa (Figure [1\\)](#page-1-0).",
+        "Based on these findings, we can update the catalog of extant species in American Sāmoa to include: *Tridacna maxima*, *Tridacna squamosa*, and now *Tridacna noae*."
+      ]
+    },
+    {
+      "record_id": "1459f98912f6ca70034308d4",
+      "paper_id": "Marra‐Biggs et al 2022 Ecology and Evolution - 2022/Marra‐Biggs et al 2022 Ecology and Evolution - 2022",
+      "source_path": "output/Marra‐Biggs et al 2022 Ecology and Evolution - 2022/Marra‐Biggs et al 2022 Ecology and Evolution - 2022.md",
+      "section_heading": "AUTHOR CONTRIBUTIONS",
+      "section_start_line": 73,
+      "section_end_line": 76,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which author is listed as lead for software?",
+      "ground_truth_answer": "Paolo Giannino Marra-Biggs.",
+      "ground_truth_chunks": [
+        "**Paolo Giannino Marra-Biggs:** Conceptualization (equal); data curation (lead); formal analysis (lead); funding acquisition (equal); investigation (equal); methodology (lead); project administration (equal); resources (equal); software (lead); supervision (equal); validation (lead); visualization (equal); writing – original draft (lead); writing – review and editing (lead).",
+        "**Rob Toonen:** Conceptualization (equal); data curation (supporting); formal analysis (supporting); funding acquisition (equal); investigation (equal); methodology (supporting); project administration (equal); resources (equal); software (supporting); supervision (equal); validation (supporting); visualization (equal); writing – original draft (supporting); writing – review and editing (equal)."
+      ]
+    }
+  ],
+  "failures": []
+}

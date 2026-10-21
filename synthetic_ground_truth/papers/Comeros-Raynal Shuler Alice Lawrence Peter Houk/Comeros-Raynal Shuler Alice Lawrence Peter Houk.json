@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk.md",
+  "source_sha256": "8f6078c6c4af0741860b43a25f8fccd2ce7a64ef32d3c40005dcdd8b16586693",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "9430599bd7b1eeeca84a365f",
+      "paper_id": "Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk",
+      "source_path": "output/Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk.md",
+      "section_heading": "Authors:",
+      "section_start_line": 7,
+      "section_end_line": 22,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which institution is Mareike Sudek affiliated with?",
+      "ground_truth_answer": "National Marine Sanctuary of American Samoa, Pago Pago, AS 96799, USA.",
+      "ground_truth_chunks": [
+        "Mia T. Comeros-Raynal1, Christopher Shuler2, Josephine Regis3, Mareike Sudek4, Georgia Coward5, Alice Lawrence5 & Peter Houk6",
+        "<sup>1</sup> James Cook University, Townsville, QLD 4811, Australia 2 Shuler Hydrologic LLC, 796 Isenberg St. Suite 12E, Honolulu, HI 96826; 3 American Samoa Environmental Protection Agency, Pago Pago, AS. 96799,USA; 4National Marine Sanctuary of American Samoa, Pago Pago, AS 96799, USA; 5Coral Reef Advisory Group, Department of Marine and Wildlife Resources, Pago Pago, AS 96799, USA; 6University of Guam Marine Laboratory, UOG Station, Mangilao, GU. 96923"
+      ]
+    },
+    {
+      "record_id": "7124adddd1608c56fc3383d9",
+      "paper_id": "Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk",
+      "source_path": "output/Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk.md",
+      "section_heading": "1.1 Ridge-to-Reef in American Samoa: identifying the most pressing problems and building a sustainable R2R monitoring and management framework",
+      "section_start_line": 51,
+      "section_end_line": 54,
+      "model": "openai:gpt-4o-mini",
+      "question": "What did the 2017 Ridge-to-Reef study in American Samoa present?",
+      "ground_truth_answer": "It presented the first broadscale examination of linkages between land use and water quality gradients, and between water quality, land use, fishing access, and the ecological condition of coral reef resources.",
+      "ground_truth_chunks": [
+        "In 2017, with support from US EPA's Wetland Program Development Grant, AS-EPA led a study that formally assessed the condition of the Ridge-to-Reef continuum in American Samoa.",
+        "This study presents the first broadscale examination of linkages between land use and water quality gradients, and between water quality, land use, fishing access, and the ecological condition of coral reef resources."
+      ]
+    },
+    {
+      "record_id": "987152cb3e6818926df065e0",
+      "paper_id": "Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk",
+      "source_path": "output/Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk.md",
+      "section_heading": "AS-EPA's Ridge-to-Reef Project 2017-2019",
+      "section_start_line": 63,
+      "section_end_line": 70,
+      "model": "openai:gpt-4o-mini",
+      "question": "For which island did AS-EPA apply their DIN results to develop an island-wide DIN loading model?",
+      "ground_truth_answer": "They developed an island-wide DIN loading model for Tutuila.",
+      "ground_truth_chunks": [
+        "We build on our previous Ridge-to-Reef model by using our high-resolution DIN results to predict the levels of dissolved inorganic nitrogen and the conditions where they are most likely to have negative impacts on coral reef resources.",
+        "We then applied our DIN results to develop an island-wide DIN loading model for Tutuila."
+      ]
+    },
+    {
+      "record_id": "6405307b7478e9b4b6014663",
+      "paper_id": "Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk",
+      "source_path": "output/Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk.md",
+      "section_heading": "Water-quality data",
+      "section_start_line": 91,
+      "section_end_line": 98,
+      "model": "openai:gpt-4o-mini",
+      "question": "How were dissolved inorganic nitrogen (DIN) concentrations defined in this study?",
+      "ground_truth_answer": "DIN was defined as the sum of nitrate, nitrite, and ammonium; concentrations were analyzed using the SEAL Analytical AA3 HR Nutrient Analyzer following SEAL Analytical methods.",
+      "ground_truth_chunks": [
+        "DIN concentrations were analyzed using the SEAL Analytical AA3 HR Nutrient Analyzer.",
+        "We used the methods and procedures outlined by SEAL Analytical for analysis of Nitrate, Nitrite, and Ammonium. DIN data analyzed in the present study were therefore defined by the sum of nitrate, nitrite, and ammonium."
+      ]
+    },
+    {
+      "record_id": "3512df7ef582ae1c3645eab7",
+      "paper_id": "Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk",
+      "source_path": "output/Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk.md",
+      "section_heading": "Data analyses",
+      "section_start_line": 105,
+      "section_end_line": 108,
+      "model": "openai:gpt-4o-mini",
+      "question": "What modeling approach was used to predict daily DIN loadings for all sites?",
+      "ground_truth_answer": "Generalized linear mixed models were used to predict daily DIN loadings.",
+      "ground_truth_chunks": [
+        "Generalized linear mixed models were used to predict daily DIN loadings for all sites based upon individual and synergistic contributions from rainfall, SST, and wind.",
+        "Mixed models were examined to allow for random variation among both y-intercepts and slopes."
+      ]
+    },
+    {
+      "record_id": "26fffc80f6ef6038dc3cefb9",
+      "paper_id": "Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk",
+      "source_path": "output/Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk.md",
+      "section_heading": "2.3 Understanding spatial and temporal patterns of terrestrial run-off and coral reef ecosystem condition",
+      "section_start_line": 139,
+      "section_end_line": 150,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which organism types were collected for stable isotope analysis during the scoping surveys?",
+      "ground_truth_answer": "They collected *Porites* massive, *Galaxea* coral samples, and green macroalgae samples for stable isotope analysis.",
+      "ground_truth_chunks": [
+        "We conducted scoping surveys in 14 sites from the 26 watersheds in our previous Ridge to Reef 2017 project and collected *Porites* massive, *Galaxea* coral samples and green macroalgae samples for stable isotope analysis.",
+        "We developed monitoring protocol to examine the influence of nitrogen pollution to nearshore coralreef habitats through stable isotope analysis of macroalgae and coral specimens."
+      ]
+    },
+    {
+      "record_id": "d685b7c59466bfb3698680c1",
+      "paper_id": "Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk",
+      "source_path": "output/Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk.md",
+      "section_heading": "2.1 DIN water quality thresholds and informing watershed classification",
+      "section_start_line": 200,
+      "section_end_line": 225,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to section 2.1, what DIN concentration range represents potential water-quality thresholds for regulations?",
+      "ground_truth_answer": "0.10 to 0.40 mg l-1",
+      "ground_truth_chunks": [
+        "The 10% daily exceedance level, considered as most stringent, was crossed when DIN concentrations were 0.15, 0.20, and 0.39 mg l-1 accordingly for the means of pristine, moderate, and extensive watershed classes\n\n(Figure 11).",
+        "Thus, potential DIN thresholds for water-quality regulations were represented by the 0.10 to 0.40 mg l-1 range depending upon desirable exceedance criteria."
+      ]
+    },
+    {
+      "record_id": "43f21fdea2a1d1bfcf271215",
+      "paper_id": "Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk",
+      "source_path": "output/Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk.md",
+      "section_heading": "Terrestrial run-off: sediments",
+      "section_start_line": 298,
+      "section_end_line": 317,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the dominant component of suspended sediment composition across the six watersheds, and what does that indicate about the sediment source?",
+      "ground_truth_answer": "Calcium carbonate dominated the suspended sediment composition, indicating the sediments come from the reef rather than terrestrial sources.",
+      "ground_truth_chunks": [
+        "Overall, suspended sediment composition across six watersheds ranging from pristine to extensive (Fagatele, Tafeu, Vatia, Fagasa, Nu'uuli and Faga'alu) was dominated by calcium carbonate which indicates that the source of sediments come from the reef rather than from terrestrial sources.",
+        "Mineral component which indicates a terrestrial sediment source was relatively higher in extensive watersheds (Faga'alu and Nu'uuli) compared to intermediate and pristine sites (Figures 20-22)."
+      ]
+    },
+    {
+      "record_id": "fafcf870bbf6f485ed0180c3",
+      "paper_id": "Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk",
+      "source_path": "output/Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk.md",
+      "section_heading": "Direct applications of Ridge to Reef scientific outputs",
+      "section_start_line": 322,
+      "section_end_line": 337,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which organizations used Ridge to Reef Phase I results to prioritize watersheds for restoration and habitat protection?",
+      "ground_truth_answer": "CRAG and NOAA CRCP.",
+      "ground_truth_chunks": [
+        "For example, results from the Ridge to Reef Phase I project have been utilized in the prioritization of watersheds for restoration and habitat protection by CRAG and NOAA CRCP.",
+        "Additionally, our ridge to reef scientific results have also been applied to help village-based management of coral reef resources through the dissemination of village-based health report cards. This effort is led by CRAG and its partners using Ridge to Reef project results to help direct management and policy decisions in American Samoa (Figure 24)."
+      ]
+    },
+    {
+      "record_id": "684dd9d10d7a4528bcf6d761",
+      "paper_id": "Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk",
+      "source_path": "output/Comeros-Raynal Shuler Alice Lawrence Peter Houk/Comeros-Raynal Shuler Alice Lawrence Peter Houk.md",
+      "section_heading": "Conclusions:",
+      "section_start_line": 354,
+      "section_end_line": 357,
+      "model": "openai:gpt-4o-mini",
+      "question": "What approach does the section say provides a means to pinpoint specific drivers of land and marine stressors and predict patterns of change across ecosystems?",
+      "ground_truth_answer": "The ride-to-reef approach.",
+      "ground_truth_chunks": [
+        "The ride-to-reef approach provides a means to pinpoint specific drivers of land and marine stressors and predict patterns of change across ecosystems to enable targeted management.",
+        "Our Ridge-to-Reef project provides a model scientific and management framework for other Pacific Island states through our high-quality scientific outputs, training and outreach materials, and network-building collaborative focus to effectively mitigate and reduced land-based sources of pollution for improvement of coastal watershed quality and enhancement of coral reef ecosystem condition."
+      ]
+    }
+  ],
+  "failures": []
+}

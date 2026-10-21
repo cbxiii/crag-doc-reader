@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/2006 TMP report/2006 TMP report.md",
+  "source_sha256": "e32dc2583cef7e79aa4d1d4e20570bfb8ea35cf67415eaba236a5e0dae02ed2b",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "d24e46e86ed5213b022972a0",
+      "paper_id": "2006 TMP report/2006 TMP report",
+      "source_path": "output/2006 TMP report/2006 TMP report.md",
+      "section_heading": "Abstract",
+      "section_start_line": 40,
+      "section_end_line": 45,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which type of benthic cover had the highest cover in the 2006 Tutuila 9 m transect surveys?",
+      "ground_truth_answer": "Crustose calcareous algae (CCA) had the most benthic cover.",
+      "ground_truth_chunks": [
+        "Crustose calcareous algae had the most benthic cover, followed by corals, followed in turn by turf algae, and brown macroalgae was essentially non-existant.",
+        "Several other studies have reported quantitative data on benthic cover on Tutuila in recent years, and all agree that CCA dominates the reefs, and coral cover is close to 28%, even though they differ in methods and sites."
+      ]
+    },
+    {
+      "record_id": "8000a931a03b74fb191d59ec",
+      "paper_id": "2006 TMP report/2006 TMP report",
+      "source_path": "output/2006 TMP report/2006 TMP report.md",
+      "section_heading": "Invertebrates",
+      "section_start_line": 88,
+      "section_end_line": 91,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the width of the belt along each 50 m transect in which diurnal non-cryptic macroinvertebrates were recorded?",
+      "ground_truth_answer": "They were recorded in a half-meter wide belt.",
+      "ground_truth_chunks": [
+        "Diurnal non-cryptic macroinvertebrates were recorded in a half-meter wide belt along each of the 50 m transect tapes used for the point-intercept benthic transects.",
+        "Only those invertebrates visible as the diver swam above the belt were recorded."
+      ]
+    },
+    {
+      "record_id": "4ee788e1b43a8ffb2c492a5d",
+      "paper_id": "2006 TMP report/2006 TMP report",
+      "source_path": "output/2006 TMP report/2006 TMP report.md",
+      "section_heading": "Benthic Cover",
+      "section_start_line": 96,
+      "section_end_line": 187,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to the 2006 transect data in the 'Benthic Cover' section, which type of benthic cover was most common across sites on Tutuila?",
+      "ground_truth_answer": "Crustose calcareous algae was the most common type of benthic cover (live coral was second and turf algae third).",
+      "ground_truth_chunks": [
+        "Crustose calcareous algae was the most common type of benthic cover, with live coral second, and turf algae a distant third.",
+        "The mean for all sites is shown on the right hand bar."
+      ]
+    },
+    {
+      "record_id": "d642b4a0fd68697837e67f8a",
+      "paper_id": "2006 TMP report/2006 TMP report",
+      "source_path": "output/2006 TMP report/2006 TMP report.md",
+      "section_heading": "Coral Genera",
+      "section_start_line": 248,
+      "section_end_line": 273,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral genus was reported as the most common in the section 'Coral Genera'?",
+      "ground_truth_answer": "Montipora was reported as the most common coral genus.",
+      "ground_truth_chunks": [
+        "The most common genus was *Montipora*, followed closely by *Porites*, and then *Pavona* and *Acropora* followed with less cover.",
+        "*Montipora* was the most common genus in all the studies, with *Porites* second."
+      ]
+    },
+    {
+      "record_id": "bb5b7ec485d83bfb7519f763",
+      "paper_id": "2006 TMP report/2006 TMP report",
+      "source_path": "output/2006 TMP report/2006 TMP report.md",
+      "section_heading": "Coral Species",
+      "section_start_line": 274,
+      "section_end_line": 415,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral species were recorded in transects across all 13 sites in 2006?",
+      "ground_truth_answer": "A total of 85 coral species were recorded in transects across all 13 sites in 2006.",
+      "ground_truth_chunks": [
+        "A total of 77 coral species were recorded in transects in all 11 core sites in 2006, and a total of 85 coral species in transects in all 13 sites in 2006.",
+        "A total of 85 coral species were found in all transects combined, with 77 in the 11 core sites compared to 69 in the core sites in 2005."
+      ]
+    },
+    {
+      "record_id": "46296223036eb414c4c3897a",
+      "paper_id": "2006 TMP report/2006 TMP report",
+      "source_path": "output/2006 TMP report/2006 TMP report.md",
+      "section_heading": "Fig. 50.",
+      "section_start_line": 430,
+      "section_end_line": 517,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the correlation coefficient and significance between the number of coral species found on transects at a site and the number found in the biodiversity dive at the same site?",
+      "ground_truth_answer": "The correlation was extremely small and not significant: r = .111, p > .2.",
+      "ground_truth_chunks": [
+        "The correlation between the number of coral species found on transects at a site, S, and the number of species found in the biodiversity dive at the same site was extremely small and not significant (r = .111, p > .2), as seen in Figure 51.",
+        "This seems a bit surprising, since both should be measures of local diversity."
+      ]
+    },
+    {
+      "record_id": "7972ab3764dd7cee9f95a270",
+      "paper_id": "2006 TMP report/2006 TMP report",
+      "source_path": "output/2006 TMP report/2006 TMP report.md",
+      "section_heading": "Non-Point Pollution Impact",
+      "section_start_line": 518,
+      "section_end_line": 556,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the reported correlation coefficient (r) and significance (p) between percentage of coral cover and human impact ratings in the 2006 data?",
+      "ground_truth_answer": "r = .3969, p > .1.",
+      "ground_truth_chunks": [
+        "In the 2006 data, the percentage of coral cover also did not show a significant correlation with impact ratings, r = .3969, p > .1. This is shown in Figure 64."
+      ]
+    },
+    {
+      "record_id": "faa404799be830e00334d465",
+      "paper_id": "2006 TMP report/2006 TMP report",
+      "source_path": "output/2006 TMP report/2006 TMP report.md",
+      "section_heading": "Major Disturbances",
+      "section_start_line": 579,
+      "section_end_line": 584,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species was primarily responsible for reef flat coral mortality in 2006?",
+      "ground_truth_answer": "The bushy staghorn, *Acropora aspera*, was primarily responsible for the reef flat coral mortality in 2006.",
+      "ground_truth_chunks": [
+        "Additional reef flat coral mortality appears to have been caused, primarily in the bushy staghorn, *Acropora aspera*.",
+        "Most patches of this species are now completely dead, and some of the branches have broken and are now rubble."
+      ]
+    },
+    {
+      "record_id": "ec534b07959320c247824dda",
+      "paper_id": "2006 TMP report/2006 TMP report",
+      "source_path": "output/2006 TMP report/2006 TMP report.md",
+      "section_heading": "Coral Taxonomy",
+      "section_start_line": 589,
+      "section_end_line": 592,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many coral species names have been applied to corals in American Samoa, and how many of those are currently considered valid?",
+      "ground_truth_answer": "About 436 names have been applied to corals in American Samoa, and about 365 of those are currently considered valid.",
+      "ground_truth_chunks": [
+        "Currently, about 436 names have been applied to corals in American Samoa, about 365 of which are currently valid names.",
+        "This study has observed about 250 species, some of which have not previously been reported."
+      ]
+    },
+    {
+      "record_id": "c919dd1bce2bda363bd7adb9",
+      "paper_id": "2006 TMP report/2006 TMP report",
+      "source_path": "output/2006 TMP report/2006 TMP report.md",
+      "section_heading": "Recommendations for the Future",
+      "section_start_line": 609,
+      "section_end_line": 620,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the two most common coral diseases in American Samoa mentioned in the Recommendations for the Future section?",
+      "ground_truth_answer": "White syndrome and growth anomaly.",
+      "ground_truth_chunks": [
+        "For instance, the two most common coral diseases in American Samoa, white syndrome and growth anomaly, are much more common on *Acropora* than other genera, and more common on table *Acropora* than other *Acropora*."
+      ]
+    }
+  ],
+  "failures": []
+}

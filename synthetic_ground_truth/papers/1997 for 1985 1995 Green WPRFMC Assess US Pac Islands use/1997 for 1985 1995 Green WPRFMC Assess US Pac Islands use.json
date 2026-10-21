@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use.md",
+  "source_sha256": "61e5163cd022dd588fe76c90dafa498297cdeae2ca6de9eba00a02642690b94c",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "ccc3cecd09d9337b9a85817c",
+      "paper_id": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+      "source_path": "output/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use.md",
+      "section_heading": "EXECUTIVE SUMMARY",
+      "section_start_line": 180,
+      "section_end_line": 189,
+      "model": "openai:gpt-4o-mini",
+      "question": "For which species groups does the Western Pacific Regional Fisheries Management Council (WPRFMC) currently have Fishery Management Plans (FMPs) in place?",
+      "ground_truth_answer": "Crustaceans, precious corals, bottomfish and seamount groundfish, and pelagics.",
+      "ground_truth_chunks": [
+        "WPRFMC currently has Fishery Management Plans (FMPs) in place for fisheries of four species groups: crustaceans, precious corals, bottomfish and seamount groundfish, and pelagics."
+      ]
+    },
+    {
+      "record_id": "bee1d5894911d5cd63a38078",
+      "paper_id": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+      "source_path": "output/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use.md",
+      "section_heading": "2.2.1 American Samoa",
+      "section_start_line": 765,
+      "section_end_line": 1018,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to Green (1996a) in section 2.2.1, which fish family was most abundant on the reef flats in American Samoa?",
+      "ground_truth_answer": "Pomacentridae (pomacentrids, damselfishes).",
+      "ground_truth_chunks": [
+        "- 4. The relative abundance of fish families varied among habitat types (Green 1996a, Table 11). The fish communities on the reef flats were distinctive, since they comprised approximately half of the number of families recorded in the other habitat types. Pomacentrids were the most abundant family in most habitat types, except on the crest where acanthurids were more abundant.",
+        "| Pomacentridae  | 3,160 (± 905)         | 5,198 (± 704)                 | 2,273 (± 343)     | 5,462 (± 859)                | 26,680 (± 403)               |"
+      ]
+    },
+    {
+      "record_id": "b67d039c740249f42ba1e86e",
+      "paper_id": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+      "source_path": "output/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use.md",
+      "section_heading": "Invertebrate Resources in CNMI",
+      "section_start_line": 2032,
+      "section_end_line": 2160,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many species of marine mollusc have been recorded in the Northern Marianas?",
+      "ground_truth_answer": "More than 520 species of marine mollusc have been recorded in the Northern Marianas (including 4 chitons, 456 gastropods and 68 bivalves).",
+      "ground_truth_chunks": [
+        "However, more than 520 species of marine mollusc (including 4 chitons, 456 gastropods and 68 bivalves) have been recorded in the Northern Marianas, 190 of which were first recorded in 1992 (Kurozumi & Asakura 1994)."
+      ]
+    },
+    {
+      "record_id": "a6097a4845722b8a429e8002",
+      "paper_id": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+      "source_path": "output/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use.md",
+      "section_heading": "3.1 American Samoa",
+      "section_start_line": 2454,
+      "section_end_line": 2463,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the two components of the coral reef fishery in American Samoa?",
+      "ground_truth_answer": "The coral reef fishery's two components are the shoreline subsistence fishery and the boat-based artisanal fishery.",
+      "ground_truth_chunks": [
+        "The coral reef fishery has two components: the shoreline subsistence fishery and the boat-based artisanal fishery."
+      ]
+    },
+    {
+      "record_id": "40693cc809f8fbb206e9c507",
+      "paper_id": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+      "source_path": "output/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use.md",
+      "section_heading": "3.4.1 Main Hawaiian Islands: Commercial Fisheries",
+      "section_start_line": 3193,
+      "section_end_line": 3345,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the mean commercial catch (by weight) from 1991–1995 in Hawaii was accounted for by offshore gear types?",
+      "ground_truth_answer": "Offshore gear types accounted for 85% of the weight (and 81% of the value) of the mean catch from 1991 to 1995.",
+      "ground_truth_chunks": [
+        "Offshore gear types were found to account for 85% of the weight and 81% of the value of the mean catch from 1991 to 1995 (Friedlander 1996, Table 66).",
+        "Offshore gear is principally used to catch pelagic species, and includes longlines, trolling, tuna handlines, aku pole and line, and Albacore trolling (Friedlander 1996, Table 66)."
+      ]
+    },
+    {
+      "record_id": "b4bab540195ad4a49b13a687",
+      "paper_id": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+      "source_path": "output/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use.md",
+      "section_heading": "4.4.1 Sedimentation",
+      "section_start_line": 3822,
+      "section_end_line": 3831,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the principal anthropogenic sources of sedimentation on coral reefs in the Pacific Islands mentioned in section 4.4.1?",
+      "ground_truth_answer": "Urbanization, agriculture, industrial development, and dredging and filling of coastal areas.",
+      "ground_truth_chunks": [
+        "Principal anthropogenic sources of sedimentation on coral reefs include urbanization, agriculture, industrial development, and dredging and filling of coastal areas (Randall & Birkeland 1978, Richmond 1993b)."
+      ]
+    },
+    {
+      "record_id": "fdee7def1d235fddcf3f4b34",
+      "paper_id": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+      "source_path": "output/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use.md",
+      "section_heading": "CNMI",
+      "section_start_line": 4094,
+      "section_end_line": 4107,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many fuel spills on Saipan did the USCG record from 1992–1996, and where did most of them occur?",
+      "ground_truth_answer": "The USCG recorded 9 fuel spills on Saipan from 1992-1996; most (78%) occurred at Santa Rita, with the others at Bakers Dock and Tanapag.",
+      "ground_truth_chunks": [
+        "The USCG database provides some information on the frequency and severity of fuel spills in CNMI. They recorded 9 fuel spills on Saipan from 1992-1996, most of which (78%) occurred at Santa Rita, while the others occurred at Bakers Dock and Tanapag (USCG unpubl. data).",
+        "The fuel spills reported on Saipan were all small (<400 gal: USCG unpubl. data, S. Burr pers. comm.)."
+      ]
+    },
+    {
+      "record_id": "9a07c5b42961fea7259b7518",
+      "paper_id": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+      "source_path": "output/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use.md",
+      "section_heading": "Guam",
+      "section_start_line": 4281,
+      "section_end_line": 4300,
+      "model": "openai:gpt-4o-mini",
+      "question": "Approximately how many man-dives are made each year on Guam's reefs by tourists, according to Birkeland (1997b)?",
+      "ground_truth_answer": "~500,000 man-dives per year.",
+      "ground_truth_chunks": [
+        "Recently, Birkeland (1997b) estimated that ~500,000 man-dives are currently made on the reefs of Guam by tourists each year, as well as additional dives made by residents and the military.",
+        "Most of the diving by tourists is concentrated at five locations on Guam (Birkeland 1997b, see *Non-consumptive Resources*)."
+      ]
+    },
+    {
+      "record_id": "60610c2a1c34aa9fef0d21f1",
+      "paper_id": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+      "source_path": "output/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use.md",
+      "section_heading": "5.2.2 U.S. Navy and U.S. Air Force Regulations.",
+      "section_start_line": 4566,
+      "section_end_line": 4569,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which islands have exclusion zones operated by the U.S. Navy and U.S. Air Force?",
+      "ground_truth_answer": "Johnston, Wake and Kingman Reef.",
+      "ground_truth_chunks": [
+        "Both the U.S. Navy and U.S. Air Force operate exclusion zones around the islands within their jurisdiction (Johnston, Wake and Kingman Reef: see Hunter 1995).",
+        "This effectively excludes fishing by the general public in these locations."
+      ]
+    },
+    {
+      "record_id": "e816d93c0845a25838e5bfe8",
+      "paper_id": "1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use",
+      "source_path": "output/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use/1997 for 1985 1995 Green WPRFMC Assess US Pac Islands use.md",
+      "section_heading": "FIGURES:",
+      "section_start_line": 5812,
+      "section_end_line": 5965,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which figure number shows Mean fish species diversity (H') recorded at each depth in Fagatele Bay National Marine Sanctuary during three surveys over the last 10 years?",
+      "ground_truth_answer": "Figure 16.",
+      "ground_truth_chunks": [
+        "| 16.         | Mean fish species diversity (H') recorded at each depth in Fagatele Bay National Marine Sanctuary             |     |",
+        "|             | (FBNMS) during three surveys over the last 10 years                                                           | 35  |"
+      ]
+    }
+  ],
+  "failures": []
+}

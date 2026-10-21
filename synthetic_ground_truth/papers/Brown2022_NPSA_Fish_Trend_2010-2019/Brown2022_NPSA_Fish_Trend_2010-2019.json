@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019.md",
+  "source_sha256": "83163320b47e4c5e33654b063aa34c3dc4d5fc5e68246a5e4ea9fe67c8661e9c",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "e6f88c1f1a3200ae0322b089",
+      "paper_id": "Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019",
+      "source_path": "output/Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019.md",
+      "section_heading": "Pacific Island Network",
+      "section_start_line": 15,
+      "section_end_line": 44,
+      "model": "openai:gpt-4o-mini",
+      "question": "What email address is provided for assistance accessing information in this publication?",
+      "ground_truth_answer": "irma@nps.gov",
+      "ground_truth_chunks": [
+        "This report is available from th[e Pacific Island Inventory & Monitoring Network website](https://www.nps.gov/im/pacn/index.htm) and the [Natural Resource Publications Management website.](https://www.nps.gov/im/publication-series.htm) If you have difficulty accessing information in this publication, particularly if using assistive technology, please email [irma@nps.gov.](mailto:irma@nps.gov)"
+      ]
+    },
+    {
+      "record_id": "f19a5108af6eb65b0e01a845",
+      "paper_id": "Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019",
+      "source_path": "output/Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019.md",
+      "section_heading": "<span id=\"page-9-0\"></span>Executive Summary",
+      "section_start_line": 116,
+      "section_end_line": 135,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the overall mean fish biomass at NPSA from 2010–2019 (in g m-2)?",
+      "ground_truth_answer": "Overall mean fish biomass was 72.7 ± 122.4 SD g m-2 from 2010–2019.",
+      "ground_truth_chunks": [
+        "Fish biomass estimates ranged from 3.5 to 1,879.8 grams (g) m-2. Overall mean was 72.7 ± 122.4 SD g m-2 from 2010–2019.",
+        "Fish biomass was generally lower in Vatia Bay, which was skewed by the high biomass value from a single large, round ribbontail stingray (*Taeniurops meyeni*) in the western section of the park."
+      ]
+    },
+    {
+      "record_id": "995bcac5005943d0671526c4",
+      "paper_id": "Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019",
+      "source_path": "output/Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019.md",
+      "section_heading": "<span id=\"page-19-1\"></span>Sampling Locations",
+      "section_start_line": 222,
+      "section_end_line": 229,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many transects were sampled each year and how were they divided between fixed and temporary transects?",
+      "ground_truth_answer": "Thirty transects were sampled each year, split into 15 fixed (permanent) transects that were re-sampled annually and 15 temporary transects that were randomly selected each year and sampled only once.",
+      "ground_truth_chunks": [
+        "A split panel design was used with 30 belt transects (25 m long x variable width) sampled annually between 2007 and 2019.",
+        "Fifteen fixed (permanent) transects were randomly selected at the onset of the monitoring program in 2007 and marked with galvanized steel pins for relocation purposes. These sites were subsequently re-sampled each year.",
+        "The remaining 15 temporary transects were randomly selected each year of monitoring and sampled only once."
+      ]
+    },
+    {
+      "record_id": "8dcd1f443ac978497450a942",
+      "paper_id": "Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019",
+      "source_path": "output/Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019.md",
+      "section_heading": "<span id=\"page-26-0\"></span>Trophic Composition of the Fish Assemblage",
+      "section_start_line": 296,
+      "section_end_line": 303,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the total numerical density of fish at the National Park of American Samoa from 2010–2019 were planktivores?",
+      "ground_truth_answer": "45%",
+      "ground_truth_chunks": [
+        "Planktivores comprised 45% of the total numerical density with 29% as other secondary consumers."
+      ]
+    },
+    {
+      "record_id": "a2e8be066aa492ecd05ba1b7",
+      "paper_id": "Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019",
+      "source_path": "output/Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019.md",
+      "section_heading": "<span id=\"page-30-1\"></span>Factors Influencing Fish Assemblage Characteristics",
+      "section_start_line": 360,
+      "section_end_line": 400,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which predictor appeared to be the strongest for all fish assemblage metrics?",
+      "ground_truth_answer": "The presence of crustose coralline algae (CCA) appeared to be the strongest predictor for all fish assemblage metrics.",
+      "ground_truth_chunks": [
+        "The presence of CCA appeared to be the strongest predictor for all of the fish assemblage metrics due to the larger F statistics, with higher cover of CCA associated with higher values for most fish assemblage characteristics.",
+        "|                                        | CCA                   | 3.0      | 6.52  | <0.001 |",
+        "|                                        | CCA                   | 1.0      | 13.41 | <0.001 |"
+      ]
+    },
+    {
+      "record_id": "6237b2aa77522f361c982b19",
+      "paper_id": "Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019",
+      "source_path": "output/Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019.md",
+      "section_heading": "Imports the data file into the object Fish",
+      "section_start_line": 1014,
+      "section_end_line": 1066,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which R command in the section generates the table of Count, Mean, SD, and SE of Richness by Year and Loc_Type?",
+      "ground_truth_answer": "meanse<-summaryBy(Richness~Year*Loc_Type, data=Fish, FUN=function(x) c(count=length(x), mean=mean(x), sd=sd(x), se=sd(x)/sqrt(length(x)))) followed by print(meanse).",
+      "ground_truth_chunks": [
+        "*meanse<-summaryBy(Richness~Year\\*Loc\\_Type, data=Fish, FUN=function(x) c(count=length(x), mean=mean(x), sd=sd(x), se=sd(x)/sqrt(length(x)))) # Generates table of Count, Mean, SD, SE of Richness X Year X Transect type print(meanse)*"
+      ]
+    },
+    {
+      "record_id": "4800b2349c2a35a4606bcbac",
+      "paper_id": "Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019",
+      "source_path": "output/Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019.md",
+      "section_heading": "print(meanse)",
+      "section_start_line": 1110,
+      "section_end_line": 1144,
+      "model": "openai:gpt-4o-mini",
+      "question": "What does the logit function defined in the section return, and how is it applied to the Fish data?",
+      "ground_truth_answer": "The logit function is defined to return sqrt(x). It is applied with Fish$LogitDensity<- logit((Fish$Density)), creating LogitDensity as the square-root of Density.",
+      "ground_truth_chunks": [
+        "logit<-function(x) return(sqrt(x)) # Transform the data if it is right skewed. Better than log for NPSA 2010-2019 data.",
+        "Fish\\$LogitDensity<- logit((Fish\\$Density)) # Creates a variable called LogitDensity, which is the square-root of the density."
+      ]
+    },
+    {
+      "record_id": "58df1de436e0808fc3010165",
+      "paper_id": "Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019",
+      "source_path": "output/Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019.md",
+      "section_heading": "Load the required packages",
+      "section_start_line": 1283,
+      "section_end_line": 1326,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which R packages are loaded with library() in this section?",
+      "ground_truth_answer": "lattice, ggplot2, scales, doBy, mgcv.",
+      "ground_truth_chunks": [
+        "library(lattice)\nlibrary(ggplot2)\nlibrary(scales)\nlibrary(doBy)\nlibrary(mgcv) # This is the package that contains the \ngeneralized additive mixed model (gamm) program"
+      ]
+    },
+    {
+      "record_id": "7daaef91e3cf8aca13ee6fa8",
+      "paper_id": "Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019",
+      "source_path": "output/Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019.md",
+      "section_heading": "Plot out the significant relationships using the raw data.",
+      "section_start_line": 1423,
+      "section_end_line": 1459,
+      "model": "openai:gpt-4o-mini",
+      "question": "What type of plot does p1 create and what is the y-axis label?",
+      "ground_truth_answer": "p1 creates a boxplot and the y-axis label is \"Species Density (no./m2)\".",
+      "ground_truth_chunks": [
+        "p1<-ggplot(Fish, aes(x=Wave, y=Density)) + geom_boxplot() + \ntheme_classic()+ labs(y=\"Species Density (no./m2)\") + \ntheme(text=element_text(size=75)) #Plots a boxplot with text=75 \npoints."
+      ]
+    },
+    {
+      "record_id": "8fcbe447aff8895e54c17725",
+      "paper_id": "Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019",
+      "source_path": "output/Brown2022_NPSA_Fish_Trend_2010-2019/Brown2022_NPSA_Fish_Trend_2010-2019.md",
+      "section_heading": "Plot out the significant relationships using the raw data.",
+      "section_start_line": 1554,
+      "section_end_line": 1613,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which variables were plotted against Div using xyplot with smoothing and grouped by Loc_Type?",
+      "ground_truth_answer": "CCA, Turf, Coral, SSTMinE, and Depth were plotted against Div using xyplot with type=c(\"p\",\"smooth\") and groups=Loc_Type.",
+      "ground_truth_chunks": [
+        "p2<-xyplot(Div~CCA, groups=Loc_Type, auto.key=list(points=TRUE, \ncolumns=2, cex=2), \npar.settings=list(superpose.symbol=list(pch=16,cex=1.7)), \nscales=list(tck=c(1,0), x=list(cex=2), y=list(cex=2)), \nxlab=list(cex=2), ylab=list(cex=2), lwd=5, type=c(\"p\",\"smooth\"), \ndata=Fish) #Scatterplot of Div by CCA X Transect type with lowess \nline.\np3<-xyplot(Div~Turf, groups=Loc_Type, auto.key=list(points=TRUE, \ncolumns=2, cex=2), \npar.settings=list(superpose.symbol=list(pch=16,cex=1.7)), \nscales=list(tck=c(1,0), x=list(cex=2), y=list(cex=2)), \nxlab=list(cex=2), ylab=list(cex=2), lwd=5, type=c(\"p\",\"smooth\"), \ndata=Fish) #Scatterplot of Div by Turf with lowess line.\np4<-xyplot(Div~Coral, groups=Loc_Type, auto.key=list(points=TRUE, \ncolumns=2, cex=2), \npar.settings=list(superpose.symbol=list(pch=16,cex=1.7)), \nscales=list(tck=c(1,0), x=list(cex=2), y=list(cex=2)), \nxlab=list(cex=2), ylab=list(cex=2), lwd=5, type=c(\"p\",\"smooth\"), \ndata=Fish) #Scatterplot of Div by Coral X Transect type with \nlowess line.\np5<-xyplot(Div~SSTMinE, groups=Loc_Type, auto.key=list(points=TRUE, \ncolumns=2, cex=2), \npar.settings=list(superpose.symbol=list(pch=16,cex=1.7)),\n```\n\n```\nscales=list(tck=c(1,0), x=list(cex=2), y=list(cex=2)), \nxlab=list(cex=2), ylab=list(cex=2), lwd=5, type=c(\"p\",\"smooth\"), \ndata=Fish) #Scatterplot of Div by SST Minimum ERDAP X Transect \ntype with lowess line.\np6<-xyplot(Div~Depth, groups=Loc_Type, auto.key=list(points=TRUE, \ncolumns=2, cex=2), \npar.settings=list(superpose.symbol=list(pch=16,cex=1.7)), \nscales=list(tck=c(1,0), x=list(cex=2), y=list(cex=2)), \nxlab=list(cex=2), ylab=list(cex=2), lwd=5, type=c(\"p\",\"smooth\"), \ndata=Fish) #Scatterplot of Div by Depth X Transect type with \nlowess line."
+      ]
+    }
+  ],
+  "failures": []
+}

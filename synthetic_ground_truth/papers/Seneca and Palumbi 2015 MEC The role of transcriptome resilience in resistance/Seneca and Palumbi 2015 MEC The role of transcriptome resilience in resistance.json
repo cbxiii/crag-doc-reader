@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance.md",
+  "source_sha256": "86e9284a0cdfb8138d724fa9d2d75c2e0b748d4d67dda77be20de9c7e196809f",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "45479cb7877fd7bcc737ac6f",
+      "paper_id": "Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance",
+      "source_path": "output/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance.md",
+      "section_heading": "Abstract",
+      "section_start_line": 7,
+      "section_end_line": 14,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the coral transcriptome was significantly regulated 1 h postheat exposure?",
+      "ground_truth_answer": "27% of the coral transcriptome was significantly regulated.",
+      "ground_truth_chunks": [
+        "We found a highly dynamic transcriptome response: 27% of the coral transcriptome was significantly regulated 1 h postheat exposure.",
+        "Yet 15 h later, when heat-induced coral bleaching became apparent, only 12% of the transcriptome was differentially regulated."
+      ]
+    },
+    {
+      "record_id": "4b8570de8d74835859aa64aa",
+      "paper_id": "Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance",
+      "source_path": "output/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance.md",
+      "section_heading": "Materials and methods",
+      "section_start_line": 33,
+      "section_end_line": 40,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many small nubbins were cut from each colony and what was their approximate size?",
+      "ground_truth_answer": "Twelve small nubbins (~3 cm^3) were cut from each colony.",
+      "ground_truth_chunks": [
+        "Twelve small nubbins (~3 cm<sup>3</sup> ) of Acropora hyacinthus (cryptic species E in Ladner & Palumbi 2012) were cut from each of 20 colonies from the south lagoon of Ofu Island, American Samoa (14°11<sup>0</sup> S, 169°36<sup>0</sup> W), and glued underwater onto nylon bolts using two-part underwater epoxy stick (Loctite 82093)."
+      ]
+    },
+    {
+      "record_id": "81fbdec98af0ffa1cfda0a07",
+      "paper_id": "Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance",
+      "source_path": "output/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance.md",
+      "section_heading": "Gene expression and statistical analysis",
+      "section_start_line": 45,
+      "section_end_line": 50,
+      "model": "openai:gpt-4o-mini",
+      "question": "What four comparisons were used to calculate differences in expression levels?",
+      "ground_truth_answer": "Differences were calculated for (i) control vs. heated at 5 h, (ii) control vs. heated at 20 h, (iii) control at 5 h vs. control at 20 h, and (iv) heated at 5 h vs. heated at 20 h — corresponding, respectively, to the onset of heat stress, the onset of bleaching, the effect of time/acclimation, and the change from heat stress to bleaching.",
+      "ground_truth_chunks": [
+        "Differences in expression levels were calculated in four comparisons: (i) control vs. heated at 5 h, (ii) control vs. heated at 20 h, (iii) control at 5 h vs. control at 20 h, and (iv) heated at 5 h vs. heated at 20 h, corresponding to the onset of heat stress, the onset of bleaching, the effect of time/acclimation, and the change from heat stress to bleaching, respectively."
+      ]
+    },
+    {
+      "record_id": "54666f3d97a033417adaa20e",
+      "paper_id": "Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance",
+      "source_path": "output/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance.md",
+      "section_heading": "Functional analysis",
+      "section_start_line": 51,
+      "section_end_line": 54,
+      "model": "openai:gpt-4o-mini",
+      "question": "What three methods were used for comparative and functional enrichment analyses of the filtered differentially expressed contigs (DECs)?",
+      "ground_truth_answer": "UniProt IDs with DAVID 6.7; KEGG Orthology (KO) codes with KEGG mapper; and GO terms with keywords to compute hypergeometric probabilities.",
+      "ground_truth_chunks": [
+        "The 33 496 A. hyacinthus contigs were used to retrieve homologous gene identification codes (IDs) from Uni-Prot (UniProt Consortium 2008), KEGG (Kyoto Encyclopedia of Genes and Genomes, (Kanehisa et al. 2004) and GO (The Gene Ontology Consortium 2000) databases using the Basic Local Alignment Search Tool (NCBI).",
+        "The homologous gene IDs for the filtered differentially expressed contigs (DECs) subsets from the gene expression analyses were used in comparative and functional enrichment analyses using three methods: UniProt IDs with the Database for Annotation, Visualization and Integrated Discovery (DAVID 6.7; Huang et al. 2008), KEGG Orthology (KO) codes with KEGG mapper (Kanehisa et al. 2014) and GO terms with keywords to compute hypergeometric probabilities (Appendix S1, Supporting information)."
+      ]
+    },
+    {
+      "record_id": "7b85a12c7786704474a8d0b5",
+      "paper_id": "Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance",
+      "source_path": "output/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance.md",
+      "section_heading": "Overall transcriptome changes",
+      "section_start_line": 61,
+      "section_end_line": 172,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many differentially expressed contigs (DECs) were detected between heated and control samples at the 5-h time point (1 h postheat exposure)?",
+      "ground_truth_answer": "A total of 8913 DECs were detected between heated and control samples at the 5-h time point.",
+      "ground_truth_chunks": [
+        "At the onset of heat stress, 1 h postheat exposure (5-h time point), a total of 8913 DECs (27% of all contigs, p-adj < 0.01; Fig. 1) were found between heated and control samples (negative binomial GLM with a paired design by genotypes).",
+        "Among these DECs, 4283 and 4630 were up- and downregulated, respectively (-19.2> fold change (FC) <36.9, FC medians at -1.9 and 1.8)."
+      ]
+    },
+    {
+      "record_id": "04bfd063bb57165f4a2c279a",
+      "paper_id": "Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance",
+      "source_path": "output/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance.md",
+      "section_heading": "Transcriptome resilience and bleaching",
+      "section_start_line": 177,
+      "section_end_line": 182,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many of the 100 contigs with the best correlation between 20 h expression levels and bleaching showed more rapid return to control levels in more resistant colonies?",
+      "ground_truth_answer": "91 of the 100 contigs.",
+      "ground_truth_chunks": [
+        "This pattern appears many times among Lingering genes: out of the 100 contigs with the best correlation between 20 h expression levels and bleaching, 91 showed more rapid return to control levels in more resistant colonies.",
+        "For these 100 genes, expression in colonies showing none or slight bleaching returned to 98% of control values whereas for colonies showing severe or complete bleaching, expression remained 2.5-fold higher than controls."
+      ]
+    },
+    {
+      "record_id": "a64eaf4bfcae9a7cf0e48bb2",
+      "paper_id": "Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance",
+      "source_path": "output/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance.md",
+      "section_heading": "Immediate effects of heat stress on the coral transcriptome",
+      "section_start_line": 187,
+      "section_end_line": 194,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of the coral transcriptome was influenced immediately after heat stress across the 20 coral colonies?",
+      "ground_truth_answer": "27% of the coral transcriptome.",
+      "ground_truth_chunks": [
+        "The consistent response to heat stress across 20 coral colonies consisted of 27% of the transcriptome being influenced.",
+        "However, even after applying a cut-off of twofold change on our list of DECs (FDR corrected P-value < 0.01), which represents an even more stringent detection level than in the studies aforementioned, 11% of the coral transcriptome is still engaged at this level."
+      ]
+    },
+    {
+      "record_id": "fe577b473040e158939aadd9",
+      "paper_id": "Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance",
+      "source_path": "output/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance.md",
+      "section_heading": "Transcriptome resilience postheat stress",
+      "section_start_line": 195,
+      "section_end_line": 202,
+      "model": "openai:gpt-4o-mini",
+      "question": "What percentage of genes detected at the first time point returned to control expression levels over the 15-h interval separating the early heat stress response from the onset of bleaching?",
+      "ground_truth_answer": "57% of the genes detected at the first time point returned to control expression levels.",
+      "ground_truth_chunks": [
+        "Over the 15-h time interval separating the early heat stress response from the onset of bleaching, 57% of the genes detected at the first time point returned to control expression levels."
+      ]
+    },
+    {
+      "record_id": "9d872bf63abdad44871c7363",
+      "paper_id": "Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance",
+      "source_path": "output/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance.md",
+      "section_heading": "Gene expression changes occurring with time in controls",
+      "section_start_line": 209,
+      "section_end_line": 212,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which gene was notably downregulated over time in control coral samples but not in heated samples?",
+      "ground_truth_answer": "cryptochrome-2 is notably downregulated over time in controls but not in heated samples.",
+      "ground_truth_chunks": [
+        "Among those genes evident in the control comparison that fluctuated with time only, cryptochromes were some of the most regulated genes, corroborating the suggestion that this group follows a circadian rhythm (Levy et al. 2007).",
+        "In our experiment, cryptochrome-2 is notably downregulated over time in controls but not in heated samples."
+      ]
+    },
+    {
+      "record_id": "42d138267aeb2fb7d73ce373",
+      "paper_id": "Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance",
+      "source_path": "output/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance.md",
+      "section_heading": "Conclusion",
+      "section_start_line": 231,
+      "section_end_line": 234,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which molecular pathway does the Conclusion identify as the most likely path leading to the breakdown of the host–algae symbiosis and potentially involved in bleaching resistance?",
+      "ground_truth_answer": "The TNF signalling pathway, possibly linked to apoptosis.",
+      "ground_truth_chunks": [
+        "Our study reveals the surprising capacity of corals to mount a large and rapid molecular stress response to heat stress many hours prior to bleaching.",
+        "Importantly, the resilience of a subset of genes correlates with bleaching resistance.",
+        "Among the many molecular pathways detected, the TNF signalling pathway possibly linked to apoptosis stands out as the most likely path leading to the breakdown of the symbiosis between the host and the algae and may also play a role in the resistance to bleaching."
+      ]
+    }
+  ],
+  "failures": []
+}

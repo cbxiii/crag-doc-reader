@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua.md",
+  "source_sha256": "1cfea352a70446da882f5c954f27e33d9330e7945da10b0ad099bce82d17beec",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "b03a36aa5ff4e925ccc45253",
+      "paper_id": "Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua",
+      "source_path": "output/Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua.md",
+      "section_heading": "The Geology of the Manu'a Islands, Samoa1",
+      "section_start_line": 1,
+      "section_end_line": 48,
+      "model": "openai:gpt-4o-mini",
+      "question": "What types of lava flows and basalt compositions constructed the volcanic shield of Ta'u Island?",
+      "ground_truth_answer": "as and pahoehoe flows of non-porphyritic basalt, olivine basalt, picrite basalt, and feldspar phyric basalts.",
+      "ground_truth_chunks": [
+        "Ta'u Island represents the largest volcanic center, where as and pahoehoe flows of non-porphyritic basalt, olivine basalt, picrite basalt, and feldspar phyric basalts constructed a volcanic shield more than 3,000 feet above sea level."
+      ]
+    },
+    {
+      "record_id": "3442e442f71a00f50d3406b3",
+      "paper_id": "Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua",
+      "source_path": "output/Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua.md",
+      "section_heading": "Nature and Distribution of Rock Types",
+      "section_start_line": 51,
+      "section_end_line": 112,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the dominant rock type of the extra-caldera lavas of the Lata Formation?",
+      "ground_truth_answer": "The extra-caldera lavas are dominantly olivine basalt.",
+      "ground_truth_chunks": [
+        "The extra-caldera lavas are dominantly olivine basalt with lesser amounts of picrite-basalt and feldspar-phyric basalt at low elevations."
+      ]
+    },
+    {
+      "record_id": "3a1a2142be11dc19f1f9f39c",
+      "paper_id": "Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua",
+      "source_path": "output/Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua.md",
+      "section_heading": "FALEASAO FORMATION",
+      "section_start_line": 133,
+      "section_end_line": 258,
+      "model": "openai:gpt-4o-mini",
+      "question": "According to offshore bathymetry, what is the minimum thickness of the Faleasao Formation?",
+      "ground_truth_answer": "At least 1,100 feet.",
+      "ground_truth_chunks": [
+        "Offshore bathymetry suggests that the base of the tuff complex is about 600 feet below sea level, indicating that the Faleasao Formation is at least 1,100 feet thick.",
+        "The rock making up most of the formation is a vitric-crystal lapilli tuff of basaltic composition."
+      ]
+    },
+    {
+      "record_id": "76c0f5af9885116a907c24b8",
+      "paper_id": "Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua",
+      "source_path": "output/Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua.md",
+      "section_heading": "Geomorphology",
+      "section_start_line": 287,
+      "section_end_line": 308,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which stream on Ta'u Island is the only perennial drainage?",
+      "ground_truth_answer": "The lowermost 1,000 feet of Laufuti Stream on the southern coast is the only perennial drainage on Ta'u Island.",
+      "ground_truth_chunks": [
+        "The lowermost 1,000 feet of Laufuti Stream on the southern coast is the only perennial drainage on Ta'u Island.",
+        "Laufuti stream valley has been cut into the dike complex, tapping springs that are fed by ground water trapped there by the relatively impermeable dikes.",
+        "The rate of discharge for this stream is on the order of thousands of gallons per minute, even during periods of minimum rainfall."
+      ]
+    },
+    {
+      "record_id": "c753699e4622ffa41aff8e81",
+      "paper_id": "Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua",
+      "source_path": "output/Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua.md",
+      "section_heading": "Geologic History",
+      "section_start_line": 309,
+      "section_end_line": 320,
+      "model": "openai:gpt-4o-mini",
+      "question": "What was the most recent volcanism in Manu'a and when did it occur?",
+      "ground_truth_answer": "The most recent volcanism in Manu'a was a submarine eruption about 1866 between Ta'u and Olosega islands.",
+      "ground_truth_chunks": [
+        "The most recent volcanism in Manu'a was a submarine eruption about 1866 between Ta'u and Olosega islands (Friedlander, 1910)."
+      ]
+    },
+    {
+      "record_id": "aff8e5e8e71ca042ba60f6be",
+      "paper_id": "Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua",
+      "source_path": "output/Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua.md",
+      "section_heading": "Nature and Distribution of Rock Types",
+      "section_start_line": 323,
+      "section_end_line": 496,
+      "model": "openai:gpt-4o-mini",
+      "question": "What rock units are exposed on Ofu and Olosega islands, in approximate order of decreasing age?",
+      "ground_truth_answer": "In approximate order of decreasing age: (1) Asaga Formation; (2) Tuafanua Formation (with members: a) A'ofa extra-caldera member, b) A'ofa intra-caldera member, c) Sili Member); (3) Intrusive rocks, mainly dikes associated with the Tuafanua Formation and the plug associated with the Fatuaga breccia cone; (4) Nu'u Formation; (5) Sedimentary deposits (including alluvium, landslide debris, beaches, marshes, etc.).",
+      "ground_truth_chunks": [
+        "Thus, the rocks exposed on Ofu and Olosega islands can be placed in the following units, in approximate order of decreasing age (see legend for Ofu and Olosega islands, page 454).\n\n- (1) Asaga Formation\n- (2) Tuafanua Formation\n- (a) A'ofa extra-caldera member\n- (b) A'ofa intra-caldera member\n- (c) Sili Member\n- (3) Intrusive rocks, mainly dikes associated with the Tuafanua Formation and the plug associated with the Fatuaga breccia cone\n  - (4) Nu'u Formation\n- (5) Sedimentary deposits, including alluvium, landslide debris, beaches, marshes, etc."
+      ]
+    },
+    {
+      "record_id": "3271d17e6cce1c9d653a2ffe",
+      "paper_id": "Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua",
+      "source_path": "output/Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua.md",
+      "section_heading": "Major Structures",
+      "section_start_line": 497,
+      "section_end_line": 544,
+      "model": "openai:gpt-4o-mini",
+      "question": "What are the slopes of the cones of the Asaga Formation and why?",
+      "ground_truth_answer": "They generally have slopes of 20-35° because they are composed mostly of pyroclastic material.",
+      "ground_truth_chunks": [
+        "The cones of the Asaga Formation generally have slopes of 20-35° because they are composed mostly of pyroclastic material."
+      ]
+    },
+    {
+      "record_id": "86e45ef3bc599637faa4cace",
+      "paper_id": "Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua",
+      "source_path": "output/Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua.md",
+      "section_heading": "ASAGA FORMATION",
+      "section_start_line": 569,
+      "section_end_line": 582,
+      "model": "openai:gpt-4o-mini",
+      "question": "Where are pyroclastic deposits on Ofu and Olosega concentrated?",
+      "ground_truth_answer": "They are concentrated within a zone between sea level and an altitude of about 500 feet.",
+      "ground_truth_chunks": [
+        "Pyroclastic deposits are concentrated on Ofu and Olosega within a zone between sea level and an altitude of about 500 feet.",
+        "Phreatomagmatic explosions commonly produce pyroclastic cones near sea level; these pyroclastic deposits represent some of the oldest rocks exposed on Orn and Olosega, suggesting little if any subsidence of these islands since their formation."
+      ]
+    },
+    {
+      "record_id": "e25c4cef532580e82ec33933",
+      "paper_id": "Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua",
+      "source_path": "output/Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua.md",
+      "section_heading": "Geomorphology",
+      "section_start_line": 583,
+      "section_end_line": 604,
+      "model": "openai:gpt-4o-mini",
+      "question": "What is the maximum depth reached by the stream valleys on Ofu and Olosega?",
+      "ground_truth_answer": "The stream valleys are youthful and nowhere exceed 50 feet in depth.",
+      "ground_truth_chunks": [
+        "All streams on Ofu and Olosega are intermittent, flowing only after a downpour. The stream valleys are all youthful and nowhere exceed 50 feet in depth."
+      ]
+    },
+    {
+      "record_id": "ddcdc6e95d0246029c766c92",
+      "paper_id": "Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua",
+      "source_path": "output/Stice and McCoy 1968 geology of Manua/Stice and McCoy 1968 geology of Manua.md",
+      "section_heading": "Geologic History",
+      "section_start_line": 605,
+      "section_end_line": 612,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which islet had a tuff cone formed by recent volcanism on southwestern Ofu?",
+      "ground_truth_answer": "Nu'utele Islet.",
+      "ground_truth_chunks": [
+        "Recent volcanism on southwestern Ofu built the tuff cone on Nu'utele Islet."
+      ]
+    }
+  ],
+  "failures": []
+}

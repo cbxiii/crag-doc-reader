@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "source_path": "output/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals.md",
+  "source_sha256": "0a791e8ebb021e6527f58288ca1d02ce4d60c4c79b7ed81d48763ca919dc2abb",
+  "status": "complete",
+  "selected_section_count": 5,
+  "successful_record_count": 5,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "72ebb321a9e2f45d95affd04",
+      "paper_id": "morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals",
+      "source_path": "output/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals.md",
+      "section_heading": "Using naturally occurring climate resilient corals to construct bleaching-resistant nurseries",
+      "section_start_line": 3,
+      "section_end_line": 24,
+      "model": "openai:gpt-4o-mini",
+      "question": "After the 2015 natural bleaching event in American Samoa, how much less did nursery stock from heat-tolerant parents bleach compared to nursery stock from less tolerant parents?",
+      "ground_truth_answer": "They showed two to three times less bleaching across species.",
+      "ground_truth_chunks": [
+        "After the event, nursery stock from heattolerant parents showed two to three times less bleaching across species than nursery stock from less tolerant parents."
+      ]
+    },
+    {
+      "record_id": "b84e811683429ff4b0b9f114",
+      "paper_id": "morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals",
+      "source_path": "output/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals.md",
+      "section_heading": "Significance",
+      "section_start_line": 25,
+      "section_end_line": 50,
+      "model": "openai:gpt-4o-mini",
+      "question": "Did heat-tolerant coral colonies retain their bleaching resistance after eight months in a common garden for all four species?",
+      "ground_truth_answer": "Yes — heat-tolerant colonies better resisted bleaching even after 8 mo in a common garden for all four species.",
+      "ground_truth_chunks": [
+        "Our results show that heat-tolerant colonies better resisted bleaching even after 8 mo in a common garden for all four species.",
+        "The experiments show that the substantial variation in heat tolerance among clones is not rewritten by acclimatization, but instead is retained in this restoration setting."
+      ]
+    },
+    {
+      "record_id": "c43441675a07f2f781fd03e8",
+      "paper_id": "morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals",
+      "source_path": "output/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals.md",
+      "section_heading": "Results",
+      "section_start_line": 51,
+      "section_end_line": 122,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which coral species showed the greatest heat tolerance in the rapid heat tolerance (T50) test?",
+      "ground_truth_answer": "P. cylindrica showed the greatest heat tolerance.",
+      "ground_truth_chunks": [
+        "We then determined the temperature at which 50% of the bleaching response occurred (denoted T50; 34 °C for A. hyacinthus, 35 °C for A. gemmifera and P. damicornis, and 36 °C for P. cylindrica).",
+        "As expected, P. cylindrica showed the greatest heat tolerance in this rapid test: fragments ranged from losing 50% of their original chlorophyll to losing none (Fig. 1, Lower), despite experiencing the warmest experimental heating temperature."
+      ]
+    },
+    {
+      "record_id": "97bc87eeba6bc3c40d4f5906",
+      "paper_id": "morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals",
+      "source_path": "output/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals.md",
+      "section_heading": "Discussion",
+      "section_start_line": 123,
+      "section_end_line": 165,
+      "model": "openai:gpt-4o-mini",
+      "question": "After transplantation into the common garden with lower daily temperature variability, did transplants from parents with higher heat tolerance retain greater resistance to bleaching during the 2015 and 2017 events, and by how much compared to transplants from low-heat-tolerance parents?",
+      "ground_truth_answer": "Yes. Even after 8 mo of common garden growth, transplants from parents with higher heat tolerance bleached two- to threefold less during the 2015 and 2017 bleaching events than did transplants from parents originally with low heat tolerance; parent and transplant bleaching was highly correlated across genotypes.",
+      "ground_truth_chunks": [
+        "Even after 8 mo of common garden growth, transplants from parents with higher heat tolerance bleached two- to threefold less during the 2015 and 2017 bleaching events than did transplants from parents originally with low heat tolerance.",
+        "In addition, we monitored bleaching in the original parents on their native reefs in 2015 and show that parent and transplant bleaching was highly correlated across genotypes."
+      ]
+    },
+    {
+      "record_id": "1ac336cdc22360f945795de9",
+      "paper_id": "morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals",
+      "source_path": "output/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals.md",
+      "section_heading": "Materials and Methods",
+      "section_start_line": 166,
+      "section_end_line": 189,
+      "model": "openai:gpt-4o-mini",
+      "question": "How frequently were nursery colonies photographed, weighed, scored for bleaching status, and sampled for transcriptomes, coral genomes, microbiomes, and symbiont genetics?",
+      "ground_truth_answer": "Every 4–8 months.",
+      "ground_truth_chunks": [
+        "Nursery colonies were photographed, weighed, scored for bleaching status, and sampled for transcriptomes, coral genomes, microbiomes, and symbiont genetics every 4–8 mo (detailed methods are in [SI](https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1721415116/-/DCSupplemental) [Appendix](https://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1721415116/-/DCSupplemental))."
+      ]
+    }
+  ],
+  "failures": []
+}

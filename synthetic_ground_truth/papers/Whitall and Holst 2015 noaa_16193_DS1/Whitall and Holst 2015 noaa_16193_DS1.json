@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "source_path": "output/Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1.md",
+  "source_sha256": "c5c10a32e53618d6d18e38dd2f27a8c1a7088ff2ccd5e6141d68a8588ec2eb1e",
+  "status": "complete",
+  "selected_section_count": 10,
+  "successful_record_count": 10,
+  "failure_count": 0,
+  "records": [
+    {
+      "record_id": "43c089dfcf524d873e67e9d2",
+      "paper_id": "Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1",
+      "source_path": "output/Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1.md",
+      "section_heading": "About this Document",
+      "section_start_line": 41,
+      "section_end_line": 58,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which contaminant types does the report detail magnitudes and distributions for in surface sediments?",
+      "ground_truth_answer": "Polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), pesticides, and heavy metals.",
+      "ground_truth_chunks": [
+        "This document focuses on the sediment contaminant portion of the larger effort.",
+        "The report details: (1) contaminant (e.g. polycyclic aromatic hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), pesticides, heavy metals) magnitudes and distributions in surface sediments (inside the Bay and in the watershed streams) and (2) a one time \"snapshot\" of surface water nutrient concentrations inside the Bay."
+      ]
+    },
+    {
+      "record_id": "84568e161a2d9ca0a82d9937",
+      "paper_id": "Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1",
+      "source_path": "output/Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1.md",
+      "section_heading": "Rationale for Collection of Baseline Data For Contaminants",
+      "section_start_line": 213,
+      "section_end_line": 216,
+      "model": "openai:gpt-4o-mini",
+      "question": "Why did the CRCP fund the collection of baseline levels of contaminants in Faga'alu in 2014?",
+      "ground_truth_answer": "To identify any additional stressors besides sediments from the quarry by collecting baseline levels of contaminants in the watershed and the bay using standardized methods from NOAA's National Status and Trends Program, following 2013 concerns about groundwater quantity and quality and a potential contaminant source at the former Matafao Elementary School military dump site.",
+      "ground_truth_chunks": [
+        "Through conversations in 2013 with ASEPA, SDSU, CRAG, and the research coordinator at the National Marine Sanctuary of American Samoa, concerns were raised about the quantity and quality of groundwater flowing through the bedrock in Faga'alu.",
+        "In 2013, the CRCP also learned that the site of the Matafao Elementary School was a U.S. military dump site during World War II and is a potential source of some contaminants into Faga'alu Bay via groundwater.",
+        "Thus to identify any additional stressors besides sediments from the quarry, in 2014 the CRCP funded the collection of baseline levels of contaminants in the watershed and the bay using standardized methods from NOAA's National Status and Trends Program, in addition to sediment load and coral community information."
+      ]
+    },
+    {
+      "record_id": "d13cb7a18eef0bf4f526ad1c",
+      "paper_id": "Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1",
+      "source_path": "output/Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1.md",
+      "section_heading": "Providing Context for Results",
+      "section_start_line": 323,
+      "section_end_line": 344,
+      "model": "openai:gpt-4o-mini",
+      "question": "What three methods does the section list for evaluating the relative level of contamination of Faga'alu Bay?",
+      "ground_truth_answer": "1) Compare the findings to contaminant concentrations from another study in American Samoa (nearby Pago Pago Harbor, CH2MHill 2007). 2) Assess sediment contamination using NOAA’s sediment quality guidelines (SQG) — ERL and ERM developed by Long and colleagues. 3) For analytes exceeding ERM or lacking SQGs, compare concentrations to NOAA’s three decades of National Status and Trends sediment contaminant data from across the United States.",
+      "ground_truth_chunks": [
+        "In addition to comparing contamination results between strata, there are three other ways to evaluate the relative level of contamination of Faga'alu Bay. First, and most simply, these findings can be compared to the contaminant concentrations in another study in American Samoa, in nearby Pago Pago Harbor (CH2MHill 2007). Second, the degree of sediment contamination in Faga'alu Bay can be assessed using NOAA's numerical sediment quality guidelines (SQG) known as ERL (effects range-low) and ERM (effects range-median) developed by Long and colleagues (Long and Morgan, 1990; Long et al., 1995, Long et al. 1996, Long et al. 1998, Long and MacDonald, 1998). The SQG value was not defined for all analytes; existing values are presented in Table 3. These guidelines are statistically derived levels of contamination above which toxic effects would be expected to be observed in benthic organisms with at least a 50% frequency (ERM), and below which effects were rarely (<10 %) expected (ERL). Finally, for analytes for which the ERM is exceeded, or for analytes which do not have sediment quality guidelines, concentrations observed in Faga'alu can be compared against three decades of sediment contaminant data collected from all over the United States by NOAA's National Status and Trends Program (NOAA 2015). This puts the values in this study into a historical and national context, and can be useful in identifying unusually high values."
+      ]
+    },
+    {
+      "record_id": "82385d85a663e2a1abd44389",
+      "paper_id": "Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1",
+      "source_path": "output/Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1.md",
+      "section_heading": "Chlordanes",
+      "section_start_line": 437,
+      "section_end_line": 458,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many sites in the Bay exceeded the ERL for chlordane, and did any sites exceed the ERM?",
+      "ground_truth_answer": "Two sites in the Bay exceeded the ERL of 0.5 ng/g; no sites exceeded the ERM.",
+      "ground_truth_chunks": [
+        "Sediment concentrations of chlordane in Faga'alu ranged from below limits of detection to 4.597 ng/g, with a mean of 0.622 ng/g.",
+        "Two sites in the Bay exceeded the ERL of 0.5 ng/g. No sites exceeded the ERM. This suggests a potential for toxicity to benthic infauna."
+      ]
+    },
+    {
+      "record_id": "6823c0f6fb67d1786888d70c",
+      "paper_id": "Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1",
+      "source_path": "output/Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1.md",
+      "section_heading": "Arsenic",
+      "section_start_line": 550,
+      "section_end_line": 573,
+      "model": "openai:gpt-4o-mini",
+      "question": "How many sediment sampling sites exceeded the ERL of 8.2 mg/g, and where were they located?",
+      "ground_truth_answer": "Three sites exceeded the ERL of 8.2 mg/g; all were in the North Bay stratum.",
+      "ground_truth_chunks": [
+        "Three sites, all in the North Bay stratum, exceed the ERL of 8.2 mg/g. No sites exceeded the ERM. This suggests a potential for toxicity to benthic infauna.",
+        "This observed pattern is statistically significant (Dunn's test, a=0.05, p=0.039) with the North Bay having higher arsenic concentrations than the South Bay."
+      ]
+    },
+    {
+      "record_id": "dd4dfea6176e1dc58ba130f9",
+      "paper_id": "Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1",
+      "source_path": "output/Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1.md",
+      "section_heading": "Zinc",
+      "section_start_line": 666,
+      "section_end_line": 689,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the range and mean of sediment zinc concentrations measured in Faga'alu, and how did concentrations vary spatially?",
+      "ground_truth_answer": "Sediment zinc ranged from 3.7 mg/g to 416 mg/g (mean 109.7 mg/g); concentrations decrease from the watershed into the Bay, and the inner bay has statistically higher zinc concentrations than the south bay (Dunn's test, a=0.05, p=0.019).",
+      "ground_truth_chunks": [
+        "Sediment concentrations of zinc in Faga'alu ranged from 3.7 mg/g to 416 mg/g, with a mean of 109.7 mg/g.",
+        "Qualitatively, sediment concentrations decrease from the watershed into the Bay. Statistically, the inner bay has higher zinc concentrations (Dunn's test, a=0.05, p=0.019) than the south bay."
+      ]
+    },
+    {
+      "record_id": "efbc56f5e6fb7ec1cae6b40f",
+      "paper_id": "Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1",
+      "source_path": "output/Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1.md",
+      "section_heading": "Lead",
+      "section_start_line": 780,
+      "section_end_line": 803,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the measured range and mean of sediment lead concentrations in Faga'alu?",
+      "ground_truth_answer": "Sediment lead concentrations in Faga'alu ranged from 0.64 mg/g to 45.5 mg/g, with a mean of 13.15 mg/g.",
+      "ground_truth_chunks": [
+        "Sediment concentrations of lead in Faga'alu ranged from 0.64 mg/g to 45.5 mg/g, with a mean of 13.15 mg/g.",
+        "No sites exceeded the ERL of 46.7 mg/g, indicating that benthic toxicity due to lead is unlikely."
+      ]
+    },
+    {
+      "record_id": "2495d554e5d832d885a9a05a",
+      "paper_id": "Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1",
+      "source_path": "output/Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1.md",
+      "section_heading": "Silicon",
+      "section_start_line": 874,
+      "section_end_line": 895,
+      "model": "openai:gpt-4o-mini",
+      "question": "What were the reported range and mean of sediment silicon concentrations in Faga'alu?",
+      "ground_truth_answer": "Sediment concentrations of silicon in Faga'alu ranged from 105 mg/g to 256,000 mg/g, with a mean of 74,608 mg/g.",
+      "ground_truth_chunks": [
+        "*Sediment Concentrations in Faga'alu:* Sediment concentrations of silicon in Faga'alu ranged from 105 mg/g to 256,000 mg/g, with a mean of 74,608 mg/g."
+      ]
+    },
+    {
+      "record_id": "732b690b4720b6e970e3cd4c",
+      "paper_id": "Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1",
+      "source_path": "output/Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1.md",
+      "section_heading": "Water Column Nutrients",
+      "section_start_line": 970,
+      "section_end_line": 1005,
+      "model": "openai:gpt-4o-mini",
+      "question": "Were there statistically significant differences in nutrient concentrations between the strata in Faga'alu Bay?",
+      "ground_truth_answer": "No. There were no statistically significant differences between the strata (Dunn's test, a=0.05).",
+      "ground_truth_chunks": [
+        "Qualitatively, dissolved inorganic nitrogen (DIN, sum of inorganic species) is higher along the north shore, and phosphate is highest in the inner bay. However, there were no statistically significant differences between the strata (Dunn's test, a=0.05)."
+      ]
+    },
+    {
+      "record_id": "2804408c1134c1815d074ca3",
+      "paper_id": "Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1",
+      "source_path": "output/Whitall and Holst 2015 noaa_16193_DS1/Whitall and Holst 2015 noaa_16193_DS1.md",
+      "section_heading": "Conclusions",
+      "section_start_line": 1063,
+      "section_end_line": 1070,
+      "model": "openai:gpt-4o-mini",
+      "question": "Which contaminants were identified as elevated above levels of concern in the Bay's surface sediments?",
+      "ground_truth_answer": "Arsenic, chromium, nickel, silver, zinc, chlordane, DDT, and PCBs.",
+      "ground_truth_chunks": [
+        "Pollution in the surface sediments of the Bay and in the watershed streams is generally low, although there are a few contaminants for which levels appear to be elevated above levels of concern including: arsenic, chromium, nickel, silver, zinc, chlordane, DDT, and PCBs.",
+        "In some cases (e.g. nickel, silver and zinc) these elevated levels may be due to natural erosion of bedrock, although this erosion may be accelerated by mining activities at the quarry."
+      ]
+    }
+  ],
+  "failures": []
+}
