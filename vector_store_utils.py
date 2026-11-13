@@ -13,8 +13,6 @@ import numpy as np
 import faiss
 import nltk
 
-nltk.download('punkt', quiet=True)
-nltk.download('punkt_tab', quiet=True)
 
 @dataclass
 class SentenceWithSource:
@@ -27,7 +25,7 @@ class SentenceWithSource:
 
 # Storage paths
 STORAGE_DIR = Path("/media/volume/crag-vectorstore")
-STORAGE_DIR.mkdir(exist_ok=True)
+
 
 EMBEDDINGS_FILE = STORAGE_DIR / "embeddings.npy"
 FAISS_INDEX_FILE = STORAGE_DIR / "index.faiss"
@@ -99,13 +97,17 @@ def split_into_chunks(text: str, file_path: str, file_title: str, window_size: i
     return chunks
 
 
-def load_existing_data() -> Tuple[List[SentenceWithSource], Optional[np.ndarray], Optional[faiss.Index], Set[str]]:
-    if METADATA_FILE.exists():
-        with open(METADATA_FILE, 'r', encoding='utf-8') as f:
+def load_existing_data(storage_dir: Optional[Path] = None) -> Tuple[List[SentenceWithSource], Optional[np.ndarray], Optional[faiss.Index], Set[str]]:
+    directory = storage_dir or STORAGE_DIR
+    metadata_file = directory / "metadata.json"
+    embeddings_file = directory / "embeddings.npy"
+    index_file = directory / "index.faiss"
+    if metadata_file.exists():
+        with open(metadata_file, 'r', encoding='utf-8') as f:
             metadata = json.load(f)
 
-        embeddings = np.load(EMBEDDINGS_FILE) if EMBEDDINGS_FILE.exists() else None
-        index = faiss.read_index(str(FAISS_INDEX_FILE)) if FAISS_INDEX_FILE.exists() else None
+        embeddings = np.load(embeddings_file) if embeddings_file.exists() else None
+        index = faiss.read_index(str(index_file)) if index_file.exists() else None
 
         sentences = [SentenceWithSource(**item) for item in metadata.get('sentences', [])]
         processed_files = set(metadata.get('processed_files', []))
@@ -115,6 +117,7 @@ def load_existing_data() -> Tuple[List[SentenceWithSource], Optional[np.ndarray]
 
 
 def save_data(sentences: List[SentenceWithSource], embeddings: np.ndarray, index: faiss.Index, processed_files: Set[str], model: str = "qwen3-embedding:0.6b"):
+    STORAGE_DIR.mkdir(parents=True, exist_ok=True)
     np.save(EMBEDDINGS_FILE, embeddings)
     faiss.write_index(index, str(FAISS_INDEX_FILE))
 

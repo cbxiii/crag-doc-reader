@@ -1,0 +1,681 @@
+{
+  "description": "Curated CRAGBot evaluation Q+A from synthetic ground truth paper records; verify against original papers before treating as authoritative scientific conclusions.",
+  "review_scope": {
+    "json_files_read": 327,
+    "synthetic_records_scanned": 2517,
+    "selected_pairs": 45,
+    "unique_questions": 18
+  },
+  "qa_pairs": [
+    {
+      "id": 1,
+      "question": "By what percentage did the total number of coral heads change between 1917 and 1973 on the Aua line?",
+      "answer": "Total numbers of coral heads decreased 28 percent.",
+      "source_json": "synthetic_ground_truth/papers/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect.json",
+      "source_markdown": "output/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect/1973 (1977) Dahl and Lamberts - a resurvey of Mayor_s 1917 transect.md",
+      "source_record_id": "e770209178db1582836d56bf",
+      "section_heading": "RESULTS",
+      "evidence": [
+        "Most significant are the differences in total numbers and species proportions found in 1917 and 1973 (Table 2, Figure 3). Total numbers of coral heads decreased 28 percent."
+      ]
+    },
+    {
+      "id": 2,
+      "question": "How many giant clams were recorded in the survey of the lagoon terrace on the southwest arm, and how many of these had died recently?",
+      "answer": "A total of 230 clams were recorded on the lagoon terrace of the southwest arm, of which 162 (70%) had died recently.",
+      "source_json": "synthetic_ground_truth/papers/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll.json",
+      "source_markdown": "output/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll/1997 -  Green  et al. 1997 Impact of ship grounding Rose Atoll.md",
+      "source_record_id": "92707a7f2a8012573858959e",
+      "section_heading": "Initial Effects",
+      "evidence": [
+        "A total of 230 clams were recorded in the survey of the lagoon terrace on the southwest arm, most of which had died recently (162, or 70%), presumably as a result of the spill (Molina 1994)."
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What percentage of the Aua Transect adjacent to shore was completely lost due to dredging prior to 1960?",
+      "answer": "Approximately 25% of the transect adjacent to shore was completely lost.",
+      "source_json": "synthetic_ground_truth/papers/1997 Green et al.  78 yr Aua/1997 Green et al.  78 yr Aua.json",
+      "source_markdown": "output/1997 Green et al.  78 yr Aua/1997 Green et al.  78 yr Aua.md",
+      "source_record_id": "3b0fc33dbafa98d3b1f0fc09",
+      "section_heading": "DISCUSSION",
+      "evidence": [
+        "The greatest change has been the complete loss of approximately 25% of the transect adjacent to shore as a result of the dredging of a channel in this area prior to 1960 (Dahl and Lamberts 1977).",
+        "First, the channel at Aua was dredged during the 1950s, and this resulted in a chronic plume of sediment over the transect for several years (High Talking Chief Ma'afala, pers. comm.)."
+      ]
+    },
+    {
+      "id": 4,
+      "question": "In the high irradiance experiments, how did intermittent high-low water flow affect photoinhibition, bleaching, and recovery of Fv/Fm compared to constant low flow?",
+      "answer": "Intermittent high-low flow reduced photoinhibition and bleaching and resulted in a quicker recovery of Fv/Fm compared to constant low flow in the high irradiance experiments.",
+      "source_json": "synthetic_ground_truth/papers/2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow.json",
+      "source_markdown": "output/2007 Smith & Birkeland - intermittent flow/2007 Smith & Birkeland - intermittent flow.md",
+      "source_record_id": "fd67011c3e74b06f2d950596",
+      "section_heading": "4. Discussion",
+      "evidence": [
+        "Thus, reduction of oxidative stress is the most likely explanation for the quicker recovery of  $F_v/F_m$  in the intermittent flow treatment than the low flow treatment between noon and 18:00 (Figs. 4 and 6).",
+        "The finding that intermittent water motion reduces photoinhibition\n\nand bleaching of P. lobata and P. cylindrica, even if seawater temperatures and irradiances remain high, supports the hypothesis that \"flow-mediated enhancement of mass transfer\" may reduce coral mortality when such conditions occur on reefs (Nakamura et al., 2005).",
+        "However, there was less chronic photoinhibition and bleaching in the intermittent high-low flow treatments than the constant low flow treatments in both high irradiance experiments."
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which coral species showed environmental but not genetic effects on skeletal growth in the reciprocal transplant experiments, and how did its growth differ between Pool 300 and Pool 400?",
+      "answer": "Pocillopora eydouxi showed environmental but not genetic effects on skeletal growth, with growth doubling in Pool 300 compared with Pool 400.",
+      "source_json": "synthetic_ground_truth/papers/2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE.json",
+      "source_markdown": "output/2008 Smith et al Pac Sci - back reef pools RTE/2008 Smith et al Pac Sci - back reef pools RTE.md",
+      "source_record_id": "2162b09f553d230fb90bf5af",
+      "section_heading": "Environmental versus Genetic Influences on Growth Rates of the Corals Pocillopora eydouxi and Porites lobata (Anthozoa: Scleractinia)<sup>1</sup>",
+      "evidence": [
+        "Skeletal growth of P. eydouxi showed environmental but not genetic effects, resulting in doubling of growth in Pool 300 compared with Pool 400.",
+        "There were no environmental or genetic effects on skeletal growth of P. lobata."
+      ]
+    },
+    {
+      "id": 6,
+      "question": "According to the Discussion, what is the main reason corals remain scarce on the extensive inner reef flat rubble zone at Aua?",
+      "answer": "The scarcity is primarily due to lack of stable solid substrata: juvenile corals die when rubble is overturned by water motion, so substratum stability (availability of solid substrata) is the key limiting factor.",
+      "source_json": "synthetic_ground_truth/papers/2013-06 Birkeland et al Aua transects screen res/2013-06 Birkeland et al Aua transects screen res.json",
+      "source_markdown": "output/2013-06 Birkeland et al Aua transects screen res/2013-06 Birkeland et al Aua transects screen res.md",
+      "source_record_id": "5e33eb99807cb1352942f009",
+      "section_heading": "Discussion",
+      "evidence": [
+        "The corals that are on the few large blocks among the rubble appear to be in fine health (Fig. 8), so water quality and abundance of larval supply are unlikely to be as important in this case as availability of solid substrata.",
+        "The most likely reason for the scarcity of corals in the rubble zone is death of juvenile corals on rubble that has been overturned by water motion since larval recruitment.",
+        "This demonstrates that substratum stability is the key determining factor under relatively uniform conditions of water quality and larval recruitment."
+      ]
+    },
+    {
+      "id": 7,
+      "question": "In the Ofu experiment, which shading level (50% or 75%) offered better protection against bleaching?",
+      "answer": "Heavier shading (75%) offered better protection than lighter shading (50%) in the Ofu experiment.",
+      "source_json": "synthetic_ground_truth/papers/2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading.json",
+      "source_markdown": "output/2017 Coelho et al. mitigation by shading/2017 Coelho et al. mitigation by shading.md",
+      "source_record_id": "a6479fdfadb1100ddbdbcb34",
+      "section_heading": "4. Discussion",
+      "evidence": [
+        "The analysis of coral color score as an indicator of stress in the Ofu experiment, showed that both levels of shading were protective against bleaching in conditions of cumulative thermal stress for all species, but were particularly beneficial for the most sensitive ones: *A. muricata* and *P. cylindrica*.",
+        "Heavier shading (75%) offered better protection than lighter shading (50%) in this experiment, possibly because of the intense light"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Which coral species appears to have disappeared from Fagatele Bay National Marine Sanctuary (FBNMS), with its decline starting around 2002?",
+      "answer": "The endemic *Porites randalli* appears to be gone from FBNMS; its decline started around 2002.",
+      "source_json": "synthetic_ground_truth/papers/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1).json",
+      "source_markdown": "output/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1)/2018, 2024 - Birkeland et al. 2024 2018 Archipelago and 2024 Fagatele (1).md",
+      "source_record_id": "363c204e610c20d920f3e2e8",
+      "section_heading": "Report for CRAG on the 2018 Survey of the Coral Communities of the American Samoan Archipelago and the 2024 Survey of the Corals, Fishes, and Benthos in Fagatele Bay",
+      "evidence": [
+        "The endemic *Porites randalli* was once the most abundant species of coral in FBNMS, but now appears to be gone from FBNMS, the decline starting around 2002."
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which covariate did the authors find to be the most influential predictor of coral bleaching prevalence?",
+      "answer": "High-frequency temperature variability—specifically the average daily temperature range (DTR) of the 30 days preceding a bleaching observation.",
+      "source_json": "synthetic_ground_truth/papers/2018_Safaie et al 2018 NComm High frequency temperature variability reduces/2018_Safaie et al 2018 NComm High frequency temperature variability reduces.json",
+      "source_markdown": "output/2018_Safaie et al 2018 NComm High frequency temperature variability reduces/2018_Safaie et al 2018 NComm High frequency temperature variability reduces.md",
+      "source_record_id": "b42a073562029a90d99d928c",
+      "section_heading": "High frequency temperature variability reduces the risk of coral bleaching",
+      "evidence": [
+        "We find that high-frequency temperature variability (i.e., daily temperature range) was the most influential factor in predicting bleaching prevalence and had a mitigating effect, such that a 1 °C increase in daily temperature range would reduce the odds of more severe bleaching by a factor of 33.",
+        "After standardizing all covariates and fitting them to ordinal-valued bleaching prevalence scores using ordinal logistic regression (OLR) models (Methods), we conclude that high-frequency temperature variability, specifically the average daily temperature range (DTR) of the 30 days preceding a bleaching observation, is the most influential covariate in predicting the bleaching response, and serves to attenuate the prevalence of bleaching."
+      ]
+    },
+    {
+      "id": 10,
+      "question": "What percentage of coral recruits were found on crustose coralline algae (CCA) in the study?",
+      "answer": "94% of the 800 coral recruits (754 of 800) were found on crustose coralline algae (CCA).",
+      "source_json": "synthetic_ground_truth/papers/2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua.json",
+      "source_markdown": "output/2021 - Birkeland et al Different resiliences in coral communities Aua/2021 - Birkeland et al Different resiliences in coral communities Aua.md",
+      "source_record_id": "dbb4fddb9f251259113821b6",
+      "section_heading": "3.1. Consistent differences in resilience of coral communities over the past century",
+      "evidence": [
+        "Of 800 coral re cruits, 754 (94%) were found on crustose coralline alga (CCA) and the other 46 (6%) recruits were found on substrata other than CCA (Table S2).",
+        "CCA occupied an average of 32% of the surface area (Vroom 2011), so we would have expected 256 re cruits by chance (χ<sup>2</sup> = 1422, p < 0.001)."
+      ]
+    },
+    {
+      "id": 11,
+      "question": "How did the mean density and size structure of giant clams on the lagoon pinnacles at Rose Atoll change between 1994/95 and 2018?",
+      "answer": "Mean density on the lagoon pinnacles declined dramatically from very high in 1994/95 (ranging from 951 to 8,871 clams ha-1) to very low in 2018 (ranging from 7 to 23 clams ha-1). The size structure shifted from mostly recruits in 1994/95 (43.6%) to mostly mature individuals in 2018 (81.3%). Additionally, most clams recorded in 2018 were dead (199 of 226, or 88%).",
+      "source_json": "synthetic_ground_truth/papers/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience.json",
+      "source_markdown": "output/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience/2022 - Green et al. 2022.  Multi-decadal patterns and drivers of coral reef resilience.md",
+      "source_record_id": "3e7d126dd8f03285e9b1b892",
+      "section_heading": "<span id=\"page-39-0\"></span>Giant Clams",
+      "evidence": [
+        "The giant clam population on the lagoon pinnacles at Rose declined dramatically between 1994/95 and 2018 (Fig. 14b, Table 3). In 1994/95, mean clam density on the pinnacles was very high (ranging from 951 to 8,871 clams ha-1 ), while in 2018 mean density was very low (ranging from 7 to 23 clams ha-1 ).",
+        "In 1994/95, most the clams recorded on the pinnacles were recruits (43.6%), followed by mature (29.6%) and immature (26.8%) individuals. In 2018, most of the clams were mature (81.3%), with only a few immature individuals (11.3%) or recruits (7.3%) recorded (Table 3).",
+        "In 2018, we only recorded 226 clams on the transects on the lagoon pinnacles at Rose, most of which were dead (199, or 88%: Table 3)."
+      ]
+    },
+    {
+      "id": 12,
+      "question": "In this study, which native pool's Porites lobata corals exhibited greater Fv/Fm values and higher tolerance limits under experimental acute heat stress, the MV (moderately variable) pool or the HV (highly variable) pool?",
+      "answer": "Native MV (moderately variable) P. lobata corals exhibited greater Fv/Fm values and had higher tolerance limits than HV corals.",
+      "source_json": "synthetic_ground_truth/papers/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics.json",
+      "source_markdown": "output/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics/2022_Klepac and Barshis_2022_Coral Reefs_High‑resolution in situ thermal metrics.md",
+      "source_record_id": "766b95487d0c53dbf881dde9",
+      "section_heading": "The complex relationship between thermal variability and bleaching sensitivity",
+      "evidence": [
+        "Similar to Barshis et al. ([2018](#page-10-7)), there was an efect of native reef environment on chlorophyll fuorescence under experimental acute heat stress, however, it was native MV corals that had greater *Fv/Fm* values than HV native and transplanted ramets.",
+        "Also, native MV coral *Fv/Fm* values were not afected by acute heat stress in February (6-mo), and total chlorophyll of MV ramets transplanted into the HV pool did not respond to acute heat stress in August (1-mo), suggesting that MV corals had greater tolerance limits than other backreef *P. lobata* examined herein.",
+        "we consistently found no efect of the HV common garden increasing bleaching tolerance *and* increased tolerance limits in MV *P. lobata* over two bleaching years (Klepac & Barshis [2020](#page-11-24); this study)."
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Which of the six most abundant scleractinian coral genera had the highest average disease prevalence and what was that prevalence?",
+      "answer": "Acropora had the highest average prevalence at 0.85%.",
+      "source_json": "synthetic_ground_truth/papers/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1).json",
+      "source_markdown": "output/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1)/Aeby et al. 2008 Coral and crustose coralline algae disease American Samoa (1).md",
+      "source_record_id": "93d77857844d15bc356397aa",
+      "section_heading": "Difference in disease levels among coral genera",
+      "evidence": [
+        "Prevalence of disease differed among the coral genera within each year surveyed (2004: X²=113.0 df=5, p=0.00; 2005: X²=29.06, df=5, p=0.00).",
+        "Of the six most abundant scleractinian coral genera found within our transects, *Acropora* had the highest average prevalence (0.85%) followed by *Pavona* (0.14%), *Porites* (0.11%), *Montipora* (0.06%), *Leptastrea* (0.06%) and *Pocillopora* (0%)."
+      ]
+    },
+    {
+      "id": 14,
+      "question": "How many juvenile giant clams were imported between November 1986 and October 1991 for the project, and what were the species percentages?",
+      "answer": "11,000 juvenile clams were imported; 73% were T. derasa, 18% were T. gigas, and 9% were H. hippopus.",
+      "source_json": "synthetic_ground_truth/papers/Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa.json",
+      "source_markdown": "output/Bell 1993 Giant Clam Project American Samoa/Bell 1993 Giant Clam Project American Samoa.md",
+      "source_record_id": "fcff761589b9fa0021e5b261",
+      "section_heading": "2.5.1 Giant Clams Importations for the Project",
+      "evidence": [
+        "Juvenile clams imported between November, 1986 and October, 1991, totalled to 11,000, involving 7 separate shipments. Of the 11,000 imported juvenile clams, 73 % were *T. derasa*, 18 % *T. gigas* and 9 % *H. hippopus*."
+      ]
+    },
+    {
+      "id": 15,
+      "question": "What was the terrigenous fraction of benthic sediments on the northern reef flat compared to the southern reef flat?",
+      "answer": "Approximately 15% on the northern reef flat compared to 8% on the southern reef flat — about two times higher on the northern reef flat.",
+      "source_json": "synthetic_ground_truth/papers/Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1.json",
+      "source_markdown": "output/Biggs Messina Waddell Fagaalu noaa_17110_DS1/Biggs Messina Waddell Fagaalu noaa_17110_DS1.md",
+      "source_record_id": "13504cffec65f80e9404b388",
+      "section_heading": "Results",
+      "evidence": [
+        "The terrigenous fraction of benthic sediments was approximately 2x higher over the northern reef flat (~15%) compared to the more energetic southern reef flat (8%) (Table 1.1).",
+        "Near the stream outlet, benthic sediment was dominated by the terrigenous fraction (65% terrigenous) but showed similar percentages of organics as the reef flats."
+      ]
+    },
+    {
+      "id": 16,
+      "question": "By what percentage did coral abundance drop in the outer reef margin of the Aua Transect between October 1999 and May 2000?",
+      "answer": "Coral abundance dropped by 67%.",
+      "source_json": "synthetic_ground_truth/papers/Birkeland and Belliveau 2000-Resurvey.Aua.transect.AS/Birkeland and Belliveau 2000-Resurvey.Aua.transect.AS.json",
+      "source_markdown": "output/Birkeland and Belliveau 2000-Resurvey.Aua.transect.AS/Birkeland and Belliveau 2000-Resurvey.Aua.transect.AS.md",
+      "source_record_id": "d074fcaa9449a25555bb61ba",
+      "section_heading": "Charles Birkeland<sup>1</sup> and Stephanie A. Belliveau<sup>2</sup>",
+      "evidence": [
+        "The most striking event that has occurred in the past 7 months, during which time ships 8 and 9 were removed from the reef flat south of the transect, was a 67% drop in coral abundance and a 58% decrease in living coral cover in the outer reef margin of the reef flat on the Aua Transect.",
+        "In October 1999, there were 75 corals per m<sup>2</sup> and 24% percent living coral cover, but 7 months later, the number of colonies per m<sup>2</sup> was 25 and the living coral cover was 10%."
+      ]
+    },
+    {
+      "id": 17,
+      "question": "At what times of day did each of the five studied species spawn in American Samoa?",
+      "answer": "A. lineatus spawned at dawn; Thalassoma quinquevittatum and T. hardwickii spawned during daytime; A. guttatus and A. triostegus spawned at dusk.",
+      "source_json": "synthetic_ground_truth/papers/Craig P  1998 temporal spwning patters acanthurids labrids/Craig P  1998 temporal spwning patters acanthurids labrids.json",
+      "source_markdown": "output/Craig P  1998 temporal spwning patters acanthurids labrids/Craig P  1998 temporal spwning patters acanthurids labrids.md",
+      "source_record_id": "f333062fe0b5ba741c9fdf72",
+      "section_heading": "Temporal Spawning Patterns of Several Surgeonfishes and Wrasses in American Samoa <sup>1</sup>",
+      "evidence": [
+        "Three coral reef surgeonfishes *(Acanthurus guttatus, A. triostegus, A. lineatus)* and two wrasses *(Thalassoma quinquevittatum, T hardwickii)* spawned year-round in American Samoa.",
+        "Spawning occurred in or adjacent to the channel draining the fringing reef at specific times of day: dawn (A. *lineatus),* daytime *(T quinquevittatum, T hardwickii),* or dusk *(A. guttatus, A. triostegus);* and spawning time tracked seasonal changes in day length."
+      ]
+    },
+    {
+      "id": 18,
+      "question": "What were the six-month survival percentages for Bruguiera gymnorrhiza and Rhizophora mangle saplings in the Nu'uuli restoration project?",
+      "answer": "Bruguiera gymnorrhiza: 45% survival; Rhizophora mangle: 21% survival (six months after restoration).",
+      "source_json": "synthetic_ground_truth/papers/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa.json",
+      "source_markdown": "output/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa/Efficacy of althernative low-cost approaches to mangrove restoration, American Samoa.md",
+      "source_record_id": "3742a7ea82efcfe5384b0eb9",
+      "section_heading": "Efficacy of Alternative Low-cost Approaches to Mangrove Restoration, American Samoa",
+      "evidence": [
+        "While several years of monitoring may ultimately be required to determine the project's success, and several decades could be required to fully return the full suite of functions, the project's low-cost, nontechnical restoration techniques, using readily available materials, have proven to be modestly successful, with 38% sapling survival after six months.",
+        "Six months after initial restoration activities, there was a highly significant difference between Bruguiera gymnorrhiza and Rhizophora mangle sapling survival, with 21% and 45% of the original 42 R. mangle and 95 B. gymnorrhiza saplings remaining, respectively."
+      ]
+    },
+    {
+      "id": 19,
+      "question": "What major sources of nutrients to the three Ofu–Olosega lagoons did the authors conclude were most likely at the time of the study?",
+      "answer": "The authors concluded the major sources of nutrients were most likely oceanic/atmospheric, and not animal/anthropogenic in origin.",
+      "source_json": "synthetic_ground_truth/papers/Garrison et al 2007 Mar Poll Bull/Garrison et al 2007 Mar Poll Bull.json",
+      "source_markdown": "output/Garrison et al 2007 Mar Poll Bull/Garrison et al 2007 Mar Poll Bull.md",
+      "source_record_id": "fa91fc0e42751b9f63a17fd4",
+      "section_heading": "Identifying nutrient sources to three lagoons at Ofu and Olosega, American Samoa using d15N of benthic macroalgae",
+      "evidence": [
+        "The low  $\\delta^{15}$ N values of the macroalgae, the low nutrient concentrations of lagoon waters, the lack of correlation between  $\\delta^{15}N$  values and distance from shore, and the low concentrations of nutrients in well-water samples indicate that the major sources of nutrients to the three Ofu-Olosega lagoons at the time of this study were most likely oceanic/atmospheric, and not animal/anthropogenic in origin.",
+        "| Dictyosphaeria versluysii | $1.0 \\pm 0.7$                                   | $0.9 \\pm 0.2$                 | $12.6 \\pm 3.1$              |\n| Halimeda sp.              | $3.8 \\pm 0.6$                                   | $0.6 \\pm 0.2$                 | $13.8 \\pm 7.4$              |"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "How many Tridacna maxima clams were estimated to be supported by Rose Atoll?",
+      "answer": "About 27 800 ± 8360 clams.",
+      "source_json": "synthetic_ground_truth/papers/Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS.json",
+      "source_markdown": "output/Green-1999-Popul.size.giant.clam.RoseAtoll.AS/Green-1999-Popul.size.giant.clam.RoseAtoll.AS.md",
+      "source_record_id": "12b77e556dfd097c16728739",
+      "section_heading": "Population size of T. maxima at Rose Atoll",
+      "evidence": [
+        "By expanding clam densities in each habitat to the total amount of that habitat represented at Rose Atoll, we estimated that the atoll supported about 27 800  $\\pm$  8360 clams (Table 2).",
+        "Many of these individuals (55%) were estimated to be on the reef flat despite the low densities of clams in this habitat, because the area was large (47% of total)."
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Which herbivorous fish functional group best explained variation in fleshy macroalgae cover, and how did macroalgal cover change with its biomass?",
+      "answer": "The grazers/detritivores functional group best explained variation in fleshy macroalgae cover; macroalgal cover decreased with increasing biomass of grazers/detritivores.",
+      "source_json": "synthetic_ground_truth/papers/Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013.json",
+      "source_markdown": "output/Heenan herbivore fish AS PLoS One 2013/Heenan herbivore fish AS PLoS One 2013.md",
+      "source_record_id": "a72f8afec56cbb296b2d246c",
+      "section_heading": "Relationship between benthic composition and herbivorous fishes",
+      "evidence": [
+        "Fleshy macroalgae was the benthic cover type best explained by the biomass of herbivorous fish. Macroalgal cover decreased with increasing biomass of grazers/detritivores (Fig. 4b).",
+        "The best fitting (lowest AICc, highest weight) models all included grazers/detritivores, while the top candidate model contained the biomass of this single functional group and depth (Table 1, model weight 49% and 50% deviance explained)."
+      ]
+    },
+    {
+      "id": 22,
+      "question": "What dissolved inorganic nitrogen (DIN) benchmark range did the study recommend to protect coastal water quality and coral reefs surrounding Tutuila, American Samoa?",
+      "answer": "0.1 to 0.15 mg l^{-1}",
+      "source_json": "synthetic_ground_truth/papers/Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS.json",
+      "source_markdown": "output/Houk_etal_2020_NutrientThresholds_DIN_AS/Houk_etal_2020_NutrientThresholds_DIN_AS.md",
+      "source_record_id": "aaf057995b6de95ea5407e5d",
+      "section_heading": "ABSTRACT",
+      "evidence": [
+        "Exceedance criteria were considered alongside biological data to recommend a  $0.1 \\text{ to } 0.15 \\text{ mg l}^{-1}$  benchmark to protect coastal water quality and coral reefs surrounding Tutuila, American Samoa."
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Of the original 988 colonies set aside for reattachment, how many were located that appeared to be viable candidates for transplanting?",
+      "answer": "Approximately 350 corals (35%).",
+      "source_json": "synthetic_ground_truth/papers/Hudson-2000-Pago.coral.transplant.AS-Copy/Hudson-2000-Pago.coral.transplant.AS-Copy.json",
+      "source_markdown": "output/Hudson-2000-Pago.coral.transplant.AS-Copy/Hudson-2000-Pago.coral.transplant.AS-Copy.md",
+      "source_record_id": "6702549279521696b7a0c2a8",
+      "section_heading": "TRANSPLANTING OF RELOCATED CORALS:",
+      "evidence": [
+        "Of the original 988 colonies set aside for reattachment, a total of approximately 350 corals (35%) were located that appeared to be viable candidates for transplanting."
+      ]
+    },
+    {
+      "id": 24,
+      "question": "What cement mix was used for reattachment of corals?",
+      "answer": "Quick setting cement (four parts Portland Type II cement to one part Molding Plaster) was used for reattachment.",
+      "source_json": "synthetic_ground_truth/papers/Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years.json",
+      "source_markdown": "output/Kolinski 2006 assessment of transplanted corals at Aua after 5 years/Kolinski 2006 assessment of transplanted corals at Aua after 5 years.md",
+      "source_record_id": "9f3b9365b172e37f1e59c408",
+      "section_heading": "Transplantation, Mapping and Initial Measurements",
+      "evidence": [
+        "In late June/early July 2000, 169 viable colonies (≥ 50 % live tissue cover with no evidence of disease; see Jeansonne 2000) were cemented to natural coral blocks on the reef flat and to a region of coralline algae pavement nearer the reef crest within one of the vessel removal areas (vessel # 8). Quick setting cement (four parts Portland Type II cement to one part Molding Plaster) was used for reattachment."
+      ]
+    },
+    {
+      "id": 25,
+      "question": "In the Conclusions section, what percentage of villagers surveyed stated that the VMPA in their village is helping to improve the condition of fish and other marine resources?",
+      "answer": "98%",
+      "source_json": "synthetic_ground_truth/papers/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries.json",
+      "source_markdown": "output/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries/Levine & Richmond 2014 Examining Enabling Conditions for Community-Based Fisheries.md",
+      "source_record_id": "0aeaf227c665ac98f84e2bac",
+      "section_heading": "CONCLUSIONS",
+      "evidence": [
+        "Although monitoring data is not available to confirm the ecological outcomes of American Samoa's CFMP, most village residents see it as having improved local resource conditions; in a recent survey of 300 villagers involved in the CFMP program, 98% stated that the VMPA in their village \"is helping to improve the condition of fish and other marine resources\" (A. S. Levine, *unpublished data*)."
+      ]
+    },
+    {
+      "id": 26,
+      "question": "What percentage of fishermen interviewed reported that populations of reef fish have declined in abundance since they began fishing or observing such species?",
+      "answer": "Just over 60%.",
+      "source_json": "synthetic_ground_truth/papers/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi.json",
+      "source_markdown": "output/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi.md",
+      "source_record_id": "07d316728931185c5393b43d",
+      "section_heading": "results",
+      "evidence": [
+        "Just over 60% of fishermen interviewed during the project reported that populations of reef fish have declined in abundance since they began fishing or observing such species earlier in their careers."
+      ]
+    },
+    {
+      "id": 27,
+      "question": "What percentage of interviewees perceived overfishing to be a problem for reef fish populations in American Samoa?",
+      "answer": "6% of interviewees.",
+      "source_json": "synthetic_ground_truth/papers/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi.json",
+      "source_markdown": "output/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi/Levine and Sauafea-Le_au - 2013 - Traditional Knowledge, use, and Management of Livi.md",
+      "source_record_id": "75f31801a97f9d19f40d80a7",
+      "section_heading": "Fishermen's Explanations for Changes in Abundance",
+      "evidence": [
+        "With regard to the current study, however, only 6% of interviewees stated that they perceived overfishing to be a problem for reef fish populations in American Samoa (Figure 5)."
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Which giant clam species was identified in the Samoan Archipelago using morphologic characteristics and ezRAD genetic techniques?",
+      "answer": "Tridacna noae.",
+      "source_json": "synthetic_ground_truth/papers/Marra‐Biggs et al 2022 Ecology and Evolution - 2022/Marra‐Biggs et al 2022 Ecology and Evolution - 2022.json",
+      "source_markdown": "output/Marra‐Biggs et al 2022 Ecology and Evolution - 2022/Marra‐Biggs et al 2022 Ecology and Evolution - 2022.md",
+      "source_record_id": "68707c4634420854fe3c89a5",
+      "section_heading": "Abstract",
+      "evidence": [
+        "Using morphologic characteristics and ezRAD genetic techniques, we identify the existence of *Tridacna noae* in the Samoan Archipelago, presenting the first observation and a resulting range expansion.",
+        "Accurately identifying the extant species in the archipelago is the first step toward a much-needed population status assessment to effectively manage these long-lived species."
+      ]
+    },
+    {
+      "id": 29,
+      "question": "According to the experiments and observations, what average upward and lateral growth per annum does Acropora exhibit on the seaward wall of the reefs of Tutuila?",
+      "answer": "About 19 mm upward growth per annum and about 74 mm lateral growth per annum.",
+      "source_json": "synthetic_ground_truth/papers/Mayor-1924-Growth.rate.corals.AS-Copy/Mayor-1924-Growth.rate.corals.AS-Copy.json",
+      "source_markdown": "output/Mayor-1924-Growth.rate.corals.AS-Copy/Mayor-1924-Growth.rate.corals.AS-Copy.md",
+      "source_record_id": "f128e8e00d2958b30d43fc1c",
+      "section_heading": "EXPERIMENTS AND OBSERVATIONS.",
+      "evidence": [
+        "These corals in this pure, agitated water grow most vigorously and develop stout, short, stumpy stems capable of resisting the force of the surges, thus making, according to my observations, only an average of about 19 mm. upward growth per annum, for corals do not readily raise their heads in regions where the surges are persistently tending to break them off. The average lateral growth is, however, 74 mm. per annum."
+      ]
+    },
+    {
+      "id": 30,
+      "question": "What organism composes the visible part of the rim of Rose Atoll?",
+      "answer": "The visible part of the rim of Rose Atoll is composed of Lithothamnium (Porolithon), chiefly the same pink-colored species now found growing over the shallows of the reef-flat.",
+      "source_json": "synthetic_ground_truth/papers/Mayor-1924-Rose.Atoll.AS-Copy/Mayor-1924-Rose.Atoll.AS-Copy.json",
+      "source_markdown": "output/Mayor-1924-Rose.Atoll.AS-Copy/Mayor-1924-Rose.Atoll.AS-Copy.md",
+      "source_record_id": "173233f9b1fca5c4fdf1427c",
+      "section_heading": "SUMMARY.",
+      "evidence": [
+        "The visible part of the rim of Rose Atoll is composed of *Lithothamnium* rather than of coral, and is chiefly constituted of the same pink-colored species of *Lithothamnium* (*Porolithon*) now found growing over the shallows of the reef-flat.",
+        "The rock of the atoll-rim contains from about 14 to 19 per cent of magnesium carbonate, due to its being composed largely of *Lithothamnium*, but not due to any appreciable dolomitization of the limestone after its formation."
+      ]
+    },
+    {
+      "id": 31,
+      "question": "At what time after sunset and on which night after the full moon was *Acropora formosa* observed spawning at Faga'alu?",
+      "answer": "It was observed spawning from 2020-2120 hrs (2 –3 hours after sunset) on the fourth night after the full moon.",
+      "source_json": "synthetic_ground_truth/papers/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy.json",
+      "source_markdown": "output/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy/Mundy-1999-Spawn.obs.corals.inverts.AS-Copy.md",
+      "source_record_id": "3fd81663a730df74080a21d2",
+      "section_heading": "Acropora formosa (Family Acroporidae)",
+      "evidence": [
+        "This species is often called staghorn coral, and forms large thickets (each 4-5m in diameter) in the shallow lagoon at Faga'alu.",
+        "*Acropora formosa* was observed spawning from 2020-2120 hrs (2 –3 hours after sunset) on the fourth night after the full moon."
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Which module was upregulated in the least thermotolerant corals during heat stress, and which signaling pathway was it significantly enriched for?",
+      "answer": "Module H15 was upregulated in the least thermotolerant corals during heat stress and was significantly enriched for MAPK signaling.",
+      "source_json": "synthetic_ground_truth/papers/Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021.json",
+      "source_markdown": "output/Naugle MS Oliver TA, Barshis DJ et al 2021/Naugle MS Oliver TA, Barshis DJ et al 2021.md",
+      "source_record_id": "1f2b6691f98ac907e587adb1",
+      "section_heading": "Gene Expression Under Heat Stress Related to Pollution Level, Symbiont Community, and Thermotolerance",
+      "evidence": [
+        "Gene expression under heat stress was also correlated to thermotolerance, with four modules related to the 10– 20% most thermotolerant corals and two modules related to the 10–20% least thermotolerant corals (**[Supplementary](#page-12-0) [Figure 6](#page-12-0)**). Module H15, whose expression was upregulated in the least thermotolerant corals, was significantly enriched for MAPK signaling.",
+        "Mitogen-activated protein kinases (MAPK) are signaling proteins involved in repairing oxidative damage that occurs during stress [\\(Kültz,](#page-14-36) [2005\\)](#page-14-36)."
+      ]
+    },
+    {
+      "id": 33,
+      "question": "According to section 4.2, what is the primary source of DIC in the Tafuna–Leone Plain groundwater and how does that DIC affect uranium mobility?",
+      "answer": "The section states that most DIC is sourced from organic matter remineralization (largely anthropogenic inputs), producing bicarbonate in groundwater; bicarbonate forms uranyl–carbonate complexes (e.g., UO2(CO3)3^4−) that increase uranium solubility and mobility.",
+      "source_json": "synthetic_ground_truth/papers/Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020.json",
+      "source_markdown": "output/Okuhata Dulai Shuler et al. 2020/Okuhata Dulai Shuler et al. 2020.md",
+      "source_record_id": "c18f1e67a5d9bed763aebd87",
+      "section_heading": "<span id=\"page-11-0\"></span>4.2. Formation of Soluble Carbonate Complexes",
+      "evidence": [
+        "These isotopically depleted values suggest that the DIC is coming from either atmospheric sources or organic matter.",
+        "Anthropogenic activities simultaneously introduce both organic C and N to the aquifer system, which are subsequently oxidized to DIC and  $NO_3^-$ , thus creating a relationship between the two.",
+        "We believe that most of the DIC in our samples is sourced from organic matter remineralization, and therefore, bicarbonate is present in the groundwater system. Although U(IV) is less soluble than U(VI), the presence of bicarbonate increases the solubility of U(IV) [10]. The most stable and soluble species of U is uranyl ( $UO_2^{2+}$ ) [8,52]. Under oxic conditions, carbonates can leach U from soils by forming stable uranyl-carbonate complexes following the oxidation reaction [8,10]:\n\n$$UO_2(s) + O_2 + 3CO_3^{2-} \\rightarrow UO_2(CO_3)_3^{4-},$$\n (3)\n\nFurther,  $UO_2^{2+}$  combines with carbonate to produce a stable U complex that is highly mobile due to its lack of retention to soil [8], thus increasing U concentrations in groundwater."
+      ]
+    },
+    {
+      "id": 34,
+      "question": "How many times did the smaller pool reach temperatures above 33C during the 8-year record, and how many times did the larger pool do so?",
+      "answer": "The smaller pool reached temperatures above 33C 66 times, compared to the larger pool's 3 times.",
+      "source_json": "synthetic_ground_truth/papers/Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts.json",
+      "source_markdown": "output/Oliver and Palumbi 2011 thermally resistant symbionts/Oliver and Palumbi 2011 thermally resistant symbionts.md",
+      "source_record_id": "d9df55d7c4fed3c6e93821b5",
+      "section_heading": "Pool temperatures",
+      "evidence": [
+        "This difference in the thermal extremes of the two pools is most striking during summer low-tide series, in which the smaller pool experiences 2- to 4-h periods during the day in which temperatures commonly reached above 33C (66 times on record, compared to the larger pool's 3 times), and reached an 8-year maximum of 35.4C (compared to the larger pool's 33.03C).",
+        "While the mean temperatures of the two pools were similar over the 8-year record (small: 28.9C; large: 28.8C), the smaller pool showed high variability in daily temperatures with high maxima and low minima, while the larger pool showed more moderate temperature swings (Fig. [1\\)](#page-2-0)."
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Which pesticide banned by the US EPA in 2006 was detected in several stream sites?",
+      "answer": "Parathion.",
+      "source_json": "synthetic_ground_truth/papers/Polidoro 2017 watershed chemical pollution of streams/Polidoro 2017 watershed chemical pollution of streams.json",
+      "source_markdown": "output/Polidoro 2017 watershed chemical pollution of streams/Polidoro 2017 watershed chemical pollution of streams.md",
+      "source_record_id": "efbfd4dd07c7abc18df238ba",
+      "section_heading": "Abstract",
+      "evidence": [
+        "Parathion, which has been banned by the US Environmental Protection Agency since 2006, was detected in several stream sites.",
+        "The most commonly detected pesticides in coastal streams were benthiocarb, diazinon, ethion, fenitrothion and parathion, with malathion detected very high quantities (>30 µg/L) only in surface waters in a taro farm adjacent to the landfill (Figure 2), likely due to sampling after a recent application."
+      ]
+    },
+    {
+      "id": 36,
+      "question": "How many contigs showed significant differences in expression between noon and midnight, and how many of those were higher at noon versus midnight?",
+      "answer": "A two-way ANOVA identified 344 contigs with significant day–night differences; of these, 239 had higher expression at noon and 105 had higher expression at midnight.",
+      "source_json": "synthetic_ground_truth/papers/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression.json",
+      "source_markdown": "output/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression/Ruiz-Jones and Palumbi 2015 BioBull Transcriptome-wide Changes in Coral Gene Expression.md",
+      "source_record_id": "e810becc5e2b03b1fc9c8787",
+      "section_heading": "Transcriptome-wide differences in expression between noon and midnight",
+      "evidence": [
+        "For the day-night comparison, a two-way ANOVA found that 344 contigs had significantly different expression levels at noon *versus* midnight (Fig. 1; contigs with *P* 0.05 after Benjamini and Hochberg (1995) false discovery rate (FDR) correction are in gray). Of these contigs, 239 had higher expression at noon, and the remaining 105 had higher expression at midnight.",
+        "The expression patterns of these 344 contigs showed highly consistent changes from day to night across the six noon and five midnight time points and between replicates; they revealed the presence of three major clusters (Fig. 2). The first cluster (labeled Cluster I in Fig. 2) represents 20 contigs with very large increases in noontime expression (mean fold change, 39.0; range, 10.3–141.1). In Clusters II and III, fold-changes were much lower. Cluster II contains 105 contigs with higher expression at midnight (mean fold change 1.9 (range, 1.1– 40.7)), and Cluster III consists of 219 contigs with higher expression at noon (mean, 2.1; range, 1.1–9.2)."
+      ]
+    },
+    {
+      "id": 37,
+      "question": "How many days per year do temperatures reach or exceed 30.5°C in the sampled area?",
+      "answer": "Temperatures reach or exceed 30.5°C on approximately 85 days in a typical year (about 2.5% of the time).",
+      "source_json": "synthetic_ground_truth/papers/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger.json",
+      "source_markdown": "output/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger/Ruiz-Jones and Palumbi 2017 SciAdvances Tidal heat pulses on a reef trigger.md",
+      "source_record_id": "0c7969973a41063a39e8ea94",
+      "section_heading": "Temperature spikes trigger transcriptomic response",
+      "evidence": [
+        "In the area we sampled, temperatures reach or exceed 30.5°C on approximately 85 days in a typical year, for a total of about 2.5% of the time.",
+        "Although the corals activated the UPR on days above 30.5°C, the response was short lived: The expression returned to baseline levels a day later when temperatures fell below 30°C (Fig. 1, C and D)."
+      ]
+    },
+    {
+      "id": 38,
+      "question": "How many of the 100 contigs with the best correlation between 20 h expression levels and bleaching showed more rapid return to control levels in more resistant colonies?",
+      "answer": "91 of the 100 contigs.",
+      "source_json": "synthetic_ground_truth/papers/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance.json",
+      "source_markdown": "output/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance/Seneca and Palumbi 2015 MEC The role of transcriptome resilience in resistance.md",
+      "source_record_id": "04bfd063bb57165f4a2c279a",
+      "section_heading": "Transcriptome resilience and bleaching",
+      "evidence": [
+        "This pattern appears many times among Lingering genes: out of the 100 contigs with the best correlation between 20 h expression levels and bleaching, 91 showed more rapid return to control levels in more resistant colonies.",
+        "For these 100 genes, expression in colonies showing none or slight bleaching returned to 98% of control values whereas for colonies showing severe or complete bleaching, expression remained 2.5-fold higher than controls."
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Which specific villages or areas did the DIN-loading model identify as hotspots on Tutuila?",
+      "answer": "Tula, Aoa, Amouli, and Alao Villages in Eastern Tutuila, and the Seetaga area of Western Tutuila.",
+      "source_json": "synthetic_ground_truth/papers/Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS.json",
+      "source_markdown": "output/Shuler Comeros 2020 DIN model for AS/Shuler Comeros 2020 DIN model for AS.md",
+      "source_record_id": "43bad5a58de4fee3e2f0a96a",
+      "section_heading": "Identification of Tutuila DIN Hotspots",
+      "evidence": [
+        "Our model produced higher- resolution estimates and predicted particular villages in Eastern Tutuila, such as Tula, Aoa, Amouli, and Alao Villages, and the Seetaga area of Western Tutuila to be DIN-loading hotspots as well.",
+        "These villages may be subject to DIN-loading impacts that are higher than expected in comparison with adjacent watersheds, highlighting the need for additional land use or nutrient source management attention in particular villages."
+      ]
+    },
+    {
+      "id": 40,
+      "question": "According to ERSST, how did the conventional ENSO null zone shift in the vicinity of Ta'u between the early and late twentieth century?",
+      "answer": "It shifted approximately 6° north and 4° east (about 400 km).",
+      "source_json": "synthetic_ground_truth/papers/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core.json",
+      "source_markdown": "output/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core/Tangri, Dunbar et al. 2018 492-years of temperature from Ta_u Porites core.md",
+      "source_record_id": "0c32b6eaeacb338d68d8a869",
+      "section_heading": "4.2. The Null Zone and ENSO's Shrinking Footprint",
+      "evidence": [
+        "Our correlation maps suggest that the polarity change in the SST response to conventional ENSO at Ta'u was part of a basinwide contraction of the conventional ENSO footprint (see Figures 1 and 6).",
+        "Based on ERSST, the conventional null zone shifted approximately 6° north and 4° east (~ 400 km) in the vicinity of Ta'u between the early and late twentieth century (Figures 6 and S8)."
+      ]
+    },
+    {
+      "id": 41,
+      "question": "According to the age analysis of sampled recruits in this study, what percentage of the aged recruits originated from the March 10, 2002 mass recruitment event?",
+      "answer": "Only 16% of the aged recruits originated from the mass event.",
+      "source_json": "synthetic_ground_truth/papers/Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus.json",
+      "source_markdown": "output/Trip, Craig P, Green A, Choat 2014 Ctenochaetus/Trip, Craig P, Green A, Choat 2014 Ctenochaetus.md",
+      "source_record_id": "c63eb58ab96f2f26fb347912",
+      "section_heading": "Recruitment dynamics",
+      "evidence": [
+        "Only 16 % of the aged recruits originated from the mass event.",
+        "Rather than tracking a single mass recruitment event during the course of this study, nearly continuous recruitment occurred throughout 2002 (Fig. [3](#page-5-0))."
+      ]
+    },
+    {
+      "id": 42,
+      "question": "What maximum relative abundances of Diplosoma similis were recorded at two sites within the major center of occurrence around Swains Island during the March 2008 surveys?",
+      "answer": "Relative abundances as high as 76.5% and 35.0%.",
+      "source_json": "synthetic_ground_truth/papers/Vargas-Angel Godwin Brainard 2008 Swains Diplosoma/Vargas-Angel Godwin Brainard 2008 Swains Diplosoma.json",
+      "source_markdown": "output/Vargas-Angel Godwin Brainard 2008 Swains Diplosoma/Vargas-Angel Godwin Brainard 2008 Swains Diplosoma.md",
+      "source_record_id": "bf9c2ae67f70d8be7b868092",
+      "section_heading": "Invasive didemnid tunicate spreading across coral reefs at remote Swains Island, American Samoa",
+      "evidence": [
+        "Towed-diver benthic surveys, covering 28.6 ha (28.6 km · 10 m, 3.2–21.4 m depth) of forereef habitat encircling the island, confirmed widespread occurrence of the tunicate, with elevated abundance observed along the north-northwest side of the island.",
+        "Fifteen, 25-m line-point intercept survey transects (50 cm intervals at 10.9– 13.9 m depths) at eight long-term (established since 2002) monitoring stations around Swains indicated relative abundances of D. similis as high as 76.5% and 35.0% at two sites within the major center of occurrence (Fig. 1a), and between 0% and 23.5% for the remaining six sites."
+      ]
+    },
+    {
+      "id": 43,
+      "question": "How many A. planci were counted between Papalao Point and Ogefao Village?",
+      "answer": "1080 A. planci were counted.",
+      "source_json": "synthetic_ground_truth/papers/Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS.json",
+      "source_markdown": "output/Wass-1979-Results.COTS.survey.Tutuila.AS/Wass-1979-Results.COTS.survey.Tutuila.AS.md",
+      "source_record_id": "dd5a299f2622b39301c39f69",
+      "section_heading": "Forereef Slope Surveys Along the Eastern Coasts",
+      "evidence": [
+        "From the relatively short distance between Papalao Point and Ogefao Village 1080 A. planci were counted."
+      ]
+    },
+    {
+      "id": 44,
+      "question": "What temperature treatment profile was applied to corals in the heat stress experiment?",
+      "answer": "Corals in the heat stress treatment were exposed to increasing temperatures from 29 °C to 35 °C over 3 h, held at 35 °C for 1 h, and returned to 29 °C within 2 h; control tanks were kept at a constant 29 °C.",
+      "source_json": "synthetic_ground_truth/papers/Ziegler et al 2017 NatComm Bacterial community dynamics/Ziegler et al 2017 NatComm Bacterial community dynamics.json",
+      "source_markdown": "output/Ziegler et al 2017 NatComm Bacterial community dynamics/Ziegler et al 2017 NatComm Bacterial community dynamics.md",
+      "source_record_id": "cdfdc6030b438f427aee4d36",
+      "section_heading": "Methods",
+      "evidence": [
+        "Corals in the heat stress treatment were exposed to increasing temperatures from 29 to 35 °C over 3 h, held at 35 °C for 1 h, and returned to 29 °C within 2 h, while the control temperature was kept",
+        "<span id=\"page-6-0\"></span>at a constant 29 °C (Fig. 1b)."
+      ]
+    },
+    {
+      "id": 45,
+      "question": "After transplantation into the common garden with lower daily temperature variability, did transplants from parents with higher heat tolerance retain greater resistance to bleaching during the 2015 and 2017 events, and by how much compared to transplants from low-heat-tolerance parents?",
+      "answer": "Yes. Even after 8 mo of common garden growth, transplants from parents with higher heat tolerance bleached two- to threefold less during the 2015 and 2017 bleaching events than did transplants from parents originally with low heat tolerance; parent and transplant bleaching was highly correlated across genotypes.",
+      "source_json": "synthetic_ground_truth/papers/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals.json",
+      "source_markdown": "output/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals/morikawa-palumbi-2019-using-naturally-occurring-climate-resilient-corals.md",
+      "source_record_id": "97bc87eeba6bc3c40d4f5906",
+      "section_heading": "Discussion",
+      "evidence": [
+        "Even after 8 mo of common garden growth, transplants from parents with higher heat tolerance bleached two- to threefold less during the 2015 and 2017 bleaching events than did transplants from parents originally with low heat tolerance.",
+        "In addition, we monitored bleaching in the original parents on their native reefs in 2015 and show that parent and transplant bleaching was highly correlated across genotypes."
+      ]
+    }
+  ],
+  "most_unique_questions": [
+    {
+      "rank": 1,
+      "pair_id": 2,
+      "question": "How many giant clams were recorded in the survey of the lagoon terrace on the southwest arm, and how many of these had died recently?"
+    },
+    {
+      "rank": 2,
+      "pair_id": 5,
+      "question": "Which coral species showed environmental but not genetic effects on skeletal growth in the reciprocal transplant experiments, and how did its growth differ between Pool 300 and Pool 400?"
+    },
+    {
+      "rank": 3,
+      "pair_id": 6,
+      "question": "According to the Discussion, what is the main reason corals remain scarce on the extensive inner reef flat rubble zone at Aua?"
+    },
+    {
+      "rank": 4,
+      "pair_id": 8,
+      "question": "Which coral species appears to have disappeared from Fagatele Bay National Marine Sanctuary (FBNMS), with its decline starting around 2002?"
+    },
+    {
+      "rank": 5,
+      "pair_id": 11,
+      "question": "How did the mean density and size structure of giant clams on the lagoon pinnacles at Rose Atoll change between 1994/95 and 2018?"
+    },
+    {
+      "rank": 6,
+      "pair_id": 12,
+      "question": "In this study, which native pool's Porites lobata corals exhibited greater Fv/Fm values and higher tolerance limits under experimental acute heat stress, the MV (moderately variable) pool or the HV (highly variable) pool?"
+    },
+    {
+      "rank": 7,
+      "pair_id": 15,
+      "question": "What was the terrigenous fraction of benthic sediments on the northern reef flat compared to the southern reef flat?"
+    },
+    {
+      "rank": 8,
+      "pair_id": 18,
+      "question": "What were the six-month survival percentages for Bruguiera gymnorrhiza and Rhizophora mangle saplings in the Nu'uuli restoration project?"
+    },
+    {
+      "rank": 9,
+      "pair_id": 24,
+      "question": "What cement mix was used for reattachment of corals?"
+    },
+    {
+      "rank": 10,
+      "pair_id": 27,
+      "question": "What percentage of interviewees perceived overfishing to be a problem for reef fish populations in American Samoa?"
+    },
+    {
+      "rank": 11,
+      "pair_id": 28,
+      "question": "Which giant clam species was identified in the Samoan Archipelago using morphologic characteristics and ezRAD genetic techniques?"
+    },
+    {
+      "rank": 12,
+      "pair_id": 31,
+      "question": "At what time after sunset and on which night after the full moon was *Acropora formosa* observed spawning at Faga'alu?"
+    },
+    {
+      "rank": 13,
+      "pair_id": 33,
+      "question": "According to section 4.2, what is the primary source of DIC in the Tafuna–Leone Plain groundwater and how does that DIC affect uranium mobility?"
+    },
+    {
+      "rank": 14,
+      "pair_id": 34,
+      "question": "How many times did the smaller pool reach temperatures above 33C during the 8-year record, and how many times did the larger pool do so?"
+    },
+    {
+      "rank": 15,
+      "pair_id": 39,
+      "question": "Which specific villages or areas did the DIN-loading model identify as hotspots on Tutuila?"
+    },
+    {
+      "rank": 16,
+      "pair_id": 40,
+      "question": "According to ERSST, how did the conventional ENSO null zone shift in the vicinity of Ta'u between the early and late twentieth century?"
+    },
+    {
+      "rank": 17,
+      "pair_id": 42,
+      "question": "What maximum relative abundances of Diplosoma similis were recorded at two sites within the major center of occurrence around Swains Island during the March 2008 surveys?"
+    },
+    {
+      "rank": 18,
+      "pair_id": 43,
+      "question": "How many A. planci were counted between Papalao Point and Ogefao Village?"
+    }
+  ]
+}

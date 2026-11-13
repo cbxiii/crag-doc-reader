@@ -122,3 +122,43 @@ python generate_ground_truth.py
 The default run resumes by skipping only complete papers whose source hash still matches. Use `--force` to regenerate saved papers. Partial results and changed sources are regenerated automatically. Change the model with `--model openai:gpt-5.2`; `--max-sections-per-paper`, `--min-section-words`, `--max-retries`, and `--limit` tune the work.
 
 Per-paper artifacts mirror Markdown paths under `synthetic_ground_truth/papers/` and include schema version, source SHA-256, completion status, selected-section counts, records, and failures. `dataset.jsonl` holds successful records sorted by source path and line number; `failures.jsonl` contains failed section or paper work. Successful records include deterministic ID, paper and source paths, section heading and one-based source line range, model, question, answer, and exact evidence chunks. Outputs are rebuilt from per-paper artifacts so resumed runs do not append duplicates.
+
+## Retrieval evaluation
+
+Run against an existing FAISS store, using the same local Ollama embedding model
+used to build it. No answer model is initialized:
+
+```bash
+python evaluate_retrieval.py --store-dir /path/to/crag-vectorstore --k 1 3 5 10 --limit 10
+```
+
+The default input is `synthetic_ground_truth/dataset.jsonl`. `--corpus-root`
+resolves relative source paths (default: working directory); metadata containing
+absolute paths from another machine must first be made consistent with that root.
+The evaluator never modifies the store. Each run creates a timestamped directory
+under `evaluation_results/` with retrieved text and evidence diagnostics in
+`results.jsonl`, macro averages and denominators in `summary.json`, and tabular
+scores in `metrics.csv`. Retrieval and judge errors produce an incomplete run and
+nonzero exit status; failed scores are excluded rather than counted as zero.
+
+Hit rate, evidence precision, and evidence recall use complete, case-sensitive
+same-source excerpt matches after Unicode NFC and whitespace normalization.
+Precision divides by requested K even when fewer chunks are returned. Recall
+counts distinct labeled excerpts, not every fact needed to answer. Excerpts split
+across chunks count as unmatched; `unmatchable_evidence` identifies excerpts not
+contained in any indexed chunk. These conservative labels do not exhaust all
+semantically relevant context.
+
+Optional semantic evaluation requires `pip install -r requirements-evaluation.txt`
+and `OPENAI_API_KEY` in the environment:
+
+```bash
+python evaluate_retrieval.py --store-dir /path/to/crag-vectorstore --limit 2 --judge --judge-model gpt-4o-mini
+```
+
+RAGAS evaluates existing reference answers, never generated candidate answers.
+Context Precision is rank-weighted; Judged Precision uses individual-context
+relevance verdicts divided by K. Context Recall estimates reference-answer fact
+coverage. Judge calls have bounded retries and timeouts. Faithfulness is deferred
+until answer generation is evaluated. The pinned optional integration requires a
+real-package smoke check before relying on judge results in a research report.
